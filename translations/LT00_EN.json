@@ -1,0 +1,7090 @@
+{
+  "_format": "BLTU",
+  "_language": "",
+  "_version": 1,
+  "_reserved": [
+    0,
+    0,
+    0
+  ],
+  "_entry_count": 1070,
+  "entries": [
+    {
+      "key": "CountryCode",
+      "values": [
+        "EN"
+      ]
+    },
+    {
+      "key": "Db_TODO",
+      "values": [
+        "###_TODO_###"
+      ]
+    },
+    {
+      "key": "Db_Error",
+      "values": [
+        "###_ERROR_###"
+      ]
+    },
+    {
+      "key": "DbPV_T_BGS",
+      "values": [
+        "BG:Ctrl"
+      ]
+    },
+    {
+      "key": "DbPV_T_BGL",
+      "values": [
+        "BG:Blightness Change"
+      ]
+    },
+    {
+      "key": "DbPV_T_BGC",
+      "values": [
+        "BG:Color Change"
+      ]
+    },
+    {
+      "key": "DbPV_T_MCT",
+      "values": [
+        "Mode Change:sort Title"
+      ]
+    },
+    {
+      "key": "DbPV_T_MCD",
+      "values": [
+        "Mode Change:sort Data"
+      ]
+    },
+    {
+      "key": "DbPV_T_INS",
+      "values": [
+        "Information:On/Off"
+      ]
+    },
+    {
+      "key": "DbPV_S_YES",
+      "values": [
+        "  Yes"
+      ]
+    },
+    {
+      "key": "DbPV_S_NON",
+      "values": [
+        "X:No"
+      ]
+    },
+    {
+      "key": "DbPV_S_END",
+      "values": [
+        "Exit this scene?"
+      ]
+    },
+    {
+      "key": "DbPV_S_FCH",
+      "values": [
+        "Face change"
+      ]
+    },
+    {
+      "key": "MFNSp_Fa",
+      "values": [
+        " "
+      ]
+    },
+    {
+      "key": "Com_Inf",
+      "values": [
+        "∞"
+      ]
+    },
+    {
+      "key": "Com_Remove",
+      "values": [
+        "Remove"
+      ]
+    },
+    {
+      "key": "Com_Bar2",
+      "values": [
+        " - - "
+      ]
+    },
+    {
+      "key": "Com_Bar1",
+      "values": [
+        " - "
+      ]
+    },
+    {
+      "key": "Com_Q2",
+      "values": [
+        " ? ? "
+      ]
+    },
+    {
+      "key": "Com_Q1",
+      "values": [
+        " ? "
+      ]
+    },
+    {
+      "key": "WeaponReason_Pilot",
+      "values": [
+        "‧Pilot"
+      ]
+    },
+    {
+      "key": "VParts_001_DEFAULT",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "VParts_002_BWS",
+      "values": [
+        "BWS"
+      ]
+    },
+    {
+      "key": "VParts_003_DEFAULT",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "VParts_004_FLAPART",
+      "values": [
+        "Full Armor Parts"
+      ]
+    },
+    {
+      "key": "VParts_007_DEFAULT",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "VParts_008_FLARMOR",
+      "values": [
+        "Full Gear"
+      ]
+    },
+    {
+      "key": "VParts_009_DEFAULT",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "VParts_010_FLARMOR",
+      "values": [
+        "Full Gear"
+      ]
+    },
+    {
+      "key": "VParts_011_DEFAULT",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "VParts_012_FLARMOR",
+      "values": [
+        "Full Gear"
+      ]
+    },
+    {
+      "key": "VParts_013_DEFAULT",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "VParts_014_FLARMOR",
+      "values": [
+        "Full Gear"
+      ]
+    },
+    {
+      "key": "VParts_015_DEFAULT",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "VParts_016_UGCYBSTER",
+      "values": [
+        "Emergency Booster"
+      ]
+    },
+    {
+      "key": "TACCustomize_1A_Name",
+      "values": [
+        "SP Boost"
+      ]
+    },
+    {
+      "key": "TACCustomize_1B_Name",
+      "values": [
+        "Repair Boost"
+      ]
+    },
+    {
+      "key": "TACCustomize_1C_Name",
+      "values": [
+        "Force Boost"
+      ]
+    },
+    {
+      "key": "TACCustomize_2A_Name",
+      "values": [
+        "Bounty Hunter"
+      ]
+    },
+    {
+      "key": "TACCustomize_2B_Name",
+      "values": [
+        "TAC Point Bonus"
+      ]
+    },
+    {
+      "key": "TACCustomize_2C_Name",
+      "values": [
+        "Reverse Engineer"
+      ]
+    },
+    {
+      "key": "TACCustomize_3A_Name",
+      "values": [
+        "Force Burst"
+      ]
+    },
+    {
+      "key": "TACCustomize_3B_Name",
+      "values": [
+        "Critical Boost"
+      ]
+    },
+    {
+      "key": "TACCustomize_3C_Name",
+      "values": [
+        "Acceleration Boost"
+      ]
+    },
+    {
+      "key": "TACCustomize_4A_Name",
+      "values": [
+        "SP Burst"
+      ]
+    },
+    {
+      "key": "TACCustomize_4B_Name",
+      "values": [
+        "High Spirits"
+      ]
+    },
+    {
+      "key": "TACCustomize_4C_Name",
+      "values": [
+        "Excessive Force"
+      ]
+    },
+    {
+      "key": "TACCustomize_1A_Text",
+      "values": [
+        "Increases the amount of SP recovered at",
+        "the start of the ally phase each turn",
+        "from 5 to 8."
+      ]
+    },
+    {
+      "key": "TACCustomize_1B_Text",
+      "values": [
+        "Recover 10% of maximum HP and EN at the",
+        "start of the ally phase each turn.",
+        "Adds to abilities that recover HP and EN."
+      ]
+    },
+    {
+      "key": "TACCustomize_1C_Text",
+      "values": [
+        "All ally pilots gain 2 Focus at the",
+        "start of the ally phase each turn."
+      ]
+    },
+    {
+      "key": "TACCustomize_2A_Text",
+      "values": [
+        "Receive 5% of the total damage dealt",
+        "to enemies by allies as money when the",
+        "map is cleared."
+      ]
+    },
+    {
+      "key": "TACCustomize_2B_Text",
+      "values": [
+        "Once the map is cleared, receive 10 times",
+        "the no. of downed enemies in TAC points."
+      ]
+    },
+    {
+      "key": "TACCustomize_2C_Text",
+      "values": [
+        "Receive 2.5% of the total damage dealt",
+        "to enemies by allies as money, and 5 times",
+        "the no. of downed enemies in TAC points."
+      ]
+    },
+    {
+      "key": "TACCustomize_3A_Text",
+      "values": [
+        "Maximum Focus + 10 for any pilot who",
+        "reaches an ExC of 3. Effect will last until",
+        "map's cleared even when ExC goes down."
+      ]
+    },
+    {
+      "key": "TACCustomize_3B_Text",
+      "values": [
+        "Any pilot with an ExC of 3 who lands a",
+        "critical hit deals 1.4x dmg. Effect'll last until",
+        " map is cleared even when ExC goes down."
+      ]
+    },
+    {
+      "key": "TACCustomize_3C_Text",
+      "values": [
+        "Movement + 1 for any unit who",
+        "reaches an ExC of 3. Effect will last until",
+        "map is cleared even when ExC goes down."
+      ]
+    },
+    {
+      "key": "TACCustomize_4A_Text",
+      "values": [
+        "All ally pilots receive 20 SP when",
+        "sortied."
+      ]
+    },
+    {
+      "key": "TACCustomize_4B_Text",
+      "values": [
+        "All ally pilots receive 1 Extra Count",
+        "when sortied."
+      ]
+    },
+    {
+      "key": "TACCustomize_4C_Text",
+      "values": [
+        "All ally pilots receive 10 Focus when",
+        "attacking."
+      ]
+    },
+    {
+      "key": "TACCustomize_1A_Help",
+      "values": [
+        "Increases the amount of SP recovered at",
+        "the start of the ally phase each turn",
+        "from 5 to 8."
+      ]
+    },
+    {
+      "key": "TACCustomize_1B_Help",
+      "values": [
+        "Recover 10% of maximum HP and EN at the start of the ally phase each turn.",
+        "Stacks with abilities that recover HP and EN."
+      ]
+    },
+    {
+      "key": "TACCustomize_1C_Help",
+      "values": [
+        "All ally pilots gain 2 Focus at the start of the ally phase each turn."
+      ]
+    },
+    {
+      "key": "TACCustomize_2A_Help",
+      "values": [
+        "Receive 5% of the total damage dealt to enemies by allies as money when the",
+        "map is cleared."
+      ]
+    },
+    {
+      "key": "TACCustomize_2B_Help",
+      "values": [
+        "Once the map is cleared, receive 10 times the number of downed enemies",
+        "in TAC points."
+      ]
+    },
+    {
+      "key": "TACCustomize_2C_Help",
+      "values": [
+        "Receive 2.5% of the total damage dealt to enemies by allies as money, and",
+        "5 times the number of downed enemies in TAC points."
+      ]
+    },
+    {
+      "key": "TACCustomize_3A_Help",
+      "values": [
+        "Any pilot who reaches an ExC of 3 has their maximum Focus increased by 10.",
+        "Effect will last until map is cleared even when ExC goes down."
+      ]
+    },
+    {
+      "key": "TACCustomize_3B_Help",
+      "values": [
+        "Any pilot with an ExC of 3 who lands a critical hit deals 1.4x damage.",
+        "Effect will last until map is cleared even when ExC goes down."
+      ]
+    },
+    {
+      "key": "TACCustomize_3C_Help",
+      "values": [
+        "Any unit with an ExC of 3 has their Movement increased by 1.",
+        "Effect will last until map is cleared even when ExC goes down."
+      ]
+    },
+    {
+      "key": "TACCustomize_4A_Help",
+      "values": [
+        "All ally pilots receive 20 SP when sortied."
+      ]
+    },
+    {
+      "key": "TACCustomize_4B_Help",
+      "values": [
+        "All allied pilots receive 1 Extra Count when sortied."
+      ]
+    },
+    {
+      "key": "TACCustomize_4C_Help",
+      "values": [
+        "All ally pilots receive 10 Focus when sortied."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_IRON1",
+      "values": [
+        "Iron Emblem"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_IRON2",
+      "values": [
+        "Train 15 Ace Pilots."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_BRONZE1",
+      "values": [
+        "Bronze Emblem"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_BRONZE2",
+      "values": [
+        "Destroy a total of 100 or more enemies."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_SILVER1",
+      "values": [
+        "Silver Emblem"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_SILVER2",
+      "values": [
+        "Acquire a total of 28,000 or more Tac Pts."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_GOLD1",
+      "values": [
+        "Gold Emblem"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_GOLD2",
+      "values": [
+        "Earn a total of 12,000,000 or more money."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_PLATINUM1",
+      "values": [
+        "Platinum Emblem"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_PLATINUM2",
+      "values": [
+        "Gained at least 50 SR points."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_IRON3",
+      "values": [
+        "Iron Emblem: Train 15 Ace Pilots."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_IRON4",
+      "values": [
+        "Increases EXP by 100% in battle. Spirit command Gain can be stacked."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_BRONZE3",
+      "values": [
+        "Bronze Emblem: Destroy a total of 100 or more enemies."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_BRONZE4",
+      "values": [
+        "Main pilot's SP recovers 15 each turn."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_SILVER3",
+      "values": [
+        "Silver Emblem: Acquire a total of 28,000 or more Tac Pts."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_SILVER4",
+      "values": [
+        "Increases Tac Pts by 100% for enemy defeats. Power parts cannot be stacked."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_GOLD3",
+      "values": [
+        "Gold Emblem: Earn a total of 12,000,000 or more money."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_GOLD4",
+      "values": [
+        "Money gain +100% for enemy defeat. Spirit command Fortune stackable."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_PLATINUM3",
+      "values": [
+        "Platinum Emblem: Gained at least 50 SR points."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_PLATINUM4",
+      "values": [
+        "Each unit's number of action increases by 1."
+      ]
+    },
+    {
+      "key": "WeaponType_CCW",
+      "values": [
+        "Cqb Weapon"
+      ]
+    },
+    {
+      "key": "WeaponType_RW",
+      "values": [
+        "Rng"
+      ]
+    },
+    {
+      "key": "WeaponType_Song",
+      "values": [
+        "Song"
+      ]
+    },
+    {
+      "key": "WeaponType_Combi",
+      "values": [
+        "Combined Attack"
+      ]
+    },
+    {
+      "key": "WeaponType_Map",
+      "values": [
+        "Map Weapon"
+      ]
+    },
+    {
+      "key": "WeaponType_All",
+      "values": [
+        "All Attack"
+      ]
+    },
+    {
+      "key": "WeaponType_Solo",
+      "values": [
+        "Single Attack"
+      ]
+    },
+    {
+      "key": "WeaponType_Counter",
+      "values": [
+        "Counter Weapon"
+      ]
+    },
+    {
+      "key": "WeaponType_Gravity",
+      "values": [
+        "Gravity Weapon"
+      ]
+    },
+    {
+      "key": "WeaponType_Beam",
+      "values": [
+        "Beam Weapon"
+      ]
+    },
+    {
+      "key": "WeaponType_Move",
+      "values": [
+        "Move & Fire"
+      ]
+    },
+    {
+      "key": "WeaponType_Special",
+      "values": [
+        "Special Weapon"
+      ]
+    },
+    {
+      "key": "MapWepType_SelectOff",
+      "values": [
+        "Yes"
+      ]
+    },
+    {
+      "key": "MapWepType_SelectOn",
+      "values": [
+        "No"
+      ]
+    },
+    {
+      "key": "MapWepType_Circle",
+      "values": [
+        "Own unit center"
+      ]
+    },
+    {
+      "key": "MapWepType_Impact",
+      "values": [
+        "Select Impact Site"
+      ]
+    },
+    {
+      "key": "MapWepType_Direction",
+      "values": [
+        "Specify Direction"
+      ]
+    },
+    {
+      "key": "SpTarget_Self",
+      "values": [
+        "Self"
+      ]
+    },
+    {
+      "key": "SpTarget_Ally",
+      "values": [
+        "Ally"
+      ]
+    },
+    {
+      "key": "SpTarget_Enemy",
+      "values": [
+        "Enemy"
+      ]
+    },
+    {
+      "key": "SpTarget_Team",
+      "values": [
+        " - - "
+      ]
+    },
+    {
+      "key": "SpRange_Single",
+      "values": [
+        "Single"
+      ]
+    },
+    {
+      "key": "SpRange_Around",
+      "values": [
+        "Nearby"
+      ]
+    },
+    {
+      "key": "SpRange_All",
+      "values": [
+        "All"
+      ]
+    },
+    {
+      "key": "SpRange_Team",
+      "values": [
+        " - - "
+      ]
+    },
+    {
+      "key": "SpTimer_01",
+      "values": [
+        "Immediate Effect"
+      ]
+    },
+    {
+      "key": "SpTimer_02",
+      "values": [
+        "Start of Turn"
+      ]
+    },
+    {
+      "key": "SpTimer_03",
+      "values": [
+        "2 Phase"
+      ]
+    },
+    {
+      "key": "SpTimer_04",
+      "values": [
+        "Damage"
+      ]
+    },
+    {
+      "key": "SpTimer_05",
+      "values": [
+        "Move"
+      ]
+    },
+    {
+      "key": "SpTimer_06",
+      "values": [
+        "Act"
+      ]
+    },
+    {
+      "key": "SpTimer_07",
+      "values": [
+        "Battle"
+      ]
+    },
+    {
+      "key": "SpTimer_08",
+      "values": [
+        "Attack"
+      ]
+    },
+    {
+      "key": "SpTimer_09",
+      "values": [
+        "Defense"
+      ]
+    },
+    {
+      "key": "SpTimer_10",
+      "values": [
+        "Defeat"
+      ]
+    },
+    {
+      "key": "SpHelpTag_01",
+      "values": [
+        "Duration"
+      ]
+    },
+    {
+      "key": "SpHelpTag_02",
+      "values": [
+        "Target"
+      ]
+    },
+    {
+      "key": "ImFinalClear",
+      "values": [
+        "Cleared Final Scenario "
+      ]
+    },
+    {
+      "key": "ImScenarioClear",
+      "values": [
+        "Cleared Scenario %d"
+      ]
+    },
+    {
+      "key": "ImTotalTurn",
+      "values": [
+        "%d Turns"
+      ]
+    },
+    {
+      "key": "WeaponEffect_MoveAfter",
+      "values": [
+        "Move & Fire"
+      ]
+    },
+    {
+      "key": "SklGrpName_Mel",
+      "values": [
+        "CQB Up"
+      ]
+    },
+    {
+      "key": "SklGrpName_Rng",
+      "values": [
+        "RNG Up"
+      ]
+    },
+    {
+      "key": "SklGrpName_Def",
+      "values": [
+        "DEF Up"
+      ]
+    },
+    {
+      "key": "SklGrpName_Man",
+      "values": [
+        "SKL Up"
+      ]
+    },
+    {
+      "key": "SklGrpName_Evd",
+      "values": [
+        "EVN Up"
+      ]
+    },
+    {
+      "key": "SklGrpName_Hit",
+      "values": [
+        "HIT Up"
+      ]
+    },
+    {
+      "key": "SklGrpName_Air",
+      "values": [
+        "Terrain Handling Up: Air"
+      ]
+    },
+    {
+      "key": "SklGrpName_Grd",
+      "values": [
+        "Terrain Handling Up: Grd"
+      ]
+    },
+    {
+      "key": "SklGrpName_Wtr",
+      "values": [
+        "Terrain Handling Up: Wtr"
+      ]
+    },
+    {
+      "key": "SklGrpName_Spc",
+      "values": [
+        "Terrain Handling Up: Spc"
+      ]
+    },
+    {
+      "key": "SklGrpName_SupportAtk",
+      "values": [
+        "Support Attack"
+      ]
+    },
+    {
+      "key": "SklGrpName_AttackAgain",
+      "values": [
+        "Second Attack"
+      ]
+    },
+    {
+      "key": "SklGrpName_SupportMaster",
+      "values": [
+        "Enhance Attack"
+      ]
+    },
+    {
+      "key": "SklGrpName_SupportDef",
+      "values": [
+        "Support Defend"
+      ]
+    },
+    {
+      "key": "SklGrpName_FightSpr",
+      "values": [
+        "Fighter's Spirit"
+      ]
+    },
+    {
+      "key": "SklGrpName_WillUpAtk",
+      "values": [
+        "Focus+(ATK)"
+      ]
+    },
+    {
+      "key": "SklGrpName_WillUpDef",
+      "values": [
+        "Focus+(DEF)"
+      ]
+    },
+    {
+      "key": "SklGrpName_OverWill",
+      "values": [
+        "Focus Over Limit"
+      ]
+    },
+    {
+      "key": "SklGrpName_Tenacity",
+      "values": [
+        "Potential"
+      ]
+    },
+    {
+      "key": "SklGrpName_EneSave",
+      "values": [
+        "Save E"
+      ]
+    },
+    {
+      "key": "SklGrpName_AmoSave",
+      "values": [
+        "Save B"
+      ]
+    },
+    {
+      "key": "SklGrpName_Intuition",
+      "values": [
+        "Instinct"
+      ]
+    },
+    {
+      "key": "SklGrpName_Guard",
+      "values": [
+        "Guard"
+      ]
+    },
+    {
+      "key": "SklGrpName_Protection",
+      "values": [
+        "Protection"
+      ]
+    },
+    {
+      "key": "SklGrpName_SizeGapCorrect",
+      "values": [
+        "Ignore Size"
+      ]
+    },
+    {
+      "key": "SklGrpName_ProtectWill",
+      "values": [
+        "Spirit Endurance"
+      ]
+    },
+    {
+      "key": "SklGrpName_HitAndAway",
+      "values": [
+        "Hit & Run"
+      ]
+    },
+    {
+      "key": "SklGrpName_RepairSkill",
+      "values": [
+        "Repair Skill"
+      ]
+    },
+    {
+      "key": "SklGrpName_SupplySkill",
+      "values": [
+        "Resupply Skill"
+      ]
+    },
+    {
+      "key": "SklGrpName_PartsThrow",
+      "values": [
+        "Supply Parts"
+      ]
+    },
+    {
+      "key": "SklGrpName_SPUp",
+      "values": [
+        "SP Up"
+      ]
+    },
+    {
+      "key": "SklGrpName_AceProud",
+      "values": [
+        "Proud Ace"
+      ]
+    },
+    {
+      "key": "SklGrpName_Attacker",
+      "values": [
+        "Attacker"
+      ]
+    },
+    {
+      "key": "SklGrpName_Counter",
+      "values": [
+        "Full Counter"
+      ]
+    },
+    {
+      "key": "SklGrpName_Dash",
+      "values": [
+        "Dash"
+      ]
+    },
+    {
+      "key": "SklGrpName_SPRecover",
+      "values": [
+        "SP Recovery"
+      ]
+    },
+    {
+      "key": "SklGrpName_Concentration",
+      "values": [
+        "Concentration"
+      ]
+    },
+    {
+      "key": "SklGrpName_TacticalWait",
+      "values": [
+        "Standby Strategy"
+      ]
+    },
+    {
+      "key": "SklGrpName_Commander",
+      "values": [
+        "Commander"
+      ]
+    },
+    {
+      "key": "SklGrpName_LackyStar",
+      "values": [
+        "Strong Luck"
+      ]
+    },
+    {
+      "key": "SklGrpName_RebelliousSpirit",
+      "values": [
+        "Defiance"
+      ]
+    },
+    {
+      "key": "SklGrpName_Ranger",
+      "values": [
+        "Apply Terrain"
+      ]
+    },
+    {
+      "key": "SklGrpName_Newtype",
+      "values": [
+        "Newtype"
+      ]
+    },
+    {
+      "key": "SklGrpName_ArtificialNewtype",
+      "values": [
+        "Artificial Newtype"
+      ]
+    },
+    {
+      "key": "SklGrpName_SEED",
+      "values": [
+        "SEED"
+      ]
+    },
+    {
+      "key": "SklGrpName_Innovator",
+      "values": [
+        "Innovator"
+      ]
+    },
+    {
+      "key": "SklGrpName_KIWAMI",
+      "values": [
+        "The Ultimate"
+      ]
+    },
+    {
+      "key": "SklGrpName_President",
+      "values": [
+        "President"
+      ]
+    },
+    {
+      "key": "SklGrpName_Hero",
+      "values": [
+        "Hero"
+      ]
+    },
+    {
+      "key": "SklGrpName_IFS",
+      "values": [
+        "IFS"
+      ]
+    },
+    {
+      "key": "SklGrpName_CyberSprite",
+      "values": [
+        "Electron Fairy"
+      ]
+    },
+    {
+      "key": "SklGrpName_MailRider",
+      "values": [
+        "Mail Rider"
+      ]
+    },
+    {
+      "key": "SklGrpName_Admiral",
+      "values": [
+        "Captain's Order"
+      ]
+    },
+    {
+      "key": "SklGrpName_Genius",
+      "values": [
+        "Genius"
+      ]
+    },
+    {
+      "key": "SklGrpName_DoubleAction",
+      "values": [
+        "Double Action"
+      ]
+    },
+    {
+      "key": "SklGrpName_TripleAction",
+      "values": [
+        "Triple Action"
+      ]
+    },
+    {
+      "key": "SklGrpName_WillUpBonus",
+      "values": [
+        "Focus+Bonus"
+      ]
+    },
+    {
+      "key": "SklGrpName_Pressure",
+      "values": [
+        "Pressure"
+      ]
+    },
+    {
+      "key": "SklGrpName_Synchro",
+      "values": [
+        "Synchro Rate"
+      ]
+    },
+    {
+      "key": "SklGrpText_SupportAtk",
+      "values": [
+        "Attack after adjacent ally attacks. (50% of the original DMG dealt.)",
+        "Number of times to use is equivalent to skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_AttackAgain",
+      "values": [
+        "If your SKL is 30 or more higher than the opponent's,",
+        "attack again after the opponent's return attack."
+      ]
+    },
+    {
+      "key": "SklGrpText_SupportMaster",
+      "values": [
+        "Support attack will be critical hit.",
+        "Does not apply to second attacks."
+      ]
+    },
+    {
+      "key": "SklGrpText_SupportDef",
+      "values": [
+        "Take damage of an attack targeted at adjacent ally. (DMG taken is equivalent",
+        "to when applying Defend.) Number of times to use is equivalent to skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_FightSpr",
+      "values": [
+        "Raises Focus when sortied.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_WillUpAtk",
+      "values": [
+        "Gains 1 extra Focus when attacking, return attacking, and support",
+        "attacking."
+      ]
+    },
+    {
+      "key": "SklGrpText_WillUpDef",
+      "values": [
+        "Gains 1 extra Focus when taking damage,",
+        "attacking."
+      ]
+    },
+    {
+      "key": "SklGrpText_OverWill",
+      "values": [
+        "Raises the increase limit for Focus.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_Tenacity",
+      "values": [
+        "As HP decreases, Accuracy %, Evasion %, Critical %, and Defense will increase.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_EneSave",
+      "values": [
+        "Decreases EN consumption for weapons.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_AmoSave",
+      "values": [
+        "Increases amount of ammo for weapons.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_Intuition",
+      "values": [
+        "Final Accuracy %, Final Evasion %, and Critical % increase when Focus is above 130.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_Guard",
+      "values": [
+        "Amount of DMG received from opponents decreases when Focus is above 130.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_Protection",
+      "values": [
+        "When facing return attacks, Evade to add 10% Final Evasion %, Defend to",
+        "lower DMG taken by 10%. If it's a map weapon, halves the Accuracy and ",
+        "decreases damage by 40%."
+      ]
+    },
+    {
+      "key": "SklGrpText_SizeGapCorrect",
+      "values": [
+        "Reduces the damage dealt when attacking a mech larger than your own. This is",
+        "calculated by ignoring 1 size per skill level. (For level 2, opponent S size",
+        "is considered L size.)"
+      ]
+    },
+    {
+      "key": "SklGrpText_ProtectWill",
+      "values": [
+        "Ignores weapon special effects such as Status Drain, Unable to Act, Focus",
+        "Drain, and SP Drain. If your Focus is below 100, also ignores Haze."
+      ]
+    },
+    {
+      "key": "SklGrpText_HitAndAway",
+      "values": [
+        "If you attack without moving, you can move after attacking."
+      ]
+    },
+    {
+      "key": "SklGrpText_RepairSkill",
+      "values": [
+        "Adds 1 adjacent space for the available area to use command Repair.",
+        "Also increases HP recovery by 50%."
+      ]
+    },
+    {
+      "key": "SklGrpText_SupplySkill",
+      "values": [
+        "When using a unit with the special ability Resupply Device, ",
+        "you can use command Resupply after moving."
+      ]
+    },
+    {
+      "key": "SklGrpText_PartsThrow",
+      "values": [
+        "You can use consump. type power parts on adjacent allies.",
+        "Excludes power parts which can affect multiple units."
+      ]
+    },
+    {
+      "key": "SklGrpText_SPUp",
+      "values": [
+        "Maximum SP will increase by 5 for every skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_AceProud",
+      "values": [
+        "Acquire Ace Pilot status at 50 kills,",
+        "and Great Ace Pilot status at 70 kills."
+      ]
+    },
+    {
+      "key": "SklGrpText_Attacker",
+      "values": [
+        "When Focus is above 130, increases DMG dealt by 20%."
+      ]
+    },
+    {
+      "key": "SklGrpText_Counter",
+      "values": [
+        "When choosing Return Attack, you attack first."
+      ]
+    },
+    {
+      "key": "SklGrpText_Dash",
+      "values": [
+        "Adds 1 extra movement to unit."
+      ]
+    },
+    {
+      "key": "SklGrpText_SPRecover",
+      "values": [
+        "Recovers 10 SP at the start of player phase."
+      ]
+    },
+    {
+      "key": "SklGrpText_Concentration",
+      "values": [
+        "Decreases SP consumption for each spirit command.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_TacticalWait",
+      "values": [
+        "Ending player phase without any action will activate spirit commands Awakening",
+        "and Accel at the start of your player phase. Recovers 5 SP to main pilot."
+      ]
+    },
+    {
+      "key": "SklGrpText_Commander",
+      "values": [
+        "Raises Final Accuracy % and Evasion % for nearby ally units. The extent of",
+        "the effect correlates with both skill level and distance to ally units."
+      ]
+    },
+    {
+      "key": "SklGrpText_LackyStar",
+      "values": [
+        "Increases money gained by 20% when defeating enemy units."
+      ]
+    },
+    {
+      "key": "SklGrpText_RebelliousSpirit",
+      "values": [
+        "If your opponent's SKL is higher, raises DMG dealt by 10% and",
+        "lowers DMG taken by 10%. Also adds 10% to Accuracy % and Evasion %."
+      ]
+    },
+    {
+      "key": "SklGrpText_Ranger",
+      "values": [
+        "Doubles the effect on spaces with terrain effects."
+      ]
+    },
+    {
+      "key": "SklGrpText_Newtype",
+      "values": [
+        "Increases Accuracy % and Evasion %. Expands certain weapon ranges. ",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_ArtificialNewtype",
+      "values": [
+        "Increases Accuracy % and Evasion %. Expands certain weapon ranges. ",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_SEED",
+      "values": [
+        "Activated when Focus is above 130. Final Accuracy % and Final Evasion %",
+        "gain 20%, and Critical % gains 40%."
+      ]
+    },
+    {
+      "key": "SklGrpText_Innovator",
+      "values": [
+        "Activated when Focus is above 140. HIT, Evasion, and SKL gain 20.",
+        "Also recovers 5 SP at the start of player phase."
+      ]
+    },
+    {
+      "key": "SklGrpText_KIWAMI",
+      "values": [
+        "When Focus is above 130, Final Accuracy %, Evasion %, and Critical % gain 30%."
+      ]
+    },
+    {
+      "key": "SklGrpText_President",
+      "values": [
+        "Gains 50 Tac Pts when clearing a map."
+      ]
+    },
+    {
+      "key": "SklGrpText_Hero",
+      "values": [
+        "Increases Accuracy %, Evasion %, Critical %, and Armor.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklGrpText_IFS",
+      "values": [
+        "Increases HIT, EVN, and SKL as Focus rises.",
+        "The extent of the effect correlates with level of Focus."
+      ]
+    },
+    {
+      "key": "SklGrpText_CyberSprite",
+      "values": [
+        "For allies within 3 spaces, gain 5 CQB, RNG, SKL,",
+        "DEF, EVN, and HIT."
+      ]
+    },
+    {
+      "key": "SklGrpText_MailRider",
+      "values": [
+        "Increases money gained by 20% when defeating enemy units."
+      ]
+    },
+    {
+      "key": "SklGrpText_Admiral",
+      "values": [
+        "Gains 10% for special skill Commander, and if units are within the effective",
+        "range, gives each the maximum effect regardless of distance."
+      ]
+    },
+    {
+      "key": "SklGrpText_Genius",
+      "values": [
+        "Gains 20% Accuracy %, Evasion %, and Critical %."
+      ]
+    },
+    {
+      "key": "SklGrpText_DoubleAction",
+      "values": [
+        "You can act 2 times each turn."
+      ]
+    },
+    {
+      "key": "SklGrpText_TripleAction",
+      "values": [
+        "You can act 3 times each turn."
+      ]
+    },
+    {
+      "key": "SklGrpText_WillUpBonus",
+      "values": [
+        "Adds 1 extra Focus when hitting attack, evading, taking",
+        "attacking.",
+        "other Focus+ type skills."
+      ]
+    },
+    {
+      "key": "SklGrpText_Pressure",
+      "values": [
+        "Against opponents with lower SKL, raises DMG dealt and lowers",
+        "DMG taken. The effective range is skill level times 2 spaces."
+      ]
+    },
+    {
+      "key": "SklGrpText_Synchro",
+      "values": [
+        "Affects Accuracy %, Evasion %, changes in Focus, and AT field effect.",
+        "The extent of the effect correlates with Synchro Rate."
+      ]
+    },
+    {
+      "key": "SklName_SupportAtkLv1",
+      "values": [
+        "Support Attack L1"
+      ]
+    },
+    {
+      "key": "SklName_SupportAtkLv2",
+      "values": [
+        "Support Attack L2"
+      ]
+    },
+    {
+      "key": "SklName_SupportAtkLv3",
+      "values": [
+        "Support Attack L3"
+      ]
+    },
+    {
+      "key": "SklName_SupportAtkLv4",
+      "values": [
+        "Support Attack L4"
+      ]
+    },
+    {
+      "key": "SklName_AttackAgain",
+      "values": [
+        "Second Attack "
+      ]
+    },
+    {
+      "key": "SklName_SupportMaster",
+      "values": [
+        "Enhance Attack "
+      ]
+    },
+    {
+      "key": "SklName_SupportDefLv1",
+      "values": [
+        "Support Defend L1"
+      ]
+    },
+    {
+      "key": "SklName_SupportDefLv2",
+      "values": [
+        "Support Defend L2"
+      ]
+    },
+    {
+      "key": "SklName_SupportDefLv3",
+      "values": [
+        "Support Defend L3"
+      ]
+    },
+    {
+      "key": "SklName_SupportDefLv4",
+      "values": [
+        "Support Defend L4"
+      ]
+    },
+    {
+      "key": "SklName_FightSprLv1",
+      "values": [
+        "Fighter's Spirit L1"
+      ]
+    },
+    {
+      "key": "SklName_FightSprLv2",
+      "values": [
+        "Fighter's Spirit L2"
+      ]
+    },
+    {
+      "key": "SklName_FightSprLv3",
+      "values": [
+        "Fighter's Spirit L3"
+      ]
+    },
+    {
+      "key": "SklName_WillUpAtk",
+      "values": [
+        "Focus+(ATK) "
+      ]
+    },
+    {
+      "key": "SklName_WillUpDef",
+      "values": [
+        "Focus+(DEF) "
+      ]
+    },
+    {
+      "key": "SklName_OverWillLv1",
+      "values": [
+        "Focus Over Limit L1"
+      ]
+    },
+    {
+      "key": "SklName_OverWillLv2",
+      "values": [
+        "Focus Over Limit L2"
+      ]
+    },
+    {
+      "key": "SklName_OverWillLv3",
+      "values": [
+        "Focus Over Limit L3"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv1",
+      "values": [
+        "Potential L1"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv2",
+      "values": [
+        "Potential L2"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv3",
+      "values": [
+        "Potential L3"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv4",
+      "values": [
+        "Potential L4"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv5",
+      "values": [
+        "Potential L5"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv6",
+      "values": [
+        "Potential L6"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv7",
+      "values": [
+        "Potential L7"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv8",
+      "values": [
+        "Potential L8"
+      ]
+    },
+    {
+      "key": "SklName_TenacityLv9",
+      "values": [
+        "Potential L9"
+      ]
+    },
+    {
+      "key": "SklName_EneSaveLv1",
+      "values": [
+        "Save E L1"
+      ]
+    },
+    {
+      "key": "SklName_EneSaveLv2",
+      "values": [
+        "Save E L2"
+      ]
+    },
+    {
+      "key": "SklName_AmoSaveLv1",
+      "values": [
+        "Save B L1"
+      ]
+    },
+    {
+      "key": "SklName_AmoSaveLv2",
+      "values": [
+        "Save B L2"
+      ]
+    },
+    {
+      "key": "SklName_IntuitionLv1",
+      "values": [
+        "Instinct L1"
+      ]
+    },
+    {
+      "key": "SklName_IntuitionLv2",
+      "values": [
+        "Instinct L2"
+      ]
+    },
+    {
+      "key": "SklName_IntuitionLv3",
+      "values": [
+        "Instinct L3"
+      ]
+    },
+    {
+      "key": "SklName_GuardLv1",
+      "values": [
+        "Guard L1"
+      ]
+    },
+    {
+      "key": "SklName_GuardLv2",
+      "values": [
+        "Guard L2"
+      ]
+    },
+    {
+      "key": "SklName_GuardLv3",
+      "values": [
+        "Guard L3"
+      ]
+    },
+    {
+      "key": "SklName_Protection",
+      "values": [
+        "Protection "
+      ]
+    },
+    {
+      "key": "SklName_SizeGapCorrectLv1",
+      "values": [
+        "Ignore Size L1"
+      ]
+    },
+    {
+      "key": "SklName_SizeGapCorrectLv2",
+      "values": [
+        "Ignore Size L2"
+      ]
+    },
+    {
+      "key": "SklName_SizeGapCorrectLv3",
+      "values": [
+        "Ignore Size L3"
+      ]
+    },
+    {
+      "key": "SklName_SizeGapCorrectLv4",
+      "values": [
+        "Ignore Size L4"
+      ]
+    },
+    {
+      "key": "SklName_ProtectWill",
+      "values": [
+        "Spirit Endurance "
+      ]
+    },
+    {
+      "key": "SklName_HitAndAway",
+      "values": [
+        "Hit & Run "
+      ]
+    },
+    {
+      "key": "SklName_RepairSkill",
+      "values": [
+        "Repair Skill "
+      ]
+    },
+    {
+      "key": "SklName_SupplySkill",
+      "values": [
+        "Resupply Skill "
+      ]
+    },
+    {
+      "key": "SklName_PartsThrow",
+      "values": [
+        "Supply Parts "
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv1",
+      "values": [
+        "SP Up L1"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv2",
+      "values": [
+        "SP Up L2"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv3",
+      "values": [
+        "SP Up L3"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv4",
+      "values": [
+        "SP Up L4"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv5",
+      "values": [
+        "SP Up L5"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv6",
+      "values": [
+        "SP Up L6"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv7",
+      "values": [
+        "SP Up L7"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv8",
+      "values": [
+        "SP Up L8"
+      ]
+    },
+    {
+      "key": "SklName_SPUpLv9",
+      "values": [
+        "SP Up L9"
+      ]
+    },
+    {
+      "key": "SklName_AceProud",
+      "values": [
+        "Proud Ace "
+      ]
+    },
+    {
+      "key": "SklName_Attacker",
+      "values": [
+        "Attacker "
+      ]
+    },
+    {
+      "key": "SklName_Counter",
+      "values": [
+        "Full Counter "
+      ]
+    },
+    {
+      "key": "SklName_Dash",
+      "values": [
+        "Dash "
+      ]
+    },
+    {
+      "key": "SklName_SPRecover",
+      "values": [
+        "SP Recovery "
+      ]
+    },
+    {
+      "key": "SklName_ConcentrationLv1",
+      "values": [
+        "Concentration L1"
+      ]
+    },
+    {
+      "key": "SklName_ConcentrationLv2",
+      "values": [
+        "Concentration L2"
+      ]
+    },
+    {
+      "key": "SklName_ConcentrationLv3",
+      "values": [
+        "Concentration L3"
+      ]
+    },
+    {
+      "key": "SklName_TacticalWait",
+      "values": [
+        "Standby Strategy "
+      ]
+    },
+    {
+      "key": "SklName_CommanderLv1",
+      "values": [
+        "Commander L1"
+      ]
+    },
+    {
+      "key": "SklName_CommanderLv2",
+      "values": [
+        "Commander L2"
+      ]
+    },
+    {
+      "key": "SklName_CommanderLv3",
+      "values": [
+        "Commander L3"
+      ]
+    },
+    {
+      "key": "SklName_CommanderLv4",
+      "values": [
+        "Commander L4"
+      ]
+    },
+    {
+      "key": "SklName_LackyStar",
+      "values": [
+        "Strong Luck "
+      ]
+    },
+    {
+      "key": "SklName_RebelliousSpirit",
+      "values": [
+        "Defiance "
+      ]
+    },
+    {
+      "key": "SklName_Ranger",
+      "values": [
+        "Apply Terrain "
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv1",
+      "values": [
+        "Newtype L1"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv2",
+      "values": [
+        "Newtype L2"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv3",
+      "values": [
+        "Newtype L3"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv4",
+      "values": [
+        "Newtype L4"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv5",
+      "values": [
+        "Newtype L5"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv6",
+      "values": [
+        "Newtype L6"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv7",
+      "values": [
+        "Newtype L7"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv8",
+      "values": [
+        "Newtype L8"
+      ]
+    },
+    {
+      "key": "SklName_NewtypeLv9",
+      "values": [
+        "Newtype L9"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv1",
+      "values": [
+        "Artificial Newtype L1"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv2",
+      "values": [
+        "Artificial Newtype L2"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv3",
+      "values": [
+        "Artificial Newtype L3"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv4",
+      "values": [
+        "Artificial Newtype L4"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv5",
+      "values": [
+        "Artificial Newtype L5"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv6",
+      "values": [
+        "Artificial Newtype L6"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv7",
+      "values": [
+        "Artificial Newtype L7"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv8",
+      "values": [
+        "Artificial Newtype L8"
+      ]
+    },
+    {
+      "key": "SklName_ArtificialNewtypeLv9",
+      "values": [
+        "Artificial Newtype L9"
+      ]
+    },
+    {
+      "key": "SklName_SEED",
+      "values": [
+        "SEED "
+      ]
+    },
+    {
+      "key": "SklName_Innovator",
+      "values": [
+        "Innovator "
+      ]
+    },
+    {
+      "key": "SklName_KIWAMI",
+      "values": [
+        "The Ultimate "
+      ]
+    },
+    {
+      "key": "SklName_President",
+      "values": [
+        "President "
+      ]
+    },
+    {
+      "key": "SklName_HeroLv1",
+      "values": [
+        "Hero L1"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv2",
+      "values": [
+        "Hero L2"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv3",
+      "values": [
+        "Hero L3"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv4",
+      "values": [
+        "Hero L4"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv5",
+      "values": [
+        "Hero L5"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv6",
+      "values": [
+        "Hero L6"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv7",
+      "values": [
+        "Hero L7"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv8",
+      "values": [
+        "Hero L8"
+      ]
+    },
+    {
+      "key": "SklName_HeroLv9",
+      "values": [
+        "Hero L9"
+      ]
+    },
+    {
+      "key": "SklName_IFS",
+      "values": [
+        "IFS "
+      ]
+    },
+    {
+      "key": "SklName_CyberSprite",
+      "values": [
+        "Electron Fairy "
+      ]
+    },
+    {
+      "key": "SklName_MailRider",
+      "values": [
+        "Mail Rider "
+      ]
+    },
+    {
+      "key": "SklName_Admiral",
+      "values": [
+        "Captain's Order "
+      ]
+    },
+    {
+      "key": "SklName_Genius",
+      "values": [
+        "Genius "
+      ]
+    },
+    {
+      "key": "SklName_DoubleAction",
+      "values": [
+        "Double Action "
+      ]
+    },
+    {
+      "key": "SklName_TripleAction",
+      "values": [
+        "Triple Action "
+      ]
+    },
+    {
+      "key": "SklName_WillUpBonus",
+      "values": [
+        "Focus+Bonus "
+      ]
+    },
+    {
+      "key": "SklName_PressureLv1",
+      "values": [
+        "Pressure L1"
+      ]
+    },
+    {
+      "key": "SklName_PressureLv2",
+      "values": [
+        "Pressure L2"
+      ]
+    },
+    {
+      "key": "SklName_PressureLv3",
+      "values": [
+        "Pressure L3"
+      ]
+    },
+    {
+      "key": "SklName_PressureLv4",
+      "values": [
+        "Pressure L4"
+      ]
+    },
+    {
+      "key": "SklName_Synchro",
+      "values": [
+        "Synchro Rate"
+      ]
+    },
+    {
+      "key": "SklText_SupportAtk",
+      "values": [
+        "Attack after adjacent ally attacks. (50% of the original DMG dealt.)",
+        "Number of times to use is equivalent to skill level."
+      ]
+    },
+    {
+      "key": "SklText_AttackAgain",
+      "values": [
+        "If your SKL is 30 higher than the opponent's,",
+        "attack again after the opponent's return attack."
+      ]
+    },
+    {
+      "key": "SklText_SupportMaster",
+      "values": [
+        "Support attack will be critical hit.",
+        "Does not apply to second attacks."
+      ]
+    },
+    {
+      "key": "SklText_SupportDef",
+      "values": [
+        "Take damage of an attack targeted at adjacent ally. (DMG taken is equivalent",
+        "to when applying Defend.) Number of times to use is equivalent to skill level."
+      ]
+    },
+    {
+      "key": "SklText_FightSprLv1",
+      "values": [
+        "Raises Focus by 2 when sortied."
+      ]
+    },
+    {
+      "key": "SklText_FightSprLv2",
+      "values": [
+        "Raises Focus by 5 when sortied."
+      ]
+    },
+    {
+      "key": "SklText_FightSprLv3",
+      "values": [
+        "Raises Focus by 10 when sortied."
+      ]
+    },
+    {
+      "key": "SklText_WillUpAtk",
+      "values": [
+        "Gains 1 extra Focus when attacking, return attacking, and support",
+        "attacking."
+      ]
+    },
+    {
+      "key": "SklText_WillUpDef",
+      "values": [
+        "Gains 1 extra Focus when taking damage,",
+        "attacking."
+      ]
+    },
+    {
+      "key": "SklText_OverWillLv1",
+      "values": [
+        "Raises the increase limit by 5 for Focus."
+      ]
+    },
+    {
+      "key": "SklText_OverWillLv2",
+      "values": [
+        "Raises the increase limit by 10 for Focus."
+      ]
+    },
+    {
+      "key": "SklText_OverWillLv3",
+      "values": [
+        "Raises the increase limit by 20 for Focus."
+      ]
+    },
+    {
+      "key": "SklText_Tenacity",
+      "values": [
+        "As HP decreases, Accuracy %, Evasion %, Critical %, and Defense will",
+        "increase. The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklText_EneSaveLv1",
+      "values": [
+        "EN consumption for weapons will be 90% of the original."
+      ]
+    },
+    {
+      "key": "SklText_EneSaveLv2",
+      "values": [
+        "EN consumption for weapons will be 80% of the original."
+      ]
+    },
+    {
+      "key": "SklText_AmoSaveLv1",
+      "values": [
+        "Increases amount of ammo by 20%. (Round to the nearest whole number.)"
+      ]
+    },
+    {
+      "key": "SklText_AmoSaveLv2",
+      "values": [
+        "Increases amount of ammo by 50%. (Round to the nearest whole number.)"
+      ]
+    },
+    {
+      "key": "SklText_IntuitionLv1",
+      "values": [
+        "When Focus is above 130, raises Final Accuracy, Final Evasion, and Critical by 5%."
+      ]
+    },
+    {
+      "key": "SklText_IntuitionLv2",
+      "values": [
+        "When Focus is above 130, raises Final Accuracy, Final Evasion, and Critical by 10%."
+      ]
+    },
+    {
+      "key": "SklText_IntuitionLv3",
+      "values": [
+        "When Focus is above 130, raises Final Accuracy, Final Evasion, and Critical by 15%."
+      ]
+    },
+    {
+      "key": "SklText_GuardLv1",
+      "values": [
+        "When Focus is above 130, damage received from opponents decreases 10%."
+      ]
+    },
+    {
+      "key": "SklText_GuardLv2",
+      "values": [
+        "When Focus is above 130, damage received from opponents decreases 15%."
+      ]
+    },
+    {
+      "key": "SklText_GuardLv3",
+      "values": [
+        "When Focus is above 130, damage received from opponents decreases 20%."
+      ]
+    },
+    {
+      "key": "SklText_Protection",
+      "values": [
+        "When facing return attacks, Evade to add 10% Final Evasion %, Defend to",
+        "lower DMG taken by 10%. If it's a map weapon, halves the Accuracy and",
+        "decreases damage by 40%."
+      ]
+    },
+    {
+      "key": "SklText_SizeGapCorrect",
+      "values": [
+        "Reduces the damage dealt when attacking a mech larger than your own. This is",
+        "calculated by ignoring 1 size per skill level. (For level 2, opponent S size",
+        "is considered L size.)"
+      ]
+    },
+    {
+      "key": "SklText_ProtectWill",
+      "values": [
+        "Ignores weapon special effects such as Status Drain, Unable to Act, Focus",
+        "Drain, and SP Drain. If your Focus is below 100, also ignores Haze."
+      ]
+    },
+    {
+      "key": "SklText_HitAndAway",
+      "values": [
+        "If you attack without moving, you can move after attacking."
+      ]
+    },
+    {
+      "key": "SklText_RepairSkill",
+      "values": [
+        "Adds 1 adjacent space for the available area to use",
+        "command Repair. Also increases HP recovery by 50%."
+      ]
+    },
+    {
+      "key": "SklText_SupplySkill",
+      "values": [
+        "When using a unit with the special ability Resupply Device, ",
+        "you can use command Resupply after moving."
+      ]
+    },
+    {
+      "key": "SklText_PartsThrow",
+      "values": [
+        "You can use consump. type power parts on adjacent allies.",
+        "Excludes power parts which can affect multiple units."
+      ]
+    },
+    {
+      "key": "SklText_SPUp",
+      "values": [
+        "Maximum SP will increase by 5 for every skill level."
+      ]
+    },
+    {
+      "key": "SklText_AceProud",
+      "values": [
+        "Acquire Ace Pilot status at 50 kills,",
+        "and Great Ace Pilot status at 70 kills."
+      ]
+    },
+    {
+      "key": "SklText_Attacker",
+      "values": [
+        "When Focus is above 130, increases DMG dealt by 20%."
+      ]
+    },
+    {
+      "key": "SklText_Counter",
+      "values": [
+        "When choosing Return Attack, you attack first."
+      ]
+    },
+    {
+      "key": "SklText_Dash",
+      "values": [
+        "Adds 1 extra movement to unit."
+      ]
+    },
+    {
+      "key": "SklText_SPRecover",
+      "values": [
+        "Recovers 10 SP at the start of player phase."
+      ]
+    },
+    {
+      "key": "SklText_ConcentrationLv1",
+      "values": [
+        "Decreases SP consumption by 5% for each spirit command."
+      ]
+    },
+    {
+      "key": "SklText_ConcentrationLv2",
+      "values": [
+        "Decreases SP consumption by 10% for each spirit command."
+      ]
+    },
+    {
+      "key": "SklText_ConcentrationLv3",
+      "values": [
+        "Decreases SP consumption by 20% for each spirit command."
+      ]
+    },
+    {
+      "key": "SklText_TacticalWait",
+      "values": [
+        "Ending player phase without any action will activate spirit commands Awakening",
+        "and Accel at the start of your ally phase. Recovers 5 SP to main pilot."
+      ]
+    },
+    {
+      "key": "SklText_Commander",
+      "values": [
+        "Raises Final Accuracy % and Final Evasion % for nearby ally units. The extent of",
+        "the effect correlates with both skill level and distance to ally units."
+      ]
+    },
+    {
+      "key": "SklText_LackyStar",
+      "values": [
+        "Increases money gained by 20% when defeating enemy units."
+      ]
+    },
+    {
+      "key": "SklText_RebelliousSpirit",
+      "values": [
+        "If your opponent's SKL is higher, raises DMG dealt by 10% and",
+        "lowers DMG taken by 10%. Also adds 10% to Accuracy % and Evasion %."
+      ]
+    },
+    {
+      "key": "SklText_Ranger",
+      "values": [
+        "Doubles the effect on spaces with terrain effects."
+      ]
+    },
+    {
+      "key": "SklText_Newtype",
+      "values": [
+        "Increases Accuracy % and Evasion %. Expands certain weapon ranges.",
+        "increase. The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklText_ArtificialNewtype",
+      "values": [
+        "Increases Accuracy % and Evasion %. Expands certain weapon ranges.",
+        "increase. The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklText_SEED",
+      "values": [
+        "Activated when Focus is above 130. Final Accuracy % and Final Evasion %",
+        "gain 20%, and Critical % gains 40%."
+      ]
+    },
+    {
+      "key": "SklText_Innovator",
+      "values": [
+        "Activated when Focus is above 140. HIT, Evasion, and SKL gain 20.",
+        "Also recovers 5 SP at the start of player phase."
+      ]
+    },
+    {
+      "key": "SklText_KIWAMI",
+      "values": [
+        "When Focus is above 130, Final Accuracy %, Evasion %, and Critical % gain 30%."
+      ]
+    },
+    {
+      "key": "SklText_President",
+      "values": [
+        "Gains 50 Tac Pts when clearing a map."
+      ]
+    },
+    {
+      "key": "SklText_Hero",
+      "values": [
+        "Increases Accuracy %, Evasion %, Critical %, and Armor.",
+        "increase. The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklText_IFS",
+      "values": [
+        "Increases HIT, EVN, and SKL as Focus rises.",
+        "The extent of the effect correlates with level of Focus."
+      ]
+    },
+    {
+      "key": "SklText_CyberSprite",
+      "values": [
+        "For allies within 3 spaces, gain 5 CQB, RNG, SKL,",
+        "DEF, EVN, and HIT."
+      ]
+    },
+    {
+      "key": "SklText_MailRider",
+      "values": [
+        "Increases money gained by 20% when defeating enemy units."
+      ]
+    },
+    {
+      "key": "SklText_Admiral",
+      "values": [
+        "Gains 10% for special skill Commander, and if units are within the effective",
+        "range, gives each the maximum effect regardless of distance."
+      ]
+    },
+    {
+      "key": "SklText_Genius",
+      "values": [
+        "Gains 20% Accuracy %, Evasion %, and Critical %."
+      ]
+    },
+    {
+      "key": "SklText_DoubleAction",
+      "values": [
+        "You can act 2 times each turn."
+      ]
+    },
+    {
+      "key": "SklText_TripleAction",
+      "values": [
+        "You can act 3 times each turn."
+      ]
+    },
+    {
+      "key": "SklText_WillUpBonus",
+      "values": [
+        "Adds 1 extra Focus when hitting attack, evading, taking",
+        "attacking.",
+        "other Focus+ type skills."
+      ]
+    },
+    {
+      "key": "SklText_Pressure",
+      "values": [
+        "Against opponents with lower SKL, raises DMG dealt and lowers",
+        "DMG taken. The effective range is skill level times 2 spaces."
+      ]
+    },
+    {
+      "key": "SklText_Synchro",
+      "values": [
+        "Affects Accuracy %, Evasion %, changes in Focus, and AT field effect.",
+        "The extent of the effect correlates with the Synchro Rate."
+      ]
+    },
+    {
+      "key": "SklPrgText_Mel",
+      "values": [
+        "Raises pilot's CQB by 5."
+      ]
+    },
+    {
+      "key": "SklPrgText_Rng",
+      "values": [
+        "Raises pilot's RNG by 5."
+      ]
+    },
+    {
+      "key": "SklPrgText_Def",
+      "values": [
+        "Raises pilot's DEF by 5."
+      ]
+    },
+    {
+      "key": "SklPrgText_Man",
+      "values": [
+        "Raises pilot's SKL by 5."
+      ]
+    },
+    {
+      "key": "SklPrgText_Evd",
+      "values": [
+        "Raises pilot's EVN by 5."
+      ]
+    },
+    {
+      "key": "SklPrgText_Hit",
+      "values": [
+        "Raises pilot's HIT by 5."
+      ]
+    },
+    {
+      "key": "SklPrgText_Air",
+      "values": [
+        "Raises pilot's terrain handling for Air."
+      ]
+    },
+    {
+      "key": "SklPrgText_Grd",
+      "values": [
+        "Raises pilot's terrain handling for Grd."
+      ]
+    },
+    {
+      "key": "SklPrgText_Wtr",
+      "values": [
+        "Raises pilot's terrain handling for Wtr."
+      ]
+    },
+    {
+      "key": "SklPrgText_Spc",
+      "values": [
+        "Raises pilot's terrain handling for Spc."
+      ]
+    },
+    {
+      "key": "SklPrgText_SupportAtk",
+      "values": [
+        "Attacks after adjacent ally attacks.",
+        "(50% of the original DMG dealt.)",
+        "Number of times to use is equivalent to skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_AttackAgain",
+      "values": [
+        "If your SKL is 30 higher than the opponent's,",
+        "attack again after the opponent's return attack."
+      ]
+    },
+    {
+      "key": "SklPrgText_SupportMaster",
+      "values": [
+        "Support attack will be critical hit.",
+        "Does not apply to second attacks."
+      ]
+    },
+    {
+      "key": "SklPrgText_SupportDef",
+      "values": [
+        "Take damage of an attack targeted at an adjacent ally.",
+        "(DMG taken is equivalent to when applying Defend.)",
+        "Number of times to use is equivalent to skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_FightSpr",
+      "values": [
+        "Raises Focus when sortied.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_WillUpAtk",
+      "values": [
+        "Gains 1 extra Focus when attacking, return attacking,",
+        "and support attacking."
+      ]
+    },
+    {
+      "key": "SklPrgText_WillUpDef",
+      "values": [
+        "Gains 1 extra Focus when taking damage,",
+        "evading, and blocking attack using barrier or ",
+        "and support attacking."
+      ]
+    },
+    {
+      "key": "SklPrgText_OverWill",
+      "values": [
+        "Raises the increase limit for Focus.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_Tenacity",
+      "values": [
+        "As HP decreases, Accuracy %, Evasion %,",
+        "Critical %, and Defense increase.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_EneSave",
+      "values": [
+        "Decreases EN consumption for weapons.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_AmoSave",
+      "values": [
+        "Increases amount of ammo for weapons.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_Intuition",
+      "values": [
+        "If your Focus is higher than 130, your Final Accuracy %, ",
+        "Final Evasion %, and Critical % will increase.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_Guard",
+      "values": [
+        "If your Focus is higher than 130, your Final Accuracy %, ",
+        "of damage received from opponents will decrease.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_Protection",
+      "values": [
+        "When facing return attacks, Evade to add 10% Final Evasion",
+        "%, Defend to lower DMG taken by 10%. If it's a map",
+        "weapon, halves Accuracy and lowers DMG taken by 40%."
+      ]
+    },
+    {
+      "key": "SklPrgText_SizeGapCorrect",
+      "values": [
+        "When attacking larger opponents, the amount decreased",
+        "in DMG dealt is calculated by ignoring 1 size per skill level.",
+        "(For level 2, opponent S size is considered L size.)"
+      ]
+    },
+    {
+      "key": "SklPrgText_ProtectWill",
+      "values": [
+        "Ignores weapon special effects such as Status Drain, Unable",
+        "to Act, Focus Drain, and SP Drain. If your Focus is below",
+        "100, also ignores Haze."
+      ]
+    },
+    {
+      "key": "SklPrgText_HitAndAway",
+      "values": [
+        "If you attack without moving, you can move after attacking."
+      ]
+    },
+    {
+      "key": "SklPrgText_RepairSkill",
+      "values": [
+        "Adds 1 adjacent space for the available area to use",
+        "command Repair. Also increases HP recovery by 50%."
+      ]
+    },
+    {
+      "key": "SklPrgText_SupplySkill",
+      "values": [
+        "When using a unit with the special ability Resupply Device,",
+        "you can use command Resupply after moving."
+      ]
+    },
+    {
+      "key": "SklPrgText_PartsThrow",
+      "values": [
+        "You can use consump. type power parts on adjacent allies.",
+        "Excludes power parts which can affect multiple units."
+      ]
+    },
+    {
+      "key": "SklPrgText_SPUp",
+      "values": [
+        "Maximum SP will increase by 5 for every skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_AceProud",
+      "values": [
+        "Acquire Ace Pilot status at 50 kills,",
+        "and Great Ace Pilot status at 70 kills."
+      ]
+    },
+    {
+      "key": "SklPrgText_Attacker",
+      "values": [
+        "When Focus is above 130, increases DMG dealt by 20%."
+      ]
+    },
+    {
+      "key": "SklPrgText_Counter",
+      "values": [
+        "When choosing Return Attack, you attack first."
+      ]
+    },
+    {
+      "key": "SklPrgText_Dash",
+      "values": [
+        "Increases unit movement by 1."
+      ]
+    },
+    {
+      "key": "SklPrgText_SPRecover",
+      "values": [
+        "Recovers 10 SP at the start of player phase."
+      ]
+    },
+    {
+      "key": "SklPrgText_Concentration",
+      "values": [
+        "Decreases SP consumption for each spirit command.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_TacticalWait",
+      "values": [
+        "If you end player phase without any action at the beginning",
+        "of your player phase, spirit commands Awakening and",
+        "Accel will be effective. Recovers 5 SP to main pilot."
+      ]
+    },
+    {
+      "key": "SklPrgText_Commander",
+      "values": [
+        "Raises Final Accuracy % and Evasion % for nearby",
+        "ally units. The extent of the effect correlates with both",
+        "skill level and distance to ally units."
+      ]
+    },
+    {
+      "key": "SklPrgText_LackyStar",
+      "values": [
+        "Increases money gained by 20% when defeating enemy units."
+      ]
+    },
+    {
+      "key": "SklPrgText_RebelliousSpirit",
+      "values": [
+        "If your opponent's SKL is higher, raises DMG dealt",
+        "by 10% and lowers DMG taken by 10%. ",
+        "Also adds 10% to Accuracy % and Evasion %."
+      ]
+    },
+    {
+      "key": "SklPrgText_Ranger",
+      "values": [
+        "Doubles the effect on spaces with terrain effects",
+        "such as change in Defense % and Evasion %."
+      ]
+    },
+    {
+      "key": "SklPrgText_Newtype",
+      "values": [
+        "Increases Accuracy % and Evasion %. Expands certain weapon",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_ArtificialNewtype",
+      "values": [
+        "Increases Accuracy % and Evasion %. Expands certain weapon",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_SEED",
+      "values": [
+        "Activated when Focus is above 130.",
+        "Final Accuracy % and Final Evasion % gain 20%,",
+        "and Critical % gains 40%."
+      ]
+    },
+    {
+      "key": "SklPrgText_Innovator",
+      "values": [
+        "Activated when Focus is above 140.",
+        "HIT, EVN, and SKL gain 20.",
+        "Also recovers 5 SP at the start of player phase."
+      ]
+    },
+    {
+      "key": "SklPrgText_KIWAMI",
+      "values": [
+        "If your Focus is higher than 130, your Final Accuracy %, ",
+        "Final Accuracy %, Final Evasion %, and Critical % gain 30%."
+      ]
+    },
+    {
+      "key": "SklPrgText_President",
+      "values": [
+        "Gains 50 Tac Pts when clearing a map."
+      ]
+    },
+    {
+      "key": "SklPrgText_Hero",
+      "values": [
+        "Increases Accuracy %, Evasion %, Critical %, and Armor.",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_IFS",
+      "values": [
+        "Increases HIT, EVN, and SKL as Focus rises.",
+        "The extent of the effect correlates with level of Focus."
+      ]
+    },
+    {
+      "key": "SklPrgText_CyberSprite",
+      "values": [
+        "Adds 5 CQB for allies within 3 spaces.",
+        "RNG, SKL, DEF, EVN, and HIT increase by 5."
+      ]
+    },
+    {
+      "key": "SklPrgText_MailRider",
+      "values": [
+        "Increases money gained by 20% when defeating enemy units."
+      ]
+    },
+    {
+      "key": "SklPrgText_Admiral",
+      "values": [
+        "Gains 10% special skill Commander, and if units are",
+        "within the effective range, gives each the maximum effect",
+        "regardless of distance."
+      ]
+    },
+    {
+      "key": "SklPrgText_Genius",
+      "values": [
+        "Gains 20% Accuracy %, Evasion %, and Critical %."
+      ]
+    },
+    {
+      "key": "SklPrgText_DoubleAction",
+      "values": [
+        "You can act 2 times each turn."
+      ]
+    },
+    {
+      "key": "SklPrgText_TripleAction",
+      "values": [
+        "You can act 3 times each turn."
+      ]
+    },
+    {
+      "key": "SklPrgText_WillUpBonus",
+      "values": [
+        "Adds 1 extra Focus when hitting attack, evading, taking",
+        "damage, and ally defeated. Can be stacked with",
+        "other Focus+ type skills."
+      ]
+    },
+    {
+      "key": "SklPrgText_Pressure",
+      "values": [
+        "Against opponents with lower SKL, raises DMG ",
+        "dealt and lowers DMG taken. The effective range is skill",
+        "The extent of the effect correlates with skill level."
+      ]
+    },
+    {
+      "key": "SklPrgText_Synchro",
+      "values": [
+        "Affects Accuracy %, Evasion %, changes in Focus,",
+        "and AT field effect. The extent of the effect correlates",
+        "with Synchro Rate."
+      ]
+    },
+    {
+      "key": "FCB_S_Stable",
+      "values": [
+        "Acquire the Full Custom bonus."
+      ]
+    },
+    {
+      "key": "FCB_S_Disable",
+      "values": [
+        " - - - - - - - - - - - "
+      ]
+    },
+    {
+      "key": "FCB_S_None",
+      "values": [
+        "Acquired at Robot Customization Lv. 10"
+      ]
+    },
+    {
+      "key": "FCB_N_Disable",
+      "values": [
+        " - - - - - - - - - - - "
+      ]
+    },
+    {
+      "key": "CustomBonus_Disable",
+      "values": [
+        " - - - - - - - - - - - "
+      ]
+    },
+    {
+      "key": "TerrainAdaptMark_S",
+      "values": [
+        "S"
+      ]
+    },
+    {
+      "key": "TerrainAdaptMark_A",
+      "values": [
+        "A"
+      ]
+    },
+    {
+      "key": "TerrainAdaptMark_B",
+      "values": [
+        "B"
+      ]
+    },
+    {
+      "key": "TerrainAdaptMark_C",
+      "values": [
+        "C"
+      ]
+    },
+    {
+      "key": "TerrainAdaptMark_D",
+      "values": [
+        "D"
+      ]
+    },
+    {
+      "key": "TerrainAdaptMark_E",
+      "values": [
+        "-"
+      ]
+    },
+    {
+      "key": "FCB_N_Air",
+      "values": [
+        "Unit & Wpn Terrain Handling (Air) S"
+      ]
+    },
+    {
+      "key": "FCB_N_Grd",
+      "values": [
+        "Unit & Wpn Terrain Handling (Grd) S"
+      ]
+    },
+    {
+      "key": "FCB_N_Wtr",
+      "values": [
+        "Unit & Wpn Terrain Handling (Wtr) S"
+      ]
+    },
+    {
+      "key": "FCB_N_Spc",
+      "values": [
+        "Unit & Wpn Terrain Handling (Spc) S"
+      ]
+    },
+    {
+      "key": "FCB_N_Move",
+      "values": [
+        "Movement +1"
+      ]
+    },
+    {
+      "key": "FCB_N_Range",
+      "values": [
+        "Weapon Range +1"
+      ]
+    },
+    {
+      "key": "FCB_N_Barrier",
+      "values": [
+        "Halve Barrier/Armor Activation EN Cost"
+      ]
+    },
+    {
+      "key": "FCB_N_RobotParts",
+      "values": [
+        "Power Parts Slot +1"
+      ]
+    },
+    {
+      "key": "FCB_N_None",
+      "values": [
+        "Acquired at Robot Customization Lv. 10"
+      ]
+    },
+    {
+      "key": "FCB_S_Air",
+      "values": [
+        "Increases unit & weapon terrain handling (Air) to S."
+      ]
+    },
+    {
+      "key": "FCB_S_Grd",
+      "values": [
+        "Increases unit & weapon terrain handling (Ground) to S."
+      ]
+    },
+    {
+      "key": "FCB_S_Wtr",
+      "values": [
+        "Increases unit & weapon terrain handling (Water) to S."
+      ]
+    },
+    {
+      "key": "FCB_S_Spc",
+      "values": [
+        "Increases unit & weapon terrain handling (Space) to S."
+      ]
+    },
+    {
+      "key": "FCB_S_Move",
+      "values": [
+        "Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "FCB_S_Range",
+      "values": [
+        "Rng+1 to all wpns besides map wpns and rng 1 wpns."
+      ]
+    },
+    {
+      "key": "FCB_S_Barrier",
+      "values": [
+        "EN consumption of Barrier/Armor activation reduced by 50%."
+      ]
+    },
+    {
+      "key": "FCB_S_RobotParts",
+      "values": [
+        "Add a power part slot by 1."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_00",
+      "values": [
+        "Unlock Conditions:",
+        "Clear Chapter 11."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_01",
+      "values": [
+        "Unlock Conditions:",
+        "Clear Chapter 11."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_02",
+      "values": [
+        "Unlock Conditions:",
+        "Acquire the Cartridge, Repair Kit,",
+        "and Propellant Tank."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_03",
+      "values": [
+        "Unlock Conditions:",
+        "3 pilots reach level 4 of the",
+        "special skill Commander."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_04",
+      "values": [
+        "Unlock Conditions:",
+        "The HP of any ally unit",
+        "on the map drops below 20%."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_05",
+      "values": [
+        "Unlock Conditions:",
+        "Earn a Custom Bonus",
+        "for five units."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_06",
+      "values": [
+        "Unlock Conditions:",
+        "Train a pilot with combined CQB,",
+        "HIT, and SKL value of 600 or more."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_07",
+      "values": [
+        "Unlock Conditions:",
+        "Train a pilot with combined RNG,",
+        "HIT, and SKL ratings of 600 or more."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_08",
+      "values": [
+        "Unlock Conditions:",
+        "Deal 15,000 or more damage to a",
+        "single enemy in one battle."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_09",
+      "values": [
+        "Unlock Conditions:",
+        "Attack an enemy from 10 or more spaces",
+        "away. Map weapon attacks do not count."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_10",
+      "values": [
+        "Unlock Conditions:",
+        "Achieve total obtained Tac Pts of 10,000."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_11",
+      "values": [
+        "Unlock Conditions:",
+        "Customize any robot's HP",
+        "and EN to level 10."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_12",
+      "values": [
+        "Unlock Conditions:",
+        "Destroy five or more enemies",
+        "simultaneously with a map weapon."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_13",
+      "values": [
+        "Unlock Conditions:",
+        "Use the spirit command Resupply."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_14",
+      "values": [
+        "Unlock Conditions:",
+        "Achieve total obtained money of 3,000,000."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_15",
+      "values": [
+        "Unlock Conditions:",
+        "Train five pilots to Ace Pilot status."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_16",
+      "values": [
+        "Unlock Conditions:",
+        "Acquire any Emblem."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_17",
+      "values": [
+        "Unlock Conditions:",
+        "Use the extra order",
+        "Boost ExC."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_18",
+      "values": [
+        "Unlock Conditions:",
+        "Raise the ExC of",
+        "any pilot on the map to 10."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_19",
+      "values": [
+        "Unlock Conditions:",
+        "Increase any pilot's Max SP",
+        "to 120 or greater."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_20",
+      "values": [
+        "Unlock Conditions:",
+        "Develop any Skill until it",
+        "reaches the end of the Skill Tree."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_21",
+      "values": [
+        "Unlock Conditions:",
+        "Reduce the Focus of any enemy",
+        "pilot on the map to below 90."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_22",
+      "values": [
+        "Unlock Conditions:",
+        "Purchase 10 or more power parts at the",
+        "Factory, excluding Recommended Items."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_FACTORY_23",
+      "values": [
+        "Unlock Conditions:",
+        "Develop Grade 3 Tac Customization."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_00",
+      "values": [
+        "Unlock Conditions:",
+        "Clear Chapter 11."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_01",
+      "values": [
+        "Unlock Conditions:",
+        "Clear Chapter 11."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_02",
+      "values": [
+        "Unlock Conditions:",
+        "Acquire the Cartridge, Repair Kit,",
+        "and Propellant Tank."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_03",
+      "values": [
+        "Unlock Conditions:",
+        "3 pilots reach level 4 of the special skill Commander."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_04",
+      "values": [
+        "Unlock Conditions:",
+        "The HP of any ally unit on the map drops below 20%."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_05",
+      "values": [
+        "Unlock Conditions:",
+        "Earn a Custom Bonus for five units. Customize HP, EN, Armor,",
+        "Mobility, and Sight to Lv. 5 or above for a Custom Bonus."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_06",
+      "values": [
+        "Unlock Conditions:",
+        "Train a pilot with combined CQB,",
+        "HIT, and SKL ratings of 600 or more."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_07",
+      "values": [
+        "Unlock Conditions:",
+        "Train a pilot with combined RNG,",
+        "HIT, and SKL ratings of 600 or more."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_08",
+      "values": [
+        "Unlock Conditions:",
+        "Deal 15,000 or more damage to a single enemy in one battle."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_09",
+      "values": [
+        "Unlock Conditions:",
+        "Attack an enemy from 10 or more spaces away.",
+        "Map weapon attacks do not count."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_10",
+      "values": [
+        "Unlock Conditions:",
+        "Achieve total obtained Tac Pts of 10,000."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_11",
+      "values": [
+        "Unlock Conditions:",
+        "Customize any robot's HP and EN to level 10."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_12",
+      "values": [
+        "Unlock Conditions:",
+        "Destroy five or more enemies simultaneously with a map weapon."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_13",
+      "values": [
+        "Unlock Conditions:",
+        "Use the spirit command Resupply."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_14",
+      "values": [
+        "Unlock Conditions:",
+        "Achieve total obtained money of 3,000,000."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_15",
+      "values": [
+        "Unlock Conditions:",
+        "Train five pilots to Ace Pilot status. Ace Pilots are",
+        "those who have shot down more than the specified number of enemies."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_16",
+      "values": [
+        "Unlock Conditions:",
+        "Acquire any Emblem. Refer to the Combat Record for details on",
+        "Emblem acquisition."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_17",
+      "values": [
+        "Unlock Conditions:",
+        "Use the extra order Boost ExC."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_18",
+      "values": [
+        "Unlock Conditions:",
+        "Raise the ExC of any pilot on the map to 10."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_19",
+      "values": [
+        "Unlock Conditions:",
+        "Increase any pilot's Maximum SP to 120 or greater."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_20",
+      "values": [
+        "Unlock Conditions:",
+        "Develop any Skill until it reaches the end of the Skill Tree."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_21",
+      "values": [
+        "Unlock Conditions:",
+        "Reduce the Focus of any enemy pilot on the map to below 90."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_22",
+      "values": [
+        "Unlock Conditions:",
+        "Purchase 10 or more power parts at the Factory, excluding",
+        "Recommended Items."
+      ]
+    },
+    {
+      "key": "PARTS_ZYOUKEN_PRODUCT_23",
+      "values": [
+        "Unlock Conditions:",
+        "Develop Grade 3 Tac Customization."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_00",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Clear Chapter 11. Unlocks power part",
+        "Soldier's Medallion for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_01",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Clear Chapter 11.",
+        "Unlocks power part Victory Circuit for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_02",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Acquire the Cartridge, Repair Kit, and Propellant Tank.",
+        "Unlocks power part Rescue Unit for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_03",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "3 pilots reach level 4 of the special skill Commander.",
+        "Unlocks the power part CQB Supporter for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_04",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "The HP of any ally unit drops below 20%.",
+        "Unlocks power part Complete Protection for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_05",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Earn a Custom Bonus for five robots.",
+        "Unlocks power part Total Defense for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_06",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Train a pilot with total CQB, HIT, and SKL of 600 or more.",
+        "Unlocks the power part Brawl Boost for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_07",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Train a pilot with total RNG, HIT, and SKL of 600 or more.",
+        "Unlocks power part Sharp Shooter for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_08",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Deal 15,000 or more damage to a single enemy in one battle.",
+        "Unlocks power part Spiral Effector for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_09",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Attack an enemy (excluding map wpns) from 10 or more spaces away.",
+        "Unlocks power part Parte Range Extension for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_10",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Achieve total obtained Tac Pts of 10,000.",
+        "Unlocks power part Turbo Charge for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_11",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Customize any robot's HP and EN to level 10.",
+        "Unlocks power part Recovery Zone for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_12",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Destroy five or more enemies simultaneously with a map weapon.",
+        "Unlocks power part Hyper Generator for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_13",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Use the spirit command Resupply.",
+        "Unlocks power part Hyper Reload for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_14",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Achieve total obtained money of 3,000,000.",
+        "Unlocks power part Salvage System for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_15",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Train five pilots to Ace Pilot status.",
+        "Unlocks power part Piloting Wizard for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_16",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Acquire any Emblem.",
+        "Unlocks power part Desire Drive for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_17",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Use the extra order Boost ExC.",
+        "Unlocks the power part ExC Bank for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_18",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Raise the ExC of any pilot on the map to 10.",
+        "Unlocks power part ExC Booster for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_19",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Increase any pilot's Maximum SP to 120 or greater.",
+        "Unlocks power part SP Collector for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_20",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Develop any Skill until it reaches the end of the Skill Tree.",
+        "Unlocks power part Helping Hand for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_21",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Reduce the Focus of any enemy pilot on the map to below 90.",
+        "Unlocks power part Aural Assault for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_22",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Purchase 10 or more power parts (Rec. Prts. excluded) at the Factory.",
+        "Unlocks power part Cash Infusion for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_PRODUCT_23",
+      "values": [
+        "-Factory: Power Part Unlock Conditions-",
+        "Develop Grade 3 Tac Customization.",
+        "Unlocks power part Portable Nine for purchase at the Factory."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_00",
+      "values": [
+        "Nine created this part with the knowledge that the best soldiers can",
+        "push themselves to perform beyond their best abilities. When equipped,",
+        "you feel as though a power greater than you can handle has been unleashed."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_01",
+      "values": [
+        "Knowing that speed, strength, and endurance are crucial to victory,",
+        "Nine developed this part. This boost system provides balanced enhancement",
+        "to all three qualities during battle."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_02",
+      "values": [
+        "Nine knows that logistical support is key to winning battles. To",
+        "that end, she created the ultimate backup part. It's packed with",
+        "supplies and repair equipment, and can even be equipped on combat units."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_03",
+      "values": [
+        "Nine designed this part to test her theory that exacting tactical",
+        "orders are the key to emerging victorious. This automated battle",
+        "analyzation system is capable of emulating even the best tacticians."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_04",
+      "values": [
+        "Out of respect for the notion that attrition is one way to win",
+        "a war, Nine created this part in order to better protect pilots.",
+        "This extra armor increases a unit's durability."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_05",
+      "values": [
+        "Well aware that physical defenses alone do not ensure survival,",
+        "Nine developed a part designed to resist a wide variety of enemy attacks.",
+        "Mastering this composite armor system requires considerable skill."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_06",
+      "values": [
+        "Nine understands that hand-to-hand combat requires raw strength and",
+        "footwork, so she crafted this part to advance that theory. It combines",
+        "servomotors for better articulation with superior forward boosters."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_07",
+      "values": [
+        "Nine knows that good visibility and concentration are essential to",
+        "ranged attacks, and she designed this part with that in mind. It fuses",
+        "precise alignment sensors with advanced target analysis systems."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_08",
+      "values": [
+        "While Nine is skeptical of the math behind the theory that \"Three times",
+        "the revolutions equals three times the power,\" she nonetheless designed",
+        "this effector to channel the energy emitted from weapons into a spiral."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_09",
+      "values": [
+        "Nine made this part to try and dispel the sense of regret people",
+        "have felt at falling just short of their goals. This all-purpose power",
+        "management system can increase the range of any and all weapons."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_10",
+      "values": [
+        "This part was designed to convert the intense desires of human pilots",
+        "into raw power. This booster is powerful enough to bulldoze any",
+        "and all enemies, albeit with tremendous noise. Stealthy, it is not."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_11",
+      "values": [
+        "Nine designed this part around the idea that a little kindness goes",
+        "a long way toward building a large allied force. This system",
+        "disperses nanomachines that repair and resupply any nearby allies."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_12",
+      "values": [
+        "Nine knows that an outage or short-circuit can spell certain doom,",
+        "so she created a high-output external generator capable of producing",
+        "a massive amount of energy each minute."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_13",
+      "values": [
+        "Nine designed this part to prevent a robot's clips from ever emptying,",
+        "which can end a pilot's life as quickly as anything else.",
+        "This high-capacity system can create any kind of ammo in just one minute."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_14",
+      "values": [
+        "Having heard the phrase \"Money makes the world go around,\" Nine",
+        "engineered this part to help out with the finances. This system pulls",
+        "in any valuable objects, both earning money and keeping the area clean."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_15",
+      "values": [
+        "Aware that Ace Pilots are unmatched in their piloting ability, Nine",
+        "designed a part that gives other pilots a taste. This pilot assistance",
+        "system can also gather data from other pilots to improve its own systems."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_16",
+      "values": [
+        "Nine has heard some talk of a hidden power that lies deep within",
+        "humans, and she is determined to harness it for use in battle.",
+        "This specialized interface uses the pilot's desires to drive the robot."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_17",
+      "values": [
+        "Having studied the many pitfalls that pilots find themselves trapped in,",
+        "Nine designed this part. It is a type of camphor with the potential to",
+        "turn the tide of battle. Handy when you find yourself against the wall."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_18",
+      "values": [
+        "Nine has heard that a positive attitude can work wonders, so she",
+        "designed a part that translates that to the battlefield. This system",
+        "takes the pilot's delight over raised ExC and translates it into more ExC."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_19",
+      "values": [
+        "Tapping into the endorphins released when a pilot destroys an enemy,",
+        "Nine designed this part to provide extra positive feedback. The resulting",
+        "feedback loop can be dangerous, however, and should be used sparingly."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_20",
+      "values": [
+        "Nine was inspired to craft this part upon observing that humans pride",
+        "themselves on their courage in the face of adversity. This part is",
+        "packed with encouragement from Nine to help you face large enemies."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_21",
+      "values": [
+        "The phrase \"psychological warfare\" has stuck with Nine, who designed",
+        "this part as a way to try it out. It uses extremely unpleasant sounds",
+        "to try and unsettle or break the enemy."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_22",
+      "values": [
+        "Upon receiving lots of positive feedback about the parts she designed,",
+        "Nine created this part as a token of her gratitude.",
+        "It contains a program that temporarily boosts monetary collection."
+      ]
+    },
+    {
+      "key": "PARTS_KAIHOU_GET_23",
+      "values": [
+        "Having read legends of fairies and sprites bringing good fortune,",
+        "Nine is determined to become something similar. This small, Nine-",
+        "shaped computer provides emotional support from the cockpit."
+      ]
+    },
+    {
+      "key": "ImTop_Help_00",
+      "values": [
+        "Display abilities from the pilot list."
+      ]
+    },
+    {
+      "key": "ImTop_Help_01",
+      "values": [
+        "Train a pilot with a Skill Program."
+      ]
+    },
+    {
+      "key": "ImTop_Help_02",
+      "values": [
+        "Develops and produces new Skill Programs."
+      ]
+    },
+    {
+      "key": "ImTop_Help_03",
+      "values": [
+        "Use Tac Pts to enhance units."
+      ]
+    },
+    {
+      "key": "ImTop_Help_04",
+      "values": [
+        "Give undeployed pilots new assignments."
+      ]
+    },
+    {
+      "key": "ImTop_Help_05",
+      "values": [
+        "Display abilities from the robot list."
+      ]
+    },
+    {
+      "key": "ImTop_Help_06",
+      "values": [
+        "Spend money to upgrade robots and weapons."
+      ]
+    },
+    {
+      "key": "ImTop_Help_07",
+      "values": [
+        "Equip your robot with power parts."
+      ]
+    },
+    {
+      "key": "ImTop_Help_08",
+      "values": [
+        "Equip your robot with special option parts."
+      ]
+    },
+    {
+      "key": "ImTop_Help_09",
+      "values": [
+        "Assign different pilots to your robots."
+      ]
+    },
+    {
+      "key": "ImTop_Help_10",
+      "values": [
+        "Search spirit commands, special skills, and special abilities."
+      ]
+    },
+    {
+      "key": "ImTop_Help_11",
+      "values": [
+        "Adjust game settings."
+      ]
+    },
+    {
+      "key": "ImTop_Help_12",
+      "values": [
+        "Connect to the network for various functions."
+      ]
+    },
+    {
+      "key": "ImTop_Help_13",
+      "values": [
+        "Save your game."
+      ]
+    },
+    {
+      "key": "ImTop_Help_14",
+      "values": [
+        "Load a game."
+      ]
+    },
+    {
+      "key": "ImTop_Help_15",
+      "values": [
+        "End Intermission."
+      ]
+    },
+    {
+      "key": "ImTop_Help_16",
+      "values": [
+        "Begin a new game with current save data."
+      ]
+    },
+    {
+      "key": "ImTop_Help_17",
+      "values": [
+        "End Intermission."
+      ]
+    },
+    {
+      "key": "Com_None",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "Com_Yes",
+      "values": [
+        "Yes"
+      ]
+    },
+    {
+      "key": "Com_No",
+      "values": [
+        "No"
+      ]
+    },
+    {
+      "key": "Com_YesNo",
+      "values": [
+        "Yes/No"
+      ]
+    },
+    {
+      "key": "Com_Bar11",
+      "values": [
+        " - - - - - - - - - - - "
+      ]
+    },
+    {
+      "key": "Com_Bar9",
+      "values": [
+        " - - - - - - - - - "
+      ]
+    },
+    {
+      "key": "Com_Bar8",
+      "values": [
+        " - - - - - - - - "
+      ]
+    },
+    {
+      "key": "Com_Bar7",
+      "values": [
+        " - - - - - - - "
+      ]
+    },
+    {
+      "key": "Com_Bar5",
+      "values": [
+        " - - - - - "
+      ]
+    },
+    {
+      "key": "Com_Bar4",
+      "values": [
+        " - - - - "
+      ]
+    },
+    {
+      "key": "Com_Bar3",
+      "values": [
+        " - - - "
+      ]
+    },
+    {
+      "key": "Com_Q7",
+      "values": [
+        " ? ? ? ? ? ? ? "
+      ]
+    },
+    {
+      "key": "Com_Q5",
+      "values": [
+        " ? ? ? ? ? "
+      ]
+    },
+    {
+      "key": "Com_Q4",
+      "values": [
+        " ? ? ? ? "
+      ]
+    },
+    {
+      "key": "Com_Q3",
+      "values": [
+        " ? ? ? "
+      ]
+    },
+    {
+      "key": "Com_Blank",
+      "values": [
+        " "
+      ]
+    },
+    {
+      "key": "Com_NameBullet",
+      "values": [
+        "- "
+      ]
+    },
+    {
+      "key": "Com_Plus",
+      "values": [
+        "+"
+      ]
+    },
+    {
+      "key": "Com_Minus",
+      "values": [
+        "-"
+      ]
+    },
+    {
+      "key": "Com_Slash",
+      "values": [
+        "/"
+      ]
+    },
+    {
+      "key": "Num_0",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "key": "Num_1",
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "key": "Num_2",
+      "values": [
+        "2"
+      ]
+    },
+    {
+      "key": "Num_3",
+      "values": [
+        "3"
+      ]
+    },
+    {
+      "key": "Num_4",
+      "values": [
+        "4"
+      ]
+    },
+    {
+      "key": "Num_5",
+      "values": [
+        "5"
+      ]
+    },
+    {
+      "key": "Num_6",
+      "values": [
+        "6"
+      ]
+    },
+    {
+      "key": "Num_7",
+      "values": [
+        "7"
+      ]
+    },
+    {
+      "key": "Num_8",
+      "values": [
+        "8"
+      ]
+    },
+    {
+      "key": "Num_9",
+      "values": [
+        "9"
+      ]
+    },
+    {
+      "key": "WeaponEffect_SPDown",
+      "values": [
+        "SP Down"
+      ]
+    },
+    {
+      "key": "WeaponEffect_MobDown",
+      "values": [
+        "Mobility Down"
+      ]
+    },
+    {
+      "key": "WeaponEffect_WillDown",
+      "values": [
+        "Focus Down"
+      ]
+    },
+    {
+      "key": "WeaponEffect_ArmDown",
+      "values": [
+        "Armor Down"
+      ]
+    },
+    {
+      "key": "WeaponEffect_StatusDown",
+      "values": [
+        "Status Halved"
+      ]
+    },
+    {
+      "key": "WeaponEffect_ENDown",
+      "values": [
+        "EN Down"
+      ]
+    },
+    {
+      "key": "WeaponEffect_SgtDown",
+      "values": [
+        "Accuracy Down"
+      ]
+    },
+    {
+      "key": "WeaponEffect_Stun",
+      "values": [
+        "Unable to Act"
+      ]
+    },
+    {
+      "key": "WeaponEffect_BarrierPenetrate",
+      "values": [
+        "Barrier Buster"
+      ]
+    },
+    {
+      "key": "WeaponEffect_SizeGapIgnore",
+      "values": [
+        "Ignore Size"
+      ]
+    },
+    {
+      "key": "WeaponEffect_Erosion",
+      "values": [
+        "Fusion"
+      ]
+    },
+    {
+      "key": "WepSpHelp_SPDown",
+      "values": [
+        "Reduce the SP of an enemy's main pilot by 10.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_MobilityDown",
+      "values": [
+        "Reduce an enemy unit's mobility by 30 for a single turn.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_WillDown",
+      "values": [
+        "Reduce the Focus of an enemy's main pilot by 5.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_ArmorDown",
+      "values": [
+        "Reduce an enemy unit's armor by 200.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_StatusDebuf",
+      "values": [
+        "Reduce an enemy unit's CQB, RNG, HIT, EVD, DEF, and SKL",
+        "by half for a single turn.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_EnDown",
+      "values": [
+        "Reduce an enemy unit's EN by 30.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_SightDown",
+      "values": [
+        "Reduce an enemy unit's Sight by 30 for a single turn.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_Stun",
+      "values": [
+        "Render an enemy unit's actions (Move, Attack, Return Attack,",
+        "Support Attack, Spirits, etc.) useless for a single turn.",
+        "Ineffective if barriers or enemy defenses reduce damage to 0."
+      ]
+    },
+    {
+      "key": "WepSpHelp_Penetration",
+      "values": [
+        "Ignore an enemy unit's barrier when attacking."
+      ]
+    },
+    {
+      "key": "WepSpHelp_SizeGapCorrect",
+      "values": [
+        "Ignore any damage reduction incurred when attacking",
+        "a mech larger than yours."
+      ]
+    },
+    {
+      "key": "WepSpHelp_Fusion",
+      "values": [
+        "Reduce the Focus of an enemy pilot by 10 when attacking their",
+        "mech. If this pilot's Focus is 80 or lower when battle finishes,",
+        "they are considered killed, even if their mech has HP remaining."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_Shield",
+      "values": [
+        "This icon lights up when carrying a shield. Take only 40%",
+        "damage when defending. Shield activation may also be based",
+        "on a probability calculated using the difference in enemy skill."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_Transform",
+      "values": [
+        "This icon lights up when a mech is equipped with the ability to transform.",
+        "You can transform these mechs by selecting the Transform command."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_RepairUnit",
+      "values": [
+        "This icon lights up when a mech is equipped with a repair device.",
+        "You can recover the HP of these mechs by selecting the Repair command."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_ResupplyUnit",
+      "values": [
+        "This icon lights up when a mech is equipped with a resupply device.",
+        "You can order mechs equipped with a resupply device to fully restock",
+        "the EN and ammo of a unit next to them by selecting the Resupply command."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_Barrier",
+      "values": [
+        "This icon lights up when a mech is equipped with a barrier.",
+        "The effects and EN cost of a barrier depend on the type of barrier equipped."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_Divide",
+      "values": [
+        "This icon lights up when a mech is equipped with Divide.",
+        "Divide triggers when the mech is destroyed, or when you select the Divide",
+        "command to change forms. This change cannot be reversed."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_EvasionDevice",
+      "values": [
+        "This icon lights up when a mech is equipped with Special Evade.",
+        "Special Evade grants a chance (separate from normal evade chances)",
+        "of totally evading certain attacks. Effectiveness varies based on ability."
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_Jammer",
+      "values": [
+        "This icon lights up when a mech is equipped with a jamming device.",
+        "Jamming devices increase the final Accuracy and Evasion of two",
+        "side-by-side allied units 10%. "
+      ]
+    },
+    {
+      "key": "StatusHelp_Icon_Parts",
+      "values": [
+        "This is a Power Part equipment slot.",
+        "It lights up when parts are equipped."
+      ]
+    },
+    {
+      "key": "WeaponReasonTitle",
+      "values": [
+        "The following conditions have not been fulfilled."
+      ]
+    },
+    {
+      "key": "WeaponReason_None",
+      "values": [
+        "‧---------"
+      ]
+    },
+    {
+      "key": "WeaponReason_Ammo",
+      "values": [
+        "‧Ammo"
+      ]
+    },
+    {
+      "key": "WeaponReason_En",
+      "values": [
+        "‧EN"
+      ]
+    },
+    {
+      "key": "WeaponReason_Will",
+      "values": [
+        "‧Focus"
+      ]
+    },
+    {
+      "key": "WeaponReason_Skill",
+      "values": [
+        "‧Skill"
+      ]
+    },
+    {
+      "key": "WeaponReason_LandType",
+      "values": [
+        "‧Terrain"
+      ]
+    },
+    {
+      "key": "WeaponReason_Range",
+      "values": [
+        "‧Range"
+      ]
+    },
+    {
+      "key": "WeaponReason_Move",
+      "values": [
+        "‧Move & Fire"
+      ]
+    },
+    {
+      "key": "WeaponReason_Combi",
+      "values": [
+        "‧Total Attacking Enemies"
+      ]
+    },
+    {
+      "key": "WeaponReason_SuportAtk",
+      "values": [
+        "‧Support Attack Use"
+      ]
+    },
+    {
+      "key": "WeaponReason_AttackAgain",
+      "values": [
+        "‧Second Attack Use"
+      ]
+    },
+    {
+      "key": "WeaponReason_Counter",
+      "values": [
+        "‧Return Attack Use"
+      ]
+    },
+    {
+      "key": "WeaponReason_Other",
+      "values": [
+        "‧Other"
+      ]
+    },
+    {
+      "key": "SubOrder_T_Get",
+      "values": [
+        "%d total Tac Pts acquired."
+      ]
+    },
+    {
+      "key": "SubOrder_P_Get",
+      "values": [
+        "%d enemies killed respectively."
+      ]
+    },
+    {
+      "key": "SubOrder_S_Get",
+      "values": [
+        "%d EXP earned respectively."
+      ]
+    },
+    {
+      "key": "SubOrder_F_Get",
+      "values": [
+        "%d total money acquired."
+      ]
+    },
+    {
+      "key": "SubOrder_T_Notice",
+      "values": [
+        "Active Pilots x %d Tac Pts acquired."
+      ]
+    },
+    {
+      "key": "SubOrder_P_Notice",
+      "values": [
+        "Active Pilots receive %d kills."
+      ]
+    },
+    {
+      "key": "SubOrder_S_Notice",
+      "values": [
+        "Active Pilots acquire %d EXP."
+      ]
+    },
+    {
+      "key": "SubOrder_F_Notice",
+      "values": [
+        "Active Pilots x %d money acquired."
+      ]
+    },
+    {
+      "key": "SubOrder_T_Run",
+      "values": [
+        "Execute Training."
+      ]
+    },
+    {
+      "key": "SubOrder_P_Run",
+      "values": [
+        "Execute Patrol."
+      ]
+    },
+    {
+      "key": "SubOrder_S_Run",
+      "values": [
+        "Execute Simulator."
+      ]
+    },
+    {
+      "key": "SubOrder_F_Run",
+      "values": [
+        "Execute Fundraising."
+      ]
+    },
+    {
+      "key": "SubOrder_Text_01",
+      "values": [
+        "Batch execute all orders."
+      ]
+    },
+    {
+      "key": "SubOrder_Text_02",
+      "values": [
+        "Execute orders individually."
+      ]
+    },
+    {
+      "key": "SubOrder_Text_03",
+      "values": [
+        "All orders executed."
+      ]
+    },
+    {
+      "key": "SubOrder_Text_04",
+      "values": [
+        "All pilots deployed."
+      ]
+    },
+    {
+      "key": "SubOrder_Text_05",
+      "values": [
+        "Return to Sub Order menu to execute orders."
+      ]
+    },
+    {
+      "key": "SubOrder_Text_06",
+      "values": [
+        "Select pilot to swap."
+      ]
+    },
+    {
+      "key": "SubOrder_Num_01",
+      "values": [
+        "%d pilot selections remaining."
+      ]
+    },
+    {
+      "key": "Takeover_Notice_01",
+      "values": [
+        "No transferrable Power Parts available. "
+      ]
+    },
+    {
+      "key": "Takeover_Notice_02",
+      "values": [
+        "Start game without transferring Power Parts."
+      ]
+    },
+    {
+      "key": "Takeover_Notice_03",
+      "values": [
+        "Transfer selected Power Parts and start game."
+      ]
+    },
+    {
+      "key": "Takeover_Notice_04",
+      "values": [
+        "No Power Parts selected."
+      ]
+    },
+    {
+      "key": "Takeover_Notice_05",
+      "values": [
+        "You have not selected the maximum number of Power Parts."
+      ]
+    },
+    {
+      "key": "Takeover_Notice_06",
+      "values": [
+        "Three-Time Clear Special Bonus!"
+      ]
+    },
+    {
+      "key": "Takeover_Notice_07",
+      "values": [
+        "Three-Time Clear Special Bonus! You received the following parts!"
+      ]
+    },
+    {
+      "key": "Takeover_Notice_08",
+      "values": [
+        "Clear Bonus! You received the following parts!"
+      ]
+    },
+    {
+      "key": "Takeover_Notice_09",
+      "values": [
+        "Select the parts you wish to carry over."
+      ]
+    },
+    {
+      "key": "Takeover_Notice_10",
+      "values": [
+        "Select number of parts to carry over."
+      ]
+    },
+    {
+      "key": "ShopSell_Notice_01",
+      "values": [
+        "Select the parts you wish to sell."
+      ]
+    },
+    {
+      "key": "ShopSell_Notice_02",
+      "values": [
+        "Select number of parts to sell."
+      ]
+    },
+    {
+      "key": "SklPrgTitle_Param",
+      "values": [
+        "Increase your pilot's abilities."
+      ]
+    },
+    {
+      "key": "SklPrgTitle_Skill",
+      "values": [
+        "Teach your pilot a skill."
+      ]
+    },
+    {
+      "key": "CustomBonusText_None",
+      "values": [
+        "Level 5 Custom Mech Required"
+      ]
+    },
+    {
+      "key": "CustomBonus_None",
+      "values": [
+        "Unacquired"
+      ]
+    },
+    {
+      "key": "FCB_N_Stable",
+      "values": [
+        "This bonus may be acquired."
+      ]
+    },
+    {
+      "key": "FCB_Report",
+      "values": [
+        "The next time you enter the Customization Menu,",
+        "you will be able to acquire the Full Custom Bonus."
+      ]
+    },
+    {
+      "key": "Com_EffectOn",
+      "values": [
+        "On"
+      ]
+    },
+    {
+      "key": "Com_EffectNo",
+      "values": [
+        "Off"
+      ]
+    },
+    {
+      "key": "Com_RangeBar",
+      "values": [
+        "～"
+      ]
+    },
+    {
+      "key": "Com_Parentheses",
+      "values": [
+        "()"
+      ]
+    },
+    {
+      "key": "Com_LItemTag",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "Com_RItemTag",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "Com_IsItOk",
+      "values": [
+        "Are you sure?"
+      ]
+    },
+    {
+      "key": "Com_Colon",
+      "values": [
+        ":"
+      ]
+    },
+    {
+      "key": "Factory_GetFuncType1",
+      "values": [
+        "Spend %d Tac Pts for the following:",
+        "%s",
+        "Are you sure?"
+      ]
+    },
+    {
+      "key": "Factory_GetFuncType2",
+      "values": [
+        "Spend %d Tac Pts for the following:",
+        "%s",
+        "Once you acquire this effect, you can no longer",
+        "acquire other effects of the same grade. Are you sure?"
+      ]
+    },
+    {
+      "key": "Com_MakeItem",
+      "values": [
+        "Are you sure you want to",
+        "create %s?"
+      ]
+    },
+    {
+      "key": "Com_LearningSkill",
+      "values": [
+        "Are you sure you want to",
+        "acquire %s?"
+      ]
+    },
+    {
+      "key": "Com_SetFanction",
+      "values": [
+        "Are you sure you want to",
+        "acquire %s?"
+      ]
+    },
+    {
+      "key": "Com_FactoryBuy",
+      "values": [
+        "Spend %d Tac Pts and purchase %s.",
+        "Are you sure?"
+      ]
+    },
+    {
+      "key": "Com_FactorySell",
+      "values": [
+        "Sell %d of %s.",
+        "Are you sure?"
+      ]
+    },
+    {
+      "key": "Com_FactoryGetFuncType2",
+      "values": [
+        "No pilots available for this mech."
+      ]
+    },
+    {
+      "key": "SklPrg_Unusable",
+      "values": [
+        "Cannot use any additional Skill Programs."
+      ]
+    },
+    {
+      "key": "SklPrg_CannotMake",
+      "values": [
+        "Cannot create Skill Program."
+      ]
+    },
+    {
+      "key": "SklPrg_Check",
+      "values": [
+        "Produce the above Skill Program?"
+      ]
+    },
+    {
+      "key": "SklPrg_CannotMake_Close",
+      "values": [
+        "Cannot produce undeveloped Skill Programs."
+      ]
+    },
+    {
+      "key": "SklPrg_CannotMake_Limit",
+      "values": [
+        "Cannot produce more Skill Programs. Stock at maximum."
+      ]
+    },
+    {
+      "key": "SklPrg_CannotMake_LackOfFunds",
+      "values": [
+        "Cannot produce more Skill Programs. Not enough Tac Pts."
+      ]
+    },
+    {
+      "key": "SklPrg_Unusable_Limit",
+      "values": [
+        "Cannot use this Skill Program. Skill Level at maximum."
+      ]
+    },
+    {
+      "key": "SklPrg_Unusable_Unfit",
+      "values": [
+        "This pilot cannot acquire this Skill."
+      ]
+    },
+    {
+      "key": "Com_NoRider",
+      "values": [
+        "No pilots available for this mech."
+      ]
+    },
+    {
+      "key": "０７２６追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "FCB_S_Note",
+      "values": [
+        "Bonus acquisitions can be deferred."
+      ]
+    },
+    {
+      "key": "FCB_S_Title",
+      "values": [
+        "Acquire the Full Custom bonus."
+      ]
+    },
+    {
+      "key": "CustomBonus_ReportTitle",
+      "values": [
+        "Custom Bonus acquired."
+      ]
+    },
+    {
+      "key": "HT_ProtagonistTitle_M",
+      "values": [
+        "A tough guy who lives in the fast lane."
+      ]
+    },
+    {
+      "key": "HT_ProtagonistTitle_F",
+      "values": [
+        "A positive rookie who never loses hope."
+      ]
+    },
+    {
+      "key": "HT_ProtagonistText_M",
+      "values": [
+        "A member of the Earth Federation Forces' Lunar Special Tactical Lab Defense Force.",
+        "Formerly a mobile weaponry pilot with the Lunar Aviation Wing."
+      ]
+    },
+    {
+      "key": "HT_ProtagonistText_F",
+      "values": [
+        "A member of the Earth Federation Forces' 3rd Special Tactical Lab Defense Force.",
+        "Has almost no combat experience and has been entrusted with odd jobs as a result."
+      ]
+    },
+    {
+      "key": "■０７２９追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "HT_IME_FILTERING",
+      "values": [
+        "This space is blank or contains a unit that cannot be used."
+      ]
+    },
+    {
+      "key": "HT_USB_CAUTION_UNPLUG",
+      "values": [
+        "Please do not remove your USB storage device."
+      ]
+    },
+    {
+      "key": "HT_USB_CANCEL_CAPACITY",
+      "values": [
+        "Not enough free space on target device."
+      ]
+    },
+    {
+      "key": "HT_USB_CANCEL_UNPLUGED",
+      "values": [
+        "USB storage device removed."
+      ]
+    },
+    {
+      "key": "HT_USB_NOT_UPDATE",
+      "values": [
+        "Updateable MP3 file not found."
+      ]
+    },
+    {
+      "key": "HT_SOUNDSELECT_CIRCLE",
+      "values": [
+        ":OK"
+      ]
+    },
+    {
+      "key": "HT_SOUNDSELECT_CROSS",
+      "values": [
+        ":Back"
+      ]
+    },
+    {
+      "key": "HT_SOUNDSELECT_TITLE",
+      "values": [
+        "Title"
+      ]
+    },
+    {
+      "key": "SklPrg_CannotMake_CloseRoute",
+      "values": [
+        "Cannot develop Skills whose trees have not been unlocked."
+      ]
+    },
+    {
+      "key": "ABTEXT_KAPPE",
+      "values": [
+        "Increases DMG dealt by 20% and",
+        "decreases DMG taken by 10%",
+        "during enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_BANJO",
+      "values": [
+        "Gains 30,000 money after clearing",
+        "each scenario."
+      ]
+    },
+    {
+      "key": "ABTEXT_Camille",
+      "values": [
+        "Increases DMG dealt by 20% and ",
+        "Critical % by 20% during enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Fa",
+      "values": [
+        "Gains 15 SP when sortied. Spirit",
+        "command Hope now costs 35 SP."
+      ]
+    },
+    {
+      "key": "ABTEXT_JERID",
+      "values": [
+        "Increases DMG dealt by 30% during",
+        "enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_YZAN",
+      "values": [
+        "Gains 5 Focus in battle."
+      ]
+    },
+    {
+      "key": "ABTEXT_BLAN",
+      "values": [
+        "Increases Final Accuracy % by 25%",
+        "and Critical % by 50% against Air."
+      ]
+    },
+    {
+      "key": "ABTEXT_JUDO",
+      "values": [
+        "Increases money and Tac Pts gained by",
+        "20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_LU",
+      "values": [
+        "After battle, casts spirit command",
+        "Cheer on pilots provided with",
+        "Support Attack."
+      ]
+    },
+    {
+      "key": "ABTEXT_BICHA",
+      "values": [
+        "Increases DMG dealt by 10% against",
+        "enemy units with less than 50% HP."
+      ]
+    },
+    {
+      "key": "ABTEXT_EL",
+      "values": [
+        "Spirit command Encouragement now",
+        "costs 30 SP."
+      ]
+    },
+    {
+      "key": "ABTEXT_INO",
+      "values": [
+        "Spirit command Replenish now",
+        "costs 45 SP."
+      ]
+    },
+    {
+      "key": "ABTEXT_MOND",
+      "values": [
+        "Increases Final Evasion % by 30%",
+        "against enemy units with less than",
+        "50% HP."
+      ]
+    },
+    {
+      "key": "ABTEXT_PLU",
+      "values": [
+        "Triggers spirit command",
+        "Concentrate at the start of player",
+        "phase when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_PLU2",
+      "values": [
+        "Triggers spirit command",
+        "Concentrate at the start of player",
+        "phase when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_LAKAN",
+      "values": [
+        "Triggers spirit command Instinct",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_RONMER",
+      "values": [
+        "Gains 50 Focus when sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_Amuro",
+      "values": [
+        "Increases Range of Newtype",
+        "weapons by 1. Increases SKL by",
+        "20."
+      ]
+    },
+    {
+      "key": "ABTEXT_Hathaway",
+      "values": [
+        "Changes spirit command Hot",
+        "Blooded into Courage."
+      ]
+    },
+    {
+      "key": "ABTEXT_REEN",
+      "values": [
+        "Triggers spirit command Dauntless",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_TOBIA",
+      "values": [
+        "Spirit command Hot Blooded now",
+        "costs 25 SP."
+      ]
+    },
+    {
+      "key": "ABTEXT_KINKD",
+      "values": [
+        "Increases Range of CQB weapons by",
+        "1. Increases SKL by 20."
+      ]
+    },
+    {
+      "key": "ABTEXT_ZABINE",
+      "values": [
+        "Increases DMG dealt by 20% and",
+        "increases Final Evasion % by 20%",
+        "during enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_DOGTI",
+      "values": [
+        "Increases DMG dealt by 20% when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_JPEPR",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_BIOB",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_SinnAsuka",
+      "values": [
+        "Increases Movement by 1. Activates",
+        "special skill SEED when Focus is",
+        "above 110."
+      ]
+    },
+    {
+      "key": "ABTEXT_Lunamaria",
+      "values": [
+        "Increases EXP gained by 50%.",
+        "Increases Final Accuracy % by 15%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Kira",
+      "values": [
+        "Increases Final Evasion % by 20%.",
+        "Activates special skill SEED when",
+        "Focus is above 110."
+      ]
+    },
+    {
+      "key": "ABTEXT_Athrun",
+      "values": [
+        "Increases Final Accuracy % by 20%.",
+        "Activates special skill SEED",
+        "when Focus is above 110."
+      ]
+    },
+    {
+      "key": "ABTEXT_Lacus",
+      "values": [
+        "Increases DMG dealt by neighboring",
+        "pilots by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_RENPO_SD",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Setsuna",
+      "values": [
+        "Activates special skill Innovator",
+        "when Focus is above 120. Recovers 5",
+        "more SP every turn."
+      ]
+    },
+    {
+      "key": "ABTEXT_Lockon",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Critical % by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Allelujah",
+      "values": [
+        "Increases Final Evasion % by 20%.",
+        "Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_Tieria",
+      "values": [
+        "Casts spirit command Analyze on",
+        "attacker until the start of next",
+        "player phase when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_Sumeragi",
+      "values": [
+        "Parts Supply can now reach as far",
+        "as special skill Commander."
+      ]
+    },
+    {
+      "key": "ABTEXT_Graham",
+      "values": [
+        "Increases Final Accuracy % by 20%",
+        "and DMG dealt by 10% against",
+        "Air and Spc."
+      ]
+    },
+    {
+      "key": "ABTEXT_Colasour",
+      "values": [
+        "Triggers spirit command Fortune",
+        "at the start of player phase when",
+        "Focus is above 120."
+      ]
+    },
+    {
+      "key": "ABTEXT_ELS_01",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Banagher",
+      "values": [
+        "Triggers spirit command Awaken",
+        "when using Personal command",
+        "NT-D Activation."
+      ]
+    },
+    {
+      "key": "ABTEXT_Riddhe",
+      "values": [
+        "Increases money and EXP gained by",
+        "20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Riddhe_2",
+      "values": [
+        "When Focus is above 130, triggers",
+        "spirit command Assault when",
+        "Accel is used."
+      ]
+    },
+    {
+      "key": "ABTEXT_RIDY_E",
+      "values": [
+        "Increases DMG dealt by 10% and ",
+        "Final Accuracy % by 30% during enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Otto",
+      "values": [
+        "Decreases DMG taken by allies",
+        "within the reach of special skill",
+        "Commander by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Daguza",
+      "values": [
+        "Decreases DMG taken by 30% and",
+        "increases Final Evasion % by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Conroy",
+      "values": [
+        "Decreases DMG taken by 20% and",
+        "increases Final Accuracy % by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Bright",
+      "values": [
+        "Grants 5 Focus to allies within the",
+        "reach of special skill Commander",
+        "at the start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Nigel",
+      "values": [
+        "Increases Final Accuracy %, Final",
+        "Evasion %, and Critical %",
+        "by 15%."
+      ]
+    },
+    {
+      "key": "ABTEXT_FullFurontal",
+      "values": [
+        "Changes special skill Enhanced",
+        "Human into Newtype and raises",
+        "its level by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_Anjelo",
+      "values": [
+        "Decreases DMG taken by 30% when",
+        "Frontal is on the map."
+      ]
+    },
+    {
+      "key": "ABTEXT_Marida",
+      "values": [
+        "Triggers spirit command",
+        "Concentrate at the start of player",
+        "phase when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_MARIDA_E",
+      "values": [
+        "Triggers spirit command",
+        "Concentrate at the start of player",
+        "phase when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_Zinnerman",
+      "values": [
+        "Restores 5 SP at the start of player",
+        "phase. Sub pilots included."
+      ]
+    },
+    {
+      "key": "ABTEXT_Hill",
+      "values": [
+        "Decreases DMG taken by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Loni",
+      "values": [
+        "Increases DMG dealt by 20% during",
+        "enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Kirks",
+      "values": [
+        "Triggers spirit command Bullseye",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_NeoZeon_Soldier",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_NeoZeonCpatain",
+      "values": [
+        "Decreases DMG taken by 10% and",
+        "increases Final Accuracy % by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Zeon_Soldier",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_EF_Soldier",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_RENCAP",
+      "values": [
+        "Decreases DMG taken by 10% and",
+        "increases Final Accuracy % by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_MAITO",
+      "values": [
+        "Increases Tac Pts by 100% when special",
+        "skill President is acquired."
+      ]
+    },
+    {
+      "key": "ABTEXT_JO",
+      "values": [
+        "Increases Focus by 10 and",
+        "ExC by 1 when sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_WGNG",
+      "values": [
+        "Casts spirit command Analyze on",
+        "attacker until the start of next",
+        "player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_MIFNE",
+      "values": [
+        "Increases DMG dealt by 20% when",
+        "Focus is above 130. Increases SKL",
+        "by 10."
+      ]
+    },
+    {
+      "key": "ABTEXT_KOCHO",
+      "values": [
+        "Triggers spirit command Love",
+        "when Focus is above 130.",
+        "(Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_HOI",
+      "values": [
+        "Increases DMG dealt by 20% during",
+        "enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Vuitten",
+      "values": [
+        "Decreases attacker's Focus by 5."
+      ]
+    },
+    {
+      "key": "ABTEXT_PPL",
+      "values": [
+        "Grants 5 Focus to allies within the",
+        "reach of special skill Commander",
+        "at the start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_EGZB",
+      "values": [
+        "Triggers spirit commands Bullseye",
+        "and Sniper at the start of",
+        "player phase when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_BNWL",
+      "values": [
+        "Enemies within 10 spaces lose 5",
+        "Focus at the start of the turn when",
+        "Focus is above 140."
+      ]
+    },
+    {
+      "key": "ABTEXT_GIN",
+      "values": [
+        "Increases Final Accuracy % and ",
+        "Critical % by 10% and",
+        "Increases to Final Evasion by 15%."
+      ]
+    },
+    {
+      "key": "ABTEXT_TRYBON",
+      "values": [
+        "Triggers spirit commands",
+        "Dauntless and Moxie when HP",
+        "falls below 30%. (Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_BTLBON",
+      "values": [
+        "Triggers spirit commands",
+        "Dauntless and Moxie when HP",
+        "falls below 30%. (Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_GARDBR",
+      "values": [
+        "Gains 5 SP after Support Attack",
+        "or Support Defend."
+      ]
+    },
+    {
+      "key": "ABTEXT_BMITGIN_E",
+      "values": [
+        "Triggers spirit command Courage",
+        "at the start of player phase when",
+        "Focus is above 150. (Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_BMITGIN",
+      "values": [
+        "Triggers spirit command Courage",
+        "at the start of player phase when",
+        "Focus is above 150. (Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_CATG",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_SDCR",
+      "values": [
+        "Increases Final Accuracy % by 15%."
+      ]
+    },
+    {
+      "key": "ABTEXT_WGNGSB",
+      "values": [
+        "Increases Critical % by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_EGZBSB_Y",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_AIMG",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Critical % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_AKITO",
+      "values": [
+        "Increases DMG dealt by 30% and ",
+        "Final Evasion % by 20% during ",
+        "enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_RURI",
+      "values": [
+        "The status increase of special",
+        "skill Electron Fairy is now twice",
+        "as fast."
+      ]
+    },
+    {
+      "key": "ABTEXT_SUBRO",
+      "values": [
+        "Each nearby unit piloted by a woman",
+        "gains 5 Focus."
+      ]
+    },
+    {
+      "key": "ABTEXT_RYOKO",
+      "values": [
+        "Triggers spirit command Dauntless",
+        "when using Hot Blooded."
+      ]
+    },
+    {
+      "key": "ABTEXT_HKSN",
+      "values": [
+        "It is now always possible to",
+        "activate Counterstrike."
+      ]
+    },
+    {
+      "key": "ABTEXT_HKSN1",
+      "values": [
+        "Increases DMG dealt by 10% when HP",
+        "falls below 30%."
+      ]
+    },
+    {
+      "key": "ABTEXT_MARH_A",
+      "values": [
+        "Increases Critical % by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_HAIN",
+      "values": [
+        "Increases Final Accuracy % and Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Ryouma_LinkFix",
+      "values": [
+        "Increases DMG dealt by 30% when",
+        "Focus is above 170."
+      ]
+    },
+    {
+      "key": "ABTEXT_Hayato_LinkFix",
+      "values": [
+        "Increases Final Evasion % by 40%",
+        "when Focus is above 150."
+      ]
+    },
+    {
+      "key": "ABTEXT_Benkei_LinkFix",
+      "values": [
+        "Decreases DMG taken by 30% when",
+        "Focus is above 150."
+      ]
+    },
+    {
+      "key": "ABTEXT_Gou",
+      "values": [
+        "Gains 10 SP at the start of player",
+        "phase when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_MBST",
+      "values": [
+        "Gains 2 Focus after taking damage."
+      ]
+    },
+    {
+      "key": "ABTEXT_Invader",
+      "values": [
+        "Gains 2 Focus after taking damage."
+      ]
+    },
+    {
+      "key": "ABTEXT_INVADER_CS",
+      "values": [
+        "Absorb 30 EN from nearby enemy",
+        "units at the start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_SAOTOME",
+      "values": [
+        "Triggers spirit command Vigor",
+        "at the start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Kouji",
+      "values": [
+        "Increases DMG dealt by 20% when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_TETUYA",
+      "values": [
+        "Changes spirit command Hot",
+        "Blooded into spirit command Soul."
+      ]
+    },
+    {
+      "key": "ABTEXT_Sayaka",
+      "values": [
+        "Recovers twice as much HP thanks to",
+        "spirit command Mend."
+      ]
+    },
+    {
+      "key": "ABTEXT_Boss",
+      "values": [
+        "Changes spirit command Hurrah",
+        "into Vigor."
+      ]
+    },
+    {
+      "key": "ABTEXT_HELL",
+      "values": [
+        "Against Mechanical Beasts and Talos",
+        "Statues, increases DMG dealt by 20%",
+        "and decreases DMG taken by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Ashura",
+      "values": [
+        "Increases Focus by 50 when",
+        "sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_Brokken",
+      "values": [
+        "Increases Focus by 10 when battling",
+        "women pilots."
+      ]
+    },
+    {
+      "key": "ABTEXT_Hades",
+      "values": [
+        "Increases DMG dealt by 20% when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_Garadabra",
+      "values": [
+        "Triggers Spirit Command Courage",
+        "when HP falls below 50%. (Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_Mykene",
+      "values": [
+        "Increases Final Accuracy % by 20%.",
+        "Increases Focus by 5 at the",
+        "start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Kedora",
+      "values": [
+        "Increases Final Accuracy % by 15%.",
+        "Increases Focus by 3 at the",
+        "start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_DRKENP",
+      "values": [
+        "When Focus is above 140, lowers CQB",
+        "RNG, SKL, DEF, EVD, HIT of enemies",
+        "within 10 spaces by 20."
+      ]
+    },
+    {
+      "key": "ABTEXT_DRKJEN",
+      "values": [
+        "Increases DMG dealt by 20% when HP",
+        "falls below 50%."
+      ]
+    },
+    {
+      "key": "ABTEXT_AI",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Kikaijuu",
+      "values": [
+        "Increases Final Accuracy % by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Sousuke",
+      "values": [
+        "Increases Focus by 10 and Max SP by",
+        "20% when sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_Bontakun",
+      "values": [
+        "Decreases attacker's Focus by 5."
+      ]
+    },
+    {
+      "key": "ABTEXT_Mao",
+      "values": [
+        "Increases Critical % by 20% and Final",
+        "Accuracy % by 10% for allies within",
+        "the reach of special skill Commander."
+      ]
+    },
+    {
+      "key": "ABTEXT_Kurz",
+      "values": [
+        "Increases Final Accuracy % by 20%",
+        "for women and increases Final Evasion",
+        "% by 30% when attacked by men."
+      ]
+    },
+    {
+      "key": "ABTEXT_Clouzot",
+      "values": [
+        "Triggers spirit command",
+        "Dauntless when using Instinct."
+      ]
+    },
+    {
+      "key": "ABTEXT_Tessa",
+      "values": [
+        "Increases money and EXP gained by",
+        "20% for allies within the reach of",
+        "special skill Commander."
+      ]
+    },
+    {
+      "key": "ABTEXT_Leonard",
+      "values": [
+        "Casts spirit command Analyze on",
+        "all enemies at the start of player",
+        "phase when Focus is above 150."
+      ]
+    },
+    {
+      "key": "ABTEXT_SABINA",
+      "values": [
+        "Decreases Final Accuracy % and",
+        "Final Evasion % of enemies within 5",
+        "spaces by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_VALHEIM",
+      "values": [
+        "Triggers Spirit command Bullseye",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_FAURA",
+      "values": [
+        "Increases DMG dealt by 10% when",
+        "Focus is above 13."
+      ]
+    },
+    {
+      "key": "ABTEXT_Galung",
+      "values": [
+        "Increases Focus by 3 in battle.",
+        "Increases DMG dealt by 20% during",
+        "enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_Gates",
+      "values": [
+        "Decreases Focus and SP of damaged",
+        "opponent by 5."
+      ]
+    },
+    {
+      "key": "ABTEXT_YuiFan",
+      "values": [
+        "Increases DMG dealt by 10% and\\decreases DMG taken by 20% when Yu",
+        "Lan is on the map."
+      ]
+    },
+    {
+      "key": "ABTEXT_YuiRan",
+      "values": [
+        "Increases DMG dealt by 10% and\\decreases DMG taken by 20% when Yu",
+        "Fan is on the map."
+      ]
+    },
+    {
+      "key": "ABTEXT_Mercenary",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Amalgam",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Sinzi",
+      "values": [
+        "Increases Synchro Rate by 30 when",
+        "sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_ReiAyanami",
+      "values": [
+        "Increases the base effect value of",
+        "the A.T. Field from 3000 to 3300."
+      ]
+    },
+    {
+      "key": "ABTEXT_Asuka",
+      "values": [
+        "Increases Focus by 10 when",
+        "sortied. Spirit command Assault",
+        "now costs 20 SP."
+      ]
+    },
+    {
+      "key": "ABTEXT_Mari_Of_Evangelion",
+      "values": [
+        "Increases Support Attack DMG dealt",
+        "by 20%. Increases Focus by 5 when",
+        "engaging in Support Attack."
+      ]
+    },
+    {
+      "key": "ABTEXT_Evangelion_1",
+      "values": [
+        "Increases Synchro Rate by 50 during",
+        "sortie."
+      ]
+    },
+    {
+      "key": "ABTEXT_DUMMYSYS",
+      "values": [
+        "Focus is 170 under normal",
+        "conditions."
+      ]
+    },
+    {
+      "key": "ABTEXT_AngelAtEVA_4",
+      "values": [
+        "Recovers all HP an EN when HP falls",
+        "below 5%. (Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_AngelAtEVA_5",
+      "values": [
+        "Increases Feeler DMG by 500 and",
+        "Range by 2."
+      ]
+    },
+    {
+      "key": "ABTEXT_AngelAtEVA_6",
+      "values": [
+        "Triggers special commands Bullseye",
+        "and Sniper when Focus is",
+        "above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_AngelAtEVA_7",
+      "values": [
+        "Recovers all HP when HP falls to 0.",
+        "(Only once.)"
+      ]
+    },
+    {
+      "key": "ABTEXT_AngelAtEVA_9",
+      "values": [
+        "Increases the effect of the A.T.",
+        "Field by 1000."
+      ]
+    },
+    {
+      "key": "ABTEXT_AngelAtEVA_10",
+      "values": [
+        "The base effect value of the A.T.",
+        "Field is now 7000."
+      ]
+    },
+    {
+      "key": "ABTEXT_OKITA",
+      "values": [
+        "Increases SP by 5 at the start of",
+        "player phase. Sub pilots included."
+      ]
+    },
+    {
+      "key": "ABTEXT_KODAI",
+      "values": [
+        "Increases Movement by 2. Increases",
+        "Final Evasion % by 30%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Yamamoto_Yamato",
+      "values": [
+        "Increases Movement by 2. Increases",
+        "Final Evasion % by 30%."
+      ]
+    },
+    {
+      "key": "ABTEXT_DESLER",
+      "values": [
+        "Increases player Focus by 10 at the",
+        "start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_ZERIC",
+      "values": [
+        "Grants special skill Fleet",
+        "Commander."
+      ]
+    },
+    {
+      "key": "ABTEXT_DMEL",
+      "values": [
+        "Changes to Final Accuracy % and",
+        "Final Evasion % are doubled thanks",
+        "to special skill Commander."
+      ]
+    },
+    {
+      "key": "ABTEXT_HIDLN",
+      "values": [
+        "Triggers spirit command Dauntless",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_BERGR",
+      "values": [
+        "Triggers spirit command Assault",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_GETO",
+      "values": [
+        "Increases Final Accuracy % by 30%",
+        "when Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_KRITUE",
+      "values": [
+        "Decreases DMG taken by 10% when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_GEEL",
+      "values": [
+        "DMG dealt against opponents with a",
+        "lower level increases by 30%."
+      ]
+    },
+    {
+      "key": "ABTEXT_MRDA",
+      "values": [
+        "Increases Movement by 2. Increases",
+        "Final Evasion % by 30%."
+      ]
+    },
+    {
+      "key": "ABTEXT_SYURTU",
+      "values": [
+        "Increases Range by 1 of map weapons",
+        "and weapons with Range that is not 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_YRTORA",
+      "values": [
+        "After taking damage, current",
+        "changes to Focus are increased by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_Captain_GamillasShip",
+      "values": [
+        "Increases Focus by 5 when sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_Soldier_Gamillas",
+      "values": [
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_EliteGuards_Yamato",
+      "values": [
+        "Increases Focus by 5 when sortied.",
+        "Increases Final Accuracy % and",
+        "Final Evasion % by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_ANJRZ",
+      "values": [
+        "Increases Max SP by 25% when",
+        "sortied. Increases Final Accuracy %",
+        "and Final Evasion % by 15%."
+      ]
+    },
+    {
+      "key": "ABTEXT_ANJ",
+      "values": [
+        "Increases Max SP by 25% when",
+        "sortied. Increases Final Accuracy %",
+        "and Final Evasion % by 15%."
+      ]
+    },
+    {
+      "key": "ABTEXT_SARIA",
+      "values": [
+        "Increases ExC by 2 and Final",
+        "Accuracy % and Final Evasion % by 10%",
+        "when sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_HIRDA",
+      "values": [
+        "Increases Focus by 10 and Final",
+        "Accuracy % and Final Evasion % by 10%",
+        "when sortied."
+      ]
+    },
+    {
+      "key": "ABTEXT_VVAN",
+      "values": [
+        "Obtains 1 Likitee Doll Power Part",
+        "after clearing each scenario."
+      ]
+    },
+    {
+      "key": "ABTEXT_ELSHA",
+      "values": [
+        "After Support Attacking or Support",
+        "Defending, both supported and",
+        "supporter gain 3 SP."
+      ]
+    },
+    {
+      "key": "ABTEXT_ROZRY",
+      "values": [
+        "Increases money gained by 20%."
+      ]
+    },
+    {
+      "key": "ABTEXT_CRIS",
+      "values": [
+        "Increases DMG dealt by 20% and",
+        "increases Final Evasion % by 10%",
+        "during enemy phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_TNYA_E",
+      "values": [
+        "Increases CQB, RNG, SKL, DEF,",
+        "EVD, HIT by 5."
+      ]
+    },
+    {
+      "key": "ABTEXT_IRMA_E",
+      "values": [
+        "Increases CQB, RNG, SKL, DEF,",
+        "EVD, HIT by 5."
+      ]
+    },
+    {
+      "key": "ABTEXT_JIL",
+      "values": [
+        "Triggers spirit command Dauntless",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_TASUKU",
+      "values": [
+        "Spirit command Love now costs",
+        "40 SP."
+      ]
+    },
+    {
+      "key": "ABTEXT_Salamandina",
+      "values": [
+        "Nearby allies gain 3 Focus at the",
+        "start of player phase."
+      ]
+    },
+    {
+      "key": "ABTEXT_ENBRW",
+      "values": [
+        "Triggers spirit command Disturb",
+        "at the start of player phase when",
+        "Focus is above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_Dragon_1",
+      "values": [
+        "Decreases DMG taken by 10% when",
+        "Focus is above 110."
+      ]
+    },
+    {
+      "key": "ABTEXT_Dragon_2",
+      "values": [
+        "Decreases Final Evasion % of",
+        "enemies within 4 spaces by 30%."
+      ]
+    },
+    {
+      "key": "ABTEXT_Dragon_3",
+      "values": [
+        "Increases Final Accuracy % by 10%."
+      ]
+    },
+    {
+      "key": "ABTEXT_AIC",
+      "values": [
+        "Increases Final Accuracy % by 5%."
+      ]
+    },
+    {
+      "key": "ABTEXT_MHERO",
+      "values": [
+        "Increases DMG dealt by 10%.",
+        "Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_FHERO",
+      "values": [
+        "Increases DMG dealt by 10%.",
+        "Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_MHERO_S",
+      "values": [
+        "Increases DMG dealt by 10%.",
+        "Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_FHERO_S",
+      "values": [
+        "Increases DMG dealt by 10%.",
+        "Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_RIBL1",
+      "values": [
+        "Increases Movement by 2."
+      ]
+    },
+    {
+      "key": "ABTEXT_RIBL2",
+      "values": [
+        "Increases Range by 2 of map weapons",
+        "and weapons with Range that is not 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_RFORUTU",
+      "values": [
+        "Changes to Final Accuracy % and",
+        "Final Evasion % are doubled thanks",
+        "to special skill Commander."
+      ]
+    },
+    {
+      "key": "ABTEXT_NEBLNNA",
+      "values": [
+        "Triggers spirit command Awaken at",
+        "start of player phase when Focus is",
+        "above 130."
+      ]
+    },
+    {
+      "key": "ABTEXT_Soldier",
+      "values": [
+        "Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_Commander",
+      "values": [
+        "Increases Range by 1 of map weapons",
+        "and weapons with Range that is not 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_AIOG",
+      "values": [
+        "Increases Final Accuracy % by 15%."
+      ]
+    },
+    {
+      "key": "ABTEXT_MOGP",
+      "values": [
+        "Increases Max SP by 20% when",
+        "sortied. Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "ABTEXT_FOGP",
+      "values": [
+        "Increases Max SP by 20% when",
+        "sortied. Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_ZAN3",
+      "values": [
+        "Zambot Moon Attack will always be a critical hit",
+        "on Night and Space maps."
+      ]
+    },
+    {
+      "key": "CBTEXT_DTN3",
+      "values": [
+        "Increases Mobility by 50."
+      ]
+    },
+    {
+      "key": "CBTEXT_ZGundam",
+      "values": [
+        "Pilot CQB, RNG, SKL, DEF, EVD, HIT increase",
+        "by 10 when special ability Biosensor is active."
+      ]
+    },
+    {
+      "key": "CBTEXT_Methuss",
+      "values": [
+        "Grants special ability Resupply Device."
+      ]
+    },
+    {
+      "key": "CBTEXT_HBRB",
+      "values": [
+        "Increases Spider Web DMG by 300 and grants the",
+        "special effect Ignore Size."
+      ]
+    },
+    {
+      "key": "CBTEXT_ZZGD",
+      "values": [
+        "All High Mega Cannon weapons cost 20 less EN and",
+        "require 10 less Focus."
+      ]
+    },
+    {
+      "key": "CBTEXT_HYS",
+      "values": [
+        "Increases all weapon DMG by 100 and makes it",
+        "possible to use them after moving."
+      ]
+    },
+    {
+      "key": "CBTEXT_GundamMk2",
+      "values": [
+        "Increases Final Accuracy % by 10%. Increases",
+        "Long Rifle DMG by 300."
+      ]
+    },
+    {
+      "key": "CBTEXT_QBEB",
+      "values": [
+        "Increases Final Accuracy % by 10%. Funnels now",
+        "cost 10 less EN and do 200 more DMG."
+      ]
+    },
+    {
+      "key": "CBTEXT_QBER",
+      "values": [
+        "Increases Final Accuracy % by 10%. Funnels now",
+        "cost 10 less EN and do 200 more DMG."
+      ]
+    },
+    {
+      "key": "CBTEXT_NGundam",
+      "values": [
+        "Newtype Weapons gain DMG equal to the level of",
+        "special skill Newtype."
+      ]
+    },
+    {
+      "key": "CBTEXT_ReGZ",
+      "values": [
+        "Increases Movement by 1. Increases Range by 1 except",
+        "map weapons and weapons with Range that is 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_Jegan",
+      "values": [
+        "Increases Beam Rifle DMG by 300."
+      ]
+    },
+    {
+      "key": "CBTEXT_RaCailum",
+      "values": [
+        "Increases Mega Particle Cannon Volley DMG by 300.",
+        "Increases Max EN by 60."
+      ]
+    },
+    {
+      "key": "CBTEXT_AAzieru",
+      "values": [
+        "Increases Movement by 1. Increases Armor by 500."
+      ]
+    },
+    {
+      "key": "CBTEXT_KSGD",
+      "values": [
+        "Increases Funnel Missile DMG by 200. Increases",
+        "Movement by 2."
+      ]
+    },
+    {
+      "key": "CBTEXT_PNRP",
+      "values": [
+        "Increases Funnel Missile DMG by 200. Increases",
+        "Movement by 2."
+      ]
+    },
+    {
+      "key": "CBTEXT_XBGD1CC",
+      "values": [
+        "Grants special effect Barrier Piercing to all",
+        "CQB weapons and increases CRT by 30."
+      ]
+    },
+    {
+      "key": "CBTEXT_XBGD1FC",
+      "values": [
+        "Grants special effect Barrier Piercing to all",
+        "CQB weapons and increases CRT by 30."
+      ]
+    },
+    {
+      "key": "CBTEXT_MGDF91",
+      "values": [
+        "Increases V.S.B.R. DMG by 300. Increases Range by 1",
+        "except map weapons and weapons with Range that is 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_DestinyGundam",
+      "values": [
+        "Increases Max EN by 80. Special ability Shadow",
+        "now has no Focus requirements to activate."
+      ]
+    },
+    {
+      "key": "CBTEXT_StrikeFreedomGundam",
+      "values": [
+        "Increases map weapon Super DRAGOON Ammo by 1 and",
+        "decreases required Focus by 10."
+      ]
+    },
+    {
+      "key": "CBTEXT_INF_C",
+      "values": [
+        "Increases Range of all CQB weapons by 1. Increases",
+        "Movement by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_ForceImpulseGundam",
+      "values": [
+        "Increases Excalibur DMG by 200. Increases Range by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_ETNL",
+      "values": [
+        "Decreases Max DMG taken by 30%."
+      ]
+    },
+    {
+      "key": "CBTEXT_OOQant",
+      "values": [
+        "Increases Max EN by 100. Allies within 2 spaces are",
+        "not affected by special weapons."
+      ]
+    },
+    {
+      "key": "CBTEXT_GundamZabanya",
+      "values": [
+        "Increases Range by 2 except map weapons and weapons",
+        "with Range that is 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_GundamHarute",
+      "values": [
+        "Increases Movement by 1. Makes it possible to use",
+        "weapons after moving."
+      ]
+    },
+    {
+      "key": "CBTEXT_RafaelGundam",
+      "values": [
+        "Increases special ability GN Field Effect by",
+        "400. Increases Max EN by 50."
+      ]
+    },
+    {
+      "key": "CBTEXT_Ptolemaios2_KAI",
+      "values": [
+        "Makes it possible to use weapons after moving",
+        "while TRANS-AM is active."
+      ]
+    },
+    {
+      "key": "CBTEXT_Brave_in_Gundam00",
+      "values": [
+        "Weapon and unit terrain handling become Spc-S and",
+        "Air-S."
+      ]
+    },
+    {
+      "key": "CBTEXT_GNX4",
+      "values": [
+        "Increases Movement by 1. Increases Mobility by 15."
+      ]
+    },
+    {
+      "key": "CBTEXT_UCGundam",
+      "values": [
+        "Newtype Weapons gain DMG equal to the level of",
+        "special skill Newtype."
+      ]
+    },
+    {
+      "key": "CBTEXT_BANSE_N",
+      "values": [
+        "Increases Armed Armor DE DMG by 300 and Range by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_ReZEL_A",
+      "values": [
+        "Increases Final Accuracy % by 20%. Increases",
+        "Mega Beam Launcher DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_DELP",
+      "values": [
+        "Makes Transform possible after moving."
+      ]
+    },
+    {
+      "key": "CBTEXT_LOTO",
+      "values": [
+        "Amount of HP recovered increases by 100% thanks to",
+        "Repair."
+      ]
+    },
+    {
+      "key": "CBTEXT_JEG_ECD",
+      "values": [
+        "Increases ranged weapon DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_JEG_ECC",
+      "values": [
+        "Increases Mega Bazooka Launcher DMG by 300."
+      ]
+    },
+    {
+      "key": "CBTEXT_JEST",
+      "values": [
+        "Increases Tri-Star Formation DMG by 200 and",
+        "Ammo by 4."
+      ]
+    },
+    {
+      "key": "CBTEXT_NAGMA_F",
+      "values": [
+        "Hyper Mega Particle Cannon costs 30 less EN and",
+        "requires 10 less Focus."
+      ]
+    },
+    {
+      "key": "CBTEXT_ByarlantCustom",
+      "values": [
+        "Increases all weapon DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_NZEONG",
+      "values": [
+        "Increases Psycho Shard DMG by 300."
+      ]
+    },
+    {
+      "key": "CBTEXT_KSYA",
+      "values": [
+        "Increases Newtype Weapon DMG by 200 and CRT by 10."
+      ]
+    },
+    {
+      "key": "CBTEXT_GarenCieres",
+      "values": [
+        "Grants special ability Repair Device. Increases",
+        "Movement by 2."
+      ]
+    },
+    {
+      "key": "CBTEXT_Gaine",
+      "values": [
+        "Increases Max EN by 50 and Movement by 1.",
+        "Increases Mighty Formation DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_MTGN",
+      "values": [
+        "Increases Max EN by 50 and Movement by 1.",
+        "Increases Drive Wheel Sword weapons DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_MTKZ",
+      "values": [
+        "Increases Max EN by 50 and Movement by 1.",
+        "Increases Drill Crusher DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_GMTGN",
+      "values": [
+        "Increases Max EN by 50 and Movement by 1.",
+        "Increases Drive Wheel Sword weapons DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_TBON",
+      "values": [
+        "Increases HP by 1000, Armor by 300, and Sight",
+        "by30."
+      ]
+    },
+    {
+      "key": "CBTEXT_BBON",
+      "values": [
+        "Increases HP by 1000, Armor by 300, and Sight",
+        "by30."
+      ]
+    },
+    {
+      "key": "CBTEXT_GDDB",
+      "values": [
+        "Increases reach of special ability Repair Device",
+        "by 1. Amount of recovered HP increases by 50%."
+      ]
+    },
+    {
+      "key": "CBTEXT_HRYU",
+      "values": [
+        "Increases all weapon DMG by 200 and CRT by 30."
+      ]
+    },
+    {
+      "key": "CBTEXT_GRYU",
+      "values": [
+        "Increases all weapon DMG by 200 and CRT by 30."
+      ]
+    },
+    {
+      "key": "CBTEXT_BMTGN",
+      "values": [
+        "Increases Max EN by 50 and Movement by 1.",
+        "Increases Drive Wheel Sword weapons DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_NDSCB",
+      "values": [
+        "Gravity Blast costs 25 less EN.",
+        "Increases Max EN to 80."
+      ]
+    },
+    {
+      "key": "CBTEXT_NDSCC",
+      "values": [
+        "Gravity Blast costs 25 less EN.",
+        "Increases Max EN to 80."
+      ]
+    },
+    {
+      "key": "CBTEXT_BLSRN",
+      "values": [
+        "Can be affected by special ability Gravity Wave",
+        "Beam. Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_ASCUSR",
+      "values": [
+        "Increases all CQB weapon DMG by 200 and CRT by 30."
+      ]
+    },
+    {
+      "key": "CBTEXT_SPAS",
+      "values": [
+        "Increases Final Evasion % by 20%.",
+        "Increases all weapon DMG by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_ShinGetter",
+      "values": [
+        "Makes Transform possible after moving."
+      ]
+    },
+    {
+      "key": "CBTEXT_ShinGetterDragon",
+      "values": [
+        "Replenishes EN of adjacent ally units by 40",
+        "at the start of player phase."
+      ]
+    },
+    {
+      "key": "CBTEXT_BlackGetter",
+      "values": [
+        "Changes terrain handling of all weapons to S."
+      ]
+    },
+    {
+      "key": "CBTEXT_BlackGetter_3Rider",
+      "values": [
+        "Changes terrain handling of all weapons to S."
+      ]
+    },
+    {
+      "key": "CBTEXT_MazingerZ",
+      "values": [
+        "Increases Armor by 300 and Max EN by 50."
+      ]
+    },
+    {
+      "key": "CBTEXT_MAZINZERO",
+      "values": [
+        "Increases Armor by 300 and Max EN by 50."
+      ]
+    },
+    {
+      "key": "CBTEXT_GMAZINGS",
+      "values": [
+        "Increases Armor by 300 and Max EN by 50."
+      ]
+    },
+    {
+      "key": "CBTEXT_MAZINENG",
+      "values": [
+        "Increases Armor by 300 and Max EN by 50."
+      ]
+    },
+    {
+      "key": "CBTEXT_VenusA",
+      "values": [
+        "Increases the reach of special ability Repair",
+        "Device by 2."
+      ]
+    },
+    {
+      "key": "CBTEXT_BossBorotto",
+      "values": [
+        "Increases Kurogane Five Certain Death",
+        "Attack DMG by 200 and Ammo by 4."
+      ]
+    },
+    {
+      "key": "CBTEXT_ARBRST",
+      "values": [
+        "Strengthens special ability Lambda Driver."
+      ]
+    },
+    {
+      "key": "CBTEXT_Arx8_Laevateinn",
+      "values": [
+        "Strengthens special ability Lambda Driver."
+      ]
+    },
+    {
+      "key": "CBTEXT_M9_Gernsback_Mao",
+      "values": [
+        "Changes to Final Accuracy/Evasion % are",
+        "doubled thanks to special ability Jam."
+      ]
+    },
+    {
+      "key": "CBTEXT_M9_Gernsback_Kurz",
+      "values": [
+        "Increases Range by 2 except map weapons and",
+        "weapons with Range that is 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_M9D_Falke",
+      "values": [
+        "Increases all CQB weapon DMG by 200 and Mobility by 15."
+      ]
+    },
+    {
+      "key": "CBTEXT_CrossBow",
+      "values": [
+        "Increases Heat Hammer DMG by 300 and Range by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_TDD_1",
+      "values": [
+        "Increases all weapon DMG by 300. Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_Bontakun",
+      "values": [
+        "Turns all weapons into special weapons bearing",
+        "Focus Drain effect."
+      ]
+    },
+    {
+      "key": "CBTEXT_Evangelion_1",
+      "values": [
+        "Doubles Synchro Rate increase."
+      ]
+    },
+    {
+      "key": "CBTEXT_EVA1H_S",
+      "values": [
+        "Doubles Synchro Rate increase."
+      ]
+    },
+    {
+      "key": "CBTEXT_Evangelion_0",
+      "values": [
+        "Increases Movement by 1, Max HP by 500, and",
+        "Armor by 200."
+      ]
+    },
+    {
+      "key": "CBTEXT_Evangelion_2",
+      "values": [
+        "Increases Ammo of all Ammo weapons by 50%."
+      ]
+    },
+    {
+      "key": "CBTEXT_EVA8A",
+      "values": [
+        "Increases Sight by 30. Increases Range by 1 except",
+        "map weapons and weapons with Range that is 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_EVA13",
+      "values": [
+        "Increases Spear DMG by 300 and reduces EN cost",
+        "by 30."
+      ]
+    },
+    {
+      "key": "CBTEXT_YMT",
+      "values": [
+        "Grants one additional Power Parts slot."
+      ]
+    },
+    {
+      "key": "CBTEXT_CSM0",
+      "values": [
+        "Increases all weapon DMG by 300.",
+        "Increases Mobility by 25."
+      ]
+    },
+    {
+      "key": "CBTEXT_SVG_ME",
+      "values": [
+        "Unit and weapon terrain handling become Air-S and",
+        "Spc-S."
+      ]
+    },
+    {
+      "key": "CBTEXT_VRKS",
+      "values": [
+        "Grants special abilities HP Rec(M) and EN Rec(M)."
+      ]
+    },
+    {
+      "key": "CBTEXT_AKBS_SLC",
+      "values": [
+        "Increases ranged weapon DMG by 200. Increases Range",
+        "by 1 except map weapons and Range 1 weapons."
+      ]
+    },
+    {
+      "key": "CBTEXT_GRB_HLC",
+      "values": [
+        "Increases CQB weapon DMG by 200. Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_REIZ",
+      "values": [
+        "Increases Boomerang DMG by 300."
+      ]
+    },
+    {
+      "key": "CBTEXT_GRB_RZC",
+      "values": [
+        "Increases Shoulder Twin Cannons DMG by 200.",
+        "All weapons gain 50% more Ammo."
+      ]
+    },
+    {
+      "key": "CBTEXT_HUZ_ELC",
+      "values": [
+        "Grants special ability Resupply Device."
+      ]
+    },
+    {
+      "key": "CBTEXT_HUZ_CLC",
+      "values": [
+        "Increases HP by 300, Armor by 100, Sight by 5,",
+        "and Mobility by 5."
+      ]
+    },
+    {
+      "key": "CBTEXT_AKBS_HLC",
+      "values": [
+        "Increases CQB weapon DMG by 200. Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_AKBS_BNC",
+      "values": [
+        "Increases all weapon DMG by 200.",
+        "Increases Sight and Mobility by 20."
+      ]
+    },
+    {
+      "key": "CBTEXT_GRB",
+      "values": [
+        "Increases Freeze Bullet DMG by 200 and Range by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_ERG",
+      "values": [
+        "Space-time Convergence Cannon costs 30 less EN",
+        "and requires 10 less Focus."
+      ]
+    },
+    {
+      "key": "CBTEXT_CLOP",
+      "values": [
+        "Increases ranged weapon DMG by 200. Increases Range",
+        "by 1 except map weapons and Range 1 weapons."
+      ]
+    },
+    {
+      "key": "CBTEXT_LIZA",
+      "values": [
+        "Increases all weapon DMG by 300 and Mobility by 20."
+      ]
+    },
+    {
+      "key": "CBTEXT_TODL",
+      "values": [
+        "Increases CQB weapon DMG by 200. Increases Movement by 1."
+      ]
+    },
+    {
+      "key": "CBTEXT_HYBIN",
+      "values": [
+        "Increases Mobility by 20 and Max EN by 100."
+      ]
+    },
+    {
+      "key": "CBTEXT_GRGST",
+      "values": [
+        "Increases Armor by 300 and Max EN by 100."
+      ]
+    },
+    {
+      "key": "CBTEXT_VANGRI",
+      "values": [
+        "Grants one additional Power Parts slot."
+      ]
+    },
+    {
+      "key": "CBTEXT_VANX",
+      "values": [
+        "Grants one additional Power Parts slot."
+      ]
+    },
+    {
+      "key": "CBTEXT_GRNVNG",
+      "values": [
+        "Grants one additional Power Parts slot."
+      ]
+    },
+    {
+      "key": "CBTEXT_VANGRI_2",
+      "values": [
+        "Grants one additional Power Parts slot."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6182 @@
+{
+  "_format": "BLTU",
+  "_language": "EN",
+  "_version": 1,
+  "_reserved": [
+    0,
+    0,
+    0
+  ],
+  "_entry_count": 712,
+  "entries": [
+    {
+      "key": "COMB_REC_LEC_TITLE",
+      "values": [
+        "ExC (Extra Count)",
+        "Extra Action",
+        "Extra Order",
+        "Spirit Cmds.",
+        "Weapon Attributes and Limitations",
+        "Tac Pts (Tac points)",
+        "Factory",
+        "SR Points",
+        "Select Game Mode",
+        "Save and Load",
+        "Retry",
+        "Useful Functions"
+      ]
+    },
+    {
+      "key": "COMB_REC_LEC_DESC_KW_LIST",
+      "values": [
+        "TK_COMB_REC_LEC_EXCOUNT_DESC",
+        "TK_COMB_REC_LEC_EXACTION_DESC",
+        "TK_COMB_REC_LEC_EXORDER_DESC",
+        "TK_COMB_REC_LEC_SPIRIT_DESC",
+        "TK_COMB_REC_LEC_WEAPON_DESC",
+        "TK_COMB_REC_LEC_TAC_DESC",
+        "TK_COMB_REC_LEC_FACTORY_DESC",
+        "TK_COMB_REC_LEC_SRPOINT_DESC",
+        "TK_COMB_REC_LEC_GAMEMODE_DESC",
+        "TK_COMB_REC_LEC_QUICKSAVE_PS4_DESC",
+        "TK_COMB_REC_LEC_RETRY_DESC",
+        "TK_COMB_REC_LEC_ADVICE_PS4_DESC",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_EXCOUNT_DESC",
+      "values": [
+        "●ExC (Extra Count) is a numeric value each unit has and is consumed",
+        "　when using extra actions and extra orders.",
+        "●When any one of the conditions listed below is met, gain 1 ExC.",
+        "　　\\c1・When defeating enemy units.\\c0",
+        "　　\\c1・When main pilot levels up.\\c0",
+        "　The below conditions apply to battleship units.",
+        "　　\\c1・When allies' total score in the map reaches every 10.\\c0",
+        "　If a pilot is a Great Ace (score above 80), add 1 ExC when",
+        "　sortied.",
+        "●Maximum ExC is 10. Depending on the cost of ExC, below commands",
+        "　will be available.",
+        "　　Extra Action　 :　All units can use this and it will",
+        "　　　　　　　　　　　have various effects on ally units.",
+        "　　Extra Order　　:　Only battleship units can use this and it",
+        "　　　　　　　　　　　will have various effects on nearby units.",
+        "\n"
+      ],
+      "extra": [
+        490,
+        200,
+        0
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_EXACTION_DESC",
+      "values": [
+        "●All units (including battleship units) can use these commands.",
+        "　Ally units gain various effects by spending ExC.",
+        "●There are 4 types of effects under extra actions. The cost varies",
+        "　depending on the effects.",
+        "　　\\c1 1. Boost Dash: ExC costs 2\\c0",
+        "　　　　Raises Movement by 2, ignores negative effects caused by",
+        "　　　　terrain, and you are able to move when you're surrounded.",
+        "　　\\c1 2. Direct Attack: ExC costs 2\\c0",
+        "　　　　Ignores special abilities and special skills related to",
+        "　　　　enemy's defense. Also ignores the reduced damage caused",
+        "　　　　by size differences.",
+        "　　\\c1 3. Smash Hit: ExC costs 3\\c0",
+        "　　　　All attacks become critical for one turn.",
+        "　　　　(Increases damage dealt by 25%.)",
+        "　　　　Effect is doubled if stacked with spirit commands Valor and Soul.",
+        "　　\\c1 4. Multi Action: ExC costs 3\\c0",
+        "　　　　If enemy unit is defeated with the next attack, perform an",
+        "　　　　extra action. If enemy unit isn't defeated with the next attack,",
+        "　　　　you lose the effect. If you perform an action other than attack,",
+        "　　　　it will not lose its effect until you attack next.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_EXORDER_DESC",
+      "values": [
+        "●Only battleship units can use these commands.",
+        "　Nearby ally units gain various effects by spending ExC.",
+        "●There are 4 types of effects under extra orders. The cost varies",
+        "　depending on the effects.",
+        "　　\\c1 1. Emergency Retrieval\\c0",
+        "　　　　Select an ally unit (excluding battleship units) existing within",
+        "　　　　8 spaces and retrieve it.",
+        "　　\\c1 2. Boost Focus: ExC costs 2\\c0",
+        "　　　　Select an ally unit existing within 4 spaces and add 10 Focus.",
+        "　　\\c1 3. Boost ExC: ExC costs 3\\c0",
+        "　　　　Select an ally unit existing within 4 spaces and add 2 ExC.",
+        "　　\\c1 4. Restore Action: ExC costs 5\\c0",
+        "　　　　Select an ally unit existing within 5 spaces that finished",
+        "　　　　performing action and restore its number of actions.",
+        "　These commands cannot be used on yourself.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_SPIRIT_DESC",
+      "values": [
+        "●These commands grant you various effects. Spend SP (spirit points) ",
+        "　to use these. Type of commands, cost of SP, and level to",
+        "　obtain a command differ depending on the pilot.",
+        "　",
+        "　When sortied, SP is\\c150% of the max value\\c0.",
+        "　If a pilot is a Great Ace (score above 80), add 1 ExC when",
+        "　\\c175% of the max value\\c0 when sortied.",
+        "●You can use from each unit's command Spirit, all units' command",
+        "　Search, and battle data window Spirit.",
+        "　\\c1You can use this even if a unit finished taking action\\c0.",
+        "　\\c1During enemy phase, use from battle data window Spirit\\c0",
+        "　\\c1when return attacking\\c0.",
+        "●Each pilot's SP is \\c1recovered by 5 each start of ally phase\\c0,",
+        "　but will not exceed the maximum SP.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_WEAPON_DESC",
+      "values": [
+        "●Weapon Attributes",
+        "　Attributes are set to some weapons.",
+        "　　P: 　　 Move & Attack Weapon",
+        "　　　　　　\\c1You can use weapon after a movement\\c0.",
+        "　　S: 　　 Special Weapon",
+        "　　　　　　\\c1Gives special effects when dealing damage\\c0.",
+        "　　　　　　Some power parts may cause the effect to be ignored.",
+        "　　C: 　　 Counter Weapon",
+        "　　　　　　\\c1When using during return attack, you attack first\\c0.",
+        "　　B: 　　 Beam Weapon",
+        "　　　　　　Damage may be blocked by Barriers such as I-Field.",
+        "　　G: 　　 Gravity Weapon",
+        "　　　　　　Damage may be blocked by Barriers such as Distortion",
+        "　　　　　　Field.",
+        "●Limitations",
+        "　Some weapons are set with conditions required to be able to use",
+        "　them.",
+        "　　Required Focus:　　 Requires Focus to be able to use it.",
+        "　　　　　　　　　　　　\\c1Pilot must have the required Focus\\c0",
+        "　　　　　　　　　　　　\\c1to be able to use the weapon\\c0.",
+        "　　Required Skill:　　 Requires a skill to be able to use it.",
+        "　　　　　　　　　　　　\\c1Pilot must have the required skill to\\c0",
+        "　　　　　　　　　　　　\\c1be able to use the weapon\\c0.",
+        "　　　　　　　　　　　　If a certain skill level is stated, you must",
+        "　　　　　　　　　　　　reach that certain level as well.",
+        "　　　　　　　　　　　　If Newtype is the required skill, you can",
+        "　　　　　　　　　　　　replace it with skill Artificial Newtype.",
+        "　　Required Pilot:　　 Requires certain pilots to use these weapon.",
+        "　　　　　　　　　　　　\\c1Only certain pilots indicated can use\\c0",
+        "　　　　　　　　　　　　\\c1the weapon\\c0.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_TAC_DESC",
+      "values": [
+        "●Points used to develop and create Skill Programs which are required",
+        "　to raise pilots' abilities and obtain special skills.",
+        "　Can be \\c1obtained by defeating enemies\\c0.",
+        "　Can be \\c1shared among all ally units just like money\\c0.",
+        "●Skill Programs can be developed or created from Skill Tree in",
+        "　the intermission menu.",
+        "●Developed or created Skill Programs can be used from Skill Programs",
+        "　in the intermission menu.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_TAC_Ver2_DESC",
+      "values": [
+        "●Points used to develop and create Skill Programs which are required",
+        "　to raise pilots' abilities and obtain special skills.",
+        "　Also used for purchasing power parts and for Tac Customization",
+        "　from Factory in the intermission menu.",
+        "　Can be \\c1obtained by defeating enemies\\c0.",
+        "　Can be \\c1shared among all ally units just like money\\c0.",
+        "●Skill Programs can be developed or created from Skill Tree in",
+        "　the intermission menu.",
+        "●Developed or created Skill Programs can be used from Skill Programs",
+        "　in the intermission menu.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_FACTORY_DESC",
+      "values": [
+        "●You can purchase/sell power parts and tweak Tac Customization",
+        "　from Factory in the intermission menu.",
+        "　　Purchase　　　　 :　You can purchase power parts by spending Tac Pts.",
+        "　　　　　　　　　　　　\\c1Some available parts may be added by meeting\\c0",
+        "　　　　　　　　　　　　\\c1certain conditions\\c0.",
+        "　　　　　　　　　　　　\\c1The Recommended Items will change with each\\c0",
+        "　　　　　　　　　　　　\\c1different scenario.\\c0",
+        "　　Sell　　　　　　 :　Obtain Tac Pts by selling power parts.",
+        "　　Tac Customization:　Spend Tac Pts to \\c1raise Tac Customization stages.\\c0",
+        "　　　　　　　　　　　　\\c1All ally units will have various effects\\c0",
+        "　　　　　　　　　　　　\\c1depending on the Tac Customization stage\\c0.",
+        "　　　　　　　　　　　　There are 0 to 4 stages in Tac Customization. ",
+        "　　　　　　　　　　　　These stages are called Grades, and they have  ",
+        "　　　　　　　　　　　　certain effects starting from Grade 1. Grade 0 has ",
+        "　　　　　　　　　　　　no effect.",
+        "　　　　　　　　　　　　Each Grade has 3 effects to choose from. You may",
+        "　　　　　　　　　　　　choose 1, but you cannot change it once it's",
+        "　　　　　　　　　　　　selected.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_SRPOINT_DESC",
+      "values": [
+        "●You can earn these points by completing challenges in each of the",
+        "scenarios when playing Standard Mode.",
+        "  Conditions for acquiring the SR Point are shown on Objectives.",
+        "●Acquiring an SR Point awards a bonus of \\c110000\\c0 Cash.",
+        "●The number of SR Points you have acquired also affects game difficulty.",
+        "  Hard: Acquired the SR Point for \\c1at least 80% of cleared scenarios\\c0.",
+        "        Face increased difficulty including enhanced enemy units.",
+        "  Normal: Acquired the SR Point for \\c1less than 80% of cleared scenarios\\c0.",
+        "        Defeating enemies awards \\c11.2 times the Cash compared to Hard\\c0.",
+        "●The story, robots, and pilots are the same for each difficulty level.",
+        "●You will lose your current SR points earned in a scenario if you retry",
+        "　from a game over.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_GAMEMODE_DESC",
+      "values": [
+        "●When you start this game, you will select 1 of 2 modes.",
+        "　　1. Beginner's Mode",
+        "　　　 A mode for playing Super Robot Wars V without difficulty.",
+        "　　　 \\c1SR points don't exist and difficulty is set to normal\\c0. ",
+        "　　　 As a beginner's bonus, \\c1money and Tac Pts are rewarded when\\c0",
+        "　　　 \\c1clearing a scenario\\c0.",
+        "　　　 Beginner's advice will be displayed on the Objectives screen.",
+        "　　2. Standard Mode",
+        "　　　 A mode for players familiar with the Super Robot Wars series.",
+        "　　　 \\c1SR point conditions exist, and game difficulty depends on the\\c0",
+        "　　　 \\c1number of SR points you have acquired.\\c0",
+        "●You can also change the game mode later from Options in the",
+        "　intermission menu.",
+        "　Both game modes have the same overall story with the same robots",
+        "　and pilots.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_QUICKSAVE_PS4_DESC",
+      "values": [
+        "●Game progress can be saved from \\c1Save in the intermission menu\\c0,",
+        "　and the \\c1command Suspend from the map\\c0.",
+        "●By selecting \\c1Save\\c0 in the intermission menu,",
+        "　you can save your progress to \\c1multiple save slots\\c0.",
+        "　By selecting Load from the title screen or from the intermission",
+        "　menu, you can resume from the saved progress.",
+        "●By selecting \\c1Suspend\\c0 command in the map, you can",
+        "　\\c1save one progress while on map\\c0.",
+        "　Select Continue from title screen to resume from",
+        "　the saved progress."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_QUICKSAVE_PSVITA_DESC",
+      "values": [
+        "●Game progress can be saved from \\c1Save in the intermission menu\\c0,",
+        "　and the \\c1command Suspend from the map\\c0.",
+        "●By selecting \\c1Save\\c0 in the intermission menu,",
+        "　you can save \\c1multiple intermission progress data as Stage Data\\c0.",
+        "　By selecting Load from the title screen or from the intermission",
+        "　menu, you can resume from the saved progress.",
+        "●In the intermission menu, \\c1select Upload under Network to save up to\\c0",
+        "　\\c13 Stage Data\\c0 in the network. (Learn more about network connection",
+        "　in the instruction manual.)",
+        "　Select Stage Data under Download from the title screen or Download",
+        "　under Network in the intermission menu to resume from the state when",
+        "　it was uploaded.",
+        "●By selecting command \\c1Suspend\\c0 in the map, you can",
+        "　\\c1save one progress while on map as System Data\\c0.",
+        "　Select Continue from title screen or use Quick Continue (R button +",
+        "　L button + START to soft reset, then hold START) to resume from",
+        "　the saved progress.",
+        "●While in the map, \\c1select Upload to Network under Suspend to save\\c0",
+        "　\\c1one progress as System Data in the network\\c0.",
+        "　Select System Data under Download from the title screen to resume from",
+        "　the state when it was uploaded.",
+        "●Stage Data and System Data uploaded in the network can be downloaded",
+        "　and played on the PlayStation®4 version of Super Robot Wars V.",
+        "　(Learn more about cross save in the instruction manual.)",
+        "　"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_RETRY_DESC",
+      "values": [
+        "●After a game over, you start from the beginning of the map you were in.",
+        "　Money, Tac Pts, and EXP gained before a game over \\c1will not be lost\\c0",
+        "　after retry.",
+        "　Your score, power parts, and skill programs gained by defeating",
+        "　enemies will be lost.",
+        "　If you choose to retry after a game over, you will lose the chance",
+        "　to obtain SR points. (Only in Standard Mode.)"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_ADVICE_PS4_DESC",
+      "values": [
+        "●Fast Forward and Skip",
+        "　\\c1During animated scenes, battle demos, and battle displays,\\c0 you can",
+        "　\\c1fast forward by pressing \\a13 and skip by pressing \\a01\\c0.",
+        "●Moving Units",
+        "　After selecting command Move, hold \\a34 while movement range",
+        "　is displayed and select a destination for the cursor to jump to",
+        "　the maximum movement range. You can \\c1skip movement animation of a\\c0",
+        "　\\c1piece by pressing \\a13\\c0. You can also \\c1skip it by selecting\\c0",
+        "　\\c1your destination while holding \\a44\\c0.",
+        "●Short Skip",
+        "　\\c1\\a15 to skip scenes with conversations displayed\\c0",
+        "　\\c1in text\\c0. ",
+        "●Long Skip",
+        "　\\c1\\a16 to skip scenes with conversations displayed\\c0",
+        "　\\c1in text\\c0. ",
+        "●Help",
+        "　\\c1Press \\a24 to display help in each screen\\c0.",
+        "　　・Controls",
+        "　　　Displays controller description in list screen and search screen.",
+        "　　・Data",
+        "　　　Displays descriptions of special skills, special abilities, and required ",
+        "　　　skills for a weapon in the unit Ability screen and weapon info screen.",
+        "　　・Combat Record",
+        "　　　Displays summarized information of game progress when cursor is",
+        "　　　not over a unit in the map or when you're in the intermission menu",
+        "　　　screen. You can also check the Lecture Board in Combat Record.",
+        "　　　"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_LEC_ADVICE_PSVITA_DESC",
+      "values": [
+        "●Fast Forward and Skip",
+        "　\\c1During animated scenes, battle demos, and battle displays,\\c0 you can",
+        "　\\c1fast forward by pressing ○ and skip by pressing ×\\c0.",
+        "●Moving Units",
+        "　After selecting command Move, hold R while movement range",
+        "　is displayed and select a destination for the cursor to jump to",
+        "　the maximum movement range. You can \\c1skip movement animation of a\\c0",
+        "　\\c1piece by pressing ○\\c0. You can also \\c1skip it by selecting\\c0",
+        "　\\c1your destination while holding R\\c0.",
+        "●Short Skip",
+        "　\\c1R + START to skip scenes with conversations displayed\\c0",
+        "　\\c1in text\\c0. ",
+        "●Long Skip",
+        "　\\c1L + START to skip scenes with conversations displayed\\c0",
+        "　\\c1in text\\c0. ",
+        "●Help",
+        "　\\c1Press SELECT to display help in each screen\\c0.",
+        "　　・Controls",
+        "　　　Displays controller description in list screen and search screen.",
+        "　　・Data",
+        "　　　Displays descriptions of special skills, special abilities, and required ",
+        "　　　skills for a weapon in the unit Ability screen and weapon info screen.",
+        "　　・Combat Record",
+        "　　　Displays summarized information of game progress when cursor is",
+        "　　　not over a unit in the map or when you're in the intermission menu",
+        "　　　screen. You can also check the Lecture Board in Combat Record.",
+        "　　　",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_IRON1",
+      "values": [
+        "Iron Emblem: Train 15 Ace Pilots."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_IRON2",
+      "values": [
+        "Increases EXP by 100% in battle. Spirit command Gain can be stacked."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_BRONZE1",
+      "values": [
+        "Bronze Emblem: Destroy a total of 100 or more enemies."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_BRONZE2",
+      "values": [
+        "Main pilot's SP recovers 15 each turn."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_SILVER1",
+      "values": [
+        "Silver Emblem: Acquire a total of 28,000 or more Tac Pts."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_SILVER2",
+      "values": [
+        "Increases Tac Pts by 100% for enemy defeats. Power parts cannot be stacked."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_GOLD1",
+      "values": [
+        "Gold Emblem: Earn a total of 12,000,000 or more money."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_GOLD2",
+      "values": [
+        "Money gain +100% for enemy defeat. Spirit command Fortune stackable."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_PLATINUM1",
+      "values": [
+        "Platinum Emblem: Gained at least 50 SR points."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_EMBLEM_PLATINUM2",
+      "values": [
+        "Each unit's number of action increases by 1.",
+        "\n"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_TOP_LECTURE",
+      "values": [
+        "To Lecture Board"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_TOP_PRODUCT",
+      "values": [
+        "To Product List"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_TOP_ACE5",
+      "values": [
+        "To Top 5 Pilots"
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_TOP_LECTURE_HELP",
+      "values": [
+        "Proceed to Lecture Board."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_TOP_PRODUCT_HELP",
+      "values": [
+        "Proceed to Product List."
+      ]
+    },
+    {
+      "key": "TK_COMB_REC_TOP_ACE5_HELP",
+      "values": [
+        "Proceed to Top 5 Pilots.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_PHASEEND",
+      "values": [
+        "End Phase"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_SEARCH",
+      "values": [
+        "Search"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_TEAMLIST",
+      "values": [
+        "Squad List"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_TEAMLIST_F",
+      "values": [
+        "Allies List"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_TEAMLIST_E",
+      "values": [
+        "Enemies List"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_TEAMLIST_F2",
+      "values": [
+        "Ally Squads/Enemy"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_TEAMLIST_E2",
+      "values": [
+        "Ally/Enemy Squads"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_OPERATION",
+      "values": [
+        "Objectives"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_TACSITUATION",
+      "values": [
+        "Tact Report"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_SYSTEM",
+      "values": [
+        "System"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_TEST_FOR_DEBUG",
+      "values": [
+        "TEST"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_MAPSAVE",
+      "values": [
+        "Suspend",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_PERSUASION",
+      "values": [
+        "Persuade"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_LOAD",
+      "values": [
+        "Board"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_MOVE",
+      "values": [
+        "Move"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TAKEOFF",
+      "values": [
+        "Launch"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_ATTACK",
+      "values": [
+        "Attack"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_EX_ACTION",
+      "values": [
+        "ExAction"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_EX_ORDER",
+      "values": [
+        "ExOrder"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_SONG",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_MAXBREAK",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_MOONLIGHT",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_REMOTECONTROL",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TRANSPORT",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TELEPATHY",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_REPAIR",
+      "values": [
+        "Repair"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_SUPPLY",
+      "values": [
+        "Resply."
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_ML_GROUND",
+      "values": [
+        "Land"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_ML_SKY",
+      "values": [
+        "Fly"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_ML_UNDER",
+      "values": [
+        "Burrow"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_ML_WATER",
+      "values": [
+        "Submerge"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDITEMSTRINGEXCHANGE_SPACE",
+      "values": [
+        "Into Space"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_PARTS",
+      "values": [
+        "Parts"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_ELECHANGE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TACTICS",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TRANSFORM",
+      "values": [
+        "Transform"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TRANSAM",
+      "values": [
+        "TRANS-AM"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_NT_D",
+      "values": [
+        "NT-D"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_GAI",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_GAI_SPHERE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TENGEN",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_EVO4_BATTLE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_EVO4_DECISION",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_COMBINE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_SINGLESEPARATE",
+      "values": [
+        "Divide"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_SYSTEMSYO",
+      "values": [
+        "System Seizure"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_MAZIN",
+      "values": [
+        "Mazin Power"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_GIZI",
+      "values": [
+        "Pseudo-Evol."
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_LEADERCHANGE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_SPIRIT",
+      "values": [
+        "Spirits"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_ABILITY",
+      "values": [
+        "Stats"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_WAIT",
+      "values": [
+        "Standby"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_COLLECT",
+      "values": [
+        "Recover"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_UNIT_TOGGLETRANSFORM",
+      "values": [
+        "",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_SORTIE_SELECT",
+      "values": [
+        "・Sortie Select"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_SORTIE_PREPAREMENU",
+      "values": [
+        "・Setup Menu"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_SORTIE_OPERATION",
+      "values": [
+        "・Objectives"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_SORTIE_RELOCATE",
+      "values": [
+        "・Placement"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_SORTIE_QUICKSAVE",
+      "values": [
+        "・Suspend",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MSPREP_UPGRADE",
+      "values": [
+        "Base Custom."
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MSPREP_PARTS",
+      "values": [
+        "Power Parts",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_PREPARE_TAG_ORGANIZE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_PREPARE_PILOT_TRAINING",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_PREPARE_PARTS",
+      "values": [
+        "Power Parts"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_PREPARE_REPLACEPARTS",
+      "values": [
+        "Option Parts"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_PREPARE_PILOT_CHANGE",
+      "values": [
+        "Change Pilot"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_PREPARE_UPGRADE",
+      "values": [
+        "Customization"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_SKILL_ROOT",
+      "values": [
+        "Skill Tree"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_SKILL_PROGRAM",
+      "values": [
+        "Skill Program"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_PREPARE_SEARCH",
+      "values": [
+        "Search",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SORTIE_CONFIRM_MOTHER",
+      "values": [
+        "Sortie with this base?"
+      ]
+    },
+    {
+      "key": "BTKW_SORTIE_CONFIRM_GO_MOTHER",
+      "values": [
+        "Confirm the base(s) to sortie."
+      ]
+    },
+    {
+      "key": "BTKW_EXTRAORDER_GUIDE_SELECT_UNIT",
+      "values": [
+        "Select ally unit.",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SORTIE_CONFIRM_MEMBER",
+      "values": [
+        "Sortie with this member?"
+      ]
+    },
+    {
+      "key": "BTKW_SORTIE_CONFIRM_GO_ALL",
+      "values": [
+        "Confirm the member(s) to sortie."
+      ]
+    },
+    {
+      "key": "BTKW_SORTIE_CONFIRM_PLACECHANGE",
+      "values": [
+        "Change placement."
+      ]
+    },
+    {
+      "key": "BTKW_SORTIE_CONFIRM_RECONSIDER",
+      "values": [
+        "Change member to sortie."
+      ]
+    },
+    {
+      "key": "BTKW_SORTIE_CONFIRM_RETURN",
+      "values": [
+        "Go back to sortie setup screen",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SSEPARATE_CONFIRM_1",
+      "values": [
+        "By using Divide in the map,"
+      ]
+    },
+    {
+      "key": "BTKW_SSEPARATE_CONFIRM_2",
+      "values": [
+        "you cannot return to its original form in the same map."
+      ]
+    },
+    {
+      "key": "BTKW_SSEPARATE_CONFIRM_3",
+      "values": [
+        "Are you sure you want to use Divide?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_TRANSAM_CONFIRM_1",
+      "values": [
+        "2 turns after it's activated,"
+      ]
+    },
+    {
+      "key": "BTKW_TRANSAM_CONFIRM_2",
+      "values": [
+        "TRANS-AM will automatically deactivate."
+      ]
+    },
+    {
+      "key": "BTKW_TRANSAM_CONFIRM_3",
+      "values": [
+        "After that, it cannot be activated anymore in the same map."
+      ]
+    },
+    {
+      "key": "BTKW_TRANSAM_CONFIRM_4",
+      "values": [
+        "Are you sure you want to activate TRANS-AM?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_NT_D_CONFIRM_1",
+      "values": [
+        "5 turns after it's activated,"
+      ]
+    },
+    {
+      "key": "BTKW_NT_D_CONFIRM_2",
+      "values": [
+        "Destroy Mode will automatically deactivate."
+      ]
+    },
+    {
+      "key": "BTKW_NT_D_CONFIRM_3",
+      "values": [
+        "After that, it cannot be activated anymore in the same map."
+      ]
+    },
+    {
+      "key": "BTKW_NT_D_CONFIRM_4",
+      "values": [
+        "Are you sure you want to activate NT-D?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SYSTEMSYO_CONFIRM_1",
+      "values": [
+        "You can apply the effect of spirit commands Analyze and Agitate"
+      ]
+    },
+    {
+      "key": "BTKW_SYSTEMSYO_CONFIRM_2",
+      "values": [
+        "against all enemies once per map."
+      ]
+    },
+    {
+      "key": "BTKW_SYSTEMSYO_CONFIRM_3",
+      "values": [
+        "Are you sure you want to use system seizure?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_MAZIN_CONFIRM_1",
+      "values": [
+        "If you activate Mazin Power in the map,"
+      ]
+    },
+    {
+      "key": "BTKW_MAZIN_CONFIRM_2",
+      "values": [
+        "you cannot turn back to Mazinger Z in the same map."
+      ]
+    },
+    {
+      "key": "BTKW_MAZIN_CONFIRM_3",
+      "values": [
+        "Are you sure you want to activate Mazin Power?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_GIZI_CONFIRM_1",
+      "values": [
+        "If you activate Pseudo-Evolution in the map,"
+      ]
+    },
+    {
+      "key": "BTKW_GIZI_CONFIRM_2",
+      "values": [
+        "you cannot turn back to Evangelion Unit-01 in the same map."
+      ]
+    },
+    {
+      "key": "BTKW_GIZI_CONFIRM_3",
+      "values": [
+        "Are you sure you want to activate Pseudo-Evolution?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_GRCOMBINE_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GRCOMBINE_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GRCOMBINE_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_B_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_B_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_B_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_B_CONFIRM_4",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_SPHERE_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_SPHERE_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_SPHERE_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_GAI_SPHERE_CONFIRM_4",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_BATTLE_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_BATTLE_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_BATTLE_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_BATTLE_CONFIRM_4",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_DECISION_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_DECISION_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_DECISION_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EVO4_DECISION_CONFIRM_4",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TENGEN_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TENGEN_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TENGEN_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TENGEN_CONFIRM_4",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_MOONLIGHT_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_MOONLIGHT_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_MOONLIGHT_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_MOONLIGHT_CONFIRM_4",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_REMOTECONTROL_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_REMOTECONTROL_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_REMOTECONTROL_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TRANSPORT_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TRANSPORT_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TRANSPORT_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TELEPATHY_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TELEPATHY_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TELEPATHY_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BCOMBINE_CONFIRM_1",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BCOMBINE_CONFIRM_2",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BCOMBINE_CONFIRM_3",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BCOMBINE_CONFIRM_4",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TC_COMMANDGUIDE_ATTACK",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TC_COMMANDGUIDE_DEFENCE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_TC_COMMANDGUIDE_KAMIKAZE",
+      "values": [
+        "",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_MENU_BOOST_DASH",
+      "values": [
+        "Boost Dash"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_MENU_DIRECT_ATTACK",
+      "values": [
+        "Direct Attack"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_MENU_SMASH_HIT",
+      "values": [
+        "Smash Hit"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_MENU_MULTI_ACTION",
+      "values": [
+        "Multi Action",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_TITLE_BOOST_DASH",
+      "values": [
+        "Boost Dash"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_TITLE_DIRECT_ATTACK",
+      "values": [
+        "Direct Attack"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_TITLE_SMASH_HIT",
+      "values": [
+        "Smash Hit"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_TITLE_MULTI_ACTION",
+      "values": [
+        "Multi Action",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_GUIDE_BOOST_DASH",
+      "values": [
+        "Raises Movement by 2, ignores negative effects caused by terrain,",
+        "and allows you to move when you're surrounded."
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_GUIDE_DIRECT_ATTACK",
+      "values": [
+        "Ignores special abilities and special skills related to enemy's defense.",
+        "Also ignores the reduced damage caused by size differences."
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_GUIDE_SMASH_HIT",
+      "values": [
+        "All attacks become critical for one turn.",
+        "Can be stacked with spirit commands Valor and Soul."
+      ]
+    },
+    {
+      "key": "BTKW_EXACTION_GUIDE_MULTI_ACTION",
+      "values": [
+        "If enemy unit is defeated with the next attack, perform an extra action.",
+        "If enemy unit is not defeated with the next attack, you lose the effect."
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_MENU_SALVAGE",
+      "values": [
+        "・Emgcy. Retrieval"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_MENU_FIGHTUP",
+      "values": [
+        "・Boost Focus"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_MENU_COUNTUP",
+      "values": [
+        "・Boost ExC"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_MENU_ACTIONUP",
+      "values": [
+        "・Restore Action",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_SALVAGE",
+      "values": [
+        "Emergency Retrieval"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_FIGHTUP",
+      "values": [
+        "Boost Focus"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_COUNTUP",
+      "values": [
+        "Boost ExC"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_ACTIONUP",
+      "values": [
+        "Restore Action",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_GUIDE_SALVAGE",
+      "values": [
+        "Select an ally unit existing within 8 spaces and retrieve it."
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_GUIDE_FIGHTUP",
+      "values": [
+        "Select an ally unit existing within 4 spaces and add",
+        "10 Focus.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_GUIDE_COUNTUP",
+      "values": [
+        "Select an ally unit existing within 4 spaces and add",
+        "by 2.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_GUIDE_ACTIONUP",
+      "values": [
+        "Select an ally unit existing within 5 spaces that finished",
+        "taking action and restore its number of actions.",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_CANNOTUSE_ALREADY",
+      "values": [
+        "You've already used this in this map."
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_CANNOTUSE_NOTARGET",
+      "values": [
+        "There is no target to use this on."
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_CANNOTUSE_NOPOSITION",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_EXORDER_CANNOTUSE_EOUSED",
+      "values": [
+        "You cannot use this until the next turn.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SPM_ALLMARKCLEAR_1",
+      "values": [
+        "All marks will be cleared."
+      ]
+    },
+    {
+      "key": "BTKW_SPM_ALLMARKCLEAR_2",
+      "values": [
+        "Are you sure you want to proceed?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SCM_ALLMARKCLEAR_1",
+      "values": [
+        "All marks will be cleared."
+      ]
+    },
+    {
+      "key": "BTKW_SCM_ALLMARKCLEAR_2",
+      "values": [
+        "Are you sure you want to proceed?",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_CHANGED",
+      "values": [
+        "Applied changes in system settings."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_MXBBGM_FIX",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWM_MXBBGM_TEAM",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWM_MXBBGM_SET",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWM_INSTDATA_USE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWM_INSTDATA_NOUSE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEDISP_SINGLE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEDISP_TAG",
+      "values": [
+        "",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEDISP_NORMAL",
+      "values": [
+        "Displays default color for piece."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEDISP_BELONG",
+      "values": [
+        "Changes color depending on the piece attribute."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEDISP_ZOOM",
+      "values": [
+        "Switches between target and attribute by using map zoom.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEMOVE_SLOW",
+      "values": [
+        "Set piece movement speed to Slow."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEMOVE_NORMAL",
+      "values": [
+        "Set piece movement speed to Default."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_PIECEMOVE_FAST",
+      "values": [
+        "Set piece movement speed to Fast.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QUICKCOMMAND",
+      "values": [
+        "Set up Quick Commands."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_CHANGED",
+      "values": [
+        "Applied changes to Quick Commands.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_MAP_PHASEEND",
+      "values": [
+        "Use overall command End Phase."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_MAP_SEARCH",
+      "values": [
+        "Use overall command Search."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_MAP_TEAMLIST",
+      "values": [
+        "Use overall command Squad List."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_MAP_SAVE",
+      "values": [
+        "Use overall command Suspend."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_MAP_CURSORSPEED",
+      "values": [
+        "Faster cursor movement when pressed."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_MAP_NONE",
+      "values": [
+        "Will not set Quick Command.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_UNIT_TRANSFORM",
+      "values": [
+        "Transforms if possible."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_UNIT_SPIRIT",
+      "values": [
+        "Use individual commands Spirit."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_UNIT_ABILITY",
+      "values": [
+        "Use individual commands Ability."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_UNIT_LEADERCHANGE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWM_QC_UNIT_NONE",
+      "values": [
+        "Will not set Quick Command.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_CURSORMOVESTYLE_SCREEN",
+      "values": [
+        "Cursor moves in all direction on screen."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_CURSORMOVESTYLE_MAP",
+      "values": [
+        "Cursor moves on map spaces.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_CURSORMOVE_SCROLL",
+      "values": [
+        "Cursor scrolls to objective location."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_CURSORMOVE_JUMP",
+      "values": [
+        "Cursor jumps to objective location.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_GRID_ON",
+      "values": [
+        "Show lines in map."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_GRID_OFF",
+      "values": [
+        "Don't show lines in map.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_ASSIST_POSITIVE",
+      "values": [
+        "Support Defend if possible for unit."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_ASSIST_NEGATIVE",
+      "values": [
+        "Do not Support Defend even if possible for unit.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_SORT_MEMORIZE",
+      "values": [
+        "Memorize sort and sub info."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_SORT_FORGET",
+      "values": [
+        "Do not memorize sort and sub info.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_SCREEN_SIZE",
+      "values": [
+        "Change screen size."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_SS_CHANGED",
+      "values": [
+        "Applied changes to screen size.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_VOLUME_VOICE",
+      "values": [
+        "Set voice volume.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_VOLUME_SE",
+      "values": [
+        "Set sound effect volume.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_VOLUME_BGM",
+      "values": [
+        "Set music volume.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_1_1",
+      "values": [
+        "Continue playing the same music after battle animation ends."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_1_2",
+      "values": [
+        "Switch back to map music after battle animation ends.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_2_1",
+      "values": [
+        "Set battle animation music as squad theme song."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_2_2",
+      "values": [
+        "Set battle animation music as robot theme song.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_PRIORITY_SYSTEM",
+      "values": [
+        "Prioritize songs set by system."
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_PRIORITY_USER",
+      "values": [
+        "Prioritize songs set by user.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_DETAIL",
+      "values": [
+        "Set music to play during battle animation.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_BGM_REPLACE",
+      "values": [
+        "Replace music with another song.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_CHANGED",
+      "values": [
+        "Applied changes in system settings."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_MXBBGM_FIX",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWI_MXBBGM_SET",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWI_INSTDATA_USE",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SWI_INSTDATA_NOUSE",
+      "values": [
+        "",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_VOLUME_VOICE",
+      "values": [
+        "Set voice volume.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_VOLUME_SE",
+      "values": [
+        "Set sound effect volume.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_VOLUME_BGM",
+      "values": [
+        "Set music volume.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_BGM_2_1",
+      "values": [
+        "Set battle animation music as squad theme song."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_BGM_2_2",
+      "values": [
+        "Set battle animation music as robot theme song.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_BGM_DETAIL",
+      "values": [
+        "Set music to play during battle animation.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_BGM_REPLACE",
+      "values": [
+        "Replace music with another song.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_CHANGE_TEAMNAME",
+      "values": [
+        "Change squad name.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_SORT_MEMORIZE",
+      "values": [
+        "Memorize sort and sub info."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_SORT_FORGET",
+      "values": [
+        "Do not memorize sort and sub info.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_GAMEMODE_STANDARD",
+      "values": [
+        "Change game mode to Standard."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_GAMEMODE_BEGINNER",
+      "values": [
+        "Change game mode to Beginner's.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_SCREEN_SIZE",
+      "values": [
+        "Change screen size.",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWM_SCREEN_SIZE_CUSTOM",
+      "values": [
+        "Set the screen size that fits your monitor or television size.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_GAMEMODE_BEGINNER",
+      "values": [
+        "Play this game in the Beginner's Mode.",
+        "In this mode, SR points and changes in difficulty do not exist. Clearing a",
+        "battle map will reward you with bonus money and Tac Pts. Recommended for ",
+        "players who would like to play Super Robot Wars V without difficulty.",
+        "Game modes can be changed in Options in the intermission menu.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_GAMEMODE_STANDARD",
+      "values": [
+        "Play this game in the Standard Mode.",
+        "In this mode, SR points exist and difficulty of either Normal or Hard depends",
+        "on the amount of SR points obtained.",
+        "Recommended for players who are familiar with the Super Robot Wars series.",
+        "Game modes can be changed in Options in the intermission menu.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_GAMEMODE_GUIDANCE",
+      "values": [
+        "Let's get started with the game tutorial scenario.",
+        "In this scenario, basic controls and rules will be introduced.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SWI_DICT_ROBOT",
+      "values": [
+        "Open Robot Encyclopedia."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_DICT_PILOT",
+      "values": [
+        "Open Character Archives."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_DICT_WORD",
+      "values": [
+        "Open Library of Terminology."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_DICT_NAME",
+      "values": [
+        "Open Introductions to Series."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_SOUNDSELECT",
+      "values": [
+        "Open Music List."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_FLOWCHART",
+      "values": [
+        "Open Scenario Chart."
+      ]
+    },
+    {
+      "key": "BTKW_SWI_END_MESSAGE",
+      "values": [
+        "Open Retreat Message Collection.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_DISPNAME_NOPILOT",
+      "values": [
+        "－－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_DISPNAME_NOROBOT",
+      "values": [
+        "－－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_DISPNAME_NOTAG",
+      "values": [
+        "－－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_NOLEVEL_SKILL",
+      "values": [
+        "？？？"
+      ]
+    },
+    {
+      "key": "BTKW_UNDERBAR",
+      "values": [
+        "＿"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRIT_SLOT_NULL",
+      "values": [
+        "－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRIT_SLOT_YET",
+      "values": [
+        "？？？？"
+      ]
+    },
+    {
+      "key": "BTKW_SKILL_SLOT_NULL",
+      "values": [
+        "－－－－－－－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_SKILL_SLOT_YET",
+      "values": [
+        "？？？？？？？？？？"
+      ]
+    },
+    {
+      "key": "BTKW_KEYHELP_NOHELPSTRING",
+      "values": [
+        "－－－－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_CMM_0to9_STR",
+      "values": [
+        "0123456789"
+      ]
+    },
+    {
+      "key": "BTKW_2BAR",
+      "values": [
+        "－－"
+      ]
+    },
+    {
+      "key": "BTKW_3BAR",
+      "values": [
+        "－－－"
+      ]
+    },
+    {
+      "key": "BTKW_4BAR",
+      "values": [
+        "－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_C4BAR",
+      "values": [
+        "：－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_6BAR",
+      "values": [
+        "－－－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_10BAR",
+      "values": [
+        "－－－－－－－－－－"
+      ]
+    },
+    {
+      "key": "BTKW_4Q",
+      "values": [
+        "？？？？"
+      ]
+    },
+    {
+      "key": "BTKW_MINIWINDOW_SJ_1BAR",
+      "values": [
+        "―"
+      ]
+    },
+    {
+      "key": "BTKW_ABCDEFG",
+      "values": [
+        "ＡＢＣＤＥＦＧ"
+      ]
+    },
+    {
+      "key": "BTKW_S",
+      "values": [
+        "Ｓ"
+      ]
+    },
+    {
+      "key": "BTKW_A",
+      "values": [
+        "Ａ"
+      ]
+    },
+    {
+      "key": "BTKW_B",
+      "values": [
+        "Ｂ"
+      ]
+    },
+    {
+      "key": "BTKW_C",
+      "values": [
+        "Ｃ"
+      ]
+    },
+    {
+      "key": "BTKW_D",
+      "values": [
+        "Ｄ"
+      ]
+    },
+    {
+      "key": "BTKW_BAR",
+      "values": [
+        "－"
+      ]
+    },
+    {
+      "key": "BTKW_BAR_2",
+      "values": [
+        "―"
+      ]
+    },
+    {
+      "key": "BTKW_BAR_2_4",
+      "values": [
+        "ーーーー"
+      ]
+    },
+    {
+      "key": "BTKW_BAR_2_7",
+      "values": [
+        "ーーーーーーー"
+      ]
+    },
+    {
+      "key": "BTKW_PARENTHESES",
+      "values": [
+        "（）"
+      ]
+    },
+    {
+      "key": "BTKW_KK_TOP",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_KK_BOTTOM",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SEPARATE_CONNECT",
+      "values": [
+        "　　　＋"
+      ]
+    },
+    {
+      "key": "BTKW_BLANK",
+      "values": [
+        "　",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EP_BWS",
+      "values": [
+        "BWS"
+      ]
+    },
+    {
+      "key": "BTKW_EP_FULLARM",
+      "values": [
+        "Full Armor Parts"
+      ]
+    },
+    {
+      "key": "BTKW_EP_MISSILE",
+      "values": [
+        "Missile Pod"
+      ]
+    },
+    {
+      "key": "BTKW_EP_FULLPEC",
+      "values": [
+        "Fully Equipped"
+      ]
+    },
+    {
+      "key": "BTKW_EP_BOOSTER",
+      "values": [
+        "Rapid Deployment Booster",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_BRANCHPANEL_TITLE_ORGANIZE",
+      "values": [
+        "The following robots and pilots have been edited in this route."
+      ]
+    },
+    {
+      "key": "BTKW_BRANCHPANEL_TITLE_JOIN",
+      "values": [
+        "The following robots and pilots have joined the squad."
+      ]
+    },
+    {
+      "key": "BTKW_BRANCHPANEL_TITLE_LEAVE",
+      "values": [
+        "The following units have left the squad.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_CMM_PHASEENDCNF",
+      "values": [
+        "This will end the current phase.",
+        "Are you sure you want to proceed?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_CMM_NOACTIONCNF",
+      "values": [
+        "There are still ",
+        " units that have not completed their actions.",
+        "Do you want to end the current phase?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_COMMENT1",
+      "values": [
+        "Save current map progress."
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_COMMENT2",
+      "values": [
+        "Please choose where you would like to save the data."
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_HARD_VITA",
+      "values": [
+        "Save to memory card"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_HARD_PS3",
+      "values": [
+        "Save to hard disk drive"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_NETWORK",
+      "values": [
+        "Upload to network"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_CANCEL",
+      "values": [
+        "Don't save"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_CANCEL_PC",
+      "values": [
+        "Cancel"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_HARD_PC",
+      "values": [
+        "Save Game"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_TARGETSELECT_QUIT_PC",
+      "values": [
+        "Quit Game"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDMENU_MAP_SYSTEM_PC",
+      "values": [
+        "Settings",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_OWC_COMMENT_NEW",
+      "values": [
+        "Create new file?"
+      ]
+    },
+    {
+      "key": "BTKW_CROSSAVE_OWC_COMMENT_OVERWRITE",
+      "values": [
+        "Do you want to save over this file?"
+      ]
+    },
+    {
+      "key": "BNRO_INTERMISSION_HELP_BONUS",
+      "values": [
+        "Play Bonus Scenarios"
+      ]
+    },
+    {
+      "key": "BNRO_IM_STAGE_SAVE_NEWDATA",
+      "values": [
+        "Create new save file?"
+      ]
+    },
+    {
+      "key": "BNRO_IM_STAGE_SAVE_OVERWRITE",
+      "values": [
+        "Do you want to save over this file?"
+      ]
+    },
+    {
+      "key": "BNRO_IM_STAGE_DELETE",
+      "values": [
+        "Are you sure you want to delete this save?"
+      ]
+    },
+    {
+      "key": "BNRO_IM_STAGE_SAVE_COMPLETE",
+      "values": [
+        "Your progress has been saved!"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_MODE",
+      "values": [
+        "Toggle display mode"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_MONITOR",
+      "values": [
+        "Adjust display monitor"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_RESOLUTION",
+      "values": [
+        "Adjust screen resolution"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_ANTIALIASING",
+      "values": [
+        "Modify Anti-Aliasing (may adversely impact performance)"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_MODE_MAX",
+      "values": [
+        "Borderless"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_MODE_WND",
+      "values": [
+        "Windowed"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_MODE_FULL",
+      "values": [
+        "Fullscreen"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_VIDEO_MODE_MONITOR",
+      "values": [
+        "Monitor"
+      ]
+    },
+    {
+      "key": "BNRO_EULA_ACCEPT",
+      "values": [
+        "Accept"
+      ]
+    },
+    {
+      "key": "BNRO_EULA_DECLINE",
+      "values": [
+        "Decline"
+      ]
+    },
+    {
+      "key": "BNRO_EULA_MOVE",
+      "values": [
+        "Move"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_CONTROLS_SENSITIVITY",
+      "values": [
+        "Adjust mouse sensitivity"
+      ]
+    },
+    {
+      "key": "BNRO_SETTINGS_CONTROLS_KEYBINDINGS",
+      "values": [
+        "Change key bindings"
+      ]
+    },
+    {
+      "key": "BNRO_QUIT_CONFIRM_MESSAGE",
+      "values": [
+        "Are you sure you want to quit the game?"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Ok",
+      "values": [
+        "Confirm"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Cancel",
+      "values": [
+        "Cancel"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Up",
+      "values": [
+        "Up"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Down",
+      "values": [
+        "Down"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Left",
+      "values": [
+        "Left"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Right",
+      "values": [
+        "Right"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Next",
+      "values": [
+        "Next"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Previous",
+      "values": [
+        "Previous"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Next_Cat_Page",
+      "values": [
+        "Next Tab"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Prev_Cat_Page",
+      "values": [
+        "Previous Tab"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Next_Special",
+      "values": [
+        "Next filter page"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Prev_Special",
+      "values": [
+        "Previous filter page"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Start",
+      "values": [
+        "Start/Menu Special"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Turbo",
+      "values": [
+        "Turbo"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Fast_fwd",
+      "values": [
+        "Fast Forward"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Skip",
+      "values": [
+        "Skip dialogue"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Skip_Long",
+      "values": [
+        "Skip long dialogue"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Skip_stream",
+      "values": [
+        "Skip Movie"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Skip_event",
+      "values": [
+        "Skip Event"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Skip_Faster",
+      "values": [
+        "Autoplay Faster"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Skip_Slower",
+      "values": [
+        "Autoplay Slower"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Backlog",
+      "values": [
+        "Backlog"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Desc",
+      "values": [
+        "Character Description"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Help",
+      "values": [
+        "Help"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Special1",
+      "values": [
+        "Menu Special1"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Special2",
+      "values": [
+        "Menu Special2"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Suborder_Fill",
+      "values": [
+        "Suborder Fill"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Combat_Record",
+      "values": [
+        "Combat Record"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Delete",
+      "values": [
+        "Delete"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Support",
+      "values": [
+        "Battle Support"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Demo_Switch",
+      "values": [
+        "Battle Demo Switch"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Cursor_turbo",
+      "values": [
+        "Faster Cursor"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Next_Ally",
+      "values": [
+        "Next Ally"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Prev_Ally",
+      "values": [
+        "Previous Ally"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Next_Enemy",
+      "values": [
+        "Next Enemy"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Prev_Enemy",
+      "values": [
+        "Previous Enemy"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Move_On_Edge",
+      "values": [
+        "Move On Edge"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Marker",
+      "values": [
+        "Marker"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Skip_Battle",
+      "values": [
+        "Skip Battle"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Open_Map_Menu",
+      "values": [
+        "Open Menu"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Unit_Info",
+      "values": [
+        "Unit/Terrain Info"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Map_Action",
+      "values": [
+        "Map Special Action"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Rotate_map_left",
+      "values": [
+        "Rotate Map Left"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Rotate_map_right",
+      "values": [
+        "Rotate Map Right"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Enemy_Move_Turbo",
+      "values": [
+        "Enemy Movement Turbo"
+      ]
+    },
+    {
+      "key": "BNRO_ActionName_Map_Adjust",
+      "values": [
+        "Adjust Map",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_PILOTMARKER_ALLCLEAR_CONFIRM",
+      "values": [
+        "Delete all markers in list.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDHELP_BTLRDY",
+      "values": [
+        "<Sortie Setup> Prepare to sortie."
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDHELP_SHIPSELECT",
+      "values": [
+        "<Sortie Base> Select which base to sortie.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGET_MAPGUIDE_FRIEND",
+      "values": [
+        "Select an ally unit 「%s」."
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGET_MAPGUIDE_ENEMY",
+      "values": [
+        "Select an enemy unit 「%s」.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDHELP_SPACTION",
+      "values": [
+        "Use「%s」."
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDHELP_UNITSELECT",
+      "values": [
+        "Select units to re-organize."
+      ]
+    },
+    {
+      "key": "BTKW_COMMANDHELP_UNITPOSITION",
+      "values": [
+        "Select units/location to switch.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_STATUS_UNIT",
+      "values": [
+        "\n",
+        "Turn Page",
+        "\n",
+        "Back",
+        "Switch Screens",
+        "(Go to Power Parts)",
+        "\n",
+        "(Change Units)",
+        "(Sub-Pilot)",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_STATUS_UNIT_HINTS",
+      "values": [
+        "",
+        "\\a48",
+        " ",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        " ",
+        " "
+      ]
+    },
+    {
+      "key": "KHKW_STATUN_PILOT",
+      "values": [
+        "\n",
+        "Turn Page",
+        "Go to Character Archives",
+        "Back",
+        "Switch Screens",
+        "(Skill Program)",
+        "\n",
+        "(Change Units)",
+        "(Sub-Pilot)",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_STATUN_PILOT_HINTS",
+      "values": [
+        "\n",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_STATUS_ROBOT",
+      "values": [
+        "\n",
+        "Turn Page",
+        "Go to Robot Encyclopedia",
+        "Back",
+        "Switch Screens",
+        "(Go to Customization)",
+        "\n",
+        "(Change Units)",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_STATUS_ROBOT_HINTS",
+      "values": [
+        "\n",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_STATUS_WEAPON",
+      "values": [
+        "Cursor Movement",
+        "Turn Page",
+        "\n",
+        "Back",
+        "Switch Screens",
+        "(Go to Customization)",
+        "\n",
+        "(Change Units)",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_STATUS_WEAPON_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        " ",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_R_BUTAI",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "Go to Pieces on Map",
+        "Back",
+        "Stats Screen",
+        "Set Priority",
+        "Change Strength (Enemy/Ally)",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_R_BUTAI_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_TEAM_BUTAI",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_SP",
+      "values": [
+        "Select",
+        "Select",
+        "OK",
+        "Back",
+        " ",
+        " ",
+        " ",
+        "Change Search",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_SP_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        " ",
+        " ",
+        "\\a07 / \\a06",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_SKILL",
+      "values": [
+        "Select",
+        "Select",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "\n",
+        "Change Search",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_SKILL_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        " ",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_ETC",
+      "values": [
+        "Select",
+        "Select",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "\n",
+        "Change Search",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_ETC_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        " ",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SP",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "Go to Pieces on Map (Mark)",
+        "Back",
+        "Stats Screen",
+        "(Mark: On/Off)",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Entry",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SP_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SKILL",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "Go to Pieces on Map (Mark)",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Entry",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SKILL_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_ETC",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "Go to Pieces on Map (Mark)",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Entry",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_ETC_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SP_IM",
+      "values": [
+        "Select Pilot",
+        "Turn Page",
+        "Pilot Ability Screen",
+        "Back",
+        "Unit Ability Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Entry",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SP_IM_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SKILL_IM",
+      "values": [
+        "Select Pilot",
+        "Turn Page",
+        "Pilot Ability Screen",
+        "Back",
+        "Unit Ability Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Entry",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_SKILL_IM_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_ETC_IM",
+      "values": [
+        "Select Robot",
+        "Turn Page",
+        "Robot Ability Screen",
+        "Back",
+        "Unit Ability Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Entry",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SEARCH_RSLT_ETC_IM_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SPIRIT_TARGET_UNIT",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "OK (Mark)",
+        "Back",
+        "Stats Screen",
+        "(Mark: On/Off)",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SPIRIT_TARGET_UNIT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SCRAMBLE_ROBOT",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "Launch",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SCRAMBLE_ROBOT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_BATTLE_REPORT",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "\n",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_BATTLE_REPORT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        " ",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SYSTEM_MENU",
+      "values": [
+        "Select",
+        "Change",
+        "(Go to Settings Screen)",
+        "Update Settings",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SYSTEM_MENU_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_QUICK_CMD",
+      "values": [
+        "Select",
+        "Change",
+        "\n",
+        "Update Settings",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_QUICK_CMD_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        " ",
+        "\\a01",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_PON_SELE",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Switch Screens",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_PON_SELE_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_P_BTLRDY",
+      "values": [
+        "Select Command",
+        " ",
+        "OK",
+        "Back",
+        "\n",
+        "Spirit Cmds.",
+        "Start Battle",
+        " ",
+        " ",
+        "(Support Attack: On/Off)",
+        "Demo: Turn On/Off"
+      ]
+    },
+    {
+      "key": "KHKW_P_BTLRDY_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        "\\a12",
+        " ",
+        " ",
+        "\\a42",
+        "\\a43"
+      ]
+    },
+    {
+      "key": "KHKW_E_BTLRDY",
+      "values": [
+        "Select Command",
+        " ",
+        "OK",
+        "Open Map",
+        "\n",
+        "(Select Weapon)",
+        "Start Battle",
+        "(Change Action)",
+        " ",
+        "(Support Defend: On/Off)",
+        "Demo: Turn On/Off"
+      ]
+    },
+    {
+      "key": "KHKW_E_BTLRDY_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        " ",
+        "\\a42",
+        "\\a43"
+      ]
+    },
+    {
+      "key": "KHKW_SYUTUGEKI",
+      "values": [
+        "Select Unit",
+        "Turn Page",
+        "Mark: On/Off",
+        "Mark Off (Back)",
+        "Stats Screen",
+        "\n",
+        "Approved Dialog",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SYUTUGEKI_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SPIRIT_WND_SINGLE",
+      "values": [
+        "Select",
+        "Select",
+        "OK (Mark)",
+        "Back",
+        "\\n",
+        "(Mark: On/Off)",
+        "Change between List View and Individual View",
+        "(Sub-Pilot)",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SPIRIT_WND_SINGLE_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_OTHERS_LIST",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_OTHERS_LIST_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_ROBOT_LIST",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "Set Priority",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_ROBOT_LIST_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_PILOT_LIST",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "Set Priority",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_PILOT_LIST_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KAIZO_LIST",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "Set Priority",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KAIZO_LIST_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KAIZO_EXEC",
+      "values": [
+        "Select",
+        "Customization Gauge Controls",
+        "OK",
+        "Cancel Customization/Back",
+        "Stats Screen",
+        "(Confirm Transformation)",
+        "\n",
+        "Change Unit",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KAIZO_EXEC_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KAIZO_EXEC_JUMP",
+      "values": [
+        "Select",
+        "Customization Gauge Controls",
+        "OK",
+        "Cancel Customization/Back",
+        "\n",
+        "(Confirm Transformation)",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KAIZO_EXEC_JUMP_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_ROBOT",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "Remove",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_ROBOT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_SOUBI",
+      "values": [
+        "Select",
+        "(Turn Page)",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "(Confirm Transformation)",
+        "\n",
+        "Change Unit",
+        "Change Category",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_SOUBI_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_SOUBI_JUMP",
+      "values": [
+        "Select",
+        "(Turn Page)",
+        "OK",
+        "Back",
+        "\n",
+        "(Confirm Transformation)",
+        "\n",
+        "\n",
+        "Change Category",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_SOUBI_JUMP_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        " ",
+        " ",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_HAZUSU_NOMARK",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_HAZUSU_NOMARK_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_HAZUSU_MARK",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "\n",
+        "Mark: On/Off",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_KP_HAZUSU_MARK_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_VP_ROBOT",
+      "values": [
+        "Select",
+        "\n",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_VP_ROBOT_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_VP_SOUBI",
+      "values": [
+        "Select",
+        "\n",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "\n",
+        "Change Unit",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_VP_SOUBI_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_NOSEKAE_ROBOT",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_NOSEKAE_ROBOT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_NOSEKAE_PILOT",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_NOSEKAE_PILOT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_NOSEKAE_KAKUNIN",
+      "values": [
+        "\n",
+        "\n",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "\n",
+        "Change Pilot",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_NOSEKAE_KAKUNIN_HINTS",
+      "values": [
+        "",
+        " ",
+        "\\a00",
+        "\\a01",
+        " ",
+        " ",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_OPTION",
+      "values": [
+        "Change Entry",
+        "\n",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_OPTION_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_SYSTEM",
+      "values": [
+        "Select",
+        "(Change)",
+        "(Go to Settings Screen)",
+        "Update Settings",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_SYSTEM_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_LIBRARY",
+      "values": [
+        "Select",
+        "\n",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_LIBRARY_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_SUBORDER_TOP",
+      "values": [
+        "Select",
+        "\n",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "Switch Between Individual or Group",
+        "\n",
+        "Fill Empty Seats",
+        "\n",
+        "\n"
+      ],
+      "extra": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "key": "KHKW_IM_SUBORDER_TOP_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        " ",
+        " ",
+        "\\a12",
+        " ",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ],
+      "extra": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "key": "KHKW_IM_SUBORDER_PILOT",
+      "values": [
+        "Select",
+        "Turn Page",
+        "Mark: On/Off",
+        "Back",
+        "Stats Screen",
+        "\n",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Order",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_SUBORDER_PILOT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_SUBORDER_SINGLE",
+      "values": [
+        "Select",
+        "\n",
+        "OK",
+        "Back",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_SUBORDER_SINGLE_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SKILLROOT",
+      "values": [
+        "Select",
+        "Select",
+        "Develop/Create",
+        "Back",
+        " ",
+        "Use Skill Program",
+        "\n",
+        "\n",
+        "Change Branch",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SKILLROOT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        " ",
+        " ",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SKILLPROGRAM",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK/Create",
+        "Back",
+        "(Stats Screen)",
+        "(Skill Tree)",
+        "\n",
+        "(Change Pilot)",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_SKILLPROGRAM_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_LIST",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Stats Screen",
+        "Set Priority",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "Change Sub-Info",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_LIST_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_KOUMOKU",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_KOUMOKU_JUMP",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_PARA",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_PARA_JUMP",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_SKILL",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IM_YOUSEI_SKILL_JUMP",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "key": "KHKW_NAMAE_2JOY",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "key": "KHKW_NAMAE_3JOY",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_FACTORY_BUY",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Product List",
+        " ",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_FACTORY_BUY_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_FACTORY_SALE",
+      "values": [
+        "Select",
+        "Turn Page/Quantity Settings",
+        "OK",
+        "Back",
+        "\n",
+        "Remove",
+        "\n",
+        "Change Sort Conditions",
+        "Change Category",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_FACTORY_SALE_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        " ",
+        "\\a07 / \\a06",
+        "\\a09 / \\a08",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_PRODUCTLIST",
+      "values": [
+        "Select",
+        "\n",
+        "OK",
+        "Back",
+        " ",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_PRODUCTLIST_HINTS",
+      "values": [
+        "\\a47",
+        " ",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_PRODUCTLIST_2",
+      "values": [
+        "Select",
+        "(Select)",
+        "\n",
+        "Back",
+        "\n",
+        "\n",
+        "\n",
+        "Change List",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_PRODUCTLIST_2_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        " ",
+        "\\a01",
+        " ",
+        " ",
+        " ",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_BGM_SETTEI",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Update Settings",
+        "Play",
+        "Make Default Music",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_BGM_SETTEI_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_BGM_SELECT",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Play",
+        " ",
+        "Go to Page Top/Go to Page End",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_BGM_SELECT_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        "\\a12",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IN_BGM_CHANGE",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Update Settings",
+        "Play",
+        "Make Default Music",
+        "Go to Page Top/Go to Page End",
+        "Change Sort Conditions",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IN_BGM_CHANGE_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IN_BGM_LIST",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Play",
+        " ",
+        " ",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_IN_BGM_LIST_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        " ",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_MP3_LIST",
+      "values": [
+        "Select",
+        "Turn Page",
+        "OK",
+        "Back",
+        "Play",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_MP3_LIST_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "key": "KHKW_UNIT_THEME",
+      "values": [
+        "Select",
+        "Turn Page",
+        "Choose Music/Volume & Tag Settings",
+        "Back",
+        "Play",
+        "Make Default Music",
+        "Apply Changes to All",
+        "Change Unit",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_UNIT_THEME_HINTS",
+      "values": [
+        "\\a47",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        "\\a26",
+        "\\a25",
+        "\\a12",
+        "\\a07 / \\a06",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_TEAM_HENSEI_EDIT",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_AUTO_BALANCE_ORDER",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_AUTO_NAME_CHOICE",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "KHKW_TEAM_SORT",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_CREATE_NOW",
+      "values": [
+        "Creating Custom Music List"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_REFLESH_NOW",
+      "values": [
+        "Updating Custom Music List"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_NOWLOADING",
+      "values": [
+        "Loading Music",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_DETAIL_DESC_INITIAL",
+      "values": [
+        "Sets the default music for the chosen songs."
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_DETAIL_DESC_TEAM",
+      "values": [
+        "Sets the same song as every robot's/weapon's theme song."
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_DETAIL_DESC_MAXBREAK",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_REPBGM_RESET_TITLE",
+      "values": [
+        "Use default settings for all music."
+      ]
+    },
+    {
+      "key": "BTKW_REPBGM_RESET_DESC",
+      "values": [
+        "Resets the overwrite settings for the Game Music List to default settings.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_EDITBGM_TAG_NONE",
+      "values": [
+        "<None>"
+      ]
+    },
+    {
+      "key": "BTKW_EDITBGM_TAG_USER_1",
+      "values": [
+        "<Favorite 1>"
+      ]
+    },
+    {
+      "key": "BTKW_EDITBGM_TAG_USER_2",
+      "values": [
+        "<Favorite 2>"
+      ]
+    },
+    {
+      "key": "BTKW_EDITBGM_TAG_USER_3",
+      "values": [
+        "<Favorite 3>",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_CBS_LABEL_ALBUMNAME",
+      "values": [
+        "Album Name"
+      ]
+    },
+    {
+      "key": "BTKW_CBS_LABEL_ARTISTNAME",
+      "values": [
+        "Artist Name"
+      ]
+    },
+    {
+      "key": "BTKW_CBS_LABEL_TITLEONLY",
+      "values": [
+        "Show All Songs"
+      ]
+    },
+    {
+      "key": "BTKW_RBS_ITEM_MAINTHEME",
+      "values": [
+        "<Theme Song>",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_ALL_TITLE",
+      "values": [
+        "Use default settings for all music."
+      ]
+    },
+    {
+      "key": "BTKW_REPBGM_RESET_NAME",
+      "values": [
+        "<Revert Music Settings to Default>"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_TEAM_NAME",
+      "values": [
+        "<Squad Music>"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_ALL_NAME",
+      "values": [
+        "[Revert Music Settings to Default]"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_RANDOM_GROUP",
+      "values": [
+        "<Random Song>"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_RANDOM_ALL",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_MAXBREAK",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_DETAIL_ALL_NAME",
+      "values": [
+        "＜－－－－－＞"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_DETAIL_TEAM_NAME",
+      "values": [
+        "＜－－－－－＞"
+      ]
+    },
+    {
+      "key": "BTKW_REPBGM_RESET_MARK",
+      "values": [
+        "－"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_ALL_MARK",
+      "values": [
+        "－"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_DOT",
+      "values": [
+        "・"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_MUSIC",
+      "values": [
+        "♪",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_BSW_TODEFAULT_1",
+      "values": [
+        "Changes all robot theme songs, weapon music,"
+      ]
+    },
+    {
+      "key": "BTKW_BSW_TODEFAULT_2",
+      "values": [
+        "and squad music to default settings."
+      ]
+    },
+    {
+      "key": "BTKW_BSW_TODEFAULT_CNF",
+      "values": [
+        "Are you sure you want to proceed?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_REPLACEBGM_TODEFAULT",
+      "values": [
+        "Reverts all music to default settings."
+      ]
+    },
+    {
+      "key": "BTKW_REPLACEBGM_TODEFAULT_CNF",
+      "values": [
+        "Are you sure you want to proceed?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_RBS_LUMP_ALL",
+      "values": [
+        "Uses the selected song for all entries."
+      ]
+    },
+    {
+      "key": "BTKW_RBS_LUMP_ALL_CNF",
+      "values": [
+        "Are you sure you want to proceed?",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_BSW_CHANGED",
+      "values": [
+        "Music settings have been updated.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_COPYCUSTOMLIST_CNF",
+      "values": [
+        "Save .mp3 file from USB memory to the Custom Music file on the hard disk",
+        "drive (existing songs with the same file name will be overwritten.)",
+        "Once started, this action cannot be undone.",
+        "Save music file to hard disk drive?"
+      ]
+    },
+    {
+      "key": "BTKW_DELETECUSTOMLIST_CNF",
+      "values": [
+        "Delete Custom Music saved on the hard disk drive.",
+        "Volume and song tag data will also be deleted.",
+        "Once started, this action cannot be undone.",
+        "Delete Custom Music?"
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_COPY_NOW",
+      "values": [
+        "Save to Music File",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_CREATECUSTOMLIST_VITA_CNF",
+      "values": [
+        "Creates a Custom Music List using .mp3 files saved on memory card.",
+        "Time required to make the list depends on the number of songs.",
+        "Create Custom Music List?"
+      ]
+    },
+    {
+      "key": "BTKW_RELOADCUSTOMLIST_VITA_CNF",
+      "values": [
+        "Update Custom Music List using .mp3 files saved on memory card.",
+        "Time required to update the list depends on the number of songs.",
+        "Update Custom Music List?"
+      ]
+    },
+    {
+      "key": "BTKW_RELOADCUSTOMLIST_CANCEL_1",
+      "values": [
+        "Custom Music List was not updated.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_MP3SELECTACTION_TITLE",
+      "values": [
+        "Please select an option."
+      ]
+    },
+    {
+      "key": "BTKW_MP3SELECTACTION_SELECT",
+      "values": [
+        "Select music. \\nSet volume and tag options.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_MP3COPY_TITLE_1",
+      "values": [
+        "Updates music list on hard disk drive."
+      ]
+    },
+    {
+      "key": "BTKW_MP3COPY_TITLE_2",
+      "values": [
+        "Please select an option.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_MP3COPY_SELECT",
+      "values": [
+        "Copy .mp3 file from USB storage device\\nDelete all music files on hard disk drive\\nDo not update",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_MUSICOPTION_VOLUME_DESC",
+      "values": [
+        "Set volume options for Custom Music."
+      ]
+    },
+    {
+      "key": "BTKW_MUSICOPTION_TAG_DESC",
+      "values": [
+        "Set tag options for Custom Music.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_MAPGUIDE_REPAIR",
+      "values": [
+        "<Rep.> Select ally unit."
+      ]
+    },
+    {
+      "key": "BTKW_MAPGUIDE_SUPPLY",
+      "values": [
+        "<Resply.> Select ally unit."
+      ]
+    },
+    {
+      "key": "BTKW_MAPGUIDE_COLLECT",
+      "values": [
+        "<Recover> Select ally unit.",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_BP_DEFASSIST_WEAPONDISP",
+      "values": [
+        "Support Defend",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_CSAVE_UPLOAD",
+      "values": [
+        "■Upload"
+      ]
+    },
+    {
+      "key": "BTKW_CSAVE_DOWNLOAD",
+      "values": [
+        "■Download"
+      ]
+    },
+    {
+      "key": "BTKW_CSAVE_DATATYPESELECT",
+      "values": [
+        "Select Data Type"
+      ]
+    },
+    {
+      "key": "BTKW_CSAVE_SYSTEMDATA",
+      "values": [
+        "：System Data"
+      ]
+    },
+    {
+      "key": "BTKW_CSAVE_STAGEDATA",
+      "values": [
+        "：Stage Data"
+      ]
+    },
+    {
+      "key": "BTKW_CSAVE_UNUSE",
+      "values": [
+        "Unused"
+      ]
+    },
+    {
+      "key": "BTKW_CSAVE_BROKEN",
+      "values": [
+        "Corrupted Data"
+      ]
+    },
+    {
+      "key": "BTKW_TACSIT_GET_ALREADY",
+      "values": [
+        "Acquired"
+      ]
+    },
+    {
+      "key": "BTKW_TACSIT_NOT_GET_YET",
+      "values": [
+        "Unacquired",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_PUNIT_MYSELF",
+      "values": [
+        "Self"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_PUNIT",
+      "values": [
+        "Single Ally"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_PUNIT_ALL",
+      "values": [
+        "All Allies"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_PUNIT_CIRCUIT",
+      "values": [
+        "Ally Vicinity"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_EUNIT",
+      "values": [
+        "Single Enemy"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_EUNIT_ALL",
+      "values": [
+        "All Enemies"
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_MYSELF",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_ALLY",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_ENEMY",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETTYPE_MYTEAM",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETNUM_UNIT",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETNUM_ALL",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SPTARGETNUM_TEAM",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_TURN_START",
+      "values": [
+        "Start of Turn"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_SOKUJI",
+      "values": [
+        "Immediate Effect"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_BOUGYO",
+      "values": [
+        "Defend"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_DAMAGE",
+      "values": [
+        "Damage"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_BATTLE",
+      "values": [
+        "Battle"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_ATTACK",
+      "values": [
+        "Attack"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_MOVE",
+      "values": [
+        "Move"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_ACTION",
+      "values": [
+        "Act"
+      ]
+    },
+    {
+      "key": "BTKW_SPIRITCOMMAND_CTYPE_SHOOTDOWN",
+      "values": [
+        "Defeat",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_PARTS",
+      "values": [
+        "Power Parts"
+      ]
+    },
+    {
+      "key": "BTKW_SKY",
+      "values": [
+        "Air"
+      ]
+    },
+    {
+      "key": "BTKW_GROUND",
+      "values": [
+        "Grd"
+      ]
+    },
+    {
+      "key": "BTKW_WATER",
+      "values": [
+        "Wtr"
+      ]
+    },
+    {
+      "key": "BTKW_UNDER",
+      "values": [
+        "Und"
+      ]
+    },
+    {
+      "key": "BTKW_SKYONLY",
+      "values": [
+        "Air Only"
+      ]
+    },
+    {
+      "key": "BTKW_GROUNDONLY",
+      "values": [
+        "Ground Only"
+      ]
+    },
+    {
+      "key": "BTKW_SKYWATERONLY",
+      "values": [
+        "Air & Water Only"
+      ]
+    },
+    {
+      "key": "BTKW_WATERONLY",
+      "values": [
+        "Water Only"
+      ]
+    },
+    {
+      "key": "BTKW_LAYER_SKY",
+      "values": [
+        "Air"
+      ]
+    },
+    {
+      "key": "BTKW_LAYER_LAND",
+      "values": [
+        "Grd"
+      ]
+    },
+    {
+      "key": "BTKW_LAYER_SEA",
+      "values": [
+        "Wtr"
+      ]
+    },
+    {
+      "key": "BTKW_LAYER_SPACE",
+      "values": [
+        "Spc",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_DEFACT_GUARD",
+      "values": [
+        "Defend"
+      ]
+    },
+    {
+      "key": "BTKW_DEFACT_DODGE",
+      "values": [
+        "Evade"
+      ]
+    },
+    {
+      "key": "BTKW_DEFACT_NOCOUNTER",
+      "values": [
+        "No Counter"
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_COUNTER",
+      "values": [
+        "Attack"
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_GUARD",
+      "values": [
+        "Defend"
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_DODGE",
+      "values": [
+        "Evade"
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_ATTACK",
+      "values": [
+        "Attack"
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_ASSIST",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_UNASSIST",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_WEAPONSELECT",
+      "values": [
+        "Select Weapon"
+      ]
+    },
+    {
+      "key": "BTKW_BAMI_UNJOIN",
+      "values": [
+        "Do Not Join"
+      ]
+    },
+    {
+      "key": "BTKW_WEAPONNAME",
+      "values": [
+        "Weapon Name"
+      ]
+    },
+    {
+      "key": "BTKW_NOTHING",
+      "values": [
+        "None"
+      ]
+    },
+    {
+      "key": "BTKW_BPAA_BULLET",
+      "values": [
+        "No. of Bullets"
+      ]
+    },
+    {
+      "key": "BTKW_BPAA_CHARGE",
+      "values": [
+        "",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_STORESELECT_DESC1",
+      "values": [
+        "Connect to the PlayStation®Store."
+      ]
+    },
+    {
+      "key": "BTKW_STORESELECT_DESC2",
+      "values": [
+        "Please select an option."
+      ]
+    },
+    {
+      "key": "BTKW_STORESELECT_ITEM",
+      "values": [
+        "PlayStation®Store\\nEnter Product Code"
+      ]
+    },
+    {
+      "key": "BTKW_GETSRPOINT_TITLE",
+      "values": [
+        "Gained a SR Point."
+      ]
+    },
+    {
+      "key": "BTKW_GETSRPOINT_CONTENTS",
+      "values": [
+        "Gained 10,000 bonus money.",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_SYSTEMCONTROL_USELESS",
+      "values": [
+        "There are no enemy units that can be targeted with system seizure."
+      ]
+    },
+    {
+      "key": "BTKW_GET_SKILLPG",
+      "values": [
+        "Gained the following Skill Program(s)."
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_MUSIC_PLUS",
+      "values": [
+        "+♪"
+      ]
+    },
+    {
+      "key": "BTKW_PLUSBGMSET_DESC",
+      "values": [
+        "Replace all Game Music and + Music with the same name."
+      ]
+    },
+    {
+      "key": "BTKW_PLUSBGMSET_NAME",
+      "values": [
+        "<All + Music Settings>"
+      ]
+    },
+    {
+      "key": "BTKW_PLUSBGMSET_TITLE",
+      "values": [
+        "Replace all + Music with the same name."
+      ]
+    },
+    {
+      "key": "BTKW_PLUSBGMALLSET",
+      "values": [
+        "Replace all songs with + Music of the same name."
+      ]
+    },
+    {
+      "key": "BTKW_PLUSBGMALLSET_CNF",
+      "values": [
+        "Are you sure you want to proceed?"
+      ]
+    },
+    {
+      "key": "BTKW_SKILLROUTE_PARAM_DESC",
+      "values": [
+        "Improves stats and terrain adaptability."
+      ]
+    },
+    {
+      "key": "BTKW_SKILLROUTE_SKILL_DESC",
+      "values": [
+        "The acquisition of special skills."
+      ]
+    },
+    {
+      "key": "BTKW_SKILLROUTE_SPECIAL_DESC",
+      "values": [
+        "The acquisition of specially developed skills."
+      ]
+    },
+    {
+      "key": "BTKW_GOLD_BAR",
+      "values": [
+        "Gold Bar"
+      ]
+    },
+    {
+      "key": "BTKW_ACEBONUS_GET_TITLE",
+      "values": [
+        "Got Ace Bonus."
+      ]
+    },
+    {
+      "key": "BTKW_GREATACE_GET_TITLE",
+      "values": [
+        "Got Great Ace Bonus."
+      ]
+    },
+    {
+      "key": "BTKW_GREATACE_GET_DESC",
+      "values": [
+        "ExC+1 when sortieing\\nMaximum SP changes from 50% to 75%\\nwhen sortieing"
+      ]
+    },
+    {
+      "key": "BTKW_LOCALSELECT_TH_DESC1",
+      "values": [
+        "Please choose your language."
+      ]
+    },
+    {
+      "key": "BTKW_LOCALSELECT_TH_DESC2",
+      "values": [
+        "(This setting can be changed at any time.)"
+      ]
+    },
+    {
+      "key": "BTKW_LOCALSELECT_TH_ITEM",
+      "values": [
+        "Traditional Chinese: Taiwan\\nSimplified Chinese: Hong Kong"
+      ]
+    },
+    {
+      "key": "KHKW_SKILLROUTE_TOP",
+      "values": [
+        "",
+        "Select",
+        "OK",
+        "Back",
+        " ",
+        "Skill Program",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "key": "KHKW_SKILLROUTE_TOP_HINTS",
+      "values": [
+        "",
+        "\\a48",
+        "\\a00",
+        "\\a01",
+        " ",
+        "\\a25",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "key": "KHKW_TALK_WINDOW",
+      "values": [
+        "Continue Dialog",
+        "Continue Dialog (Fast)",
+        "Skip Reading <Skip Text>",
+        "Long Skip <Skip Events>",
+        "Auto-Mode & Speed Settings",
+        "Dialog History/Text Log",
+        "Character Archives",
+        "Library of Terminology (Purple Text)"
+      ],
+      "extra": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "key": "KHKW_TALK_WINDOW_HINTS",
+      "values": [
+        "\\a00",
+        "\\a14",
+        "\\a15",
+        "\\a16",
+        "\\a20 / \\a19",
+        "\\a22",
+        "\\a21",
+        " "
+      ],
+      "extra": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "key": "KHKW_BACKLOG",
+      "values": [
+        "Previous Line",
+        "Next Line",
+        "Rewind Dialog",
+        "Rewind Dialog (Fast)",
+        "Continue Dialog",
+        "Continue Dialog (Fast)",
+        "\n"
+      ],
+      "extra": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "key": "KHKW_BACKLOG_HINTS",
+      "values": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_ROUNDBONUS_DESC_A_1",
+      "values": [
+        "Start new game using the money, Tac Pts, and scores earned in current game."
+      ]
+    },
+    {
+      "key": "BTKW_ROUNDBONUS_DESC_A_2",
+      "values": [
+        "Carry over Skill Tree dev. progress and TAC custom. progress."
+      ]
+    },
+    {
+      "key": "BTKW_ROUNDBONUS_DESC_B_1",
+      "values": [
+        "Each time you clear a game, you may keep 5 Power Parts in your inventory to use"
+      ]
+    },
+    {
+      "key": "BTKW_ROUNDBONUS_DESC_C_1",
+      "values": [
+        "in the next play-through.  (Max: 25 items; excluding Emblem-related items.)"
+      ]
+    },
+    {
+      "key": "BTKW_ROUNDBONUS_DESC_C_2",
+      "values": [
+        "From the 3rd play-through, robots and weapons can be upgraded up to 15 times."
+      ]
+    },
+    {
+      "key": "BTKW_ROUNDBONUS_DESC_C_3",
+      "values": [
+        "From the 4th play-through, receive Power Parts from the beginning of the game."
+      ]
+    },
+    {
+      "key": "BTKW_ROUNDBONUS_DESC_C_4",
+      "values": [
+        "and Tac customization unlock progress can be carried over completely."
+      ]
+    },
+    {
+      "key": "BTKW_CLEARBONUS_GET_ROBOT",
+      "values": [
+        "Gained the following robots."
+      ]
+    },
+    {
+      "key": "BTKW_CLEARBONUS_GET_PARTS",
+      "values": [
+        "Gained the following Option Parts."
+      ]
+    },
+    {
+      "key": "BTKW_BONUSSCENARIO_READY_TITLE",
+      "values": [
+        "The following bonus scenarios are now available to play."
+      ]
+    },
+    {
+      "key": "BTKW_BONUSSCENARIO_READY_DESC",
+      "values": [
+        "You can play them by going to the intermission menu and\\nselecting \"Network,\" then \"Bonus Scenarios.\"",
+        "\n"
+      ]
+    },
+    {
+      "key": "BTKW_LIBRALY_PRODUCT_DESC",
+      "values": [
+        "Here you can read the Introductions to Series."
+      ]
+    },
+    {
+      "key": "BTKW_LIBRALY_ENDMESS_DESC",
+      "values": [
+        "Here you can read the Retreat Message Collection."
+      ]
+    },
+    {
+      "key": "BTKW_SEARCHUNIT_CONFIRM",
+      "values": [
+        "<Confirm Search Map> Confirm units."
+      ]
+    },
+    {
+      "key": "BTKW_DLC_HARD_VITA",
+      "values": [
+        "PlayStation®Vita"
+      ]
+    },
+    {
+      "key": "BTKW_DLC_HARD_PS4",
+      "values": [
+        "PlayStation®4"
+      ]
+    },
+    {
+      "key": "BTKW_DLC_HARD_PC",
+      "values": [
+        "STEAM"
+      ]
+    },
+    {
+      "key": "COMB_REC_LEC_DESC_KW_LIST_VITA",
+      "values": [
+        "TK_COMB_REC_LEC_EXCOUNT_DESC",
+        "TK_COMB_REC_LEC_EXACTION_DESC",
+        "TK_COMB_REC_LEC_EXORDER_DESC",
+        "TK_COMB_REC_LEC_SPIRIT_DESC",
+        "TK_COMB_REC_LEC_WEAPON_DESC",
+        "TK_COMB_REC_LEC_TAC_DESC",
+        "TK_COMB_REC_LEC_FACTORY_DESC",
+        "TK_COMB_REC_LEC_SRPOINT_DESC",
+        "TK_COMB_REC_LEC_GAMEMODE_DESC",
+        "TK_COMB_REC_LEC_QUICKSAVE_PSVITA_DESC",
+        "TK_COMB_REC_LEC_RETRY_DESC",
+        "TK_COMB_REC_LEC_ADVICE_PSVITA_DESC"
+      ]
+    },
+    {
+      "key": "BTKW_BP_NOCHANGEACT_NOACTION",
+      "values": [
+        "There are no change action entries that can be selected."
+      ]
+    },
+    {
+      "key": "BTKW_BP_NOCHANGEACT_NOTARGET",
+      "values": [
+        "Cannot change Attack Target."
+      ]
+    },
+    {
+      "key": "BTKW_BP_NOCHANGEACT_NOWEAPON",
+      "values": [
+        "There are no weapons that can be used."
+      ]
+    },
+    {
+      "key": "BTKW_BP_NOCHANGEACT_CANNOTBATTLE",
+      "values": [
+        "Cannot take any actions."
+      ]
+    },
+    {
+      "key": "BTKW_CROSSDATALOAD_SYSTEM",
+      "values": [
+        "Download System Data uploaded from the map.\\nContinue from the Midpoint of the map."
+      ]
+    },
+    {
+      "key": "BTKW_CROSSDATALOAD_STAGE",
+      "values": [
+        "Download Stage Data uploaded from the intermission\\nmenu. Continue from the intermission progress data."
+      ]
+    },
+    {
+      "key": "BTKW_BSTL_NOT_COPY_DGM",
+      "values": [
+        "Some of the .mp3 files have not been transferred since the the limit",
+        "of free space(Maximum 900 MB) has been exceeded."
+      ]
+    }
+  ]
+}
