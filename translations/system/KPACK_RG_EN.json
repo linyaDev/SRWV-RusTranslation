@@ -1,0 +1,1375 @@
+{
+  "_format": "BLTU",
+  "_language": "",
+  "_version": 1,
+  "_reserved": [
+    0,
+    0,
+    0
+  ],
+  "_entry_count": 208,
+  "entries": [
+    {
+      "key": "KBT_TEST",
+      "values": [
+        "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+        "MMMMMMMMMMMMMMMMMMMMMMMMMMM"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOAD_DRM_ERR",
+      "values": [
+        "This user account does not have permission",
+        "to access DLC."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOAD_NOFILE_ERR",
+      "values": [
+        "DLC data could not be read.",
+        "Please re-download it from the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BONUS_RIGHT",
+      "values": [
+        "No cleared Bonus Scenarios were found.",
+        "The following power part rewards were deleted.",
+        "Please re-download the appropriate bonus",
+        "scenario to recover these rewards."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_ENTITLE_ERR",
+      "values": [
+        "Failed to acquire ticket information.",
+        "You must be connected to the PlayStationⓇStore",
+        "in order to download any bonus",
+        "scenarios that you have purchased."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_PACKAGE_DRM_ERR",
+      "values": [
+        "Failed to verify downloaded data.",
+        "Please re-download this item from the",
+        "PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_OK",
+      "values": [
+        "Bonus content downloaded.",
+        "The following units are now available for use."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_NG",
+      "values": [
+        "Bonus content deleted.",
+        "The following units are no longer available for use."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_CONFIRM",
+      "values": [
+        "Bonus content has been downloaded."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BENEFIT_CANT_LOAD",
+      "values": [
+        "Failed to load bonus content.",
+        "Please re-download the bonus content and try again."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_NOTHING_DELIVERED",
+      "values": [
+        "Do you want to connect to the PlayStationⓇStore",
+        "and purchase this scenario?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_NOTHING_OWN_SKU",
+      "values": [
+        "This scenario has not been downloaded.",
+        "Do you want to connect to the download page",
+        "and download this content?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_NO_EXEC",
+      "values": [
+        "This user account does not have permission",
+        "to access DLC."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_NO_CONDITION_mD",
+      "values": [
+        "This scenario is not available.",
+        "It will be unlocked upon completion of",
+        "Chapter [STORY_NO] and the intermission that follows."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_NO_CLEAR",
+      "values": [
+        "Do you want to start this scenario?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_CLEARED",
+      "values": [
+        "Do you want to start this scenario?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_SECOND_LAPS",
+      "values": [
+        "Do you want to acquire this bonus?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_SECOND_ALREADY",
+      "values": [
+        "Do you want to start this scenario?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_PACKE_DELIVERED",
+      "values": [
+        "Do you want to connect to the PlayStationⓇStore",
+        "and purchase this Scenario Pack?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_SCENARIO_CLEAR_BONUS",
+      "values": [
+        "Scenario Clear Bonus"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_TYPE_MONEY",
+      "values": [
+        "Money"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_TYPE_TACP",
+      "values": [
+        "TAC Pts"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_TYPE_PARTS",
+      "values": [
+        "Power Parts"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_TITLE_STORE_CONNECT",
+      "values": [
+        "You will be connected to the PlayStationⓇStore.",
+        "Would you like to continue?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_STORE_BROWZE",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_PRODUCT_BROWZE",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_PRODUCT_CODE",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_DOWNLOAD_LIST",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_ENTITLEMENT_CHK",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to acquire ticket information."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_STORE_BROWZE",
+      "values": [
+        "Cannot connect to the internet.",
+        "You must be connected to the internet",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_PRODUCT_BROWZE",
+      "values": [
+        "Cannot connect to the internet.",
+        "You must be connected to the internet",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_PRODUCT_CODE",
+      "values": [
+        "Cannot connect to the internet.",
+        "You must be connected to the internet",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_DOWNLOAD_LIST",
+      "values": [
+        "Cannot connect to the internet.",
+        "You must be connected to the internet",
+        "in order to access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_ENTITLEMENT_CHK",
+      "values": [
+        "Cannot connect to the internet.",
+        "You must be connected to the internet",
+        "in order to acquire ticket information."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_STORE_BROWZE",
+      "values": [
+        "Due to Parental Controls, this user account",
+        "cannot access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_PRODUCT_BROWZE",
+      "values": [
+        "Due to Parental Controls, this user account",
+        "cannot access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_PRODUCT_CODE",
+      "values": [
+        "Due to Parental Controls, this user account",
+        "cannot access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_DOWNLOAD_LIST",
+      "values": [
+        "Due to Parental Controls, this user account",
+        "cannot access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_ENTITLEMENT_CHK",
+      "values": [
+        "Due to Parental Controls, this user account",
+        "cannot access the PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_MESSAGE",
+      "values": [
+        "You have downloaded another user's save data.",
+        "You will no longer be able to save data or earn",
+        "trophies."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_BAN_SAVE",
+      "values": [
+        "You will no longer be able to save, even if you",
+        "use this user's save data only once."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_BAN_UPLOAD",
+      "values": [
+        "You will no longer be able to make any uploads,",
+        "even if you use this user's save data only once."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_BAN_DOWNLOAD",
+      "values": [
+        "You will no longer be able to download any data,",
+        "even if you use this user's save data only once."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_NOSPACE_AND_DEL",
+      "values": [
+        "There is not enough free space. At least【need kb】KB",
+        "of free space is required in order to save.",
+        "Delete other data for your progress to be saved.",
+        "Do you want to delete saved data now?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_API_JUDGE_BROKEN",
+      "values": [
+        "【sd name】 is corrupted."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_CHECK_SUM_FAILED",
+      "values": [
+        "【sd name】 is corrupted."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_OPERATION_FAILED",
+      "values": [
+        "【operation】 failed."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_API_ACCESS_ERROR",
+      "values": [
+        "An error occurred while accessing",
+        "【strage】."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_UNLOADABLE_DATA",
+      "values": [
+        "No map data saved on 【sd type】."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_DIFFERENT_VERSION",
+      "values": [
+        "【sd type】 failed to perform",
+        "【operation】"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_NOT_MOUNTED",
+      "values": [
+        "Could not mount save data directory."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_NOSPACE_ANNOUNCE",
+      "values": [
+        "There is not enough free space to create",
+        "【sd type】. At least 【check kb】KB of free space",
+        "is required on 【strage】 to create",
+        "【sd type】."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_DEVELOPMENT_ERROR",
+      "values": [
+        "【operation】 could not",
+        "be completed."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ASK_NEW_CREATE",
+      "values": [
+        "【sd type】 not found.",
+        "Create a new one?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ASK_RECREATE",
+      "values": [
+        "【sd type】 is corrupted or damaged.",
+        "Do you want to create a new one?",
+        "You will lose all previously saved data."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_DLC_NOT_EXIST",
+      "values": [
+        "This user account does not have",
+        "permission to access DLC."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_STRAGE_VITA",
+      "values": [
+        "Memory Card"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_STRAGE_PS4",
+      "values": [
+        "Hard Disk Drive"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_SAVE",
+      "values": [
+        "Save"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_LOAD",
+      "values": [
+        "Load"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_ERASE",
+      "values": [
+        "Delete Data"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_SIZECHK",
+      "values": [
+        "Check Size"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_EXISTCHK",
+      "values": [
+        "Check for Existing Data"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_SYS_UPLOAD",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to upload system data."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_SYS_DOWNLOAD",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to download system data."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_STG_UPLOAD",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to upload stage data."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_STG_DOWNLOAD",
+      "values": [
+        "You are currently signed out.",
+        "You must be signed in to the PlayStation™Network",
+        "in order to download stage data."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_DISCONNECT",
+      "values": [
+        "You are not connected to the internet.",
+        "You must connect to the internet",
+        "in order to access the PlayStation™Network."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_RATINGERR",
+      "values": [
+        "Due to Parental Controls, this user account",
+        "cannot access the PlayStation™Network."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_BROKEN_SYS_DATA",
+      "values": [
+        "System data is corrupt or damaged."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_BROKEN_STG_DATA",
+      "values": [
+        "Stage data is corrupt or damaged."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_USER_CANCEL",
+      "values": [
+        "Successfully canceled."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_ANOTHER_OWNER",
+      "values": [
+        "If you use save data created by another user",
+        "even once, you will lose the ability to upload",
+        "or download data."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ACCESS_FREQUENCY",
+      "values": [
+        "Uploading or downloading data will take at least",
+        "[INTERVAL] minutes. After roughly [MINUTES] minutes and [SECONDS] seconds",
+        "have passed, control of the game will be restored."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_FL_ACCESS_ERROR",
+      "values": [
+        "An error occurred while accessing this file."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_TR_INSTALLING_PACK",
+      "values": [
+        "Installing Trophy Data..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECT_DLC",
+      "values": [
+        "Please select the items you want to purchase."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_BONUS_SCENARIO_mS",
+      "values": [
+        "Bonus scenario \"[SCENARIO_NAME]\"."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_INCLUDE_mS",
+      "values": [
+        "\"[SCENARIO_NAME]\" included."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_CLEAR_CONDITION_mS",
+      "values": [
+        "Ch. [STORY_NO] cleared."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_ONE_SCENARIO",
+      "values": [
+        "1 Bonus Scenario"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_ONE_PACK",
+      "values": [
+        "5 Bonus Scenarios + 1 Gift Scenario"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_FULL_PACK",
+      "values": [
+        "All 20 Bonus Scenarios + 1 Gift Scenarios"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_BOUGHT_NUM",
+      "values": [
+        "([SCENARIO_NUM] already purchased.)"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GET_TICKET_FROM_PSN",
+      "values": [
+        "Connect to PlayStation™Network and acquire",
+        "purchased ticket information."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GET_DOWNLOADED_INFO",
+      "values": [
+        "Acquiring Downloaded Bonus Scenario Info"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GETTING_SERVICE_INFO",
+      "values": [
+        "Acquiring Service Info"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_CONNECTING_NETWORK",
+      "values": [
+        "Connecting to Network"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GETTING_TICKET_INFO",
+      "values": [
+        "Acquiring Ticket Info"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_CONFIRM_ACCESS_RIGHTS",
+      "values": [
+        "Verifying Access Privileges"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_UPDATE",
+      "values": [
+        "Updating..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_UPLOAD",
+      "values": [
+        "Uploading..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_DOWNLOAD",
+      "values": [
+        "Downloading..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_DELTE",
+      "values": [
+        "Deleting..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_CONNECTING",
+      "values": [
+        "Connecting to Network"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_TITLE_SYSTEM_DOWNLOAD",
+      "values": [
+        "Current map data will be downloaded.",
+        "Continue?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_TITLE_STAGE_DOWNLOAD",
+      "values": [
+        "Stage clear data will be downloaded.",
+        "Continue?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_IM_STAGE_DOWNLOAD",
+      "values": [
+        "Stage clear data will be downloaded.",
+        "You will lose all unsaved progress. Continue?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_IM_STAGE_UPLOAD_NEWDATA",
+      "values": [
+        "Current stage clear data will be uploaded.",
+        "Create new file?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_IM_STAGE_UPLOAD_OVERWRITE",
+      "values": [
+        "Current stage clear data will be uploaded,",
+        "overwriting existing data. Continue?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_SYS_DATA",
+      "values": [
+        "System Data"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_SYS_NEWDATA",
+      "values": [
+        "New System Data"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_STG_DATA",
+      "values": [
+        "Stage Data"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_STG_NEWDATA",
+      "values": [
+        "New Stage Data"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_BGM_DATA",
+      "values": [
+        "Music Data"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_BGM_NEWDATA",
+      "values": [
+        "New Music Data"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_TITLE_SIMPLY",
+      "values": [
+        "SRWV"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_SPECIAL_STAGE",
+      "values": [
+        "SP"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_COMPLETE",
+      "values": [
+        "Scenario Complete"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_SELECT_ROUTE",
+      "values": [
+        "Select Route"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_PLAY_TIME",
+      "values": [
+        "Play Time"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_CLEAR_LAPS",
+      "values": [
+        "Times Cleared"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_TOTAL_TURN",
+      "values": [
+        "[TURN_CNT] of Turns"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_TACPOINT",
+      "values": [
+        "TAC Pts"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_SR_POINT",
+      "values": [
+        "SR Point"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_OWN_MONEY",
+      "values": [
+        "Money"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_LEVEL_SIMPLE",
+      "values": [
+        "Lv."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_UNLOADABLE_DATA",
+      "values": [
+        "There is no save data for this map."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_MAPSAVE_OVERWRITE",
+      "values": [
+        "Saving progress for this map.",
+        "Do you want to overwrite previous save data?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_MAPSAVE_NEWCREATE",
+      "values": [
+        "Saving progress for this map.",
+        "Do you want to create new save data?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_MAPSAVE_CONTINUE_GAME",
+      "values": [
+        "Save completed.",
+        "Do you want to continue playing?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_CLEARSAVE_BACK_TO_TITLE",
+      "values": [
+        "Do you want to return to the title screen?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_BEFORE_NUMBER",
+      "values": [
+        "Chapter"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_AFTER_NUMBER",
+      "values": [
+        "_NO_PRINT_"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_OPEN_BRACKETS",
+      "values": [
+        "["
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLOSE_BRACKETS",
+      "values": [
+        "]"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_FIRST_BENEFIT",
+      "values": [
+        "Special Scenario"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_EXTRA_SCENARIO",
+      "values": [
+        "Secret Scenario"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_SEPARATE_STAGE",
+      "values": [
+        "Route Split Scenario"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLEAR_STAGE",
+      "values": [
+        "Cleared Stages"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_FINAL_SCENARIO",
+      "values": [
+        "Finale"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_PROLOGUE_STAGE",
+      "values": [
+        "Prologue"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_EPILOGUE_STAGE",
+      "values": [
+        "Epilogue"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLEAR_UP",
+      "values": [
+        "Cleared"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_SELECTED",
+      "values": [
+        "Select"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_SRPOINT_ALREADY",
+      "values": [
+        "SR points already acquired."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_SRPOINT_GAMEOVERPLAY",
+      "values": [
+        "SR Points cannot be acquired when",
+        "restarting after a Game Over."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_COLUMN_NO_1",
+      "values": [
+        "1."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_COLUMN_NO_2",
+      "values": [
+        "2."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_COLUMN_NO_3",
+      "values": [
+        "3."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_DLC_START_MSG",
+      "values": [
+        "The robots and pilots that appear in Bonus Scenarios",
+        "do not affect the levels or customization of those",
+        "in the main game. Additionally, Extra Counts cannot",
+        "be increased, but will be maxed out from the start."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_DLC_START_MSG_PATTERN_B",
+      "values": [
+        "The robots and pilots that appear in Bonus Scenarios",
+        "do not affect the levels or customization of those",
+        "in the main game. Additionally, Extra Counts cannot",
+        "be increased, but will begin at level 5."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_SKILL_PRESIDENT_1",
+      "values": [
+        "Thanks to the special skill President,"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_SKILL_PRESIDENT_2",
+      "values": [
+        "you have been awarded [TACP] additional TAC Pts. "
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_PARTS_1",
+      "values": [
+        "Thanks to the [PILOT] Ace Bonus,"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_PARTS_2",
+      "values": [
+        "you have acquired the"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_PARTS_3",
+      "values": [
+        "power part [PARTS]!"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_MONEY_1",
+      "values": [
+        "You got [MONEY] money"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_MONEY_2",
+      "values": [
+        "as a result of the"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_MONEY_3",
+      "values": [
+        "Ace Bonus of [PILOT]."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_ZCHIP_1",
+      "values": [
+        "Customize Acquire Money effect through TAC"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_ZCHIP_2",
+      "values": [
+        "grants you the following bonus:"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_ZCHIP_3",
+      "values": [
+        "<Money: [MONEY]>"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_MONEY_1",
+      "values": [
+        "Customize Acquire TacP effect through TAC"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_MONEY_2",
+      "values": [
+        "grants you the following bonus:"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_MONEY_3",
+      "values": [
+        "<TAC Pts: [TACP]>"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_PP_1",
+      "values": [
+        "Customize Double Acquire effect through TAC"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_PP_2",
+      "values": [
+        "grants you the following bonus:"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_PP_3",
+      "values": [
+        "<Money: [MONEY]>",
+        "<TAC Pts: [TACP]>"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_BTN_ASSIGN_DECIDE",
+      "values": [
+        ": Select"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_BTN_ASSIGN_CANCEL",
+      "values": [
+        ": Return"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_SPSCENARIO_PLAYABLE",
+      "values": [
+        "Playable"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_WHETHER_TO_START",
+      "values": [
+        "Play this Special Scenario?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_ANSWER_YES",
+      "values": [
+        "Yes"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_ANSWER_NO",
+      "values": [
+        "No"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_SPSCENARIO_CAUTION",
+      "values": [
+        "Pilots and their levels will differ from saved data.",
+        "Money, EXP, and TAC Pts earned, or enemies downed will not carry over."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EM_UNDER_CAPTION",
+      "values": [
+        "View Messages."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EM_BUTTON_CIRCLE",
+      "values": [
+        "Select"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EM_BUTTON_CROSS",
+      "values": [
+        "Return"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_FACTORY",
+      "values": [
+        "You are now able to access the Factory from the",
+        "Intermission Menu. You may choose to buy and sell",
+        "parts, or access the TAC Customization screen."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_LECTURE",
+      "values": [
+        "Unlocked Lecture Plate Factory."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_SUBORDER",
+      "values": [
+        "You may now access the Sub-Orders in the",
+        "Intermission menu."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_NINE_CHANGE",
+      "values": [
+        "[TACP] TAC Pts acquired from Nine's analysis."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_MONEY_CHANGE",
+      "values": [
+        "[MONEY] money acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PARTS_CHANGE_1",
+      "values": [
+        "Power part [PARTS1] acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PARTS_CHANGE_2",
+      "values": [
+        "Power parts [PARTS1] and [PARTS2] acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PARTS_CHANGE_3",
+      "values": [
+        "Power parts [PARTS1], [PARTS2], and",
+        "[PARTS3] acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PROGRAM_CHANGE_1",
+      "values": [
+        "Skill Program [SKILL1] acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PROGRAM_CHANGE_2",
+      "values": [
+        "Skill Programs [SKILL1] and [SKILL2] acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PROGRAM_CHANGE_3",
+      "values": [
+        "Skill Programs [SKILL1], [SKILL2], and",
+        "[SKILL3] acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_ROBOT_CHANGE_1",
+      "values": [
+        "Robot [ROBOT1] acquired."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_ROBOT_CHANGE_2",
+      "values": [
+        "Robots [ROBOT1] and [ROBOT2] acquired"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_ROBOT_CHANGE_3",
+      "values": [
+        "Robots [ROBOT1] and",
+        "[ROBOT2] acquired,"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_R_CHANGE_1",
+      "values": [
+        "The money that was used to customize",
+        "[ROBOT] has been repaid."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_R_CHANGE_2",
+      "values": [
+        "The money that was used to customize",
+        "[ROBOT] has been repaid."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_P_CHANGE_1",
+      "values": [
+        "The Skill Program used in [PILOT]",
+        "has been repaid."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_P_CHANGE_2",
+      "values": [
+        "The Skill Program used in [PILOT]",
+        "has been repaid in TAC Pts."
+      ]
+    },
+    {
+      "key": "■０７２９追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "KBT_BELONG_NAME_DEFAULT",
+      "values": [
+        "Earth Fleet Tenku"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BEGINERS_MODE",
+      "values": [
+        "Beginner's Mode Bonus"
+      ]
+    },
+    {
+      "key": "■０８１０追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_GET_PARTS_TOO",
+      "values": [
+        "Gained the following power parts."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BENEFIT_DEC_PARTS_TOO",
+      "values": [
+        "Deleted the following power parts."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_ADD_CONTENTS",
+      "values": [
+        "Checking additional content."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLEAR_ONE",
+      "values": [
+        "Cleared"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_CHAIRMAN_MONEY_CHANGE",
+      "values": [
+        "Gained money [MONEY] from Nergal chairman,",
+        "Nagare Akatsuki."
+      ]
+    },
+    {
+      "key": "■０９０２追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_FULLPACK_PRESENT",
+      "values": [
+        "A gift of 10 kinds of power parts, 30,000 Money and 3000 TacP."
+      ]
+    },
+    {
+      "key": "KBT_EXTERNAL_TROPHY_TITLE_NAME",
+      "values": [
+        "Super Robot Wars V"
+      ]
+    },
+    {
+      "key": "KBT_EXTERNAL_TROPHY_DETAIL_NAME",
+      "values": [
+        "Super Robot Wars V Trophy Set"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_GET_TACP",
+      "values": [
+        "[TACP] TAC Pts acquired."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_OK_PARTS",
+      "values": [
+        "Bonus content has been downloaded.",
+        "Gained the following power parts as bonus."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_NG_PARTS",
+      "values": [
+        "Bonus content has been deleted.",
+        "Deleted the following power parts."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_NG_ONLY",
+      "values": [
+        "Bonus content has been deleted."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BONUS_UNLOAD",
+      "values": [
+        "No cleared Bonus Scenarios were found.",
+        "The data can not be loaded.",
+        "To load the data, please re-download ",
+        "the appropriate bonus scenario."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_GET_MSG",
+      "values": [
+        "Bonus acquired."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_HP_REGEN_NAME",
+      "values": [
+        "HP Regen"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_DLC_NO_BONUS",
+      "values": [
+        "None"
+      ]
+    }
+  ]
+}

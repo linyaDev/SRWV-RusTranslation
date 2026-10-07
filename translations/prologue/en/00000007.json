@@ -1,0 +1,3280 @@
+{
+  "source_file": "00000007.dat",
+  "record_count": 1079,
+  "text_field_size": 87,
+  "max_text_bytes": 252,
+  "lines": [
+    {
+      "idx": 0,
+      "text": "SUPER ROBOT WARS V"
+    },
+    {
+      "idx": 3,
+      "text": "Voice Cast"
+    },
+    {
+      "idx": 5,
+      "text": "「Super Machine Zambot 3」"
+    },
+    {
+      "idx": 6,
+      "text": "　Kappei Jin　　　　　　　　　　　　　　\\t1Chika Sakamoto"
+    },
+    {
+      "idx": 7,
+      "text": "　Uchuta Kamie　　　　　　　　　　　　　\\t1Toshio Furukawa"
+    },
+    {
+      "idx": 8,
+      "text": "　Keiko Kamikita　　　　　　　　　　　　\\t1Yoshiko Matsuo"
+    },
+    {
+      "idx": 10,
+      "text": "「The Unchallengeable Daitarn 3」"
+    },
+    {
+      "idx": 11,
+      "text": "　Banjo Haran　　　　　　　　　　　　　 \\t1Hirotaka Suzuoki"
+    },
+    {
+      "idx": 13,
+      "text": "「Mobile Suit Zeta Gundam」"
+    },
+    {
+      "idx": 14,
+      "text": "　Kamille Bidan　　　　　　　　　　　　 \\t1Nobuo Tobita"
+    },
+    {
+      "idx": 15,
+      "text": "　Fa Yuiry　　　　　　　　　　　　　　　\\t1Satomi Arai"
+    },
+    {
+      "idx": 16,
+      "text": "　Jerid Messa　　　　　　　　　　　　　 \\t1Kazuhiko Inoue"
+    },
+    {
+      "idx": 17,
+      "text": "　Yazan Gable　　　　　　　　　　　　　 \\t1Hochu Otsuka"
+    },
+    {
+      "idx": 18,
+      "text": "　Buran Blutarch　　　　　　　　　　　　\\t1Hidetoshi Nakamura"
+    },
+    {
+      "idx": 20,
+      "text": "「Mobile Suit Gundam ZZ」"
+    },
+    {
+      "idx": 21,
+      "text": "　Judau Ashta　　　　　　　　　　　　　 \\t1Kazuki Yao"
+    },
+    {
+      "idx": 22,
+      "text": "　Beecha Oleg　　　　　　　　　　　　　 \\t1Shin Mori"
+    },
+    {
+      "idx": 23,
+      "text": "　Iino Abbav　　　　　　　　　　　　　　\\t1Masami Kikuchi"
+    },
+    {
+      "idx": 24,
+      "text": "　Mondo Agake　　　　　　　　　　　　　 \\t1Kozo Shioya"
+    },
+    {
+      "idx": 25,
+      "text": "　Elle Viano　　　　　　　　　　　　　　\\t1Eriko Hara"
+    },
+    {
+      "idx": 26,
+      "text": "　Roux Louka　　　　　　　　　　　　　　\\t1Naoko Matsui"
+    },
+    {
+      "idx": 27,
+      "text": "　Elpeo Ple　　　　　　　　　　　　　　 \\t1Chieko Honda"
+    },
+    {
+      "idx": 28,
+      "text": "　Ple Two　　　　　　　　　　　　　　　 \\t1Chieko Honda"
+    },
+    {
+      "idx": 29,
+      "text": "　Rakan Dahkaran　　　　　　　　　　　　\\t1Ryusuke Ohbayashi"
+    },
+    {
+      "idx": 30,
+      "text": "　Desert Rommel　　　　　　　　　　　　 \\t1Tessyo Genda"
+    },
+    {
+      "idx": 32,
+      "text": "「Mobile Suit Gundam: Char's Counterattack」"
+    },
+    {
+      "idx": 33,
+      "text": "　Amuro Ray　　　　　　　　　　　　　　 \\t1Toru Furuya"
+    },
+    {
+      "idx": 35,
+      "text": "「Mobile Suit Gundam: Hathaway's Flash」"
+    },
+    {
+      "idx": 36,
+      "text": "　Hathaway Noa　　　　　　　　　　　　　\\t1Nozomu Sasaki"
+    },
+    {
+      "idx": 37,
+      "text": "　Lane Aime　　　　　　　　　　　　　　 \\t1Takahiro Mizushima"
+    },
+    {
+      "idx": 39,
+      "text": "「Mobile Suit Crossbone Gundam」"
+    },
+    {
+      "idx": 40,
+      "text": "「Mobile Suit Crossbone Gundam: Skull Heart」"
+    },
+    {
+      "idx": 41,
+      "text": "「Mobile Suit Crossbone Gundam: The Steel Seven」"
+    },
+    {
+      "idx": 42,
+      "text": "　Tobia Arronax　　　　　　　　　　　　 \\t1Kappei Yamaguchi"
+    },
+    {
+      "idx": 43,
+      "text": "　Kincade Nau　　　　　　　　　　　　　 \\t1Koji Tsujitani"
+    },
+    {
+      "idx": 44,
+      "text": "　Zabine Chareux　　　　　　　　　　　　\\t1Kiyoyuki Yanada"
+    },
+    {
+      "idx": 45,
+      "text": "　Crux Dogatie　　　　　　　　　　　　　\\t1Mugihito"
+    },
+    {
+      "idx": 47,
+      "text": "「Mobile Suit Gundam SEED Destiny」"
+    },
+    {
+      "idx": 48,
+      "text": "　Shinn Asuka　　　　　　　　　　　　　 \\t1Kenichi Suzumura"
+    },
+    {
+      "idx": 49,
+      "text": "　Kira Yamato　　　　　　　　　　　　　 \\t1Soichiro Hoshi"
+    },
+    {
+      "idx": 50,
+      "text": "　Athrun Zala　　　　　　　　　　　　　 \\t1Akira Ishida"
+    },
+    {
+      "idx": 51,
+      "text": "　Lunamaria Hawke　　　　　　　　　　　 \\t1Maaya Sakamoto"
+    },
+    {
+      "idx": 52,
+      "text": "　Lacus Clyne　　　　　　　　　　　　　 \\t1Rie Tanaka"
+    },
+    {
+      "idx": 53,
+      "text": "　Andrew Waltfeld　　　　　　　　　　　 \\t1Ryotaro Okiayu"
+    },
+    {
+      "idx": 54,
+      "text": "　Meyrin Hawke　　　　　　　　　　　　　\\t1Fumiko Orikasa"
+    },
+    {
+      "idx": 56,
+      "text": "「Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer」"
+    },
+    {
+      "idx": 57,
+      "text": "　Setsuna F.Seiei　　　　　　　　　　　 \\t1Mamoru Miyano"
+    },
+    {
+      "idx": 58,
+      "text": "　Lockon Stratos　　　　　　　　　　　　\\t1Shin-ichiro Miki"
+    },
+    {
+      "idx": 59,
+      "text": "　Haro　　　　　　　　　　　　　　　　　\\t1Arisa Ogasawara"
+    },
+    {
+      "idx": 60,
+      "text": "　Blue Haro　　　　　　　　　　　　　　 \\t1Arise Sato"
+    },
+    {
+      "idx": 61,
+      "text": "　Allelujah Haptism　　　　　　　　　　 \\t1Hiroyuki Yoshino"
+    },
+    {
+      "idx": 62,
+      "text": "　Hallelujah　　　　　　　　　　　　　　\\t1Hiroyuki Yoshino"
+    },
+    {
+      "idx": 63,
+      "text": "　Soma Peries　　　　　　　　　　　　　 \\t1Arisa Ogasawara"
+    },
+    {
+      "idx": 64,
+      "text": "　Tieria Erde　　　　　　　　　　　　　 \\t1Hiroshi Kamiya"
+    },
+    {
+      "idx": 65,
+      "text": "　Sumeragi Lee Noriega　　　　　　　　　\\t1Yoko Honna"
+    },
+    {
+      "idx": 66,
+      "text": "　Lasse Aeon　　　　　　　　　　　　　　\\t1Hiroki Touchi"
+    },
+    {
+      "idx": 67,
+      "text": "　Feldt Grace　　　　　　　　　　　　　 \\t1Ayahi Takagaki"
+    },
+    {
+      "idx": 68,
+      "text": "　Mileina Vashti　　　　　　　　　　　　\\t1Haruka Tomatsu"
+    },
+    {
+      "idx": 69,
+      "text": "　Graham Aker　　　　　　　　　　　　　 \\t1Yuichi Nakamura"
+    },
+    {
+      "idx": 70,
+      "text": "　Patrick Mannequin　　　　　　　　　　 \\t1Kenji Hamada"
+    },
+    {
+      "idx": 72,
+      "text": "「Mobile Suit Gundam Unicorn」"
+    },
+    {
+      "idx": 73,
+      "text": "　Banagher Links　　　　　　　　　　　　\\t1Kouki Uchiyama"
+    },
+    {
+      "idx": 74,
+      "text": "　Riddhe Marcenas　　　　　　　　　　　 \\t1Daisuke Namikawa"
+    },
+    {
+      "idx": 75,
+      "text": "　Otto Midas　　　　　　　　　　　　　　\\t1Naoya Uchida"
+    },
+    {
+      "idx": 76,
+      "text": "　Liam Borrinea　　　　　　　　　　　　 \\t1Misa Watanabe"
+    },
+    {
+      "idx": 77,
+      "text": "　Mihiro Oiwakken　　　　　　　　　　　 \\t1Megumi Toyoguchi"
+    },
+    {
+      "idx": 78,
+      "text": "　Daguza Mackle　　　　　　　　　　　　 \\t1Hiroki Touchi"
+    },
+    {
+      "idx": 79,
+      "text": "　Conroy Haagensen　　　　　　　　　　　\\t1Kenta Miyake"
+    },
+    {
+      "idx": 80,
+      "text": "　Bright Noa　　　　　　　　　　　　　　\\t1Ken Narita"
+    },
+    {
+      "idx": 81,
+      "text": "　Meran　　　　　　　　　　　　　　　　 \\t1Unsho Ishizuka"
+    },
+    {
+      "idx": 82,
+      "text": "　Nigel Garrett　　　　　　　　　　　　 \\t1Yuichi Nakamura"
+    },
+    {
+      "idx": 83,
+      "text": "　Daryl McGuinness　　　　　　　　　　　\\t1Anri Katsu"
+    },
+    {
+      "idx": 84,
+      "text": "　Watts Stepney　　　　　　　　　　　　 \\t1Hiroki Yasumoto"
+    },
+    {
+      "idx": 85,
+      "text": "　Full Frontal　　　　　　　　　　　　　\\t1Syuichi Ikeda"
+    },
+    {
+      "idx": 86,
+      "text": "　Angelo Sauper　　　　　　　　　　　　 \\t1Tetsuya Kakihara"
+    },
+    {
+      "idx": 87,
+      "text": "　Marida Cruz　　　　　　　　　　　　　 \\t1Yuhko Kaida"
+    },
+    {
+      "idx": 88,
+      "text": "　Suberoa Zinnerman　　　　　　　　　　 \\t1Hideaki Tezuka"
+    },
+    {
+      "idx": 89,
+      "text": "　Flaste Schole　　　　　　　　　　　　 \\t1Rikiya Koyama"
+    },
+    {
+      "idx": 90,
+      "text": "　Loni Garvey　　　　　　　　　　　　　 \\t1Mariya Ise"
+    },
+    {
+      "idx": 91,
+      "text": "　Yonem Kirks　　　　　　　　　　　　　 \\t1Unsho Ishizuka"
+    },
+    {
+      "idx": 92,
+      "text": "　Hill Dawson　　　　　　　　　　　　　 \\t1Hideyuki Umezu"
+    },
+    {
+      "idx": 93,
+      "text": "　Mineva Lao Zabi　　　　　　　　　　　 \\t1Ayumi Fujimura"
+    },
+    {
+      "idx": 95,
+      "text": "「Brave Express Mightgaine」"
+    },
+    {
+      "idx": 96,
+      "text": "　Maito Senpuji　　　　　　　　　　　　 \\t1Nobuyuki Hiyama"
+    },
+    {
+      "idx": 97,
+      "text": "　Sally Yoshinaga　　　　　　　　　　　 \\t1Akiko Yajima"
+    },
+    {
+      "idx": 98,
+      "text": "　Mitsuhiko Hamada　　　　　　　　　　　\\t1Masami Kikuchi"
+    },
+    {
+      "idx": 99,
+      "text": "　Gaine　　　　　　　　　　　　　　　　 \\t1Daiki Nakamura"
+    },
+    {
+      "idx": 100,
+      "text": "　Might Gunner　　　　　　　　　　　　　\\t1Katsumi Suzuki"
+    },
+    {
+      "idx": 101,
+      "text": "　Tri Bomber／Battle Bomber　　　　　　 \\t1Naoki Makishima"
+    },
+    {
+      "idx": 102,
+      "text": "　Guard Diver　　　　　　　　　　　　　 \\t1Ryotaro Okiayu"
+    },
+    {
+      "idx": 103,
+      "text": "　Black Gaine　　　　　　　　　　　　　 \\t1Yasunori Matsumoto"
+    },
+    {
+      "idx": 104,
+      "text": "　Joe Ryvalle　　　　　　　　　　　　　 \\t1Hikaru Midorikawa"
+    },
+    {
+      "idx": 105,
+      "text": "　Wolfgang　　　　　　　　　　　　　　　\\t1Masaharu Sato"
+    },
+    {
+      "idx": 106,
+      "text": "　Ich　　　　　　　　　　　　　　　　　 \\t1Keisuke Yamashita"
+    },
+    {
+      "idx": 107,
+      "text": "　Liebe　　　　　　　　　　　　　　　　 \\t1Katsumi Suzuki"
+    },
+    {
+      "idx": 108,
+      "text": "　Dich　　　　　　　　　　　　　　　　　\\t1Yasuhiko Kawazu"
+    },
+    {
+      "idx": 109,
+      "text": "　Hoi Kow Lou　　　　　　　　　　　　　 \\t1Yuu Shimaka"
+    },
+    {
+      "idx": 110,
+      "text": "　Chinja Loose　　　　　　　　　　　　　\\t1Ryotaro Okiayu"
+    },
+    {
+      "idx": 111,
+      "text": "　Shogun Mifune　　　　　　　　　　　　 \\t1Kiyoyuki Yanada"
+    },
+    {
+      "idx": 112,
+      "text": "　Kocho　　　　　　　　　　　　　　　　 \\t1Natsuko Kuwatani"
+    },
+    {
+      "idx": 113,
+      "text": "　Catherine Vuitton　　　　　　　　　　 \\t1Yuriko Fuchizaki"
+    },
+    {
+      "idx": 114,
+      "text": "　Audrey　　　　　　　　　　　　　　　　\\t1Rio Natsuki"
+    },
+    {
+      "idx": 115,
+      "text": "　Exev　　　　　　　　　　　　　　　　　\\t1Masashi Sugawara"
+    },
+    {
+      "idx": 116,
+      "text": "　Purple　　　　　　　　　　　　　　　　\\t1Katsumi Suzuki"
+    },
+    {
+      "idx": 117,
+      "text": "　Black Noir　　　　　　　　　　　　　　\\t1Ako Mayama"
+    },
+    {
+      "idx": 119,
+      "text": "「Martian Successor Nadesico: The Motion Picture - Prince of Darkness」"
+    },
+    {
+      "idx": 120,
+      "text": "　Ruri Hoshino　　　　　　　　　　　　　\\t1Omi Minami"
+    },
+    {
+      "idx": 121,
+      "text": "　Akito Tenkawa　　　　　　　　　　　　 \\t1Yuji Ueda"
+    },
+    {
+      "idx": 122,
+      "text": "　Yurika Misumaru　　　　　　　　　　　 \\t1Houko Kuwashima"
+    },
+    {
+      "idx": 123,
+      "text": "　Hari Makibi　　　　　　　　　　　　　 \\t1Noriko Hidaka"
+    },
+    {
+      "idx": 124,
+      "text": "　Saburouta Takasugi　　　　　　　　　　\\t1Shin-ichiro Miki"
+    },
+    {
+      "idx": 125,
+      "text": "　Ryoko Subaru　　　　　　　　　　　　　\\t1Chisa Yokoyama"
+    },
+    {
+      "idx": 126,
+      "text": "　Hikaru Amano　　　　　　　　　　　　　\\t1Shiho Kikuchi"
+    },
+    {
+      "idx": 127,
+      "text": "　Izumi Maki　　　　　　　　　　　　　　\\t1Miki Nagasawa"
+    },
+    {
+      "idx": 128,
+      "text": "　Hokushin　　　　　　　　　　　　　　　\\t1Koichi Yamadera"
+    },
+    {
+      "idx": 130,
+      "text": "「Getter Robo Armageddon」"
+    },
+    {
+      "idx": 131,
+      "text": "　Ryoma Nagare　　　　　　　　　　　　　\\t1Hideo Ishikawa"
+    },
+    {
+      "idx": 132,
+      "text": "　Hayato Jin　　　　　　　　　　　　　　\\t1Naoya Uchida"
+    },
+    {
+      "idx": 133,
+      "text": "　Benkei Kuruma　　　　　　　　　　　　 \\t1Shozo Iizuka"
+    },
+    {
+      "idx": 134,
+      "text": "　Go　　　　　　　　　　　　　　　　　　\\t1Tomokazu Seki"
+    },
+    {
+      "idx": 135,
+      "text": "　Kei　　　　　　　　　　　　　　　　　 \\t1Narumi Hidaka"
+    },
+    {
+      "idx": 136,
+      "text": "　Gai　　　　　　　　　　　　　　　　　 \\t1Yasunori Matsumoto"
+    },
+    {
+      "idx": 137,
+      "text": "　Saotome　　　　　　　　　　　　　　　 \\t1Mugihito"
+    },
+    {
+      "idx": 138,
+      "text": "　Cowen　　　　　　　　　　　　　　　　 \\t1Kenta Miyake"
+    },
+    {
+      "idx": 139,
+      "text": "　Stinger　　　　　　　　　　　　　　　 \\t1Masashi Hirose"
+    },
+    {
+      "idx": 141,
+      "text": "「True Mazinger Edition Z: The Impact!」"
+    },
+    {
+      "idx": 142,
+      "text": "「True Mazinger ZERO vs Great General of Darkness」"
+    },
+    {
+      "idx": 143,
+      "text": "　Koji Kabuto　　　　　　　　　　　　　 \\t1Kenji Akabane"
+    },
+    {
+      "idx": 144,
+      "text": "　Tetsuya Tsurugi　　　　　　　　　　　 \\t1Fumihiro Awano"
+    },
+    {
+      "idx": 145,
+      "text": "　Sayaka Yumi　　　　　　　　　　　　　 \\t1Youko Honda"
+    },
+    {
+      "idx": 146,
+      "text": "　Boss　　　　　　　　　　　　　　　　　\\t1Kenichiro Matsuda"
+    },
+    {
+      "idx": 147,
+      "text": "　Nuke　　　　　　　　　　　　　　　　　\\t1Kiyohito Yoshikai"
+    },
+    {
+      "idx": 148,
+      "text": "　Mucha　　　　　　　　　　　　　　　　 \\t1Hideki Nakanishi"
+    },
+    {
+      "idx": 149,
+      "text": "　Shiro Kabuto　　　　　　　　　　　　　\\t1Ayumi Fujimura"
+    },
+    {
+      "idx": 150,
+      "text": "　Baron Ashura　　　　　　　　　　　　　\\t1Koji Ishitobi"
+    },
+    {
+      "idx": 151,
+      "text": "　Baron Ashura　　　　　　　　　　　　　\\t1Kaori Yamagata"
+    },
+    {
+      "idx": 152,
+      "text": "　Count Brocken　　　　　　　　　　　　 \\t1Minoru Inaba"
+    },
+    {
+      "idx": 153,
+      "text": "　Dr. Hell　　　　　　　　　　　　　　　\\t1Kazuhiko Kishino"
+    },
+    {
+      "idx": 154,
+      "text": "　Hero Garadabla　　　　　　　　　　　　\\t1Kiyohito Yoshikai"
+    },
+    {
+      "idx": 155,
+      "text": "　Hades God　　　　　　　　　　　　　　 \\t1Kenji Utsumi"
+    },
+    {
+      "idx": 156,
+      "text": "　Emperor of Darkness　　　　　　　　　 \\t1Kenji Utsumi"
+    },
+    {
+      "idx": 157,
+      "text": "　Great General of Darkness　　　　　　 \\t1Shozo Iizuka"
+    },
+    {
+      "idx": 159,
+      "text": "「Full Metal Panic!」"
+    },
+    {
+      "idx": 160,
+      "text": "「Full Metal Panic? Fumoffu」"
+    },
+    {
+      "idx": 161,
+      "text": "「Full Metal Panic! The Second Raid」"
+    },
+    {
+      "idx": 162,
+      "text": "「Full Metal Panic! (Original Novel Version)」"
+    },
+    {
+      "idx": 163,
+      "text": "　Sousuke Sagara　　　　　　　　　　　　\\t1Tomokazu Seki"
+    },
+    {
+      "idx": 164,
+      "text": "　Al　　　　　　　　　　　　　　　　　　\\t1Takehiro Murozono"
+    },
+    {
+      "idx": 165,
+      "text": "　Melissa Mao　　　　　　　　　　　　　 \\t1Michiko Neya"
+    },
+    {
+      "idx": 166,
+      "text": "　Friday　　　　　　　　　　　　　　　　\\t1Jun Fukuyama"
+    },
+    {
+      "idx": 167,
+      "text": "　Kurz Weber　　　　　　　　　　　　　　\\t1Shin-ichiro Miki"
+    },
+    {
+      "idx": 168,
+      "text": "　Belfangan Clouseau　　　　　　　　　　\\t1Rikiya Koyama"
+    },
+    {
+      "idx": 169,
+      "text": "　Teletha Testarossa　　　　　　　　　　\\t1Yukana"
+    },
+    {
+      "idx": 170,
+      "text": "　Richard Henry Mardukas　　　　　　　　\\t1Tomomichi Nishimura"
+    },
+    {
+      "idx": 171,
+      "text": "　Andrei Sergeivich Kalinin　　　　　　 \\t1Akio Otsuka"
+    },
+    {
+      "idx": 172,
+      "text": "　Leonard Testarossa　　　　　　　　　　\\t1Daisuke Namikawa"
+    },
+    {
+      "idx": 173,
+      "text": "　Gauron　　　　　　　　　　　　　　　　\\t1Masahiko Tanaka"
+    },
+    {
+      "idx": 174,
+      "text": "　Gates　　　　　　　　　　　　　　　　 \\t1Hochu Otsuka"
+    },
+    {
+      "idx": 175,
+      "text": "　Lee Fowler　　　　　　　　　　　　　　\\t1Tomokazu Sugita"
+    },
+    {
+      "idx": 176,
+      "text": "　Sabine Refunio　　　　　　　　　　　　\\t1Marina Inoue"
+    },
+    {
+      "idx": 177,
+      "text": "　Wilhelm Casper　　　　　　　　　　　　\\t1Masaki Terasoma"
+    },
+    {
+      "idx": 178,
+      "text": "　Xia Yu Fan　　　　　　　　　　　　　　\\t1Emi Shinohara"
+    },
+    {
+      "idx": 179,
+      "text": "　Xia Yu Lan　　　　　　　　　　　　　　\\t1Miyuki Sawashiro"
+    },
+    {
+      "idx": 180,
+      "text": "　Bonta-kun　　　　　　　　　　　　　　 \\t1Tomoko Kaneda"
+    },
+    {
+      "idx": 181,
+      "text": "　Kaname Chidori　　　　　　　　　　　　\\t1Satsuki Yukino"
+    },
+    {
+      "idx": 183,
+      "text": "「EVANGELION 1.0 YOU ARE (NOT) ALONE.」"
+    },
+    {
+      "idx": 184,
+      "text": "「EVANGELION 2.0 YOU CAN (NOT) ADVANCE.」"
+    },
+    {
+      "idx": 185,
+      "text": "「EVANGELION 3.0 YOU CAN (NOT) REDO.」"
+    },
+    {
+      "idx": 186,
+      "text": "　Shinji Ikari　　　　　　　　　　　　　\\t1Megumi Ogata"
+    },
+    {
+      "idx": 187,
+      "text": "　Kaworu Nagisa　　　　　　　　　　　　 \\t1Akira Ishida"
+    },
+    {
+      "idx": 188,
+      "text": "　Rei Ayanami　　　　　　　　　　　　　 \\t1Megumi Hayashibara"
+    },
+    {
+      "idx": 189,
+      "text": "　Asuka Shikinami Langley　　　　　　　 \\t1Yuko Miyamura"
+    },
+    {
+      "idx": 190,
+      "text": "　Mari Makinami Illustrious　　　　　　 \\t1Maaya Sakamoto"
+    },
+    {
+      "idx": 191,
+      "text": "　Misato Katsuragi　　　　　　　　　　　\\t1Kotono Mitsuishi"
+    },
+    {
+      "idx": 193,
+      "text": "「STAR BLAZERS 2199」"
+    },
+    {
+      "idx": 194,
+      "text": "　Juzo Okita　　　　　　　　　　　　　　\\t1Takayuki Sugou"
+    },
+    {
+      "idx": 195,
+      "text": "　Susumu Kodai　　　　　　　　　　　　　\\t1Daisuke Ono"
+    },
+    {
+      "idx": 196,
+      "text": "　Yuki Mori　　　　　　　　　　　　　　 \\t1Houko Kuwashima"
+    },
+    {
+      "idx": 197,
+      "text": "　Daisuke Shima　　　　　　　　　　　　 \\t1Kenichi Suzumura"
+    },
+    {
+      "idx": 198,
+      "text": "　Shiro Sanada　　　　　　　　　　　　　\\t1Hochu Otsuka"
+    },
+    {
+      "idx": 199,
+      "text": "　Hikozaemon Tokugawa　　　　　　　　　 \\t1Mugihito"
+    },
+    {
+      "idx": 200,
+      "text": "　Yasuo Nanbu　　　　　　　　　　　　　 \\t1Kenji Akabane"
+    },
+    {
+      "idx": 201,
+      "text": "　Kenjiro Ota　　　　　　　　　　　　　 \\t1Yuki Chiba"
+    },
+    {
+      "idx": 202,
+      "text": "　Yuria Misaki　　　　　　　　　　　　　\\t1Aya Uchida"
+    },
+    {
+      "idx": 203,
+      "text": "　Akira Yamamoto　　　　　　　　　　　　\\t1Rie Tanaka"
+    },
+    {
+      "idx": 204,
+      "text": "　Saburo Kato　　　　　　　　　　　　　 \\t1Yoshimasa Hosoya"
+    },
+    {
+      "idx": 205,
+      "text": "　Analyzer　　　　　　　　　　　　　　　\\t1Cho"
+    },
+    {
+      "idx": 206,
+      "text": "　Yurisha Iscandar　　　　　　　　　　　\\t1Houko Kuwashima"
+    },
+    {
+      "idx": 207,
+      "text": "　Abelt Dessler　　　　　　　　　　　　 \\t1Koichi Yamadera"
+    },
+    {
+      "idx": 208,
+      "text": "　Erich Domel　　　　　　　　　　　　　 \\t1Akio Otsuka"
+    },
+    {
+      "idx": 209,
+      "text": "　Herm Zoellik　　　　　　　　　　　　　\\t1Norio Wakamoto"
+    },
+    {
+      "idx": 210,
+      "text": "　Melda Dietz　　　　　　　　　　　　　 \\t1Shizuka Itoh"
+    },
+    {
+      "idx": 211,
+      "text": "　Gremdt Goer　　　　　　　　　　　　　 \\t1Minoru Inaba"
+    },
+    {
+      "idx": 212,
+      "text": "　Wemm Heidern　　　　　　　　　　　　　\\t1Shinpachi Tsuji"
+    },
+    {
+      "idx": 213,
+      "text": "　Fommt Berger　　　　　　　　　　　　　\\t1Junichi Suwabe"
+    },
+    {
+      "idx": 214,
+      "text": "　Charis Kreize　　　　　　　　　　　　 \\t1Takuya Sato"
+    },
+    {
+      "idx": 215,
+      "text": "　Lyle Getto　　　　　　　　　　　　　　\\t1Kiyohito Yoshikai"
+    },
+    {
+      "idx": 216,
+      "text": "　Walke Shultz　　　　　　　　　　　　　\\t1Yuu Shimaka"
+    },
+    {
+      "idx": 217,
+      "text": "　Guelf Ganz　　　　　　　　　　　　　　\\t1Cho"
+    },
+    {
+      "idx": 218,
+      "text": "　Wol Jarletora　　　　　　　　　　　　 \\t1Daisuke Egawa"
+    },
+    {
+      "idx": 220,
+      "text": "「Cross Ange: Rondo of Angels and Dragons」"
+    },
+    {
+      "idx": 221,
+      "text": "　Ange　　　　　　　　　　　　　　　　　\\t1Nana Mizuki"
+    },
+    {
+      "idx": 222,
+      "text": "　Salia　　　　　　　　　　　　　　　　 \\t1Eri Kitamura"
+    },
+    {
+      "idx": 223,
+      "text": "　Hilda　　　　　　　　　　　　　　　　 \\t1Yukari Tamura"
+    },
+    {
+      "idx": 224,
+      "text": "　Vivian　　　　　　　　　　　　　　　　\\t1Houko Kuwashima"
+    },
+    {
+      "idx": 225,
+      "text": "　Ersha　　　　　　　　　　　　　　　　 \\t1Ami Koshimizu"
+    },
+    {
+      "idx": 226,
+      "text": "　Rosalie　　　　　　　　　　　　　　　 \\t1Kaori Ishihara"
+    },
+    {
+      "idx": 227,
+      "text": "　Chris　　　　　　　　　　　　　　　　 \\t1Yui Ogura"
+    },
+    {
+      "idx": 228,
+      "text": "　Tanya　　　　　　　　　　　　　　　　 \\t1Reina Ueda"
+    },
+    {
+      "idx": 229,
+      "text": "　Irma　　　　　　　　　　　　　　　　　\\t1Nanako Mori"
+    },
+    {
+      "idx": 230,
+      "text": "　Jill　　　　　　　　　　　　　　　　　\\t1Takako Honda"
+    },
+    {
+      "idx": 231,
+      "text": "　Tusk　　　　　　　　　　　　　　　　　\\t1Mamoru Miyano"
+    },
+    {
+      "idx": 232,
+      "text": "　Salamandinay　　　　　　　　　　　　　\\t1Yui Horie"
+    },
+    {
+      "idx": 233,
+      "text": "　Naga　　　　　　　　　　　　　　　　　\\t1Nanako Mori"
+    },
+    {
+      "idx": 234,
+      "text": "　Kaname　　　　　　　　　　　　　　　　\\t1Ikumi Hayama"
+    },
+    {
+      "idx": 235,
+      "text": "　Embryo　　　　　　　　　　　　　　　　\\t1Toshihiko Seki"
+    },
+    {
+      "idx": 237,
+      "text": "「SUPER ROBOT WARS V Original」"
+    },
+    {
+      "idx": 238,
+      "text": "　Soji Murakumo　　　　　　　　　　　　 \\t1Takuya Kirimoto"
+    },
+    {
+      "idx": 239,
+      "text": "　Chitose Kisaragi　　　　　　　　　　　\\t1Akemi Kanda"
+    },
+    {
+      "idx": 240,
+      "text": "　Nine/System Nine-Nine　　　　　　　　 \\t1Nozomi Yamamoto"
+    },
+    {
+      "idx": 241,
+      "text": "　Nevanlinna　　　　　　　　　　　　　　\\t1Hiromi Tsuru"
+    },
+    {
+      "idx": 242,
+      "text": "　Ahlforz　　　　　　　　　　　　　　　 \\t1Jouji Nakata"
+    },
+    {
+      "idx": 243,
+      "text": "　Ghuli　　　　　　　　　　　　　　　　 \\t1Kazunari Tanaka"
+    },
+    {
+      "idx": 244,
+      "text": "　Jamie　　　　　　　　　　　　　　　　 \\t1Umeka Shoji"
+    },
+    {
+      "idx": 245,
+      "text": "　Veltav Text　　　　　　　　　　　　　 \\t1Ryosuke Kanemoto"
+    },
+    {
+      "idx": 246,
+      "text": "　Charlotte Hastings　　　　　　　　　　\\t1Haruka Terui"
+    },
+    {
+      "idx": 248,
+      "text": "　Ichitaro Ai　　　　　　　　　　　　　 \\t1Mai Aizawa"
+    },
+    {
+      "idx": 249,
+      "text": "　Yohei Azakami　　　　　　　　　　　　 \\t1Sohta Arai"
+    },
+    {
+      "idx": 250,
+      "text": "　Ryohei Arai　　　　　　　　　　　　　 \\t1Tetsu Inada"
+    },
+    {
+      "idx": 251,
+      "text": "　Naoki Imamura　　　　　　　　　　　　 \\t1Fukushi Ochiai"
+    },
+    {
+      "idx": 252,
+      "text": "　Shunsuke Kanie　　　　　　　　　　　　\\t1Ryosuke Kanemoto"
+    },
+    {
+      "idx": 253,
+      "text": "　Koji Kawakami　　　　　　　　　　　　 \\t1Bin Shimada"
+    },
+    {
+      "idx": 254,
+      "text": "　Yuri Noguchi　　　　　　　　　　　　　\\t1Tomohisa Hashizume"
+    },
+    {
+      "idx": 255,
+      "text": "　Yusuke Handa　　　　　　　　　　　　　\\t1Keiji Hirai"
+    },
+    {
+      "idx": 256,
+      "text": "　Kohei Fukuhara　　　　　　　　　　　　\\t1Takahiro Fujimoto"
+    },
+    {
+      "idx": 257,
+      "text": "　Daisuke Matsubara　　　　　　　　　　 \\t1Shunzo Miyasaka"
+    },
+    {
+      "idx": 258,
+      "text": "　Hiromu Miyazaki　　　　　　　　　　　 \\t1Hirokazu Miyahara"
+    },
+    {
+      "idx": 262,
+      "text": "Development"
+    },
+    {
+      "idx": 263,
+      "text": "　B.B.STUDIO CO.,LTD."
+    },
+    {
+      "idx": 265,
+      "text": "　Planning"
+    },
+    {
+      "idx": 266,
+      "text": "　　Jippahitokarage"
+    },
+    {
+      "idx": 267,
+      "text": "　　Takanobu Terada"
+    },
+    {
+      "idx": 268,
+      "text": "　　Osamu Kunimasa"
+    },
+    {
+      "idx": 270,
+      "text": "　Director"
+    },
+    {
+      "idx": 271,
+      "text": "　　Masahiro Nagura"
+    },
+    {
+      "idx": 272,
+      "text": "　  Makoto Anzai"
+    },
+    {
+      "idx": 273,
+      "text": "　　Wataru Ogura"
+    },
+    {
+      "idx": 275,
+      "text": "　Scenario Writers"
+    },
+    {
+      "idx": 276,
+      "text": "　　Masahiro Nagura"
+    },
+    {
+      "idx": 278,
+      "text": "　Event Script"
+    },
+    {
+      "idx": 279,
+      "text": "　　Kouki Imaishi"
+    },
+    {
+      "idx": 282,
+      "text": "　Original Mechanic Design"
+    },
+    {
+      "idx": 283,
+      "text": "　　Eiichi Shimizu"
+    },
+    {
+      "idx": 284,
+      "text": "　　M ganzy"
+    },
+    {
+      "idx": 285,
+      "text": "　　Daisei Fujii"
+    },
+    {
+      "idx": 287,
+      "text": "　　Kadutaka Miyatake"
+    },
+    {
+      "idx": 288,
+      "text": "　　KATOKI HAJIME"
+    },
+    {
+      "idx": 291,
+      "text": "　Original Character Design"
+    },
+    {
+      "idx": 292,
+      "text": "　　Wataru Watanabe"
+    },
+    {
+      "idx": 293,
+      "text": "　　Miho Itoi"
+    },
+    {
+      "idx": 296,
+      "text": "　Programming Directors"
+    },
+    {
+      "idx": 297,
+      "text": "　　Noriyuki Tabata"
+    },
+    {
+      "idx": 299,
+      "text": "　Programming"
+    },
+    {
+      "idx": 300,
+      "text": "　　Katsuto Kuroiwa"
+    },
+    {
+      "idx": 301,
+      "text": "　　Akihiro Kano"
+    },
+    {
+      "idx": 302,
+      "text": "　　Toshihiro Suzuki"
+    },
+    {
+      "idx": 303,
+      "text": "　　Syotaro Matsumura"
+    },
+    {
+      "idx": 304,
+      "text": "　　Toshiyuki Mochizuki"
+    },
+    {
+      "idx": 305,
+      "text": "　　Tetsuichi Hiyama"
+    },
+    {
+      "idx": 306,
+      "text": "　　Hijiri Shiraishi"
+    },
+    {
+      "idx": 309,
+      "text": "　Graphic Directors"
+    },
+    {
+      "idx": 310,
+      "text": "　　Naoto Obana"
+    },
+    {
+      "idx": 311,
+      "text": "　　Kyoko Muto"
+    },
+    {
+      "idx": 313,
+      "text": "　Art Directors"
+    },
+    {
+      "idx": 314,
+      "text": "　　Toshiaki Sugiura"
+    },
+    {
+      "idx": 316,
+      "text": "　Battle Graphic Production Manager"
+    },
+    {
+      "idx": 317,
+      "text": "　　Nobuyuki Tanaka"
+    },
+    {
+      "idx": 319,
+      "text": "　System Graphic Production Manager"
+    },
+    {
+      "idx": 320,
+      "text": "　　Kenji Yamamoto"
+    },
+    {
+      "idx": 322,
+      "text": "　UI Design"
+    },
+    {
+      "idx": 323,
+      "text": "　　Junichi Sugawara"
+    },
+    {
+      "idx": 325,
+      "text": "　System Graphics"
+    },
+    {
+      "idx": 326,
+      "text": "　　Chieko Miyazaki　　　　\\t2Kazue Nakajima"
+    },
+    {
+      "idx": 327,
+      "text": "　　Kyoko Muto　　　　　　 \\t2Tomomi Iwasaki"
+    },
+    {
+      "idx": 328,
+      "text": "　　Remi Ichinose　　　　　\\t2Kenji Yamamoto"
+    },
+    {
+      "idx": 329,
+      "text": "　　Hitoshi Kanemaru　　　 \\t2Makoto Nobetani"
+    },
+    {
+      "idx": 330,
+      "text": "　　Akifumi Yama　　　　　 \\t2Atsushi Kinoshita"
+    },
+    {
+      "idx": 332,
+      "text": "　Battle Animation"
+    },
+    {
+      "idx": 333,
+      "text": "　　Hidehiro Tsuchiya　　　 \\t2Seiya Fujita"
+    },
+    {
+      "idx": 334,
+      "text": "　　Kendo Kumano　　　　　　\\t2Satoshi Sato"
+    },
+    {
+      "idx": 335,
+      "text": "　　Tsuyoshi Shimamura　　　\\t2Yasushi Saito"
+    },
+    {
+      "idx": 336,
+      "text": "　　Takeaki Aoki　　　　　　\\t2Atsushi Kinoshita"
+    },
+    {
+      "idx": 337,
+      "text": "　　Mitsuharu Okamoto　　　 \\t2Hiroshi Ando"
+    },
+    {
+      "idx": 338,
+      "text": "　　Seiji Ono　　　　　　　 \\t2Akifumi Yama"
+    },
+    {
+      "idx": 339,
+      "text": "　　Tomomi Maebayashi　　　 \\t2Norio Tamura"
+    },
+    {
+      "idx": 340,
+      "text": "　　Kojiro Ozeki　　　　　　\\t2Kazushige Uchida"
+    },
+    {
+      "idx": 341,
+      "text": "　　Makoto Nobetani　　　　 \\t2Naoto Obana"
+    },
+    {
+      "idx": 342,
+      "text": "　　Nobuyuki Tanaka　　　　 \\t2Toshiaki Sugiura"
+    },
+    {
+      "idx": 344,
+      "text": "　Character Cut-in Graphics"
+    },
+    {
+      "idx": 345,
+      "text": "　　Remi Ichinose　　　　　 \\t2Kazue Nakajima"
+    },
+    {
+      "idx": 346,
+      "text": "　　Atsushi Kobayashi　　　 \\t2Junichi Sugawara"
+    },
+    {
+      "idx": 347,
+      "text": "　　Tomomi Iwasaki　　　　　\\t2Kyoko Muto"
+    },
+    {
+      "idx": 348,
+      "text": "　　Kojiro Ozeki　　　　　　\\t2Kazushige Uchida"
+    },
+    {
+      "idx": 349,
+      "text": "　　Takeaki Aoki"
+    },
+    {
+      "idx": 351,
+      "text": "　Battle Background Graphics"
+    },
+    {
+      "idx": 352,
+      "text": "　　Kyoko Muto"
+    },
+    {
+      "idx": 353,
+      "text": "　　Kazue Nakajima　　　　　\\t2Tomomi Iwasaki"
+    },
+    {
+      "idx": 355,
+      "text": "　Original Robot Art"
+    },
+    {
+      "idx": 356,
+      "text": "　　Hiroshi Ando　　　　　　\\t2Mitsuharu Okamoto"
+    },
+    {
+      "idx": 357,
+      "text": "　　Seiji Ono　　　　　　　 \\t2Seiya Fujita"
+    },
+    {
+      "idx": 358,
+      "text": "　　Hidehiro Tsuchiya　　　 \\t2Norio Tamura"
+    },
+    {
+      "idx": 359,
+      "text": "　　Takeaki Aoki　　　　　　\\t2Atsushi Kinoshita"
+    },
+    {
+      "idx": 360,
+      "text": "　　Toshiaki Sugiura"
+    },
+    {
+      "idx": 362,
+      "text": "　Character Graphic Manager"
+    },
+    {
+      "idx": 363,
+      "text": "　　Atsushi Kobayashi"
+    },
+    {
+      "idx": 365,
+      "text": "　Character Graphic Editors"
+    },
+    {
+      "idx": 366,
+      "text": "　　Atsushi Kobayashi　　　 \\t2Remi Ichinose "
+    },
+    {
+      "idx": 367,
+      "text": "　　Yoko Kawamata　　　　　 \\t2Takeshi Kato"
+    },
+    {
+      "idx": 368,
+      "text": "　　Seiya Fujita　　　　　　\\t2Kazue Nakajima"
+    },
+    {
+      "idx": 371,
+      "text": "　Library/Glossary Production Assistants"
+    },
+    {
+      "idx": 372,
+      "text": "　　Takanori Ishida"
+    },
+    {
+      "idx": 373,
+      "text": "　　Kazumori Matsumura"
+    },
+    {
+      "idx": 376,
+      "text": "　Voice Editing/Sound Effects"
+    },
+    {
+      "idx": 377,
+      "text": "　　Shiori Ide"
+    },
+    {
+      "idx": 378,
+      "text": "　　Tatsuya Takiguchi"
+    },
+    {
+      "idx": 379,
+      "text": "　　Keisuke Nakazato"
+    },
+    {
+      "idx": 381,
+      "text": "　Sound Effects&Voice Editor"
+    },
+    {
+      "idx": 382,
+      "text": "　　Naoto Oba　　　　　　　\\t2Koji Yamada"
+    },
+    {
+      "idx": 383,
+      "text": "　　Ryusuke Ubukata"
+    },
+    {
+      "idx": 385,
+      "text": "　　T's MUSIC Co., Ltd"
+    },
+    {
+      "idx": 386,
+      "text": "　　　Tomomitsu Matsushita　Kotaro Baba"
+    },
+    {
+      "idx": 389,
+      "text": "　System Manager"
+    },
+    {
+      "idx": 390,
+      "text": "　　Tetsuichi Hiyama"
+    },
+    {
+      "idx": 393,
+      "text": "　Support"
+    },
+    {
+      "idx": 394,
+      "text": "　　Mitsuru Hidaka"
+    },
+    {
+      "idx": 395,
+      "text": "　　Hiroshi Kikuchi"
+    },
+    {
+      "idx": 396,
+      "text": "　　Ryoji Kondo"
+    },
+    {
+      "idx": 397,
+      "text": "　　Tatsuya Asai"
+    },
+    {
+      "idx": 398,
+      "text": "　　Koji Yamada"
+    },
+    {
+      "idx": 399,
+      "text": "　　Akiko Wakabayashi"
+    },
+    {
+      "idx": 400,
+      "text": "　　Shinichirou Fukunishi"
+    },
+    {
+      "idx": 402,
+      "text": "　　Hirotomo Morisada"
+    },
+    {
+      "idx": 403,
+      "text": "　　Takao Nagasawa"
+    },
+    {
+      "idx": 404,
+      "text": "　　Yuriko Yoshioka"
+    },
+    {
+      "idx": 405,
+      "text": "　　Yayoi Hayashida"
+    },
+    {
+      "idx": 408,
+      "text": "　Sound Director"
+    },
+    {
+      "idx": 409,
+      "text": "　　Takanori Arima"
+    },
+    {
+      "idx": 411,
+      "text": "　Compose&Arrangement"
+    },
+    {
+      "idx": 412,
+      "text": "　　Hiromi Mizutani　　　　 \\t2Takanori Arima"
+    },
+    {
+      "idx": 413,
+      "text": "　　Shuji Katayama　　　　　\\t2Kazumi Kitashiro"
+    },
+    {
+      "idx": 414,
+      "text": "　　Kenji Katoh　　　　　　 \\t2Azusa Hamashima"
+    },
+    {
+      "idx": 415,
+      "text": "　　Seiji Hotta"
+    },
+    {
+      "idx": 417,
+      "text": "　Salamander Factory Co., Ltd."
+    },
+    {
+      "idx": 418,
+      "text": "　　Naofumi Tsuruyama　　　 \\t2Takuya Hanaoka"
+    },
+    {
+      "idx": 419,
+      "text": "　　Kayoko Matsushima"
+    },
+    {
+      "idx": 421,
+      "text": "　Strings"
+    },
+    {
+      "idx": 422,
+      "text": "　　Yuma Itoh Strings"
+    },
+    {
+      "idx": 424,
+      "text": "　Violin&Cello"
+    },
+    {
+      "idx": 425,
+      "text": "　　Crusher Kimura　　　　　\\t2MIZ"
+    },
+    {
+      "idx": 426,
+      "text": "　　Masutami Endo"
+    },
+    {
+      "idx": 428,
+      "text": "　Brass"
+    },
+    {
+      "idx": 429,
+      "text": "　　Yusuke Nakano　　　　　 \\t2YOKAN"
+    },
+    {
+      "idx": 430,
+      "text": "　　Azusa Tojo　　　　　　　\\t2Terumichi Itoh"
+    },
+    {
+      "idx": 431,
+      "text": "　　Haruka Sasaki"
+    },
+    {
+      "idx": 433,
+      "text": "　Woodwinds"
+    },
+    {
+      "idx": 434,
+      "text": "　　Haruka Sasaki　　　　　 \\t2Misaki Hatori"
+    },
+    {
+      "idx": 436,
+      "text": "　Guitar&Bass"
+    },
+    {
+      "idx": 437,
+      "text": "　　Kenji Fujisawa　　　　　\\t2Yuki Kakishita"
+    },
+    {
+      "idx": 439,
+      "text": "　Choir"
+    },
+    {
+      "idx": 440,
+      "text": "　　Remi"
+    },
+    {
+      "idx": 442,
+      "text": "　Synth Programming"
+    },
+    {
+      "idx": 443,
+      "text": "　　Takanori Arima & Electric Skull Orchestra"
+    },
+    {
+      "idx": 445,
+      "text": "　Music Preparation"
+    },
+    {
+      "idx": 446,
+      "text": "　　Azusa Hamashima　　　　 \\t2Tai Tomisawa"
+    },
+    {
+      "idx": 448,
+      "text": "　Recording&Mixing Engineer"
+    },
+    {
+      "idx": 449,
+      "text": "　　Yasufumi Sugahara (FREE MARKET INC.)"
+    },
+    {
+      "idx": 450,
+      "text": "　　Hiroshi Kitashiro (Kitashiro Music Production)"
+    },
+    {
+      "idx": 452,
+      "text": "　Recording&Mixing Studio"
+    },
+    {
+      "idx": 453,
+      "text": "　　Studio A-tone　　　　　 \\t2Sound Valley"
+    },
+    {
+      "idx": 454,
+      "text": "　　Sound Arts　　　　　　　\\t2Yokan Studio"
+    },
+    {
+      "idx": 456,
+      "text": "　Mixing Engineer"
+    },
+    {
+      "idx": 457,
+      "text": "　　Dan Rudin"
+    },
+    {
+      "idx": 459,
+      "text": "　Mixing Studio"
+    },
+    {
+      "idx": 460,
+      "text": "　　Dan Rudin`s Studio (the Heart of Nashville,TN)"
+    },
+    {
+      "idx": 462,
+      "text": "　Dan Rudin Coordinator"
+    },
+    {
+      "idx": 463,
+      "text": "　　Harmonics International   Tomoko Akaboshi"
+    },
+    {
+      "idx": 465,
+      "text": "　Mastering Engineer"
+    },
+    {
+      "idx": 466,
+      "text": "　　Takanari Oyama (Studio O3 Tokyo)"
+    },
+    {
+      "idx": 468,
+      "text": "　Mastering Supervisor"
+    },
+    {
+      "idx": 469,
+      "text": "　　Takafumi Wada (Dimension Cruise)"
+    },
+    {
+      "idx": 471,
+      "text": "　2nd Mastering & Music Editor"
+    },
+    {
+      "idx": 472,
+      "text": "　　Takanori Arima"
+    },
+    {
+      "idx": 474,
+      "text": "　Mix Assistant"
+    },
+    {
+      "idx": 475,
+      "text": "　　Yuri Kurihama (FREE MARKET INC.)"
+    },
+    {
+      "idx": 477,
+      "text": "　Music Production & Management"
+    },
+    {
+      "idx": 478,
+      "text": "　B.B.Studio Co.,Ltd Sound Team"
+    },
+    {
+      "idx": 479,
+      "text": "　　Mitsuhiro Toyota & Minako Hashimoto (Team-MAX)"
+    },
+    {
+      "idx": 480,
+      "text": "　　Koji Suga & Masako Suga (Harmonics International)"
+    },
+    {
+      "idx": 481,
+      "text": "　　Kitashiro Music Production"
+    },
+    {
+      "idx": 484,
+      "text": "3D Map Graphics"
+    },
+    {
+      "idx": 485,
+      "text": "　ALPHA UNIT Co.,Ltd"
+    },
+    {
+      "idx": 486,
+      "text": "　　Mitsuo Nagai"
+    },
+    {
+      "idx": 487,
+      "text": "　　Kaname Igarashi"
+    },
+    {
+      "idx": 489,
+      "text": "　Galat Co., Ltd."
+    },
+    {
+      "idx": 490,
+      "text": "　　Masahiro Endo"
+    },
+    {
+      "idx": 491,
+      "text": "　　Taku Kato"
+    },
+    {
+      "idx": 492,
+      "text": "　　Yumiko Konishi"
+    },
+    {
+      "idx": 493,
+      "text": "　　Chihiro Toma"
+    },
+    {
+      "idx": 494,
+      "text": "　　Haruka Shirayori"
+    },
+    {
+      "idx": 495,
+      "text": "　　Miho Ujiie"
+    },
+    {
+      "idx": 496,
+      "text": "　　Motoka Noritsugu"
+    },
+    {
+      "idx": 499,
+      "text": "Conversation Background Graphics"
+    },
+    {
+      "idx": 500,
+      "text": "　HED WORKS CO.,LTD"
+    },
+    {
+      "idx": 501,
+      "text": "　　Masahiro Sato"
+    },
+    {
+      "idx": 502,
+      "text": "　　Kouki Nagayosi"
+    },
+    {
+      "idx": 503,
+      "text": "　　Kaoru Chiba"
+    },
+    {
+      "idx": 504,
+      "text": "　　Hiroko Murai"
+    },
+    {
+      "idx": 505,
+      "text": "　　Yasuhito Wada"
+    },
+    {
+      "idx": 506,
+      "text": "　　Hiromi Bando"
+    },
+    {
+      "idx": 507,
+      "text": "　　Miku Iida"
+    },
+    {
+      "idx": 508,
+      "text": "　　Tomoyasu Fijise"
+    },
+    {
+      "idx": 509,
+      "text": "　　Mayuka Oota"
+    },
+    {
+      "idx": 510,
+      "text": "　　Natsuko Nakanishi"
+    },
+    {
+      "idx": 511,
+      "text": "　　Rumi Matsumoto"
+    },
+    {
+      "idx": 512,
+      "text": "　　Miwa Suzuki"
+    },
+    {
+      "idx": 514,
+      "text": "　Tetsuo Yokota"
+    },
+    {
+      "idx": 515,
+      "text": "　Akihiro Hirasawa"
+    },
+    {
+      "idx": 516,
+      "text": "　Nariyuki Ogi"
+    },
+    {
+      "idx": 517,
+      "text": "　Yoshirou Kajiwara"
+    },
+    {
+      "idx": 518,
+      "text": "　Rie Sugiyama"
+    },
+    {
+      "idx": 519,
+      "text": "　Naoko Osakabe"
+    },
+    {
+      "idx": 522,
+      "text": "Battle Cut-in Original Art Support"
+    },
+    {
+      "idx": 523,
+      "text": "　Masami Obari（STUDIO G-1 NEO）"
+    },
+    {
+      "idx": 526,
+      "text": "「Full Metal Panic!」 Original Character Design"
+    },
+    {
+      "idx": 527,
+      "text": "　Shikidouji"
+    },
+    {
+      "idx": 530,
+      "text": "Audio"
+    },
+    {
+      "idx": 531,
+      "text": "　Audio Director"
+    },
+    {
+      "idx": 532,
+      "text": "　　B.B.STUDIO CO.,LTD."
+    },
+    {
+      "idx": 533,
+      "text": "　　　Keisuke Nakazato"
+    },
+    {
+      "idx": 535,
+      "text": "　Audio Producer"
+    },
+    {
+      "idx": 536,
+      "text": "　　AONI PRODUCTION CO.,LTD."
+    },
+    {
+      "idx": 537,
+      "text": "　　　Michitaro Hara"
+    },
+    {
+      "idx": 539,
+      "text": "　Recording Engineers"
+    },
+    {
+      "idx": 540,
+      "text": "　　Hitomi Hagiya"
+    },
+    {
+      "idx": 541,
+      "text": "　　Tomoki Ota"
+    },
+    {
+      "idx": 542,
+      "text": "　　Shigeo Sakurai"
+    },
+    {
+      "idx": 544,
+      "text": "　Studio Desk Support"
+    },
+    {
+      "idx": 545,
+      "text": "　　Kumiko Yusa"
+    },
+    {
+      "idx": 547,
+      "text": "　Recording Studio"
+    },
+    {
+      "idx": 548,
+      "text": "　　Onkio Haus Inc."
+    },
+    {
+      "idx": 551,
+      "text": "Opening Theme Song"
+    },
+    {
+      "idx": 553,
+      "text": " THE EXCEEDER"
+    },
+    {
+      "idx": 555,
+      "text": "　Lyrics: Hironobu Kageyama    Masaaki Endoh"
+    },
+    {
+      "idx": 556,
+      "text": "　Composition: Hironobu Kageyama    Masaaki Endoh"
+    },
+    {
+      "idx": 557,
+      "text": "　Arrangement: Masaki Suzuki    Shiho Terada"
+    },
+    {
+      "idx": 558,
+      "text": "　Vocals: JAM Project"
+    },
+    {
+      "idx": 560,
+      "text": "Ending Theme Song"
+    },
+    {
+      "idx": 562,
+      "text": " NEW BLUE"
+    },
+    {
+      "idx": 564,
+      "text": "　Lyrics: Masami Okui"
+    },
+    {
+      "idx": 565,
+      "text": "　Composition: Yoshiki Fukuyama"
+    },
+    {
+      "idx": 566,
+      "text": "　Arrangement: Shiho Terada"
+    },
+    {
+      "idx": 567,
+      "text": "　Vocals: JAM Project"
+    },
+    {
+      "idx": 570,
+      "text": "Debug"
+    },
+    {
+      "idx": 572,
+      "text": "Pole To Win Co., Ltd."
+    },
+    {
+      "idx": 575,
+      "text": "Printing Production"
+    },
+    {
+      "idx": 577,
+      "text": "　Shun Fujita"
+    },
+    {
+      "idx": 579,
+      "text": "　Package Illustration"
+    },
+    {
+      "idx": 580,
+      "text": "　　Daisei Fujii"
+    },
+    {
+      "idx": 584,
+      "text": "Development Support"
+    },
+    {
+      "idx": 585,
+      "text": "　Yutaka Izubuchi"
+    },
+    {
+      "idx": 586,
+      "text": "　Shouji Gatou"
+    },
+    {
+      "idx": 587,
+      "text": "　Kazuma Shudo"
+    },
+    {
+      "idx": 590,
+      "text": "Special Thanks"
+    },
+    {
+      "idx": 592,
+      "text": "　B.B.STUDIO CO.,LTD."
+    },
+    {
+      "idx": 593,
+      "text": "　 Ayumi Uta"
+    },
+    {
+      "idx": 594,
+      "text": "　　Wataru Yoshida"
+    },
+    {
+      "idx": 595,
+      "text": "　　Kousuke Morita"
+    },
+    {
+      "idx": 597,
+      "text": "　BANDAI NAMCO Entertainment Inc."
+    },
+    {
+      "idx": 598,
+      "text": "　　Tomohisa Izumi"
+    },
+    {
+      "idx": 599,
+      "text": "　　Yasunori Fujiwara"
+    },
+    {
+      "idx": 600,
+      "text": "　　Hiroaki Ochi"
+    },
+    {
+      "idx": 601,
+      "text": "　　Masatoshi Akai"
+    },
+    {
+      "idx": 602,
+      "text": "　　SetSubi Ba"
+    },
+    {
+      "idx": 603,
+      "text": "　　Minako Nakanishi"
+    },
+    {
+      "idx": 604,
+      "text": "　　Syouta Tsujimoto"
+    },
+    {
+      "idx": 605,
+      "text": "　　Kensho Monden"
+    },
+    {
+      "idx": 606,
+      "text": "　　Hiroki Naito"
+    },
+    {
+      "idx": 607,
+      "text": "　　Chisa Shiraku"
+    },
+    {
+      "idx": 608,
+      "text": "　　Hirotaka Watanabe"
+    },
+    {
+      "idx": 609,
+      "text": "　　Yusuke Sasaki"
+    },
+    {
+      "idx": 610,
+      "text": "　　Shinya Satake"
+    },
+    {
+      "idx": 611,
+      "text": "　　Keisuke Sakata"
+    },
+    {
+      "idx": 612,
+      "text": "　　Yuta Kamio"
+    },
+    {
+      "idx": 614,
+      "text": "　BANDAI Co., Ltd."
+    },
+    {
+      "idx": 615,
+      "text": "　　Suzaki Atsuhiko"
+    },
+    {
+      "idx": 616,
+      "text": "　　Yoshinari Kimura"
+    },
+    {
+      "idx": 617,
+      "text": "　　Kenichiro Otsuka"
+    },
+    {
+      "idx": 618,
+      "text": "　　Keita Izumi"
+    },
+    {
+      "idx": 619,
+      "text": "　　Yoshio Ueda"
+    },
+    {
+      "idx": 620,
+      "text": "　　Akira Terano"
+    },
+    {
+      "idx": 622,
+      "text": "　　Hiroaki Tanaka"
+    },
+    {
+      "idx": 624,
+      "text": "　　Kota Toma"
+    },
+    {
+      "idx": 626,
+      "text": "　Lantis Co., Ltd."
+    },
+    {
+      "idx": 627,
+      "text": "　　Shunji Inoue"
+    },
+    {
+      "idx": 628,
+      "text": "　　Kiyoko Matsumura"
+    },
+    {
+      "idx": 629,
+      "text": "　　Yoichi Sekine"
+    },
+    {
+      "idx": 631,
+      "text": "　HIGHWAY STAR, Inc. "
+    },
+    {
+      "idx": 632,
+      "text": "　　Toru Kuwagaki"
+    },
+    {
+      "idx": 634,
+      "text": "　KADOKAWA CORPORATION"
+    },
+    {
+      "idx": 635,
+      "text": "　ASCII MEDIA WORKS BC"
+    },
+    {
+      "idx": 636,
+      "text": "　DENGEKI HOBBY WEB EDITORIAL DEPARTMENT"
+    },
+    {
+      "idx": 637,
+      "text": "　　Kousuke Koarai"
+    },
+    {
+      "idx": 638,
+      "text": "　　Shota Nakagawa"
+    },
+    {
+      "idx": 640,
+      "text": "　STUDIO NUE"
+    },
+    {
+      "idx": 641,
+      "text": "　　Yuji Takekawa"
+    },
+    {
+      "idx": 643,
+      "text": "　SUPAROBO OG RADIO UMASUGI WAVE"
+    },
+    {
+      "idx": 644,
+      "text": "　　Masaaki Endoh"
+    },
+    {
+      "idx": 645,
+      "text": "　　Tomokazu Sugita"
+    },
+    {
+      "idx": 646,
+      "text": "　　Mai Aizawa"
+    },
+    {
+      "idx": 647,
+      "text": "　　Kentaro Nishihara"
+    },
+    {
+      "idx": 648,
+      "text": "　　Takaichi Nagahama"
+    },
+    {
+      "idx": 650,
+      "text": "　Naoto Shimazaki"
+    },
+    {
+      "idx": 652,
+      "text": "　Mitsunari Miyake（AYAMAYO）"
+    },
+    {
+      "idx": 654,
+      "text": "　Hironobu Kageyama"
+    },
+    {
+      "idx": 655,
+      "text": "　Masaaki Endoh"
+    },
+    {
+      "idx": 656,
+      "text": "　Hiroshi Kitadani"
+    },
+    {
+      "idx": 657,
+      "text": "　Masami Okui"
+    },
+    {
+      "idx": 658,
+      "text": "　Yoshiki Fukuyama"
+    },
+    {
+      "idx": 660,
+      "text": "　Ichiro Mizuki"
+    },
+    {
+      "idx": 663,
+      "text": "BANDAI NAMCO Entertainment Inc."
+    },
+    {
+      "idx": 665,
+      "text": "　Quality Assurance"
+    },
+    {
+      "idx": 666,
+      "text": "　　Tomoaki Imanishi"
+    },
+    {
+      "idx": 668,
+      "text": "　　Yasuhiro Fukaya"
+    },
+    {
+      "idx": 669,
+      "text": "　　Ken Kuwahara"
+    },
+    {
+      "idx": 670,
+      "text": "　　Yuji Shibata"
+    },
+    {
+      "idx": 671,
+      "text": "　　Koki Iwao"
+    },
+    {
+      "idx": 672,
+      "text": "　　Masashi Aoyama"
+    },
+    {
+      "idx": 673,
+      "text": "　　Masaya Nakada"
+    },
+    {
+      "idx": 674,
+      "text": "　　Yoichi Takuishi"
+    },
+    {
+      "idx": 675,
+      "text": "　　Nobuyuki Sakaino"
+    },
+    {
+      "idx": 676,
+      "text": "　　Maki Takizawa"
+    },
+    {
+      "idx": 678,
+      "text": "　　Wataru Okumura"
+    },
+    {
+      "idx": 679,
+      "text": "　　Satoshi Miura"
+    },
+    {
+      "idx": 680,
+      "text": "　　Natsuki Koyama"
+    },
+    {
+      "idx": 681,
+      "text": "　　Hiroshi Watanabe"
+    },
+    {
+      "idx": 682,
+      "text": "　　Hiroki Naganuma"
+    },
+    {
+      "idx": 683,
+      "text": "　　Megumu Sakimura"
+    },
+    {
+      "idx": 684,
+      "text": "　　Yuya Takahashi"
+    },
+    {
+      "idx": 685,
+      "text": "　　Tokutaro Hirano"
+    },
+    {
+      "idx": 687,
+      "text": "　Customer Service"
+    },
+    {
+      "idx": 688,
+      "text": "　　Yuko Tsukui"
+    },
+    {
+      "idx": 689,
+      "text": "　　Masami Seno"
+    },
+    {
+      "idx": 690,
+      "text": "　　Yohei Kikuchi"
+    },
+    {
+      "idx": 691,
+      "text": "　　Takumi Hara"
+    },
+    {
+      "idx": 693,
+      "text": "　Promotion & Marketing"
+    },
+    {
+      "idx": 694,
+      "text": "　　Chikae Kimura"
+    },
+    {
+      "idx": 695,
+      "text": "　　Kenta Seino"
+    },
+    {
+      "idx": 696,
+      "text": "　　Ryoko Seki"
+    },
+    {
+      "idx": 697,
+      "text": "　　Ayami Yasumoto"
+    },
+    {
+      "idx": 698,
+      "text": "　　Yuya Iijima"
+    },
+    {
+      "idx": 699,
+      "text": "　　Tatsuhiro Suzuki"
+    },
+    {
+      "idx": 701,
+      "text": "　Sales"
+    },
+    {
+      "idx": 702,
+      "text": "　　Hiroaki Ochiai"
+    },
+    {
+      "idx": 703,
+      "text": "　　Takehito Inoue"
+    },
+    {
+      "idx": 704,
+      "text": "　　Airi Toyota"
+    },
+    {
+      "idx": 706,
+      "text": "　Produce Support"
+    },
+    {
+      "idx": 707,
+      "text": "　　Tadashi Masuyama"
+    },
+    {
+      "idx": 708,
+      "text": "　　Tomomi Arakawa"
+    },
+    {
+      "idx": 709,
+      "text": "　　Tomomi Fujisawa"
+    },
+    {
+      "idx": 710,
+      "text": "　　Misaki Okuma"
+    },
+    {
+      "idx": 712,
+      "text": "　Product Management Department"
+    },
+    {
+      "idx": 713,
+      "text": "　　Tomoaki Nanjo"
+    },
+    {
+      "idx": 714,
+      "text": "　　Jeremy Clark"
+    },
+    {
+      "idx": 715,
+      "text": "　　Sachiyo Yoshida"
+    },
+    {
+      "idx": 716,
+      "text": "　　Yosuke Asada "
+    },
+    {
+      "idx": 717,
+      "text": "　　Naoki Kudo"
+    },
+    {
+      "idx": 718,
+      "text": "　　Masahiko Yoshizawa"
+    },
+    {
+      "idx": 719,
+      "text": "　　Tomonari Fujii"
+    },
+    {
+      "idx": 722,
+      "text": "　Media"
+    },
+    {
+      "idx": 723,
+      "text": "　　Kazunori Goka"
+    },
+    {
+      "idx": 724,
+      "text": "　　Kuninori Yoshizaki"
+    },
+    {
+      "idx": 725,
+      "text": "　　Hideyuki Yamazaki"
+    },
+    {
+      "idx": 726,
+      "text": "　　Chunmyong Yang"
+    },
+    {
+      "idx": 727,
+      "text": "　　Atsuya Yamamoto"
+    },
+    {
+      "idx": 728,
+      "text": "　　Momoko Suzuki"
+    },
+    {
+      "idx": 729,
+      "text": "　　Mayuko Kobayashi"
+    },
+    {
+      "idx": 732,
+      "text": "BANDAI NAMCO Entertainment Romania"
+    },
+    {
+      "idx": 734,
+      "text": "　Producer"
+    },
+    {
+      "idx": 735,
+      "text": "　　Bogdan Alexandrescu"
+    },
+    {
+      "idx": 737,
+      "text": "　Lead Programmer"
+    },
+    {
+      "idx": 738,
+      "text": "　　Dan Gafencu"
+    },
+    {
+      "idx": 740,
+      "text": "　Render Programmer"
+    },
+    {
+      "idx": 741,
+      "text": "　　Cristian Paun"
+    },
+    {
+      "idx": 743,
+      "text": "　Gameplay Programmer"
+    },
+    {
+      "idx": 744,
+      "text": "　　Nicolae Mateescu"
+    },
+    {
+      "idx": 746,
+      "text": "　Additional Art"
+    },
+    {
+      "idx": 747,
+      "text": "　　Mihaela Ursan"
+    },
+    {
+      "idx": 749,
+      "text": "　Dev QA"
+    },
+    {
+      "idx": 750,
+      "text": "　　Irina Spiroiu"
+    },
+    {
+      "idx": 751,
+      "text": "　　Victor Neagoe"
+    },
+    {
+      "idx": 753,
+      "text": "BANDAI NAMCO Entertainment America Inc."
+    },
+    {
+      "idx": 755,
+      "text": "Super Robot Wars GAME TEAM"
+    },
+    {
+      "idx": 757,
+      "text": "　Producer"
+    },
+    {
+      "idx": 758,
+      "text": "　　Rey Jimenez"
+    },
+    {
+      "idx": 760,
+      "text": "　Production Project Manager"
+    },
+    {
+      "idx": 761,
+      "text": "　　David Humbert"
+    },
+    {
+      "idx": 763,
+      "text": "　Localization Project Manager"
+    },
+    {
+      "idx": 764,
+      "text": "　　Brittany Schieron"
+    },
+    {
+      "idx": 766,
+      "text": "　Quality Control Project Manager"
+    },
+    {
+      "idx": 767,
+      "text": "　　Steve Wilton"
+    },
+    {
+      "idx": 769,
+      "text": "EXECUTIVE TEAM"
+    },
+    {
+      "idx": 771,
+      "text": "　President & CEO"
+    },
+    {
+      "idx": 772,
+      "text": "　　Naoki Katashima"
+    },
+    {
+      "idx": 774,
+      "text": "　Executive VP & COO"
+    },
+    {
+      "idx": 775,
+      "text": "　　Hide Irie"
+    },
+    {
+      "idx": 777,
+      "text": "　Executive VP & CFO"
+    },
+    {
+      "idx": 778,
+      "text": "　　Kunio Ikoma"
+    },
+    {
+      "idx": 781,
+      "text": "PUBLISHING & IP STRATEGY"
+    },
+    {
+      "idx": 783,
+      "text": "　VP, Publishing & IP Strategy"
+    },
+    {
+      "idx": 784,
+      "text": "　　Takashi Akiyama"
+    },
+    {
+      "idx": 786,
+      "text": "　Senior Director, Production Services"
+    },
+    {
+      "idx": 787,
+      "text": "　　Tad Hirabayashi"
+    },
+    {
+      "idx": 789,
+      "text": "　Production Manager"
+    },
+    {
+      "idx": 790,
+      "text": "　　David Moya"
+    },
+    {
+      "idx": 792,
+      "text": "　Senior Localization Manager"
+    },
+    {
+      "idx": 793,
+      "text": "　　Matt Coburn"
+    },
+    {
+      "idx": 795,
+      "text": "　Software Tools Engineer"
+    },
+    {
+      "idx": 796,
+      "text": "　　Micah Geary"
+    },
+    {
+      "idx": 798,
+      "text": "　Director, IP Strategy"
+    },
+    {
+      "idx": 799,
+      "text": "　　Shoya Yamazaki"
+    },
+    {
+      "idx": 801,
+      "text": "LEGAL & BUSINESS AFFAIRS"
+    },
+    {
+      "idx": 803,
+      "text": "　Counsel, Product & Commercial"
+    },
+    {
+      "idx": 804,
+      "text": "　　Patrick Lundell"
+    },
+    {
+      "idx": 806,
+      "text": "　Associate Counsel"
+    },
+    {
+      "idx": 807,
+      "text": "　　Rafael Orozco"
+    },
+    {
+      "idx": 808,
+      "text": "　　Mark Nevada"
+    },
+    {
+      "idx": 810,
+      "text": "　IP Administrator"
+    },
+    {
+      "idx": 811,
+      "text": "　　Reina Nagai"
+    },
+    {
+      "idx": 813,
+      "text": "QUALITY ASSURANCE"
+    },
+    {
+      "idx": 815,
+      "text": "　Additional Testing Provided By:"
+    },
+    {
+      "idx": 816,
+      "text": "　　GlobalStep LLC"
+    },
+    {
+      "idx": 818,
+      "text": "　Operations Director"
+    },
+    {
+      "idx": 819,
+      "text": "　　Sumit Arora"
+    },
+    {
+      "idx": 821,
+      "text": "　Sr. QA Manager"
+    },
+    {
+      "idx": 822,
+      "text": "　　Piyoosh Sah"
+    },
+    {
+      "idx": 824,
+      "text": "　Project Lead"
+    },
+    {
+      "idx": 825,
+      "text": "　　Zaher Vacha"
+    },
+    {
+      "idx": 827,
+      "text": "　Testers"
+    },
+    {
+      "idx": 828,
+      "text": "　　Aniket Ichake"
+    },
+    {
+      "idx": 829,
+      "text": "　　Pragati Mane"
+    },
+    {
+      "idx": 830,
+      "text": "　　Rohit Chavan"
+    },
+    {
+      "idx": 831,
+      "text": "　　Rushabh Mohite"
+    },
+    {
+      "idx": 833,
+      "text": "　Additional Language Testing Provided By:"
+    },
+    {
+      "idx": 834,
+      "text": "　　Lionbridge Gaming"
+    },
+    {
+      "idx": 836,
+      "text": "　LQA Manager"
+    },
+    {
+      "idx": 837,
+      "text": "　　Damian Domach"
+    },
+    {
+      "idx": 839,
+      "text": "　LQA Test Manager"
+    },
+    {
+      "idx": 840,
+      "text": "　　Steffen Strohmann"
+    },
+    {
+      "idx": 842,
+      "text": "　LQA Test Lead"
+    },
+    {
+      "idx": 843,
+      "text": "　　Jose \"Nacho\" Chaves"
+    },
+    {
+      "idx": 845,
+      "text": "　LQA Engineers (English)"
+    },
+    {
+      "idx": 846,
+      "text": "　　Luis Mora"
+    },
+    {
+      "idx": 847,
+      "text": "　　Eduardo Bernardes"
+    },
+    {
+      "idx": 849,
+      "text": "BANDAI NAMCO Entertainment Taiwan"
+    },
+    {
+      "idx": 851,
+      "text": "　Managing Director"
+    },
+    {
+      "idx": 852,
+      "text": "　　William Wang"
+    },
+    {
+      "idx": 854,
+      "text": "　Sales Manager"
+    },
+    {
+      "idx": 855,
+      "text": "　　Benny Tsai"
+    },
+    {
+      "idx": 857,
+      "text": "　Sales Representative"
+    },
+    {
+      "idx": 858,
+      "text": "　　Peter Yang"
+    },
+    {
+      "idx": 860,
+      "text": "　Marketing Manager"
+    },
+    {
+      "idx": 861,
+      "text": "　　Carrie Hsiao"
+    },
+    {
+      "idx": 863,
+      "text": "　PR Assistant Manager"
+    },
+    {
+      "idx": 864,
+      "text": "　　Joanna Fong"
+    },
+    {
+      "idx": 866,
+      "text": "　PR Assistant Manager"
+    },
+    {
+      "idx": 867,
+      "text": "　　Rebecca Li"
+    },
+    {
+      "idx": 869,
+      "text": "　Product Manager"
+    },
+    {
+      "idx": 870,
+      "text": "　　Zoe Kao"
+    },
+    {
+      "idx": 871,
+      "text": "　　Ken Chen"
+    },
+    {
+      "idx": 873,
+      "text": "　Product Executive"
+    },
+    {
+      "idx": 874,
+      "text": "　　Li Yi Hsiao"
+    },
+    {
+      "idx": 876,
+      "text": "　Art Designer & Operations Coodinator "
+    },
+    {
+      "idx": 877,
+      "text": "　　Jessie Hsieh"
+    },
+    {
+      "idx": 878,
+      "text": "　　Lin Pei Hsia"
+    },
+    {
+      "idx": 880,
+      "text": "Localisation & QA Team"
+    },
+    {
+      "idx": 882,
+      "text": "　Asia Localisation Manager"
+    },
+    {
+      "idx": 883,
+      "text": "　　Chang Yuan Gang"
+    },
+    {
+      "idx": 885,
+      "text": "　Localisation Manager (Taiwan)"
+    },
+    {
+      "idx": 886,
+      "text": "　　Tsai Mulan"
+    },
+    {
+      "idx": 888,
+      "text": "　Chinese Localisation Team "
+    },
+    {
+      "idx": 889,
+      "text": "　　Chien Chin Hsien"
+    },
+    {
+      "idx": 891,
+      "text": "　Chinese QA Project Leader"
+    },
+    {
+      "idx": 892,
+      "text": "　　Chiang Chi Che"
+    },
+    {
+      "idx": 893,
+      "text": "　　Huang Shih Wei"
+    },
+    {
+      "idx": 894,
+      "text": "　　Yu Chiao Huai"
+    },
+    {
+      "idx": 895,
+      "text": "　　Wang Kuan Chun"
+    },
+    {
+      "idx": 896,
+      "text": "　　Wang Yan Zhe"
+    },
+    {
+      "idx": 898,
+      "text": "　Chinese Localization Tester"
+    },
+    {
+      "idx": 899,
+      "text": "　　Chen Xian Zhe"
+    },
+    {
+      "idx": 900,
+      "text": "　　Chi Ting Tu"
+    },
+    {
+      "idx": 901,
+      "text": "　　Chien Shih Siang"
+    },
+    {
+      "idx": 902,
+      "text": "　　Ding Jyun Wei"
+    },
+    {
+      "idx": 903,
+      "text": "　　Ho Shu Pin"
+    },
+    {
+      "idx": 904,
+      "text": "　　Hsieh Cheng Ju"
+    },
+    {
+      "idx": 905,
+      "text": "　　Hsu Kuo Huang"
+    },
+    {
+      "idx": 906,
+      "text": "　　Huang Chi Long"
+    },
+    {
+      "idx": 907,
+      "text": "　　Lo Fu Teng"
+    },
+    {
+      "idx": 908,
+      "text": "　　Wang Jing Ting"
+    },
+    {
+      "idx": 909,
+      "text": "　　Wang S Joan"
+    },
+    {
+      "idx": 912,
+      "text": "BANDAI NAMCO Entertainment Korea"
+    },
+    {
+      "idx": 914,
+      "text": "　Acting General Manager (Sales & Marketing) Korea"
+    },
+    {
+      "idx": 915,
+      "text": "　　Tag Chang"
+    },
+    {
+      "idx": 917,
+      "text": "　Product Assistant"
+    },
+    {
+      "idx": 918,
+      "text": "　　Hailey Shin"
+    },
+    {
+      "idx": 920,
+      "text": "　Marketing Manager"
+    },
+    {
+      "idx": 921,
+      "text": "　　Jung-eun Oh"
+    },
+    {
+      "idx": 923,
+      "text": "　Marketing Assistant"
+    },
+    {
+      "idx": 924,
+      "text": "　　Jay Nam "
+    },
+    {
+      "idx": 926,
+      "text": "　Marketing Coordinator"
+    },
+    {
+      "idx": 927,
+      "text": "　　Harry Cho"
+    },
+    {
+      "idx": 929,
+      "text": "　Logistics & Product Coordinator"
+    },
+    {
+      "idx": 930,
+      "text": "　　Chloe Jin"
+    },
+    {
+      "idx": 932,
+      "text": "　Product & Creative Designer"
+    },
+    {
+      "idx": 933,
+      "text": "　　Judy Jeong"
+    },
+    {
+      "idx": 935,
+      "text": "　Localization Manager"
+    },
+    {
+      "idx": 936,
+      "text": "　　Mindy Jeon"
+    },
+    {
+      "idx": 938,
+      "text": "　Localization Assistant"
+    },
+    {
+      "idx": 939,
+      "text": "　　Ash Kim"
+    },
+    {
+      "idx": 941,
+      "text": "　Localization Senior Specialist"
+    },
+    {
+      "idx": 942,
+      "text": "　　Kai Lee"
+    },
+    {
+      "idx": 943,
+      "text": "　　Ian Kang"
+    },
+    {
+      "idx": 944,
+      "text": "　　Jinny Jung"
+    },
+    {
+      "idx": 946,
+      "text": "　Localization Specialist"
+    },
+    {
+      "idx": 947,
+      "text": "　　Douglas Kim"
+    },
+    {
+      "idx": 948,
+      "text": "　　Loni Kim"
+    },
+    {
+      "idx": 949,
+      "text": "　　Ellie Jang"
+    },
+    {
+      "idx": 951,
+      "text": "　Korean Localization Tester"
+    },
+    {
+      "idx": 952,
+      "text": "　　Keunhyuk Lee"
+    },
+    {
+      "idx": 953,
+      "text": "　　Daehwi Noh"
+    },
+    {
+      "idx": 954,
+      "text": "　　Changha Lim"
+    },
+    {
+      "idx": 955,
+      "text": "　　Sangwon Lee"
+    },
+    {
+      "idx": 957,
+      "text": "BANDAI NAMCO Entertainment Asia Pte Ltd."
+    },
+    {
+      "idx": 959,
+      "text": "　Managing Director & Senior VP Of Asia Pacific "
+    },
+    {
+      "idx": 960,
+      "text": "　　Gerard Noonan"
+    },
+    {
+      "idx": 962,
+      "text": "　General Manager (Sales & Marketing), Singapore & S.E.A "
+    },
+    {
+      "idx": 963,
+      "text": "　　Rainel Tan"
+    },
+    {
+      "idx": 965,
+      "text": "　SVP Marketing Asia"
+    },
+    {
+      "idx": 966,
+      "text": "　　Jennifer Poulson "
+    },
+    {
+      "idx": 968,
+      "text": "　IP Strategy Manager Asia Pacific"
+    },
+    {
+      "idx": 969,
+      "text": "　　Yoichiro Mogi"
+    },
+    {
+      "idx": 971,
+      "text": "　Associate Product Manager"
+    },
+    {
+      "idx": 972,
+      "text": "　　Eshley Gao"
+    },
+    {
+      "idx": 974,
+      "text": "　Director of Digital Sales"
+    },
+    {
+      "idx": 975,
+      "text": "　　Michael Rose"
+    },
+    {
+      "idx": 977,
+      "text": "　Digital Operations Manager"
+    },
+    {
+      "idx": 978,
+      "text": "　　Leung Sin Hang"
+    },
+    {
+      "idx": 980,
+      "text": "　Marketing Manager"
+    },
+    {
+      "idx": 981,
+      "text": "　　Sophia Lek (Singapore)"
+    },
+    {
+      "idx": 983,
+      "text": "　Marketing Executive"
+    },
+    {
+      "idx": 984,
+      "text": "　　Janice Teo (Singapore)"
+    },
+    {
+      "idx": 986,
+      "text": "　Logistics And Account Coordinator "
+    },
+    {
+      "idx": 987,
+      "text": "　　Renee Lim (Singapore)"
+    },
+    {
+      "idx": 990,
+      "text": "Production Support"
+    },
+    {
+      "idx": 991,
+      "text": "　KADOKAWA CORPORATION"
+    },
+    {
+      "idx": 992,
+      "text": "　KING RECORD CO.,LTD."
+    },
+    {
+      "idx": 993,
+      "text": "　GroundWorks: Co.,Ltd."
+    },
+    {
+      "idx": 994,
+      "text": "　SUNRISE INC."
+    },
+    {
+      "idx": 995,
+      "text": "　SOTSU CO., LTD."
+    },
+    {
+      "idx": 996,
+      "text": "　Dynamic Planning Inc.,"
+    },
+    {
+      "idx": 997,
+      "text": "　TOHOKUSHINSHA FILM CORPORATION"
+    },
+    {
+      "idx": 998,
+      "text": "　VOYAGER HOLDINGS,INC"
+    },
+    {
+      "idx": 999,
+      "text": "　Rights Inn Corporation"
+    },
+    {
+      "idx": 1002,
+      "text": "Production Support"
+    },
+    {
+      "idx": 1003,
+      "text": "　AONI PRODUCTION CO.,LTD."
+    },
+    {
+      "idx": 1004,
+      "text": "　ARTPRESTO Co.,Ltd."
+    },
+    {
+      "idx": 1005,
+      "text": "　KADOKAWA CORPORATION ASCII MEDIA WORKS BC"
+    },
+    {
+      "idx": 1006,
+      "text": "　Salamander Factory Co., Ltd."
+    },
+    {
+      "idx": 1007,
+      "text": "　CRI Middleware Co., Ltd"
+    },
+    {
+      "idx": 1008,
+      "text": "　Powered by \"CRIWARE\". CRIWARE is a trademark of CRI Middleware Co., Ltd"
+    },
+    {
+      "idx": 1009,
+      "text": "　SOTSU CO.,LTD."
+    },
+    {
+      "idx": 1010,
+      "text": "　DynaComware Corporation"
+    },
+    {
+      "idx": 1011,
+      "text": "　(C) Copyright TypeBank Co., Ltd. All Rights Reserved."
+    },
+    {
+      "idx": 1012,
+      "text": "　BANDAI Co., Ltd."
+    },
+    {
+      "idx": 1013,
+      "text": "　BANDAI VISUAL CO., LTD."
+    },
+    {
+      "idx": 1014,
+      "text": "　Lantis Co., Ltd."
+    },
+    {
+      "idx": 1015,
+      "text": "　BANDAI NAMCO Rights Marketing Inc."
+    },
+    {
+      "idx": 1016,
+      "text": "　BANDAI NAMCO Live Creative Inc."
+    },
+    {
+      "idx": 1017,
+      "text": "　Morisawa Inc."
+    },
+    {
+      "idx": 1018,
+      "text": "　Fonts used in-game are provided in part by TypeBank Co.,Ltd. All rights reserved."
+    },
+    {
+      "idx": 1021,
+      "text": "Promotion Video Production"
+    },
+    {
+      "idx": 1022,
+      "text": "　"
+    },
+    {
+      "idx": 1023,
+      "text": "　Flower Lab"
+    },
+    {
+      "idx": 1024,
+      "text": "　　Tomoyasu Sakita"
+    },
+    {
+      "idx": 1026,
+      "text": "　TOHO EIZO BIJUTSU Co.,Ltd."
+    },
+    {
+      "idx": 1027,
+      "text": "　　Yukiya Hanawa"
+    },
+    {
+      "idx": 1028,
+      "text": "　　Takshi Kanefusa"
+    },
+    {
+      "idx": 1031,
+      "text": "　SOTSU CO.,LTD."
+    },
+    {
+      "idx": 1032,
+      "text": "　　Takashi Muto"
+    },
+    {
+      "idx": 1033,
+      "text": "　　Yuki Tamanoi"
+    },
+    {
+      "idx": 1037,
+      "text": "B.B.STUDIO CO.,LTD."
+    },
+    {
+      "idx": 1039,
+      "text": "General Producers"
+    },
+    {
+      "idx": 1040,
+      "text": "　Kazutoshi Yanagida"
+    },
+    {
+      "idx": 1041,
+      "text": "　Yasuhiko Kikuchi"
+    },
+    {
+      "idx": 1044,
+      "text": "BANDAI NAMCO Entertainment Inc."
+    },
+    {
+      "idx": 1046,
+      "text": "Producers"
+    },
+    {
+      "idx": 1047,
+      "text": "　Shohei Mogami"
+    },
+    {
+      "idx": 1048,
+      "text": "　Akihito Chiba"
+    },
+    {
+      "idx": 1051,
+      "text": "Chief Producers"
+    },
+    {
+      "idx": 1052,
+      "text": "　Koutarou Usui"
+    },
+    {
+      "idx": 1053,
+      "text": "　Kensuke Tsukanaka"
+    },
+    {
+      "idx": 1056,
+      "text": "General Producers"
+    },
+    {
+      "idx": 1057,
+      "text": "　Hirofumi Inagaki"
+    },
+    {
+      "idx": 1058,
+      "text": "　Taiki Yasuko"
+    },
+    {
+      "idx": 1061,
+      "text": "Executive Producers"
+    },
+    {
+      "idx": 1062,
+      "text": "　Yasuo Miyakawa"
+    },
+    {
+      "idx": 1063,
+      "text": "　Nao Udagawa"
+    },
+    {
+      "idx": 1067,
+      "text": "Developed by B.B.STUDIO CO.,LTD."
+    },
+    {
+      "idx": 1070,
+      "text": "Produced by BANDAI NAMCO Entertainment Inc."
+    }
+  ]
+}

@@ -1,0 +1,1375 @@
+{
+  "_format": "BLTU",
+  "_language": "",
+  "_version": 1,
+  "_reserved": [
+    0,
+    0,
+    0
+  ],
+  "_entry_count": 208,
+  "entries": [
+    {
+      "key": "KBT_TEST",
+      "values": [
+        "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+        "MMMMMMMMMMMMMMMMMMMMMMMMMMM"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOAD_DRM_ERR",
+      "values": [
+        "У этой учётной записи нет прав",
+        "доступа к DLC."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOAD_NOFILE_ERR",
+      "values": [
+        "Данные DLC не удалось",
+        "прочитать. Загрузите их снова из PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BONUS_RIGHT",
+      "values": [
+        "Пройденные бонусные сценарии не найдены.",
+        "Следующие награды (детали усиления) удалены.",
+        "Чтобы вернуть награды, загрузите снова",
+        "соответствующий бонусный сценарий."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_ENTITLE_ERR",
+      "values": [
+        "Не удалось получить данные тикетов.",
+        "Подключитесь к PlayStationⓇStore,",
+        "чтобы загрузить купленные",
+        "бонусные сценарии."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_PACKAGE_DRM_ERR",
+      "values": [
+        "Не удалось проверить данные.",
+        "Загрузите этот элемент снова из",
+        "PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_OK",
+      "values": [
+        "Бонусный контент загружен.",
+        "Следующие машины теперь доступны."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_NG",
+      "values": [
+        "Бонусный контент удалён.",
+        "Следующие машины больше недоступны."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_CONFIRM",
+      "values": [
+        "Бонусный контент загружен."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BENEFIT_CANT_LOAD",
+      "values": [
+        "Ошибка загрузки бонусов.",
+        "Загрузите бонусный контент снова и повторите попытку."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_NOTHING_DELIVERED",
+      "values": [
+        "Подключиться к PlayStationⓇStore",
+        "и купить этот сценарий?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_NOTHING_OWN_SKU",
+      "values": [
+        "Этот сценарий не загружен.",
+        "Перейти на страницу загрузки",
+        "и загрузить этот контент?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_NO_EXEC",
+      "values": [
+        "У этой учётной записи нет прав",
+        "доступа к DLC."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_NO_CONDITION_mD",
+      "values": [
+        "Этот сценарий недоступен.",
+        "Он откроется после прохождения",
+        "главы [STORY_NO] и следующей за ней интермиссии."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_NO_CLEAR",
+      "values": [
+        "Начать этот сценарий?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_CLEARED",
+      "values": [
+        "Начать этот сценарий?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_SECOND_LAPS",
+      "values": [
+        "Получить этот бонус?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_EXIST_SECOND_ALREADY",
+      "values": [
+        "Начать этот сценарий?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_PACKE_DELIVERED",
+      "values": [
+        "Подключиться к PlayStationⓇStore",
+        "и купить этот набор сценариев?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_SCENARIO_CLEAR_BONUS",
+      "values": [
+        "Бонус за прохождение"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_TYPE_MONEY",
+      "values": [
+        "Деньги"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_TYPE_TACP",
+      "values": [
+        "Очки TAC"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_TYPE_PARTS",
+      "values": [
+        "Детали"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_TITLE_STORE_CONNECT",
+      "values": [
+        "Будет выполнено подключение к PlayStationⓇStore.",
+        "Продолжить?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_STORE_BROWZE",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_PRODUCT_BROWZE",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_PRODUCT_CODE",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_DOWNLOAD_LIST",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_SIGNOUT_ENTITLEMENT_CHK",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы получить данные тикетов."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_STORE_BROWZE",
+      "values": [
+        "Нет подключения к интернету.",
+        "Подключитесь к интернету,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_PRODUCT_BROWZE",
+      "values": [
+        "Нет подключения к интернету.",
+        "Подключитесь к интернету,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_PRODUCT_CODE",
+      "values": [
+        "Нет подключения к интернету.",
+        "Подключитесь к интернету,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_DOWNLOAD_LIST",
+      "values": [
+        "Нет подключения к интернету.",
+        "Подключитесь к интернету,",
+        "чтобы получить доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_DISCONNECT_ENTITLEMENT_CHK",
+      "values": [
+        "Нет подключения к интернету.",
+        "Подключитесь к интернету,",
+        "чтобы получить данные тикетов."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_STORE_BROWZE",
+      "values": [
+        "Родительский контроль запрещает этой учётной",
+        "записи доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_PRODUCT_BROWZE",
+      "values": [
+        "Родительский контроль запрещает этой учётной",
+        "записи доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_PRODUCT_CODE",
+      "values": [
+        "Родительский контроль запрещает этой учётной",
+        "записи доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_DOWNLOAD_LIST",
+      "values": [
+        "Родительский контроль запрещает этой учётной",
+        "записи доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_ST_RATING_ERR_ENTITLEMENT_CHK",
+      "values": [
+        "Родительский контроль запрещает этой учётной",
+        "записи доступ к PlayStationⓇStore."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_MESSAGE",
+      "values": [
+        "Вы загрузили сохранение другого пользователя.",
+        "Вы больше не сможете сохраняться и получать",
+        "трофеи."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_BAN_SAVE",
+      "values": [
+        "Вы потеряете возможность сохраняться, даже если",
+        "один раз используете чужое сохранение."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_BAN_UPLOAD",
+      "values": [
+        "Вы потеряете возможность выгружать данные,",
+        "даже если один раз используете чужое сохранение."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_OTHERSOWNED_BAN_DOWNLOAD",
+      "values": [
+        "Вы потеряете возможность загружать данные,",
+        "даже если один раз используете чужое сохранение."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_NOSPACE_AND_DEL",
+      "values": [
+        "Недостаточно свободного места. Для сохранения",
+        "требуется не менее 【need kb】KB места.",
+        "Удалите другие данные, чтобы сохранить прогресс.",
+        "Удалить сохранённые данные сейчас?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_API_JUDGE_BROKEN",
+      "values": [
+        "Файл 【sd name】 повреждён."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_CHECK_SUM_FAILED",
+      "values": [
+        "Файл 【sd name】 повреждён."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_OPERATION_FAILED",
+      "values": [
+        "Сбой: 【operation】."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_API_ACCESS_ERROR",
+      "values": [
+        "Произошла ошибка при доступе к",
+        "【strage】."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_UNLOADABLE_DATA",
+      "values": [
+        "На 【sd type】 нет данных карты."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_DIFFERENT_VERSION",
+      "values": [
+        "【sd type】: не выполнено",
+        "【operation】"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_NOT_MOUNTED",
+      "values": [
+        "Не удалось подключить папку сохранений."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_NOSPACE_ANNOUNCE",
+      "values": [
+        "Недостаточно места для создания",
+        "【sd type】. Требуется 【check kb】KB свободного",
+        "места на 【strage】 для создания",
+        "【sd type】."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_DEVELOPMENT_ERROR",
+      "values": [
+        "【operation】: не удалось",
+        "завершить."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ASK_NEW_CREATE",
+      "values": [
+        "Не найдено: 【sd type】.",
+        "Создать заново?"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ASK_RECREATE",
+      "values": [
+        "【sd type】: данные повреждены.",
+        "Создать заново?",
+        "Все прежние сохранения будут потеряны."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_ERR_DLC_NOT_EXIST",
+      "values": [
+        "У этой учётной записи нет",
+        "прав доступа к DLC."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_STRAGE_VITA",
+      "values": [
+        "Карта памяти"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_STRAGE_PS4",
+      "values": [
+        "Жёсткий диск"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_SAVE",
+      "values": [
+        "Сохранение"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_LOAD",
+      "values": [
+        "Загрузка"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_ERASE",
+      "values": [
+        "Удаление"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_SIZECHK",
+      "values": [
+        "Проверка размера"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_SD_REPLACE_OPERATION_EXISTCHK",
+      "values": [
+        "Проверка наличия данных"
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_SYS_UPLOAD",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы выгрузить системные данные."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_SYS_DOWNLOAD",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы загрузить системные данные."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_STG_UPLOAD",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы выгрузить данные этапов."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_SIGNOUT_STG_DOWNLOAD",
+      "values": [
+        "Вы не выполнили вход.",
+        "Войдите в PlayStation™Network,",
+        "чтобы загрузить данные этапов."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_DISCONNECT",
+      "values": [
+        "Нет подключения к интернету.",
+        "Подключитесь к интернету,",
+        "чтобы получить доступ к PlayStation™Network."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_RATINGERR",
+      "values": [
+        "Родительский контроль запрещает этой учётной",
+        "записи доступ к PlayStation™Network."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_BROKEN_SYS_DATA",
+      "values": [
+        "Системные данные повреждены."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_BROKEN_STG_DATA",
+      "values": [
+        "Данные этапов повреждены."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_USER_CANCEL",
+      "values": [
+        "Операция отменена."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ERR_ANOTHER_OWNER",
+      "values": [
+        "Если вы хоть раз используете чужое",
+        "сохранение, вы больше не сможете выгружать",
+        "и загружать данные."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_CS_ACCESS_FREQUENCY",
+      "values": [
+        "Выгрузка и загрузка данных займёт не менее",
+        "[INTERVAL] мин. Примерно через [MINUTES] мин и [SECONDS] с",
+        "управление игрой будет возвращено."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_FL_ACCESS_ERROR",
+      "values": [
+        "Произошла ошибка при доступе к этому файлу."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_TR_INSTALLING_PACK",
+      "values": [
+        "Установка данных трофеев..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECT_DLC",
+      "values": [
+        "Выберите товары, которые хотите купить."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_BONUS_SCENARIO_mS",
+      "values": [
+        "Бонусный сценарий \"[SCENARIO_NAME]\"."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_INCLUDE_mS",
+      "values": [
+        "Включает \"[SCENARIO_NAME]\"."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_CLEAR_CONDITION_mS",
+      "values": [
+        "Гл. [STORY_NO] пройдена."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_ONE_SCENARIO",
+      "values": [
+        "1 бонус-сценарий"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_ONE_PACK",
+      "values": [
+        "5 бонус-сценариев + 1 в подарок"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_FULL_PACK",
+      "values": [
+        "Все 20 бонус-сценариев + 1 в подарок"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_BOUGHT_NUM",
+      "values": [
+        "([SCENARIO_NUM] уже куплено.)"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GET_TICKET_FROM_PSN",
+      "values": [
+        "Подключитесь к PlayStation™Network и получите",
+        "данные купленных тикетов."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GET_DOWNLOADED_INFO",
+      "values": [
+        "Получение данных о загруженных сценариях"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GETTING_SERVICE_INFO",
+      "values": [
+        "Получение данных службы"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_CONNECTING_NETWORK",
+      "values": [
+        "Подключение к сети"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_GETTING_TICKET_INFO",
+      "values": [
+        "Получение данных тикета"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_CONFIRM_ACCESS_RIGHTS",
+      "values": [
+        "Проверка прав доступа"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_UPDATE",
+      "values": [
+        "Обновление..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_UPLOAD",
+      "values": [
+        "Выгрузка..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_DOWNLOAD",
+      "values": [
+        "Загрузка..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_DELTE",
+      "values": [
+        "Удаление..."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_NETDLG_CONNECTING",
+      "values": [
+        "Подключение к сети"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_TITLE_SYSTEM_DOWNLOAD",
+      "values": [
+        "Будут загружены данные текущей карты.",
+        "Выполнить?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_TITLE_STAGE_DOWNLOAD",
+      "values": [
+        "Будут загружены данные прохождения.",
+        "Выполнить?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_IM_STAGE_DOWNLOAD",
+      "values": [
+        "Будут загружены данные прохождения.",
+        "Несохранённый прогресс будет потерян. Продолжить?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_IM_STAGE_UPLOAD_NEWDATA",
+      "values": [
+        "Текущие данные прохождения будут выгружены.",
+        "Создать файл?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_CS_IM_STAGE_UPLOAD_OVERWRITE",
+      "values": [
+        "Текущие данные прохождения будут выгружены",
+        "поверх существующих. Продолжить?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_SYS_DATA",
+      "values": [
+        "Данные системы"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_SYS_NEWDATA",
+      "values": [
+        "Новые данные системы"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_STG_DATA",
+      "values": [
+        "Данные этапов"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_STG_NEWDATA",
+      "values": [
+        "Новые данные этапов"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_BGM_DATA",
+      "values": [
+        "Данные музыки"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_BGM_NEWDATA",
+      "values": [
+        "Новые данные музыки"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_TITLE_SIMPLY",
+      "values": [
+        "SRWV"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_NAME_SPECIAL_STAGE",
+      "values": [
+        "SP"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_COMPLETE",
+      "values": [
+        "Сценарий пройден"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_SELECT_ROUTE",
+      "values": [
+        "Выбор маршрута"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_PLAY_TIME",
+      "values": [
+        "Время игры"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_CLEAR_LAPS",
+      "values": [
+        "Прохождений"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_TOTAL_TURN",
+      "values": [
+        "Ходов: [TURN_CNT]"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_TACPOINT",
+      "values": [
+        "Очки TAC"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_SR_POINT",
+      "values": [
+        "Очки SR"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_OWN_MONEY",
+      "values": [
+        "Деньги"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_LEVEL_SIMPLE",
+      "values": [
+        "Ур."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_DETAIL_UNLOADABLE_DATA",
+      "values": [
+        "Для этой карты нет сохранений."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_MAPSAVE_OVERWRITE",
+      "values": [
+        "Сохранение прогресса карты.",
+        "Перезаписать предыдущее сохранение?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_MAPSAVE_NEWCREATE",
+      "values": [
+        "Сохранение прогресса карты.",
+        "Создать новое сохранение?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_MAPSAVE_CONTINUE_GAME",
+      "values": [
+        "Сохранено.",
+        "Продолжить игру?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_SD_CLEARSAVE_BACK_TO_TITLE",
+      "values": [
+        "Вернуться на титульный экран?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_BEFORE_NUMBER",
+      "values": [
+        "Глава"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_AFTER_NUMBER",
+      "values": [
+        "_NO_PRINT_"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_OPEN_BRACKETS",
+      "values": [
+        "["
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLOSE_BRACKETS",
+      "values": [
+        "]"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_FIRST_BENEFIT",
+      "values": [
+        "Особый сценарий"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_EXTRA_SCENARIO",
+      "values": [
+        "Тайный сценарий"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_SEPARATE_STAGE",
+      "values": [
+        "Сценарий развилки"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLEAR_STAGE",
+      "values": [
+        "Пройденные этапы"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_FINAL_SCENARIO",
+      "values": [
+        "Финал"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_PROLOGUE_STAGE",
+      "values": [
+        "Пролог"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_EPILOGUE_STAGE",
+      "values": [
+        "Эпилог"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLEAR_UP",
+      "values": [
+        "Пройдено"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_SELECTED",
+      "values": [
+        "Выбрать"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_SRPOINT_ALREADY",
+      "values": [
+        "Очки SR уже получены."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_SRPOINT_GAMEOVERPLAY",
+      "values": [
+        "Очки SR нельзя получить при",
+        "перезапуске после поражения."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_COLUMN_NO_1",
+      "values": [
+        "1."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_COLUMN_NO_2",
+      "values": [
+        "2."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_OP_COLUMN_NO_3",
+      "values": [
+        "3."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_DLC_START_MSG",
+      "values": [
+        "Роботы и пилоты в бонусных сценариях не влияют",
+        "на уровни и улучшения машин и пилотов",
+        "в основной игре. Кроме того, счётчик Extra",
+        "нельзя увеличить — он сразу максимален."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_DLC_START_MSG_PATTERN_B",
+      "values": [
+        "Роботы и пилоты в бонусных сценариях не влияют",
+        "на уровни и улучшения машин и пилотов",
+        "в основной игре. Кроме того, счётчик Extra",
+        "нельзя увеличить — изначально он равен 5."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_SKILL_PRESIDENT_1",
+      "values": [
+        "Благодаря особому навыку «Президент»,"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_SKILL_PRESIDENT_2",
+      "values": [
+        "вы получили дополнительно [TACP] очков TAC. "
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_PARTS_1",
+      "values": [
+        "Благодаря бонусу аса [PILOT],"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_PARTS_2",
+      "values": [
+        "вы получили деталь"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_PARTS_3",
+      "values": [
+        "усиления [PARTS]!"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_MONEY_1",
+      "values": [
+        "Получено [MONEY] денег"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_MONEY_2",
+      "values": [
+        "благодаря бонусу аса"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BONUS_GET_MONEY_3",
+      "values": [
+        "[PILOT]."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_ZCHIP_1",
+      "values": [
+        "Улучшение «Получение денег» через TAC"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_ZCHIP_2",
+      "values": [
+        "даёт вам следующий бонус:"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_ZCHIP_3",
+      "values": [
+        "<Деньги: [MONEY]>"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_MONEY_1",
+      "values": [
+        "Улучшение «Получение TacP» через TAC"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_MONEY_2",
+      "values": [
+        "даёт вам следующий бонус:"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_MONEY_3",
+      "values": [
+        "<Очки TAC: [TACP]>"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_PP_1",
+      "values": [
+        "Улучшение «Двойное получение» через TAC"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_PP_2",
+      "values": [
+        "даёт вам следующий бонус:"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_ZCRYSTAL_PP_3",
+      "values": [
+        "<Деньги: [MONEY]>",
+        "<Очки TAC: [TACP]>"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_BTN_ASSIGN_DECIDE",
+      "values": [
+        ": Выбрать"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_BTN_ASSIGN_CANCEL",
+      "values": [
+        ": Назад"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_SPSCENARIO_PLAYABLE",
+      "values": [
+        "Доступен"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_WHETHER_TO_START",
+      "values": [
+        "Сыграть этот особый сценарий?"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_ANSWER_YES",
+      "values": [
+        "Да"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_ANSWER_NO",
+      "values": [
+        "Нет"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_FC_DLG_SPSCENARIO_CAUTION",
+      "values": [
+        "Пилоты и их уровни будут отличаться от сохранения.",
+        "Деньги, опыт, очки TAC и сбитые враги не переносятся."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EM_UNDER_CAPTION",
+      "values": [
+        "Сообщения."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EM_BUTTON_CIRCLE",
+      "values": [
+        "Выбрать"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EM_BUTTON_CROSS",
+      "values": [
+        "Назад"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_FACTORY",
+      "values": [
+        "Теперь вам доступна Фабрика в меню интермиссии.",
+        "Там можно покупать и продавать детали,",
+        "а также открыть экран улучшений TAC."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_LECTURE",
+      "values": [
+        "Открыта фабрика лекционных плит."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_SUBORDER",
+      "values": [
+        "Теперь в меню интермиссии доступны",
+        "доп. приказы."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_NINE_CHANGE",
+      "values": [
+        "Получено [TACP] очков TAC за анализ Найн."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_MONEY_CHANGE",
+      "values": [
+        "Получено [MONEY] денег."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PARTS_CHANGE_1",
+      "values": [
+        "Получена деталь усиления [PARTS1]."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PARTS_CHANGE_2",
+      "values": [
+        "Получены детали усиления [PARTS1] и [PARTS2]."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PARTS_CHANGE_3",
+      "values": [
+        "Получены детали усиления [PARTS1],",
+        "[PARTS2] и [PARTS3]."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PROGRAM_CHANGE_1",
+      "values": [
+        "Получена программа навыка [SKILL1]."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PROGRAM_CHANGE_2",
+      "values": [
+        "Получены программы навыков [SKILL1] и [SKILL2]."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_PROGRAM_CHANGE_3",
+      "values": [
+        "Получены программы навыков [SKILL1],",
+        "[SKILL2] и [SKILL3]."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_ROBOT_CHANGE_1",
+      "values": [
+        "Получен робот [ROBOT1]."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_ROBOT_CHANGE_2",
+      "values": [
+        "Получены роботы [ROBOT1] и [ROBOT2]"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_ROBOT_CHANGE_3",
+      "values": [
+        "Роботы [ROBOT1] и",
+        "[ROBOT2] получены,"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_R_CHANGE_1",
+      "values": [
+        "Деньги, потраченные на улучшение",
+        "[ROBOT], возвращены."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_R_CHANGE_2",
+      "values": [
+        "Деньги, потраченные на улучшение",
+        "[ROBOT], возвращены."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_P_CHANGE_1",
+      "values": [
+        "Программа навыков пилота [PILOT]",
+        "возмещена."
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_REFUND_P_CHANGE_2",
+      "values": [
+        "Программа навыков пилота [PILOT]",
+        "возмещена в очках TAC."
+      ]
+    },
+    {
+      "key": "■０７２９追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "KBT_BELONG_NAME_DEFAULT",
+      "values": [
+        "Земной флот «Тэнку»"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_EV_GIFT_BEGINERS_MODE",
+      "values": [
+        "Бонус режима новичка"
+      ]
+    },
+    {
+      "key": "■０８１０追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_GET_PARTS_TOO",
+      "values": [
+        "Получены следующие детали усиления."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BENEFIT_DEC_PARTS_TOO",
+      "values": [
+        "Удалены следующие детали усиления."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_ADD_CONTENTS",
+      "values": [
+        "Проверка доп. контента."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_TITLE_CLEAR_ONE",
+      "values": [
+        "Пройдено"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_CHAIRMAN_MONEY_CHANGE",
+      "values": [
+        "Получено [MONEY] денег от главы «Нергал»",
+        "Акацуки Нагарэ."
+      ]
+    },
+    {
+      "key": "■０９０２追加",
+      "values": [
+        ""
+      ]
+    },
+    {
+      "key": "KBT_APPUI_BS_SELECTOR_FULLPACK_PRESENT",
+      "values": [
+        "В подарок: 10 деталей усиления, 30 000 денег и 3000 TacP."
+      ]
+    },
+    {
+      "key": "KBT_EXTERNAL_TROPHY_TITLE_NAME",
+      "values": [
+        "Super Robot Wars V"
+      ]
+    },
+    {
+      "key": "KBT_EXTERNAL_TROPHY_DETAIL_NAME",
+      "values": [
+        "Набор трофеев Super Robot Wars V"
+      ]
+    },
+    {
+      "key": "KBT_APP_GIFT_MESS_GET_TACP",
+      "values": [
+        "Получено [TACP] очков TAC."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_OK_PARTS",
+      "values": [
+        "Бонусный контент загружен.",
+        "Получены следующие бонусные детали усиления."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_NG_PARTS",
+      "values": [
+        "Бонусный контент удалён.",
+        "Удалены следующие детали усиления."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_CHECK_BENEFIT_NG_ONLY",
+      "values": [
+        "Бонусный контент удалён."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_DLC_LOSE_BONUS_UNLOAD",
+      "values": [
+        "Пройденные бонусные сценарии не найдены.",
+        "Данные нельзя загрузить.",
+        "Чтобы загрузить их, скачайте снова ",
+        "соответствующий бонусный сценарий."
+      ]
+    },
+    {
+      "key": "KBT_SCEDLG_BS_BONUS_GET_MSG",
+      "values": [
+        "Бонус получен."
+      ]
+    },
+    {
+      "key": "KBT_APPUI_HP_REGEN_NAME",
+      "values": [
+        "Реген HP"
+      ]
+    },
+    {
+      "key": "KBT_APPUI_DLC_NO_BONUS",
+      "values": [
+        "Нет"
+      ]
+    }
+  ]
+}
