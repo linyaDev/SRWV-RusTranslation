@@ -1,1354 +1,1450 @@
 {
-"blocks": [
-{
-"i": 4,
-"speaker": "$n",
-"text": "「Силы обороны Лунной спецлаборатории,\n　энсин $F.」",
-"orig": "$n\n「Lunar Special Tactical Lab Defense Force,\n　Ensign $F.」"
-},
-{
-"i": 5,
-"speaker": "Титосэ",
-"text": "「Силы обороны 3-й спецлаборатории, энсин\n　Титосэ Кисараги. Отличная работа.」",
-"orig": "Chitose\n「3rd Special Tactical Lab Defense Force,\n　Ensign Chitose Kisaragi. Well done.」"
-},
-{
-"i": 6,
-"speaker": "$n",
-"text": "「Всего-то перелёт с Луны на Землю.\n　Не такой уж и дальний путь.」",
-"orig": "$n\n「I've only traveled to Earth from the moon.\n　It wasn't that long a journey.」"
-},
-{
-"i": 7,
-"speaker": "Титосэ",
-"text": "「А загар у вас при этом знатный.」",
-"orig": "Chitose\n「And yet you've got quite a tan going.」"
-},
-{
-"i": 8,
-"speaker": "$n",
-"text": "「В космосе ультрафиолет лютует. Загар —\n　лучшее доказательство, что я пилот.」",
-"orig": "$n\n「UV rays get pretty intense in space.\n　The tan just proves I'm a pilot.」"
-},
-{
-"i": 9,
-"speaker": "Титосэ",
-"text": "「Привыкаете уже к таким заданиям?」",
-"orig": "Chitose\n「Are you getting used to missions like this?」"
-},
-{
-"i": 10,
-"speaker": "$n",
-"text": "「Да не особо.\n　Меня ведь только-только приписали к отряду\n　обороны лаборатории.」",
-"orig": "$n\n「Not really.\n　I mean, I've only just been assigned to the\n　defense unit guarding the lab.」"
-},
-{
-"i": 11,
-"speaker": "$n",
-"text": "「А теперь, когда я на Земле, лаборатория,\n　считай, осталась без защиты.」",
-"orig": "$n\n「And now that I've come back to Earth,\n　the lab might as well be defenseless.」"
-},
-{
-"i": 12,
-"speaker": "Титосэ",
-"text": "「Ясно.」",
-"orig": "Chitose\n「I see.」"
-},
-{
-"i": 13,
-"speaker": "$n",
-"text": "「Но здорового солдата без дела не оставят,\n　так что, видимо, мои мускулы нужны\n　где-то ещё.」",
-"orig": "$n\n「But they can't leave a fit soldier like me\n　with nothing to do, so I'm guessing that they\n　need some muscle somewhere else.」"
-},
-{
-"i": 14,
-"speaker": "$n",
-"text": "「Да и с едой на Луне совсем беда после\n　операции «М» у Плутона.」",
-"orig": "$n\n「The food situation on the moon also hit\n　rock bottom, thanks to the M Operation near Pluto.」"
-},
-{
-"i": 15,
-"speaker": "Титосэ",
-"text": "「На Земле дела обстоят точно так же.」",
-"orig": "Chitose\n「We're in the same situation here on Earth.」"
-},
-{
-"i": 16,
-"speaker": "$n",
-"text": "「Неудивительно.」",
-"orig": "$n\n「I'm not surprised.」"
-},
-{
-"i": 17,
-"speaker": "Титосэ",
-"text": "「Но я бы не переживала.\n　Мы всё ещё надеемся на лучшее.」",
-"orig": "Chitose\n「I wouldn't worry though.\n　We're still hopeful that things will improve.」"
-},
-{
-"i": 18,
-"speaker": "$n",
-"text": "「Хе. Надежда, значит?」",
-"orig": "$n\n「Heh. Hopeful, huh?」"
-},
-{
-"i": 19,
-"speaker": "Титосэ",
-"text": "「Я сказала что-то не то?」",
-"orig": "Chitose\n「Did I say something out of line?」"
-},
-{
-"i": 20,
-"speaker": "$n",
-"text": "「Нет-нет, всё в порядке. Просто приятно\n　слышать это слово после долгой разлуки.」",
-"orig": "$n\n「No, you're fine. I'm just happy to hear that\n　word after so much time away.」"
-},
-{
-"i": 21,
-"speaker": "Титосэ",
-"text": "「Что ж, давайте оформим доставку.」",
-"orig": "Chitose\n「Well then, let's process the delivery.」"
-},
-{
-"i": 22,
-"speaker": "$n",
-"text": "「Принято. А то мне с этого задания вовек\n　не освободиться.」",
-"orig": "$n\n「Roger that. Otherwise I'll never get free of\n　this assignment.」"
-},
-{
-"i": 23,
-"speaker": "$n",
-"text": "「Итак, ERS-100.\n　Этот груз — на попечении\n　лунной лаборатории.」",
-"orig": "$n\n「OK, ERS-100.\n　These goods are under the auspices\n　of the lunar lab.」"
-},
-{
-"i": 24,
-"speaker": "Титосэ",
-"text": "「Доставка подтверждена.\n　Вам известно содержимое контейнера?」",
-"orig": "Chitose\n「Delivery confirmed.\n　Do you know the contents of this container?」"
-},
-{
-"i": 25,
-"speaker": "$n",
-"text": "「Секретно.\n　А спрашивать было лень.」",
-"orig": "$n\n「Classified.\n　Also, I didn't really ask.」"
-},
-{
-"i": 26,
-"speaker": "$n",
-"text": "「Но учёные, что мне его доверили,\n　сказали: он подарит Земле надежду.」",
-"orig": "$n\n「But the researchers who entrusted me with it\n　said that it'll give Earth some hope.」"
-},
-{
-"i": 27,
-"speaker": "Титосэ",
-"text": "「Отличная новость!\n　Теперь надежды у нас в избытке.」",
-"orig": "Chitose\n「Well that's great news!\n　We'll have all the hope we need.」"
-},
-{
-"i": 28,
-"speaker": "$n",
-"text": "「Хотя с трудом верится, что содержимое\n　этого чемоданчика на что-то повлияет.」",
-"orig": "$n\n「Though I can't imagine that whatever's in\n　this briefcase will have much of an effect.」"
-},
-{
-"i": 29,
-"speaker": "$n",
-"text": "「Что происходит?!」",
-"orig": "$n\n「What's happening!」"
-},
-{
-"i": 30,
-"speaker": "Титосэ",
-"text": "「Мы под атакой!\n　Враг наверняка охотится за вашим грузом.」",
-"orig": "Chitose\n「We're under attack!\n　The enemy must be after whatever you delivered.」"
-},
-{
-"i": 31,
-"speaker": "$n",
-"text": "「Это гамиласцы.\n　Мало им метеоритного удара — теперь\n　решили атаковать в лоб!」",
-"orig": "$n\n「It's the Gamillans.\n　As if the meteor strike wasn't enough,\n　they've come to attack us head on!」"
-},
-{
-"i": 32,
-"speaker": "Титосэ",
-"text": "「Стойте, куда вы, энсин $l?」",
-"orig": "Chitose\n「Wait, where are you going, Ensign $l?」"
-},
-{
-"i": 33,
-"speaker": "$n",
-"text": "「Я пилот. Когда враг атакует,\n　я отвечаю огнём.」",
-"orig": "$n\n「I'm a pilot. When enemies attack,\n　I return fire.」"
-},
-{
-"i": 34,
-"speaker": "Титосэ",
-"text": "「Понимаю, но база уже серьёзно пострадала\n　от этих атак. Ангар, где стоял ваш\n　истребитель, уничтожен.」",
-"orig": "Chitose\n「I understand, but these attacks have already\n　done considerable damage to the base. The\n　hangar that housed your aircraft was destroyed.」"
-},
-{
-"i": 35,
-"speaker": "$n",
-"text": "「Что?!」",
-"orig": "$n\n「They what?」"
-},
-{
-"i": 36,
-"speaker": "Титосэ",
-"text": "「Я провожу вас в эвакуационный блок.\n　Там безопасно.」",
-"orig": "Chitose\n「I'll escort you to the evac bloc.\n　You'll be safe there.」"
-},
-{
-"i": 37,
-"speaker": "$n",
-"text": "「Груз ведь уже передан, верно?」",
-"orig": "$n\n「I've handed over the cargo, correct?」"
-},
-{
-"i": 38,
-"speaker": "Титосэ",
-"text": "「Д-да, передан.」",
-"orig": "Chitose\n「Y-yes, you did.」"
-},
-{
-"i": 39,
-"speaker": "$n",
-"text": "「Как только задание выполнено, мне положен\n　месяц отпуска.」",
-"orig": "$n\n「I'm cleared to take a month off the second\n　I complete this mission.」"
-},
-{
-"i": 40,
-"speaker": "$n",
-"text": "「А значит, я официально вне службы!\n　Не скучай, Титосэ!」",
-"orig": "$n\n「Which means I am officially off the clock!\n　Take it easy, Chitose!」"
-},
-{
-"i": 41,
-"speaker": "Титосэ",
-"text": "「Стойте, энсин $l!\n　Энсин $l!」",
-"orig": "Chitose\n「Wait, Ensign $l!\n　Ensign $l!」"
-},
-{
-"i": 46,
-"speaker": "Кодай",
-"text": "「Ого!」",
-"orig": "Kodai\n「Whoa!」"
-},
-{
-"i": 47,
-"speaker": "Сима",
-"text": "「Что за?..」",
-"orig": "Shima\n「What the—?」"
-},
-{
-"i": 48,
-"speaker": "$n",
-"text": "「Привет. Вы тоже пришли поглазеть\n　на гамиласцев?」",
-"orig": "$n\n「Hey. Did you guys come to get a look at the\n　Gamillans, too?」"
-},
-{
-"i": 49,
-"speaker": "Кодай",
-"text": "「Никак нет. У нас приказ на перехват,\n　но из-за поломки мы прикованы к земле.」",
-"orig": "Kodai\n「Negative. We've got orders to intercept\n　but a mechanical failure has us grounded.」"
-},
-{
-"i": 50,
-"speaker": "Сима",
-"text": "「Угробили новенький «Космо Зеро».\n　Наверняка ещё и выволочку получим.」",
-"orig": "Shima\n「We've wrecked a new Cosmo Zero.\n　I'm sure we'll get an earful for it, too.」"
-},
-{
-"i": 51,
-"speaker": "$n",
-"text": "「Да уж, несладко.\n　Ну, хотя бы пока вы в безопасности.\n　Гамиласцы, похоже, отступили.」",
-"orig": "$n\n「That sounds pretty rough.\n　Well you're safe for now, at least.\n　It looks like the Gamillans have retreated.」"
-},
-{
-"i": 52,
-"speaker": "Сима",
-"text": "「Погоди-ка, а это что?\n　Похоже на обломки линкора.」",
-"orig": "Shima\n「Wait a minute, what's that?\n　It looks like the wreckage of a battleship.」"
-},
-{
-"i": 53,
-"speaker": "$n",
-"text": "「Без понятия.\n　Я на Земле всего-то пару минут.」",
-"orig": "$n\n「Beats me.\n　I just got back to Earth a few minutes ago.」"
-},
-{
-"i": 54,
-"speaker": "Титосэ",
-"text": "「Это «Ямато».」",
-"orig": "Chitose\n「It's the Yamato.」"
-},
-{
-"i": 55,
-"speaker": "Кодай",
-"text": "「Что-что?」",
-"orig": "Kodai\n「The what?」"
-},
-{
-"i": 56,
-"speaker": "Сима",
-"text": "「Этот старый остов обнажился, когда\n　высохли океаны.」",
-"orig": "Shima\n「This old shipwreck is exposed now that the\n　oceans have dried up.」"
-},
-{
-"i": 57,
-"speaker": "$n",
-"text": "「Если остов корабля посреди высохшего моря —\n　не знамение конца света, то что тогда?」",
-"orig": "$n\n「Well if a shipwreck in dried seas isn't a\n　sign of the end times, I don't know what is.」"
-},
-{
-"i": 58,
-"speaker": "Кодай",
-"text": "「Будем надеяться, что ты ошибаешься.」",
-"orig": "Kodai\n「Here's hoping you're wrong about that.」"
-},
-{
-"i": 63,
-"speaker": "Кодай",
-"text": "「Интересно, зачем нас собрали?」",
-"orig": "Kodai\n「I wonder what this is about?」"
-},
-{
-"i": 64,
-"speaker": "Сима",
-"text": "「Я тоже.」",
-"orig": "Shima\n「Me, too.」"
-},
-{
-"i": 65,
-"speaker": "Ота",
-"text": "「И что они собираются с нами делать?\n　Согнали всех, вырядили в эту форму...\n　Что вообще происходит?」",
-"orig": "Ota\n「What exactly are they going to make us do?\n　They got us together and made us wear these\n　getups. What's going on?」"
-},
-{
-"i": 66,
-"speaker": "Айхара",
-"text": "「Может, тот план бегства? План «Идзумо»?」",
-"orig": "Aihara\n「Maybe it's that escape plan. The Izumo Plan?」"
-},
-{
-"i": 67,
-"speaker": "Сима",
-"text": "「А ты что думаешь, Кодай?」",
-"orig": "Shima\n「What do you think it is, Kodai?」"
-},
-{
-"i": 68,
-"speaker": "Кодай",
-"text": "「Понятия не имею.」",
-"orig": "Kodai\n「I have no idea.」"
-},
-{
-"i": 70,
-"speaker": "Окита",
-"text": "「Дамы и господа.」",
-"orig": "Okita\n「Ladies and gentlemen.」"
-},
-{
-"i": 73,
-"speaker": "Окита",
-"text": "「Вы здесь, потому что прошли спецподготовку\n　как экипаж, отобранный для плана «Идзумо».」",
-"orig": "Okita\n「You are here because you received specialized\n　training as crew selected for the Izumo Plan.」"
-},
-{
-"i": 74,
-"speaker": "Окита",
-"text": "「Сегодня я объявлю ваши официальные\n　назначения. Но это отнюдь не план бегства!」",
-"orig": "Okita\n「I am here today to present your official roles\n　to you. But this is by no means an escape plan!」"
-},
-{
-"i": 75,
-"speaker": "Окита",
-"text": "「Сначала взгляните на это. Видеопослание,\n　добытое нами в битве за Плутон.」",
-"orig": "Okita\n「First, I want you to watch this. It's a\n　video message we recovered during the battle\n　of Pluto.」"
-},
-{
-"i": 76,
-"speaker": "Сима",
-"text": "「Это то, что было в капсуле,\n　которую мы привезли с собой?」",
-"orig": "Shima\n「Is this what was inside that capsule\n　we brought back with us?」"
-},
-{
-"i": 77,
-"speaker": "Старша",
-"text": "「Я — Старша с Искандара.」",
-"orig": "Starsha\n「I am Starsha, of Iscandar.」"
-},
-{
-"i": 78,
-"speaker": "Кодай",
-"text": "「Кто это?」",
-"orig": "Kodai\n「Who is this?」"
-},
-{
-"i": 79,
-"speaker": "Старша",
-"text": "「Ваша любимая Земля как никогда близка\n　к гибели от рук гамиласцев.」",
-"orig": "Starsha\n「Now more than ever, your beloved Earth faces\n　destruction at the hands of the Gamillans.」"
-},
-{
-"i": 80,
-"speaker": "Кодай",
-"text": "「Проклятые гамиласцы...」",
-"orig": "Kodai\n「Argh, the Gamillans.」"
-},
-{
-"i": 81,
-"speaker": "Старша",
-"text": "「Зная это, год назад я доверила чертежи\n　волнового двигателя своей сестре Юрише\n　и отправила её на Землю.」",
-"orig": "Starsha\n「Knowing this, one year ago I entrusted the\n　blueprints for the wave motion engine to my\n　sister Yurisha, and sent her to Earth.」"
-},
-{
-"i": 82,
-"speaker": "Старша",
-"text": "「Если вы расшифруете чертежи и построите\n　двигатель, то сможете прибыть на Искандар.」",
-"orig": "Starsha\n「If you can decipher the blueprints and\n　finish the engine, you can travel to Iscandar.」"
-},
-{
-"i": 83,
-"speaker": "Старша",
-"text": "「На Искандаре есть системы, способные\n　очищать планеты и возрождать их.」",
-"orig": "Starsha\n「On Iscandar, we have systems capable of\n　removing pollution and restoring planets.」"
-},
-{
-"i": 84,
-"speaker": "Сима",
-"text": "「Она серьёзно?」",
-"orig": "Shima\n「Is she serious?」"
-},
-{
-"i": 85,
-"speaker": "Старша",
-"text": "「К сожалению, сейчас мне нечем доставить\n　эти системы на Землю.」",
-"orig": "Starsha\n「Unfortunately, I currently have no way of\n　transporting these systems to Earth.」"
-},
-{
-"i": 86,
-"speaker": "Старша",
-"text": "「Но моя сестра Саша лично доставит вам\n　новейшую модель волнового ядра — сердца\n　волнового двигателя.」",
-"orig": "Starsha\n「What I can do is have my sister Sasha hand-\n　deliver the latest model of the wave motion\n　core, which drives the wave motion engine.」"
-},
-{
-"i": 87,
-"speaker": "Старша",
-"text": "「Я твёрдо верю: вы преодолеете любые\n　невзгоды на пути к Искандару.」",
-"orig": "Starsha\n「It is my firm belief that you will conquer\n　any unforeseen hardships en route to Iscandar.」"
-},
-{
-"i": 88,
-"speaker": "Окита",
-"text": "「Год назад Земля получила с Искандара чертежи\n　волнового двигателя. С его помощью мы\n　построили корабль для межзвёздных перелётов.」",
-"orig": "Okita\n「One year ago, Earth received the wave motion\n　engine schematics from Iscandar. We used it to\n　complete a ship capable of interstellar travel.」"
-},
-{
-"i": 89,
-"speaker": "Сима",
-"text": "「Разве межзвёздные перелёты\n　вообще возможны?」",
-"orig": "Shima\n「I didn't think interstellar travel was\n　even possible?」"
-},
-{
-"i": 90,
-"speaker": "Окита",
-"text": "「Его имя — «Ямато»!」",
-"orig": "Okita\n「Its name is the Yamato!」"
-},
-{
-"i": 91,
-"speaker": "Кодай",
-"text": "「Где-то я это уже слышал.」",
-"orig": "Kodai\n「I've heard that somewhere before.」"
-},
-{
-"i": 92,
-"speaker": "Окита",
-"text": "「Согласно данным из капсулы, Искандар\n　находится в 168 000 световых лет от Земли,\n　в Большом Магеллановом Облаке.」",
-"orig": "Okita\n「According to the information in the capsule,\n　Iscandar is located 168,000 light-years from\n　Earth, in the Large Magellanic Cloud.」"
-},
-{
-"i": 93,
-"speaker": "Окита",
-"text": "「Туда и обратно — 336 000 световых лет.\n　Такого человечество ещё не совершало.」",
-"orig": "Okita\n「That makes it a 336,000 light-year round trip,\n　unlike any humans have ever experienced.」"
-},
-{
-"i": 94,
-"speaker": "Окита",
-"text": "「Участие в миссии добровольное.\n　Желающие остаться могут остаться.」",
-"orig": "Okita\n「This is not a mandatory mission.\n　Those who wish to stay behind may do so.」"
-},
-{
-"i": 95,
-"speaker": "Окита",
-"text": "「Отплытие — завтра в 06:00!\n　Опоздание расценим как желание остаться!」",
-"orig": "Okita\n「We set sail tomorrow morning at 0600 hours!\n　Lateness will be taken as a desire to stay!」"
-},
-{
-"i": 96,
-"speaker": "Санада",
-"text": "「Так это правда.」",
-"orig": "Sanada\n「So it's true.」"
-},
-{
-"i": 97,
-"speaker": "Сима",
-"text": "「Это и впрямь план «Идзумо».」",
-"orig": "Shima\n「It really was the Izumo Plan.」"
-},
-{
-"i": 98,
-"speaker": "Кодай",
-"text": "「Похоже, нам предстоит сделать выбор.」",
-"orig": "Kodai\n「I guess we've got a choice to make.」"
-},
-{
-"i": 99,
-"speaker": "Мори",
-"text": "「Нам предстоит долгий путь к Искандару.」",
-"orig": "Mori\n「We're making the long journey to Iscandar.」"
-},
-{
-"i": 100,
-"speaker": "Окита",
-"text": "「Разойтись!」",
-"orig": "Okita\n「Dismissed!」"
-},
-{
-"i": 105,
-"speaker": "$n",
-"text": "「Йо, Титосэ!\n　Как жизнь, порядок?」",
-"orig": "$n\n「Yo, Chitose!\n　Everything going OK?」"
-},
-{
-"i": 106,
-"speaker": "Титосэ",
-"text": "「Вы слишком фамильярны, энсин.」",
-"orig": "Chitose\n「You're acting rather familiar, Ensign.」"
-},
-{
-"i": 107,
-"speaker": "$n",
-"text": "「Мы знакомы уже целую неделю!\n　По-моему, успели друг друга узнать.」",
-"orig": "$n\n「We've known each other for a whole week!\n　I think we've gotten to know each other by now.」"
-},
-{
-"i": 108,
-"speaker": "Титосэ",
-"text": "「Не согласна!」",
-"orig": "Chitose\n「I disagree!」"
-},
-{
-"i": 109,
-"speaker": "$n",
-"text": "「Ладно, ладно.\n　И как же нам узнать друг друга получше?」",
-"orig": "$n\n「OK, OK.\n　So, how do we get to know each other better?」"
-},
-{
-"i": 110,
-"speaker": "$n",
-"text": "「Для начала зови меня по имени.」",
-"orig": "$n\n「You can start by calling me by my name.」"
-},
-{
-"i": 111,
-"speaker": "Титосэ",
-"text": "「Воздержусь, энсин.」",
-"orig": "Chitose\n「I'd prefer not to, Ensign.」"
-},
-{
-"i": 112,
-"speaker": "$n",
-"text": "「Да шучу я! Ну и строгость.\n　Кстати, как там этот ERS-100?\n　Выяснила, что это вообще было?」",
-"orig": "$n\n「I was just joking! Wow, tough crowd.\n　Anyway, how're things with the ERS-100?\n　Did you ever figure out what it was?」"
-},
-{
-"i": 113,
-"speaker": "Титосэ",
-"text": "「Нет.\n　Я ведь, по сути, просто охрана — в детали\n　исследований меня не посвящают.」",
-"orig": "Chitose\n「No.\n　I'm just a guard of sorts, so I don't get\n　involved with the details of research.」"
-},
-{
-"i": 114,
-"speaker": "$n",
-"text": "「Ты сегодня какая-то грустная.\n　Это атака гамиласцев тебя так подкосила\n　или что-то ещё?」",
-"orig": "$n\n「You seem a little down today.\n　Did that attack from the Gamillans shake you\n　up a bit, or is it something else?」"
-},
-{
-"i": 115,
-"speaker": "$n",
-"text": "「Этим местам ведь крепко досталось.」",
-"orig": "$n\n「I mean, that attack hit this area pretty hard.」"
-},
-{
-"i": 116,
-"speaker": "Титосэ",
-"text": "「Но наша надежда неугасима.」",
-"orig": "Chitose\n「But our hope springs eternal.」"
-},
-{
-"i": 117,
-"speaker": "$n",
-"text": "「А, «Ямато», да? Все только о нём и говорят.\n　Завтра ведь отплывает.」",
-"orig": "$n\n「Ah, the Yamato, right? I heard all about that.\n　It leaves tomorrow, y'know.」"
-},
-{
-"i": 118,
-"speaker": "Титосэ",
-"text": "「Я в курсе.」",
-"orig": "Chitose\n「I'm aware.」"
-},
-{
-"i": 119,
-"speaker": "$n",
-"text": "「Так вот что тебя гложет?\n　Думаешь о нём?」",
-"orig": "$n\n「So is that what's got you down?\n　Are you thinking about it?」"
-},
-{
-"i": 120,
-"speaker": "Титосэ",
-"text": "「Я уже подавала запрос на зачисление.\n　Мне отказали.」",
-"orig": "Chitose\n「I've already asked for permission to board.\n　I was denied.」"
-},
-{
-"i": 121,
-"speaker": "$n",
-"text": "「Ясно.」",
-"orig": "$n\n「Oh.」"
-},
-{
-"i": 122,
-"speaker": "Титосэ",
-"text": "「Я мечтала попасть на борт «Ямато»\n　с тех пор, как меня сюда направили.」",
-"orig": "Chitose\n「I have dreamed of riding aboard the Yamato\n　ever since I was stationed here.」"
-},
-{
-"i": 123,
-"speaker": "$n",
-"text": "「Он ведь последняя надежда Земли.\n　Понятно, почему тебя к нему тянет.」",
-"orig": "$n\n「It's Earth's last hope, after all.\n　I can see why you'd be drawn to it.」"
-},
-{
-"i": 124,
-"speaker": "Титосэ",
-"text": "「Я понимаю, почему отказали. Боевого опыта\n　у меня почти нет. Я, по сути, новичок.」",
-"orig": "Chitose\n「I know why they denied me. I have next to no\n　combat experience. I'm basically a rookie.」"
-},
-{
-"i": 125,
-"speaker": "$n",
-"text": "「Ну—」",
-"orig": "$n\n「Well—」"
-},
-{
-"i": 126,
-"speaker": "Титосэ",
-"text": "「Да?」",
-"orig": "Chitose\n「Yes?」"
-},
-{
-"i": 127,
-"speaker": "$n",
-"text": "「Просто—」",
-"orig": "$n\n「I mean—」"
-},
-{
-"i": 128,
-"speaker": "Титосэ",
-"text": "「Спасибо, энсин, но в ваших второсортных\n　утешениях я не нуждаюсь.」",
-"orig": "Chitose\n「Thank you, Ensign, but I have no need for\n　your second-rate attempts at consolation.」"
-},
-{
-"i": 129,
-"speaker": "Титосэ",
-"text": "「Прошу меня извинить.」",
-"orig": "Chitose\n「If you'll excuse me.」"
-},
-{
-"i": 130,
-"speaker": "$n",
-"text": "「Второсортных! Это намёк на моё звание?」",
-"orig": "$n\n「Second-rate! Was that a dig at my rank?」"
-},
-{
-"i": 136,
-"speaker": "Като",
-"text": "「Офицер Кодай.」",
-"orig": "Kato\n「Officer Kodai.」"
-},
-{
-"i": 137,
-"speaker": "Кодай",
-"text": "「Значит, это ты.」",
-"orig": "Kodai\n「So you're the one.」"
-},
-{
-"i": 138,
-"speaker": "Като",
-"text": "「Младший лейтенант Като, назначен командиром\n　авиазвена. Приношу свои извинения.」",
-"orig": "Kato\n「Lieutenant Junior Grade Kato, appointed aircraft \n　squad captain. You have my apologies.」"
-},
-{
-"i": 139,
-"speaker": "Кодай",
-"text": "「За что? За взыскание после того, как я\n　самовольно поднял «Космо Зеро»? Я не в\n　обиде. Сам же и виноват.」",
-"orig": "Kodai\n「For what? The restrictions after I piloted\n　the Cosmo Zero without permission? I'm not\n　upset about that. It was my fault anyway.」"
-},
-{
-"i": 140,
-"speaker": "Като",
-"text": "「Тогда скажу одно.\n　Я буду выполнять ваши приказы,\n　потому что вы мой командир.」",
-"orig": "Kato\n「Then let me just say this.\n　I'll take orders from you because you're my\n　superior.」"
-},
-{
-"i": 141,
-"speaker": "Кодай",
-"text": "「Весьма признателен.」",
-"orig": "Kodai\n「Much appreciated.」"
-},
-{
-"i": 142,
-"speaker": "Като",
-"text": "「Но если по вашей вине кто-то зря погибнет —\n　вы за это ответите.」",
-"orig": "Kato\n「But you'll pay if you get anyone needlessly\n　killed.」"
-},
-{
-"i": 143,
-"speaker": "Кодай",
-"text": "「Об этом можешь не беспокоиться.」",
-"orig": "Kodai\n「Well you won't have to worry about that.」"
-},
-{
-"i": 144,
-"speaker": "Като",
-"text": "「Очень на это надеюсь.」",
-"orig": "Kato\n「I'd better not have to.」"
-},
-{
-"i": 145,
-"speaker": "Кодай",
-"text": "「Свободен, лейтенант.」",
-"orig": "Kodai\n「That will be all, Lieutenant.」"
-},
-{
-"i": 146,
-"speaker": "Като",
-"text": "「Я не шучу.」",
-"orig": "Kato\n「I'm not joking around.」"
-},
-{
-"i": 147,
-"speaker": "Ямамото",
-"text": "「Так это — тактический офицер?」",
-"orig": "Yamamoto\n「So he's the tactical officer?」"
-},
-{
-"i": 148,
-"speaker": "Като",
-"text": "「Ты что здесь делаешь, Ямамото?\n　Тебя же приписали к счётной части?」",
-"orig": "Kato\n「What are you doing here, Yamamoto? I thought\n　you were assigned to Accounting?」"
-},
-{
-"i": 149,
-"speaker": "Ямамото",
-"text": "「Так точно. Уже возвращаюсь.」",
-"orig": "Yamamoto\n「Yes, sir. Returning now, sir.」"
-},
-{
-"i": 154,
-"speaker": "Кодай",
-"text": "「Так, пора во всём разобраться.」",
-"orig": "Kodai\n「OK, time to get things sorted.」"
-},
-{
-"i": 155,
-"speaker": "Мори",
-"text": "「Вы тактический офицер Кодай?」",
-"orig": "Mori\n「Are you Tactical Officer Kodai?」"
-},
-{
-"i": 156,
-"speaker": "Кодай",
-"text": "「Ой!」",
-"orig": "Kodai\n「Whoa!」"
-},
-{
-"i": 157,
-"speaker": "Мори",
-"text": "「Что-то не так?」",
-"orig": "Mori\n「Is something wrong?」"
-},
-{
-"i": 158,
-"speaker": "Кодай",
-"text": "「Нет-нет. П-просто вы меня напугали.」",
-"orig": "Kodai\n「Not at all. Y-you just startled me, miss.」"
-},
-{
-"i": 160,
-"speaker": "Мори",
-"text": "「Оперативный офицер Юки Мори.\n　Рада знакомству, сэр.」",
-"orig": "Mori\n「I'm Operations Officer Yuki Mori.\n　It's a pleasure to meet you, sir.」"
-},
-{
-"i": 161,
-"speaker": "Кодай",
-"text": "「Где капитан?」",
-"orig": "Kodai\n「Where's the commander?」"
-},
-{
-"i": 162,
-"speaker": "Мори",
-"text": "「Он, э-э...」",
-"orig": "Mori\n「He's, uh—」"
-},
-{
-"i": 163,
-"speaker": "Кодай",
-"text": "「Где капитан Окита?」",
-"orig": "Kodai\n「Where is Commander Okita?」"
-},
-{
-"i": 164,
-"speaker": "Мори",
-"text": "「Кажется, у себя в каюте.」",
-"orig": "Mori\n「He's in his quarters, I think.」"
-},
-{
-"i": 165,
-"speaker": "Кодай",
-"text": "「Спасибо.」",
-"orig": "Kodai\n「Thanks.」"
-},
-{
-"i": 166,
-"speaker": "Мори",
-"text": "「И что это сейчас было?」",
-"orig": "Mori\n「What was that all about?」"
-},
-{
-"i": 171,
-"speaker": "Кодай",
-"text": "「Разрешите, сэр.」",
-"orig": "Kodai\n「Excuse me, sir.」"
-},
-{
-"i": 172,
-"speaker": "Окита",
-"text": "「А, ты, должно быть, тактический офицер.\n　В чём дело?」",
-"orig": "Okita\n「Ah, you must be the tactical officer.\n　What is it?」"
-},
-{
-"i": 173,
-"speaker": "Кодай",
-"text": "「Сэр, я... я брат Мамору Кодая,\n　командира «Юкикадзэ».」",
-"orig": "Kodai\n「Sir, I'm the... I'm the brother of Mamoru Kodai,\n　commanding officer of the Yukikaze.」"
-},
-{
-"i": 174,
-"speaker": "Окита",
-"text": "「Ясно. Продолжай.」",
-"orig": "Okita\n「I see. Continue.」"
-},
-{
-"i": 175,
-"speaker": "Кодай",
-"text": "「Я слышал, операция «М» была отвлекающим\n　манёвром ради корабля с Искандара.」",
-"orig": "Kodai\n「I've heard the M Operation was a diversion to\n　ensure the Iscandarian ship's safe passage.」"
-},
-{
-"i": 176,
-"speaker": "Кодай",
-"text": "「А те, кто сражался на передовой,\n　знали об этом?」",
-"orig": "Kodai\n「Did the men and women on the front lines\n　know that?」"
-},
-{
-"i": 177,
-"speaker": "Окита",
-"text": "「Мамору Кодай был прекрасным\n　человеком и образцовым бойцом.」",
-"orig": "Okita\n「Mamoru Kodai was a fine man,\n　and an exemplary serviceman.」"
-},
-{
-"i": 178,
-"speaker": "Окита",
-"text": "「И это я своим приказом отправил его\n　на смерть.」",
-"orig": "Okita\n「And I was the one who ordered him to his\n　death.」"
-},
-{
-"i": 179,
-"speaker": "Кодай",
-"text": "「Как—」",
-"orig": "Kodai\n「How—」"
-},
-{
-"i": 180,
-"speaker": "Окита",
-"text": "「Прости, сынок.」",
-"orig": "Okita\n「I'm sorry, son.」"
-},
-{
-"i": 181,
-"speaker": "Кодай",
-"text": "「И ещё одно, капитан Окита.」",
-"orig": "Kodai\n「One more thing, Commander Okita.」"
-},
-{
-"i": 182,
-"speaker": "Окита",
-"text": "「Говори.」",
-"orig": "Okita\n「Go ahead.」"
-},
-{
-"i": 183,
-"speaker": "Кодай",
-"text": "「Насчёт моего назначения тактическим\n　офицером, сэр. Честно говоря, я не гожусь.」",
-"orig": "Kodai\n「Regarding my appointment as tactical officer,\n　sir. Frankly speaking I'm not qualified, sir.」"
-},
-{
-"i": 184,
-"speaker": "Окита",
-"text": "「Честно говоря, все прочие кандидаты на\n　командные должности погибли при атаке\n　на эту базу.」",
-"orig": "Okita\n「Frankly speaking, all of the other candidates\n　under consideration for leadership positions\n　were killed in the attack on this base.」"
-},
-{
-"i": 185,
-"speaker": "Кодай",
-"text": "「Но—!」",
-"orig": "Kodai\n「But—!」"
-},
-{
-"i": 186,
-"speaker": "Окита",
-"text": "「Дай договорить.\n　Эту должность должен был занять...\n　не кто иной, как твой брат Мамору.」",
-"orig": "Okita\n「Let me finish.\n　The man who was to fill this position...\n　was none other than your brother Mamoru.」"
-},
-{
-"i": 187,
-"speaker": "Кодай",
-"text": "「Н-не может быть!」",
-"orig": "Kodai\n「Y-you can't be serious!」"
-},
-{
-"i": 188,
-"speaker": "Окита",
-"text": "「Я изучил твоё личное дело и решил,\n　что ты справишься с обязанностями.\n　Остальное зависит от тебя.」",
-"orig": "Okita\n「I had a look at your record.\n　I determined that you can adequately perform\n　your duties. Now it's up to you to do so.」"
-},
-{
-"i": 189,
-"speaker": "Кодай",
-"text": "「Так точно, сэр.」",
-"orig": "Kodai\n「Understood, sir.」"
-},
-{
-"i": 190,
-"speaker": "Окита",
-"text": "「Свободен.」",
-"orig": "Okita\n「Dismissed.」"
-},
-{
-"i": 195,
-"speaker": "Кодай",
-"text": "「А, Сима.」",
-"orig": "Kodai\n「Ah, Shima.」"
-},
-{
-"i": 196,
-"speaker": "Сима",
-"text": "「Привет, Кодай. Извини, опоздал.\n　Ты что-то хотел?」",
-"orig": "Shima\n「Hey, Kodai. Sorry I'm late.\n　You wanted to see me about something?」"
-},
-{
-"i": 197,
-"speaker": "Кодай",
-"text": "「Уже неважно.\n　Я сам разобрался.」",
-"orig": "Kodai\n「Never mind.\n　I've taken care of it.」"
-},
-{
-"i": 198,
-"speaker": "Окита",
-"text": "「Кажется, все в сборе.」",
-"orig": "Okita\n「That should be everyone.」"
-},
-{
-"i": 199,
-"speaker": "Мори",
-"text": "「Верно.」",
-"orig": "Mori\n「Indeed.」"
-},
-{
-"i": 200,
-"speaker": "Окита",
-"text": "「Старпом — капитан-лейтенант Сиро Санада.」",
-"orig": "Okita\n「Executive Officer, Lt. Cmdr. Shiro Sanada.」"
-},
-{
-"i": 201,
-"speaker": "Санада",
-"text": "「Я!」",
-"orig": "Sanada\n「Sir!」"
-},
-{
-"i": 202,
-"speaker": "Окита",
-"text": "「Главмех — капитан-лейтенант Хикодзаэмон Токугава.」",
-"orig": "Okita\n「Engineering Officer, Lt. Cmdr. Hikozaemon Tokugawa.」"
-},
-{
-"i": 203,
-"speaker": "Токугава",
-"text": "「Я!」",
-"orig": "Tokugawa\n「Sir!」"
-},
-{
-"i": 204,
-"speaker": "Окита",
-"text": "「Главный штурман — лейтенант Дайскэ Сима.」",
-"orig": "Okita\n「Head Navigator, Lieutenant Daisuke Shima.」"
-},
-{
-"i": 205,
-"speaker": "Сима",
-"text": "「Я!」",
-"orig": "Shima\n「Sir!」"
-},
-{
-"i": 206,
-"speaker": "Окита",
-"text": "「Оперативный офицер — лейтенант Юки Мори.」",
-"orig": "Okita\n「Operations Officer, Lieutenant Yuki Mori.」"
-},
-{
-"i": 207,
-"speaker": "Мори",
-"text": "「Я!」",
-"orig": "Mori\n「Sir!」"
-},
-{
-"i": 208,
-"speaker": "Окита",
-"text": "「Тактический офицер — лейтенант Сусуму Кодай.」",
-"orig": "Okita\n「Tactical Officer, Lieutenant Susumu Kodai.」"
-},
-{
-"i": 209,
-"speaker": "Кодай",
-"text": "「Я!」",
-"orig": "Kodai\n「Sir!」"
-},
-{
-"i": 210,
-"speaker": "Окита",
-"text": "「Я на вас рассчитываю.」",
-"orig": "Okita\n「I'm counting on you.」"
-},
-{
-"i": 211,
-"speaker": "Кодай",
-"text": "「Есть, сэр!」",
-"orig": "Kodai\n「Yes, sir!」"
-},
-{
-"i": 212,
-"speaker": "Сима",
-"text": "「Враг атакует!」",
-"orig": "Shima\n「The enemy is attacking!」"
-},
-{
-"i": 213,
-"speaker": "Санада",
-"text": "「Связист, запросить обстановку у штаба!」",
-"orig": "Sanada\n「Comms Officer, confirm situation with HQ!」"
-},
-{
-"i": 214,
-"speaker": "Айхара",
-"text": "「Ответ из штаба!\n　Зафиксированы межзвёздные баллистические\n　снаряды! Курс на Землю — на этот корабль!」",
-"orig": "Aihara\n「Reply from HQ!\n　Interstellar ballistic munitions confirmed!\n　They're headed for Earth—for this ship!」"
-},
-{
-"i": 215,
-"speaker": "Окита",
-"text": "「Значит, прошлая атака была лишь проверкой,\n　существует ли «Ямато» на самом деле.」",
-"orig": "Okita\n「So the last attack was just a way to make\n　sure the Yamato actually existed.」"
-},
-{
-"i": 216,
-"speaker": "Сима",
-"text": "「Мы ещё не можем отплыть?」",
-"orig": "Shima\n「Can't we set sail yet?」"
-},
-{
-"i": 217,
-"speaker": "Анализер",
-"text": "「Для запуска волнового двигателя нужно\n　огромное количество электроэнергии!」",
-"orig": "Analyzer\n「Starting the wave motion engine requires\n　a large amount of electrical power!」"
-},
-{
-"i": 218,
-"speaker": "Намбу",
-"text": "「Это ещё что такое?!」",
-"orig": "Nanbu\n「What the heck is that!」"
-},
-{
-"i": 219,
-"speaker": "Санада",
-"text": "「Автономный субкомпьютер «Ямато» — AU09.」",
-"orig": "Sanada\n「The Yamato's autonomous sub-computer, AU09.」"
-},
-{
-"i": 220,
-"speaker": "Анализер",
-"text": "「Прошу называть меня Анализером.」",
-"orig": "Analyzer\n「Please address me as the Analyzer.」"
-},
-{
-"i": 221,
-"speaker": "Окита",
-"text": "「Токугава! Передай в машинное отделение:\n　запустить волновой двигатель!」",
-"orig": "Okita\n「Tokugawa! Go order Engineering to start\n　the wave motion engine!」"
-},
-{
-"i": 222,
-"speaker": "Токугава",
-"text": "「Есть!」",
-"orig": "Tokugawa\n「Roger!」"
-},
-{
-"i": 223,
-"speaker": "Окита",
-"text": "「Всем занять боевые посты!\n　Враг не ограничится ракетами!」",
-"orig": "Okita\n「Battle stations, everyone!\n　The enemy will send more than missiles!」"
-},
-{
-"i": 224,
-"speaker": "Кодай",
-"text": "「Что за?..」",
-"orig": "Kodai\n「What the—?」"
-},
-{
-"i": 225,
-"speaker": "Айхара",
-"text": "「Входящее сообщение из штаба!\n　Силы врага приближаются к «Ямато»!」",
-"orig": "Aihara\n「Incoming transmission from HQ!\n　Enemy forces are closing in on the Yamato!」"
-},
-{
-"i": 226,
-"speaker": "Окита",
-"text": "「Этого нам только не хватало.」",
-"orig": "Okita\n「That's the last thing we needed.」"
-},
-{
-"i": 231,
-"speaker": "$n",
-"text": "「Эти гамиласцы хуже некуда.」",
-"orig": "$n\n「These Gamillans are the worst.」"
-},
-{
-"i": 232,
-"speaker": "$n",
-"text": "「Есть тут кто-нибудь?\n　Титосэ! Отзовись!」",
-"orig": "$n\n「Is anybody there?\n　Chitose! Say something!」"
-},
-{
-"i": 233,
-"speaker": "$n",
-"text": "「Чёрт! Эти гамиласцы думают, что могут\n　творить тут всё, что им вздумается?」",
-"orig": "$n\n「Damn! Do these Gamillans think they can just\n　come in here and do whatever they want?」"
-},
-{
-"i": 234,
-"speaker": "$n",
-"text": "「Погоди-ка. У лаборатории есть\n　собственный ангар?」",
-"orig": "$n\n「Wait a minute. This lab has its own\n　hangar?」"
-},
-{
-"i": 235,
-"speaker": "$n",
-"text": "「Это мобильный доспех?\n　Нет, вряд ли. Может, какая-то машина,\n　над которой здесь работали?」",
-"orig": "$n\n「Is this a mobile suit?\n　No, that can't be right. Maybe it's some\n　sort of machine they were working on?」"
-},
-{
-"i": 236,
-"speaker": "$n",
-"text": "「Что бы это ни было, лишь бы завелось —\n　одолжу эту штуку на минутку.」",
-"orig": "$n\n「Whatever it is, it just needs to start up\n　so I can borrow it for a minute.」"
-},
-{
-"i": 237,
-"speaker": "$n",
-"text": "「Надо. Ради Титосэ.\n　Ради Земли!」",
-"orig": "$n\n「I've got to, for Chitose's sake.\n　For Earth's sake!」"
-},
-{
-"i": 242,
-"speaker": "Тодо",
-"text": "「Держись, Окита!\n　Мы перебрасываем «Ямато» энергию\n　из Африки, Евразии и Северной Америки!」",
-"orig": "Todo\n「Hang on, Okita!\n　We're diverting power to the Yamato from\n　Africa, Eurasia, and North America!」"
-},
-{
-"i": 243,
-"speaker": "Тодо",
-"text": "「Весь мир возлагает надежды на «Ямато», сэр!」",
-"orig": "Todo\n「The world pins its hopes on the Yamato, sir!」"
-},
-{
-"i": 247,
-"speaker": "Тодо",
-"text": "「Нет! В «Ямато» попали!」",
-"orig": "Todo\n「No! The Yamato's been hit!」"
-},
-{
-"i": 248,
-"speaker": "Сэридзава",
-"text": "「Взрыв был колоссальным.\n　Корабль наверняка испарился без следа.」",
-"orig": "Serizawa\n「That explosion was immense.\n　It must have vaporized the entire ship.」"
-},
-{
-"i": 249,
-"speaker": "Тодо",
-"text": "「Рано вы его списали!\n　«Ямато» невредим!」",
-"orig": "Todo\n「You spoke too soon!\n　The Yamato is intact!」"
-},
-{
-"i": 254,
-"speaker": "$n",
-"text": "「Отлично, стыковка прошла успешно.」",
-"orig": "$n\n「Alright, I'm successfully docked.」"
-},
-{
-"i": 255,
-"speaker": "$n",
-"text": "「Так вот он, ангар легендарного «Ямато».\n　Интересно, не обидят ли тут мой маленький\n　«Вангрэй»? На этом корабле одно оружие.」",
-"orig": "$n\n「So this is the fabled Yamato's hangar.\n　I wonder if my little VangRay will be OK\n　here? There's nothing but weapons on this ship.」"
-},
-{
-"i": 256,
-"speaker": "Титосэ",
-"text": "「Энсин $l!\n　Это ведь вы, да?」",
-"orig": "Chitose\n「Ensign $l!\n　That is you, isn't it?」"
-},
-{
-"i": 257,
-"speaker": "$n",
-"text": "「Титосэ!\n　Ты цела!」",
-"orig": "$n\n「Chitose!\n　You made it!」"
-},
-{
-"i": 258,
-"speaker": "Титосэ",
-"text": "「Ещё как цела!\n　Я успела в эвакуационный блок прямо\n　перед началом атаки.」",
-"orig": "Chitose\n「Indeed I did!\n　I got to the evacuation bloc just before the\n　attack started.」"
-},
-{
-"i": 259,
-"speaker": "Титосэ",
-"text": "「А потом мне вдруг приказали подняться\n　на борт «Ямато».」",
-"orig": "Chitose\n「All of a sudden I got the order to board\n　the Yamato.」"
-},
-{
-"i": 260,
-"speaker": "$n",
-"text": "「Да ладно!\n　Приказ в последнюю минуту? Видать,\n　у них совсем беда с кадрами.」",
-"orig": "$n\n「You're kidding!\n　That kind of eleventh-hour order must mean\n　they're really understaffed.」"
-},
-{
-"i": 261,
-"speaker": "Ито",
-"text": "「А ну стоять.」",
-"orig": "Ito\n「Hold it right there.」"
-},
-{
-"i": 262,
-"speaker": "Хосина",
-"text": "「Вы окружены.\n　Даже не думайте дёргаться!」",
-"orig": "Hoshina\n「We have you surrounded.\n　Don't even think about moving!」"
-},
-{
-"i": 263,
-"speaker": "$n",
-"text": "「Вы ещё кто такие?」",
-"orig": "$n\n「Who're you guys?」"
-},
-{
-"i": 264,
-"speaker": "Ито",
-"text": "「Мы — служба безопасности «Ямато», а я её\n　начальник, младший лейтенант Синъя Ито.\n　Мне приказано задержать безбилетников.」",
-"orig": "Ito\n「We're the Yamato's security detail, and\n　I'm its captain, Lt. Junior Grade Shinya Ito.\n　I am to apprehend the stowaways.」"
-},
-{
-"i": 265,
-"speaker": "Титосэ",
-"text": "「Безбилетников? Это вы о нас?」",
-"orig": "Chitose\n「Stowaways? Are you referring to us?」"
-},
-{
-"i": 266,
-"speaker": "Хосина",
-"text": "「Установлено, что вы проникли на корабль\n　без разрешения.」",
-"orig": "Hoshina\n「We have determined that you have boarded\n　this ship without permission.」"
-},
-{
-"i": 267,
-"speaker": "Ито",
-"text": "「Довольно, офицер Хосина.\n　Задержать безбилетников, живо.」",
-"orig": "Ito\n「That will be all, Officer Hoshina.\n　Detain the stowaways, quickly.」"
-},
-{
-"i": 268,
-"speaker": "Хосина",
-"text": "「Есть, сэр.」",
-"orig": "Hoshina\n「Yes, sir.」"
-},
-{
-"i": 269,
-"speaker": "Титосэ",
-"text": "「Подождите минутку!\n　Эй, полегче, мистер!」",
-"orig": "Chitose\n「Wait just a minute!\n　Hey—watch it, mister!」"
-},
-{
-"i": 270,
-"speaker": "$n",
-"text": "「У меня — непонятная новая машина на борту,\n　у неё — загадочный приказ о зачислении.」",
-"orig": "$n\n「I've brought a strange new machine onto the\n　ship, and she got a mysterious order to board.」"
-},
-{
-"i": 271,
-"speaker": "$n",
-"text": "「И нас же ещё и задерживают? Что происходит?」",
-"orig": "$n\n「And then we get detained? What's going on here?」"
-},
-{
-"i": 275,
-"speaker": "Ниими",
-"text": "「Система программ навыков:\n　активна.」",
-"orig": "Niimi\n「Skill Program System status:\n　Online.」"
-},
-{
-"i": 276,
-"speaker": "Санада",
-"text": "「Эта система позволит составлять программы\n　подготовки под нужды каждого, опираясь\n　на личную боевую статистику.」",
-"orig": "Sanada\n「With this system we can develop training\n　regimens tailored to every individual's needs,\n　based on their personal combat record.」"
-},
-{
-"i": 277,
-"speaker": "Ниими",
-"text": "「А это, в свою очередь, даст каждому\n　представление об уровне его опыта.」",
-"orig": "Niimi\n「And that in turn gives each unit an idea of\n　their overall experience level.」"
-},
-{
-"i": 278,
-"speaker": "Санада",
-"text": "「Именно. Эти данные сильно повлияют\n　на развитие пилотов в грядущих битвах.」",
-"orig": "Sanada\n「Precisely. Such data will have a profound\n　impact on pilot development in the battles\n　ahead.」"
-},
-{
-"i": 279,
-"speaker": "Санада",
-"text": "「С их помощью мы составим тренировки,\n　которые закрепят и отточат навыки\n　пилотирования до нового уровня.」",
-"orig": "Sanada\n「We can use it to develop training regimens\n　that reinforce and hone effective piloting\n　skills, pushing them to the next level.」"
-}
-]
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　-Секретная база, мыс Боно-мисаки, Кюсю, Япония-",
+   "orig": "　\n　\n　　-Secret Underground Base, Bono-Misaki, Kyushu, Japan-"
+  },
+  {
+   "i": 4,
+   "speaker": "$n",
+   "text": "「Силы обороны Лунной спецлаборатории,\n　энсин $F.」",
+   "orig": "$n\n「Lunar Special Tactical Lab Defense Force,\n　Ensign $F.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Титосэ",
+   "text": "「Силы обороны 3-й спецлаборатории, энсин\n　Титосэ Кисараги. Отличная работа.」",
+   "orig": "Chitose\n「3rd Special Tactical Lab Defense Force,\n　Ensign Chitose Kisaragi. Well done.」"
+  },
+  {
+   "i": 6,
+   "speaker": "$n",
+   "text": "「Всего-то перелёт с Луны на Землю.\n　Не такой уж и дальний путь.」",
+   "orig": "$n\n「I've only traveled to Earth from the moon.\n　It wasn't that long a journey.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Титосэ",
+   "text": "「А загар у вас при этом знатный.」",
+   "orig": "Chitose\n「And yet you've got quite a tan going.」"
+  },
+  {
+   "i": 8,
+   "speaker": "$n",
+   "text": "「В космосе ультрафиолет лютует. Загар —\n　лучшее доказательство, что я пилот.」",
+   "orig": "$n\n「UV rays get pretty intense in space.\n　The tan just proves I'm a pilot.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Титосэ",
+   "text": "「Привыкаете уже к таким заданиям?」",
+   "orig": "Chitose\n「Are you getting used to missions like this?」"
+  },
+  {
+   "i": 10,
+   "speaker": "$n",
+   "text": "「Да не особо.\n　Меня ведь только-только приписали к отряду\n　обороны лаборатории.」",
+   "orig": "$n\n「Not really.\n　I mean, I've only just been assigned to the\n　defense unit guarding the lab.」"
+  },
+  {
+   "i": 11,
+   "speaker": "$n",
+   "text": "「А теперь, когда я на Земле, лаборатория,\n　считай, осталась без защиты.」",
+   "orig": "$n\n「And now that I've come back to Earth,\n　the lab might as well be defenseless.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Титосэ",
+   "text": "「Ясно.」",
+   "orig": "Chitose\n「I see.」"
+  },
+  {
+   "i": 13,
+   "speaker": "$n",
+   "text": "「Но здорового солдата без дела не оставят,\n　так что, видимо, мои мускулы нужны\n　где-то ещё.」",
+   "orig": "$n\n「But they can't leave a fit soldier like me\n　with nothing to do, so I'm guessing that they\n　need some muscle somewhere else.」"
+  },
+  {
+   "i": 14,
+   "speaker": "$n",
+   "text": "「Да и с едой на Луне совсем беда после\n　операции «М» у Плутона.」",
+   "orig": "$n\n「The food situation on the moon also hit\n　rock bottom, thanks to the M Operation near Pluto.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Титосэ",
+   "text": "「На Земле дела обстоят точно так же.」",
+   "orig": "Chitose\n「We're in the same situation here on Earth.」"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "「Неудивительно.」",
+   "orig": "$n\n「I'm not surprised.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Титосэ",
+   "text": "「Но я бы не переживала.\n　Мы всё ещё надеемся на лучшее.」",
+   "orig": "Chitose\n「I wouldn't worry though.\n　We're still hopeful that things will improve.」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Хе. Надежда, значит?」",
+   "orig": "$n\n「Heh. Hopeful, huh?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Титосэ",
+   "text": "「Я сказала что-то не то?」",
+   "orig": "Chitose\n「Did I say something out of line?」"
+  },
+  {
+   "i": 20,
+   "speaker": "$n",
+   "text": "「Нет-нет, всё в порядке. Просто приятно\n　слышать это слово после долгой разлуки.」",
+   "orig": "$n\n「No, you're fine. I'm just happy to hear that\n　word after so much time away.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Титосэ",
+   "text": "「Что ж, давайте оформим доставку.」",
+   "orig": "Chitose\n「Well then, let's process the delivery.」"
+  },
+  {
+   "i": 22,
+   "speaker": "$n",
+   "text": "「Принято. А то мне с этого задания вовек\n　не освободиться.」",
+   "orig": "$n\n「Roger that. Otherwise I'll never get free of\n　this assignment.」"
+  },
+  {
+   "i": 23,
+   "speaker": "$n",
+   "text": "「Итак, ERS-100.\n　Этот груз — на попечении\n　лунной лаборатории.」",
+   "orig": "$n\n「OK, ERS-100.\n　These goods are under the auspices\n　of the lunar lab.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Титосэ",
+   "text": "「Доставка подтверждена.\n　Вам известно содержимое контейнера?」",
+   "orig": "Chitose\n「Delivery confirmed.\n　Do you know the contents of this container?」"
+  },
+  {
+   "i": 25,
+   "speaker": "$n",
+   "text": "「Секретно.\n　А спрашивать было лень.」",
+   "orig": "$n\n「Classified.\n　Also, I didn't really ask.」"
+  },
+  {
+   "i": 26,
+   "speaker": "$n",
+   "text": "「Но учёные, что мне его доверили,\n　сказали: он подарит Земле надежду.」",
+   "orig": "$n\n「But the researchers who entrusted me with it\n　said that it'll give Earth some hope.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Титосэ",
+   "text": "「Отличная новость!\n　Теперь надежды у нас в избытке.」",
+   "orig": "Chitose\n「Well that's great news!\n　We'll have all the hope we need.」"
+  },
+  {
+   "i": 28,
+   "speaker": "$n",
+   "text": "「Хотя с трудом верится, что содержимое\n　этого чемоданчика на что-то повлияет.」",
+   "orig": "$n\n「Though I can't imagine that whatever's in\n　this briefcase will have much of an effect.」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Что происходит?!」",
+   "orig": "$n\n「What's happening!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Титосэ",
+   "text": "「Мы под атакой!\n　Враг наверняка охотится за вашим грузом.」",
+   "orig": "Chitose\n「We're under attack!\n　The enemy must be after whatever you delivered.」"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「Это гамиласцы.\n　Мало им метеоритного удара — теперь\n　решили атаковать в лоб!」",
+   "orig": "$n\n「It's the Gamillans.\n　As if the meteor strike wasn't enough,\n　they've come to attack us head on!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Титосэ",
+   "text": "「Стойте, куда вы, энсин $l?」",
+   "orig": "Chitose\n「Wait, where are you going, Ensign $l?」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Я пилот. Когда враг атакует,\n　я отвечаю огнём.」",
+   "orig": "$n\n「I'm a pilot. When enemies attack,\n　I return fire.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Титосэ",
+   "text": "「Понимаю, но база уже серьёзно пострадала\n　от этих атак. Ангар, где стоял ваш\n　истребитель, уничтожен.」",
+   "orig": "Chitose\n「I understand, but these attacks have already\n　done considerable damage to the base. The\n　hangar that housed your aircraft was destroyed.」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「They what?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Титосэ",
+   "text": "「Я провожу вас в эвакуационный блок.\n　Там безопасно.」",
+   "orig": "Chitose\n「I'll escort you to the evac bloc.\n　You'll be safe there.」"
+  },
+  {
+   "i": 37,
+   "speaker": "$n",
+   "text": "「Груз ведь уже передан, верно?」",
+   "orig": "$n\n「I've handed over the cargo, correct?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Титосэ",
+   "text": "「Д-да, передан.」",
+   "orig": "Chitose\n「Y-yes, you did.」"
+  },
+  {
+   "i": 39,
+   "speaker": "$n",
+   "text": "「Как только задание выполнено, мне положен\n　месяц отпуска.」",
+   "orig": "$n\n「I'm cleared to take a month off the second\n　I complete this mission.」"
+  },
+  {
+   "i": 40,
+   "speaker": "$n",
+   "text": "「А значит, я официально вне службы!\n　Не скучай, Титосэ!」",
+   "orig": "$n\n「Which means I am officially off the clock!\n　Take it easy, Chitose!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Титосэ",
+   "text": "「Стойте, энсин $l!\n　Энсин $l!」",
+   "orig": "Chitose\n「Wait, Ensign $l!\n　Ensign $l!」"
+  },
+  {
+   "i": 42,
+   "speaker": "$n",
+   "text": "（Гамилонцы, значит? Что ж, невежливо не\n　нанести им визит — драться могу или нет!）",
+   "orig": "$n\n（Gamillans, eh? It'd be rude not to pay them a\n　visit, whether I can fight back or not!）"
+  },
+  {
+   "i": 46,
+   "speaker": "Кодай",
+   "text": "「Ой!」",
+   "orig": "Kodai\n「Whoa!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Сима",
+   "text": "「Что за?..」",
+   "orig": "Shima\n「What the—?」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Привет. Вы тоже пришли поглазеть\n　на гамиласцев?」",
+   "orig": "$n\n「Hey. Did you guys come to get a look at the\n　Gamillans, too?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Кодай",
+   "text": "「Никак нет. У нас приказ на перехват,\n　но из-за поломки мы прикованы к земле.」",
+   "orig": "Kodai\n「Negative. We've got orders to intercept\n　but a mechanical failure has us grounded.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Сима",
+   "text": "「Угробили новенький «Космо Зеро».\n　Наверняка ещё и выволочку получим.」",
+   "orig": "Shima\n「We've wrecked a new Cosmo Zero.\n　I'm sure we'll get an earful for it, too.」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「Да уж, несладко.\n　Ну, хотя бы пока вы в безопасности.\n　Гамиласцы, похоже, отступили.」",
+   "orig": "$n\n「That sounds pretty rough.\n　Well you're safe for now, at least.\n　It looks like the Gamillans have retreated.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Сима",
+   "text": "「Погоди-ка, а это что?\n　Похоже на обломки линкора.」",
+   "orig": "Shima\n「Wait a minute, what's that?\n　It looks like the wreckage of a battleship.」"
+  },
+  {
+   "i": 53,
+   "speaker": "$n",
+   "text": "「Без понятия.\n　Я на Земле всего-то пару минут.」",
+   "orig": "$n\n「Beats me.\n　I just got back to Earth a few minutes ago.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Титосэ",
+   "text": "「Это «Ямато».」",
+   "orig": "Chitose\n「It's the Yamato.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Кодай",
+   "text": "「Что-что?」",
+   "orig": "Kodai\n「The what?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Сима",
+   "text": "「Этот старый остов обнажился, когда\n　высохли океаны.」",
+   "orig": "Shima\n「This old shipwreck is exposed now that the\n　oceans have dried up.」"
+  },
+  {
+   "i": 57,
+   "speaker": "$n",
+   "text": "「Если остов корабля посреди высохшего моря —\n　не знамение конца света, то что тогда?」",
+   "orig": "$n\n「Well if a shipwreck in dried seas isn't a\n　sign of the end times, I don't know what is.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Кодай",
+   "text": "「Будем надеяться, что ты ошибаешься.」",
+   "orig": "Kodai\n「Here's hoping you're wrong about that.」"
+  },
+  {
+   "i": 62,
+   "speaker": "　",
+   "text": "　\n　　　-Дальневосточный штаб Федерации, Япония-",
+   "orig": "　\n　\n　　　　　-Federation Far East Headquarters, Japan-"
+  },
+  {
+   "i": 63,
+   "speaker": "Кодай",
+   "text": "「Интересно, зачем нас собрали?」",
+   "orig": "Kodai\n「I wonder what this is about?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Сима",
+   "text": "「Я тоже.」",
+   "orig": "Shima\n「Me, too.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Ота",
+   "text": "「И что они собираются с нами делать?\n　Согнали всех, вырядили в эту форму...\n　Что вообще происходит?」",
+   "orig": "Ota\n「What exactly are they going to make us do?\n　They got us together and made us wear these\n　getups. What's going on?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Айхара",
+   "text": "「Может, тот план бегства? План «Идзумо»?」",
+   "orig": "Aihara\n「Maybe it's that escape plan. The Izumo Plan?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Сима",
+   "text": "「А ты что думаешь, Кодай?」",
+   "orig": "Shima\n「What do you think it is, Kodai?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Кодай",
+   "text": "「Понятия не имею.」",
+   "orig": "Kodai\n「I have no idea.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Кодай",
+   "text": "（Я здесь, Мамору.\n　А должен был — и ты.）",
+   "orig": "Kodai\n（I'm here, Mamoru.\n　You should be, too.）"
+  },
+  {
+   "i": 70,
+   "speaker": "Окита",
+   "text": "「Дамы и господа.」",
+   "orig": "Okita\n「Ladies and gentlemen.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Кодай",
+   "text": "（Это адмирал Окита.\n　Он командовал операцией «М» у Плутона!）",
+   "orig": "Kodai\n（That's Admiral Okita.\n　He commanded the forces during M Operation off Pluto!）"
+  },
+  {
+   "i": 72,
+   "speaker": "Кодай",
+   "text": "（Говорят, тот бой был лишь отвлекающим\n　манёвром, пока другой корабль шёл к Марсу.\n　Выходит, мой брат погиб напрасно?）",
+   "orig": "Kodai\n（I've heard that battle was just a plan to\n　distract the enemy while another ship headed\n　for Mars. If so, did my brother die in vain?）"
+  },
+  {
+   "i": 73,
+   "speaker": "Окита",
+   "text": "「Вы здесь, потому что прошли спецподготовку\n　как экипаж, отобранный для плана «Идзумо».」",
+   "orig": "Okita\n「You are here because you received specialized\n　training as crew selected for the Izumo Plan.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Окита",
+   "text": "「Сегодня я объявлю ваши официальные\n　назначения. Но это отнюдь не план бегства!」",
+   "orig": "Okita\n「I am here today to present your official roles\n　to you. But this is by no means an escape plan!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Окита",
+   "text": "「Сначала взгляните на это. Видеопослание,\n　добытое нами в битве за Плутон.」",
+   "orig": "Okita\n「First, I want you to watch this. It's a\n　video message we recovered during the battle\n　of Pluto.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Сима",
+   "text": "「Это то, что было в капсуле,\n　которую мы привезли с собой?」",
+   "orig": "Shima\n「Is this what was inside that capsule\n　we brought back with us?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Старша",
+   "text": "「Я — Старша с Искандара.」",
+   "orig": "Starsha\n「I am Starsha, of Iscandar.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Кодай",
+   "text": "「Кто это?」",
+   "orig": "Kodai\n「Who is this?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Старша",
+   "text": "「Ваша любимая Земля как никогда близка\n　к гибели от рук гамиласцев.」",
+   "orig": "Starsha\n「Now more than ever, your beloved Earth faces\n　destruction at the hands of the Gamillans.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Кодай",
+   "text": "「Проклятые гамиласцы...」",
+   "orig": "Kodai\n「Argh, the Gamillans.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Старша",
+   "text": "「Зная это, год назад я доверила чертежи\n　волнового двигателя своей сестре Юрише\n　и отправила её на Землю.」",
+   "orig": "Starsha\n「Knowing this, one year ago I entrusted the\n　blueprints for the wave motion engine to my\n　sister Yurisha, and sent her to Earth.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Старша",
+   "text": "「Если вы расшифруете чертежи и построите\n　двигатель, то сможете прибыть на Искандар.」",
+   "orig": "Starsha\n「If you can decipher the blueprints and\n　finish the engine, you can travel to Iscandar.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Старша",
+   "text": "「На Искандаре есть системы, способные\n　очищать планеты и возрождать их.」",
+   "orig": "Starsha\n「On Iscandar, we have systems capable of\n　removing pollution and restoring planets.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Сима",
+   "text": "「Она серьёзно?」",
+   "orig": "Shima\n「Is she serious?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Старша",
+   "text": "「К сожалению, сейчас мне нечем доставить\n　эти системы на Землю.」",
+   "orig": "Starsha\n「Unfortunately, I currently have no way of\n　transporting these systems to Earth.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Старша",
+   "text": "「Но моя сестра Саша лично доставит вам\n　новейшую модель волнового ядра — сердца\n　волнового двигателя.」",
+   "orig": "Starsha\n「What I can do is have my sister Sasha hand-\n　deliver the latest model of the wave motion\n　core, which drives the wave motion engine.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Старша",
+   "text": "「Я твёрдо верю: вы преодолеете любые\n　невзгоды на пути к Искандару.」",
+   "orig": "Starsha\n「It is my firm belief that you will conquer\n　any unforeseen hardships en route to Iscandar.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Окита",
+   "text": "「Год назад Земля получила с Искандара чертежи\n　волнового двигателя. С его помощью мы\n　построили корабль для межзвёздных перелётов.」",
+   "orig": "Okita\n「One year ago, Earth received the wave motion\n　engine schematics from Iscandar. We used it to\n　complete a ship capable of interstellar travel.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Сима",
+   "text": "「Разве межзвёздные перелёты\n　вообще возможны?」",
+   "orig": "Shima\n「I didn't think interstellar travel was\n　even possible?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Окита",
+   "text": "「Его имя — «Ямато»!」",
+   "orig": "Okita\n「Its name is the Yamato!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Кодай",
+   "text": "「Где-то я это уже слышал.」",
+   "orig": "Kodai\n「I've heard that somewhere before.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Окита",
+   "text": "「Согласно данным из капсулы, Искандар\n　находится в 168 000 световых лет от Земли,\n　в Большом Магеллановом Облаке.」",
+   "orig": "Okita\n「According to the information in the capsule,\n　Iscandar is located 168,000 light-years from\n　Earth, in the Large Magellanic Cloud.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Окита",
+   "text": "「Туда и обратно — 336 000 световых лет.\n　Такого человечество ещё не совершало.」",
+   "orig": "Okita\n「That makes it a 336,000 light-year round trip,\n　unlike any humans have ever experienced.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Окита",
+   "text": "「Участие в миссии добровольное.\n　Желающие остаться могут остаться.」",
+   "orig": "Okita\n「This is not a mandatory mission.\n　Those who wish to stay behind may do so.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Окита",
+   "text": "「Отплытие — завтра в 06:00!\n　Опоздание расценим как желание остаться!」",
+   "orig": "Okita\n「We set sail tomorrow morning at 0600 hours!\n　Lateness will be taken as a desire to stay!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Санада",
+   "text": "「Так это правда.」",
+   "orig": "Sanada\n「So it's true.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Сима",
+   "text": "「Это и впрямь план «Идзумо».」",
+   "orig": "Shima\n「It really was the Izumo Plan.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Кодай",
+   "text": "「Похоже, нам предстоит сделать выбор.」",
+   "orig": "Kodai\n「I guess we've got a choice to make.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Мори",
+   "text": "「Нам предстоит долгий путь к Искандару.」",
+   "orig": "Mori\n「We're making the long journey to Iscandar.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Окита",
+   "text": "「Разойтись!」",
+   "orig": "Okita\n「Dismissed!」"
+  },
+  {
+   "i": 104,
+   "speaker": "　",
+   "text": "　\n　　-Секретная база, мыс Боно-мисаки, Кюсю, Япония-",
+   "orig": "　\n　\n　　-Secret Underground Base, Bono-Misaki, Kyushu, Japan-"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「Йо, Титосэ!\n　Как жизнь, порядок?」",
+   "orig": "$n\n「Yo, Chitose!\n　Everything going OK?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Титосэ",
+   "text": "「Вы слишком фамильярны, энсин.」",
+   "orig": "Chitose\n「You're acting rather familiar, Ensign.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Мы знакомы уже целую неделю!\n　По-моему, успели друг друга узнать.」",
+   "orig": "$n\n「We've known each other for a whole week!\n　I think we've gotten to know each other by now.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Титосэ",
+   "text": "「Не согласна!」",
+   "orig": "Chitose\n「I disagree!」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Ладно, ладно.\n　И как же нам узнать друг друга получше?」",
+   "orig": "$n\n「OK, OK.\n　So, how do we get to know each other better?」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「Для начала зови меня по имени.」",
+   "orig": "$n\n「You can start by calling me by my name.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Титосэ",
+   "text": "「Воздержусь, энсин.」",
+   "orig": "Chitose\n「I'd prefer not to, Ensign.」"
+  },
+  {
+   "i": 112,
+   "speaker": "$n",
+   "text": "「Да шучу я! Ну и строгость.\n　Кстати, как там этот ERS-100?\n　Выяснила, что это вообще было?」",
+   "orig": "$n\n「I was just joking! Wow, tough crowd.\n　Anyway, how're things with the ERS-100?\n　Did you ever figure out what it was?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Титосэ",
+   "text": "「Нет.\n　Я ведь, по сути, просто охрана — в детали\n　исследований меня не посвящают.」",
+   "orig": "Chitose\n「No.\n　I'm just a guard of sorts, so I don't get\n　involved with the details of research.」"
+  },
+  {
+   "i": 114,
+   "speaker": "$n",
+   "text": "「Ты сегодня какая-то грустная.\n　Это атака гамиласцев тебя так подкосила\n　или что-то ещё?」",
+   "orig": "$n\n「You seem a little down today.\n　Did that attack from the Gamillans shake you\n　up a bit, or is it something else?」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Этим местам ведь крепко досталось.」",
+   "orig": "$n\n「I mean, that attack hit this area pretty hard.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Титосэ",
+   "text": "「Но наша надежда неугасима.」",
+   "orig": "Chitose\n「But our hope springs eternal.」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「А, «Ямато», да? Все только о нём и говорят.\n　Завтра ведь отплывает.」",
+   "orig": "$n\n「Ah, the Yamato, right? I heard all about that.\n　It leaves tomorrow, y'know.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Титосэ",
+   "text": "「Я в курсе.」",
+   "orig": "Chitose\n「I'm aware.」"
+  },
+  {
+   "i": 119,
+   "speaker": "$n",
+   "text": "「Так вот что тебя гложет?\n　Думаешь о нём?」",
+   "orig": "$n\n「So is that what's got you down?\n　Are you thinking about it?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Титосэ",
+   "text": "「Я уже подавала запрос на зачисление.\n　Мне отказали.」",
+   "orig": "Chitose\n「I've already asked for permission to board.\n　I was denied.」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「Ясно.」",
+   "orig": "$n\n「Oh.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Титосэ",
+   "text": "「Я мечтала попасть на борт «Ямато»\n　с тех пор, как меня сюда направили.」",
+   "orig": "Chitose\n「I have dreamed of riding aboard the Yamato\n　ever since I was stationed here.」"
+  },
+  {
+   "i": 123,
+   "speaker": "$n",
+   "text": "「Он ведь последняя надежда Земли.\n　Понятно, почему тебя к нему тянет.」",
+   "orig": "$n\n「It's Earth's last hope, after all.\n　I can see why you'd be drawn to it.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Титосэ",
+   "text": "「Я понимаю, почему отказали. Боевого опыта\n　у меня почти нет. Я, по сути, новичок.」",
+   "orig": "Chitose\n「I know why they denied me. I have next to no\n　combat experience. I'm basically a rookie.」"
+  },
+  {
+   "i": 125,
+   "speaker": "$n",
+   "text": "「Ну—」",
+   "orig": "$n\n「Well—」"
+  },
+  {
+   "i": 126,
+   "speaker": "Титосэ",
+   "text": "「Да?」",
+   "orig": "Chitose\n「Yes?」"
+  },
+  {
+   "i": 127,
+   "speaker": "$n",
+   "text": "「Просто—」",
+   "orig": "$n\n「I mean—」"
+  },
+  {
+   "i": 128,
+   "speaker": "Титосэ",
+   "text": "「Спасибо, энсин, но в ваших второсортных\n　утешениях я не нуждаюсь.」",
+   "orig": "Chitose\n「Thank you, Ensign, but I have no need for\n　your second-rate attempts at consolation.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Титосэ",
+   "text": "「Прошу меня извинить.」",
+   "orig": "Chitose\n「If you'll excuse me.」"
+  },
+  {
+   "i": 130,
+   "speaker": "$n",
+   "text": "「Второсортных! Это намёк на моё звание?」",
+   "orig": "$n\n「Second-rate! Was that a dig at my rank?」"
+  },
+  {
+   "i": 131,
+   "speaker": "$n",
+   "text": "（На словах она сурова,\n　но, спорю, в душе — добряк.）",
+   "orig": "$n\n（She's a tough talker,\n　but I'll bet she's a big softie.）"
+  },
+  {
+   "i": 135,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Ангар «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Hangar-"
+  },
+  {
+   "i": 136,
+   "speaker": "Като",
+   "text": "「Офицер Кодай.」",
+   "orig": "Kato\n「Officer Kodai.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Кодай",
+   "text": "「Значит, это ты.」",
+   "orig": "Kodai\n「So you're the one.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Като",
+   "text": "「Младший лейтенант Като, назначен командиром\n　авиазвена. Приношу свои извинения.」",
+   "orig": "Kato\n「Lieutenant Junior Grade Kato, appointed aircraft \n　squad captain. You have my apologies.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Кодай",
+   "text": "「За что? За взыскание после того, как я\n　самовольно поднял «Космо Зеро»? Я не в\n　обиде. Сам же и виноват.」",
+   "orig": "Kodai\n「For what? The restrictions after I piloted\n　the Cosmo Zero without permission? I'm not\n　upset about that. It was my fault anyway.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Като",
+   "text": "「Тогда скажу одно.\n　Я буду выполнять ваши приказы,\n　потому что вы мой командир.」",
+   "orig": "Kato\n「Then let me just say this.\n　I'll take orders from you because you're my\n　superior.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Кодай",
+   "text": "「Весьма признателен.」",
+   "orig": "Kodai\n「Much appreciated.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Като",
+   "text": "「Но если по вашей вине кто-то зря погибнет —\n　вы за это ответите.」",
+   "orig": "Kato\n「But you'll pay if you get anyone needlessly\n　killed.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Кодай",
+   "text": "「Об этом можешь не беспокоиться.」",
+   "orig": "Kodai\n「Well you won't have to worry about that.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Като",
+   "text": "「Очень на это надеюсь.」",
+   "orig": "Kato\n「I'd better not have to.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Кодай",
+   "text": "「Свободен, лейтенант.」",
+   "orig": "Kodai\n「That will be all, Lieutenant.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Като",
+   "text": "「Я не шучу.」",
+   "orig": "Kato\n「I'm not joking around.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Ямамото",
+   "text": "「Так это — тактический офицер?」",
+   "orig": "Yamamoto\n「So he's the tactical officer?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Като",
+   "text": "「Ты что здесь делаешь, Ямамото?\n　Тебя же приписали к счётной части?」",
+   "orig": "Kato\n「What are you doing here, Yamamoto? I thought\n　you were assigned to Accounting?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Ямамото",
+   "text": "「Так точно. Уже возвращаюсь.」",
+   "orig": "Yamamoto\n「Yes, sir. Returning now, sir.」"
+  },
+  {
+   "i": 153,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Мостик «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Bridge-"
+  },
+  {
+   "i": 154,
+   "speaker": "Кодай",
+   "text": "「Так, пора во всём разобраться.」",
+   "orig": "Kodai\n「OK, time to get things sorted.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Мори",
+   "text": "「Вы тактический офицер Кодай?」",
+   "orig": "Mori\n「Are you Tactical Officer Kodai?」"
+  },
+  {
+   "i": 156,
+   "speaker": "Кодай",
+   "text": "「Ой!」",
+   "orig": "Kodai\n「Whoa!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Мори",
+   "text": "「Что-то не так?」",
+   "orig": "Mori\n「Is something wrong?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Кодай",
+   "text": "「Нет-нет. П-просто вы меня напугали.」",
+   "orig": "Kodai\n「Not at all. Y-you just startled me, miss.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Кодай",
+   "text": "（Невероятно. Она почти точная копия\n　искандарки, что мы видели на Марсе.）",
+   "orig": "Kodai\n（Incredible. She looks almost exactly like\n　the Iscandarian woman we saw on Mars.）"
+  },
+  {
+   "i": 160,
+   "speaker": "Мори",
+   "text": "「Оперативный офицер Юки Мори.\n　Рада знакомству, сэр.」",
+   "orig": "Mori\n「I'm Operations Officer Yuki Mori.\n　It's a pleasure to meet you, sir.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Кодай",
+   "text": "「Где капитан?」",
+   "orig": "Kodai\n「Where's the commander?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Мори",
+   "text": "「Он, э-э...」",
+   "orig": "Mori\n「He's, uh—」"
+  },
+  {
+   "i": 163,
+   "speaker": "Кодай",
+   "text": "「Где капитан Окита?」",
+   "orig": "Kodai\n「Where is Commander Okita?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Мори",
+   "text": "「Кажется, у себя в каюте.」",
+   "orig": "Mori\n「He's in his quarters, I think.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Кодай",
+   "text": "「Спасибо.」",
+   "orig": "Kodai\n「Thanks.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Мори",
+   "text": "「И что это сейчас было?」",
+   "orig": "Mori\n「What was that all about?」"
+  },
+  {
+   "i": 170,
+   "speaker": "　",
+   "text": "　\n　　　　-Каюта командующего «Ямато»-",
+   "orig": "　\n　\n　　　　　　-Yamato Commanding Officer's Cabin-"
+  },
+  {
+   "i": 171,
+   "speaker": "Кодай",
+   "text": "「Разрешите, сэр.」",
+   "orig": "Kodai\n「Excuse me, sir.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Окита",
+   "text": "「А, ты, должно быть, тактический офицер.\n　В чём дело?」",
+   "orig": "Okita\n「Ah, you must be the tactical officer.\n　What is it?」"
+  },
+  {
+   "i": 173,
+   "speaker": "Кодай",
+   "text": "「Сэр, я... я брат Мамору Кодая,\n　командира «Юкикадзэ».」",
+   "orig": "Kodai\n「Sir, I'm the... I'm the brother of Mamoru Kodai,\n　commanding officer of the Yukikaze.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Окита",
+   "text": "「Ясно. Продолжай.」",
+   "orig": "Okita\n「I see. Continue.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Кодай",
+   "text": "「Я слышал, операция «М» была отвлекающим\n　манёвром ради корабля с Искандара.」",
+   "orig": "Kodai\n「I've heard the M Operation was a diversion to\n　ensure the Iscandarian ship's safe passage.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Кодай",
+   "text": "「А те, кто сражался на передовой,\n　знали об этом?」",
+   "orig": "Kodai\n「Did the men and women on the front lines\n　know that?」"
+  },
+  {
+   "i": 177,
+   "speaker": "Окита",
+   "text": "「Мамору Кодай был прекрасным\n　человеком и образцовым бойцом.」",
+   "orig": "Okita\n「Mamoru Kodai was a fine man,\n　and an exemplary serviceman.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Окита",
+   "text": "「И это я своим приказом отправил его\n　на смерть.」",
+   "orig": "Okita\n「And I was the one who ordered him to his\n　death.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Кодай",
+   "text": "「Как—」",
+   "orig": "Kodai\n「How—」"
+  },
+  {
+   "i": 180,
+   "speaker": "Окита",
+   "text": "「Прости, сынок.」",
+   "orig": "Okita\n「I'm sorry, son.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Кодай",
+   "text": "「И ещё одно, капитан Окита.」",
+   "orig": "Kodai\n「One more thing, Commander Okita.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Окита",
+   "text": "「Говори.」",
+   "orig": "Okita\n「Go ahead.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Кодай",
+   "text": "「Насчёт моего назначения тактическим\n　офицером, сэр. Честно говоря, я не гожусь.」",
+   "orig": "Kodai\n「Regarding my appointment as tactical officer,\n　sir. Frankly speaking I'm not qualified, sir.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Окита",
+   "text": "「Честно говоря, все прочие кандидаты на\n　командные должности погибли при атаке\n　на эту базу.」",
+   "orig": "Okita\n「Frankly speaking, all of the other candidates\n　under consideration for leadership positions\n　were killed in the attack on this base.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Кодай",
+   "text": "「Но—!」",
+   "orig": "Kodai\n「But—!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Окита",
+   "text": "「Дай договорить.\n　Эту должность должен был занять...\n　не кто иной, как твой брат Мамору.」",
+   "orig": "Okita\n「Let me finish.\n　The man who was to fill this position...\n　was none other than your brother Mamoru.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Кодай",
+   "text": "「Н-не может быть!」",
+   "orig": "Kodai\n「Y-you can't be serious!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Окита",
+   "text": "「Я изучил твоё личное дело и решил,\n　что ты справишься с обязанностями.\n　Остальное зависит от тебя.」",
+   "orig": "Okita\n「I had a look at your record.\n　I determined that you can adequately perform\n　your duties. Now it's up to you to do so.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Кодай",
+   "text": "「Так точно, сэр.」",
+   "orig": "Kodai\n「Understood, sir.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Окита",
+   "text": "「Свободен.」",
+   "orig": "Okita\n「Dismissed.」"
+  },
+  {
+   "i": 194,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Мостик «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Bridge-"
+  },
+  {
+   "i": 195,
+   "speaker": "Кодай",
+   "text": "「А, Сима.」",
+   "orig": "Kodai\n「Ah, Shima.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Сима",
+   "text": "「Привет, Кодай. Извини, опоздал.\n　Ты что-то хотел?」",
+   "orig": "Shima\n「Hey, Kodai. Sorry I'm late.\n　You wanted to see me about something?」"
+  },
+  {
+   "i": 197,
+   "speaker": "Кодай",
+   "text": "「Уже неважно.\n　Я сам разобрался.」",
+   "orig": "Kodai\n「Never mind.\n　I've taken care of it.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Окита",
+   "text": "「Кажется, все в сборе.」",
+   "orig": "Okita\n「That should be everyone.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Мори",
+   "text": "「Верно.」",
+   "orig": "Mori\n「Indeed.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Окита",
+   "text": "「Старпом — капитан-лейтенант Сиро Санада.」",
+   "orig": "Okita\n「Executive Officer, Lt. Cmdr. Shiro Sanada.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Санада",
+   "text": "「Я!」",
+   "orig": "Sanada\n「Sir!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Окита",
+   "text": "「Главмех — капитан-лейтенант Хикодзаэмон Токугава.」",
+   "orig": "Okita\n「Engineering Officer, Lt. Cmdr. Hikozaemon Tokugawa.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Токугава",
+   "text": "「Я!」",
+   "orig": "Tokugawa\n「Sir!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Окита",
+   "text": "「Главный штурман — лейтенант Дайскэ Сима.」",
+   "orig": "Okita\n「Head Navigator, Lieutenant Daisuke Shima.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Сима",
+   "text": "「Я!」",
+   "orig": "Shima\n「Sir!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Окита",
+   "text": "「Оперативный офицер — лейтенант Юки Мори.」",
+   "orig": "Okita\n「Operations Officer, Lieutenant Yuki Mori.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Мори",
+   "text": "「Я!」",
+   "orig": "Mori\n「Sir!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Окита",
+   "text": "「Тактический офицер — лейтенант Сусуму Кодай.」",
+   "orig": "Okita\n「Tactical Officer, Lieutenant Susumu Kodai.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Кодай",
+   "text": "「Я!」",
+   "orig": "Kodai\n「Sir!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Окита",
+   "text": "「Я на вас рассчитываю.」",
+   "orig": "Okita\n「I'm counting on you.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Сима",
+   "text": "「Враг атакует!」",
+   "orig": "Shima\n「The enemy is attacking!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Санада",
+   "text": "「Связист, запросить обстановку у штаба!」",
+   "orig": "Sanada\n「Comms Officer, confirm situation with HQ!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Айхара",
+   "text": "「Ответ из штаба!\n　Зафиксированы межзвёздные баллистические\n　снаряды! Курс на Землю — на этот корабль!」",
+   "orig": "Aihara\n「Reply from HQ!\n　Interstellar ballistic munitions confirmed!\n　They're headed for Earth—for this ship!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Окита",
+   "text": "「Значит, прошлая атака была лишь проверкой,\n　существует ли «Ямато» на самом деле.」",
+   "orig": "Okita\n「So the last attack was just a way to make\n　sure the Yamato actually existed.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Сима",
+   "text": "「Мы ещё не можем отплыть?」",
+   "orig": "Shima\n「Can't we set sail yet?」"
+  },
+  {
+   "i": 217,
+   "speaker": "Анализер",
+   "text": "「Для запуска волнового двигателя нужно\n　огромное количество электроэнергии!」",
+   "orig": "Analyzer\n「Starting the wave motion engine requires\n　a large amount of electrical power!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Намбу",
+   "text": "「Это ещё что такое?!」",
+   "orig": "Nanbu\n「What the heck is that!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Санада",
+   "text": "「Автономный субкомпьютер «Ямато» — AU09.」",
+   "orig": "Sanada\n「The Yamato's autonomous sub-computer, AU09.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Анализер",
+   "text": "「Прошу называть меня Анализером.」",
+   "orig": "Analyzer\n「Please address me as the Analyzer.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Окита",
+   "text": "「Токугава! Передай в машинное отделение:\n　запустить волновой двигатель!」",
+   "orig": "Okita\n「Tokugawa! Go order Engineering to start\n　the wave motion engine!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Токугава",
+   "text": "「Есть!」",
+   "orig": "Tokugawa\n「Roger!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Окита",
+   "text": "「Всем занять боевые посты!\n　Враг не ограничится ракетами!」",
+   "orig": "Okita\n「Battle stations, everyone!\n　The enemy will send more than missiles!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Кодай",
+   "text": "「Что за?..」",
+   "orig": "Kodai\n「What the—?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Айхара",
+   "text": "「Входящее сообщение из штаба!\n　Силы врага приближаются к «Ямато»!」",
+   "orig": "Aihara\n「Incoming transmission from HQ!\n　Enemy forces are closing in on the Yamato!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Окита",
+   "text": "「Этого нам только не хватало.」",
+   "orig": "Okita\n「That's the last thing we needed.」"
+  },
+  {
+   "i": 230,
+   "speaker": "　",
+   "text": "　　\n　　-Тактическая лаборатория-",
+   "orig": "　\n　　\n　　　　　　　　　-Tactical Lab Block-"
+  },
+  {
+   "i": 231,
+   "speaker": "$n",
+   "text": "「Эти гамиласцы хуже некуда.」",
+   "orig": "$n\n「These Gamillans are the worst.」"
+  },
+  {
+   "i": 232,
+   "speaker": "$n",
+   "text": "「Есть тут кто-нибудь?\n　Титосэ! Отзовись!」",
+   "orig": "$n\n「Is anybody there?\n　Chitose! Say something!」"
+  },
+  {
+   "i": 233,
+   "speaker": "$n",
+   "text": "「Чёрт! Эти гамиласцы думают, что могут\n　творить тут всё, что им вздумается?」",
+   "orig": "$n\n「Damn! Do these Gamillans think they can just\n　come in here and do whatever they want?」"
+  },
+  {
+   "i": 234,
+   "speaker": "$n",
+   "text": "「Погоди-ка. У лаборатории есть\n　собственный ангар?」",
+   "orig": "$n\n「Wait a minute. This lab has its own\n　hangar?」"
+  },
+  {
+   "i": 235,
+   "speaker": "$n",
+   "text": "「Это мобильный доспех?\n　Нет, вряд ли. Может, какая-то машина,\n　над которой здесь работали?」",
+   "orig": "$n\n「Is this a mobile suit?\n　No, that can't be right. Maybe it's some\n　sort of machine they were working on?」"
+  },
+  {
+   "i": 236,
+   "speaker": "$n",
+   "text": "「Что бы это ни было, лишь бы завелось —\n　одолжу эту штуку на минутку.」",
+   "orig": "$n\n「Whatever it is, it just needs to start up\n　so I can borrow it for a minute.」"
+  },
+  {
+   "i": 237,
+   "speaker": "$n",
+   "text": "「Надо. Ради Титосэ.\n　Ради Земли!」",
+   "orig": "$n\n「I've got to, for Chitose's sake.\n　For Earth's sake!」"
+  },
+  {
+   "i": 241,
+   "speaker": "　",
+   "text": "　\n　　-Дальневосточный штаб сил Федерации Земли-",
+   "orig": "　\n　\n　　　-Earth Federation Forces Far East Headquarters-"
+  },
+  {
+   "i": 242,
+   "speaker": "Тодо",
+   "text": "「Держись, Окита!\n　Мы перебрасываем «Ямато» энергию\n　из Африки, Евразии и Северной Америки!」",
+   "orig": "Todo\n「Hang on, Okita!\n　We're diverting power to the Yamato from\n　Africa, Eurasia, and North America!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Тодо",
+   "text": "「Весь мир возлагает надежды на «Ямато», сэр!」",
+   "orig": "Todo\n「The world pins its hopes on the Yamato, sir!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Тодо",
+   "text": "「Нет! В «Ямато» попали!」",
+   "orig": "Todo\n「No! The Yamato's been hit!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Сэридзава",
+   "text": "「Взрыв был колоссальным.\n　Корабль наверняка испарился без следа.」",
+   "orig": "Serizawa\n「That explosion was immense.\n　It must have vaporized the entire ship.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Тодо",
+   "text": "「Рано вы его списали!\n　«Ямато» невредим!」",
+   "orig": "Todo\n「You spoke too soon!\n　The Yamato is intact!」"
+  },
+  {
+   "i": 253,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Ангар «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Hangar-"
+  },
+  {
+   "i": 254,
+   "speaker": "$n",
+   "text": "「Отлично, стыковка прошла успешно.」",
+   "orig": "$n\n「Alright, I'm successfully docked.」"
+  },
+  {
+   "i": 255,
+   "speaker": "$n",
+   "text": "「Так вот он, ангар легендарного «Ямато».\n　Интересно, не обидят ли тут мой маленький\n　«Вангрэй»? На этом корабле одно оружие.」",
+   "orig": "$n\n「So this is the fabled Yamato's hangar.\n　I wonder if my little VangRay will be OK\n　here? There's nothing but weapons on this ship.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Титосэ",
+   "text": "「Энсин $l!\n　Это ведь вы, да?」",
+   "orig": "Chitose\n「Ensign $l!\n　That is you, isn't it?」"
+  },
+  {
+   "i": 257,
+   "speaker": "$n",
+   "text": "「Титосэ!\n　Ты цела!」",
+   "orig": "$n\n「Chitose!\n　You made it!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Титосэ",
+   "text": "「Ещё как цела!\n　Я успела в эвакуационный блок прямо\n　перед началом атаки.」",
+   "orig": "Chitose\n「Indeed I did!\n　I got to the evacuation bloc just before the\n　attack started.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Титосэ",
+   "text": "「А потом мне вдруг приказали подняться\n　на борт «Ямато».」",
+   "orig": "Chitose\n「All of a sudden I got the order to board\n　the Yamato.」"
+  },
+  {
+   "i": 260,
+   "speaker": "$n",
+   "text": "「Да ладно!\n　Приказ в последнюю минуту? Видать,\n　у них совсем беда с кадрами.」",
+   "orig": "$n\n「You're kidding!\n　That kind of eleventh-hour order must mean\n　they're really understaffed.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Ито",
+   "text": "「А ну стоять.」",
+   "orig": "Ito\n「Hold it right there.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Хосина",
+   "text": "「Вы окружены.\n　Даже не думайте дёргаться!」",
+   "orig": "Hoshina\n「We have you surrounded.\n　Don't even think about moving!」"
+  },
+  {
+   "i": 263,
+   "speaker": "$n",
+   "text": "「Вы ещё кто такие?」",
+   "orig": "$n\n「Who're you guys?」"
+  },
+  {
+   "i": 264,
+   "speaker": "Ито",
+   "text": "「Мы — служба безопасности «Ямато», а я её\n　начальник, младший лейтенант Синъя Ито.\n　Мне приказано задержать безбилетников.」",
+   "orig": "Ito\n「We're the Yamato's security detail, and\n　I'm its captain, Lt. Junior Grade Shinya Ito.\n　I am to apprehend the stowaways.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Титосэ",
+   "text": "「Безбилетников? Это вы о нас?」",
+   "orig": "Chitose\n「Stowaways? Are you referring to us?」"
+  },
+  {
+   "i": 266,
+   "speaker": "Хосина",
+   "text": "「Установлено, что вы проникли на корабль\n　без разрешения.」",
+   "orig": "Hoshina\n「We have determined that you have boarded\n　this ship without permission.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Ито",
+   "text": "「Довольно, офицер Хосина.\n　Задержать безбилетников, живо.」",
+   "orig": "Ito\n「That will be all, Officer Hoshina.\n　Detain the stowaways, quickly.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Хосина",
+   "text": "「Есть, сэр.」",
+   "orig": "Hoshina\n「Yes, sir.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Титосэ",
+   "text": "「Подождите минутку!\n　Эй, полегче, мистер!」",
+   "orig": "Chitose\n「Wait just a minute!\n　Hey—watch it, mister!」"
+  },
+  {
+   "i": 270,
+   "speaker": "$n",
+   "text": "「У меня — непонятная новая машина на борту,\n　у неё — загадочный приказ о зачислении.」",
+   "orig": "$n\n「I've brought a strange new machine onto the\n　ship, and she got a mysterious order to board.」"
+  },
+  {
+   "i": 271,
+   "speaker": "$n",
+   "text": "「И нас же ещё и задерживают? Что происходит?」",
+   "orig": "$n\n「And then we get detained? What's going on here?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Ниими",
+   "text": "「Система программ навыков:\n　активна.」",
+   "orig": "Niimi\n「Skill Program System status:\n　Online.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Санада",
+   "text": "「Эта система позволит составлять программы\n　подготовки под нужды каждого, опираясь\n　на личную боевую статистику.」",
+   "orig": "Sanada\n「With this system we can develop training\n　regimens tailored to every individual's needs,\n　based on their personal combat record.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Ниими",
+   "text": "「А это, в свою очередь, даст каждому\n　представление об уровне его опыта.」",
+   "orig": "Niimi\n「And that in turn gives each unit an idea of\n　their overall experience level.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Санада",
+   "text": "「Именно. Эти данные сильно повлияют\n　на развитие пилотов в грядущих битвах.」",
+   "orig": "Sanada\n「Precisely. Such data will have a profound\n　impact on pilot development in the battles\n　ahead.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Санада",
+   "text": "「С их помощью мы составим тренировки,\n　которые закрепят и отточат навыки\n　пилотирования до нового уровня.」",
+   "orig": "Sanada\n「We can use it to develop training regimens\n　that reinforce and hone effective piloting\n　skills, pushing them to the next level.」"
+  }
+ ]
 }

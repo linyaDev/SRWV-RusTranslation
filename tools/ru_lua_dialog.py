@@ -19,6 +19,22 @@ import re
 import sys
 
 BLOCK = re.compile(r'\[\[(.*?)\]\]', re.S)
+QSTR = re.compile(r'"([^"\n]{2,90})"')
+CODEISH = re.compile(r'[_()\\\\{}=<>;]|\.lua|\.dat|^[A-Z0-9 .:-]+$')
+
+
+def is_text_block(body: str) -> bool:
+    """Game text: dialog 「」, thoughts （）, location cards, narration."""
+    if '「' in body or '（' in body:
+        return True
+    return bool(re.search(r'[A-Za-z]{2}', body))
+
+
+def is_text_qstring(q: str) -> bool:
+    """Win/lose conditions, choices, DVE lines — not identifiers."""
+    if not re.search(r'[a-z] [a-z]', q) and not re.search(r'[a-z].*[.!?]$', q):
+        return False
+    return not CODEISH.search(q)
 
 
 def iter_blocks(src: str):
@@ -32,23 +48,39 @@ def extract(in_path, out_path):
     src = open(in_path, encoding='utf-8').read()
     blocks = []
     idx = 0
+    spans = []
     for m, is_comment in iter_blocks(src):
-        if is_comment:
-            idx += 1
-            continue
-        body = m.group(1)
-        if '「' in body:
-            first, _, rest = body.partition('\n')
-            blocks.append({'i': idx, 'speaker': first, 'text': rest, 'orig': body})
+        if not is_comment:
+            spans.append((m.start(), m.end()))
+            body = m.group(1)
+            if is_text_block(body):
+                first, _, rest = body.partition('\n')
+                if '「' in rest or '（' in rest or ('「' not in first and '（' not in first and rest):
+                    blocks.append({'i': idx, 'speaker': first, 'text': rest, 'orig': body})
+                else:
+                    blocks.append({'i': idx, 'speaker': '', 'text': body, 'orig': body})
         idx += 1
-    json.dump({'blocks': blocks}, open(out_path, 'w', encoding='utf-8'),
+    qstrings = []
+    seen = set()
+    for m in QSTR.finditer(src):
+        if any(a <= m.start() < b for a, b in spans):
+            continue
+        q = m.group(1)
+        if q not in seen and is_text_qstring(q):
+            seen.add(q)
+            qstrings.append({'q': q, 'ru': ''})
+    out = {'blocks': blocks}
+    if qstrings:
+        out['qstrings'] = qstrings
+    json.dump(out, open(out_path, 'w', encoding='utf-8'),
               ensure_ascii=False, indent=1)
-    print(f'{len(blocks)} blocks -> {out_path}')
+    print(f'{len(blocks)} blocks, {len(qstrings)} qstrings -> {out_path}')
 
 
 def inject(in_path, json_path, out_path):
     src = open(in_path, encoding='utf-8').read()
-    tr = {b['i']: b for b in json.load(open(json_path, encoding='utf-8'))['blocks']}
+    data = json.load(open(json_path, encoding='utf-8'))
+    tr = {b['i']: b for b in data['blocks']}
     out = []
     pos = 0
     idx = 0
@@ -58,15 +90,25 @@ def inject(in_path, json_path, out_path):
             b = tr[idx]
             if m.group(1) != b['orig']:
                 raise SystemExit(f'block {idx}: original text mismatch, refusing to inject')
-            new_body = b['speaker'] + '\n' + b['text']
+            new_body = (b['speaker'] + '\n' + b['text']) if b['speaker'] else b['text']
             out.append(src[pos:m.start()])
             out.append('[[' + new_body + ']]')
             pos = m.end()
             replaced += 1
         idx += 1
     out.append(src[pos:])
-    open(out_path, 'w', encoding='utf-8', newline='').write(''.join(out))
-    print(f'{replaced}/{len(tr)} blocks injected -> {out_path}')
+    result = ''.join(out)
+    qdone = 0
+    for item in data.get('qstrings', []):
+        if not item.get('ru') or item['ru'] == item['q']:
+            continue
+        needle = '"' + item['q'] + '"'
+        if needle not in result:
+            raise SystemExit(f'qstring not found: {item["q"]!r}')
+        result = result.replace(needle, '"' + item['ru'] + '"')
+        qdone += 1
+    open(out_path, 'w', encoding='utf-8', newline='').write(result)
+    print(f'{replaced}/{len(tr)} blocks, {qdone} qstrings injected -> {out_path}')
     if replaced != len(tr):
         raise SystemExit('some translated blocks were not found')
 

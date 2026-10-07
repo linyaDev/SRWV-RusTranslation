@@ -1,76 +1,82 @@
 {
-"blocks": [
-{
-"i": 4,
-"speaker": "Кодай",
-"text": "「Значит, вот она — спасательная капсула?」",
-"orig": "Kodai\n「So that's the escape pod we're looking for?」"
-},
-{
-"i": 5,
-"speaker": "Сима",
-"text": "「Да. Видно, нам потому и велели ждать\n　на Марсе — чтобы встретить вот это.」",
-"orig": "Shima\n「Yeah, I guess we were ordered to wait around\n　on Mars so we could make contact with this.」"
-},
-{
-"i": 6,
-"speaker": "Сима",
-"text": "「Но крушения я увидеть не ожидал.」",
-"orig": "Shima\n「But I didn't think we'd witness a crash.」"
-},
-{
-"i": 7,
-"speaker": "Кодай",
-"text": "「Пойдём проверим.\n　У всех свои приказы. Мой брат дерётся\n　у Плутона, а нам надо добыть капсулу.」",
-"orig": "Kodai\n「Let's go check it out.\n　We've all got our orders. My brother's fighting\n　near Pluto, and we've got to get that capsule.」"
-},
-{
-"i": 8,
-"speaker": "Кодай",
-"text": "「Что за чёрт?」",
-"orig": "Kodai\n「What the heck?」"
-},
-{
-"i": 9,
-"speaker": "Саша",
-"text": "「...」",
-"orig": "Sasha\n「...」"
-},
-{
-"i": 10,
-"speaker": "Сима",
-"text": "「Неужели—?」",
-"orig": "Shima\n「Is she—?」"
-},
-{
-"i": 11,
-"speaker": "Кодай",
-"text": "「Видимо, она бежала на этой капсуле.\n　Увы, живой долететь ей не удалось.」",
-"orig": "Kodai\n「She must have used this pod to escape.\n　Unfortunately, she didn't make it here alive.」"
-},
-{
-"i": 12,
-"speaker": "Сима",
-"text": "「Это ведь женщина, да?」",
-"orig": "Shima\n「She is a woman, right?」"
-},
-{
-"i": 13,
-"speaker": "Кодай",
-"text": "「Да.\n　Какая красивая.」",
-"orig": "Kodai\n「Yeah.\n　She's beautiful.」"
-},
-{
-"i": 14,
-"speaker": "Сима",
-"text": "「А что за капсула у неё в руках?」",
-"orig": "Shima\n「What's this capsule she's holding?」"
-},
-{
-"i": 15,
-"speaker": "Кодай",
-"text": "「Должно быть, это штаб и велел забрать.」",
-"orig": "Kodai\n「That must be what HQ wanted us to retrieve.」"
-}
-]
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　-Место падения капсулы «Шахерезады»-",
+   "orig": "　\n　　\n　　　　　-Scheherazade Escape Pod Crash Site-"
+  },
+  {
+   "i": 4,
+   "speaker": "Кодай",
+   "text": "「Значит, вот она — спасательная капсула?」",
+   "orig": "Kodai\n「So that's the escape pod we're looking for?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Сима",
+   "text": "「Да. Видно, нам потому и велели ждать\n　на Марсе — чтобы встретить вот это.」",
+   "orig": "Shima\n「Yeah, I guess we were ordered to wait around\n　on Mars so we could make contact with this.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Сима",
+   "text": "「Но крушения я увидеть не ожидал.」",
+   "orig": "Shima\n「But I didn't think we'd witness a crash.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Кодай",
+   "text": "「Пойдём проверим.\n　У всех свои приказы. Мой брат дерётся\n　у Плутона, а нам надо добыть капсулу.」",
+   "orig": "Kodai\n「Let's go check it out.\n　We've all got our orders. My brother's fighting\n　near Pluto, and we've got to get that capsule.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодай",
+   "text": "「Что за чёрт?」",
+   "orig": "Kodai\n「What the heck?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Саша",
+   "text": "「...」",
+   "orig": "Sasha\n「...」"
+  },
+  {
+   "i": 10,
+   "speaker": "Сима",
+   "text": "「Неужели—?」",
+   "orig": "Shima\n「Is she—?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Кодай",
+   "text": "「Видимо, она бежала на этой капсуле.\n　Увы, живой долететь ей не удалось.」",
+   "orig": "Kodai\n「She must have used this pod to escape.\n　Unfortunately, she didn't make it here alive.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Сима",
+   "text": "「Это ведь женщина, да?」",
+   "orig": "Shima\n「She is a woman, right?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Кодай",
+   "text": "「Да.\n　Какая красивая.」",
+   "orig": "Kodai\n「Yeah.\n　She's beautiful.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Сима",
+   "text": "「А что за капсула у неё в руках?」",
+   "orig": "Shima\n「What's this capsule she's holding?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Кодай",
+   "text": "「Должно быть, это штаб и велел забрать.」",
+   "orig": "Kodai\n「That must be what HQ wanted us to retrieve.」"
+  }
+ ]
 }

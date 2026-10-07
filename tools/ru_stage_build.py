@@ -25,9 +25,17 @@ PLACEHOLDER = re.compile(r'\$kwb|\$kwe|\$n|\$l|\$c|\$r|\$F')
 
 
 def validate(en_path, ru_path):
-    en = {b['i']: b for b in json.load(open(en_path, encoding='utf-8'))['blocks']}
-    ru = json.load(open(ru_path, encoding='utf-8-sig'))['blocks']
+    en_data = json.load(open(en_path, encoding='utf-8'))
+    ru_data = json.load(open(ru_path, encoding='utf-8-sig'))
+    en = {b['i']: b for b in en_data['blocks']}
+    ru = ru_data['blocks']
     errs = []
+    en_q = {q['q'] for q in en_data.get('qstrings', [])}
+    for q in ru_data.get('qstrings', []):
+        if q['q'] not in en_q:
+            errs.append(f'qstring not in EN extraction: {q["q"]!r}')
+        if not q.get('ru'):
+            errs.append(f'qstring untranslated: {q["q"]!r}')
     if len(ru) != len(en):
         errs.append(f'block count {len(ru)} != {len(en)}')
     for b in ru:

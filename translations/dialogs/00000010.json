@@ -1,430 +1,430 @@
 {
-"blocks": [
-{
-"i": 0,
-"speaker": "$n",
-"text": "「Ну, раз выдалось время, стоит проводить\n　тех, кто отбывает или остаётся.」",
-"orig": "$n\n「Well, now that I've got the time, I should\n　probably see off whoever's staying or going.」"
-},
-{
-"i": 1,
-"speaker": "$n",
-"text": "「Да мне, в общем-то, и положено.\n　Это мой долг.」",
-"orig": "$n\n「I mean, I kind of have to, anyway.\n　It's my duty.」"
-},
-{
-"i": 2,
-"speaker": "$n",
-"text": "「Это гамиласцы! Они уже здесь!」",
-"orig": "$n\n「It's the Gamillans! They're here!」"
-},
-{
-"i": 3,
-"speaker": "$n",
-"text": "「Нет-нет! Там лаборатория Титосэ!\n　Ну всё, теперь это личное!」",
-"orig": "$n\n「No, no, no! That's Chitose's lab!\n　Ugh, now it's personal!」"
-},
-{
-"i": 4,
-"speaker": "Синохара",
-"text": "「Дело плохо.\n　Силы обороны базы полностью уничтожены!」",
-"orig": "Shinohara\n「It's not looking good.\n　The base's defense force has been wiped out!」"
-},
-{
-"i": 5,
-"speaker": "Като",
-"text": "「Чёрт!\n　Мы не можем поднять «Фалькон»?」",
-"orig": "Kato\n「Damn!\n　Can't we mobilize the Falcon?」"
-},
-{
-"i": 6,
-"speaker": "Кодай",
-"text": "「Капитан!」",
-"orig": "Kodai\n「Commander!」"
-},
-{
-"i": 7,
-"speaker": "Окита",
-"text": "「Пока что ждём.」",
-"orig": "Okita\n「For now, we wait.」"
-},
-{
-"i": 8,
-"speaker": "Кодай",
-"text": "「Вы уверены?」",
-"orig": "Kodai\n「Are you sure?」"
-},
-{
-"i": 9,
-"speaker": "Сима",
-"text": "「Кодай, смотри! Кто-то из сил обороны\n　ещё жив!」",
-"orig": "Shima\n「Kodai, look! Some of the defense force is\n　still alive!」"
-},
-{
-"i": 10,
-"speaker": "Кодай",
-"text": "「Что эта штука делает?」",
-"orig": "Kodai\n「What is that thing doing?」"
-},
-{
-"i": 11,
-"speaker": "$n",
-"text": "「Да что это за машина? Вооружена до зубов,\n　а разгоняется как бешеная! О пилоте\n　вообще хоть секунду думали?」",
-"orig": "$n\n「What is with this thing? It's armed to the\n　teeth and accelerates like a bat out of hell!\n　Did they consider the pilot for even a second?」"
-},
-{
-"i": 12,
-"speaker": "$n",
-"text": "「Кабина сделана на совесть — похоже, летать\n　можно даже без скафандра.\n　И всё равно что-то здесь не так!」",
-"orig": "$n\n「The cockpit is really solidly built, which tells me\n　that you could fly it even without a proper suit.\n　Even so, something's not right here!」"
-},
-{
-"i": 13,
-"speaker": "$n",
-"text": "「Хотя, чем чёрт не шутит...」",
-"orig": "$n\n「But maybe, just maybe...」"
-},
-{
-"i": 14,
-"speaker": "$n",
-"text": "「Вот что нам нужно, чтобы гамиласцы\n　не стёрли нас с лица земли!」",
-"orig": "$n\n「This is what we need to keep those Gamillans\n　from wiping us off the map!」"
-},
-{
-"i": 15,
-"speaker": "Сима",
-"text": "「Думаешь, она неисправна?」",
-"orig": "Shima\n「Do you think it's malfunctioning?」"
-},
-{
-"i": 16,
-"speaker": "Кодай",
-"text": "「Не могу понять.」",
-"orig": "Kodai\n「I can't tell.」"
-},
-{
-"i": 17,
-"speaker": "Айхара",
-"text": "「Передача с той машины!\n　Говорит: «Я разберусь!»」",
-"orig": "Aihara\n「Transmission from the machine!\n　It says \"I've got this!\"」"
-},
-{
-"i": 18,
-"speaker": "Окита",
-"text": "「Пусть примет бой на себя!\n　Наша задача — запуск корабля!」",
-"orig": "Okita\n「Let it take the front line!\n　Focus on launching this ship!」"
-},
-{
-"i": 19,
-"speaker": "Сима",
-"text": "「Есть!」",
-"orig": "Shima\n「Roger!」"
-},
-{
-"i": 20,
-"speaker": "$n",
-"text": "「О чём они думали, когда строили эту штуку?\n　Тут даже свой ремонтный модуль есть! Будто\n　горы оружия им было мало!」",
-"orig": "$n\n「What were they thinking when they built this?\n　It's even got its own repair apparatus! As if\n　all these weapons weren't enough!」"
-},
-{
-"i": 21,
-"speaker": "$n",
-"text": "「Ах, это дурацкое ускорение! Перегрузки\n　меня раздавят, если бой затянется.\n　Надо кончать с этим побыстрее!」",
-"orig": "$n\n「Agh, this stupid acceleration! The G-force\n　will crush me if I fight for too long in this\n　thing. I better make it quick!」"
-},
-{
-"i": 22,
-"speaker": "$n",
-"text": "「Это за тебя, Титосэ.\n　Ну, подходи, гамиласцы!」",
-"orig": "$n\n「This is for you, Chitose.\n　Come at me, Gamillans!」"
-},
-{
-"i": 23,
-"speaker": "$n",
-"text": "「Что ж, ещё один день удалось пережить.」",
-"orig": "$n\n「Well, at least I've survived another day.」"
-},
-{
-"i": 24,
-"speaker": "$n",
-"text": "「Пора оценить ущерб.」",
-"orig": "$n\n「Time to survey the damage.」"
-},
-{
-"i": 25,
-"speaker": "Окита",
-"text": "「Как обстановка, Токугава?」",
-"orig": "Okita\n「What's the situation, Tokugawa?」"
-},
-{
-"i": 26,
-"speaker": "Токугава",
-"text": "「Нам не хватает энергии для запуска—」",
-"orig": "Tokugawa\n「We don't have the power to start the—」"
-},
-{
-"i": 27,
-"speaker": "Ябу",
-"text": "「Электричество прибыло, старик!\n　Извиняй за ожидание!」",
-"orig": "Yabu\n「Electricity, comin' right up, old man!\n　Sorry for the wait!」"
-},
-{
-"i": 28,
-"speaker": "Токугава",
-"text": "「Я думал, нам не хватит, даже если собрать\n　всю энергию Дальнего Востока!」",
-"orig": "Tokugawa\n「I thought we were going to fall short even\n　if we used all the power in the Far East!」"
-},
-{
-"i": 29,
-"speaker": "Ямадзаки",
-"text": "「А вот, гляди!」",
-"orig": "Yamazaki\n「And yet, look!」"
-},
-{
-"i": 30,
-"speaker": "Окита",
-"text": "「Волновой двигатель — пуск!」",
-"orig": "Okita\n「Engage wave motion engine!」"
-},
-{
-"i": 31,
-"speaker": "Токугава",
-"text": "「Есть пуск!\n　Подключаю маховик!」",
-"orig": "Tokugawa\n「Engaged!\n　Connecting flywheel!」"
-},
-{
-"i": 32,
-"speaker": "Токугава",
-"text": "「Заряд растёт!\n　90, 96, 100 — мощность на 120%!」",
-"orig": "Tokugawa\n「Charge increasing!\n　90, 96, 100—we're at 120% energy capacity!」"
-},
-{
-"i": 33,
-"speaker": "Сима",
-"text": "「Циклы волнового двигателя в норме!\n　Поехали!」",
-"orig": "Shima\n「Wave motion engine cycles optimal!\n　Here we go!」"
-},
-{
-"i": 34,
-"speaker": "Мори",
-"text": "「Засечены межзвёздные баллистические снаряды!」",
-"orig": "Mori\n「Interstellar ballistic munitions detected!」"
-},
-{
-"i": 35,
-"speaker": "Окита",
-"text": "「Пора показать себя.\n　Снять маскировку!」",
-"orig": "Okita\n「Time to reveal ourselves.\n　Disengage cloaking!」"
-},
-{
-"i": 36,
-"speaker": "Кодай",
-"text": "「Что это сейчас было?」",
-"orig": "Kodai\n「What just happened?」"
-},
-{
-"i": 37,
-"speaker": "Анализер",
-"text": "「Корабль был замаскирован, чтобы враг\n　не обнаружил его.」",
-"orig": "Analyzer\n「This ship was cloaked in order to avoid\n　detection by the enemy.」"
-},
-{
-"i": 38,
-"speaker": "Кодай",
-"text": "「У корабля есть маскировка?\n　Значит, тот затонувший линкор, что мы видели—」",
-"orig": "Kodai\n「This ship has cloaking capabilities?\n　So that means the sunken battleship we saw—」"
-},
-{
-"i": 39,
-"speaker": "Окита",
-"text": "「И был этим кораблём.\n　Космический линкор «Ямато»!」",
-"orig": "Okita\n「Was this very ship.\n　The Space Battleship Yamato!」"
-},
-{
-"i": 40,
-"speaker": "Окита",
-"text": "「Перехватим и снаряды, и врагов!\n　Главный калибр к бою!」",
-"orig": "Okita\n「We'll intercept the munitions and enemies!\n　Prepare to fire main cannon!」"
-},
-{
-"i": 41,
-"speaker": "Кодай",
-"text": "「Главный калибр, товсь!」",
-"orig": "Kodai\n「Main cannon, prepare to fire!」"
-},
-{
-"i": 42,
-"speaker": "Намбу",
-"text": "「Все по местам!」",
-"orig": "Nanbu\n「Everyone get to your posts!」"
-},
-{
-"i": 43,
-"speaker": "Окита",
-"text": "「Пора в путь.\n　«Ямато» отправляется!」",
-"orig": "Okita\n「Time to leave.\n　This is the Yamato, setting sail!」"
-},
-{
-"i": 44,
-"speaker": "Сима",
-"text": "「Отчаливаем!\n　«Ямато» отплывает!」",
-"orig": "Shima\n「Departure!\n　Yamato setting sail!」"
-},
-{
-"i": 45,
-"speaker": "Санада",
-"text": "「Отключить волновой барьер!\n　Повреждений нет, капитан!」",
-"orig": "Sanada\n「Disable wave motion barrier!\n　No damage to report, sir!」"
-},
-{
-"i": 46,
-"speaker": "Ота",
-"text": "「Получилось!\n　Мы выжили!」",
-"orig": "Ota\n「We did it!\n　We survived!」"
-},
-{
-"i": 47,
-"speaker": "Окита",
-"text": "「Кодай!」",
-"orig": "Okita\n「Kodai!」"
-},
-{
-"i": 48,
-"speaker": "Кодай",
-"text": "「С-сэр!」",
-"orig": "Kodai\n「S-sir!」"
-},
-{
-"i": 49,
-"speaker": "Окита",
-"text": "「Молодец.」",
-"orig": "Okita\n「Well done.」"
-},
-{
-"i": 50,
-"speaker": "Кодай",
-"text": "「Спасибо, сэр.」",
-"orig": "Kodai\n「Thank you, sir.」"
-},
-{
-"i": 51,
-"speaker": "Сима",
-"text": "「Да ладно, можешь собой гордиться!」",
-"orig": "Shima\n「C'mon, give yourself a pat on the back!」"
-},
-{
-"i": 52,
-"speaker": "Кодай",
-"text": "「Впереди долгий-долгий путь. Такой,\n　на какой человечество ещё не решалось.\n　Рано мне себя поздравлять.」",
-"orig": "Kodai\n「We've got a long, long journey ahead of us.\n　One unlike any mankind has undertaken.\n　I can't congratulate myself just yet.」"
-},
-{
-"i": 53,
-"speaker": "$n",
-"text": "「Вот это поворот! Как тот ржавый остов\n　превратился в «Ямато»?」",
-"orig": "$n\n「I did not see that coming. How did that\n　shipwreck turn into the Yamato?」"
-},
-{
-"i": 54,
-"speaker": "$n",
-"text": "「Удачи, «Ямато». Мои мечты и надежды —\n　с тобой. И Титосэ тоже.」",
-"orig": "$n\n「Godspeed, Yamato. My hopes and dreams are\n　with you. Chitose's, too.」"
-},
-{
-"i": 55,
-"speaker": "？？？",
-"text": "「Энсину $F и\n　«Вангрэю» приказано присоединиться к «Ямато».」",
-"orig": "？？？\n「Ensign $F and\n　the VangRay are ordered to join the Yamato.」"
-},
-{
-"i": 56,
-"speaker": "$n",
-"text": "「Класс! Очередной приказ из ниоткуда.\n　Выходит, эта штука и есть «Вангрэй».」",
-"orig": "$n\n「Great! Another set of orders from out of\n　nowhere. I guess this thing is the VangRay.」"
-},
-{
-"i": 57,
-"speaker": "$n",
-"text": "「Похоже, люк всё-таки открыт.」",
-"orig": "$n\n「Looks like the hatch is open after all.」"
-},
-{
-"i": 58,
-"speaker": "$n",
-"text": "「А ведь всё сходится.\n　Видно, мне суждено лететь на последней\n　надежде Земли. Ну, за дело!」",
-"orig": "$n\n「This feels right somehow.\n　I must be destined to hitch a ride on Earth's\n　last great hope. I better get to it!」"
-},
-{
-"i": 59,
-"speaker": "$n",
-"text": "「Погнали, «Вангрэй».\n　Теперь ты мой верный напарник!」",
-"orig": "$n\n「Let's go, VangRay.\n　You're my partner in crime now!」"
-},
-{
-"i": 60,
-"speaker": "Окита",
-"text": "「Мы отправляемся в путь к Искандару —\n　168 000 световых лет!」",
-"orig": "Okita\n「We are embarking on a 168,000 light-year\n　journey to Iscandar!」"
-},
-{
-"i": 61,
-"speaker": "Окита",
-"text": "「Крепитесь, команда!\n　Битва «Ямато» только началась!」",
-"orig": "Okita\n「Steel yourselves!\n　The Yamato's battle has just begun!」"
-},
-{
-"i": 62,
-"speaker": "$n",
-"text": "「Эта штука ещё как пригодится, если я\n　освою управление. Мощь безумная!」",
-"orig": "$n\n「I bet this would come in handy if I learned\n　how to control it. It's crazy strong!」"
-},
-{
-"i": 63,
-"speaker": "$n",
-"text": "「Да, вот это машина по мне! Знание, что\n　такое оружие у нас в арсенале, поможет\n　держаться в эти тёмные времена!」",
-"orig": "$n\n「Yeah, this is my kind of machine! Knowing a\n　weapon like this is in our arsenal could keep\n　us going in these dark times!」"
-},
-{
-"i": 64,
-"speaker": "$n",
-"text": "「Нет, серьёзно: эта машина не просто\n　вооружена — будто к огромной пушке\n　приделали руки с ногами, и готово!」",
-"orig": "$n\n「Seriously though, this machine isn't just\n　armed—it's like someone stuck arms and legs\n　on a giant weapon and called it a day!」"
-},
-{
-"i": 65,
-"speaker": "$n",
-"text": "「Хотелось бы знать, что творилось у них\n　в головах, когда они строили этого зверя!」",
-"orig": "$n\n「I would love to know what went through their\n　heads when they were designing this beast!」"
-},
-{
-"i": 66,
-"speaker": "$n",
-"text": "「Нет, серьёзно: эта штука не просто\n　увешана оружием — она перегружена им!」",
-"orig": "$n\n「Seriously though, this thing isn't just\n　loaded for bear—it's overloaded, period!」"
-},
-{
-"i": 67,
-"speaker": "$n",
-"text": "「Присобачили огромный ускоритель, чтобы\n　поднять эту броню в воздух, а управление\n　оружием — бред. О пилоте кто-то думал?」",
-"orig": "$n\n「They slapped a huge thruster on it to get its\n　heavy armor in the air, and the weapon controls\n　make no sense. Did anyone consider the pilot?」"
-},
-{
-"i": 68,
-"speaker": "$n",
-"text": "「Нужно время, но, думаю, я смогу\n　приноровиться к ней.」",
-"orig": "$n\n「It'll take some time, but I think I can\n　get the hang of this.」"
-},
-{
-"i": 69,
-"speaker": "$n",
-"text": "「В конце концов, не одно же обаяние\n　меня сюда привело!」",
-"orig": "$n\n「After all, I didn't make it this far on my\n　charm!」"
-},
-{
-"i": 70,
-"speaker": "$n",
-"text": "「Ах!」",
-"orig": "$n\n「Agh!」"
-}
-]
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "$n",
+   "text": "「Ну, раз выдалось время, стоит проводить\n　тех, кто отбывает или остаётся.」",
+   "orig": "$n\n「Well, now that I've got the time, I should\n　probably see off whoever's staying or going.」"
+  },
+  {
+   "i": 1,
+   "speaker": "$n",
+   "text": "「Да мне, в общем-то, и положено.\n　Это мой долг.」",
+   "orig": "$n\n「I mean, I kind of have to, anyway.\n　It's my duty.」"
+  },
+  {
+   "i": 2,
+   "speaker": "$n",
+   "text": "「Это гамиласцы! Они уже здесь!」",
+   "orig": "$n\n「It's the Gamillans! They're here!」"
+  },
+  {
+   "i": 3,
+   "speaker": "$n",
+   "text": "「Нет-нет! Там лаборатория Титосэ!\n　Ну всё, теперь это личное!」",
+   "orig": "$n\n「No, no, no! That's Chitose's lab!\n　Ugh, now it's personal!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Синохара",
+   "text": "「Дело плохо.\n　Силы обороны базы полностью уничтожены!」",
+   "orig": "Shinohara\n「It's not looking good.\n　The base's defense force has been wiped out!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Като",
+   "text": "「Чёрт!\n　Мы не можем поднять «Фалькон»?」",
+   "orig": "Kato\n「Damn!\n　Can't we mobilize the Falcon?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Кодай",
+   "text": "「Капитан!」",
+   "orig": "Kodai\n「Commander!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Окита",
+   "text": "「Пока что ждём.」",
+   "orig": "Okita\n「For now, we wait.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодай",
+   "text": "「Вы уверены?」",
+   "orig": "Kodai\n「Are you sure?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Сима",
+   "text": "「Кодай, смотри! Кто-то из сил обороны\n　ещё жив!」",
+   "orig": "Shima\n「Kodai, look! Some of the defense force is\n　still alive!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Кодай",
+   "text": "「Что эта штука делает?」",
+   "orig": "Kodai\n「What is that thing doing?」"
+  },
+  {
+   "i": 11,
+   "speaker": "$n",
+   "text": "「Да что это за машина? Вооружена до зубов,\n　а разгоняется как бешеная! О пилоте\n　вообще хоть секунду думали?」",
+   "orig": "$n\n「What is with this thing? It's armed to the\n　teeth and accelerates like a bat out of hell!\n　Did they consider the pilot for even a second?」"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "「Кабина сделана на совесть — похоже, летать\n　можно даже без скафандра.\n　И всё равно что-то здесь не так!」",
+   "orig": "$n\n「The cockpit is really solidly built, which tells me\n　that you could fly it even without a proper suit.\n　Even so, something's not right here!」"
+  },
+  {
+   "i": 13,
+   "speaker": "$n",
+   "text": "「Хотя, чем чёрт не шутит...」",
+   "orig": "$n\n「But maybe, just maybe...」"
+  },
+  {
+   "i": 14,
+   "speaker": "$n",
+   "text": "「Вот что нам нужно, чтобы гамиласцы\n　не стёрли нас с лица земли!」",
+   "orig": "$n\n「This is what we need to keep those Gamillans\n　from wiping us off the map!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Сима",
+   "text": "「Думаешь, она неисправна?」",
+   "orig": "Shima\n「Do you think it's malfunctioning?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Кодай",
+   "text": "「Не могу понять.」",
+   "orig": "Kodai\n「I can't tell.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Айхара",
+   "text": "「Передача с той машины!\n　Говорит: «Я разберусь!»」",
+   "orig": "Aihara\n「Transmission from the machine!\n　It says \"I've got this!\"」"
+  },
+  {
+   "i": 18,
+   "speaker": "Окита",
+   "text": "「Пусть примет бой на себя!\n　Наша задача — запуск корабля!」",
+   "orig": "Okita\n「Let it take the front line!\n　Focus on launching this ship!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Сима",
+   "text": "「Есть!」",
+   "orig": "Shima\n「Roger!」"
+  },
+  {
+   "i": 20,
+   "speaker": "$n",
+   "text": "「О чём они думали, когда строили эту штуку?\n　Тут даже свой ремонтный модуль есть! Будто\n　горы оружия им было мало!」",
+   "orig": "$n\n「What were they thinking when they built this?\n　It's even got its own repair apparatus! As if\n　all these weapons weren't enough!」"
+  },
+  {
+   "i": 21,
+   "speaker": "$n",
+   "text": "「Ах, это дурацкое ускорение! Перегрузки\n　меня раздавят, если бой затянется.\n　Надо кончать с этим побыстрее!」",
+   "orig": "$n\n「Agh, this stupid acceleration! The G-force\n　will crush me if I fight for too long in this\n　thing. I better make it quick!」"
+  },
+  {
+   "i": 22,
+   "speaker": "$n",
+   "text": "「Это за тебя, Титосэ.\n　Ну, подходи, гамиласцы!」",
+   "orig": "$n\n「This is for you, Chitose.\n　Come at me, Gamillans!」"
+  },
+  {
+   "i": 23,
+   "speaker": "$n",
+   "text": "「Что ж, ещё один день удалось пережить.」",
+   "orig": "$n\n「Well, at least I've survived another day.」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「Пора оценить ущерб.」",
+   "orig": "$n\n「Time to survey the damage.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Окита",
+   "text": "「Как обстановка, Токугава?」",
+   "orig": "Okita\n「What's the situation, Tokugawa?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Токугава",
+   "text": "「Нам не хватает энергии для запуска—」",
+   "orig": "Tokugawa\n「We don't have the power to start the—」"
+  },
+  {
+   "i": 27,
+   "speaker": "Ябу",
+   "text": "「Электричество прибыло, старик!\n　Извиняй за ожидание!」",
+   "orig": "Yabu\n「Electricity, comin' right up, old man!\n　Sorry for the wait!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Токугава",
+   "text": "「Я думал, нам не хватит, даже если собрать\n　всю энергию Дальнего Востока!」",
+   "orig": "Tokugawa\n「I thought we were going to fall short even\n　if we used all the power in the Far East!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Ямадзаки",
+   "text": "「А вот, гляди!」",
+   "orig": "Yamazaki\n「And yet, look!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Окита",
+   "text": "「Волновой двигатель — пуск!」",
+   "orig": "Okita\n「Engage wave motion engine!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Токугава",
+   "text": "「Есть пуск!\n　Подключаю маховик!」",
+   "orig": "Tokugawa\n「Engaged!\n　Connecting flywheel!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Токугава",
+   "text": "「Заряд растёт!\n　90, 96, 100 — мощность на 120%!」",
+   "orig": "Tokugawa\n「Charge increasing!\n　90, 96, 100—we're at 120% energy capacity!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Сима",
+   "text": "「Циклы волнового двигателя в норме!\n　Поехали!」",
+   "orig": "Shima\n「Wave motion engine cycles optimal!\n　Here we go!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Мори",
+   "text": "「Засечены межзвёздные баллистические снаряды!」",
+   "orig": "Mori\n「Interstellar ballistic munitions detected!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Окита",
+   "text": "「Пора показать себя.\n　Снять маскировку!」",
+   "orig": "Okita\n「Time to reveal ourselves.\n　Disengage cloaking!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодай",
+   "text": "「Что это сейчас было?」",
+   "orig": "Kodai\n「What just happened?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Анализер",
+   "text": "「Корабль был замаскирован, чтобы враг\n　не обнаружил его.」",
+   "orig": "Analyzer\n「This ship was cloaked in order to avoid\n　detection by the enemy.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодай",
+   "text": "「У корабля есть маскировка?\n　Значит, тот затонувший линкор, что мы видели—」",
+   "orig": "Kodai\n「This ship has cloaking capabilities?\n　So that means the sunken battleship we saw—」"
+  },
+  {
+   "i": 39,
+   "speaker": "Окита",
+   "text": "「И был этим кораблём.\n　Космический линкор «Ямато»!」",
+   "orig": "Okita\n「Was this very ship.\n　The Space Battleship Yamato!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Окита",
+   "text": "「Перехватим и снаряды, и врагов!\n　Главный калибр к бою!」",
+   "orig": "Okita\n「We'll intercept the munitions and enemies!\n　Prepare to fire main cannon!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Кодай",
+   "text": "「Главный калибр, товсь!」",
+   "orig": "Kodai\n「Main cannon, prepare to fire!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Намбу",
+   "text": "「Все по местам!」",
+   "orig": "Nanbu\n「Everyone get to your posts!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Окита",
+   "text": "「Пора в путь.\n　«Ямато» отправляется!」",
+   "orig": "Okita\n「Time to leave.\n　This is the Yamato, setting sail!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Сима",
+   "text": "「Отчаливаем!\n　«Ямато» отплывает!」",
+   "orig": "Shima\n「Departure!\n　Yamato setting sail!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Санада",
+   "text": "「Отключить волновой барьер!\n　Повреждений нет, капитан!」",
+   "orig": "Sanada\n「Disable wave motion barrier!\n　No damage to report, sir!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Ота",
+   "text": "「Получилось!\n　Мы выжили!」",
+   "orig": "Ota\n「We did it!\n　We survived!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Окита",
+   "text": "「Кодай!」",
+   "orig": "Okita\n「Kodai!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Кодай",
+   "text": "「С-сэр!」",
+   "orig": "Kodai\n「S-sir!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Окита",
+   "text": "「Молодец.」",
+   "orig": "Okita\n「Well done.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Кодай",
+   "text": "「Спасибо, сэр.」",
+   "orig": "Kodai\n「Thank you, sir.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Сима",
+   "text": "「Да ладно, можешь собой гордиться!」",
+   "orig": "Shima\n「C'mon, give yourself a pat on the back!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Кодай",
+   "text": "「Впереди долгий-долгий путь. Такой,\n　на какой человечество ещё не решалось.\n　Рано мне себя поздравлять.」",
+   "orig": "Kodai\n「We've got a long, long journey ahead of us.\n　One unlike any mankind has undertaken.\n　I can't congratulate myself just yet.」"
+  },
+  {
+   "i": 53,
+   "speaker": "$n",
+   "text": "「Вот это поворот! Как тот ржавый остов\n　превратился в «Ямато»?」",
+   "orig": "$n\n「I did not see that coming. How did that\n　shipwreck turn into the Yamato?」"
+  },
+  {
+   "i": 54,
+   "speaker": "$n",
+   "text": "「Удачи, «Ямато». Мои мечты и надежды —\n　с тобой. И Титосэ тоже.」",
+   "orig": "$n\n「Godspeed, Yamato. My hopes and dreams are\n　with you. Chitose's, too.」"
+  },
+  {
+   "i": 55,
+   "speaker": "？？？",
+   "text": "「Энсину $F и\n　«Вангрэю» приказано присоединиться к «Ямато».」",
+   "orig": "？？？\n「Ensign $F and\n　the VangRay are ordered to join the Yamato.」"
+  },
+  {
+   "i": 56,
+   "speaker": "$n",
+   "text": "「Класс! Очередной приказ из ниоткуда.\n　Выходит, эта штука и есть «Вангрэй».」",
+   "orig": "$n\n「Great! Another set of orders from out of\n　nowhere. I guess this thing is the VangRay.」"
+  },
+  {
+   "i": 57,
+   "speaker": "$n",
+   "text": "「Похоже, люк всё-таки открыт.」",
+   "orig": "$n\n「Looks like the hatch is open after all.」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「А ведь всё сходится.\n　Видно, мне суждено лететь на последней\n　надежде Земли. Ну, за дело!」",
+   "orig": "$n\n「This feels right somehow.\n　I must be destined to hitch a ride on Earth's\n　last great hope. I better get to it!」"
+  },
+  {
+   "i": 59,
+   "speaker": "$n",
+   "text": "「Погнали, «Вангрэй».\n　Теперь ты мой верный напарник!」",
+   "orig": "$n\n「Let's go, VangRay.\n　You're my partner in crime now!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Окита",
+   "text": "「Мы отправляемся в путь к Искандару —\n　168 000 световых лет!」",
+   "orig": "Okita\n「We are embarking on a 168,000 light-year\n　journey to Iscandar!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Окита",
+   "text": "「Крепитесь, команда!\n　Битва «Ямато» только началась!」",
+   "orig": "Okita\n「Steel yourselves!\n　The Yamato's battle has just begun!」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Эта штука ещё как пригодится, если я\n　освою управление. Мощь безумная!」",
+   "orig": "$n\n「I bet this would come in handy if I learned\n　how to control it. It's crazy strong!」"
+  },
+  {
+   "i": 63,
+   "speaker": "$n",
+   "text": "「Да, вот это машина по мне! Знание, что\n　такое оружие у нас в арсенале, поможет\n　держаться в эти тёмные времена!」",
+   "orig": "$n\n「Yeah, this is my kind of machine! Knowing a\n　weapon like this is in our arsenal could keep\n　us going in these dark times!」"
+  },
+  {
+   "i": 64,
+   "speaker": "$n",
+   "text": "「Нет, серьёзно: эта машина не просто\n　вооружена — будто к огромной пушке\n　приделали руки с ногами, и готово!」",
+   "orig": "$n\n「Seriously though, this machine isn't just\n　armed—it's like someone stuck arms and legs\n　on a giant weapon and called it a day!」"
+  },
+  {
+   "i": 65,
+   "speaker": "$n",
+   "text": "「Хотелось бы знать, что творилось у них\n　в головах, когда они строили этого зверя!」",
+   "orig": "$n\n「I would love to know what went through their\n　heads when they were designing this beast!」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Нет, серьёзно: эта штука не просто\n　увешана оружием — она перегружена им!」",
+   "orig": "$n\n「Seriously though, this thing isn't just\n　loaded for bear—it's overloaded, period!」"
+  },
+  {
+   "i": 67,
+   "speaker": "$n",
+   "text": "「Присобачили огромный ускоритель, чтобы\n　поднять эту броню в воздух, а управление\n　оружием — бред. О пилоте кто-то думал?」",
+   "orig": "$n\n「They slapped a huge thruster on it to get its\n　heavy armor in the air, and the weapon controls\n　make no sense. Did anyone consider the pilot?」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Нужно время, но, думаю, я смогу\n　приноровиться к ней.」",
+   "orig": "$n\n「It'll take some time, but I think I can\n　get the hang of this.」"
+  },
+  {
+   "i": 69,
+   "speaker": "$n",
+   "text": "「В конце концов, не одно же обаяние\n　меня сюда привело!」",
+   "orig": "$n\n「After all, I didn't make it this far on my\n　charm!」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Ах!」",
+   "orig": "$n\n「Agh!」"
+  }
+ ]
 }
