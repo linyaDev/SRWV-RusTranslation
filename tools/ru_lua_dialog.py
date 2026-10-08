@@ -19,8 +19,8 @@ import re
 import sys
 
 BLOCK = re.compile(r'\[\[(.*?)\]\]', re.S)
-QSTR = re.compile(r'"([^"\n]{2,90})"')
-CODEISH = re.compile(r'[_()\\\\{}=<>;]|\.lua|\.dat|^[A-Z0-9 .:-]+$')
+QSTR = re.compile(r'"([^"\n]{2,400})"')
+CODEISH = re.compile(r'[_{}=<>;]|\.lua|\.dat|/|^[A-Z0-9 .:-]+$')
 
 
 def is_text_block(body: str) -> bool:
