@@ -70,12 +70,17 @@ D:\games\SUPER ROBOT WARS V\
 
 ## Открытые загадки
 
-1. **Боевые реплики пилотов** («I made up my mind a long time ago!», «Gamillas,
-   huh? Take this!») — НЕ найдены ни в stage-Lua, ни в rpw_jstr, ни в EXE, ни в
-   текстурах WP00/XP00/SRVC5. Главные подозреваемые: `MtData\EN\*.bin` (❓),
-   `rpw_data.cpk`, `LayoutData.cpk`, `WCI00_PC.CPK`.
+1. **Боевые реплики пилотов** — полная зачистка ВСЕХ архивов (UTF-8/UTF-16,
+   с расшифровкой и CRILAYLA) совпадений не дала. Либо экзотическое хранение,
+   либо фразы запомнены неточно — нужен скриншот/дословный текст с экрана.
+   Проверено и чисто: stage-Lua, rpw_jstr/rpw_data, EXE, Layout*, PCI00/BG00/
+   WP00/WCI00/BAR00/XP00/SRVC5, TPACKWIN, MAPETC, STATUSIMAGE, MtZkn, DLC,
+   озвучка (чистые HCA). `MtData\EN\*.bin` оказались НЕзашифрованным мусором
+   разработки (машинный перевод, dev-пути) — не используются.
 2. **Краш KPACK_RG** — какие-то записи перевода 0–26 роняют игру (кириллица и
    длина по отдельности не при чём).
-3. **Victory condition в главе 1** — где лежит текст панели целей (возможно,
-   те же ⬜/❓ файлы).
+3. ~~Victory condition~~ — НАЙДЕНО: `Data\AIDDATA\EN\LayoutData.cpk`, файл 0 —
+   многоязычная таблица UI-надписей (Victory/Defeat Conditions, Requirements,
+   Get Bonus, Forces, Squad Name…; рядом KR/JP/HK-варианты). Нужен разбор
+   формата и перевод EN-строк.
 ```
