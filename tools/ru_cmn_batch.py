@@ -31,6 +31,24 @@ def load_tm():
     return {}
 
 
+def make_todo_range(start, end, n):
+    src = load_src()
+    tm = load_tm()
+    bl = next(s for s in src['sections'] if s['name'] == 'battle_lines')['strings']
+    todo = []
+    seen = set()
+    for s in bl[start:end + 1]:
+        if len(todo) >= n:
+            break
+        if not s.strip() or s in ('-', '...', '…') or s in tm or s in seen:
+            continue
+        seen.add(s)
+        todo.append(s)
+    json.dump({'items': [{'en': s, 'ru': ''} for s in todo]},
+              open(TODO, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    print(f'todo: {len(todo)} строк из диапазона [{start}:{end}] -> {TODO}')
+
+
 def make_todo(n):
     src = load_src()
     tm = load_tm()
@@ -112,6 +130,8 @@ if __name__ == '__main__':
     cmd = sys.argv[1] if len(sys.argv) > 1 else ''
     if cmd == 'make-todo':
         make_todo(int(sys.argv[2]))
+    elif cmd == 'make-todo-range':
+        make_todo_range(int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
     elif cmd == 'merge':
         merge()
     elif cmd == 'build':
