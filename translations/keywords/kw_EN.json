@@ -1,0 +1,1480 @@
+{
+ "format": "MTFL/kwrb keyword table",
+ "source": "00000000.dat",
+ "source_sha256": "569c147adae03ca2189f31537cee94c7e852dfaf28ff5a6554d5602c6180118b",
+ "version": "0.94",
+ "entry_count": 147,
+ "note": "desc2_mode: same = post-clear text equals desc; append = desc2 is appended after desc once the scenario is cleared; full = desc2 replaces desc; shared = desc2 points at the very same pool string as desc. Edit term/series/desc/desc2 freely, any length.",
+ "articles": [
+  {
+   "idx": 0,
+   "id": 3,
+   "flag": 4294967295,
+   "term": "Axis Shock",
+   "series": "Mobile Suit Gundam: Char's Counterattack",
+   "desc": "A phenomenon seen during the Second Neo Zeon War (Char's Rebellion). \nChar planned to drop the asteroid Axis onto Earth to make it \nuninhabitable. To prevent this, task force Londo Bell succeeded in \ndisintegrating Axis, but due to the strength of the explosion, a \nfragment of Axis headed toward Earth.\nAmuro attached the ν Gundam to Axis, which had already entered \nEarth's atmosphere, in an effort to turn it back. As a result, \nPsychoframe light was emitted by the mobile unit, attracting nearby \nforces, who gathered around the plummeting Axis. Overcoming divisions \nbetween Earth Federation and Neo Zeon, they attached their mobile \nsuits to Axis and together pushed it back.\nThe growing Psychoframe light knocked out the mobile suits apart from \nν Gundam and pushed the asteroid Axis beyond Earth. The Psychoframe \nlight which caused this phenomenon was seen from various locations \nacross Earth, leaving an impression in the minds of many.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 1,
+   "id": 137,
+   "flag": 4294967295,
+   "term": "AD dimension",
+   "series": "Original",
+   "desc": "A dimension that Yamato was thrown to from out of a dimensional rift.\nUnlike the New Correct Century dimension and the Universal Century\ndimension, the ocean in this dimension is blue.\nRecent large-scale battles include the following:\n-Before 0003: War breaks out between nations of Earth and PLANT after \nthe Bloody Valentine Incident.\n　　　　　　　　　At the same time, the Earth Alliance and the Jovian \n　　　　　　　　　Federation declare war on each other (the Lizard \n　　　　　　　　　War).\n　　　　　　　　　Meanwhile, the Meganoid rebellion kicks off behind \n　　　　　　　　　the scenes.\n　　　　　　　　　Celestial Being steps in to intervene on all fronts.\n　　　　　　　　　The leader of the Earth Alliance, Alejandro Corner,\n　　　　　　　　　and the leader of PLANT, Patrick Zala, are both \n　　　　　　　　　killed, and after the Hot Blooded Coup d'État within \n　　　　　　　　　the Jovian Federation, all conflicts come to an end \n　　　　　　　　　with all sides suffering casualties.\n　　　　　　　　　After the wars, the Earth Federation is established.\n-Before 0001: The Earth Federation Forces' Autonomous Peace-Keeping\nForce A-Laws makes its appearance.\n　　　　　　　　　War breaks out between the Earth Federation and\nPLANT.\n　　　　　　　　　A-Laws is revealed to be just a puppet for Logos and \nthe Innovades who outwitted Embryo, and a civil war\n　　　　　　　　　breaks out among the Earth Federation. During this\n　　　　　　　　　conflict, Gaizok also launches an attack.\n　　　　　　　　　The newly restarted Celestial Being, the reformed\n　　　　　　　　　Nadesico Squad, the forces of Orb, and others all put \n　　　　　　　　　an end to the battles.",
+   "desc2": "A dimension which Yamato was thrown to from out of a dimensional rift. \nUnlike the New Correct Century dimension and the Universal Century\ndimension, the ocean in this dimension is blue.\nMajor historical incidents are as follows:\n-Approximately before 0500: Embryo jumps to this dimension from the\n　　　　　　　　　Universal Century.\n-Approximately before 0200: The Aeolia Plan kicks off.\n-Approximately before 0150: Chased out from the Earth sector, the\n　　　　　　　　　ancestors of the Jovian Federation make their escape\n　　　　　　　　　to Jupiter.\n-Approximately before 0085: The Coordinator is born.\n　　　　　　　　　The First Coordinator, George Glenn, brings a copy of\n　　　　　　　　　Gekiganger 3 to the Jovian Federation.\n-Approximately before 0020: Unable to halt the birth of Norma, Embryo\ngives up on this world, using Logos to launch\n　　　　　　　　　controlled wars.\n-Approximately before 0010: Nevanlinna jumps to this dimension from the\nNew Correct Century.\n-Before 0003: War breaks out between nations of Earth and PLANT after\nthe Bloody Valentine Incident.\n　　　　　　　　　At the same time, the Earth Alliance and the Jovian\n　　　　　　　　　Federation declare war on each other (the Lizard War).\n　　　　　　　　　Meanwhile, the Meganoid rebellion kicks off behind \n　　　　　　　　　the scenes.\n　　　　　　　　　Celestial Being steps in to intervene on all fronts.\n　　　　　　　　　The leader of the Earth Alliance, Alejandro Corner,\n　　　　　　　　　and the leader of PLANT, Patrick Zala, are both \n　　　　　　　　　killed, and after the Hot Blooded Coup d'État within \n　　　　　　　　　the Jovian Federation, all conflicts come to an end \n　　　　　　　　　with all sides suffering casualties.\n　　　　　　　　　After the wars, the Earth Federation is established.\n-Before 0001: The Earth Federation Forces' Autonomous Peace-Keeping\nForce A-Laws makes its appearance.\n　　　　　　　　　War breaks out between the Earth Federation and \nPLANT.\n　　　　　　　　　A-Laws is revealed to be just a puppet for Logos and \nthe Innovades who outwitted Embryo, and a civil war\n　　　　　　　　　breaks out among the Earth Federation. During this\n　　　　　　　　　conflict, Gaizok also launches an attack.\n　　　　　　　　　The newly reorganized Celestial Being, the reformed\n　　　　　　　　　Nadesico Squad, the forces of Orb, and others all put\n　　　　　　　　　an end to the battles.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 2,
+   "id": 81,
+   "flag": 4294967295,
+   "term": "Africa",
+   "series": "Mobile Suit Gundam ZZ",
+   "desc": "An area where many of the Zeon Remnants remained after the One Year \nWar. Even after the end of that war, the Remnants still engaged in \nintense fighting, biding their time while believing in the \nrestoration of the Principality of Zeon.\nDesert Rommel, who led a faction of the Zeon Remnants, heard that \nMineva Zabi had arrived in Dakar and that the AEUG has reappeared, \nand he took a group of his subordinates to protect Mineva, who was \nthe successor of the Zabi family.\nHowever, they were not able to withstand the Gundam Team, which had \nstate-of-the-art mobile suits.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 3,
+   "id": 23,
+   "flag": 4294967295,
+   "term": "A-Laws",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "An Autonomous Peace-Keeping Force within the Earth Federation Forces. \nThey had supra-legal authority beyond that of regular forces, and they\nwere given priority with deployment of state-of-the-art equipment. \nUnder the will of the human-controlling Innovade, Ribbons Almark, \nthey suppressed small countries and pockets of resistance that \nopposed the Earth Federation. Later, they also gained the right of \noverall command of regular forces. \nWhen Celestial Being defeated the Innovades, the Earth Federation \nForces were reorganized and the A-Laws were disbanded.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 4,
+   "id": 74,
+   "flag": 4294967295,
+   "term": "Amalgam",
+   "series": "Full Metal Panic!",
+   "desc": "A mysterious secret organization that pulls the strings on worldly \nongoings from behind the scenes. The name Amalgam comes from the\nterm for a composite or mercury and another metal, and the leaders, \nsuch as Mr. K (Potassium) and Mr. Fe (Iron), all have metal code names. \nThey are seeking out the Whispered and the knowledge they hold about\nBlack Technology and, as such, come in conflict with Mithril, who seeks\nto protect the Whispered.",
+   "desc2": " \nTheir goal at the outset was to preserve the future of humanity, saving \nthem from all wars, but as the members changed, so did their ideals, and \neventually they began to care for nothing more than the vested interests \nof their members. \nThe organization was democratic in structure, with no real leader,\nbut was later turned into a more dictatorial structure by Leonard to \nachieve his own personal goals.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 5,
+   "id": 15,
+   "flag": 4294967295,
+   "term": "Ancient Martian Civilization",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "The general term to describe super-technology left by ancient \nMartians. Mystery surrounds the disappearance of the ancient \nMartians, who had such a highly developed civilization, and why the \nremains of their civilization exist around Jupiter.\nExamples of the technology include Boson Jump, Distortion Field, \nGravity Blast, and the phase-transition engine.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 6,
+   "id": 2,
+   "flag": 4294967295,
+   "term": "Aristocratism",
+   "series": "Mobile Suit Crossbone Gundam",
+   "desc": "A principle advocated by Meitzer Ronah. The basic concept is that \nnobles should be in charge of leading the masses, based upon a belief \nin \"noblesse oblige.\" Cosmo Babylonia was established based on the \nproclamation of this belief.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 7,
+   "id": 80,
+   "flag": 4294967295,
+   "term": "AS",
+   "series": "Full Metal Panic!",
+   "desc": "Arm Slave (short for Armored Mobile Master-Slave System). Humanoid \nweapons that stand at around eight meters tall and weigh in around\nten tons, and were developed as a part of the star wars plans in the 1980s. \nThey use special condensed plastic fiber bundles to conduct currents as \na part of their artificial \"Muscle Package\" which allow them to imitate their \npilots' movements with the Semi-Master-Slave system. \nThe Savage and Bushnell models are Second Generation units, and the M9\nand Shadow models are Third Generation Arm Slaves.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 8,
+   "id": 100,
+   "flag": 4294967295,
+   "term": "Azadistan",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "A newly emerging country in the Middle East with Princess Marina \nIsmail as its leader. \nIt collapsed following an attack from the A-Laws, but it is now \nundergoing reconstruction with support of the new government.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 9,
+   "id": 1,
+   "flag": 4294967295,
+   "term": "Berah Ronah",
+   "series": "Mobile Suit Crossbone Gundam",
+   "desc": "The grandchild of the founder of Cosmo Babylonia, Meitzer Ronah. In \norder to hide from her grandfather, previously she went by the alias \n\"Cecily Fairchild.\"\nAt one time, Berah was welcomed into the Ronah family as the \nfigurehead of Cosmo aristocratism, but she rejected this role. She \nspoke scathingly about Cosmo aristocratism and condemned Cosmo \nBabylonia to destruction. At one point, she was almost assassinated \nafter she learned of the existence of Jupiter Empire, and in order to \nprotect her from further attempts, it was officially reported that \nshe had died in an accident.\nMore than anyone, the thought that a large number of people could \npotentially lose their lives due to the whims of just a few people \nweighed heavily on Berah's mind. This led her to choose to fight for \nthe people, sacrificing herself for the good of many and establishing \nthe space pirate group, Crossbone Vanguard.\nPerhaps influenced by her father, who was a baker, Berah typically \nlikes to bake bread to relieve stress. At the end of the Jupiter War, \nshe and Kincade Nau decided to go back to using their real names and \nreturned to live on Earth.",
+   "desc2": "\nEventually she opened a bakery and had a child with Kincade.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 10,
+   "id": 99,
+   "flag": 4294967295,
+   "term": "Bealians",
+   "series": "Super Machine Zambot 3",
+   "desc": "Immigrants from the planet Beal which was destroyed by Gaizok 200\nyears ago. The survivors created the interstellar immigration ship\nKing Beal along with Zambot 3. After departing to find a new home,\nthey arrived on Earth. The Jin family are descendants of the Bealians\nwho managed to make it to Earth.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 11,
+   "id": 86,
+   "flag": 4294967295,
+   "term": "Bonta-kun",
+   "series": "Full Metal Panic!",
+   "desc": "The name of the mascot character of the amusement park Fumofumo Land, \nbut the term is typically used to refer to the character \ncostume-shaped miniature AS that Sousuke modified and uses. The scar \non its left cheek, similar to Sousuke's, differentiates it from the \nreal Bonta-kun. \nSousuke goes on to put this unit into mass production for use by\nmilitary and police forces. It was a revolutionary high-tech piece of\nequipment, but unfortunately never saw a high number of sales.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 12,
+   "id": 46,
+   "flag": 4294967295,
+   "term": "Big Brother",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "The original Lockon Stratos and the elder twin brother of the current \nLockon. He was the pilot of Gundam Dynames, and his full name was \nNeil Dylandy. He lived until the age of 24. \nAs the eldest, he took good care of others, which led to his downfall.\nHe acted as coordinator for Setsuna and the Gundam Meister, who lacked\ncooperative skills. \nThis way of life had various repercussions for Setsuna, Tieria, and \nother Celestial Being members.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 13,
+   "id": 13,
+   "flag": 4294967295,
+   "term": "Boson Jump",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "An instantaneous means of travel that utilizes ancient Martian \nsuper-technology. Although it was originally a method of travelling \nthrough time and space, time travel can still not be controlled.\nTo perform a jump, a Class-A Jumper is required, or Chulips must be \npresent at both entry and exit points. Matter that jumps is \ntransformed within the Boson Jump field into boson particles, matter \nwith the property of being able to reverse time. Boson particles pass \nbackwards through time and arrive at ancient Martian ruins. There, \nthe matter is reconverted to boson particles and departs for the \nfuture. After reappearing randomly in ordinary space, it resumes its \noriginal state. \nThe Calculation Unit that was located in Martian Polar Cap Ruins \ncontrols all Boson Jumps. Even if the Calculation Unit is not \navailable, a jump is possible as long as it exists somewhere.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 14,
+   "id": 144,
+   "flag": 4294967295,
+   "term": "Char",
+   "series": "Mobile Suit Gundam: Char's Counterattack",
+   "desc": "Former commander of Neo Zeon. His full name is Char Aznable.\nHis real name was Casval Rem Deikun, and he was the posthumous child \nof Zeon Zum Deikun, who was assassinated by the Zabi family. Known as \nthe Red Comet during the One Year War, he was famous for his \nstrategic prowess and superior mobile suit operation. In the Gryps \nConflict, he used the alias \"Quattro Bajeena\" and fought to overcome \nthe Titans, but in the struggle over the Colony Laser, he vanished \nfollowing a one-on-one battle with Haman.\nHowever, three years after the First Neo Zeon War, he reappeared near \nEarth as leader of the revived Neo Zeon. The Spacenoids, who were \nsuffering under the oppressive Earth Federation, welcomed him \nenthusiastically and many colonies cooperated with Neo Zeon.\nAs commander of Neo Zeon, he engaged in political negotiations and \nplots in his struggle against Earth Federation. However, he still had \nfeelings for Lalah Sune and therefore hoped to bring his 14 year \nrivalry with Amuro to a conclusion.\nHe decided upon military action to cause a nuclear winter that would \nremove humanity from Earth. The final showdown with Amuro took\nplace on Axis, which was at that moment free-falling to Earth. However,\nat some point, they were both bathed in Psychoframe light; no one\nknows their current whereabouts.",
+   "desc2": "",
+   "desc2_mode": "shared"
+  },
+  {
+   "idx": 15,
+   "id": 17,
+   "flag": 4294967295,
+   "term": "Chulip",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "Refers to enormous ruins left by ancient Martians. Used as entry and \nexit points for Boson Jumping, Chulips make it possible for someone \nwithout jumping ability to perform a Boson Jump (however, living \norganisms must protect themselves by using a Distortion Field). \nThe name Chulip is an acronym of the phrase, \"Cellular Hangover from \nUnknown Labyrinthine Intelligence of Prehistorical age.\"",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 16,
+   "id": 27,
+   "flag": 4294967295,
+   "term": "Coordinators",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "The name given to humans born after undergoing genetic manipulation \nat the embryonic stage to enhance their intelligence and physical \nstrength. Their existence became known in CE 15 after a worldwide \nbroadcast where George Glenn revealed that he was the first \nCoordinator.\nThey are born in possession of many superior physical and mental \nqualities. However, whether or not those abilities reach fruition \nvaries according to the environment in which they are raised. Many \nCoordinators live in the PLANTs, but occasionally Coordinators and \nNaturals (humans who have not undergone genetic modification) live \ntogether openly in neutral nations and lunar cities.\nThose born to Natural parents following genetic manipulation are \ndescribed as first-generation Coordinators; in turn, their children \nwill be second-generation Coordinators. The birth-rate among \nCoordinators is declining, presenting the Coordinator population with \na serious problem.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 17,
+   "id": 0,
+   "flag": 4294967295,
+   "term": "Cosmo Babylonia Wars",
+   "series": "Mobile Suit Crossbone Gundam",
+   "desc": "A series of wars that took place between Cosmo Babylonia and the \nEarth Federation. Meitzer Ronah, the founder of Cosmo Babylonia, was \na supporter of aristocratism and believed that \"the nobles should be \nthe ones to lead the masses.\" In an effort to realize this belief, he \nestablished a private army, referred to as the Crossbone Vanguard, \nand used it to take control of Side 4, proclaiming the founding of \nCosmo Babylonia.\nThe Earth Federation dispatched forces to suppress this revolt; \nhowever, they were overwhelmed due to their lack of fighting \nexperience stemming from a long period of peace. However, Berah \nRonah, the granddaughter of Meitzer Ronah and figurehead of the \norganization, spoke to the people to denounce aristocratism, which \ncaused support for Cosmo Babylonia to lose its momentum, and the wars \ndrew to a close.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 18,
+   "id": 61,
+   "flag": 4294967295,
+   "term": "Crimson Group",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "A major munitions manufacturing group. They are at the core of the \nanti-Nergal firms and are the instigators of the Hisago Plan, having \nbeen closely involved in the plan from the planning stages.",
+   "desc2": "\nTheir true aim is to have a political and economic monopoly, and they \nhave been in contact with Kusakabe since the Lizard War.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 19,
+   "id": 91,
+   "flag": 4294967295,
+   "term": "Fought in Odaiba",
+   "series": "Full Metal Panic!",
+   "desc": "An incident that befell Odaiba at the hands of the terrorist group\nA-21. \nEnormous Lambda Driver-equipped Behemoth AS units were wreaking \nhavoc, but Sousuke showed up in the Arbalest and defeated them, \ncrushing A-21. During this battle, Tessa declared her and Kaname to be\nat war over Sousuke's heart.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 20,
+   "id": 129,
+   "flag": 4294967295,
+   "term": "Battle in Dakar",
+   "series": "Original",
+   "desc": "The Battle in which Neo Zeon and Londo Bell launched an attack on the\nEarth Federation assembly being held in Dakar, just days after\nHathaway and Banagher had met the Neo Zeon solider Loni Garvey.\nBanshee's G-Hound intervened, splitting the battle three ways, but with \nSousuke and his newly obtained ARX-8 Laevatein, Londo Bell won the\nbattle in the end. \nMeanwhile, while watching the battle play out on scene with Kaname,\nLeonard reveals to her that she is the cause of the whole Newtype\ntragedy.",
+   "desc2": "The Battle in which Neo Zeon and Londo Bell launched an attack on the\nEarth Federation assembly being held in Dakar, just days after\nHathaway and Banagher had met the Neo Zeon solider Loni Garvey.\nBanshee's G-Hound intervened, splitting the battle three ways, but with \nSousuke and his newly obtained ARX-8 Laevatein, Londo Bell won the \nbattle in the end. \nMeanwhile, while watching the battle play out on scene with Kaname,\nLeonard reveals to her that she is the cause of the whole Newtype\ntragedy because of the Psycommu technology that Kaname Sagara, her\ndouble from a parallel world, possesses.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 21,
+   "id": 146,
+   "flag": 4294967295,
+   "term": "Don Zauser",
+   "series": "The Unchallengeable Daitarn 3",
+   "desc": "The leader of the Meganoids. Bestows praise by exclaiming,\n\"Aora! Don Zauser!\"\nHis exposed brain and metallic body set him appart in appearance from any\nof the other Meganoids.\nHe aims to turn humans into Meganoids, then to forge an everlasting\nprosperity by conquering the universe. However, he is in a state of\nunconsciousness, and so must command the Meganoids through Koros,\nwho shares his vision.\nKoros' defeat caused him to awaken full of rage. He transformed into a\ngiant and chased after the Daitarn 3, but was ultimately defeated by\nBanjo's wrath.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 22,
+   "id": 39,
+   "flag": 4294967295,
+   "term": "Dragons",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "Gargantuan aggressive creatures that came from Singular, a gateway to\nanother dimension. Numerous types have been discovered, with the\nsmaller ones ranging from 15-20m and the larger ones spanning over\n100m from head to tail. \nArzenal was founded to fight off these Dragons, and all Norma are\nfated to a life of battle against them.",
+   "desc2": "\nIt is later revealed that these creatures are humans from Earth who \nhave altered their genes in order to survive the conditions on their \nworld. The men became huge Dragons that are able to absorb Dracunium \ncrystals, purifying them within their bodies, and the women became \nsmaller Dragons that give birth to and raise children while working \nto recreate their world. Female Dragons look like human women, but \nthey have wings and a tail, and they are able to fly.\nThe original Dragon, Aura, was captured and held prisoner by Embryo,\nand the Dragons put their everything into freeing her, eventually\nleading Salamandinay to join forces with Ange and the Norma, fighting\nside by side in battle.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 23,
+   "id": 44,
+   "flag": 4294967295,
+   "term": "Durandal",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "Former PLANT Supreme Council Chairman. Unlike the previous Chairman, \nPatrick Zala, Durandal belonged to a moderate faction which sought \npeaceful coexistence with Naturals. At the time of the Junius Seven \nincident and during the later battle with the Earth Alliance, he \ndisplayed outstanding leadership, always making level-headed \ndecisions.\nMeer Campbell was suggested as a double for Lacus Clyne to bolster \nthe fighting spirit of the PLANTs as a whole, but the secret plan to \nassassinate Lacus was leaked to the public, causing distrust among \nKira and his associates.\nDurandal's ultimate aim was to realize his \"Destiny Plan,\" in which \nhe would construct a regulated society where people were controlled \nat a genetic level. After defeating Logos, he introduced his plan to \nthe world, pushing for its implementation. However, Kira and his \ncolleagues opposed the idea of a world in which there would be no \nevolution and successfully prevented the plan from being carried out.\nEventually, Durandal was shot by Rey Za Burrel, who he had thought of \nas his own son. He took his last breaths in the arms of his former \nlover, Talia Gladys, who, although they had separated, still had \nfeelings for him.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 24,
+   "id": 40,
+   "flag": 4294967295,
+   "term": "Airia",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "A sport from the world of Cross Ange in which two teams face off\nto try and score points by getting the ball in the other's goal. The \nplayers play in pairs, with two people riding each of the \nmotorcycle-like machines that fly using Mana. One player pilots while \nthe other uses a stick to carry the ball. \nPrincess Angelise paired with Momoka and was one of the sport's star\nathletes.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 25,
+   "id": 68,
+   "flag": 4294967295,
+   "term": "ECOAS",
+   "series": "Mobile Suit Gundam Unicorn",
+   "desc": "A special task force established by the Earth Federation Forces. Its \nmain duties are subversive activities, infiltration, and \nneutralization.\nMembers are selected based on their ability to perform missions \nregardless of the nature of the operation or the location. They must \nalso have no scruples about the means required to perform their \nduties.\nDepending on the nature of the mission they have been entrusted with, \nthey might need to use force or operate solo. This has led other \nFederation task forces to view them as shady and untrustworthy.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 26,
+   "id": 125,
+   "flag": 4294967295,
+   "term": "ELS",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "As living metal beings who came from deep space, ELS is an \nabbreviation of \"Extraterrestrial Living-metal Shape-shifters.\" \nThey have the ability to attach themselves to humans operating \nmachinery, turning them into metal and assimilating the people and \nweapons they invade. They are also attracted to quantum brainwaves. \nThe ELS are a colony of organisms and do not possess an individual \nidentity.",
+   "desc2": "\nThrough conversation with Setsuna, they came to understand that \nEarthlings existed based upon an \"ego,\" then reconfigured into the \nshape of a flower and ended hostilities. Thereafter, the ELS co-existed\nwith humans and were a powerful force in human advancement \ninto deep space.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 27,
+   "id": 106,
+   "flag": 4294967295,
+   "term": "ERS-100",
+   "series": "Original",
+   "desc": "A system developed by the Lunar Special Tactical Lab. It was sent to\nthe Earth's 3rd Special Tactical Lab where it was planned to be put\ninto operation. \nThe whole system is small enough to fit in a carry-case, and while\nthe details surrounding it are a bit of a mystery, it is said to be\nthe very thing that could save the Earth.",
+   "desc2": "Its name stands for Earth Regeneration System 100, and just as its \nname suggests, it is the core of a system meant to control a series \nof processes meant to reconstruct civilization from a devastated \nEarth. It was believed to have been developed by the Lunar Special \nTactical Lab, but was actually based on strange artifacts found at \nthe bottom of the dried-up sea, and it turns out to be a device from \nthe Super Civilization Gardim's Civilization Reconstruction System, \nNevanlinna. \nERS-100 was sent to Earth's 3rd Special Tactical Lab and was planned \nto undergo further research, but was instead sent with Yamato \nto Earth as the control OS for the VangRay. Feeling like an \nincomplete version of itself, it began referring to itself as System \nNine-Nine, and then by the name Nine when it acquired an android \nbody.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 28,
+   "id": 77,
+   "flag": 4294967295,
+   "term": "AEUG",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "A resistance movement formed to fight the Titans' privatized Earth \nFederation Forces. Their full name is the Anti-Earth Union Group. \nThrough collaboration with companies such as Anaheim Electronics and \nLuio Company, and under the leadership of Brigadier General Blex \nForer, who had strong ties with political and business circles, the \ngroup is able to command a certain amount of power, both in military \nand political circles.\nBecause they were a division of the Earth Federation Forces, like the \nTitans, the majority of soldiers are Federation military. When they \nbattled the Titans, therefore, it was as if the Earth Federation \nForces had turned on itself.\nAt the time of the theft of the test MS Gundam Mk-II on Gryps, the \npreviously minor skirmishes with the Titans escalated into full-scale \nconflict.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 29,
+   "id": 88,
+   "flag": 4294967295,
+   "term": "Fairy's Eyes",
+   "series": "Full Metal Panic! (Original Novel Version)",
+   "desc": "Observational equipment for the Lambda Driver developed by Mira\nKudan. When equipped on an AS, the outside monitor acquires a\ngreen filter and utilizes different shades to display the effective\nrange, strengths, and weaknesses of other Lambda Driver-equipped\nunits. This allows the unit to fully comprehend an enemy's Lambda\nDriver abilities, reading their movements and allowing them to attack\nfrom effective distances and locations, and finally making it\npossible to take them down even using M9 units.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 30,
+   "id": 113,
+   "flag": 4294967295,
+   "term": "Four",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "A human who underwent artificial enhancements at Murasame Research \nLab. Her full name was Four Murasame, and she was a Psycho Gundam \npilot with the nominal rank of ensign.\nFour had a cheerful and lively personality normally, but when she was \nin the Psycho Gundam, she was badly affected by the psycho-control \nwaves and experienced both intense headaches and fits of insanity.\nSomething caused her to lose her past memories, a fact which pains \nher deeply, causing her to fall into insolent rages at times. Four is \nnot her real name: she was called that simply because she was the \nfourth experiment at the Murasame Research Lab. Four believed that if \nshe defeated Gundam Mk-II, she would recover her memories, and this \nbelief spurred her to endure the headaches as she fought in the \nPsycho Gundam.\nAfter meeting Kamille Bidan, she had her first experience of human \nwarmth and friendship. However, she was greatly disturbed upon later \nlearning that he was a Gundam Mk-II pilot. Despite this, she was \neventually able to free herself from her mental curse, and she \nsacrificed herself to protect Kamille, dying in the crossfire of \nbattle.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 31,
+   "id": 142,
+   "flag": 4294967295,
+   "term": "First Neo Zeon War",
+   "series": "Mobile Suit Gundam ZZ",
+   "desc": "Fighting between the Neo Zeon group, led by Haman Karn, and the \nFederation Forces.\nTaking advantage of the weakness of the Federation, which had lost \nits military strength in the Gryps Conflict, Axis, part of the Zeon \nRemnants, took on the name \"Neo Zeon\" and sent a detachment to \nsuppress the colonies. In the beginning of the war, Neo Zeon had the \nadvantage. However, Glemy Toto, a Neo Zeon officer, suddenly declared \nhimself the true successor of Zeon, and, in a surprise move, carried \nout an attack to take control of Axis, turning everything on its head.\nA struggle arose between Glemy and Haman, which led to Neo Zeon \nlosing its Axis base and caused many to suddenly defect to the \nFederation. Later, the leaders of both forces, Glemy and Haman, \nbanded together to attack the Gundam team of Nahel Argama. Neo Zeon \nthen collapsed as an organization, and the First Neo Zeon War drew to \na close.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 32,
+   "id": 30,
+   "flag": 4294967295,
+   "term": "Gaizok",
+   "series": "Super Machine Zambot 3",
+   "desc": "An alien who plans to annihilate all Earthlings. After he destroyed \nPlanet Beal 200 years ago, he fell into a long slumber then reawoke \nwhen he approached Earth's atmosphere. In order to eradicate the \nEarthlings, whom he deemed to be evil creatures, he ordered Butcher to\nbegin attacking Earth. His true identity is actually a computer \ncreated by the Gaizokians that responds to creatures with evil \nthoughts. Even after Kappei defeated him, he kept asking whether \nEarthlings were really worth protecting right up to the end.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 33,
+   "id": 124,
+   "flag": 4294967295,
+   "term": "Gatrantis",
+   "series": "STAR BLAZERS 2199",
+   "desc": "A nation that is at war with the Great Gamillan Empire. They are\ncurrently fighting in the Small Magellanic Cloud.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 34,
+   "id": 123,
+   "flag": 4294967295,
+   "term": "Genki",
+   "series": "Getter Robo Armageddon",
+   "desc": "Dr. Saotome's daughter. When her father was killed in front of her \neyes, she closed up her heart. After the world was polluted by the \nGetter Rays, Benkei gave her a new name, \"Kei,\" to protect her from \nthe people who hated Dr. Saotome, and raised her as his own daughter.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 35,
+   "id": 48,
+   "flag": 4294967295,
+   "term": "Gekiganger",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "An exciting anime about robots created in the late 21st century. Its \nofficial title was \"Gekiganger 3\" (however, from the 27th episode, \nthe name changed to \"Hot-Blooded Robots—Gekiganger 3.\") \nThe show revolved around giant robots that were able to combine into \nthree different forms, and who fought against the Kyo'akk Empire that \nplanned to invade the Earth. The story spanned a total of 39 \nepisodes. It was one of the few items of visual media that people \nwere able to bring with them when escaping from the moon to Jupiter, \nand it has now become somewhat of a national treasure in the Jovian \nFederation. \nReruns can still be seen on Earth as well, and the series enjoys a \ncult following with some anime fans.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 36,
+   "id": 51,
+   "flag": 4294967295,
+   "term": "Gengoro",
+   "series": "Super Machine Zambot 3",
+   "desc": "His full name is Gengoro Jin. Once the Fishermen's Boss at Jin \nFishery in Suruga Bay, after Beal I was discovered, he became its \ncaptain and assumed the role of battle commander. Although he's a \nstrict man, he loves his wife and children very much and is a true \nman of the sea who's brimming with manliness and magnanimity. Since \nhe had to leave home a lot for deep-sea fishing, he truly values any \nchance he gets to spend time with his family. He sacrificed himself \nto take out Red Knight Deathcain and Blue Knight Helldyne in order to \nprotect his wife.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 37,
+   "id": 60,
+   "flag": 4294967295,
+   "term": "GN-X",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "Mobile suits equipped with an artificial solar furnace. Pronounced \n\"Jinx.\" \nA total of 30 were provided to the three world powers by defectors \nfrom Celestial Being before the establishment of Earth Federation. \nThe mobile units were built to be practical and eliminated \ncustomization as much as possible. Consequently, while they were \ninferior, under certain conditions, such as in limited combat, they \nwere an even match for the Gundams of Celestial Being. The cockpits \nwere simple, and anybody with some experience piloting a mobile suit \ncould operate one. This was because they were designed so that pilots \nof the Union, AEU, and HRL could operate them.\nGN-X were supplied to United Nation Forces, who drove Celestial Being \nto its destruction. Of the 30 identical GN drives, one fell into the \nhands of Graham Aker, and was placed on his Union Flag Custom. \nTherefore, only 29 actually took part in battle.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 38,
+   "id": 70,
+   "flag": 4294967295,
+   "term": "Glemy",
+   "series": "Mobile Suit Gundam ZZ",
+   "desc": "The person who instigated a rebellion against Haman Karn at the end \nof the First Neo Zeon War. His full name was Glemy Toto.\nHe was the master of Elpeo Ple and the Ple Series, and used them to \nform a Newtype squad in an effort to control Neo Zeon. However, he \nwas eventually attacked by the Zeta Gundam piloted by Roux Louka and \ndied.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 39,
+   "id": 140,
+   "flag": 4294967295,
+   "term": "Gryps Conflict",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "A war that began after the theft of Gundam by AEUG in UC 0087. It \nwas initially a conflict between AEUG and the Titans, who were \nstrengthening their suppression of the Spacenoids, but later Axis, \nwho were supporting the restoration of the Principality of Zeon, \njoined to make it a three-way battle.\nBecause Titans Commander Jamitov Hymen had control over the \nFederation Forces and government, the Titans enjoyed an early \nadvantage for a time. But later, after the speech at Dakar, the \nbrutality of the Titans was revealed, and AEUG gained the upper hand.\nAEUG then seized the Colony Laser, the ultimate weapon of the Titans. \nThis was a decisive factor in their victory and in the annihilation \nof the Titans fleet; however, Axis saw that they were at a \ndisadvantage and withdrew from the final battle over the Colony \nLaser, conserving their military force. Instead of ending with that \nbattle, the conflict developed into the First Neo Zeon War.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 40,
+   "id": 126,
+   "flag": 4294967295,
+   "term": "Gate of Geshu Tam",
+   "series": "STAR BLAZERS 2199",
+   "desc": "A wormhole opening created by the prehistoric civilization, Aquarius.\nThe Earthlings call it a Subspace Gate. It's controlled by a system\nsatellite that administers the gate, and passing through it allows\nfor quick travel across extremely long distances.",
+   "desc2": "\nCurrently, Gamillas controls it, and has created a Subspace Gate\nNetwork centered around the planet Balun. By using two gates\nlocated in the Milky Way and the Large Magellanic Cloud, the\nYamato was able to make up for the lost time on their voyage.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 41,
+   "id": 135,
+   "flag": 4294967295,
+   "term": "The Gatrantisians",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The people of Gatrantis. They are aggressive, and the Gamillans call\nthem barbaric. They invaded Gamillan territory and continued to\nfight with Gamillas in the Small Magellanic Cloud, until Domel's\nSmall Magellanic Region Army destroyed 70% of their outpost fleet.",
+   "desc2": "\nIn previous battles, all prisoners of war taken by Gamillas were\nsent to the 17th Detention Center on Planet Leptaporda, where they \nwere under the control of the center's head officer. Later, during an \nuprising, the prisoners' anger exploded and they displayed their \nmonstrous strength by tossing Gamillan mechanical soldiers into the \nair.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 42,
+   "id": 94,
+   "flag": 4294967295,
+   "term": "Gavin Hunter",
+   "series": "Full Metal Panic! The Second Raid",
+   "desc": "A member of Mithril's intelligence division in Hong Kong. Looking\nlike nothing more than your average businessman, he works as a trader\nfor cover. During Sousuke's and the others' operations in Hong Kong, \nGavin provided them with the information and commodities they needed.",
+   "desc2": "\nEven after the destruction of Mithril, Gavin fled from the sights of\nAmalgam, and along with Al and Miller, he worked on constructing the\nARX-8 Laevatein, continuing the fight against them.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 43,
+   "id": 141,
+   "flag": 4294967295,
+   "term": "Haman",
+   "series": "Mobile Suit Gundam ZZ",
+   "desc": "Leader of the resource asteroid, Axis, where the remnant of the \nPrincipality of Zeon forces gathered. Her full name was Haman Karn.\nShe helped Mineva, the eight-year-old orphan of Dozle Zabi, and led \nthe entire Axis forces as director. She had a relentless and \nmerciless personality.\nHaman supported the restoration of Zeon and raised Axis forces \ncomparable to the Titans and AEUG, who had been in hiding on an \nasteroid. She also possessed great political skill, as well as being \nan extremely advanced Newtype who piloted the mobile suit Qubeley, \ndisplaying overwhelming strength in battle.\nAfter the Gryps Conflict, she took advantage of the weakened Earth \nFederation Forces, raising the flag of Neo Zeon and becoming their \nactual leader. Later, she tried to take Federation Council in Dakar \nthrough a bloodless coup, but due to the internal struggles with \nGlemy's faction, her aspiration was not realized. Finally, she lost \nto Judau's ZZ Gundam in one-on-one battle, and was fatally wounded.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 44,
+   "id": 20,
+   "flag": 4294967295,
+   "term": "Omoikane",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "The main computer in the Nadesico series. Its official name was \n\"SVC2027.\" It was installed in Nadesico A, even during the Lizard \nWar. When Nadesico A was sent far away together with the Calculation \nUnit, Omoikane was removed and later installed in Nadesico B.\nAlthough it was a computer, it possessed an ego and developed a \nstrong bond of friendship with Ruri Hoshino.",
+   "desc2": "\nLater it was transferred to Nadesico C, and with Hari Makibi and\nthe rest to greet Rui. After making a Boson Jump over the Martian Polar\nCap Ruins under the navigation of Inez Fressange, Omoikane managed\nto gain control of all enemy systems in the Martian sector with Ruri.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 45,
+   "id": 6,
+   "flag": 4294967295,
+   "term": "100 Years Ago",
+   "series": "Original",
+   "desc": "100 years ago, the New Correct Century year 2100, was the peak\nin the battle between the Earthnoids and Spacenoids, which had\nstarted with the One Year War. \nLegend has it that it all came to an end with Char's Rebellion, but\nwhat followed was the Lost Decade, in which most records over nearly\nten years were lost. Many believe that during these ten years\nanti-federation organizations continued to launch terrorist attacks\nuntil the climactic and tragic Mufti Incident brought the wars to an\nend. But with the onslaught of the Gamillan attacks on Earth, there\nare few who have time to worry over matters of history, and most\nwidely distributed information is often far from the truth.",
+   "desc2": "\nResearch later goes on to show that this \"Lost Decade\" was actually\na planned falsity by the Earth Federation Government, which feared\nthe influence of the Charter of the Universal Century.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 46,
+   "id": 75,
+   "flag": 4294967295,
+   "term": "Battle of Hong Kong",
+   "series": "Full Metal Panic! The Second Raid",
+   "desc": "The battle in which the ARX-7 Arbalest single-handedly took down five\nPLAN-1059 Chodar C units. \nBefore the battle, Sousuke had seemingly given up all hope for various \nreasons. He thought Kaname had died right in front of his eyes, but when \nshe shows up again, he gets ahold of himself, and with her to motivate \nhim, he returns to his normal soldier self. After Kaname points out a \nnumber of his shortcomings, Sousuke finally accepts his AI partner Al, and \nthe two work in unison. As a result, the Lambda Driver's powers were \nfinally unlocked to their maximum potential, allowing them to take down \nthe five Chodar units and Gates.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 47,
+   "id": 57,
+   "flag": 4294967295,
+   "term": "Sozo Haran",
+   "series": "The Unchallengeable Daitarn 3",
+   "desc": "Banjo Haran's father. He has earned Banjo's undying hatred for \ncreating the Meganoids and sacrificing his own wife and son to his \nresearch. No one knows what has happened to Sozo since then.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 48,
+   "id": 10,
+   "flag": 4294967295,
+   "term": "Heliopause",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The edge of the boundary to the Solar System, which is created from\nthe sun's winds knocking interstellar matter into magnetic fields.\nSince traversing the Heliopause prevents ships from communicating with\nthe Earth, those who requested it were allowed to speak with their\nfamilies one last time.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 49,
+   "id": 14,
+   "flag": 4294967295,
+   "term": "Hisago Plan",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "This was a plan to build a network within the Solar System to ensure \nstable Boson Jumping. The network would comprise of 30 large Terminal \nColonies and countless small colonies, forming a complete route \nbetween Earth and Mars. The bases were Chulips left by the ancient \nMartians, and a Chulip was used as the core of each Terminal Colony. \nThe basic concept involved someone entering a Chulip, making a Boson \nJump, then emerging from another Chulip; however, it is not possible \nto move freely between Chulip. Instead, it is only possible to jump \nbetween connected entrances and exits. \nHowever, it will first be necessary to investigate the relationships \nbetween Chulips before they can be placed strategically throughout \nthe Solar System.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 50,
+   "id": 49,
+   "flag": 4294967295,
+   "term": "Heizaemon",
+   "series": "Super Machine Zambot 3",
+   "desc": "Keiko's grandfather. His full name is Heizaemon Kamikita. He's \nessentially the elder of the Jin family and has unified his clan in \nthe battle against Gaizok through his powerful will and beliefs.\nHe's cousins with Ume, who proves to be a reliable advisor, and is \nthought to have gotten along quite well with her due to the fact that \nhe sent her a teacup when he was young. In his final moments, he \nlaunched an assault on Bandock with Beal II in order to save King \nBeal and left the rest to the younger generation.\nHe's the narrator in the anime's next episode previews and always \nended them with, \"Now, how are they going to fight themselves out of \nthis one?\" After he launched his special assault, he even narrated \nhis own actions in third person with, \"Well, how is he going to \nhandle this fight?\"",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 51,
+   "id": 58,
+   "flag": 4294967295,
+   "term": "Ichitaro",
+   "series": "Super Machine Zambot 3",
+   "desc": "Kappei's older brother. His full name is Ichitaro Jin. Contrary to \nhis younger brother, he's serious and mild-mannered and acted as \nbattle commander for King Beal and Beal I. He has very sharp \nobservation skills and discovered Zambot 3's combination system. When \nthis happened, he stopped the Zambo Ace in order to warn Kappei's \ngroup since they weren't coming to an agreement and said, \"If we \ncan't fight with Kappei, who has no sense of solidarity, then there's \nno point in the Jin family going on living. Let's die together.\" This \ndaring, yet clever threat succeeded in forcing them to combine.\nIchitaro managed to survive the battle with Gaizok and used Beal I to \nslow down the Bandock when he was charging into the atmosphere. \nThen, in order to save Kappei, who was still inside, he sacrificed himself\nand disappeared in the explosion.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 52,
+   "id": 59,
+   "flag": 4294967295,
+   "term": "Enact",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "The forefront of AEU mobile suits at the time when Celestial Being first\nbegan its armed intervention. \nIt was a solar energy model whose key feature was to be able to accept\na supply of power from the orbital elevator's generation system. It\ntheoretically had an unlimited operational time, excluding external\nfactors such as ammunition and propellant. It was developed based on\nUnion Flag and therefore had many similarities in features such as\nstructural transformation and weaponry. \nAEU's ace pilot Patrick Colasour operated the finished unit for its \nlaunch and demonstration; and though he gave a high spirited \nperformance, Enact was heavily damaged by the Gundam Exia piloted\nby Setsuna.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 53,
+   "id": 66,
+   "flag": 4294967295,
+   "term": "Industrial 7",
+   "series": "Mobile Suit Gundam Unicorn",
+   "desc": "A colony owned by Anaheim Electronics. The colony even includes a \nshopping area and the Anaheim Industry Technical School, but various \nparts are still under construction, so construction machinery are \nconstantly working away.\nMegalanica, a colony builder, is stationed there, as well as the head \nof the Vist Foundation, Cardeas Vist, who has his home there.",
+   "desc2": "\nIn a battle between the Earth Federation Forces and Sleeves, \nIndustrial 7 suffered major damage, but Megalanica was unaffected, \nand Laplace's Box was concealed there.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 54,
+   "id": 52,
+   "flag": 4294967295,
+   "term": "Inez",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "The woman in charge of medicine and science on Nadesico A. Her full \nname was Inez Fressange. She came from Mars, and was rescued by \nNadesico A as a Martian refugee. \nInez was a rare example of someone with the ability of a Class-A \nJumper. She enjoyed explaining things to others, and she also created \nthe \"Nadesico What! & Why?\" programs that were broadcast on board \nNadesico A. After the end of the Lizard War, she stayed at Nergal \nHeavy Industries to continue her research; however, one day it was \nannounced that she had died in an plane accident.",
+   "desc2": "\nIn reality, Akatsuki spread this false rumor after he became aware \nthat the Martian Successors were abducting Class-A Jumpers.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 55,
+   "id": 139,
+   "flag": 4294967295,
+   "term": "Invaders",
+   "series": "Getter Robo Armageddon",
+   "desc": "Bacterial life forms that wander the galaxy. Getter Rays act as their \nmain source of energy. After some started leeching off the Getter \nRays that had been harvested on the moon, they were compressed at a \nhigh density in the Getter Core and evolved into three huge Parent \nInvaders.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 56,
+   "id": 131,
+   "flag": 4294967295,
+   "term": "Innovade",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "Information terminals designed to serve in Aeolia Schenberg's plan. \nThey have the same appearance as humans. \nWith the help of GN particles, they have responsive capabilities in \nthe use of quantum brainwaves and a link to the quantum supercomputer \nVeda. They also use gene manipulation and nano-machines to control\naging.\nRibbons Almark and the other Innovades awaited the day when \nInnovators would be the humans of the new age. Ribbons called himself \nan Innovator and tried to control humanity.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 57,
+   "id": 130,
+   "flag": 4294967295,
+   "term": "Elena",
+   "series": "Full Metal Panic! (Original Novel Version)",
+   "desc": "Kalinin's deceased wife who passed away more than ten years ago. \nWhile Kalinin was in the middle of combat operations in Afghanistan, \nshe was killed in a medical accident at the hands of her doctor, \ndying along with the child she was carrying.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 58,
+   "id": 72,
+   "flag": 4294967295,
+   "term": "Iron Mask",
+   "series": "Mobile Suit Crossbone Gundam",
+   "desc": "The alias of Carozzo Ronah, commander of the Crossbone Vanguard at \nthe outbreak of the Cosmo Babylonia Wars. He was the biological \nfather of Cecily Fairchild (Berah Ronah).\nHiding his weaknesses behind a metal mask, he enhanced his body in \norder to help realize Meitzer Ronah's ideals of aristocratism. As a \nresult, his body could travel in space, he could open the hatch of a \nmobile suit with his bare hands, and he could control mobile armor \nusing brainwaves.\nIn order to purge humans opposed to aristocratism, he secretly \nadvanced the Rafflesia Project, creating anti-human responsive \nexterminators, known as Bugs, and the mobile armor Rafflesia. After \ndispatching Bugs to Frontier I, which massacred the entire population \nthere, he piloted the Rafflesia and personally fought against Cecily \nand Seabook (Kincade Nau). A fierce battle ensued, and even though he \nmanaged to deal significant damage to the F91 piloted by Seabook, he \nwas destroyed in the confusion caused by physically manifested\nafterimages.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 59,
+   "id": 102,
+   "flag": 4294967295,
+   "term": "On That Island",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "Refers to an event where enemies Athrun Zala and Cagalli Yula Athha \nmet on a deserted island.\nWith their units broken, neither was able to leave the island and \nthey met on the shore. After a physical fight, Athrun took Cagalli \ncaptive, but he did not kill his prisoner, and they decided to spend \nthe night in a cave, awaiting rescue.\nCagalli, however, had other plans and seized the first chance she got \nto steal Athrun's gun, immediately shattering any fragile truces that \nthere had been previously. After they discussed their lives and \nfeelings, though, Cagalli found herself unable to shoot Athrun. \nSeeing this, Athrun put his knife away and the two waited for morning \nto come. The next day, when it became apparent that they would both \nbe rescued, they exchanged names for the first time before returning \nto their respective forces.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 60,
+   "id": 4,
+   "flag": 4294967295,
+   "term": "Jupiter War",
+   "series": "Mobile Suit Crossbone Gundam",
+   "desc": "A war that broke out in UC 0133 between Jupiter Empire, Earth \nFederation, and the space pirates, Crossbone Vanguard.\nAt the beginning of the war, when the Federation was unaware of the \nJupiter Empire's actions, only Crossbone Vanguard realized what was \ntruly happening and began to quietly make moves against them.\nHowever, after Dogatie declared a worldwide nuclear attack, the \nColony forces, who were taking a cautious approach with regard to the \nEarth Federation Forces, decided to join the fight, a move which led \nto all-out war against Jupiter Empire.\nIn the final stages of the war, the true Dogatie descended to Earth \nin the giant mobile armor Divinidad to pollute the planet with \nnuclear weapons. However, Tobia and Kincade pursued him, and put a \nstop to his plans. The war ended with the death of Supreme Leader \nDogatie.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 61,
+   "id": 12,
+   "flag": 4294967295,
+   "term": "Jovians",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "A nation of people who had been originally living on the moon. They \nfled to Jupiter fearing for their safety due to the increasingly \nnegative opinion of themselves held by those on Earth. Its official \nname was \"The Anti-Earth Jupiter Sphere Alliance of Ganymede, \nCallisto, Europa, and Other Planetoid Nations.\" \nThey were able to survive in the harsh Martian conditions by adopting \nthe super-technology left behind by the ancient Martians. The Jovian \nFederation also made use of this Martian technology to battle their \nenemy, and war erupted between the two planets. Eventually, however, \na peace treaty was signed and now they are also part of the Earth \nAlliance.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 62,
+   "id": 76,
+   "flag": 4294967295,
+   "term": "Kashim",
+   "series": "Full Metal Panic!",
+   "desc": "The name Sousuke went by as a child, given to him by the legendary\nleader of the Helmajistan guerrillas when the then eight-year-old Sousuke\nSagara tried to assassinate him. Sousuke and Gauron first met during\nthese times, and Gauron still calls him Kashim to this day, something\nhe absolutely detests.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 63,
+   "id": 95,
+   "flag": 4294967295,
+   "term": "Mira Kudan",
+   "series": "Full Metal Panic! (Original Novel Version)",
+   "desc": "Sousuke was tasked with looking after her before he was assigned to\nKaname. She is also one of the Whispered and was subjected to\nnumerous experiments before she was put under protection.",
+   "desc2": " \nMithril brought her in for rehabilitation and let her harness her \ntrue abilities. She then went on and contributed in large part to the \nconstruction of the ARX-8 Laevatein that Al designed, finally \nrepaying Sousuke for saving her.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 64,
+   "id": 67,
+   "flag": 4294967295,
+   "term": "Cardeas Vist",
+   "series": "Mobile Suit Gundam Unicorn",
+   "desc": "The second leader of the Vist Foundation. 60 years old. He was \nBanagher and Alberto's father, and the brother of Martha Vist Carbine.\nDetermined to fulfill the wishes of the first leader, Syam Vist, \nCardeas resolved to reveal the existence of Laplace's Box, so he used \nhis position as orchestrator of the UC Project to upload the Laplace \nProgram to the Unicorn Gundam.\nHe was a person who could do what was necessary with a strong \nconviction that his own actions were the right ones. However, because \nhe acted according to his own standards, he sometimes lacked \nconsideration for others. During the Industrial 7 War, he was shot by \nAlberto and suffered a fatal injury. Afterwards, he entrusted the \nUnicorn Gundam to Banagher and vanished in an explosion.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 65,
+   "id": 92,
+   "flag": 4294967295,
+   "term": "Kedora",
+   "series": "True Mazinger Edition Z: The Impact!",
+   "desc": "Machine creatures that were left behind by the Ancient Mycenaean \nEmpire. They possess battle-oriented minds and were programmed to \ndestroy all other civilizations.",
+   "desc2": "",
+   "desc2_mode": "shared"
+  },
+  {
+   "idx": 66,
+   "id": 42,
+   "flag": 4294967295,
+   "term": "Chris",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "Now deceased, she was the operator of Ptolemaios in battle. Her full \nname was Christina Sierra. \nShe was skilled in operating computers, high level programming, and \nhacking. She joined Celestial Being for the opportunity to use her \nskills, rather than because she supported their principles of \nconduct. \nShe had a vibrant personality. However, her psychological weakness \nwas that she lacked resolution in battle, thus she could be backed \ninto a corner and panic. \nUnder all-out attack by the United Nation Forces, she perished in an \nexplosion together with the helmsman of Ptolemaios, Lichty.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 67,
+   "id": 79,
+   "flag": 4294967295,
+   "term": "Battle at Kilimanjaro",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "Refers to the attack on the Titans' base at Kilimanjaro. Unforeseen \ncircumstances led Kamille and Quattro to descend to Earth and join \nthe battle. In the enemy's base, Kamille again met Four Murasame, the \nArtificial Newtype whom he had met previously in Hong Kong. Kamille \nhad tried to reconnect with Four, but as a result of further mental \nexperimentation, she considered him an enemy.\nDuring the battle, Four recovered her wits due to prompting from \nKamille and after being hit badly. She then stopped attacking \nKamille, but the moment they reconciled, Jerid Messa appeared to \nattack them in the Byarlant. Four protected Kamille, and was herself \nkilled.\nAs a result, Four's Psycho Gundam, which was invaluable to the enemy \nforces, was disabled, and owing to the action of the Karaba led by \nAmuro Ray, the Kilimanjaro base was destroyed.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 68,
+   "id": 112,
+   "flag": 4294967295,
+   "term": "The Laplace Incident",
+   "series": "Mobile Suit Gundam Unicorn",
+   "desc": "A terrorist bombing that took place at the residence of the Earth \nFederation prime minister in the year UC 0001.\nDuring a ceremony marking the end of the AD calendar and the start of \nthe Universal Century, as well as the beginning of the space \ncolonizing business, Laplace suddenly exploded. The first prime \nminister, Ricardo Marcenas, died, together with several \nleaders and other important people from various countries, resulting \nin a disastrous beginning to the Universal Century. As a result, \nthere was a crack-down on anti-Earth Federation sentiment, and this \nlater impacted the birth of Zeon.",
+   "desc2": "\nOne of the terrorists involved in the plot was the young Syam Vist. \nHe saw the stone tablet of the UC Charter in the wreckage from the \nexplosion and decided to take it.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 69,
+   "id": 11,
+   "flag": 4294967295,
+   "term": "Lizard War",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "A war that occurred between the Earth Alliance and the Jovian \nFederation (official name, \"The Anti-Earth Jupiter Sphere Alliance of \nGanymede, Callisto, Europa, and Other Planetoid Nations\"). The first \nconflict occurred in AD 2195 and is known as the First Battle of Mars. \nAlthough commonly referred to as the Lizard War, it was not \ntechnically a war, but rather a series of conflicts.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 70,
+   "id": 145,
+   "flag": 4294967295,
+   "term": "Mufti Incident",
+   "series": "Mobile Suit Gundam: Hathaway's Flash",
+   "desc": "A series of plots designed to rebel against the Earth Federation, \nled by Hathaway Noa, alias \"Mufti Nabiyu Erin.\"\nAlthough his purge of corrupt Federation Congress officials amounted \nto terror, the plots were supported by the public, who disliked the \noppressive government.\nEventually Hathaway, as leader of the organization, was executed by \nthe government, and the anti-Federation movement died with him.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 71,
+   "id": 41,
+   "flag": 4294967295,
+   "term": "Mail Riders",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "The term used to describe the pilots of Para-Mail, often simply \nshorted to \"rider.\" All riders are based out of Arzenal and they\nthemselves are considered weapons that wield Para-Mail. \nThey typically are granted no personal freedoms, but they are \nafforded a semblance of financial freedom in that they are allowed to \nuse the money they earn from defeating Dragons to customize their \nunits or to buy their way out of penalties.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 72,
+   "id": 33,
+   "flag": 4294967295,
+   "term": "Mana",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "Highly advanced informational technology that allows everything to be\ncontrolled solely by thought. It allows willpower alone to interfere\nwith physical phenomenon, emit energy, control movement, and allow\naccess to shared data via an integrated system. \nIts use has resulted in a deeper ability for people to sympathize\nwith one another, eliminating poverty and inequality, creating a\npeaceful utopian world.",
+   "desc2": "\nIn reality, however, what at first appears to be the most perfect \nworld ever created, in fact draws its power from the Dracunium energy \nemitted by the imprisoned Aura, and the lack of poverty and \ninequality is really just an illusion crafted by Embryo, the creator \nof Mana.\nDevastated by how foolish humanity remained even after he granted \nThem the power of Mana, Embryo began working to fuse space-time to\ncreate a brand new world. When he began this space-time fusion, the\nwhole world was suddenly deprived of their access to Mana and thrown\ninto chaos.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 73,
+   "id": 56,
+   "flag": 4294967295,
+   "term": "Meganoid",
+   "series": "The Unchallengeable Daitarn 3",
+   "desc": "An army of cyborgs that rebelled and fought against humans. \nBanjo's father, Sozo Haran, originally created Meganoids to help \nexpand further into space, but they eventually developed their own \ninflated sense of self-worth, and under the lead of Don Zauser and \nKoros they attempted to turn all humans into Meganoids. \nThe Meganoid commanders use Macro Machines to transform into \nMegaborgs that tower over 100m tall.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 74,
+   "id": 62,
+   "flag": 4294967295,
+   "term": "M Operation",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The name of the plan that was used during the Battle in the Vicinity \nof Pluto, where UN Cosmo Navy First Fleet tried to take over the \nGamillas Pluto Frontline Base. It was actually a decoy meant to \ndivert the enemy's attention, and their true goal was to safely meet \ntheir Iscandarian visitor on Mars.\nAlthough Sasha, the visitor from Iscandar, died in an accident, Kodai\nand Shima, who had been waiting on Mars, managed to recover the wave\nmotion core she brought, allowing the M Operation to end successfully.\nBut it cost them a great sacrifice, and since their true goal was kept\ntop secret, many of the people who were involved in the mission,\nincluding Kodai's older brother Mamoru, died without ever knowing\nthe truth.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 75,
+   "id": 38,
+   "flag": 4294967295,
+   "term": "Mufti Nabiyu Erin",
+   "series": "Mobile Suit Gundam: Hathaway's Flash",
+   "desc": "An anti-Earth Federation organization. Also the name of its leader.\nThe name \"Mufti Nabiyu Erin,\" a neologism derived from numerous \nlanguages, means \"Righteous King of Prophets.\"",
+   "desc2": "\nHathaway Noa, son of Bright Noa, joined the organization and, as its \nleader, adopted the alias Mufti Nabiyu Erin.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 76,
+   "id": 36,
+   "flag": 4294967295,
+   "term": "Mithril",
+   "series": "Full Metal Panic!",
+   "desc": "A mercenary, anti-terrorism organization founded to preserve \npeace around the globe. Their name comes from the fantasy term for\nsilver, Mithril. \nTheir work consists not only of overthrowing and eradicating military\ndictatorships, but also protecting the Whispered. As such, they are\nequipped with weapons and armaments ten years more advanced than\nmost militaries and often get new equipment before it ever sees official\nmilitary adoption. \nMithril is made up of a Tactical Operations Division, Intelligence\nDivision, and Research Division, with the West Pacific Fleet's Tuatha\nDe Daanan belonging to Tactical Operations.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 77,
+   "id": 114,
+   "flag": 4294967295,
+   "term": "Conduit of the Mycenae",
+   "series": "True Mazinger Edition Z: The Impact!",
+   "desc": "The one who bears the duty of resurrecting the Mycenaean Gods. This \nrefers to Tristan and Isolde, the couple whose halves were merged to \ncreate Baron Ashura. By giving up their lives, they succeeded in \nresurrecting the Mycenaean Gods, but Ashura was hypnotized by Dr. \nHell to prevent suicide.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 78,
+   "id": 97,
+   "flag": 4294967295,
+   "term": "Mother's Betrayal",
+   "series": "Full Metal Panic! (Original Novel Version)",
+   "desc": "Leonard's mother betrayed her husband by having relationships with\nother men.\nWhen a burglar broke into Leonard’s home, his mother used him to protect \nherself. This incident deeply affected his personality.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 79,
+   "id": 98,
+   "flag": 4294967295,
+   "term": "Mermaid Festa",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "A public holiday on Arzenal, and the only day of the year that humans \nhave granted Norma as time off. All training is cancelled on this \nday, and everyone relaxes by participating in a grand sports \nfestival to win huge prizes, or by heading out to the gambling \nparlors and amusement parks. Traditionally, all participants in the \nsports festival wear bathing suits. \nSalia describes it the one day of the year that makes having to deal \nwith all the terrible things worth it.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 80,
+   "id": 25,
+   "flag": 4294967295,
+   "term": "\"Celestial Being\" The Movie",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "An action film made after the downfall of A-Laws. It contained much \npropaganda content, laying blame for the scandals of the Earth \nFederation upon A-Laws and those who were behind them, depicting \nCelestial Being as defeating them. The mastermind behind A-Laws was \nshown as Alejandro Corner, former United Nation ambassador, whose \nactions were controlled by the Innovade Ribbons Almark. \nRather than recounting events realistically, the film emphasized \nheroic aspects, and the Celestial Being members were depicted with \nfictional personalities. For those involved in the events depicted, \nthe over-acting and glorification were bittersweet.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 81,
+   "id": 96,
+   "flag": 4294967295,
+   "term": "Nami",
+   "series": "Full Metal Panic! (Original Novel Version)",
+   "desc": "Sousuke met her in Namusaku, South East Asia.\nIn order to raise funds to rebuild her broken-down village and her school, \nshe participated in the AS battle arena as team leader and mechanic of \nthe weak team \"Crossbow.\" She hired Sousuke to pilot the initial series \nSavage, and they developed a strong bond.\nShe did not undergo any special training, but has exceptionally profound \nknowledge of AS, which is why Sousuke suspects her of being a Whispered.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 82,
+   "id": 28,
+   "flag": 4294967295,
+   "term": "Naturals",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "Refers to humans who are born naturally, without having undergone \ngenetic modification. The term was coined when the first \nCoordinators, genetically modified humans, were created.\nMany Naturals harbor jealousy or even hatred towards the \nCoordinators, who possess superior capabilities. Also, many \nCoordinators are boastful about their abilities and look down on \nNaturals. As a result, some Naturals openly express their opposition \nto Coordinators, the most active of these being those who belong to \nthe group, Blue Cosmos.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 83,
+   "id": 18,
+   "flag": 4294967295,
+   "term": "Nergal",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "One of the largest industrial firms in the world. The current \npresident is Nagare Akatsuki. At the core of the company is Nergal \nHeavy Industries. \nThey were heavily involved in the development of Mars prior to the \nLizard War, and aimed to monopolize the remaining ancient Martian \ntechnology to increase their authority. As part of this plan, they \nbuilt and operated Nadesico. However, following the end of the Lizard \nWar, due to the promotion of the anti-Nergal Hisago Plan, they are \nnow likely to be wiped out.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 84,
+   "id": 84,
+   "flag": 4294967295,
+   "term": "NERV",
+   "series": "EVANGELION 1.0 YOU ARE (NOT) ALONE.",
+   "desc": "A secret anti-Angel military organization run by the U.N. with \nbranches in each country. Its headquarters are located in Japan's \nTokyo-3, led by Commander Gendo Ikari and Vice Commander Kozo \nFuyutsuki. Very little else about the organization is known.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 85,
+   "id": 34,
+   "flag": 4294967295,
+   "term": "Norma",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "Humans with a mutation that prevents them from using Mana. Unable to\nmake use of Mana, the foundation of modern society, the Norma are cast\nout as outsiders and treated with much aggression and hatred. \nThis mutation only occurs in women, though the reason why is unknown. \nOnce it is discovered that someone is a Norma, the Quarantine Officer\ncasts them out into isolation on Arzenal.",
+   "desc2": "Humans with a mutation that prevents them from using Mana. Unable to\nmake use of Mana, the foundation of modern society, the Norma are cast\nout as outsiders and treated with much aggression and hatred. \nThis mutation only occurs in women, though the reason why is unknown. \nBut once it is discovered that someone is a Norma, the Quarantine\nOfficer casts them out into isolation on Arzenal, fated to fight\nagainst the Dragons.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 86,
+   "id": 69,
+   "flag": 4294967295,
+   "term": "NT-D",
+   "series": "Mobile Suit Gundam Unicorn",
+   "desc": "A system installed in the Unicorn Gundam. When the NT-D activated, \nthe Psychoframe emits a red light, the Unicorn Gundam's full body \narmor slides open, and it transforms into Destroy Mode.\nA special feature of NT-D is that the Psychoframe scans for pilot \nbrainwaves and incorporates them into its movements, so that thoughts \ndirectly influence the operation of the suit. This means that the \ntracking of the Unicorn mobile unit is significantly boosted.\nWhen activation of NT-D has the Unicorn Gundam functioning at its \nmaximum capacity, the G-force upon the pilot and the strain on the \nPsycommu are so intense that the longest it can be operated in that \nstate is five minutes.",
+   "desc2": "\nThe original name behind the abbreviation NT-D is \"New Type \nDestroyer,\" and as the phrase implies, it is a system that can detect \nand destroy enemy Newtypes. When the system identifies an enemy \nNewtype, the NT-D is activated and the Psycommu takes control of the \npilot's awareness, transforming the machine into a pure Newtype \nkilling machine.\nBanagher was able to resist the Psycommu's control and managed to \ndevelop the ability to control the NT-D by his own willpower.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 87,
+   "id": 87,
+   "flag": 4294967295,
+   "term": "Trip to the Hot Springs",
+   "series": "Full Metal Panic? Fumoffu",
+   "desc": "Taking off some time from Jindai High, Tessa, Sousuke, and the gang\ntake an overnight trip to some hot springs. Tessa talks Kurz into\njoining them too, talking about how one just cannot miss out on the\nhot springs while in Japan, so a group of ten of them, four guys\n(Sousuke, Kazama, Ono D, and Kurz) and six girls (Kaname, Tessa, \nKyoko, Mizuki, Ren, and Mao) all head to Okutama. \nKurz, Kazama, and Ono D try to sneak peeks at the girls' bath, but end\nup getting caught up in the traps Sousuke had laid out beforehand.\nRefusing to give up, they try and climb up the mountain in order to\nbreak in, but Ono D and Kurz end up tripping each other up. Kazama is\nready to give up after this, but Kurz gives him a hearty pep talk and\nthey all get back at it. With their new, unfounded sense of resolve,\nthey finally manage to break into the bath, only to discover that\nthey were on timed schedules, and they have broken in to what is then\nsimply the men's bath—all while the girls remain completely oblivious\nto the whole situation.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 88,
+   "id": 16,
+   "flag": 4294967295,
+   "term": "Calculation Unit",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "Unit left behind by ancient Martians that controlled Boson Jumping. \nTowards the end of the Lizard War, the forces of Earth and Jupiter \nbattled fiercely over them; however, the crew of the Nadesico made a \njump to a far away location with both unit and the Nadesico A.",
+   "desc2": "\nLater, the Crimson Group and the Martian Successors secretly picked \nup the unit, and, using Yurika Misumaru as a translation machine, \nthey made it possible for people other than Jumpers to Boson Jump by \ncontrolling the image projection to the Calculation Unit, which was \npreviously only possible for a Class-A Jumper.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 89,
+   "id": 35,
+   "flag": 4294967295,
+   "term": "Orb",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "Officially the United Emirates of Orb, this is a small nation of \nnumerous islands located in the Pacific Ocean. It is a rare example \nof a country where Naturals and Coordinators coexist in harmony, and \nwhich has sworn itself to neutrality, participating in neither the \nFederation nor ZAFT.\nIt is also home to the semi-nationalized company Morgenroete, Inc. \nThe former leader of this company, Uzumi Nalla Athha, tasked his \ndaughter Cagalli with realizing the ambitions he had for his company, \nbut the five noble families who ruled the country had conflicting \nopinions about his plans, causing confusion and disagreement.\nAmong these families, Unato Ema Seiran, the prime minister of Orb and \nhead of the Seiran family, was particularly ambitious and tried to \nmaneuver so that his son, Yuna Roma Seiran, would marry Cagalli, \nthinking that this would allow him to rule the country as he pleased. \nIn addition, through Logos, he abandoned the neutral principles of \nOrb to form an alliance with United Earth Federation. However, in the \nbattle between Cagalli and Archangel, the tyranny of the Seiran \nfamily ended and Orb returned to its original stance of neutrality.",
+   "desc2": "",
+   "desc2_mode": "shared"
+  },
+  {
+   "idx": 90,
+   "id": 115,
+   "flag": 4294967295,
+   "term": "The World of the Past",
+   "series": "True Mazinger Edition Z: The Impact!",
+   "desc": "The world of the past where Zeus fought the Mycenaean Gods. It was \nsaved within the Kedora's memories, which allowed Koji's team to \nexperience it. There, Zeus betrayed Mycenae in order to protect the \nhuman race and lead a rebellion. He managed to defeat the Mycenaean \nGods, but fell into a trap laid by Archduke Gorgon and Hades, one of \nthe Three Great Mycenaean Gods, and lost his right arm. \nHowever, thanks to Koji and Mazinger Z coming to the rescue, Zeus \nmanaged to defeat Hades. Through this event, Koji's team learned \nabout Bardos Island, the Mycenaean Gods, and about Baron Ashura's \npast.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 91,
+   "id": 121,
+   "flag": 4294967295,
+   "term": "Likitee",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "A character that used to be extremely popular worldwide. When the \nhype surrounding it finally died down, Jasmine bought up all the \nremaining merchandise, including some full body costumes. \nIn Arzenal, only Vivian and a few others still care for this\ncharacter at all.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 92,
+   "id": 43,
+   "flag": 4294967295,
+   "term": "PLANT",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "The name given to new space colonies where Coordinators live. It also \nbecame to be used to denote the nation that these colonies eventually \nformed, and from there, the nation of Coordinators. It is an \nabbreviation for \"Productive Location Ally on Nexus Technology\" and \nis also a reference to a large-scale manufacturing base.\nAs a nation, PLANT is governed by the PLANT Supreme Council. \nPreviously, the Earth Alliance imposed heavy taxes in an effort to \nprevent the autonomy of PLANT, which sparked a great war. The \ninhabited PLANTs are clustered in sector L5, one of the Lagrange \npoints, where gravitational pull between the Earth and the Moon is \nequal.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 93,
+   "id": 31,
+   "flag": 4294967295,
+   "term": "Pink Cat",
+   "series": "Brave Express Mightgaine",
+   "desc": "Catherine Vuitton's international thief gang, which is composed \nentirely of women who dress up in men's clothes and masks and call \nthemselves Cat Girls. They'll do anything they have to in order to \nget their paws on what their boss Catherine wants, whether it's a \njewel or the ingredients to a youth rejuvenation elixir.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 94,
+   "id": 111,
+   "flag": 4294967295,
+   "term": "Paptimus Scirocco",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "Captain of the Jupitris and the leader of the Earth Federation's \nJupiter Fleet. He has powerful Newtype abilities with great charisma, \nand is also a gifted mobile suit designer, a skilled pilot, and \ncapable of proposing strategy and leading combat, making him an \nall-around genius.\nScirocco charmed Sarah Zabiarov, convinced Reccoa to betray AEUG, and \neven managed to make an ally of the fastidious Yazan Gable. He \nfamously said that \"after the war, women will rule the world,\" but \nthe meaning of this was never fully understood.\nOstensibly, he was aligned to the Titans; however, the lofty \nambitions that sprung from his abilities could not be satisfied in \nthe context of the armed forces, and he assassinated Jamitov Hymen in \na coup d'état, whereby he took control of the Titans. Finally, he \ntook to his mobile suit, The O, for a fierce battle with Kamille.\nHe was overwhelmed by the power of the spirits surrounding Kamille \nand the power derived from this by the Z Gundam, but Scirocco's \ntenacity caused Kamille to have a mental breakdown.",
+   "desc2": "",
+   "desc2_mode": "shared"
+  },
+  {
+   "idx": 95,
+   "id": 9,
+   "flag": 4294967295,
+   "term": "Plato",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The Gamillan name for Pluto.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 96,
+   "id": 82,
+   "flag": 4294967295,
+   "term": "Queen Mansa",
+   "series": "Mobile Suit Gundam ZZ",
+   "desc": "A giant mobile suit developed by Neo Zeon for Newtypes, equipped not \nonly with Psycommu and funnel systems, but also fitted with Mega \nParticle Cannons and Beam Sabers for close-range fighting.\nThe head, which acted as escape equipment, was able to separate and \nfly independently. It was piloted by Glemy's trump card, Ple Two, and \nannihilated the Gundam team.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 97,
+   "id": 55,
+   "flag": 4294967295,
+   "term": "Quess",
+   "series": "Mobile Suit Gundam: Char's Counterattack",
+   "desc": "The only daughter of Adenaur, Vice-Minister of the Earth Federation \nForces. Her full name is Quess Paraya.\nQuess has a reckless personality, wild mood swings, and takes a \ncritical view of people. She is intrigued by Newtypes and underwent \ntraining in India.\nAt Londenion, she met and was enthralled by Char, which prompted her \nto go to Neo Zeon, where she awakened her abilities as a Newtype. \nEventually, she was given a Jagd Doga and she entered the battlefield \nto help Char. During battle, she killed her father Adenaur without \nrealizing who her opponent was.\nBoth Gyunei and Hathaway developed a love interest for her, but Quess \nis attracted to older men such as Amuro and Char, in whom she sought \na father-figure.\nIn the Axis Battle, she fought using the giant mobile armor, α Azieru;\nhowever, when she encountered Hathaway again, she was attacked\nand killed by Chan Agi while defending Hathaway.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 98,
+   "id": 90,
+   "flag": 4294967295,
+   "term": "That Rainy Day",
+   "series": "Full Metal Panic! The Second Raid",
+   "desc": "The day that Kaname shared a kiss with Leonard. \nKaname had sensed that someone was following her this day and tried\nto call on Sousuke for help, not knowing that Sousuke had already\nbeen pulled off the mission. Realizing she had no one left to depend\non, Kaname resolves to handle things herself. \nShe draws her follower, Yu Lan, out and challenges her under the\nrainy skies. As Yu Lan gets taken down, Leonard Testarossa reveals\nhimself, finishing off Yu Lan for betraying his organization. In a \ndisplay of his feelings for her, Leonard then steals a kiss from \nKaname.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 99,
+   "id": 63,
+   "flag": 4294967295,
+   "term": "Requiem Battle",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "A battle that took place in the vicinity of Mobile Space Fortress \nMessiah. It began when the United Emirates of Orb and other nations \ntook action to stop Gilbert Durandal, who recklessly attempted to use \nthe Requiem superweapon to destroy those who opposed the Destiny \nPlan that he advocated.\nDuring the battle, the Orb forces destroyed Requiem. The war ended \nwhen Durandal was killed in the destruction of Mobile Space Fortress \nMessiah.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 100,
+   "id": 120,
+   "flag": 4294967295,
+   "term": "Resonance",
+   "series": "Full Metal Panic!",
+   "desc": "A method of communication only possible between Whispered. The two\nconnect at a deep mental level, allowing them not only to simply\ncommunicate and share information with one another, but actually\nallowing them to fuse their thoughts as one. \nThough it might seem like a useful ability, in much the same way you\ncannot separate two liquids that have been mixed together, it can\nbe hard to separate the two thoughts, and one stands the risk of\nbeing lost completely in the other.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 101,
+   "id": 103,
+   "flag": 4294967295,
+   "term": "Ribbons",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "An Innovade created by Aeolia Schenberg. His full name was Ribbons \nAlmark. Because he was designed not to age, his external appearance \ndid not change with the passage of time. \nPreviously he worked with Alejandro, and later he acted secretly \npromoting the establishment of A-Laws. He tried to control humans, \nwhom he despised. However, he was in fact created for the purpose of \nhelping the advancement of humanity. \nHe was defeated and died in a battle with Setsuna.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 102,
+   "id": 105,
+   "flag": 4294967295,
+   "term": "Libertus",
+   "series": "Cross Ange: Rondo of Angels and Dragons",
+   "desc": "An attack plan created and led by Jill. \nOnly a select few within Arzenal ever knew about this plan.",
+   "desc2": "An attack plan created and led by Jill. \nThe main goal was to take down Embryo and end his control over the\nworld, but only a very few in Arzenal even knew about it. \nThere had been a prior Libertus attempt in the past, but it ended in\nfailure and resulted in the deaths of many, including Tusk's parents.\nThis was also when Jill lost her arm. \nThe survivors went back to bide their time, and once Ange appeared\nand was able to pilot the Villkiss, they started to put their new\nplans into motion. In the end, Ange became the center of the newly\nnamed Last Libertus.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 103,
+   "id": 19,
+   "flag": 4294967295,
+   "term": "Lion's Sickle",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "The Aestivalis unit, of which Ryoko was captain. When Ryoko \ntransferred to the United Forces, she became a pilot instructor, and \nthis unit that she led was made up entirely of her former students.\nThe name \"Lion's Sickle\" originates from the sickle at the head of \nthe constellation Leo.\nAt the Terminal Colony Amaterasu, the unit was attacked by Ghost \nRobots.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 104,
+   "id": 118,
+   "flag": 4294967295,
+   "term": "Ricardo Marcenas",
+   "series": "Mobile Suit Gundam Unicorn",
+   "desc": "The first prime minister of the Earth Federation and an ancestor of \nRiddhe Marcenas.\nMarcenas moved the prime minister's residence into space and lived \nthere himself, ahead of general space immigration. He died in an \nexplosion at the residence that took place during a ceremony to mark \nthe changing of the calendar and the start of the Universal Century. \nThe bombing later became known as the Laplace Incident and was a \ndecisive turning point for the Universal Century and the Spacenoids.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 105,
+   "id": 83,
+   "flag": 4294967295,
+   "term": "Lambda Driver",
+   "series": "Full Metal Panic!",
+   "desc": "Officially known as the False Axis Repulsive Field Generator System. \nIt converts the user's thoughts directly into physical movements via\nTAROS (Transfer And Response Omnisphere). It creates an invisible \nforce field which it can then use for both attack and defense. This \nallows Lambda Driver-equipped AS to display far greater combat \nabilities than their normal counterparts. \nIn order to use a Lambda Driver, however, the pilot must have an\nironclad willpower that is required in accessing the TAROS via special\nbrainwaves called gamma waves, or they must continue taking drugs\ndesigned to grant the same effect.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 106,
+   "id": 64,
+   "flag": 4294967295,
+   "term": "Logos",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "A paramilitary industrial organization said to exist since the dawn \nof history, with the power to intervene decisively in politics. Those \nin charge can be called merchants of death as they work in the \nshadows to manipulate war and reconstruction in order to secure \nthemselves the biggest share of the profits.\nLogos is the supporting body behind Blue Cosmos and was also involved \nin forcibly swaying public opinion in order to encourage fighting \nbetween the Earth Alliance and the Coordinators. The former leader of \nBlue Cosmos, Muruta Azrael, and the present leader, Lord Djibril, are \nmembers of Logos also. The chief aim of Logos is perpetuation of war, \nas this would allow it to reap the biggest profits. Blue Cosmos' aim \nto eradicate Coordinators is mainly attributable to the personal \nresentment that the two aforementioned leaders feel towards \nCoordinators.\nLogos do not possess their own fighting forces, so in the previous \nwar they used Earth Alliance in an effort to annihilate the \nCoordinators. Following the war, they established Phantom Pain in the \nhope that it would give them more control.\nLater, their existence and location was confirmed by Durandal, \nwhereupon the majority of members were violently apprehended by\nangry citizens or were lynched and killed. Djibril survived, but after \nlosing his trump card, Requiem, he was seen fleeing in his ship.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 107,
+   "id": 117,
+   "flag": 4294967295,
+   "term": "Lila, Kacricon, and Mouar",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "Soldiers from the dispersed Titans, who fought alongside Jerid.\nLila Milla Rira belonged to the Titans' Battlecruiser Bosnia. She was \na Galbaldy Beta pilot ranked commander. She fought against AEUG, who \nattempted to land in the Jaburo, and battled Kamille in his Gundam \nMk-II. Soon after taking to her mobile suit, she was shot down by \nKamille.\nKacricon Cacooler was a Titans officer ranked lieutenant. He was \nclose friends with his colleague, Jerid, and often worked together \nwith him. When he tried to enter the atmosphere, his ballute was cut \nup by Kamille's Gundam Mk-II, and he was burnt up.\nMouar Pharaoh was a Titans officer ranked ensign. She first met Jerid \nwhen she escaped from Jaburi, and stayed by his side, gradually \nfalling in love with him over time. She was a capable pilot with \nstrong ability to make calm decisions and take action decisively. She \ncontinued to support Jerid, but she died protecting him from the \nattack of the Z Gundam.\nJerid's determination to defeat Kamille was reinforced after their \ndeaths.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 108,
+   "id": 119,
+   "flag": 4294967295,
+   "term": "Time as a Worthless Drunk",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "Refers to the time when, having lost many companions in battle \nwith the United Nation Forces, Sumeragi left Celestial Being in\nfrustration at a feeling of her own powerlessness. \nDuring those two years, she spent every day drinking while she\nstayed with Billy Katagiri.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 109,
+   "id": 8,
+   "flag": 4294967295,
+   "term": "Second Battle of Mars",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The only battle that the UN Cosmo Navy won during the battle with\nGamillas. This victory allowed them to prevent the fleet from\ndirectly attacking Earth, but it also caused Gamillas to change their\nstrategies to long range Planet Bombs, which forced the entire human\nrace to flee all major cities.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 110,
+   "id": 143,
+   "flag": 4294967295,
+   "term": "Second Neo Zeon War",
+   "series": "Mobile Suit Gundam: Char's Counterattack",
+   "desc": "A war that began on February 27, UC 0093 and continued until March 12 \nthe same year. Also known as \"Char's Rebellion.\"\nChar openly declared war on the Earth Federation during a live \ninterview on February 27. On March 3, he dropped the asteroid Fifth \nLuna on Lhasa, Tibet, where the Federation headquarters were located. \nOn March 12, he attempted to drop Axis onto Earth, but his plan was \nthwarted by the struggle with Londo Bell, bringing the war to its \nconclusion.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 111,
+   "id": 71,
+   "flag": 4294967295,
+   "term": "Sherindon",
+   "series": "Mobile Suit Crossbone Gundam",
+   "desc": "The cousin of Berah Ronah. Her full name is Sherindon Ronahm, AKA \nSherry.\nSherry was the daughter of a distinguished family and, after the \ncollapse of Cosmo Babylonia, she was exalted by people who hoped to \nrestore aristocratism. She is a Newtype who strived to surround \nherself with other talented Newtypes. After meeting Tobia, Sherry \nalso recognized how talented Tobia was and tried to make him stay by \nher side. She is fundamentally an aristocratist with an elitist \nattitude; she lost hope in the old human race and longs for an era of \nnew humans, or Newtypes, adapted to space.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 112,
+   "id": 136,
+   "flag": 4294967295,
+   "term": "New Correct Century dimension",
+   "series": "Original",
+   "desc": "The dimension in which Earth constructed the Yamato. \nAttacks by Gamillas have left the oceans completely dry. \nMajor historical incidents are as follows: \n-Before 0199: The Earth Federation is founded. \n　　　　　　　　　This is considered to be New Correct Century year\n　　　　　　　　　2000.\n-Approximately before 0100: One Year War - Second Neo Zeon Conflict\n　　　　　　　　　(AKA Char's Rebellion)\n　　　　　　　　　The ten years between the end of the Second Neo Zeon\n　　　　　　　　　Conflict and the Mufti Incident are known as the\n　　　　　　　　　\"Lost Decade,\" and little information remains about\n　　　　　　　　　what went on during these years.\n-Before 0012: Cosmo Babylonia Wars \n-Before 0008: Contact with intelligent extraterrestrial life from Gamillas\n-Before 0005: First Battle in the Vicinity of Mars \n　　　　　　　　　The Earth Federation Forces wins the battle, but\n　　　　　　　　　Gamillas establishes their Pluto Frontline Base and\n　　　　　　　　　begins to attack with Planet Bombs.\n-Before 0002: Jupiter War \n　　　　　　　　　During the disorder, the Planet Bomb attacks really\n　　　　　　　　　kick off, pushing the Earth to near-devastation.\n-Before 0001: A messenger from Iscandar descends to Earth.",
+   "desc2": "The dimension in which Earth constructed the Yamato.\nIt is later revealed that the Earth in this dimension has actually been\nvisited by Gamillans and Nevanlinna from the great Magellan galaxy,\nand that the world itself was split from the Universal Century dimension\nby a distortion in space-time that resulted from the war between Embryo\nand the Mycenae Gods. \nMajor historical incidents are as follows: \n-Approximately before 3000: Gamillans and Nevanlinna visit Earth from\nthe Large Magellanic Cloud.\n　　　　　　　　　All civilization on Earth is destroyed in the battle\n　　　　　　　　　between Embryo and Mycenae, and a completely new\n　　　　　　　　　civilization rises up and continues to the present day.\n-Before 0199: The Earth Federation is founded. \n　　　　　　　　　This is considered to be New Correct Century year\n　　　　　　　　　2000.\n-Approximately before 0100: One Year War - Second Neo Zeon Conflict\n　　　　　　　　　(AKA Char's Rebellion) \n　　　　　　　　　The ten years between the end of the Second Neo Zeon\n　　　　　　　　　Conflict and the Mufti Incident are known as the \"Lost\n　　　　　　　　　Decade,\" and little information remains about what\n　　　　　　　　　went on during these years.\n-Before 0012: Cosmo Babylonia Wars\n-Before 0008: Contact with intelligent extraterrestrial life from Gamillas\n-Before 0005: First Battle in the Vicinity of Mars \n　　　　　　　　　The Earth Federation Forces wins the battle, but\n　　　　　　　　　Gamillas establishes their Pluto Frontline Base and\n　　　　　　　　　begins to attack with Planet Bombs.\n-Before 0002: Jupiter War \n　　　　　　　　　During the disorder, the Planet Bomb attacks really\n　　　　　　　　　kick off, pushing the Earth to near-devastation.\n-Before 0001: A messenger from Iscandar descends to Earth.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 113,
+   "id": 47,
+   "flag": 4294967295,
+   "term": "The Person Important to Shinn",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "Refers to Stella Loussier, a pilot attached to Earth Alliance 81st \nIndependent Mobile Battalion, \"Phantom Pain.\" Deceased.\nBecause she had been physically enhanced, she had abilities beyond \nthose of normal people. Her memories were also altered in order to \nmake her a more effective pilot, but this also caused her to become \nemotionally unstable in battle.\nShe and ZAFT pilot Shinn Asuka developed a mutual affection for one \nanother. However, the memory manipulation she underwent caused her to \nforget Shinn. Stella wreaked havoc in Berlin when she attacked Shinn \nin the Impulse Gundam, as he was trying to stop her. Shinn refused to \ngive up hope and succeeded in convincing her to give up fighting \nbriefly. However, this didn't last long and the fear she felt at the \nsight of the Freedom Gundam piloted by Kira Yamato caused her to lose \nher mind. She went on a rampage and nearly shot down Impulse, which\nwas nearby. Finally, in order to protect Shinn, Kira attacked Destroy \nGundam, which Stella was piloting, fatally wounding Stella. She died in\nShinn's arms, and as a result of this incident, Shinn became angry and\nresentful of Kira, swearing to take his revenge.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 114,
+   "id": 22,
+   "flag": 4294967295,
+   "term": "Shiratori",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "The older brother of Yukina Shiratori, now deceased. His full name \nwas Tsukumo Shiratori, and he was a major of the Jovian Federation \nand the pilot of Tetsujin and Daitetsujin. \nDuring the Lizard War, he fell in love with Minato and got to know \nthe people of Earth. This motivated him to work for peace, but he \nfell for the plot of the former Jovian Federation supreme commander, \nHaruki Kusakabe, and was shot dead by his close friend Genichiro \nTsukiomi. \nHis death was used to fuel the fighting determination of the Jovian \nFederation.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 115,
+   "id": 53,
+   "flag": 4294967295,
+   "term": "Sleep Learning",
+   "series": "Super Machine Zambot 3",
+   "desc": "A system that allows one to learn different things while asleep. Half \na year before Gaizok came to attack the Earth, Kappei started sleep \nlearning under Heizaemon's supervision and learned a great deal about \nZambot 3. Another effect of sleep learning is that it erased any \nsense of fear from Kappei and his comrades, which is what allowed \nthem to fight against Gaizok.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 116,
+   "id": 122,
+   "flag": 4294967295,
+   "term": "Sophia",
+   "series": "Full Metal Panic! (Original Novel Version)",
+   "desc": "A young girl whose psyche was left behind in the underground TAROS\nfacility in the hidden city of Yamsk 11. She was the subject of an \nexperiment 18 years ago and the original source of the Whispered.",
+   "desc2": "\nTaking control of Kaname's mind, she worked along with Leonard to try\nto recreate the world. But as they attempted to use the completed\nTARTAROS, Sousuke's abuse awakens the real Kaname, and their plans\nare put to an end.",
+   "desc2_mode": "append"
+  },
+  {
+   "idx": 117,
+   "id": 24,
+   "flag": 4294967295,
+   "term": "Celestial Being",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "A private military organization that possesses Gundam. It was first \nfounded by engineer and biologist Aeolia Schenberg from the 21st to \n22nd century.\nIt proclaimed its aim to be the elimination of wars and conducted \nmilitary interventions in all areas of conflict. \nThe organization comprised Gundam Meisters, who piloted Gundams, \ntogether with the crew and support teams of their carriers. They also \npossessed the quantum supercomputer Veda. \nAlthough Celestial Being was destroyed by the forces of the three \nworld powers, because the world united in the effort to oppose the \nexistence of Celestial Being, it in a sense achieved its aim.  \nHowever, a new-born Earth Federation was under the control of \nInnovades, and Celestial Being again started its operations to \ncounter distortions in world power.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 118,
+   "id": 138,
+   "flag": 4294967295,
+   "term": "Universal Century dimension",
+   "series": "Original",
+   "desc": "The dimension which Yamato was thrown to from the AD dimension. \nThe seas in this world are a deep red due to the effects of the\nSecond Impact. \nMajor historical incidents are as follows: \n-0100 years ago: The Earth Federation is founded. \n　　　　　　　　　During the founding commemoration ceremony, the\n　　　　　　　　　Laplace Incident occurs. \n-0017 years ago: Invader Assault \n　　　　　　　　　Humankind wins the Lunar Conflict and drives out the\n　　　　　　　　　Invaders. \n-0015 years ago: One Year War \n　　　　　　　　　At the end of the war, the Getter Ray Escape Incident\n　　　　　　　　　and the Second Impact both occur at nearly the same\n　　　　　　　　　time, dealing a devastating blow to the Earth\n　　　　　　　　　Federation.\n　　　　　　　　　Afterwards, skirmishes continue between the Earth \n　　　　　　　　　Federation and Zeon during their standstill to conserve \n　　　　　　　　　their strength.\n-0002 years ago: In order to reinstate the Earth Federation, the Titans\n　　　　　　　　　took hardline tactics and faced off against AEUG, an\n　　　　　　　　　anti-federation group that felt threatened by this,\n　　　　　　　　　kicking off the Gryps Conflict.\n-0001 year ago: War breaks out between Haman's Neo Zeon and the Earth\n　　　　　　　　　Federation at the end of the Gryps Conflict (First\n　　　　　　　　　Neo Zeon Conflict).\n　　　　　　　　　After Haman is taken down in battle, Char takes lead\n　　　　　　　　　of Neo Zeon and continues the battle Haman started\n　　　　　　　　　(Second Neo Zeon Conflict).\n　　　　　　　　　After Char's whereabouts are lost, all surface\n　　　　　　　　　happenings of the Neo Zeon conflict come to a halt.\n　　　　　　　　　Dr. Hell's invasion begins.",
+   "desc2": "The dimension which Yamato was thrown to from the AD dimension. \nThe seas in this world are a deep red due to the effects of the\nSecond Impact. It is later revealed that this world was split from\nthe New Correct Century dimension by the war between Embryo and the \nMycenae Gods.\nMajor historical incidents are as follows: \n-3000 years ago: All civilization on Earth is wiped out by the battle\n　　　　　　　　　between Mycenae and Embryo.\n　　　　　　　　　Embryo travels to the AD dimension.\n　　　　　　　　　The Dragon clan starts up their own civilization\n　　　　　　　　　within a barrier.\n　　　　　　　　　Outside of the barrier, a completely separate\n　　　　　　　　　civilization is formed which continues on until the\n　　　　　　　　　present day.\n　　　　　　　　　In order to create the AD dimension after his own\n　　　　　　　　　personal ideal world, Embryo kidnaps Aura.\n-0100 years ago: The Earth Federation is founded.\n　　　　　　　　　During the founding commemoration ceremony, the \n　　　　　　　　　Laplace Incident occurs.\n-0017 years ago: Invader Assault \n　　　　　　　　　Humankind wins the Lunar Conflict and drives out the\n　　　　　　　　　Invaders.\n-0015 years ago: One Year War \n　　　　　　　　　At the end of the war, the Getter Ray Escape Incident\n　　　　　　　　　and the Second Impact both occur at nearly the same\n　　　　　　　　　time, dealing a devastating blow to the Earth\n　　　　　　　　　Federation.\n　　　　　　　　　Afterwards, skirmishes continue between the Earth \n　　　　　　　　　Federation and Zeon during their standstill to conserve \n　　　　　　　　　their strength.\n-0002 years ago: In order to reinstate the Earth Federation, the Titans\n　　　　　　　　　took hardline tactics and faced off against AEUG, an\n　　　　　　　　　anti-federation group that felt threatened by this,\n　　　　　　　　　kicking off the Gryps Conflict.\n-0001 year ago: War breaks out between Haman's Neo Zeon and the Earth\n　　　　　　　　　Federation at the end of the Gryps Conflict (First\n　　　　　　　　　Neo Zeon Conflict).\n　　　　　　　　　After Haman is taken down in battle, Char takes lead\n　　　　　　　　　of Neo Zeon and continues the battle Haman started\n　　　　　　　　　(Second Neo Zeon Conflict).\n　　　　　　　　　After Char's whereabouts are lost, all surface\n　　　　　　　　　happenings of the Neo Zeon conflict come to a halt.\n　　　　　　　　　Dr. Hell's invasion begins.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 119,
+   "id": 5,
+   "flag": 4294967295,
+   "term": "Crossbone Vanguard Space Pirates",
+   "series": "Mobile Suit Crossbone Gundam",
+   "desc": "A group of space pirates who fight against Jupiter Empire, led by \nBerah Ronah.\nA terror attack on board the new vessel, Babylona Vanguard, that \noccurred during its maiden voyage, Berah and Kincade found out about \nthe existence of the Jupiter Empire, who were planning to invade \nEarth. They established the group in response.\nThe origin of the group's name is Crossbone Vanguard, an organization \nwhich previously promoted aristocratism; this name was purposefully \nchosen as a ploy to attract people and resources. Berah herself had \ndenounced aristocratism, which contributed to support for the idea \ndwindling.\nConsequently, this name meant that members of the group were split \ninto two halves: one side were anti-aristocratists and followers of \nBerah, while the other were hoping for the restoration of \naristocratism.\nThey group fought against the Jupiter Empire, which planned to invade \nEarth, but they were considered an antisocial space pirate \norganization because of their guerrilla tactics and attacks on \ndisguised Jovian vessels. In the beginning, they played the role of \nthe lone vigilante because the Federation was not yet aware of \nJupiter Empire's ambitions. However, after Jupiter Empire's Supreme \nLeader Dogatie declared that he intended to carry out a nuclear \nattack on the Earth, the Federation Forces collaborated with the \nCrossbone Vanguard to defeat Jupiter Empire.\nFollowing the Jupiter War, Kincade and Berah left the group, but \nTobia took over the reigns and they continued to fight secretly \nagainst remnants of Jupiter Empire.",
+   "desc2": "A group of space pirates who fight against Jupiter Empire, led by \nBerah Ronah.\nA terror attack on board the new vessel, Babylona Vanguard, that \noccurred during its maiden voyage, Berah and Kincade found out about \nthe existence of the Jupiter Empire, who were planning to invade \nEarth. They established the group in response.\nThe origin of the group's name is Crossbone Vanguard, an organization \nwhich previously promoted aristocratism; this name was purposefully \nchosen as a ploy to attract people and resources. Berah herself had \ndenounced aristocratism, which contributed to support for the idea \ndwindling.\nConsequently, this name meant that members of the group were split \ninto two halves: one side were anti-aristocratists and followers of \nBerah, while the other were hoping for the restoration of \naristocratism.\nThey group fought against the Jupiter Empire, which planned to invade \nEarth, but they were considered an antisocial space pirate \norganization because of their guerrilla tactics and attacks on \ndisguised Jovian vessels. In the beginning, they played the role of \nthe lone vigilante because the Federation was not yet aware of \nJupiter Empire's ambitions. However, after Jupiter Empire's Supreme \nLeader Dogatie declared that he intended to carry out a nuclear \nattack on the Earth, the Federation Forces collaborated with the \nCrossbone Vanguard to defeat Jupiter Empire.\nFollowing the Jupiter War, Kincade and Berah left the group, but \nTobia took over the reigns and they continued to fight secretly \nagainst remnants of Jupiter Empire, and even managed to stop another \nplan by them, \"Zeus' Thunder Project.\"",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 120,
+   "id": 54,
+   "flag": 4294967295,
+   "term": "Char's Rebellion",
+   "series": "Mobile Suit Gundam: Char's Counterattack",
+   "desc": "The common name for the Second Neo Zeon War, which began on February \n27, UC 0093 and continued until March 12 the same year. During this \nwar, Char attempted to drop the asteroid Axis onto Earth.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 121,
+   "id": 109,
+   "flag": 4294967295,
+   "term": "Mineva Zabi's Body Double",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "Refers to the body double of Mineva Zabi, the last surviving member \nof the Zabi family of the Principality of Zeon. \nIt was later revealed that the Mineva Zabi who appeared in public \nduring the Gryps Conflict and the First Neo Zeon War was a body \ndouble.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 122,
+   "id": 134,
+   "flag": 4294967295,
+   "term": "System Nevanlinna",
+   "series": "Original",
+   "desc": "The Civilization Reconstruction System developed by the Super\nCivilization Gardim. ERS-100, AKA Nine, is a part of this system.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 123,
+   "id": 93,
+   "flag": 4294967295,
+   "term": "Dr. Schtroheim",
+   "series": "True Mazinger Edition Z: The Impact!",
+   "desc": "An authority on robot engineering who can go toe to toe with Juzo and \nKenzo Kabuto. His full name is Schtroheim Heinrich. He created the \nGamia Qs and Danube α1. He used to be engaged to Tsubasa, but after \nTsubasa and Kenzo returned from Bardos Island, they had given birth \nto two children. Then, since Tsubasa wanted the strongest robot \npossible in order to fight Dr. Hell, she ended up killing Dr. Schtroheim.\nAfter this, he was revived by Dr. Hell under the condition that he should \ncreate the strongest robot in existence. \nHe then created the Danube α1, which is autonomous, and also created \nLorelei, who became his beloved daughter and the brain of the Danube \nα1. Schtroheim suffered fatal injuries when trying to steal back the \nDanube α1 from Baron Ashura, and left his dreams of defeating \nMazinger Z to Lorelei before he perished.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 124,
+   "id": 21,
+   "flag": 4294967295,
+   "term": "Terminal Colonies",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "Facilities that were constructed in space in order to realize the \nHisago Plan. They were constructed based on the plan to build a \nnetwork for Boson Jumping within the Solar System, which needed entry \nand exit points for jumping. \nAmaterasu was one of the Terminal Colonies and, as with other \ncolonies, was under the control of the Colonial Development \nCorporation and the United Forces.",
+   "desc2": "Facilities that were constructed in space in order to realize the \nHisago Plan. They were constructed based on the plan to build a \nnetwork for Boson Jumping within the Solar System, which needed entry \nand exit points for jumping. \nAmaterasu was one of the Terminal Colonies and, as with other \ncolonies, should have been under the control of the Colonial \nDevelopment Corporation and the United Forces, but in fact internally \nit was already under the control of the Martian Successors.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 125,
+   "id": 26,
+   "flag": 4294967295,
+   "term": "The History of this Dimension",
+   "series": "Original",
+   "desc": "This dimension, which Yamato was thrown to from out of a dimensional\nrift, is currently enjoying a time of peace, though it faced large scale wars\nonly years ago.\nThe main incidents during that time were as follows:\n-0003 years ago: War breaks out between nations of Earth and PLANT\n　　　　　　　　　after the Bloody Valentine Incident.  \n　　　　　　　　　At the same time, the Earth Alliance and the Jovian\n　　　　　　　　　Federation declare war on each other (Lizard War).\n　　　　　　　　　Meanwhile, the Meganoid rebellion kicks off behind \n　　　　　　　　　the scenes.\n　　　　　　　　　Celestial Being steps in to intervene on all fronts,\n　　　　　　　　　the leader of the Earth Alliance, Alejandro Corner,\n　　　　　　　　　and the leader of PLANT, Patrick Zala, are both\n　　　　　　　　　killed, and after the Hot Blooded Coup d'État within\n　　　　　　　　　the Jovian Federation, all conflicts come to an end\n　　　　　　　　　with all players suffering casualties.\n　　　　　　　　　After the wars, the Earth Federation is established.\n-0001 years ago: The Earth Federation Forces' Autonomous\n　　　　　　　　　Peace-Keeping Force A-Laws makes its appearance.\n　　　　　　　　　War breaks out between the Earth Federation and\nPLANT. \n　　　　　　　　　A-Laws is revealed to be just a puppet for Logos and\nthe Innovades who outwitted Embryo, and a civil war\n　　　　　　　　　breaks out among the Earth Federation. During this \n　　　　　　　　　conflict, Gaizok also launches an attack.\n　　　　　　　　　The newly restarted Celestial Being, the reformed\n　　　　　　　　　Nadesico Squad, the forces of Orb, and others all put\n　　　　　　　　　an end to the battles.",
+   "desc2": "This dimension, which Yamato was thrown to from out of a dimensional\nrift, is currently enjoying a time of peace, though it faced large scale wars\nonly years ago.\nThe main incidents during that time were as follows:\n-0003 years ago: War breaks out between nations of Earth and PLANT\n　　　　　　　　　after the Bloody Valentine Incident.\n　　　　　　　　　At the same time, the Earth Alliance and the Jovian\n　　　　　　　　　Federation declare war on each other (Lizard War).\n　　　　　　　　　Meanwhile, the Meganoid rebellion kicks off behind \n　　　　　　　　　the scenes.\n　　　　　　　　　Celestial Being steps in to intervene on all fronts,\n　　　　　　　　　the leader of the Earth Alliance, Alejandro Corner,\n　　　　　　　　　and the leader of PLANT, Patrick Zala, are both\n　　　　　　　　　killed, and after the Hot Blooded Coup d'État within\n　　　　　　　　　the Jovian Federation, all conflicts come to an end\n　　　　　　　　　with all players suffering casualties.\n　　　　　　　　　After the wars, the Earth Federation is established.\n-0001 years ago: The Earth Federation Forces' Autonomous\n　　　　　　　　　Peace-Keeping Force A-Laws makes its appearance.\n　　　　　　　　　War breaks out between the Earth Federation and\nPLANT. \n　　　　　　　　　A-Laws is revealed to be just a puppet for Logos and\nthe Innovades who outwitted Embryo, and a civil war\n　　　　　　　　　breaks out among the Earth Federation. During this \n　　　　　　　　　conflict, Gaizok also launches an attack.\n　　　　　　　　　The newly restarted Celestial Being, the reformed\n　　　　　　　　　Nadesico Squad, the forces of Orb, and others all put\n　　　　　　　　　an end to the battles.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 126,
+   "id": 7,
+   "flag": 4294967295,
+   "term": "Terron",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The Gamillan name for Earth.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 127,
+   "id": 85,
+   "flag": 4294967295,
+   "term": "That Battle",
+   "series": "Getter Robo Armageddon",
+   "desc": "The battle that commenced when Shin Dragon first awakened.\nDr. Saotome, who was thought to be dead, returned to the abandoned \nSaotome Laboratory along with the Getter G Army, forcing Ryoma \nNagare, Hayato Jin, and Musashi Tomoe to gather up amid much \nconfusion. In the end, Ryoma Nagare was swallowed up into the light \nthat was produced when he went in to stop the Deuteron missile that \nthe UN fired, while Musashi Tomoe was killed by a swarm of revived \nInvaders. This battle polluted the world with Getter Rays, severely \ndamaging it.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 128,
+   "id": 110,
+   "flag": 4294967295,
+   "term": "That Time During the Gryps Conflict",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "Refers to the battle between Paptimus Scirocco and Kamille Bidan that \noccurred towards the end of the Gryps Conflict. Because the Titans' \nfleet sustained heavy damage from the Colony Laser, Scirocco made the \ncall to retreat and regroup the fleet, but he was pursued by Kamille.\nA fierce battle then took place between Scirocco's mobile suit, The \nO, and Kamille's Zeta Gundam. Kamille drew on the strength of his \nfriends who had passed away to power his Z Gundam and defeat \nScirocco. \nHowever, as he was dying, Scirocco managed to unleash his thoughts \nonto Kamille, causing him to have a mental breakdown.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 129,
+   "id": 104,
+   "flag": 4294967295,
+   "term": "That Person",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "Former PLANT Supreme Council Chairman. Unlike the previous Chairman, \nPatrick Zala, Durandal belonged to a moderate faction which sought \npeaceful coexistence with Naturals. At the time of the Junius Seven \nincident and during the later battle with the Earth Alliance, he \ndisplayed outstanding leadership, always making level-headed \ndecisions.\nMeer Campbell was suggested as a double for Lacus Clyne to bolster \nthe fighting spirit of the PLANTs as a whole, but the secret plan to \nassassinate Lacus was leaked to the public, causing distrust among \nKira and his associates.\nDurandal's ultimate aim was to realize his \"Destiny Plan,\" in which \nhe would construct a regulated society where people were controlled \nat a genetic level. After defeating Logos, he introduced his plan to \nthe world, pushing for its implementation. However, Kira and his \ncolleagues opposed the idea of a world in which there would be no \nevolution and successfully prevented the plan from being carried out.\nEventually, Durandal was shot by Rey Za Burrel, who he had thought of \nas his own son. He took his last breaths in the arms of his former \nlover, Talia Gladys, who, although they had separated, still had \nfeelings for him.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 130,
+   "id": 45,
+   "flag": 4294967295,
+   "term": "Ptolemy",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "The nickname of the Celestial Being carrier Ptolemaios. The name was \nused for both the original Ptolemaios and its successor Ptolemaios 2.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 131,
+   "id": 50,
+   "flag": 4294967295,
+   "term": "Ume",
+   "series": "Super Machine Zambot 3",
+   "desc": "Her full name is Ume Jin. She acts as an advisor for the Jin family \nand has earned the full trust of Heizaemon. She likes rock music and \ndonned a fighting uniform and went out to fight in order to save her \nfirst love, Nozaki. Even though she's up in her years, she rarely \nlets people notice that.\nWhen she went into outer space for the final battle, she and \nHeizaemon launched an assault on Bandock with Beal II in order to \nsave King Beal. They left the future to their grandchildren and \nperished there. Before she went out, she passed down the teacup that \nHeizaemon had sent to her when he was young.",
+   "desc2": "Kappei's grandmother. Her full name is Ume Jin. She acts as an advisor \nfor the Jin family and has earned the full trust of Heizaemon. She \nlikes rock music and donned a fighting uniform and went out to fight \nin order to save her first love, Nozaki. Even though she's up in her \nyears, she rarely lets people notice that.\nWhen she went into outer space for the final battle, she and \nHeizaemon launched an assault on Bandock with Beal II in order to \nsave King Beal. They left the future to their grandchildren and \nperished there. Before she went out, she passed down the teacup that \nHeizaemon had sent to her when he was young.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 132,
+   "id": 128,
+   "flag": 4294967295,
+   "term": "Interesting Habit",
+   "series": "Full Metal Panic! The Second Raid",
+   "desc": "Used to describe Clouseau's hobby of watching anime. Clouseau is an\nabsolute anime nut, always reading the latest magazines to stay\nup-to-date with all his favorite series. But while he says he's not\nembarrassed about this, he still tries to hide it from his crew to\n\"preserve moral.\" Kurz, however, ends up finding out anyway after \ngoing through some personal belongings.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 133,
+   "id": 108,
+   "flag": 4294967295,
+   "term": "Wong",
+   "series": "Mobile Suit Zeta Gundam",
+   "desc": "An executive at Anaheim Electronics whose full name was Wong Lee. He \nmonitored the AEUG on Argama with full authority from Melanie Hue \nCarbine, chairman of the company.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 134,
+   "id": 32,
+   "flag": 4294967295,
+   "term": "Veda",
+   "series": "Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer",
+   "desc": "The quantum supercomputer system designed as the core for \nimplementing the plans of Aeolia Schenberg. It possessed information \nprocessing capacity incomprehensibly greater than a regular computer, \nmaking it an important force in Celestial Being's struggle against \nthe world. \nHowever, Alejandro Corner gained control of Veda with the help of \nRibbons Almark, who took over the reins after Alejandro's death. \nThe computer itself is located on-board the space cruiser Celestial \nBeing.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 135,
+   "id": 89,
+   "flag": 4294967295,
+   "term": "Venom",
+   "series": "Full Metal Panic!",
+   "desc": "The codename used by Mithril to refer to Lambda Driver-equipped enemy\nChodar AS units. ",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 136,
+   "id": 37,
+   "flag": 4294967295,
+   "term": "Whispered",
+   "series": "Full Metal Panic!",
+   "desc": "Humans with special knowledge of future technology that has yet to\nbe developed. This unknown technology is called Black Technology and\nholds the power to greatly upset the world's current state of balance\namong military powers. It is for this very reason that numerous\norganizations have devised plans to capture and use the Whispered.\nMithril, meanwhile, works to rescue and defend the Whispered from \nsuch groups. \nThe reasons and manners behind it are not yet understood, but this\nknowledge of Black Technology seems to come from someone or \nsomething almost talking directly to deep reaches of the Whispered's\nbrains. \nThe Lambda Drivers themselves are one piece of such Black Technology. \nKaname Chidori and Teletha Testarossa are two recognized Whispered,\nbut Amalgam is said to have Whispered on their side as well.",
+   "desc2": "Humans with special knowledge of future technology that has yet to\nbe developed. This unknown technology is called Black Technology and\nholds the power to greatly upset the world's current state of balance\namong military powers. It is for this very reason that numerous\norganizations have devised plans to capture and use the Whispered.\nMithril, meanwhile, works to rescue and defend the Whispered from \nsuch groups. \nThe reasons and manners behind it are not yet understood, but this\nknowledge of Black Technology seems to come from someone or\nsomething almost talking directly to deep reaches of the Whispered's\nbrains. \nThe Lambda Drivers themselves are one piece of such Black Technology. \nThe origins of the Whispered trace back to the aftereffects of a\nSoviet Omnisphere experiment at Yamsk 11. All of the Whispered are\nchildren who were born at the time of the accident, December\n24, within three minutes of 11:50.",
+   "desc2_mode": "full"
+  },
+  {
+   "idx": 137,
+   "id": 127,
+   "flag": 4294967295,
+   "term": "Yamada",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "An Aestivalis pilot aboard Nadesico A during the Lizard War. His full \nname was Jiro Yamada but he preferred his spirit name, Gai Daigohji, \nand would correct anyone who tried to call him by his real name.\nHe liked the anime Gekiganger 3 and was so hooked on it that he would \nshout out the names of techniques when he was operating the \nAestivalis. His love for the show was the reason why Akito became \nsuch a fan of the anime. \nMunetake, Earth Federation Space Force Admiral, happened to see him \nescape from Nadesico, and one of his subordinates shot and killed \nhim. Although they only knew each other for a short time, his death \nhad a deep impact on Akito.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 138,
+   "id": 133,
+   "flag": 4294967295,
+   "term": "Yamsk 11 Experiment",
+   "series": "Full Metal Panic! (Original Novel Version)",
+   "desc": "The world's first TAROS (Transfer And Response Omnisphere) experiment\n18 years ago.\nThe experiment failed when TAROS went out of control, killing the subject\nnamed Sophia, while emitting Iota waves and Tau waves (2 psychic waves)\nfrom the epicenter of the explosion.\nAlthough the Iota waves only covered a 30 kilometer radius of the\nepicenter, Yamsk was completely inundated with psychic waves.\nAs for the Tau waves, which blanketed the entire world, they have hardly\nany ill effects on most people.\nHowever, the waves covered the world for three minutes, and changed\nthe newborns. Their brains were all affected, and those children, are all\nWhispered.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 139,
+   "id": 73,
+   "flag": 4294967295,
+   "term": "The Truth About You",
+   "series": "Full Metal Panic!",
+   "desc": "The fact that Kaname is one of the Whispered.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 140,
+   "id": 101,
+   "flag": 4294967295,
+   "term": "Eucharis",
+   "series": "Martian Successor Nadesico: The Motion Picture – Prince of Darkness",
+   "desc": "A top-secret battleship built by Nergal Heavy Industries. It used the \nperfected one-operator system tested in Nadesico B, making it a \nprototype for Nadesico C. \nIt was the carrier for Akito's Black Selena and was fitted with \nquadruple Gravity Blast as standard equipment. It also carried many \nBatta, the unmanned weapons used by Jovian Federation. \nIncidentally, Eucharis is the name of a bulbous plant in the \nAmaryllis family, and its name signifies \"pure heart.\"",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 141,
+   "id": 107,
+   "flag": 4294967295,
+   "term": "Yu",
+   "series": "Original",
+   "desc": "Her real name was Yumi. She passed away\nalong with her mother and father during a Planet Bomb attack.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 142,
+   "id": 78,
+   "flag": 4294967295,
+   "term": "Mr. Yazan",
+   "series": "Mobile Suit Gundam ZZ",
+   "desc": "Yazan Gable, originally a member of the Titans. Judau Ashta and his \ngang discovered him in an escape pod. When he realized that Argama \nwas in Shangri-La, he persuaded them to steal the Zeta Gundam.\nEventually, Judau turned on Yazan when he found out about the methods \nhe used, but his attack was unsuccessful. Later, he teamed with junk \ndealer Gemon Bajack and again attacked Argama, but Judau escaped and \nwas never heard of again.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 143,
+   "id": 29,
+   "flag": 4294967295,
+   "term": "ZAFT",
+   "series": "Mobile Suit Gundam SEED Destiny",
+   "desc": "An abbreviation of the phrase, \"Zodiac Alliance of Freedom Treaty,\" \ndenoting PLANT's military.\nOriginating from a political alliance created by Siegel Clyne and \nPatrick Zala, ZAFT is a military organization composed of volunteer \nCoordinators. All members undergo the same battle training with no \ndistinction between land, air or sea forces. Elite soldiers are \ndistinguishable by their red uniforms.\nThere are no ranks like in a regular army; instead, forces are \norganized into teams named after their commanders. Supreme authority \nrests with the National Defense Committee Chairman.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 144,
+   "id": 132,
+   "flag": 4294967295,
+   "term": "The Zaltzians",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The race that immigrated from the planet of Zaltz after it merged with\nthe Great Gamillan Empire. They are very serious and extremely loyal\nto Gamillas, but since they have the same skin color as Earthlings,\nthey are called an \"inferior race\" by Gamillans, who take pride in\ntheir blue skin. The fleet led by Shultz on the Gamillas Pluto\nFrontline Base is made up of Zaltzians.",
+   "desc2": "",
+   "desc2_mode": "same"
+  },
+  {
+   "idx": 145,
+   "id": 116,
+   "flag": 4294967295,
+   "term": "Zeus",
+   "series": "True Mazinger Edition Z: The Impact!",
+   "desc": "One of the Three Great Mycenaean Gods, and the ruler of them all. A \nlong time ago, he led a rebellion to protect the human race from the \nMycenaean Gods. When he fights, his armor shines with a golden sheen, \nand he wields a weapon that can change into a sword or spear. There \nis a Z etched in both his sword and his forehead. Koji, Tsubasa, and \nBaron Ashura met him when they were thrown into Ancient Mycenae \nthrough the Kedora's memories.\nHades managed to surprise him with a trap and cut off his right arm, \nbut Zeus managed to defeat Hades after teaming up with Mazinger Z. \nHis right arm became Japanium Ore, which was left underneath Bardos \nIsland, and later became the source of photonic power energy and \nSuper Alloy Z.",
+   "desc2": "",
+   "desc2_mode": "shared"
+  },
+  {
+   "idx": 146,
+   "id": 65,
+   "flag": 4294967295,
+   "term": "Zupist",
+   "series": "STAR BLAZERS 2199",
+   "desc": "The Gamillan name for Jupiter.",
+   "desc2": "",
+   "desc2_mode": "same"
+  }
+ ]
+}
