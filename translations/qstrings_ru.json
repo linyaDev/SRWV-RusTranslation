@@ -1,0 +1,592 @@
+{
+ "items": [
+  {
+   "en": "Akito is defeated.",
+   "ru": "Акито уничтожен."
+  },
+  {
+   "en": "Ally battleship is defeated.",
+   "ru": "Уничтожен союзный линкор."
+  },
+  {
+   "en": "Ange is defeated.",
+   "ru": "Анж уничтожена."
+  },
+  {
+   "en": "Ange or Salamandinay is defeated.",
+   "ru": "Уничтожена Анж или Саламандинай."
+  },
+  {
+   "en": "Ange or Tusk is defeated.",
+   "ru": "Потеря: Анж, Таск."
+  },
+  {
+   "en": "Ange, Shinn, Kira, Tusk, or Vivian is defeated.",
+   "ru": "Потеря: Анж, Синн, Кира, Таск, Вивиан."
+  },
+  {
+   "en": "Ange, Tusk, Vivian, or Salamandinay is defeated.",
+   "ru": "Потеря: Анж, Таск, Вивиан, Саламандинай."
+  },
+  {
+   "en": "Any ally unit is defeated.",
+   "ru": "Уничтожен любой союзный юнит."
+  },
+  {
+   "en": "Banagher is defeated",
+   "ru": "Банагер уничтожен"
+  },
+  {
+   "en": "Banagher is defeated.",
+   "ru": "Банагер уничтожен."
+  },
+  {
+   "en": "Banagher or Hathaway is defeated.",
+   "ru": "Уничтожен Банагер или Хэтэуэй."
+  },
+  {
+   "en": "Banagher or Kamille is defeated.",
+   "ru": "Уничтожен Банагер или Камий."
+  },
+  {
+   "en": "Banagher or Marida is defeated.",
+   "ru": "Потеря: Банагер, Марида."
+  },
+  {
+   "en": "Banagher, Hathaway or Sousuke is defeated.",
+   "ru": "Уничтожен Банагер, Хэтэуэй или Соскэ."
+  },
+  {
+   "en": "Banagher, Judau, Hathaway, or Setsuna is defeated.",
+   "ru": "Уничтожен Банагер, Джудо, Хэтэуэй или Сэцуна."
+  },
+  {
+   "en": "Banagher, Judau, or Sousuke is defeated",
+   "ru": "Уничтожен Банагер, Джудо или Соскэ"
+  },
+  {
+   "en": "Bonta-kun is defeated.",
+   "ru": "Бонта-кун уничтожен."
+  },
+  {
+   "en": "Clear map within 5 turns.",
+   "ru": "Пройти карту за 5 ходов."
+  },
+  {
+   "en": "Clear map within 7 turns.",
+   "ru": "Пройти карту за 7 ходов."
+  },
+  {
+   "en": "Clear map within 8 turns.",
+   "ru": "Пройти карту за 8 ходов."
+  },
+  {
+   "en": "Clear map without Yamato taking any damage.",
+   "ru": "Пройти карту, не допустив урона «Ямато»."
+  },
+  {
+   "en": "Defeat 15 enemies within 4 turns and also defeat Hiryu.",
+   "ru": "За 4 хода уничтожить 15 врагов и «Хирю»."
+  },
+  {
+   "en": "Defeat 8 enemies in 1 turn.",
+   "ru": "Уничтожить 8 врагов за один ход."
+  },
+  {
+   "en": "Defeat 8 enemy units within 4 turns.",
+   "ru": "Уничтожить 8 врагов за 4 хода."
+  },
+  {
+   "en": "Defeat 9 enemy units before meeting the victory conditions.",
+   "ru": "Уничтожить 9 врагов до выполнения условия победы."
+  },
+  {
+   "en": "Defeat Airborne Battleship Blanca.",
+   "ru": "Уничтожить воздушный линкор «Бланка»."
+  },
+  {
+   "en": "Defeat Arcadia within 5 turns after appearing.",
+   "ru": "Уничтожить «Аркадию» за 5 ходов после появления."
+  },
+  {
+   "en": "Defeat Banshee Norn.",
+   "ru": "Уничтожить Банши Норн."
+  },
+  {
+   "en": "Defeat Banshee.",
+   "ru": "Уничтожить Банши."
+  },
+  {
+   "en": "Defeat Baron Ashura Mechanical Beast.",
+   "ru": "Уничтожить механозверя барона Асуры."
+  },
+  {
+   "en": "Defeat Barskal.",
+   "ru": "Уничтожить «Барскал»."
+  },
+  {
+   "en": "Defeat Black Mightgaine.",
+   "ru": "Уничтожить Чёрного Майтгайна."
+  },
+  {
+   "en": "Defeat Byarlant Custom and Banshee within 4 turns in a single turn.",
+   "ru": "За 4 хода уничтожить Байарлант Кастом и Банши в один ход."
+  },
+  {
+   "en": "Defeat Byarlant Custom and Banshee.",
+   "ru": "Уничтожить Байарлант Кастом и Банши."
+  },
+  {
+   "en": "Defeat Cleopatra.",
+   "ru": "Уничтожить «Клеопатру»."
+  },
+  {
+   "en": "Defeat Crossbone Gundam X-2 Kai.",
+   "ru": "Уничтожить Кроссбоун Гандам X-2 Кай."
+  },
+  {
+   "en": "Defeat Darldo, Lanbare, Balgrey, and Shudelg.",
+   "ru": "Уничтожить «Дарлдо», «Ланбаре», «Бальгрей» и «Шудельг»."
+  },
+  {
+   "en": "Defeat Desura II and Barskal.",
+   "ru": "Уничтожить «Дэсуру II» и «Барскал»."
+  },
+  {
+   "en": "Defeat Desura II.",
+   "ru": "Уничтожить «Дэсуру II»."
+  },
+  {
+   "en": "Defeat Domelaze III or enemy retreat.",
+   "ru": "Уничтожить «Домелазе III» или отход врага."
+  },
+  {
+   "en": "Defeat Domelaze III.",
+   "ru": "Уничтожить «Домелазе III»."
+  },
+  {
+   "en": "Defeat Emperor of Darkness and Black Noir.",
+   "ru": "Уничтожить Императора Тьмы и Блэк Нуара."
+  },
+  {
+   "en": "Defeat Enryugo.",
+   "ru": "Уничтожить Энрюго."
+  },
+  {
+   "en": "Defeat Fifth Angel.",
+   "ru": "Уничтожить Пятого Ангела."
+  },
+  {
+   "en": "Defeat Galleon-class Dragon.",
+   "ru": "Уничтожить «Дракон» класса «Галеон»."
+  },
+  {
+   "en": "Defeat Goergametsch.",
+   "ru": "Уничтожить «Гёргамеч»."
+  },
+  {
+   "en": "Defeat Great General of Darkness.",
+   "ru": "Уничтожить Великого Генерала Тьмы."
+  },
+  {
+   "en": "Defeat Great Mazinger.",
+   "ru": "Уничтожить Грейт Мазингера."
+  },
+  {
+   "en": "Defeat Guipellon-class Lanbare within 5 turns.",
+   "ru": "За 5 ходов уничтожить «Ланбаре» класса «Гипеллон»."
+  },
+  {
+   "en": "Defeat Hades.",
+   "ru": "Уничтожить Хадеса."
+  },
+  {
+   "en": "Defeat Hell King Gordon.",
+   "ru": "Уничтожить Хелл Кинг Гордона."
+  },
+  {
+   "en": "Defeat Hiryu.",
+   "ru": "Уничтожить «Хирю»."
+  },
+  {
+   "en": "Defeat Hysterica.",
+   "ru": "Уничтожить Гистерику."
+  },
+  {
+   "en": "Defeat Imperial.",
+   "ru": "Уничтожить «Империал»."
+  },
+  {
+   "en": "Defeat Large ELS.",
+   "ru": "Уничтожить большой ELS."
+  },
+  {
+   "en": "Defeat Madivia Degg.",
+   "ru": "Уничтожить Мадивию Дегг."
+  },
+  {
+   "en": "Defeat Madivia.",
+   "ru": "Уничтожить Мадивию."
+  },
+  {
+   "en": "Defeat Mazinger Zero.",
+   "ru": "Уничтожить Мазингера Зеро."
+  },
+  {
+   "en": "Defeat Neo Zeong.",
+   "ru": "Уничтожить Нео Зеонга."
+  },
+  {
+   "en": "Defeat Ninth Angel or Tenth Angel.",
+   "ru": "Уничтожить Девятого или Десятого Ангела."
+  },
+  {
+   "en": "Defeat Ninth Angel.",
+   "ru": "Уничтожить Девятого Ангела."
+  },
+  {
+   "en": "Defeat PLAN-1055 Belial.",
+   "ru": "Уничтожить PLAN-1055 Белиала."
+  },
+  {
+   "en": "Defeat PLAN-1056 Chodar I.",
+   "ru": "Уничтожить PLAN-1056 Чодар I."
+  },
+  {
+   "en": "Defeat Rommel, Rakan, or Angelo within 4 turns.",
+   "ru": "За 4 хода уничтожить Роммеля, Ракана или Анджело."
+  },
+  {
+   "en": "Defeat Shaomai.",
+   "ru": "Уничтожить Шаомай."
+  },
+  {
+   "en": "Defeat Shin Getter Dragon.",
+   "ru": "Уничтожить Син-Геттер-Драгона."
+  },
+  {
+   "en": "Defeat Sinanju.",
+   "ru": "Уничтожить Синанджу."
+  },
+  {
+   "en": "Defeat Sixth Angel.",
+   "ru": "Уничтожить Шестого Ангела."
+  },
+  {
+   "en": "Defeat Slinvarsa within 4 turns after it appears.",
+   "ru": "Уничтожить Слинварсу за 4 хода после появления."
+  },
+  {
+   "en": "Defeat Stark 4126, Snooby, and Show-Gunn.",
+   "ru": "Уничтожить Старк 4126, Снуби и Шоу-Ганна."
+  },
+  {
+   "en": "Defeat Theodra within 2 turns.",
+   "ru": "Уничтожить «Теодру» за 2 хода."
+  },
+  {
+   "en": "Defeat Theodra.",
+   "ru": "Уничтожить «Теодру»."
+  },
+  {
+   "en": "Defeat Unicorn Gundam within 3 turns.",
+   "ru": "Уничтожить Юникорн Гандам за 3 хода."
+  },
+  {
+   "en": "Defeat Yatenko.",
+   "ru": "Уничтожить Ятенко."
+  },
+  {
+   "en": "Defeat Zoelguut II.",
+   "ru": "Уничтожить «Зельгут II»."
+  },
+  {
+   "en": "Defeat all enemies within 2 turns.",
+   "ru": "Уничтожить всех врагов за 2 хода."
+  },
+  {
+   "en": "Defeat all enemies within 3 turns.",
+   "ru": "Уничтожить всех врагов за 3 хода."
+  },
+  {
+   "en": "Defeat all enemies within 5 turns after appearing.",
+   "ru": "Уничтожить всех врагов за 5 ходов после появления."
+  },
+  {
+   "en": "Defeat all enemies within 5 turns.",
+   "ru": "Уничтожить всех врагов за 5 ходов."
+  },
+  {
+   "en": "Defeat all enemies within 6 turns.",
+   "ru": "Уничтожить всех врагов за 6 ходов."
+  },
+  {
+   "en": "Defeat all enemies within 8 turns.",
+   "ru": "Уничтожить всех врагов за 8 ходов."
+  },
+  {
+   "en": "Defeat all enemies.",
+   "ru": "Уничтожить всех врагов."
+  },
+  {
+   "en": "Defeat all enemy units before Kodai reaches objective point.",
+   "ru": "Уничтожить всех врагов до того, как Кодай дойдёт до цели."
+  },
+  {
+   "en": "Defeat all other enemies within 5 turns and also defeat Goergametsch.",
+   "ru": "За 5 ходов уничтожить всех прочих врагов и «Гёргамеч»."
+  },
+  {
+   "en": "Defeat all other enemies within 5 turns, and then defeat Hades.",
+   "ru": "За 5 ходов уничтожить всех прочих врагов, затем Хадеса."
+  },
+  {
+   "en": "Defeat at least 20 enemy units within 3 turns.",
+   "ru": "Уничтожить не менее 20 врагов за 3 хода."
+  },
+  {
+   "en": "Defeat at least 35 enemy units.",
+   "ru": "Уничтожить не менее 35 врагов."
+  },
+  {
+   "en": "Defeat at least 6 units on the first turn.",
+   "ru": "Уничтожить не менее 6 юнитов на первом ходу."
+  },
+  {
+   "en": "Dooben Wolf, Kshatriya, or Garencieres is defeated.",
+   "ru": "Потеря: Дубен Вольф, Кшатрия, «Гаренсьер»."
+  },
+  {
+   "en": "Eva Unit-01's HP falls below 10,000 within 5 turns.",
+   "ru": "HP Евангелиона-01 падает ниже 10 000 за 5 ходов."
+  },
+  {
+   "en": "Eva Unit-01's HP falls below 10,000.",
+   "ru": "HP Евангелиона-01 падает ниже 10 000."
+  },
+  {
+   "en": "Gaine is defeated.",
+   "ru": "Гайн уничтожен."
+  },
+  {
+   "en": "HP for Desura II falls below 20,000.",
+   "ru": "HP «Дэсуры II» падает ниже 20 000."
+  },
+  {
+   "en": "Hilda or Rosalie is defeated.",
+   "ru": "Уничтожена Хильда или Розали."
+  },
+  {
+   "en": "Jill or Hilda is defeated.",
+   "ru": "Уничтожена Джилл или Хильда."
+  },
+  {
+   "en": "Joe is defeated.",
+   "ru": "Джо уничтожен."
+  },
+  {
+   "en": "Judau is defeated.",
+   "ru": "Джудо уничтожен."
+  },
+  {
+   "en": "Judau or Sousuke is defeated",
+   "ru": "Уничтожен Джудо или Соскэ"
+  },
+  {
+   "en": "Judau, Hathaway, or Setsuna is defeated.",
+   "ru": "Уничтожен Джудо, Хэтэуэй или Сэцуна."
+  },
+  {
+   "en": "Kamille is defeated.",
+   "ru": "Камий уничтожен."
+  },
+  {
+   "en": "Kamille or Fa is defeated.",
+   "ru": "Потеря: Камий, Фа."
+  },
+  {
+   "en": "Kappei is defeated.",
+   "ru": "Каппэй уничтожен."
+  },
+  {
+   "en": "Kappei or Maito is defeated.",
+   "ru": "Уничтожен Каппэй или Майто."
+  },
+  {
+   "en": "Kodai is defeated.",
+   "ru": "Кодай уничтожен."
+  },
+  {
+   "en": "Kodai or Akito is defeated.",
+   "ru": "Уничтожен Кодай или Акито."
+  },
+  {
+   "en": "Kodai reaches objective point within 4 turns.",
+   "ru": "Кодай достигает указанной точки за 4 хода."
+  },
+  {
+   "en": "Koji is defeated.",
+   "ru": "Кодзи уничтожен."
+  },
+  {
+   "en": "Koji or Tetsuya is defeated.",
+   "ru": "Уничтожен Кодзи или Тэцуя."
+  },
+  {
+   "en": "Koji, Ryoma, or Ange is defeated.",
+   "ru": "Потеря: Кодзи, Рёма, Анж."
+  },
+  {
+   "en": "Koji, Tetsuya, or Shinji is defeated.",
+   "ru": "Уничтожен Кодзи, Тэцуя или Синдзи."
+  },
+  {
+   "en": "Maito is defeated.",
+   "ru": "Майто уничтожен."
+  },
+  {
+   "en": "Maito or Akito is defeated.",
+   "ru": "Уничтожен Майто или Акито."
+  },
+  {
+   "en": "Meet the victory condition after defeating all enemies.",
+   "ru": "Выполнить условие победы, уничтожив всех врагов."
+  },
+  {
+   "en": "Melda is defeated.",
+   "ru": "Мельда уничтожена."
+  },
+  {
+   "en": "Nadesico B is defeated.",
+   "ru": "«Надэсико-B» уничтожен."
+  },
+  {
+   "en": "Nadesico C reaches the line within 5 turns.",
+   "ru": "«Надэсико-C» достигает рубежа за 5 ходов."
+  },
+  {
+   "en": "Nahel Argama reaches the objective point within 4 turns.",
+   "ru": "«Нахель Аргама» достигает указанной точки за 4 хода."
+  },
+  {
+   "en": "None.",
+   "ru": "Нет."
+  },
+  {
+   "en": "Reach 3rd turn ally phase after Unicorn Gundam rampage.",
+   "ru": "Дойти до фазы союзников 3-го хода после буйства Юникорна."
+  },
+  {
+   "en": "Reach 3rd turn of ally phase.",
+   "ru": "Дойти до фазы союзников 3-го хода."
+  },
+  {
+   "en": "Reach 4 turns after Slinvarsa appears.",
+   "ru": "Продержаться 4 хода после появления Слинварсы."
+  },
+  {
+   "en": "Reach 4th turn ally phase after PLAN-1055 Belial appears.",
+   "ru": "Дойти до фазы союзников 4-го хода после появления Белиала."
+  },
+  {
+   "en": "Reach 5 turns after Arcadia appears.",
+   "ru": "Продержаться 5 ходов после появления «Аркадии»."
+  },
+  {
+   "en": "Reach 5 turns after Cowen & Stinger appear.",
+   "ru": "Продержаться 5 ходов после появления Коуэна и Стингера."
+  },
+  {
+   "en": "Reach 5th turn.",
+   "ru": "Дойти до 5-го хода."
+  },
+  {
+   "en": "Reach 6th turn.",
+   "ru": "Дойти до 6-го хода."
+  },
+  {
+   "en": "Reach 9th turn.",
+   "ru": "Дойти до 9-го хода."
+  },
+  {
+   "en": "Riddhe is defeated.",
+   "ru": "Риддхе уничтожен."
+  },
+  {
+   "en": "Ryoma is defeated.",
+   "ru": "Рёма уничтожен."
+  },
+  {
+   "en": "SR points are not included in Secret Scenarios.",
+   "ru": "SR-очки в секретных сценариях не начисляются."
+  },
+  {
+   "en": "SR points are not included in Special Scenarios.",
+   "ru": "SR-очки в особых сценариях не начисляются."
+  },
+  {
+   "en": "SR points are not included in this scenario.",
+   "ru": "SR-очки в этом сценарии не начисляются."
+  },
+  {
+   "en": "Salia, Vivan, or Ersha is defeated.",
+   "ru": "Уничтожена Салия, Вивиан или Эрша."
+  },
+  {
+   "en": "Setsuna is defeated.",
+   "ru": "Сэцуна уничтожен."
+  },
+  {
+   "en": "Setsuna or Tieria is defeated.",
+   "ru": "Уничтожен Сэцуна или Тиерия."
+  },
+  {
+   "en": "Shamblo's HP falls below 10,000.",
+   "ru": "HP Шамбло падает ниже 10 000."
+  },
+  {
+   "en": "Shinji is defeated.",
+   "ru": "Синдзи уничтожен."
+  },
+  {
+   "en": "Shinji or Koji is defeated.",
+   "ru": "Уничтожен Синдзи или Кодзи."
+  },
+  {
+   "en": "Shinji or Rei is defeated.",
+   "ru": "Потеря: Синдзи, Рэй."
+  },
+  {
+   "en": "Shinji, Rei, Asuka, or Maito is defeated.",
+   "ru": "Потеря: Синдзи, Рэй, Аска, Майто."
+  },
+  {
+   "en": "Shinji, Rei, Tetsuya, Yazan, or Jerid is defeated.",
+   "ru": "Потеря: Синдзи, Рэй, Тэцуя, Язан, Джерид."
+  },
+  {
+   "en": "Shinji, Ryoma, or Tetsuya is defeated.",
+   "ru": "Уничтожен Синдзи, Рёма или Тэцуя."
+  },
+  {
+   "en": "Shultz is defeated.",
+   "ru": "Шульц уничтожен."
+  },
+  {
+   "en": "Sousuke is defeated.",
+   "ru": "Соскэ уничтожен."
+  },
+  {
+   "en": "Yamato is defeated.",
+   "ru": "«Ямато» уничтожен."
+  },
+  {
+   "en": "Yamato reaches objective point.",
+   "ru": "«Ямато» достигает указанной точки."
+  },
+  {
+   "en": "Yazan, Jerid, or Banagher is defeated.",
+   "ru": "Уничтожен Язан, Джерид или Банагер."
+  }
+ ]
+}
