@@ -601,13 +601,13 @@
     {
       "key": "BTKW_COMMANDMENU_UNIT_EX_ACTION",
       "values": [
-        "Экс-действие"
+        "Действие-Экс"
       ]
     },
     {
       "key": "BTKW_COMMANDMENU_UNIT_EX_ORDER",
       "values": [
-        "Экс-приказ"
+        "Приказ-Экс"
       ]
     },
     {
@@ -799,7 +799,7 @@
     {
       "key": "BTKW_COMMANDMENU_UNIT_ABILITY",
       "values": [
-        "Способность"
+        "Статус"
       ]
     },
     {
@@ -1739,7 +1739,7 @@
     {
       "key": "BTKW_SWM_QC_UNIT_ABILITY",
       "values": [
-        "Личная команда «Способность»."
+        "Личная команда «Статус»."
       ]
     },
     {
