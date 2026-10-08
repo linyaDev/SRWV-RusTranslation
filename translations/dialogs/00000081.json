@@ -1,0 +1,1384 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Ганц",
+   "text": "「Терронцы посмели напасть!」",
+   "orig": "Ganz\n「The Terrons dare attack us!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Шульц",
+   "text": "「Проклятый корабль\n　выпустил юниты?」",
+   "orig": "Shultz\n「That infernal ship\n　deployed its units?」"
+  },
+  {
+   "i": 2,
+   "speaker": "Джарлетора",
+   "text": "「Но как?」",
+   "orig": "Jarletora\n「But how?」"
+  },
+  {
+   "i": 3,
+   "speaker": "Шульц",
+   "text": "「Значит, «Ямато» всё ещё на ходу!\n　Готовьте отражательную спутниковую пушку!」",
+   "orig": "Shultz\n「The Yamato must still be operational!\n　Prepare the reflection satellite cannon at once!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Шульц",
+   "text": "「Покажем им достойного противника.」",
+   "orig": "Shultz\n「Let's give them a worthy opponent.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Ганц",
+   "text": "「Есть!」",
+   "orig": "Ganz\n「Understood!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Шульц",
+   "text": "「Мы уже доложили вождю о победе.\n　«Ямато» должен быть уничтожен любой ценой!」",
+   "orig": "Shultz\n「We have already reported victory to the Supreme Leader.\n　The Yamato must be defeated at all costs!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Кодай",
+   "text": "「Всем машинам рассредоточиться!\n　Координаты базы я уже передал на «Ямато»!」",
+   "orig": "Kodai\n「All units, spread out!\n　I've already sent the base's location to the Yamato!」"
+  },
+  {
+   "i": 8,
+   "speaker": "$n",
+   "text": "「Они заплатят за всё,\n　что сделали с нашим кораблём!」",
+   "orig": "$n\n「Let's make them pay for\n　what they did to our ship!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Кинкейд",
+   "text": "「Не теряйте головы.\n　С базы уже идут силы перехвата!」",
+   "orig": "Kincade\n「Keep your wits about you.\n　Intercepting forces are on their way from the base!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Тобиа",
+   "text": "「Что это?!」",
+   "orig": "Tobia\n「What's that?!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Ганц",
+   "text": "「Терронцы посмели напасть!」",
+   "orig": "Ganz\n「The Terrons dare attack us!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Шульц",
+   "text": "「Проклятый корабль\n　выпустил юниты?」",
+   "orig": "Shultz\n「That infernal ship\n　deployed its units?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Джарлетора",
+   "text": "「Но как?」",
+   "orig": "Jarletora\n「But how?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Шульц",
+   "text": "「Значит, «Ямато» всё ещё на ходу!\n　Готовьте отражательную спутниковую пушку!」",
+   "orig": "Shultz\n「The Yamato must still be operational!\n　Prepare the reflection satellite cannon at once!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Шульц",
+   "text": "「Покажем им достойного противника.」",
+   "orig": "Shultz\n「Let's give them a worthy opponent.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Ганц",
+   "text": "「Есть!」",
+   "orig": "Ganz\n「Understood!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Шульц",
+   "text": "「Мы уже доложили вождю о победе.\n　«Ямато» должен быть уничтожен любой ценой!」",
+   "orig": "Shultz\n「We have already reported victory to the Supreme Leader.\n　The Yamato must be defeated at all costs!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Кодай",
+   "text": "「Всем машинам рассредоточиться!\n　Координаты базы я уже передал на «Ямато»!」",
+   "orig": "Kodai\n「All units, spread out!\n　I've already sent the base's location to the Yamato!」"
+  },
+  {
+   "i": 19,
+   "speaker": "$n",
+   "text": "「Мы отплатим им той же монетой\n　за всё, что сделали с кораблём!」",
+   "orig": "$n\n「We'll pay them back in kind\n　for what they did to our ship!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Кинкейд",
+   "text": "「Не теряйте головы.\n　С базы уже идут силы перехвата!」",
+   "orig": "Kincade\n「Keep your wits about you.\n　Intercepting forces are on their way from the base!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тобиа",
+   "text": "「Что это?!」",
+   "orig": "Tobia\n「What's that?!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Тобиа",
+   "text": "「Это мобильные доспехи Империи Юпитера!」",
+   "orig": "Tobia\n「Those are mobile suits from the Jupiter Empire!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Кодай",
+   "text": "「Гамиласцы их захватили?」",
+   "orig": "Kodai\n「Did the Gamillans commandeer them?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Вельт",
+   "text": "「Нет чести в том, чтобы перебегать с одной стороны\n　на другую, когда меняется расклад сил!」",
+   "orig": "Velt\n「There's no honor in swinging from one side to the other\n　when the balance of power shifts!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Лотти",
+   "text": "「И что это значит?」",
+   "orig": "Lottie\n「Which means, what, exactly?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Кинкейд",
+   "text": "「Это не совпадение.\n　Они в союзе с Гамиласом!」",
+   "orig": "Kincade\n「This isn't a coincidence.\n　They're allied with Gamillas!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Рёма",
+   "text": "「Вот оно как. Это земляне, готовые продать\n　Землю тому, кто больше заплатит.」",
+   "orig": "Ryoma\n「So that's how it is. They're Earthlings who will\n　throw Earth away to the highest bidder.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тэцуя",
+   "text": "「Хотя какие они теперь земляне,\n　раз снюхались с инопланетным врагом.」",
+   "orig": "Tetsuya\n「But I wouldn't call them Earthlings\n　now that they've allied with enemy aliens.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Рёма",
+   "text": "「А значит —」",
+   "orig": "Ryoma\n「Which means—」"
+  },
+  {
+   "i": 30,
+   "speaker": "$n",
+   "text": "「Пощады им не будет!」",
+   "orig": "$n\n「We're not gonna show them any mercy!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Кодай",
+   "text": "「Видимо, выбора нет.\n　Придётся разбить и Гамилас, и Империю Юпитера!」",
+   "orig": "Kodai\n「I guess there's no other way.\n　We have to take down both Gamillas and the Jupiter Empire!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Кодай",
+   "text": "「$l,\n　не забывай про другой приказ!」",
+   "orig": "Kodai\n「$l,\n　don't forget, you've got other orders!」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Помню,\n　но выполнять его буду не я.」",
+   "orig": "$n\n「I know,\n　but I'm not the one who can carry them out.」"
+  },
+  {
+   "i": 34,
+   "speaker": "$n",
+   "text": "「Теперь твой выход, Найн-Найн.\n　Судьба «Ямато» в твоих руках!」",
+   "orig": "$n\n「This is where you come in, Nine-Nine.\n　The fate of the Yamato is in your hands!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 36,
+   "speaker": "Тобиа",
+   "text": "「Это мобильные доспехи Империи Юпитера!」",
+   "orig": "Tobia\n「Those are mobile suits from the Jupiter Empire!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Кодай",
+   "text": "「Гамиласцы их захватили?」",
+   "orig": "Kodai\n「Did the Gamillans commandeer them?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кинкейд",
+   "text": "「Переметнуться к тому, кто сильнее, —\n　это самое настоящее предательство!」",
+   "orig": "Kincade\n「Just because they're more powerful\n　doesn't warrant something so treacherous!」"
+  },
+  {
+   "i": 39,
+   "speaker": "$n",
+   "text": "「О чём ты?」",
+   "orig": "$n\n「What do you mean?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Кинкейд",
+   "text": "「Это не совпадение.\n　Они в союзе с Гамиласом!」",
+   "orig": "Kincade\n「This isn't a coincidence.\n　They're allied with Gamillas!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Рёма",
+   "text": "「Вот оно как. Это земляне, готовые продать\n　Землю тому, кто больше заплатит.」",
+   "orig": "Ryoma\n「So that's how it is. They're Earthlings who will\n　throw Earth away to the highest bidder.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Тэцуя",
+   "text": "「Какие они теперь земляне,\n　раз снюхались с инопланетным врагом.」",
+   "orig": "Tetsuya\n「I wouldn't call them Earthlings\n　now that they've allied with enemy aliens.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Рёма",
+   "text": "「А значит —」",
+   "orig": "Ryoma\n「Which means—」"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「Пощады им не будет!」",
+   "orig": "$n\n「We're not gonna show them any mercy!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Кодай",
+   "text": "「Видимо, выбора нет.\n　Придётся разбить и Гамилас, и Империю Юпитера!」",
+   "orig": "Kodai\n「I guess there's no other way.\n　We have to take down both Gamillas and the Jupiter Empire!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Кодай",
+   "text": "「$l,\n　не забывай про другой приказ!」",
+   "orig": "Kodai\n「$l,\n　don't forget, you've got other orders!」"
+  },
+  {
+   "i": 47,
+   "speaker": "$n",
+   "text": "「Помню,\n　но выполнять его буду не я.」",
+   "orig": "$n\n「I know,\n　but I'm not the one who can carry them out.」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Теперь твой выход, Найн-Найн.\n　Судьба «Ямато» в твоих руках!」",
+   "orig": "$n\n「This is where you come in, Nine-Nine.\n　The fate of the Yamato is in your hands!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 50,
+   "speaker": "Тобиа",
+   "text": "「Это мобильные доспехи Империи Юпитера!」",
+   "orig": "Tobia\n「Those are mobile suits from the Jupiter Empire!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Кодай",
+   "text": "「Гамиласцы их захватили?」",
+   "orig": "Kodai\n「Did the Gamillans commandeer them?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Вельт",
+   "text": "「Нет чести в том, чтобы перебегать с одной стороны\n　на другую, когда меняется расклад сил!」",
+   "orig": "Velt\n「There's no honor in swinging from one side to the other\n　when the balance of power shifts!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Лотти",
+   "text": "「И что это значит?」",
+   "orig": "Lottie\n「Which means, what, exactly?」"
+  },
+  {
+   "i": 54,
+   "speaker": "Кинкейд",
+   "text": "「Это не совпадение.\n　Они в союзе с Гамиласом!」",
+   "orig": "Kincade\n「This isn't a coincidence.\n　They're allied with Gamillas!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Рёма",
+   "text": "「Вот оно как. Это земляне, готовые продать\n　Землю тому, кто больше заплатит.」",
+   "orig": "Ryoma\n「So that's how it is. They're Earthlings who will\n　throw Earth away to the highest bidder.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тэцуя",
+   "text": "「Какие они теперь земляне,\n　раз снюхались с инопланетным врагом.」",
+   "orig": "Tetsuya\n「I wouldn't call them Earthlings\n　now that they've allied with enemy aliens.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рёма",
+   "text": "「А значит —」",
+   "orig": "Ryoma\n「Which means—」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Сдерживаться мы не станем!」",
+   "orig": "$n\n「We're not gonna hold anything back!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Кодай",
+   "text": "「Видимо, выбора нет.\n　Придётся разбить и Гамилас, и Империю Юпитера!」",
+   "orig": "Kodai\n「I guess there's no other way.\n　We have to take down both Gamillas and the Jupiter Empire!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Кодай",
+   "text": "「$l,\n　не забывай про другой приказ!」",
+   "orig": "Kodai\n「$l,\n　don't forget, you've got other orders!」"
+  },
+  {
+   "i": 61,
+   "speaker": "$n",
+   "text": "「Помню!」",
+   "orig": "$n\n「I know!」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Дальше дело за тобой, Найн-Найн.\n　Судьба «Ямато» в твоих руках!」",
+   "orig": "$n\n「It's up to you now, Nine-Nine.\n　The fate of the Yamato is in your hands!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 64,
+   "speaker": "Тобиа",
+   "text": "「Это мобильные доспехи Империи Юпитера!」",
+   "orig": "Tobia\n「Those are mobile suits from the Jupiter Empire!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Кодай",
+   "text": "「Гамиласцы их захватили?」",
+   "orig": "Kodai\n「Did the Gamillans commandeer them?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Кинкейд",
+   "text": "「Переметнуться к тому, кто сильнее, —\n　это самое настоящее предательство!」",
+   "orig": "Kincade\n「Just because they're more powerful\n　doesn't warrant something so treacherous!」"
+  },
+  {
+   "i": 67,
+   "speaker": "$n",
+   "text": "「Это то, о чём я думаю?」",
+   "orig": "$n\n「Does that mean what I think it means?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Кинкейд",
+   "text": "「Это не совпадение.\n　Они в союзе с Гамиласом!」",
+   "orig": "Kincade\n「This isn't a coincidence.\n　They're allied with Gamillas!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Рёма",
+   "text": "「Вот оно как. Это земляне, готовые продать\n　Землю тому, кто больше заплатит.」",
+   "orig": "Ryoma\n「So that's how it is. They're Earthlings who will\n　throw Earth away to the highest bidder.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тэцуя",
+   "text": "「Какие они теперь земляне,\n　раз снюхались с инопланетным врагом.」",
+   "orig": "Tetsuya\n「I wouldn't call them Earthlings\n　now that they've allied with enemy aliens.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Рёма",
+   "text": "「А значит —」",
+   "orig": "Ryoma\n「Which means—」"
+  },
+  {
+   "i": 72,
+   "speaker": "$n",
+   "text": "「Сдерживаться мы не станем!」",
+   "orig": "$n\n「We're not gonna hold anything back!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Кодай",
+   "text": "「Видимо, выбора нет.\n　Придётся разбить и Гамилас, и Империю Юпитера!」",
+   "orig": "Kodai\n「I guess there's no other way.\n　We have to take down both Gamillas and the Jupiter Empire!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Кодай",
+   "text": "「$l,\n　не забывай про другой приказ!」",
+   "orig": "Kodai\n「$l,\n　don't forget, you've got other orders!」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「Помню!」",
+   "orig": "$n\n「I know!」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「Дальше дело за тобой, Найн-Найн.\n　Судьба «Ямато» в твоих руках!」",
+   "orig": "$n\n「It's up to you now, Nine-Nine.\n　The fate of the Yamato is in your hands!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 78,
+   "speaker": "Джарлетора",
+   "text": "「Подтверждаю! «Ямато» приближается!」",
+   "orig": "Jarletora\n「Confirmed! The Yamato is approaching!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Шульц",
+   "text": "「Отражательная пушка готова?」",
+   "orig": "Shultz\n「Is the reflection satellite cannon ready?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Ганц",
+   "text": "「Зарядка энергии почти завершена!」",
+   "orig": "Ganz\n「The energy charge will finish shortly!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Шульц",
+   "text": "「Отлично!\n　Зарядить отражательную пушку!」",
+   "orig": "Shultz\n「Perfect!\n　Load the reflection satellite cannon!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Система 99",
+   "text": "「Зафиксирована мощная энергореакция.」",
+   "orig": "System Nine-Nine\n「High energy reaction confirmed.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Вон там!」",
+   "orig": "$n\n「Over there!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Система 99",
+   "text": "「Зафиксирована мощная энергореакция.」",
+   "orig": "System Nine-Nine\n「High energy reaction confirmed.」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Попался!」",
+   "orig": "$n\n「Gotcha!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Кодай",
+   "text": "「«Ямато», приём!\n　Мы нашли вражеское орудие!\n　Передаю вам координаты!」",
+   "orig": "Kodai\n「Yamato, come in!\n　We've located the enemy weapon!\n　I'm sending you the coordinates!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Кодай",
+   "text": "「Враг сейчас его заряжает.\n　Это ваш шанс! Скорее!」",
+   "orig": "Kodai\n「The enemy is charging it up.\n　Now's your chance! Hurry!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Шульц",
+   "text": "「Победа любит терпеливых, а не тех, кто рвётся\n　напролом. Жаль, ты не проживёшь достаточно,\n　чтобы усвоить этот урок, «Ямато»!」",
+   "orig": "Shultz\n「Victory is about patience, not about rushing\n　in guns blazing. Too bad you won't survive\n　long enough to learn from your mistake, Yamato!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Шульц",
+   "text": "「Отражательная пушка об этом позаботится!」",
+   "orig": "Shultz\n「The reflection satellite cannon will see to that!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Ганц",
+   "text": "「Зарядка завершена!\n　Начинаю отсчёт!」",
+   "orig": "Ganz\n「Charging complete!\n　Counting down!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Ганц",
+   "text": "「10, 9, 8, 7, 6, 5, 4, 3—」",
+   "orig": "Ganz\n「10, 9, 8, 7, 6, 5, 4, 3—」"
+  },
+  {
+   "i": 92,
+   "speaker": "Рёма",
+   "text": "「Плохо дело, Кодай!\n　Уровень энергии растёт!」",
+   "orig": "Ryoma\n「This isn't good, Kodai!\n　The energy levels are rising!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Кодай",
+   "text": "「Намбу,\n　скорее!」",
+   "orig": "Kodai\n「Nanbu,\n　hurry!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Тэцуя",
+   "text": "「Вот оно!」",
+   "orig": "Tetsuya\n「Here it comes!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Ганц",
+   "text": "「П-платформа отражательной пушки повреждена!\n　Поток энергии пошёл в обратную сторону!」",
+   "orig": "Ganz\n「Th-the reflection satellite cannon platform has sustained\n　damage! The energy current has flipped!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Шульц",
+   "text": "「Нет!」",
+   "orig": "Shultz\n「No!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тобиа",
+   "text": "「Получилось!」",
+   "orig": "Tobia\n「We did it!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Кинкейд",
+   "text": "「После такого взрыва от базы мало что осталось.」",
+   "orig": "Kincade\n「Can't be anything left of the base after that blast.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Кодай",
+   "text": "「Узнаю командующего Окиту: зарядить главный калибр\n　снарядом с замедлителем для подрыва в упор.」",
+   "orig": "Kodai\n「Leave it to Commander Okita to set up the main\n　cannon to a timed fuse to detonate at short range.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Тэцуя",
+   "text": "「Кодай, сюда идёт «Ямато»!」",
+   "orig": "Tetsuya\n「Kodai, here comes the Yamato!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Мори",
+   "text": "「Офицер-тактик Кодай, вернитесь на корабль.」",
+   "orig": "Mori\n「Tactical Officer Kodai, please return to the ship.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Кодай",
+   "text": "「Вас понял.」",
+   "orig": "Kodai\n「Roger that.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Кодай",
+   "text": "「Передовую оставляю на вас, ребята!」",
+   "orig": "Kodai\n「Everyone, I'm leaving the front line to you!」"
+  },
+  {
+   "i": 104,
+   "speaker": "$n",
+   "text": "「Принято!\n　Покончим с этим!」",
+   "orig": "$n\n「We got it!\n　Let's finish this!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Мори",
+   "text": "「Офицер-тактик Кодай, вернитесь на корабль.」",
+   "orig": "Mori\n「Tactical Officer Kodai, please return to the ship.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Кодай",
+   "text": "「Вас понял.」",
+   "orig": "Kodai\n「Roger that.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Кодай",
+   "text": "「Передовую оставляю на вас, ребята!」",
+   "orig": "Kodai\n「Everyone, I'm leaving the front line up to you!」"
+  },
+  {
+   "i": 108,
+   "speaker": "$n",
+   "text": "「Есть!\n　Закончим этот бой!」",
+   "orig": "$n\n「Yes, sir!\n　Let's end this!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Шульц",
+   "text": "「Проклятый\n　«Ямато»!」",
+   "orig": "Shultz\n「That damn\n　Yamato!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Ганц",
+   "text": "「Командующий,\n　оставаться здесь слишком опасно!\n　Вы должны отступить!」",
+   "orig": "Ganz\n「Commander,\n　it's too dangerous to stay here!\n　You must retreat!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Шульц",
+   "text": "「И не подумаю!」",
+   "orig": "Shultz\n「I will do no such thing!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Ганц",
+   "text": "「Погибнув, вы уже не сможете вернуть свою честь!」",
+   "orig": "Ganz\n「You won't have a chance to regain your honor if you die!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Шульц",
+   "text": "「Ргх!」",
+   "orig": "Shultz\n「Augh!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Сима",
+   "text": "「Получилось, Кодай!」",
+   "orig": "Shima\n「We did it, Kodai!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Кодай",
+   "text": "「«Ямато» обезвредил козырь врага,\n　а мы сумели точно определить\n　его местоположение.」",
+   "orig": "Kodai\n「The Yamato rendered the enemy's\n　trump card useless, and we were \n　able to pin down its location.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Окита",
+   "text": "「Отлично, Кодай.\n　Но бой ещё далеко не окончен.」",
+   "orig": "Okita\n「Well done, Kodai.\n　But the fight is far from over.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Кодай",
+   "text": "「Так точно.\n　Теперь они испытают на себе новую мощь Земли!」",
+   "orig": "Kodai\n「Yes, sir.\n　Now they'll finally get a taste of Earth's new power!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Мори",
+   "text": "「С базы взлетают корабли! Их не сосчитать!」",
+   "orig": "Mori\n「Ships are taking off from the base! Too many to count!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Санада",
+   "text": "「Похоже, вражеские корабли бросают базу\n　и отступают.」",
+   "orig": "Sanada\n「It appears the enemy ships are abandoning the base\n　and retreating.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Окита",
+   "text": "「Это, должно быть, их флагман!」",
+   "orig": "Okita\n「That must be their flagship!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Окита",
+   "text": "「Полный вперёд!\n　Мобильные юниты — на передовую!」",
+   "orig": "Okita\n「Full speed ahead!\n　Mobile units, to the front lines!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Окита",
+   "text": "「Мы уничтожим вражеский флагман и выметем\n　гамиласцев из Солнечной системы!」",
+   "orig": "Okita\n「We will destroy the enemy flagship and scourge the\n　Gamillans from the Solar System!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Шульц",
+   "text": "「Что ты делаешь, Джарлетора?」",
+   "orig": "Shultz\n「What are you doing, Jarletora?」"
+  },
+  {
+   "i": 125,
+   "speaker": "Джарлетора",
+   "text": "「Мы станем вашим щитом.\n　Уходите в безопасное место!」",
+   "orig": "Jarletora\n「We will be your shield.\n　You must get to safety!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Джарлетора",
+   "text": "「Все корабли, за мной!\n　Мы удержим фронт, пока «Ле Шевалье» командующего\n　Шульца не отойдёт!」",
+   "orig": "Jarletora\n「All ships, with me!\n　We must hold the front lines until Commander Shultz's\n　Le Chevalier withdraws!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Шульц",
+   "text": "「Джарлетора—」",
+   "orig": "Shultz\n「Jarletora—」"
+  },
+  {
+   "i": 128,
+   "speaker": "Ганц",
+   "text": "「Командующий, вы должны использовать\n　шанс, который даёт вам Джарлетора.」",
+   "orig": "Ganz\n「Commander, you must take this chance\n　that Jarletora is giving you.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Шульц",
+   "text": "「«Ле Шевалье» отходит!\n　Переходим в режим Гешу-Там!」",
+   "orig": "Shultz\n「Le Chevalier will withdraw!\n　Switching to Geshu Tam navigation!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Окита",
+   "text": "「Офицер Санада,\n　рассчитать курс отхода флагмана!」",
+   "orig": "Okita\n「Officer Sanada,\n　calculate the flagship's withdrawal course!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Санада",
+   "text": "「Анализ завершён.\n　Передаю координаты!」",
+   "orig": "Sanada\n「Analysis completed.\n　Relaying coordinates now!」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Вы не уйдёте, пока не заплатите\n　за всё, что сделали с Землёй!」",
+   "orig": "$n\n「No way you're getting away without us\n　paying you back for what you did to Earth!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Окита",
+   "text": "「Начать атаку!\n　Цель — флагман!」",
+   "orig": "Okita\n「Commence attack!\n　Target the flagship!」"
+  },
+  {
+   "i": 134,
+   "speaker": "$n",
+   "text": "「Так просто вам не ускользнуть!\n　Вы заплатите за все загубленные жизни!」",
+   "orig": "$n\n「I'm not letting you slip away that easy!\n　You're going to pay for the lives you've ruined!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Окита",
+   "text": "「Начать атаку!\n　Цель — флагман!」",
+   "orig": "Okita\n「Commence attack!\n　Target the flagship!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Шульц",
+   "text": "「Нет!\n　«Ле Шевалье» не успевает уйти!」",
+   "orig": "Shultz\n「No!\n　Le Chevalier isn't going to make it!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Джарлетора",
+   "text": "「Я этого не допущу!」",
+   "orig": "Jarletora\n「I won't let that happen!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Мори",
+   "text": "「Вражеский корабль идёт прямо на нас!」",
+   "orig": "Mori\n「The enemy ship is heading straight for us!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Окита",
+   "text": "「Всем огонь по готовности!\n　Остановите этот корабль!」",
+   "orig": "Okita\n「All units fire at will!\n　Stop that ship!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Кодай",
+   "text": "「Все юниты,\n　огонь!」",
+   "orig": "Kodai\n「All units,\n　fire!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Джарлетора",
+   "text": "「Командующий Шульц,\n　судьба всех зальцианцев теперь в ваших руках!」",
+   "orig": "Jarletora\n「Commander Shultz,\n　the fate of all Zaltzians rests with you now!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Ганц",
+   "text": "「Джарлетора!」",
+   "orig": "Ganz\n「Jarletora!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Шульц",
+   "text": "「Полный вперёд!\n　Уничтожить «Ямато»!」",
+   "orig": "Shultz\n「Full speed ahead!\n　Destroy the Yamato!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Шульц",
+   "text": "「Ваша жертва не будет напрасной,\n　Джарлетора. Клянусь!」",
+   "orig": "Shultz\n「I will not let any of your sacrifices be in vain,\n　Jarletora. I swear it!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Мори",
+   "text": "「Вражеский флагман отходит\n　и готовится к варпу.」",
+   "orig": "Mori\n「The enemy flagship is withdrawing\n　and preparing to warp.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Окита",
+   "text": "「Ясно.」",
+   "orig": "Okita\n「I see.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Окита",
+   "text": "（Тот командир отдал жизнь, чтобы флагман\n　смог уйти.）",
+   "orig": "Okita\n（That commander gave his life so the flagship\n　could escape.）"
+  },
+  {
+   "i": 148,
+   "speaker": "Окита",
+   "text": "（Совсем как Мамору Кодай.\n　Враг похож на нас больше, чем мы думали.）",
+   "orig": "Okita\n（Just like Mamoru Kodai.\n　Our enemy is more like us than we suspected.）"
+  },
+  {
+   "i": 149,
+   "speaker": "Джарлетора",
+   "text": "「Гх!\n　Значит, это конец?」",
+   "orig": "Jarletora\n「Gah!\n　So this is the end?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Джарлетора",
+   "text": "「Да будет так!」",
+   "orig": "Jarletora\n「Then let it end!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Мори",
+   "text": "「Вражеский корабль идёт прямо на нас!」",
+   "orig": "Mori\n「The enemy ship is heading straight for us!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Окита",
+   "text": "「Всем огонь по готовности!\n　Остановите этот корабль!」",
+   "orig": "Okita\n「All units fire at will!\n　Stop that ship!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Кодай",
+   "text": "「Все юниты,\n　огонь!」",
+   "orig": "Kodai\n「All units,\n　fire!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Джарлетора",
+   "text": "「Командующий Шульц,\n　судьба всех зальцианцев теперь в ваших руках!」",
+   "orig": "Jarletora\n「Commander Shultz,\n　the fate of all Zaltzians rests with you now!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Ганц",
+   "text": "「Джарлетора!」",
+   "orig": "Ganz\n「Jarletora!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Шульц",
+   "text": "「Полный вперёд!\n　Уничтожить «Ямато»!」",
+   "orig": "Shultz\n「Full speed ahead!\n　Destroy the Yamato!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Шульц",
+   "text": "「Ваша жертва не будет напрасной,\n　Джарлетора. Клянусь!」",
+   "orig": "Shultz\n「I will not let any of your sacrifices be in vain,\n　Jarletora. I swear it!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Мори",
+   "text": "「Вражеский флагман отходит\n　и готовится к варпу.」",
+   "orig": "Mori\n「The enemy flagship is withdrawing\n　and preparing to warp.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Окита",
+   "text": "「Ясно.」",
+   "orig": "Okita\n「I see.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Окита",
+   "text": "（Тот командир отдал жизнь, чтобы флагман\n　смог уйти.）",
+   "orig": "Okita\n（That commander gave his life so the flagship\n　could escape.）"
+  },
+  {
+   "i": 161,
+   "speaker": "Окита",
+   "text": "（Совсем как Мамору Кодай.\n　Враг похож на нас больше, чем мы думали.）",
+   "orig": "Okita\n（Just like Mamoru Kodai.\n　Our enemy is more like us than we suspected.）"
+  },
+  {
+   "i": 162,
+   "speaker": "Джарлетора",
+   "text": "「Гх!\n　Значит, это конец?」",
+   "orig": "Jarletora\n「Gah!\n　So this is the end?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Джарлетора",
+   "text": "「Нет! Командующий Шульц продолжит наше дело!\n　Гале Шульц!」",
+   "orig": "Jarletora\n「No! Commander Shultz will carry on our legacy!\n　Ghale Shultz!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Мори",
+   "text": "「Силы врага либо бежали, либо уничтожены.」",
+   "orig": "Mori\n「Enemy forces have either fled or been neutralized.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Окита",
+   "text": "「Ясно.」",
+   "orig": "Okita\n「I see.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Окита",
+   "text": "（Тот командир отдал жизнь, чтобы флагман\n　смог уйти.）",
+   "orig": "Okita\n（That commander gave his life so the flagship\n　could escape.）"
+  },
+  {
+   "i": 167,
+   "speaker": "Окита",
+   "text": "（Совсем как Мамору Кодай.\n　Враг похож на нас больше, чем мы думали.）",
+   "orig": "Okita\n（Just like Mamoru Kodai.\n　Our enemy is more like us than we suspected.）"
+  },
+  {
+   "i": 168,
+   "speaker": "Кодай",
+   "text": "「Командующий?」",
+   "orig": "Kodai\n「Commander?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Окита",
+   "text": "「База гамиласцев на Плутоне уничтожена.\n　Земле больше не грозят планетарные бомбы.」",
+   "orig": "Okita\n「The Gamillan Pluto Base is finished.\n　Earth need no longer fear the threat of planet bombs.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Сима",
+   "text": "「Получилось, Кодай!」",
+   "orig": "Shima\n「We did it, Kodai!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Кодай",
+   "text": "「Да, получилось.」",
+   "orig": "Kodai\n「Yeah, we did.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Кодай",
+   "text": "（Мы справились, Мамору.）",
+   "orig": "Kodai\n（We did it, Mamoru.）"
+  },
+  {
+   "i": 173,
+   "speaker": "Кинкейд",
+   "text": "「Их главная база уничтожена, так что гамиласцев\n　в Солнечной системе мы больше не увидим.」",
+   "orig": "Kincade\n「With their main base here destroyed, it's safe to say we\n　won't be seeing any more Gamillans in this Solar System.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Тобиа",
+   "text": "「Теперь можно спокойно\n　лететь на Искандар.」",
+   "orig": "Tobia\n「Now we can focus on \n　getting to Iscandar.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Тэцуя",
+   "text": "「168 000 световых лет в один конец — значит,\n　туда и обратно выйдет все 336 000.」",
+   "orig": "Tetsuya\n「It's 168,000 light-years one way, which means this\n　is a 336,000 light-year round-trip.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Рёма",
+   "text": "「И гамиласцы нам больше не помешают — вон как\n　драпали, поджав хвост.」",
+   "orig": "Ryoma\n「And the Gamillans won't get in our way again, judging\n　from the way they tucked tail and ran.」"
+  },
+  {
+   "i": 177,
+   "speaker": "$n",
+   "text": "（Мы правда их одолели —\n　все вместе, сообща!）",
+   "orig": "$n\n（We really beat them,\n　all of us, together!）"
+  },
+  {
+   "i": 178,
+   "speaker": "$n",
+   "text": "（Так что отныне я сражаюсь за Землю,\n　а не ради мести.）",
+   "orig": "$n\n（So from now on I'm going to fight for Earth,\n　not for revenge.）"
+  },
+  {
+   "i": 179,
+   "speaker": "$n",
+   "text": "（Не как боец 25-й эскадрильи,\n　а как член экипажа «Ямато».）",
+   "orig": "$n\n（Not as part of the 25th Squadron,\n　but as a crew member of the Yamato.）"
+  },
+  {
+   "i": 180,
+   "speaker": "Кодай",
+   "text": "「Командующий?」",
+   "orig": "Kodai\n「Commander?」"
+  },
+  {
+   "i": 181,
+   "speaker": "Окита",
+   "text": "「База гамиласцев на Плутоне уничтожена.\n　Земле больше не грозят планетарные бомбы.」",
+   "orig": "Okita\n「The Gamillan Pluto Base is finished.\n　Earth need no longer fear the threat of planet bombs.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Сима",
+   "text": "「Получилось, Кодай!」",
+   "orig": "Shima\n「We did it, Kodai!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Кодай",
+   "text": "「Да, получилось.」",
+   "orig": "Kodai\n「Yeah, we did.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Кодай",
+   "text": "（Мы справились, Мамору.）",
+   "orig": "Kodai\n（We did it, Mamoru.）"
+  },
+  {
+   "i": 185,
+   "speaker": "Кинкейд",
+   "text": "「Их главная база уничтожена, так что гамиласцев\n　в Солнечной системе мы больше не увидим.」",
+   "orig": "Kincade\n「With their main base here destroyed, it's safe to say we\n　won't be seeing any more Gamillans in this Solar System.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Тобиа",
+   "text": "「Теперь можно спокойно\n　лететь на Искандар.」",
+   "orig": "Tobia\n「Now we can focus on \n　getting to Iscandar.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Тэцуя",
+   "text": "「168 000 световых лет в один конец — значит,\n　туда и обратно выйдет все 336 000.」",
+   "orig": "Tetsuya\n「It's 168,000 light-years one way, which means this\n　is a 336,000 light-year round-trip.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Рёма",
+   "text": "「И гамиласцы нам больше не помешают — вон как\n　драпали, поджав хвост.」",
+   "orig": "Ryoma\n「And the Gamillans won't get in our way again, judging\n　from the way they tucked tail and ran.」"
+  },
+  {
+   "i": 189,
+   "speaker": "$n",
+   "text": "（Папа, мама, Ю, теперь никому не надо\n　бояться, что небо упадёт на землю.）",
+   "orig": "$n\n（Dad, Mom, Yu, now no one has to worry\n　about the sky falling anymore.）"
+  },
+  {
+   "i": 190,
+   "speaker": "$n",
+   "text": "（Отныне я сражаюсь за Землю,\n　а не ради мести.）",
+   "orig": "$n\n（From now on I'm going to fight for Earth,\n　not for revenge.）"
+  },
+  {
+   "i": 191,
+   "speaker": "$n",
+   "text": "（Как член экипажа «Ямато», я сделаю так,\n　чтобы будущее Земли было светлее прошлого.）",
+   "orig": "$n\n（As part of the Yamato, I'll make sure \n　the Earth's future is brighter than its past.）"
+  },
+  {
+   "i": 192,
+   "speaker": "Шульц",
+   "text": "「Ваша жертва не будет напрасной,\n　Джарлетора. Клянусь!」",
+   "orig": "Shultz\n「I will not let any of your sacrifices be in vain,\n　Jarletora. I swear it!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Мори",
+   "text": "「Вражеский флагман отходит\n　и готовится к варпу.」",
+   "orig": "Mori\n「The enemy flagship is withdrawing\n　and preparing to warp.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Кодай",
+   "text": "「Они уходят!」",
+   "orig": "Kodai\n「They're getting away!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Окита",
+   "text": "「Нашей задачей было уничтожить базу — и мы это сделали.\n　Гоняться за ними по всей галактике незачем.」",
+   "orig": "Okita\n「Our mission was to destroy the base, and we succeeded.\n　There's no need to chase them all over the galaxy.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Окита",
+   "text": "「Помните об этом.\n　Здесь и без них хватает врагов.」",
+   "orig": "Okita\n「Remember that.\n　There are still plenty of enemies to deal with here.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Джарлетора",
+   "text": "「Всем кораблям!\n　Мы должны остановить «Ямато» здесь!\n　Нельзя дать ему пуститься в погоню!」",
+   "orig": "Jarletora\n「All units,\n　we must stop the Yamato here!\n　It cannot be allowed to give chase!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Джарлетора",
+   "text": "（Берегите себя, командующий.\n　Вы — наша последняя надежда.）",
+   "orig": "Jarletora\n（Be safe, Commander.\n　You are our only hope now.）"
+  },
+  {
+   "i": 200,
+   "speaker": "Кодай",
+   "text": "（Командующий Окита доверил судьбу «Ямато»\n　мобильным юнитам.）",
+   "orig": "Kodai\n（Commander Okita has put the mobile units\n　in charge of the Yamato's fate.）"
+  },
+  {
+   "i": 201,
+   "speaker": "Кодай",
+   "text": "（Я сделаю всё, чтобы защитить этот корабль!\n　Я не подведу — ни «Ямато», ни брата!）",
+   "orig": "Kodai\n（I'll do everything in my power to protect this ship!\n　I won't let them down. Not the Yamato, not my brother!）"
+  },
+  {
+   "i": 202,
+   "speaker": "Тобиа",
+   "text": "（Поверить не могу, что Империя Юпитера снюхалась\n　с гамиласцами! Неужели вдали от Земли они\n　забыли, что сами — люди?）",
+   "orig": "Tobia\n（I can't believe the Jupiter Empire joined forces\n　with the Gamillans! Has the distance from Earth\n　made them forget their humanity?）"
+  },
+  {
+   "i": 203,
+   "speaker": "Тобиа",
+   "text": "（Или они пошли на союз с Гамиласом\n　назло Земле?）",
+   "orig": "Tobia\n（Or did they ally with Gamillans\n　out of spite?）"
+  },
+  {
+   "i": 204,
+   "speaker": "Кинкейд",
+   "text": "（Так вот почему Гамилас не тронул колонии Юпитера —\n　они всё это время работали заодно!）",
+   "orig": "Kincade\n（So the reason Gamillas didn't touch the Jupiter colonies\n　is because they were working together this whole time!）"
+  },
+  {
+   "i": 205,
+   "speaker": "Кинкейд",
+   "text": "（Неужели ненависть Крукса Догати к Земле\n　всё ещё жива в Империи Юпитера?）",
+   "orig": "Kincade\n（Could Crux Dogatie's grudge against the Earth\n　still be alive and well in the Jupiter Empire?）"
+  },
+  {
+   "i": 206,
+   "speaker": "Рёма",
+   "text": "「Нападать на чужую планету без всякой причины —\n　да эти гады ничем не лучше инвейдеров!」",
+   "orig": "Ryoma\n「Attacking someone else's planet for no reason\n　makes these jerks no different from the Invaders!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Рёма",
+   "text": "「Ну, подходи!\n　Каждый из вас пожалеет, что вообще\n　посмотрел в сторону Земли!」",
+   "orig": "Ryoma\n「Come at me!\n　I'll make every last one of you regret ever even\n　looking at the Earth!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Тэцуя",
+   "text": "（Поехали!\n　Пока не разделаюсь с истинным врагом,\n　я не имею права подохнуть!）",
+   "orig": "Tetsuya\n（Here goes!\n　Until I can take down my true enemy,\n　there's no way I'm getting dusted!）"
+  },
+  {
+   "i": 209,
+   "speaker": "Тэцуя",
+   "text": "（Я выживу и выполню свою миссию —\n　верну Рёму Нагарэ обратно!）",
+   "orig": "Tetsuya\n（I'm going to survive this and complete my mission\n　of bringing Ryoma Nagare back!）"
+  },
+  {
+   "i": 210,
+   "speaker": "$n",
+   "text": "（Готовьтесь, гамиласские твари.\n　Я не собираюсь позволить вам\n　одолеть меня здесь.）",
+   "orig": "$n\n（Get ready, you Gamillan scum.\n　I have no intention of letting you\n　defeat me here.）"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "（За прошлый раз, за операцию «М», я в долгу.\n　И собираюсь вернуть его сполна!）",
+   "orig": "$n\n（I owe you for the last time, for M Operation.\n　And I plan to pay you back in full!）"
+  },
+  {
+   "i": 212,
+   "speaker": "$n",
+   "text": "「Если уничтожить базу на Плутоне, планетарные бомбы\n　больше не будут падать на Землю!」",
+   "orig": "$n\n「If we destroy the Pluto Base, then there won't be any more\n　planet bombs falling to Earth!」"
+  },
+  {
+   "i": 213,
+   "speaker": "$n",
+   "text": "「Папа, мама, Ю, обещаю:\n　я вас не подведу!」",
+   "orig": "$n\n「Dad, Mom, Yu, I promise,\n　I won't let you down!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Окита",
+   "text": "「Цель — вражеский флагман!」",
+   "orig": "Okita\n「Target the enemy flagship!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Кодай",
+   "text": "「Всем юнитам — прицел!」",
+   "orig": "Kodai\n「All units take aim!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Шульц",
+   "text": "（Почему?\n　Почему эти терронцы не сдаются\n　после всех понесённых потерь?）",
+   "orig": "Shultz\n（Why?\n　Why do these Terrons not give up\n　after all the damage they've suffered?）"
+  },
+  {
+   "i": 217,
+   "speaker": "Шульц",
+   "text": "（Зальцианцы скорее умрут, чем сдадутся.\n　Неужели терронцы так же полны решимости?）",
+   "orig": "Shultz\n（Zaltzians will die before surrendering.\n　Do these Terrons have the same determination?）"
+  },
+  {
+   "i": 218,
+   "speaker": "Джарлетора",
+   "text": "「Ни шагу назад!\n　Мы остановим корабль терронцев\n　и спасём командующего Шульца!」",
+   "orig": "Jarletora\n「Do not give them an inch!\n　We must stop the Terron ship\n　and save Commander Shultz!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Окита",
+   "text": "（Они сражаются лишь ради того, чтобы флагман ушёл.\n　Теперь я знаю, каково быть по ту сторону.）",
+   "orig": "Okita\n（They're fighting just so their flagship can escape.\n　Now I know what it feels like to be on the other side.）"
+  },
+  {
+   "i": 220,
+   "speaker": "Окита",
+   "text": "「Мы покончим с войной в Солнечной системе,\n　а затем возьмём курс на Искандар!」",
+   "orig": "Okita\n「We will end the strife in our Solar System\n　before turning toward Iscandar!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Окита",
+   "text": "「Всем юнитам, помните!\n　Искандар — свет в конце этого тёмного туннеля!」",
+   "orig": "Okita\n「All units, remember that!\n　Iscandar is the light at the end of this dark tunnel!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Кодай",
+   "text": "（Ядро волнового двигателя, которое защитили брат\n　и его товарищи, дало жизнь «Ямато».）",
+   "orig": "Kodai\n（The wave motion engine core that my brother and his\n　friends protected led to the Yamato's creation.）"
+  },
+  {
+   "i": 224,
+   "speaker": "Кодай",
+   "text": "（Мы сохраним «Ямато»\n　и спасём Землю от полного уничтожения!）",
+   "orig": "Kodai\n（We'll keep the Yamato alive\n　and save the Earth from total destruction!）"
+  },
+  {
+   "i": 225,
+   "speaker": "Вельт",
+   "text": "（Планетарные бомбы унесли бессчётно жизней\n　и превратили Землю в планету\n　на грани гибели.）",
+   "orig": "Velt\n（The planet bombs ended countless lives\n　and transformed the Earth into a planet\n　on the brink of death.）"
+  },
+  {
+   "i": 226,
+   "speaker": "Вельт",
+   "text": "「Мы не проиграем тебе, Гамилас!\n　Мы летим к Искандару — и к надежде!」",
+   "orig": "Velt\n「We won't lose to you, Gamillas!\n　We're going to Iscandar, and to hope!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Лотти",
+   "text": "「Если раздавим их здесь, планетарные бомбы\n　больше не полетят на Землю.」",
+   "orig": "Lottie\n「If we crush them here,\n　they can't fire any more planet bombs at Earth.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Лотти",
+   "text": "「Не волнуйтесь, ребята.\n　Мы разнесём их в пыль!」",
+   "orig": "Lottie\n「Don't you worry, everyone.\n　We're going to blast them into nothing!」"
+  },
+  {
+   "i": 229,
+   "speaker": "$n",
+   "text": "「Ах!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

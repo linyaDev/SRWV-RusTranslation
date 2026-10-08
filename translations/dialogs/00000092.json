@@ -1,0 +1,568 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　-Кабинет верховного вождя Империи Гамилас-",
+   "orig": "　\n　\n　　　-Great Gamillas Empire Supreme Leader's Office-"
+  },
+  {
+   "i": 4,
+   "speaker": "Деслер",
+   "text": "「Итак, наконец началось.」",
+   "orig": "Dessler\n「So, it's finally begun.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Гоэр",
+   "text": "「Взгляните, верховный вождь!\n　Торпеда Деслера, наречённая вашим именем,\n　загнала корабль терронцев в угол!」",
+   "orig": "Goer\n「Behold, Supreme Leader!\n　The Dessler Torpedo blessed with your name\n　has cornered the Terron ship!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Гоэр",
+   "text": "「Они пришли в эту систему точно по предсказанию\n　вашего превосходительства. Какая прозорливость!」",
+   "orig": "Goer\n「They came to this star system just as Your Excellency\n　predicted. I am amazed at your foresight!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Деслер",
+   "text": "「Я лишь проанализировал их курс, чтобы скоротать время.」",
+   "orig": "Dessler\n「I only analyzed their course patterns to kill some time.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Зёллик",
+   "text": "「Но что это за странная субстанция\n　в торпеде?」",
+   "orig": "Zoellik\n「But what kind of strange substance is that\n　in the torpedo?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Хисс",
+   "text": "「Это газ?」",
+   "orig": "Hiss\n「Is that gas?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Селестелла",
+   "text": "「Это автономная самовоспроизводящаяся газовая форма\n　жизни родом из системы Мильвелия.」",
+   "orig": "Celestella\n「It is an autonomous self-replicating gas-based life form\n　that originated in the Milvelia System.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Селестелла",
+   "text": "「Она преобразует, ассимилирует и поглощает энергию\n　материи, бесконечно разрастаясь. Высшее химоружие.」",
+   "orig": "Celestella\n「It converts, assimilates, and absorbs material energy,\n　expanding infinitely. The ultimate chemical weapon.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Деслер",
+   "text": "「А выход перекрыт алчущей пастью\n　исполинской звезды.」",
+   "orig": "Dessler\n「And the exit is blocked by the salivating maws\n　of a giant star.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Деслер",
+   "text": "「Быть поглощёнными газом или расплавиться без следа?\n　Или, быть может, их ждёт иная судьба?」",
+   "orig": "Dessler\n「To be consumed by the gas, or melted into nothing?\n　Or perhaps another fate awaits them?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Хисс",
+   "text": "「Разумеется, иной судьбы для них быть не может!\n　Это совершенство, верховный вождь!」",
+   "orig": "Hiss\n「There can be no other fate for them, of course!\n　It is perfect, Supreme Leader!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Деслер",
+   "text": "「А теперь, господа, поднимем тост\n　в честь отважной борьбы терронцев!」",
+   "orig": "Dessler\n「Now, everyone,\n　let us toast to cheer on the Terrons' brave fight!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Гоэхин",
+   "text": "「Буа-ха-ха, умора!\n　Расставить ловушку и подбадривать жертву?\n　Верховный вождь изволит шутить!」",
+   "orig": "Goehin\n「Bwahahaha, hilarious!\n　Set a trap and then cheer them on to escape it?\n　The Supreme Leader does love his jokes!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Деслер",
+   "text": "「Хм...」",
+   "orig": "Dessler\n「Hmm...」"
+  },
+  {
+   "i": 18,
+   "speaker": "Хисс",
+   "text": "「Ох!」",
+   "orig": "Hiss\n「Oh!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Деслер",
+   "text": "「Гамиласу не нужны столь вульгарные люди.」",
+   "orig": "Dessler\n「Gamillas has no need of such vulgar men.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Деслер",
+   "text": "「Итак, господа,\n　поаплодируем смелому решению,\n　которое они вот-вот примут.」",
+   "orig": "Dessler\n「Now then, everyone,\n　let us applaud the brave decision\n　they are about to make.」"
+  },
+  {
+   "i": 24,
+   "speaker": "　",
+   "text": "　\n　　　-Кабинет верховного вождя Империи Гамилас-",
+   "orig": "　\n　\n　　　-Great Gamillas Empire Supreme Leader's Office-"
+  },
+  {
+   "i": 25,
+   "speaker": "Деслер",
+   "text": "「Хм...」",
+   "orig": "Dessler\n「Hmm...」"
+  },
+  {
+   "i": 26,
+   "speaker": "Гоэр",
+   "text": "「В-верховный вождь!\n　Всё это — вина некомпетентного Шульца,\n　я здесь совершенно ни при чё—」",
+   "orig": "Goer\n「S-Supreme Leader!\n　This is all because of Shultz's incompetency,\n　I had nothing to do with—」"
+  },
+  {
+   "i": 27,
+   "speaker": "Деслер",
+   "text": "「Довольно.」",
+   "orig": "Dessler\n「Enough.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Гоэр",
+   "text": "「А... а-а-а!\n　Верховный вождь!」",
+   "orig": "Goer\n「Uh—aaah!\n　Supreme Leader!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Деслер",
+   "text": "「Что ж, господа,\n　разве это была не великолепная битва?\n　Весьма занятная игра.」",
+   "orig": "Dessler\n「Well, well, everyone,\n　was that not a magnificent battle?\n　It was quite an entertaining game.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Деслер",
+   "text": "「Хисс.」",
+   "orig": "Dessler\n「Hiss.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Хисс",
+   "text": "「Слушаю!」",
+   "orig": "Hiss\n「Yes, sir!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Деслер",
+   "text": "「Павших повысить на два ранга,\n　а их семьям дать статус почётных гамиласцев.」",
+   "orig": "Dessler\n「The fallen are to be promoted by two ranks,\n　and their families given status as honorary Gamillans.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Хисс",
+   "text": "「За Бельк! (Так точно!)」",
+   "orig": "Hiss\n「Zah Belk! (Understood!)」"
+  },
+  {
+   "i": 34,
+   "speaker": "Зёллик",
+   "text": "「Но немыслимо, чтобы наши войска были разбиты\n　этими... этими куклами-переростками!」",
+   "orig": "Zoellik\n「But it's unthinkable that our forces could be defeated by\n　these—these oversized dolls!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Диц",
+   "text": "「Нет. Мобильные машины силой со средний крейсер\n　в связке с линкором с отменной артиллерией?\n　Было бы ошибкой недооценивать такую тактику.」",
+   "orig": "Dietz\n「No. Mobile units with the strength of an average cruiser\n　teaming up with a battleship with remarkable artillery?\n　It would be a mistake to make light of those tactics.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Зёллик",
+   "text": "「Стая мелюзги перед мощью\n　гамиласского флота!\n　Мы съедим их на полдник!」",
+   "orig": "Zoellik\n「A school of small fries before the might\n　of our Gamillan navy!\n　We will eat them for an afternoon snack!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Диц",
+   "text": "「Хм...」",
+   "orig": "Dietz\n「Hmm...」"
+  },
+  {
+   "i": 38,
+   "speaker": "Деслер",
+   "text": "「Рад, что представление пришлось вам по вкусу.\n　На этом наш вечер окончен.」",
+   "orig": "Dessler\n「I am pleased you all enjoyed the entertainment.\n　That will be all for this evening.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Деслер",
+   "text": "「Ах да, ещё одно, Селестелла.\n　Как, ты говорила, зовётся тот корабль терронцев?」",
+   "orig": "Dessler\n「Oh, one more thing, Celestella.\n　What was the name of that Terron ship again?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Селестелла",
+   "text": "「Это «Ямато».」",
+   "orig": "Celestella\n「It was the Yamato.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Деслер",
+   "text": "「«Ямато».\n　Я запомню это имя.」",
+   "orig": "Dessler\n「The Yamato.\n　I will remember that.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Вельте Талан",
+   "text": "「Хм-м.」",
+   "orig": "Welte Talan\n「Hmmm.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Селестелла",
+   "text": "「Что-то не так, министр Талан？」",
+   "orig": "Celestella\n「Something the matter, Minister Talan？」"
+  },
+  {
+   "i": 44,
+   "speaker": "Вельте Талан",
+   "text": "「Оружие, пробившее протуберанец, похоже на то,\n　что сейчас испытывает Бюро разработки вооружений.」",
+   "orig": "Welte Talan\n「The weapon that shot through the flare resembles\n　something the Weapons Development Bureau is testing.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Гадер Талан",
+   "text": "「Это правда?」",
+   "orig": "Ghader Talan\n「Is that true?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Селестелла",
+   "text": "「Не верю, что варвары этой системы могли достичь\n　того же уровня технологий, что и Гамилас.」",
+   "orig": "Celestella\n「I can't believe that any barbarians in this system\n　could have the same level of technology as Gamillas.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Деслер",
+   "text": "「Хм-м.」",
+   "orig": "Dessler\n「Hmmm.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Деслер",
+   "text": "（Терронцы... Раса, что создаёт оружие\n　по собственному образу и подобию.）",
+   "orig": "Dessler\n（Terrons, a race that\n　uses weapons modeled after their own image.）"
+  },
+  {
+   "i": 52,
+   "speaker": "Деслер",
+   "text": "（Я послал войска лишь ради забавы, но, быть может,\n　за этим кроется нечто большее?）",
+   "orig": "Dessler\n（I only sent in my forces for a bit of entertainment,\n　but could this be something more?）"
+  },
+  {
+   "i": 53,
+   "speaker": "Деслер",
+   "text": "（Впрочем, знай я даже ответ,\n　это ничего бы не изменило.）",
+   "orig": "Dessler\n（Of course, it's not like I can do anything\n　even if I knew the answer.）"
+  },
+  {
+   "i": 57,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Приёмная «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　-Yamato Reception Room-"
+  },
+  {
+   "i": 58,
+   "speaker": "Тиерия",
+   "text": "「Так вы говорите, мы попали в совершенно иной мир?」",
+   "orig": "Tieria\n「So you're saying we've come to a whole other world?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Санада",
+   "text": "「Это единственное объяснение\n　всему, что произошло.」",
+   "orig": "Sanada\n「That's the only explanation\n　based off of recent events.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Тиерия",
+   "text": "「Это невозможно.」",
+   "orig": "Tieria\n「That's impossible.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Санада",
+   "text": "「Не верить — естественно.\n　Это говорю вам я,\n　и даже я не до конца в этом убеждён.」",
+   "orig": "Sanada\n「It's natural not to believe it.\n　I'm the one who's saying it,\n　and even then I'm still not wholly convinced.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Санада",
+   "text": "「Но вы двое не первые гости из иных миров,\n　кого мы встречаем.」",
+   "orig": "Sanada\n「But it's not like you two are the first other-worldly\n　travelers we've met.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Рёма",
+   "text": "「И похоже, ваш мир совершенно не похож\n　даже на мой.」",
+   "orig": "Ryoma\n「And it seems like your world is even completely\n　different from mine.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Сэцуна",
+   "text": "「Хм-м…」",
+   "orig": "Setsuna\n「Hmm...」"
+  },
+  {
+   "i": 65,
+   "speaker": "Санада",
+   "text": "「Квантовый прыжок, которым оснащены\n　ваши машины, — нечто поразительное.」",
+   "orig": "Sanada\n「The quantum jump equipped on your units\n　is fascinating.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Санада",
+   "text": "「Видите ли, варп-двигатель, что мы\n　используем, в некотором роде одолжен нам.」",
+   "orig": "Sanada\n「You see, the warp engine we're using is\n　kind of borrowed.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Санада",
+   "text": "「То, что человечество смогло создать технологию,\n　преодолевающую световой барьер, — поразительно,\n　тем более в параллельном мире.」",
+   "orig": "Sanada\n「The fact that humanity could create technology\n　to break through the light speed barrier is astounding,\n　let alone the fact it happened in an alternate world.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Сэцуна",
+   "text": "「Она ещё не завершена.」",
+   "orig": "Setsuna\n「It's not finished yet.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тиерия",
+   "text": "「Сверхсветовые перелёты давно освоены\n　в нашем мире.」",
+   "orig": "Tieria\n「Super space sailing is already well-established\n　in our world.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тиерия",
+   "text": "「Но система, которой оснащён 00 QAN[T], —\n　это совершенно иная технология.」",
+   "orig": "Tieria\n「But the system that the 00 QAN[T] is equipped with\n　is totally different technology.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Санада",
+   "text": "「Значит, вас перенесло сюда\n　прямо посреди испытаний этой техники.」",
+   "orig": "Sanada\n「So then you teleported here\n　in the middle of testing that tech.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Кодай",
+   "text": "「Офицер Санада,\n　выходит, если мы ошибёмся при варпе,\n　нас тоже может забросить в другой мир?」",
+   "orig": "Kodai\n「Officer Sanada,\n　does that mean that if we make a mistake during warp,\n　we could end up being transported to another world too?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Санада",
+   "text": "「Сейчас я не могу сказать ничего определённого.」",
+   "orig": "Sanada\n「I can't say anything one way or the other right now.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Санада",
+   "text": "「Но полагаю: случись беда в ином измерении\n　и не справься вы с нею,\n　выхода бы уже не нашлось.」",
+   "orig": "Sanada\n「But I can guess that if there were to be trouble in\n　an alternate dimension and you didn't handle it well,\n　there'd be no way out.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Кодай",
+   "text": "「То есть вернуться в свой мир уже не получится?」",
+   "orig": "Kodai\n「You mean you couldn't get back to your own world?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Санада",
+   "text": "「Именно.」",
+   "orig": "Sanada\n「Exactly.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Санада",
+   "text": "「Так что, пожалуй, то, что Сэцуна и Тиерия\n　попали именно в наш мир, —\n　уже небольшое утешение.」",
+   "orig": "Sanada\n「So it's probably safe to say that\n　it's some small consolation that Setsuna and Tieria\n　ended up coming to our world.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Сэцуна",
+   "text": "「Нам не вернуться домой?」",
+   "orig": "Setsuna\n「So we can't go home?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Санада",
+   "text": "「И на это я тоже не могу ответить.」",
+   "orig": "Sanada\n「That's something else I can't answer.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Санада",
+   "text": "「Но если бы вы сумели воссоздать условия,\n　при которых оказались здесь, из всех возможных\n　миров, куда могли попасть—」",
+   "orig": "Sanada\n「But if you could somehow replicate the conditions\n　in which you ended up here, out of all the possible\n　worlds you could have gone to—」"
+  },
+  {
+   "i": 81,
+   "speaker": "Сэцуна",
+   "text": "「Прошу вас, умоляю,\n　помогите нам найти путь домой.」",
+   "orig": "Setsuna\n「Please, I'm begging you,\n　you have to help us find a way back home.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тиерия",
+   "text": "「Разумеется, пока мы не выясним,\n　как вернуться домой, мы обещаем помогать вам\n　всем, чем только сможем.」",
+   "orig": "Tieria\n「Of course, until we're able to figure out\n　how to get home, we promise we'll do everything\n　we can to help you out.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Кодай",
+   "text": "「Насчёт пребывания здесь не волнуйтесь.\n　Мы вам только рады, тем более что\n　вы сами предложили помощь.」",
+   "orig": "Kodai\n「You don't need to worry about staying here.\n　You're more than welcome, especially since\n　you've offered to help us.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Санада",
+   "text": "「К сожалению,\n　вы присоединились к нам\n　в самый разгар большой войны.」",
+   "orig": "Sanada\n「Unfortunately,\n　you've joined up with us\n　in the middle of a huge war.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Санада",
+   "text": "「Сначала нам нужно уйти отсюда в варп,\n　чтобы оторваться от погони гамиласцев.」",
+   "orig": "Sanada\n「First we need to warp out of here\n　to escape the Gamillans chasing after us.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Кодай",
+   "text": "「А потом, надеюсь,\n　вы расскажете нам о мире, из которого прибыли.」",
+   "orig": "Kodai\n「After that, I hope\n　you'll tell us all about the world you're from.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Тиерия",
+   "text": "「Договорились.」",
+   "orig": "Tieria\n「You got it.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Рёма",
+   "text": "「Рад знакомству.\n　Я один из тех самых гостей из иных миров.」",
+   "orig": "Ryoma\n「It's good to meet you.\n　I'm one of those other-worldly travelers.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Кодай",
+   "text": "「Хм...」",
+   "orig": "Kodai\n「Hmm...」"
+  },
+  {
+   "i": 90,
+   "speaker": "Рёма",
+   "text": "「Что такое, Кодай?」",
+   "orig": "Ryoma\n「What's the matter, Kodai?」"
+  },
+  {
+   "i": 91,
+   "speaker": "Кодай",
+   "text": "「Ничего.\n　Просто я ещё ни разу не видел твоей улыбки, Нагарэ.」",
+   "orig": "Kodai\n「Nothing.\n　It's just, I've never seen you smile before, Nagare.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Рёма",
+   "text": "「Это параллельный мир.\n　Глупо здесь переживать\n　о своём унылом прошлом.」",
+   "orig": "Ryoma\n「This is an alternate world.\n　It's stupid for anyone to worry about\n　their boring past here.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Сэцуна",
+   "text": "「Понятно.」",
+   "orig": "Setsuna\n「I see.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Рёма",
+   "text": "「О, так ты умеешь улыбаться! А я-то думал,\n　ты тоже из тех, с кем трудно поладить.」",
+   "orig": "Ryoma\n「Oh, so you can smile! I had a feeling\n　you were hard to get along, too.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Сэцуна",
+   "text": "「Видимо, твои слова меня тронули.」",
+   "orig": "Setsuna\n「I suppose I was touched by what you said.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Тиерия",
+   "text": "「Сэцуна—」",
+   "orig": "Tieria\n「Setsuna—」"
+  },
+  {
+   "i": 97,
+   "speaker": "Кодай",
+   "text": "「Когда доложу командиру,\n　познакомлю вас с авиаотрядом.」",
+   "orig": "Kodai\n「After I report to the commander,\n　I'll introduce you to the Aircraft Squad.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Кодай",
+   "text": "「Как вы уже знаете,\n　наше положение довольно отчаянное.\n　Ваша помощь пришлась как нельзя кстати.」",
+   "orig": "Kodai\n「As you already know,\n　we're in pretty dire straits here.\n　Your help couldn't have come at a better time.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Сэцуна",
+   "text": "「Сделаем всё, что можем.」",
+   "orig": "Setsuna\n「We'll do what we can.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Сэцуна",
+   "text": "（Другой мир?\n　Может, эту встречу и стоит назвать\n　«грядущим диалогом».）",
+   "orig": "Setsuna\n（Another world?\n　Maybe this meeting could be called\n　\"the coming discussion.\"）"
+  },
+  {
+   "i": 101,
+   "speaker": "Сэцуна",
+   "text": "（Интересно, что же я встречу здесь?）",
+   "orig": "Setsuna\n（What will I meet here, I wonder?）"
+  },
+  {
+   "i": 105,
+   "speaker": "？？？",
+   "text": "「Маршрут установлен.」",
+   "orig": "？？？\n「Route established.」"
+  },
+  {
+   "i": 106,
+   "speaker": "？？？",
+   "text": "「Начинаем эксперимент.」",
+   "orig": "？？？\n「Commencing experiment.」"
+  },
+  {
+   "i": 110,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　　-Завод-",
+   "orig": "　\n　\n　　　　　　　　　　　　　-Factory-"
+  },
+  {
+   "i": 111,
+   "speaker": "$n",
+   "text": "「В этом сценарии пока нет сцены завода,\n　но я всё равно создам для неё место.」",
+   "orig": "$n\n「This scenario doesn't have a factory scenario yet,\n　but I'll create a space for it anyway.」"
+  }
+ ]
+}

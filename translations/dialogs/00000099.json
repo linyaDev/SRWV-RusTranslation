@@ -1,0 +1,1330 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Кодай",
+   "text": "「Похоже, мы вышли из варпа.」",
+   "orig": "Kodai\n「Seems like we're out of warp.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Сима",
+   "text": "「Где мы?」",
+   "orig": "Shima\n「Where are we?」"
+  },
+  {
+   "i": 2,
+   "speaker": "Окита",
+   "text": "「Осмотр повреждений, живо.」",
+   "orig": "Okita\n「Damage inspections, now.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Ота",
+   "text": "「Радар и сканеры не отвечают.」",
+   "orig": "Ota\n「Radar and scanners unresponsive.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Айхара",
+   "text": "「Похоже, сверхпространственная связь работает.」",
+   "orig": "Aihara\n「It seems we can use super space communications.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Санада",
+   "text": "「Вероятно, лишь внутри корабля. Волны резонируют\n　в этом пространстве и не выходят наружу.」",
+   "orig": "Sanada\n「Probably only inside the ship. They're resonating\n　in this space, so we can't reach the outside.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Санада",
+   "text": "「Командир,\n　похоже, мы угодили в некий\n　разлом измерений.」",
+   "orig": "Sanada\n「Commander,\n　it appears we've fallen into some sort of\n　dimensional rift.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Окита",
+   "text": "「Место, где пересекаются измерения.\n　Иначе говоря, разлом измерений.」",
+   "orig": "Okita\n「A place where dimensions intersect.\n　In other words, a dimensional rift.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Анализер",
+   "text": "「Внимание.\n　Впереди неопознанные объекты.」",
+   "orig": "Analyzer\n「Warning.\n　Multiple unidentified objects ahead.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Кодай",
+   "text": "「Это всё обломки кораблей.」",
+   "orig": "Kodai\n「Those are all ship remains.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Сима",
+   "text": "「Похоже на кладбище.」",
+   "orig": "Shima\n「It looks like a graveyard.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Санада",
+   "text": "「Вероятно, они не смогли отсюда выбраться\n　и остались дрейфовать здесь навечно.」",
+   "orig": "Sanada\n「They were probably unable to get out of here and\n　ended up drifting along like this for eternity.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Кодай",
+   "text": "「Космическое Саргассово море?」",
+   "orig": "Kodai\n「A cosmic Sargasso Sea, huh?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Мори",
+   "text": "「Офицер по операциям Мори, вернулась.」",
+   "orig": "Mori\n「Operations Officer Mori, returning.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Санада",
+   "text": "「Что в отсеке автонавигации?」",
+   "orig": "Sanada\n「How was the Automatic Navigation Room?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Мори",
+   "text": "「Ничего необычного я не заметила.」",
+   "orig": "Mori\n「I didn't see anything out of the ordinary.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Санада",
+   "text": "「Ясно.」",
+   "orig": "Sanada\n「I see.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Анализер",
+   "text": "「Корабль Гамилас на 11 часов!」",
+   "orig": "Analyzer\n「Gamillas ship at 11 o'clock!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Анализер",
+   "text": "「Опознан крейсер класса L!」",
+   "orig": "Analyzer\n「Identified as L-class cruiser!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Сима",
+   "text": "「Этот корабль не обломок!\n　Он ещё жив!」",
+   "orig": "Shima\n「That ship isn't wrecked!\n　It's still alive!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Мори",
+   "text": "「Корабль Гамилас настороже.」",
+   "orig": "Mori\n「The Gamillas ship is on alert.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Кодай",
+   "text": "「Корабль всего один.\n　Атакуем?」",
+   "orig": "Kodai\n「There's only one ship.\n　Should we attack?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Окита",
+   "text": "「Хм...」",
+   "orig": "Okita\n「Hmm...」"
+  },
+  {
+   "i": 23,
+   "speaker": "Намбу",
+   "text": "「У нас преимущество в огневой мощи.」",
+   "orig": "Nanbu\n「We have the firepower advantage.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Окита",
+   "text": "「Если два льва, увязших в трясине, сцепятся,\n　то оба попросту утонут — и только.\n　Уверен, они тоже это понимают.」",
+   "orig": "Okita\n「If two lions mired in a bog fight each other,\n　the only thing that will happen is both will sink.\n　I'm certain they know that, too.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Айхара",
+   "text": "「Командир,\n　вражеский корабль пытается связаться с нами.」",
+   "orig": "Aihara\n「Commander,\n　the enemy ship is attempting to contact us.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Айхара",
+   "text": "「Они высылают парламентёра.」",
+   "orig": "Aihara\n「They're sending over a messenger.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Окита",
+   "text": "「Так это парламентёр Гамилас?」",
+   "orig": "Okita\n「So that's the Gamillan messenger?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Намбу",
+   "text": "「Это ловушка!\n　Точно ловушка!」",
+   "orig": "Nanbu\n「It's a trap!\n　It has to be a trap!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Айхара",
+   "text": "「Гамиласцы утверждают, что знают,\n　как выбраться отсюда.」",
+   "orig": "Aihara\n「The Gamillans claim they know a way\n　to escape this place.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Сима",
+   "text": "「Но если это правда,\n　почему они ещё здесь?」",
+   "orig": "Shima\n「But if that's true,\n　why haven't they escaped yet?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Кодай",
+   "text": "「Вот это нам и нужно выяснить.」",
+   "orig": "Kodai\n「That's something we need to know.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Окита",
+   "text": "「Скоро узнаем.\n　Мы принимаем их парламентёра.」",
+   "orig": "Okita\n「And we will know, soon enough.\n　We're receiving their messenger.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Окита",
+   "text": "「Волновая пушка?」",
+   "orig": "Okita\n「The wave motion gun?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Санада",
+   "text": "「Понятно.\n　В теории это возможно.」",
+   "orig": "Sanada\n「I see.\n　It's possible, in theory.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Ниими",
+   "text": "「Волновая пушка порождает мощные колебания\n　измерений вдоль линии огня.」",
+   "orig": "Niimi\n「The wave motion gun generates a powerful\n　dimensional wave motion along its line of fire.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Ниими",
+   "text": "「По расчётам, если навести её на фазовый горизонт\n　разлома, интерференция волн откроет выход.」",
+   "orig": "Niimi\n「Our calculations show if we aim it at the dimensional rift's\n　phase horizon, the interfering waves should open an exit.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Намбу",
+   "text": "「Но откуда они узнали про волновую пушку?」",
+   "orig": "Nanbu\n「But how did they know about the wave motion gun?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Санада",
+   "text": "「Должно быть, видели её в действии\n　у Глизе 581.」",
+   "orig": "Sanada\n「They must have seen us using it\n　back at Gliese 581.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Ниими",
+   "text": "「Но выстрел волновой пушки\n　истощит почти весь\n　наш запас энергии.」",
+   "orig": "Niimi\n「But firing the wave motion gun \n　would deplete most of our\n　remaining energy.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Намбу",
+   "text": "「Тогда «Ямато» останется\n　совсем беззащитным!」",
+   "orig": "Nanbu\n「That would make the Yamato\n　totally vulnerable!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Кодай",
+   "text": "「Энсин Мельда Диц сказала, что\n　их судно отбуксирует «Ямато»\n　в безопасное место.」",
+   "orig": "Kodai\n「Ensign Melda Dietz has said\n　that the Gamillan ship will\n　tow the Yamato to safety.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Кодай",
+   "text": "「Им нужно оружие, чтобы открыть выход,\n　а нам — способ выбраться, когда он откроется.\n　Поодиночке не спасётся никто из нас.」",
+   "orig": "Kodai\n「They need a weapon to create an exit,\n　and we need a way to get out once that exit is open.\n　Neither of us can escape if we don't cooperate.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Сима",
+   "text": "「Им нельзя верить.\n　Что если мы выстрелим из волновой пушки,\n　а они сбегут, бросив нас здесь?」",
+   "orig": "Shima\n「We can't trust them.\n　What if we fire the wave motion gun\n　and they escape without bringing us with them?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Намбу",
+   "text": "「Это ведь те самые люди, что обвиняют\n　нас в развязывании этой войны.」",
+   "orig": "Nanbu\n「These are the people claiming that\n　we're the ones responsible for this war, after all.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Окита",
+   "text": "「...」",
+   "orig": "Okita\n「...」"
+  },
+  {
+   "i": 46,
+   "speaker": "Кодай",
+   "text": "「...」",
+   "orig": "Kodai\n「...」"
+  },
+  {
+   "i": 47,
+   "speaker": "Токугава",
+   "text": "「Наше положение ухудшается\n　с каждой минутой.」",
+   "orig": "Tokugawa\n「Our situation is worsening\n　even as we speak.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Санада",
+   "text": "「Именно.\n　Решение нельзя откладывать.」",
+   "orig": "Sanada\n「Exactly.\n　We can't put off this decision.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Намбу",
+   "text": "「Что же делать?\n　Можем ли мы хоть что-то?」",
+   "orig": "Nanbu\n「What should we do?\n　Is there anything we can do?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Окита",
+   "text": "「Можем.」",
+   "orig": "Okita\n「There is.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Окита",
+   "text": "「Довериться гамиласцам.」",
+   "orig": "Okita\n「We can trust the Gamillans.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Солдат Гамилас",
+   "text": "「Сообщение с «Ямато».\n　Они приняли наше предложение.」",
+   "orig": "Gamillas Soldier\n「Message from the Yamato.\n　They have accepted our proposal.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Ланг",
+   "text": "「Ясно.」",
+   "orig": "Lang\n「I see.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Нельге",
+   "text": "「Похоже, час славы для этого корабля\n　второсортных гамиласцев наконец настал,\n　командир Ланг.」",
+   "orig": "Nelge\n「It seems this second-class Gamillan ship's\n　chance for glory has come at last,\n　Commander Lang.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Ланг",
+   "text": "「Не стройте иллюзий о наших целях,\n　лейтенант Нельге.」",
+   "orig": "Lang\n「Do not mistake our intentions,\n　Lieutenant Nelge.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Нельге",
+   "text": "「...」",
+   "orig": "Nelge\n「...」"
+  },
+  {
+   "i": 57,
+   "speaker": "Ланг",
+   "text": "「«Ямато»,\n　говорит Вальс Ланг, командир EX178.」",
+   "orig": "Lang\n「Yamato,\n　this is Wals Lang, commander of the EX178.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Окита",
+   "text": "「Говорит Дзюдзо Окита, командир «Ямато».\n　Благодарим за предложение, командир Ланг.」",
+   "orig": "Okita\n「This is Juzo Okita, commander of the Yamato.\n　We thank you for your proposal, Commander Lang.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Ланг",
+   "text": "「Мы застряли здесь так же, как и вы,\n　без шанса выбраться.\n　И мы благодарим вас за согласие на наш план.」",
+   "orig": "Lang\n「We have been trapped here just like you,\n　unable to escape.\n　We thank you as well, for agreeing to our plan.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Нельге",
+   "text": "（Хм. Чего ещё ждать от граждан второго сорта —\n　якшаются с низшей расой.）",
+   "orig": "Nelge\n（Hmph. I shouldn't be surprised that second-class\n　citizens are friendly with an inferior species.）"
+  },
+  {
+   "i": 61,
+   "speaker": "Ланг",
+   "text": "「Энсин Диц останется на вашем корабле как офицер\n　связи. Надеемся, вы примете это как знак\n　нашей доброй воли.」",
+   "orig": "Lang\n「Ensign Dietz will remain aboard your ship to serve\n　as a point of contact. We hope you take that as\n　a sign of our goodwill.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Намбу",
+   "text": "（То есть она наша заложница.）",
+   "orig": "Nanbu\n（You mean she's our hostage.）"
+  },
+  {
+   "i": 63,
+   "speaker": "Ланг",
+   "text": "「Но стоит нам выбраться — и мы снова враги.」",
+   "orig": "Lang\n「But we will be enemies once more once we leave here.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Окита",
+   "text": "「Принято.」",
+   "orig": "Okita\n「Understood.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Ланг",
+   "text": "「Жду случая обменяться с вами залпами.」",
+   "orig": "Lang\n「I look forward to exchanging fire with you.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Айхара",
+   "text": "「Связь окончена.」",
+   "orig": "Aihara\n「Transmission over.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Кодай",
+   "text": "「На главный калибр энергии уже не хватит.」",
+   "orig": "Kodai\n「There won't be enough energy for our main cannon.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Окита",
+   "text": "「Знаю.」",
+   "orig": "Okita\n「I know.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Окита",
+   "text": "「Это уговор между мужчинами.」",
+   "orig": "Okita\n「This is a promise between men.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Мори",
+   "text": "「Корабль Гамилас приближается.」",
+   "orig": "Mori\n「The Gamillan ship is approaching.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Мори",
+   "text": "「Идут буксирные лучи.」",
+   "orig": "Mori\n「Towing beams incoming.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Окита",
+   "text": "「Передайте кораблю Гамилас: уйти с линии огня.」",
+   "orig": "Okita\n「Signal the Gamillan ship to move from the line of fire.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Айхара",
+   "text": "「Есть.\n　Передаю.」",
+   "orig": "Aihara\n「Yes, sir.\n　Signaling.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Ота",
+   "text": "「Корабль Гамилас покинул линию огня.」",
+   "orig": "Ota\n「The Gamillan ship has cleared the line of fire.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Окита",
+   "text": "「Что ж, начнём.」",
+   "orig": "Okita\n「All right then.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Ота",
+   "text": "「Выход открыт!」",
+   "orig": "Ota\n「Exit created!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Сима",
+   "text": "「Но теперь у «Ямато» нет энергии,\n　чтобы двигаться самому.」",
+   "orig": "Shima\n「But now the Yamato has no power\n　to move on her own.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Ланг",
+   "text": "「Наш корабль отбуксирует «Ямато»\n　прочь из этой зоны.」",
+   "orig": "Lang\n「This ship will now tow the Yamato\n　from this area.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Кодай",
+   "text": "「Вот так!\n　Почти на месте!」",
+   "orig": "Kodai\n「That's it!\n　Almost there!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Нельге",
+   "text": "「Командир,\n　вы намерены вечно тащить «Ямато» у нас на буксире?」",
+   "orig": "Nelge\n「Commander,\n　do you intend to tow the Yamato behind us indefinitely?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Ланг",
+   "text": "「Вы здесь посторонний, лейтенант гвардии.\n　Тактикой здесь командую я.」",
+   "orig": "Lang\n「You are an outsider here, Guard Lieutenant.\n　I am the one in command of these tactics.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Нельге",
+   "text": "「Цк.」",
+   "orig": "Nelge\n「Tch.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Мори",
+   "text": "「Неопознанные аппараты приближаются со всех сторон!」",
+   "orig": "Mori\n「Unidentified craft approaching from all directions!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Кодай",
+   "text": "「Что?」",
+   "orig": "Kodai\n「What?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Кодай",
+   "text": "「Это не Гамилас!」",
+   "orig": "Kodai\n「That's not Gamillas!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Сима",
+   "text": "「Ещё пришельцы?」",
+   "orig": "Shima\n「More aliens?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Мори",
+   "text": "「Буксирные лучи отключились!」",
+   "orig": "Mori\n「The towing beams have disconnected!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Кодай",
+   "text": "「Нет!」",
+   "orig": "Kodai\n「No!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Ланг",
+   "text": "「Лейтенант Нельге!」",
+   "orig": "Lang\n「Lieutenant Nelge!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Нельге",
+   "text": "「Мои подчинённые уже взяли корабль под контроль.\n　Теперь командую здесь я.」",
+   "orig": "Nelge\n「My subordinates have already taken control of this ship.\n　I am the one in command now.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Ланг",
+   "text": "「По возвращении я доложу об этой измене.」",
+   "orig": "Lang\n「I will report this treason upon our return.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Нельге",
+   "text": "「Это не измена!\n　Предатель здесь вы, командир!」",
+   "orig": "Nelge\n「This is no treason!\n　You're the traitor here, Commander!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Нельге",
+   "text": "「Они враги Гамилас! Враги Его Превосходительства!」",
+   "orig": "Nelge\n「They are enemies to Gamillas! To His Excellency!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Ланг",
+   "text": "「Цк!」",
+   "orig": "Lang\n「Tch!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Мори",
+   "text": "「Корабль Гамилас уходит из этой зоны!」",
+   "orig": "Mori\n「The Gamillas ship is withdrawing from this area!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Анализер",
+   "text": "「Неопознанные аппараты начинают атаку.」",
+   "orig": "Analyzer\n「Unidentified craft are commencing attack.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Сима",
+   "text": "「И даже без всякого\n　объявления войны!」",
+   "orig": "Shima\n「And they're not even issuing\n　a declaration of war!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Санада",
+   "text": "「Командир,\n　оставшейся энергии хватит лишь на поддержание\n　базовых функций!」",
+   "orig": "Sanada\n「Commander,\n　we only have enough energy remaining to maintain\n　basic functions!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Санада",
+   "text": "「Ни оружие, ни волновой барьер недоступны!」",
+   "orig": "Sanada\n「We can't use our weapons or the wave motion barrier!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Окита",
+   "text": "「Айхара,\n　передай неопознанным аппаратам, что мы\n　не настроены враждебно!」",
+   "orig": "Okita\n「Aihara,\n　relay a message to the unidentified craft that we\n　are not hostile!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Айхара",
+   "text": "「Не могу!\n　Они глушат все наши передачи!」",
+   "orig": "Aihara\n「I can't!\n　They're blocking any transmission we try to send!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Намбу",
+   "text": "「Нет!\n　Нам конец!」",
+   "orig": "Nanbu\n「No!\n　We're done for!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Окита",
+   "text": "「Кодай, поднимай мобильные юниты!\n　Разберитесь с новым врагом!」",
+   "orig": "Okita\n「Kodai, scramble the mobile units!\n　Take care of these new enemies!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Кодай",
+   "text": "「Есть!」",
+   "orig": "Kodai\n「Roger!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Кодай",
+   "text": "「Внимание: «Ямато» сейчас не может\n　ни двигаться, ни отвечать огнём.」",
+   "orig": "Kodai\n「Everyone, the Yamato can't move\n　or even return fire right now.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Кодай",
+   "text": "「Мобильные юниты перехватят всех, кто подойдёт\n　близко. Мы должны защитить корабль!」",
+   "orig": "Kodai\n「The mobile units will intercept any enemy that\n　draws near. We must defend our ship!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Кинкейд",
+   "text": "「Есть!」",
+   "orig": "Kincade\n「Yes, sir!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Рёма",
+   "text": "「Похоже, интуиция тебя\n　подвела, Сэцуна.」",
+   "orig": "Ryoma\n「Seems like your intuition\n　misled you, Setsuna.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Сэцуна",
+   "text": "「...」",
+   "orig": "Setsuna\n「...」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「Не говори так, Рёма.\n　Та синекожая была поражена предательством\n　корабля Гамилас не меньше нашего.」",
+   "orig": "$n\n「Don't say that, Ryoma.\n　That blue-skinned woman looked just as shocked\n　as we were when the Gamillan ship betrayed us.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Тэцуя",
+   "text": "「Они пожертвовали ею ради своего спасения?」",
+   "orig": "Tetsuya\n「They sacrificed her to save themselves?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Тобиа",
+   "text": "「Давайте сосредоточимся на текущей ситуации!」",
+   "orig": "Tobia\n「Let's concentrate on the situation at hand right now!」"
+  },
+  {
+   "i": 113,
+   "speaker": "$n",
+   "text": "「Но кто мог подумать, что мы наткнёмся здесь\n　на ещё одну инопланетную цивилизацию?」",
+   "orig": "$n\n「But who could have guessed we'd encounter yet another\n　alien civilization out here?」"
+  },
+  {
+   "i": 114,
+   "speaker": "$n",
+   "text": "「И что они нападут без всякого предупреждения!\n　Тот сбой варпа запустил целую лавину бедствий!」",
+   "orig": "$n\n「Or that they'd start attacking us without any warning!\n　That warp malfunction set off a chain of disasters!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Мори",
+   "text": "「Командир, энсин Диц в ангаре.\n　Она просит разрешения на вылет!」",
+   "orig": "Mori\n「Commander, Ensign Dietz is in the hangar.\n　She wants permission to sortie!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Кодай",
+   "text": "「Кто её выпустил?」",
+   "orig": "Kodai\n「Who set her free?」"
+  },
+  {
+   "i": 117,
+   "speaker": "Мори",
+   "text": "「Говорит, что хочет защитить честь Гамилас\n　в бою с этим новым врагом!」",
+   "orig": "Mori\n「She's saying that she wants to protect the honor\n　of Gamillas by fighting these new enemies!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Намбу",
+   "text": "「Да она просто сбежит\n　на свой корабль!」",
+   "orig": "Nanbu\n「She's just going to\n　run back to her ship!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Окита",
+   "text": "「Разрешение дано.」",
+   "orig": "Okita\n「Permission granted.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Намбу",
+   "text": "「Но командир!..\n　Она наверняка снова предаст «Ямато»!」",
+   "orig": "Nanbu\n「But, sir—!\n　I'm sure she means to betray the Yamato again!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Окита",
+   "text": "「Я сказал: разрешение дано!」",
+   "orig": "Okita\n「I said permission granted!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Кодай",
+   "text": "「Есть!\n　Диц, взлетай!」",
+   "orig": "Kodai\n「Yes, sir!\n　Dietz, take off!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Мельда",
+   "text": "「Спасибо, «Ямато»!」",
+   "orig": "Melda\n「Thank you, Yamato!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Вельт",
+   "text": "「Это истребитель\n　парламентёра Гамилас!」",
+   "orig": "Velt\n「That's the Gamillan\n　messenger's fighter!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Рёма",
+   "text": "「Пользуется суматохой,\n　чтобы дезертировать, да?」",
+   "orig": "Ryoma\n「She's using the confusion\n　to desert us, isn't she?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Сэцуна",
+   "text": "「Нет, ты ошибаешься!」",
+   "orig": "Setsuna\n「No, you're wrong!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Мельда",
+   "text": "「Говорит энсин Мельда Диц,\n　707-е авиакрыло Галактического округа.」",
+   "orig": "Melda\n「This is Ensign Melda Dietz\n　of the Galaxy Region 707th Aircraft Wing.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Мельда",
+   "text": "「Я прикрою вас.\n　Если не доверяете — сейчас самый\n　подходящий момент меня сбить.」",
+   "orig": "Melda\n「I'll cover you.\n　Now's the perfect time to shoot me\n　if you don't trust me.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Тобиа",
+   "text": "「Сэцуна!」",
+   "orig": "Tobia\n「Setsuna!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Сэцуна",
+   "text": "「Да!」",
+   "orig": "Setsuna\n「Yeah!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Кинкейд",
+   "text": "「Что ж, дама всё сказала.\n　Возражения есть, Рёма?」",
+   "orig": "Kincade\n「Well, you heard the lady.\n　Got any problems, Ryoma?」"
+  },
+  {
+   "i": 132,
+   "speaker": "Рёма",
+   "text": "「Хех, если она готова блефовать с таким размахом,\n　то возражений нет.」",
+   "orig": "Ryoma\n「Heh, if she's willing to take her bluff this far,\n　can't say that I do.」"
+  },
+  {
+   "i": 133,
+   "speaker": "$n",
+   "text": "「Лжёшь ты или говоришь правду — покажут\n　твои дальнейшие действия.」",
+   "orig": "$n\n「We'll know if you're lying or telling the truth\n　based off what you do now.」"
+  },
+  {
+   "i": 134,
+   "speaker": "$n",
+   "text": "「Не забывай: нам уже однажды\n　вонзили нож в спину.」",
+   "orig": "$n\n「Don't forget that we've\n　been stabbed in the back once already.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Мельда",
+   "text": "「Я знаю.」",
+   "orig": "Melda\n「I know.」"
+  },
+  {
+   "i": 136,
+   "speaker": "$n",
+   "text": "「Враг целит в «Ямато»! Сбивайте всех\n　до единого, кто сунется добивать корабль!」",
+   "orig": "$n\n「The enemy is targeting the Yamato! Take down\n　every last one that tries to come in for the kill!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Титосэ",
+   "text": "「Ты правда не против этого, Акира?」",
+   "orig": "Chitose\n「Are you really all right with this, Akira?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Ямамото",
+   "text": "「Не знаю.」",
+   "orig": "Yamamoto\n「I don't know.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Титосэ",
+   "text": "「Ах, Акира...」",
+   "orig": "Chitose\n「Oh, Akira—」"
+  },
+  {
+   "i": 140,
+   "speaker": "Тэцуя",
+   "text": "「Это истребитель\n　парламентёра Гамилас!」",
+   "orig": "Tetsuya\n「That's the Gamillan\n　messenger's fighter!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Рёма",
+   "text": "「Пользуется суматохой,\n　чтобы дезертировать, да?」",
+   "orig": "Ryoma\n「She's using the confusion\n　to desert us, isn't she?」"
+  },
+  {
+   "i": 142,
+   "speaker": "Сэцуна",
+   "text": "「Нет, ты ошибаешься!」",
+   "orig": "Setsuna\n「No, you're wrong!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Мельда",
+   "text": "「Говорит энсин Мельда Диц,\n　707-е авиакрыло Галактического округа.」",
+   "orig": "Melda\n「This is Ensign Melda Dietz\n　of the Galaxy Region 707th Aircraft Wing.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Мельда",
+   "text": "「Я прикрою вас.\n　Если не доверяете — сейчас самый\n　подходящий момент меня сбить.」",
+   "orig": "Melda\n「I'll cover you.\n　Now's the perfect time to shoot me\n　if you don't trust me.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Тобиа",
+   "text": "「Сэцуна!」",
+   "orig": "Tobia\n「Setsuna!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Сэцуна",
+   "text": "「Да!」",
+   "orig": "Setsuna\n「Yeah!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Кинкейд",
+   "text": "「Что ж, дама всё сказала.\n　Возражения есть, Рёма?」",
+   "orig": "Kincade\n「Well, you heard the lady.\n　Got any problems, Ryoma?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Рёма",
+   "text": "「Хех, если она готова блефовать с таким размахом,\n　то возражений нет.」",
+   "orig": "Ryoma\n「Heh, if she's willing to take her bluff this far,\n　can't say that I do.」"
+  },
+  {
+   "i": 149,
+   "speaker": "$n",
+   "text": "「Лжёшь ты или говоришь правду — покажут\n　твои дальнейшие действия.」",
+   "orig": "$n\n「We'll know if you're lying or telling the truth\n　based off what you do now.」"
+  },
+  {
+   "i": 150,
+   "speaker": "$n",
+   "text": "「Не забывай: нам уже однажды\n　вонзили нож в спину.」",
+   "orig": "$n\n「Don't forget that we've\n　been stabbed in the back once already.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Мельда",
+   "text": "「Я знаю.」",
+   "orig": "Melda\n「I know.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Враг целит в «Ямато»! Сбивайте всех\n　до единого, кто сунется добивать корабль!」",
+   "orig": "$n\n「The enemy is targeting the Yamato! Take down\n　every last one that tries to come in for the kill!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Титосэ",
+   "text": "「Ты правда не против этого, Акира?」",
+   "orig": "Chitose\n「Are you really all right with this, Akira?」"
+  },
+  {
+   "i": 154,
+   "speaker": "Ямамото",
+   "text": "「Не знаю.」",
+   "orig": "Yamamoto\n「I don't know.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Титосэ",
+   "text": "「Ах, Акира...」",
+   "orig": "Chitose\n「Oh, Akira—」"
+  },
+  {
+   "i": 156,
+   "speaker": "Мори",
+   "text": "「Все неопознанные аппараты уничтожены.」",
+   "orig": "Mori\n「Confirmed destruction of all unidentified craft.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Кодай",
+   "text": "「Да что это вообще было такое?」",
+   "orig": "Kodai\n「What in the heck were those things?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Сима",
+   "text": "「Похоже, это беспилотники, но они явно принадлежат\n　какой-то цивилизации, затаившейся поблизости.」",
+   "orig": "Shima\n「Seems like they were unmanned craft, but they must belong\n　to some civilization lurking around here somewhere.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Окита",
+   "text": "「Доложить о горизонте измерений.」",
+   "orig": "Okita\n「Report on the dimensional horizon.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Ота",
+   "text": "「Выход всё ещё открыт!」",
+   "orig": "Ota\n「The opening is still there!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Окита",
+   "text": "「Теперь нас отбуксируют мобильные юниты.」",
+   "orig": "Okita\n「The mobile units will have to tow us now.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Мори",
+   "text": "「Неопознанные аппараты на два часа!」",
+   "orig": "Mori\n「Unidentified craft at two o'clock!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Кодай",
+   "text": "「Мы кого-то упустили?」",
+   "orig": "Kodai\n「So we missed some?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Кодай",
+   "text": "「Что?」",
+   "orig": "Kodai\n「What?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Мельда",
+   "text": "「Что это?」",
+   "orig": "Melda\n「What is that?」"
+  },
+  {
+   "i": 166,
+   "speaker": "Кодай",
+   "text": "「Корабль Гамилас\n　помогает нам?」",
+   "orig": "Kodai\n「The Gamillan ship\n　is helping us?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Окита",
+   "text": "「Командир Ланг?」",
+   "orig": "Okita\n「Commander Lang?」"
+  },
+  {
+   "i": 168,
+   "speaker": "Ланг",
+   "text": "「Я должен извиниться, командир Окита.\n　Мы несём всю ответственность за случившееся.」",
+   "orig": "Lang\n「I must apologize, Commander Okita.\n　We take full responsibility for what has happened.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Ланг",
+   "text": "「Я не жду вашего прощения,\n　но мне искренне жаль.」",
+   "orig": "Lang\n「I do not expect you to forgive me,\n　but I am truly sorry.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Окита",
+   "text": "「Что случилось, то случилось.\n　Уверен, на то была причина.」",
+   "orig": "Okita\n「It is what it is.\n　I'm sure there is a reason for it.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Окита",
+   "text": "「Но вы вернулись за нами.\n　Это говорит о многом.」",
+   "orig": "Okita\n「But you came back for us.\n　That in itself speaks volumes.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Ланг",
+   "text": "「Благодарю за великодушие.」",
+   "orig": "Lang\n「Your magnanimity is appreciated.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Нельге",
+   "text": "「Глупец!\n　Ты играешь на руку врагу!」",
+   "orig": "Nelge\n「You fool!\n　You are benefitting the enemy!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Ланг",
+   "text": "「Вы будете наказаны за предательство мирных сил,\n　с которыми мы заключили союз в час беды.」",
+   "orig": "Lang\n「You will be punished for betraying the peaceful troops\n　we had allied with in a time of crisis.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Ланг",
+   "text": "「Вы и все ваши подчинённые будете взяты под арест.」",
+   "orig": "Lang\n「You and your subordinates will all be detained.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Нельге",
+   "text": "「Я лейтенант гвардии! Поднять на меня руку —\n　всё равно что измена!」",
+   "orig": "Nelge\n「I am the Guard Lieutenant! Striking at me is tantamount\n　to treason!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Ланг",
+   "text": "「Я намерен лично доложить обо всём случившемся\n　Его Превосходительству.」",
+   "orig": "Lang\n「I intend to explain everything that has happened\n　to His Excellency myself.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Нельге",
+   "text": "「Ах ты!..」",
+   "orig": "Nelge\n「You—!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Ланг",
+   "text": "「А теперь наш корабль берёт «Ямато» на буксир!」",
+   "orig": "Lang\n「Now, this ship will begin towing the Yamato!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Мори",
+   "text": "「Идут буксирные лучи.」",
+   "orig": "Mori\n「Towing beams incoming.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Окита",
+   "text": "「Отлично.\n　Мобильным юнитам вернуться на борт.」",
+   "orig": "Okita\n「All right.\n　Mobile units, return to the ship.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Кодай",
+   "text": "「Есть!\n　Юниты, возвращаемся!」",
+   "orig": "Kodai\n「Roger!\n　Mobile units, head back!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Кодай",
+   "text": "「Энсин Диц,\n　собираетесь играть роль посланницы до самого конца?」",
+   "orig": "Kodai\n「Ensign Dietz,\n　are you going to play the messenger till the very end?」"
+  },
+  {
+   "i": 184,
+   "speaker": "Окита",
+   "text": "（Значит, есть и честные гамиласцы.）",
+   "orig": "Okita\n（So there are trustworthy Gamillans.）"
+  },
+  {
+   "i": 185,
+   "speaker": "Ланг",
+   "text": "「Мы покидаем это место вместе с «Ямато».\n　Полный вперёд, к выходу!」",
+   "orig": "Lang\n「We're leaving this place together with the Yamato.\n　Advance toward the exit!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Нельге",
+   "text": "（Гррр!）",
+   "orig": "Nelge\n（Grrr!）"
+  },
+  {
+   "i": 187,
+   "speaker": "Сима",
+   "text": "「Волновой барьер отключён, и мы даже не можем\n　отстреливаться. Мы просто мишень!」",
+   "orig": "Shima\n「The wave motion barrier is down, and we can't even\n　return fire. We're sitting ducks!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Окита",
+   "text": "「Мобильным юнитам атаковать ближайших врагов\n　в первую очередь. И не более того!」",
+   "orig": "Okita\n「Have the mobile units prioritize attacking nearby\n　enemies. Don't do any more than that!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Кодай",
+   "text": "「Есть!」",
+   "orig": "Kodai\n「Roger!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Мельда",
+   "text": "「Я сражалась, защищая честь Гамилас.\n　И ни о чём не жалею.」",
+   "orig": "Melda\n「I fought to protect the honor of Gamillas.\n　I have no regrets.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Кодай",
+   "text": "「Энсин Диц!」",
+   "orig": "Kodai\n「Ensign Dietz!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Окита",
+   "text": "「...」",
+   "orig": "Okita\n「...」"
+  },
+  {
+   "i": 193,
+   "speaker": "Система 99",
+   "text": "「Внимание. Сила противника и его\n　групповая тактика высокого уровня.」",
+   "orig": "System Nine-Nine\n「Warning. Enemy strength and\n　cooperative tactics are of high caliber.」"
+  },
+  {
+   "i": 194,
+   "speaker": "$n",
+   "text": "「Ого, ты редко так заводишься.」",
+   "orig": "$n\n「Oh, you hardly ever get this fired up.」"
+  },
+  {
+   "i": 195,
+   "speaker": "$n",
+   "text": "「Хотя сейчас не до шуток!\n　Раз уж ты решила меня предупредить, значит,\n　эти ребята — серьёзная угроза!」",
+   "orig": "$n\n「But this isn't the time to be saying that!\n　If you're taking the time to warn me about it, then these\n　guys are seriously bad news!」"
+  },
+  {
+   "i": 196,
+   "speaker": "$n",
+   "text": "「Я не собираюсь подыхать в этой нелепой дыре!\n　Пока я здесь, никто не доберётся до «Ямато»!」",
+   "orig": "$n\n「I'm not gonna die in this ridiculous place!\n　Nothing's gonna get to the Yamato while I'm around!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Тобиа",
+   "text": "「Я вижу Солнечную систему!\n　Мы почти выбрались!」",
+   "orig": "Tobia\n「I can see the Solar System!\n　We're almost out of this mess!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Тобиа",
+   "text": "「Мы не проиграем, зайдя так далеко.\n　Мы обязательно выживем!」",
+   "orig": "Tobia\n「No way are we losing when we've come this far.\n　We're going to survive!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Кинкейд",
+   "text": "「Их атаки почти безупречны.\n　Вот же головная боль!」",
+   "orig": "Kincade\n「These attacks are nearly perfect.\n　What a pain in the neck!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Кинкейд",
+   "text": "（Но это значит, что аппараты беспилотные.\n　А тот, кто ими управляет, должен\n　быть где-то поблизости!）",
+   "orig": "Kincade\n（But that means that these craft are unmanned.\n　And the ones controlling them have to\n　be around here somewhere!）"
+  },
+  {
+   "i": 201,
+   "speaker": "Рёма",
+   "text": "「Чем дольше эти штуки дерутся, тем лучше бьются!」",
+   "orig": "Ryoma\n「The more these things fight, the better they get!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Рёма",
+   "text": "「Но они дерутся как холодные убийцы, без ярости\n　и азарта. Ими управляет ИИ, а не пилоты.\n　Таким я не проиграю!」",
+   "orig": "Ryoma\n「But they're acting like cold killers, not hot-blooded\n　murderers. They must be controlled by AI, not pilots.\n　I'm not losing to something like that!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Тэцуя",
+   "text": "（Я не собираюсь гнить здесь вечно.）",
+   "orig": "Tetsuya\n（I'm not going to rot out here forever.）"
+  },
+  {
+   "i": 204,
+   "speaker": "Тэцуя",
+   "text": "（В крайнем случае придётся схватить Рёму\n　и выбираться отсюда самому!）",
+   "orig": "Tetsuya\n（If the worst comes to pass, I'll have to take Ryoma\n　and get out of here myself!）"
+  },
+  {
+   "i": 205,
+   "speaker": "Сэцуна",
+   "text": "（Почему вы нападаете?\n　Почему не отвечаете на наши сообщения?）",
+   "orig": "Setsuna\n（Why are you attacking?\n　Why aren't you responding to our messages?）"
+  },
+  {
+   "i": 206,
+   "speaker": "Сэцуна",
+   "text": "（Космос куда более жесток, чем я мог себе представить!）",
+   "orig": "Setsuna\n（Space is more violent than I could have ever imagined!）"
+  },
+  {
+   "i": 207,
+   "speaker": "Тиерия",
+   "text": "（Если это место — стена между мирами,\n　то, быть может, есть способ\n　вернуться домой!）",
+   "orig": "Tieria\n（If this place is a wall between worlds,\n　then there might some way\n　for us to go home!）"
+  },
+  {
+   "i": 208,
+   "speaker": "Тиерия",
+   "text": "「Но сначала надо\n　это пережить!」",
+   "orig": "Tieria\n「But we have\n　to survive this first!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Намбу",
+   "text": "「Я знал, что гамиласцам\n　нельзя было доверять!」",
+   "orig": "Nanbu\n「I knew we never\n　should have trusted the Gamillans!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Окита",
+   "text": "「...」",
+   "orig": "Okita\n「...」"
+  },
+  {
+   "i": 211,
+   "speaker": "Кодай",
+   "text": "「Хватит ныть, Намбу.\n　Каждый должен сделать всё, чтобы мы выбрались!」",
+   "orig": "Kodai\n「Stop complaining, Nanbu.\n　We all have to do what we can to get through this!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Намбу",
+   "text": "「П-понял!」",
+   "orig": "Nanbu\n「U-understood!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Мельда",
+   "text": "（Не верю, что командир Ланг\n　способен на такое коварство.）",
+   "orig": "Melda\n（I can't believe Commander Lang\n　would ever do something so devious.）"
+  },
+  {
+   "i": 214,
+   "speaker": "Мельда",
+   "text": "（На EX187 что-то произошло — но что?\n　Я не могу умереть, пока не узнаю!）",
+   "orig": "Melda\n（Something must have happened on the EX187, but what?\n　I can't die until I find that out!）"
+  },
+  {
+   "i": 215,
+   "speaker": "Мельда",
+   "text": "「И я защищу честь Гамилас!」",
+   "orig": "Melda\n「And I will protect the honor of Gamillas!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Вельт",
+   "text": "「Это был весьма занятный опыт,\n　но больше здесь узнать нечего.」",
+   "orig": "Velt\n「It was quite an interesting experience,\n　but there is nothing further to be learned here.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Вельт",
+   "text": "「Выбраться отсюда важнее,\n　чем изучать эти неопознанные машины!」",
+   "orig": "Velt\n「More than investigating these unidentified units,\n　getting out of this place takes priority!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Лотти",
+   "text": "「Состариться и сдохнуть в такой дыре —\n　хуже просто не придумаешь!」",
+   "orig": "Lottie\n「Getting old and dying in a place like this\n　would be the absolute worst!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Лотти",
+   "text": "「Мы выберемся отсюда любой ценой! А встанешь\n　у нас на пути — пеняй на себя!」",
+   "orig": "Lottie\n「We're getting out of here no matter what! If you're gonna\n　get in our way, you better prepare yourself!」"
+  },
+  {
+   "i": 220,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Aah!」"
+  }
+ ]
+}

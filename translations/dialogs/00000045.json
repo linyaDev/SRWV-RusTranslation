@@ -1,0 +1,538 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Угх!」",
+   "orig": "Jupiter Empire Soldier\n「Urgh!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Тобиа",
+   "text": "「Не двигаться!\n　У меня к тебе есть вопросы.」",
+   "orig": "Tobia\n「Don't move!\n　I've got some questions for you.」"
+  },
+  {
+   "i": 2,
+   "speaker": "$n",
+   "text": "「Повезло тебе наткнуться на разведотряд! Расскажешь\n　нам кое-что, прежде чем мы двинемся на вашу базу.」",
+   "orig": "$n\n「Lucky you, running into the reconnaissance unit! You\n　get to give us some info before we move on your base.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「В-вы правда собираетесь взять меня в плен?」",
+   "orig": "Jupiter Empire Soldier\n「D-do you really plan to make a prisoner of me?」"
+  },
+  {
+   "i": 4,
+   "speaker": "$n",
+   "text": "「Да, но не бойся, жить будешь.\n　А теперь помоги-ка нам.」",
+   "orig": "$n\n「Yes but don't worry, we'll let you live.\n　Now, help us out here.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Хех.」",
+   "orig": "Jupiter Empire Soldier\n「Heh.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Ха-ха-ха!\n　«Помочь вам»?\n　Не смешите меня!」",
+   "orig": "Jupiter Empire Soldier\n「Hahaha!\n　\"Help you out\"?\n　Don't be ridiculous!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Я никогда не стану пленником землян!」",
+   "orig": "Jupiter Empire Soldier\n「I shall never be the prisoner of Earthlings!」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "「Ах ты—!\n　Не думай, что мы дадим тебе уйти!」",
+   "orig": "$n\n「That little—!\n　Don't think we're gonna let you get away!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Тобиа",
+   "text": "「Нет!\n　Он сейчас—!」",
+   "orig": "Tobia\n「No!\n　He's going to—!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Скоро все земляне сгинут!」",
+   "orig": "Jupiter Empire Soldier\n「All Earthlings shall soon perish!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「А вас двоих уничтожит\n　Амуро Рэй!」",
+   "orig": "Jupiter Empire Soldier\n「And you two shall be exterminated by\n　Amuro Ray!」"
+  },
+  {
+   "i": 13,
+   "speaker": "$n",
+   "text": "「Что—!」",
+   "orig": "$n\n「What—!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Тобиа",
+   "text": "「Кто такой Амуро Рэй?」",
+   "orig": "Tobia\n「Who is Amuro Ray?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Ха-ха-ха-ха!\n　Зиг Юпитер!」",
+   "orig": "Jupiter Empire Soldier\n「Hahahaha!\n　Seig Jupiter!」"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "「Он себя подорвал!」",
+   "orig": "$n\n「He destroyed himself!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Тобиа",
+   "text": "「Подданные Империи Юпитера готовы без колебаний\n　пожертвовать жизнью, если это служит их верховному\n　вождю — Круксу Догати.」",
+   "orig": "Tobia\n「The subjects of the Jupiter Empire are not averse\n　to sacrificing their lives if they are doing so in\n　service of Crux Dogatie, their Supreme Leader.」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Мне казалось, это просто байки Юпитерианской\n　войны! К тому же Догати мёртв. Зачем продолжать?」",
+   "orig": "$n\n「I thought that was just a story from the Jupiter War!\n　Besides, Dogatie's dead. Why keep all that up?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тобиа",
+   "text": "「Видно, старые привычки живучи.」",
+   "orig": "Tobia\n「I guess old habits die hard.」"
+  },
+  {
+   "i": 20,
+   "speaker": "$n",
+   "text": "「Возможно. Но сейчас меня больше занимают\n　его последние слова.」",
+   "orig": "$n\n「Maybe so. Right now I'm more curious about that\n　guy's last words.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тобиа",
+   "text": "「Он ведь упомянул Амуро Рэя?」",
+   "orig": "Tobia\n「He mentioned Amuro Ray, didn't he?」"
+  },
+  {
+   "i": 22,
+   "speaker": "$n",
+   "text": "「Мне тоже так послышалось.」",
+   "orig": "$n\n「That's what I heard, too.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Тобиа",
+   "text": "「Тебе знакомо это имя, $n?」",
+   "orig": "Tobia\n「Do you know that name, $n?」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「Это легенда. Пилот-ас, живший почти 100 лет назад.」",
+   "orig": "$n\n「He's a legend. An ace pilot from nearly 100 years ago.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Тобиа",
+   "text": "「$kwb100 лет назад$kwe — это же времена Однолетней войны!」",
+   "orig": "Tobia\n「$kwb100 Years Ago$kwe—that would've been the One Year War!」"
+  },
+  {
+   "i": 26,
+   "speaker": "$n",
+   "text": "「О нём рассказывали на лекциях для пилотов.\n　Он был сильнейшим ньютайпом Однолетней войны.」",
+   "orig": "$n\n「I heard his story in pilot training lectures.\n　He was the most powerful Newtype in the One Year War.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Тобиа",
+   "text": "「Ясно.」",
+   "orig": "Tobia\n「I see.」"
+  },
+  {
+   "i": 28,
+   "speaker": "$n",
+   "text": "「И сильнейшим пилотом в истории Федерации Земли.\n　Он летал на RX-78 «Гандам». Прозвище — Белый\n　Метеор. Больше сотни подтверждённых побед.」",
+   "orig": "$n\n「And the strongest pilot in Earth Federation history.\n　He piloted an RX-78 Gundam. They called him the \n　White Meteor. He had over 100 confirmed kills.」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Настоящий герой. Он спас Землю от огромного метеорита.」",
+   "orig": "$n\n「A true hero. He saved Earth from a giant meteorite.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тобиа",
+   "text": "「Это было во время Мятежа Шара, верно?」",
+   "orig": "Tobia\n「That was during Char's Rebellion, right?」"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「Именно он.\n　Легенда гласит, что даже феномен\n　$kwbШока Аксиса$kwe — его рук дело.」",
+   "orig": "$n\n「That's the one.\n　Legend has it he was even behind the\n　$kwbAxis Shock$kwe phenomenon.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тобиа",
+   "text": "「Невероятно.」",
+   "orig": "Tobia\n「That's incredible.」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Наверняка половина его подвигов — выдумки и\n　преувеличения, но сам Амуро Рэй давно стал\n　частью преданий Федерации.」",
+   "orig": "$n\n「I'm pretty sure half of his accomplishments\n　have been made up and exaggerated, but the existence\n　of Amuro Ray has become part of Federation lore.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тобиа",
+   "text": "「И теперь он в Империи Юпитера? Звучит странно.」",
+   "orig": "Tobia\n「And now he's in the Jupiter Empire? That seems strange.」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「Мне в это не верится.\n　Он числится пропавшим без вести, и ему было бы\n　сильно за сто, если он вообще жив.」",
+   "orig": "$n\n「I certainly can't believe it.\n　He was declared MIA, and he'd be well over 100 years\n　old, assuming he's even alive.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Тобиа",
+   "text": "「Но погибшим его так и не признали, верно?\n　Значит, есть шанс, что он ещё жив.」",
+   "orig": "Tobia\n「Ah, but he wasn't declared dead, was he?\n　That means there's a chance he is still alive.」"
+  },
+  {
+   "i": 37,
+   "speaker": "$n",
+   "text": "「Да, но тогда он либо в криосне, либо киборг.」",
+   "orig": "$n\n「Yeah, but he'd have to be in cryosleep. Or a cyborg.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Тобиа",
+   "text": "「У Империи Юпитера есть такие технологии.」",
+   "orig": "Tobia\n「The Jupiter Empire has that kind of technology.」"
+  },
+  {
+   "i": 39,
+   "speaker": "$n",
+   "text": "「Это нельзя так оставить.」",
+   "orig": "$n\n「We can't let this lie.」"
+  },
+  {
+   "i": 40,
+   "speaker": "$n",
+   "text": "「Идём, Тобиа. Свяжемся с «Ямато» и сообщим,\n　что выдвигаемся к базе.」",
+   "orig": "$n\n「Come on, Tobia. We'll contact the Yamato and tell\n　them we're heading for the base.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Тобиа",
+   "text": "「Ого.」",
+   "orig": "Tobia\n「Wow.」"
+  },
+  {
+   "i": 42,
+   "speaker": "$n",
+   "text": "「Что?」",
+   "orig": "$n\n「What?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Тобиа",
+   "text": "「Просто я удивлён. Не думал, что в тебе столько\n　азарта, $n.」",
+   "orig": "Tobia\n「I'm just surprised. I had no idea you were so\n　driven, $n.」"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「Я ведь пилот, Тобиа. Услышав имя Амуро Рэя,\n　как тут не сгорать от любопытства?」",
+   "orig": "$n\n「I'm a pilot, Tobia. If I hear the name Amuro Ray,\n　you better believe I'm going to be curious.」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Не будем терять время. Остальные наверняка уже\n　подняли базу по тревоге.」",
+   "orig": "$n\n「We can't waste any more time. The rest of those\n　guys have no doubt put the base on high alert.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Тобиа",
+   "text": "「Есть!」",
+   "orig": "Tobia\n「Yes sir!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тобиа",
+   "text": "（Значит, этот Амуро Рэй теперь в Империи Юпитера?\n　Интересно, что же нас ждёт впереди.）",
+   "orig": "Tobia\n（So this Amuro Ray is part of the Jupiter Empire?\n　I can't wait to see what'll greet us now.）"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Сегодня наш день! Добудем сведения, прежде чем\n　отправимся к базе.」",
+   "orig": "$n\n「Today's our lucky day! We can get some intel before\n　we make our way to the base.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「В-вы правда собираетесь взять меня в плен?」",
+   "orig": "Jupiter Empire Soldier\n「D-do you really plan to make a prisoner of me?」"
+  },
+  {
+   "i": 50,
+   "speaker": "$n",
+   "text": "「Жизнь мы тебе, конечно, сохраним. Даже на войне\n　есть правила — и мы намерены их соблюдать.」",
+   "orig": "$n\n「We'll spare your life, of course. Even wars have\n　basic rules of engagement—rules I plan to follow.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Хех.」",
+   "orig": "Jupiter Empire Soldier\n「Heh.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Ха-ха-ха!\n　«Правила войны»?\n　Не смешите меня!」",
+   "orig": "Jupiter Empire Soldier\n「Hahaha!\n　\"Rules of engagement\"?\n　Don't be ridiculous!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Я никогда не стану пленником землян!」",
+   "orig": "Jupiter Empire Soldier\n「I shall never be the prisoner of Earthlings!」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「Стоять!\n　От нас ты не уйдёшь!」",
+   "orig": "$n\n「Not so fast!\n　You can't escape from us!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тобиа",
+   "text": "「Стой!\n　Он же не сбежать хочет—!」",
+   "orig": "Tobia\n「Stop!\n　That's not what he's trying to—!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Скоро все земляне сгинут!」",
+   "orig": "Jupiter Empire Soldier\n「All Earthlings shall soon perish!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「А вас двоих уничтожит\n　Амуро Рэй!」",
+   "orig": "Jupiter Empire Soldier\n「And you two shall be exterminated by\n　Amuro Ray!」"
+  },
+  {
+   "i": 59,
+   "speaker": "$n",
+   "text": "「Он сказал—」",
+   "orig": "$n\n「Did he say—」"
+  },
+  {
+   "i": 60,
+   "speaker": "Тобиа",
+   "text": "「Амуро Рэй?」",
+   "orig": "Tobia\n「Amuro Ray?」"
+  },
+  {
+   "i": 61,
+   "speaker": "Солдат Империи Юпитера",
+   "text": "「Ха-ха-ха-ха!\n　Зиг Юпитер!」",
+   "orig": "Jupiter Empire Soldier\n「Hahahaha!\n　Sieg Jupiter!」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Невероятно...\n　О-он себя подорвал.」",
+   "orig": "$n\n「Unbelievable...\n　H-he destroyed himself.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тобиа",
+   "text": "「Подданные Империи Юпитера готовы без колебаний\n　пожертвовать жизнью, если это служит их верховному\n　вождю — Круксу Догати.」",
+   "orig": "Tobia\n「The subjects of the Jupiter Empire are not averse\n　to sacrificing their lives if they are doing so in\n　service of Crux Dogatie, their Supreme Leader.」"
+  },
+  {
+   "i": 64,
+   "speaker": "$n",
+   "text": "「Но это было во время Юпитерианской войны!\n　Догати давно мёртв. Зачем хранить традицию?」",
+   "orig": "$n\n「But that was during the Jupiter War!\n　Dogatie is dead now. Why continue that tradition?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Тобиа",
+   "text": "「Видно, старые привычки живучи.」",
+   "orig": "Tobia\n「I guess old habits die hard.」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Его последние слова не идут у меня из головы.」",
+   "orig": "$n\n「I can't get his last words out of my head.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тобиа",
+   "text": "「Он упомянул какого-то Амуро Рэя, верно?」",
+   "orig": "Tobia\n「He mentioned an Amuro Ray, didn't he?」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Да.」",
+   "orig": "$n\n「Yeah.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тобиа",
+   "text": "「Это имя тебе знакомо, $n?」",
+   "orig": "Tobia\n「Does that name sound familiar, $n?」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Так звали легендарного пилота. Жившего 100 лет назад.」",
+   "orig": "$n\n「It's the name of a legendary pilot. From 100 years ago.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Тобиа",
+   "text": "「$kwb100 лет назад$kwe — это же времена Однолетней войны!」",
+   "orig": "Tobia\n「$kwb100 Years Ago$kwe—that would've been the One Year War!」"
+  },
+  {
+   "i": 72,
+   "speaker": "$n",
+   "text": "「О нём рассказывали на подготовке пилотов.\n　Он был сильнейшим ньютайпом Однолетней войны.」",
+   "orig": "$n\n「They told us about him in pilot training.\n　He was the strongest Newtype in the One Year War.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Тобиа",
+   "text": "「Ясно.」",
+   "orig": "Tobia\n「I see.」"
+  },
+  {
+   "i": 74,
+   "speaker": "$n",
+   "text": "「А ещё — лучший пилот в истории Федерации Земли.\n　Он летал на RX-78 «Гандам». Прозвище — Белый\n　Метеор. Больше сотни подтверждённых побед.」",
+   "orig": "$n\n「He was the best pilot in Earth Federation history, too.\n　He piloted an RX-78 Gundam. They called him the\n　White Meteor. He had more than 100 confirmed kills.」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「Это герой, спасший Землю от падающего метеорита.」",
+   "orig": "$n\n「He's the hero who saved Earth from a falling meteorite.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тобиа",
+   "text": "「Это было во время Мятежа Шара, верно?」",
+   "orig": "Tobia\n「That was during Char's Rebellion, right?」"
+  },
+  {
+   "i": 77,
+   "speaker": "$n",
+   "text": "「Да. Говорят, даже феномен\n　$kwbШока Аксиса$kwe — его рук\n　дело.」",
+   "orig": "$n\n「Yes.\n　They say he was even behind the\n　$kwbAxis Shock$kwe phenomenon.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Тобиа",
+   "text": "「Поистине выдающийся человек.」",
+   "orig": "Tobia\n「He was truly an incredible man.」"
+  },
+  {
+   "i": 79,
+   "speaker": "$n",
+   "text": "「Думаю, половина этого — просто пропаганда\n　Федерации. Само его существование давно стало\n　чем-то вроде легенды внутри Федерации.」",
+   "orig": "$n\n「I think half of it is just Federation propaganda\n　at this point. Whether he even existed at all has\n　become something of a legend within the Federation.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Тобиа",
+   "text": "「И теперь он в Империи Юпитера?」",
+   "orig": "Tobia\n「But now he's part of the Jupiter Empire?」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Что-то не сходится.\n　Он пропал без вести. Даже если каким-то чудом\n　он жив, ему должно быть за сто.」",
+   "orig": "$n\n「It doesn't add up.\n　He was declared MIA. Even if he is still alive\n　somehow, he'd have to be over 100 years old.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тобиа",
+   "text": "「Но погибшим его не признали.\n　А значит, есть шанс—」",
+   "orig": "Tobia\n「But he was never declared dead.\n　That leaves a chance—」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Что он лежал в криосне. Или, может, стал киборгом.」",
+   "orig": "$n\n「That he was in cryosleep. Or perhaps he's a cyborg.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Тобиа",
+   "text": "「У Империи Юпитера есть такие технологии.」",
+   "orig": "Tobia\n「The Jupiter Empire has that kind of technology.」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Это нельзя так оставить!」",
+   "orig": "$n\n「We can't let this continue!」"
+  },
+  {
+   "i": 86,
+   "speaker": "$n",
+   "text": "「Идём, Тобиа.\n　Свяжемся с «Ямато» и сообщим, что\n　выдвигаемся к базе.」",
+   "orig": "$n\n「Let's go, Tobia.\n　We'll contact the Yamato and let them know we're\n　heading for the base.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Тобиа",
+   "text": "「Нам лучше поспешить.\n　Те, с кем мы столкнулись, наверняка уже\n　предупредили базу о нашем появлении.」",
+   "orig": "Tobia\n「We'd better hurry.\n　The forces we just encountered have no doubt alerted\n　the base to our presence.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Тобиа",
+   "text": "（Значит, этот Амуро Рэй теперь в Империи Юпитера?\n　Интересно, что же нас ждёт впереди.）",
+   "orig": "Tobia\n（So this Amuro Ray is part of the Jupiter Empire?\n　I can't wait to see what'll greet us now.）"
+  }
+ ]
+}

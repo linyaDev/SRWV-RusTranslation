@@ -1,0 +1,394 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Приёмная «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　-Yamato Reception Room-"
+  },
+  {
+   "i": 4,
+   "speaker": "Тобиа",
+   "text": "「Значит, дела на Земле и правда так плохи?」",
+   "orig": "Tobia\n「So things on Earth really are that bad?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Кодай",
+   "text": "「Да. Но «Ямато» отправился в полёт,\n　чтобы переломить ситуацию.」",
+   "orig": "Kodai\n「Yes. But the Yamato launched to try\n　and turn the situation around.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Кодай",
+   "text": "「И будет катастрофа, если Империя Юпитера снова\n　вторгнется, как два года назад.」",
+   "orig": "Kodai\n「And it'd be disastrous if the Jupiter Empire mounts\n　an invasion like they did two years ago.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Тобиа",
+   "text": "「Федерация ведь не смогла его остановить?」",
+   "orig": "Tobia\n「The Federation couldn't stop it, could they?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодай",
+   "text": "「Г-н Арронакс—」",
+   "orig": "Kodai\n「Mr. Arronax—」"
+  },
+  {
+   "i": 9,
+   "speaker": "Тобиа",
+   "text": "「Просто Тобиа.」",
+   "orig": "Tobia\n「Tobia is fine.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Кодай",
+   "text": "「Могу я спросить кое-что о тебе самом?」",
+   "orig": "Kodai\n「Can I ask you a question, about yourself?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Тобиа",
+   "text": "「Спрашивайте.」",
+   "orig": "Tobia\n「Go ahead.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Кодай",
+   "text": "「Во время Юпитерианской войны я ещё учился в\n　офицерской школе, но слышал о подвигах\n　$kwbКосмических пиратов Авангарда Кроссбоун$kwe.」",
+   "orig": "Kodai\n「I was still at Officers' School during the Jupiter\n　War, but I heard about the exploits of the\n　$kwbCrossbone Vanguard Space Pirates$kwe.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Кодай",
+   "text": "「А их пилот-ас, оказывается, младше меня.\n　В Юпитерианскую войну ты был ещё мальчишкой, да?」",
+   "orig": "Kodai\n「And it turns out their ace pilot is younger than me.\n　You were just a boy during the Jupiter War, right?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Тобиа",
+   "text": "「Ас, о котором вы говорите — пилот X-1 —\n　это был другой человек, лейтенант\n　Кодай.」",
+   "orig": "Tobia\n「The ace you're asking about—the pilot\n　of the X-1, I mean—was someone else, Lieutenant\n　Kodai.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Тобиа",
+   "text": "「Хотя я тоже сражался на Юпитерианской войне.」",
+   "orig": "Tobia\n「Though I did fight in the Jupiter War as well.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Кодай",
+   "text": "「Спасибо за уточнение.\n　Хочу поблагодарить ваш экипаж за то, что вы бились\n　с Империей Юпитера вместо Федерации.」",
+   "orig": "Kodai\n「Thank you for clarifying.\n　I wish to thank your crew for taking on the Jupiter\n　Empire in place of the Federation.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Тобиа",
+   "text": "「У нас не было выбора.\n　Планетарная бомба ещё не прилетела, а у\n　Федерации все силы уходили на гамиласцев.」",
+   "orig": "Tobia\n「We had no other choice.\n　The Planet Bomb hadn't arrived, and the\n　Federation had its hands full with the Gamillas.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Кодай",
+   "text": "「А теперь всё ещё хуже.」",
+   "orig": "Kodai\n「And now things are even worse.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тобиа",
+   "text": "「Мы с командой приняли знамя Авангарда Кроссбоун\n　от Беры Рона и её людей. Просто делаем,\n　что можем.」",
+   "orig": "Tobia\n「My crew and I have taken up the Crossbone Vanguard\n　mantle from Berah Ronah and her crew. We're just\n　doing what we can.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Тобиа",
+   "text": "「Мы спасаем выживших из колоний, разорённых\n　гамиласцами, и сражаемся с теми, кто пользуется\n　хаосом ради грабежа.」",
+   "orig": "Tobia\n「We rescue survivors from Gamillas-ravaged colonies,\n　and battle those who would take advantage of chaos\n　in order to rob others.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тобиа",
+   "text": "「Поначалу мы так же помогали тем, кто бежал на\n　Марс, но это стало трудно, когда вновь\n　объявилась Империя Юпитера.」",
+   "orig": "Tobia\n「We initially supported those who escaped to Mars\n　as part of that endeavor, but that proved difficult\n　when the Jupiter Empire reappeared.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кодай",
+   "text": "「Они снова вторгнутся на Землю?」",
+   "orig": "Kodai\n「Are they going to invade Earth again?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Тобиа",
+   "text": "「Точно сказать не могу.」",
+   "orig": "Tobia\n「I can't say for sure.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Кодай",
+   "text": "「Земля и так искалечена! Она зачахнет даже без\n　их атак! Какой в этом смысл?」",
+   "orig": "Kodai\n「The Earth is crippled! It'll just waste away, even\n　if they don't attack it! What's the point?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Тобиа",
+   "text": "「Крукс Догати, верховный вождь Империи, жаждал\n　сугубо личной мести. Он хотел стереть Землю\n　в пыль, чтобы утолить свою жажду крови.」",
+   "orig": "Tobia\n「Crux Dogatie, Supreme Leader of the Empire, was after\n　a very personal type of revenge. And he wanted to\n　wipe out the Earth in order to satiate his bloodlust.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Тобиа",
+   "text": "「Но теперь, когда он повержен, я не припомню\n　среди оставшихся никого с такой же всепоглощающей\n　ненавистью к Земле.」",
+   "orig": "Tobia\n「Now that he's been defeated, however, I can't\n　think of anyone among those who remain who share such\n　all-consuming rage toward Earth.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Кодай",
+   "text": "「И тем не менее — вот мы здесь.\n　Они собирают армию на Марсе.」",
+   "orig": "Kodai\n「And yet, here we are.\n　They're building an army on Mars.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тобиа",
+   "text": "「Некоторые регионы понесли\n　катастрофический урон.」",
+   "orig": "Tobia\n「Certain regions have taken\n　catastrophic levels of damage.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Кодай",
+   "text": "「И это после всего, что пережили эти люди.\n　После того, как они бежали на Марс.」",
+   "orig": "Kodai\n「And after all these people have been through.\n　After they tried to escape to Mars.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тобиа",
+   "text": "「Мы бились из последних сил,\n　но X-1 — единственная приличная\n　машина у нас.」",
+   "orig": "Tobia\n「We fought with all we had,\n　but the X-1 is the only decent suit\n　in our possession.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Тобиа",
+   "text": "「И всё же нам удалось уничтожить\n　высадившиеся силы Империи Юпитера.」",
+   "orig": "Tobia\n「That said, we were able to\n　destroy the Jupiter Empire forces that landed.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тобиа",
+   "text": "「Думаю, больше об их планах мы не узнаем,\n　пока не наведаемся в их логово.」",
+   "orig": "Tobia\n「I don't think we'll learn any more about their plans\n　unless we pay their stronghold a visit.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Кодай",
+   "text": "「То есть наведаться на сам Юпитер.」",
+   "orig": "Kodai\n「By which you mean a visit to Jupiter itself.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тобиа",
+   "text": "「Что скажете, Кодай?\n　Не хотите нанять нас гидами до Юпитера?」",
+   "orig": "Tobia\n「What do you say, Kodai?\n　Care to hire us as your guides to Jupiter?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Кодай",
+   "text": "「Нанять, говоришь?」",
+   "orig": "Kodai\n「Did you say \"hire\" you?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Тобиа",
+   "text": "「Считайте нас просто телохранителями.\n　Можно даже вынудить их напасть первыми, если\n　проложить курс прямо мимо Юпитера.」",
+   "orig": "Tobia\n「Just think of us as your bodyguards.\n　You could even get them to make the first move if\n　you set a course that goes right by Jupiter.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Кодай",
+   "text": "「У меня нет таких полномочий. Я не могу втянуть\n　«Ямато» в войну с Империей Юпитера.」",
+   "orig": "Kodai\n「I don't have that kind of authority. I can't send the\n　Yamato to war with the Jupiter Empire.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Тобиа",
+   "text": "「Тогда скажу иначе.\n　Возьмите нас с собой до Юпитера.」",
+   "orig": "Tobia\n「Let me rephrase that, then.\n　Take me and my crew to Jupiter.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Тобиа",
+   "text": "「Сами мы до Юпитера не доберёмся,\n　но нельзя дать Империи покоя, если\n　она и впрямь восстанавливается.」",
+   "orig": "Tobia\n「We don't have the means to reach Jupiter\n　ourselves, but we can't let the Empire rest\n　if they are in fact rebuilding.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Кодай",
+   "text": "「Ты ведь с самого начала к этому вёл?」",
+   "orig": "Kodai\n「This was your angle from the start, wasn't it?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Тобиа",
+   "text": "「Но ведь идея не самая плохая, а?\n　По сути, выгодно нам обоим.」",
+   "orig": "Tobia\n「It's not the worst idea though, is it?\n　In fact it's kind of a win-win.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Кодай",
+   "text": "「Возможно, ты прав.\n　Я сам поговорю с командующим.」",
+   "orig": "Kodai\n「You might be right.\n　I'll speak to the commander myself.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Ниими",
+   "text": "「Вы закончили разговор, лейтенант Кодай?」",
+   "orig": "Niimi\n「Have you finished talking, Lieutenant Kodai?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Кодай",
+   "text": "「Да, офицер Ниими.\n　Вы нашли конденсатор волнового двигателя?」",
+   "orig": "Kodai\n「Yes, Officer Niimi.\n　Did you find the wave motion engine capacitor?」"
+  },
+  {
+   "i": 45,
+   "speaker": "Ниими",
+   "text": "「К счастью, да.\n　Механики Токугавы уже занимаются им.」",
+   "orig": "Niimi\n「We did, thankfully.\n　Tokugawa's engineers are already working on it.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Кодай",
+   "text": "「Хорошо.\n　Похоже, первый барьер мы взяли.」",
+   "orig": "Kodai\n「Good.\n　It sounds like we've cleared the first hurdle.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Ниими",
+   "text": "「Да, и я привела кое-кого на борт.」",
+   "orig": "Niimi\n「Oh, and I've brought someone aboard.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Бернадетт",
+   "text": "「Как всё прошло, Тобиа?」",
+   "orig": "Bernadette\n「How'd it go, Tobia?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Тобиа",
+   "text": "「Лейтенант Кодай обещал передать наше предложение\n　командующему.」",
+   "orig": "Tobia\n「Lieutenant Kodai here says he will make a proposal\n　to the commander for us.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Кодай",
+   "text": "「Вы тоже из Авангарда Кроссбоун?」",
+   "orig": "Kodai\n「Are you also a member of the Crossbone Vanguard?」"
+  },
+  {
+   "i": 51,
+   "speaker": "Бернадетт",
+   "text": "「Я Бернадетт Бриетт.\n　Спасибо, что везёте нас до Юпитера!」",
+   "orig": "Bernadette\n「I'm Bernadette Briett.\n　Thanks for taking us to Jupiter!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Кодай",
+   "text": "「Минутку.\n　Что значит «нас»?」",
+   "orig": "Kodai\n「Wait a minute.\n　What does she mean \"us\"?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Тобиа",
+   "text": "「Из Авангарда Кроссбоун на Юпитер\n　отправимся только мы двое.」",
+   "orig": "Tobia\n「We're the only ones from the Crossbone Vanguard\n　who will be traveling to Jupiter.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тобиа",
+   "text": "「Остальные останутся на Марсе — помогать выжившим\n　и оборонять его от Империи.」",
+   "orig": "Tobia\n「The remaining members will remain on Mars, assisting\n　the survivors and defending it from the Empire.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Кодай",
+   "text": "「Но если вы полетите на Юпитер, вас—」",
+   "orig": "Kodai\n「But if you go to Jupiter, you'll be—」"
+  },
+  {
+   "i": 56,
+   "speaker": "Бернадетт",
+   "text": "「Я уже бывала на Юпитере, капитан.\n　Скажем так: я главный специалист Авангарда\n　Кроссбоун по Юпитеру.」",
+   "orig": "Bernadette\n「I've been to Jupiter before, Captain.\n　Let's just say I'm the Crossbone Vanguard's resident\n　expert on Jupiter.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Бернадетт",
+   "text": "「А можно сказать и так: я Тетенис Догати, дочь\n　верховного вождя Крукса Догати.」",
+   "orig": "Bernadette\n「Or we could say I'm Tetenith Dogatie, daughter of\n　Supreme Leader Crux Dogatie.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Кодай",
+   "text": "「Не может быть!」",
+   "orig": "Kodai\n「You can't be serious!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Ниими",
+   "text": "「В официальных записях значилось, что у Крукса\n　Догати была дочь, но—」",
+   "orig": "Niimi\n「There were official records that claimed Crux\n　Dogatie had a daughter, but—」"
+  },
+  {
+   "i": 60,
+   "speaker": "Кодай",
+   "text": "「Ни за что бы не подумал, что вы окажетесь в самом\n　сердце тех, кто сокрушил Империю.」",
+   "orig": "Kodai\n「I never would have guessed you'd be at the heart\n　of the very group that brought the Empire down.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Бернадетт",
+   "text": "「Именно поэтому я не могу сидеть сложа руки,\n　пока Империя Юпитера восстанавливается.」",
+   "orig": "Bernadette\n「That is precisely why I cannot stand\n　idly by while the Jupiter Empire rebuilds.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Кодай",
+   "text": "「Понимаю.\n　Я сообщу командующему и о вашем присутствии.」",
+   "orig": "Kodai\n「Understandably.\n　I will alert the commander to your presence as well.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Бернадетт",
+   "text": "「Спасибо.」",
+   "orig": "Bernadette\n「Thank you.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Тобиа",
+   "text": "（«Ямато» уходит далеко за пределы Млечного\n　Пути, чтобы спасти Землю.）",
+   "orig": "Tobia\n（So the Yamato is venturing far beyond the\n　Milky Way in order to save Earth.）"
+  },
+  {
+   "i": 65,
+   "speaker": "Тобиа",
+   "text": "（И мы должны защитить Землю от Империи, чтобы\n　их путь не оказался напрасным.）",
+   "orig": "Tobia\n（We've got to do our part to protect Earth from\n　the Empire, lest their journey be in vain.）"
+  },
+  {
+   "i": 69,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　　-Завод-",
+   "orig": "　\n　\n　　　　　　　　　　　　　-Factory-"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Сценарий завода здесь ещё не задействован,\n　но место под него я всё равно подготовлю.」",
+   "orig": "$n\n「This scenario hasn't triggered a factory scenario\n　yet, but I'll create a space for it anyway.」"
+  }
+ ]
+}

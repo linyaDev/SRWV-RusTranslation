@@ -1,0 +1,922 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Ота",
+   "text": "「Снижение завершено.\n　Скоро выведу изображение базы Альтиния на экран.」",
+   "orig": "Ota\n「We have completed our descent.\n　I'll have visuals on the Altinia Base shortly.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Санада",
+   "text": "「Это определённо территория базы Альтиния.」",
+   "orig": "Sanada\n「That's definitely the Altinia Base site.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Сима",
+   "text": "「Правда, похоже, встречать нас никто не выйдет.」",
+   "orig": "Shima\n「Looks like we're in for a lonely landing, though.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Кодай",
+   "text": "「Времени у нас в обрез.\n　Берём нужные материалы и за работу.」",
+   "orig": "Kodai\n「We can't waste a lot of time.\n　Let's get the materials we need, and get to work.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Мори",
+   "text": "「Радар что-то засёк!\n　Это—!」",
+   "orig": "Mori\n「I'm picking something up on radar!\n　It's a—!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Кодай",
+   "text": "「Приближается мобильный доспех!\n　Судя по типу, он принадлежит Империи Юпитера!」",
+   "orig": "Kodai\n「Mobile suit inbound!\n　Based on the type, it belongs to the Jupiter Empire!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Намбу",
+   "text": "「Невозможно! Я думал, их уничтожили в\n　$kwbЮпитерианскую войну$kwe два года назад!」",
+   "orig": "Nanbu\n「Impossible! I thought they got wiped out in the\n　$kwbJupiter War$kwe two years ago!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Окита",
+   "text": "「Выходит, призраки Юпитера воскресли на Марсе?」",
+   "orig": "Okita\n「Jupiter's ghosts have resurrected Mars, haven't they?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Санада",
+   "text": "「Судя по беглой оценке обстановки, они\n　полностью захватили базу Альтиния.」",
+   "orig": "Sanada\n「Based on a quick survey of the situation,\n　it looks like they've commandeered the Altinia\n　base altogether.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Кодай",
+   "text": "「Командующий!\n　Империя Юпитера начала боевые приготовления!」",
+   "orig": "Kodai\n「Commander!\n　The Jupiter Empire has entered combat preparations!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Окита",
+   "text": "「Айхара, открыть все каналы связи,\n　какие есть!」",
+   "orig": "Okita\n「Aihara, open every communications channel\n　we've got!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Айхара",
+   "text": "「Есть!」",
+   "orig": "Aihara\n「Yes, sir!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Окита",
+   "text": "「Говорит Дзюдзо Окита, командующий «Ямато» Сил\n　Федерации Земли. Нам нужны материалы с базы\n　Альтиния для миссии, важной для всего человечества!」",
+   "orig": "Okita\n「This is Juzo Okita, commander of the Earth Federation\n　Force's Yamato. We require materials from the Altinia\n　Base for a mission of great import for all humanity!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Окита",
+   "text": "「Мы хотим договориться о нужных нам материалах.」",
+   "orig": "Okita\n「We wish to negotiate for the materials we need.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Намбу",
+   "text": "「Они атакуют!」",
+   "orig": "Nanbu\n「They're attacking!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Сима",
+   "text": "「Похоже, переговоры их не интересуют!」",
+   "orig": "Shima\n「I guess they're not open to negotiating!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Окита",
+   "text": "「Нам не оставили выбора.」",
+   "orig": "Okita\n「They're forcing our hand.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Кодай",
+   "text": "「Постойте, командующий!\n　«Ямато» создан для борьбы с гамиласцами!\n　Повернуть его орудия против людей значит—」",
+   "orig": "Kodai\n「Wait, Commander!\n　The Yamato is designed to fight against the Gamillas!\n　Turning its cannons on humans would—」"
+  },
+  {
+   "i": 18,
+   "speaker": "Окита",
+   "text": "「«Ямато» построен, чтобы дойти до Искандара,\n　Кодай. Советую тебе хорошенько это запомнить.」",
+   "orig": "Okita\n「The Yamato was built to make the journey to\n　Iscandar, Kodai. You would do well to remember that.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Окита",
+   "text": "「Люди или нет — они препятствие на пути\n　к Искандару.」",
+   "orig": "Okita\n「Human or not, they are obstacles on the journey\n　to Iscandar.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Кодай",
+   "text": "「Даже если они с Земли?」",
+   "orig": "Kodai\n「Even if they're from Earth?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Окита",
+   "text": "「Наш враг — зло, Кодай.」",
+   "orig": "Okita\n「We fight evil, Kodai.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кодай",
+   "text": "「Но—」",
+   "orig": "Kodai\n「But—」"
+  },
+  {
+   "i": 23,
+   "speaker": "Окита",
+   "text": "「Повторю ещё раз: наш враг — зло. Особенно то зло,\n　что проникает в людские сердца.」",
+   "orig": "Okita\n「I'll say it again—we fight evil. Especially\n　the evil that finds its way into people's hearts.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Окита",
+   "text": "「Всем занять боевые посты!」",
+   "orig": "Okita\n「Get to your battle stations, everyone!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Окита",
+   "text": "「Битва за возвращение базы Альтиния\n　начинается!」",
+   "orig": "Okita\n「The battle to reclaim the Altinia Base\n　begins now!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Окита",
+   "text": "「Канонирам: к огню готовьсь!」",
+   "orig": "Okita\n「All gunners, prepare to fire!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Кодай",
+   "text": "「Канониры, к огню готовьсь!」",
+   "orig": "Kodai\n「Gunners, prepare to fire!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Окита",
+   "text": "「Мы должны сокрушить всех противников,\n　что встанут у нас на пути!\n　Это приказ!」",
+   "orig": "Okita\n「We must crush all opponents\n　that stand in the way of our progress!\n　That's an order!」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「А авиагруппа разве не вылетает?」",
+   "orig": "$n\n「Isn't the Aircraft Squad going to deploy?」"
+  },
+  {
+   "i": 30,
+   "speaker": "Като",
+   "text": "「Приказа не поступало.」",
+   "orig": "Kato\n「We have no orders to do so.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Синохара",
+   "text": "「Будь это гамиласцы, я бы ещё понял. Но раз мы\n　дерёмся с мобильными доспехами, по мне, нам тоже\n　место там, снаружи.」",
+   "orig": "Shinohara\n「I could understand that call if these were Gamillans,\n　but the fact that we're facing off against mobile\n　suits says to me that we should be out there, too.」"
+  },
+  {
+   "i": 32,
+   "speaker": "$n",
+   "text": "「Видимо, командующий Окита считает это\n　проверкой «Ямато» в деле.」",
+   "orig": "$n\n「I guess Commander Okita is treating\n　this like a test run for the Yamato.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Мори",
+   "text": "「Радар засёк новые сигналы!\n　К нам идут ещё мобильные доспехи!」",
+   "orig": "Mori\n「I'm picking up more signals on radar!\n　We've got more mobile suits inbound!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Кодай",
+   "text": "「Подкрепление врага?」",
+   "orig": "Kodai\n「Enemy reinforcements?」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「Авиагруппу поднимут в воздух?」",
+   "orig": "$n\n「Will the Aircraft Squad be deployed?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Като",
+   "text": "「Приказа не поступало.」",
+   "orig": "Kato\n「We have no orders to do so.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Синохара",
+   "text": "「Будь это гамиласцы, я бы ещё понял. Но раз мы\n　дерёмся с мобильными доспехами, по мне, нам тоже\n　место там, снаружи.」",
+   "orig": "Shinohara\n「I could understand that call if these were Gamillans,\n　but the fact that we're facing off against mobile\n　suits says to me that we should be out there, too.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Като",
+   "text": "「Видно, командующий Окита считает это\n　чем-то вроде боевой проверки «Ямато».」",
+   "orig": "Kato\n「Commander Okita must consider this\n　some sort of combat test for the Yamato.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Мори",
+   "text": "「Радар засёк новые сигналы!\n　К нам идут ещё мобильные доспехи!」",
+   "orig": "Mori\n「I'm picking up more signals on radar!\n　We've got more mobile suits inbound!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Кодай",
+   "text": "「Чёрт, подкрепление врага?」",
+   "orig": "Kodai\n「Argh, enemy reinforcements?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Намбу",
+   "text": "「У этого Гандама что, череп на корпусе?」",
+   "orig": "Nanbu\n「Does that Gundam have a skull on it?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Санада",
+   "text": "「Командующий!\n　Это же—」",
+   "orig": "Sanada\n「Commander!\n　They're—」"
+  },
+  {
+   "i": 43,
+   "speaker": "Окита",
+   "text": "「Гандамы Кроссбоун.」",
+   "orig": "Okita\n「Crossbone Gundams.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Кодай",
+   "text": "「Кроссбоуны! Те самые пираты, что\n　разбили врага в Юпитерианскую войну!」",
+   "orig": "Kodai\n「The Crossbones! The same pirates who\n　routed the enemy in the Jupiter War!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Сима",
+   "text": "「Поверить не могу, что они на Марсе!」",
+   "orig": "Shima\n「I can't believe they're on Mars!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Айхара",
+   "text": "「Входящее сообщение с Гандама!\n　Зачитываю дословно!」",
+   "orig": "Aihara\n「Incoming transmission from the Gundam!\n　Reading verbatim!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Айхара",
+   "text": "「Говорит Тобиа Арронакс из\n　Авангарда Кроссбоун!\n　Мы вас прикроем!」",
+   "orig": "Aihara\n「This is Tobia Arronax of the\n　Crossbone Vanguard!\n　We've got your back!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Окита",
+   "text": "「Сейчас же поблагодари его за помощь.」",
+   "orig": "Okita\n「Thank him for his cooperation at once.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Айхара",
+   "text": "「Есть!」",
+   "orig": "Aihara\n「Aye, sir!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Окита",
+   "text": "「Кодай, выпускай опергруппу.」",
+   "orig": "Okita\n「Kodai, deploy the Task Force.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Кодай",
+   "text": "「Эскадрилью «Космо Фэлкон»?」",
+   "orig": "Kodai\n「Cosmo Falcon Squadron, sir?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Окита",
+   "text": "「Никак нет. «Вангрэй», «Грангаст»\n　и «Хюкебайн».」",
+   "orig": "Okita\n「Negative. The VangRay, Grungust,\n　and Huckebein.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Кодай",
+   "text": "「Так точно!」",
+   "orig": "Kodai\n「Understood!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Намбу",
+   "text": "「У этого Гандама что, череп на корпусе?」",
+   "orig": "Nanbu\n「Does that Gundam have a skull on it?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Санада",
+   "text": "「Командующий!\n　Это же—」",
+   "orig": "Sanada\n「Commander!\n　They're—」"
+  },
+  {
+   "i": 56,
+   "speaker": "Окита",
+   "text": "「Гандамы Кроссбоун.」",
+   "orig": "Okita\n「Crossbone Gundams.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Кодай",
+   "text": "「Кроссбоуны! Те самые пираты, что\n　разбили врага в Юпитерианскую войну!」",
+   "orig": "Kodai\n「The Crossbones! The same pirates who brought\n　routed the enemy in the Jupiter War!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Сима",
+   "text": "「Поверить не могу, что они на Марсе!」",
+   "orig": "Shima\n「I can't believe they're on Mars!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Айхара",
+   "text": "「Входящее сообщение с Гандама!\n　Зачитываю дословно!」",
+   "orig": "Aihara\n「Incoming transmission from the Gundam!\n　Reading verbatim!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Айхара",
+   "text": "「Говорит Тобиа Арронакс из\n　Авангарда Кроссбоун!\n　Мы вас прикроем!」",
+   "orig": "Aihara\n「This is Tobia Arronax of the\n　Crossbone Vanguard!\n　We've got your back!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Окита",
+   "text": "「Сейчас же поблагодари его за помощь.」",
+   "orig": "Okita\n「Thank him for his cooperation at once.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Айхара",
+   "text": "「Есть!」",
+   "orig": "Aihara\n「Aye, sir!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Окита",
+   "text": "「Выпускай «Вангрэй», Кодай.」",
+   "orig": "Okita\n「Deploy the VangRay, Kodai.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Кодай",
+   "text": "「Вместе с эскадрильей «Космо Фэлкон»?」",
+   "orig": "Kodai\n「Along with the Cosmo Falcon Squadron, sir?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Окита",
+   "text": "「Никак нет. Только «Вангрэй».」",
+   "orig": "Okita\n「Negative. Just the VangRay.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Кодай",
+   "text": "「Есть!」",
+   "orig": "Kodai\n「On it, sir!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тобиа",
+   "text": "（Зачем они стягивают на Марс столько войск?）",
+   "orig": "Tobia\n（Why are they sending so many troops to Mars?）"
+  },
+  {
+   "i": 68,
+   "speaker": "Тобиа",
+   "text": "（Империя Юпитера хочет сделать Марс плацдармом\n　для атаки на Землю?）",
+   "orig": "Tobia\n（Is the Jupiter Empire using Mars as a stepping\n　stone to attack Earth?）"
+  },
+  {
+   "i": 69,
+   "speaker": "Кодай",
+   "text": "「Мобильным юнитам держаться возле «Ямато»!\n　Мы сможем переломить ход боя в нашу пользу,\n　если будете в пределах досягаемости!」",
+   "orig": "Kodai\n「Mobile units, fall in on the Yamato's position!\n　We'll be able to turn the tide of battle in our\n　favor if you remain within easy reach!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Кодай",
+   "text": "「Если выйдете за радиус связи «Ямато»,\n　нам всем несдобровать!」",
+   "orig": "Kodai\n「If you drift too far out of range of the Yamato's\n　comms, we're going to be in big trouble!」"
+  },
+  {
+   "i": 71,
+   "speaker": "$n",
+   "text": "「Итак, «Ямато», пират на Гандаме и загадочная\n　барахлящая машина выходят на бой с Империей\n　Юпитера… Добром это не кончится.」",
+   "orig": "$n\n「So the Yamato, a Gundam pirate, and a mysterious,\n　faulty machine walk into a fight with the Jupiter\n　Empire—this doesn't look good.」"
+  },
+  {
+   "i": 72,
+   "speaker": "$n",
+   "text": "（Да, и разве тот старпом не говорил что-то про\n　систему проверки пилота на «Вангрэе»?\n　Или я всё выдумываю?）",
+   "orig": "$n\n（Oh, and didn't that executive officer guy say\n　something about the VangRay having a Pilot\n　Verification System? Or am I just making things up?）"
+  },
+  {
+   "i": 73,
+   "speaker": "Като",
+   "text": "「Слышишь меня, $l?\n　Говорит капитан. У тебя один приказ!」",
+   "orig": "Kato\n「Can you hear me, $l?\n　This is the captain speaking. You have one order!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Като",
+   "text": "「Выжить и вернуться!\n　Это всё!」",
+   "orig": "Kato\n「Make it back alive!\n　That is all!」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「Есть, кэп!\n　Вот это приказ по мне!」",
+   "orig": "$n\n「Aye aye, cap'n!\n　That's an order I can follow!」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「Ну, вы слышали капитана.\n　Все готовы?」",
+   "orig": "$n\n「Well, you heard the man.\n　Are we all set?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Лотти",
+   "text": "「Готова хоть сейчас!」",
+   "orig": "Lottie\n「Ready when you are!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Вельт",
+   "text": "「Наши противники — мобильные доспехи Империи\n　Юпитера. Бой будет лёгким, если остерегаться\n　«Пез Батальи» с её грозными рывковыми атаками.」",
+   "orig": "Velt\n「Our opponents are the Jupiter Empire's mobile suits.\n　This battle will be easy if we remain wary of the\n　Pez Batalla and its formidable rushing capabilities.」"
+  },
+  {
+   "i": 79,
+   "speaker": "$n",
+   "text": "「Если не возражаете, командовать здесь буду я.\n　Выдвигаемся!」",
+   "orig": "$n\n「I'll take the lead here, if it's all the same to you.\n　Let's move out!」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Впереди у нас путь в 336 000 световых лет!」",
+   "orig": "$n\n「We've still got a 336,000 light-year journey\n　ahead of us!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Кодай",
+   "text": "「Мобильным юнитам держаться возле «Ямато»!\n　Мы сможем переломить ход боя в нашу пользу,\n　если будете в пределах досягаемости!」",
+   "orig": "Kodai\n「Mobile units, fall in on the Yamato's position!\n　We'll be able to turn the tide of battle in our\n　favor if you remain within easy reach!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Кодай",
+   "text": "「Если выйдете за радиус связи «Ямато»,\n　нам всем несдобровать!」",
+   "orig": "Kodai\n「If you drift too far out of range of the Yamato's\n　comms, we're going to be in big trouble!」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Мы же просто летели к Искандару!\n　А теперь на пару с пиратом на Гандаме дерёмся\n　с Империей Юпитера на Марсе? Это безумие!」",
+   "orig": "$n\n「We were just supposed to travel to Iscandar!\n　Now we're teaming up with a Gundam pirate to\n　fight the Jupiter Empire on Mars? This is crazy!」"
+  },
+  {
+   "i": 84,
+   "speaker": "$n",
+   "text": "「Но нельзя позволить Империи Юпитера взять верх!\n　Они же уничтожат Землю!」",
+   "orig": "$n\n「We can't let the Jupiter Empire walk all over us,\n　though! They'll destroy Earth!」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "（Стоп, а что там офицер Санада говорил про\n　систему проверки пилота? Было что-то,\n　что мне нужно знать?）",
+   "orig": "$n\n（Wait, what was it Officer Sanada said\n　about the Pilot Verification System? Was there\n　something about it I needed to know?）"
+  },
+  {
+   "i": 86,
+   "speaker": "Като",
+   "text": "「Приём, $l!\n　Говорит капитан. У тебя один приказ!」",
+   "orig": "Kato\n「Come in, $l!\n　This is the captain speaking. You have one order!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Като",
+   "text": "「Выжить и вернуться!\n　Это всё!」",
+   "orig": "Kato\n「Make it back alive!\n　That is all!」"
+  },
+  {
+   "i": 88,
+   "speaker": "$n",
+   "text": "「Так точно, капитан!\n　Даю слово!」",
+   "orig": "$n\n「Roger that, Captain!\n　You have my word!」"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「Лотти! Вельт!\n　Вы готовы?」",
+   "orig": "$n\n「Lottie! Velt!\n　Are you ready?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Лотти",
+   "text": "「Готова и жду команды!」",
+   "orig": "Lottie\n「Ready and waiting!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Вельт",
+   "text": "「Наши противники — мобильные доспехи Империи\n　Юпитера. Бой будет лёгким, если остерегаться\n　«Пез Батальи» с её грозными рывковыми атаками.」",
+   "orig": "Velt\n「Our opponents are the Jupiter Empire's mobile suits.\n　This battle will be easy if we remain wary of the\n　Pez Batalla and its formidable rushing capabilities.」"
+  },
+  {
+   "i": 92,
+   "speaker": "$n",
+   "text": "「Командовать отрядом поручили мне, но вернуться\n　целыми мы сможем, только работая сообща!」",
+   "orig": "$n\n「I've been assigned to lead this squad, but we should\n　work together if we want to make it back safely!」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「Если оступимся здесь, нам не осилить путь\n　в 336 000 световых лет!」",
+   "orig": "$n\n「If we slip up here, we're not going to make this\n　336,000 light-year journey!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Мори",
+   "text": "「Силы противника уничтожены.\n　База Альтиния официально\n　освобождена.」",
+   "orig": "Mori\n「Enemy forces eradicated.\n　The Altinia Base is officially\n　liberated.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Санада",
+   "text": "「Осталось только забрать материалы изнутри.」",
+   "orig": "Sanada\n「Now we just need to retrieve the materials inside.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Окита",
+   "text": "「Я хочу знать больше о действиях Империи.\n　Айхара, свяжись с тем Гандамом.」",
+   "orig": "Okita\n「I want to know more about the Empire's movements.\n　Aihara, make contact with that Gundam.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Айхара",
+   "text": "「Есть.」",
+   "orig": "Aihara\n「Yes, sir.」"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「Ну и ну, эта штука на голову выше прочих боевых\n　машин. Вот что значит Гандам, да?」",
+   "orig": "$n\n「Man, that thing is leaps and bounds above other\n　mobile weapons. That's a Gundam for you, I guess.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Вельт",
+   "text": "「Раз это Гандам пирата, полагаю, и пилот его\n　обладает немалым мастерством.」",
+   "orig": "Velt\n「Given that it's a pirate's Gundam, I should\n　think the pilot has considerable skill, as well.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Лотти",
+   "text": "「Ещё бы!\n　Вы видели, как он двигается?」",
+   "orig": "Lottie\n「I'll say!\n　I mean, did you see those moves?」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「Мы, «Ямато» и этот Гандам — вместе мы могли бы\n　провернуть интересные тактические приёмы.」",
+   "orig": "$n\n「Between us, the Yamato, and that Gundam,\n　I think we'd be able to pull off some interesting\n　tactical feats.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Мори",
+   "text": "「Силы противника уничтожены.\n　База Альтиния официально\n　освобождена.」",
+   "orig": "Mori\n「Enemy forces eradicated.\n　The Altinia Base is officially\n　liberated.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Санада",
+   "text": "「Осталось только забрать материалы изнутри.」",
+   "orig": "Sanada\n「Now we just need to retrieve the materials inside.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Окита",
+   "text": "「Я хочу знать больше о действиях Империи.\n　Айхара, свяжись с тем Гандамом.」",
+   "orig": "Okita\n「I want to know more about the Empire's movements.\n　Aihara, make contact with that Gundam.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Айхара",
+   "text": "「Есть.」",
+   "orig": "Aihara\n「Yes, sir.」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「Ну и ну, эта штука на голову выше прочих боевых\n　машин. Вот что значит Гандам, да?」",
+   "orig": "$n\n「Man, that thing is leaps and bounds above other\n　mobile weapons. That's a Gundam for you, I guess.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Хотя это Гандам пирата.\n　Наверняка у него нешуточные навыки пилотажа.」",
+   "orig": "$n\n「It's a pirate's Gundam, though.\n　He's probably got some serious piloting skills.」"
+  },
+  {
+   "i": 108,
+   "speaker": "$n",
+   "text": "「«Вангрэй», «Ямато» и Гандам.\n　Вместе мы могли бы провернуть интересные\n　тактические манёвры — если сработаемся.」",
+   "orig": "$n\n「The VangRay, the Yamato, and a Gundam.\n　We might be able to pull off some interesting\n　tactical maneuvers between us—if we work together.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Мори",
+   "text": "「Силы противника уничтожены.\n　База Альтиния официально\n　освобождена.」",
+   "orig": "Mori\n「Enemy forces eradicated.\n　The Altinia Base is officially\n　liberated.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Санада",
+   "text": "「Осталось только забрать материалы изнутри.」",
+   "orig": "Sanada\n「Now we just need to retrieve the materials inside.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Окита",
+   "text": "「Я хочу знать больше о действиях Империи.\n　Айхара, свяжись с тем Гандамом.」",
+   "orig": "Okita\n「I want to know more about the Empire's movements.\n　Aihara, make contact with that Gundam.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Айхара",
+   "text": "「Есть.」",
+   "orig": "Aihara\n「Yes, sir.」"
+  },
+  {
+   "i": 113,
+   "speaker": "$n",
+   "text": "「Невероятно!\n　Слухи ходили и раньше, но теперь у меня место\n　в первом ряду. Гандам — не обычный мобильный доспех!」",
+   "orig": "$n\n「Incredible!\n　I mean, I'd heard the rumors, but now I've got a\n　front row seat. Gundams are no ordinary mobile suits!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Вельт",
+   "text": "「Раз это Гандам пирата, полагаю, и пилот его\n　обладает немалым мастерством.」",
+   "orig": "Velt\n「Given that it's a pirate's Gundam, I should\n　think the pilot has considerable skill, as well.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Лотти",
+   "text": "「Ещё бы!\n　Вы гляньте, как он двигается!」",
+   "orig": "Lottie\n「I'll say!\n　I mean, look at those moves!」"
+  },
+  {
+   "i": 116,
+   "speaker": "$n",
+   "text": "「Будь этот Гандам у нас на борту «Ямато»,\n　мы стали бы серьёзной силой.」",
+   "orig": "$n\n「If that Gundam were to board the Yamato,\n　we'd be pretty powerful.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Мори",
+   "text": "「Силы противника уничтожены.\n　База Альтиния официально\n　освобождена.」",
+   "orig": "Mori\n「Enemy forces eradicated.\n　The Altinia Base is officially\n　liberated.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Санада",
+   "text": "「Осталось только забрать материалы изнутри.」",
+   "orig": "Sanada\n「Now we just need to retrieve the materials inside.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Окита",
+   "text": "「Я хочу знать больше о действиях Империи.\n　Айхара, свяжись с тем Гандамом.」",
+   "orig": "Okita\n「I want to know more about the Empire's movements.\n　Aihara, make contact with that Gundam.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Айхара",
+   "text": "「Есть.」",
+   "orig": "Aihara\n「Yes, sir.」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「Невероятно!\n　Слухи ходили и раньше, но теперь у меня место\n　в первом ряду. Гандам — не обычный мобильный доспех!」",
+   "orig": "$n\n「Incredible!\n　I mean, I'd heard the rumors, but now I've got a\n　front row seat. Gundams are no ordinary mobile suits!」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「Присоединись этот Гандам к нам на «Ямато» —\n　нам всё было бы по плечу.」",
+   "orig": "$n\n「If that Gundam joined us aboard the Yamato,\n　there's no telling what we could do.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Кодай",
+   "text": "（Безупречно. Так вот каково служить под началом\n　Дзюдзо Окиты, величайшего командующего Земли.）",
+   "orig": "Kodai\n（That was flawless. So this is what it's like to work\n　under Juzo Okita, Earth's greatest commander.）"
+  },
+  {
+   "i": 124,
+   "speaker": "Окита",
+   "text": "「Не спи на посту, Кодай.\n　Ты должен подтвердить окончание боя.」",
+   "orig": "Okita\n「Don't fall asleep on the job, Kodai.\n　You've got to confirm that battle has ended.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Кодай",
+   "text": "「Е-есть!」",
+   "orig": "Kodai\n「Y-yes, sir!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Кодай",
+   "text": "（У нас всё получится.\n　Когда у штурвала этот человек, неважно,\n　кто или что встанет у нас на пути!）",
+   "orig": "Kodai\n（We can do this.\n　With this man at the helm, it doesn't matter\n　who or what stands in our way!）"
+  },
+  {
+   "i": 127,
+   "speaker": "Тобиа",
+   "text": "「Этот X-1 перешёл ко мне!\n　Я не могу проиграть!」",
+   "orig": "Tobia\n「I took over this X-1!\n　There's no way I can lose!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Тобиа",
+   "text": "（Я знаю, ты где-то там, Кинкейд.\n　И вы тоже, капитан Бера.）",
+   "orig": "Tobia\n（I know you're still out there somewhere,\n　Kincade. You too, Captain Berah.）"
+  },
+  {
+   "i": 129,
+   "speaker": "$n",
+   "text": "「Если я так лихо управляюсь с этой грудой хлама,\n　то мои навыки просто пугают.」",
+   "orig": "$n\n「If this is how well I can master this hunk of junk,\n　my skills are seriously terrifying.」"
+  },
+  {
+   "i": 130,
+   "speaker": "$n",
+   "text": "「Это была чистая удача, но как же здорово,\n　что ты мне попался, «Вангрэй»!」",
+   "orig": "$n\n「Man, it was total luck, but I'm really glad I\n　found you, VangRay!」"
+  },
+  {
+   "i": 131,
+   "speaker": "$n",
+   "text": "「Н-неужели это во мне просыпается\n　скрытый талант?」",
+   "orig": "$n\n「A-am I tapping into some latent talent\n　I didn't even know I had?」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Или машина настолько хороша? Точно, в этом всё\n　дело. В любом случае — спасибо, «Вангрэй».」",
+   "orig": "$n\n「Or is the machine just that good? That must be it.\n　Either way, thank you VangRay.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Вельт",
+   "text": "「Всё прошло ровно так, как я и представлял.\n　Именно такой результат мне и обещали.」",
+   "orig": "Velt\n「Everything went as I imagined it would.\n　This is exactly the result I was promised.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Вельт",
+   "text": "「Видите ли, мобильные доспехи Империи Юпитера\n　созданы для работы при чудовищной гравитации\n　Юпитера, и при отличной подвижности они—」",
+   "orig": "Velt\n「You see, the Jupiter Empire's mobile suits were\n　designed to operate under the extreme gravity of\n　Jupiter, so while they have excellent mobility—」"
+  },
+  {
+   "i": 135,
+   "speaker": "Лотти",
+   "text": "「Так, стоп, хватит.\n　Подробный доклад послушаю потом.」",
+   "orig": "Lottie\n「OK, stop right there.\n　I'll listen to the detailed report later.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Лотти",
+   "text": "「Мы были в идеальной форме, Грангаст!\n　Так и будем жечь до самого Искандара!」",
+   "orig": "Lottie\n「Oh man, we were in perfect form, Grungust!\n　Let's keep this going all the way to Iscandar!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Вельт",
+   "text": "「Не думаю, что вы сможете поддерживать такой\n　запал на протяжении 168 000 световых лет.」",
+   "orig": "Velt\n「I do not believe it is possible for you to sustain\n　this level of energy for 168,000 light-years.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Лотти",
+   "text": "「Зато настрой у меня боевой!」",
+   "orig": "Lottie\n「Well, I can at least stay positive!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Окита",
+   "text": "「Внимание, экипаж! Это будет первый серьёзный\n　бой «Ямато».」",
+   "orig": "Okita\n「Attention crew! This will be the first substantial\n　battle of the Yamato.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Окита",
+   "text": "「Однако! Мы не должны забывать о нашей миссии —\n　любой ценой добраться до Искандара!」",
+   "orig": "Okita\n「However! We must not lose sight of our mission,\n　which is to travel to Iscandar at all costs!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Окита",
+   "text": "「Считайте это миссией не по истреблению врагов,\n　а по продлению наших жизней!」",
+   "orig": "Okita\n「Think of this as a mission not to eradicate our\n　enemies, but to extend our lives!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Тобиа",
+   "text": "「Проклятая Империя Юпитера!\n　Думают сделать Марс плацдармом\n　для атаки на Землю?」",
+   "orig": "Tobia\n「Argh, the Jupiter Empire!\n　Do they think they can use Mars as a stepping\n　stone to attack Earth?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Тобиа",
+   "text": "「Они что, не знают, что произошло?\n　Нет больше смысла терзать Землю!」",
+   "orig": "Tobia\n「Don't they know what's happened?\n　There's no point in torturing the Earth anymore!」"
+  },
+  {
+   "i": 144,
+   "speaker": "$n",
+   "text": "「Сам великий Дзюдзо Окита назначил меня на этот\n　пост! Я буду драться не щадя себя!」",
+   "orig": "$n\n「The great Juzo Okita appointed me to this position!\n　I've got to fight like my life depends on it!」"
+  },
+  {
+   "i": 145,
+   "speaker": "$n",
+   "text": "「25-я эскадрилья жива и невредима,\n　командующий Окита!」",
+   "orig": "$n\n「The 25th Squadron is still alive and well,\n　Commander Okita!」"
+  },
+  {
+   "i": 146,
+   "speaker": "$n",
+   "text": "「Я тут за всю авиагруппу.\n　Надо выложиться на все сто!」",
+   "orig": "$n\n「I'm representing the entire Aircraft Squad.\n　I'd better be at peak performance!」"
+  },
+  {
+   "i": 147,
+   "speaker": "$n",
+   "text": "「Ну что, «Вангрэй», мы обещали капитану Като\n　вернуться живыми. Надо сдержать слово!」",
+   "orig": "$n\n「Well, VangRay, we promised Captain Kato\n　we'd make it back alive. We had better make\n　good on our word!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Вельт",
+   "text": "「Я думал, что понимаю людской эгоизм, но,\n　увидев его воочию, я прихожу в ярость!」",
+   "orig": "Velt\n「I thought I understood the selfishness of humans,\n　but upon witnessing it myself, I am enraged!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Вельт",
+   "text": "「Не постигаю, как можно лелеять такие корыстные\n　мысли посреди инопланетного вторжения!」",
+   "orig": "Velt\n「I cannot comprehend how you can entertain such\n　selfish thoughts in the midst of an alien attack!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Лотти",
+   "text": "「Раз они не хотят договариваться, я уж точно\n　сдерживаться не стану! Вперёд, Грангаст!」",
+   "orig": "Lottie\n「If they're not going to talk this out, I'm sure as\n　heck not holding anything back! Let's go, Grungust!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Лотти",
+   "text": "「Земляне или гамиласцы — злодеи есть злодеи!\n　Раздавлю всех!」",
+   "orig": "Lottie\n「Earthlings or Gamillans, bad guys are bad guys!\n　I'll crush 'em all!」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「А-а-а!」",
+   "orig": "$n\n「Augh!」"
+  }
+ ]
+}

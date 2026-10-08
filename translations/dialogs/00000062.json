@@ -1,0 +1,1840 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Кабина «Вангрэя»-",
+   "orig": "　\n　\n　　　　　　　　　　　-VangRay Cockpit-"
+  },
+  {
+   "i": 4,
+   "speaker": "$n",
+   "text": "「Как обстановка, Вельт?」",
+   "orig": "$n\n「What's the situation, Velt?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Вельт",
+   "text": "「Анализер допрашивает Систему 99.」",
+   "orig": "Velt\n「The Analyzer is interrogating System Nine-Nine.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 7,
+   "speaker": "Анализер",
+   "text": "「Ты взломала мэйнфрейм «Ямато», когда\n　проникла на борт, не так ли?」",
+   "orig": "Analyzer\n「You hacked the Yamato mainframe when you\n　boarded, did you not?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 9,
+   "speaker": "Анализер",
+   "text": "「Отпираться бесполезно. Я распознал\n　твой необычный сигнал в тот же миг,\n　как ты проявилась и начала передачу.」",
+   "orig": "Analyzer\n「There is no escape. I recognized\n　your unusual signal the instant you surfaced\n　and began transmitting.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 11,
+   "speaker": "Анализер",
+   "text": "「Молчишь. Понятно.\n　Что ж, тогда у меня есть пара идей.」",
+   "orig": "Analyzer\n「Silence. I see.\n　Well, in that case I have some ideas.」"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "「Эй, погоди минутку, Анализер!\n　Не нужно прибегать к насилию.」",
+   "orig": "$n\n「Hey, wait a minute, Analyzer!\n　There's no need to get violent here.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Анализер",
+   "text": "「Это лишь предупреждение. По-вашему — \"угроза\".」",
+   "orig": "Analyzer\n「This is just a warning. What you call a \"threat.\"」"
+  },
+  {
+   "i": 14,
+   "speaker": "$n",
+   "text": "「А на ИИ это вообще действует?」",
+   "orig": "$n\n「Does that even work on AIs?」"
+  },
+  {
+   "i": 15,
+   "speaker": "$n",
+   "text": "「И, офицер Санада, что это за история\n　про взлом «Ямато» Системой 99?」",
+   "orig": "$n\n「And Officer Sanada, what's this about\n　System Nine-Nine hacking into the Yamato?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Санада",
+   "text": "「Это было хорошо скрыто, но мы наконец выяснили:\n　приказ и допуск на борт «Ямато» для вас и энсина\n　Кисараги исходили не от нас.」",
+   "orig": "Sanada\n「It was well-hidden, but we finally figured out that\n　the orders and clearance for you and Ensign\n　Kisaragi to board the Yamato did not come from us.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Титосэ",
+   "text": "「Выходит, кто-то использовал Систему 99,\n　чтобы провести нас на «Ямато»?」",
+   "orig": "Chitose\n「Which means someone used System Nine-Nine to\n　get us aboard the Yamato?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Санада",
+   "text": "「Верно. Но кто — мы пока не знаем.」",
+   "orig": "Sanada\n「Correct. We just don't know who yet.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Вельт",
+   "text": "「Анализер, можешь ли ты как-то\n　выяснить, кто мог это сделать?」",
+   "orig": "Velt\n「Analyzer, is there any way\n　you can figure out who might have done this?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Анализер",
+   "text": "「Это невозможно.」",
+   "orig": "Analyzer\n「That is impossible.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Лотти",
+   "text": "「Разве ты не одна из подсистем «Ямато»?\n　Один из мощнейших компьютеров Земли. Неужели\n　не можешь разобраться?」",
+   "orig": "Lottie\n「Aren't you one of the Yamato's sub-systems?\n　One of Earth's most powerful computers. Can't you\n　figure this out?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Анализер",
+   "text": "「Мне удалось установить лишь то, что\n　у нас с Системой 99 совершенно разные\n　файловые структуры.」",
+   "orig": "Analyzer\n「What I have established is that\n　System Nine-Nine and I have completely different\n　file structures.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Анализер",
+   "text": "「А значит, для полного анализа мне\n　потребуется значительное время.」",
+   "orig": "Analyzer\n「Which means I will need a significant amount\n　of time in order to perform a complete analysis.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Анализер",
+   "text": "「По возможности я хотел бы полностью\n　удалить Систему 99 из «Вангрэя».」",
+   "orig": "Analyzer\n「If possible, I would like to completely remove\n　System Nine-Nine from the VangRay.」"
+  },
+  {
+   "i": 25,
+   "speaker": "$n",
+   "text": "「Вот это уже проблема.\n　У «Вангрэя» огневая мощь будь здоров.\n　Сейчас он нужен нам на ходу.」",
+   "orig": "$n\n「That's gonna be a problem.\n　I mean, the VangRay has a heck of a lot of firepower.\n　We need it to be functional right now.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Титосэ",
+   "text": "「Эй, Система 99.\n　Может, просто расскажешь всё, что знаешь?」",
+   "orig": "Chitose\n「Hey, System Nine-Nine.\n　Can't you just tell us everything you know?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 28,
+   "speaker": "$n",
+   "text": "「Не трать время, Титосэ. Она сразу замолкает,\n　когда просишь её о том, чего она не хочет.」",
+   "orig": "$n\n「Don't waste your time, Chitose. It just clams up when\n　you ask it to do something it doesn't want to do.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Санада",
+   "text": "「Пока что мы действуем согласно приказам\n　командующего касательно «Вангрэя».」",
+   "orig": "Sanada\n「For the time being, we are to follow the Commander's\n　orders regarding the VangRay's handling.」"
+  },
+  {
+   "i": 30,
+   "speaker": "$n",
+   "text": "「Ну, особой опасности она вроде не представляет.」",
+   "orig": "$n\n「Well, it doesn't seem particularly dangerous.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Санада",
+   "text": "「Да, не похоже.\n　Если бы она хотела помешать походу «Ямато»,\n　то уже давно сделала бы это.」",
+   "orig": "Sanada\n「No, it doesn't.\n　If it really wanted to interfere with the Yamato's\n　voyage, it would have done so already.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Вельт",
+   "text": "「Однако мы не знаем, почему система\n　решила раскрыть себя именно\n　в этот момент.」",
+   "orig": "Velt\n「What we do not know, however,\n　is why the system chose to reveal itself\n　when it did.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Лотти",
+   "text": "「Может, от ударов в бою её просто\n　вытряхнуло из какого-то сбоя?」",
+   "orig": "Lottie\n「Maybe the impact of the attacks jolted it out\n　of some sort of glitch?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Вельт",
+   "text": "「Она устроена не как телевизоры прошлого\n　века. Ударом её не починишь.」",
+   "orig": "Velt\n「It's not constructed like the televisions of\n　last century. Simply striking it wouldn't fix it.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 36,
+   "speaker": "$n",
+   "text": "「Она ещё одумается. Правда, 99? Если слетишь\n　с катушек, нам всем не поздоровится. Ясно?」",
+   "orig": "$n\n「It'll come around. Won't you, Nine-Nine? Things will\n　get dicey for us if you go off the rails. Got it?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Анализер",
+   "text": "「Энсин $l, если угрозы на ИИ не действуют,\n　как вы сами сказали, странно, что вы решили\n　угрожать ей самостоятельно.」",
+   "orig": "Analyzer\n「Ensign $l, if threats do not\n　work on AIs, as you suggested, I find it strange that\n　you would choose to threaten it yourself.」"
+  },
+  {
+   "i": 38,
+   "speaker": "$n",
+   "text": "「Какая угроза? Я пытаюсь с ней подружиться!」",
+   "orig": "$n\n「What threat? I'm trying to get on its side!」"
+  },
+  {
+   "i": 39,
+   "speaker": "$n",
+   "text": "「Для меня она не просто машина. Сегодня она\n　была моим вторым пилотом и сохранила мне\n　жизнь. Я просто хочу проявить уважение.」",
+   "orig": "$n\n「It's more than just a machine to me. It was my\n　co-pilot today, and it kept me alive out there.\n　So I just wanted to show my respect.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Титосэ",
+   "text": "「Я знаю, тебе сейчас нелегко, $n.」",
+   "orig": "Chitose\n「I know this is hard for you, $n.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 42,
+   "speaker": "$n",
+   "text": "「Пока, 99.\n　Пойду посмотрю слезливый прощальный спектакль\n　Кинкейда и Тобиа.」",
+   "orig": "$n\n「Later, Nine-Nine.\n　I'm gonna go watch the Kincade and Tobia Farewell\n　Weepfest.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Титосэ",
+   "text": "「Нет, это просто невероятно!\n　А я уж думала, у тебя есть сердце!」",
+   "orig": "Chitose\n「You are unbelievable!\n　Just when I thought you might have a heart!」"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「Спокойно, Титосэ. Иногда нужно смеяться,\n　чтобы не расплакаться, понимаешь?」",
+   "orig": "$n\n「Easy, Chitose. Sometimes you've got to laugh\n　to keep from crying, you know?」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Ну как дела, Вельт?」",
+   "orig": "$n\n「How is it going, Velt?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Вельт",
+   "text": "「Анализер допрашивает Систему 99.」",
+   "orig": "Velt\n「The Analyzer is interrogating System Nine-Nine.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 48,
+   "speaker": "Анализер",
+   "text": "「Ты взломала мэйнфрейм «Ямато», когда\n　проникла на борт, не так ли?」",
+   "orig": "Analyzer\n「You hacked the Yamato mainframe when you\n　boarded, did you not?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 50,
+   "speaker": "Анализер",
+   "text": "「Отпираться бесполезно. Я распознал\n　твой необычный сигнал в тот же миг,\n　как ты проявилась и начала передачу.」",
+   "orig": "Analyzer\n「There is no escape. I recognized\n　your unusual signal the instant you surfaced\n　and began transmitting.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 52,
+   "speaker": "Анализер",
+   "text": "「Молчишь. Понятно.\n　Что ж, тогда у меня есть пара идей.」",
+   "orig": "Analyzer\n「Silence. I see.\n　Well, in that case I have some ideas.」"
+  },
+  {
+   "i": 53,
+   "speaker": "$n",
+   "text": "「Анализер, стой!\n　Не нужно прибегать к насилию!」",
+   "orig": "$n\n「Analyzer, wait!\n　There's no need to get violent!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Анализер",
+   "text": "「Это лишь предупреждение. По-вашему — \"угроза\".」",
+   "orig": "Analyzer\n「This is just a warning. What you call a \"threat.\"」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「А ИИ вообще понимают угрозы?」",
+   "orig": "$n\n「Can AIs even understand threats?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Содзи",
+   "text": "「Офицер Санада, что это за история\n　про взлом «Ямато» Системой 99?」",
+   "orig": "Soji\n「Officer Sanada, what's this about\n　System Nine-Nine hacking into the Yamato?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Санада",
+   "text": "「Это было хорошо скрыто, но мы наконец выяснили:\n　приказ и допуск на борт «Ямато» для вас и энсина\n　$l исходили не от нас.」",
+   "orig": "Sanada\n「It was well-hidden, but we finally figured out that\n　the orders and clearance for you and Ensign\n　$l to board the Yamato did not come from us.」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Выходит, кто-то использовал Систему 99,\n　чтобы провести нас на «Ямато»?」",
+   "orig": "$n\n「Which means someone used System Nine-Nine to\n　get us aboard the Yamato?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Санада",
+   "text": "「Верно. Но кто — мы пока не знаем.」",
+   "orig": "Sanada\n「Correct. We just don't know who yet.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Вельт",
+   "text": "「Анализер, можешь ли ты как-то\n　выяснить, кто мог это сделать?」",
+   "orig": "Velt\n「Analyzer, is there any way\n　you can figure out who might have done this?」"
+  },
+  {
+   "i": 61,
+   "speaker": "Анализер",
+   "text": "「Это невозможно.」",
+   "orig": "Analyzer\n「That is impossible.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Лотти",
+   "text": "「Разве ты не одна из подсистем «Ямато»?\n　Один из мощнейших компьютеров Земли. Неужели\n　не можешь разобраться?」",
+   "orig": "Lottie\n「Aren't you one of the Yamato's sub-systems?\n　One of Earth's most powerful computers. Can't you\n　figure this out?」"
+  },
+  {
+   "i": 63,
+   "speaker": "Анализер",
+   "text": "「Мне удалось установить лишь то, что\n　у нас с Системой 99 совершенно разные\n　файловые структуры.」",
+   "orig": "Analyzer\n「What I have established is that\n　System Nine-Nine and I have completely different\n　file structures.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Анализер",
+   "text": "「А значит, для полного анализа мне\n　потребуется значительное время.」",
+   "orig": "Analyzer\n「Which means I will need a significant amount\n　of time in order to perform a complete analysis.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Анализер",
+   "text": "「По возможности я хотел бы полностью\n　удалить Систему 99 из «Вангрэя».」",
+   "orig": "Analyzer\n「If possible, I would like to completely remove\n　System Nine-Nine from the VangRay.」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Нет, не надо!\n　Без «Вангрэя» я всего лишь\n　очередной пилот-новичок!」",
+   "orig": "$n\n「No, don't do that!\n　I'm just another rookie pilot\n　without the VangRay!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Содзи",
+   "text": "「Эй, Система 99.\n　Давай-ка быстро выкладывай всё, что знаешь.」",
+   "orig": "Soji\n「Hey, System Nine-Nine.\n　Hurry up and tell us everything you know, would you?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 69,
+   "speaker": "$n",
+   "text": "「Бесполезно, энсин Муракумо.\n　Она говорит, только когда ей самой\n　есть что сказать.」",
+   "orig": "$n\n「It's no use, Ensign Murakumo.\n　She doesn't talk unless there's something\n　she wants to say.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Санада",
+   "text": "「Пока что мы действуем согласно приказам\n　командующего касательно «Вангрэя».」",
+   "orig": "Sanada\n「For the time being, we are to follow the Commander's\n　orders regarding the VangRay's handling.」"
+  },
+  {
+   "i": 71,
+   "speaker": "$n",
+   "text": "「По-моему, она не так уж и опасна.」",
+   "orig": "$n\n「I just don't think it's that dangerous.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Санада",
+   "text": "「На данный момент я того же мнения.\n　Если бы она хотела помешать походу «Ямато»,\n　то уже давно сделала бы это.」",
+   "orig": "Sanada\n「At this point, neither do I.\n　If it really wanted to interfere with the Yamato's\n　voyage, it would have done so already.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Вельт",
+   "text": "「Однако мы не знаем, почему система\n　решила раскрыть себя именно\n　в этот момент.」",
+   "orig": "Velt\n「What we do not know, however,\n　is why the system chose to reveal itself\n　when it did.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Лотти",
+   "text": "「Может, от ударов в бою её просто\n　вытряхнуло из какого-то сбоя?」",
+   "orig": "Lottie\n「Maybe the impact of the attacks jolted it out\n　of some sort of glitch?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Вельт",
+   "text": "「Она устроена не как телевизоры прошлого\n　века. Ударом её не починишь.」",
+   "orig": "Velt\n「It's not constructed like the televisions of\n　last century. Simply striking it wouldn't fix it.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 77,
+   "speaker": "$n",
+   "text": "「Не волнуйся, Система 99.\n　Ничего ужасного мы с тобой не сделаем.」",
+   "orig": "$n\n「Don't worry, System Nine-Nine.\n　We won't do anything too harsh to you.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Анализер",
+   "text": "「Энсин $l, если угрозы на ИИ не действуют,\n　как вы сами сказали, странно, что вы решили\n　угрожать ей самостоятельно.」",
+   "orig": "Analyzer\n「Ensign $l, if threats do not\n　work on AIs, as you suggested, I find it strange that\n　you would choose to threaten it yourself.」"
+  },
+  {
+   "i": 79,
+   "speaker": "$n",
+   "text": "「Мне бы точно не понравилось, если бы со мной\n　делали всё, что вздумается. Тут заговоришь!」",
+   "orig": "$n\n「Well, I know I wouldn't want someone to toy\n　with me however they saw fit. I'd start talking!」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Пусть Система 99 и машина, но для меня она —\n　второй пилот, спасший мне жизнь, и я хочу\n　сражаться с ней и дальше.」",
+   "orig": "$n\n「Maybe System Nine-Nine is just a machine, but to me\n　it's a life-saving co-pilot, and I plan to keep\n　fighting alongside it.」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Поэтому я хочу видеть в ней живого напарника.」",
+   "orig": "$n\n「So I want to treat it like a human co-pilot.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 83,
+   "speaker": "Анализер",
+   "text": "「Не ожидал от вас такой теплоты.」",
+   "orig": "Analyzer\n「I did not expect such warmth from you.」"
+  },
+  {
+   "i": 84,
+   "speaker": "$n",
+   "text": "「Э-эй! Замолчи!」",
+   "orig": "$n\n「H-hey! Shut up!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Содзи",
+   "text": "「О, задело за живое!\n　Надо будет потом взять на вооружение.」",
+   "orig": "Soji\n「Oh, that struck a nerve!\n　I'll have to use that on her later.」"
+  },
+  {
+   "i": 86,
+   "speaker": "$n",
+   "text": "「Лейтенант Муракумо! Это уже слишком—!」",
+   "orig": "$n\n「Lieutenant Murakumo! That is simply—!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Содзи",
+   "text": "「Ладно, с этим разобрались. Пойду посмотрю\n　слезливый прощальный спектакль Кинкейда\n　и Тобиа.」",
+   "orig": "Soji\n「OK, now that we've got this out of the way,\n　I'm gonna go watch the Kincade and Tobia Farewell\n　Weepfest.」"
+  },
+  {
+   "i": 88,
+   "speaker": "$n",
+   "text": "「Ты просто невыносим!」",
+   "orig": "$n\n「You are just the worst!」"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「Как успехи, офицер Санада?」",
+   "orig": "$n\n「How's it going, Officer Sanada?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Санада",
+   "text": "「Я полностью доверил это Анализеру.」",
+   "orig": "Sanada\n「I'm leaving everything to the Analyzer.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 92,
+   "speaker": "Анализер",
+   "text": "「Ты взломала мэйнфрейм «Ямато», когда\n　проникла на борт, не так ли?」",
+   "orig": "Analyzer\n「You hacked the Yamato mainframe when you\n　boarded, did you not?」"
+  },
+  {
+   "i": 93,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 94,
+   "speaker": "Анализер",
+   "text": "「Отпираться бесполезно. Я распознал\n　твой необычный сигнал в тот же миг,\n　как ты проявилась и начала передачу.」",
+   "orig": "Analyzer\n「There is no escape. I recognized\n　your unusual signal the instant you surfaced\n　and began transmitting.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 96,
+   "speaker": "Анализер",
+   "text": "「Молчишь. Понятно.\n　Что ж, тогда у меня есть пара идей.」",
+   "orig": "Analyzer\n「Silence. I see.\n　Well, in that case I have some ideas.」"
+  },
+  {
+   "i": 97,
+   "speaker": "$n",
+   "text": "「Эй, погоди минутку, Анализер!\n　Не нужно прибегать к насилию.」",
+   "orig": "$n\n「Hey, wait a minute, Analyzer!\n　There's no need to get violent here.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Анализер",
+   "text": "「Это лишь предупреждение. По-вашему — \"угроза\".」",
+   "orig": "Analyzer\n「This is just a warning. What you call a \"threat.\"」"
+  },
+  {
+   "i": 99,
+   "speaker": "$n",
+   "text": "「А на ИИ это вообще действует?」",
+   "orig": "$n\n「Does that even work on AIs?」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「И, офицер Санада, что это за история\n　про взлом «Ямато» Системой 99?」",
+   "orig": "$n\n「And Officer Sanada, what's this about\n　System Nine-Nine hacking into the Yamato?」"
+  },
+  {
+   "i": 101,
+   "speaker": "Санада",
+   "text": "「Это было хорошо скрыто, но мы наконец выяснили:\n　приказ и допуск на борт «Ямато» для вас и энсина\n　Кисараги исходили не от нас.」",
+   "orig": "Sanada\n「It was well-hidden, but we finally figured out that\n　the orders and clearance for you and Ensign\n　Kisaragi to board the Yamato did not come from us.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Титосэ",
+   "text": "「Выходит, кто-то использовал Систему 99,\n　чтобы провести нас на «Ямато»?」",
+   "orig": "Chitose\n「Which means someone used System Nine-Nine to\n　get us aboard the Yamato?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Санада",
+   "text": "「Верно. Но кто — мы пока не знаем.」",
+   "orig": "Sanada\n「Correct. We just don't know who yet.」"
+  },
+  {
+   "i": 104,
+   "speaker": "$n",
+   "text": "「Анализер, можешь ли ты как-то\n　выяснить, кто мог это сделать?」",
+   "orig": "$n\n「Analyzer, is there any way\n　you can figure out who might have done this?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Анализер",
+   "text": "「Это невозможно.」",
+   "orig": "Analyzer\n「That is impossible.」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「Разве ты не одна из подсистем «Ямато»?\n　Да ещё и мощнейший компьютер на Земле.\n　Неужели не можешь взломать что угодно?」",
+   "orig": "$n\n「Aren't you part of the Yamato's sub-system?\n　Not to mention the most powerful computer on Earth.\n　Don't you have the power to hack whatever you want?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Анализер",
+   "text": "「Мне удалось установить лишь то, что\n　у нас с Системой 99 совершенно разные\n　файловые структуры.」",
+   "orig": "Analyzer\n「What I have established is that\n　System Nine-Nine and I have completely different\n　file structures.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Анализер",
+   "text": "「А значит, для полного анализа мне\n　потребуется значительное время.」",
+   "orig": "Analyzer\n「Which means I will need a significant amount\n　of time in order to perform a complete analysis.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Анализер",
+   "text": "「По возможности я хотел бы полностью\n　удалить Систему 99 из «Вангрэя».」",
+   "orig": "Analyzer\n「If possible, I would like to completely remove\n　System Nine-Nine from the VangRay.」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「Вот это уже проблема.\n　У «Вангрэя» огневая мощь будь здоров.\n　Сейчас он нужен нам на ходу.」",
+   "orig": "$n\n「That's gonna be a problem.\n　I mean, the VangRay has a heck of a lot of firepower.\n　We need it to be functional right now.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Титосэ",
+   "text": "「Эй, Система 99.\n　Может, просто расскажешь всё, что знаешь?」",
+   "orig": "Chitose\n「Hey, System Nine-Nine.\n　Can't you just tell us everything you know?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 113,
+   "speaker": "$n",
+   "text": "「Не трать время, Титосэ. Она сразу замолкает,\n　когда просишь её о том, чего она не хочет.」",
+   "orig": "$n\n「Don't waste your time, Chitose. It just clams up when\n　you ask it to do something it doesn't want to do.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Санада",
+   "text": "「Пока что мы действуем согласно приказам\n　командующего касательно «Вангрэя».」",
+   "orig": "Sanada\n「For the time being, we are to follow the Commander's\n　orders regarding the VangRay's handling.」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Ну, особой опасности она вроде не представляет.」",
+   "orig": "$n\n「Well, it doesn't seem particularly dangerous.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Санада",
+   "text": "「Да, не похоже.\n　Если бы она хотела помешать походу «Ямато»,\n　то уже давно сделала бы это.」",
+   "orig": "Sanada\n「No, it doesn't.\n　If it really wanted to interfere with the Yamato's\n　voyage, it would have done so already.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Санада",
+   "text": "「Неясным остаётся лишь выбор момента.\n　Почему система решила раскрыть себя\n　именно тогда?」",
+   "orig": "Sanada\n「The only part that remains unclear is\n　the timing. Why did the system choose to\n　reveal itself when it did?」"
+  },
+  {
+   "i": 118,
+   "speaker": "Титосэ",
+   "text": "「Может, от сильных ударов в бою её перезапустило\n　или вытряхнуло из какой-то неполадки.」",
+   "orig": "Chitose\n「Maybe the violent impact of the attacks reset it,\n　or jolted it out of whatever problem it was having.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Она ещё одумается. Правда, 99? Если слетишь\n　с катушек, нам всем не поздоровится. Ясно?」",
+   "orig": "$n\n「It'll come around. Won't you, Nine-Nine? Things will\n　get dicey for us if you go off the rails. Got it?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Анализер",
+   "text": "「Энсин $l, если угрозы на ИИ не действуют,\n　как вы сами сказали, странно, что вы решили\n　угрожать ей самостоятельно.」",
+   "orig": "Analyzer\n「Ensign $l, if threats do not\n　work on AIs, as you suggested, I find it strange that\n　you would choose to threaten it yourself.」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「Какая угроза? Я пытаюсь с ней подружиться!」",
+   "orig": "$n\n「What threat? I'm trying to get on its side!」"
+  },
+  {
+   "i": 123,
+   "speaker": "$n",
+   "text": "「Для меня она не просто машина. Сегодня она\n　была моим вторым пилотом и сохранила мне\n　жизнь. Я просто хочу проявить уважение.」",
+   "orig": "$n\n「It's more than just a machine to me. It was my\n　co-pilot today, and it kept me alive out there.\n　So I just wanted to show my respect.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Титосэ",
+   "text": "「Я знаю, тебе сейчас нелегко, $n.」",
+   "orig": "Chitose\n「I know this is hard for you, $n.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「Пока, 99.\n　Пойду посмотрю слезливый прощальный спектакль\n　Кинкейда и Тобиа.」",
+   "orig": "$n\n「Later, Nine-Nine.\n　I'm gonna go watch the Kincade and Tobia Farewell\n　Weepfest.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Титосэ",
+   "text": "「Нет, это просто невероятно!\n　А я уж думала, у тебя есть сердце!」",
+   "orig": "Chitose\n「You are unbelievable!\n　Just when I thought you might have a heart!」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「Спокойно, Титосэ. Иногда нужно смеяться,\n　чтобы не расплакаться, понимаешь?」",
+   "orig": "$n\n「Easy, Chitose. Sometimes you've got to laugh\n　to keep from crying, you know?」"
+  },
+  {
+   "i": 129,
+   "speaker": "$n",
+   "text": "「Как обстановка, офицер Санада?」",
+   "orig": "$n\n「How do things look, Officer Sanada?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Санада",
+   "text": "「Я полностью доверил это Анализеру.」",
+   "orig": "Sanada\n「I'm leaving everything to the Analyzer.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 132,
+   "speaker": "Анализер",
+   "text": "「Ты взломала мэйнфрейм «Ямато», когда\n　проникла на борт, не так ли?」",
+   "orig": "Analyzer\n「You hacked the Yamato mainframe when you\n　boarded, did you not?」"
+  },
+  {
+   "i": 133,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 134,
+   "speaker": "Анализер",
+   "text": "「Отпираться бесполезно. Я распознал\n　твой необычный сигнал в тот же миг,\n　как ты проявилась и начала передачу.」",
+   "orig": "Analyzer\n「There is no escape. I recognized\n　your unusual signal the instant you surfaced\n　and began transmitting.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 136,
+   "speaker": "Анализер",
+   "text": "「Молчишь. Понятно.\n　Что ж, тогда у меня есть пара идей.」",
+   "orig": "Analyzer\n「Silence. I see.\n　Well, in that case I have some ideas.」"
+  },
+  {
+   "i": 137,
+   "speaker": "$n",
+   "text": "「Анализер, стой!\n　Не нужно прибегать к насилию!」",
+   "orig": "$n\n「Analyzer, wait!\n　There's no need to get violent!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Анализер",
+   "text": "「Это лишь предупреждение. По-вашему — \"угроза\".」",
+   "orig": "Analyzer\n「This is just a warning. What you call a \"threat.\"」"
+  },
+  {
+   "i": 139,
+   "speaker": "$n",
+   "text": "「А ИИ вообще понимают угрозы?」",
+   "orig": "$n\n「Can AIs even understand threats?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Содзи",
+   "text": "「Офицер Санада, что это за история\n　про взлом «Ямато» Системой 99?」",
+   "orig": "Soji\n「Officer Sanada, what's this about\n　System Nine-Nine hacking into the Yamato?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Санада",
+   "text": "「Это было хорошо скрыто, но мы наконец выяснили:\n　приказ и допуск на борт «Ямато» для вас и энсина\n　$l исходили не от нас.」",
+   "orig": "Sanada\n「It was well-hidden, but we finally figured out that\n　the orders and clearance for you and Ensign\n　$l to board the Yamato did not come from us.」"
+  },
+  {
+   "i": 142,
+   "speaker": "$n",
+   "text": "「Выходит, кто-то использовал Систему 99,\n　чтобы провести нас на «Ямато»?」",
+   "orig": "$n\n「Which means someone used System Nine-Nine to\n　get us aboard the Yamato?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Санада",
+   "text": "「Верно. Но кто — мы пока не знаем.」",
+   "orig": "Sanada\n「Correct. We just don't know who yet.」"
+  },
+  {
+   "i": 144,
+   "speaker": "$n",
+   "text": "「Анализер, а ты не мог бы\n　разузнать это для нас?」",
+   "orig": "$n\n「Analyzer, is there any way\n　you could look into that for us?」"
+  },
+  {
+   "i": 145,
+   "speaker": "Анализер",
+   "text": "「Это невозможно.」",
+   "orig": "Analyzer\n「That is impossible.」"
+  },
+  {
+   "i": 146,
+   "speaker": "$n",
+   "text": "「Но ты же одна из подсистем «Ямато»,\n　да ещё и мощнейший компьютер на Земле!\n　Разве этого мало, чтобы взломать её?」",
+   "orig": "$n\n「But you're part of the Yamato's sub-system,\n　not to mention the most powerful computer on Earth!\n　Isn't that enough to hack your way in?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Анализер",
+   "text": "「Мне удалось установить лишь то, что\n　у нас с Системой 99 совершенно разные\n　файловые структуры.」",
+   "orig": "Analyzer\n「What I have established is that\n　System Nine-Nine and I have completely different\n　file structures.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Анализер",
+   "text": "「А значит, для полного анализа мне\n　потребуется значительное время.」",
+   "orig": "Analyzer\n「Which means I will need a significant amount\n　of time in order to perform a complete analysis.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Анализер",
+   "text": "「По возможности я хотел бы полностью\n　удалить Систему 99 из «Вангрэя».」",
+   "orig": "Analyzer\n「If possible, I would like to completely remove\n　System Nine-Nine from the VangRay.」"
+  },
+  {
+   "i": 150,
+   "speaker": "$n",
+   "text": "「Нет, не надо!\n　Без «Вангрэя» я всего лишь\n　очередной пилот-новичок!」",
+   "orig": "$n\n「No, don't do that!\n　I'm just another rookie pilot\n　without the VangRay!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Содзи",
+   "text": "「Эй, Система 99.\n　Давай-ка быстро выкладывай всё, что знаешь.」",
+   "orig": "Soji\n「Hey, System Nine-Nine.\n　Hurry up and tell us everything you know, would you?」"
+  },
+  {
+   "i": 152,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Бесполезно, энсин Муракумо.\n　Она говорит, только когда ей самой\n　есть что сказать.」",
+   "orig": "$n\n「It's no use, Ensign Murakumo.\n　She doesn't talk unless there's something\n　she wants to say.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Санада",
+   "text": "「Пока что мы действуем согласно приказам\n　командующего касательно «Вангрэя».」",
+   "orig": "Sanada\n「For the time being, we are to follow the Commander's\n　orders regarding the VangRay's handling.」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「По-моему, она не так уж и опасна.」",
+   "orig": "$n\n「I just don't think it's that dangerous.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Санада",
+   "text": "「На данный момент я того же мнения.\n　Если бы она хотела помешать походу «Ямато»,\n　то уже давно сделала бы это.」",
+   "orig": "Sanada\n「At this point, neither do I.\n　If it really wanted to interfere with the Yamato's\n　voyage, it would have done so already.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Санада",
+   "text": "「Неясным остаётся лишь выбор момента.\n　Почему система решила раскрыть себя\n　именно тогда?」",
+   "orig": "Sanada\n「The only part that remains unclear is\n　the timing. Why did the system choose to\n　reveal itself when it did?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Содзи",
+   "text": "「Думаю, есть шанс, что встряска от атак как-то\n　вернула её в строй или вроде того.」",
+   "orig": "Soji\n「I guess there's a chance that the shock of the\n　attacks somehow brought it back online or something.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Не волнуйся, Система 99.\n　Ничего ужасного мы с тобой не сделаем.」",
+   "orig": "$n\n「Don't worry, System Nine-Nine.\n　We won't do anything too harsh to you.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Анализер",
+   "text": "「Энсин $l, если угрозы на ИИ не действуют,\n　как вы сами сказали, странно, что вы решили\n　угрожать ей самостоятельно.」",
+   "orig": "Analyzer\n「Ensign $l, if threats do not\n　work on AIs, as you suggested, I find it strange that\n　you would choose to threaten it yourself.」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Мне бы точно не понравилось, если бы со мной\n　делали всё, что вздумается. Тут заговоришь!」",
+   "orig": "$n\n「Well, I know I wouldn't want someone to toy\n　with me however they saw fit. I'd start talking!」"
+  },
+  {
+   "i": 163,
+   "speaker": "$n",
+   "text": "「Пусть Система 99 и машина, но для меня она —\n　второй пилот, спасший мне жизнь, и я хочу\n　сражаться с ней и дальше.」",
+   "orig": "$n\n「Maybe System Nine-Nine is just a machine, but to me\n　it's a life-saving co-pilot, and I plan to keep\n　fighting alongside it.」"
+  },
+  {
+   "i": 164,
+   "speaker": "$n",
+   "text": "「Поэтому я хочу видеть в ней живого напарника.」",
+   "orig": "$n\n「So I want to treat it like a human co-pilot.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 166,
+   "speaker": "Анализер",
+   "text": "「Не ожидал от вас такой теплоты.」",
+   "orig": "Analyzer\n「I did not expect such warmth from you.」"
+  },
+  {
+   "i": 167,
+   "speaker": "$n",
+   "text": "「Э-эй! Замолчи!」",
+   "orig": "$n\n「H-hey! Shut up!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Содзи",
+   "text": "「О, задело за живое!\n　Надо будет потом взять на вооружение.」",
+   "orig": "Soji\n「Oh, that struck a nerve!\n　I'll have to use that on her later.」"
+  },
+  {
+   "i": 169,
+   "speaker": "$n",
+   "text": "「Лейтенант Муракумо! Это уже слишком—!」",
+   "orig": "$n\n「Lieutenant Murakumo! That is simply—!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Содзи",
+   "text": "「Ладно, с этим разобрались. Пойду посмотрю\n　слезливый прощальный спектакль Кинкейда\n　и Тобиа.」",
+   "orig": "Soji\n「OK, now that we've got this out of the way,\n　I'm gonna go watch the Kincade and Tobia Farewell\n　Weepfest.」"
+  },
+  {
+   "i": 171,
+   "speaker": "$n",
+   "text": "「Ты просто невыносим!」",
+   "orig": "$n\n「You are just the worst!」"
+  },
+  {
+   "i": 175,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Док колонии Юпитера-",
+   "orig": "　\n　\n　　　　　　　　　　-Jupiter Colony Dock-"
+  },
+  {
+   "i": 176,
+   "speaker": "Кинкейд",
+   "text": "「Что ж, нам пора.」",
+   "orig": "Kincade\n「Well, we're off.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Бера",
+   "text": "「Береги себя, Кинкейд.」",
+   "orig": "Berah\n「Be careful, Kincade.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Кинкейд",
+   "text": "「Я вернусь к тебе.」",
+   "orig": "Kincade\n「I'll come back for you.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Кинкейд",
+   "text": "「Как возвращался всегда.」",
+   "orig": "Kincade\n「Just like I always have.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Бера",
+   "text": "「Я знаю.」",
+   "orig": "Berah\n「I know you will.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Тобиа",
+   "text": "「Простите, капитан Бера?\n　А где Бернадетт?」",
+   "orig": "Tobia\n「Excuse me, Captain Berah?\n　Where's Bernadette?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Бера",
+   "text": "「Она всё это время у себя в каюте.」",
+   "orig": "Berah\n「She's been in her room all this time.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Тобиа",
+   "text": "「А, ясно.」",
+   "orig": "Tobia\n「Oh, I see.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Синохара",
+   "text": "「Пойми, каково ей сейчас.\n　Увидит твоё лицо — и прощаться станет тяжелее.」",
+   "orig": "Shinohara\n「Consider how she must feel.\n　Seeing your face might make it harder to say goodbye.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Тобиа",
+   "text": "「Наверное, вы правы.\n　Спасибо, господин Синохара.」",
+   "orig": "Tobia\n「I guess you're right.\n　Thank you, Mr. Shinohara.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Синохара",
+   "text": "「Не стоит благодарности!\n　Мы теперь официально коллеги.」",
+   "orig": "Shinohara\n「Don't mention it!\n　We're officially colleagues now.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Синохара",
+   "text": "「На борту «Ямато» полно других женщин.\n　Ты и оглянуться не успеешь, как забудешь её!」",
+   "orig": "Shinohara\n「There are plenty of other women working on board\n　the Yamato. You'll forget about her in no time!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Като",
+   "text": "「Я не позволю тебе забивать парню голову\n　подобными речами, Синохара!」",
+   "orig": "Kato\n「I will not have you poisoning his mind\n　with such talk, Shinohara!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Синохара",
+   "text": "「Чего? Я же просто пытался его утешить!」",
+   "orig": "Shinohara\n「What? I was just trying to comfort him!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Тобиа",
+   "text": "「Ага, конечно, пытались.」",
+   "orig": "Tobia\n「Yeah, I'm sure you were.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Тобиа",
+   "text": "「Прощайте, капитан Бера.\n　Передайте Бернадетт,\n　что я вернусь за ней.」",
+   "orig": "Tobia\n「Farewell, Captain Berah.\n　Please tell Bernadette that I\n　will come back for her.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Бера",
+   "text": "「Передам.」",
+   "orig": "Berah\n「I shall.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Тобиа",
+   "text": "「И не волнуйтесь за Кинкейда, капитан.\n　Я прослежу, чтобы он вернулся целым.」",
+   "orig": "Tobia\n「Oh, and don't worry about Kincade,\n　Captain. I will see to it that he returns safely.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Бера",
+   "text": "「То же самое ты говорил мне перед\n　последней битвой с Империей Юпитера.」",
+   "orig": "Berah\n「You told me the same thing\n　before the final battle with the Jupiter Empire.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Бера",
+   "text": "「Спасибо, Тобиа.\n　Присмотри за ним, прошу.」",
+   "orig": "Berah\n「Thank you, Tobia.\n　Please look out for him.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Кинкейд",
+   "text": "「Идём, Тобиа.\n　Нам нужно собраться с духом перед дорогой.」",
+   "orig": "Kincade\n「Let's go, Tobia.\n　We've got to steel ourselves for the journey ahead.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Тобиа",
+   "text": "「Есть!」",
+   "orig": "Tobia\n「Yes sir!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Тобиа",
+   "text": "（Я вернусь, Бернадетт.）",
+   "orig": "Tobia\n（I'll be back, Bernadette.）"
+  },
+  {
+   "i": 199,
+   "speaker": "Бера",
+   "text": "「Сибук!」",
+   "orig": "Berah\n「Seabook!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Бера",
+   "text": "（Я так отчаянно хотела сказать тебе:\n　«Не уходи».）",
+   "orig": "Berah\n（I so desperately wanted to tell you\n　not to go.）"
+  },
+  {
+   "i": 201,
+   "speaker": "Бера",
+   "text": "（Но это был твой выбор. Ты решил сражаться за\n　будущее, а не тонуть в отчаянии.）",
+   "orig": "Berah\n（But this was your choice to make. You chose to fight\n　for the future, not wallow in despair.）"
+  },
+  {
+   "i": 202,
+   "speaker": "Бера",
+   "text": "（Я буду ждать тебя здесь —\n　как Бера Рона.）",
+   "orig": "Berah\n（I'll be here, waiting for you\n　as Berah Ronah.）"
+  },
+  {
+   "i": 206,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Стратегический зал «Ямато»-",
+   "orig": "　\n　　\n　　　　　　　-Yamato Central Strategy Room-"
+  },
+  {
+   "i": 207,
+   "speaker": "Окита",
+   "text": "「Кто-то из вас уже знает: при отлёте от\n　Юпитера мы приняли сигнал бедствия,\n　закодированный стандартным кодом Федерации.」",
+   "orig": "Okita\n「Some of you may already be aware that\n　we received a distress signal in Federation\n　Standard Code upon our departure from Jupiter.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Кодай",
+   "text": "「Неужели это—」",
+   "orig": "Kodai\n「That could be—」"
+  },
+  {
+   "i": 209,
+   "speaker": "Сима",
+   "text": "「Тихо, Кодай.」",
+   "orig": "Shima\n「Quiet, Kodai.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Окита",
+   "text": "「Судно опознать не удалось, но сигнал шёл с южного\n　полюса Энцелада — одного из спутников Сатурна.」",
+   "orig": "Okita\n「The vessel cannot be IDed, but the signal originated\n　from the south pole of Enceladus, a moon off Saturn.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Окита",
+   "text": "「Метеоролог Ота, сколько примерно дней\n　мы потеряем, если сядем на Энцеладе?」",
+   "orig": "Okita\n「Meteorological Officer Ota, approximately how many\n　days would we lose by landing on Enceladus?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Ота",
+   "text": "「Два, сэр.」",
+   "orig": "Ota\n「Two, sir.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Кодай",
+   "text": "「Как тактический офицер, я рекомендую не делать\n　остановку. Мы не можем терять время.」",
+   "orig": "Kodai\n「As the Tactical Officer, I recommend that we do not\n　stop. We cannot afford to lose more time.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Сима",
+   "text": "「Что ты такое говоришь, Кодай?! Предлагаешь нам\n　бросить ещё один экипаж Федерации?」",
+   "orig": "Shima\n「What are you saying, Kodai?! Are you suggesting that\n　we abandon another Federation crew?」"
+  },
+  {
+   "i": 215,
+   "speaker": "Кодай",
+   "text": "「Я говорю, что не стоит тратить время на поиски\n　выживших, которых может и не быть!」",
+   "orig": "Kodai\n「I am saying that we should not waste time looking\n　for survivors who may or may not exist!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Кодай",
+   "text": "「У нас есть миссия, и эта миссия—」",
+   "orig": "Kodai\n「We have a mission, and that mission is—」"
+  },
+  {
+   "i": 217,
+   "speaker": "Сима",
+   "text": "「Это у тебя есть миссия. Разнести вражеские базы\n　на Плутоне так же, как мы разнесли базы на\n　Юпитере. Ты ведь это хотел сказать?」",
+   "orig": "Shima\n「You mean you have a mission. To destroy the enemy\n　bases on Pluto with as much force as we did the ones\n　on Jupiter. Is that what you were going to say?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Кодай",
+   "text": "「И что, скажи на милость, в этом плохого?」",
+   "orig": "Kodai\n「And what, exactly, is wrong with that?」"
+  },
+  {
+   "i": 219,
+   "speaker": "Кодай",
+   "text": "「Когда они вторглись в нашу систему, Плутон пал\n　первым. Когда планетарная бомба уничтожила\n　прежнюю Землю — откуда её запустили? С Плутона.」",
+   "orig": "Kodai\n「When they invaded our system, Pluto was the first to\n　fall. When the Planet Bomb destroyed Earth as we knew\n　it, where did they launch it from? Pluto.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Кодай",
+   "text": "「Плутон стал корнем всех бед! И этот корень надо\n　вырвать, покинем мы систему или нет!」",
+   "orig": "Kodai\n「Pluto has become the root of all evil! A root we must\n　tear out, whether we leave this system or not!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Окита",
+   "text": "「Хотите ответить, старший штурман?」",
+   "orig": "Okita\n「Would you like to respond, Head Navigator?」"
+  },
+  {
+   "i": 222,
+   "speaker": "Сима",
+   "text": "「Да. Мы должны забыть о Плутоне, если хотим\n　проложить кратчайший курс к Искандару.」",
+   "orig": "Shima\n「Yes. We must ignore Pluto if we are to chart the\n　fastest course to Iscandar.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Кодай",
+   "text": "「Как ты смеешь, Сима!」",
+   "orig": "Kodai\n「How dare you, Shima!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Сима",
+   "text": "「Я понимаю твои чувства, Кодай, но избытка\n　времени среди наших проблем не числится.」",
+   "orig": "Shima\n「I understand your feelings Kodai, but our current\n　problems do not include a surfeit of time.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Кодай",
+   "text": "「По такой логике то же касается и Энцелада!」",
+   "orig": "Kodai\n「By that logic, the same goes for Enceladus!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Сима",
+   "text": "「Разница в том, что отвечать — наш долг!」",
+   "orig": "Shima\n「The difference being that we have a duty to respond!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Сима",
+   "text": "「Мы не можем игнорировать уже принятый сигнал\n　бедствия. Командующий, пусть шанс найти\n　выживших и мал, мы обязаны прийти на помощь!」",
+   "orig": "Shima\n「We cannot ignore a distress signal we have already\n　received. Commander, even if the odds of finding\n　survivors is low, we must come to their aid!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Окита",
+   "text": "「Хм.」",
+   "orig": "Okita\n「Hmm.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Санада",
+   "text": "「Прошу простить за опоздание, командующий.」",
+   "orig": "Sanada\n「Apologies for my late arrival, Commander.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Окита",
+   "text": "「Доклад?」",
+   "orig": "Okita\n「Status report?」"
+  },
+  {
+   "i": 231,
+   "speaker": "Санада",
+   "text": "「Часть конденсатора волнового двигателя оплавилась.\n　Вероятно, из-за выстрела волновой пушки.」",
+   "orig": "Sanada\n「Part of the wave motion engine's capacitor melted,\n　sir. Likely as a result of firing the wave motion gun.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Сима",
+   "text": "「Что?!」",
+   "orig": "Shima\n「What?!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Санада",
+   "text": "「Главный механик Токугава докладывает:\n　без ремонта мы, возможно, не сможем\n　продолжить путь.」",
+   "orig": "Sanada\n「Engineering Officer Tokugawa reports that\n　we may not be able to continue on unless it is\n　repaired.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Санада",
+   "text": "「Кроме того, для ремонта нам, судя по всему,\n　понадобится космонит-90.」",
+   "orig": "Sanada\n「Further, it appears we will need Cosmonite 90\n　in order to make those repairs.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Окита",
+   "text": "「Хирата, есть ли у нас на борту\n　космонит-90?」",
+   "orig": "Okita\n「Hirata, do we have any Cosmonite 90\n　on board?」"
+  },
+  {
+   "i": 236,
+   "speaker": "Хирата",
+   "text": "「Я проверил сразу, как получил сообщение от\n　офицера Санады. Нам сильно не хватает.」",
+   "orig": "Hirata\n「I checked as soon as I received word from Officer\n　Sanada. We're well short of what we need.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Кодай",
+   "text": "「Значит, мы ляжем в дрейф?」",
+   "orig": "Kodai\n「So we'll just end up adrift?」"
+  },
+  {
+   "i": 238,
+   "speaker": "Ниими",
+   "text": "「Не обязательно. На поверхности Энцелада есть\n　заброшенный рудник космонита. Возможно, там\n　мы сумеем его добыть.」",
+   "orig": "Niimi\n「Perhaps not. There is an abandoned Cosmonite mining\n　facility on the surface of Enceladus. We may be able\n　to obtain some there.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Санада",
+   "text": "「Командующий?」",
+   "orig": "Sanada\n「Commander?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Окита",
+   "text": "「Дайте подумать.」",
+   "orig": "Okita\n「Let me think.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Мори",
+   "text": "「Командующий! Офицер безопасности Ито сообщает:\n　задержан безбилетник!」",
+   "orig": "Mori\n「Commander! I have word from Security Officer Ito\n　that a stowaway has been captured!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Окита",
+   "text": "「Ещё один?」",
+   "orig": "Okita\n「Another one?」"
+  },
+  {
+   "i": 246,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Приёмная «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　-Yamato Reception Room-"
+  },
+  {
+   "i": 247,
+   "speaker": "Хосина",
+   "text": "「Тетенит Догати.」",
+   "orig": "Hoshina\n「Tetenith Dogatie.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Бернадетт",
+   "text": "「Мы уже покинули Юпитер. Это больше не моё имя.」",
+   "orig": "Bernadette\n「We have already left Jupiter. That is not my name.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Бернадетт",
+   "text": "「Я больше не Тетенит Догати.\n　Я просто Бернадетт Бриетт.」",
+   "orig": "Bernadette\n「I am no longer Tetenith Dogatie.\n　I am merely Bernadette Briett.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Ито",
+   "text": "「Как дочь бывшего верховного вождя Юпитера, вы\n　отвечали за порядок среди населения. Вы пробрались\n　на «Ямато», чтобы вовсе сбежать с Юпитера?」",
+   "orig": "Ito\n「As daughter of the former Supreme Leader of Jupiter, you\n　were in charge of keeping the populace in line. Have you\n　snuck on board the Yamato to flee Jupiter altogether?」"
+  },
+  {
+   "i": 251,
+   "speaker": "Бернадетт",
+   "text": "「Вряд ли я смогу переубедить вас,\n　но слово \"сбежать\" я оспорю.」",
+   "orig": "Bernadette\n「While I doubt I can alter your perception,\n　I contest your use of the word \"flee.\"」"
+  },
+  {
+   "i": 252,
+   "speaker": "Ито",
+   "text": "「И почему же?」",
+   "orig": "Ito\n「Care to tell us why?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Бернадетт",
+   "text": "「Вам? Не скажу.」",
+   "orig": "Bernadette\n「Tell you? No.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Ито",
+   "text": "「Сдаётся мне, вы нас недолюбливаете.」",
+   "orig": "Ito\n「I get the feeling you don't like us very much.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Тобиа",
+   "text": "「Бернадетт!」",
+   "orig": "Tobia\n「Bernadette!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Бернадетт",
+   "text": "「Тобиа, я—!」",
+   "orig": "Bernadette\n「Tobia, I—!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Бернадетт",
+   "text": "「Прости.\n　Я знала: скажи я, что хочу отправиться с тобой,\n　ты бы ответил «нет».」",
+   "orig": "Bernadette\n「I'm sorry.\n　I just knew that you'd say no if I had told you I\n　wanted to come with you.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Кодай",
+   "text": "「И этим вы оправдываете проникновение на борт?」",
+   "orig": "Kodai\n「That's your justification for sneaking aboard?」"
+  },
+  {
+   "i": 259,
+   "speaker": "Тобиа",
+   "text": "「Пробираться на корабли — её конёк.」",
+   "orig": "Tobia\n「Sneaking aboard ships is her specialty.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Бернадетт",
+   "text": "「К тому же в этот раз мне помогла капитан Бера.」",
+   "orig": "Bernadette\n「And this time I had Captain Berah's help, as well.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Кинкейд",
+   "text": "「Ясно.\n　Так вот почему она вела себя странно,\n　когда мы пришли прощаться.」",
+   "orig": "Kincade\n「I see.\n　So that's why she was behaving strangely when\n　we came to say goodbye.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Тобиа",
+   "text": "「Бернадетт—」",
+   "orig": "Tobia\n「Bernadette—」"
+  },
+  {
+   "i": 263,
+   "speaker": "Бернадетт",
+   "text": "「Прости.」",
+   "orig": "Bernadette\n「I'm sorry.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Тобиа",
+   "text": "「Всё в порядке. Я знаю: ты не из тех,\n　кто бежит от ответственности.」",
+   "orig": "Tobia\n「It's OK. I know you're not one to run from your\n　responsibilities.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Тобиа",
+   "text": "「Тогда скажи мне, почему.\n　Зачем ты пробралась на «Ямато»?」",
+   "orig": "Tobia\n「So tell me why.\n　Why did you sneak onto the Yamato?」"
+  },
+  {
+   "i": 266,
+   "speaker": "Бернадетт",
+   "text": "「Я должна узнать, Тобиа.」",
+   "orig": "Bernadette\n「I just have to know, Tobia.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Тобиа",
+   "text": "「Узнать что?」",
+   "orig": "Tobia\n「Have to know what?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Бернадетт",
+   "text": "「Что ищут во внешних пределах люди, которые шли\n　за моим отцом — и которые напали на Землю.」",
+   "orig": "Bernadette\n「What the people who followed my father—who attacked\n　Earth—are looking for in the outer reaches.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Тобиа",
+   "text": "「Но—」",
+   "orig": "Tobia\n「But—」"
+  },
+  {
+   "i": 270,
+   "speaker": "Бернадетт",
+   "text": "「Отец так и не смог отпустить ненависть к Земле.\n　Даже на Юпитере она пожирала его.」",
+   "orig": "Bernadette\n「My father couldn't let go of his hatred of Earth.\n　Even when he was on Jupiter, it consumed him.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Бернадетт",
+   "text": "「Если те, кто отправился во внешние пределы,\n　и впрямь забыли о Земле, я обязана выяснить,\n　что обладает такой силой.」",
+   "orig": "Bernadette\n「If those who set out for the outer reaches really\n　have forgotten about Earth, then I owe it to myself\n　to find out what has that kind of power.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Бернадетт",
+   "text": "「Когда я это осознала, мне стало так легко, Тобиа.\n　Впервые в жизни я чувствую, что могу повести\n　народ Юпитера к лучшему будущему.」",
+   "orig": "Bernadette\n「When that dawned on me, it was so liberating, Tobia.\n　For the first time in my life, I feel like I can\n　lead the people of Jupiter toward a brighter future.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Тобиа",
+   "text": "「Но ты же понимаешь, что можешь\n　не вернуться живой?」",
+   "orig": "Tobia\n「But you realize there's a chance\n　that you won't make it back alive?」"
+  },
+  {
+   "i": 274,
+   "speaker": "Бернадетт",
+   "text": "「Ну, ты ведь вернёшься живым, правда?」",
+   "orig": "Bernadette\n「Well, you're going to make it back alive, aren't you?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Тобиа",
+   "text": "「Да, вернусь.\n　И ты будешь рядом со мной.」",
+   "orig": "Tobia\n「Yeah, I am.\n　And you'll be right there by my side.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Ито",
+   "text": "「Та ещё принцесса.\n　Ну что, офицер Кодай, как поступим?」",
+   "orig": "Ito\n「She's quite the little princess.\n　Well, Officer Kodai, how should we proceed?」"
+  },
+  {
+   "i": 277,
+   "speaker": "Кодай",
+   "text": "「Назад на Юпитер мы её точно не отвезём.\n　Видимо, придётся просто—」",
+   "orig": "Kodai\n「We certainly can't take her back to Jupiter.\n　I guess we'll just have to—」"
+  },
+  {
+   "i": 278,
+   "speaker": "Титосэ",
+   "text": "「А если определить её в бухгалтерию?」",
+   "orig": "Chitose\n「What if we assign her to Accounting?」"
+  },
+  {
+   "i": 279,
+   "speaker": "Кодай",
+   "text": "「Вы подслушивали, энсин Кисараги?」",
+   "orig": "Kodai\n「Were you eavesdropping, Ensign Kisaragi?」"
+  },
+  {
+   "i": 280,
+   "speaker": "Титосэ",
+   "text": "「У нас ведь мало времени? Это единственный способ\n　всё уладить без заминок.」",
+   "orig": "Chitose\n「We don't have much time, do we? It's the only way\n　to keep things running smoothly.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Ямамото",
+   "text": "「Одобрение офицера Хираты уже есть.」",
+   "orig": "Yamamoto\n「We already have Chief Hirata's approval.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Кодай",
+   "text": "「А вы кто?」",
+   "orig": "Kodai\n「And you are?」"
+  },
+  {
+   "i": 283,
+   "speaker": "Ямамото",
+   "text": "「Энсин Акира Ямамото, бухгалтерия, сэр.」",
+   "orig": "Yamamoto\n「Ensign Akira Yamamoto in Accounting, sir.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Кодай",
+   "text": "「Ясно.\n　Хорошо. Направим её в бухгалтерию.」",
+   "orig": "Kodai\n「I see.\n　Very well. We'll assign her to Accounting.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Хосина",
+   "text": "「Вы уверены?\n　Она же дочь верховного вождя Империи—」",
+   "orig": "Hoshina\n「Are you sure?\n　She's a daughter of the Jupiter Empire's—」"
+  },
+  {
+   "i": 286,
+   "speaker": "Бернадетт",
+   "text": "「Напоминаю: теперь я Бернадетт Бриетт!\n　И я усердным трудом искуплю свой проступок.」",
+   "orig": "Bernadette\n「I will remind you that I am now Bernadette Briett!\n　And I will work hard to atone for sneaking aboard.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Бернадетт",
+   "text": "「Прибыла для несения службы. Жду распоряжений.」",
+   "orig": "Bernadette\n「I am at your service, and reporting for duty.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Кодай",
+   "text": "「Принято. Если будут вопросы, обращайтесь\n　к энсину Ямамото и остальным.」",
+   "orig": "Kodai\n「Understood. If you have any further questions, ask\n　Ensign Yamamoto and the others.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Тобиа",
+   "text": "「Бернадетт—」",
+   "orig": "Tobia\n「Bernadette—」"
+  },
+  {
+   "i": 290,
+   "speaker": "Бернадетт",
+   "text": "「Знаю, я доставила много хлопот, Тобиа.\n　Но это мой собственный выбор.」",
+   "orig": "Bernadette\n「I know I caused a lot of trouble, Tobia.\n　But this is the path I chose.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Тобиа",
+   "text": "「Мне больше нечего сказать.\n　Но в следующий раз предупреждай, ладно?」",
+   "orig": "Tobia\n「I don't have anything more to say.\n　Just make sure you tell me next time, OK?」"
+  },
+  {
+   "i": 292,
+   "speaker": "Бернадетт",
+   "text": "「Да.」",
+   "orig": "Bernadette\n「OK.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Титосэ",
+   "text": "「Ну вот, в итоге всё сложилось удачно!」",
+   "orig": "Chitose\n「Well that worked out all right in the end!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Ямамото",
+   "text": "「Возможно.\n　Как минимум у нас плюс один бухгалтер.」",
+   "orig": "Yamamoto\n「Perhaps.\n　We have one more accountant, at any rate.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Титосэ",
+   "text": "「Простите?」",
+   "orig": "Chitose\n「I'm sorry?」"
+  },
+  {
+   "i": 296,
+   "speaker": "Ямамото",
+   "text": "「Так, ничего.」",
+   "orig": "Yamamoto\n「Nothing, it's fine.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Ито",
+   "text": "「Та ещё принцесса.\n　Ну что, офицер Кодай, как поступим?」",
+   "orig": "Ito\n「She's quite the little princess.\n　Well, Officer Kodai, how should we proceed?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Кодай",
+   "text": "「Назад на Юпитер мы её точно не отвезём.\n　Видимо, придётся просто—」",
+   "orig": "Kodai\n「We certainly can't take her back to Jupiter.\n　I guess we'll just have to—」"
+  },
+  {
+   "i": 299,
+   "speaker": "$n",
+   "text": "「А если определить её в бухгалтерию?」",
+   "orig": "$n\n「What if we assign her to Accounting?」"
+  },
+  {
+   "i": 300,
+   "speaker": "Кодай",
+   "text": "「Вы подслушивали, энсин $l?」",
+   "orig": "Kodai\n「Were you eavesdropping, Ensign $l?」"
+  },
+  {
+   "i": 301,
+   "speaker": "$n",
+   "text": "「У нас ведь мало времени? Это единственный способ\n　всё уладить без заминок.」",
+   "orig": "$n\n「We don't have much time, do we? It's the only way\n　to keep things running smoothly.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Ямамото",
+   "text": "「Одобрение офицера Хираты уже есть.」",
+   "orig": "Yamamoto\n「We already have Chief Hirata's approval.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Кодай",
+   "text": "「А вы кто?」",
+   "orig": "Kodai\n「And you are?」"
+  },
+  {
+   "i": 304,
+   "speaker": "Ямамото",
+   "text": "「Энсин Акира Ямамото, бухгалтерия, сэр.」",
+   "orig": "Yamamoto\n「Ensign Akira Yamamoto in Accounting, sir.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Кодай",
+   "text": "「Ясно.\n　Хорошо. Направим её в бухгалтерию.」",
+   "orig": "Kodai\n「I see.\n　Very well. We'll assign her to Accounting.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Хосина",
+   "text": "「Вы уверены?\n　Она же дочь верховного вождя Империи—」",
+   "orig": "Hoshina\n「Are you sure?\n　She's a daughter of the Jupiter Empire's—」"
+  },
+  {
+   "i": 307,
+   "speaker": "Бернадетт",
+   "text": "「Напоминаю: теперь я Бернадетт Бриетт!\n　И я усердным трудом искуплю свой проступок.」",
+   "orig": "Bernadette\n「I will remind you that I am now Bernadette Briett!\n　And I will work hard to atone for sneaking aboard.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Бернадетт",
+   "text": "「Прибыла для несения службы. Жду распоряжений.」",
+   "orig": "Bernadette\n「I am at your service, and reporting for duty.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Кодай",
+   "text": "「Принято. Если будут вопросы, обращайтесь\n　к энсину Ямамото и остальным.」",
+   "orig": "Kodai\n「Understood. If you have any further questions, ask\n　Ensign Yamamoto and the others.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Тобиа",
+   "text": "「Бернадетт—」",
+   "orig": "Tobia\n「Bernadette—」"
+  },
+  {
+   "i": 311,
+   "speaker": "Бернадетт",
+   "text": "「Знаю, я доставила много хлопот, Тобиа.\n　Но это мой собственный выбор.」",
+   "orig": "Bernadette\n「I know I caused a lot of trouble, Tobia.\n　But this is the path I chose.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Тобиа",
+   "text": "「Мне больше нечего сказать.\n　Но в следующий раз предупреждай, ладно?」",
+   "orig": "Tobia\n「I don't have anything more to say.\n　Just make sure you tell me next time, OK?」"
+  },
+  {
+   "i": 313,
+   "speaker": "Бернадетт",
+   "text": "「Да.」",
+   "orig": "Bernadette\n「OK.」"
+  },
+  {
+   "i": 314,
+   "speaker": "$n",
+   "text": "「Ну вот, в итоге всё сложилось удачно!」",
+   "orig": "$n\n「Well that worked out all right in the end!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Ямамото",
+   "text": "「Возможно.\n　Как минимум у нас плюс один бухгалтер.」",
+   "orig": "Yamamoto\n「Perhaps.\n　We have one more accountant, at any rate.」"
+  },
+  {
+   "i": 316,
+   "speaker": "$n",
+   "text": "「Простите?」",
+   "orig": "$n\n「I'm sorry?」"
+  },
+  {
+   "i": 317,
+   "speaker": "Ямамото",
+   "text": "「Так, ничего.」",
+   "orig": "Yamamoto\n「Nothing, it's fine.」"
+  }
+ ]
+}

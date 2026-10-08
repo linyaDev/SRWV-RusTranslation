@@ -1,0 +1,1294 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Кодай",
+   "text": "「Значит, вот корабль, пославший сигнал бедствия?」",
+   "orig": "Kodai\n「So that's the ship that sent out the distress signal?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Мори",
+   "text": "「Знаешь, что это за корабль?」",
+   "orig": "Mori\n「Any idea what kind of ship it is?」"
+  },
+  {
+   "i": 2,
+   "speaker": "Кодай",
+   "text": "「А сама не видишь? Это класс «Исокадзэ».」",
+   "orig": "Kodai\n「Can't you see? It's an Isokaze-class.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Мори",
+   "text": "「Можно было и повежливее.\n　Неужели тебе так противно меня сопровождать?」",
+   "orig": "Mori\n「No need to be so rude about it.\n　Do you really hate being my escort that much?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Кодай",
+   "text": "「Нет, я не хотел—」",
+   "orig": "Kodai\n「No, I didn't mean—」"
+  },
+  {
+   "i": 5,
+   "speaker": "Мори",
+   "text": "「Небось жалеешь, что тебе выпало это задание.\n　Лучше бы охранял остальных на космонитовой\n　шахте, да?」",
+   "orig": "Mori\n「I suppose you're regretting this assignment.\n　You'd rather be guarding the others at the cosmonite\n　mine, wouldn't you?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Кодай",
+   "text": "「Я не это имел в виду!」",
+   "orig": "Kodai\n「That's not what I meant!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Мори",
+   "text": "「Слушай внимательно, повторять не буду.\n　Спасательной операцией командую я, так что\n　там, внизу, изволь беспрекословно выполнять приказы.」",
+   "orig": "Mori\n「Listen up, because I'm only going to say this once.\n　I'm in charge of this rescue mission, so\n　I expect your full compliance with my orders down there.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодай",
+   "text": "「Есть, мэм.」",
+   "orig": "Kodai\n「Yes, ma'am.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Мори",
+   "text": "「Не называй меня «мэм»!」",
+   "orig": "Mori\n「Don't call me \"ma'am\"!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Кодай",
+   "text": "「Есть, мэм.」",
+   "orig": "Kodai\n「Yes, ma'am.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Мори",
+   "text": "「Ты просто невыносим!」",
+   "orig": "Mori\n「You are absolutely infuriating!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Харада",
+   "text": "（Странные они какие-то, да?）",
+   "orig": "Harada\n（Those two sure are acting strange, huh?）"
+  },
+  {
+   "i": 13,
+   "speaker": "Анализер",
+   "text": "（Аномальных моделей поведения не обнаружено.）",
+   "orig": "Analyzer\n（I do not detect any abnormal behavioral patterns.）"
+  },
+  {
+   "i": 14,
+   "speaker": "Харада",
+   "text": "（Ну да, куда уж тебе.）",
+   "orig": "Harada\n（Yeah, well, you wouldn't.）"
+  },
+  {
+   "i": 15,
+   "speaker": "Кодай",
+   "text": "「Эй.」",
+   "orig": "Kodai\n「Hey.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Мори",
+   "text": "「Что такое?」",
+   "orig": "Mori\n「What is it?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Кодай",
+   "text": "「Можно странный вопрос?」",
+   "orig": "Kodai\n「Can I ask you a weird question?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Мори",
+   "text": "「Ну, спрашивай.」",
+   "orig": "Mori\n「If you must.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Харада",
+   "text": "（О-о, я знала, что к этому идёт!）",
+   "orig": "Harada\n（Oooh, I knew this was coming!）"
+  },
+  {
+   "i": 20,
+   "speaker": "Кодай",
+   "text": "「У тебя случайно нет родни-инопланетян?」",
+   "orig": "Kodai\n「Do you have any alien relatives or anything?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Мори",
+   "text": "「Чего?!」",
+   "orig": "Mori\n「Excuse me?!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кодай",
+   "text": "「Да просто... А, неважно.\n　Забудь, что я сказал.」",
+   "orig": "Kodai\n「Well, it's just—never mind.\n　Forget I said anything.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Харада",
+   "text": "（Всё как говорил Эномото.）",
+   "orig": "Harada\n（It's just like Enomoto said.）"
+  },
+  {
+   "i": 24,
+   "speaker": "Анализер",
+   "text": "（Боцман, главный старшина Эномото?）",
+   "orig": "Analyzer\n（The boatswain, Chief Petty Officer Enomoto?）"
+  },
+  {
+   "i": 25,
+   "speaker": "Харада",
+   "text": "（Он был инструктором офицера-тактика Кодая\n　и главного штурмана Симы в училище.）",
+   "orig": "Harada\n（He was Tactical Officer Kodai's and Head Navigator\n　Shima's instructor at training school.）"
+  },
+  {
+   "i": 26,
+   "speaker": "Харада",
+   "text": "（По его словам, офицер-тактик Кодай никогда\n　не умел общаться с женщинами.）",
+   "orig": "Harada\n（According to him, Tactical Officer Kodai has never been\n　able to interact with women very well.）"
+  },
+  {
+   "i": 27,
+   "speaker": "Кодай",
+   "text": "「Ладно, идём.」",
+   "orig": "Kodai\n「Right, let's get going.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Кодай",
+   "text": "「Что это?!」",
+   "orig": "Kodai\n「What is that?!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Гамилоид",
+   "text": "「!」",
+   "orig": "Gamiloid\n「!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Кодай",
+   "text": "「Стой, эти чудища — не оружие Гамилас?」",
+   "orig": "Kodai\n「Wait, those monsters aren't Gamillan weapons?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Кодай",
+   "text": "「Чёрт!\n　Космопистолет!」",
+   "orig": "Kodai\n「Gah!\n　My cosmo gun!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Мори",
+   "text": "「Кодай, возьми этот!」",
+   "orig": "Mori\n「Kodai, use this one!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Кодай",
+   "text": "「Спасибо!」",
+   "orig": "Kodai\n「Thanks!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Кодай",
+   "text": "「Ты меня здорово выручила, Мори.\n　Это твой?」",
+   "orig": "Kodai\n「You really saved my skin, Mori.\n　Is this yours?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Мори",
+   "text": "「Нет. Он просто лежал там,\n　и я, не раздумывая, бросила его тебе.」",
+   "orig": "Mori\n「No. I found it lying there\n　and threw it to you without thinking.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодай",
+   "text": "「Тогда чей же это пистолет?」",
+   "orig": "Kodai\n「So whose gun is it then?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Анализер",
+   "text": "「Фиксирую приближение противника.」",
+   "orig": "Analyzer\n「I detect hostiles approaching.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодай",
+   "text": "「Уходим отсюда, Мори!」",
+   "orig": "Kodai\n「Let's get out of here, Mori!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Мори",
+   "text": "「Бесполезно!\n　Они нас догоняют!」",
+   "orig": "Mori\n「It's no use!\n　They're catching up with us!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Кодай",
+   "text": "「Мори,\n　беги вперёд!」",
+   "orig": "Kodai\n「Mori,\n　you go on ahead!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Мори",
+   "text": "「Но—」",
+   "orig": "Mori\n「But—」"
+  },
+  {
+   "i": 42,
+   "speaker": "Кодай",
+   "text": "「Защищать тебя — мой долг. Беги!」",
+   "orig": "Kodai\n「It's my duty to protect you. Now go!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Кодай",
+   "text": "「Что—?!」",
+   "orig": "Kodai\n「What—?!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Кодай",
+   "text": "「Это «Космо-Зеро»!\n　Но кто за штурвалом?」",
+   "orig": "Kodai\n「It's Cosmo Zero!\n　But who's piloting it?」"
+  },
+  {
+   "i": 45,
+   "speaker": "Анализер",
+   "text": "「Приближается что-то ещё, офицер-тактик Кодай!」",
+   "orig": "Analyzer\n「Something else is approaching, Tactical Officer Kodai!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Рёма",
+   "text": "「Это что ещё за недо-Инвейдеры?」",
+   "orig": "Ryoma\n「What are these, wannabe Invaders?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Мори",
+   "text": "「Что это за робот?」",
+   "orig": "Mori\n「What kind of robot is that?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Кодай",
+   "text": "「Понятия не имею!\n　Впервые вижу такой тип!」",
+   "orig": "Kodai\n「No idea!\n　I've never seen that type before!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Ямамото",
+   "text": "「Скорее, залезайте!\n　Надо уходить, пока тот робот отвлекает\n　на себя этих чудовищ!」",
+   "orig": "Yamamoto\n「Quick, get in!\n　We have to get out of here while that robot is\n　distracting those monsters for us!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Кодай",
+   "text": "「Погоди-ка, ты же из бухгалтерии?!」",
+   "orig": "Kodai\n「Wait a second, aren't you from Accounting?!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Мори",
+   "text": "「Ты что-то знаешь\n　о том чёрном роботе?」",
+   "orig": "Mori\n「Do you know something\n　about that black robot?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Ямамото",
+   "text": "「Я лишь услышала, что вас атакуют,\n　и полетела на помощь.」",
+   "orig": "Yamamoto\n「I only heard you were under attack\n　and came to help.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Ямамото",
+   "text": "「Гамиласцы тоже направляются к космонитовым шахтам.\n　«Ямато» идёт на перехват.」",
+   "orig": "Yamamoto\n「The Gamillans are heading to the cosmonite mines, too.\n　The Yamato is going to intercept them.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Кодай",
+   "text": "「Тогда уходим!\n　Будет тесновато, но «Космо-Зеро» вместит всех нас!」",
+   "orig": "Kodai\n「Then let's get out of here!\n　It'll be a tight fit, but Cosmo Zero can hold all of us!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Харада",
+   "text": "「Х-хорошо!」",
+   "orig": "Harada\n「O-okay!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Ямамото",
+   "text": "「Полетели!」",
+   "orig": "Yamamoto\n「Let's go!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рёма",
+   "text": "「Как всегда. Даже «спасибо» не сказали.」",
+   "orig": "Ryoma\n「Typical. Not even a \"thanks for saving us.\"」"
+  },
+  {
+   "i": 58,
+   "speaker": "Рёма",
+   "text": "「Ну и ладно.\n　Сперва разгребу-ка я этот бардак!」",
+   "orig": "Ryoma\n「Whatever.\n　Guess I should clean up this mess first!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Рёма",
+   "text": "「Ну, давайте, недо-Инвейдеры!\n　Пусть я не знаю, где я, но знаю одно:\n　ваша удача кончилась, когда я здесь появился!」",
+   "orig": "Ryoma\n「Come on, you wannabe Invaders!\n　I may not know where I am, but I do know that\n　your luck ran out the moment I showed up here!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Рёма",
+   "text": "「Видно, придётся добить вас,\n　прежде чем лететь домой!」",
+   "orig": "Ryoma\n「Guess I gotta finish you off\n　before I go home to Earth!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Рёма",
+   "text": "「Тц!」",
+   "orig": "Ryoma\n「Tch!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Рёма",
+   "text": "「Что, зовёте дружков\n　на подмогу?」",
+   "orig": "Ryoma\n「Calling your buddies\n　for backup, are you?」"
+  },
+  {
+   "i": 63,
+   "speaker": "Рёма",
+   "text": "「Боезапас на исходе.\n　Нельзя дать себя измотать!」",
+   "orig": "Ryoma\n「My supplies are running low.\n　I can't let myself be run down!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Рёма",
+   "text": "「Что—?!」",
+   "orig": "Ryoma\n「What—?!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Рёма",
+   "text": "「Тот робот...\n　спас меня?!」",
+   "orig": "Ryoma\n「That robot\n　saved me?!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тэцуя",
+   "text": "「Ошибки быть не может.」",
+   "orig": "Tetsuya\n「There's no mistake.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тэцуя",
+   "text": "「Это Геттер-робот!」",
+   "orig": "Tetsuya\n「That's a Getter Robot!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Рёма",
+   "text": "「Эй, ты.\n　Кто бы ты ни был, раз пришёл мне помочь,\n　ты теперь мой любимый человек во вселенной.」",
+   "orig": "Ryoma\n「Hey, you.\n　Whoever you are, if you're here to help me,\n　then you are my favorite person in the universe.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тэцуя",
+   "text": "「Э... Ладно.」",
+   "orig": "Tetsuya\n「Uh. Right.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тэцуя",
+   "text": "（Я знал: это Геттер-робот.\n　Но что он здесь делает?）",
+   "orig": "Tetsuya\n（I knew that was a Getter Robot.\n　But what's it doing here?）"
+  },
+  {
+   "i": 71,
+   "speaker": "Тэцуя",
+   "text": "（Что это за место?\n　Что со мной произошло?）",
+   "orig": "Tetsuya\n（What is this place?\n　What happened to me?）"
+  },
+  {
+   "i": 72,
+   "speaker": "Рёма",
+   "text": "「Похоже, мы оба влипли в историю,\n　в которой ни черта не понимаем.」",
+   "orig": "Ryoma\n「Seems like the both of us have gotten caught up\n　in something neither of us really understand.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Рёма",
+   "text": "「Сдаётся мне, сюрпризы на этом не кончатся.」",
+   "orig": "Ryoma\n「Somehow I doubt the surprises end here.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Кодай",
+   "text": "「Ударная группа взлетает!」",
+   "orig": "Kodai\n「The task force is taking off!」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「Значит, это те загадочные роботы из доклада тактиков.」",
+   "orig": "$n\n「So those are the mystery robots Tactical mentioned.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тобиа",
+   "text": "「Их двое? Я думал, он один!」",
+   "orig": "Tobia\n「There are two of them? I thought there was just one!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Вельт",
+   "text": "「На первый взгляд они одного типа,\n　но потом начинаешь замечать различия.」",
+   "orig": "Velt\n「They look like the same type at first glance,\n　but then you start seeing the differences.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Вельт",
+   "text": "「А когда так выходит, значит, разработчик или\n　сама концепция получили широкое—」",
+   "orig": "Velt\n「When that happens, it's the developer, or even the\n　concept that's become widely—」"
+  },
+  {
+   "i": 79,
+   "speaker": "Лотти",
+   "text": "「Хватит болтать!\n　Надо что-то делать с этими чудовищами!」",
+   "orig": "Lottie\n「Enough talking!\n　We need to do something about those monsters!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Окита",
+   "text": "「Сперва цельтесь в существ.\n　Всем приготовиться к огню.」",
+   "orig": "Okita\n「Target those creatures first.\n　All units, prepare to fire.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Рёма",
+   "text": "「Эй, ты.\n　Тебе знаком этот корабль?」",
+   "orig": "Ryoma\n「Hey, you.\n　You familiar with that ship?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тэцуя",
+   "text": "「Нет, вижу его впервые.」",
+   "orig": "Tetsuya\n「No, this is the first time I've ever seen it.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Рёма",
+   "text": "「А, неважно.\n　Раз они тоже дерутся с этими недо-Инвейдерами,\n　то наверняка нам подсобят.」",
+   "orig": "Ryoma\n「Well, whatever.\n　If their opponents are those wannabe Invaders too,\n　they'll probably lend us a hand.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Рёма",
+   "text": "「Вперёд. Против нас и этого линкора\n　у этих тварей нет ни шанса!」",
+   "orig": "Ryoma\n「Let's go. Between us and that battleship,\n　those things don't stand a chance!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Тэцуя",
+   "text": "「Понял.」",
+   "orig": "Tetsuya\n「Understood.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Рёма",
+   "text": "「Знаешь, я ведь не зря редко выбираюсь наружу.\n　Стоит выйти — и вечно творится вот такая хрень.」",
+   "orig": "Ryoma\n「Y'know, there's a reason I don't get out much.\n　Because crap like this always happens when I do.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Рёма",
+   "text": "「И всегда из-за Геттера!」",
+   "orig": "Ryoma\n「And it's always because of the Getter!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Тэцуя",
+   "text": "（Он — тот, о ком я думаю?）",
+   "orig": "Tetsuya\n（Is he who I think he is?）"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「Значит, это те загадочные роботы из доклада тактиков.」",
+   "orig": "$n\n「So those are the mystery robots Tactical mentioned.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тобиа",
+   "text": "「Их двое? Я думал, он один!」",
+   "orig": "Tobia\n「There are two of them? I thought there was just one!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Кинкейд",
+   "text": "「На первый взгляд они одного типа,\n　но потом начинаешь замечать различия.」",
+   "orig": "Kincade\n「They look like the same type at first glance,\n　but then you start seeing the differences.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Окита",
+   "text": "「Сперва цельтесь в существ.\n　Всем приготовиться к огню.」",
+   "orig": "Okita\n「Target those creatures first.\n　All units, prepare to fire.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Рёма",
+   "text": "「Эй, ты.\n　Тебе знаком этот корабль?」",
+   "orig": "Ryoma\n「Hey, you.\n　You familiar with that ship?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Тэцуя",
+   "text": "「Нет, вижу его впервые.」",
+   "orig": "Tetsuya\n「No, this is the first time I've ever seen it.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Рёма",
+   "text": "「А, неважно.\n　Раз они тоже дерутся с этими недо-Инвейдерами,\n　то наверняка нам подсобят.」",
+   "orig": "Ryoma\n「Well, whatever.\n　If their opponents are those wannabe Invaders too,\n　they'll probably lend us a hand.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Рёма",
+   "text": "「Вперёд. Против нас и этого линкора\n　у этих тварей нет ни шанса!」",
+   "orig": "Ryoma\n「Let's go. Between us and that battleship,\n　those things don't stand a chance!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тэцуя",
+   "text": "「Понял.」",
+   "orig": "Tetsuya\n「Understood.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Рёма",
+   "text": "「Знаешь, я ведь не зря редко выбираюсь наружу.\n　Стоит выйти — и вечно творится вот такая хрень.」",
+   "orig": "Ryoma\n「Y'know, there's a reason I don't get out much.\n　Because crap like this always happens when I do.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Рёма",
+   "text": "「И всегда из-за Геттера!」",
+   "orig": "Ryoma\n「And it's always because of the Getter!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Тэцуя",
+   "text": "（Он — тот, о ком я думаю?）",
+   "orig": "Tetsuya\n（Is he who I think he is?）"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「Значит, это те загадочные роботы из доклада тактиков.」",
+   "orig": "$n\n「So those are the mystery robots Tactical mentioned.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тобиа",
+   "text": "「Их двое? Я думал, он один!」",
+   "orig": "Tobia\n「There are two of them? I thought there was just one!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Вельт",
+   "text": "「На первый взгляд они одного типа,\n　но потом начинаешь замечать различия.」",
+   "orig": "Velt\n「They look like the same type at first glance,\n　but then you start seeing the differences.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Вельт",
+   "text": "「А когда так выходит, значит, разработчик или\n　сама концепция получили широкое—」",
+   "orig": "Velt\n「When that happens, it's the developer, or even the\n　concept that's become widely—」"
+  },
+  {
+   "i": 105,
+   "speaker": "Лотти",
+   "text": "「Хватит болтать!\n　Надо что-то делать с этим чудовищем!」",
+   "orig": "Lottie\n「Enough talking!\n　We need to do something about that monster!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Окита",
+   "text": "「Сперва цельтесь в существо.\n　Всем приготовиться к огню.」",
+   "orig": "Okita\n「Target that creature first.\n　All units, prepare to fire.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Рёма",
+   "text": "「Эй, ты.\n　Тебе знаком этот корабль?」",
+   "orig": "Ryoma\n「Hey, you.\n　You familiar with that ship?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Тэцуя",
+   "text": "「Нет, вижу его впервые.」",
+   "orig": "Tetsuya\n「No, this is the first time I've ever seen it.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Рёма",
+   "text": "「А, неважно.\n　Раз они тоже дерутся с этими недо-Инвейдерами,\n　то наверняка нам подсобят.」",
+   "orig": "Ryoma\n「Well, whatever.\n　If their opponents are those wannabe Invaders too,\n　they'll probably lend us a hand.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рёма",
+   "text": "「Вперёд. Против нас и этого линкора\n　у этих тварей нет ни шанса!」",
+   "orig": "Ryoma\n「Let's go. Between us and that battleship,\n　those things don't stand a chance!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Тэцуя",
+   "text": "「Понял.」",
+   "orig": "Tetsuya\n「Understood.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Рёма",
+   "text": "「Знаешь, я ведь не зря редко выбираюсь наружу.\n　Стоит выйти — и вечно творится вот такая хрень.」",
+   "orig": "Ryoma\n「Y'know, there's a reason I don't get out much.\n　Because crap like this always happens when I do.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Рёма",
+   "text": "「И всегда из-за Геттера!」",
+   "orig": "Ryoma\n「And it's always because of the Getter!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Тэцуя",
+   "text": "（Он — тот, о ком я думаю?）",
+   "orig": "Tetsuya\n（Is he who I think he is?）"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Значит, это те загадочные роботы из доклада тактиков.」",
+   "orig": "$n\n「So those are the mystery robots Tactical mentioned.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Тобиа",
+   "text": "「Их двое? Я думал, он один!」",
+   "orig": "Tobia\n「There are two of them? I thought there was just one!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Кинкейд",
+   "text": "「На первый взгляд они одного типа,\n　но потом начинаешь замечать различия.」",
+   "orig": "Kincade\n「They look like the same type at first glance,\n　but then you start seeing the differences.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Окита",
+   "text": "「Сперва цельтесь в существо.\n　Всем приготовиться к огню.」",
+   "orig": "Okita\n「Target that creature first.\n　All units, prepare to fire.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Рёма",
+   "text": "「Эй, ты.\n　Тебе знаком этот корабль?」",
+   "orig": "Ryoma\n「Hey, you.\n　You familiar with that ship?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Тэцуя",
+   "text": "「Нет, вижу его впервые.」",
+   "orig": "Tetsuya\n「No, this is the first time I've ever seen it.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Рёма",
+   "text": "「А, неважно.\n　Раз они тоже дерутся с этими недо-Инвейдерами,\n　то наверняка нам подсобят.」",
+   "orig": "Ryoma\n「Well, whatever.\n　If their opponents are those wannabe Invaders too,\n　they'll probably lend us a hand.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Рёма",
+   "text": "「Вперёд. Против нас и этого линкора\n　у этих тварей нет ни шанса!」",
+   "orig": "Ryoma\n「Let's go. Between us and that battleship,\n　those things don't stand a chance!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Тэцуя",
+   "text": "「Понял.」",
+   "orig": "Tetsuya\n「Understood.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Рёма",
+   "text": "「Знаешь, я ведь не зря редко выбираюсь наружу.\n　Стоит выйти — и вечно творится вот такая хрень.」",
+   "orig": "Ryoma\n「Y'know, there's a reason I don't get out much.\n　Because crap like this always happens when I do.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Рёма",
+   "text": "「И всегда из-за Геттера!」",
+   "orig": "Ryoma\n「And it's always because of the Getter!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тэцуя",
+   "text": "（Он — тот, о ком я думаю?）",
+   "orig": "Tetsuya\n（Is he who I think he is?）"
+  },
+  {
+   "i": 127,
+   "speaker": "Мори",
+   "text": "「Подтверждаю. Противник нейтрализован.」",
+   "orig": "Mori\n「Confirmed. Hostiles have been neutralized.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Сима",
+   "text": "「Поверить не могу, что эти чудища\n　были на Энцеладе.」",
+   "orig": "Shima\n「I can't believe those monsters\n　were on Enceladus.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Кодай",
+   "text": "「Хм...」",
+   "orig": "Kodai\n「Hmm...」"
+  },
+  {
+   "i": 130,
+   "speaker": "Мори",
+   "text": "「Кодай?」",
+   "orig": "Mori\n「Kodai?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Кодай",
+   "text": "「Да так... ничего.」",
+   "orig": "Kodai\n「It's—It's nothing.」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「От мыслей о том, что дальше, мне только тоскливее.」",
+   "orig": "$n\n「Somehow I'm more depressed thinking about what's next.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Тобиа",
+   "text": "「И не говори.\n　Ямамото взлетела без всякого разрешения,\n　и капитан Като страшно разозлился.」",
+   "orig": "Tobia\n「You can say that again.\n　Yamamoto taking off without any permission\n　got Captain Kato seriously mad.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Кинкейд",
+   "text": "「Но именно благодаря ей тактическая группа цела.\n　Наверняка это примут во внимание.」",
+   "orig": "Kincade\n「But it's thanks to her that the Tactical team is safe.\n　Surely that deserves to be taken into consideration.」"
+  },
+  {
+   "i": 135,
+   "speaker": "$n",
+   "text": "「Хотя волноваться нам стоит скорее\n　о тех загадочных роботах.」",
+   "orig": "$n\n「Well, what we should really be worrying about\n　are those mystery robots.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hmm...」"
+  },
+  {
+   "i": 137,
+   "speaker": "Рёма",
+   "text": "「Спасибо.\n　Ты меня спас, появившись так вовремя.」",
+   "orig": "Ryoma\n「Thanks.\n　You saved me, showing up when you did.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Рёма",
+   "text": "「Я Рёма Нагарэ.\n　А тебя как величать?」",
+   "orig": "Ryoma\n「I'm Ryoma Nagare.\n　What name are you stuck with?」"
+  },
+  {
+   "i": 139,
+   "speaker": "Тэцуя",
+   "text": "（Так и знал: это он!）",
+   "orig": "Tetsuya\n（I knew it was him!）"
+  },
+  {
+   "i": 140,
+   "speaker": "Рёма",
+   "text": "「Эй, ты ещё со мной?」",
+   "orig": "Ryoma\n「Hey, you still with me?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Тэцуя",
+   "text": "「Я Тэцуя.\n　Тэцуя Цуруги.」",
+   "orig": "Tetsuya\n「I'm Tetsuya.\n　Tetsuya Tsurugi.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Рёма",
+   "text": "「Понял.\n　Ещё раз спасибо, Тэцуя.」",
+   "orig": "Ryoma\n「Got it.\n　Thanks again, Tetsuya.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Рёма",
+   "text": "「С того корабля идёт вызов.\n　Похоже, хотят с нами поговорить.」",
+   "orig": "Ryoma\n「A communication's coming in from that ship.\n　Seems like they wanna talk to us.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Рёма",
+   "text": "「Надо разобраться, что тут вообще творится.\n　Идём.」",
+   "orig": "Ryoma\n「We need to figure out exactly what's going on here.\n　Let's go.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Тэцуя",
+   "text": "「Да.」",
+   "orig": "Tetsuya\n「Right.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Тэцуя",
+   "text": "（Рёма Нагарэ, значит?）",
+   "orig": "Tetsuya\n（Ryoma Nagare, huh?）"
+  },
+  {
+   "i": 147,
+   "speaker": "Тэцуя",
+   "text": "（Если он тот Рёма Нагарэ, о ком я слышал,\n　мне остаётся сделать лишь одно.）",
+   "orig": "Tetsuya\n（If he's the Ryoma Nagare I've heard of,\n　then there's only one thing I have to do.）"
+  },
+  {
+   "i": 148,
+   "speaker": "Мори",
+   "text": "「Подтверждаю. Противник нейтрализован.」",
+   "orig": "Mori\n「Confirmed. Hostiles have been neutralized.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Сима",
+   "text": "「Поверить не могу, что эти чудища\n　были на Энцеладе.」",
+   "orig": "Shima\n「I can't believe those monsters\n　were on Enceladus.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Кодай",
+   "text": "「Хм...」",
+   "orig": "Kodai\n「Hmm...」"
+  },
+  {
+   "i": 151,
+   "speaker": "Мори",
+   "text": "「Кодай?」",
+   "orig": "Mori\n「Kodai?」"
+  },
+  {
+   "i": 152,
+   "speaker": "Кодай",
+   "text": "「Да так... ничего.」",
+   "orig": "Kodai\n「It's—It's nothing.」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Интересно, как там Акира.」",
+   "orig": "$n\n「I wonder if Akira's okay.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Тобиа",
+   "text": "「Взлетать без разрешения было рискованно,\n　а она даже не из авиагруппы.\n　Капитан Като жутко разозлился.」",
+   "orig": "Tobia\n「Taking off without permission like that was risky,\n　and she's not even a member of the Aircraft Squad.\n　Captain Kato was really mad.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Кинкейд",
+   "text": "「Но именно благодаря ей тактическая группа цела.\n　Наверняка это примут во внимание.」",
+   "orig": "Kincade\n「But it's thanks to her that the Tactical team is safe.\n　Surely that deserves to be taken into consideration.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Кинкейд",
+   "text": "「Хотя волноваться нам стоит скорее\n　о тех загадочных роботах.」",
+   "orig": "Kincade\n「Well, what we should really be worrying about\n　are those mystery robots.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hmm...」"
+  },
+  {
+   "i": 158,
+   "speaker": "Рёма",
+   "text": "「Спасибо.\n　Ты меня спас, появившись так вовремя.」",
+   "orig": "Ryoma\n「Thanks.\n　You saved me, showing up when you did.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Рёма",
+   "text": "「Я Рёма Нагарэ.\n　А тебя как величать?」",
+   "orig": "Ryoma\n「I'm Ryoma Nagare.\n　What name are you stuck with?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Тэцуя",
+   "text": "（Так и знал: это он!）",
+   "orig": "Tetsuya\n（I knew it was him!）"
+  },
+  {
+   "i": 161,
+   "speaker": "Рёма",
+   "text": "「Эй, ты ещё со мной?」",
+   "orig": "Ryoma\n「Hey, you still with me?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Тэцуя",
+   "text": "「Я Тэцуя.\n　Тэцуя Цуруги.」",
+   "orig": "Tetsuya\n「I'm Tetsuya.\n　Tetsuya Tsurugi.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Рёма",
+   "text": "「Понял.\n　Ещё раз спасибо, Тэцуя.」",
+   "orig": "Ryoma\n「Got it.\n　Thanks again, Tetsuya.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Рёма",
+   "text": "「С того корабля идёт вызов.\n　Похоже, хотят с нами поговорить.」",
+   "orig": "Ryoma\n「A communication's coming in from that ship.\n　Seems like they wanna talk to us.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Рёма",
+   "text": "「Надо разобраться, что тут вообще творится.\n　Идём.」",
+   "orig": "Ryoma\n「We need to figure out exactly what's going on here.\n　Let's go.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Тэцуя",
+   "text": "「Да.」",
+   "orig": "Tetsuya\n「Right.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Тэцуя",
+   "text": "（Рёма Нагарэ, значит?）",
+   "orig": "Tetsuya\n（Ryoma Nagare, huh?）"
+  },
+  {
+   "i": 168,
+   "speaker": "Тэцуя",
+   "text": "（Если он тот Рёма Нагарэ, о ком я слышал,\n　мне остаётся сделать лишь одно.）",
+   "orig": "Tetsuya\n（If he's the Ryoma Nagare I've heard of,\n　then there's only one thing I have to do.）"
+  },
+  {
+   "i": 169,
+   "speaker": "Рёма",
+   "text": "「Для Геттера, собранного из хлама,\n　он дрался очень недурно.」",
+   "orig": "Ryoma\n「For a Getter fixed up with scrap,\n　it fought pretty well back there.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Рёма",
+   "text": "「Но что это были за твари?\n　Новый тип Инвейдеров?」",
+   "orig": "Ryoma\n「But what were those things?\n　A new type of Invader?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Рёма",
+   "text": "「А драться они умеют.\n　Поверить не могу, что такое создали,\n　пока я мотал срок.」",
+   "orig": "Ryoma\n「They sure can fight.\n　I can't believe something like that was created\n　while I was doing time.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Рёма",
+   "text": "「Неважно. Биться с Инвейдерами — моё предназначение!\n　Ну и ещё — разобраться со стариком Саотомэ!」",
+   "orig": "Ryoma\n「No matter. Facing down Invaders is my purpose in life!\n　That, and facing down old man Saotome!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Рёма",
+   "text": "「Чёрт!\n　Рано мне тут подыхать!」",
+   "orig": "Ryoma\n「Damn!\n　I can't let it end here!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Тэцуя",
+   "text": "「Прости, шеф!\n　Остальное — за тобой!」",
+   "orig": "Tetsuya\n「Sorry, Chief!\n　The rest is up to you now!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Рёма",
+   "text": "「Я ещё живой!」",
+   "orig": "Ryoma\n「I'm still kicking!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Рёма",
+   "text": "「Клянусь: если выберусь из этой передряги,\n　я заставлю старика Саотомэ во всём сознаться!」",
+   "orig": "Ryoma\n「I swear if I make it through this,\n　I'll force the old man Saotome to confess!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Тэцуя",
+   "text": "「Мне никак нельзя здесь погибнуть!\n　Я ещё должен узнать, что произошло!」",
+   "orig": "Tetsuya\n「There's no way I can die here!\n　I still have to find out what happened!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Тэцуя",
+   "text": "（Если он тот, о ком я слышал,\n　то в нём ответ на все мои вопросы!）",
+   "orig": "Tetsuya\n（If he's the guy I've heard about,\n　then he's the answer to all my questions!）"
+  },
+  {
+   "i": 179,
+   "speaker": "Тобиа",
+   "text": "（Бернадетт по-своему, как умеет только она, думает\n　о будущем Юпитера — и всего человечества.\n　Так что мне надо собраться!）",
+   "orig": "Tobia\n（Bernadette is thinking about the future of Jupiter—of\n　all humanity in a way that only she can.\n　So I have to get it together!）"
+  },
+  {
+   "i": 180,
+   "speaker": "Тобиа",
+   "text": "「Я вернусь на Землю — к Бернадетт, чего бы это ни стоило!\n　И сделаю так, чтобы её мечты о будущем сбылись!」",
+   "orig": "Tobia\n「I'm going back to Earth—to Bernadette no matter what!\n　And I'll make sure her dreams for the future come true!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Кинкейд",
+   "text": "「Отправляясь в путь длиной 168 000 световых лет,\n　я не знал, что меня ждёт, но уж точно не думал,\n　что буду сражаться с такими чудовищами!」",
+   "orig": "Kincade\n「I had no idea what was in store for me when I embarked\n　on a 168,000 light-year journey, but I never imagined\n　I would end up fighting monsters like this!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Кинкейд",
+   "text": "「Какие же ещё испытания уготованы мне\n　в будущем?」",
+   "orig": "Kincade\n「What other trials could be in store for me\n　in the future?」"
+  },
+  {
+   "i": 183,
+   "speaker": "Кодай",
+   "text": "「Хм...」",
+   "orig": "Kodai\n「Hmm...」"
+  },
+  {
+   "i": 184,
+   "speaker": "Мори",
+   "text": "「Кодай?」",
+   "orig": "Mori\n「Kodai?」"
+  },
+  {
+   "i": 185,
+   "speaker": "Окита",
+   "text": "「Сосредоточься, Кодай! Мы ещё не знаем,\n　что за существа нам противостоят!」",
+   "orig": "Okita\n「Pay attention, Kodai! We still don't know \n　what sort of creatures we're up against!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Сима",
+   "text": "（Он сам не свой.\n　Что-то случилось с ним на том корабле?）",
+   "orig": "Shima\n（He's been acting so strange.\n　Did something happen to him on that ship?）"
+  },
+  {
+   "i": 188,
+   "speaker": "$n",
+   "text": "「Я знаю, у Акиры сложные чувства насчёт\n　авиагруппы, но то, как она с ними справляется, —\n　это нездорово.」",
+   "orig": "$n\n「I know Akira still has some complicated feelings\n　about the Aircraft Squad, but the way she's been\n　handling them is unhealthy.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Система 99",
+   "text": "「Запрос.」",
+   "orig": "System Nine-Nine\n「Inquiry.」"
+  },
+  {
+   "i": 190,
+   "speaker": "$n",
+   "text": "「А?」",
+   "orig": "$n\n「Huh?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Система 99",
+   "text": "「Под «нездорово»\n　вы имеете в виду её самовольный вылет?」",
+   "orig": "System Nine-Nine\n「By \"unhealthy,\"\n　are you referring to her unsanctioned sortie?」"
+  },
+  {
+   "i": 192,
+   "speaker": "$n",
+   "text": "「Ну ты даёшь.\n　Даже посреди боя умудряешься влезть в разговоры,\n　в которые не следует.」",
+   "orig": "$n\n「Yeesh.\n　Even in the middle of battle you find a way to nose\n　into conversations you shouldn't.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Система 99",
+   "text": "「Мы находимся посреди боя.\n　Прошу отвечать незамедлительно.」",
+   "orig": "System Nine-Nine\n「We are in the middle of battle.\n　Please respond promptly.」"
+  },
+  {
+   "i": 194,
+   "speaker": "$n",
+   "text": "「Боже, какой же ты зануда.」",
+   "orig": "$n\n「Man, you are really annoying.」"
+  },
+  {
+   "i": 195,
+   "speaker": "$n",
+   "text": "「Ладно, раз тебе так интересно, скажу.\n　Самовольный вылет — это, конечно, плохо, но хуже,\n　что она пренебрегла чувствами капитана Като.」",
+   "orig": "$n\n「I'll tell you if you want to know that badly.\n　Of course leaving without permission isn't good, but\n　what's worse is she ignored Captain Kato's feelings.」"
+  },
+  {
+   "i": 196,
+   "speaker": "$n",
+   "text": "「Хотя она ведь уже совсем взрослая.\n　Нельзя же вечно прятать её от всего мира.」",
+   "orig": "$n\n「Well, I guess she is pretty much all grown up. \n　He can't keep her shut away from the world forever.」"
+  },
+  {
+   "i": 197,
+   "speaker": "$n",
+   "text": "「Так, хватит сплетен на сегодня!\n　Нас ждут чудовища!」",
+   "orig": "$n\n「All right, that's enough of gossip hour!\n　We've got monsters to kill!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Система 99",
+   "text": "「Принято.」",
+   "orig": "System Nine-Nine\n「Understood.」"
+  },
+  {
+   "i": 199,
+   "speaker": "$n",
+   "text": "「Эх, Акира... Запутанные чувства к авиагруппе —\n　ещё не повод творить такие безрассудства!」",
+   "orig": "$n\n「Oh Akira, just because you're all mixed up about\n　the Aircraft Squad doesn't mean you get carte blanche\n　to act so carelessly!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Система 99",
+   "text": "「Запрос.」",
+   "orig": "System Nine-Nine\n「Inquiry.」"
+  },
+  {
+   "i": 201,
+   "speaker": "$n",
+   "text": "「Что—!」",
+   "orig": "$n\n「Wha—!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Система 99",
+   "text": "「Под «безрассудством»\n　вы имеете в виду её самовольный вылет?」",
+   "orig": "System Nine-Nine\n「By \"carelessly,\"\n　are you referring to her unsanctioned sortie?」"
+  },
+  {
+   "i": 203,
+   "speaker": "$n",
+   "text": "「Ну нельзя же так пугать, появляясь из ниоткуда!\n　Однажды меня так и инфаркт хватит.」",
+   "orig": "$n\n「You scared the heck out of me coming out of nowhere like \n　that! I'm gonna have a heart attack one of these days.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Система 99",
+   "text": "「Мы находимся посреди боя.\n　Прошу отвечать незамедлительно.」",
+   "orig": "System Nine-Nine\n「We are in the middle of battle.\n　Please respond promptly.」"
+  },
+  {
+   "i": 205,
+   "speaker": "$n",
+   "text": "「Это ты возникаешь из воздуха,\n　только чтобы задать мне вопрос!」",
+   "orig": "$n\n「You're the one who appeared out of thin air\n　just to ask me a question!」"
+  },
+  {
+   "i": 206,
+   "speaker": "$n",
+   "text": "「Времени мало, так что держи короткую версию.\n　Самовольный вылет — это, конечно, безрассудно,\n　но хуже, что она пренебрегла чувствами капитана Като.」",
+   "orig": "$n\n「I don't have that much time, so you get the short version.\n　Of course leaving without permission is careless, but\n　what's worse is she ignored Captain Kato's feelings.」"
+  },
+  {
+   "i": 207,
+   "speaker": "$n",
+   "text": "「Да, наверное, он чересчур её опекает,\n　но когда кто-то так о тебе заботится,\n　нельзя принимать его любовь как должное!」",
+   "orig": "$n\n「I suppose he probably shouldn't be so overprotective,\n　but when someone cares about you that much,\n　you can't take their love for granted!」"
+  },
+  {
+   "i": 208,
+   "speaker": "$n",
+   "text": "「Ладно, хватит болтовни.\n　Чудовища сами себя не уничтожат!」",
+   "orig": "$n\n「Okay, that's enough chit-chat.\n　Those monsters aren't destroy themselves!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Система 99",
+   "text": "「Принято.」",
+   "orig": "System Nine-Nine\n「Understood.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Вельт",
+   "text": "「Я знал, что путь в 336 000 световых лет сулит\n　невообразимые ситуации, но не думал, что встречу их\n　в родной Солнечной системе!」",
+   "orig": "Velt\n「I knew I'd encounter unimaginable situations in a journey\n　of 336,000 light-years, but I never thought I'd\n　experience them in my own Solar System!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Вельт",
+   "text": "「Лишь одно необъятнее вселенной —\n　моя жажда узнать о ней всё!」",
+   "orig": "Velt\n「The only thing larger than the universe\n　is my yearning to know everything about it!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Лотти",
+   "text": "「Фу...\n　Даже в мобильном доспехе\n　я не хочу прикасаться к этой мерзости!」",
+   "orig": "Lottie\n「Ugh...\n　Even in a mobile suit,\n　I don't wanna have to touch something so gross!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Лотти",
+   "text": "「Пожалуйста-пожалуйста, только не хлюпай,\n　не чавкай и не заляпай меня слизью!」",
+   "orig": "Lottie\n「Please, please, please don't squelch, or squish,\n　or splat goo all over me!」"
+  },
+  {
+   "i": 214,
+   "speaker": "$n",
+   "text": "「Нет!」",
+   "orig": "$n\n「No!」"
+  }
+ ]
+}

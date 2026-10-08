@@ -1,0 +1,1144 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Кодай",
+   "text": "「Чем ближе подходим, тем он внушительнее.」",
+   "orig": "Kodai\n「The closer we get, the more imposing it feels.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Сима",
+   "text": "「Да.\n　Страшнее всего, что у них есть технология,\n　чтобы притащить всё это в Солнечную систему.」",
+   "orig": "Shima\n「Yeah.\n　The scariest part is that they had the technology\n　to bring all of this to our Solar System.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Кодай",
+   "text": "「Вот с каким врагом мы имеем дело.」",
+   "orig": "Kodai\n「That's the kind of enemy we're up against.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Мори",
+   "text": "「Радар засёк сигналы!\n　Корабли Гамилас на подходе!」",
+   "orig": "Mori\n「I'm picking up signals on the radar!\n　Gamillas warships, inbound!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Мори",
+   "text": "「Линкор, два авианосца и масса истребителей!」",
+   "orig": "Mori\n「A battleship, two astro carriers—multiple fighters!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Санада",
+   "text": "「Похоже, нам всё-таки устроили\n　торжественную встречу!」",
+   "orig": "Sanada\n「Looks like they sent a welcoming\n　party after all!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Окита",
+   "text": "「Мобильные доспехи — на вылет!」",
+   "orig": "Okita\n「Launch the mobile suit unit!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Кодай",
+   "text": "「Мобильные доспехи, старт!」",
+   "orig": "Kodai\n「Mobile suit unit, launch!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Тобиа",
+   "text": "「Кинкейд, ты точно не хочешь\n　сам пилотировать X1?」",
+   "orig": "Tobia\n「Kincade, are you sure you don't want\n　to pilot the X1?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Кинкейд",
+   "text": "「О чём ты вообще?\n　Когда я отдал его тебе, ты сказал,\n　 что обратно не вернёшь.」",
+   "orig": "Kincade\n「What are you talking about?\n　When I gave it to you, you told me\n　 you won't return to me.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Тобиа",
+   "text": "「Говорил, но…」",
+   "orig": "Tobia\n「I did, but—」"
+  },
+  {
+   "i": 11,
+   "speaker": "Кинкейд",
+   "text": "「Ты теперь ас Авангарда Кроссбоун. На Юпитере\n　много говорили о «Скалл Харт».」",
+   "orig": "Kincade\n「You're the Crossbone Vanguard's ace pilot now. There\n　was a lot of talk about the Skull Heart on Jupiter.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Кинкейд",
+   "text": "「К тому же сам Като сказал:\n　отданные тебе приказы надо выполнять.」",
+   "orig": "Kincade\n「Besides, Kato said it himself.\n　You must carry out the orders given to you.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Тобиа",
+   "text": "「Ты прав!」",
+   "orig": "Tobia\n「You're right!」"
+  },
+  {
+   "i": 14,
+   "speaker": "$n",
+   "text": "「Ну что, все готовы к вылету?\n　Одна маленькая ошибка — и…」",
+   "orig": "$n\n「OK, is everyone ready to go?\n　If we make even one little mistake—」"
+  },
+  {
+   "i": 15,
+   "speaker": "Вельт",
+   "text": "「…«Ямато» окажется в смертельной\n　опасности. Мы знаем, что на кону.」",
+   "orig": "Velt\n「The Yamato will be in grave danger.\n　We are aware of the stakes.」"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "「Я больше боюсь, что капитан устроит нам разнос.」",
+   "orig": "$n\n「I'm more worried about the Captain chewing us out.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Лотти",
+   "text": "「Ты серьёзно? Вот что тебя волнует?!」",
+   "orig": "Lottie\n「Are you serious? That's what you're worried about!」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Просто хочу разрядить обстановку перед вылетом!」",
+   "orig": "$n\n「Just trying to lighten the mood before we head out!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тобиа",
+   "text": "「Принято!」",
+   "orig": "Tobia\n「Roger!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Окита",
+   "text": "「Всем машинам, начать операцию!\n　Штурм Империи Гамилас начинается!」",
+   "orig": "Okita\n「All units, commence operation!\n　The assault on the Gamillas Empire begins now!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тобиа",
+   "text": "「Кинкейд, ты точно не хочешь\n　сам пилотировать X1?」",
+   "orig": "Tobia\n「Kincade, are you sure you don't want\n　to pilot the X1?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кинкейд",
+   "text": "「О чём ты вообще?\n　Когда я отдал его тебе, ты сказал,\n　 что обратно не вернёшь.」",
+   "orig": "Kincade\n「What are you talking about?\n　When I gave it to you, you told me\n　 you won't return to me.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Тобиа",
+   "text": "「Говорил, но…」",
+   "orig": "Tobia\n「I did, but—」"
+  },
+  {
+   "i": 24,
+   "speaker": "Кинкейд",
+   "text": "「Ты теперь ас Авангарда Кроссбоун. На Юпитере\n　много говорили о «Скалл Харт».」",
+   "orig": "Kincade\n「You're the Crossbone Vanguard's ace pilot now. There\n　was a lot of talk about the Skull Heart on Jupiter.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Кинкейд",
+   "text": "「К тому же сам Като сказал:\n　отданные тебе приказы надо выполнять.」",
+   "orig": "Kincade\n「Besides, Kato said it himself.\n　You must carry out the orders given to you.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Тобиа",
+   "text": "「Ты прав!」",
+   "orig": "Tobia\n「You're right!」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「Жаль прерывать столь трогательный момент, но мне\n　надо знать, что вы оба готовы. Один промах — и…」",
+   "orig": "$n\n「I hate to interrupt such a tender moment, but I have\n　to make sure you're both ready. If we slip up—」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тобиа",
+   "text": "「И «Ямато» конец!\n　Да поняли мы уже, поняли!」",
+   "orig": "Tobia\n「The Yamato's toast!\n　Yeah, we get it already!」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Я больше боюсь, что капитан сперва устроит нам разнос.」",
+   "orig": "$n\n「I'm more worried about the Captain chewing us out first.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тобиа",
+   "text": "「Чего?.. Да ты шутишь.」",
+   "orig": "Tobia\n「Wha—? You can't be serious.」"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「Просто хочу разрядить обстановку перед вылетом!」",
+   "orig": "$n\n「Just trying to lighten the mood before we head out!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тобиа",
+   "text": "「Ну, раз так!」",
+   "orig": "Tobia\n「If you say so!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Окита",
+   "text": "「Всем машинам, начать операцию!\n　Штурм Империи Гамилас начинается!」",
+   "orig": "Okita\n「All units, commence operation!\n　The assault on the Gamillas Empire begins now!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тобиа",
+   "text": "「Кинкейд, ты точно не хочешь\n　сам пилотировать X1?」",
+   "orig": "Tobia\n「Kincade, are you sure you don't want\n　to pilot the X1?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Кинкейд",
+   "text": "「О чём ты вообще?\n　Когда я отдал его тебе, ты сказал,\n　 что обратно не вернёшь.」",
+   "orig": "Kincade\n「What are you talking about?\n　When I gave it to you, you told me\n　 you won't return to me.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Тобиа",
+   "text": "「Говорил, но…」",
+   "orig": "Tobia\n「I did, but—」"
+  },
+  {
+   "i": 37,
+   "speaker": "Кинкейд",
+   "text": "「Ты теперь ас Авангарда Кроссбоун. На Юпитере\n　много говорили о «Скалл Харт».」",
+   "orig": "Kincade\n「You're the Crossbone Vanguard's ace pilot now. There\n　was a lot of talk about the Skull Heart on Jupiter.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кинкейд",
+   "text": "「К тому же сам Като сказал:\n　отданные тебе приказы надо выполнять.」",
+   "orig": "Kincade\n「Besides, Kato said it himself.\n　You must carry out the orders given to you.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Тобиа",
+   "text": "「Пожалуй, ты прав.」",
+   "orig": "Tobia\n「I guess you're right.」"
+  },
+  {
+   "i": 40,
+   "speaker": "$n",
+   "text": "「Вперёд, Тобиа!\n　Мы все заодно!」",
+   "orig": "$n\n「Let's do this, Tobia!\n　We're all in this together!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Вельт",
+   "text": "「Чтобы поквитаться с артиллеристом Намбу?」",
+   "orig": "Velt\n「In order to get back at Weapons Officer Nanbu?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Лотти",
+   "text": "「И оправдать ожидания капитана Като?」",
+   "orig": "Lottie\n「And live up to Captain Kato's expectations?」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「Нет, вы за деревьями леса не видите! Мы должны\n　защитить «Ямато» и жителей Юпитера!」",
+   "orig": "$n\n「No, you're missing the forest for the trees! We've\n　got to protect the Yamato and the people of Jupiter!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Тобиа",
+   "text": "「Верно сказано!」",
+   "orig": "Tobia\n「She's right!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Окита",
+   "text": "「Всем машинам, начать операцию!\n　Штурм Империи Гамилас начинается!」",
+   "orig": "Okita\n「All units, commence operation!\n　The assault on the Gamillas Empire begins now!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Тобиа",
+   "text": "「Кинкейд, ты точно не хочешь\n　сам пилотировать X1?」",
+   "orig": "Tobia\n「Kincade, are you sure you don't want\n　to pilot the X1?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Кинкейд",
+   "text": "「О чём ты вообще?\n　Когда я отдал его тебе, ты сказал,\n　 что обратно не вернёшь.」",
+   "orig": "Kincade\n「What are you talking about?\n　When I gave it to you, you told me\n　 you won't return to me.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Тобиа",
+   "text": "「Говорил, но…」",
+   "orig": "Tobia\n「I did, but—」"
+  },
+  {
+   "i": 49,
+   "speaker": "Кинкейд",
+   "text": "「Ты теперь ас Авангарда Кроссбоун. На Юпитере\n　много говорили о «Скалл Харт».」",
+   "orig": "Kincade\n「You're the Crossbone Vanguard's ace pilot now. There\n　was a lot of talk about the Skull Heart on Jupiter.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Кинкейд",
+   "text": "「К тому же сам Като сказал:\n　отданные тебе приказы надо выполнять.」",
+   "orig": "Kincade\n「Besides, Kato said it himself.\n　You must carry out the orders given to you.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Тобиа",
+   "text": "「Пожалуй, ты прав.」",
+   "orig": "Tobia\n「I guess you're right.」"
+  },
+  {
+   "i": 52,
+   "speaker": "$n",
+   "text": "「Вперёд, Тобиа! И не только затем, чтобы\n　поквитаться с Намбу! Мы должны защитить\n　«Ямато» и жителей Юпитера!」",
+   "orig": "$n\n「Let's do this, Tobia—and not just to get back\n　at Officer Nanbu! We've got to defend the Yamato\n　and the people of Jupiter!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Тобиа",
+   "text": "「Ещё бы!」",
+   "orig": "Tobia\n「You've got it!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Окита",
+   "text": "「Всем машинам, начать операцию!\n　Штурм Империи Гамилас начинается!」",
+   "orig": "Okita\n「All units, commence operation!\n　The assault on the Gamillas Empire begins now!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Кинкейд",
+   "text": "「Эта тактика оказалась весьма эффективной.」",
+   "orig": "Kincade\n「This strategy is proving rather effective.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тобиа",
+   "text": "「Мы ломаем передовую линию врага,\n　а линкоры позади добивают остальных.\n　Для меня это тоже впервые.」",
+   "orig": "Tobia\n「We're breaking the enemy's front line\n　while the battleships behind us wipe out the rest.\n　This is a first for me, too.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Кинкейд",
+   "text": "「Без такой связки ничего бы и не вышло.\n　Нужен баланс: тяжёлый огонь линкоров, пока\n　мобильные доспехи удерживают передовую.」",
+   "orig": "Kincade\n「It would never work without this combination, either.\n　You need a balance of heavy fire from the battleships\n　while mobile suit units holds the front line.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Мори",
+   "text": "「Радар что-то засёк!\n　Вражеские корабли обходят нас с флангов!」",
+   "orig": "Mori\n「I'm picking something up on the radar!\n　Enemy ships are flanking us!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Кодай",
+   "text": "「Подкрепление врага на подходе!」",
+   "orig": "Kodai\n「Enemy reinforcements inbound!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Кинкейд",
+   "text": "「Связка из тяжёлого огня линкора, пока\n　мобильные доспехи держат передовую.\n　Такое, пожалуй, впервые.」",
+   "orig": "Kincade\n「A combination of heavy fire from the battleship,\n　while mobile suit units hold the front line. This may\n　be a first.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Тобиа",
+   "text": "「С такой тактикой мы и Гамилас одолеем!」",
+   "orig": "Tobia\n「We might even beat the Gamillas with this strategy!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Мори",
+   "text": "「Радар что-то засёк!\n　Вражеские корабли обходят нас с флангов!」",
+   "orig": "Mori\n「I'm picking something up on the radar!\n　Enemy ships are flanking us!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Кодай",
+   "text": "「Подкрепление врага на подходе!」",
+   "orig": "Kodai\n「Enemy reinforcements inbound!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Мори",
+   "text": "「Вражеский линкор идёт прямо на нас!」",
+   "orig": "Mori\n「An enemy battleship is headed right for us!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Окита",
+   "text": "「Значит, хотят сойтись с нами лоб в лоб?」",
+   "orig": "Okita\n「So they want to take us head-on, do they?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Окита",
+   "text": "「Перехват и уклонение! Живо!」",
+   "orig": "Okita\n「Intercept and evade! Quickly!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Кодай",
+   "text": "「Сима, нужно время, чтобы подготовить\n　главный калибр! Найди способ уйти\n　от первого залпа противника!」",
+   "orig": "Kodai\n「Shima, we need time to get the main\n　cannon ready! You've got to find a way\n　to dodge the first round of incoming fire!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Сима",
+   "text": "「Бесполезно!\n　Мы не успеем развернуться!」",
+   "orig": "Shima\n「It's no use!\n　We won't get turned around in time!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Кинкейд",
+   "text": "「«Ямато» атакуют!」",
+   "orig": "Kincade\n「The Yamato's under attack!」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Они правда думают, что им это сойдёт с рук?」",
+   "orig": "$n\n「Do they really think they can get away with that?」"
+  },
+  {
+   "i": 71,
+   "speaker": "Кодай",
+   "text": "「$l, что ты творишь?!」",
+   "orig": "Kodai\n「$l, what are you doing!」"
+  },
+  {
+   "i": 72,
+   "speaker": "$n",
+   "text": "「Сбить не собью, но отвлечь смогу!」",
+   "orig": "$n\n「I may not be able to down it, but I can distract it!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Тобиа",
+   "text": "「Это безумие, $n!」",
+   "orig": "Tobia\n「You're crazy, $n!」"
+  },
+  {
+   "i": 74,
+   "speaker": "$n",
+   "text": "「Безумие или нет, надо что-то делать,\n　иначе Земле конец!」",
+   "orig": "$n\n「Crazy or not, we've got to do something,\n　or else Earth is doomed!」"
+  },
+  {
+   "i": 75,
+   "speaker": "？？？",
+   "text": "「Запрос пилота принят.\n　Содействую СУО и управлению полётом.」",
+   "orig": "？？？\n「Pilot request accepted.\n　Assisting with FCS and flight controls.」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「Чего-чего?!」",
+   "orig": "$n\n「Say what, now?!」"
+  },
+  {
+   "i": 77,
+   "speaker": "？？？",
+   "text": "「Генерирую\n　список действий.」",
+   "orig": "？？？\n「Generating\n　action list.」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Ладно, выкладывай!」",
+   "orig": "$n\n「OK then, hit me!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Тобиа",
+   "text": "「С ума сойти!」",
+   "orig": "Tobia\n「That was insane!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Кинкейд",
+   "text": "「Что это была за связка?!」",
+   "orig": "Kincade\n「What kind of combo was that?!」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Я что, гений или вроде того?」",
+   "orig": "$n\n「Am I actually a genius, or something?」"
+  },
+  {
+   "i": 82,
+   "speaker": "？？？",
+   "text": "「Это заслуга моей поддержки.」",
+   "orig": "？？？\n「My assistance made that possible.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「А ты вообще что такое?」",
+   "orig": "$n\n「And what are you, exactly?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Система 99",
+   "text": "「Я — Система 99,\n　основная ОС этой машины.」",
+   "orig": "System Nine-Nine\n「I am System Nine-Nine,\n　the primary OS for this unit.」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Приятно познакомиться!\n　Но если ты всё это время была основной ОС,\n　почему объявилась только сейчас?」",
+   "orig": "$n\n「Nice to meet you!\n　But, if you've been the main OS all this time,\n　why'd you pick now to show yourself?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Система 99",
+   "text": "「Я не намерена выдавать лишнюю\n　информацию посреди боевых действий.」",
+   "orig": "System Nine-Nine\n「I do not intend to provide unnecessary\n　information in the middle of tactical operations.」"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「Ну спасибо, удружила!」",
+   "orig": "$n\n「Well gee, thanks for all your help!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Като",
+   "text": "「$l, что ты делаешь!\n　Это были не последние враги!」",
+   "orig": "Kato\n「What are you doing, $l!\n　That wasn't the last of the enemies!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Кодай",
+   "text": "「Оставь это нам и немедленно\n　возвращайся на передовую, $l!」",
+   "orig": "Kodai\n「Leave this to us and return to the front lines at\n　once, $l!」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Так точно!」",
+   "orig": "$n\n「Roger that!」"
+  },
+  {
+   "i": 91,
+   "speaker": "$n",
+   "text": "「Слышала, Найн-Найн? Но когда вернёмся,\n　у меня к тебе будет пара вопросов.」",
+   "orig": "$n\n「You heard the man, Nine-Nine. I've got some\n　questions for you when we get back, though.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Система 99",
+   "text": "「Благополучное возвращение машины зависит\n　от вас, пилот. Сражайтесь доблестно.」",
+   "orig": "System Nine-Nine\n「The safe return of this unit is up to you, pilot.\n　May you fight with valor.」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「Нет, серьёзно: ты самый бесполезный ИИ на свете.」",
+   "orig": "$n\n「Seriously, you are the least helpful AI ever.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Окита",
+   "text": "「Перехват и уклонение! Живо!」",
+   "orig": "Okita\n「Intercept and evade! Quickly!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Кодай",
+   "text": "「Сима, нужно время, чтобы подготовить\n　главный калибр! Найди способ уйти\n　от первого залпа противника!」",
+   "orig": "Kodai\n「Shima, we need time to get the main\n　cannon ready! You've got to find a way\n　to dodge the first round of incoming fire!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Сима",
+   "text": "「Бесполезно!\n　Мы не успеем развернуться!」",
+   "orig": "Shima\n「It's no use!\n　We won't get turned around in time!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Кинкейд",
+   "text": "「«Ямато» атакуют!」",
+   "orig": "Kincade\n「The Yamato's under attack!」"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「Этого я не допущу!」",
+   "orig": "$n\n「Not if I have anything to say about it!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Кодай",
+   "text": "「$l!」",
+   "orig": "Kodai\n「$l!」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Уничтожить не смогу, но отвлечь — запросто!」",
+   "orig": "$n\n「I can't destroy it, but I can distract it!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Тобиа",
+   "text": "「Это безумие, $n!」",
+   "orig": "Tobia\n「You're crazy, $n!」"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「Но надо что-то делать,\n　иначе Земля падёт!」",
+   "orig": "$n\n「But I have to do something,\n　or else Earth will fall!」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Прошу, «Вангрэй»!\n　Твоя помощь нужна мне как никогда!」",
+   "orig": "$n\n「Please, VangRay!\n　I need your help, now more than ever!」"
+  },
+  {
+   "i": 104,
+   "speaker": "？？？",
+   "text": "「Запрос пилота принят.\n　Содействую СУО и управлению полётом.」",
+   "orig": "？？？\n「Pilot request accepted.\n　Assisting with FCS and flight controls.」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 106,
+   "speaker": "？？？",
+   "text": "「Генерирую\n　список действий.」",
+   "orig": "？？？\n「Generating\n　action list.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Теперь-то у меня точно выйдут боевые приёмы,\n　которым меня учил энсин Муракумо!」",
+   "orig": "$n\n「Now I should definitely be able to use the battle tactics\n　that Ensign Murakumo taught me!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Тобиа",
+   "text": "「С ума сойти!」",
+   "orig": "Tobia\n「That was insane!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Кинкейд",
+   "text": "「Что это была за связка?!」",
+   "orig": "Kincade\n「What kind of combo was that?!」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「Г-глазам своим не верю!」",
+   "orig": "$n\n「I-I can't even believe it myself!」"
+  },
+  {
+   "i": 111,
+   "speaker": "？？？",
+   "text": "「Это заслуга моей поддержки.」",
+   "orig": "？？？\n「My assistance made that possible.」"
+  },
+  {
+   "i": 112,
+   "speaker": "$n",
+   "text": "「И что же ты такое?」",
+   "orig": "$n\n「What are you, anyway?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Система 99",
+   "text": "「Я — Система 99,\n　основная ОС этой машины.」",
+   "orig": "System Nine-Nine\n「I am System Nine-Nine,\n　the primary OS for this unit.」"
+  },
+  {
+   "i": 114,
+   "speaker": "$n",
+   "text": "「Основная ОС? Значит, ты была установлена с самого\n　начала! Почему молчала до сих пор?!」",
+   "orig": "$n\n「Main OS? Then that means you've been installed all\n　along! Why did you wait until now to tell me that!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Система 99",
+   "text": "「Я спроектирована так, чтобы не выдавать\n　лишнюю информацию посреди боевых действий.」",
+   "orig": "System Nine-Nine\n「I am designed not to provide unnecessary\n　information in the middle of tactical operations.」"
+  },
+  {
+   "i": 116,
+   "speaker": "$n",
+   "text": "「Могла бы сказать об этом хотя бы до взлёта!」",
+   "orig": "$n\n「You could at least tell me that before takeoff!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Като",
+   "text": "「$l, чем ты занимаешься!\n　Это ещё не все враги! Продолжай бой!」",
+   "orig": "Kato\n「What are you doing, $l!\n　That wasn't the last of them! Keep fighting!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Кодай",
+   "text": "「Оставь это нам и немедленно\n　возвращайся на передовую, $l!」",
+   "orig": "Kodai\n「Leave this to us and return to the front lines at\n　once, $l!」"
+  },
+  {
+   "i": 119,
+   "speaker": "$n",
+   "text": "「Есть!」",
+   "orig": "$n\n「Roger!」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Слышала, Найн-Найн?\n　А когда вернёмся, ответишь на мои вопросы!」",
+   "orig": "$n\n「Did you hear that, Nine-Nine?\n　And once we get back, you'll have to answer to me!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Система 99",
+   "text": "「Благополучное возвращение машины зависит\n　от вас, пилот. Сражайтесь доблестно.」",
+   "orig": "System Nine-Nine\n「The safe return of this unit is up to you, pilot.\n　May you fight with valor.」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「Повторять не буду, ясно? Ты вернёшься на корабль\n　в целости, только если вернусь я. Так что\n　соберись и помогай мне!」",
+   "orig": "$n\n「I'll only say this once, OK? You don't make it\n　back to the ship in one piece if I don't, so step\n　up and give me a hand!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Намбу",
+   "text": "「Вот и всё!\n　Силы противника уничтожены!」",
+   "orig": "Nanbu\n「That's it!\n　The enemy forces have been destroyed!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Окита",
+   "text": "「Нет, ещё не всё!」",
+   "orig": "Okita\n「Not yet, they haven't!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Мори",
+   "text": "「Радар засёк новые сигналы!」",
+   "orig": "Mori\n「I'm picking up more signals on the radar!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Лотти",
+   "text": "「Ох, дело плохо!」",
+   "orig": "Lottie\n「Oh man, that's bad!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Вельт",
+   "text": "「У них в запасе была ещё такая армада?」",
+   "orig": "Velt\n「They were still sitting on a force this large?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Окита",
+   "text": "「Кодай, прикажи мобильным\n　доспехам отступать.」",
+   "orig": "Okita\n「Kodai, order the mobile suit\n　units to retreat.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Кодай",
+   "text": "「Есть! Всем машинам, вернуться\n　на корабль!」",
+   "orig": "Kodai\n「Yes sir!\n　All units, return to the ship!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Кодай",
+   "text": "「Они прятали ещё одну такую армаду?」",
+   "orig": "Kodai\n「They were hiding another force this big?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Окита",
+   "text": "「Кодай, прикажи мобильным\n　доспехам отступать.」",
+   "orig": "Okita\n「Kodai, order the mobile suit\n　units to retreat.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Кодай",
+   "text": "「Есть! Всем машинам, вернуться\n　на корабль!」",
+   "orig": "Kodai\n「Yes sir!\n　All units, return to the ship!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Кодай",
+   "text": "「Все машины вернулись на борт!」",
+   "orig": "Kodai\n「All units have returned, sir!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Окита",
+   "text": "「Отходим, Сима.\n　Уводи нас от плавучего континента.」",
+   "orig": "Okita\n「Retreat, Shima.\n　Get us away from the floating continent.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Сима",
+   "text": "「Есть!」",
+   "orig": "Shima\n「Understood!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Ота",
+   "text": "「Мы на внешнем рубеже, капитан!」",
+   "orig": "Ota\n「We've reached the outskirts, sir!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Окита",
+   "text": "「Кодай!\n　Огонь из волновой пушки!」",
+   "orig": "Okita\n「Kodai!\n　Fire the wave motion gun!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Кодай",
+   "text": "「Что?!」",
+   "orig": "Kodai\n「What!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Окита",
+   "text": "「Проведём пробный выстрел волновой пушки,\n　взяв целью базу Гамилас!」",
+   "orig": "Okita\n「We'll test fire the wave motion gun\n　using the Gamillas base as a target!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Кодай",
+   "text": "「При всём уважении…」",
+   "orig": "Kodai\n「With all due respect—」"
+  },
+  {
+   "i": 141,
+   "speaker": "Санада",
+   "text": "「Мы понятия не имеем, насколько мощна волновая\n　пушка, а ситуация сейчас крайне нестабильна.\n　Не слишком ли рискован пробный выстрел, командир?」",
+   "orig": "Sanada\n「We have no idea how powerful the wave motion gun\n　is, and this is an incredibly volatile situation.\n　Wouldn't a test fire be too risky, Commander?」"
+  },
+  {
+   "i": 142,
+   "speaker": "Токугава",
+   "text": "「Да брось, Санада, давай рискнём! Если не выгорит —\n　нам всё равно было не выжить!」",
+   "orig": "Tokugawa\n「Ah c'mon, Sanada, let's give it a shot! If we don't\n　make it out of this, we weren't gonna survive anyway!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Кодай",
+   "text": "「Офицер Санада…」",
+   "orig": "Kodai\n「Officer Sanada—」"
+  },
+  {
+   "i": 144,
+   "speaker": "Санада",
+   "text": "「Порядок, Кодай.」",
+   "orig": "Sanada\n「It's OK, Kodai.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Окита",
+   "text": "「Экипаж, приготовиться к атаке!\n　Лево руля до упора, навести нос\n　на плавучий континент!」",
+   "orig": "Okita\n「Crew, prepare to attack!\n　Turn the ship hard to port and point\n　the bow at the floating continent!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Санада",
+   "text": "「Перехожу в аварийный режим\n　 на случай перезапуска питания!」",
+   "orig": "Sanada\n「Switching to emergency mode\n　 in case of the power reboot!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Ралета",
+   "text": "「Глупые терронцы. Думаешь, они вот-вот сбегут, а они\n　продолжают бессмысленное сопротивление.」",
+   "orig": "Raleta\n「Foolish Terrons. Just when you think they're going to\n　run away, they continue to engage in futile resistance.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Ралета",
+   "text": "「Что ж. Покажем им, насколько\n　велика пропасть между нашими силами!」",
+   "orig": "Raleta\n「Very well. Let's show them exactly\n　how large the power disparity between us really is!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Окита",
+   "text": "「Мори, где источник тепла\n　 континента?!」",
+   "orig": "Okita\n「Mori, where is the continent's\n　 heat source!?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Мори",
+   "text": "「Он сосредоточен в долине!」",
+   "orig": "Mori\n「It's concentrated in the valley!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Окита",
+   "text": "「Отлично, координаты мне!\n　Кодай, ты знаешь, что делать!」",
+   "orig": "Okita\n「Good, give me the coordinates!\n　Kodai, you know what to do!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Кодай",
+   "text": "「Есть!\n　Навожу нос корабля точно на центр!」",
+   "orig": "Kodai\n「Yes, sir!\n　Aligning the ship's bow with the center, sir!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Мори",
+   "text": "「Корабли врага на подходе!」",
+   "orig": "Mori\n「Enemy ships approaching!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Окита",
+   "text": "「Игнорировать!\n　Цель — база!」",
+   "orig": "Okita\n「Ignore them!\n　Aim for the base!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Ралета",
+   "text": "「А? Что это?\n　Что вообще происходит?」",
+   "orig": "Raleta\n「Huh? What is that?\n　What the heck is happening?」"
+  },
+  {
+   "i": 156,
+   "speaker": "Тобиа",
+   "text": "「Как член экипажа «Ямато»…」",
+   "orig": "Tobia\n「As a member of the Yamato crew—」"
+  },
+  {
+   "i": 157,
+   "speaker": "Тобиа",
+   "text": "「Нет — как человек с Земли,\n　я больше не стану этого терпеть!」",
+   "orig": "Tobia\n「No, as a human from Earth, \n　I will not stand for this anymore!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Кинкейд",
+   "text": "（Битва Сесили не закончится,\n　даже если мы одолеем их здесь.）",
+   "orig": "Kincade\n（Cecily's battle won't end,\n　even if we do defeat them here.）"
+  },
+  {
+   "i": 159,
+   "speaker": "Кинкейд",
+   "text": "（Это только начало.）",
+   "orig": "Kincade\n（This is just the beginning.）"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Слушай сюда, артиллерист!\n　Такие, как ты, кичатся своими пушками,\n　а у нас есть чутьё пилота!」",
+   "orig": "$n\n「Listen up, Weapons Officer!\n　Guys like you might boast about their big cannons,\n　but we've got a pilot's instincts!」"
+  },
+  {
+   "i": 161,
+   "speaker": "$n",
+   "text": "「Начинаем шоу!\n　Покажу, как дерутся авиаотряд «Ямато»\n　и 25-я эскадрилья!」",
+   "orig": "$n\n「It's show time!\n　I'll show you how the Yamato Aircraft Squad and\n　the 25th Squadron fight!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Система 99",
+   "text": "「Противник приближается.\n　Рассчитываю скорость и дистанцию.」",
+   "orig": "System Nine-Nine\n「Enemies approaching.\n　calculating velocity and distance.」"
+  },
+  {
+   "i": 163,
+   "speaker": "$n",
+   "text": "「Гляди-ка! От тебя всё же есть толк!」",
+   "orig": "$n\n「Look at that! You do come in handy, after all!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Система 99",
+   "text": "「Я превосходна. Я не позволю\n　называть себя «бракованной».」",
+   "orig": "System Nine-Nine\n「I am excellent.\n　I will not be called \"defective.\"」"
+  },
+  {
+   "i": 165,
+   "speaker": "$n",
+   "text": "「Ой!\n　Ты это слышала?」",
+   "orig": "$n\n「Whoops!\n　You heard me say that?」"
+  },
+  {
+   "i": 166,
+   "speaker": "$n",
+   "text": "「Ты же поняла, что это была шутка?\n　На самом деле я считаю, что ты молодец!」",
+   "orig": "$n\n「You know I was kidding, right?\n　That I actually think you're doing a great job?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Система 99",
+   "text": "「Хорошая попытка. Не куплюсь.」",
+   "orig": "System Nine-Nine\n「Nice try. I'm not buying it.」"
+  },
+  {
+   "i": 168,
+   "speaker": "$n",
+   "text": "「Ого, какие мы дерзкие! Давай просто\n　сосредоточимся на задании, ладно?」",
+   "orig": "$n\n「Ooh, aren't we sassy!\n　Let's just focus on the mission, OK?」"
+  },
+  {
+   "i": 169,
+   "speaker": "$n",
+   "text": "「Я скоро вернусь, Акира!\n　Буду сражаться за нас двоих.」",
+   "orig": "$n\n「I'll be back soon, Akira!\n　I'm going to fight hard enough for both of us.」"
+  },
+  {
+   "i": 170,
+   "speaker": "$n",
+   "text": "「Рассчитываю на тебя, «Вангрэй».\n　Поработаем вместе!」",
+   "orig": "$n\n「I'm counting on you, VangRay.\n　Work with me!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Система 99",
+   "text": "「Противник приближается.\n　Рассчитываю скорость и дистанцию.\n　Вооружение противника включает…」",
+   "orig": "System Nine-Nine\n「Enemies approaching.\n　calculating velocity and distance.\n　Enemy weapons include—」"
+  },
+  {
+   "i": 172,
+   "speaker": "$n",
+   "text": "「Э-эй, погоди!\n　Плевать, сколько у тебя данных, —\n　сейчас это меня только запутает!」",
+   "orig": "$n\n「H-hey, hold it!\n　I don't care how much data you have,\n　all that's going to do right now is confuse me!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Система 99",
+   "text": "「Осваивать управление мной вы не собираетесь, верно?」",
+   "orig": "System Nine-Nine\n「You're not going to learn how to operate me, are you?」"
+  },
+  {
+   "i": 174,
+   "speaker": "$n",
+   "text": "「Неприятно признавать, но ты, похоже, права!\n　Только теперь мы друг с другом повязаны — ясно?」",
+   "orig": "$n\n「I hate to admit it, but you're probably right!\n　We're stuck with each other now, though—got it?」"
+  },
+  {
+   "i": 175,
+   "speaker": "$n",
+   "text": "「А теперь помогай!\n　Сегодня я не умру!」",
+   "orig": "$n\n「Now lend me a hand!\n　I'm not going to die today!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Система 99",
+   "text": "「Принято.\n　Сделаю всё, чтобы вы остались в живых.」",
+   "orig": "System Nine-Nine\n「Understood.\n　I will do all I can to ensure that you live.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Кодай",
+   "text": "「Настоящий бой с флотом Гамилас начинается сейчас.」",
+   "orig": "Kodai\n「The real battle with the Gamillas fleet starts now.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Сима",
+   "text": "「Не горячись, Кодай. Как бы ты ни хотел\n　отомстить за брата…」",
+   "orig": "Shima\n「Don't do anything brash, Kodai. No matter how much\n　you may want to avenge your brother—」"
+  },
+  {
+   "i": 179,
+   "speaker": "Кодай",
+   "text": "「Когда это я горячился?!」",
+   "orig": "Kodai\n「When have I ever acted brash?!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Окита",
+   "text": "「Хватит! Оба!\n　Мы на войне!」",
+   "orig": "Okita\n「Enough! Both of you!\n　We are at war!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Сима",
+   "text": "「Е-есть!」",
+   "orig": "Shima\n「Y-yes, sir!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Кодай",
+   "text": "「Орудия к бою!」",
+   "orig": "Kodai\n「Cannons, prepare to fire!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Окита",
+   "text": "（По нашим данным, их силы\n　не должны быть столь велики.）",
+   "orig": "Okita\n（Based on the data,\n　I doubt that their scale is this much.）"
+  },
+  {
+   "i": 184,
+   "speaker": "Окита",
+   "text": "（Возможно, пробный выстрел придётся ускорить.）",
+   "orig": "Okita\n（The test fire may need to occur ahead of schedule.）"
+  },
+  {
+   "i": 185,
+   "speaker": "Вельт",
+   "text": "「Гамилас…\n　Их технологии превосходят всякое воображение…」",
+   "orig": "Velt\n「Gamillas…\n　Their technology is beyond our imagination…」"
+  },
+  {
+   "i": 186,
+   "speaker": "Вельт",
+   "text": "「Но одними технологиями битву не выиграть!\n　Покажем им, чего мы стоим!」",
+   "orig": "Velt\n「But technology alone doesn't win battles!\n　Let's show them what we're made of!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Лотти",
+   "text": "「Я слышала рассказы, но от увиденного своими\n　глазами аж мурашки по коже.」",
+   "orig": "Lottie\n「I had heard the stories, but seeing it for myself\n　really creeps me out.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Лотти",
+   "text": "「Вышвырнем этих жадных садовников\n　из Солнечной системы раз и навсегда!」",
+   "orig": "Lottie\n「Let's kick these greedy gardeners\n　out of the Solar System once and for all!」"
+  },
+  {
+   "i": 189,
+   "speaker": "$n",
+   "text": "「А-а-а!」",
+   "orig": "$n\n「Augh!」"
+  }
+ ]
+}

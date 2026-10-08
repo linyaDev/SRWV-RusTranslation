@@ -1,0 +1,1276 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Кодай",
+   "text": "「Что это за газообразная штука?!」",
+   "orig": "Kodai\n「What is that gas-like thing?!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Ота",
+   "text": "「Энергия неопознанной субстанции растёт!」",
+   "orig": "Ota\n「The unidentified substance's energy is rising!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Окита",
+   "text": "「Следите за ней!」",
+   "orig": "Okita\n「Keep an eye on it!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Санада",
+   "text": "「Она растёт, поглощая плазму! Если она коснётся нас,\n　«Ямато» тоже будет расщеплён и поглощён!」",
+   "orig": "Sanada\n「It's absorbing the plasma and growing! If it touches us,\n　the Yamato will be disintegrated and absorbed as well!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Мори",
+   "text": "「Неопознанная субстанция приближается к нам!\n　А с другой стороны подходит вражеский флот!」",
+   "orig": "Mori\n「The unidentified substance is closing in on us!\n　And the enemy fleet is approaching from the other side!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Окита",
+   "text": "「Сима, мы пройдём через плазменную буферную зону?」",
+   "orig": "Okita\n「Shima, can we make it through the plasma buffer zone?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Сима",
+   "text": "「Есть маршрут в обход плазмы и газа!」",
+   "orig": "Shima\n「There is a route that avoids the plasma and the gas!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Ота",
+   "text": "「Погодите-ка!\n　Этот маршрут ведёт—」",
+   "orig": "Ota\n「Wait a second!\n　That route involves—」"
+  },
+  {
+   "i": 8,
+   "speaker": "Санада",
+   "text": "「Прямо к той звезде...」",
+   "orig": "Sanada\n「Plunging toward that star...」"
+  },
+  {
+   "i": 9,
+   "speaker": "Кодай",
+   "text": "「Похоже, мы между молотом и наковальней.」",
+   "orig": "Kodai\n「Looks like we're stuck between a rock and a hard place.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Окита",
+   "text": "「Сима,\n　полный вперёд, курс на звезду!」",
+   "orig": "Okita\n「Shima,\n　full speed ahead toward the star!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Кодай",
+   "text": "「Мы что, протараним её?!」",
+   "orig": "Kodai\n「Are we going to ram into it?!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Окита",
+   "text": "「Правь вон на ту точку!」",
+   "orig": "Okita\n「Steer us to that point right there!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Окита",
+   "text": "「Полный вперёд, курс на цель!」",
+   "orig": "Okita\n「Full speed ahead toward the target!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Сима",
+   "text": "「Полный вперёд!\n　Так держать!」",
+   "orig": "Shima\n「Full speed ahead!\n　Steady as she goes!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Ганц",
+   "text": "「«Ямато» идёт прямо на звезду!」",
+   "orig": "Ganz\n「The Yamato is plunging toward the star!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Шульц",
+   "text": "「Преследовать.」",
+   "orig": "Shultz\n「Pursue them.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Ганц",
+   "text": "「Но тогда звезда расплавит и нас!」",
+   "orig": "Ganz\n「But then we'll be melted by the star too!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Шульц",
+   "text": "「С самого падения базы на Плутоне\n　я не верил, что мы вернёмся живыми.」",
+   "orig": "Shultz\n「Ever since the destruction of the Plato Base,\n　I have not believed we will return alive.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Шульц",
+   "text": "「Нам остаётся лишь отдать жизни за оставшихся\n　зальцианцев и предать «Ямато» забвению!」",
+   "orig": "Shultz\n「All we can do now is give our lives for the remaining\n　Zaltzians, and consign the Yamato to oblivion!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Ганц",
+   "text": "「Есть.\n　Всему экипажу приготовиться!」",
+   "orig": "Ganz\n「Understood.\n　All hands, brace yourselves!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Солдат Гамилас",
+   "text": "「Мы с вами, командир Шульц!」",
+   "orig": "Gamillas Soldier\n「We're with you, Commander Shultz!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Мори",
+   "text": "「Вражеский флот преследует нас!」",
+   "orig": "Mori\n「The enemy fleet is pursuing!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Окита",
+   "text": "「Они тоже готовы рискнуть жизнью?」",
+   "orig": "Okita\n「They'd risk their lives, too?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Окита",
+   "text": "「Кодай, поднимай мобильные машины!\n　Но ничего лишнего!」",
+   "orig": "Okita\n「Kodai, scramble the mobile units!\n　But don't do anything unnecessary!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Кодай",
+   "text": "「Есть! Всем машинам,\n　приготовиться к вылету!」",
+   "orig": "Kodai\n「Roger!\n　All units, prepare to take off!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Кодай",
+   "text": "「Всем машинам,\n　наша задача — защищать «Ямато»!\n　Перехватывать всех, кто подойдёт близко!」",
+   "orig": "Kodai\n「All units,\n　our mission is to protect the Yamato!\n　Intercept any enemy that gets too close!」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「Само собой разумеется,\n　в такой ситуации я не стану\n　сдерживаться!」",
+   "orig": "$n\n「It goes without saying that\n　in this situation, I won't hold\n　anything back!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Рёма",
+   "text": "「Судя по тому, как они прут на нас, они\n　не рассчитывают выбраться отсюда живыми...」",
+   "orig": "Ryoma\n「The way they're coming at us must mean\n　they aren't planning to make it out of this alive...」"
+  },
+  {
+   "i": 29,
+   "speaker": "Кинкейд",
+   "text": "「Прямо как солдаты Империи Юпитера.\n　Что же заставляет их идти на такие жертвы?」",
+   "orig": "Kincade\n「Just like the soldiers of the Jupiter Empire.\n　What would make them sacrifice so much?」"
+  },
+  {
+   "i": 30,
+   "speaker": "Окита",
+   "text": "「«Ямато», полный вперёд!\n　Всем машинам — в оборону!」",
+   "orig": "Okita\n「Yamato, full speed ahead!\n　All units focus on defense!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Окита",
+   "text": "「Кхх!」",
+   "orig": "Okita\n「Ugh!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Санада",
+   "text": "「Командир!」",
+   "orig": "Sanada\n「Commander!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Окита",
+   "text": "「Пустяки. Всему экипажу,\n　собраться с силами! Мы выберемся отсюда!」",
+   "orig": "Okita\n「It's nothing. All hands,\n　concentrate your strength! We are getting out of here!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Кодай",
+   "text": "「Всем машинам,\n　наша задача — защищать «Ямато»!\n　Перехватывать всех, кто подойдёт близко!」",
+   "orig": "Kodai\n「All units,\n　our mission is to protect the Yamato!\n　Intercept any enemy that gets too close!」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「Е-есть!\n　Сделаю всё, что смогу!」",
+   "orig": "$n\n「R-roger!\n　I'll do everything I can!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Рёма",
+   "text": "「Судя по тому, как они прут на нас, они\n　не рассчитывают выбраться отсюда живыми...」",
+   "orig": "Ryoma\n「The way they're coming at us must mean\n　they aren't planning to make it out of this alive...」"
+  },
+  {
+   "i": 37,
+   "speaker": "Кинкейд",
+   "text": "「Прямо как солдаты Империи Юпитера.\n　Что же заставляет их идти на такие жертвы?」",
+   "orig": "Kincade\n「Just like the soldiers of the Jupiter Empire.\n　What would make them sacrifice so much?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Окита",
+   "text": "「«Ямато», полный вперёд!\n　Всем машинам — в оборону!」",
+   "orig": "Okita\n「Yamato, full speed ahead!\n　All units focus on defense!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Окита",
+   "text": "「Кхх!」",
+   "orig": "Okita\n「Ugh!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Санада",
+   "text": "「Командир!」",
+   "orig": "Sanada\n「Commander!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Окита",
+   "text": "「Пустяки. Всему экипажу,\n　собраться с силами! Мы выберемся отсюда!」",
+   "orig": "Okita\n「It's nothing. All hands,\n　concentrate your strength! We are getting out of here!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Лотти",
+   "text": "「Так и знала, что здесь будет жарища!」",
+   "orig": "Lottie\n「I knew it was gonna be hot in here!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Вельт",
+   "text": "「Если бой затянется, наши тела сдадут куда\n　раньше этих роботов!」",
+   "orig": "Velt\n「If we fight for an extended period, our bodies will give\n　out way before these robots!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Окита",
+   "text": "「Скорее, Сима!\n　Если «Ямато» задержится здесь надолго—」",
+   "orig": "Okita\n「Hurry, Shima!\n　If the Yamato stays here for too long—」"
+  },
+  {
+   "i": 45,
+   "speaker": "Окита",
+   "text": "「Кхх!」",
+   "orig": "Okita\n「Ugh!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Мори",
+   "text": "「Командир!」",
+   "orig": "Mori\n「Commander!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Санада",
+   "text": "「Нет!\n　Я вызываю доктора Садо!」",
+   "orig": "Sanada\n「No!\n　I'm calling Doctor Sado!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Окита",
+   "text": "「Не отвлекаться!\n　Враг у нас под самым носом!」",
+   "orig": "Okita\n「Don't lose focus!\n　The enemy is right under our nose!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Санада",
+   "text": "「Но—!」",
+   "orig": "Sanada\n「But—!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Окита",
+   "text": "「Просто голова закружилась от жары.\n　Сейчас главное — выбраться из этого положения!」",
+   "orig": "Okita\n「I just got a little dizzy because of the heat.\n　Right now, getting out of this situation takes priority!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Санада",
+   "text": "「Есть.」",
+   "orig": "Sanada\n「Understood.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Мори",
+   "text": "「Гравитационное поле искажается!\n　Это сигнатура выхода из варпа!」",
+   "orig": "Mori\n「The gravitational field is distorting!\n　It's a reaction to warp out!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Кодай",
+   "text": "「Подкрепление гамиласцев?」",
+   "orig": "Kodai\n「Gamillan reinforcements?」"
+  },
+  {
+   "i": 54,
+   "speaker": "Мори",
+   "text": "「Нет, не оно.\n　Рисунок не такой, как обычно.」",
+   "orig": "Mori\n「No, it's not.\n　This is a different pattern than usual.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Окита",
+   "text": "「Скорее, Сима!\n　Если «Ямато» надолго застрянет в этом районе—」",
+   "orig": "Okita\n「Hurry, Shima!\n　If the Yamato stays in this region for long—」"
+  },
+  {
+   "i": 56,
+   "speaker": "Окита",
+   "text": "「Кхх!」",
+   "orig": "Okita\n「Ugh!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Мори",
+   "text": "「Командир!」",
+   "orig": "Mori\n「Commander!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Санада",
+   "text": "「Нет!\n　Я вызываю доктора Садо!」",
+   "orig": "Sanada\n「No!\n　I'm calling Doctor Sado!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Окита",
+   "text": "「Не отвлекаться!\n　Враг у нас под самым носом!」",
+   "orig": "Okita\n「Don't lose focus!\n　The enemy is right under our nose!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Санада",
+   "text": "「Но—!」",
+   "orig": "Sanada\n「But—!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Окита",
+   "text": "「Просто голова закружилась от жары.\n　Сейчас главное — выбраться из этого положения!」",
+   "orig": "Okita\n「I just got a little dizzy because of the heat.\n　Right now, getting out of this situation takes priority!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Санада",
+   "text": "「Есть.」",
+   "orig": "Sanada\n「Understood.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Мори",
+   "text": "「Гравитационное поле искажается!\n　Это сигнатура выхода из варпа!」",
+   "orig": "Mori\n「The gravitational field is distorting!\n　It's a reaction to warp out!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Кодай",
+   "text": "「Подкрепление гамиласцев?」",
+   "orig": "Kodai\n「Gamillan reinforcements?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Мори",
+   "text": "「Нет, не оно.\n　Рисунок не такой, как обычно.」",
+   "orig": "Mori\n「No, it's not.\n　This is a different pattern than usual.」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Э-эй!\n　Что это такое?」",
+   "orig": "$n\n「H-hey!\n　What is that?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тобиа",
+   "text": "「Гандамы!」",
+   "orig": "Tobia\n「Gundams!」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「На Земле есть ещё один корабль,\n　способный на варп, кроме «Ямато»?」",
+   "orig": "$n\n「There's another ship on Earth besides\n　the Yamato that can warp?」"
+  },
+  {
+   "i": 69,
+   "speaker": "Кинкейд",
+   "text": "「Нет!\n　Эти Гандамы — эти мобильные доспехи\n　вышли из варпа сами по себе!」",
+   "orig": "Kincade\n「No!\n　Those Gundams—those mobile suits\n　warped out here independently!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тиерия",
+   "text": "「Что происходит, Сэцуна?!」",
+   "orig": "Tieria\n「What's going on, Setsuna?!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Сэцуна",
+   "text": "「Не знаю.\n　Это был всего лишь эксперимент с квантовым прыжком.\n　Не знаю, как мы здесь оказались.」",
+   "orig": "Setsuna\n「I don't know.\n　This was just supposed to be a quantum jump experiment,\n　I don't know how we got here.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Сэцуна",
+   "text": "「Это что, солнце?」",
+   "orig": "Setsuna\n「Is that the sun?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Тиерия",
+   "text": "「И посмотри, что здесь творится!\n　Идёт бой! И это группа — нет, цивилизация,\n　которой мы никогда не видели!」",
+   "orig": "Tieria\n「And look at what's happening here!\n　They're fighting! And that's a group—no, a civilization\n　we've never seen before!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Сэцуна",
+   "text": "「Они — другой вид?」",
+   "orig": "Setsuna\n「They're a different species?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Сэцуна",
+   "text": "「Если это так—」",
+   "orig": "Setsuna\n「If that's the case—」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「А?!\n　Что это такое?」",
+   "orig": "$n\n「Huh?!\n　What is that?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Тобиа",
+   "text": "「Гандамы!」",
+   "orig": "Tobia\n「Gundams!」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「На Земле есть ещё один корабль,\n　способный на варп, кроме «Ямато»?」",
+   "orig": "$n\n「There's another ship on Earth besides\n　the Yamato that can warp?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Кинкейд",
+   "text": "「Нет!\n　Эти Гандамы — эти мобильные доспехи\n　вышли из варпа сами по себе!」",
+   "orig": "Kincade\n「No!\n　Those Gundams—those mobile suits\n　warped out here independently!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Тиерия",
+   "text": "「Что происходит, Сэцуна?!」",
+   "orig": "Tieria\n「What's going on, Setsuna?!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Сэцуна",
+   "text": "「Не знаю.\n　Это был всего лишь эксперимент с квантовым прыжком.\n　Не знаю, как мы здесь оказались.」",
+   "orig": "Setsuna\n「I don't know.\n　This was just supposed to be a quantum jump experiment,\n　I don't know how we got here.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Сэцуна",
+   "text": "「Это что, солнце?」",
+   "orig": "Setsuna\n「Is that the sun?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Тиерия",
+   "text": "「И посмотри, что здесь творится!\n　Идёт бой! И это группа — нет, цивилизация,\n　которой мы никогда не видели!」",
+   "orig": "Tieria\n「And look at what's happening here!\n　They're fighting! And that's a group—no, a civilization!\n　we've never seen before!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Сэцуна",
+   "text": "「Они — другой вид?」",
+   "orig": "Setsuna\n「They're a different species?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Сэцуна",
+   "text": "「Если это так—」",
+   "orig": "Setsuna\n「If that's the case—」"
+  },
+  {
+   "i": 86,
+   "speaker": "Тобиа",
+   "text": "「Нгх!」",
+   "orig": "Tobia\n「Hng!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Рёма",
+   "text": "「Что случилось, Тобиа?」",
+   "orig": "Ryoma\n「What's wrong, Tobia?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Тобиа",
+   "text": "「Я не уверен,\n　но, кажется, пилоты этих Гандамов\n　не враждебны к нам.」",
+   "orig": "Tobia\n「I'm not positive,\n　but whoever's piloting those Gundams\n　doesn't seem to be hostile towards us.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Кинкейд",
+   "text": "（Экстрасенсорное восприятие?\n　Неужели пилоты этих машин — ньютайпы?）",
+   "orig": "Kincade\n（Extra-sensory perception, huh?\n　Are the pilots of those units Newtypes?）"
+  },
+  {
+   "i": 90,
+   "speaker": "Ганц",
+   "text": "「Командир Шульц!」",
+   "orig": "Ganz\n「Commander Shultz!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Шульц",
+   "text": "「Это оружие терронцев!\n　В атаку!」",
+   "orig": "Shultz\n「Those are Terron weapons!\n　Attack!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Ганц",
+   "text": "「Есть!」",
+   "orig": "Ganz\n「Yes, sir!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Сэцуна",
+   "text": "「Они стреляют по нам!」",
+   "orig": "Setsuna\n「They're firing at us!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Тиерия",
+   "text": "「Поверить не могу, что так проходит\n　наш первый контакт с инопланетным видом!」",
+   "orig": "Tieria\n「I can't believe this is how\n　our first encounter with an alien species is going!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тиерия",
+   "text": "「Будь квантовая система завершена, мы бы хотя бы\n　смогли с ними объясниться!」",
+   "orig": "Tieria\n「If only the Quantum System was complete! Then we'd at\n　least be able to communicate!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Сэцуна",
+   "text": "「Не сдавайся, Тиерия!\n　По крайней мере, на той стороне есть люди,\n　которые принимают мой сигнал!」",
+   "orig": "Setsuna\n「Don't give up, Tieria!\n　At least there are humans on the other side\n　who are picking up my signal!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тиерия",
+   "text": "「Правда?!」",
+   "orig": "Tieria\n「Really?!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Сэцуна",
+   "text": "「Я вызываю их на открытом канале.\n　Это всё, что я могу!」",
+   "orig": "Setsuna\n「I'm calling out on an open channel.\n　It's all I can do!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Айхара",
+   "text": "「Командир,\n　идёт сообщение от одной из машин типа «Гандам».\n　Оно на всеобщем земном!」",
+   "orig": "Aihara\n「Commander,\n　a message is coming in from one of the Gundam-type units.\n　It's in Earth Common!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Айхара",
+   "text": "「Они требуют объяснить, что происходит.」",
+   "orig": "Aihara\n「They want an explanation for what's going on.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Санада",
+   "text": "「Пилоты этих неизвестных Гандамов\n　говорят на всеобщем?」",
+   "orig": "Sanada\n「The pilots of those unknown Gundams\n　speak Common?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Санада",
+   "text": "「Командир, что происходит?」",
+   "orig": "Sanada\n「Commander, what's going on?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Окита",
+   "text": "「Возможно, это как с Нагарэ и Цуруги.」",
+   "orig": "Okita\n「It could be like what happened with Nagare and Tsurugi.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Окита",
+   "text": "「Айхара,\n　передай им, что мы не враги,\n　и попроси о помощи!」",
+   "orig": "Okita\n「Aihara,\n　tell them we aren't hostile,\n　and ask them for help!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Айхара",
+   "text": "「Есть!」",
+   "orig": "Aihara\n「Roger!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Ганц",
+   "text": "「Командир, судя по всему,\n　сообщение с тех машин было на языке терронцев!」",
+   "orig": "Ganz\n「Commander, apparently\n　the message from those units was in Terron Language!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Шульц",
+   "text": "「Значит, это подкрепление терронцев...\n　Если они способны так выходить из варпа, мы\n　недооценили их технический прогресс!」",
+   "orig": "Shultz\n「So it is Terron reinforcements...\n　If they can warp out like this, then we've\n　underestimated their technological progress!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Шульц",
+   "text": "「Уничтожить их, пока они не соединились с «Ямато»!\n　Огонь!」",
+   "orig": "Shultz\n「Destroy them before they can unite with the Yamato!\n　Fire!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Тиерия",
+   "text": "「Эти зелёные корабли\n　считают нас врагами!」",
+   "orig": "Tieria\n「Those green ships\n　are treating us as hostile!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Сэцуна",
+   "text": "「А среди остальных есть Гандамы.」",
+   "orig": "Setsuna\n「And there are Gundams with the others.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Тиерия",
+   "text": "「Они явно построены на той же концепции,\n　что и мобильные доспехи, но—」",
+   "orig": "Tieria\n「They definitely seem like they're based off the same\n　concept as mobile suits, but—」"
+  },
+  {
+   "i": 112,
+   "speaker": "Сэцуна",
+   "text": "「Это Гандамы.」",
+   "orig": "Setsuna\n「They are Gundams.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Тиерия",
+   "text": "「Ладно. Я доверяю твоему чутью.」",
+   "orig": "Tieria\n「Okay. I trust your instincts.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Сэцуна",
+   "text": "「Спасибо, Тиерия.」",
+   "orig": "Setsuna\n「Thanks, Tieria.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Сэцуна",
+   "text": "「Встанем на сторону Гандамов\n　и уберёмся отсюда ко всем чертям!」",
+   "orig": "Setsuna\n「Let's side with the Gundams\n　and get the heck out of here!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Тиерия",
+   "text": "「Их сообщение было на всеобщем. Возможно, это\n　спецподразделение, о котором мы не знаем.」",
+   "orig": "Tieria\n「The message they sent was in Common. They could be\n　a special military force we don't know about.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Айхара",
+   "text": "「Командир,\n　машины типа «Гандам» дали сигнал, что помогут нам!」",
+   "orig": "Aihara\n「Commander,\n　the Gundam-types have signaled that they'll help us!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Окита",
+   "text": "「Отлично!\n　Выберемся из этой передряги вместе!」",
+   "orig": "Okita\n「Good!\n　We'll get out of this mess together!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Тиерия",
+   "text": "「Сэцуна!」",
+   "orig": "Tieria\n「Setsuna!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Сэцуна",
+   "text": "「Знаю!」",
+   "orig": "Setsuna\n「I know!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Тиерия",
+   "text": "「Эти зелёные корабли\n　считают нас врагами!」",
+   "orig": "Tieria\n「Those green ships\n　are treating us as hostile!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Сэцуна",
+   "text": "「Я не чувствую враждебности с той стороны.\n　Их сообщение было искренним.」",
+   "orig": "Setsuna\n「I don't sense any hostility from the other side.\n　Their message was honest.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Тиерия",
+   "text": "「Ладно. Я доверяю твоему чутью.」",
+   "orig": "Tieria\n「Okay. I trust your instincts.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Сэцуна",
+   "text": "「Спасибо, Тиерия.」",
+   "orig": "Setsuna\n「Thanks, Tieria.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Сэцуна",
+   "text": "「Встанем на их сторону\n　и уберёмся отсюда ко всем чертям!」",
+   "orig": "Setsuna\n「Let's side with them\n　and get the heck out of here!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тиерия",
+   "text": "「Их сообщение было на всеобщем. Возможно, это\n　спецподразделение, о котором мы не знаем.」",
+   "orig": "Tieria\n「The message they sent was in Common. They could be\n　a special military force we don't know about.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Айхара",
+   "text": "「Командир,\n　машины типа «Гандам» дали сигнал, что помогут нам!」",
+   "orig": "Aihara\n「Commander,\n　the Gundam-types have signaled that they'll help us!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Окита",
+   "text": "「Отлично!\n　Выберемся из этой передряги вместе!」",
+   "orig": "Okita\n「Good!\n　We'll get out of this mess together!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Тиерия",
+   "text": "「Сэцуна!」",
+   "orig": "Tieria\n「Setsuna!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Сэцуна",
+   "text": "「Знаю!」",
+   "orig": "Setsuna\n「I know!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Тиерия",
+   "text": "「Нельзя, чтобы всё кончилось здесь! Истинная\n　цель Celestial Being должна быть достигнута!」",
+   "orig": "Tieria\n「You can't let it end here! The true objective of\n　Celestial Being must be accomplished!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Сэцуна",
+   "text": "「Грядущий диалог... и поиск истины\n　о нашем мире. Вот наша миссия!」",
+   "orig": "Setsuna\n「The coming discussion... and investigating the truth\n　about our world. That is our mission!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Сима",
+   "text": "「Мы вышли к цели!」",
+   "orig": "Shima\n「We've arrived at our target!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Мори",
+   "text": "「С газом что-то происходит! Он столкнулся с\n　протуберанцем звезды и теперь исчезает!」",
+   "orig": "Mori\n「There's been a change in the gas. It ran into a flare\n　from the star, and now it's disappearing!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Санада",
+   "text": "「Он хотел поглотить звезду, но звезда пожирает его.」",
+   "orig": "Sanada\n「It tried to absorb the star, but the star's devouring it.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Санада",
+   "text": "「Понятно.\n　Вы ведь на это и рассчитывали, командир?」",
+   "orig": "Sanada\n「I see.\n　This is what you were hoping for, wasn't it, Commander?」"
+  },
+  {
+   "i": 137,
+   "speaker": "Окита",
+   "text": "「Отлично, принять на\n　борт мобильные машины и\n　те два Гандама!」",
+   "orig": "Okita\n「All right,\n　dock the mobile units\n　and those two Gundams!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Шульц",
+   "text": "「Я не дам тебе уйти,\n　«Ямато»!」",
+   "orig": "Shultz\n「I'm not letting you escape,\n　Yamato!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Шульц",
+   "text": "「Полный вперёд!\n　Не дать «Ямато» пройти за стену протуберанца!」",
+   "orig": "Shultz\n「Full speed ahead!\n　Do not let the Yamato get past the flare wall!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Шульц",
+   "text": "「Это будет последний бой\n　наших кораблей!」",
+   "orig": "Shultz\n「This will be the final battle\n　between our ships!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Мори",
+   "text": "「Вражеский флагман замолчал.」",
+   "orig": "Mori\n「The enemy flagship has gone silent.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Окита",
+   "text": "「Кодай,\n　возвращай мобильные машины\n　и те два Гандама!」",
+   "orig": "Okita\n「Kodai,\n　bring back the mobile units\n　and those two Gundams!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Окита",
+   "text": "「Сима,\n　полный вперёд!」",
+   "orig": "Okita\n「Shima,\n　full speed ahead!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Сима",
+   "text": "「Есть!」",
+   "orig": "Shima\n「Roger!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Сима",
+   "text": "「Мы вышли к цели.」",
+   "orig": "Shima\n「We've arrived at our target.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Мори",
+   "text": "「С газом что-то происходит! Он столкнулся с\n　протуберанцем звезды и теперь исчезает!」",
+   "orig": "Mori\n「There's been a change in the gas. It ran into a flare\n　from the star, and now it's disappearing!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Санада",
+   "text": "「Он хотел поглотить звезду, но звезда пожирает его.」",
+   "orig": "Sanada\n「It tried to absorb the star, but the star's devouring it.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Санада",
+   "text": "「Понятно.\n　Вы ведь на это и рассчитывали, командир?」",
+   "orig": "Sanada\n「I see.\n　This is what you were hoping for, wasn't it, Commander?」"
+  },
+  {
+   "i": 151,
+   "speaker": "Шульц",
+   "text": "「Я не дам тебе уйти,\n　«Ямато»!」",
+   "orig": "Shultz\n「I'm not letting you escape,\n　Yamato!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Шульц",
+   "text": "「Полный вперёд!\n　Не дать «Ямато» пройти за стену протуберанца!」",
+   "orig": "Shultz\n「Full speed ahead!\n　Do not let the Yamato get past the flare wall!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Шульц",
+   "text": "「Это будет последний бой\n　наших кораблей!」",
+   "orig": "Shultz\n「This will be the final battle\n　between our ships!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Мори",
+   "text": "「Командир,\n　вражеский корабль идёт прямо на нас!」",
+   "orig": "Mori\n「Commander,\n　the enemy ship is heading straight for us!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Окита",
+   "text": "「Если мы продолжим бой,\n　звезда поглотит нас всех без разбора.\n　Предложи им прекращение огня!」",
+   "orig": "Okita\n「If we keep fighting any longer,\n　the star will consume us all alike.\n　Call for a ceasefire!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Айхара",
+   "text": "「Корабль гамиласцев прислал ответ.」",
+   "orig": "Aihara\n「The Gamillan ship has sent a reply.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Айхара",
+   "text": "「Сказано: «Глупцы!»」",
+   "orig": "Aihara\n「It says, \"Fools!\"」"
+  },
+  {
+   "i": 158,
+   "speaker": "Окита",
+   "text": "「Ясно.」",
+   "orig": "Okita\n「I see.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Окита",
+   "text": "「Кодай,\n　волновой пушкой — огонь по протуберанцу!」",
+   "orig": "Okita\n「Kodai,\n　fire the wave motion gun at the flare!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Кодай",
+   "text": "「Что?!」",
+   "orig": "Kodai\n「What?!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Окита",
+   "text": "「Выполняй!」",
+   "orig": "Okita\n「Do as I say!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Кодай",
+   "text": "「Е-есть!」",
+   "orig": "Kodai\n「Y-yes, sir!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Кодай",
+   "text": "「Волновая пушка — огонь по протуберанцу!」",
+   "orig": "Kodai\n「Firing the wave motion gun at the flare!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Шульц",
+   "text": "「Огонь!\n　Потопить «Ямато» любой ценой!」",
+   "orig": "Shultz\n「Fire!\n　Sink the Yamato at all costs!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Окита",
+   "text": "「Не обращать внимания!\n　Волновой пушкой расчистим себе путь!」",
+   "orig": "Okita\n「Ignore it!\n　Use the wave motion gun to clear our way out!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Сима",
+   "text": "「В протуберанце открылся проход!」",
+   "orig": "Shima\n「There's an opening in the flare!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Окита",
+   "text": "「Прямо в него!\n　Держать курс!」",
+   "orig": "Okita\n「Head straight through it!\n　Maintain course!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Солдат Гамилас",
+   "text": "「«Ямато» прошёл сквозь протуберанец!」",
+   "orig": "Gamillas Soldier\n「The Yamato has passed through the prominence!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Шульц",
+   "text": "「Невозможно!」",
+   "orig": "Shultz\n「Impossible!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Солдат Гамилас",
+   "text": "「Жар слишком силён для нашего корабля!\n　Корма плавится! Управление потеряно!」",
+   "orig": "Gamillas Soldier\n「This heat is too much for our ship!\n　The stern is melting! Steering controls lost!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Ганц",
+   "text": "「А-а-а-а-а!」",
+   "orig": "Ganz\n「Aaaaaaahhhh!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Шульц",
+   "text": "（Прости меня, Джарлетора.\n　Прости меня, Хильде.）",
+   "orig": "Shultz\n（I'm sorry, Jarletora.\n　I'm sorry, Hilde.）"
+  },
+  {
+   "i": 173,
+   "speaker": "Сэцуна",
+   "text": "「Я ещё ничего не успел совершить!」",
+   "orig": "Setsuna\n「I still haven't accomplished anything!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Тиерия",
+   "text": "「Нет!\n　Резервные копии Веды недоступны!」",
+   "orig": "Tieria\n「No!\n　The Veda's backups are down!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Тиерия",
+   "text": "「Неужели я буду уничтожен?!」",
+   "orig": "Tieria\n「Am I going to be destroyed?!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Система 99",
+   "text": "「Запрос.」",
+   "orig": "System Nine-Nine\n「Inquiry.」"
+  },
+  {
+   "i": 177,
+   "speaker": "$n",
+   "text": "「У тебя просто талант выбирать время.\n　Мы в разгаре боя!」",
+   "orig": "$n\n「You seriously have the worst timing.\n　We're in the middle of battle!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Система 99",
+   "text": "「Сегодня ты ведёшь себя не так, как обычно.\n　Какое из этих «я» настоящее?」",
+   "orig": "System Nine-Nine\n「You are different from your usual self today.\n　Which one is the real you?」"
+  },
+  {
+   "i": 179,
+   "speaker": "$n",
+   "text": "「Ах ты мелкая—\n　Подслушала наш разговор в ангаре, да?」",
+   "orig": "$n\n「You little—\n　You heard the conversation in the hangar, didn't you?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Система 99",
+   "text": "「И твой разговор с командиром Окитой.」",
+   "orig": "System Nine-Nine\n「And your conversation with Commander Okita.」"
+  },
+  {
+   "i": 181,
+   "speaker": "$n",
+   "text": "「Подслушивать невежливо, но, пожалуй, сейчас не время\n　читать тебе нотации. Я отвечу на твой вопрос.」",
+   "orig": "$n\n「Eavesdropping is rude, but I guess now's not the time to\n　berate you for it. I'll answer your question.」"
+  },
+  {
+   "i": 182,
+   "speaker": "$n",
+   "text": "「Моё обычное «я» и сегодняшнее — одно и то же.\n　Люди так устроены.」",
+   "orig": "$n\n「My usual self and the person I am today are one and the\n　same. Humans are like that.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Система 99",
+   "text": "「Э-э...」",
+   "orig": "System Nine-Nine\n「Uh...」"
+  },
+  {
+   "i": 184,
+   "speaker": "$n",
+   "text": "「Вижу, что до тебя не доходит, но объяснять дальше\n　не стану. Эта дурацкая жара сжигает последние\n　остатки моего терпения!」",
+   "orig": "$n\n「I can tell you don't get it, but I'm not gonna try to\n　explain any more. This stupid heat is burning up the last\n　of my patience!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Система 99",
+   "text": "「Запрос.」",
+   "orig": "System Nine-Nine\n「Inquiry.」"
+  },
+  {
+   "i": 186,
+   "speaker": "$n",
+   "text": "「Эй, ты вообще в курсе, что мы сейчас посреди боя?!\n　Я ещё новичок, и чтобы не наделать ошибок,\n　мне нужно сосредоточиться!」",
+   "orig": "$n\n「Uh, you do know we're in the middle of battle right now,\n　right?! I'm still a novice, so I have to concentrate\n　if I don't want to mess up!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Система 99",
+   "text": "「Я помогу тебе, а ты,\n　пожалуйста, ответь на вопрос.」",
+   "orig": "System Nine-Nine\n「I will assist you, so\n　please answer my question.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Система 99",
+   "text": "「Сегодня ты ведёшь себя не так, как обычно.\n　Какое из этих «я» настоящее?」",
+   "orig": "System Nine-Nine\n「You are different from your usual self today.\n　Which one is the real you?」"
+  },
+  {
+   "i": 189,
+   "speaker": "$n",
+   "text": "「А-ах ты!..\n　Ты что, подслушивала в ангаре?」",
+   "orig": "$n\n「Y-you little—!\n　Were you listening back in the hangar?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Система 99",
+   "text": "「И твой разговор с командиром Окитой.」",
+   "orig": "System Nine-Nine\n「And your conversation with Commander Okita.」"
+  },
+  {
+   "i": 191,
+   "speaker": "$n",
+   "text": "「Подслушивать — дурной тон, ясно?\n　Запомни это.」",
+   "orig": "$n\n「It's bad manners to eavesdrop, okay?\n　Remember that.」"
+  },
+  {
+   "i": 192,
+   "speaker": "$n",
+   "text": "「Но на вопрос я отвечу.\n　Я человек, а кто я и как себя веду, зависит от того,\n　что происходит вокруг.」",
+   "orig": "$n\n「But I'll answer your question.\n　I'm a human, so who I am and how I act changes depending\n　on what's going on.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Система 99",
+   "text": "「Э-э...」",
+   "orig": "System Nine-Nine\n「Uh...」"
+  },
+  {
+   "i": 194,
+   "speaker": "$n",
+   "text": "「Знаю, ты не понимаешь, но объяснять больше не буду!\n　Надо что-то делать, иначе «Ямато»\n　несдобровать!」",
+   "orig": "$n\n「I know you don't get it, but I'm not explaining any more!\n　I have to do something or the Yamato\n　is toast!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Сэцуна",
+   "text": "（Если это и правда контакт с инопланетным видом,\n　то вряд ли мои действия что-то серьёзно изменят.）",
+   "orig": "Setsuna\n（If this really is an encounter with an alien species,\n　then I guess nothing I do will make much of a difference.）"
+  },
+  {
+   "i": 196,
+   "speaker": "Сэцуна",
+   "text": "（Но я должен двигаться вперёд!\n　Я должен продолжать свой труд как Инноватор\n　и свою работу ради QAN[T]!）",
+   "orig": "Setsuna\n（But I have to keep moving forward!\n　I have to continue my work as an Innovator, and my work\n　for the QAN[T]!）"
+  },
+  {
+   "i": 197,
+   "speaker": "Тиерия",
+   "text": "（Квантовый прыжок не удался,\n　но мы не можем сдаться лишь потому,\n　что угодили в эту передрягу!）",
+   "orig": "Tieria\n（The quantum jump experiment failed,\n　but we can't give up just because\n　we've gotten caught in this mess!）"
+  },
+  {
+   "i": 198,
+   "speaker": "Тиерия",
+   "text": "（Миссия Celestial Being — завершить QAN[T].\n　А моя миссия — расчищать Сэцуне путь вперёд\n　от любых препятствий!）",
+   "orig": "Tieria\n（It's Celestial Being's mission to complete the QAN[T].\n　And it's my mission to make sure Setsuna's way forward\n　is clear of all obstacles!）"
+  },
+  {
+   "i": 199,
+   "speaker": "Тобиа",
+   "text": "（Я точно почувствовал сознание\n　пилота того Гандама.）",
+   "orig": "Tobia\n（I definitely sensed the consciousness\n　of that Gundam pilot earlier.）"
+  },
+  {
+   "i": 200,
+   "speaker": "Тобиа",
+   "text": "（Кем бы они ни были, это наверняка ньютайп.）",
+   "orig": "Tobia\n（Whoever they are, they must be a Newtype.）"
+  },
+  {
+   "i": 201,
+   "speaker": "Кинкейд",
+   "text": "（Значит, Империя Юпитера в этот раз отсиживается?）",
+   "orig": "Kincade\n（So the Jupiter Empire is sitting this one out, huh?）"
+  },
+  {
+   "i": 202,
+   "speaker": "Кинкейд",
+   "text": "（Но не верю, что силы, с которыми мы дрались на базе\n　Плутона, — это весь потенциал врага.\n　Если так, то где же их подкрепление?）",
+   "orig": "Kincade\n（But I can't believe the forces we fought at the Pluto\n　base were the full extent of the enemy's power.\n　If that's true, then where is their backup?）"
+  },
+  {
+   "i": 203,
+   "speaker": "Окита",
+   "text": "「Всем! Не терять концентрацию ни на миг!\n　Мы сражаемся в тяжелейших условиях,\n　а враг готов умереть, лишь бы одолеть нас!」",
+   "orig": "Okita\n「Everyone, do not lose focus even for a moment!\n　We're fighting in the harshest of environments,\n　and the enemy is willing to die to defeat us!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Кодай",
+   "text": "「Они хотят отомстить\n　за базу на Плутоне?」",
+   "orig": "Kodai\n「Are they trying to take revenge\n　for the Pluto Base?」"
+  },
+  {
+   "i": 205,
+   "speaker": "Окита",
+   "text": "（Нельзя падать — не сейчас и не здесь.）",
+   "orig": "Okita\n（I can't collapse, not now, not here.）"
+  },
+  {
+   "i": 206,
+   "speaker": "Окита",
+   "text": "（Нет. Я не намерен умирать, пока мы не достигнем\n　Искандара, пока своими глазами не увижу\n　возрождённую Землю!）",
+   "orig": "Okita\n（No. I have no intention of dying until we\n　reach Iscandar, until I see the Earth restored\n　with my own two eyes!）"
+  },
+  {
+   "i": 207,
+   "speaker": "Шульц",
+   "text": "（Командир «Ямато» — человек, который не отступает\n　даже перед лицом могучего противника.）",
+   "orig": "Shultz\n（The commander of the Yamato is a man who does not back\n　down even when faced with a mighty opponent.）"
+  },
+  {
+   "i": 208,
+   "speaker": "Шульц",
+   "text": "（Нам не понять такой решимости. Нам, преклонившим\n　колени, когда Гамилас сломил нас.）",
+   "orig": "Shultz\n（We cannot understand that determination. We, who bent\n　the knee in submission when Gamillas broke us.）"
+  },
+  {
+   "i": 209,
+   "speaker": "Шульц",
+   "text": "（Но именно поэтому мы обязаны\n　победить в этом бою!）",
+   "orig": "Shultz\n（But that's exactly why\n　we must win this battle!）"
+  },
+  {
+   "i": 210,
+   "speaker": "Шульц",
+   "text": "（Хильде, я не знаю,\n　увижу ли тебя снова, но я защищу\n　твоё будущее и будущее всех зальцианцев!）",
+   "orig": "Shultz\n（Hilde, I don't know\n　if I'll ever see you again, but I will protect\n　your future, and the future of all Zaltzians!）"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "「Ах!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

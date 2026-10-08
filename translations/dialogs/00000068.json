@@ -1,0 +1,544 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "Мори",
+   "text": "「Поверить не могу — ни одного выжившего...」",
+   "orig": "Mori\n「I can't believe we didn't find a single survivor.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Кодай",
+   "text": "「Этот корабль того же типа, что и\n　ударный эсминец «Юкикадзэ» класса «Исокадзэ».」",
+   "orig": "Kodai\n「This is the same type of ship as the\n　Isokaze-class Space Assault Destroyer Yukikaze.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Кодай",
+   "text": "（Мамору—）\n（Я закончу то, что ты начал—）",
+   "orig": "Kodai\n（Mamoru—）\n（I will finish what you started—）"
+  },
+  {
+   "i": 6,
+   "speaker": "Кодай",
+   "text": "「Нас атакуют!」",
+   "orig": "Kodai\n「We're under attack!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Мори",
+   "text": "「«Космо-Сигал» подбит!」",
+   "orig": "Mori\n「The Cosmo Seagull's been hit!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодай",
+   "text": "「Нет!\n　Теперь нам не на чем уходить!」",
+   "orig": "Kodai\n「No!\n　Now we have no way of escaping!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Анализер",
+   "text": "「Противник быстро приближается, офицер-тактик Кодай.」",
+   "orig": "Analyzer\n「The enemy is fast approaching, Tactical Officer Kodai.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Кодай",
+   "text": "「Гамиласцы!」",
+   "orig": "Kodai\n「Gamillans!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Гамилоид",
+   "text": "「...」",
+   "orig": "Gamiloid\n「...」"
+  },
+  {
+   "i": 12,
+   "speaker": "Гамилоид",
+   "text": "「...」",
+   "orig": "Gamiloid\n「...」"
+  },
+  {
+   "i": 13,
+   "speaker": "Мори",
+   "text": "「Что это за штука?!」",
+   "orig": "Mori\n「What the heck is that?!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Анализер",
+   "text": "「Такой позывной есть только у Гамилас.」",
+   "orig": "Analyzer\n「The call sign is unique to Gamillas.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Кодай",
+   "text": "「Хочешь сказать, эта штука — солдат Гамилас?」",
+   "orig": "Kodai\n「Are you saying that thing's a Gamillan soldier?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Харада",
+   "text": "「А-а-а!」",
+   "orig": "Harada\n「Aaaah!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Кодай",
+   "text": "「Мори!\n　Бери Хараду и Анализера и уходите отсюда!」",
+   "orig": "Kodai\n「Mori!\n　Take Harada and Analyzer and get out of here!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Мори",
+   "text": "「Но—」",
+   "orig": "Mori\n「But—」"
+  },
+  {
+   "i": 19,
+   "speaker": "Кодай",
+   "text": "「Я здесь затем, чтобы защищать тебя!\n　Делай, что говорю!」",
+   "orig": "Kodai\n「The reason I'm here is to protect you!\n　Just listen to me!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Мори",
+   "text": "「Ладно!\n　Береги себя, Кодай!」",
+   "orig": "Mori\n「Fine!\n　But be careful, Kodai!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Кодай",
+   "text": "「Ну давай!\n　Дальше ты не пройдёшь!」",
+   "orig": "Kodai\n「Come on!\n　This is as far as you're getting!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Гамилоид",
+   "text": "「...」",
+   "orig": "Gamiloid\n「...」"
+  },
+  {
+   "i": 23,
+   "speaker": "Кодай",
+   "text": "「Что это?!」",
+   "orig": "Kodai\n「What is that?!」"
+  },
+  {
+   "i": 27,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　-Энцелад-",
+   "orig": "　\n　\n　　　　　　　　　　　　-Enceladus-"
+  },
+  {
+   "i": 28,
+   "speaker": "Кодай",
+   "text": "「Хм...」",
+   "orig": "Kodai\n「Hmm...」"
+  },
+  {
+   "i": 29,
+   "speaker": "Мори",
+   "text": "「Кодай.」",
+   "orig": "Mori\n「Kodai.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Кодай",
+   "text": "「А, привет, Мори.」",
+   "orig": "Kodai\n「Oh, hey, Mori.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Мори",
+   "text": "「Не надо мне «а, привет».\n　Разве не ты должен говорить\n　с теми загадочными пилотами?」",
+   "orig": "Mori\n「Don't \"oh, hey\" me.\n　Aren't you in charge of speaking\n　with those mystery pilots?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Кодай",
+   "text": "「Этим за меня занялся старпом. К тому же\n　командир дал мне разрешение на вылет.」",
+   "orig": "Kodai\n「The XO is handling that for me. Besides,\n　I've got permission to sortie from the commander.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Мори",
+   "text": "「Что-то случилось?\n　Ты сам не свой с тех пор, как мы вернулись на «Ямато».」",
+   "orig": "Mori\n「Did something happen?\n　You haven't been yourself since we got back to the Yamato.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Кодай",
+   "text": "「Хм...」",
+   "orig": "Kodai\n「Hmm...」"
+  },
+  {
+   "i": 35,
+   "speaker": "Мори",
+   "text": "「И Сима, и остальные — все за тебя волнуются.」",
+   "orig": "Mori\n「Shima, everyone—we're all worried about you.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодай",
+   "text": "「Я всё думаю о том пистолете, что ты мне дала.」",
+   "orig": "Kodai\n「I've been thinking about that gun you gave me.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Мори",
+   "text": "「А что с ним?」",
+   "orig": "Mori\n「What about it?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодай",
+   "text": "「На рукоятке выгравировано имя — Мамору Кодай.」",
+   "orig": "Kodai\n「The name engraved on the grip was Mamoru Kodai.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Мори",
+   "text": "「Что?!」",
+   "orig": "Mori\n「What?!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Кодай",
+   "text": "「Это был корабль моего брата.\n　«Юкикадзэ».」",
+   "orig": "Kodai\n「That was my brother's ship.\n　The Yukikaze.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Мори",
+   "text": "「Кодай... Мне так жаль.」",
+   "orig": "Mori\n「Oh, Kodai—I'm so sorry.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Кодай",
+   "text": "（Мамору—）",
+   "orig": "Kodai\n（Mamoru—）"
+  },
+  {
+   "i": 46,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-На борту «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　-Aboard the Yamato-"
+  },
+  {
+   "i": 47,
+   "speaker": "Рёма",
+   "text": "「Хм...」",
+   "orig": "Ryoma\n「Hm...」"
+  },
+  {
+   "i": 48,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hm...」"
+  },
+  {
+   "i": 49,
+   "speaker": "Санада",
+   "text": "「Я — капитан-лейтенант Сиро Санада, старпом корабля.\n　Примите мою глубочайшую благодарность за помощь\n　и спасение жизней экипажа.」",
+   "orig": "Sanada\n「I am Lieutenant Commander Shiro Sanada, executive officer\n　of this ship. You have my deepest gratitude for aiding\n　us, and saving the lives of the crew.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Рёма",
+   "text": "「Давай без формальностей.\n　Я хочу знать, чей это корабль.」",
+   "orig": "Ryoma\n「Let's dispense with the formalities.\n　I want to know who this ship belongs to.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Санада",
+   "text": "「Корабль принадлежит войскам Федерации Земли.\n　Сейчас мы действуем самостоятельно.」",
+   "orig": "Sanada\n「This ship belongs to the Earth Federation Forces.\n　We are operating independently at the moment.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Рёма",
+   "text": "「Не знал, что Федерация построила такой\n　внушительный линкор.」",
+   "orig": "Ryoma\n「I had no idea the Federation had made such an\n　impressive battleship.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Рёма",
+   "text": "「Я слышал, что пока я мотал срок,\n　тут шли нешуточные бои.\n　Мир, который я знал, сильно изменился.」",
+   "orig": "Ryoma\n「I'd heard that there'd been some pretty intense\n　fighting while I was doing time.\n　The world I knew sure has changed.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Санада",
+   "text": "「«Мотал срок»?」",
+   "orig": "Sanada\n「\"Doing time\"?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Рёма",
+   "text": "「После Лунного конфликта.」",
+   "orig": "Ryoma\n「After the Lunar Conflict.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Санада",
+   "text": "「Простите?」",
+   "orig": "Sanada\n「I'm sorry?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рёма",
+   "text": "「Как так: ты военный — и не знаешь\n　о войне с Инвейдерами?」",
+   "orig": "Ryoma\n「How is it that you belong to the military and don't know\n　about the war with the Invaders?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Рёма",
+   "text": "「С тех самых пор\n　я пилот Геттера.」",
+   "orig": "Ryoma\n「I've been a Getter Robot pilot\n　ever since.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Санада",
+   "text": "「Минутку. Говоря «Инвейдеры»,\n　вы о существах, с которыми мы сегодня дрались?」",
+   "orig": "Sanada\n「Wait just a moment. By \"Invader,\"\n　do you mean those creatures we fought today?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Рёма",
+   "text": "「Я что, заикаюсь? Или ты туговат на ухо?\n　Нельзя забыть Инвейдеров! Война с ними была\n　одной из крупнейших в истории!」",
+   "orig": "Ryoma\n「Am I stuttering, or are your ears just that bad?\n　You can't have forgotten the Invaders! The war with\n　them was one of the biggest in history!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Рёма",
+   "text": "「Те, с кем мы дрались сегодня, — какие-то гибриды,\n　наполовину машины.」",
+   "orig": "Ryoma\n「The things we fought today were some sort of hybrid,\n　part machine.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Санада",
+   "text": "「Хм...」",
+   "orig": "Sanada\n「Hmm...」"
+  },
+  {
+   "i": 63,
+   "speaker": "Ниими",
+   "text": "「О чём он говорит, старпом?」",
+   "orig": "Niimi\n「What's he talking about, XO?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Санада",
+   "text": "「Поставлю вопрос иначе, Нагарэ.\n　Какой сейчас год, по-вашему?」",
+   "orig": "Sanada\n「Let me change the question, Nagare.\n　What year do you think it is?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Рёма",
+   "text": "「0082-й или 0083-й. Так?」",
+   "orig": "Ryoma\n「0082, maybe 0083. Right?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Санада",
+   "text": "「Позвольте ещё один простой вопрос.\n　Вы с Земли?」",
+   "orig": "Sanada\n「Permit me another simple question.\n　Are you from Earth?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Рёма",
+   "text": "「Издеваешься?\n　Откуда же ещё?」",
+   "orig": "Ryoma\n「Are you mocking me?\n　Where else would I be from?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Санада",
+   "text": "「Нагарэ, в истории нашей Земли\n　не было нападений существ,\n　называемых Инвейдерами.」",
+   "orig": "Sanada\n「Nagare, our Earth\n　has no history of attack\n　from these creatures called Invaders.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Рёма",
+   "text": "「Что?!」",
+   "orig": "Ryoma\n「What?!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Санада",
+   "text": "「Если верить тому, что вы мне рассказали,\n　объяснение возможно лишь одно.」",
+   "orig": "Sanada\n「If I am to trust that what you've told me is the truth,\n　then there is only one possible explanation.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Санада",
+   "text": "「Вы прибыли сюда\n　с другой Земли —\n　из параллельной нам вселенной.」",
+   "orig": "Sanada\n「You have come here\n　from another Earth,\n　one in a universe parallel to ours.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Рёма",
+   "text": "「Что за бред ты несёшь?」",
+   "orig": "Ryoma\n「What sort of bull is that?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Санада",
+   "text": "「Мне и самому не верится в собственные слова.\n　Но исследования варпа и волновой пушки\n　указывают на существование множества вселенных.」",
+   "orig": "Sanada\n「I don't quite believe what I'm saying, either.\n　But warp and wave motion gun research\n　does point to the existence of multiple universes.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Санада",
+   "text": "「И вот житель одной из этих вселенных стоит\n　передо мной. Эта встреча войдёт в историю!」",
+   "orig": "Sanada\n「And now an inhabitant of one of those universes stands\n　before me. This meeting will go down in history!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Рёма",
+   "text": "「Эй, ты... Ты ведь дуришь меня, да?\n　Или я всё ещё в камере и это галлюцинация—」",
+   "orig": "Ryoma\n「Hey, you—you're messing with me, right?\n　Or I'm still locked up, and this is a hallucination—」"
+  },
+  {
+   "i": 76,
+   "speaker": "Санада",
+   "text": "「Как человек науки, я имею дело лишь с фактами.\n　И «дурить» кого-то правдой не стал бы.」",
+   "orig": "Sanada\n「As a man of science, I deal only in objective fact.\n　I would never \"mess\" with the truth.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Санада",
+   "text": "「Расскажите мне в точности, что произошло,\n　как вам удалось пересечь измерения\n　и попасть в эту вселенную.」",
+   "orig": "Sanada\n「I want you to tell me exactly what happened\n　that allowed you to cross between dimensions\n　and come to this universe.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Санада",
+   "text": "「А вы, Цуруги?\n　Вы из того же мира, что и Нагарэ?」",
+   "orig": "Sanada\n「And you, Tsurugi.\n　Do you come from the same world as Nagare?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Тэцуя",
+   "text": "「Не уверен.」",
+   "orig": "Tetsuya\n「I'm not sure.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Ниими",
+   "text": "「Что?」",
+   "orig": "Niimi\n「What?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Тэцуя",
+   "text": "「Я мало что помню,\n　кроме собственного имени.」",
+   "orig": "Tetsuya\n「There's not much I remember\n　besides my own name.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тэцуя",
+   "text": "「Очнулся я уже на этой планете\n　вместе с Грейт Мазингером.」",
+   "orig": "Tetsuya\n「When I came to, I was on this planet\n　with the Great Mazinger.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Ниими",
+   "text": "「У вас потеря памяти?\n　Скорее всего, диссоциативная амнезия.」",
+   "orig": "Niimi\n「You've experienced loss of memory?\n　Dissociative amnesia, most likely.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hmm...」"
+  },
+  {
+   "i": 85,
+   "speaker": "Рёма",
+   "text": "「Хм...」",
+   "orig": "Ryoma\n「Hmm...」"
+  },
+  {
+   "i": 86,
+   "speaker": "Санада",
+   "text": "「Наш путь к Искандару только начался, а мы уже\n　встретили Геттера, Грейт Мазингера и другие\n　невероятные вещи. Воистину исторический момент.」",
+   "orig": "Sanada\n「We've just begun our journey to Iscandar, and yet we've\n　already encountered a Getter Robot, the Great Mazinger,\n　and other unbelievable things. Historical, indeed.」"
+  },
+  {
+   "i": 90,
+   "speaker": "　",
+   "text": "　\n　　　　-Каюта командующего «Ямато»-",
+   "orig": "　\n　\n　　　　　　-Yamato Commanding Officer's Cabin-"
+  },
+  {
+   "i": 91,
+   "speaker": "Окита",
+   "text": "「Хм...」",
+   "orig": "Okita\n「Hmm...」"
+  },
+  {
+   "i": 92,
+   "speaker": "Кодай",
+   "text": "「Я установил: сигнал бедствия передавал корабль\n　Первого флота космических сил Федерации Земли —\n　эсминец «Юкикадзэ».」",
+   "orig": "Kodai\n「I have determined that distress signal was broadcast\n　by a ship belonging to the Earth Federation Space Forces\n　First Fleet—the Destroyer Yukikaze.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Кодай",
+   "text": "「Выживших на борту не было.」",
+   "orig": "Kodai\n「There were no survivors aboard.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Окита",
+   "text": "「Ясно.」",
+   "orig": "Okita\n「I see.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Кодай",
+   "text": "「Хм...」",
+   "orig": "Kodai\n「Hmm...」"
+  },
+  {
+   "i": 96,
+   "speaker": "Окита",
+   "text": "「Кодай?」",
+   "orig": "Okita\n「Kodai?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Кодай",
+   "text": "「Что?!」",
+   "orig": "Kodai\n「What?!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Окита",
+   "text": "「Я не хочу, чтобы Землю постигла судьба «Юкикадзэ».」",
+   "orig": "Okita\n「I do not want Earth to end up like the Yukikaze.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Кодай",
+   "text": "「...Так точно.」",
+   "orig": "Kodai\n「...Understood.」"
+  },
+  {
+   "i": 103,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　　-Завод-",
+   "orig": "　\n　\n　　　　　　　　　　　　　-Factory-"
+  },
+  {
+   "i": 104,
+   "speaker": "$n",
+   "text": "「В этом сценарии фабрика ещё не открыта,\n　но место под неё я всё равно создам.」",
+   "orig": "$n\n「This scenario hasn't triggered a factory scenario yet,\n　but I'll create a space for it anyway.」"
+  }
+ ]
+}

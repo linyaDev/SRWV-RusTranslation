@@ -1,0 +1,220 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Оператор",
+   "text": "「«Югири», «Курама» и «Абукума» уничтожены!\n　Остальные корабли под плотным огнём!」",
+   "orig": "Operator\n「The Yugiri, Kurama and Abukuma are down!\n　Other vessels also taking heavy fire!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Яманами",
+   "text": "「Командующий!」",
+   "orig": "Yamanami\n「Commander!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Окита",
+   "text": "「Ждать.」",
+   "orig": "Okita\n「Hold.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Оператор",
+   "text": "「Входящее сообщение от противника!\n　«Флоту Земли: немедленно сдавайтесь!»\n　Что ответить?」",
+   "orig": "Operator\n「Incoming transmission from the enemy!\n　\"Attention Earth Fleet: Surrender at once!\"\n　How do you respond?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Окита",
+   "text": "「Передайте: мы не сдадимся никогда.」",
+   "orig": "Okita\n「Tell them we will never surrender.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Оператор",
+   "text": "「Как?..」",
+   "orig": "Operator\n「Sir?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Окита",
+   "text": "「Никогда!」",
+   "orig": "Okita\n「Never!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Оператор",
+   "text": "「Есть!\n　Флот Земли отвечает:\n　«Никогда!»」",
+   "orig": "Operator\n「Yes, sir!\n　Earth Fleet responding!\n　\"Never!\"」"
+  },
+  {
+   "i": 8,
+   "speaker": "Оператор",
+   "text": "「«Такао», «Тёкай» и «Асигара» уничтожены!\n　Уничтожено 99% флота!」",
+   "orig": "Operator\n「The Takao, Chokai, and Ashigara are down!\n　That's 99% of the fleet destroyed!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Окита",
+   "text": "「От «Аматэрасу» вестей так и нет?」",
+   "orig": "Okita\n「Still no word from the Amaterasu?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Оператор",
+   "text": "「Никак нет!\n　Стойте… есть сигнал!」",
+   "orig": "Operator\n「None confirmed, sir!\n　Wait, I'm getting a signal!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Оператор",
+   "text": "「Объект идёт на высокой скорости! Сейчас\n　он минует Венеру и через 10 минут\n　достигнет Марса!」",
+   "orig": "Operator\n「It's set a course at high velocity! It will\n　pass Venus momentarily, arriving at Mars\n　within 10 minutes!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Окита",
+   "text": "「Пусть дойдёт благополучно и попадёт\n　в руки наших сил на Марсе.」",
+   "orig": "Okita\n「May it find safe passage, and land in the\n　hands of the forces stationed there.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Окита",
+   "text": "「Передайте в штаб шифровку:\n　«Амано-Ивато Хираку»!」",
+   "orig": "Okita\n「Send an encrypted message to HQ:\n　Amano-Iwato Hiraku!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Окита",
+   "text": "「Первый флот завершает операцию!\n　Отступаем!」",
+   "orig": "Okita\n「The First Fleet hereby ends this operation!\n　Retreat!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Яманами",
+   "text": "「Что творит этот эсминец?!」",
+   "orig": "Yamanami\n「What is that destroyer doing!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Окита",
+   "text": "「Чей это корабль?」",
+   "orig": "Okita\n「Whose ship is it?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Оператор",
+   "text": "「«Юкикадзэ» капитан-лейтенанта Кодая!」",
+   "orig": "Operator\n「It's Lt. Cmdr. Kodai's Yukikaze, sir!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Окита",
+   "text": "「Что ты делаешь, Кодай?\n　Следуй за мной!」",
+   "orig": "Okita\n「What are you doing Kodai?\n　Follow my lead!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Мамору Кодай",
+   "text": "「Я не побегу, командующий Окита!」",
+   "orig": "Mamoru Kodai\n「I will not flee, Commander Okita!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Окита",
+   "text": "「Это приказ, Кодай!」",
+   "orig": "Okita\n「That's an order, Kodai!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Мамору Кодай",
+   "text": "「«Юкикадзэ» удержит рубеж\n　и прикроет отход «Кирисимы»!」",
+   "orig": "Mamoru Kodai\n「The Yukikaze will hold the line\n　and cover the Kirishima's retreat!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Окита",
+   "text": "「Мы потеряли много славных людей, но\n　операция удалась. Мы должны отойти,\n　Кодай!」",
+   "orig": "Okita\n「We lost a lot of good men, but the\n　operation was a success. We have to withdraw,\n　Kodai!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Мамору Кодай",
+   "text": "「Иначе флот будет истреблён полностью!\n　Землю будет некому защищать!」",
+   "orig": "Mamoru Kodai\n「The fleet will be entirely decimated, sir!\n　There will be no one left to protect Earth!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Мамору Кодай",
+   "text": "「При всём уважении, я не позволю этому\n　месту стать вашей могилой! Земле нужны такие,\n　как вы!」",
+   "orig": "Mamoru Kodai\n「With all due respect, sir, I cannot allow \n　this place to be your grave! Earth needs men\n　like you!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Окита",
+   "text": "「Это касается и тебя!\n　За нами, Кодай!」",
+   "orig": "Okita\n「The same goes for you!\n　Follow us, Kodai!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Мамору Кодай",
+   "text": "「Спасибо за эти слова, командующий.\n　Я их не забуду.」",
+   "orig": "Mamoru Kodai\n「I appreciate you saying so, sir.\n　I'll take your word for it.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Окита",
+   "text": "「Следуйте за нами!\n　Вы должны—!」",
+   "orig": "Okita\n「Follow us!\n　You have to-!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Мамору Кодай",
+   "text": "「Прощайте!\n　Берегите Землю за меня.」",
+   "orig": "Mamoru Kodai\n「Farewell, sir!\n　Watch over Earth for me.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Мамору Кодай",
+   "text": "「Простите меня, парни.\n　Корабль идёт на таран вражеского флота!」",
+   "orig": "Mamoru Kodai\n「Apologies, everyone.\n　This ship will now charge into the enemy fleet!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Оператор",
+   "text": "「«Юкикадзэ» атакует вражеский флот!」",
+   "orig": "Operator\n「The Yukikaze is attacking the enemy fleet!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Яманами",
+   "text": "「Ваши приказания?」",
+   "orig": "Yamanami\n「Orders, Commander?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Окита",
+   "text": "「Так держать, Яманами.」",
+   "orig": "Okita\n「Maintain this course, Yamanami.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Яманами",
+   "text": "「Есть так держать!」",
+   "orig": "Yamanami\n「Maintaining course!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Окита",
+   "text": "（Не вздумай умирать, Кодай.）",
+   "orig": "Okita\n（Don't die on me, Kodai.）"
+  },
+  {
+   "i": 35,
+   "speaker": "Мамору Кодай",
+   "text": "（Удачи, командующий Окита.\n　Судьба Земли в ваших руках.）",
+   "orig": "Mamoru Kodai\n（Good luck, Commander Okita.\n　Earth's fate is in your hands.）"
+  }
+ ]
+}
