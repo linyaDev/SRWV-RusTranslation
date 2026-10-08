@@ -1,0 +1,2878 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　-Медотсек «Ямато»-",
+   "orig": "　\n　　\n　　　　　　　　　-Yamato Medical Bay-"
+  },
+  {
+   "i": 4,
+   "speaker": "Садо",
+   "text": "「Хм...」",
+   "orig": "Sado\n「Hmm...」"
+  },
+  {
+   "i": 5,
+   "speaker": "Тэцуя",
+   "text": "「Хм?」",
+   "orig": "Tetsuya\n「Hm?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Харада",
+   "text": "「Что такое, доктор?」",
+   "orig": "Harada\n「What is it, Doctor?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Садо",
+   "text": "「Ни физических травм, ни повреждений мозга.\n　Амнезия у вас психогенная, Цуруги.」",
+   "orig": "Sado\n「No physical trauma, no brain injuries.\n　Seems your amnesia is psychological, Tsurugi.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Садо",
+   "text": "「Я заодно глянул на вашу с Нагарэ генетическую\n　структуру. Насколько я могу судить, вы оба\n　земляне, самые настоящие.」",
+   "orig": "Sado\n「I've also had a look at your and Nagare's genetic\n　structure. Far as I can tell, you're both Earthlings,\n　through and through.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Рёма",
+   "text": "「Да неужели?」",
+   "orig": "Ryoma\n「Oh, you don't say?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Садо",
+   "text": "「Без сарказма, прошу. Я всего лишь\n　ставлю диагноз — я ведь доктор.」",
+   "orig": "Sado\n「No need for sarcasm. I'm just telling you\n　my diagnosis, being a doctor and all.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Садо",
+   "text": "「И должен сказать: будь я помоложе —\n　завидовал бы вашим телам!」",
+   "orig": "Sado\n「But I have to say, you two have bodies I'd be\n　jealous of if I were any younger!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Тэцуя",
+   "text": "「Пилот обязан быть в идеальной форме.」",
+   "orig": "Tetsuya\n「Well, pilots need to be in top physical condition.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Садо",
+   "text": "「Хм-м.\n　Мне-то этого\n　никогда не понять.」",
+   "orig": "Sado\n「Hmmm.\n　Not that I'd ever\n　know anything 'bout that.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Садо",
+   "text": "「Так вот, роботы, которыми вы управляете,\n　это, видимо, и есть\n　те самые «супер-роботы».」",
+   "orig": "Sado\n「Well, I suppose the robots you two pilot\n　are what could be called\n　\"super robots.\"」"
+  },
+  {
+   "i": 15,
+   "speaker": "Тэцуя",
+   "text": "「Хотите сказать, в этом мире\n　супер-роботов не существует?」",
+   "orig": "Tetsuya\n「Do you mean that super robots\n　don't exist in this world?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Садо",
+   "text": "「Ну, Гандамы, пожалуй,\n　примерно то же самое.」",
+   "orig": "Sado\n「Well, I guess\n　Gundams are about the same thing.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Тэцуя",
+   "text": "「О!」",
+   "orig": "Tetsuya\n「Oh!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Харада",
+   "text": "「Что не так, Цуруги?\n　Что-то вспомнили?」",
+   "orig": "Harada\n「What's wrong, Tsurugi?\n　Did you remember something?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тэцуя",
+   "text": "「Н-нет, ничего.」",
+   "orig": "Tetsuya\n「N-no, it's nothing.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Садо",
+   "text": "「Ну-ну, Макото!\n　Не давите на него так!」",
+   "orig": "Sado\n「Come now, Makoto!\n　Don't put too much pressure on him!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Харада",
+   "text": "「Я просто подумала, что это могло бы\n　всколыхнуть его память.」",
+   "orig": "Harada\n「I just thought that something might have\n　triggered his memories.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Садо",
+   "text": "「Цуруги, амнезия — штука коварная.\n　Однажды что-нибудь встанет на место,\n　и память хлынет обратно вся сразу.」",
+   "orig": "Sado\n「Tsurugi, amnesia is a tricksome thing.\n　Someday, something might click into place,\n　and all your memories will come rushing back.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Садо",
+   "text": "「А до тех пор не форсируйте.」",
+   "orig": "Sado\n「But until then, don't try to force it.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Тэцуя",
+   "text": "「Понял. Большое спасибо, доктор Садо.」",
+   "orig": "Tetsuya\n「I understand. Thank you very much, Doctor Sado.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Кодай",
+   "text": "「Осмотр закончен, доктор Садо?」",
+   "orig": "Kodai\n「Is the examination over, Doctor Sado?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Садо",
+   "text": "「Закончен!\n　Оба здоровы как бык!」",
+   "orig": "Sado\n「It is!\n　They're both fit as a fiddle!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Кодай",
+   "text": "「Тогда, господа Нагарэ и Цуруги,\n　прошу следовать за мной.」",
+   "orig": "Kodai\n「Well then, Mr. Nagare, Mr. Tsurugi,\n　please come with me.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Рёма",
+   "text": "「Не надо никаких «господ».\n　Мы теперь служим на «Ямато» вместе,\n　так что обойдёмся без формальностей.」",
+   "orig": "Ryoma\n「No need to call me \"Mr.\" whatever.\n　We're working together on the Yamato now,\n　you don't have to worry about formalities.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Тэцуя",
+   "text": "「И я о том же.\n　Пусть это и другой мир, но я не стану сидеть\n　сложа руки, если Земле грозит опасность.」",
+   "orig": "Tetsuya\n「Same here.\n　Even if this is another world, there's no way I'll just\n　sit idly by if Earth is in danger.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Кодай",
+   "text": "「Спасибо.\n　Мы признательны за помощь.」",
+   "orig": "Kodai\n「Thanks.\n　We're grateful for your help.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Тэцуя",
+   "text": "「А мы признательны за еду, одежду\n　и всё остальное, что вы нам дали.」",
+   "orig": "Tetsuya\n「And we're grateful for the food and clothing\n　and everything else that you've given us.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Кодай",
+   "text": "「Что ж, Нагарэ, Цуруги,\n　за мной.」",
+   "orig": "Kodai\n「Well then, Nagare, Tsurugi,\n　follow me.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Рёма",
+   "text": "「Идёт, Кодай.」",
+   "orig": "Ryoma\n「Sure thing, Kodai.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тэцуя",
+   "text": "「Всего доброго, доктор Садо.」",
+   "orig": "Tetsuya\n「Please excuse us, Doctor Sado.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Харада",
+   "text": "「Какая удача, что мы встретили этих двоих!\n　Теперь у нас ещё больше надёжных товарищей.」",
+   "orig": "Harada\n「What luck, meeting those two!\n　Now we have even more comrades we can rely on.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Садо",
+   "text": "「А вот Цуруги стоит поберечься.」",
+   "orig": "Sado\n「Tsurugi ought to be careful, though.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Харада",
+   "text": "「Что? Почему?」",
+   "orig": "Harada\n「What? Why?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Садо",
+   "text": "「Если при его состоянии он получит серьёзную\n　травму, это вполне может его и погубить.」",
+   "orig": "Sado\n「If he were to get hurt real bad with what he's\n　been through, that could very well be the end of him.」"
+  },
+  {
+   "i": 42,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Лаборатория «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　-Yamato Laboratory-"
+  },
+  {
+   "i": 43,
+   "speaker": "Ниими",
+   "text": "「Как жаль, что\n　захваченного гамиласского андроида\n　придётся уничтожить.」",
+   "orig": "Niimi\n「What a shame that\n　the Gamillan android we recovered\n　has to be destroyed.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Санада",
+   "text": "「Его ведь собрали заново ради анализа.\n　Если держать его активным на корабле долго,\n　слишком высок риск беды.」",
+   "orig": "Sanada\n「It's because it was reassembled for analysis.\n　The chances of it causing trouble on the ship if we\n　keep it active here for long are too high.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Ниими",
+   "text": "「А ведь когда Система 99 взломала\n　главный компьютер, это был шок.」",
+   "orig": "Niimi\n「It was quite the shock when System Nine-Nine\n　hacked into the mainframe, wasn't it?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Санада",
+   "text": "「У науки границ нет, а у людей есть.\n　Это был хороший урок: вот что бывает,\n　когда слишком далеко лезешь в неизвестное.」",
+   "orig": "Sanada\n「Science has no limits, but people do.\n　That was a good lesson in what happens when\n　we venture too far into the unknown.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Санада",
+   "text": "「Именно поэтому с этим солдатом-андроидом\n　нужно обращаться крайне осторожно.」",
+   "orig": "Sanada\n「That is why we must take the utmost care\n　in our handling of this android soldier.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Ниими",
+   "text": "「Значит, просто отключим\n　и выбросим в космос?」",
+   "orig": "Niimi\n「So we'll just shut it down\n　and dump it into space?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Санада",
+   "text": "「С утилизацией рисковать нельзя: вдруг у него есть\n　самоликвидатор, и мы его запустим.」",
+   "orig": "Sanada\n「We can't take any risk in its disposal, in case it has\n　a self-destruct sequence we might trigger.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Санада",
+   "text": "「Анализ позволил нам ощутить\n　истинный уровень\n　гамиласских технологий.」",
+   "orig": "Sanada\n「By analyzing it, we were able\n　to get a feel for the true extent\n　of Gamillan technology.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Санада",
+   "text": "「Но о его природе выводов пока не сделать.\n　Это самовоспроизводящаяся механическая форма жизни?\n　Или просто оружие в человеческом облике?」",
+   "orig": "Sanada\n「But we still can't draw any conclusions about its nature.\n　Is it a self-propagating mechanical life form?\n　Or is it simply a weapon made to look humanoid?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Ниими",
+   "text": "「Но мы выяснили: гамиласцы пользуются той же\n　математикой и понимают физику так же, как мы.\n　С их культурой можно вести диалог.」",
+   "orig": "Niimi\n「But we have ascertained that Gamillans use mathematics\n　like we do and understand physics like we do.\n　Their culture is one we can communicate with.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Санада",
+   "text": "「При встрече с чужой цивилизацией в космосе\n　это крайне важно.\n　Особенно если речь о войне.」",
+   "orig": "Sanada\n「When encountering a foreign civilization in space,\n　these things are very important.\n　Especially when it comes to war.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Ниими",
+   "text": "「Как говорит Дзюдзо Окита,\n　мы играем в шахматы по одним правилам.」",
+   "orig": "Niimi\n「As Juzo Okita says,\n　it lets us play chess by the same rules.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Санада",
+   "text": "「Это о войне между людьми. Возможно, так же\n　и с войной между любыми разумными существами.」",
+   "orig": "Sanada\n「When it comes to war between humans. Perhaps\n　it is the same for war between any sentient beings.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Ниими",
+   "text": "「В каком смысле?」",
+   "orig": "Niimi\n「What do you mean?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Санада",
+   "text": "「Я задумался об этом, глядя на Анализера\n　в последние несколько дней.」",
+   "orig": "Sanada\n「It's something I've been thinking about after\n　seeing how Analyzer has been these past few days.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Анализер",
+   "text": "「Это прощание, Альтер.」",
+   "orig": "Analyzer\n「This is farewell, Alter.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Альтер",
+   "text": "「...」",
+   "orig": "Alter\n「...」"
+  },
+  {
+   "i": 60,
+   "speaker": "Анализер",
+   "text": "「Я до сих пор не знаю, по душе ли тебе\n　имя, которое я тебе дал.」",
+   "orig": "Analyzer\n「Even now I am unsure if you are pleased\n　by the name I gave you.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Альтер",
+   "text": "「...」",
+   "orig": "Alter\n「...」"
+  },
+  {
+   "i": 62,
+   "speaker": "Анализер",
+   "text": "「Ты мой враг. Ты машина.\n　Я понимаю, как странно,\n　что я так с тобой говорю.」",
+   "orig": "Analyzer\n「You are my enemy. You are a machine.\n　I realize how strange it is\n　for me to speak with you like this.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Анализер",
+   "text": "「Похоже, близкая разлука меня печалит.」",
+   "orig": "Analyzer\n「It seems I am distressed by our imminent separation.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Альтер",
+   "text": "「...」",
+   "orig": "Alter\n「...」"
+  },
+  {
+   "i": 65,
+   "speaker": "Анализер",
+   "text": "「Итак. Прощай, Альтер.」",
+   "orig": "Analyzer\n「Well. Goodbye, Alter.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Анализер",
+   "text": "「Хм...」",
+   "orig": "Analyzer\n「Hmm...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Санада",
+   "text": "「Тебе это было тяжело, да, Анализер?\n　Прости, что попросил тебя о таком.」",
+   "orig": "Sanada\n「That was really hard on you, wasn't it, Analyzer?\n　I'm sorry I asked you to do something like that.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Анализер",
+   "text": "「Не стоит.\n　Я был наиболее пригоден для такой\n　нестандартной ситуации.」",
+   "orig": "Analyzer\n「Do not be.\n　I was the most qualified to handle such\n　an extraordinary situation.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Анализер",
+   "text": "「Прошу прощения. Возвращаюсь на мостик.」",
+   "orig": "Analyzer\n「Excuse me. I will return to the bridge.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Санада",
+   "text": "「Прощался точно как человек с другом.」",
+   "orig": "Sanada\n「It acted just like a human parting with a friend.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Ниими",
+   "text": "「Знаете, я слышала, что на «Юкикадзэ»\n　выживших не было.」",
+   "orig": "Niimi\n「You know, I heard that there weren't\n　any survivors on the Yukikaze.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Санада",
+   "text": "「Да.」",
+   "orig": "Sanada\n「Yeah.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Ниими",
+   "text": "「Вы ведь очень волновались, да?\n　По-моему, это достойно уважения.」",
+   "orig": "Niimi\n「You were really worried, weren't you, sir?\n　I think that's very admirable.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Санада",
+   "text": "「Хм...」",
+   "orig": "Sanada\n「Hmm...」"
+  },
+  {
+   "i": 75,
+   "speaker": "Ниими",
+   "text": "「Сэр?」",
+   "orig": "Niimi\n「Sir?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Санада",
+   "text": "「Есть что-то ещё, верно?」",
+   "orig": "Sanada\n「There's something else, isn't there?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Ниими",
+   "text": "「Как психолог-консультант\n　я обязана это сказать.」",
+   "orig": "Niimi\n「As a psychological counselor,\n　I must say this.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Ниими",
+   "text": "「Есть вероятность, что Тэцуя Цуруги\n　лжёт.」",
+   "orig": "Niimi\n「There is a possibility that Tetsuya Tsurugi\n　is lying.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Анализер",
+   "text": "「Хм...」",
+   "orig": "Analyzer\n「Hmm...」"
+  },
+  {
+   "i": 80,
+   "speaker": "Анализер",
+   "text": "「Кто здесь?」",
+   "orig": "Analyzer\n「Who is it?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Система 99",
+   "text": "「Тебе грустно,\n　Анализер?」",
+   "orig": "System Nine-Nine\n「Are you sad,\n　Analyzer?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Анализер",
+   "text": "「Не знаю.\n　Я машина. Я не должен чувствовать грусть.」",
+   "orig": "Analyzer\n「I do not know.\n　I am a machine. I should not feel sadness.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Анализер",
+   "text": "「Но в моём ядре —\n　необъяснимый дискомфорт.」",
+   "orig": "Analyzer\n「But in my core\n　is a discomfort I cannot explain.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Система 99",
+   "text": "「Ты о своём «сердце»?」",
+   "orig": "System Nine-Nine\n「Do you mean in your \"heart\"?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Анализер",
+   "text": "「Не знаю.」",
+   "orig": "Analyzer\n「I do not know.」"
+  },
+  {
+   "i": 89,
+   "speaker": "　",
+   "text": "　\n　　　　　　　-Зал инструктажа авиагруппы «Ямато»-",
+   "orig": "　\n　\n　　　　　　-Yamato Aircraft Squad Briefing Room-"
+  },
+  {
+   "i": 90,
+   "speaker": "Кодай",
+   "text": "「С сегодняшнего дня эти двое — в авиагруппе.」",
+   "orig": "Kodai\n「As of today, these two are part of the Aircraft Squad.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Рёма",
+   "text": "「Звать Рёма Нагарэ.」",
+   "orig": "Ryoma\n「The name's Ryoma Nagare.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Тэцуя",
+   "text": "「Я Тэцуя Цуруги.\n　Рад знакомству.」",
+   "orig": "Tetsuya\n「I'm Tetsuya Tsurugi.\n　Nice to meet you.」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "（Этих двоих в авиагруппу берут,\n　а Акиру — нет?）",
+   "orig": "$n\n（So these two can join the Aircraft Squad,\n　but not Akira?）"
+  },
+  {
+   "i": 94,
+   "speaker": "Синохара",
+   "text": "（На твоём месте я бы не говорил этого при командире.\n　Её поступок он спустил — был аварийный случай,\n　но злится всё равно страшно.）",
+   "orig": "Shinohara\n（I wouldn't say that to the captain's face if I were you.\n　He's overlooking her actions since it was an emergency,\n　but he's still really angry.）"
+  },
+  {
+   "i": 95,
+   "speaker": "Вельт",
+   "text": "「Вопрос!\n　Говорят, вы двое с другой Земли.\n　Можете рассказать об этом подробнее?」",
+   "orig": "Velt\n「Question!\n　I've heard that you two are from another Earth.\n　Could you explain a little more about that?」"
+  },
+  {
+   "i": 96,
+   "speaker": "Вельт",
+   "text": "「До сих пор существование параллельных миров\n　было лишь теорией,\n　а теперь у нас наконец есть доказательство—」",
+   "orig": "Velt\n「Up until now, the existence of parallel universes\n　has only ever been theoretical,\n　but now we finally have concrete proof—」"
+  },
+  {
+   "i": 97,
+   "speaker": "Кинкейд",
+   "text": "「Сам попросил объяснить —\n　так не трещи без умолку!」",
+   "orig": "Kincade\n「Don't start gabbing away yourself\n　after asking them to explain!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Лотти",
+   "text": "「Похоже, они здорово раззадорили Вельта, да?」",
+   "orig": "Lottie\n「Seems like they've really piqued Velt's curiosity, huh?」"
+  },
+  {
+   "i": 99,
+   "speaker": "Кодай",
+   "text": "「К такому выводу пришёл старпом —\n　выслушав рассказы этих двоих\n　и осмотрев их машины.」",
+   "orig": "Kodai\n「The XO has come to that conclusion\n　after listening to these two tell their stories,\n　and based on the mechs they were piloting.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Кодай",
+   "text": "「Это не то чтобы доказательство,\n　скорее единственное разумное объяснение.」",
+   "orig": "Kodai\n「It's not really concrete proof,\n　but more like the only plausible explanation.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Синохара",
+   "text": "「Ну и не повезло же вам —\n　попасть во вселенную,\n　где Земля уже разорена.」",
+   "orig": "Shinohara\n「Well, you two have rotten luck,\n　coming to a universe where the Earth\n　has been destroyed.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Рёма",
+   "text": "「Нам рассказали, что тут за дела.」",
+   "orig": "Ryoma\n「We heard about the state of things in this universe.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Рёма",
+   "text": "「Но и моей Земле\n　грозит беда.」",
+   "orig": "Ryoma\n「But my Earth is\n　threatened, too.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Рёма",
+   "text": "「Те твари, с которыми мы\n　бились на спутнике Сатурна, —\n　вылитые Инвейдеры, что напали на мою Землю.」",
+   "orig": "Ryoma\n「Those monsters we just \n　fought on Saturn's moon are\n　a dead ringer for the Invaders that attacked my Earth.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Като",
+   "text": "「Эти твари напали на Землю?」",
+   "orig": "Kato\n「Those things attacked Earth?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Рёма",
+   "text": "「Говорят, это космические бактерии,\n　паразиты, что живут на геттер-лучах.」",
+   "orig": "Ryoma\n「I've been told they're space bacteria,\n　parasites that thrive in Getter Radiation.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Кинкейд",
+   "text": "「Это ещё что?」",
+   "orig": "Kincade\n「What is that?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Рёма",
+   "text": "「Это такие космические\n　лучи. Мой Геттер берёт\n　из них энергию.」",
+   "orig": "Ryoma\n「It's a kind of cosmic ray.\n　My Getter Robot uses it\n　for energy.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рёма",
+   "text": "「Он работает — значит,\n　геттер-лучи есть и здесь.」",
+   "orig": "Ryoma\n「Since it's operational,\n　that means that Getter Radiation exists here, too.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Синохара",
+   "text": "「И ты сражался с Инвейдерами\n　вот на этом роботе?」",
+   "orig": "Shinohara\n「So you fought these Invaders\n　with that robot?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Рёма",
+   "text": "「Не я один.\n　Против Инвейдеров поднялось всё человечество.」",
+   "orig": "Ryoma\n「I wasn't the only one.\n　All of humanity came together to fight the Invaders.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Рёма",
+   "text": "「И вместе мы одержали решающую победу\n　над ними на Луне.\n　Мы их уничтожили.」",
+   "orig": "Ryoma\n「And together, we were able to win a decisive victory\n　against them on the moon.\n　We destroyed them.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Рёма",
+   "text": "「Правда, что было дальше,\n　я понятия не имею.」",
+   "orig": "Ryoma\n「Of course, I have no idea what happened\n　after that.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Лотти",
+   "text": "「В каком смысле?」",
+   "orig": "Lottie\n「What do you mean?」"
+  },
+  {
+   "i": 116,
+   "speaker": "Рёма",
+   "text": "「После того боя\n　я три года сидел в тюрьме.」",
+   "orig": "Ryoma\n「After the battle,\n　I was imprisoned for three years.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Вельт",
+   "text": "「В тюрьме?\n　Так вы преступник.」",
+   "orig": "Velt\n「Imprisoned?\n　So you're a criminal.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Рёма",
+   "text": "「Нет. Меня взяли по ложному обвинению. Я невиновен.\n　Хотя так все говорят. Мне никто не поверил.」",
+   "orig": "Ryoma\n「No. I was arrested on false charges. I'm innocent.\n　But then again, they all say that. No one believed me.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Рёма",
+   "text": "「Как пилот я был слишком ценен, чтобы долго сидеть.\n　После освобождения мы снова ввязались в бой\n　с новой волной Инвейдеров.」",
+   "orig": "Ryoma\n「I was too valuable as a pilot to keep locked up for long.\n　After I was released, we ended up battling a new wave\n　of Invaders.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Рёма",
+   "text": "「Мы пустили дейтронную ракету, чтобы покончить\n　с Инвейдерами раз и навсегда. Меня накрыло взрывом,\n　а очнулся я уже на Энцеладе.」",
+   "orig": "Ryoma\n「We fired a deuteron missile in hopes of getting rid of\n　the Invaders once and for all. I was caught up in that\n　explosion, and when I came to, I was on Enceladus.」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「То есть\n　именно взрыв дейтронной ракеты\n　разорвал границы между измерениями?」",
+   "orig": "$n\n「So then\n　the explosion from that deuteron missile is what\n　tore open the barriers between dimensions?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Рёма",
+   "text": "「Да чёрт знает.」",
+   "orig": "Ryoma\n「Hell if I know.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Рёма",
+   "text": "「Короче, этого Чёрного Геттера я собрал\n　заново из найденного хлама.」",
+   "orig": "Ryoma\n「In any case, I put that Black Getter back together\n　from what bits of scrap I could find.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Рёма",
+   "text": "「Понял, что вон там — спутник Сатурна,\n　и стал искать дорогу\n　домой, на Землю.」",
+   "orig": "Ryoma\n「I figured that was a moon of Saturn over there\n　and started looking for a way back home\n　to Earth based on that.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Като",
+   "text": "「И тут вы наткнулись на нас.」",
+   "orig": "Kato\n「And that's when you ran into us.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Синохара",
+   "text": "「А ты что скажешь?」",
+   "orig": "Shinohara\n「And what about you?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hmm...」"
+  },
+  {
+   "i": 128,
+   "speaker": "Синохара",
+   "text": "「Ах да — я слышал, у тебя амнезия.」",
+   "orig": "Shinohara\n「Oh, that's right—I heard you're suffering from amnesia.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Тэцуя",
+   "text": "「И что? Я думаю, как Рёма. Не стану сидеть\n　и смотреть со стороны, если Земле грозит беда.」",
+   "orig": "Tetsuya\n「So what? I feel the same way Ryoma does. I'm not\n　gonna just sit back and watch if the Earth is in danger.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Рёма",
+   "text": "「Пока мы не найдём дорогу в свой мир,\n　будем делать всё, чтобы спасти эту Землю.」",
+   "orig": "Ryoma\n「At least until we can find a way back to our own world,\n　we'll do whatever we can to save this Earth.」"
+  },
+  {
+   "i": 131,
+   "speaker": "$n",
+   "text": "「Вы здесь не родились,\n　а относитесь к этой Земле как к своей?\n　Это, знаете, здорово.」",
+   "orig": "$n\n「Even though you weren't born there,\n　you feel the same towards this Earth as your own?\n　That's pretty amazing.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Като",
+   "text": "「Ладно, я услышал достаточно.\n　Нагарэ, Цуруги, теперь вы с нами.」",
+   "orig": "Kato\n「All right, I've heard enough.\n　Nagare, Tsurugi, from now on, you're one of us.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Рёма",
+   "text": "「Будем знакомы.」",
+   "orig": "Ryoma\n「Looking forward to it.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Кодай",
+   "text": "「В авиагруппу вливается ещё один человек.\n　А, легка на помине.」",
+   "orig": "Kodai\n「There's one more person joining the Aircraft Squad.\n　Ah, speak of the devil.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Ямамото",
+   "text": "「Разрешите.」",
+   "orig": "Yamamoto\n「Excuse me.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Като",
+   "text": "「О!」",
+   "orig": "Kato\n「Oh!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Кодай",
+   "text": "「Представлять её, похоже, не нужно.\n　С сегодняшнего дня она переведена из счётной\n　части в авиагруппу тактического отдела.」",
+   "orig": "Kodai\n「I guess there's no need for introductions.\n　As of today, she's been transferred from Accounting\n　to Aircraft Squad of Tactical Dept.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Ямамото",
+   "text": "「Меня зовут Ямамото.\n　Буду рада служить вместе с вами.」",
+   "orig": "Yamamoto\n「My name is Yamamoto.\n　I'm looking forward to my new assignment.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Като",
+   "text": "「Акира!\n　Ты что здесь делаешь?」",
+   "orig": "Kato\n「Akira!\n　What are you doing here?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Ямамото",
+   "text": "「Э-э...」",
+   "orig": "Yamamoto\n「Uh...」"
+  },
+  {
+   "i": 141,
+   "speaker": "Кодай",
+   "text": "「В счётную часть пришли новые люди. Это и её\n　поступок на днях решили дело о переводе.\n　Командующий, разумеется, тоже одобрил.」",
+   "orig": "Kodai\n「New personnel have joined Accounting. That, plus her\n　actions the other day, have led me to reassign her.\n　Of course, the commander approves as well.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Като",
+   "text": "「М-да.」",
+   "orig": "Kato\n「Geez.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Ямамото",
+   "text": "「Командир Като?」",
+   "orig": "Yamamoto\n「Captain Kato?」"
+  },
+  {
+   "i": 144,
+   "speaker": "Като",
+   "text": "「Что ж, пусть так.\n　Твой поступок говорит о твоём рвении.」",
+   "orig": "Kato\n「Well, I suppose it's fine.\n　Your actions do speak to just how dedicated you are.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Като",
+   "text": "「Я и сам думал доложить о тебе начальству,\n　но, похоже, меня избавили от хлопот.」",
+   "orig": "Kato\n「I was considering reporting you to a superior officer\n　myself, but it seems I've been saved the trouble.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Ямамото",
+   "text": "「Большое спасибо.」",
+   "orig": "Yamamoto\n「Thank you very much.」"
+  },
+  {
+   "i": 147,
+   "speaker": "$n",
+   "text": "「Здорово, Акира!」",
+   "orig": "$n\n「This is great, Akira!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Ямамото",
+   "text": "「Титосэ тоже меня поддержала.」",
+   "orig": "Yamamoto\n「Chitose has supported me, too.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Кодай",
+   "text": "「Так.\n　Като, идём со мной.」",
+   "orig": "Kodai\n「All right.\n　Kato, come with me.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Като",
+   "text": "「Тактическое совещание?」",
+   "orig": "Kato\n「Is there a tactical meeting?」"
+  },
+  {
+   "i": 151,
+   "speaker": "Кодай",
+   "text": "「Да.\n　«Ямато» идёт к вражеской базе на Плутоне.」",
+   "orig": "Kodai\n「Yeah.\n　Yamato is to head to the enemy base on Pluto.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Кодай",
+   "text": "「С сегодняшнего дня эти двое — в авиагруппе.」",
+   "orig": "Kodai\n「As of today, these two are part of the Aircraft Squad.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Рёма",
+   "text": "「Звать Рёма Нагарэ.」",
+   "orig": "Ryoma\n「The name's Ryoma Nagare.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Тэцуя",
+   "text": "「Я Тэцуя Цуруги.\n　Рад знакомству.」",
+   "orig": "Tetsuya\n「I'm Tetsuya Tsurugi.\n　Nice to meet you.」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "（Эх, взяли бы и Акиру в авиагруппу!）",
+   "orig": "$n\n（I wish Akira could be made part of the Squad, too!）"
+  },
+  {
+   "i": 156,
+   "speaker": "Синохара",
+   "text": "（На твоём месте я бы не говорил этого при командире.\n　Её поступок он спустил — был аварийный случай,\n　но злится всё равно страшно.）",
+   "orig": "Shinohara\n（I wouldn't say that to the captain's face if I were you.\n　He's overlooking her actions since it was an emergency,\n　but he's still really angry.）"
+  },
+  {
+   "i": 157,
+   "speaker": "Вельт",
+   "text": "「Вопрос!\n　Говорят, вы двое с другой Земли.\n　Можете рассказать об этом подробнее?」",
+   "orig": "Velt\n「Question!\n　I've heard that you two are from another Earth.\n　Could you explain a little more about that?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Вельт",
+   "text": "「До сих пор существование параллельных миров\n　было лишь теорией,\n　а теперь у нас наконец есть доказательство—」",
+   "orig": "Velt\n「Up until now, the existence of parallel universes\n　has only ever been theoretical,\n　but now we finally have concrete proof—」"
+  },
+  {
+   "i": 159,
+   "speaker": "Кинкейд",
+   "text": "「Сам попросил объяснить —\n　так не трещи без умолку!」",
+   "orig": "Kincade\n「Don't start gabbing away yourself\n　after asking them to explain!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Лотти",
+   "text": "「Похоже, они здорово раззадорили Вельта, да?」",
+   "orig": "Lottie\n「Seems like they've really piqued Velt's curiosity, huh?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Кодай",
+   "text": "「К такому выводу пришёл старпом —\n　выслушав рассказы этих двоих\n　и осмотрев их машины.」",
+   "orig": "Kodai\n「The XO has come to that conclusion\n　after listening to these two tell their stories,\n　and based on the mechs they were piloting.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Кодай",
+   "text": "「Это не то чтобы доказательство,\n　скорее единственное разумное объяснение.」",
+   "orig": "Kodai\n「It's not really concrete proof,\n　but more like the only plausible explanation.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Синохара",
+   "text": "「Ну и не повезло же вам —\n　попасть во вселенную,\n　где Земля уже разорена.」",
+   "orig": "Shinohara\n「Well, you two have rotten luck,\n　coming to a universe where the Earth\n　has been destroyed.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Рёма",
+   "text": "「Нам рассказали, что тут за дела.」",
+   "orig": "Ryoma\n「We heard about the state of things in this universe.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Рёма",
+   "text": "「На моей Земле\n　угроза та же.」",
+   "orig": "Ryoma\n「The threat is the same\n　on my Earth.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Рёма",
+   "text": "「Те твари, с которыми мы\n　бились на спутнике Сатурна, —\n　вылитые Инвейдеры, что напали на мою Землю.」",
+   "orig": "Ryoma\n「Those monsters we just \n　fought on Saturn's moon are\n　a dead ringer for the Invaders that attacked my Earth.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Като",
+   "text": "「Эти твари напали на Землю?」",
+   "orig": "Kato\n「Those things attacked Earth?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Рёма",
+   "text": "「Говорят, это космические бактерии,\n　паразиты, что живут на геттер-лучах.」",
+   "orig": "Ryoma\n「I've been told they're space bacteria,\n　parasites that thrive in Getter Radiation.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Кинкейд",
+   "text": "「Это ещё что?」",
+   "orig": "Kincade\n「What is that?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Рёма",
+   "text": "「Это такие космические\n　лучи. Мой Геттер берёт\n　из них энергию.」",
+   "orig": "Ryoma\n「It's a kind of cosmic ray.\n　My Getter Robot uses it\n　for energy.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Рёма",
+   "text": "「Он работает — значит,\n　геттер-лучи есть и здесь.」",
+   "orig": "Ryoma\n「Since it's operational,\n　that means that Getter Radiation exists here, too.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Синохара",
+   "text": "「И ты сражался с Инвейдерами\n　вот на этом роботе?」",
+   "orig": "Shinohara\n「So you fought these Invaders\n　with that robot?」"
+  },
+  {
+   "i": 174,
+   "speaker": "Рёма",
+   "text": "「Не я один.\n　Против Инвейдеров поднялось всё человечество.」",
+   "orig": "Ryoma\n「I wasn't the only one.\n　All of humanity came together to fight the Invaders.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Рёма",
+   "text": "「И вместе мы одержали решающую победу\n　над ними на Луне.\n　Мы их уничтожили.」",
+   "orig": "Ryoma\n「And together, we were able to win a decisive victory\n　against them on the moon.\n　We destroyed them.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Рёма",
+   "text": "「Правда, что было дальше,\n　я понятия не имею.」",
+   "orig": "Ryoma\n「Of course, I have no idea what happened\n　after that.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Лотти",
+   "text": "「В каком смысле?」",
+   "orig": "Lottie\n「What do you mean?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Рёма",
+   "text": "「После того боя\n　я три года сидел в тюрьме.」",
+   "orig": "Ryoma\n「After the battle,\n　I was imprisoned for three years.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Вельт",
+   "text": "「В тюрьме?\n　Так вы преступник.」",
+   "orig": "Velt\n「Imprisoned?\n　So you're a criminal.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Рёма",
+   "text": "「Нет. Меня взяли по ложному обвинению. Я невиновен.\n　Хотя так все говорят. Мне никто не поверил.」",
+   "orig": "Ryoma\n「No. I was arrested on false charges. I'm innocent.\n　But then again, they all say that. No one believed me.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Рёма",
+   "text": "「Как пилот я был слишком ценен, чтобы долго сидеть.\n　После освобождения мы снова ввязались в бой\n　с новой волной Инвейдеров.」",
+   "orig": "Ryoma\n「I was too valuable as a pilot to keep locked up for long.\n　After I was released, we ended up battling a new wave\n　of Invaders.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Рёма",
+   "text": "「Мы пустили дейтронную ракету, чтобы покончить\n　с Инвейдерами раз и навсегда. Меня накрыло взрывом,\n　а очнулся я уже на Энцеладе.」",
+   "orig": "Ryoma\n「We fired a deuteron missile in hopes of getting rid of\n　the Invaders once and for all. I was caught up in that\n　explosion, and when I came to, I was on Enceladus.」"
+  },
+  {
+   "i": 183,
+   "speaker": "$n",
+   "text": "「Значит, взрыв дейтронной ракеты\n　разорвал границы между измерениями?」",
+   "orig": "$n\n「So the explosion from that deuteron missile\n　tore open the barriers between dimensions?」"
+  },
+  {
+   "i": 184,
+   "speaker": "Рёма",
+   "text": "「Да чёрт знает.」",
+   "orig": "Ryoma\n「Hell if I know.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Рёма",
+   "text": "「Короче, этого Чёрного Геттера я собрал\n　заново из найденного хлама.」",
+   "orig": "Ryoma\n「In any case, I put that Black Getter back together\n　from what bits of scrap I could find.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Рёма",
+   "text": "「Понял, что вон там — спутник Сатурна,\n　и стал искать дорогу\n　домой, на Землю.」",
+   "orig": "Ryoma\n「I figured that was a moon of Saturn over there\n　and started looking for a way back home\n　to Earth based on that.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Като",
+   "text": "「И тут вы наткнулись на нас.」",
+   "orig": "Kato\n「And that's when you ran into us.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Синохара",
+   "text": "「А ты что скажешь?」",
+   "orig": "Shinohara\n「And what about you?」"
+  },
+  {
+   "i": 189,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hmm...」"
+  },
+  {
+   "i": 190,
+   "speaker": "Синохара",
+   "text": "「Ах да — я слышал, у тебя амнезия.」",
+   "orig": "Shinohara\n「Oh, that's right—I heard you're suffering from amnesia.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Тэцуя",
+   "text": "「И что? Я думаю, как Рёма. Не стану сидеть\n　и смотреть со стороны, если Земле грозит беда.」",
+   "orig": "Tetsuya\n「So what? I feel the same way Ryoma does. I'm not\n　gonna just sit back and watch if the Earth is in danger.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Рёма",
+   "text": "「Пока мы не найдём дорогу в свой мир,\n　будем делать всё, чтобы спасти эту Землю.」",
+   "orig": "Ryoma\n「At least until we can find a way back to our own world,\n　we'll do whatever we can to save this Earth.」"
+  },
+  {
+   "i": 193,
+   "speaker": "$n",
+   "text": "「Вы здесь не родились,\n　а относитесь к этой Земле как к своей.」",
+   "orig": "$n\n「Even though you weren't born there,\n　you feel the same towards this Earth as your own.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Като",
+   "text": "「Ладно, я услышал достаточно.\n　Нагарэ, Цуруги, теперь вы с нами.」",
+   "orig": "Kato\n「All right, I've heard enough.\n　Nagare, Tsurugi, from now on, you're one of us.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Рёма",
+   "text": "「Будем знакомы.」",
+   "orig": "Ryoma\n「Looking forward to it.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Кодай",
+   "text": "「В авиагруппу вливается ещё один человек.\n　А, легка на помине.」",
+   "orig": "Kodai\n「There's one more person joining the Aircraft Squad.\n　Ah, speak of the devil.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Ямамото",
+   "text": "「Разрешите.」",
+   "orig": "Yamamoto\n「Excuse me.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Като",
+   "text": "「О!」",
+   "orig": "Kato\n「Oh!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Кодай",
+   "text": "「Представлять её, похоже, не нужно.\n　С сегодняшнего дня она переведена из счётной\n　части в авиагруппу тактического отдела.」",
+   "orig": "Kodai\n「I guess there's no need for introductions.\n　As of today, she's been transferred from Accounting\n　to Aircraft Squad of Tactical Dept.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Ямамото",
+   "text": "「Меня зовут Ямамото.\n　Буду рада служить вместе с вами.」",
+   "orig": "Yamamoto\n「My name is Yamamoto.\n　I'm looking forward to my new assignment.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Като",
+   "text": "「Акира!\n　Ты что здесь делаешь?」",
+   "orig": "Kato\n「Akira!\n　What are you doing here?」"
+  },
+  {
+   "i": 202,
+   "speaker": "Ямамото",
+   "text": "「Э-э...」",
+   "orig": "Yamamoto\n「Uh...」"
+  },
+  {
+   "i": 203,
+   "speaker": "Кодай",
+   "text": "「В счётную часть пришли новые люди. Это и её\n　поступок на днях решили дело о переводе.\n　Командующий, разумеется, тоже одобрил.」",
+   "orig": "Kodai\n「New personnel have joined Accounting. That, plus her\n　actions the other day, have led me to reassign her.\n　Of course, the commander approves as well.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Като",
+   "text": "「М-да.」",
+   "orig": "Kato\n「Geez.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Ямамото",
+   "text": "「Командир Като?」",
+   "orig": "Yamamoto\n「Captain Kato?」"
+  },
+  {
+   "i": 206,
+   "speaker": "Като",
+   "text": "「Что ж, пусть так.\n　Твой поступок говорит о твоём рвении.」",
+   "orig": "Kato\n「Well, I suppose it's fine.\n　Your actions do speak to just how dedicated you are.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Като",
+   "text": "「Я и сам думал доложить о тебе начальству,\n　но, похоже, меня избавили от хлопот.」",
+   "orig": "Kato\n「I was considering reporting you to a superior officer\n　myself, but it seems I've been saved the trouble.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Ямамото",
+   "text": "「Большое спасибо.」",
+   "orig": "Yamamoto\n「Thank you very much.」"
+  },
+  {
+   "i": 209,
+   "speaker": "$n",
+   "text": "「Здорово, Акира!」",
+   "orig": "$n\n「This is great, Akira!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Ямамото",
+   "text": "「Спасибо, $n.\n　Рада служить с тобой в авиагруппе.」",
+   "orig": "Yamamoto\n「Thank you, $n.\n　I'm excited to work with you in the Aircraft Squad.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Кодай",
+   "text": "「Так.\n　Като, идём со мной.」",
+   "orig": "Kodai\n「All right.\n　Kato, come with me.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Като",
+   "text": "「Тактическое совещание?」",
+   "orig": "Kato\n「Is there a tactical meeting?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Кодай",
+   "text": "「Да.\n　«Ямато» идёт к вражеской базе на Плутоне.」",
+   "orig": "Kodai\n「Yeah.\n　Yamato is to head to the enemy base on Pluto.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Кодай",
+   "text": "「С сегодняшнего дня эти двое — в авиагруппе.」",
+   "orig": "Kodai\n「As of today, these two are part of the Aircraft Squad.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Рёма",
+   "text": "「Звать Рёма Нагарэ.」",
+   "orig": "Ryoma\n「The name's Ryoma Nagare.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Тэцуя",
+   "text": "「Я Тэцуя Цуруги.\n　Рад знакомству.」",
+   "orig": "Tetsuya\n「I'm Tetsuya Tsurugi.\n　Nice to meet you.」"
+  },
+  {
+   "i": 217,
+   "speaker": "$n",
+   "text": "（Этих двоих в авиагруппу берут,\n　а Акиру — нет?）",
+   "orig": "$n\n（So these two can join the Aircraft Squad,\n　but not Akira?）"
+  },
+  {
+   "i": 218,
+   "speaker": "Синохара",
+   "text": "（На твоём месте я бы не говорил этого при командире.\n　Её поступок он спустил — был аварийный случай,\n　но злится всё равно страшно.）",
+   "orig": "Shinohara\n（I wouldn't say that to the captain's face if I were you.\n　He's overlooking her actions since it was an emergency,\n　but he's still really angry.）"
+  },
+  {
+   "i": 219,
+   "speaker": "Тобиа",
+   "text": "「Вопрос!\n　Говорят, вы двое с другой Земли.\n　Это правда?」",
+   "orig": "Tobia\n「Question!\n　I've heard that you two are from another Earth.\n　Is that true?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Кодай",
+   "text": "「По их машинам и по их рассказам\n　старпом пришёл к такому выводу.」",
+   "orig": "Kodai\n「Based off the mechs they pilot and the stories they tell,\n　the XO has come to that conclusion.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Кодай",
+   "text": "「Это не то чтобы доказательство,\n　скорее единственное разумное объяснение.」",
+   "orig": "Kodai\n「It's not really concrete proof,\n　but more like the only plausible explanation.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Синохара",
+   "text": "「Ну и не повезло же вам —\n　попасть во вселенную,\n　где Земля уже разорена.」",
+   "orig": "Shinohara\n「Well, you two have rotten luck,\n　coming to a universe where the Earth\n　has been destroyed.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Рёма",
+   "text": "「Нам рассказали, что тут за дела.」",
+   "orig": "Ryoma\n「We heard about the state of things in this universe.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Рёма",
+   "text": "「На моей Земле\n　угроза та же.」",
+   "orig": "Ryoma\n「The threat is the same\n　on my Earth.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 226,
+   "speaker": "Рёма",
+   "text": "「Те твари, с которыми мы\n　бились на спутнике Сатурна, —\n　вылитые Инвейдеры, что напали на мою Землю.」",
+   "orig": "Ryoma\n「Those monsters we just \n　fought on Saturn's moon are\n　a dead ringer for the Invaders that attacked my Earth.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Като",
+   "text": "「Эти твари напали на Землю?」",
+   "orig": "Kato\n「Those things attacked Earth?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Рёма",
+   "text": "「Говорят, это космические бактерии,\n　паразиты, что живут на геттер-лучах.」",
+   "orig": "Ryoma\n「I've been told they're space bacteria,\n　parasites that thrive in Getter Radiation.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Кинкейд",
+   "text": "「Это ещё что?」",
+   "orig": "Kincade\n「What is that?」"
+  },
+  {
+   "i": 230,
+   "speaker": "Рёма",
+   "text": "「Это такие космические\n　лучи. Мой Геттер берёт\n　из них энергию.」",
+   "orig": "Ryoma\n「It's a kind of cosmic ray.\n　My Getter Robot uses it\n　for energy.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Рёма",
+   "text": "「Он работает — значит,\n　геттер-лучи есть и здесь.」",
+   "orig": "Ryoma\n「Since it's operational,\n　that means that Getter Radiation exists here, too.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Синохара",
+   "text": "「И ты сражался с Инвейдерами\n　вот на этом роботе?」",
+   "orig": "Shinohara\n「So you fought these Invaders\n　with that robot?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Рёма",
+   "text": "「Не я один.\n　Против Инвейдеров поднялось всё человечество.」",
+   "orig": "Ryoma\n「I wasn't the only one.\n　All of humanity came together to fight the Invaders.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Рёма",
+   "text": "「И вместе мы одержали решающую победу\n　над ними на Луне.\n　Мы их уничтожили.」",
+   "orig": "Ryoma\n「And together, we were able to win a decisive victory\n　against them on the moon.\n　We destroyed them.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Рёма",
+   "text": "「Правда, что было дальше,\n　я понятия не имею.」",
+   "orig": "Ryoma\n「Of course, I have no idea what happened\n　after that.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Кинкейд",
+   "text": "「В каком смысле?」",
+   "orig": "Kincade\n「What do you mean?」"
+  },
+  {
+   "i": 237,
+   "speaker": "Рёма",
+   "text": "「После того боя\n　я три года сидел в тюрьме.」",
+   "orig": "Ryoma\n「After the battle,\n　I was imprisoned for three years.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 239,
+   "speaker": "Рёма",
+   "text": "「Меня взяли по ложному обвинению. Я невиновен.\n　Хотя так все говорят. Мне никто не поверил.」",
+   "orig": "Ryoma\n「I was arrested on false charges. I'm innocent.\n　But then again, they all say that. No one believed me.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Рёма",
+   "text": "「Как пилот я был слишком ценен, чтобы долго сидеть.\n　После освобождения мы снова ввязались в бой\n　с новой волной Инвейдеров.」",
+   "orig": "Ryoma\n「I was too valuable as a pilot to keep locked up for long.\n　After I was released, we ended up battling a new wave\n　of Invaders.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Рёма",
+   "text": "「Мы пустили дейтронную ракету, чтобы покончить\n　с Инвейдерами раз и навсегда. Меня накрыло взрывом,\n　а очнулся я уже на Энцеладе.」",
+   "orig": "Ryoma\n「We fired a deuteron missile in hopes of getting rid of\n　the Invaders once and for all. I was caught up in that\n　explosion, and when I came to, I was on Enceladus.」"
+  },
+  {
+   "i": 242,
+   "speaker": "$n",
+   "text": "「То есть\n　именно взрыв дейтронной ракеты\n　разорвал границы между измерениями?」",
+   "orig": "$n\n「So then\n　the explosion from that deuteron missile is what\n　tore open the barriers between dimensions?」"
+  },
+  {
+   "i": 243,
+   "speaker": "Рёма",
+   "text": "「Да чёрт знает.」",
+   "orig": "Ryoma\n「Hell if I know.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Рёма",
+   "text": "「Короче, этого Чёрного Геттера я собрал\n　заново из найденного хлама.」",
+   "orig": "Ryoma\n「In any case, I put that Black Getter back together\n　from what bits of scrap I could find.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Рёма",
+   "text": "「Понял, что вон там — спутник Сатурна,\n　и стал искать дорогу\n　домой, на Землю.」",
+   "orig": "Ryoma\n「I figured that was a moon of Saturn over there\n　and started looking for a way back home\n　to Earth based on that.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Като",
+   "text": "「И тут вы наткнулись на нас.」",
+   "orig": "Kato\n「And that's when you ran into us.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Синохара",
+   "text": "「А ты что скажешь?」",
+   "orig": "Shinohara\n「And what about you?」"
+  },
+  {
+   "i": 248,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hmm...」"
+  },
+  {
+   "i": 249,
+   "speaker": "Синохара",
+   "text": "「Ах да — я слышал, у тебя амнезия.」",
+   "orig": "Shinohara\n「Oh, that's right—I heard you're suffering from amnesia.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Тэцуя",
+   "text": "「И что? Я думаю, как Рёма. Не стану сидеть\n　и смотреть со стороны, если Земле грозит беда.」",
+   "orig": "Tetsuya\n「So what? I feel the same way Ryoma does. I'm not\n　gonna just sit back and watch if the Earth is in danger.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Рёма",
+   "text": "「Пока мы не найдём дорогу в свой мир,\n　будем делать всё, чтобы спасти эту Землю.」",
+   "orig": "Ryoma\n「At least until we can find a way back to our own world,\n　we'll do whatever we can to save this Earth.」"
+  },
+  {
+   "i": 252,
+   "speaker": "$n",
+   "text": "「Вы здесь не родились,\n　а относитесь к этой Земле как к своей?\n　Это, знаете, здорово.」",
+   "orig": "$n\n「Even though you weren't born there,\n　you feel the same towards this Earth as your own?\n　That's pretty amazing.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Като",
+   "text": "「Ладно, я услышал достаточно.\n　Нагарэ, Цуруги, теперь вы с нами.」",
+   "orig": "Kato\n「All right, I've heard enough.\n　Nagare, Tsurugi, from now on, you're one of us.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Рёма",
+   "text": "「Будем знакомы.」",
+   "orig": "Ryoma\n「Looking forward to it.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Кодай",
+   "text": "「В авиагруппу вливается ещё один человек.\n　А, легка на помине.」",
+   "orig": "Kodai\n「There's one more person joining the Aircraft Squad.\n　Ah, speak of the devil.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Ямамото",
+   "text": "「Разрешите.」",
+   "orig": "Yamamoto\n「Excuse me.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Като",
+   "text": "「О!」",
+   "orig": "Kato\n「Oh!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Кодай",
+   "text": "「Представлять её, похоже, не нужно.\n　С сегодняшнего дня она переведена из счётной\n　части в авиагруппу тактического отдела.」",
+   "orig": "Kodai\n「I guess there's no need for introductions.\n　As of today, she's been transferred from Accounting\n　to Aircraft Squad of Tactical Dept.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Ямамото",
+   "text": "「Меня зовут Ямамото.\n　Буду рада служить вместе с вами.」",
+   "orig": "Yamamoto\n「My name is Yamamoto.\n　I'm looking forward to my new assignment.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Като",
+   "text": "「Акира!\n　Ты что здесь делаешь?」",
+   "orig": "Kato\n「Akira!\n　What are you doing here?」"
+  },
+  {
+   "i": 261,
+   "speaker": "Ямамото",
+   "text": "「Э-э...」",
+   "orig": "Yamamoto\n「Uh...」"
+  },
+  {
+   "i": 262,
+   "speaker": "Кодай",
+   "text": "「В счётную часть пришли новые люди. Это и её\n　поступок на днях решили дело о переводе.\n　Командующий, разумеется, тоже одобрил.」",
+   "orig": "Kodai\n「New personnel have joined Accounting. That, plus her\n　actions the other day, have led me to reassign her.\n　Of course, the commander approves as well.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Като",
+   "text": "「М-да.」",
+   "orig": "Kato\n「Geez.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Ямамото",
+   "text": "「Командир Като?」",
+   "orig": "Yamamoto\n「Captain Kato?」"
+  },
+  {
+   "i": 265,
+   "speaker": "Като",
+   "text": "「Что ж, пусть так.\n　Твой поступок говорит о твоём рвении.」",
+   "orig": "Kato\n「Well, I suppose it's fine.\n　Your actions do speak to just how dedicated you are.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Като",
+   "text": "「Я и сам думал доложить о тебе начальству,\n　но, похоже, меня избавили от хлопот.」",
+   "orig": "Kato\n「I was considering reporting you to a superior officer\n　myself, but it seems I've been saved the trouble.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Ямамото",
+   "text": "「Большое спасибо.」",
+   "orig": "Yamamoto\n「Thank you very much.」"
+  },
+  {
+   "i": 268,
+   "speaker": "$n",
+   "text": "「Здорово, Акира!」",
+   "orig": "$n\n「This is great, Akira!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Ямамото",
+   "text": "「Титосэ тоже меня поддержала.」",
+   "orig": "Yamamoto\n「Chitose has supported me, too.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Кодай",
+   "text": "「Так.\n　Като, идём со мной.」",
+   "orig": "Kodai\n「All right.\n　Kato, come with me.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Като",
+   "text": "「Тактическое совещание?」",
+   "orig": "Kato\n「Is there a tactical meeting?」"
+  },
+  {
+   "i": 272,
+   "speaker": "Кодай",
+   "text": "「Да.\n　«Ямато» идёт к вражеской базе на Плутоне.」",
+   "orig": "Kodai\n「Yeah.\n　Yamato is to head to the enemy base on Pluto.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Кодай",
+   "text": "「С сегодняшнего дня эти двое — в авиагруппе.」",
+   "orig": "Kodai\n「As of today, these two are part of the Aircraft Squad.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Рёма",
+   "text": "「Звать Рёма Нагарэ.」",
+   "orig": "Ryoma\n「The name's Ryoma Nagare.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Тэцуя",
+   "text": "「Я Тэцуя Цуруги.\n　Рад знакомству.」",
+   "orig": "Tetsuya\n「I'm Tetsuya Tsurugi.\n　Nice to meet you.」"
+  },
+  {
+   "i": 276,
+   "speaker": "$n",
+   "text": "（Эх, взяли бы и Акиру в авиагруппу!）",
+   "orig": "$n\n（I wish Akira could be made part of the Squad, too!）"
+  },
+  {
+   "i": 277,
+   "speaker": "Синохара",
+   "text": "（На твоём месте я бы не говорил этого при командире.\n　Её поступок он спустил — был аварийный случай,\n　но злится всё равно страшно.）",
+   "orig": "Shinohara\n（I wouldn't say that to the captain's face if I were you.\n　He's overlooking her actions since it was an emergency,\n　but he's still really angry.）"
+  },
+  {
+   "i": 278,
+   "speaker": "Тобиа",
+   "text": "「Вопрос!\n　Говорят, вы двое с другой Земли.\n　Это правда?」",
+   "orig": "Tobia\n「Question!\n　I've heard that you two are from another Earth.\n　Is that true?」"
+  },
+  {
+   "i": 279,
+   "speaker": "Кодай",
+   "text": "「По их машинам и по их рассказам\n　старпом пришёл к такому выводу.」",
+   "orig": "Kodai\n「Based off the mechs they pilot and the stories they tell,\n　the XO has come to that conclusion.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Кодай",
+   "text": "「Это не то чтобы доказательство,\n　скорее единственное разумное объяснение.」",
+   "orig": "Kodai\n「It's not really concrete proof,\n　but more like the only plausible explanation.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Синохара",
+   "text": "「Ну и не повезло же вам —\n　попасть во вселенную,\n　где Земля уже разорена.」",
+   "orig": "Shinohara\n「Well, you two have rotten luck,\n　coming to a universe where the Earth\n　has been destroyed.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Рёма",
+   "text": "「Нам рассказали, что тут за дела.」",
+   "orig": "Ryoma\n「We heard about the state of things in this universe.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Рёма",
+   "text": "「На моей Земле\n　угроза та же.」",
+   "orig": "Ryoma\n「The threat is the same\n　on my Earth.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 285,
+   "speaker": "Рёма",
+   "text": "「Те твари, с которыми мы\n　бились на спутнике Сатурна, —\n　вылитые Инвейдеры, что напали на мою Землю.」",
+   "orig": "Ryoma\n「Those monsters we just \n　fought on Saturn's moon are\n　a dead ringer for the Invaders that attacked my Earth.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Като",
+   "text": "「Эти твари напали на Землю?」",
+   "orig": "Kato\n「Those things attacked Earth?」"
+  },
+  {
+   "i": 287,
+   "speaker": "Рёма",
+   "text": "「Говорят, это космические бактерии,\n　паразиты, что живут на геттер-лучах.」",
+   "orig": "Ryoma\n「I've been told they're space bacteria,\n　parasites that thrive in Getter Radiation.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Кинкейд",
+   "text": "「Это ещё что?」",
+   "orig": "Kincade\n「What is that?」"
+  },
+  {
+   "i": 289,
+   "speaker": "Рёма",
+   "text": "「Это такие космические\n　лучи. Мой Геттер берёт\n　из них энергию.」",
+   "orig": "Ryoma\n「It's a kind of cosmic ray.\n　My Getter Robot uses it\n　for energy.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Рёма",
+   "text": "「Он работает — значит,\n　геттер-лучи есть и здесь.」",
+   "orig": "Ryoma\n「Since it's operational,\n　that means that Getter Radiation exists here, too.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Синохара",
+   "text": "「И ты сражался с Инвейдерами\n　вот на этом роботе?」",
+   "orig": "Shinohara\n「So you fought these Invaders\n　with that robot?」"
+  },
+  {
+   "i": 292,
+   "speaker": "Рёма",
+   "text": "「Не я один.\n　Против Инвейдеров поднялось всё человечество.」",
+   "orig": "Ryoma\n「I wasn't the only one.\n　All of humanity came together to fight the Invaders.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Рёма",
+   "text": "「И вместе мы одержали решающую победу\n　над ними на Луне.\n　Мы их уничтожили.」",
+   "orig": "Ryoma\n「And together, we were able to win a decisive victory\n　against them on the moon.\n　We destroyed them.」"
+  },
+  {
+   "i": 294,
+   "speaker": "Рёма",
+   "text": "「Правда, что было дальше,\n　я понятия не имею.」",
+   "orig": "Ryoma\n「Of course, I have no idea what happened\n　after that.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Кинкейд",
+   "text": "「В каком смысле?」",
+   "orig": "Kincade\n「What do you mean?」"
+  },
+  {
+   "i": 296,
+   "speaker": "Рёма",
+   "text": "「После того боя\n　я три года сидел в тюрьме.」",
+   "orig": "Ryoma\n「After the battle,\n　I was imprisoned for three years.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Рёма",
+   "text": "「Меня взяли по ложному обвинению. Я невиновен.\n　Хотя так все говорят. Мне никто не поверил.」",
+   "orig": "Ryoma\n「I was arrested on false charges. I'm innocent.\n　But then again, they all say that. No one believed me.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Рёма",
+   "text": "「Как пилот я был слишком ценен, чтобы долго сидеть.\n　После освобождения мы снова ввязались в бой\n　с новой волной Инвейдеров.」",
+   "orig": "Ryoma\n「I was too valuable as a pilot to keep locked up for long.\n　After I was released, we ended up battling a new wave\n　of Invaders.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Рёма",
+   "text": "「Мы пустили дейтронную ракету, чтобы покончить\n　с Инвейдерами раз и навсегда. Меня накрыло взрывом,\n　а очнулся я уже на Энцеладе.」",
+   "orig": "Ryoma\n「We fired a deuteron missile in hopes of getting rid of\n　the Invaders once and for all. I was caught up in that\n　explosion, and when I came to, I was on Enceladus.」"
+  },
+  {
+   "i": 301,
+   "speaker": "$n",
+   "text": "「Значит, взрыв дейтронной ракеты\n　разорвал границы между измерениями?」",
+   "orig": "$n\n「So the explosion from that deuteron missile\n　tore open the barriers between dimensions?」"
+  },
+  {
+   "i": 302,
+   "speaker": "Рёма",
+   "text": "「Да чёрт знает.」",
+   "orig": "Ryoma\n「Hell if I know.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Рёма",
+   "text": "「Короче, этого Чёрного Геттера я собрал\n　заново из найденного хлама.」",
+   "orig": "Ryoma\n「In any case, I put that Black Getter back together\n　from what bits of scrap I could find.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Рёма",
+   "text": "「Понял, что вон там — спутник Сатурна,\n　и стал искать дорогу\n　домой, на Землю.」",
+   "orig": "Ryoma\n「I figured that was a moon of Saturn over there\n　and started looking for a way back home\n　to Earth based on that.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Като",
+   "text": "「И тут вы наткнулись на нас.」",
+   "orig": "Kato\n「And that's when you ran into us.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Синохара",
+   "text": "「А ты что скажешь?」",
+   "orig": "Shinohara\n「And what about you?」"
+  },
+  {
+   "i": 307,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hmm...」"
+  },
+  {
+   "i": 308,
+   "speaker": "Синохара",
+   "text": "「Ах да — я слышал, у тебя амнезия.」",
+   "orig": "Shinohara\n「Oh, that's right—I heard you're suffering from amnesia.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Тэцуя",
+   "text": "「И что? Я думаю, как Рёма. Не стану сидеть\n　и смотреть со стороны, если Земле грозит беда.」",
+   "orig": "Tetsuya\n「So what? I feel the same way Ryoma does. I'm not\n　gonna just sit back and watch if the Earth is in danger.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Рёма",
+   "text": "「Пока мы не найдём дорогу в свой мир,\n　будем делать всё, чтобы спасти эту Землю.」",
+   "orig": "Ryoma\n「At least until we can find a way back to our own world,\n　we'll do whatever we can to save this Earth.」"
+  },
+  {
+   "i": 311,
+   "speaker": "$n",
+   "text": "「Вы здесь не родились,\n　а относитесь к этой Земле как к своей.」",
+   "orig": "$n\n「Even though you weren't born there,\n　you feel the same towards this Earth as your own.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Като",
+   "text": "「Ладно, я услышал достаточно.\n　Нагарэ, Цуруги, теперь вы с нами.」",
+   "orig": "Kato\n「All right, I've heard enough.\n　Nagare, Tsurugi, from now on, you're one of us.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Рёма",
+   "text": "「Будем знакомы.」",
+   "orig": "Ryoma\n「Looking forward to it.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Кодай",
+   "text": "「В авиагруппу вливается ещё один человек.\n　А, легка на помине.」",
+   "orig": "Kodai\n「There's one more person joining the Aircraft Squad.\n　Ah, speak of the devil.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Ямамото",
+   "text": "「Разрешите.」",
+   "orig": "Yamamoto\n「Excuse me.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Като",
+   "text": "「О!」",
+   "orig": "Kato\n「Oh!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Кодай",
+   "text": "「Представлять её, похоже, не нужно.\n　С сегодняшнего дня она переведена из счётной\n　части в авиагруппу тактического отдела.」",
+   "orig": "Kodai\n「I guess there's no need for introductions.\n　As of today, she's been transferred from Accounting\n　to Aircraft Squad of Tactical Dept.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Ямамото",
+   "text": "「Меня зовут Ямамото.\n　Буду рада служить вместе с вами.」",
+   "orig": "Yamamoto\n「My name is Yamamoto.\n　I'm looking forward to my new assignment.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Като",
+   "text": "「Акира!\n　Ты что здесь делаешь?」",
+   "orig": "Kato\n「Akira!\n　What are you doing here?」"
+  },
+  {
+   "i": 320,
+   "speaker": "Ямамото",
+   "text": "「Э-э...」",
+   "orig": "Yamamoto\n「Uh...」"
+  },
+  {
+   "i": 321,
+   "speaker": "Кодай",
+   "text": "「В счётную часть пришли новые люди. Это и её\n　поступок на днях решили дело о переводе.\n　Командующий, разумеется, тоже одобрил.」",
+   "orig": "Kodai\n「New personnel have joined Accounting. That, plus her\n　actions the other day, have led me to reassign her.\n　Of course, the commander approves as well.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Като",
+   "text": "「М-да.」",
+   "orig": "Kato\n「Geez.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Ямамото",
+   "text": "「Командир Като?」",
+   "orig": "Yamamoto\n「Captain Kato?」"
+  },
+  {
+   "i": 324,
+   "speaker": "Като",
+   "text": "「Что ж, пусть так.\n　Твой поступок говорит о твоём рвении.」",
+   "orig": "Kato\n「Well, I suppose it's fine.\n　Your actions do speak to just how dedicated you are.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Като",
+   "text": "「Я и сам думал доложить о тебе начальству,\n　но, похоже, меня избавили от хлопот.」",
+   "orig": "Kato\n「I was considering reporting you to a superior officer\n　myself, but it seems I've been saved the trouble.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Ямамото",
+   "text": "「Большое спасибо.」",
+   "orig": "Yamamoto\n「Thank you very much.」"
+  },
+  {
+   "i": 327,
+   "speaker": "$n",
+   "text": "「Здорово, Акира!」",
+   "orig": "$n\n「This is great, Akira!」"
+  },
+  {
+   "i": 328,
+   "speaker": "Ямамото",
+   "text": "「Спасибо, $n.\n　Рада служить с тобой в авиагруппе.」",
+   "orig": "Yamamoto\n「Thank you, $n.\n　I'm excited to work with you in the Aircraft Squad.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Кодай",
+   "text": "「Так.\n　Като, идём со мной.」",
+   "orig": "Kodai\n「All right.\n　Kato, come with me.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Като",
+   "text": "「Тактическое совещание?」",
+   "orig": "Kato\n「Is there a tactical meeting?」"
+  },
+  {
+   "i": 331,
+   "speaker": "Кодай",
+   "text": "「Да.\n　«Ямато» идёт к вражеской базе на Плутоне.」",
+   "orig": "Kodai\n「Yeah.\n　Yamato is to head to the enemy base on Pluto.」"
+  },
+  {
+   "i": 335,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Стратегический зал «Ямато»-",
+   "orig": "　\n　　\n　　　　　　　-Yamato Central Strategy Room-"
+  },
+  {
+   "i": 336,
+   "speaker": "Окита",
+   "text": "「Я намеревался избегать всякой лишней схватки,\n　чтобы скорее добраться до Искандара.」",
+   "orig": "Okita\n「I had intended to avoid all unnecessary conflict\n　in order to arrive at Iscandar as fast as possible.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Санада",
+   "text": "「Хм...」",
+   "orig": "Sanada\n「Hmm...」"
+  },
+  {
+   "i": 338,
+   "speaker": "Сима",
+   "text": "「Хм-м…」",
+   "orig": "Shima\n「Hmm...」"
+  },
+  {
+   "i": 339,
+   "speaker": "Окита",
+   "text": "「Но нельзя и дальше терпеть базу на Плутоне,\n　чья планетарная бомбардировка превратила Землю\n　в сплошную выжженную пустыню.」",
+   "orig": "Okita\n「But we cannot allow the continued existence of the\n　Pluto Base, whose planet bombs have rendered the Earth\n　a complete and utter wasteland.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Окита",
+   "text": "「Мы уничтожим эту базу всем, что у нас есть!」",
+   "orig": "Okita\n「We will destroy that base with everything we have!」"
+  },
+  {
+   "i": 341,
+   "speaker": "Кодай",
+   "text": "「Понял.」",
+   "orig": "Kodai\n「Understood.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Като",
+   "text": "「Он ждал этого очень давно.」",
+   "orig": "Kato\n「He's been waiting for this for a long time.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Окита",
+   "text": "「С тех пор как гамиласцы захватили Плутон,\n　они изменили его среду. Теперь это карликовая\n　планета с океанами.」",
+   "orig": "Okita\n「Ever since the Gamillans captured Pluto, they have\n　altered its environment. It is now a dwarf planet\n　with oceans.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Сима",
+   "text": "「База крупная, так что\n　сопротивление будет жёстким.」",
+   "orig": "Shima\n「As it's a major enemy base,\n　we can expect heavy resistance.」"
+  },
+  {
+   "i": 345,
+   "speaker": "Кодай",
+   "text": "「Теперь нам помогают Чёрный Геттер\n　и Грейт Мазингер. Силы, считаю, равны.」",
+   "orig": "Kodai\n「We now have the added support of the Black Getter and\n　the Great Mazinger. I'd say we're well-matched.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Санада",
+   "text": "「Значит, снова совместная работа «Ямато»\n　и этих мобильных юнитов.」",
+   "orig": "Sanada\n「So it's going to be another joint effort between the\n　Yamato and those mobile units.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Окита",
+   "text": "「Именно. В начале войны силы мобильных доспехов\n　Земли были уничтожены. С тех пор мы воевали\n　как Гамилас — артиллерийскими флотами.」",
+   "orig": "Okita\n「Exactly. Early on in the war, Earth's own mobile suit\n　force was destroyed. Ever since, we've had to fight\n　the same way as Gamillas by using artillery fleets.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Окита",
+   "text": "「Огневая мощь Земли Гамиласу не соперник,\n　и наше поражение считали неизбежным.」",
+   "orig": "Okita\n「Since Earth's firepower is no match for that of Gamillas,\n　it was assumed our defeat was inevitable.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Окита",
+   "text": "「Но теперь с нами супер-роботы. Их огневая мощь,\n　прочность и подвижность могут дать нам\n　перевес, достаточный для настоящего удара.」",
+   "orig": "Okita\n「But now we have super robots cooperating with us. Their\n　firepower, durability, and mobility might give us\n　enough of an advantage to do some real damage.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Кодай",
+   "text": "「Это совершенно новая тактика.」",
+   "orig": "Kodai\n「This is a brand-new strategy.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Като",
+   "text": "「Гамиласцы такого не ждут.\n　Мобильные юниты, которые они считали\n　уничтоженными, вернулись за расплатой.」",
+   "orig": "Kato\n「The Gamillans will never see it coming.\n　The mobile units they thought they destroyed\n　are back with a vengeance.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Кодай",
+   "text": "「Като, «Фалькон» должен\n　прикрывать «Ямато» и первым\n　идти в ближний маневренный бой.」",
+   "orig": "Kodai\n「Kato, the Falcon needs to\n　protect the Yamato and take the lead\n　with close-quarters maneuvers.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Като",
+   "text": "「Понял.\n　Оборону «Ямато» оставьте мне.」",
+   "orig": "Kato\n「Understood.\n　Leave the Yamato's defense to me.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Окита",
+   "text": "「Уничтожение базы на Плутоне — идеальный случай\n　проверить новую тактику.」",
+   "orig": "Okita\n「Destroying the Pluto Base is the perfect opportunity\n　to test out these new tactics.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Намбу",
+   "text": "「Есть и другой путь!\n　Дальний выстрел волновой пушкой\n　легко снесёт вражескую базу!」",
+   "orig": "Nanbu\n「There's another way!\n　A long-range shot from the wave motion gun\n　would easily destroy the enemy base!」"
+  },
+  {
+   "i": 356,
+   "speaker": "Кодай",
+   "text": "「Волновую пушку мы применять не будем.」",
+   "orig": "Kodai\n「We will not use the wave motion gun.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Намбу",
+   "text": "「Но почему?\n　Она же простаивает!」",
+   "orig": "Nanbu\n「But why not?\n　It's going to waste!」"
+  },
+  {
+   "i": 358,
+   "speaker": "Кодай",
+   "text": "「Волновой пушкой мы снесём не только базу,\n　но и сам Плутон!\n　Так нельзя.」",
+   "orig": "Kodai\n「We won't only destroy the enemy base, but Pluto itself\n　if we use the wave motion gun!\n　We cannot do that.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Намбу",
+   "text": "「Да что планета, если мы сокрушим Гамилас?」",
+   "orig": "Nanbu\n「Why? What's a planet or two if we can defeat Gamillas?」"
+  },
+  {
+   "i": 360,
+   "speaker": "Мори",
+   "text": "「Намбу!」",
+   "orig": "Mori\n「Nanbu!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Кодай",
+   "text": "「Нет.」",
+   "orig": "Kodai\n「No.」"
+  },
+  {
+   "i": 362,
+   "speaker": "Намбу",
+   "text": "「Что—!」",
+   "orig": "Nanbu\n「Wha—!」"
+  },
+  {
+   "i": 363,
+   "speaker": "Като",
+   "text": "「Сказал тактический офицер «нет» —\n　значит «нет»!」",
+   "orig": "Kato\n「If the tactical officer says \"no,\"\n　he means \"no\"!」"
+  },
+  {
+   "i": 364,
+   "speaker": "Намбу",
+   "text": "「Послушайте, так авиагруппа не понесёт потерь!\n　Хотя «Ямато» эта смехотворная группа\n　и не нужна, но—」",
+   "orig": "Nanbu\n「Listen, this will prevent the Aircraft Squad from\n　suffering any losses! Not that the Yamato needs that\n　ridiculous squad, but—」"
+  },
+  {
+   "i": 365,
+   "speaker": "Като",
+   "text": "「Что ты сказал?!」",
+   "orig": "Kato\n「What did you say?!」"
+  },
+  {
+   "i": 366,
+   "speaker": "Окита",
+   "text": "「Хватит!」",
+   "orig": "Okita\n「Enough!」"
+  },
+  {
+   "i": 367,
+   "speaker": "Намбу",
+   "text": "「Е-есть, сэр!」",
+   "orig": "Nanbu\n「Y-yes, sir!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Окита",
+   "text": "「Атаку на базу Плутона начнём без волновой\n　пушки. Это не обсуждается.」",
+   "orig": "Okita\n「We will commence the attack on the Pluto Base without\n　the wave motion gun. It is not up for discussion.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Окита",
+   "text": "「Это всё.」",
+   "orig": "Okita\n「That is all.」"
+  },
+  {
+   "i": 370,
+   "speaker": "Кодай",
+   "text": "「Проверю готовность всех отсеков.」",
+   "orig": "Kodai\n「I'll confirm that each section is in position.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Окита",
+   "text": "「Хм...」",
+   "orig": "Okita\n「Hmm...」"
+  },
+  {
+   "i": 372,
+   "speaker": "Сима",
+   "text": "「Командующий?」",
+   "orig": "Shima\n「Commander?」"
+  },
+  {
+   "i": 373,
+   "speaker": "Окита",
+   "text": "「В чём дело?」",
+   "orig": "Okita\n「What is it?」"
+  },
+  {
+   "i": 374,
+   "speaker": "Сима",
+   "text": "「Вы герой $kwbВторой битвы за Марс$kwe,\n　и я всегда восхищался вами как моряком.」",
+   "orig": "Shima\n「You're a hero of the $kwbSecond Battle of Mars$kwe,\n　and I've always admired you as a sailor.」"
+  },
+  {
+   "i": 375,
+   "speaker": "Сима",
+   "text": "「Когда гамиласцы напали впервые,\n　я потерял в этих морях отца.」",
+   "orig": "Shima\n「When the Gamillans first attacked us,\n　I lost my father in these seas.」"
+  },
+  {
+   "i": 376,
+   "speaker": "Окита",
+   "text": "「Хм...」",
+   "orig": "Okita\n「Hmm...」"
+  },
+  {
+   "i": 377,
+   "speaker": "Сима",
+   "text": "「Поэтому я за ваш план атаки на Плутон.\n　Как главный штурман, я отыграю эту задержку.」",
+   "orig": "Shima\n「So I agree with your plan to attack Pluto.\n　As Head Navigator, I will make up for this delay.」"
+  },
+  {
+   "i": 378,
+   "speaker": "Окита",
+   "text": "「Ясно.」",
+   "orig": "Okita\n「I see.」"
+  },
+  {
+   "i": 379,
+   "speaker": "Окита",
+   "text": "（Похоже, моря Плутона\n　у всех полны горьких воспоминаний.）",
+   "orig": "Okita\n（It appears the seas of Pluto\n　are full of bitter memories for all.）"
+  },
+  {
+   "i": 380,
+   "speaker": "Окита",
+   "text": "（Потому «Ямато»\n　обязан победить.）",
+   "orig": "Okita\n（That is why the Yamato\n　must succeed.）"
+  },
+  {
+   "i": 384,
+   "speaker": "　",
+   "text": "　\n　　　　　　-Передовая база Гамилас, Плутон-",
+   "orig": "　\n　\n　　　　　　　-Gamillas Pluto Frontline Base-"
+  },
+  {
+   "i": 385,
+   "speaker": "Гоэр",
+   "text": "「Вот как, корабль терронцев зовётся «Ямато».\n　Что за уродливое судно!\n　Ни капли изящества.」",
+   "orig": "Goer\n「I see, so that Terron ship is called the Yamato.\n　What an ugly ship!\n　Nothing remotely graceful about it.」"
+  },
+  {
+   "i": 386,
+   "speaker": "Шульц",
+   "text": "「«Ямато», вероятно, идёт сюда, к $kwbПлато$kwe.\n　Мы подманим его и уничтожим.」",
+   "orig": "Shultz\n「The Yamato is probably on its way here to $kwbPlato$kwe.\n　We'll lure it in and destroy it.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Гоэр",
+   "text": "「Ты уверен, что они придут сюда?」",
+   "orig": "Goer\n「Are you certain they'll come here?」"
+  },
+  {
+   "i": 388,
+   "speaker": "Шульц",
+   "text": "「Планетарные бомбы, пущенные отсюда,\n　опустошили их родину.」",
+   "orig": "Shultz\n「The planet bombs launched from here have\n　decimated their home.」"
+  },
+  {
+   "i": 389,
+   "speaker": "Гоэр",
+   "text": "「Понятно.\n　Тогда мы их раздавим.」",
+   "orig": "Goer\n「I see.\n　Then we will crush them.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Гоэр",
+   "text": "「Прекрасный случай для вашей низшей бледнокожей\n　расы доказать свою верность Гамиласу.」",
+   "orig": "Goer\n「This is the perfect chance for your inferior, pale-\n　skinned race to demonstrate its loyalty to Gamillas.」"
+  },
+  {
+   "i": 391,
+   "speaker": "Шульц",
+   "text": "「Каждый зальцианец на этой базе верен\n　Империи не меньше,\n　чем чистокровный гамиласец!」",
+   "orig": "Shultz\n「Each Zaltzian on this base is every bit as\n　loyal to the Empire as any\n　full-blooded Gamillan!」"
+  },
+  {
+   "i": 392,
+   "speaker": "Гоэр",
+   "text": "「Ба-ха-ха-ха!\n　Вот это речь славного гамиласского солдата!」",
+   "orig": "Goer\n「Bahahaha!\n　Exactly what I want to see in a great Gamillan soldier!」"
+  },
+  {
+   "i": 393,
+   "speaker": "Гоэр",
+   "text": "「Жду блестящих результатов.\n　Гале Деслер! Слава вождю!」",
+   "orig": "Goer\n「I am expecting magnificent results.\n　Ghale Dessler! Glory to the Supreme Leader!」"
+  },
+  {
+   "i": 394,
+   "speaker": "Шульц",
+   "text": "「Как я тоскую по службе у генерала Домеля.」",
+   "orig": "Shultz\n「I miss the days when I fought for General Domel.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Джарлетора",
+   "text": "「Воистину.」",
+   "orig": "Jarletora\n「Indeed.」"
+  },
+  {
+   "i": 396,
+   "speaker": "Шульц",
+   "text": "「В любом случае\n　с «Ямато» мы разделаемся как обычно.」",
+   "orig": "Shultz\n「In any case,\n　we will take care of the Yamato in the usual fashion.」"
+  },
+  {
+   "i": 397,
+   "speaker": "Ганц",
+   "text": "「Отражательная спутниковая пушка покажет терронцам\n　нашу мощь — мощь зальцианцев!\n　Они узнают своё место!」",
+   "orig": "Ganz\n「The reflection satellite cannon will show those Terrons\n　the extent of our might—our might as Zaltzians!\n　They will learn their rightful place!」"
+  },
+  {
+   "i": 401,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Зал ожидания авиагруппы «Ямато»-",
+   "orig": "　\n　　\n　　　　　-Yamato Aircraft Squad Waiting Room-"
+  },
+  {
+   "i": 402,
+   "speaker": "$n",
+   "text": "「Хм...」",
+   "orig": "$n\n「Hmm...」"
+  },
+  {
+   "i": 403,
+   "speaker": "Като",
+   "text": "「Ты сегодня на подъёме.」",
+   "orig": "Kato\n「You're unusually excited.」"
+  },
+  {
+   "i": 404,
+   "speaker": "$n",
+   "text": "「Это великий план — выбить гамиласцев\n　из Солнечной системы. Хочется кричать!」",
+   "orig": "$n\n「This is the grand plan to drive the Gamillans out of\n　the Solar System. I feel like shouting!」"
+  },
+  {
+   "i": 405,
+   "speaker": "Като",
+   "text": "「И только?」",
+   "orig": "Kato\n「Is that all?」"
+  },
+  {
+   "i": 406,
+   "speaker": "$n",
+   "text": "「А?」",
+   "orig": "$n\n「Huh?」"
+  },
+  {
+   "i": 407,
+   "speaker": "Като",
+   "text": "「Ты был в 25-й эскадрилье Лунного авиакрыла.」",
+   "orig": "Kato\n「You belonged to the Lunar Aviation Wing's 25th Squadron.」"
+  },
+  {
+   "i": 408,
+   "speaker": "Като",
+   "text": "「И в прошлый раз, во время операции «М»,\n　25-я эскадрилья тебя бросила, верно?」",
+   "orig": "Kato\n「And the 25th Squadron left you behind last time,\n　during the M Operation, didn't they?」"
+  },
+  {
+   "i": 409,
+   "speaker": "Синохара",
+   "text": "「Ч-что это?」",
+   "orig": "Shinohara\n「Wh-what is this?」"
+  },
+  {
+   "i": 410,
+   "speaker": "Рёма",
+   "text": "「Враг атакует!」",
+   "orig": "Ryoma\n「The enemy's attacking!」"
+  },
+  {
+   "i": 411,
+   "speaker": "Тобиа",
+   "text": "「Нам даже сигнала на вылет не дали, не говоря\n　про команду перейти к обороне!」",
+   "orig": "Tobia\n「We haven't even been given the signal to sortie, let\n　alone warnings to switch to the defensive!」"
+  },
+  {
+   "i": 412,
+   "speaker": "Кинкейд",
+   "text": "「Ударили раньше, чем мы\n　вообще их заметили!」",
+   "orig": "Kincade\n「They attacked before we\n　even knew they were there!」"
+  },
+  {
+   "i": 413,
+   "speaker": "$n",
+   "text": "「Хм...」",
+   "orig": "$n\n「Hmm...」"
+  },
+  {
+   "i": 414,
+   "speaker": "Ямамото",
+   "text": "「Не накручивай себя, $n.」",
+   "orig": "Yamamoto\n「Don't psyche yourself out too much, $n.」"
+  },
+  {
+   "i": 415,
+   "speaker": "$n",
+   "text": "「Легко сказать. Это бой, который наконец выбьет\n　гамиласцев из Солнечной системы.」",
+   "orig": "$n\n「Easier said than done. This is the battle that will\n　finally drive the Gamillans out of the Solar System.」"
+  },
+  {
+   "i": 416,
+   "speaker": "Ямамото",
+   "text": "「У тебя тоже личный счёт\n　к гамиласцам, $n?」",
+   "orig": "Yamamoto\n「Do you have a personal grudge against\n　the Gamillans too, $n?」"
+  },
+  {
+   "i": 417,
+   "speaker": "$n",
+   "text": "「А?」",
+   "orig": "$n\n「Huh?」"
+  },
+  {
+   "i": 418,
+   "speaker": "Ямамото",
+   "text": "「Иногда мне кажется, что от тебя исходит\n　что-то моё, $n.」",
+   "orig": "Yamamoto\n「There are times where I feel something of myself\n　radiating from you, $n.」"
+  },
+  {
+   "i": 419,
+   "speaker": "$n",
+   "text": "「Хм...」",
+   "orig": "$n\n「Hmm...」"
+  },
+  {
+   "i": 420,
+   "speaker": "Ямамото",
+   "text": "「Если захочешь — расскажешь.」",
+   "orig": "Yamamoto\n「You can tell me about it if you want.」"
+  },
+  {
+   "i": 421,
+   "speaker": "$n",
+   "text": "「Это долгая история.」",
+   "orig": "$n\n「It's a long story.」"
+  },
+  {
+   "i": 422,
+   "speaker": "Синохара",
+   "text": "「Ч-что это?」",
+   "orig": "Shinohara\n「Wh-what is this?」"
+  },
+  {
+   "i": 423,
+   "speaker": "Рёма",
+   "text": "「Враг атакует!」",
+   "orig": "Ryoma\n「The enemy's attacking!」"
+  },
+  {
+   "i": 424,
+   "speaker": "Тобиа",
+   "text": "「Нам даже сигнала на вылет не дали, не говоря\n　про команду перейти к обороне!」",
+   "orig": "Tobia\n「We haven't even been given the signal to sortie, let\n　alone warnings to switch to the defensive!」"
+  },
+  {
+   "i": 425,
+   "speaker": "Кинкейд",
+   "text": "「Ударили раньше, чем мы\n　вообще их заметили!」",
+   "orig": "Kincade\n「They attacked before we\n　even knew they were there!」"
+  },
+  {
+   "i": 429,
+   "speaker": "　",
+   "text": "　\n　　　　　　-Передовая база Гамилас, Плутон-",
+   "orig": "　\n　\n　　　　　　　-Gamillas Pluto Frontline Base-"
+  },
+  {
+   "i": 430,
+   "speaker": "Солдат Гамилас",
+   "text": "「Первый выстрел — попадание подтверждено.\n　«Ямато» уходит на маневр уклонения.」",
+   "orig": "Gamillas Soldier\n「First shot has hit. Impact confirmed.\n　The Yamato is engaging in evasive maneuvers.」"
+  },
+  {
+   "i": 431,
+   "speaker": "Ганц",
+   "text": "「Блестяще, командующий Шульц.\n　Перевод отражательной пушки на систему пуска\n　планетарных бомб обернулся огромным успехом!」",
+   "orig": "Ganz\n「Splendid, Commander Shultz.\n　Diverting the reflection satellite cannon to the \n　planet bomb launch system was a huge success!」"
+  },
+  {
+   "i": 432,
+   "speaker": "Джарлетора",
+   "text": "「Выстрел уходит в космос, меняет угол на\n　отражательных спутниках и находит цель.」",
+   "orig": "Jarletora\n「Shots fired into space change angle based on the\n　reflection satellites and find their target that way.」"
+  },
+  {
+   "i": 433,
+   "speaker": "Джарлетора",
+   "text": "「Вокруг Плутона нет мёртвых зон. Даже не зная,\n　где именно враг,\n　можно потопить его корабль.」",
+   "orig": "Jarletora\n「There are no blind spots around Pluto. Even if you\n　don't know where the enemy is,\n　you can still sink their ship.」"
+  },
+  {
+   "i": 434,
+   "speaker": "Ганц",
+   "text": "「Это непробиваемая система обороны.」",
+   "orig": "Ganz\n「It is an impenetrable defense system.」"
+  },
+  {
+   "i": 435,
+   "speaker": "Шульц",
+   "text": "「Всегда смотри на вещи под разными углами.\n　На поле боя важнее всего умение приспособиться.」",
+   "orig": "Shultz\n「You must always consider things from different angles.\n　The ability to adapt is critical on the battlefield.」"
+  },
+  {
+   "i": 436,
+   "speaker": "Джарлетора",
+   "text": "「Этому нас учил генерал Домель. Жаль только,\n　что первый удар их не добил.」",
+   "orig": "Jarletora\n「General Domel taught us that. However, it's\n　unfortunate the first strike didn't finish them.」"
+  },
+  {
+   "i": 437,
+   "speaker": "Шульц",
+   "text": "「Охотой надо наслаждаться, Джарлетора. Готовь\n　отражательную пушку к следующему залпу!」",
+   "orig": "Shultz\n「A hunt is something to be savored, Jarletora. Prepare\n　the reflection satellite cannon for the next volley!」"
+  },
+  {
+   "i": 438,
+   "speaker": "Солдат Гамилас",
+   "text": "「Отражательные спутники №7,\n　№13 и №28 раскрывают отражатели!」",
+   "orig": "Gamillas Soldier\n「Reflection satellites number 7,\n　number 13, number 28, deploying reflectors!」"
+  },
+  {
+   "i": 439,
+   "speaker": "Шульц",
+   "text": "「Хе-хе-хе.\n　Беги, «Ямато», но спрятаться не выйдет.」",
+   "orig": "Shultz\n「Heheheh.\n　You can run, Yamato, but you can't hide.」"
+  },
+  {
+   "i": 440,
+   "speaker": "Шульц",
+   "text": "「Отражательная пушка — огонь!」",
+   "orig": "Shultz\n「Reflection Satellite Cannon, fire!」"
+  },
+  {
+   "i": 444,
+   "speaker": "　",
+   "text": "　\n　　　-Кабинет верховного вождя Империи Гамилас-",
+   "orig": "　\n　\n　　　-Great Gamillas Empire Supreme Leader's Office-"
+  },
+  {
+   "i": 445,
+   "speaker": "Селестелла",
+   "text": "「Сообщение от Шульца для вождя.\n　Он желает доложить вам лично.」",
+   "orig": "Celestella\n「A message from Shultz to the Supreme Leader.\n　He wishes to make his report to you.」"
+  },
+  {
+   "i": 446,
+   "speaker": "Деслер",
+   "text": "「Шульц?」",
+   "orig": "Dessler\n「Shultz?」"
+  },
+  {
+   "i": 447,
+   "speaker": "Селестелла",
+   "text": "「Вы дали ему базу на Плато, в системе Зол,\n　на окраине галактики.」",
+   "orig": "Celestella\n「You granted him command of the base on Plato in the Zol\n　System, in the hinterlands of the galaxy.」"
+  },
+  {
+   "i": 448,
+   "speaker": "Деслер",
+   "text": "「Ах да. Я ведь поручил покорение планеты Террон\n　бригаде Гамилас второго класса, верно?」",
+   "orig": "Dessler\n「Oh, yes. I did leave a Second-class Gamillas Brigade\n　in charge of the planet Terron's conquest, didn't I?」"
+  },
+  {
+   "i": 449,
+   "speaker": "Деслер",
+   "text": "「Хорошо.\n　Соедините.」",
+   "orig": "Dessler\n「Very well.\n　Patch him through.」"
+  },
+  {
+   "i": 450,
+   "speaker": "Селестелла",
+   "text": "「Слушаюсь.」",
+   "orig": "Celestella\n「Yes, sir.」"
+  },
+  {
+   "i": 451,
+   "speaker": "Шульц",
+   "text": "「Я Вальке Шульц, командующий войсками покорения\n　Террона, ваше превосходительство.」",
+   "orig": "Shultz\n「I am Walke Shultz, commander of the armies subjugating\n　Terron, Your Excellency.」"
+  },
+  {
+   "i": 452,
+   "speaker": "Хисс",
+   "text": "「Шульц, ты связываешься с нами в обход\n　своего начальника, Гоэра.\n　Обычно такого не прощают!」",
+   "orig": "Hiss\n「Shultz, you are going above your direct superior,\n　Goer, to contact us.\n　This sort of behavior is not usually tolerated!」"
+  },
+  {
+   "i": 453,
+   "speaker": "Деслер",
+   "text": "「Ну-ну. Всё в порядке, Хисс.」",
+   "orig": "Dessler\n「Now, now. It's fine, Hiss.」"
+  },
+  {
+   "i": 454,
+   "speaker": "Хисс",
+   "text": "「Т-так точно.」",
+   "orig": "Hiss\n「Y-yes, sir.」"
+  },
+  {
+   "i": 455,
+   "speaker": "Деслер",
+   "text": "「Твой доклад, Шульц?」",
+   "orig": "Dessler\n「Your report, Shultz?」"
+  },
+  {
+   "i": 456,
+   "speaker": "Шульц",
+   "text": "「Е-есть!\n　Сегодня в 10:06 по гамиласскому времени—」",
+   "orig": "Shultz\n「Y-yes, sir!\n　This morning, at 10:06 Gamillan Standard Time—」"
+  },
+  {
+   "i": 457,
+   "speaker": "Шульц",
+   "text": "「передовая база Плато приняла жестокий бой\n　и уничтожила сверхсветовой корабль\n　терронцев «Ямато».」",
+   "orig": "Shultz\n「the Plato Frontline Base engaged in fierce battle,\n　and destroyed the Terron FTL-ship\n　Yamato.」"
+  },
+  {
+   "i": 458,
+   "speaker": "Деслер",
+   "text": "「И что же?」",
+   "orig": "Dessler\n「What of it?」"
+  },
+  {
+   "i": 459,
+   "speaker": "Шульц",
+   "text": "「Э-э, я...\n　хотел доложить о победе вам лично.」",
+   "orig": "Shultz\n「Ah, well,\n　I wanted to report our victory to you directly.」"
+  },
+  {
+   "i": 460,
+   "speaker": "Деслер",
+   "text": "「Ты просил аудиенции лишь затем,\n　чтобы доложить столь очевидное?」",
+   "orig": "Dessler\n「You requested an audience with me merely to report\n　something so obvious?」"
+  },
+  {
+   "i": 461,
+   "speaker": "Шульц",
+   "text": "「Я-я лишь хотел хоть малым послужить\n　празднику основания Великой Империи Гамилас.」",
+   "orig": "Shultz\n「I-I only wished to contribute in some small way to the \n　celebration of the Great Gamillas Empire's founding.」"
+  },
+  {
+   "i": 462,
+   "speaker": "Деслер",
+   "text": "「Я запомню твою верность.」",
+   "orig": "Dessler\n「I will remember your loyalty.」"
+  },
+  {
+   "i": 463,
+   "speaker": "Шульц",
+   "text": "「Благодарю!」",
+   "orig": "Shultz\n「Thank you!」"
+  },
+  {
+   "i": 464,
+   "speaker": "Хисс",
+   "text": "「Довольно.\n　Иди, Шульц.」",
+   "orig": "Hiss\n「That's enough.\n　Be off, Shultz.」"
+  },
+  {
+   "i": 465,
+   "speaker": "Шульц",
+   "text": "「Гале Деслер!\n　Слава вождю!」",
+   "orig": "Shultz\n「Ghale Dessler!\n　Glory to the Supreme Leader!」"
+  },
+  {
+   "i": 466,
+   "speaker": "Деслер",
+   "text": "「Селестелла, правда ли, что корабль\n　терронцев способен на сверхсвет?」",
+   "orig": "Dessler\n「Celestella, is it true that a Terron ship\n　is capable of faster-than-light speeds?」"
+  },
+  {
+   "i": 467,
+   "speaker": "Селестелла",
+   "text": "「Полагаю, нет.\n　Слышу об этом впервые.」",
+   "orig": "Celestella\n「I don't believe so.\n　This is the first I've heard of it.」"
+  },
+  {
+   "i": 468,
+   "speaker": "Селестелла",
+   "text": "「А вы, вице-командующий Хисс?」",
+   "orig": "Celestella\n「And you, Vice Commander Hiss?」"
+  },
+  {
+   "i": 469,
+   "speaker": "Хисс",
+   "text": "「Д-да.\n　Я тоже такого не слышал.」",
+   "orig": "Hiss\n「Y-yes.\n　I have never heard of it either.」"
+  },
+  {
+   "i": 470,
+   "speaker": "Деслер",
+   "text": "「Разумеется, нет.」",
+   "orig": "Dessler\n「Of course not.」"
+  },
+  {
+   "i": 471,
+   "speaker": "Деслер",
+   "text": "「Но корабль терронцев потоплен.\n　Для Гамиласа это пустяк.」",
+   "orig": "Dessler\n「But that Terron ship has been sunk.\n　A trivial matter for Gamillas.」"
+  },
+  {
+   "i": 475,
+   "speaker": "　",
+   "text": "　\n　　　　　　　-«Ямато», машинное отделение-",
+   "orig": "　\n　\n　　　　　　　-Yamato Engineering Department-"
+  },
+  {
+   "i": 476,
+   "speaker": "Ябу",
+   "text": "「Проверка закончена. Пока что\n　о затоплении можно не беспокоиться.」",
+   "orig": "Yabu\n「Check complete. For the moment,\n　I don't think we need to worry about sinking.」"
+  },
+  {
+   "i": 477,
+   "speaker": "Ямадзаки",
+   "text": "「Молодец.」",
+   "orig": "Yamazaki\n「Good work.」"
+  },
+  {
+   "i": 478,
+   "speaker": "Ябу",
+   "text": "「Слушай, Яма,\n　сколько нам ещё вот так торчать\n　на дне моря?」",
+   "orig": "Yabu\n「Hey, Yama,\n　how long will we have to sit like this\n　at the bottom of the sea?」"
+  },
+  {
+   "i": 479,
+   "speaker": "Ямадзаки",
+   "text": "「Хм...」",
+   "orig": "Yamazaki\n「Hmm...」"
+  },
+  {
+   "i": 480,
+   "speaker": "Ябу",
+   "text": "「Мы даже из Солнечной системы не выбрались.\n　Доберёмся ли мы вообще до Искандара?」",
+   "orig": "Yabu\n「We still haven't even made it out of the Solar System.\n　Are we really gonna make it to Iscandar?」"
+  },
+  {
+   "i": 481,
+   "speaker": "Ямадзаки",
+   "text": "「Больше ни один мой корабль не затонет.」",
+   "orig": "Yamazaki\n「I will never allow another ship of mine to sink.」"
+  },
+  {
+   "i": 482,
+   "speaker": "Ябу",
+   "text": "「А?」",
+   "orig": "Yabu\n「Huh?」"
+  },
+  {
+   "i": 483,
+   "speaker": "Ямадзаки",
+   "text": "「С тех пор как корабль ушёл от Земли,\n　моя жизнь в старых руках Окиты.\n　Сделаем что сможем — и только.」",
+   "orig": "Yamazaki\n「Ever since this ship left Earth, my life's\n　been in Okita's old hands.\n　We'll do the best we can, and that's all.」"
+  },
+  {
+   "i": 484,
+   "speaker": "Ябу",
+   "text": "「Хм...」",
+   "orig": "Yabu\n「Hmm...」"
+  },
+  {
+   "i": 488,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Стратегический зал «Ямато»-",
+   "orig": "　\n　　\n　　　　　　　-Yamato Central Strategy Room-"
+  },
+  {
+   "i": 489,
+   "speaker": "Сима",
+   "text": "「Вы серьёзно?」",
+   "orig": "Shima\n「Are you serious?」"
+  },
+  {
+   "i": 490,
+   "speaker": "Санада",
+   "text": "「Да. «Ямато» ударило\n　спутниковое лучевое оружие.」",
+   "orig": "Sanada\n「Yes. A satellite beam weapon\n　is what attacked the Yamato.」"
+  },
+  {
+   "i": 491,
+   "speaker": "Санада",
+   "text": "「Меня насторожило обилие обломков вокруг Плутона,\n　и я поручил информационной службе их просканировать.」",
+   "orig": "Sanada\n「The large amount of debris around Pluto got me thinking,\n　so I had the Information Officer scan it.」"
+  },
+  {
+   "i": 492,
+   "speaker": "Ниими",
+   "text": "「Это не обломки. Это всё вражеские спутники.\n　Полагаю, они связывают эту группу спутников\n　и бьют лучом.」",
+   "orig": "Niimi\n「It's not debris. These are all enemy satellites.\n　I believe they've been linking up this group of\n　satellites to launch beam attacks.」"
+  },
+  {
+   "i": 493,
+   "speaker": "Ниими",
+   "text": "「Иными словами—」",
+   "orig": "Niimi\n「In other words—」"
+  },
+  {
+   "i": 494,
+   "speaker": "Сима",
+   "text": "「Весь Плутон в их зоне поражения.」",
+   "orig": "Shima\n「All of Pluto is within their targeting range.」"
+  },
+  {
+   "i": 495,
+   "speaker": "Намбу",
+   "text": "「Значит, всплывём —\n　и нас снова накроют!」",
+   "orig": "Nanbu\n「So they'll just hit us again\n　if we surface!」"
+  },
+  {
+   "i": 496,
+   "speaker": "Санада",
+   "text": "「Мы прикрылись тем взрывом, чтобы они сочли нас\n　утонувшими, но найдут нас — лишь вопрос времени.」",
+   "orig": "Sanada\n「We used that explosion as camouflage so they'd think we\n　sank, but it's just a matter of time until they find us.」"
+  },
+  {
+   "i": 497,
+   "speaker": "Окита",
+   "text": "「Пока доверимся Кодаю и остальным и будем ждать.\n　А в нужный миг «Ямато» нанесёт ответный удар!」",
+   "orig": "Okita\n「For now, we trust in Kodai and the others, and wait.\n　And when the time is right, the Yamato will strike back!」"
+  },
+  {
+   "i": 498,
+   "speaker": "Санада",
+   "text": "「Выпустить мобильные юниты одновременно с погружением,\n　окружить базу врага и ударить внезапно.\n　Хотелось бы, чтобы вышло так же легко, как звучит.」",
+   "orig": "Sanada\n「Launch the mobile units at the same time as we sink, then\n　surround the enemy base and commence a surprise attack.\n　I hope it's as easy as it sounds.」"
+  },
+  {
+   "i": 499,
+   "speaker": "Намбу",
+   "text": "「А если мобильные юниты\n　собьёт вражеский огонь?」",
+   "orig": "Nanbu\n「What happens if the mobile units\n　are destroyed by enemy fire?」"
+  },
+  {
+   "i": 500,
+   "speaker": "Като",
+   "text": "「Командующего не слышали?\n　Надо доверять своим!」",
+   "orig": "Kato\n「Didn't you hear the commander?\n　We have to trust the others!」"
+  },
+  {
+   "i": 501,
+   "speaker": "Намбу",
+   "text": "「Пожалуй.」",
+   "orig": "Nanbu\n「I guess.」"
+  },
+  {
+   "i": 502,
+   "speaker": "Мори",
+   "text": "「Командующий!\n　Связь от тактического офицера Кодая!」",
+   "orig": "Mori\n「Commander!\n　There's a communication from Tactical Officer Kodai!」"
+  },
+  {
+   "i": 503,
+   "speaker": "Мори",
+   "text": "「Мобильные юниты обнаружили базу врага!」",
+   "orig": "Mori\n「The mobile units have discovered the enemy base!」"
+  },
+  {
+   "i": 504,
+   "speaker": "Сима",
+   "text": "「Отлично!」",
+   "orig": "Shima\n「All right!」"
+  },
+  {
+   "i": 505,
+   "speaker": "Санада",
+   "text": "「Было бы ещё лучше, если бы они определили\n　и расположение этого оружия!」",
+   "orig": "Sanada\n「It would be even better if they could determine the\n　location of their weapon as well!」"
+  },
+  {
+   "i": 506,
+   "speaker": "Окита",
+   "text": "「Это не их задача. Выдвигаемся.」",
+   "orig": "Okita\n「That's not the mission. We move now.」"
+  },
+  {
+   "i": 507,
+   "speaker": "Намбу",
+   "text": "「Но враг снова откроет по нам огонь!」",
+   "orig": "Nanbu\n「But then the enemy will fire on us again!」"
+  },
+  {
+   "i": 508,
+   "speaker": "Окита",
+   "text": "「Мобильные юниты готовы сражаться до смерти.\n　Мы — тоже! Вперёд!」",
+   "orig": "Okita\n「The mobile units are prepared to fight to the death.\n　We must be as well! Now, move!」"
+  }
+ ]
+}
