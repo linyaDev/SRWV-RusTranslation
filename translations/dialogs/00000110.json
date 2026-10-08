@@ -1,0 +1,622 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "$n",
+   "text": "「…」",
+   "orig": "$n\n「...」"
+  },
+  {
+   "i": 4,
+   "speaker": "？？？",
+   "text": "「—」",
+   "orig": "？？？\n「—」"
+  },
+  {
+   "i": 5,
+   "speaker": "$n",
+   "text": "（Простите, командир.\n　Похоже, мне конец.）",
+   "orig": "$n\n（I'm sorry, Captain.\n　Looks like I died.）"
+  },
+  {
+   "i": 6,
+   "speaker": "$n",
+   "text": "（А поминальная служба по всем так и не состоялась.\n　Простите меня, правда, простите—）",
+   "orig": "$n\n（And I still wasn't able to hold memorial services for\n　everyone. I'm really, really sorry—）"
+  },
+  {
+   "i": 7,
+   "speaker": "？？？",
+   "text": "「—!\n　—!」",
+   "orig": "？？？\n「—!\n　—!」"
+  },
+  {
+   "i": 8,
+   "speaker": "$n",
+   "text": "（Но что это за запах?\n　Пахнет... рыбой? Надо же, как это знакомо—）",
+   "orig": "$n\n（But what's that smell?\n　It smells like—fish? Boy, isn't that nostalgic—）"
+  },
+  {
+   "i": 9,
+   "speaker": "？？？",
+   "text": "「$n—!」",
+   "orig": "？？？\n「$n—!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Титосэ",
+   "text": "「$n!」",
+   "orig": "Chitose\n「$n!」"
+  },
+  {
+   "i": 14,
+   "speaker": "$n",
+   "text": "「!」",
+   "orig": "$n\n「!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Титосэ",
+   "text": "「Какое облегчение!\n　Я уже не знала, что делать,\n　если ты не очнёшься!」",
+   "orig": "Chitose\n「What a relief!\n　I didn't know what I was going to do\n　if you didn't wake up!」"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "「Это ведь не рай и не ад, да—?」",
+   "orig": "$n\n「This isn't heaven or hell, is it—?」"
+  },
+  {
+   "i": 17,
+   "speaker": "$n",
+   "text": "「Тогда это, выходит—」",
+   "orig": "$n\n「So then it has to be—」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Пахнет солью, и слышно, как бьются волны.\n　А впереди — бесконечная синь.」",
+   "orig": "$n\n「I can smell salt, and I can hear the crash of waves.\n　And I can see blue forever.」"
+  },
+  {
+   "i": 19,
+   "speaker": "$n",
+   "text": "「Это ведь океан, да?」",
+   "orig": "$n\n「That's the ocean, isn't it?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Титосэ",
+   "text": "「Да.」",
+   "orig": "Chitose\n「Yeah.」"
+  },
+  {
+   "i": 21,
+   "speaker": "$n",
+   "text": "「Планетарные бомбы Гамилас\n　ведь высушили все океаны, разве нет?」",
+   "orig": "$n\n「The Gamillan planet bombs\n　dried up all the oceans, didn't they?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Титосэ",
+   "text": "「Да.」",
+   "orig": "Chitose\n「Yeah.」"
+  },
+  {
+   "i": 23,
+   "speaker": "$n",
+   "text": "「После того как мы вырвались из разлома измерений,\n　нас накрыло землетрясением измерений. Так?」",
+   "orig": "$n\n「After we escaped that dimensional rift,\n　we got caught up in a dimensional quake. Right?」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「Значит, мы рухнули на какую-то планету?」",
+   "orig": "$n\n「Have we crash-landed on some planet, then?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Титосэ",
+   "text": "「Похоже на то.」",
+   "orig": "Chitose\n「It seems that way.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Тацу",
+   "text": "「О, и ты наконец\n　приходишь в себя!」",
+   "orig": "Tatsu\n「So, you're finally\n　awake too!」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「Это всеобщий?」",
+   "orig": "$n\n「Earth Common?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тацу",
+   "text": "「Ч-что ты такое говоришь?」",
+   "orig": "Tatsu\n「Wh-what are you talking about?」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Это точно всеобщий земной.」",
+   "orig": "$n\n「That's definitely Earth Common.」"
+  },
+  {
+   "i": 30,
+   "speaker": "$n",
+   "text": "「Постой, так это—Земля?」",
+   "orig": "$n\n「Wait, so is this—Earth?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Тацу",
+   "text": "「Бедняга.\n　Видать, крепко тебя приложило головой.」",
+   "orig": "Tatsu\n「Poor thing.\n　You must have hit your head really hard.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тацу",
+   "text": "「Но ничего страшного.\n　Скорая уже в пути.」",
+   "orig": "Tatsu\n「But it's all right.\n　The ambulance will be here soon.」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「А... э... спасибо.」",
+   "orig": "$n\n「Oh...uh...thanks.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тацу",
+   "text": "「И ты поезжай с нами, девонька.\n　Лучше как следует обследоваться в больнице.」",
+   "orig": "Tatsu\n「You should come along too, young lady.\n　It's best if you get examined properly at the hospital.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Тацу",
+   "text": "「Доверьтесь мне. Меня зовут Тацуносин Сингудзи.」",
+   "orig": "Tatsu\n「Leave everything to me. The name's Tatsunoshin Shinguji.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Титосэ",
+   "text": "「Х-хорошо.\n　Спасибо.」",
+   "orig": "Chitose\n「O-OK.\n　Thank you.」"
+  },
+  {
+   "i": 37,
+   "speaker": "$n",
+   "text": "（Он говорит на всеобщем земном. И сирены звучат\n　точно как в моей памяти. Но океаны ещё на месте.）",
+   "orig": "$n\n（He speaks Earth Common. And those sirens sound just\n　like I remember them. But the oceans are still here.）"
+  },
+  {
+   "i": 38,
+   "speaker": "$n",
+   "text": "（Неужели это\n　иная Земля?）",
+   "orig": "$n\n（Could this be\n　an alternate Earth?）"
+  },
+  {
+   "i": 42,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Гостиная Сингудзи-",
+   "orig": "　\n　　\n　　　　　　　　-Shinguji's Living Room-"
+  },
+  {
+   "i": 43,
+   "speaker": "Тацу",
+   "text": "「Ну, налетайте.」",
+   "orig": "Tatsu\n「Go ahead, dig in.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Титосэ",
+   "text": "「С удовольствием!」",
+   "orig": "Chitose\n「Don't mind if I do!」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Вкуснятина!\n　Кто бы знал, что натто может быть таким!」",
+   "orig": "$n\n「Delicious!\n　I never knew natto could be this amazing!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Титосэ",
+   "text": "「Настоящие бобы\n　такие вкусные.」",
+   "orig": "Chitose\n「Real beans\n　are so flavorful.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тацу",
+   "text": "「Ну ты и преувеличиваешь, $n.\n　И ты, Титосэ. Это же всё из магазина.」",
+   "orig": "Tatsu\n「You sure are laying it on thick, $n. \n　You too, Chitose. This is all store-bought.」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Да нет же, Тацу! Это правда\n　самая вкусная еда в моей жизни.」",
+   "orig": "$n\n「Not at all, Tatsu! This is\n　seriously the best thing I've ever put in my mouth.」"
+  },
+  {
+   "i": 49,
+   "speaker": "$n",
+   "text": "「Правда? Ну, спасибо!」",
+   "orig": "$n\n「Really? Well, thanks!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Титосэ",
+   "text": "「$n, добавки хочешь?」",
+   "orig": "Chitose\n「$n, you want seconds?」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「Конечно!\n　Тацу, огромное спасибо за всё это угощение.」",
+   "orig": "$n\n「Absolutely!\n　Tatsu, thank you so much for all this food.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Тацу",
+   "text": "「Вы тут уже неделю,\n　и каждый раз за столом у вас такой же аппетит.」",
+   "orig": "Tatsu\n「It's been a week since the two of you got here,\n　and every day you are just as ravenous at mealtime.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Титосэ",
+   "text": "「Прости.」",
+   "orig": "Chitose\n「Sorry.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тацу",
+   "text": "「Да я вас не ругаю!\n　Просто подумал: хорошо быть молодым.」",
+   "orig": "Tatsu\n「I wasn't scolding you!\n　I was just thinking how nice it is to be young.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Тацу",
+   "text": "「Есть, работать, даже спать — с огоньком.\n　Вот это и значит жить!」",
+   "orig": "Tatsu\n「Eating, working, even sleeping with vigor.\n　Now that's really living!」"
+  },
+  {
+   "i": 56,
+   "speaker": "$n",
+   "text": "「Я тоже\n　так думаю.」",
+   "orig": "$n\n「I feel\n　the same way.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Тацу",
+   "text": "「Вот и хорошо!\n　Рад это слышать!」",
+   "orig": "Tatsu\n「Good!\n　I'm glad to hear it!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Титосэ",
+   "text": "「Тацу, мы даже не знаем,\n　как тебя благодарить за то,\n　что ты приютил таких бродяг, как мы.」",
+   "orig": "Chitose\n「Tatsu, we really can't thank you enough\n　for taking vagrants like us\n　into your home.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Тацу",
+   "text": "「Да не бери в голову. Жена моя умерла\n　два года назад, а сыновья давно сами по себе.」",
+   "orig": "Tatsu\n「Don't worry about it. My wife passed the year\n　before last, and my sons are pretty independent.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Тацу",
+   "text": "「С тех пор как ушёл на покой, живу один.\n　Был бы рад, если б вы остались тут навсегда.」",
+   "orig": "Tatsu\n「I've been living alone ever since I had to retire.\n　I'd love it if you stayed here forever.」"
+  },
+  {
+   "i": 61,
+   "speaker": "$n",
+   "text": "「Но…」",
+   "orig": "$n\n「But—」"
+  },
+  {
+   "i": 62,
+   "speaker": "Тацу",
+   "text": "「Да не слушай стариковское брюзжание.」",
+   "orig": "Tatsu\n「Oh, don't listen to an old geezer's ramblings.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тацу",
+   "text": "「Просто... мне нет дела до прошлого,\n　но ваше будущее меня беспокоит.」",
+   "orig": "Tatsu\n「I just—I don't care about your past,\n　but I am worried about your future.」"
+  },
+  {
+   "i": 64,
+   "speaker": "$n",
+   "text": "「…」",
+   "orig": "$n\n「...」"
+  },
+  {
+   "i": 65,
+   "speaker": "Тацу",
+   "text": "「Как бы это сказать?\n　Вышел я на рыбалку, а вас двоих вынесло на берег —\n　считай, я вас выловил.」",
+   "orig": "Tatsu\n「Well, how do I put this?\n　I found you two washed up on the shore when I went out\n　fishing, so it's like I caught you.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тацу",
+   "text": "「Будто сами звёзды послали вас ко мне!\n　Хочу приглядеть за вами, пока не буду спокоен.」",
+   "orig": "Tatsu\n「It was like the stars themselves sent you to me!\n　I want to look after you until I know you're OK.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Титосэ",
+   "text": "「Огромное спасибо, Тацу.」",
+   "orig": "Chitose\n「Thank you so much, Tatsu.」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「И всё же нельзя вечно сидеть у тебя на шее.\n　Найдём работу и будем платить за себя сами.」",
+   "orig": "$n\n「Even so, we can't keep mooching off of you forever.\n　We're going to find work so we can pay our own way.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тацу",
+   "text": "「Да? Ну, удачи!\n　Рад буду дать вам рекомендацию.」",
+   "orig": "Tatsu\n「Oh? Good luck!\n　I'll be happy to provide a reference for you.」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Спасибо за еду.」",
+   "orig": "$n\n「Thanks for the food.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Титосэ",
+   "text": "「Было очень вкусно.」",
+   "orig": "Chitose\n「It was delicious.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Тацу",
+   "text": "「Я тут всё уберу,\n　а вы идите искать работу.」",
+   "orig": "Tatsu\n「I'll clean up all of this\n　so you can go out and look for some work.」"
+  },
+  {
+   "i": 73,
+   "speaker": "$n",
+   "text": "「Что скажешь, Титосэ,\n　примем предложение?」",
+   "orig": "$n\n「Well, Chitose,\n　wanna take him up on that offer?」"
+  },
+  {
+   "i": 74,
+   "speaker": "Титосэ",
+   "text": "「Я только за, $n.\n　Мы скоро вернёмся, Тацу!」",
+   "orig": "Chitose\n「Sounds good to me, $n.\n　We'll be back later, Tatsu!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Тацу",
+   "text": "「Бедолаги.\n　На брата с сестрой не похожи. Видно, молодая пара,\n　что бежит от какой-то беды.」",
+   "orig": "Tatsu\n「Poor things.\n　They don't look like siblings. They must be a young\n　couple on the run from some trouble.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тацу",
+   "text": "「Нелегко им, конечно, но хотя бы\n　вкус к жизни понемногу возвращается.」",
+   "orig": "Tatsu\n「Well, it may be hard for them, but at least\n　they're getting back some of that joie de vivre.」"
+  },
+  {
+   "i": 80,
+   "speaker": "　",
+   "text": "　\n　-Центральный парк Нувель Токио Сити-",
+   "orig": "　\n　\n　　　　　　　-Nubel Tokio City Central Park-"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Почти всю неделю мы просидели\n　в библиотеке за поисками.」",
+   "orig": "$n\n「We've spent nearly this entire week\n　researching at the library.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Титосэ",
+   "text": "「…」",
+   "orig": "Chitose\n「...」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Чем больше мы узнаём об этом мире,\n　тем сильнее уверенность: это другая Земля.」",
+   "orig": "$n\n「The more we find out about this place,\n　the more I'm certain this is another Earth.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Титосэ",
+   "text": "「Да.」",
+   "orig": "Chitose\n「Yeah.」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Мне было жаль Рёму, Сэцуну и остальных,\n　но кто бы мог подумать, что и мы окажемся\n　в таком же положении.」",
+   "orig": "$n\n「I definitely felt for Ryoma and Setsuna and everyone,\n　but I never thought for one second that we'd end up\n　in a similar situation.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Титосэ",
+   "text": "「Интересно, «Ямато» тоже попал в этот мир?」",
+   "orig": "Chitose\n「I wonder if the Yamato is here in this world, too?」"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「Хороший вопрос.\n　Если бы такое вдруг появилось здесь,\n　об этом непременно сообщили бы в новостях.」",
+   "orig": "$n\n「That's a good question.\n　If something like that were suddenly to appear here,\n　it would definitely make the news.」"
+  },
+  {
+   "i": 88,
+   "speaker": "$n",
+   "text": "「А раз ничего не слышно,\n　то, может, сюда занесло только нас двоих.」",
+   "orig": "$n\n「Since we haven't heard anything,\n　it could be that we're the only ones who ended up here.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Титосэ",
+   "text": "「А здесь ведь и правда спокойно, да?」",
+   "orig": "Chitose\n「But this place is really peaceful, isn't it?」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Хотя несколько лет назад тут была большая война.」",
+   "orig": "$n\n「Seems like there was a huge war a few years ago, though.」"
+  },
+  {
+   "i": 91,
+   "speaker": "$n",
+   "text": "「После войны между Федерацией Земли и колонией\n　генетически изменённых людей была ещё схватка\n　мятежной военной группировки с повстанцами.」",
+   "orig": "$n\n「There was a battle between a rogue military group\n　and the rebels, after the war between the Earth\n　Federation and a colony of genetically modified people.」"
+  },
+  {
+   "i": 92,
+   "speaker": "$n",
+   "text": "「А ещё война с теми, кто переселился на Юпитер,\n　и тогда же — вторжение чужих.」",
+   "orig": "$n\n「And there was the war with the people who emigrated to\n　Jupiter at the same time, and the alien invasion.」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「И общественный строй совсем не такой, как у нас:\n　тут целое сословие аристократии.」",
+   "orig": "$n\n「And their social structure is totally different from our\n　our world's, with this whole aristocratic class thing.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Титосэ",
+   "text": "「Но море такое синее, еда — всё натуральное,\n　и в городе я не видела ни одного хмурого лица.」",
+   "orig": "Chitose\n「But the ocean is so blue, and the food is all-natural,\n　and I haven't seen one person in town not smiling.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Титосэ",
+   "text": "「Совсем не то, что у нас. Ведь наш мир\n　через год будет полностью уничтожен.」",
+   "orig": "Chitose\n「This place couldn't be more different. After all,\n　our world is going to be completely destroyed in a year.」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Ну что ты, Титосэ.\n　Мы ведь для этого и пошли на «Ямато»?\n　Чтобы этого не случилось.」",
+   "orig": "$n\n「Come on, Chitose.\n　That's why we boarded the Yamato, right?\n　To stop that from happening.」"
+  },
+  {
+   "i": 97,
+   "speaker": "$n",
+   "text": "「Не унывай,\n　держись.」",
+   "orig": "$n\n「Try to keep\n　your chin up.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Титосэ",
+   "text": "「Но всё это — в совершенно другом мире.」",
+   "orig": "Chitose\n「But that's all happening in an entirely different world.」"
+  },
+  {
+   "i": 99,
+   "speaker": "$n",
+   "text": "「Титосэ—」",
+   "orig": "$n\n「Chitose—」"
+  },
+  {
+   "i": 100,
+   "speaker": "Титосэ",
+   "text": "「Мы ничего не можем сделать,\n　раз нас оторвало от «Ямато».」",
+   "orig": "Chitose\n「We can't do anything now\n　that we've been separated from the Yamato.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Титосэ",
+   "text": "「Поэтому теперь надо думать\n　о том, как жить в этом мире, $n.」",
+   "orig": "Chitose\n「That's why we have to think about\n　our lives in this world now, $n.」"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「…」",
+   "orig": "$n\n「...」"
+  },
+  {
+   "i": 103,
+   "speaker": "Титосэ",
+   "text": "「Ты ведь тоже это понимаешь, $n?\n　Потому и не говоришь Тацу правду.」",
+   "orig": "Chitose\n「You know that too, don't you, $n?\n　That's why you haven't told Tatsu the truth.」"
+  },
+  {
+   "i": 104,
+   "speaker": "$n",
+   "text": "「Просто не хочу его запутать.」",
+   "orig": "$n\n「I just don't want to confuse him is all.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Титосэ",
+   "text": "「Тацу нас спас, мир тут мирный —\n　так что, если поискать получше,\n　работу мы где-нибудь да найдём.」",
+   "orig": "Chitose\n「Well, considering that Tatsu saved us,\n　and how peaceful this world is,\n　I know we'll find a job somewhere if we keep looking.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Титосэ",
+   "text": "「Если постараемся — всё получится.」",
+   "orig": "Chitose\n「I know it'll work out if we just try our best.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Титосэ,\n　а что бы ты сделала,\n　если бы нашёлся путь в наш мир?」",
+   "orig": "$n\n「Chitose,\n　what would you do\n　if we found a way to return to our world?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Титосэ",
+   "text": "「…」",
+   "orig": "Chitose\n「...」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「…」",
+   "orig": "$n\n「...」"
+  },
+  {
+   "i": 110,
+   "speaker": "Титосэ",
+   "text": "「А? Что?」",
+   "orig": "Chitose\n「Huh? What?」"
+  },
+  {
+   "i": 111,
+   "speaker": "$n",
+   "text": "「Вон там, Титосэ!」",
+   "orig": "$n\n「Over there, Chitose!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Титосэ",
+   "text": "「Что это такое?」",
+   "orig": "Chitose\n「What is that?」"
+  },
+  {
+   "i": 116,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　　-Завод-",
+   "orig": "　\n　\n　　　　　　　　　　　　　-Factory-"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「В этом сценарии фабрика ещё не открыта,\n　но место под неё я всё равно создам.」",
+   "orig": "$n\n「This scenario hasn't triggered a factory scenario yet,\n　but I'll create a space for it anyway.」"
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Осака",
+   "text": "「Что это за роботы такие?」",
+   "orig": "Osaka\n「What the heck are those robots?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Цель — завод Аото «Сэмпудзи Хэви Индастриз»!」",
+   "orig": "Wolfgang Subordinate\n「Target the Senpuji Heavy Industries Aoto Factory!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Заберём с завода все материалы\n　и обратим их в средства на разработку\n　робота господина Вольфганга!」",
+   "orig": "Wolfgang Subordinate\n「We'll take all the materials that factory has\n　and use it as capital to develop our\n　Master Wolfgang's robot!」"
+  },
+  {
+   "i": 3,
+   "speaker": "$n",
+   "text": "「Эти роботы идут к тому заводу!」",
+   "orig": "$n\n「Those robots are heading for that factory!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Титосэ",
+   "text": "「Город превращается\n　в поле боя!」",
+   "orig": "Chitose\n「This town is turning\n　into a battlefield!」"
+  },
+  {
+   "i": 5,
+   "speaker": "$n",
+   "text": "「Титосэ, надо вывести\n　всех этих людей в укрытие!」",
+   "orig": "$n\n「Chitose, we need to guide\n　all these people to safety!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Титосэ",
+   "text": "「А?」",
+   "orig": "Chitose\n「Huh?」"
+  },
+  {
+   "i": 7,
+   "speaker": "$n",
+   "text": "「Ты слышала!\n　Таким плевать, в кого стрелять!」",
+   "orig": "$n\n「You heard me!\n　Guys like that don't care who they shoot!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Титосэ",
+   "text": "「Стой, $n!\n　Что-то приближается!」",
+   "orig": "Chitose\n「Wait, $n!\n　Something's coming!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Титосэ",
+   "text": "「Этот поезд превратился в робота!」",
+   "orig": "Chitose\n「That train just transformed into a robot!」"
+  },
+  {
+   "i": 10,
+   "speaker": "$n",
+   "text": "「Я в курсе, что здесь развивают железные дороги,\n　но кто бы подумал, что они способны на такое!」",
+   "orig": "$n\n「I knew that this world was developing their railway\n　system, but who knew they could do something like that!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Титосэ",
+   "text": "「$n, смотри!\n　А это похоже на истребитель!」",
+   "orig": "Chitose\n「$n, look!\n　That looks like a fighter!」"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "「И он, похоже, тоже когда-то был поездом.」",
+   "orig": "$n\n「It kind of looks like it was a train once, too.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Майто",
+   "text": "「Вперёд, Гайн!」",
+   "orig": "Maito\n「Let's go, Gaine!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Гайн",
+   "text": "「Принято!」",
+   "orig": "Gaine\n「Understood!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Поезда превращаются в роботов?」",
+   "orig": "Wolfgang Subordinate\n「Trains that turn into robots?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Майто",
+   "text": "「Смотри и трепещи, негодяй!\n　Это Гайн из Корпуса Храбрых Экспрессов!」",
+   "orig": "Maito\n「Feast your eyes on this, scoundrel!\n　This is Gaine of the Brave Express Corps!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Корпус Храбрых Экспрессов?」",
+   "orig": "Wolfgang Subordinate\n「Did you say the Brave Express Corps?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Гайн",
+   "text": "「Верно!\n　Опустить оружие.\n　Вы будете взяты под стражу.」",
+   "orig": "Gaine\n「That is correct!\n　Now, lower your weapons.\n　You will be taken into custody.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Робот ещё и говорит?」",
+   "orig": "Wolfgang Subordinate\n「That robot can talk?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Майто",
+   "text": "「Гайн оснащён супер-ИИ.\n　От его правосудия не уйти!」",
+   "orig": "Maito\n「Gaine is equipped with Super AI.\n　No one can escape its justice!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Неужели\n　слухи правдивы?」",
+   "orig": "Wolfgang Subordinate\n「Could it be\n　the rumors are true?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Надо доложить\n　господину Вольфгангу!」",
+   "orig": "Wolfgang Subordinate\n「I must report this\n　to Master Wolfgang!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Подчинённый Вольфганга",
+   "text": "「Робот господина Вольфганга\n　непременно станет сильнейшим в мире!」",
+   "orig": "Wolfgang Subordinate\n「Master Wolfgang's robot must be\n　the strongest in the world beyond a doubt!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Гайн",
+   "text": "「Вы пренебрегаете моим приказом?」",
+   "orig": "Gaine\n「Are you disregarding my orders?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Майто",
+   "text": "「Видно, иначе нельзя, Гайн.\n　Око за око!」",
+   "orig": "Maito\n「I guess we have no choice, Gaine.\n　An eye for an eye!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Гайн",
+   "text": "「Принято, Майто!」",
+   "orig": "Gaine\n「Understood, Maito!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Майто",
+   "text": "「Начинаем, Гайн!\n　«Майт-Винг» тебя поддержит!」",
+   "orig": "Maito\n「Let's do this, Gaine!\n　The Might Wing will support you!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Гайн",
+   "text": "「Корпус Храбрых Экспрессов не прощает зла!」",
+   "orig": "Gaine\n「The Brave Express Corps forgives no evil!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Гайн",
+   "text": "「Вперёд!\n　Мы сразимся с любым, кто\n　посмеет нарушить покой этого мира!」",
+   "orig": "Gaine\n「Let's go!\n　We will fight any who dare\n　threaten the peace of this world!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Титосэ",
+   "text": "「Этот робот очень силён!」",
+   "orig": "Chitose\n「That robot is really strong!」"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「Но их меньше!\n　Так они не выстоят!」",
+   "orig": "$n\n「But they're outnumbered!\n　They don't stand a chance at this rate!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Титосэ",
+   "text": "「$n,\n　нам тоже надо убегать!」",
+   "orig": "Chitose\n「$n,\n　we should get out of here too!」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Ещё нет!\n　Здесь ещё остались люди,\n　которым нужна помощь!」",
+   "orig": "$n\n「Not yet!\n　There are still people here who\n　need our help!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Титосэ",
+   "text": "「Пусть им помогут другие!」",
+   "orig": "Chitose\n「Let someone else help them!」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「Титосэ—」",
+   "orig": "$n\n「Chitose—」"
+  },
+  {
+   "i": 36,
+   "speaker": "Титосэ",
+   "text": "「Мы больше не солдаты!\n　Нам нечем\n　отбиваться!」",
+   "orig": "Chitose\n「We aren't soldiers anymore!\n　We don't have any way\n　of fighting back!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Титосэ",
+   "text": "「Пусть с этим разбираются другие!」",
+   "orig": "Chitose\n「So we should leave this fight to others!」"
+  },
+  {
+   "i": 38,
+   "speaker": "$n",
+   "text": "「…」",
+   "orig": "$n\n「...」"
+  },
+  {
+   "i": 39,
+   "speaker": "$n",
+   "text": "「Прости, что из-за меня ты здесь, Титосэ.\n　А теперь скорее уходи.」",
+   "orig": "$n\n「I'm sorry for making you come with me, Chitose.\n　Now, hurry up and get out of here.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Титосэ",
+   "text": "「Без тебя — никуда, $n.」",
+   "orig": "Chitose\n「Not without you, $n.」"
+  },
+  {
+   "i": 41,
+   "speaker": "$n",
+   "text": "「Мне нужно идти дальше.」",
+   "orig": "$n\n「I have to keep going.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Титосэ",
+   "text": "「Но—!」",
+   "orig": "Chitose\n「But—!」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「Пусть я и не из этого мирного мира,\n　но не могу стоять в стороне.」",
+   "orig": "$n\n「Even if I am an outsider in this peaceful place,\n　I have to do something.」"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「Именно потому, что я здесь со стороны,\n　я и не позволю никому\n　разрушить покой, что этот мир наконец обрёл!」",
+   "orig": "$n\n「In fact, it's exactly because I'm an outsider\n　that I can't let anyone\n　ruin the peace this world has finally obtained!」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Потому я и сражаюсь!」",
+   "orig": "$n\n「So I have to fight!」"
+  },
+  {
+   "i": 46,
+   "speaker": "？？？",
+   "text": "「Значит, такой путь ты и выбираешь.」",
+   "orig": "？？？\n「So that's the life you have chosen.」"
+  },
+  {
+   "i": 47,
+   "speaker": "$n",
+   "text": "「Что—?」",
+   "orig": "$n\n「Wha—?」"
+  },
+  {
+   "i": 48,
+   "speaker": "？？？",
+   "text": "「В тебе нет логики и расчёта,\n　и всё же это очень любопытно.」",
+   "orig": "？？？\n「You are illogical, inefficient,\n　and yet, very interesting.」"
+  },
+  {
+   "i": 49,
+   "speaker": "$n",
+   "text": "「Девочка, сейчас, кажется,\n　совсем не время.」",
+   "orig": "$n\n「Um, young lady? I don't think this is\n　really a good time.」"
+  },
+  {
+   "i": 50,
+   "speaker": "？？？",
+   "text": "「Понимаю.\n　И я умею читать намёки.」",
+   "orig": "？？？\n「I understand.\n　Even I can take a hint.」"
+  },
+  {
+   "i": 51,
+   "speaker": "？？？",
+   "text": "「Прошу, иди.」",
+   "orig": "？？？\n「Please go.」"
+  },
+  {
+   "i": 52,
+   "speaker": "$n",
+   "text": "「Куда?」",
+   "orig": "$n\n「Go where?」"
+  },
+  {
+   "i": 53,
+   "speaker": "？？？",
+   "text": "「Беги к главной улице.\n　Скорее!」",
+   "orig": "？？？\n「Run toward the main street.\n　Hurry!」"
+  },
+  {
+   "i": 54,
+   "speaker": "$n",
+   "text": "「Титосэ,\n　бери девочку и бегите!」",
+   "orig": "$n\n「Chitose,\n　take this girl with you and run!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Титосэ",
+   "text": "「А ты что будешь делать, $n?」",
+   "orig": "Chitose\n「But what are you going to do, $n?」"
+  },
+  {
+   "i": 56,
+   "speaker": "$n",
+   "text": "「Пока я дышу,\n　буду жить на полную!」",
+   "orig": "$n\n「As long as I'm alive,\n　I'm going to live life to the fullest!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Титосэ",
+   "text": "「$n—」",
+   "orig": "Chitose\n「$n—」"
+  },
+  {
+   "i": 58,
+   "speaker": "？？？",
+   "text": "「Давай укроемся где-нибудь.」",
+   "orig": "？？？\n「Let's take shelter somewhere.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Титосэ",
+   "text": "「Да что с тобой такое?\n　Из-за твоих глупых слов\n　$n теперь там!」",
+   "orig": "Chitose\n「What is with you?\n　$n ran off because of\n　those silly things you said!」"
+  },
+  {
+   "i": 60,
+   "speaker": "？？？",
+   "text": "「Это собственный выбор.」",
+   "orig": "？？？\n「He made his own choice.」"
+  },
+  {
+   "i": 61,
+   "speaker": "$n",
+   "text": "「Сначала надо помочь\n　тем, кто пытается убежать.」",
+   "orig": "$n\n「First I need to help\n　the people who are trying to run away.」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Держите злодеев, я на вас рассчитываю,\n　робот-экспресс!」",
+   "orig": "$n\n「I'm counting on you to hold the bad guys at bay,\n　Robot Express!」"
+  },
+  {
+   "i": 63,
+   "speaker": "$n",
+   "text": "「Это же—!」",
+   "orig": "$n\n「Is that—!」"
+  },
+  {
+   "i": 64,
+   "speaker": "$n",
+   "text": "「«Вангрэй»!\n　Ты всё-таки здесь!」",
+   "orig": "$n\n「The VangRay!\n　You ended up here after all!」"
+  },
+  {
+   "i": 65,
+   "speaker": "$n",
+   "text": "「Раз ты здесь, бояться нечего!」",
+   "orig": "$n\n「If you're here, then there's nothing to be scared of!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Гайн",
+   "text": "「Что это за робот?」",
+   "orig": "Gaine\n「What is that robot?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Майто",
+   "text": "「Осторожно, Гайн!\n　Это может быть машина Федерации!」",
+   "orig": "Maito\n「Watch out, Gaine!\n　It could be a Federation craft!」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Экспресс, слышишь меня?\n　Я на вашей стороне!\n　Ну, по крайней мере — враг зла!」",
+   "orig": "$n\n「Can you hear me, Express?\n　I'm your ally!\n　Well, at least, an enemy of evil!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Гайн",
+   "text": "「Кто вы?」",
+   "orig": "Gaine\n「Who are you?」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Это долгая история.\n　Пока считайте меня добрым странником.」",
+   "orig": "$n\n「It's a long story.\n　Let's just say I'm a helpful wanderer for now.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Гайн",
+   "text": "「Не понимаю.」",
+   "orig": "Gaine\n「I do not understand.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Майто",
+   "text": "「Но то, что ты на нашей стороне,\n　успокаивает.」",
+   "orig": "Maito\n「But it is reassuring that you\n　will fight with us.」"
+  },
+  {
+   "i": 73,
+   "speaker": "$n",
+   "text": "「«Вангрэй» сам\n　добрался сюда за мной?」",
+   "orig": "$n\n「Did the VangRay\n　follow me here all on its own?」"
+  },
+  {
+   "i": 74,
+   "speaker": "$n",
+   "text": "「Да ну.\n　Система 99, доложи, что происходит.」",
+   "orig": "$n\n「No way.\n　System Nine-Nine, tell me what's going on.」"
+  },
+  {
+   "i": 75,
+   "speaker": "？？？",
+   "text": "「Это я.」",
+   "orig": "？？？\n「It was me.」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「А?\n　Ты вела «Вангрэй»?」",
+   "orig": "$n\n「Huh?\n　You flew the VangRay?」"
+  },
+  {
+   "i": 77,
+   "speaker": "？？？",
+   "text": "「Не глупи.」",
+   "orig": "？？？\n「Don't be silly.」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「А-а, да неважно!\n　Сейчас главное — эти роботы-грабители!」",
+   "orig": "$n\n「Augh, whatever!\n　First I need to worry about those robber robots!」"
+  },
+  {
+   "i": 79,
+   "speaker": "$n",
+   "text": "「Вперёд, «Вангрэй»!\n　Где бы меня ни носило,\n　я всегда остаюсь бойцом!」",
+   "orig": "$n\n「Let's do this, VangRay!\n　No matter where I am,\n　I will always be a fighter!」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Фух, было близко,\n　но мы их побили!」",
+   "orig": "$n\n「Phew, it was close,\n　but we beat them!」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Но что с Системой 99?\n　За всё это время — ни единого слова.」",
+   "orig": "$n\n「But what's up with System Nine-Nine?\n　It didn't say a single thing the entire time.」"
+  },
+  {
+   "i": 82,
+   "speaker": "？？？",
+   "text": "「Это потому, что ты ведёшь себя скверно.」",
+   "orig": "？？？\n「That's because your attitude is rotten.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Да что с тобой\n　не так, малявка?」",
+   "orig": "$n\n「What is your\n　problem, you brat?」"
+  },
+  {
+   "i": 84,
+   "speaker": "？？？",
+   "text": "「Какие злые слова.」",
+   "orig": "？？？\n「You say the meanest things.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Титосэ",
+   "text": "（Как эта девочка говорит с $n\n　без всякой связи?）",
+   "orig": "Chitose\n（How is this girl talking to $n\n　without any sort of communicator?）"
+  },
+  {
+   "i": 86,
+   "speaker": "Майто",
+   "text": "「Спасибо, странник.\n　Большая помощь.」",
+   "orig": "Maito\n「Thank you, wanderer.\n　You were a great help.」"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「Храбро — вдвоём\n　защищать целый город.」",
+   "orig": "$n\n「It takes a lot of guts for just the\n　two of you to protect this town.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Майто",
+   "text": "「Таков наш долг — долг Корпуса Храбрых Экспрессов.」",
+   "orig": "Maito\n「That is our duty—the duty of the Brave Express Corps.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Гайн",
+   "text": "「Майто—」",
+   "orig": "Gaine\n「Maito—」"
+  },
+  {
+   "i": 90,
+   "speaker": "Майто",
+   "text": "「Знаю, Гайн.\n　Опять перегнул.」",
+   "orig": "Maito\n「I know, Gaine.\n　I overdid it again.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Майто",
+   "text": "「Странник,\n　надеюсь, мы ещё встретимся.」",
+   "orig": "Maito\n「Wanderer,\n　I hope we get to meet again.」"
+  },
+  {
+   "i": 92,
+   "speaker": "$n",
+   "text": "「Постой!\n　Хотя бы имя своё скажи!」",
+   "orig": "$n\n「Wait!\n　At least tell me your name!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Майто",
+   "text": "「Имена — не моё.\n　До новых встреч!」",
+   "orig": "Maito\n「I am not one for names.\n　Until next time!」"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Этот парень\n　и правда герой.」",
+   "orig": "$n\n「That guy\n　is some hero.」"
+  },
+  {
+   "i": 95,
+   "speaker": "$n",
+   "text": "「Что ж, страннику положено\n　странствовать дальше.」",
+   "orig": "$n\n「Guess I should make like a wanderer\n　and wander off too.」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「О, вот и полиция.\n　Лучше поздно, чем никогда.」",
+   "orig": "$n\n「Oh, now the police show up.\n　Better late than never, I guess.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Одзава",
+   "text": "「Бросить оружие!」",
+   "orig": "Ozawa\n「Drop your weapons!」"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「А?」",
+   "orig": "$n\n「Huh?」"
+  },
+  {
+   "i": 99,
+   "speaker": "Одзава",
+   "text": "「Незарегистрированный боевой робот!\n　Бросить оружие и следовать за нами!」",
+   "orig": "Ozawa\n「To the unregistered weaponized robot!\n　Drop your weapons and follow us!」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「А, ну да.\n　Этого стоило\n　было ожидать.」",
+   "orig": "$n\n「Ah, yeah.\n　I guess I should have\n　seen this coming.」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「Да уж, геройская жизнь\n　не из простых, если\n　за неё попадаешь в полицию.」",
+   "orig": "$n\n「Man, life as a hero\n　is rough if it means\n　getting in trouble with the police.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Майто",
+   "text": "「Молодец, Гайн!\n　Так держать!」",
+   "orig": "Maito\n「Nice one, Gaine!\n　Keep it up!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Гайн",
+   "text": "「С твоей помощью, Майто,\n　мы легко справимся с этими злодеями!」",
+   "orig": "Gaine\n「With your help, Maito,\n　we can easily match these villains!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Майто",
+   "text": "「Но не перестарайся.\n　Нам ещё надо показать им настоящую силу.」",
+   "orig": "Maito\n「But don't overdo it.\n　We still have to show them our true strength.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Гайн",
+   "text": "「Принято.」",
+   "orig": "Gaine\n「Understood.」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「Всё ещё дуешься, Система 99?\n　Казалось, ты обрадуешься встрече.」",
+   "orig": "$n\n「Still giving me the cold shoulder, System Nine-Nine?\n　I thought you'd be happy to see me again.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Ладно, неважно.\n　Растрогаемся от встречи\n　после победы в этом бою.」",
+   "orig": "$n\n「Well, I guess it's fine.\n　We'll have our sappy reunion once\n　we've won this battle.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Майто",
+   "text": "「Гайн,\n　Корпус Храбрых Экспрессов не уступит злу!」",
+   "orig": "Maito\n「Gaine,\n　the Brave Express Corps does not yield to evil!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Гайн",
+   "text": "「Принято, Майто! Я больше не позволю этим\n　преступникам буйствовать в нашем городе!」",
+   "orig": "Gaine\n「Understood, Maito! I will not allow these criminals\n　to run amok in our city any longer!」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「Неделю назад мы дрались за жизнь\n　в разломе измерений в Млечном Пути — не верится.」",
+   "orig": "$n\n「I can't believe only a week ago we were fighting\n　for our lives in a dimensional rift in the Milky Way.」"
+  },
+  {
+   "i": 111,
+   "speaker": "$n",
+   "text": "「Но в каком бы измерении ни была — Земля есть Земля,\n　и я вычищу с неё всех злодеев до последнего!」",
+   "orig": "$n\n「But no matter what dimension it's in, Earth is Earth, and\n　I'm gonna scrub every last bad guy from the face of it!」"
+  },
+  {
+   "i": 112,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Aah!」"
+  }
+ ]
+}
