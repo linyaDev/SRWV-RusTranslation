@@ -1,0 +1,2338 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　-Командный пункт базы Гамилас, Плутон-",
+   "orig": "　\n　　\n　　　　　　-Pluto Gamillas Base Control Room-"
+  },
+  {
+   "i": 4,
+   "speaker": "Ганц",
+   "text": "「Командующий Шульц.」",
+   "orig": "Ganz\n「Commander Shultz.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Шульц",
+   "text": "「Что такое, Ганц?」",
+   "orig": "Shultz\n「What is it, Ganz?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Ганц",
+   "text": "「Доложили, что корабль $kwbтерронцев$kwe появился\n　у базы Плавучего континента на Зуписте.」",
+   "orig": "Ganz\n「That $kwbTerron$kwe ship has reportedly appeared near the\n　Floating Continent Base on Zupist.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Шульц",
+   "text": "「Невозможно! Они должны всё ещё\n　дрейфовать у внутренних планет!」",
+   "orig": "Shultz\n「Impossible! They should still be\n　drifting through the inner planets!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Ганц",
+   "text": "「Также зафиксированы следы возмущения\n　пространства от прыжка Гешу-Там.」",
+   "orig": "Ganz\n「They have also picked up signs of space\n　wake from a Geshu Tam jump.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Шульц",
+   "text": "「Они совершили прыжок?」",
+   "orig": "Shultz\n「They've performed a jump?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Ганц",
+   "text": "「Полной уверенности нет, сэр.」",
+   "orig": "Ganz\n「We can't be entirely sure, sir.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Шульц",
+   "text": "「Хмф.」",
+   "orig": "Shultz\n「Hrmph.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Ганц",
+   "text": "「Сообщить командующему Гоэру\n　на планете Балун?」",
+   "orig": "Ganz\n「Should we inform Commander Goer\n　on planet Balun?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Шульц",
+   "text": "「И что, по-твоему, произойдёт,\n　если мы это сделаем?」",
+   "orig": "Shultz\n「And just what do you think will happen\n　if we do?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Шульц",
+   "text": "「Нет, справимся сами.\n　Пусть Ралета ударит по ним!」",
+   "orig": "Shultz\n「No, we'll handle this ourselves.\n　Have Raleta take the fight to them!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Ганц",
+   "text": "「Есть!」",
+   "orig": "Ganz\n「Yes, sir!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Шульц",
+   "text": "（Как эти грязные терронцы вдруг построили корабль,\n　способный преодолеть скорость света?）",
+   "orig": "Shultz\n（How did those filthy Terrons suddenly build a ship\n　capable of breaking the light-speed?）"
+  },
+  {
+   "i": 20,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Стратегический зал «Ямато»-",
+   "orig": "　\n　　\n　　　　　　　-Yamato Central Strategy Room-"
+  },
+  {
+   "i": 21,
+   "speaker": "Санада",
+   "text": "「Перед вами сводка имеющихся данных и сведений\n　Кинкейда об окрестностях базы противника.」",
+   "orig": "Sanada\n「What you are seeing is a synthesis of existing data and\n　Kincade's intel depicting the enemy base's surroundings.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кодай",
+   "text": "「Должно быть, это тот астероид, где находится база.」",
+   "orig": "Kodai\n「That must be the asteroid where the base is located.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Сима",
+   "text": "「И плавучий континент именно такой.」",
+   "orig": "Shima\n「And that floating continent is spot-on.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Санада",
+   "text": "「Его площадь примерно равна Австралии,\n　и у него есть своя атмосфера. Обнаружена\n　также гамиласская флора.」",
+   "orig": "Sanada\n「It has roughly the same surface area as Australia,\n　as well as its own atmosphere. We have also spotted\n　Gamillan flora.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Окита",
+   "text": "「Та самая, что пожирает Землю?」",
+   "orig": "Okita\n「The same ones eating away at the Earth?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Санада",
+   "text": "「Да, сэр.\n　Иными словами, климат на этом астероиде\n　создан ими искусственно.」",
+   "orig": "Sanada\n「Yes, sir.\n　Which is to say that they have artificially\n　created the climate on this asteroid.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Санада",
+   "text": "「Полагаем, они сосредоточились на Юпитере,\n　готовясь к гамиласформированию Земли.」",
+   "orig": "Sanada\n「We believe that they have consolidated on Jupiter in\n　anticipation of employing Gamillas-forming on Earth.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Вельт",
+   "text": "「То есть они попытаются изменить\n　среду Земли так, чтобы она совпала\n　со средой их родной планеты?」",
+   "orig": "Velt\n「You mean they would make an attempt\n　to alter the Earth's environment to match\n　that of their own planet, correct?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Санада",
+   "text": "「Да, таково наше рабочее предположение.」",
+   "orig": "Sanada\n「That is our operating assumption, yes.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Лотти",
+   "text": "「Ух ты. Ну и извращённая публика.」",
+   "orig": "Lottie\n「Whoa. They're a pretty twisted bunch.」"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「Не знаю, из какого угла вселенной они явились,\n　но если думают, что чужие планеты — это их личный\n　садик, то их ждёт большой сюрприз!」",
+   "orig": "$n\n「I don't know where in the universe they came from, but\n　if they think they can treat other planets like their\n　personal gardens, they've got another thing coming!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Кинкейд",
+   "text": "「Пока гамиласцы удерживают плавучий континент,\n　жителям Юпитера не будет покоя.」",
+   "orig": "Kincade\n「So long as Gamillans occupy the floating continent,\n　there will be no rest for the people living on Jupiter.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Кинкейд",
+   "text": "「Колония на Юпитере уже пережила\n　несколько нападений.」",
+   "orig": "Kincade\n「In fact, the colony on Jupiter has already endured\n　several attacks.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Като",
+   "text": "「Раньше Империя Юпитера сковывала гамиласцев\n　боями, и те не могли нападать на колонистов.\n　Теперь её нет — это лишь вопрос времени.」",
+   "orig": "Kato\n「Previously, the Jupiter Empire kept the Gamillans\n　engaged in battle, leaving them unable to attack the\n　colonists. Now that they're gone, it's a matter of time.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Сима",
+   "text": "「Выходит, Империя Юпитера могла уйти к внешним\n　границам, спасаясь от атак гамиласцев.」",
+   "orig": "Shima\n「So the Jupiter Empire may have been fleeing the\n　Gamillans' attacks by heading for the outer reaches.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Окита",
+   "text": "「Мы не можем закрывать глаза на беду колонистов.\n　А гамиласцы, со своей стороны, наверняка следят\n　за нами и готовят удар.」",
+   "orig": "Okita\n「We cannot turn a blind eye to the colonists' plight.\n　And the Gamillans, for their part, are probably\n　watching our movements and planning to attack us.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Окита",
+   "text": "「Отступать некуда. Решим это здесь и сейчас.」",
+   "orig": "Okita\n「There is no backing down. We need to settle this now.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодай",
+   "text": "「Понял.」",
+   "orig": "Kodai\n「Understood.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Окита",
+   "text": "「Действуем по той же схеме, что и при штурме базы\n　Империи Юпитера. Передовую составят «Вангрэй»,\n　«Хакебайн», «Грунгуст» и два Гандама.」",
+   "orig": "Okita\n「We will employ the same strategy we used to attack\n　the Jupiter Empire's base. The VangRay, Huckebein,\n　Grungust, and two Gundams will form the front line.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Окита",
+   "text": "「«Ямато» и «Хаябусы» обеспечат огневое\n　прикрытие, чтобы передовая продвигалась.」",
+   "orig": "Okita\n「The Yamato and the Hayabusa will provide\n　covering fire so the front line may advance.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Санада",
+   "text": "「Судя по размерам базы, гамиласцы могут\n　выставить и собственный линкор.」",
+   "orig": "Sanada\n「Given the size of the base, there is a chance that the\n　Gamillans will deploy a battleship of their own.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Намбу",
+   "text": "「Мобильные доспехи удержат передовую?」",
+   "orig": "Nanbu\n「Are the mobile suits able to hold the frontline?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Санада",
+   "text": "「Огневой мощи у нас достаточно.\n　Эти машины куда способнее тех мобильных\n　доспехов, что обычно использует Федерация.」",
+   "orig": "Sanada\n「We have enough firepower as it is.\n　These units have way better abilities than\n　the mobile suits the Federation typically deploys.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Санада",
+   "text": "「Их повышенная подвижность даст им преимущество\n　в бою против крейсеров.」",
+   "orig": "Sanada\n「Their added mobility should give them the upper hand\n　when it comes to taking on cruisers.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Като",
+   "text": "「Вы про «супер-роботов», верно?\n　Машины на пределе возможностей робототехники.」",
+   "orig": "Kato\n「You're talking about super robots, aren't you?\n　Mechs that push the limits of robotics.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Вельт",
+   "text": "「Серийные мобильные доспехи ставят удобство,\n　ремонтопригодность и однотипность выше мощи.」",
+   "orig": "Velt\n「Mass-produced mobile suits focus on usability,\n　reparability, and consistency over firepower.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Вельт",
+   "text": "「В итоге плотный строй мобильных доспехов — просто\n　приманка для пушек Гамилас, а главную роль\n　берут на себя флоты линкоров, которые—」",
+   "orig": "Velt\n「As a result, mobile suit units become tightly-packed\n　bait for Gamillan cannons, thereby freeing up the\n　fleets of battleships to take on a key role in the—」"
+  },
+  {
+   "i": 48,
+   "speaker": "Намбу",
+   "text": "「Короче, главное — артиллерия.」",
+   "orig": "Nanbu\n「Long story short, artillery is key.」"
+  },
+  {
+   "i": 49,
+   "speaker": "$n",
+   "text": "「Сказано истинным артиллеристом.\n　Вы вечно недооцениваете мобильные доспехи.」",
+   "orig": "$n\n「Spoken like a true artillery man.\n　You guys always underestimate mobile suits.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Кинкейд",
+   "text": "「Но если мы дадим достаточно огня, чтобы связать\n　противника и пропустить мобильные доспехи сквозь\n　его оборону — это совсем другой разговор.」",
+   "orig": "Kincade\n「If we can lay down enough firepower to keep the\n　enemy busy and let the mobile suits slip through their \n　defenses, however, that's another story entirely.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Лотти",
+   "text": "「Вот это по-нашему!」",
+   "orig": "Lottie\n「Now you're speaking our language!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Кодай",
+   "text": "「А!」",
+   "orig": "Kodai\n「Ah!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Окита",
+   "text": "（Кодай наконец понял мой замысел?）",
+   "orig": "Okita\n（Has my plan finally clicked with Kodai?）"
+  },
+  {
+   "i": 54,
+   "speaker": "Ниими",
+   "text": "「Теории теориями, но единственный\n　действенный способ справиться с гамиласцами —\n　дать волю пушкам «Ямато».」",
+   "orig": "Niimi\n「Current theories aside, the only\n　effective method of dealing with the Gamillans is\n　turning the Yamato's cannon loose on them.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Ниими",
+   "text": "「Для этого, командующий, техники закончили\n　орудие, использующее энергию волнового\n　двигателя. Оно установлено в носовой части.」",
+   "orig": "Niimi\n「To that end, Commander, the technicians have completed\n　work on ordnance that utilizes energy from the wave\n　motion engine. It has been installed on the bow.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Мори",
+   "text": "「Новое оружие?」",
+   "orig": "Mori\n「A new weapon?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Ниими",
+   "text": "「Пространственно-волновое имплозивное орудие.\n　Проще — волновая пушка.」",
+   "orig": "Niimi\n「The dimensional wave implosion emission cannon.\n　We simply call it the wave motion gun.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Кодай",
+   "text": "「Так и правда короче.\n　Что это за оружие?」",
+   "orig": "Kodai\n「That's certainly less of a mouthful.\n　What kind of weapon is it?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Ниими",
+   "text": "「Проще говоря, вся избыточная\n　энергия волнового двигателя\n　уходит в луч, который бьёт из наших орудий.」",
+   "orig": "Niimi\n「Put simply, it redirects all\n　of the excess energy generated by the wave motion\n　engine into a beam fired by our cannons.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Ниими",
+   "text": "「Возникающая гравитация создаёт микроскопическую\n　чёрную дыру, на миг испускающую излучение Хокинга—」",
+   "orig": "Niimi\n「The resulting gravitational force creates a micro\n　black hole that briefly releases Hawking radiation—」"
+  },
+  {
+   "i": 61,
+   "speaker": "Намбу",
+   "text": "「То есть корабль — одна большая пушка?」",
+   "orig": "Nanbu\n「Turning the ship into a giant cannon?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Ниими",
+   "text": "「Недалеко от истины.」",
+   "orig": "Niimi\n「You're not too far off the mark.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Токугава",
+   "text": "「Для меня это слишком сложно.」",
+   "orig": "Tokugawa\n「This is all way over my head.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Санада",
+   "text": "「Полагаю, волновой пушке сначала\n　нужен пробный выстрел?」",
+   "orig": "Sanada\n「I assume the wave motion gun will have to\n　undergo a test firing first?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Окита",
+   "text": "「В своё время. А пока костяком операции\n　станут отряды мобильных машин.」",
+   "orig": "Okita\n「In due time. In the meantime, this operation shall\n　proceed with mobile weapon units at its core.」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Вот это я и хотел услышать!」",
+   "orig": "$n\n「Now that's what I like to hear!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тобиа",
+   "text": "「Отлично!\n　Ударим по базе всем, что у нас есть,\n　и вышвырнем Империю Гамилас!」",
+   "orig": "Tobia\n「Alright!\n　Let's hit that base with everything we've got,\n　and send the Gamillas Empire packing!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Окита",
+   "text": "「Операция начинается в 01:30.\n　Всем машинам приготовиться к вылету.」",
+   "orig": "Okita\n「The operation shall commence at hour 0130.\n　All units, prepare to deploy.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Кодай",
+   "text": "（Выходит, мы вломимся к ним через парадный вход.）",
+   "orig": "Kodai\n（I guess we're going to kick in their front door.）"
+  },
+  {
+   "i": 71,
+   "speaker": "Санада",
+   "text": "「Перед вами сводка имеющихся данных и сведений\n　Кинкейда об окрестностях базы противника.」",
+   "orig": "Sanada\n「What you are seeing is a synthesis of existing data and\n　Kincade's intel depicting the enemy base's surroundings.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Кодай",
+   "text": "「Должно быть, это тот астероид, где находится база.」",
+   "orig": "Kodai\n「That must be the asteroid where the base is located.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Сима",
+   "text": "「И плавучий континент именно такой.」",
+   "orig": "Shima\n「And that floating continent is spot-on.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Санада",
+   "text": "「Его площадь примерно равна Австралии,\n　и у него есть своя атмосфера. Обнаружена\n　также гамиласская флора.」",
+   "orig": "Sanada\n「It has roughly the same surface area as Australia,\n　as well as its own atmosphere. We have also spotted\n　Gamillan flora.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Окита",
+   "text": "「Та самая, что пожирает Землю?」",
+   "orig": "Okita\n「The same ones eating away at the Earth?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Санада",
+   "text": "「Да, сэр.\n　Иными словами, климат на этом астероиде\n　создан ими искусственно.」",
+   "orig": "Sanada\n「Yes, sir.\n　Which is to say that they have artificially\n　created the climate on this asteroid.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Санада",
+   "text": "「Полагаем, они сосредоточились на Юпитере,\n　готовясь к гамиласформированию Земли.」",
+   "orig": "Sanada\n「We believe that they have consolidated on Jupiter in\n　anticipation of employing Gamillas-forming on Earth.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Вельт",
+   "text": "「То есть они попытаются изменить\n　среду Земли так, чтобы она совпала\n　со средой их родной планеты?」",
+   "orig": "Velt\n「You mean they would make an attempt\n　to alter the Earth's environment to match\n　that of their own planet, correct?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Санада",
+   "text": "「Да, таково наше рабочее предположение.」",
+   "orig": "Sanada\n「That is our operating assumption, yes.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Лотти",
+   "text": "「Ух ты. Ну и извращённая публика.」",
+   "orig": "Lottie\n「Whoa. They're a pretty twisted bunch.」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Нельзя же делать что вздумается!\n　Хотят жить на Земле — пусть подают заявку\n　и проходят проверку! Для этого есть порядок!」",
+   "orig": "$n\n「They can't just do whatever they want!\n　If they want to live on Earth, they should make a\n　formal appeal and be vetted! We have a process!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Сима",
+   "text": "「$l говорит верно.\n　Они пришли за нами, и мы не можем сидеть и смотреть,\n　как знакомая нам планета исчезает на глазах.」",
+   "orig": "Shima\n「$l is right.\n　They came after us, and we cannot sit idly by while the\n　planet we once knew disappears right before our eyes.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Окита",
+   "text": "（Не знал, что Сима так горяч.）",
+   "orig": "Okita\n（I had no idea Shima was so passionate.）"
+  },
+  {
+   "i": 84,
+   "speaker": "Кинкейд",
+   "text": "「Пока гамиласцы удерживают плавучий континент,\n　жителям Юпитера не будет покоя.」",
+   "orig": "Kincade\n「So long as Gamillans occupy the floating continent,\n　there will be no rest for the people living on Jupiter.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Кинкейд",
+   "text": "「Колония на Юпитере уже пережила\n　несколько нападений.」",
+   "orig": "Kincade\n「In fact, the colony on Jupiter has already endured\n　several attacks.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Като",
+   "text": "「Раньше Империя Юпитера сковывала гамиласцев\n　боями, и те не могли нападать на колонистов.\n　Теперь её нет — это лишь вопрос времени.」",
+   "orig": "Kato\n「Previously, the Jupiter Empire kept the Gamillans\n　engaged in battle, leaving them unable to attack the\n　colonists. Now that they're gone, it's a matter of time.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Сима",
+   "text": "「Выходит, Империя Юпитера могла уйти к внешним\n　границам, спасаясь от атак гамиласцев.」",
+   "orig": "Shima\n「So the Jupiter Empire may have been fleeing the\n　Gamillans' attacks by heading for the outer reaches.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Окита",
+   "text": "「Мы не можем закрывать глаза на беду колонистов.\n　А гамиласцы, со своей стороны, наверняка следят\n　за нами и готовят удар.」",
+   "orig": "Okita\n「We cannot turn a blind eye to the colonists' plight.\n　And the Gamillans, for their part, are probably\n　watching our movements and planning to attack us.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Окита",
+   "text": "「Отступать некуда. Решим это здесь и сейчас.」",
+   "orig": "Okita\n「There is no backing down. We need to settle this now.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Кодай",
+   "text": "「Понял.」",
+   "orig": "Kodai\n「Understood.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Окита",
+   "text": "「Действуем по той же схеме, что и при штурме базы\n　Империи Юпитера. Передовую составят «Вангрэй»,\n　«Хакебайн», «Грунгуст» и два Гандама.」",
+   "orig": "Okita\n「We will employ the same strategy we used to attack\n　the Jupiter Empire's base. The VangRay, Huckebein,\n　Grungust, and two Gundams will form the front line.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Окита",
+   "text": "「«Ямато» и «Хаябусы» обеспечат огневое\n　прикрытие, чтобы передовая продвигалась.」",
+   "orig": "Okita\n「The Yamato and the Hayabusa will provide\n　covering fire so the front line may advance.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Санада",
+   "text": "「Судя по размерам базы, гамиласцы могут\n　выставить и собственный линкор.」",
+   "orig": "Sanada\n「Given the size of the base, there is a chance that the\n　Gamillans will deploy a battleship of their own.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Намбу",
+   "text": "「Выставим на передовую отряды мобильных машин?」",
+   "orig": "Nanbu\n「Shall we deploy mobile weapon units to the front line?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Санада",
+   "text": "「Огневой мощи у нас достаточно.\n　Эти машины куда способнее тех мобильных\n　доспехов, что обычно использует Федерация.」",
+   "orig": "Sanada\n「We have enough firepower as it is.\n　These units have way better abilities than\n　the mobile suits the Federation typically deploys.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Санада",
+   "text": "「Их повышенная подвижность даст им преимущество\n　в бою против крейсеров.」",
+   "orig": "Sanada\n「Their added mobility should give them the upper hand\n　when it comes to taking on cruisers.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Като",
+   "text": "「Вы про «супер-роботов», верно?\n　Машины на пределе возможностей робототехники.」",
+   "orig": "Kato\n「You're talking about super robots, aren't you?\n　Mechs that push the limits of robotics.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Вельт",
+   "text": "「Серийные мобильные доспехи ставят удобство,\n　ремонтопригодность и однотипность выше мощи.」",
+   "orig": "Velt\n「Mass-produced mobile suits focus on usability,\n　reparability, and consistency over firepower.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Вельт",
+   "text": "「В итоге плотный строй мобильных доспехов — просто\n　приманка для пушек Гамилас, а главную роль\n　берут на себя флоты линкоров, которые—」",
+   "orig": "Velt\n「As a result, mobile suit units become tightly-packed\n　bait for Gamillan cannons, thereby freeing up the\n　fleets of battleships to take on a key role in the—」"
+  },
+  {
+   "i": 100,
+   "speaker": "Намбу",
+   "text": "「Короче, главное — артиллерия.」",
+   "orig": "Nanbu\n「Long story short, artillery is key.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Лотти",
+   "text": "「Полегче. Такими словами недолго кого-то задеть.」",
+   "orig": "Lottie\n「Careful. You're gonna step on toes talking like that.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Кинкейд",
+   "text": "「Но если мы дадим достаточно огня, чтобы связать\n　противника и пропустить мобильные доспехи сквозь\n　его оборону — это совсем другой разговор.」",
+   "orig": "Kincade\n「If we can lay down enough firepower to keep the\n　enemy busy and let the mobile suits slip through their \n　defenses, that's another story entirely.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Вот это нам по силам!」",
+   "orig": "$n\n「Now that we can handle!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Кодай",
+   "text": "「А!」",
+   "orig": "Kodai\n「Ah!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Окита",
+   "text": "（Кодай наконец понял мой замысел?）",
+   "orig": "Okita\n（Has my plan finally clicked with Kodai?）"
+  },
+  {
+   "i": 106,
+   "speaker": "Ниими",
+   "text": "「Теории теориями, но единственный\n　действенный способ справиться с гамиласцами —\n　дать волю пушкам «Ямато».」",
+   "orig": "Niimi\n「Current theories aside, the only\n　effective method of dealing with the Gamillans is\n　turning the Yamato's cannon loose on them.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Ниими",
+   "text": "「Для этого, командующий, техники закончили\n　орудие, использующее энергию волнового\n　двигателя. Оно установлено в носовой части.」",
+   "orig": "Niimi\n「To that end, Commander, the technicians have completed\n　work on ordnance that utilizes energy from the wave\n　motion engine. It has been installed on the bow.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Мори",
+   "text": "「Новое оружие?」",
+   "orig": "Mori\n「A new weapon?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Ниими",
+   "text": "「Пространственно-волновое имплозивное орудие.\n　Проще — волновая пушка.」",
+   "orig": "Niimi\n「The dimensional wave implosion emission cannon.\n　We simply call it the wave motion gun.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Кодай",
+   "text": "「Так и правда короче.\n　Что это за оружие?」",
+   "orig": "Kodai\n「That's certainly less of a mouthful.\n　What kind of weapon is it?」"
+  },
+  {
+   "i": 111,
+   "speaker": "Ниими",
+   "text": "「Проще говоря, вся избыточная\n　энергия волнового двигателя\n　уходит в луч, который бьёт из наших орудий.」",
+   "orig": "Niimi\n「Put simply, it redirects all\n　of the excess energy generated by the wave motion\n　engine into a beam fired by our cannons.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Ниими",
+   "text": "「Возникающая гравитация создаёт микроскопическую\n　чёрную дыру, на миг испускающую излучение Хокинга—」",
+   "orig": "Niimi\n「The resulting gravitational force creates a micro\n　black hole that briefly releases Hawking radiation—」"
+  },
+  {
+   "i": 113,
+   "speaker": "Намбу",
+   "text": "「То есть корабль — одна большая пушка?」",
+   "orig": "Nanbu\n「Turning the ship into a giant cannon?」"
+  },
+  {
+   "i": 114,
+   "speaker": "Ниими",
+   "text": "「Недалеко от истины.」",
+   "orig": "Niimi\n「You're not too far off the mark.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Токугава",
+   "text": "「Для меня это слишком сложно.」",
+   "orig": "Tokugawa\n「This is all way over my head.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Санада",
+   "text": "「Полагаю, волновой пушке сначала\n　нужен пробный выстрел?」",
+   "orig": "Sanada\n「I assume the wave motion gun will have to\n　undergo a test firing first?」"
+  },
+  {
+   "i": 117,
+   "speaker": "Окита",
+   "text": "「В своё время. А пока костяком операции\n　станут отряды мобильных машин.」",
+   "orig": "Okita\n「In due time. In the meantime, this operation shall\n　proceed with mobile weapon units at its core.」"
+  },
+  {
+   "i": 118,
+   "speaker": "$n",
+   "text": "「Сделаем всё, сэр!」",
+   "orig": "$n\n「We'll do our best, sir!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Тобиа",
+   "text": "「Ударим по базе всем, что у нас есть,\n　и вышвырнем Империю Гамилас!」",
+   "orig": "Tobia\n「Let's hit that base with everything we've got,\n　and send the Gamillas Empire packing!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Окита",
+   "text": "「Операция начинается в 01:30.\n　Всем машинам приготовиться к вылету.」",
+   "orig": "Okita\n「The operation shall commence at hour 0130.\n　All units, prepare to deploy.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Кодай",
+   "text": "（Выходит, мы вломимся к ним через парадный вход.）",
+   "orig": "Kodai\n（I guess we're going to kick in their front door.）"
+  },
+  {
+   "i": 123,
+   "speaker": "Санада",
+   "text": "「Перед вами сводка имеющихся данных и сведений\n　Кинкейда об окрестностях базы противника.」",
+   "orig": "Sanada\n「What you are seeing is a synthesis of existing data and\n　Kincade's intel depicting the enemy base's surroundings.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Кодай",
+   "text": "「Должно быть, это тот астероид, где находится база.」",
+   "orig": "Kodai\n「That must be the asteroid where the base is located.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Сима",
+   "text": "「И плавучий континент именно такой.」",
+   "orig": "Shima\n「And that floating continent is spot-on.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Санада",
+   "text": "「Его площадь примерно равна Австралии,\n　и у него есть своя атмосфера. Обнаружена\n　также гамиласская флора.」",
+   "orig": "Sanada\n「It has roughly the same surface area as Australia,\n　as well as its own atmosphere. We have also spotted\n　Gamillan flora.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Окита",
+   "text": "「Та самая, что пожирает Землю?」",
+   "orig": "Okita\n「The same ones eating away at the Earth?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Санада",
+   "text": "「Да, сэр.\n　Иными словами, климат на этом астероиде\n　создан ими искусственно.」",
+   "orig": "Sanada\n「Yes, sir.\n　Which is to say that they have artificially\n　created the climate on this asteroid.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Санада",
+   "text": "「Полагаем, они сосредоточились на Юпитере,\n　готовясь к гамиласформированию Земли.」",
+   "orig": "Sanada\n「We believe that they have consolidated on Jupiter in\n　anticipation of employing Gamillas-forming on Earth.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Тобиа",
+   "text": "「То есть, захватив Землю, они станут\n　менять её среду так, чтобы она была\n　ближе к их собственной?」",
+   "orig": "Tobia\n「So if they were to take over Earth, they\n　would attempt to alter the environment so it\n　more closely matches their own?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Санада",
+   "text": "「Да, таково наше рабочее предположение.」",
+   "orig": "Sanada\n「That is our operating assumption, yes.」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Не знаю, из какого угла вселенной они явились,\n　но если думают, что чужие планеты — это их личный\n　садик, то их ждёт большой сюрприз!」",
+   "orig": "$n\n「I don't know where in the universe they came from, but\n　if they think they can treat other planets like their\n　personal gardens, they've got another thing coming!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Кинкейд",
+   "text": "「Пока гамиласцы удерживают плавучий континент,\n　жителям Юпитера не будет покоя.」",
+   "orig": "Kincade\n「So long as Gamillans occupy the floating continent,\n　there will be no rest for the people living on Jupiter.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Кинкейд",
+   "text": "「Колония на Юпитере уже пережила\n　несколько нападений.」",
+   "orig": "Kincade\n「In fact, the colony on Jupiter has already endured\n　several attacks.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Като",
+   "text": "「Раньше Империя Юпитера сковывала гамиласцев\n　боями, и те не могли нападать на колонистов.\n　Теперь её нет — это лишь вопрос времени.」",
+   "orig": "Kato\n「Previously, the Jupiter Empire kept the Gamillans\n　engaged in battle, leaving them unable to attack the\n　colonists. Now that they're gone, it's a matter of time.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Сима",
+   "text": "「Выходит, Империя Юпитера могла уйти к внешним\n　границам, спасаясь от атак гамиласцев.」",
+   "orig": "Shima\n「So the Jupiter Empire may have been fleeing the\n　Gamillans' attacks by heading for the outer reaches.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Окита",
+   "text": "「Мы не можем закрывать глаза на беду колонистов.\n　А гамиласцы, со своей стороны, наверняка следят\n　за нами и готовят удар.」",
+   "orig": "Okita\n「We cannot turn a blind eye to the colonists' plight.\n　And the Gamillans, for their part, are probably\n　watching our movements and planning to attack us.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Окита",
+   "text": "「Отступать некуда. Решим это здесь и сейчас.」",
+   "orig": "Okita\n「There is no backing down. We need to settle this now.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Кодай",
+   "text": "「Понял.」",
+   "orig": "Kodai\n「Understood.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Окита",
+   "text": "「Действуем по прежней схеме. Передовую составят\n　«Вангрэй» и два Гандама.」",
+   "orig": "Okita\n「We will stick with our previous strategy. The VangRay\n　and two Gundams shall form the front line.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Окита",
+   "text": "「«Ямато» и «Хаябусы» обеспечат огневое\n　прикрытие, чтобы передовая продвигалась.」",
+   "orig": "Okita\n「The Yamato and the Hayabusa will provide\n　covering fire so the front line may advance.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Санада",
+   "text": "「Судя по размерам базы, гамиласцы могут\n　выставить и собственный линкор.」",
+   "orig": "Sanada\n「Given the size of the base, there is a chance that the\n　Gamillans will deploy a battleship of their own.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Намбу",
+   "text": "「Справимся силами «Вангрэя» и Гандамов?」",
+   "orig": "Nanbu\n「Can we fight it with the VangRay and Gundams alone?」"
+  },
+  {
+   "i": 144,
+   "speaker": "Санада",
+   "text": "「Огневой мощи хватит.\n　Эти машины куда способнее тех мобильных\n　доспехов, что обычно использует Федерация.」",
+   "orig": "Sanada\n「That will be enough firepower.\n　These units have way better abilities than\n　the mobile suits the Federation typically deploys.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Санада",
+   "text": "「Их повышенная подвижность даст им преимущество\n　в бою против крейсеров.」",
+   "orig": "Sanada\n「Their added mobility should give them the upper hand\n　when it comes to taking on cruisers.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Като",
+   "text": "「Вы про «супер-роботов», верно?\n　Машины на пределе возможностей робототехники.」",
+   "orig": "Kato\n「You're talking about super robots, aren't you?\n　Mechs that push the limits of robotics.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Санада",
+   "text": "「Серийные мобильные доспехи ставят удобство,\n　ремонтопригодность и однотипность выше мощи.」",
+   "orig": "Sanada\n「Mass-produced mobile suits prize usability,\n　reparability, and consistency over firepower.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Санада",
+   "text": "「Поэтому плотный строй мобильных доспехов —\n　приманка для пушек Гамилас, а главную роль\n　берут на себя флоты линкоров, которые—」",
+   "orig": "Sanada\n「That turns mobile suit units into tightly-packed\n　bait for Gamillan cannons, which frees up the\n　fleets of battleships to take on a key role in—」"
+  },
+  {
+   "i": 149,
+   "speaker": "Намбу",
+   "text": "「То есть главное — артиллерия.」",
+   "orig": "Nanbu\n「So you're saying artillery is key.」"
+  },
+  {
+   "i": 150,
+   "speaker": "$n",
+   "text": "「Сказано истинным артиллеристом.\n　Вы вечно недооцениваете мобильные доспехи.」",
+   "orig": "$n\n「Spoken like a true artillery man.\n　You guys always underestimate mobile suits.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Кинкейд",
+   "text": "「Но если мы дадим достаточно огня, чтобы связать\n　противника и пропустить мобильные доспехи сквозь\n　его оборону — это совсем другой разговор.」",
+   "orig": "Kincade\n「If we can lay down enough firepower to keep the\n　enemy busy and let the mobile suits slip through their \n　defenses, however, that's another story entirely.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Тут-то мы и пригодимся, да?」",
+   "orig": "$n\n「And that's where we come in, eh?」"
+  },
+  {
+   "i": 153,
+   "speaker": "Кодай",
+   "text": "「А!」",
+   "orig": "Kodai\n「Ah!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Окита",
+   "text": "（Кодай наконец понял мой замысел?）",
+   "orig": "Okita\n（Has my plan finally clicked with Kodai?）"
+  },
+  {
+   "i": 155,
+   "speaker": "Ниими",
+   "text": "「Теории теориями, но единственный\n　действенный способ справиться с гамиласцами —\n　дать волю пушкам «Ямато».」",
+   "orig": "Niimi\n「Current theories aside, the only\n　effective method of dealing with the Gamillans is\n　turning the Yamato's cannon loose on them.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Ниими",
+   "text": "「Для этого, командующий, техники закончили\n　орудие, использующее энергию волнового\n　двигателя. Оно установлено в носовой части.」",
+   "orig": "Niimi\n「To that end, Commander, the technicians have completed\n　work on ordnance that utilizes energy from the wave\n　motion engine. It has been installed on the bow.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Мори",
+   "text": "「Новое оружие?」",
+   "orig": "Mori\n「A new weapon?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Ниими",
+   "text": "「Пространственно-волновое имплозивное орудие.\n　Проще — волновая пушка.」",
+   "orig": "Niimi\n「The dimensional wave implosion emission cannon.\n　We simply call it the wave motion gun.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Кодай",
+   "text": "「Так и правда короче.\n　Что это за оружие?」",
+   "orig": "Kodai\n「That's certainly less of a mouthful.\n　What kind of weapon is it?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Ниими",
+   "text": "「Проще говоря, вся избыточная\n　энергия волнового двигателя\n　уходит в луч, который бьёт из наших орудий.」",
+   "orig": "Niimi\n「Put simply, it redirects all\n　of the excess energy generated by the wave motion\n　engine into a beam fired by our cannons.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Ниими",
+   "text": "「Возникающая гравитация создаёт микроскопическую\n　чёрную дыру, на миг испускающую излучение Хокинга—」",
+   "orig": "Niimi\n「The resulting gravitational force creates a micro\n　black hole that briefly releases Hawking radiation—」"
+  },
+  {
+   "i": 162,
+   "speaker": "Намбу",
+   "text": "「То есть корабль — одна большая пушка?」",
+   "orig": "Nanbu\n「Turning the ship into a giant cannon?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Ниими",
+   "text": "「Недалеко от истины.」",
+   "orig": "Niimi\n「You're not too far off the mark.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Токугава",
+   "text": "「Для меня это слишком сложно.」",
+   "orig": "Tokugawa\n「This is all way over my head.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Санада",
+   "text": "「Полагаю, волновой пушке сначала\n　нужен пробный выстрел?」",
+   "orig": "Sanada\n「I assume the wave motion gun will have to\n　undergo a test firing first?」"
+  },
+  {
+   "i": 166,
+   "speaker": "Окита",
+   "text": "「В своё время. А пока костяком операции\n　станут отряды мобильных машин.」",
+   "orig": "Okita\n「In due time. In the meantime, this operation shall\n　proceed with mobile weapon units at its core.」"
+  },
+  {
+   "i": 167,
+   "speaker": "$n",
+   "text": "「Вот это я и хотел услышать!」",
+   "orig": "$n\n「Now that's what I like to hear!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Тобиа",
+   "text": "「Отлично!\n　Ударим по базе всем, что у нас есть,\n　и вышвырнем Империю Гамилас!」",
+   "orig": "Tobia\n「Alright!\n　Let's hit that base with everything we've got,\n　and send the Gamillas Empire packing!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Окита",
+   "text": "「Операция начинается в 01:30.\n　Всем машинам приготовиться к вылету.」",
+   "orig": "Okita\n「The operation shall commence at hour 0130.\n　All units, prepare to deploy.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Кодай",
+   "text": "（Выходит, мы вломимся к ним через парадный вход.）",
+   "orig": "Kodai\n（I guess we're going to kick in their front door.）"
+  },
+  {
+   "i": 172,
+   "speaker": "Санада",
+   "text": "「Перед вами сводка имеющихся данных и сведений\n　Кинкейда об окрестностях базы противника.」",
+   "orig": "Sanada\n「What you are seeing is a synthesis of existing data and\n　Kincade's intel depicting the enemy base's surroundings.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Кодай",
+   "text": "「Должно быть, это тот астероид, где находится база.」",
+   "orig": "Kodai\n「That must be the asteroid where the base is located.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Сима",
+   "text": "「И плавучий континент именно такой.」",
+   "orig": "Shima\n「And that floating continent is spot-on.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Санада",
+   "text": "「Его площадь примерно равна Австралии,\n　и у него есть своя атмосфера. Обнаружена\n　также гамиласская флора.」",
+   "orig": "Sanada\n「It has roughly the same surface area as Australia,\n　as well as its own atmosphere. We have also spotted\n　Gamillan flora.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Окита",
+   "text": "「Та самая, что пожирает Землю?」",
+   "orig": "Okita\n「The same ones eating away at the Earth?」"
+  },
+  {
+   "i": 177,
+   "speaker": "Санада",
+   "text": "「Да, сэр.\n　Иными словами, климат на этом астероиде\n　создан ими искусственно.」",
+   "orig": "Sanada\n「Yes, sir.\n　Which is to say that they have artificially\n　created the climate on this asteroid.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Санада",
+   "text": "「Полагаем, они сосредоточились на Юпитере,\n　готовясь к гамиласформированию Земли.」",
+   "orig": "Sanada\n「We believe that they have consolidated on Jupiter in\n　anticipation of employing Gamillas-forming on Earth.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Тобиа",
+   "text": "「То есть, захватив Землю, они станут\n　менять её среду так, чтобы она была\n　ближе к их собственной?」",
+   "orig": "Tobia\n「So if they were to take over Earth, they\n　would attempt to alter the environment so it\n　more closely matches their own?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Санада",
+   "text": "「Да, таково наше рабочее предположение.」",
+   "orig": "Sanada\n「That is our operating assumption, yes.」"
+  },
+  {
+   "i": 181,
+   "speaker": "$n",
+   "text": "「Нельзя же делать что вздумается!\n　Хотят жить на Земле — пусть подают заявку\n　и проходят проверку! Для этого есть порядок!」",
+   "orig": "$n\n「They can't just do whatever they want!\n　If they want to live on Earth, they should make a\n　formal appeal and be vetted! We have a process!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Сима",
+   "text": "「$l говорит верно.\n　Они пришли за нами, и мы не можем сидеть и смотреть,\n　как знакомая нам планета исчезает на глазах.」",
+   "orig": "Shima\n「$l is right.\n　They came after us, and we cannot sit idly by while the\n　planet we once knew disappears right before our eyes.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Окита",
+   "text": "（Не знал, что Сима так горяч.）",
+   "orig": "Okita\n（I had no idea Shima was so passionate.）"
+  },
+  {
+   "i": 184,
+   "speaker": "Кинкейд",
+   "text": "「Пока гамиласцы удерживают плавучий континент,\n　жителям Юпитера не будет покоя.」",
+   "orig": "Kincade\n「So long as Gamillans occupy the floating continent,\n　there will be no rest for the people living on Jupiter.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Кинкейд",
+   "text": "「Колония на Юпитере уже пережила\n　несколько нападений.」",
+   "orig": "Kincade\n「In fact, the colony on Jupiter has already endured\n　several attacks.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Като",
+   "text": "「Раньше Империя Юпитера сковывала гамиласцев\n　боями, и те не могли нападать на колонистов.\n　Теперь её нет — это лишь вопрос времени.」",
+   "orig": "Kato\n「Previously, the Jupiter Empire kept the Gamillans\n　engaged in battle, leaving them unable to attack the\n　colonists. Now that they're gone, it's a matter of time.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Сима",
+   "text": "「Выходит, Империя Юпитера могла уйти к внешним\n　границам, спасаясь от атак гамиласцев.」",
+   "orig": "Shima\n「So the Jupiter Empire may have been fleeing the\n　Gamillans' attacks by heading for the outer reaches.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Окита",
+   "text": "「Мы не можем закрывать глаза на беду колонистов.\n　А гамиласцы, со своей стороны, наверняка следят\n　за нами и готовят удар.」",
+   "orig": "Okita\n「We cannot turn a blind eye to the colonists' plight.\n　And the Gamillans, for their part, are probably\n　watching our movements and planning to attack us.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Окита",
+   "text": "「Отступать некуда. Решим это здесь и сейчас.」",
+   "orig": "Okita\n「There is no backing down. We need to settle this now.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Кодай",
+   "text": "「Понял.」",
+   "orig": "Kodai\n「Understood.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Окита",
+   "text": "「Действуем по прежней схеме. Передовую составят\n　«Вангрэй» и два Гандама.」",
+   "orig": "Okita\n「We will stick with our previous strategy. The VangRay\n　and two Gundams shall form the front line.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Окита",
+   "text": "「«Ямато» и «Хаябусы» обеспечат огневое\n　прикрытие, чтобы передовая продвигалась.」",
+   "orig": "Okita\n「The Yamato and the Hayabusa will provide\n　covering fire so the front line may advance.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Санада",
+   "text": "「Судя по размерам базы, гамиласцы могут\n　выставить и собственный линкор.」",
+   "orig": "Sanada\n「Given the size of the base, there is a chance that the\n　Gamillans will deploy a battleship of their own.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Намбу",
+   "text": "「Справимся силами «Вангрэя» и Гандамов?」",
+   "orig": "Nanbu\n「Can we fight it with the VangRay and Gundams alone?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Санада",
+   "text": "「Огневой мощи хватит.\n　Эти машины куда способнее тех мобильных\n　доспехов, что обычно использует Федерация.」",
+   "orig": "Sanada\n「That will be enough firepower.\n　These units have way better abilities than\n　the mobile suits the Federation typically deploys.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Санада",
+   "text": "「Считайте, что повышенная подвижность\n　делает их пригоднее для боя с крейсерами.」",
+   "orig": "Sanada\n「Think of them as having added mobility that\n　makes them better suited to taking on cruisers.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Като",
+   "text": "「Вы про «супер-роботов», верно?\n　Машины, раздвинувшие границы робототехники.」",
+   "orig": "Kato\n「You're talking about super robots, aren't you?\n　Mechs that have pushed the boundaries of robotics.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Санада",
+   "text": "「Серийные мобильные доспехи ставят удобство,\n　ремонтопригодность и однотипность выше мощи.」",
+   "orig": "Sanada\n「Mass-produced mobile suits prize usability,\n　reparability, and consistency over firepower.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Санада",
+   "text": "「Поэтому плотный строй мобильных доспехов —\n　приманка для пушек Гамилас, а главную роль\n　берут на себя флоты линкоров, которые—」",
+   "orig": "Sanada\n「That turns mobile suit units into tightly-packed\n　bait for Gamillan cannons, which frees up the\n　fleets of battleships to take on a key role in—」"
+  },
+  {
+   "i": 200,
+   "speaker": "Намбу",
+   "text": "「Проще говоря, они и есть артиллерия.」",
+   "orig": "Nanbu\n「More to the point, they act as artillery.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Кинкейд",
+   "text": "「Но если мы дадим достаточно огня, чтобы связать\n　противника и пропустить мобильные доспехи сквозь\n　его оборону — это совсем другой разговор.」",
+   "orig": "Kincade\n「If we can lay down enough firepower to keep the\n　enemy busy and let the mobile suits slip through their \n　defenses, that's another story entirely.」"
+  },
+  {
+   "i": 202,
+   "speaker": "$n",
+   "text": "「И об этом вы нас и просите, верно?」",
+   "orig": "$n\n「And that's what you're asking of us, right?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Кодай",
+   "text": "「А!」",
+   "orig": "Kodai\n「Ah!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Окита",
+   "text": "（Кодай наконец понял мой замысел?）",
+   "orig": "Okita\n（Has my plan finally clicked with Kodai?）"
+  },
+  {
+   "i": 205,
+   "speaker": "Ниими",
+   "text": "「Теории теориями, но единственный\n　действенный способ справиться с гамиласцами —\n　дать волю пушкам «Ямато».」",
+   "orig": "Niimi\n「Current theories aside, the only\n　effective method of dealing with the Gamillans is\n　turning the Yamato's cannon loose on them.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Ниими",
+   "text": "「Для этого, командующий, техники закончили\n　орудие, использующее энергию волнового\n　двигателя. Оно установлено в носовой части.」",
+   "orig": "Niimi\n「To that end, Commander, the technicians have completed\n　work on ordnance that utilizes energy from the wave\n　motion engine. It has been installed on the bow.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Мори",
+   "text": "「Новое оружие?」",
+   "orig": "Mori\n「A new weapon?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Ниими",
+   "text": "「Пространственно-волновое имплозивное орудие.\n　Проще — волновая пушка.」",
+   "orig": "Niimi\n「The dimensional wave implosion emission cannon.\n　We simply call it the wave motion gun.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Кодай",
+   "text": "「Так и правда короче.\n　Что это за оружие?」",
+   "orig": "Kodai\n「That's certainly less of a mouthful.\n　What kind of weapon is it?」"
+  },
+  {
+   "i": 210,
+   "speaker": "Ниими",
+   "text": "「Проще говоря, вся избыточная\n　энергия волнового двигателя\n　уходит в луч, который бьёт из наших орудий.」",
+   "orig": "Niimi\n「Put simply, it redirects all\n　of the excess energy generated by the wave motion\n　engine into a beam fired by our cannons.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Ниими",
+   "text": "「Возникающая гравитация создаёт микроскопическую\n　чёрную дыру, на миг испускающую излучение Хокинга—」",
+   "orig": "Niimi\n「The resulting gravitational force creates a micro\n　black hole that briefly releases Hawking radiation—」"
+  },
+  {
+   "i": 212,
+   "speaker": "Намбу",
+   "text": "「То есть корабль — одна большая пушка?」",
+   "orig": "Nanbu\n「Turning the ship into a giant cannon?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Ниими",
+   "text": "「Недалеко от истины.」",
+   "orig": "Niimi\n「You're not too far off the mark.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Токугава",
+   "text": "「Для меня это слишком сложно.」",
+   "orig": "Tokugawa\n「This is all way over my head.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Санада",
+   "text": "「Полагаю, волновой пушке сначала\n　нужен пробный выстрел?」",
+   "orig": "Sanada\n「I assume the wave motion gun will have to\n　undergo a test firing first?」"
+  },
+  {
+   "i": 216,
+   "speaker": "Окита",
+   "text": "「В своё время. А пока костяком операции\n　станут отряды мобильных машин.」",
+   "orig": "Okita\n「In due time. In the meantime, this operation shall\n　proceed with mobile weapon units at its core.」"
+  },
+  {
+   "i": 217,
+   "speaker": "$n",
+   "text": "「Сделаем всё, сэр!」",
+   "orig": "$n\n「We'll do our best, sir!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Тобиа",
+   "text": "「Ударим по базе всем, что у нас есть,\n　и вышвырнем Империю Гамилас!」",
+   "orig": "Tobia\n「Let's hit that base with everything we've got,\n　and send the Gamillas Empire packing!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Окита",
+   "text": "「Операция начинается в 01:30.\n　Всем машинам приготовиться к вылету.」",
+   "orig": "Okita\n「The operation shall commence at hour 0130.\n　All units, prepare to deploy.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Кодай",
+   "text": "「Есть, сэр!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Кодай",
+   "text": "（Выходит, мы вломимся к ним через парадный вход.）",
+   "orig": "Kodai\n（I guess we're going to kick in their front door.）"
+  },
+  {
+   "i": 225,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Зал ожидания авиагруппы «Ямато»-",
+   "orig": "　\n　　\n　　　　　-Yamato Aircraft Squad Waiting Room-"
+  },
+  {
+   "i": 226,
+   "speaker": "Като",
+   "text": "「Задай им жару, $l!」",
+   "orig": "Kato\n「Give 'em hell, $l!」"
+  },
+  {
+   "i": 227,
+   "speaker": "$n",
+   "text": "「Я, э-э, сделаю что смогу!」",
+   "orig": "$n\n「I'll, uh, do what I can!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Като",
+   "text": "「Что это за «сделаю что смогу»? Ты представляешь\n　там авиаотряд! Так что сделай именно то,\n　за чем тебя туда посылают!」",
+   "orig": "Kato\n「What is this \"I'll do what I can\" stuff? You're\n　representing the Aircraft Squad out there! You'd\n　better do what we're sending you out there to do!」"
+  },
+  {
+   "i": 229,
+   "speaker": "$n",
+   "text": "「Т-так точно, сэр! Есть!」",
+   "orig": "$n\n「G-got it, sir! Yes sir!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Вельт",
+   "text": "「Почему капитан Като так взвинчен?」",
+   "orig": "Velt\n「Why is Captain Kato so agitated?」"
+  },
+  {
+   "i": 231,
+   "speaker": "Синохара",
+   "text": "「Похоже, его задели слова артиллериста Намбу\n　на брифинге.」",
+   "orig": "Shinohara\n「It seems that some of Weapons Officer Nanbu's\n　comments during the briefing got under his skin.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Като",
+   "text": "「Мы прикроем «Ямато»,\n　а вы расчистите ему путь!\n　Навалимся вместе и выложимся на все 110%!」",
+   "orig": "Kato\n「We'll protect the Yamato\n　while the rest of you clear a path for it!\n　Let's work together and give this mission 110%!」"
+  },
+  {
+   "i": 233,
+   "speaker": "$n",
+   "text": "「Так точно! У меня и свои счёты\n　с Империей Гамилас!」",
+   "orig": "$n\n「Roger that! I've got some unfinished\n　business with the Gamillas Empire, myself!」"
+  },
+  {
+   "i": 234,
+   "speaker": "$n",
+   "text": "「На этом и остановлюсь.\n　Ну что, все за дело.」",
+   "orig": "$n\n「I'll just leave it at that.\n　OK everybody, let's do this.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Кинкейд",
+   "text": "「У каждого свои приказы. Выполняй свой,\n　а мы выполним наши. Не подведи.」",
+   "orig": "Kincade\n「We all have our orders. You execute yours, and\n　we'll execute ours. Do us proud.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Тобиа",
+   "text": "（Да, у каждого свои приказы.）",
+   "orig": "Tobia\n（Yeah, we all have our orders.）"
+  },
+  {
+   "i": 237,
+   "speaker": "Като",
+   "text": "「Задай им жару, $l!」",
+   "orig": "Kato\n「Give 'em hell, $l!」"
+  },
+  {
+   "i": 238,
+   "speaker": "$n",
+   "text": "「Е-есть, сэр!\n　Обещаю, выложусь до конца!」",
+   "orig": "$n\n「Y-yes, sir!\n　I promise I'll give it my all!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Като",
+   "text": "「Ты представляешь авиаотряд!\n　Покажи этому болвану Намбу, чего стоят пилоты!」",
+   "orig": "Kato\n「You're representing the Aircraft Squad!\n　Show that idiot Nanbu what pilots are made of!」"
+  },
+  {
+   "i": 240,
+   "speaker": "$n",
+   "text": "「Е-есть, сэр!」",
+   "orig": "$n\n「Y-yes, sir!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Лотти",
+   "text": "「Да что такое с капитаном Като?」",
+   "orig": "Lottie\n「What the heck is up with Captain Kato?」"
+  },
+  {
+   "i": 242,
+   "speaker": "Синохара",
+   "text": "「Похоже, его задели слова артиллериста Намбу\n　на брифинге.」",
+   "orig": "Shinohara\n「It seems that some of Weapons Officer Nanbu's\n　comments during the briefing got under his skin.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Ямамото",
+   "text": "「Будь осторожнее, $n.」",
+   "orig": "Yamamoto\n「Be careful out there, $n.」"
+  },
+  {
+   "i": 244,
+   "speaker": "$n",
+   "text": "「Спасибо, Акира.\n　Не стоило специально приходить меня проводить.」",
+   "orig": "$n\n「Thank you, Akira.\n　You didn't have to go out of your way to see me off.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Ямамото",
+   "text": "「Удачно вышло. Я как раз не на вахте.」",
+   "orig": "Yamamoto\n「It was good timing. I'm off-duty right now.」"
+  },
+  {
+   "i": 246,
+   "speaker": "$n",
+   "text": "「Ты всё ещё хотела бы попасть в авиаотряд?」",
+   "orig": "$n\n「Do you still wish you were a part of the Squad?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Ямамото",
+   "text": "「Что—?」",
+   "orig": "Yamamoto\n「Wha—?」"
+  },
+  {
+   "i": 248,
+   "speaker": "$n",
+   "text": "「Прости, не стоило об этом! Само сорвалось.\n　Капитан Като говорил, что ты изначально хотела\n　попасть в авиаотряд.」",
+   "orig": "$n\n「I shouldn't have said that! I wasn't thinking.\n　Captain Kato told me you originally wanted to be\n　assigned to the Aircraft Squad.」"
+  },
+  {
+   "i": 249,
+   "speaker": "$n",
+   "text": "「Мне правда жаль.\n　Забудь об этом, ладно?」",
+   "orig": "$n\n「I'm really sorry.\n　Forget I ever mentioned it.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Ямамото",
+   "text": "「Соврала бы, если б сказала, что не думаю.」",
+   "orig": "Yamamoto\n「I'd be lying if I said I didn't think about it.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Ямамото",
+   "text": "「Но я должна исполнять порученные мне обязанности.\n　Я ведь всё равно в экипаже «Ямато».」",
+   "orig": "Yamamoto\n「But I have to perform the duties assigned to me.\n　I'm still a member of the Yamato crew, after all.」"
+  },
+  {
+   "i": 252,
+   "speaker": "$n",
+   "text": "「Держись.」",
+   "orig": "$n\n「Hang in there.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Като",
+   "text": "「Верно сказано, Акира.\n　И ты это запомни, $l.」",
+   "orig": "Kato\n「You're absolutely right, Akira.\n　You keep that in mind too, $l.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Като",
+   "text": "「Мы прикроем «Ямато»,\n　а вы расчистите ему путь!\n　Навалимся вместе и выложимся на все 110%!」",
+   "orig": "Kato\n「We'll protect the Yamato\n　while the rest of you clear a path for it!\n　Let's work together and give this mission 110%!」"
+  },
+  {
+   "i": 255,
+   "speaker": "$n",
+   "text": "「Есть!」",
+   "orig": "$n\n「Understood!」"
+  },
+  {
+   "i": 256,
+   "speaker": "$n",
+   "text": "「Ну всё, народ, начинаем!」",
+   "orig": "$n\n「This is it, everybody!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Кинкейд",
+   "text": "「У каждого свои приказы. Выполняй свой,\n　а мы выполним наши. Не подведи.」",
+   "orig": "Kincade\n「We all have our orders. You execute yours, and\n　we'll execute ours. Do us proud.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Тобиа",
+   "text": "（Да, у каждого свои приказы.）",
+   "orig": "Tobia\n（Yeah, we all have our orders.）"
+  },
+  {
+   "i": 259,
+   "speaker": "Като",
+   "text": "「Задай им жару, $l!」",
+   "orig": "Kato\n「Give 'em hell, $l!」"
+  },
+  {
+   "i": 260,
+   "speaker": "$n",
+   "text": "「Я, э-э, сделаю что смогу!」",
+   "orig": "$n\n「I'll, uh, do what I can!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Като",
+   "text": "「Что это за «сделаю что смогу»? Ты представляешь\n　там авиаотряд! Так что сделай именно то,\n　за чем тебя туда посылают!」",
+   "orig": "Kato\n「What is this \"I'll do what I can\" stuff? You're\n　representing the Aircraft Squad out there! You'd\n　better do what we're sending you out there to do!」"
+  },
+  {
+   "i": 262,
+   "speaker": "$n",
+   "text": "「Т-так точно, сэр! Есть!」",
+   "orig": "$n\n「G-got it, sir! Yes sir!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Тобиа",
+   "text": "「Чего это капитан Като такой?」",
+   "orig": "Tobia\n「Man, what's up with Captain Kato?」"
+  },
+  {
+   "i": 264,
+   "speaker": "Синохара",
+   "text": "「Похоже, его задели слова артиллериста Намбу\n　на брифинге.」",
+   "orig": "Shinohara\n「It seems that some of Weapons Officer Nanbu's\n　comments during the briefing got under his skin.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Като",
+   "text": "「Мы прикроем «Ямато»,\n　а вы расчистите ему путь!\n　Навалимся вместе и выложимся на все 110%!」",
+   "orig": "Kato\n「We'll protect the Yamato\n　while the rest of you clear a path for it!\n　Let's work together and give this mission 110%!」"
+  },
+  {
+   "i": 266,
+   "speaker": "$n",
+   "text": "「Так точно! У меня и свои счёты\n　с Империей Гамилас!」",
+   "orig": "$n\n「Roger that! I've got some unfinished\n　business with the Gamillas Empire, myself!」"
+  },
+  {
+   "i": 267,
+   "speaker": "$n",
+   "text": "「На этом и остановлюсь.\n　Ну что, все за дело.」",
+   "orig": "$n\n「I'll just leave it at that.\n　OK everybody, let's do this.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Кинкейд",
+   "text": "「У каждого свои приказы. Выполняй свой,\n　а мы выполним наши. Не подведи.」",
+   "orig": "Kincade\n「We all have our orders. You execute yours, and\n　we'll execute ours. Do us proud.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Тобиа",
+   "text": "（Да, у каждого свои приказы.）",
+   "orig": "Tobia\n（Yeah, we all have our orders.）"
+  },
+  {
+   "i": 270,
+   "speaker": "Като",
+   "text": "「Задай им жару, $l!」",
+   "orig": "Kato\n「Give 'em hell, $l!」"
+  },
+  {
+   "i": 271,
+   "speaker": "$n",
+   "text": "「Е-есть, сэр!\n　Обещаю, выложусь до конца!」",
+   "orig": "$n\n「Y-yes, sir!\n　I promise I'll give it my all!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Като",
+   "text": "「Ты представляешь авиаотряд!\n　Покажи этому болвану Намбу, чего стоят пилоты!」",
+   "orig": "Kato\n「You're representing the Aircraft Squad!\n　Show that idiot Nanbu what pilots are made of!」"
+  },
+  {
+   "i": 273,
+   "speaker": "$n",
+   "text": "「Е-есть, сэр!」",
+   "orig": "$n\n「Y-yes, sir!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Тобиа",
+   "text": "「Чего это капитан Като такой?」",
+   "orig": "Tobia\n「Man, what's up with Captain Kato?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Синохара",
+   "text": "「Похоже, его задели слова артиллериста Намбу\n　на брифинге.」",
+   "orig": "Shinohara\n「It seems that some of Weapons Officer Nanbu's\n　comments during the briefing got under his skin.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Ямамото",
+   "text": "「Будь осторожнее, $n.」",
+   "orig": "Yamamoto\n「Be careful out there, $n.」"
+  },
+  {
+   "i": 277,
+   "speaker": "$n",
+   "text": "「Спасибо, Акира.\n　Не стоило специально приходить меня проводить.」",
+   "orig": "$n\n「Thank you, Akira.\n　You didn't have to go out of your way to see me off.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Ямамото",
+   "text": "「Удачно вышло. Я как раз не на вахте.」",
+   "orig": "Yamamoto\n「It was good timing. I'm off-duty right now.」"
+  },
+  {
+   "i": 279,
+   "speaker": "$n",
+   "text": "「Ты всё ещё хотела бы попасть в авиаотряд?」",
+   "orig": "$n\n「Do you still wish you were a part of the Squad?」"
+  },
+  {
+   "i": 280,
+   "speaker": "Ямамото",
+   "text": "「Что—?」",
+   "orig": "Yamamoto\n「Wha—?」"
+  },
+  {
+   "i": 281,
+   "speaker": "$n",
+   "text": "「Прости, не стоило об этом! Само сорвалось.\n　Капитан Като говорил, что ты изначально хотела\n　попасть в авиаотряд.」",
+   "orig": "$n\n「I shouldn't have said that! I wasn't thinking.\n　Captain Kato told me you originally wanted to be\n　assigned to the Aircraft Squad.」"
+  },
+  {
+   "i": 282,
+   "speaker": "$n",
+   "text": "「Мне правда жаль.\n　Забудь об этом, ладно?」",
+   "orig": "$n\n「I'm really sorry.\n　Forget I ever mentioned it.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Ямамото",
+   "text": "「Соврала бы, если б сказала, что не думаю.」",
+   "orig": "Yamamoto\n「I'd be lying if I said I didn't think about it.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Ямамото",
+   "text": "「Но я должна исполнять порученные мне обязанности.\n　Я ведь всё равно в экипаже «Ямато».」",
+   "orig": "Yamamoto\n「But I have to perform the duties assigned to me.\n　I'm still a member of the Yamato crew, after all.」"
+  },
+  {
+   "i": 285,
+   "speaker": "$n",
+   "text": "「Держись.」",
+   "orig": "$n\n「Hang in there.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Като",
+   "text": "「Верно сказано, Акира.\n　И ты это запомни, $l.」",
+   "orig": "Kato\n「You're absolutely right, Akira.\n　You keep that in mind too, $l.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Като",
+   "text": "「Мы прикроем «Ямато»,\n　а вы расчистите ему путь!\n　Навалимся вместе и выложимся на все 110%!」",
+   "orig": "Kato\n「We'll protect the Yamato\n　while the rest of you clear a path for it!\n　Let's work together and give this mission 110%!」"
+  },
+  {
+   "i": 288,
+   "speaker": "$n",
+   "text": "「Есть!」",
+   "orig": "$n\n「Understood!」"
+  },
+  {
+   "i": 289,
+   "speaker": "$n",
+   "text": "「Ну всё, народ, начинаем!」",
+   "orig": "$n\n「This is it, everybody!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Кинкейд",
+   "text": "「У каждого свои приказы. Выполняй свой,\n　а мы выполним наши. Не подведи.」",
+   "orig": "Kincade\n「We all have our orders. You execute yours, and\n　we'll execute ours. Do us proud.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Тобиа",
+   "text": "（Да, у каждого свои приказы.）",
+   "orig": "Tobia\n（Yeah, we all have our orders.）"
+  },
+  {
+   "i": 295,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Мостик «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Bridge-"
+  },
+  {
+   "i": 296,
+   "speaker": "Мори",
+   "text": "「М-мы стёрли её начисто.」",
+   "orig": "Mori\n「W-we completely destroyed it.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Окита",
+   "text": "「Так и есть.」",
+   "orig": "Okita\n「So we have.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Кодай",
+   "text": "「Вот на что способна волновая пушка.」",
+   "orig": "Kodai\n「So that's what the wave motion gun is capable of.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Намбу",
+   "text": "「Какое невероятное оружие!\n　С ним мы справимся с кем угодно не слабее\n　Гамилас. Да и сильнее тоже!」",
+   "orig": "Nanbu\n「What an incredible weapon!\n　As long as we have this, we can take on anyone as\n　strong as the Gamillas. Stronger, even!」"
+  },
+  {
+   "i": 300,
+   "speaker": "Санада",
+   "text": "「Мы стёрли целую базу Гамилас.\n　Тебе этого мало?」",
+   "orig": "Sanada\n「We've wiped out an entire Gamillas base.\n　Isn't that enough for you?」"
+  },
+  {
+   "i": 301,
+   "speaker": "Санада",
+   "text": "「И не только базу.\n　Весь астероид под ней разнесло!」",
+   "orig": "Sanada\n「And it didn't just take out the base.\n　It destroyed the entire rock it was built on!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Окита",
+   "text": "「Наша задача — не истреблять врагов.\n　«Ямато» вооружён, чтобы мы могли защитить\n　свои жизни и жизни тех, кто рядом.」",
+   "orig": "Okita\n「Our mission is not to annihilate our enemies.\n　The Yamato is armed such that we may protect\n　the lives of ourselves and those around us.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Мори",
+   "text": "「Он—」",
+   "orig": "Mori\n「He's—」"
+  },
+  {
+   "i": 304,
+   "speaker": "Кодай",
+   "text": "「Не вмешивайся, Мори.」",
+   "orig": "Kodai\n「We shouldn't get involved, Mori.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Намбу",
+   "text": "「Но с этим оружием мы—」",
+   "orig": "Nanbu\n「But with this weapon, we can—」"
+  },
+  {
+   "i": 306,
+   "speaker": "Окита",
+   "text": "「Оружие — не единственный путь к победе, Намбу.」",
+   "orig": "Okita\n「Weapons are not the only way to win a fight, Nanbu.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Намбу",
+   "text": "「Простите?」",
+   "orig": "Nanbu\n「Excuse me?」"
+  },
+  {
+   "i": 308,
+   "speaker": "Айхара",
+   "text": "「Тактический офицер Кодай, капитан Като из\n　авиаотряда ждёт вас в ангаре.」",
+   "orig": "Aihara\n「Tactical Officer Kodai, Captain Kato of the Aircraft\n　Squad would like a word with you in the hangar.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Кодай",
+   "text": "「Что-то случилось?」",
+   "orig": "Kodai\n「Has something happened?」"
+  },
+  {
+   "i": 310,
+   "speaker": "Айхара",
+   "text": "「Похоже, Кинкейд и Тобиа\n　хотят вам что-то сказать.」",
+   "orig": "Aihara\n「It seems Kincade and Tobia\n　have something to tell you.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Кодай",
+   "text": "「Хорошо.\n　Передай, что я уже иду.」",
+   "orig": "Kodai\n「Very well.\n　Tell them I'm on my way.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Окита",
+   "text": "「Кодай.」",
+   "orig": "Okita\n「Kodai.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Кодай",
+   "text": "「Сэр?」",
+   "orig": "Kodai\n「Sir?」"
+  },
+  {
+   "i": 314,
+   "speaker": "Окита",
+   "text": "「Решать тебе.」",
+   "orig": "Okita\n「The decision is yours.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Кодай",
+   "text": "「Е-есть, сэр.\n　Разрешите.」",
+   "orig": "Kodai\n「Y-yes sir.\n　Excuse me.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Окита",
+   "text": "（Такая мощь способна погубить вселенную.）",
+   "orig": "Okita\n（This kind of power could destroy the universe.）"
+  },
+  {
+   "i": 317,
+   "speaker": "Окита",
+   "text": "（Неужели мы обрели само\n　пламя апокалипсиса?）",
+   "orig": "Okita\n（Have we acquired the very\n　flames of the apocalypse?）"
+  },
+  {
+   "i": 318,
+   "speaker": "Окита",
+   "text": "（Нет, сейчас не время для таких сомнений.）",
+   "orig": "Okita\n（No, now is not the time for such dilemmas.）"
+  },
+  {
+   "i": 319,
+   "speaker": "Окита",
+   "text": "（Это была лишь проба.\n　Теперь нам подавать пример.）",
+   "orig": "Okita\n（That was simply a test.\n　We must now lead by example.）"
+  },
+  {
+   "i": 320,
+   "speaker": "Окита",
+   "text": "（Если идти праведным путём,\n　к нам придут праведные люди,\n　и они станут нашей главной силой.）",
+   "orig": "Okita\n（If we follow a just path,\n　we will attract just people,\n　and they shall become our greatest asset.）"
+  },
+  {
+   "i": 324,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Ангар «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Hangar-"
+  },
+  {
+   "i": 325,
+   "speaker": "Кодай",
+   "text": "「Вы уверены?」",
+   "orig": "Kodai\n「Are you sure?」"
+  },
+  {
+   "i": 326,
+   "speaker": "Тобиа",
+   "text": "「Да.\n　Мы с Кинкейдом хотим помочь вам в долгом\n　пути до Искандара.」",
+   "orig": "Tobia\n「Yes.\n　Kincade and I would like to assist you on your long\n　journey to Iscandar.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Тобиа",
+   "text": "「Мы всё обсудили и решили, что сейчас\n　самое время помочь, чем можем.」",
+   "orig": "Tobia\n「We've talked it over and decided that now\n　is the time to do what we can to help.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Кинкейд",
+   "text": "「Победа над Империей Гамилас на Юпитере\n　и вокруг него конфликт не решит—」",
+   "orig": "Kincade\n「Defeating the Gamillas Empire on and around\n　Jupiter won't settle the conflict—」"
+  },
+  {
+   "i": 329,
+   "speaker": "Кинкейд",
+   "text": "「а мы не сможем жить с собой, если увидим\n　гибель Земли с Юпитера, зная, что могли\n　помочь.」",
+   "orig": "Kincade\n「and we wouldn't be able to live with ourselves\n　if we witnessed the destruction of Earth from\n　Jupiter, knowing that we could have helped.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Като",
+   "text": "「Щедрое предложение, Кинкейд, и я рад его\n　слышать. Но как же твоя жена?」",
+   "orig": "Kato\n「This is a very generous offer, Kincade, and I'm\n　pleased to hear it. But what about your wife?」"
+  },
+  {
+   "i": 331,
+   "speaker": "Кинкейд",
+   "text": "「Бера и Бернадетт помогут тем, кто остался\n　в колониях Юпитера, наладить жизнь.」",
+   "orig": "Kincade\n「Berah and Bernadette will help those still living in\n　the colonies on Jupiter restore order to their lives.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Тобиа",
+   "text": "「Люди глубоко уважают Авангард Кроссбоун\n　за то, что он изгнал военное правительство.\n　Присутствие Бернадетт их успокоит.」",
+   "orig": "Tobia\n「The people have great respect for the Crossbone\n　Vanguard now that they've driven out the military\n　government. Bernadette's presence will reassure them.」"
+  },
+  {
+   "i": 333,
+   "speaker": "Тобиа",
+   "text": "「Это поможет вернуть на Юпитер хоть\n　какое-то подобие мира и обычной жизни.」",
+   "orig": "Tobia\n「That should help restore some semblance\n　of peace and normalcy to life on Jupiter.」"
+  },
+  {
+   "i": 334,
+   "speaker": "Кинкейд",
+   "text": "「Если всё пойдёт хорошо, в будущем они даже\n　смогут помочь Земле.」",
+   "orig": "Kincade\n「If all goes well, they may even be able to assist\n　Earth in the future.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Като",
+   "text": "「И тебя всё это устраивает?」",
+   "orig": "Kato\n「And all of this is acceptable to you?」"
+  },
+  {
+   "i": 336,
+   "speaker": "Кинкейд",
+   "text": "「Положение не оставляет нам выбора.\n　Нужно держаться вместе и делать всё,\n　что можем, для общего блага.」",
+   "orig": "Kincade\n「The current situation leaves us little choice.\n　We must band together and do what we can for the\n　common good.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Кинкейд",
+   "text": "「Таков наш закон.\n　Пока всё не кончится, она остаётся Берой Рона,\n　а я — Кинкейдом Нау.」",
+   "orig": "Kincade\n「That is the creed we live by.\n　Until this is over, she will be known as Berah Ronah\n　and I will be known as Kincade Nau.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Тобиа",
+   "text": "「Лейтенант Кодай, попросите за нас у командующего\n　Окиты разрешения присоединиться к вам.」",
+   "orig": "Tobia\n「Lieutenant Kodai, please ask Commanding Officer Okita\n　for permission to join you, on our behalf.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Кодай",
+   "text": "「Понял.\n　Передам вашу—」",
+   "orig": "Kodai\n「Understood.\n　I'll submit your—」"
+  },
+  {
+   "i": 340,
+   "speaker": "Кодай",
+   "text": "「Впрочем, это лишнее.\n　Позвольте первым поприветствовать вас на борту.」",
+   "orig": "Kodai\n「Actually, that won't be necessary.\n　Allow me to be the first to welcome you aboard.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Като",
+   "text": "「Ты уверен?\n　У тебя вообще есть право такое решать?」",
+   "orig": "Kato\n「Are you sure?\n　Do you even have the authority to make that call?」"
+  },
+  {
+   "i": 342,
+   "speaker": "Кодай",
+   "text": "「Я никого не обхожу через голову.\n　На это у меня есть одобрение командующего.」",
+   "orig": "Kodai\n「I'm not going over anyone's head to make the call.\n　I have the Commanding Officer's blessing on this.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Кодай",
+   "text": "（Собирать вокруг себя людей с общей целью.\n　Вот о чём говорил командующий, когда сказал,\n　что оружие — не единственный путь к победе.）",
+   "orig": "Kodai\n（Building a coalition of people with a common\n　goal. This must be what the CO meant when he\n　said that weapons aren't the only way to win. ）"
+  },
+  {
+   "i": 344,
+   "speaker": "Като",
+   "text": "「Стой, а где $l?」",
+   "orig": "Kato\n「Wait, where is $l?」"
+  },
+  {
+   "i": 345,
+   "speaker": "Синохара",
+   "text": "「Он, похоже, всё ещё у «Вангрэя», сэр.」",
+   "orig": "Shinohara\n「It appears he's still with the VangRay, sir.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Като",
+   "text": "「Хм? Я ведь хотел похвалить его за\n　сегодняшний бой, но, видно, у него дела\n　важнее. Сам виноват.」",
+   "orig": "Kato\n「Huh? I was prepared to commend him on his\n　performance today, but I suppose he had better\n　things to do. That's his loss.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Кодай",
+   "text": "「Вы уверены?」",
+   "orig": "Kodai\n「Are you sure?」"
+  },
+  {
+   "i": 348,
+   "speaker": "Тобиа",
+   "text": "「Да.\n　Мы с Кинкейдом хотим помочь вам в долгом\n　пути до Искандара.」",
+   "orig": "Tobia\n「Yes.\n　Kincade and I would like to assist you on your long\n　journey to Iscandar.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Тобиа",
+   "text": "「Мы всё обсудили и решили, что сейчас\n　самое время помочь, чем можем.」",
+   "orig": "Tobia\n「We've talked it over and decided that now\n　is the time to do what we can to help.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Кинкейд",
+   "text": "「Победа над Империей Гамилас на Юпитере\n　и вокруг него конфликт не решит—」",
+   "orig": "Kincade\n「Defeating the Gamillas Empire on and around\n　Jupiter won't settle the conflict—」"
+  },
+  {
+   "i": 351,
+   "speaker": "Кинкейд",
+   "text": "「а мы не сможем жить с собой, если увидим\n　гибель Земли с Юпитера, зная, что могли\n　помочь.」",
+   "orig": "Kincade\n「and we wouldn't be able to live with ourselves\n　if we witnessed the destruction of Earth from\n　Jupiter, knowing that we could have helped.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Като",
+   "text": "「Щедрое предложение, Кинкейд, и я рад его\n　слышать. Но как же твоя жена?」",
+   "orig": "Kato\n「This is a very generous offer, Kincade, and I'm\n　pleased to hear it. But what about your wife?」"
+  },
+  {
+   "i": 353,
+   "speaker": "Кинкейд",
+   "text": "「Бера и Бернадетт помогут тем, кто остался\n　в колониях Юпитера, наладить жизнь.」",
+   "orig": "Kincade\n「Berah and Bernadette will help those still living in\n　the colonies on Jupiter restore order to their lives.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Тобиа",
+   "text": "「Люди глубоко уважают Авангард Кроссбоун\n　за то, что он изгнал военное правительство.\n　Присутствие Бернадетт их успокоит.」",
+   "orig": "Tobia\n「The people have great respect for the Crossbone\n　Vanguard now that they've driven out the military\n　government. Bernadette's presence will reassure them.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Тобиа",
+   "text": "「Это поможет вернуть на Юпитер хоть\n　какое-то подобие мира и обычной жизни.」",
+   "orig": "Tobia\n「That should help restore some semblance\n　of peace and normalcy to life on Jupiter.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Кинкейд",
+   "text": "「Если всё пойдёт хорошо, в будущем они даже\n　смогут помочь Земле.」",
+   "orig": "Kincade\n「If all goes well, they may even be able to assist\n　Earth in the future.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Като",
+   "text": "「И тебя всё это устраивает?」",
+   "orig": "Kato\n「And all of this is acceptable to you?」"
+  },
+  {
+   "i": 358,
+   "speaker": "Кинкейд",
+   "text": "「Положение не оставляет нам выбора.\n　Нужно держаться вместе и делать всё,\n　что можем, для общего блага.」",
+   "orig": "Kincade\n「The current situation leaves us little choice.\n　We must band together and do what we can for the\n　common good.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Кинкейд",
+   "text": "「Таков наш закон.\n　Пока всё не кончится, она остаётся Берой Рона,\n　а я — Кинкейдом Нау.」",
+   "orig": "Kincade\n「That is the creed we live by.\n　Until this is over, she will be known as Berah Ronah\n　and I will be known as Kincade Nau.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Тобиа",
+   "text": "「Лейтенант Кодай, попросите за нас у командующего\n　Окиты разрешения присоединиться к вам.」",
+   "orig": "Tobia\n「Lieutenant Kodai, please ask Commanding Officer Okita\n　for permission to join you, on our behalf.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Кодай",
+   "text": "「Понял.\n　Передам вашу—」",
+   "orig": "Kodai\n「Understood.\n　I'll submit your—」"
+  },
+  {
+   "i": 362,
+   "speaker": "Кодай",
+   "text": "「Впрочем, это лишнее.\n　Позвольте первым поприветствовать вас на борту.」",
+   "orig": "Kodai\n「Actually, that won't be necessary.\n　Allow me to be the first to welcome you aboard.」"
+  },
+  {
+   "i": 363,
+   "speaker": "Като",
+   "text": "「Ты уверен?\n　У тебя вообще есть право такое решать?」",
+   "orig": "Kato\n「Are you sure?\n　Do you even have the authority to make that call?」"
+  },
+  {
+   "i": 364,
+   "speaker": "Кодай",
+   "text": "「Я никого не обхожу через голову.\n　На это у меня есть одобрение командующего.」",
+   "orig": "Kodai\n「I'm not going over anyone's head to make the call.\n　I have the Commanding Officer's blessing on this.」"
+  },
+  {
+   "i": 365,
+   "speaker": "Кодай",
+   "text": "（Собирать вокруг себя людей с общей целью.\n　Вот о чём говорил командующий, когда сказал,\n　что оружие — не единственный путь к победе.）",
+   "orig": "Kodai\n（Building a coalition of people with a common\n　goal. This must be what the CO meant when he\n　said that weapons aren't the only way to win. ）"
+  },
+  {
+   "i": 366,
+   "speaker": "Като",
+   "text": "「Стой, а где $l?」",
+   "orig": "Kato\n「Wait, where is $l?」"
+  },
+  {
+   "i": 367,
+   "speaker": "Синохара",
+   "text": "「Она, похоже, всё ещё у «Вангрэя», сэр.」",
+   "orig": "Shinohara\n「It appears she's still with the VangRay, sir.」"
+  },
+  {
+   "i": 368,
+   "speaker": "Като",
+   "text": "「Хм? Я ведь хотел похвалить её за\n　сегодняшний бой, но, видно, у неё дела\n　важнее. Сама виновата.」",
+   "orig": "Kato\n「Huh? I was prepared to commend her on\n　her performance today, but I suppose she had better\n　things to do. That's her loss.」"
+  },
+  {
+   "i": 372,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Кабина «Вангрэя»-",
+   "orig": "　\n　\n　　　　　　　　　　　-VangRay Cockpit-"
+  },
+  {
+   "i": 373,
+   "speaker": "$n",
+   "text": "「Йо.」",
+   "orig": "$n\n「Yo.」"
+  },
+  {
+   "i": 374,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 375,
+   "speaker": "$n",
+   "text": "「Эй, Система 99. Ответь.」",
+   "orig": "$n\n「Hey, System Nine-Nine. Answer me.」"
+  },
+  {
+   "i": 376,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 377,
+   "speaker": "$n",
+   "text": "「Значит, игноришь меня?\n　Придётся позвать старпома Санаду,\n　пусть тебя взломает!」",
+   "orig": "$n\n「Giving me the cold shoulder, are you?\n　Guess I better call XO Sanada and have\n　him hack into you!」"
+  },
+  {
+   "i": 378,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 379,
+   "speaker": "$n",
+   "text": "「Да шучу я.\n　С девушкой я так не поступлю.\n　Не в моём это характере.」",
+   "orig": "$n\n「Ah, I'm just kidding.\n　I couldn't do that to a woman.\n　That's not the kind of guy I am.」"
+  },
+  {
+   "i": 380,
+   "speaker": "Система 99",
+   "text": "「Девушкой?」",
+   "orig": "System Nine-Nine\n「A woman?」"
+  },
+  {
+   "i": 381,
+   "speaker": "$n",
+   "text": "「Наконец-то ответ!」",
+   "orig": "$n\n「Finally, a response!」"
+  },
+  {
+   "i": 382,
+   "speaker": "$n",
+   "text": "「Знаю, у ИИ нет пола, но ты почему-то\n　кажешься мне девушкой.」",
+   "orig": "$n\n「I know AIs aren't really men or women, but\n　somehow you come off as a woman to me.」"
+  },
+  {
+   "i": 383,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 384,
+   "speaker": "$n",
+   "text": "「Хм. Ты и правда немногословна.\n　Как-то не по-человечески.」",
+   "orig": "$n\n「Hm. You really don't talk much, do you?\n　That doesn't seem very human to me.」"
+  },
+  {
+   "i": 385,
+   "speaker": "$n",
+   "text": "「Да ладно, неважно.\n　Сил у меня уже нет, так что\n　оставлю тебя в покое.」",
+   "orig": "$n\n「Eh, that's OK.\n　I'm pretty exhausted myself, so I'll\n　leave you alone for now.」"
+  },
+  {
+   "i": 386,
+   "speaker": "$n",
+   "text": "「И всё же спасибо.\n　Сегодняшний бой мы вытянули благодаря тебе.」",
+   "orig": "$n\n「Thanks, at any rate.\n　We came out ahead in that fight today because of you.」"
+  },
+  {
+   "i": 387,
+   "speaker": "$n",
+   "text": "「Отдыхай, 99.\n　Хорошо, что ты мой напарник.」",
+   "orig": "$n\n「Take it easy, Nine-Nine.\n　I'm glad you're my co-pilot.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 389,
+   "speaker": "Система 99",
+   "text": "「Рада знакомству,\n　$F.」",
+   "orig": "System Nine-Nine\n「Nice meeting you,\n　$F.」"
+  },
+  {
+   "i": 390,
+   "speaker": "$n",
+   "text": "「Эй.」",
+   "orig": "$n\n「Hey.」"
+  },
+  {
+   "i": 391,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 392,
+   "speaker": "$n",
+   "text": "「Алло, Система 99?」",
+   "orig": "$n\n「Hello, System Nine-Nine?」"
+  },
+  {
+   "i": 393,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 394,
+   "speaker": "$n",
+   "text": "「Так и будешь молчать?\n　Думалось, женский ИИ болтает больше.」",
+   "orig": "$n\n「So, you're not talking?\n　I would've thought a female AI would talk more.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Система 99",
+   "text": "「Женский?」",
+   "orig": "System Nine-Nine\n「Female?」"
+  },
+  {
+   "i": 396,
+   "speaker": "$n",
+   "text": "「О, вот это тебя задело.」",
+   "orig": "$n\n「Ah, that got your attention.」"
+  },
+  {
+   "i": 397,
+   "speaker": "$n",
+   "text": "「Знаю, у ИИ, наверное, и нет никакого пола,\n　но мне кажется, что ты женщина. Что сама\n　об этом думаешь?」",
+   "orig": "$n\n「I know AIs probably don't get assigned a gender,\n　but I get the impression that you're a woman. What\n　do you think of that?」"
+  },
+  {
+   "i": 398,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 399,
+   "speaker": "$n",
+   "text": "「Хм, ты и правда молчишь.\n　Сперва казалось, что ИИ совсем как живой,\n　но, видно, у программы есть предел.」",
+   "orig": "$n\n「Hm, you're really not talking, are you?\n　I thought you were a pretty natural AI at first,\n　but I guess your programming has its limits.」"
+  },
+  {
+   "i": 400,
+   "speaker": "$n",
+   "text": "「Ладно, попробую завтра.\n　На сегодня хватит.」",
+   "orig": "$n\n「OK, I'll try again tomorrow.\n　I've had it for today.」"
+  },
+  {
+   "i": 401,
+   "speaker": "$n",
+   "text": "「Спасибо, Система 99.\n　Без тебя мы бы не победили.」",
+   "orig": "$n\n「Thank you, System Nine-Nine.\n　We couldn't have won without you.」"
+  },
+  {
+   "i": 402,
+   "speaker": "$n",
+   "text": "「Доброй ночи.\n　Продолжим в том же духе, ладно?」",
+   "orig": "$n\n「Goodnight.\n　Let's keep up the good work, OK?」"
+  },
+  {
+   "i": 403,
+   "speaker": "Система 99",
+   "text": "「…」",
+   "orig": "System Nine-Nine\n「...」"
+  },
+  {
+   "i": 404,
+   "speaker": "Система 99",
+   "text": "「Рада знакомству,\n　$F.」",
+   "orig": "System Nine-Nine\n「Nice meeting you,\n　$F.」"
+  },
+  {
+   "i": 408,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　　-Завод-",
+   "orig": "　\n　\n　　　　　　　　　　　　　-Factory-"
+  },
+  {
+   "i": 409,
+   "speaker": "$n",
+   "text": "「Сценарий завода здесь ещё не задействован,\n　но место под него я всё равно подготовлю.」",
+   "orig": "$n\n「This scenario hasn't triggered a factory scenario\n　yet, but I'll create a space for it anyway.」"
+  }
+ ]
+}
