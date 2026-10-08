@@ -57,14 +57,20 @@ D:\games\SUPER ROBOT WARS V\
    ├─ ShiroData\LanguageData\EN\LT00_EN.cpk ─ ✅ юниты/способности, BLTU [УСТАНОВЛЕН]
    ├─ KuroData\LUACPK.cpk ─ 🔍 9 общих Lua движка, перевода не требует
    ├─ hiyama\defaultSS_?.cpk ─ 🔍 мелкие BLTU (кнопки/worldmap), в основном JP-строки
-   └─ MtData\
-      ├─ EN\rpw_jstr.cpk ─ 🔶 формат <mt>, chunk j-string: имена юнитов/пилотов
-      │     (rid_*/pid_*) + реплики отступления. Нужен парсер <mt> ← ПРИОРИТЕТ
-      ├─ EN\MtZkn_Nm/Pt/Rt.cpk, lega_zkn, MtV_all_keyword_def ─ ⬜ энциклопедия, <mt>
-      ├─ EN\rpw_data.cpk ─ ⬜ бинарные таблицы данных юнитов
-      ├─ EN\*.bin (rpw_jstr.bin, new_rpw_joined_string_*.bin) ─ ❓ НЕ поддались
-      │     стандартной расшифровке (другой ключ/сжатие?). Главный подозреваемый
-      │     на БОЕВЫЕ РЕПЛИКИ («Gamillas, huh? Take this!») — их нигде больше нет
+   └─ MtData\  (формат <mt> разобран: tools/MT_FORMAT.md, ru_mt_jstr.py)
+      ├─ EN\rpw_jstr.cpk ─ ✅ <mt>: chunk j-string (5302 слота) + jstr-i2i.
+      │     3402 переводимых строки: имена юнитов/пилотов/оружия в бою,
+      │     описания команд Духа, реплики при сбитии. Round-trip OK, длины
+      │     менять можно (coverage индексов 100%)
+      ├─ EN\lega_zkn.cpk ─ ✅ <mt>, 22 чанка: 820 переводимых строк
+      │     (энциклопедия: имена/ключевые слова). Round-trip OK
+      ├─ EN\MtZkn_Nm/Pt/Rt.cpk ─ 🔶 НЕ <mt>, а формат ZKAN (весь файл XOR 0x5E,
+      │     магия ZKANPDNM, секции DSIZ/DATA/DSCR, текст статей в DSCR).
+      │     Здесь основной текст энциклопедии — нужен отдельный парсер
+      ├─ EN\MtV_all_keyword_def.cpk ─ 🔶 формат MTFL (MTFLz2_2) — свой парсер
+      ├─ rpw_data.cpk ─ ⚠️ <mt> с пулом 6074 строк, НО ни одна таблица не
+      │     ссылается на пул смещениями (coverage 0%) → длины менять НЕЛЬЗЯ
+      ├─ EN\*.bin ─ 🔍 авторские <mt>-дампы разработки, игрой не используются
       └─ (корень MtData — JP-версии тех же файлов)
 ```
 
