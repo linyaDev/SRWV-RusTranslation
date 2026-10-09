@@ -5,6 +5,12 @@ Reverse-engineered from the Steam build. Status: **fully understood** —
 
 Tool: [`ru_zkan.py`](ru_zkan.py).
 
+> ⚠️ **Record file names repeat across the two directories.**
+> `MtZkn_Pt_dec/00000197.dat` is Tetsuya Tsurugi, while
+> `MtZkn_Rt_dec/00000197.dat` is a Full Metal Panic mech — 273 of 392 names
+> collide. Always key records by the **pair** (directory, file name): keying
+> by file name alone silently swaps a character article for a mech one.
+
 ## 1. Where the records live
 
 | CPK (per language, e.g. `CommonData/MtData/EN/`) | Record type | Records | Content |
