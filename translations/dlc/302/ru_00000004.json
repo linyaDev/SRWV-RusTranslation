@@ -1,0 +1,670 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Тобиа",
+   "text": "「Чёрт возьми!\n　Нас окружили!」",
+   "orig": "Tobia\n「Damn it all!\n　We're surrounded!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Умон",
+   "text": "「Прости, Тобиа!\n　Не надо было просить тебя\n　прикрывать отход!」",
+   "orig": "Umon\n「Sorry, Tobia!\n　Shouldn't have asked you\n　to cover our escape!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Тобиа",
+   "text": "「Ничего!\n　Тебе, Йоне и остальным\n　надо убираться из сектора, старик!」",
+   "orig": "Tobia\n「No worries!\n　You, Yona, and the others\n　need to get out of the sector, old man!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Умон",
+   "text": "「А что будет с тоб—」",
+   "orig": "Umon\n「But what'll happen to yo—」"
+  },
+  {
+   "i": 4,
+   "speaker": "Тобиа",
+   "text": "「Я догоню!\n　И Бернадетт тоже справится!」",
+   "orig": "Tobia\n「I'll catch up!\n　Bernadette'll be fine, too!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Умон",
+   "text": "「Понял!\n　Не умирай, малец!」",
+   "orig": "Umon\n「Roger that!\n　Don't die, kid!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Тобиа",
+   "text": "「И не собирался.」",
+   "orig": "Tobia\n「Wasn't planning on it.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Тобиа",
+   "text": "「Проклятая Империя Юпитера!\n　Решили подсуетиться, пока\n　гамиласцы бьют по Земле!」",
+   "orig": "Tobia\n「The damned Jupiter Empire!\n　Trying to slide in while\n　the Gamillans hit Earth!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Тобиа",
+   "text": "「Ну что ж!」",
+   "orig": "Tobia\n「Alright, then!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Тобиа",
+   "text": "「Силы Федерации сюда не дойдут,\n　так что танцевать вам придётся\n　с Кроссбоун-Вангард!」",
+   "orig": "Tobia\n「The Federation Forces can't make it,\n　so you'll have to dance with the \n　Crossbone Vanguard!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Тобиа",
+   "text": "「Я и «Скалл Харт» доведём до конца то,\n　что начали Кинкейд и\n　капитан Рона!」",
+   "orig": "Tobia\n「Me and the Skull Heart are gonna finish what\n　Kincade and Captain Ronah\n　started!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Тобиа",
+   "text": "（Жди меня, Бернадетт!\n　Я обязательно вернусь к тебе!）",
+   "orig": "Tobia\n（Just you wait, Bernadette!\n　I'm gonna make it back to you!）"
+  },
+  {
+   "i": 12,
+   "speaker": "Тобиа",
+   "text": "「Стой... эти доспехи!\n　Они из Империи Юпитера?」",
+   "orig": "Tobia\n「Wait...these suits!\n　Are they from the Jovian Empire?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Тобиа",
+   "text": "「...это F91!\n　Машина Федерации Земли!」",
+   "orig": "Tobia\n「...an F91!\n　That's an Earth Federation model!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Солдат Федерации",
+   "text": "「Эй, ты! «Гандам»!\n　Ты из Кроссбоун-Вангард!」",
+   "orig": "Federation Soldier\n「You, there! The Gundam!\n　You're with the Crossbone Vanguard!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Тобиа",
+   "text": "「Д-да!」",
+   "orig": "Tobia\n「Y-yeah!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Солдат Федерации",
+   "text": "「Так и думал!\n　Иначе зачем бы ты бился\n　с Империей!」",
+   "orig": "Federation Soldier\n「I thought so!\n　No other reason you'd be fighting\n　the Empire!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Солдат Федерации",
+   "text": "「Мой отряд был в войне с Юпитером.\n　Я прикрывал твою шкуру, когда\n　ты бил по тому транспорту.」",
+   "orig": "Federation Soldier\n「My squad was in the Jupiter War.\n　I helped cover your butt when you\n　attacked that transport.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Солдат Федерации",
+   "text": "「Ого?!」",
+   "orig": "Federation Soldier\n「Whoa?!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тобиа",
+   "text": "「Будь осторожнее!\n　Они точно знают, что ты им враг!」",
+   "orig": "Tobia\n「You need to watch out!\n　Pretty sure they know you're the enemy!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Солдат Федерации",
+   "text": "「Чёрт, надеюсь на это!\n　Ничего так не хотел, как сойтись\n　с ними в бою!」",
+   "orig": "Federation Soldier\n「I sure as hell hope so!\n　Nothing I wanted more than to square\n　off against them!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Солдат Федерации",
+   "text": "「Я тебя прикрою!\n　Покажи им ещё раз, где ад!」",
+   "orig": "Federation Soldier\n「I'll cover you!\n　Give ‘em another taste of hell!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Тобиа",
+   "text": "「Спасибо!\n　Но всё же — осторожно!」",
+   "orig": "Tobia\n「Thank you!\n　But still! Be careful!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Солдат Федерации",
+   "text": "「Обойдусь, пират!\n　Я не просто так сижу\n　в этом «Гандаме»!」",
+   "orig": "Federation Soldier\n「Thanks but no thanks, pirate!\n　There's a reason why I'm\n　in this Gundam here!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Солдат Федерации",
+   "text": "「За дело!\n　Поздно сбавлять обороты!」",
+   "orig": "Federation Soldier\n「Let's do this!\n　Too late to slow down now!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Солдат Федерации",
+   "text": "「Вы, космические пираты, что-то с чем-то.\n　Помню, тот «Гандам» выручил нас\n　в войне с Юпитером.」",
+   "orig": "Federation Soldier\n「You Space Pirates sure are something.\n　I seem to recall that Gundam saving us\n　in the Jupiter War.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Тобиа",
+   "text": "「Да. Но пилотом тогда\n　был не я.」",
+   "orig": "Tobia\n「Yeah. But I wasn't\n　the one piloting it.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Солдат Федерации",
+   "text": "「Не ты?」",
+   "orig": "Federation Soldier\n「You weren't?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тобиа",
+   "text": "「Но «Скалл Харт» был их гордостью.\n　Я продолжаю их дело.」",
+   "orig": "Tobia\n「But the Skull Heart was their pride and joy.\n　I'm carrying out their legacy.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Солдат Федерации",
+   "text": "「Что ж... судя по тому, что я видел,\n　лучше тебя на это место не найти.」",
+   "orig": "Federation Soldier\n「Well...if what I saw was any indication,\n　you couldn't be more right for the job.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тобиа",
+   "text": "「...так ты здесь один?」",
+   "orig": "Tobia\n「...so are you out here by yourself?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Солдат Федерации",
+   "text": "「Э... можно и так сказать...」",
+   "orig": "Federation Soldier\n「Er...you could say that...」"
+  },
+  {
+   "i": 32,
+   "speaker": "Солдат Федерации",
+   "text": "「Я, можно сказать, вроде как дезертир.」",
+   "orig": "Federation Soldier\n「I guess I'm kind of what they'd call a deserter.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Тобиа",
+   "text": "「Что-что?!」",
+   "orig": "Tobia\n「Say that again?!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Солдат Федерации",
+   "text": "「Эй, погоди-ка!\n　Я же сказал: «вроде как»!」",
+   "orig": "Federation Soldier\n「Wait just a minute!\n　You heard me! I said \"kind of\"!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Тобиа",
+   "text": "「Как это — «вроде как» дезертир?」",
+   "orig": "Tobia\n「How can you be \"kind of\" a deserter?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Солдат Федерации",
+   "text": "「Мы были на орбите Земли. Обычное патрулирование.\n　А потом ударили гамиласцы.\n　Выжил только я один.」",
+   "orig": "Federation Soldier\n「We were in Earth orbit. Standard patrol duty, you know?\n　And then the Gamillans attacked.\n　I'm the only one who made it out alive.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Тобиа",
+   "text": "「Ох...」",
+   "orig": "Tobia\n「Oh...」"
+  },
+  {
+   "i": 38,
+   "speaker": "Солдат Федерации",
+   "text": "「Хорошо, что я умею штурманить...\n　Марс — единственный мой дом.\n　Вот и решил вернуться.」",
+   "orig": "Federation Soldier\n「Good thing I know how to navigate...\n　Mars was the only home I ever knew.\n　So I decided to head back.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Тобиа",
+   "text": "「Ты родился на Марсе?」",
+   "orig": "Tobia\n「You were born on Mars?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Солдат Федерации",
+   "text": "「Ага.\n　Из-за визора не видно, конечно,\n　но у меня красные глаза.」",
+   "orig": "Federation Soldier\n「Yup.\n　I know the visor's kind of in the way,\n　but I've got red eyes.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Солдат Федерации",
+   "text": "「Хотя родных моих давно уже нет...」",
+   "orig": "Federation Soldier\n「My family's already long gone, though...」"
+  },
+  {
+   "i": 42,
+   "speaker": "Тобиа",
+   "text": "「Тогда зачем возвращаться?」",
+   "orig": "Tobia\n「So why would you go back?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Солдат Федерации",
+   "text": "「На дежурстве мы столкнулись с юпитерианцами.\n　Удалось перехватить их переговоры.」",
+   "orig": "Federation Soldier\n「We encountered Jovian forces while we were on duty.\n　Managed to intercept their communications.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Солдат Федерации",
+   "text": "「Похоже, у них на Марсе действует отряд.」",
+   "orig": "Federation Soldier\n「Seems like they have a squad acting on Mars.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Тобиа",
+   "text": "「Ты сказал — Марс?!」",
+   "orig": "Tobia\n「Did you say Mars?!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Солдат Федерации",
+   "text": "「Да...\n　Империя снова ударит по Земле,\n　пока та не оправилась.」",
+   "orig": "Federation Soldier\n「Yeah...\n　The Empire's gonna hit Earth again\n　while it's still reeling.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Солдат Федерации",
+   "text": "「А Марс станет их передовой базой.」",
+   "orig": "Federation Soldier\n「And they're gonna use Mars as their front line.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Тобиа",
+   "text": "「Тогда понятно,\n　почему их было столько\n　у самой Земли...」",
+   "orig": "Tobia\n「That would explain\n　why there were so damned many of\n　them around Earth...」"
+  },
+  {
+   "i": 49,
+   "speaker": "Солдат Федерации",
+   "text": "「Я доложил наверх,\n　но вряд ли штаб кого-то поднимет.」",
+   "orig": "Federation Soldier\n「I passed the message to the higher-ups,\n　but I don't think Command's gonna mobilize.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Тобиа",
+   "text": "「Ну, у них и с гамиласцами забот хватает.」",
+   "orig": "Tobia\n「I mean, they have their hands pretty full with the Gamillans.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Солдат Федерации",
+   "text": "「Да...」",
+   "orig": "Federation Soldier\n「Yeah...」"
+  },
+  {
+   "i": 52,
+   "speaker": "Солдат Федерации",
+   "text": "「Значит, дело за мной.\n　Всю мою роту ведь разбили.」",
+   "orig": "Federation Soldier\n「So it's up to me.\n　And the rest of my company got crushed.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Солдат Федерации",
+   "text": "「Выжившие с Земли добрались до Марса.\n　А Марс — мой дом.」",
+   "orig": "Federation Soldier\n「The survivors from Earth made their way to Mars.\n　And Mars is home.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Солдат Федерации",
+   "text": "「Я один. Многого, может, и не смогу,\n　но будь я проклят, если спущу\n　Империи такое с рук.」",
+   "orig": "Federation Soldier\n「I'm working alone. I might not be able to do much,\n　but like hell I'm gonna let the Empire\n　get away with this.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Тобиа",
+   "text": "「Марс, да...」",
+   "orig": "Tobia\n「Mars, huh...」"
+  },
+  {
+   "i": 56,
+   "speaker": "Солдат Федерации",
+   "text": "「Внимание!\n　Что-то приближается!」",
+   "orig": "Federation Soldier\n「Heads up!\n　Something's coming!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Тобиа",
+   "text": "「Гамиласцы!」",
+   "orig": "Tobia\n「Gamillans!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Солдат Федерации",
+   "text": "「Чёрт возьми!\n　Они и здесь?!」",
+   "orig": "Federation Soldier\n「Damn it all!\n　They're here, too?!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Тобиа",
+   "text": "「Ты что это делаешь?!」",
+   "orig": "Tobia\n「What do you think you're doing?!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Солдат Федерации",
+   "text": "「А на что похоже?!\n　Догоняю их!」",
+   "orig": "Federation Soldier\n「What do you think?!\n　I'm catching them!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Солдат Федерации",
+   "text": "「Марс важен,\n　но просто так я их не отпущу!」",
+   "orig": "Federation Soldier\n「Mars is important,\n　but I'm not just gonna let them go!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Тобиа",
+   "text": "「Понял!」",
+   "orig": "Tobia\n「Okay!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Солдат Федерации",
+   "text": "「Я и сам справлюсь!」",
+   "orig": "Federation Soldier\n「I can handle this alone!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Тобиа",
+   "text": "「Что? Думаешь, я буду\n　стоять в сторонке?」",
+   "orig": "Tobia\n「What? You think I'm just gonna\n　stand aside?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Солдат Федерации",
+   "text": "「...Да, пожалуй, не будешь.\n　Никто с Земли бы не смог.」",
+   "orig": "Federation Soldier\n「...Guess you wouldn't.\n　Don't think any Earthling would.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Солдат Федерации",
+   "text": "「Ну что ж!\n　Они полезли к Земле —\n　вот и получат сполна!」",
+   "orig": "Federation Soldier\n「Alright, then!\n　They wanted to mess with Earth,\n　we're gonna hit 'em back hard!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тобиа",
+   "text": "「Вот это разговор, солдат!」",
+   "orig": "Tobia\n「That's what I like to hear, soldier!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Солдат Федерации",
+   "text": "「Нелегко далось, конечно...」",
+   "orig": "Federation Soldier\n「That wasn't exactly an easy win...」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тобиа",
+   "text": "「Берегись!\n　К ним идёт подкрепление!」",
+   "orig": "Tobia\n「Watch out!\n　We've got more incoming!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Солдат Федерации",
+   "text": "「Проклятые гамиласцы!\n　Не знаю, справимся ли...」",
+   "orig": "Federation Soldier\n「Damn Gamillans!\n　I don't know if we can do this...」"
+  },
+  {
+   "i": 71,
+   "speaker": "Тобиа",
+   "text": "「Берегись!\n　К ним идёт подкрепление!」",
+   "orig": "Tobia\n「Watch out!\n　We've got more incoming!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Солдат Федерации",
+   "text": "「Да это целый флот!」",
+   "orig": "Federation Soldier\n「It's a whole fleet of ships!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Тобиа",
+   "text": "「Они открыли огонь!\n　Уходи с линии удара!」",
+   "orig": "Tobia\n「They're firing!\n　Take evasive maneuvers!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Солдат Федерации",
+   "text": "「Гха!」",
+   "orig": "Federation Soldier\n「Gah!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Тобиа",
+   "text": "「Эй!」",
+   "orig": "Tobia\n「Hey!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Солдат Федерации",
+   "text": "「Да вы издеваетесь...\n　Сдохнуть в таком месте...」",
+   "orig": "Federation Soldier\n「You gotta be kidding me...\n　Dying in a place like this...」"
+  },
+  {
+   "i": 77,
+   "speaker": "Тобиа",
+   "text": "「Нам надо уходить отсюда!\n　Держись за мной!」",
+   "orig": "Tobia\n「We need to get out of here!\n　Follow my lead!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Солдат Федерации",
+   "text": "「Нет... нет. Я остаюсь...」",
+   "orig": "Federation Soldier\n「No...no. I'm staying...」"
+  },
+  {
+   "i": 79,
+   "speaker": "Тобиа",
+   "text": "「Ты что говоришь?!」",
+   "orig": "Tobia\n「What are you saying?!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Солдат Федерации",
+   "text": "「Побежим — они просто\n　пойдут за нами.」",
+   "orig": "Federation Soldier\n「We run and they're just\n　gonna follow.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Солдат Федерации",
+   "text": "「Так что я останусь. Отвлеку их на себя.」",
+   "orig": "Federation Soldier\n「So I'm gonna stay here. Provide a distraction.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тобиа",
+   "text": "「Но если—」",
+   "orig": "Tobia\n「But what if—」"
+  },
+  {
+   "i": 83,
+   "speaker": "Солдат Федерации",
+   "text": "「Мне выбили двигатели.\n　При отходе я буду тебе обузой.」",
+   "orig": "Federation Soldier\n「They knocked out my thrusters.\n　If we run, I'll just hold you back.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Солдат Федерации",
+   "text": "「Уходи!\n　Долг солдата — защищать гражданских!」",
+   "orig": "Federation Soldier\n「Now go!\n　It's every soldier's duty to protect civilians!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Тобиа",
+   "text": "「Ты серьёзно...」",
+   "orig": "Tobia\n「You're serious...」"
+  },
+  {
+   "i": 86,
+   "speaker": "Солдат Федерации",
+   "text": "「Земле сейчас очень нужны люди.\n　Кто остался — тот должен драться.」",
+   "orig": "Federation Soldier\n「The Earth has a serious need for people.\n　Everyone left needs to fight.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Солдат Федерации",
+   "text": "「Не бросай свою жизнь зря.\n　Тем более, у меня к тебе просьба.」",
+   "orig": "Federation Soldier\n「Don't throw your life away.\n　Not when I need you to do me a favor.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Тобиа",
+   "text": "「Так точно...」",
+   "orig": "Tobia\n「Yes, sir...」"
+  },
+  {
+   "i": 89,
+   "speaker": "Солдат Федерации",
+   "text": "「Иди.\n　Уходи, пока они заняты мной.」",
+   "orig": "Federation Soldier\n「Now go.\n　Get out of here while they're still after me.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тобиа",
+   "text": "「Я... я вас не забуду.」",
+   "orig": "Tobia\n「I...I'll never forget you.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Солдат Федерации",
+   "text": "「Ага. И я тебя.\n　У тебя есть дело.」",
+   "orig": "Federation Soldier\n「Yeah. Same here.\n　You've got a job to do.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Тобиа",
+   "text": "「Так точно!」",
+   "orig": "Tobia\n「Yes, sir!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Солдат Федерации",
+   "text": "「Ну, начали...」",
+   "orig": "Federation Soldier\n「Here we go...」"
+  },
+  {
+   "i": 94,
+   "speaker": "Солдат Федерации",
+   "text": "（Погоди...\n　Я так и не узнал его имени...）",
+   "orig": "Federation Soldier\n（Wait...\n　I never even got his name...）"
+  },
+  {
+   "i": 95,
+   "speaker": "Солдат Федерации",
+   "text": "（Хотя...\n　И он моего тоже не узнал...）",
+   "orig": "Federation Soldier\n（Well...\n　He didn't get mine, either...）"
+  },
+  {
+   "i": 96,
+   "speaker": "Солдат Федерации",
+   "text": "（Давай, «Скалл Харт»...\n　Марс надеется на тебя...）",
+   "orig": "Federation Soldier\n（Do it, Mr. Skull Heart...\n　Mars is counting on you...）"
+  },
+  {
+   "i": 97,
+   "speaker": "Солдат Федерации",
+   "text": "「Ну, давайте!\n　Сегодня вы кое-что поймёте!」",
+   "orig": "Federation Soldier\n「Bring it on!\n　You're gonna learn something today!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Тобиа",
+   "text": "（Юпитерианцев у Земли\n　всё больше...）",
+   "orig": "Tobia\n（More and more Imperials\n　around Earth...）"
+  },
+  {
+   "i": 99,
+   "speaker": "Тобиа",
+   "text": "（Крукс Догати мёртв,\n　но война на этом не кончилась...）",
+   "orig": "Tobia\n（Crux Dogatie is dead,\n　but it doesn't mean the fighting's over...）"
+  },
+  {
+   "i": 100,
+   "speaker": "Тобиа",
+   "text": "（И остались те, кто всё ещё хочет...）",
+   "orig": "Tobia\n（And there are people left who still want to...）"
+  },
+  {
+   "i": 101,
+   "speaker": "Тобиа",
+   "text": "（Ну ладно!\n　Буду драться так, как умею!）",
+   "orig": "Tobia\n（Alright!\n　I'm gonna keep fighting the only way I know how!）"
+  },
+  {
+   "i": 102,
+   "speaker": "Тобиа",
+   "text": "（Ну что, гамиласцы...）",
+   "orig": "Tobia\n（Okay, Gamillans...）"
+  },
+  {
+   "i": 103,
+   "speaker": "Тобиа",
+   "text": "（Может, я и пержу\n　в туманность, кто\n　его знает...）",
+   "orig": "Tobia\n（I could just be farting\n　into a nebula, for\n　all I know...）"
+  },
+  {
+   "i": 104,
+   "speaker": "Тобиа",
+   "text": "（Но всё равно попробую что-то сделать!）",
+   "orig": "Tobia\n（But I'm still gonna try to do something!）"
+  },
+  {
+   "i": 105,
+   "speaker": "Солдат Федерации",
+   "text": "「Космические пираты! Защитники\n　жизни! Здесь!」",
+   "orig": "Federation Soldier\n「Space Pirates! The protectors\n　of life! Here!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Солдат Федерации",
+   "text": "「Кто-то там меня любит!\n　Поднимаем обороты!」",
+   "orig": "Federation Soldier\n「Somebody up there likes me!\n　Time to turn it up!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Солдат Федерации",
+   "text": "「Ну, давайте, гамиласцы!\n　Чёрт знает, зачем вы здесь, но вы узнаете,\n　каково это — лезть к Земле!」",
+   "orig": "Federation Soldier\n「Bring it on, Gamillans!\n　Who the hell knows why you're here, but you're\n　gonna find out what it means to mess with Earth!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Солдат Федерации",
+   "text": "「Пусть я останусь один — плевать.\n　Сдаваться я не стану!」",
+   "orig": "Federation Soldier\n「I don't care if I'm the last man standing.\n　I'm not throwing in the towel!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Солдат Федерации",
+   "text": "「Меня не просто так привели в этот мир!\n　И это обещание я сдержу!」",
+   "orig": "Federation Soldier\n「I was brought into this world for a reason!\n　And I'm gonna keep that promise!」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「Агх!」",
+   "orig": "$n\n「Agh!」"
+  }
+ ]
+}

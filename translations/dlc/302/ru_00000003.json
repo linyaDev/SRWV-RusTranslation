@@ -1,0 +1,634 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Смотровая палуба «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　-Yamato Observation Deck-"
+  },
+  {
+   "i": 4,
+   "speaker": "Бернадетт",
+   "text": "「До сих пор не верится.\n　Пара часов — и мы покинем Солнечную систему.」",
+   "orig": "Bernadette\n「It just doesn't feel real.\n　A few hours and we'll be out of the Solar System.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Тобиа",
+   "text": "「И не говори.」",
+   "orig": "Tobia\n「I hear you.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Бернадетт",
+   "text": "「Человечество делает первый шаг за порог дома,\n　прямо в Млечный Путь...」",
+   "orig": "Bernadette\n「Humanity's taking its first steps from home,\n　all the way out into the Milky Way...」"
+  },
+  {
+   "i": 7,
+   "speaker": "Тобиа",
+   "text": "「Волнуешься, Бернадетт?」",
+   "orig": "Tobia\n「Feeling nervous, Bernadette?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Бернадетт",
+   "text": "「Вообще-то, да.」",
+   "orig": "Bernadette\n「I am, actually.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Бернадетт",
+   "text": "「Но я рада, что ты рядом.」",
+   "orig": "Bernadette\n「But I'm glad you're with me.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Тобиа",
+   "text": "「Э...」",
+   "orig": "Tobia\n「Oh...」"
+  },
+  {
+   "i": 11,
+   "speaker": "Тобиа",
+   "text": "（Неужели оно самое?!\n　Тобиа наконец поймал удачу!）",
+   "orig": "Tobia\n（This could be it!\n　Old Tobia's finally struck gold!）"
+  },
+  {
+   "i": 12,
+   "speaker": "Тобиа",
+   "text": "（Маленький шаг человека...\n　огромный скачок для Тобиа!）",
+   "orig": "Tobia\n（One small step for man...\n　One giant leap for Tobia!）"
+  },
+  {
+   "i": 13,
+   "speaker": "Бернадетт",
+   "text": "「Э-э, Тобиа?」",
+   "orig": "Bernadette\n「Er, Tobia?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Тобиа",
+   "text": "「Бернадетт, я...\n　я хотел тебе сказать—」",
+   "orig": "Tobia\n「Bernadette, I...\n　I just wanted to say—」"
+  },
+  {
+   "i": 15,
+   "speaker": "Бернадетт",
+   "text": "「Ой! $n!」",
+   "orig": "Bernadette\n「Oh! $n!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Тобиа",
+   "text": "「Да ты издеваешься!」",
+   "orig": "Tobia\n「You've gotta be kidding me!」"
+  },
+  {
+   "i": 17,
+   "speaker": "$n",
+   "text": "「О. Это ты. И с тобой, э-э...」",
+   "orig": "$n\n「Oh. It's you. And you're with, uh...」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Погоди, я не мешаю?」",
+   "orig": "$n\n「Wait, I'm not interrupting, am I?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тобиа",
+   "text": "「Нет. Конечно нет. То есть, э-э...」",
+   "orig": "Tobia\n「No. Of course not. I mean, uh...」"
+  },
+  {
+   "i": 20,
+   "speaker": "$n",
+   "text": "（Вот блин.\n　Похоже, момент испорчен...）",
+   "orig": "$n\n（Aw, crud.\n　I totally killed the mood...）"
+  },
+  {
+   "i": 21,
+   "speaker": "Бернадетт",
+   "text": "「Так, $n. А тебя что привело?」",
+   "orig": "Bernadette\n「So, $n. What brings you here?」"
+  },
+  {
+   "i": 22,
+   "speaker": "$n",
+   "text": "「Просто это море на Плутоне...\n　Оно мне кое-что напомнило.」",
+   "orig": "$n\n「It's just, seeing the sea on Pluto...\n　It kind of reminded me of something.」"
+  },
+  {
+   "i": 23,
+   "speaker": "$n",
+   "text": "「Ну, знаешь. Старая дружба и всё такое.」",
+   "orig": "$n\n「You know. Old friendships and whatnot.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Тобиа",
+   "text": "「Друзья, да?」",
+   "orig": "Tobia\n「Friends, eh?」"
+  },
+  {
+   "i": 25,
+   "speaker": "$n",
+   "text": "「А остальные космические пираты остались\n　на Марсе, верно?」",
+   "orig": "$n\n「All the rest of the Space Pirates are back\n　on Mars, right?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Тобиа",
+   "text": "「Да...\n　Но друзья у нас есть не только\n　в Кроссбоун-Вангарде.」",
+   "orig": "Tobia\n「Yeah...\n　But we've got more friends out\n　there than just the Crossbone Vanguard.」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「То есть есть и другие, с кем вы работаете?」",
+   "orig": "$n\n「You're saying there're other people you're working with?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тобиа",
+   "text": "「Момент не хуже любого другого. Мне надо кое-что тебе\n　рассказать, $n. Выслушаешь?」",
+   "orig": "Tobia\n「Guess now's as good a time as any. I've got something to\n　tell you, $n. Mind listening?」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Да я не против...」",
+   "orig": "$n\n「Can't say I would...」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тобиа",
+   "text": "「После Юпитерианской войны Кроссбоун-Вангард\n　действовал в основном у Земли.」",
+   "orig": "Tobia\n「After the Jupiter War, Crossbone Vanguard's\n　operations were centered around Earth.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Тобиа",
+   "text": "「И расскажу, почему\n　мы решили перебраться на Марс...」",
+   "orig": "Tobia\n「And I'm going to tell you\n　the reason we decided to move to Mars...」"
+  },
+  {
+   "i": 32,
+   "speaker": "Бернадетт",
+   "text": "「До сих пор не верится.\n　Пара часов — и мы покинем Солнечную систему.」",
+   "orig": "Bernadette\n「It just doesn't feel real.\n　A few hours and we'll be out of the Solar System.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Тобиа",
+   "text": "「И не говори.」",
+   "orig": "Tobia\n「I hear you.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Бернадетт",
+   "text": "「Человечество делает первый шаг за порог дома,\n　прямо в Млечный Путь...」",
+   "orig": "Bernadette\n「Humanity's taking its first steps from home,\n　all the way out into the Milky Way...」"
+  },
+  {
+   "i": 35,
+   "speaker": "Тобиа",
+   "text": "「Волнуешься, Бернадетт?」",
+   "orig": "Tobia\n「Feeling nervous, Bernadette?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Бернадетт",
+   "text": "「Вообще-то, да.」",
+   "orig": "Bernadette\n「I am, actually.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Бернадетт",
+   "text": "「Но я рада, что ты рядом.」",
+   "orig": "Bernadette\n「But I'm glad you're with me.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Тобиа",
+   "text": "「Э...」",
+   "orig": "Tobia\n「Oh...」"
+  },
+  {
+   "i": 39,
+   "speaker": "Тобиа",
+   "text": "（Неужели оно самое?!\n　Тобиа наконец поймал удачу!）",
+   "orig": "Tobia\n（This could be it!\n　Old Tobia's finally struck gold!）"
+  },
+  {
+   "i": 40,
+   "speaker": "Тобиа",
+   "text": "（Маленький шаг человека...\n　огромный скачок для Тобиа!）",
+   "orig": "Tobia\n（One small step for man...\n　One giant leap for Tobia!）"
+  },
+  {
+   "i": 41,
+   "speaker": "Бернадетт",
+   "text": "「Э-э, Тобиа?」",
+   "orig": "Bernadette\n「Er, Tobia?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Тобиа",
+   "text": "「Бернадетт, я...\n　я хотел тебе сказать–」",
+   "orig": "Tobia\n「Bernadette, I...\n　I just wanted to say–」"
+  },
+  {
+   "i": 43,
+   "speaker": "Бернадетт",
+   "text": "「Ой! $n!」",
+   "orig": "Bernadette\n「Oh! $n!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Тобиа",
+   "text": "「Да ты издеваешься!」",
+   "orig": "Tobia\n「You've gotta be kidding me!」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Так вы тоже решили\n　зайти на смотровую палубу?」",
+   "orig": "$n\n「So you guys decided to\n　come to the Observation Deck, too?」"
+  },
+  {
+   "i": 46,
+   "speaker": "$n",
+   "text": "「Погоди... я не мешаю?」",
+   "orig": "$n\n「Wait...am I interrupting something?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тобиа",
+   "text": "「Нет. Конечно нет. То есть, э-э...」",
+   "orig": "Tobia\n「No. Of course not. I mean, uh...」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "（Ох, божечки...\n　Клянусь, хуже момента и не придумать...）",
+   "orig": "$n\n（Oh, gosh...\n　I swear, I've got the worst timing ever...）"
+  },
+  {
+   "i": 49,
+   "speaker": "Бернадетт",
+   "text": "「Так, $n. А тебя что привело?」",
+   "orig": "Bernadette\n「So, $n. What brings you here?」"
+  },
+  {
+   "i": 50,
+   "speaker": "$n",
+   "text": "「Мы ведь покидаем Солнечную систему.\n　А я всё думаю о Земле...」",
+   "orig": "$n\n「I mean, we're leaving the Solar System.\n　But all I can think about is Earth...」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「Приказ — внезапно, и вот я уже здесь.\n　Прощаться с ребятами в лаборатории было некогда.」",
+   "orig": "$n\n「I got orders all of a sudden and now I'm here.\n　I didn't even say goodbye to everyone at the lab.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Тобиа",
+   "text": "「Прощаться, значит...」",
+   "orig": "Tobia\n「Goodbye, you say...」"
+  },
+  {
+   "i": 53,
+   "speaker": "$n",
+   "text": "「А вам пришлось расстаться со своими.\n　С космическими пиратами, в смысле.」",
+   "orig": "$n\n「And you guys had to say goodbye to your group.\n　The Space Pirates, I mean.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тобиа",
+   "text": "「Ну, успеем ещё, когда вернёмся\n　с Искандара, верно?」",
+   "orig": "Tobia\n「There'll be plenty of time for that once we get\n　back from Iscandar, right?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Тобиа",
+   "text": "「Хотя... не все успеют...」",
+   "orig": "Tobia\n「Well, not for everyone...」"
+  },
+  {
+   "i": 56,
+   "speaker": "$n",
+   "text": "「Э...」",
+   "orig": "$n\n「Er...」"
+  },
+  {
+   "i": 57,
+   "speaker": "Тобиа",
+   "text": "「...Момент не хуже любого другого.\n　Мне надо тебе кое-что рассказать, $n. Выслушаешь?」",
+   "orig": "Tobia\n「...Guess now's as good a time as any.\n　I've got things to tell you, $n. Do you mind listening?」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Конечно.」",
+   "orig": "$n\n「Of course not.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Тобиа",
+   "text": "「После Юпитерианской войны Кроссбоун-Вангард\n　действовал в основном у Земли.」",
+   "orig": "Tobia\n「After the Jupiter War, Crossbone Vanguard's\n　operations were centered around Earth.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Тобиа",
+   "text": "「И расскажу, почему\n　мы решили перебраться на Марс...」",
+   "orig": "Tobia\n「And I'm going to tell you\n　the reason we decided to move to Mars...」"
+  },
+  {
+   "i": 64,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Смотровая палуба «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　-Yamato Observation Deck-"
+  },
+  {
+   "i": 65,
+   "speaker": "$n",
+   "text": "「Так вы и воевали на\n　Марсе из-за того\n　солдата...」",
+   "orig": "$n\n「So you were fighting on\n　Mars because of that\n　soldier guy...」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тобиа",
+   "text": "「Воевали...」",
+   "orig": "Tobia\n「We were...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Бернадетт",
+   "text": "「Тобиа...\n　Я и не знала...」",
+   "orig": "Bernadette\n「Tobia...\n　I had no idea...」"
+  },
+  {
+   "i": 68,
+   "speaker": "Тобиа",
+   "text": "「Я об этом никому ещё не рассказывал.」",
+   "orig": "Tobia\n「This is the first time I've ever told anyone.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Бернадетт",
+   "text": "「Почему молчал так долго?」",
+   "orig": "Bernadette\n「Why did you wait so long?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тобиа",
+   "text": "「Потому что мы наконец вытеснили гамиласцев\n　из Солнечной системы. И ещё кое-что...」",
+   "orig": "Tobia\n「Because we finally pushed the Gamillans out of\n　the Solar System. And one more thing...」"
+  },
+  {
+   "i": 71,
+   "speaker": "$n",
+   "text": "「Что? Ты так говоришь, будто в чём-то признаёшься.」",
+   "orig": "$n\n「What? You're acting like this is a confession or something.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Тобиа",
+   "text": "「Ну...」",
+   "orig": "Tobia\n「Well...」"
+  },
+  {
+   "i": 73,
+   "speaker": "$n",
+   "text": "「Он сделал то, что считал нужным.\n　Ты тут не виноват, Тобиа.」",
+   "orig": "$n\n「He did what he felt like he needed to do.\n　It's not on you, Tobia.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Тобиа",
+   "text": "「Но—」",
+   "orig": "Tobia\n「But—」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「Прозвучит грубо, я знаю,\n　но таких историй — хоть пруд пруди.」",
+   "orig": "$n\n「And I know this is gonna sound harsh,\n　but stories like your are a dime a dozen.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тобиа",
+   "text": "「Ну...」",
+   "orig": "Tobia\n「Well...」"
+  },
+  {
+   "i": 77,
+   "speaker": "$n",
+   "text": "「Нам дали жизнь.\n　Значит, стоит что-то с ней сделать.」",
+   "orig": "$n\n「We were given life.\n　Might as well do something with it.」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Разве не за этим\n　ты пришёл на борт?」",
+   "orig": "$n\n「Isn't that why you\n　came on board?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Тобиа",
+   "text": "「Именно.」",
+   "orig": "Tobia\n「It is.」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Спасибо, Тобиа.\n　Спасибо, что рассказал.」",
+   "orig": "$n\n「Thanks, Tobia.\n　Thanks for telling us.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Тобиа",
+   "text": "「Э...」",
+   "orig": "Tobia\n「Er...」"
+  },
+  {
+   "i": 82,
+   "speaker": "$n",
+   "text": "「Ну так... давайте настроимся как надо!\n　Мы же вот-вот простимся с Солнечной системой.」",
+   "orig": "$n\n「Well, then...how about we get a little more in the mood!\n　We're about to say goodbye to the Solar System.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Гамиласцы нам больше не помеха.\n　Прямиком до Искандара.」",
+   "orig": "$n\n「Nothing to worry about from the Gamillans.\n　Just a straight shot to Iscandar.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Тобиа",
+   "text": "「Ага!」",
+   "orig": "Tobia\n「Yeah!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Тобиа",
+   "text": "（Кем бы ты ни был,\n　я обязан тебе жизнью...\n　и не растрачу её зря.）",
+   "orig": "Tobia\n（Whoever you were,\n　I owe my life to you...\n　I won't waste it.）"
+  },
+  {
+   "i": 86,
+   "speaker": "Тобиа",
+   "text": "（Ты и все, кто был как ты.\n　Вы полетите с нами — в душе.）",
+   "orig": "Tobia\n（You and everyone like you.\n　You'll be coming with us in spirit.）"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「Так вы и воевали на\n　Марсе из-за того\n　солдата...」",
+   "orig": "$n\n「So you were fighting on\n　Mars because of that\n　soldier...」"
+  },
+  {
+   "i": 88,
+   "speaker": "Тобиа",
+   "text": "「Воевали...」",
+   "orig": "Tobia\n「We were...」"
+  },
+  {
+   "i": 89,
+   "speaker": "Бернадетт",
+   "text": "「Тобиа...\n　Я и не знала...」",
+   "orig": "Bernadette\n「Tobia...\n　I had no idea...」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тобиа",
+   "text": "「Я об этом никому ещё не рассказывал.」",
+   "orig": "Tobia\n「This is the first time I've ever told anyone.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Бернадетт",
+   "text": "「Почему молчал так долго?」",
+   "orig": "Bernadette\n「Why did you wait so long?」"
+  },
+  {
+   "i": 92,
+   "speaker": "Тобиа",
+   "text": "「Потому что мы наконец вытеснили гамиласцев\n　из Солнечной системы. И ещё кое-что...」",
+   "orig": "Tobia\n「Because we finally pushed the Gamillans out of\n　the Solar System. And one more thing...」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「Всё хорошо, Тобиа. Правда.\n　Если тебе легче от разговора...」",
+   "orig": "$n\n「It's okay, Tobia. Really.\n　If talking makes you feel better...」"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Я не знаю всей истории...\n　Но, кажется, тот солдат сделал то, что считал нужным.」",
+   "orig": "$n\n「And I know I don't know the whole situation...\n　But it seems like that soldier did what he felt he had to.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тобиа",
+   "text": "「Э...」",
+   "orig": "Tobia\n「Er...」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「И ты всё же\n　спас Марс.」",
+   "orig": "$n\n「And you did\n　save Mars.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тобиа",
+   "text": "「Ну...」",
+   "orig": "Tobia\n「Well...」"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「Он спас тебе жизнь,\n　а ты сделал, о чём он просил.」",
+   "orig": "$n\n「He saved your life,\n　and you did what he asked you to.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Тобиа",
+   "text": "「И правда, спас...」",
+   "orig": "Tobia\n「He did, didn't he...」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Мы все здесь потому, что кто-то\n　сделал для нас то же...」",
+   "orig": "$n\n「We're all here because someone\n　did the same for us...」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「И все мы пытаемся отдать этот долг...\n　Потому и летим к Искандару —\n　в надежде спасти Землю.」",
+   "orig": "$n\n「We're all trying to repay that debt...\n　So we're going to Iscandar\n　in hopes of saving the Earth.」"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「И ты ведь тоже, Тобиа?」",
+   "orig": "$n\n「And aren't you too, Tobia?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Тобиа",
+   "text": "「Да.」",
+   "orig": "Tobia\n「I am.」"
+  },
+  {
+   "i": 104,
+   "speaker": "$n",
+   "text": "「...Спасибо.\n　Знаю, рассказать это было непросто.」",
+   "orig": "$n\n「...Thank you.\n　I know it was a tough story to tell.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Тобиа",
+   "text": "「Э...」",
+   "orig": "Tobia\n「Er...」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「И у меня появилось ещё одно дело.」",
+   "orig": "$n\n「And I just remembered something else I have to do.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Мы справимся, Тобиа.\n　Дойдём до Искандара\n　и вернёмся.」",
+   "orig": "$n\n「We'll make it, Tobia.\n　All the way to Iscandar\n　and back.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Тобиа",
+   "text": "「Ага!」",
+   "orig": "Tobia\n「Yeah!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Тобиа",
+   "text": "（Кем бы ты ни был,\n　я обязан тебе жизнью...\n　и не растрачу её зря.）",
+   "orig": "Tobia\n（Whoever you were,\n　I owe my life to you...\n　I won't waste it.）"
+  },
+  {
+   "i": 110,
+   "speaker": "Тобиа",
+   "text": "（Ты и такие, как ты.\n　Вы полетите с нами — в душе.）",
+   "orig": "Tobia\n（You and those like you.\n　You'll be coming with us in spirit.）"
+  }
+ ]
+}

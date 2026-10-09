@@ -1,0 +1,682 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Кинкейд",
+   "text": "「Не верится, что три дня назад тут был бой.」",
+   "orig": "Kincade\n「I can't believe we were fighting here three days ago.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Тэцуя",
+   "text": "「База стёрта начисто.\n　Тут и исследовать-то нечего...」",
+   "orig": "Tetsuya\n「The base is completely gone.\n　Not exactly something to investigate...」"
+  },
+  {
+   "i": 2,
+   "speaker": "Кодай",
+   "text": "「Всей тонкой работой займётся Федерация.\n　Гамиласские технологии и прочее.」",
+   "orig": "Kodai\n「The Federation will take care of any detailed work.\n　Gamillan Tech and the like.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Кодай",
+   "text": "「Наша задача — разведка и зачистка района.」",
+   "orig": "Kodai\n「Our job here is survey and secure the area.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Рёма",
+   "text": "「Нас вызвали? Ради этого?」",
+   "orig": "Ryoma\n「They called us? To do this?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Кодай",
+   "text": "「Не «нас». Это я и командир.\n　Хочешь что-то сказать?」",
+   "orig": "Kodai\n「Not they. I and the Commander.\n　Is there something you want to say?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Рёма",
+   "text": "「Э...」",
+   "orig": "Ryoma\n「Uh...」"
+  },
+  {
+   "i": 7,
+   "speaker": "Кодай",
+   "text": "「Господин Нагарэ.\n　Я понимаю, у гражданских свои порядки, но пока вы\n　на этом корабле — вы подчиняетесь нашим приказам.」",
+   "orig": "Kodai\n「Mr. Nagare.\n　I understand that civilians lead different lives, but as\n　long as you're on this ship, you will follow our orders.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Рёма",
+   "text": "「Говоришь так, будто я этого не знаю.」",
+   "orig": "Ryoma\n「You're talking like I don't know that.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Тэцуя",
+   "text": "「Нам некуда деваться. Просто некуда.\n　Пустили на борт — значит,\n　сделаем всё, что нужно.」",
+   "orig": "Tetsuya\n「We're not going anywhere. We can't.\n　You let us on your ship,\n　we'll do whatever we need to.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Кинкейд",
+   "text": "「Приказывайте, командир.\n　Давайте уже за дело.」",
+   "orig": "Kincade\n「Give us an order, sir.\n　Let's get this done.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Кодай",
+   "text": "「Хорошо. Каждый из вас выдвигается в указанную мной\n　точку и собирает данные.」",
+   "orig": "Kodai\n「Alright, then. Everyone of you is to go to the point\n　I designate and collect data.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Тэцуя",
+   "text": "「Принял.」",
+   "orig": "Tetsuya\n「Roger that.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Кинкейд",
+   "text": "「Так держать, шеф.」",
+   "orig": "Kincade\n「Keep it up, sir.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Кодай",
+   "text": "「Э... ага.」",
+   "orig": "Kodai\n「Er...sure.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Кодай",
+   "text": "（Кинкейд Нау.\n　Бывший пилот-ас космических пиратов\n　«Кроссбоун-Вангард».）",
+   "orig": "Kodai\n（Kincade Nau.\n　Former ace pilot of the Crossbone Vanguard\n　Space Pirates.）"
+  },
+  {
+   "i": 16,
+   "speaker": "Кодай",
+   "text": "（Честно, я бы с радостью поручил это дело\n　тебе вместо себя...）",
+   "orig": "Kodai\n（Honestly, I wish I could ask you to do this\n　instead of me...）"
+  },
+  {
+   "i": 17,
+   "speaker": "Кодай",
+   "text": "（Но нет.\n　Я тактический офицер. Это моя работа.）",
+   "orig": "Kodai\n（But no.\n　I'm the tactical officer. This is my job to do.）"
+  },
+  {
+   "i": 18,
+   "speaker": "Кодай",
+   "text": "（Авиагруппу можно было бы оставить на Като,\n　но без управления машинами\n　всё равно не выйдет...）",
+   "orig": "Kodai\n（I could have Kato take care of the Aircraft Squad,\n　but it won't work unless I can command\n　the mobiles...）"
+  },
+  {
+   "i": 19,
+   "speaker": "Тэцуя",
+   "text": "「Данные собраны, шеф.\n　Какой следующий приказ?」",
+   "orig": "Tetsuya\n「Data gathered, sir.\n　What's the next order?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Кодай",
+   "text": "「К следующей точке.」",
+   "orig": "Kodai\n「Move to the next point.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тэцуя",
+   "text": "「Принял.」",
+   "orig": "Tetsuya\n「Roger that.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кодай",
+   "text": "（Тэцуя Цуруги.\n　Пусть ты и из другого мира,\n　но с тобой куда проще, чем с Рёмой.）",
+   "orig": "Kodai\n（Tetsuya Tsurugi.\n　You may be from another world,\n　you're a lot easier to work with than Ryoma.）"
+  },
+  {
+   "i": 23,
+   "speaker": "Кодай",
+   "text": "（Насчёт его амнезии не знаю,\n　но, может, ты бы его придержал...）",
+   "orig": "Kodai\n（I'm not sure about the amnesia thing,\n　but maybe you could keep him under control...）"
+  },
+  {
+   "i": 24,
+   "speaker": "Кодай",
+   "text": "（Но нет.\n　Какой из меня тогда командир,\n　если я спихну это на других.）",
+   "orig": "Kodai\n（But no.\n　I couldn't even call myself a leader,\n　pulling something like that.）"
+  },
+  {
+   "i": 25,
+   "speaker": "Кодай",
+   "text": "（С Рёмой я разберусь сам.）",
+   "orig": "Kodai\n（I'll have to handle Ryoma myself.）"
+  },
+  {
+   "i": 26,
+   "speaker": "Рёма",
+   "text": "「...Тьфу.\n　Думал, для такого есть специалисты.」",
+   "orig": "Ryoma\n「...Gah.\n　I thought they had specialists for this stuff.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Кодай",
+   "text": "「Не ворчите на работе, господин Нагарэ.\n　Одна такая фраза —\n　и у всех руки опустятся.」",
+   "orig": "Kodai\n「No griping while you work, Mr. Nagare.\n　Give us one of those\n　and it would bring everyone down.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Рёма",
+   "text": "「Да ладно. Рыбе положено плавать, нет?」",
+   "orig": "Ryoma\n「But c'mon. Fish have to swim, right?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Рёма",
+   "text": "「Наше дело — драться с врагом.\n　Не понимаю, на кой нас вообще собрали вместе.」",
+   "orig": "Ryoma\n「Our job's to fight the enemy.\n　I don't know why the hell they'd group us together.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Кодай",
+   "text": "「Да уж...」",
+   "orig": "Kodai\n「Honestly—」"
+  },
+  {
+   "i": 31,
+   "speaker": "Тэцуя",
+   "text": "「Внимание!\n　Снизу энергетический сигнал!」",
+   "orig": "Tetsuya\n「Heads up!\n　Energy signature coming from below!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тэцуя",
+   "text": "「Это тот монстр с Энцелада!」",
+   "orig": "Tetsuya\n「That's the monster we met on Enceladus!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Кинкейд",
+   "text": "「И какого чёрта он на Плутоне?!」",
+   "orig": "Kincade\n「Then why the heck is it on Pluto?!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Рёма",
+   "text": "「Я бился с такими же инвейдерами.\n　Они захватили кучу\n　техники.」",
+   "orig": "Ryoma\n「I fought the same kind of Invader.\n　They captured a lot\n　of hardware.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Рёма",
+   "text": "「Они крепкие.\n　Видимо, клетки, попавшие на «Ямато»,\n　разрослись и здесь.」",
+   "orig": "Ryoma\n「They're tough.\n　Some of the cells that were on the Yamato\n　grew here, probably.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодай",
+   "text": "「Как он мог такое пережить?!」",
+   "orig": "Kodai\n「How could it live through that?!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Кодай",
+   "text": "「Рёма! Стой!\n　Я не давал приказа атаковать!」",
+   "orig": "Kodai\n「Ryoma! Wait!\n　I haven't given the order to attack!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Рёма",
+   "text": "「Это враг!\n　Не ждать же, пока ударят первыми!」",
+   "orig": "Ryoma\n「They're the enemy!\n　I'm not waiting to get hit first!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Кодай",
+   "text": "「Я сказал–」",
+   "orig": "Kodai\n「I said–」"
+  },
+  {
+   "i": 40,
+   "speaker": "Рёма",
+   "text": "「Я их беру на себя!\n　Остальные — прикрывайте!」",
+   "orig": "Ryoma\n「I'll fight them!\n　The rest of you can back me up!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Кодай",
+   "text": "「А...」",
+   "orig": "Kodai\n「Ah...」"
+  },
+  {
+   "i": 42,
+   "speaker": "Тэцуя",
+   "text": "「Рёма — одиночка по натуре.\n　Из-за этого вечно лезет в драку.」",
+   "orig": "Tetsuya\n「Ryoma is pretty individualistic.\n　Gets him into a lot of fights.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Кинкейд",
+   "text": "「Тут ничего не поделаешь.」",
+   "orig": "Kincade\n「Nothing we can do, sir.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Кодай",
+   "text": "「...Ладно.」",
+   "orig": "Kodai\n「...Fine, then.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Кодай",
+   "text": "「Но приказы вы всё равно исполняете.」",
+   "orig": "Kodai\n「But you'll still have to follow orders.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Рёма",
+   "text": "「...Не сейчас. Не здесь.」",
+   "orig": "Ryoma\n「...Not now. Not here.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Кодай",
+   "text": "「Рёма!」",
+   "orig": "Kodai\n「Ryoma!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Рёма",
+   "text": "（Я их раздавлю! Сам!\n　Это по моей части!）",
+   "orig": "Ryoma\n（I'm going to crush them! Me!\n　It's what I do!）"
+  },
+  {
+   "i": 49,
+   "speaker": "Кодай",
+   "text": "「Боевая тревога!\n　Они снова идут!」",
+   "orig": "Kodai\n「Red alert, people!\n　They're coming again!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Рёма",
+   "text": "「Я ими займусь!」",
+   "orig": "Ryoma\n「Leave them to me!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Кодай",
+   "text": "「Рёма!」",
+   "orig": "Kodai\n「Ryoma!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Рёма",
+   "text": "「Проклятые инвейдеры!\n　Я вас в пыль разотру, всех до единого!」",
+   "orig": "Ryoma\n「Damn Invaders!\n　You're going to be dust when I'm through with you!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Рёма",
+   "text": "「Знаете, сколько жизней вы погубили?!」",
+   "orig": "Ryoma\n「Do you know how many lives you've ruined?!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тэцуя",
+   "text": "「О нет...」",
+   "orig": "Tetsuya\n「Oh, no...」"
+  },
+  {
+   "i": 55,
+   "speaker": "Кодай",
+   "text": "「Стой!」",
+   "orig": "Kodai\n「Stop!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Кинкейд",
+   "text": "「Их ещё больше?!」",
+   "orig": "Kincade\n「There's more?!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рёма",
+   "text": "「Чёрт!\n　Тут надо действовать умнее!」",
+   "orig": "Ryoma\n「Tsk!\n　We need to be smart about this!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Кодай",
+   "text": "「Рёма!」",
+   "orig": "Kodai\n「Ryoma!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Кодай",
+   "text": "「Гха!」",
+   "orig": "Kodai\n「Gah!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Рёма",
+   "text": "「Ты что, идиот?!\n　Твоя машина такого не выдержит!」",
+   "orig": "Ryoma\n「You're a moron!\n　Your machine can't take all that!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Кодай",
+   "text": "「Я должен!」",
+   "orig": "Kodai\n「I need to do this!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Рёма",
+   "text": "「Ты...」",
+   "orig": "Ryoma\n「You...」"
+  },
+  {
+   "i": 63,
+   "speaker": "Кодай",
+   "text": "「Я ваш командир!\n　Ваши жизни на мне!」",
+   "orig": "Kodai\n「I'm your commander!\n　Your lives are in my hands!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Кодай",
+   "text": "「И первая моя задача —\n　вернуть вас всех живыми!」",
+   "orig": "Kodai\n「And my first priority is to\n　get you all back alive!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Рёма",
+   "text": "「...Прости.」",
+   "orig": "Ryoma\n「...Sorry.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Кодай",
+   "text": "「Э...」",
+   "orig": "Kodai\n「Er...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Рёма",
+   "text": "「Не сорвись я, тебе бы и не пришлось.」",
+   "orig": "Ryoma\n「You wouldn't have had to if I didn't go off like that.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Рёма",
+   "text": "「...Просто я видел, как гибнет слишком много людей.\n　Людей, которые были мне дороги.」",
+   "orig": "Ryoma\n「...It just, you know, I've seen a lot of people die.\n　People that were important to me.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Кодай",
+   "text": "「А...」",
+   "orig": "Kodai\n「Ah...」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тэцуя",
+   "text": "（Теперь понятно...\n　Рёма дорожит командой. Товарищами.）",
+   "orig": "Tetsuya\n（I get it now...\n　Ryoma values the team. Comrades.）"
+  },
+  {
+   "i": 71,
+   "speaker": "Тэцуя",
+   "text": "（Он полез напролом,\n　чтобы нас не задело...）",
+   "orig": "Tetsuya\n（He went in headlong\n　to keep us out of danger...）"
+  },
+  {
+   "i": 72,
+   "speaker": "Кинкейд",
+   "text": "「Хватит вам обоим.\n　Эти... твари о нас вообще ничего не знают.」",
+   "orig": "Kincade\n「That'll be enough, you two.\n　These...things don't know the first thing about us.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Кодай",
+   "text": "「Верно!\n　И если они не сдерживаются,\n　то и мы не будем!」",
+   "orig": "Kodai\n「Yes!\n　And if they're not holding back,\n　then neither are we!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Рёма",
+   "text": "「Жду приказов.」",
+   "orig": "Ryoma\n「Awaiting your orders.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Тэцуя",
+   "text": "「Держимся вместе — и разберём их в момент.」",
+   "orig": "Tetsuya\n「We keep together and we can take them out in no time.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Кодай",
+   "text": "「Вот это я и хотел услышать!\n　Все наготове и прикрываем друг другу слепые зоны,\n　когда пойдём в контратаку!」",
+   "orig": "Kodai\n「That's what I like to hear!\n　I want every one of you ready and covering each others'\n　blind spots when we hit them back!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Рёма",
+   "text": "「Слышали, инвейдеры?!\n　Чёрта с два вы нас\n　здесь удержите!」",
+   "orig": "Ryoma\n「You hear that, Invaders?!\n　No way in hell you're\n　stopping us from leaving!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Тэцуя",
+   "text": "「И правда справились...」",
+   "orig": "Tetsuya\n「We actually did it...」"
+  },
+  {
+   "i": 79,
+   "speaker": "Рёма",
+   "text": "「Остатки придётся выжечь дотла.\n　Иначе они снова оживут.」",
+   "orig": "Ryoma\n「We're going to have to burn the remains.\n　We don't want them coming back.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Кодай",
+   "text": "「Спасибо, Рёма.」",
+   "orig": "Kodai\n「Thank you, Ryoma.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Рёма",
+   "text": "「Если за то, что приказ исполнил, — забудь.\n　Я сделал единственное, что оставалось.」",
+   "orig": "Ryoma\n「If that's for following orders, then forget it.\n　I did the only thing there was to do.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Рёма",
+   "text": "「Сунешь меня в очередной тупой план —\n　и я снова пойду один.」",
+   "orig": "Ryoma\n「You put me in the middle of a stupid plan\n　and I'm going solo again.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Кинкейд",
+   "text": "「Он благодарил\n　вовсе не за это.」",
+   "orig": "Kincade\n「That's not what he was\n　thanking you for.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Кинкейд",
+   "text": "「Ты подставил свою жизнь\n　за товарищей. Ровно так же,\n　как сделал бы он сам.」",
+   "orig": "Kincade\n「You put your life on the line for your\n　teammates. Just like\n　he would have himself.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Рёма",
+   "text": "「Я-я вообще не понимаю, о чём ты—」",
+   "orig": "Ryoma\n「I-I don't know what the hell you're—」"
+  },
+  {
+   "i": 86,
+   "speaker": "Кинкейд",
+   "text": "「Сегодня я кое-что\n　о тебе понял.」",
+   "orig": "Kincade\n「I learned something\n　about you today.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Кинкейд",
+   "text": "「Рад, что ты в команде, Рёма.」",
+   "orig": "Kincade\n「Here's to being on the team, Ryoma.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Рёма",
+   "text": "「Н-не говори так, жутко же!」",
+   "orig": "Ryoma\n「Y-you're skeezing me out, man!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Кодай",
+   "text": "「Притворяйся, если хочешь.」",
+   "orig": "Kodai\n「Keep pretending if you want.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тэцуя",
+   "text": "（Сел за то, чего не совершал.\n　Отсюда и его отчуждённость...）",
+   "orig": "Tetsuya\n（Imprisoned for a crime he didn't commit.\n　That would explain his distance...）"
+  },
+  {
+   "i": 91,
+   "speaker": "Кодай",
+   "text": "「На этом с заданием всё.\n　Возвращаемся на «Ямато».」",
+   "orig": "Kodai\n「That about does it for this job.\n　Back to the Yamato.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Рёма",
+   "text": "「Понял, Сусуму.」",
+   "orig": "Ryoma\n「Sure thing, Susumu.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Тэцуя",
+   "text": "（Беспокоиться не о чем.\n　Дай время — и новые товарищи\n　приведут его в порядок...）",
+   "orig": "Tetsuya\n（Nothing to worry about.\n　Give it some time and his new friends will\n　have him all sorted out...）"
+  },
+  {
+   "i": 94,
+   "speaker": "Тэцуя",
+   "text": "（А я сделаю то, что должен...）",
+   "orig": "Tetsuya\n（And I'll do what I have to do...）"
+  },
+  {
+   "i": 95,
+   "speaker": "Кодай",
+   "text": "（Не выходит.\n　Он просто не слушает...）",
+   "orig": "Kodai\n（It's not working.\n　He just won't listen...）"
+  },
+  {
+   "i": 96,
+   "speaker": "Кодай",
+   "text": "（Похоже, придётся держать\n　его на длинном поводке...）",
+   "orig": "Kodai\n（I guess I'm going to have\n　to keep him on a long leash...）"
+  },
+  {
+   "i": 97,
+   "speaker": "Кодай",
+   "text": "（Особенно если он не верит мне\n　настолько, чтоб слушать приказы.）",
+   "orig": "Kodai\n（Especially if he can't trust\n　me enough to follow my orders.）"
+  },
+  {
+   "i": 98,
+   "speaker": "Кодай",
+   "text": "（Их жизни на мне. За мной никто не пойдёт,\n　если я не докажу, что отношусь к этому серьёзно.）",
+   "orig": "Kodai\n（Their lives are in my hands. No one's going to follow\n　me if I can't prove I'm taking this seriously.）"
+  },
+  {
+   "i": 99,
+   "speaker": "Кодай",
+   "text": "（Что ж, командир Окита.\n　Похоже, вы дали мне последний урок перед вылетом.）",
+   "orig": "Kodai\n（Alright, Commander Okita.\n　Guess you had one last lesson before we left home.）"
+  },
+  {
+   "i": 100,
+   "speaker": "Рёма",
+   "text": "（Хаято, Мусаси, старик Саотомэ...\n　Вот что сделала с нами\n　война с инвейдерами...）",
+   "orig": "Ryoma\n（Hayato, Musashi, old man Saotome...\n　Look at what fighting the\n　Invaders did to us...）"
+  },
+  {
+   "i": 101,
+   "speaker": "Рёма",
+   "text": "（Надоело всех терять!\n　Дальше я воюю один!）",
+   "orig": "Ryoma\n（I'm tired of losing everybody!\n　From here on, I fight alone!）"
+  },
+  {
+   "i": 102,
+   "speaker": "Рёма",
+   "text": "（Три года за решёткой\n　размягчили меня сильнее, чем я думал...）",
+   "orig": "Ryoma\n（Three years in the clink\n　must've made me softer than I thought...）"
+  },
+  {
+   "i": 103,
+   "speaker": "Рёма",
+   "text": "（Боишься потерять людей? И что?!\n　Ты всё равно дерёшься!\n　И дерёшься вместе с ними!）",
+   "orig": "Ryoma\n（Scared of losing people? So what?!\n　You fight!\n　And you fight with them!）"
+  },
+  {
+   "i": 104,
+   "speaker": "Тэцуя",
+   "text": "（Что с тобой такое, Рёма?）",
+   "orig": "Tetsuya\n（What's going on with you, Ryoma?）"
+  },
+  {
+   "i": 105,
+   "speaker": "Тэцуя",
+   "text": "（Я...\n　Я никогда не видел его таким...）",
+   "orig": "Tetsuya\n（I...\n　I've never seen him like this before...）"
+  },
+  {
+   "i": 106,
+   "speaker": "Тэцуя",
+   "text": "（Он всерьёз переживал.\n　Таким он и был прежде.）",
+   "orig": "Tetsuya\n（He was seriously worried.\n　It's how he used to be.）"
+  },
+  {
+   "i": 107,
+   "speaker": "Тэцуя",
+   "text": "（Теперь я знаю, что делать!\n　Надо вернуть его в его мир!）",
+   "orig": "Tetsuya\n（I know what I have to do now!\n　I need to get him back to his world!）"
+  },
+  {
+   "i": 108,
+   "speaker": "Кинкейд",
+   "text": "（При захвате базы\n　мы хоть как-то сработались...）",
+   "orig": "Kincade\n（We were able to keep\n　it together when we captured the base...）"
+  },
+  {
+   "i": 109,
+   "speaker": "Кинкейд",
+   "text": "（Но до настоящей команды\n　нам ещё расти и расти...）",
+   "orig": "Kincade\n（But it might take a while\n　until we can actually work as a team...）"
+  },
+  {
+   "i": 110,
+   "speaker": "Кинкейд",
+   "text": "（Похоже, тактический офицер всё-таки сколотил\n　что-то из этого сброда.）",
+   "orig": "Kincade\n（Guess the tactical officer was able to make\n　something out of this ragtag bunch.）"
+  },
+  {
+   "i": 111,
+   "speaker": "Кинкейд",
+   "text": "（У нас получится!\n　Хотите драки? Так получайте!）",
+   "orig": "Kincade\n（We can do this!\n　You want a fight? You've got one!）"
+  },
+  {
+   "i": 112,
+   "speaker": "$n",
+   "text": "「О!」",
+   "orig": "$n\n「Oh!」"
+  }
+ ]
+}
