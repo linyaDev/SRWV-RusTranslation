@@ -7,10 +7,14 @@ ru_strslot.py — перевод строк в контейнерах вида �
     u32 size; char text[size]   (text — UTF-8, \0-терминирован, хвост нулевой)
 и заменяем только их. Всё остальное копируется байт в байт.
 
-Новый размер слота считается по тому же правилу, что и в оригинале:
-    new_size = align4(len(utf8) + 1)
-Записи в файле выровнены по 4 байта (запись может начинаться на 284),
-поэтому дополнительного выравнивания не требуется.
+Новый размер слота отличается от старого на величину, КРАТНУЮ 8:
+    new_size = size + ceil(max(0, need - size) / 8) * 8,  need = align4(len+1)
+Строка короче исходной слот не уменьшает.
+
+Так смещения всего, что идёт дальше по файлу, сохраняют остаток по модулю 8.
+Проверено на игре: с «естественным» new_size = align4(len+1) названия миссий
+в KPACK_P4_LN пропадают, с кратным 8 — показываются. Выравнивание записей
+по 8 где-то учитывается, хотя по смещениям записей этого не видно.
 
 Так устроены таблицы KPACK_P4_LN (названия миссий, описания сценариев,
 названия интермиссий, названия барьеров).
@@ -42,7 +46,9 @@ def find_slots(data):
         if MIN_SIZE <= size <= MAX_SIZE and size % 4 == 0 and pos + 4 + size <= n:
             raw = data[pos + 4:pos + 4 + size]
             z = raw.find(b'\x00')
-            if z > 0 and raw[z:] == b'\x00' * (size - z) and align4(z + 1) == size:
+            # размер слота = align4(len+1) плюс, в некоторых таблицах,
+            # постоянный запас в несколько нулевых байт (в файле 3 — 4 байта)
+            if z > 0 and raw[z:] == b'\x00' * (size - z) and 0 <= size - align4(z + 1) <= 8:
                 try:
                     text = raw[:z].decode('utf-8')
                 except UnicodeDecodeError:
@@ -79,7 +85,8 @@ def rebuild(in_path, json_path, out_path):
         out += data[pos:o]
         text = it.get('ru') or it['en']
         body = text.encode('utf-8') + b'\x00'
-        new_size = align4(len(body))
+        new_size = size if align4(len(body)) <= size \
+            else size + ((align4(len(body)) - size + 7) // 8) * 8
         out += struct.pack('<I', new_size)
         out += body.ljust(new_size, b'\x00')
         if text != it['en']:

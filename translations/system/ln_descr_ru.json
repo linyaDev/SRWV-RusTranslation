@@ -1,0 +1,259 @@
+{
+ "items": [
+  {
+   "en": "Deducts 1,500 damage for any ranged beam attack used against you.\\nActivated when Focus is above 110. Costs 10 EN each time.",
+   "max_bytes": 127,
+   "ru": "-1500 урона от дальних лучевых атак.\\nПри Воле 110+. 10 EN за раз."
+  },
+  {
+   "en": "All attributes with damage below 2,000 are canceled.\\nActivated when Focus is above 130. Costs 10 EN each time.",
+   "max_bytes": 111,
+   "ru": "Отменяет любой урон ниже 2000.\\nПри Воле 130+. 10 EN за раз."
+  },
+  {
+   "en": "All attributes with damage below 2,500 are canceled.\\nCosts 10 EN each time.",
+   "max_bytes": 79,
+   "ru": "Отменяет любой урон ниже 2500.\\n10 EN за раз."
+  },
+  {
+   "en": "Attributes other than beam attribute with damage below 2,000 are canceled.\\nCosts 15 EN each time.",
+   "max_bytes": 99,
+   "ru": "Отменяет урон ниже 2000, кроме лучевого.\\n15 EN за раз."
+  },
+  {
+   "en": "Deducts 1,500 damage for all attributes.\\nActivated when Focus is above 110. Costs 15 EN each time.",
+   "max_bytes": 99,
+   "ru": "-1500 урона от атак любого типа.\\nПри Воле 110+. 15 EN за раз."
+  },
+  {
+   "en": "Deducts 2,000 damage for any ranged beam attack used against you.\\nActivated when Focus is above 100. Costs 5 EN each time.",
+   "max_bytes": 123,
+   "ru": "-2000 урона от дальних лучевых атак.\\nПри Воле 100+. 5 EN за раз."
+  },
+  {
+   "en": "Deducts 500 damage for all attributes. Activated when Focus is above 100.\\nIncreases effect for every 10 Focus raised. Costs 10 EN each time.",
+   "max_bytes": 143,
+   "ru": "-500 урона от любых атак. При Воле 100+.\\nЭффект растёт за каждые 10 Воли. 10 EN за раз."
+  },
+  {
+   "en": "Deducts 2,000 damage for all attributes. Activated when Focus is above 100.\\nIncreases effect for every 10 Focus raised. Costs 10 EN each time.",
+   "max_bytes": 143,
+   "ru": "-2000 урона от любых атак. При Воле 100+.\\nЭффект растёт за каждые 10 Воли. 10 EN за раз."
+  },
+  {
+   "en": "All attributes with damage below 3,000 are canceled. Increases effect as \\nSynchro Rate rises. Activated when Focus is above 100. Costs 20 EN each time.\\nNot effective against Angels' close combat weapons.",
+   "max_bytes": 207,
+   "ru": "Отменяет урон ниже 3000. Эффект растёт с синхрон.\\nПри Воле 100+. 20 EN за раз.\\nНе действует на ближнее оружие Ангелов."
+  },
+  {
+   "en": "All attributes with damage below 3,500 and Barrier Piercing are canceled.\\nActivated when Focus is above 100. Costs 10 EN each time.\\nNot effective against EVA's close combat weapon.",
+   "max_bytes": 183,
+   "ru": "Отменяет урон ниже 3500 и проб. барьера.\\nПри Воле 100+. 10 EN за раз.\\nНе действует на ближнее оружие Евы."
+  },
+  {
+   "en": "Ranged beam attribute and gravity attribute with damage below 3,000 are \\ncanceled. Deduct 1,000 damage for attributes other than those attributes. \\nCosts 10 EN each time.",
+   "max_bytes": 175,
+   "ru": "Отменяет урон ниже 3000 от дальних лучевых\\nи гравитационных атак. От прочих -1000 урона.\\n10 EN за раз."
+  },
+  {
+   "en": "Deducts 1,000 damage for any ranged beam attack used against you.\\nCosts 5 EN each time activated.",
+   "max_bytes": 99,
+   "ru": "-1000 урона от дальних лучевых атак.\\n5 EN за раз."
+  },
+  {
+   "en": "If Defend is chosen against enemy attack, deducts 60% damage.\\nSimilar effect may apply by choosing\\nother options because of the SKL difference.",
+   "max_bytes": 147,
+   "ru": "При защите -60% урона.\\nПохожий эффект бывает и при\\nдругих действиях - из-за SKL."
+  },
+  {
+   "en": "Fully recovers adjacent ally's EN and ammunition by using command Resupply.\\n(Cannot be used after moving.)",
+   "max_bytes": 107,
+   "ru": "Resupply: восст. EN и патронов союзнику рядом.\\n(Не после хода.)"
+  },
+  {
+   "en": "Recovers your and adjacent ally's HP by using command Repair.\\n(Can be used after moving.)",
+   "max_bytes": 91,
+   "ru": "Repair: восст. HP себе и союзнику.\\n(Можно после хода.)"
+  },
+  {
+   "en": "At the start of player phase, recovers 10% of your full HP.",
+   "max_bytes": 59,
+   "ru": "В начале фазы игрока +10% макс. HP."
+  },
+  {
+   "en": "At the start of player phase, recovers 20% of your full HP.",
+   "max_bytes": 59,
+   "ru": "В начале фазы игрока +20% макс. HP."
+  },
+  {
+   "en": "At the start of player phase, recovers 30% of your full HP.",
+   "max_bytes": 59,
+   "ru": "В начале фазы игрока +30% макс. HP."
+  },
+  {
+   "en": "At the start of player phase, recovers 10% of your full EN.",
+   "max_bytes": 59,
+   "ru": "В начале фазы игрока +10% макс. EN."
+  },
+  {
+   "en": "At the start of player phase, recovers 20% of your full EN.",
+   "max_bytes": 59,
+   "ru": "В начале фазы игрока +20% макс. EN."
+  },
+  {
+   "en": "At the start of player phase, recovers 30% of your full EN.",
+   "max_bytes": 59,
+   "ru": "В начале фазы игрока +30% макс. EN."
+  },
+  {
+   "en": "Allows you to change your form by using command Transform.",
+   "max_bytes": 59,
+   "ru": "Смена формы командой Transform."
+  },
+  {
+   "en": "Allows you to change your form by using command Divide.\\nYou cannot transform back to your original form once divided in the same map.",
+   "max_bytes": 135,
+   "ru": "Смена формы командой Divide.\\nВернуть исходную форму на той же карте нельзя."
+  },
+  {
+   "en": "You and your adjacent ally gain 10% Final Accuracy % and Evasion %.",
+   "max_bytes": 67,
+   "ru": "Себе и рядом +10% точности, уклонения."
+  },
+  {
+   "en": "Cancels enemy weapon special effects\\nStatus Drain, Unable to Act, Focus Drain, and SP Drain.",
+   "max_bytes": 95,
+   "ru": "Отменяет снижение статов, потерю хода,\\nВоли и SP."
+  },
+  {
+   "en": "Cancels enemy weapon special effects Status Drain, Unable to Act, Focus Drain,\\nSP Drain, EN Down, Mobility Down, Sight Down, Armor Down, and Erosion.",
+   "max_bytes": 151,
+   "ru": "Отменяет снижение статов, потерю хода, Воли, SP,\\n-EN, -подвижн., -обзор, -броня, эрозию."
+  },
+  {
+   "en": "Activated when Focus is above 130 and New Type level is above 5. Enhances unit.",
+   "max_bytes": 79,
+   "ru": "Воля 130+ и ур. ньютайпа 5+: машина сильнее."
+  },
+  {
+   "en": "Activated when Focus is above 130 and New Type level is above 5.\\nAllows you to transform into Destroy Mode.\\nEffective during 5 turns once transformed.",
+   "max_bytes": 155,
+   "ru": "При Воле 130+ и ур. ньютайпа 5+.\\nПереход в режим «Дестрой».\\nДействует 5 ходов."
+  },
+  {
+   "en": "Activated when Focus is above 130 and New Type level is above 5.\\nAllows you to transform into Destroy Mode.\\nNo turn limit to stay in Destroy Mode.",
+   "max_bytes": 151,
+   "ru": "При Воле 130+ и ур. ньютайпа 5+.\\nПереход в режим «Дестрой».\\nБез ограничения по ходам."
+  },
+  {
+   "en": "Your unit enters TRANS-AM state for 2 turns by using command Activate TRANS-AM.\\nActivate TRANS-AM command can only be used once per map.",
+   "max_bytes": 139,
+   "ru": "Команда Activate TRANS-AM: режим TRANS-AM на 2 хода.\\nОдин раз за карту."
+  },
+  {
+   "en": "Activated when Focus is above 130. As Focus rises, unit's Sight,\\nMobility, Armor, and DMG dealt will increase.",
+   "max_bytes": 111,
+   "ru": "Воля 130+: рост Воли повышает\\nобзор, подвижность, броню, урон."
+  },
+  {
+   "en": "Activated when Focus is above 100. As Focus rises, unit's Sight, Mobility, Armor,\\nand DMG dealt will increase.",
+   "max_bytes": 111,
+   "ru": "Воля 100+: рост Воли повышает\\nобзор, подвижность, броню, урон."
+  },
+  {
+   "en": "Applies spirit commands Analyze and Agitate to all enemies.",
+   "max_bytes": 59,
+   "ru": "Analyze и Agitate на всех врагов."
+  },
+  {
+   "en": "At the beginning of player phase, fully recovers EN for units \\nholding special ability Gravity Wave Antenna.",
+   "max_bytes": 111,
+   "ru": "Фаза игрока: полн. восст. EN машинам\\nсо спос. Gravity Wave Antenna."
+  },
+  {
+   "en": "At the beginning of player phase, fully recovers EN for units \\nholding special ability Gravity Wave Beam.",
+   "max_bytes": 107,
+   "ru": "Фаза игрока: полн. восст. EN машинам\\nсо спос. Gravity Wave Beam."
+  },
+  {
+   "en": "Activated when Focus is above 150. Allows you to transform into Mazinger Zero.",
+   "max_bytes": 79,
+   "ru": "При Воле 150+ переход в «Мазингер Зеро»."
+  },
+  {
+   "en": "When a pilot's Focus is above 170, the Synchro Rate is above 90%, \\npseudo-evolution will be available for Eva Unit-01.",
+   "max_bytes": 119,
+   "ru": "При Воле пилота 170+ и синхрон. 90%+\\nдоступна псевдоэволюция Евы-01."
+  },
+  {
+   "en": "All ally units' Accuracy % gain number of ally units in map/5.\\nIf there are other units with this ability, the effect is stacked.",
+   "max_bytes": 131,
+   "ru": "Точность союзников +(союзники на карте)/5.\\nЭффект суммируется."
+  },
+  {
+   "en": "Fully recovers HP at the start of player phase.",
+   "max_bytes": 47,
+   "ru": "Фаза игрока: восст. 100% HP."
+  },
+  {
+   "en": "Once unit is defeated, the unit cannot be controlled\\nand will attack both enemy and ally.",
+   "max_bytes": 91,
+   "ru": "Сбитая машина неуправляема\\nи бьёт всех подряд."
+  },
+  {
+   "en": "When appearing on map, allows you to gain effects of spirit commands \\nFlicker, Accel, and Charge.",
+   "max_bytes": 99,
+   "ru": "При появлении на карте действуют\\nFlicker, Accel и Charge."
+  },
+  {
+   "en": "Activated when Focus is above 130. 40% chance to evade all enemy attack.",
+   "max_bytes": 75,
+   "ru": "При Воле 130+ шанс 40% уйти от любой атаки."
+  },
+  {
+   "en": "Activated when Focus is above 130. 50% chance to evade all enemy attack.",
+   "max_bytes": 75,
+   "ru": "При Воле 130+ шанс 50% уйти от любой атаки."
+  },
+  {
+   "en": "Activated when Focus is above 130. 30% chance to evade all enemy attack.",
+   "max_bytes": 75,
+   "ru": "При Воле 130+ шанс 30% уйти от любой атаки."
+  },
+  {
+   "en": "Unique defense system against enemy attacks.\\nEffect varies depending on barrier/armor.",
+   "max_bytes": 87,
+   "ru": "Защита от атак.\\nЗависит от барьера/брони."
+  },
+  {
+   "en": "Recovers HP at the start of player phase.\\nRecovery amount varies depending on ability.",
+   "max_bytes": 87,
+   "ru": "Восст. HP в фазу игрока.\\nОбъём зависит от спос."
+  },
+  {
+   "en": "Recovers EN at the start of player phase.\\nRecovery amount varies depending on ability.",
+   "max_bytes": 87,
+   "ru": "Восст. EN в фазу игрока.\\nОбъём зависит от спос."
+  },
+  {
+   "en": "Ability to completely evade enemy attacks.\\nChance of activation varies depending on ability.",
+   "max_bytes": 95,
+   "ru": "Полное уклонение от атак.\\nШанс зависит от спос."
+  },
+  {
+   "en": "Activated when Focus is above 130 and New Type level is above 5.\\nAllows you to transform into Destroy Mode.",
+   "max_bytes": 111,
+   "ru": "При Воле 130+ и ур. ньютайпа 5+\\nпереход в режим «Дестрой»."
+  },
+  {
+   "en": "When Focus is above 130, Barrier Piercing is possible with all weapons,\\nCritical rate increases by 30%, and damage dealt increases by 10%.",
+   "max_bytes": 139,
+   "ru": "При Воле 130+ все оружие с проб. барьера,\\n+30% крита и +10% урона."
+  },
+  {
+   "en": "At the start of player phase, recovers 50 EN.",
+   "max_bytes": 47,
+   "ru": "Фаза игрока: восст. 50 EN."
+  }
+ ]
+}
