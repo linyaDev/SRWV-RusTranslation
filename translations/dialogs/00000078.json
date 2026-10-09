@@ -10,12 +10,24 @@
    "ru": "Шульц уничтожен."
   },
   {
+   "q": "Destoria-class (Jarletora) is defeated.",
+   "ru": "Уничтожен «Дестория» (Джарлетора)."
+  },
+  {
    "q": "Any ally unit is defeated.",
    "ru": "Любой союзный юнит уничтожен."
   },
   {
    "q": "Yamato is defeated.",
    "ru": "«Ямато» уничтожен."
+  },
+  {
+   "q": "Defeat Shultz. Before that, Yamato must battle it at least\\nonce. If Shultz reaches the Pointer, it will retreat.",
+   "ru": "Уничтожить Шульца. До этого «Ямато» должен сразиться\\nс ним хотя бы раз. Дойдя до указанной точки, Шульц отступит."
+  },
+  {
+   "q": "To apply skills such as Support Attack and Support Defense\\neffectively, try to keep your units close to each other.",
+   "ru": "Чтобы атака поддержки и защита поддержки работали,\\nстарайтесь держать юниты рядом друг с другом."
   }
  ]
 }

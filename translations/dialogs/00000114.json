@@ -2,12 +2,24 @@
  "blocks": [],
  "qstrings": [
   {
+   "q": "Defeat all enemies or enemy retreat.\\nTeigel 5656 (Wolfgang) will retreat\\nwhen HP is below 5,500.",
+   "ru": "Уничтожить всех врагов или отход врага.\\n«Тигель 5656» (Вольфганг) отступает,\\nкогда HP ниже 5 500."
+  },
+  {
    "q": "Gaine is defeated.",
    "ru": "Гайн уничтожен."
   },
   {
    "q": "Any ally unit is defeated.",
    "ru": "Уничтожен любой союзный юнит."
+  },
+  {
+   "q": "Defeat Teigel 5656 (Wolfgang).\\nRetreats once its HP falls below 5,500.",
+   "ru": "Уничтожить «Тигель 5656» (Вольфганг).\\nОтступает при HP ниже 5 500."
+  },
+  {
+   "q": "To defeat enemies that retreat after falling below a certain\\namount of HP, right before you reach that point, make sure you use\\nmaximum power to attack and defeat the enemy. Combine Support\\nAttacks and extra actions to deal big damage.",
+   "ru": "Врага, отступающего при падении HP ниже порога, добивайте\\nна подходе к этому порогу — бейте в полную силу.\\nСочетайте атаки поддержки и действия-Экс,\\nчтобы нанести большой урон."
   }
  ]
 }

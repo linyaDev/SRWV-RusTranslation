@@ -2,12 +2,20 @@
  "blocks": [],
  "qstrings": [
   {
+   "q": "Goergametsch retreats or is defeated. Goergametsch will retreat\\nonce HP is below 10,000.",
+   "ru": "Отход или уничтожение «Гёргамеча». «Гёргамеч» отступает\\nпри HP ниже 10 000."
+  },
+  {
    "q": "Ally battleship is defeated.",
    "ru": "Уничтожен союзный линкор."
   },
   {
    "q": "Defeat all other enemies within 5 turns and also defeat Goergametsch.",
    "ru": "За 5 ходов уничтожить всех прочих врагов и «Гёргамеч»."
+  },
+  {
+   "q": "You earn money, EXP, and TacP by defeating enemies. Try to\\ndefeat as many enemies as you can, including enemies that retreat\\nafter falling below a certain HP, using Support Attacks and\\nspirit commands.",
+   "ru": "За уничтожение врагов вы получаете деньги, опыт и ТакО.\\nСтарайтесь сбивать как можно больше врагов, включая тех,\\nчто отступают при падении HP, — через атаки поддержки\\nи умения."
   }
  ]
 }

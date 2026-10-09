@@ -12,6 +12,14 @@
   {
    "q": "Any ally unit is defeated.",
    "ru": "Любой союзный юнит уничтожен."
+  },
+  {
+   "q": "Before a map clear, defeat at least 4 enemy units with one ally\\npilot. You can check your kills in the Tactical Report screen. If\\nenemy killed by a Support Attack, the kill will count towards\\nthe pilot who supported.",
+   "ru": "До прохождения карты уничтожить одним пилотом не менее\\n4 вражеских юнитов. Сбитые видны на экране «Такт. отчёт».\\nЕсли враг сбит атакой поддержки, зачёт идёт\\nпилоту поддержки."
+  },
+  {
+   "q": "In any map, it's game over the moment your battleship is defeated.\\nAlways keep that in mind.",
+   "ru": "На любой карте уничтожение вашего линкора — поражение.\\nПомните об этом всегда."
   }
  ]
 }

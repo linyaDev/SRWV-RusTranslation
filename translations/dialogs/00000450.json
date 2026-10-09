@@ -16,6 +16,10 @@
   {
    "q": "Clear map within 5 turns.",
    "ru": "Пройти карту за 5 ходов."
+  },
+  {
+   "q": "Attack and use spirit commands according to the enemy's stats.\\nFor an enemy with high evasion, use spirit commands that boost\\naccuracy. For an enemy with a Barrier, use extra action Direct\\nAttack or weapons with Barrier Piercing.",
+   "ru": "Выбирайте атаку и умения по характеристикам врага.\\nПротив уклончивого врага берите умения на меткость.\\nПротив барьера — действие-Экс «Прямая атака»\\nили оружие с «Пробоем барьера»."
   }
  ]
 }

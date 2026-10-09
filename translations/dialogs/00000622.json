@@ -10,6 +10,10 @@
    "ru": "Уничтожить Гистерику."
   },
   {
+   "q": "Defeat all Hysterica units. If you leave any Hysterica unit\\nundefeated, all 5 units will recover at the start of ally phase.",
+   "ru": "Уничтожить все юниты «Гистерика». Если хоть один останется,\\nвсе 5 восстановятся в начале фазы союзников."
+  },
+  {
    "q": "Ally battleship is defeated.",
    "ru": "Уничтожен союзный линкор."
   },
@@ -22,8 +26,16 @@
    "ru": "Соскэ уничтожен."
   },
   {
+   "q": "Defeat all enemy units within 4 turns\\nand defeat Desura II after that.\\nWithin those turns, you cannot allow Desura II to use\\nthe map weapon Dessler Cannon.",
+   "ru": "Уничтожить всех врагов за 4 хода,\\nзатем уничтожить «Дэсуру II».\\nЗа это время нельзя дать «Дэсуре II» применить\\nMAP-оружие «Пушка Деслера»."
+  },
+  {
    "q": "None.",
    "ru": "Нет."
+  },
+  {
+   "q": "Once enemies raise enough Focus, they will start using powerful\\nweapons and map weapons. You can check the range for an enemy\\nmap weapon on the weapon ability screen. Be sure to get out of the\\nweapon’s range.",
+   "ru": "Набрав достаточно Воли, враг начнёт применять мощное оружие\\nи MAP-оружие. Радиус вражеского MAP-оружия виден\\nна экране данных оружия. Обязательно выходите\\nиз зоны поражения."
   }
  ]
 }

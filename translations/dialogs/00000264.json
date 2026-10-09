@@ -2,6 +2,10 @@
  "blocks": [],
  "qstrings": [
   {
+   "q": "Defeat Geara Zulu (Angelo).",
+   "ru": "Уничтожить Гира Зулу (Анджело)."
+  },
+  {
    "q": "Defeat Sinanju.",
    "ru": "Уничтожить Синанджу."
   },
@@ -30,8 +34,16 @@
    "ru": "Банагер уничтожен."
   },
   {
+   "q": "Defeat 15 enemy units and then after that, \\ndefeat Geara Zulu (Angelo) within 3 turns.",
+   "ru": "Уничтожить 15 вражеских юнитов, затем\\nза 3 хода уничтожить Гира Зулу (Анджело)."
+  },
+  {
    "q": "None.",
    "ru": "Нет."
+  },
+  {
+   "q": "To defeat a powerful enemy, use spirit commands without\\nhesitation. Spirit points recover by 5 each turn, so if you\\ndon't have enough, saving them up can be a good idea.",
+   "ru": "Против сильного врага не жалейте умений. Очки духа\\nвосстанавливаются на 5 за ход, поэтому при их нехватке\\nимеет смысл копить их заранее."
   }
  ]
 }

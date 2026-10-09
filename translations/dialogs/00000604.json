@@ -6,6 +6,10 @@
    "ru": "Уничтожить всех врагов."
   },
   {
+   "q": "Defeat all enemies other than Cowen & Stinger within 4 turns\\nafter they appear. After that, defeat Cowen & Stinger.",
+   "ru": "За 4 хода после появления Коуэна и Стингера уничтожить\\nвсех прочих врагов. Затем уничтожить Коуэна и Стингера."
+  },
+  {
    "q": "Ally battleship is defeated.",
    "ru": "Уничтожен союзный линкор."
   },
@@ -24,6 +28,10 @@
   {
    "q": "None.",
    "ru": "Нет."
+  },
+  {
+   "q": "When there are many enemies, start by defeating the weaker ones\\nto reduce their numbers. Your usage of map weapons in such\\nsituations is the key.",
+   "ru": "Когда врагов много, начинайте со слабых, чтобы сократить\\nих число. Ключ к успеху в таких случаях —\\nумелое применение MAP-оружия."
   }
  ]
 }

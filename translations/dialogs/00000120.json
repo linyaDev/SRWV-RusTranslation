@@ -20,6 +20,10 @@
   {
    "q": "Clear map within 5 turns.",
    "ru": "Пройти карту за 5 ходов."
+  },
+  {
+   "q": "Barriers reduce or ignore damage but use EN. Relying too much on\\nBarriers might lead to running out of EN. Keep track of how much\\nEN you have left since you might not have enough to be able to\\nuse your weapon.",
+   "ru": "Барьеры снижают или отменяют урон, но тратят EN.\\nПолагаясь только на барьеры, можно остаться без EN.\\nСледите за остатком EN: его может не хватить\\nна применение оружия."
   }
  ]
 }

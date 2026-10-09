@@ -6,6 +6,10 @@
    "ru": "Уничтожить всех врагов."
   },
   {
+   "q": "Defeat all enemies or enemy retreat.\\nTeigel 5656 (Wolfgang) will retreat\\nwhen HP is below 6,000.",
+   "ru": "Уничтожить всех врагов или отход врага.\\n«Тигель 5656» (Вольфганг) отступает,\\nкогда HP ниже 6 000."
+  },
+  {
    "q": "Any ally unit is defeated.",
    "ru": "Уничтожен любой союзный юнит."
   },
@@ -20,6 +24,14 @@
   {
    "q": "Maito is defeated.",
    "ru": "Майто уничтожен."
+  },
+  {
+   "q": "Defeat Teigel 5656 (Wolfgang).\\nRetreats once its HP falls below 6,000.",
+   "ru": "Уничтожить «Тигель 5656» (Вольфганг).\\nОтступает при HP ниже 6 000."
+  },
+  {
+   "q": "To defeat enemies that retreat after falling below a certain\\namount of HP, right before you reach that point, make sure you use\\nmaximum power to attack and defeat the enemy. Combine Support\\nAttacks and extra actions to deal big damage.",
+   "ru": "Врага, отступающего при падении HP ниже порога, добивайте\\nна подходе к этому порогу — бейте в полную силу.\\nСочетайте атаки поддержки и действия-Экс,\\nчтобы нанести большой урон."
   }
  ]
 }

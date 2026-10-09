@@ -1,0 +1,500 @@
+{
+ "items": [
+  {
+   "en": "Defeat all enemies.\\nMap cleared once you meet the victory conditions displayed\\nin blue.",
+   "ru": "Уничтожить всех врагов.\\nКарта пройдена при выполнении условий победы,\\nвыделенных синим."
+  },
+  {
+   "en": "When an enemy deals big damage or your attacks don't hit enemies,\\ntry using spirit commands. Spirit points (SP) used for spirit commands\\nare recovered by 5 at the start of each turn.",
+   "ru": "Если враг наносит большой урон или атаки не достигают цели,\\nпопробуйте умения. Очки духа (SP), которые тратятся\\nна умения, восстанавливаются на 5 в начале каждого хода."
+  },
+  {
+   "en": "Before a map clear, defeat at least 4 enemy units with one ally\\npilot. You can check your kills in the Tactical Report screen. If\\nenemy killed by a Support Attack, the kill will count towards\\nthe pilot who supported.",
+   "ru": "До прохождения карты уничтожить одним пилотом не менее\\n4 вражеских юнитов. Сбитые видны на экране «Такт. отчёт».\\nЕсли враг сбит атакой поддержки, зачёт идёт\\nпилоту поддержки."
+  },
+  {
+   "en": "In any map, it's game over the moment your battleship is defeated.\\nAlways keep that in mind.",
+   "ru": "На любой карте уничтожение вашего линкора — поражение.\\nПомните об этом всегда."
+  },
+  {
+   "en": "If you plan on winning a battle faster, try using Return Attack.\\nTo efficiently use this, make sure enemies are within your weapon\\nattack range after you take action.",
+   "ru": "Чтобы побеждать быстрее, используйте ответную атаку.\\nДля этого следите, чтобы после хода враги оставались\\nв зоне поражения вашего оружия."
+  },
+  {
+   "en": "Map cleared once you meet the victory conditions displayed in blue.\\nIf not displayed in blue, more enemies may appear later,\\nso don't let them catch you off guard.",
+   "ru": "Карта пройдена при выполнении условий победы, выделенных синим.\\nЕсли они не выделены синим, позже могут появиться новые враги —\\nне теряйте бдительности."
+  },
+  {
+   "en": "Defeat Metal Beast with one hit attack (or Return Attack).\\nNot counted when combined with Support Attack.",
+   "ru": "Уничтожить Металлического зверя одной атакой (или ответной).\\nСовместно с атакой поддержки не засчитывается."
+  },
+  {
+   "en": "Extra action Smash Hit causes 100% critical hit and increases\\ndamage dealt by 25%. Learn more about extra actions in Combat\\nRecords under Lecture Plate.",
+   "ru": "Действие-Экс «Крит. удар» даёт 100% критический урон и +25%\\nк наносимому урону. Подробнее о действиях-Экс —\\nв боевом журнале."
+  },
+  {
+   "en": "Destoria-class (Jarletora) is defeated.",
+   "ru": "Уничтожен «Дестория» (Джарлетора)."
+  },
+  {
+   "en": "Defeat Shultz. Before that, Yamato must battle it at least\\nonce. If Shultz reaches the Pointer, it will retreat.",
+   "ru": "Уничтожить Шульца. До этого «Ямато» должен сразиться\\nс ним хотя бы раз. Дойдя до указанной точки, Шульц отступит."
+  },
+  {
+   "en": "To apply skills such as Support Attack and Support Defense\\neffectively, try to keep your units close to each other.",
+   "ru": "Чтобы атака поддержки и защита поддержки работали,\\nстарайтесь держать юниты рядом друг с другом."
+  },
+  {
+   "en": "Defeat all other enemies within 5 turns and also defeat\\nShultz.",
+   "ru": "За 5 ходов уничтожить всех прочих врагов\\nи Шульца."
+  },
+  {
+   "en": "If you want to increase Movement, use spirit command Accel or\\nextra action Boost Dash.",
+   "ru": "Чтобы повысить движение, примените умение Accel\\nили действие-Экс «Форсаж»."
+  },
+  {
+   "en": "Block enemy's path to help out an ally unit that isn't able to move.\\nWatch out for enemy weapons that can be used after they move.",
+   "ru": "Перекройте врагу путь, чтобы выручить обездвиженный юнит.\\nУчтите: часть оружия враг применяет после движения."
+  },
+  {
+   "en": "Defeat all enemies within 4 turns.\\nWithin those turns, defeat\\n4 enemy units with one ally pilot.",
+   "ru": "Уничтожить всех врагов за 4 хода.\\nЗа это время одним пилотом\\nуничтожить 4 вражеских юнита."
+  },
+  {
+   "en": "When battling with one unit, be careful not to be attacked by many\\nenemy units during enemy phase.",
+   "ru": "Сражаясь одним юнитом, не подставляйтесь под удары многих\\nврагов в фазу противника."
+  },
+  {
+   "en": "Defeat all enemies or enemy retreat.\\nTeigel 5656 (Wolfgang) will retreat\\nwhen HP is below 5,500.",
+   "ru": "Уничтожить всех врагов или отход врага.\\n«Тигель 5656» (Вольфганг) отступает,\\nкогда HP ниже 5 500."
+  },
+  {
+   "en": "Defeat Teigel 5656 (Wolfgang).\\nRetreats once its HP falls below 5,500.",
+   "ru": "Уничтожить «Тигель 5656» (Вольфганг).\\nОтступает при HP ниже 5 500."
+  },
+  {
+   "en": "To defeat enemies that retreat after falling below a certain\\namount of HP, right before you reach that point, make sure you use\\nmaximum power to attack and defeat the enemy. Combine Support\\nAttacks and extra actions to deal big damage.",
+   "ru": "Врага, отступающего при падении HP ниже порога, добивайте\\nна подходе к этому порогу — бейте в полную силу.\\nСочетайте атаки поддержки и действия-Экс,\\nчтобы нанести большой урон."
+  },
+  {
+   "en": "Barriers reduce or ignore damage but use EN. Relying too much on\\nBarriers might lead to running out of EN. Keep track of how much\\nEN you have left since you might not have enough to be able to\\nuse your weapon.",
+   "ru": "Барьеры снижают или отменяют урон, но тратят EN.\\nПолагаясь только на барьеры, можно остаться без EN.\\nСледите за остатком EN: его может не хватить\\nна применение оружия."
+  },
+  {
+   "en": "Defeat all enemies within 5 turns. Within those turns, defeat\\n4 enemy units with one ally pilot.",
+   "ru": "Уничтожить всех врагов за 5 ходов. За это время одним\\nпилотом уничтожить 4 вражеских юнита."
+  },
+  {
+   "en": "Defeat all enemies or enemy retreat.\\nTeigel 5656 (Wolfgang) will retreat\\nwhen HP is below 6,000.",
+   "ru": "Уничтожить всех врагов или отход врага.\\n«Тигель 5656» (Вольфганг) отступает,\\nкогда HP ниже 6 000."
+  },
+  {
+   "en": "Defeat Teigel 5656 (Wolfgang).\\nRetreats once its HP falls below 6,000.",
+   "ru": "Уничтожить «Тигель 5656» (Вольфганг).\\nОтступает при HP ниже 6 000."
+  },
+  {
+   "en": "When two enemies appear at two separate locations, pay close\\nattention to how you move your forces. By separating your forces\\nto head toward both enemies, you may suffer unexpected damage.",
+   "ru": "Когда враги появляются в двух разных местах, тщательно\\nпродумайте переброску сил. Разделив отряд на два\\nнаправления, можно получить неожиданный урон."
+  },
+  {
+   "en": "Defeat Galleon-class and Schooner-class Dragons within 3 turns after\\nthey appear (or, in other words, within a total of 5 turns.)",
+   "ru": "За 3 хода после появления уничтожить «Драконов» классов\\n«Галеон» и «Шхуна» (то есть в сумме за 5 ходов)."
+  },
+  {
+   "en": "If weapons aren't suitable for certain terrain handlings, you can't\\ndeal much damage. Most beam weapons aren't suitable for terrain\\nhandling Wtr, for example. Use this in your favor by going under water\\nto avoid most of the damage dealt by beam weapons.",
+   "ru": "При плохой адаптации оружия к местности урон будет мал.\\nНапример, лучевое оружие плохо работает в «Вод».\\nИспользуйте это: уйдя под воду, вы избежите\\nбольшей части урона от лучевого оружия."
+  },
+  {
+   "en": "When there are too many enemies, your top priority is to defeat\\nas many enemies as possible. During ally phase, instead of dealing\\ndamage to multiple enemies, concentrate on a single unit at a time.",
+   "ru": "Когда врагов слишком много, главная задача — уничтожить\\nкак можно больше. В фазу союзников не распыляйте урон\\nпо многим врагам, а добивайте их по одному."
+  },
+  {
+   "en": "Clear map within 4 turns.\\nAlso Ruri, Sumeragi, and Tessa each\\ndefeat at least 2 enemy units.",
+   "ru": "Пройти карту за 4 хода.\\nРури, Сумераги и Тесса должны уничтожить\\nне менее 2 вражеских юнитов каждая."
+  },
+  {
+   "en": "Some enemies carry map weapons. When fighting against\\nenemies for the first time, make sure you check\\ntheir parameters and what kind of weapons they carry.",
+   "ru": "У части врагов есть MAP-оружие. Встречая противника\\nвпервые, обязательно проверяйте его характеристики\\nи набор вооружения."
+  },
+  {
+   "en": "Before map clear, defeat at least 3 enemy units with one ally pilot\\nin a single turn.",
+   "ru": "До прохождения карты одним пилотом уничтожить не менее\\n3 вражеских юнитов за один ход."
+  },
+  {
+   "en": "To master how to use extra actions, think about which unit is going\\nto defeat which enemy.",
+   "ru": "Чтобы освоить действия-Экс, заранее решайте, какой юнит\\nкакого врага будет уничтожать."
+  },
+  {
+   "en": "Defeat 12 enemies in 1 turn\\nafter defeating all the Dragons.",
+   "ru": "Уничтожив всех «Драконов»,\\nуничтожить 12 врагов за один ход."
+  },
+  {
+   "en": "When you don't have many ally units, losing even one unit\\nwill largely affect your forces. Try using Support Defense and\\nspirit commands to avoid losing ally units.",
+   "ru": "Когда союзных юнитов мало, потеря даже одного сильно\\nослабит отряд. Применяйте защиту поддержки и умения,\\nчтобы не терять союзников."
+  },
+  {
+   "en": "Defeat Bighorn-class Dragon with one hit attack or Return Attack.\\nYou can combine Support Attack.",
+   "ru": "Уничтожить «Дракон» класса «Бигхорн» одной атакой\\nили ответной. Атака поддержки допускается."
+  },
+  {
+   "en": "Use extra actions to bring the battle to your advantage.\\nLearn more about extra actions in Combat Records under Lecture Plate.",
+   "ru": "Применяйте действия-Экс, чтобы склонить бой в свою пользу.\\nПодробнее о действиях-Экс — в боевом журнале."
+  },
+  {
+   "en": "Defeat Fromage (Vuitton) with one hit attack or Return Attack.\\nYou can combine Support Attack.",
+   "ru": "Уничтожить Фромаж (Виттон) одной атакой или ответной.\\nАтака поддержки допускается."
+  },
+  {
+   "en": "If you want to deal more damage, use extra actions. Learn more about\\nextra actions in Combat Records under Lecture Plate.",
+   "ru": "Чтобы наносить больше урона, применяйте действия-Экс.\\nПодробнее о них — в боевом журнале."
+  },
+  {
+   "en": "You're at a disadvantage when battling against a strong\\nenemy when you don't have many forces. It's a good idea\\nto start by collecting Focus by fighting the enemies around it.",
+   "ru": "Бой с сильным врагом при малых силах невыгоден.\\nРазумно начать с окружающих его противников\\nи набрать на них Волю."
+  },
+  {
+   "en": "If you're facing challenging enemies, you can stay away from them\\nto buy some time. When you face enemies you think you cannot beat,\\ntry using different strategies.",
+   "ru": "От слишком сильных врагов можно держаться подальше,\\nвыигрывая время. Если врага не одолеть прямым боем,\\nищите другие тактики."
+  },
+  {
+   "en": "Map cleared once you meet the victory conditions, but try to\\ndefeat as many enemies as possible to gain money and TacP.",
+   "ru": "Карта проходится при выполнении условий победы, но старайтесь\\nуничтожить больше врагов — ради денег и ТакО."
+  },
+  {
+   "en": "When there are too many enemies, your top priority is to defeat\\nas many enemies as possible. ",
+   "ru": "Когда врагов слишком много, главная задача — уничтожить\\nкак можно больше. "
+  },
+  {
+   "en": "Battleships aren't able to evade attacks most of the time. Watch\\nout for enemies attacking your battleships since it’s game over\\nonce defeated.",
+   "ru": "Линкоры в большинстве случаев не уклоняются от атак.\\nБерегите их от врагов: уничтожение линкора —\\nпоражение."
+  },
+  {
+   "en": "Enemies will target units that are mentioned in defeat conditions.\\nWhen you use those units, be sure to protect them with spirit\\ncommands and Support Defense.",
+   "ru": "Враги целятся в юниты, указанные в условиях поражения.\\nИспользуя такие юниты, прикрывайте их умениями\\nи защитой поддержки."
+  },
+  {
+   "en": "To lessen the amount of enemies, use Support Attacks and try to\\nincrease damage for each attack.",
+   "ru": "Чтобы быстрее сокращать число врагов, применяйте атаки\\nподдержки и повышайте урон каждой атаки."
+  },
+  {
+   "en": "Goergametsch retreats or is defeated. Goergametsch will retreat\\nonce HP is below 10,000.",
+   "ru": "Отход или уничтожение «Гёргамеча». «Гёргамеч» отступает\\nпри HP ниже 10 000."
+  },
+  {
+   "en": "You earn money, EXP, and TacP by defeating enemies. Try to\\ndefeat as many enemies as you can, including enemies that retreat\\nafter falling below a certain HP, using Support Attacks and\\nspirit commands.",
+   "ru": "За уничтожение врагов вы получаете деньги, опыт и ТакО.\\nСтарайтесь сбивать как можно больше врагов, включая тех,\\nчто отступают при падении HP, — через атаки поддержки\\nи умения."
+  },
+  {
+   "en": "When there are many enemies, try to prevent them from ganging\\nup on a single ally unit. Check statuses and make sure you know\\nenemies' movement distances, weapon ranges, and weapon\\nranges after they move.",
+   "ru": "Когда врагов много, не давайте им окружить один ваш юнит.\\nСмотрите характеристики и знайте дальность движения\\nпротивника, радиус его оружия и радиус атаки\\nпосле движения."
+  },
+  {
+   "en": "Defeat Geara Zulu (Angelo).",
+   "ru": "Уничтожить Гира Зулу (Анджело)."
+  },
+  {
+   "en": "Defeat 15 enemy units and then after that, \\ndefeat Geara Zulu (Angelo) within 3 turns.",
+   "ru": "Уничтожить 15 вражеских юнитов, затем\\nза 3 хода уничтожить Гира Зулу (Анджело)."
+  },
+  {
+   "en": "To defeat a powerful enemy, use spirit commands without\\nhesitation. Spirit points recover by 5 each turn, so if you\\ndon't have enough, saving them up can be a good idea.",
+   "ru": "Против сильного врага не жалейте умений. Очки духа\\nвосстанавливаются на 5 за ход, поэтому при их нехватке\\nимеет смысл копить их заранее."
+  },
+  {
+   "en": "Defeat Jerid, Yazan, Buran, Marida, and Gauron within 5 turns\\nin a single turn.",
+   "ru": "За 5 ходов уничтожить Джерида, Язана, Бурана, Мариду\\nи Гаурона в один ход."
+  },
+  {
+   "en": "When you face a battle between 3 different parties, making\\nthe other 2 parties fight each other will prevent damage to\\nyourself. Keep in mind that you won't be able to earn certain\\nrewards when enemies defeat other enemies.",
+   "ru": "В бою трёх сторон выгодно столкнуть две другие стороны\\nмежду собой — так вы избежите урона. Учтите: когда враги\\nуничтожают врагов, часть награды\\nвам не достаётся."
+  },
+  {
+   "en": "Defeat Xia Yu Fan and Xia Yu Lan\\nthen defeat Gauron or Gates within 3 turns.",
+   "ru": "Уничтожить Ся Юй Фань и Ся Юй Лань,\\nзатем за 3 хода — Гаурона или Гейтса."
+  },
+  {
+   "en": "When facing a unit with a powerful Barrier, use a weapon with\\nspecial effect Barrier Piercing or extra action Direct Attack.",
+   "ru": "Против юнита с мощным барьером берите оружие с эффектом\\n«Пробой барьера» или действие-Экс «Прямая атака»."
+  },
+  {
+   "en": "Some enemies have powerful special skills or special abilities.\\nCheck your enemies' abilities before you battle them, especially\\nenemies you face for the first time.",
+   "ru": "У части врагов есть мощные особые навыки и способности.\\nПроверяйте способности противника до боя, особенно\\nесли встречаете его впервые."
+  },
+  {
+   "en": "Defeat Ghostfire V9 and Belgas V5\\nin the same turn and within 4 turns.\\nAlso defeat Baron Ashura Mechanical Beast.",
+   "ru": "За 4 хода уничтожить Гостфайер V9 и Белгас V5\\nв один ход.\\nТакже уничтожить механозверя барона Асуры."
+  },
+  {
+   "en": "To defeat powerful enemies, increase your Focus and Extra Count.\\nIf you want to increase Focus and Extra Count for a certain unit,\\nuse that unit to defeat weak enemies surrounding the powerful one.",
+   "ru": "Против сильных врагов поднимайте Волю и ExC. Чтобы поднять\\nих конкретному юниту, уничтожайте этим юнитом слабых\\nврагов вокруг сильного."
+  },
+  {
+   "en": "Defeat PLAN-1055 Belial\\nafter defeating all other enemies.",
+   "ru": "Уничтожив всех прочих врагов,\\nуничтожить PLAN-1055 Белиала."
+  },
+  {
+   "en": "Watch out for special ability Lambda Driver. Try using weapons\\nwith Barrier Piercing or extra action Direct Attack.",
+   "ru": "Берегитесь способности «Лямбда-драйвер». Берите оружие\\nс «Пробоем барьера» или действие-Экс «Прямая атака»."
+  },
+  {
+   "en": "Before map clear, defeat at least 3 enemy units at the same time\\nwith one ally pilot using map weapon.",
+   "ru": "До прохождения карты одним пилотом уничтожить разом\\nне менее 3 вражеских юнитов MAP-оружием."
+  },
+  {
+   "en": "Before map clear, defeat at least 3 enemy units (including Dragons)\\nat the same time with one ally pilot using map weapon.",
+   "ru": "До прохождения карты одним пилотом уничтожить разом не менее\\n3 вражеских юнитов (включая «Драконов») MAP-оружием."
+  },
+  {
+   "en": "Before map clear, defeat at least 3 enemy units (including Dragons)\\nat the same time with one ally pilot using a map weapon.",
+   "ru": "До прохождения карты одним пилотом уничтожить разом не менее\\n3 вражеских юнитов (включая «Драконов») MAP-оружием."
+  },
+  {
+   "en": "Attacking using weak weapons against an enemy equipped with heavy\\narmor will not do much damage. Raise Focus to be able to use\\npowerful weapons.",
+   "ru": "Слабым оружием по врагу с тяжёлой бронёй большого урона\\nне нанести. Поднимайте Волю, чтобы получить доступ\\nк мощному оружию."
+  },
+  {
+   "en": "Defeat Anksha (Buran Blutarch) within 3 turns.",
+   "ru": "За 3 хода уничтожить Анкшу (Буран Блутарх)."
+  },
+  {
+   "en": "Enemies currently on the map aren't all the enemies.\\nMap is cleared by meeting the final victory condition\\n(displayed in blue). Until the final victory condition\\nis displayed, keep your guard up.",
+   "ru": "Враги на карте — это ещё не все враги.\\nКарта проходится при выполнении итогового условия\\nпобеды (выделено синим). Пока оно не показано,\\nне теряйте бдительности."
+  },
+  {
+   "en": "Within 5 turns, use extra action Smash Hit\\nto defeat Shamblo while\\nits HP is 10,001 or higher. You may combine Support Attack.",
+   "ru": "За 5 ходов уничтожить Шамбло действием-Экс\\n«Крит. удар», пока его HP\\nне ниже 10 001. Атака поддержки допускается."
+  },
+  {
+   "en": "Various events occur before clearing a map. Consider maintaining\\nbattle speed and distribution of spirit points, weapons, and EN.",
+   "ru": "До прохождения карты случаются разные события. Держите темп\\nбоя и распределяйте очки духа, боеприпасы и EN."
+  },
+  {
+   "en": "Clear map within 6 turns,\\nand within those turns, one ally pilot\\nuses extra action Multi Action.",
+   "ru": "Пройти карту за 6 ходов.\\nЗа это время один союзный пилот\\nдолжен применить «Мультиход»."
+  },
+  {
+   "en": "If many units that are forced to sortie are defeated, it’s game over.\\nThey tend to be easily targeted by enemies, so watch out.",
+   "ru": "Потеря многих юнитов обязательного вылета ведёт к поражению.\\nВраги охотно целятся в них — будьте внимательны."
+  },
+  {
+   "en": "Before map clear, defeat at least 3 enemy units in a single turn\\nwith a single ally pilot.",
+   "ru": "До прохождения карты одним пилотом за один ход уничтожить\\nне менее 3 вражеских юнитов."
+  },
+  {
+   "en": "Your usage of spirit commands is crucial when facing a powerful\\nenemy. However, if being defeated will result in a game over,\\nuse spirit points towards defense or healing rather than attacks.",
+   "ru": "Против сильного врага всё решает применение умений. Но если\\nваша гибель означает поражение, тратьте очки духа\\nне на атаку, а на защиту и лечение."
+  },
+  {
+   "en": "Within 5 turns, Nadesico C reaches the line\\nafter defeating all Dragons.",
+   "ru": "Уничтожив всех «Драконов»,\\n«Надэсико-C» достигает рубежа за 5 ходов."
+  },
+  {
+   "en": "Keep in mind that defeating all enemies is not the victory\\ncondition. Think more about meeting the victory conditions rather\\nthan about defeating enemies.",
+   "ru": "Помните: условие победы — не уничтожение всех врагов.\\nДумайте в первую очередь о выполнении условий победы,\\nа не о зачистке карты."
+  },
+  {
+   "en": "Defeat all enemies within 4 turns\\nand defeat Enryugo after that.",
+   "ru": "Уничтожить всех врагов за 4 хода,\\nзатем уничтожить Энрюго."
+  },
+  {
+   "en": "Using low-damage weapons to attack an enemy with a large\\namount of HP only increases the enemy's Focus. It's always better\\nto use stronger weapons, but to use them you need enough Focus.",
+   "ru": "Слабое оружие против врага с большим запасом HP лишь\\nподнимает его Волю. Лучше бить сильным оружием, но для\\nнего нужен достаточный запас Воли."
+  },
+  {
+   "en": "When there are many enemies, it is easy to be ganged up on,\\nso it's important to reduce the amount of enemies. To do so, find\\nout which enemies are easier to defeat and start by defeating\\nthem first.",
+   "ru": "Когда врагов много, вас легко окружить, поэтому важно\\nсокращать их число. Для этого выясните, кого проще\\nуничтожить, и начинайте\\nименно с них."
+  },
+  {
+   "en": "When there are many enemies, use Support Attack and extra actions\\nto gain more ways to attack.",
+   "ru": "Когда врагов много, применяйте атаку поддержки\\nи действия-Экс — это расширяет набор атак."
+  },
+  {
+   "en": "Within 4 turns, defeat Blarmag (Ghuli) without Yamato taking\\nany attacks.",
+   "ru": "За 4 хода уничтожить Блармаг (Гули), не допустив\\nатак по «Ямато»."
+  },
+  {
+   "en": "Pay close attention to scenarios as they sometimes\\npredict enemy reinforcements.",
+   "ru": "Внимательно следите за сюжетом: он нередко\\nпредупреждает о подкреплениях врага."
+  },
+  {
+   "en": "When there are many different enemies, it's important\\nto consider which ones to defeat first. Start by defeating\\nweaker enemies to reduce their numbers and raise ally units'\\nFocus at the same time.",
+   "ru": "Когда врагов много и они разные, важно решить,\\nкого уничтожать первым. Начните со слабых:\\nи число врагов сократится, и союзные юниты\\nнаберут Волю."
+  },
+  {
+   "en": "When facing pilots with names, use spirit commands.\\nDon't use them all at once, however, since the enemy may have\\nreinforcements later on.",
+   "ru": "Против именных пилотов применяйте умения.\\nНо не тратьте всё сразу: позже у врага\\nмогут подойти подкрепления."
+  },
+  {
+   "en": "Defeat all enemy units within 4 turns and also defeat Baron Ashura\\nMechanical Beast.",
+   "ru": "За 4 хода уничтожить всех врагов и механозверя\\nбарона Асуры."
+  },
+  {
+   "en": "When there are many enemies with large amounts of HP, it’s important\\nto have various attack options. Defeat enemies effectively by using\\nmap weapons, Support Attack, and extra actions.",
+   "ru": "Когда врагов много и у них большой запас HP, важно иметь\\nразные варианты атаки. Действуйте эффективно: MAP-оружие,\\nатака поддержки и действия-Экс."
+  },
+  {
+   "en": "Enemies you face for the first time may have abilities you wouldn't\\nexpect. Make sure you check the ability screen before battle.",
+   "ru": "У врага, встреченного впервые, могут быть неожидаемые\\nспособности. Проверяйте экран способностей до боя."
+  },
+  {
+   "en": "In a single turn, defeat at least 2 out of Jerid, Yazan, or Lane\\nwith a single ally pilot.",
+   "ru": "За один ход одним пилотом уничтожить не менее 2 из трёх:\\nДжерид, Язан, Лейн."
+  },
+  {
+   "en": "In most cases, if you meet the victory condition, you'll proceed\\nto the next event. If you want to clear a map quickly, concentrate only\\non meeting the victory condition.",
+   "ru": "Обычно при выполнении условия победы вы переходите\\nк следующему событию. Хотите пройти карту быстро —\\nработайте только на условие победы."
+  },
+  {
+   "en": "Defeat Dooben Wolf (Rakan), Rozen Zulu, and Crossbone Gundam X-2 Kai\\nwithin 4 turns in a single turn.",
+   "ru": "За 4 хода в один ход уничтожить Дубен Вольф (Ракан),\\nРозен Зулу и Кроссбоун Гандам X-2 Кай."
+  },
+  {
+   "en": "In a map containing many powerful enemies, you don't always have to defeat\\nthem all. Try defeating enemies only relating to the victory conditions\\nunless you'd like to collect extra EXP, TacP, and\\nmoney.",
+   "ru": "Если на карте много сильных врагов, уничтожать всех\\nне обязательно. Бейте только тех, кто связан с условиями\\nпобеды, — если не хотите добрать опыт, ТакО\\nи деньги."
+  },
+  {
+   "en": "Attack and use spirit commands according to the enemy's stats.\\nFor an enemy with high evasion, use spirit commands that boost\\naccuracy. For an enemy with a Barrier, use extra action Direct\\nAttack or weapons with Barrier Piercing.",
+   "ru": "Выбирайте атаку и умения по характеристикам врага.\\nПротив уклончивого врага берите умения на меткость.\\nПротив барьера — действие-Экс «Прямая атака»\\nили оружие с «Пробоем барьера»."
+  },
+  {
+   "en": "If there are a lot of enemies, use Ruri's\\nSystem Seizure. Think about when to use it and perform as\\nmany attacks as possible on the turn used.",
+   "ru": "Когда врагов много, применяйте «Захват системы»\\nРури. Выберите момент и в этот же ход\\nпроведите как можно больше атак."
+  },
+  {
+   "en": "When battling against a powerful enemy, ally units may be defeated.\\nKeep in mind, however, that there’s no need to worry about such\\nsetbacks if they aren’t related to the defeat condition.",
+   "ru": "В бою с сильным врагом союзные юниты могут погибнуть.\\nНо если их потеря не связана с условием поражения,\\nбеспокоиться не о чем."
+  },
+  {
+   "en": "Spreading ally units to handle enemies that are spread out\\ncan be risky. Keep ally units close to one another to be safe.",
+   "ru": "Растягивать свои силы вслед за рассеянным противником\\nрискованно. Надёжнее держать юниты рядом друг с другом."
+  },
+  {
+   "en": "Adjacent units at the same height (such as both on the ground \\nor in the air) can receive effects such as Support Attack and\\nSupport Defense to help each other out. Use Support Attack when\\nit's ally phase and Support Defense when it's enemy phase.",
+   "ru": "Смежные юниты на одной высоте (оба на земле\\nили оба в воздухе) могут помогать друг другу атакой\\nподдержки и защитой поддержки. В фазу союзников —\\nатака поддержки, в фазу противника — защита поддержки."
+  },
+  {
+   "en": "Defeat Shin Getter Dragon within 3 turns.\\nDuring those turns, defeat no more than 10 enemy units. If the 10th unit you\\ndefeat is Shin Getter Dragon, it's considered meeting the condition.",
+   "ru": "За 3 хода уничтожить Син-Геттер-Драгона.\\nЗа это время уничтожить не более 10 вражеских юнитов. Если 10-м\\nсбитым окажется Син-Геттер-Драгон, условие считается выполненным."
+  },
+  {
+   "en": "It can be disastrous if you don’t do anything about the powerful\\nMycenae God with special skill Double Action. Try to defeat it first.",
+   "ru": "Мощный Микенский бог с навыком «Два действия» способен\\nразрушить все планы. Уничтожайте его первым."
+  },
+  {
+   "en": "Within 4 turns, defeat all other enemies and HP for Domelaze III\\nfalls below 15,000. Once its HP falls below 15,000,\\nit will retreat.",
+   "ru": "За 4 хода уничтожить всех прочих врагов и снизить HP\\n«Домелазе III» ниже 15 000. При HP ниже 15 000\\nон отступает."
+  },
+  {
+   "en": "When using a small unit to attack a larger unit, use weapons\\nthat have the special effect Ignore Size.",
+   "ru": "Атакуя малым юнитом более крупного, берите оружие\\nс эффектом «Игнор размера»."
+  },
+  {
+   "en": "Defeat all other enemies within 5 turns.\\nAfter that, defeat Zoelguut II.",
+   "ru": "За 5 ходов уничтожить всех прочих врагов.\\nЗатем уничтожить «Зельгут II»."
+  },
+  {
+   "en": "In most cases, you earn more money by defeating a battleship\\nthan an average unit. When defeating a battleship, use spirit\\ncommand Fortune.",
+   "ru": "За линкор обычно дают больше денег, чем за обычный юнит.\\nПри уничтожении линкора применяйте\\nумение Fortune."
+  },
+  {
+   "en": "Within 5 turns, defeat at least 4 enemy units at the same time\\nwith a map weapon.",
+   "ru": "За 5 ходов уничтожить разом не менее 4 вражеских юнитов\\nMAP-оружием."
+  },
+  {
+   "en": "When there are many enemies, a good strategy is to use map weapons.\\nPredict enemies’ movements and place weapons so that more enemies\\nare within range.",
+   "ru": "Когда врагов много, хорошо работает MAP-оружие.\\nПредугадывайте их перемещения и бейте так, чтобы\\nв зону попало больше врагов."
+  },
+  {
+   "en": "Defeat Guipellon-class Shudelg and Guipellon-class Balgrey within\\n5 turns in a single turn.",
+   "ru": "За 5 ходов в один ход уничтожить «Шудельг» и «Бальгрей»\\nкласса «Гипеллон»."
+  },
+  {
+   "en": "Enemy battleships have large amounts of HP and wide attack\\nranges, and some have the special ability Chain of Command.\\nTry to defeat these enemies as\\nsoon as possible.",
+   "ru": "У вражеских линкоров много HP и широкий радиус атаки,\\nа у некоторых есть способность «Командование».\\nУничтожайте такие цели\\nкак можно скорее."
+  },
+  {
+   "en": "Before map clear, defeat at least 4 enemy units in a single turn\\nwith a single battleship captain.",
+   "ru": "До прохождения карты одним капитаном линкора за один ход\\nуничтожить не менее 4 вражеских юнитов."
+  },
+  {
+   "en": "In this game, 1 turn is considered 1 minute. If, for example,\\n“3 minutes” is mentioned in a scenario, it means that after 3 turns\\nsomething will happen.",
+   "ru": "В этой игре 1 ход равен 1 минуте. Если в сюжете сказано\\n«три минуты», значит, что-то произойдёт\\nчерез 3 хода."
+  },
+  {
+   "en": "Defeat Stark 4126, Snooby, and Show-Gunn within 3 turns\\nin a single turn.",
+   "ru": "За 3 хода в один ход уничтожить Старк 4126,\\nСнуби и Шоу-Ганна."
+  },
+  {
+   "en": "Enemies with special ability HP Recovery will recover HP at the\\nstartof enemy phase. Concentrate on defeating enemies during ally phase.",
+   "ru": "Враг со способностью «Восст. HP» восстанавливает HP в начале\\nфазы противника. Добивайте таких врагов в фазу союзников."
+  },
+  {
+   "en": "Defeat all other enemies within 4 turns.\\nAfter that, defeat Imperial.",
+   "ru": "За 4 хода уничтожить всех прочих врагов.\\nЗатем уничтожить «Империал»."
+  },
+  {
+   "en": "Special ability Baptism fully recovers HP at the start of enemy\\nphase. Concentrate on defeating enemies during ally phase.",
+   "ru": "Способность «Крещение» полностью восстанавливает HP в начале\\nфазы противника. Добивайте таких врагов в фазу союзников."
+  },
+  {
+   "en": "Within 5 turns, defeat all other enemies and meet victory condition. During\\nthose turns, battleship captain defeats 2 out of Darldo, Lanbare, Balgrey,\\nand Shudelg. (May be accomplished with a single battleship captain.)",
+   "ru": "За 5 ходов уничтожить всех прочих врагов и выполнить условие победы.\\nЗа это время капитан линкора должен уничтожить 2 из четырёх:\\n«Дарлдо», «Ланбаре», «Бальгрей», «Шудельг». (Можно одним капитаном.)"
+  },
+  {
+   "en": "Pay close attention to the scenarios since they sometimes\\nhint at enemy tactics or reinforcements.",
+   "ru": "Внимательно следите за сюжетом: он иногда намекает\\nна тактику врага или его подкрепления."
+  },
+  {
+   "en": "Defeat all enemies other than Cowen & Stinger within 4 turns\\nafter they appear. After that, defeat Cowen & Stinger.",
+   "ru": "За 4 хода после появления Коуэна и Стингера уничтожить\\nвсех прочих врагов. Затем уничтожить Коуэна и Стингера."
+  },
+  {
+   "en": "When there are many enemies, start by defeating the weaker ones\\nto reduce their numbers. Your usage of map weapons in such\\nsituations is the key.",
+   "ru": "Когда врагов много, начинайте со слабых, чтобы сократить\\nих число. Ключ к успеху в таких случаях —\\nумелое применение MAP-оружия."
+  },
+  {
+   "en": "Defeat all Gamillas units within 5 turns and also defeat Large ELS.\\nDuring those turns, don't let Gamillas defeat any ELS units.",
+   "ru": "За 5 ходов уничтожить всех гамиласцев и большой ELS.\\nЗа это время гамиласцы не должны уничтожить ни один ELS."
+  },
+  {
+   "en": "When you face a 3-party battle, making the other 2 parties\\nfight each other will prevent damage to yourself. Keep in mind, however,\\nthat you won't be able to earn certain money or TacP when enemies fight\\neach other, so try and defeat enemies yourself whenever possible.",
+   "ru": "В бою трёх сторон выгодно столкнуть две другие стороны\\nмежду собой — так вы избежите урона. Но учтите: когда враги\\nбьют друг друга, часть денег и ТакО вам не достаётся,\\nпоэтому по возможности добивайте врагов сами."
+  },
+  {
+   "en": "Within 3 turns, defeat all other enemies\\nand HP for Desura II falls below 20,000.",
+   "ru": "За 3 хода уничтожить всех прочих врагов\\nи снизить HP «Дэсуры II» ниже 20 000."
+  },
+  {
+   "en": "If the victory condition is to defeat only a certain enemy\\n(or enemies), you will proceed to the next event upon meeting\\nthat condition, but try to defeat as many enemies as possible\\nto collect extra money and TAC points.",
+   "ru": "Если условие победы — уничтожить лишь определённого врага\\n(или врагов), после его выполнения вы перейдёте к следующему\\nсобытию. Но старайтесь сбить как можно больше врагов,\\nчтобы собрать больше денег и ТакО."
+  },
+  {
+   "en": "Defeat all Hysterica units. If you leave any Hysterica unit\\nundefeated, all 5 units will recover at the start of ally phase.",
+   "ru": "Уничтожить все юниты «Гистерика». Если хоть один останется,\\nвсе 5 восстановятся в начале фазы союзников."
+  },
+  {
+   "en": "Defeat all enemy units within 4 turns\\nand defeat Desura II after that.\\nWithin those turns, you cannot allow Desura II to use\\nthe map weapon Dessler Cannon.",
+   "ru": "Уничтожить всех врагов за 4 хода,\\nзатем уничтожить «Дэсуру II».\\nЗа это время нельзя дать «Дэсуре II» применить\\nMAP-оружие «Пушка Деслера»."
+  },
+  {
+   "en": "Once enemies raise enough Focus, they will start using powerful\\nweapons and map weapons. You can check the range for an enemy\\nmap weapon on the weapon ability screen. Be sure to get out of the\\nweapon’s range.",
+   "ru": "Набрав достаточно Воли, враг начнёт применять мощное оружие\\nи MAP-оружие. Радиус вражеского MAP-оружия виден\\nна экране данных оружия. Обязательно выходите\\nиз зоны поражения."
+  },
+  {
+   "en": "Defeat all Giant Kedoras within 2 turns and also defeat Great\\nGeneral of Darkness.",
+   "ru": "За 2 хода уничтожить всех Гигантских Кедор\\nи Великого Генерала Тьмы."
+  },
+  {
+   "en": "In the final battle, you'll most likely face a powerful boss.\\nGive careful consideration for when to use spirit commands\\nand Energy.",
+   "ru": "В финальном бою вас почти наверняка ждёт мощный босс.\\nТщательно рассчитайте, когда применять умения\\nи тратить EN."
+  },
+  {
+   "en": "This is the final battle. Apply everything you’ve learned\\nup to this point and claim victory.",
+   "ru": "Это финальный бой. Примените всё, чему научились,\\nи вырвите победу."
+  },
+  {
+   "en": "This is the final battle.\\nUse everything you've learned up until now\\nto make sure you win.",
+   "ru": "Это финальный бой.\\nПримените всё, чему научились до этого,\\nчтобы победить."
+  }
+ ]
+}

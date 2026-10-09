@@ -2,12 +2,20 @@
  "blocks": [],
  "qstrings": [
   {
+   "q": "Defeat all enemies.\\nMap cleared once you meet the victory conditions displayed\\nin blue.",
+   "ru": "Уничтожить всех врагов.\\nКарта пройдена при выполнении условий победы,\\nвыделенных синим."
+  },
+  {
    "q": "VangRay is defeated.",
    "ru": "Вангрэй уничтожен."
   },
   {
    "q": "Use all weapons equipped on VangRay before defeating all enemies.",
    "ru": "Применить всё оружие Вангрэя до победы над всеми врагами."
+  },
+  {
+   "q": "When an enemy deals big damage or your attacks don't hit enemies,\\ntry using spirit commands. Spirit points (SP) used for spirit commands\\nare recovered by 5 at the start of each turn.",
+   "ru": "Если враг наносит большой урон или атаки не достигают цели,\\nпопробуйте умения. Очки духа (SP), которые тратятся\\nна умения, восстанавливаются на 5 в начале каждого хода."
   }
  ]
 }
