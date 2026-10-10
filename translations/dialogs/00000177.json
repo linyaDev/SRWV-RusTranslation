@@ -1,0 +1,922 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Хильда",
+   "text": "「Вот и пришлось просить помощи у чужаков.」",
+   "orig": "Hilda\n「It's finally time to ask the outsiders for help.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Салия",
+   "text": "「Выбора у нас правда нет.\n　В прошлом бою Арзенал потерял\n　немалую часть огневой мощи.」",
+   "orig": "Salia\n「We really don't have a choice.\n　We lost a lot of Arzenal's firepower\n　in the previous battle.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Розали",
+   "text": "「Из-за этой проклятой Падшей принцессы\n　мы даже Золу потеряли.」",
+   "orig": "Rosalie\n「We even lost Zola thanks to\n　that damn Fallen Princess.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Хильда",
+   "text": "「Но раз зовут чужаков, значит,\n　командование теряет хватку.」",
+   "orig": "Hilda\n「But inviting outsiders in is a sign\n　that command is losing its touch.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Хильда",
+   "text": "（Хотя для меня это отличный шанс.）",
+   "orig": "Hilda\n（Though I see it as a great opportunity for me.）"
+  },
+  {
+   "i": 5,
+   "speaker": "Майто",
+   "text": "「Значит, наконец сразимся с Драконами.」",
+   "orig": "Maito\n「So we're finally going to fight Dragons.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Тиерия",
+   "text": "「Мы будем драться с врагом здесь?」",
+   "orig": "Tieria\n「Are we gonna fight the enemy here?」"
+  },
+  {
+   "i": 7,
+   "speaker": "$n",
+   "text": "「Ну и безумный\n　у нас отряд.」",
+   "orig": "$n\n「We make for quite\n　a crazy unit.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Найн",
+   "text": "「Сводный отряд из трёх измерений. Плюс\n　несколько тех самых «Пара-Мэйлов».」",
+   "orig": "Nine\n「A mixed force from three dimensions.\n　And some of those Para-Mail weapons.」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "「Это решать Тиерии.\n　Эти машины совсем не похожи на наши доспехи.\n　Похоже, их строили по иным техсистемам.」",
+   "orig": "$n\n「It's Tieria's decision.\n　Those units aren't anything like our mobile suits.\n　They seem to have been built with tech systems.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Тобиа",
+   "text": "（Я выяснил, что мой X-1\n　и Ξ Гандам Хатауэя\n　используют одни и те же техсистемы.）",
+   "orig": "Tobia\n（My investigation has revealed to me that\n　my X-1 and Hathaway's Ξ Gundam\n　use the same tech systems.）"
+  },
+  {
+   "i": 11,
+   "speaker": "Тобиа",
+   "text": "（А значит, Хатауэй и правда\n　пришёл из прошлого нашего мира.）",
+   "orig": "Tobia\n（And that must mean that Hathaway\n　came from our world's past.）"
+  },
+  {
+   "i": 12,
+   "speaker": "Хатауэй",
+   "text": "「Что случилось, Тобиа?」",
+   "orig": "Hathaway\n「What's wrong, Tobia?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Тобиа",
+   "text": "「Нет, ничего.\n　Всё в порядке.」",
+   "orig": "Tobia\n「No, it's nothing.\n　Everything is OK.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Тобиа",
+   "text": "（Лишние домыслы надо отбросить.\n　Передо мной — Хатауэй Ноа.）",
+   "orig": "Tobia\n（Superfluous preconceptions must be tossed aside.\n　The person before me is Hathaway Noa.）"
+  },
+  {
+   "i": 15,
+   "speaker": "Тобиа",
+   "text": "（Поговорю с $n,\n　когда бой закончится.）",
+   "orig": "Tobia\n（I think I better talk to $n\n　when this battle is over.）"
+  },
+  {
+   "i": 16,
+   "speaker": "Фельдт",
+   "text": "「Отметка на радаре!」",
+   "orig": "Feldt\n「Radar response!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Сумэраги",
+   "text": "「Вот они!」",
+   "orig": "Sumeragi\n「Here they come!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Ал",
+   "text": "「Эта отметка...\n　Среди них доспехи из нашего мира.」",
+   "orig": "Al\n「This response...\n　It includes mobile suits from our world.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Соскэ",
+   "text": "「Что?」",
+   "orig": "Sousuke\n「What?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Хильда",
+   "text": "「Вот и пришлось просить помощи у чужаков.」",
+   "orig": "Hilda\n「It's finally time to ask the outsiders for help.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Салия",
+   "text": "「Выбора у нас правда нет.\n　В прошлом бою Арзенал потерял\n　немалую часть огневой мощи.」",
+   "orig": "Salia\n「We really don't have a choice.\n　We lost a lot of Arzenal's firepower\n　in the previous battle.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Розали",
+   "text": "「Из-за этой проклятой Падшей принцессы\n　мы даже Золу потеряли.」",
+   "orig": "Rosalie\n「We even lost Zola thanks to\n　that damn Fallen Princess.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Хильда",
+   "text": "「Но раз зовут чужаков, значит,\n　командование теряет хватку.」",
+   "orig": "Hilda\n「But inviting outsiders in is a sign\n　that command is losing its touch.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Хильда",
+   "text": "（Хотя для меня это отличный шанс.）",
+   "orig": "Hilda\n（Though I see it as a great opportunity for me.）"
+  },
+  {
+   "i": 25,
+   "speaker": "Майто",
+   "text": "「Значит, наконец сразимся с Драконами.」",
+   "orig": "Maito\n「So we're finally going to fight Dragons.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Тиерия",
+   "text": "「Мы будем драться с врагом здесь?」",
+   "orig": "Tieria\n「Are we gonna fight the enemy here?」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「Ну и безумный\n　у нас отряд.」",
+   "orig": "$n\n「We make for quite\n　a crazy unit.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Найн",
+   "text": "「Сводный отряд из трёх измерений. Плюс\n　несколько тех самых «Пара-Мэйлов».」",
+   "orig": "Nine\n「A mixed force from three dimensions.\n　And some of those Para-Mail weapons.」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Это решать Тиерии.\n　Эти машины совсем не похожи на наши доспехи.\n　Похоже, их строили по иным техсистемам.」",
+   "orig": "$n\n「It's Tieria's decision.\n　Those units aren't anything like our mobile suits.\n　They seem to have been built with tech systems.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тобиа",
+   "text": "（Я выяснил, что мой X-1\n　и Ξ Гандам Хатауэя\n　используют одни и те же техсистемы.）",
+   "orig": "Tobia\n（My investigation has revealed to me that\n　my X-1 and Hathaway's Ξ Gundam\n　use the same tech systems.）"
+  },
+  {
+   "i": 31,
+   "speaker": "Тобиа",
+   "text": "（А значит, Хатауэй и правда\n　пришёл из прошлого нашего мира.）",
+   "orig": "Tobia\n（And that must mean that Hathaway\n　came from our world's past.）"
+  },
+  {
+   "i": 32,
+   "speaker": "Хатауэй",
+   "text": "「Что случилось, Тобиа?」",
+   "orig": "Hathaway\n「What's wrong, Tobia?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Тобиа",
+   "text": "「Нет, ничего.\n　Всё в порядке.」",
+   "orig": "Tobia\n「No, it's nothing.\n　Everything is OK.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тобиа",
+   "text": "（Лишние домыслы надо отбросить.\n　Передо мной — Хатауэй Ноа.）",
+   "orig": "Tobia\n（Superfluous preconceptions must be tossed aside.\n　The person before me is Hathaway Noa.）"
+  },
+  {
+   "i": 35,
+   "speaker": "Тобиа",
+   "text": "（Поговорю с $n,\n　когда бой закончится.）",
+   "orig": "Tobia\n（I think I better talk to $n\n　when this battle is over.）"
+  },
+  {
+   "i": 36,
+   "speaker": "Фельдт",
+   "text": "「Отметка на радаре!」",
+   "orig": "Feldt\n「Radar response!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Сумэраги",
+   "text": "「Вот они!」",
+   "orig": "Sumeragi\n「Here they come!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Ал",
+   "text": "「Эта отметка...\n　Среди них доспехи из нашего мира.」",
+   "orig": "Al\n「This response...\n　It includes mobile suits from our world.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Соскэ",
+   "text": "「Что?」",
+   "orig": "Sousuke\n「What?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Хатауэй",
+   "text": "「Вон там!」",
+   "orig": "Hathaway\n「There!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Хатауэй",
+   "text": "「Это «Дабл-Зета»!\n　Неужели это Джудо?」",
+   "orig": "Hathaway\n「It's the ZZ!\n　Is that Judau on board?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Джудо",
+   "text": "「Хатауэй!\n　Хатауэй Ноа!」",
+   "orig": "Judau\n「Hathaway!\n　Hathaway Noa!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Бича",
+   "text": "「Спасибо!\n　Хватит с нас погони этого монстра!」",
+   "orig": "Beecha\n「Thanks!\n　No more getting chased by that monster!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Эль",
+   "text": "「Рано расслабляться!\n　Монстр несётся прямо на нас!」",
+   "orig": "Elle\n「It's too early to call it a day!\n　That monster is going all out to reach us!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Ру",
+   "text": "「Прошу, ответьте!\n　Мы эскадрилья доспехов «Лондо Белл»!」",
+   "orig": "Roux\n「Please respond!\n　We are Londo Bell's mobile suit squadron!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Рури",
+   "text": "「Капитан Тесса.\n　Взгляните.」",
+   "orig": "Ruri\n「Captain Tessa.\n　Look.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тесса",
+   "text": "「Да.\n　Они из нашего мира.」",
+   "orig": "Tessa\n「Yes.\n　They're from our world.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Тесса",
+   "text": "「Говорит капитан Телета Тестаросса,\n　командир «Туата де Дананн».」",
+   "orig": "Tessa\n「This is Commander Teletha Testarossa,\n　the captain of the Tuatha de Danaan.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Тесса",
+   "text": "「Обстановку объясню позже.\n　Сперва, прошу, займитесь Драконом.」",
+   "orig": "Tessa\n「I'll explain the situation later.\n　Please take care of that Dragon first.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Бича",
+   "text": "「Нашли и «Туата де Дананн», и Хатауэя —\n　значит, задание выполнено.」",
+   "orig": "Beecha\n「Locating both the Tuatha de Danaan\n　and Hathaway means my mission is complete.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Эль",
+   "text": "「Соберись, Бича!\n　Не время болтать такую ерунду!」",
+   "orig": "Elle\n「Pull it together, Beecha!\n　This is no time to be spouting such nonsense!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Джудо",
+   "text": "「Синее море и Дракон на подходе.\n　Ничего нормального!\n　И всё же...」",
+   "orig": "Judau\n「Blue seas and an incoming Dragon.\n　Nothing normal about this!\n　But still...」"
+  },
+  {
+   "i": 53,
+   "speaker": "Джудо",
+   "text": "「Легко они не сдадутся!\n　Все! Выкладывайтесь по полной!」",
+   "orig": "Judau\n「I don't think they're gonna go down easily!\n　Everyone! Give it your all!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Ру",
+   "text": "「Принято!」",
+   "orig": "Roux\n「You got it!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Хатауэй",
+   "text": "「Типичный ответ Джудо.」",
+   "orig": "Hathaway\n「A Judau-like response.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тобиа",
+   "text": "（«Дабл-Зета» и Ξ Гандам.\n　Это значит только одно...）",
+   "orig": "Tobia\n（The ZZ Gundam and Ξ Gundam.\n　That could only mean...）"
+  },
+  {
+   "i": 57,
+   "speaker": "Рури",
+   "text": "「Всем машинам — в атаку.\n　Не забывайте, что Арзенал\n　прямо за нашей спиной.」",
+   "orig": "Ruri\n「All units, attack.\n　Please don't forget that Arzenal\n　is right behind us.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Салия",
+   "text": "「Все готовы?\n　Мы защитим Арзенал!」",
+   "orig": "Salia\n「Is everyone ready?\n　We're gonna protect Arzenal!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Хильда",
+   "text": "「Хм, Салия прямо воспряла\n　духом, как её повысили\n　до командира.」",
+   "orig": "Hilda\n「Huh, Salia\n　is really in high spirits since\n　her promotion to commander.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Локон",
+   "text": "「Летучий отряд?」",
+   "orig": "Lockon\n「A flying column?」"
+  },
+  {
+   "i": 61,
+   "speaker": "Клузо",
+   "text": "「Эти монстры и правда способны на тактику?」",
+   "orig": "Clouseau\n「These monsters are actually capable of strategic combat?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Эрша",
+   "text": "「О нет!\n　Они подходят к Арзеналу!」",
+   "orig": "Ersha\n「Oh no!\n　They're approaching Arzenal!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Вивиан",
+   "text": "「Что-то приближается!」",
+   "orig": "Vivian\n「Something is coming!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Салия",
+   "text": "「Этот «Пара-Мэйл»!」",
+   "orig": "Salia\n「That Para-Mail!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Анж",
+   "text": "「...」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 66,
+   "speaker": "Розали",
+   "text": "「Падшая принцесса!\n　Что она здесь делает?」",
+   "orig": "Rosalie\n「Fallen Princess!\n　What is she doing here?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Крис",
+   "text": "「Она покойница.\n　Я отомщу за сестёр.」",
+   "orig": "Chris\n「She's dead.\n　I will avenge my sisters.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Хильда",
+   "text": "「Погоди.\n　Похоже, она явилась сюда умирать.」",
+   "orig": "Hilda\n「Hold on.\n　It looks like she came here to die.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тобиа",
+   "text": "「Хм.」",
+   "orig": "Tobia\n「Huh.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Хильда",
+   "text": "「Вот это будет зрелище!\n　Смерть нашей Падшей принцессы!」",
+   "orig": "Hilda\n「This should be entertaining!\n　The death of our Fallen Princess!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Вивиан",
+   "text": "「Ого! Что это за машина?\n　Салия! Салия!\n　Этот «Пара-Мэйл»! Круто же, да?」",
+   "orig": "Vivian\n「Whoa! What's with that unit?\n　Salia! Salia!\n　That Para-Mail! Exciting, isn't it?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Салия",
+   "text": "「Это...」",
+   "orig": "Salia\n「That...」"
+  },
+  {
+   "i": 73,
+   "speaker": "Салия",
+   "text": "（Почему ты отдала его Анж, Джилл?）",
+   "orig": "Salia\n（Why did you give that to Ange, Jill?）"
+  },
+  {
+   "i": 74,
+   "speaker": "Анж",
+   "text": "「Скоро, уже скоро... Скоро\n　я смогу попрощаться.」",
+   "orig": "Ange\n「Soon, soon...\n　Soon I can say goodbye.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Рёко",
+   "text": "「Она уклонилась!」",
+   "orig": "Ryoko\n「She dodged it!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Перис",
+   "text": "「Это рефлексы?\n　Нет, это...」",
+   "orig": "Peries\n「Was that reflexes?\n　No, that was...」"
+  },
+  {
+   "i": 77,
+   "speaker": "Аллилуйя",
+   "text": "「Инстинкт.」",
+   "orig": "Allelujah\n「Instinct.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Анж",
+   "text": "「Не выходит!\n　Ещё раз!」",
+   "orig": "Ange\n「It's no use!\n　One more time!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Хильда",
+   "text": "「Что она делает?」",
+   "orig": "Hilda\n「What is she doing?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Анж",
+   "text": "「Плохо дело! Я\n　должна умереть!」",
+   "orig": "Ange\n「This is bad!　\n　I need to die!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Джудо",
+   "text": "「О чём ты вообще?」",
+   "orig": "Judau\n「What are you talking about?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Анж",
+   "text": "「Я...」",
+   "orig": "Ange\n「I...」"
+  },
+  {
+   "i": 83,
+   "speaker": "Джудо",
+   "text": "「Ты всё твердишь, что хочешь умереть,\n　но поступки говорят об обратном!\n　Потому твоё тело и уклоняется!」",
+   "orig": "Judau\n「You keep saying you want to die,\n　but your actions say otherwise!\n　That's why your body keeps moving!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Анж",
+   "text": "「Выходит, я хочу жить.」",
+   "orig": "Ange\n「I guess, I want to live.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Сэцуна",
+   "text": "「Я это вижу!\n　Твой инстинкт выбирает жизнь!」",
+   "orig": "Setsuna\n「I can see it!\n　Your instincts are choosing life!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Анж",
+   "text": "「Но...」",
+   "orig": "Ange\n「But...」"
+  },
+  {
+   "i": 87,
+   "speaker": "Джудо",
+   "text": "「Это естественно!\n　Живые не отдают свою жизнь\n　вот так просто!」",
+   "orig": "Judau\n「It's only natural!\n　Those who are alive don't easily\n　throw their own lives away!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Сэцуна",
+   "text": "「Что это?」",
+   "orig": "Setsuna\n「What's that?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Тобиа",
+   "text": "「Воля пилота этой машины...」",
+   "orig": "Tobia\n「The will of that Gundam pilot...」"
+  },
+  {
+   "i": 90,
+   "speaker": "Анж",
+   "text": "「Я чувствую жизнь.」",
+   "orig": "Ange\n「I sense life.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Анж",
+   "text": "「Я буду жить. Я хочу жить.\n　Вот чего я хочу.」",
+   "orig": "Ange\n「I will live. I want to live.\n　That's what I want.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Анж",
+   "text": "（Последние слова матери.\n　Живи, Анжелиза.）",
+   "orig": "Ange\n（My mother's dying words.\n　Live on, Angelise.）"
+  },
+  {
+   "i": 93,
+   "speaker": "Анж",
+   "text": "「Аааааа!!」",
+   "orig": "Ange\n「Ahhhhh!!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Салия",
+   "text": "「«Вилькисс» пробудилась!」",
+   "orig": "Salia\n「Villkiss has awakened!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Джилл",
+   "text": "「Вот как.」",
+   "orig": "Jill\n「Whoa.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Анж",
+   "text": "「Я не хочу умирать! Не хочу умирать!\n　Не хочу умирать!」",
+   "orig": "Ange\n「I don't want to die! I don't want to die!\n　I don't want to die!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Анж",
+   "text": "「Т-ты!」",
+   "orig": "Ange\n「Y-you!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Анж",
+   "text": "「На этот раз умрёшь ты!」",
+   "orig": "Ange\n「You're the one who'll die this time!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Анж",
+   "text": "「У меня получилось.」",
+   "orig": "Ange\n「I did it.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хильда",
+   "text": "「Что это было?」",
+   "orig": "Hilda\n「What was that?」"
+  },
+  {
+   "i": 101,
+   "speaker": "Вивиан",
+   "text": "「Так держать, Анж!」",
+   "orig": "Vivian\n「Way to go, Ange!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тиерия",
+   "text": "「Какая мощная жизненная сила.」",
+   "orig": "Tieria\n「Such a powerful life force.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Сэцуна",
+   "text": "「Она Инноватор?」",
+   "orig": "Setsuna\n「Is she an Innovator?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Рури",
+   "text": "「Возможно.」",
+   "orig": "Ruri\n「Could be.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Сумэраги",
+   "text": "「Враг дрогнул! Им больше некуда деваться!」",
+   "orig": "Sumeragi\n「The enemy seems shaken! They're out of options!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Тесса",
+   "text": "「Атакуйте всем, что есть!」",
+   "orig": "Tessa\n「Attack with everything you've got!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Салия",
+   "text": "「Анж.\n　Ты...」",
+   "orig": "Salia\n「Ange.\n　You.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Анж",
+   "text": "「Я хочу жить.」",
+   "orig": "Ange\n「I want to live.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Анж",
+   "text": "「Я буду сражаться, чтобы жить!」",
+   "orig": "Ange\n「I will fight to live!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Найн",
+   "text": "「Вражеские формы жизни уничтожены.」",
+   "orig": "Nine\n「Destruction of enemy life forms confirmed.」"
+  },
+  {
+   "i": 111,
+   "speaker": "$n",
+   "text": "「Значит, мы победили.」",
+   "orig": "$n\n「So we won.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Курц",
+   "text": "「Благодаря её порыву.」",
+   "orig": "Kurz\n「Thanks to her improvisation.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Майто",
+   "text": "「Вот она, Анжелиза Икаруга Мисуруги.」",
+   "orig": "Maito\n「So that's Angelise Ikaruga Misurugi.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Рури",
+   "text": "「Нет.\n　Это уже не принцесса.」",
+   "orig": "Ruri\n「No.\n　That's not the princess over there.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Анж",
+   "text": "「Ахахаха.\n　Такого я ещё не чувствовала! Какой восторг!」",
+   "orig": "Ange\n「Ahahaha.\n　I've never felt this sensation! So exhilarating!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Анж",
+   "text": "「Нет!\n　Это же не я!」",
+   "orig": "Ange\n「No!\n　This isn't like me!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Анж",
+   "text": "「Убивать, потому что хочу жить!\n　Как грязно! Как мерзко!\n　Как эгоистично!」",
+   "orig": "Ange\n「Killing because I want to live!\n　So dirty! So despicable!\n　So selfish!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Анж",
+   "text": "（Вот что такое Норма.\n　Вот что такое я.）",
+   "orig": "Ange\n（That's Norma.\n　That's me.）"
+  },
+  {
+   "i": 119,
+   "speaker": "Анж",
+   "text": "（А значит...）",
+   "orig": "Ange\n（And that means...）"
+  },
+  {
+   "i": 120,
+   "speaker": "Найн",
+   "text": "「Вражеские организмы уничтожены.」",
+   "orig": "Nine\n「Destruction of enemy organisms confirmed.」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「Значит, мы победили.」",
+   "orig": "$n\n「So we won.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Рёко",
+   "text": "「Благодаря её порыву.」",
+   "orig": "Ryoko\n「Thanks to her improvisation.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Майто",
+   "text": "「Вот она, Анжелиза Икаруга Мисуруги.」",
+   "orig": "Maito\n「So that's Angelise Ikaruga Misurugi.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Рури",
+   "text": "「Нет.\n　Это уже не принцесса.」",
+   "orig": "Ruri\n「No.\n　That's not the princess over there.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Анж",
+   "text": "「Ахахаха.\n　Такого я ещё не чувствовала! Какой восторг!」",
+   "orig": "Ange\n「Ahahaha.\n　I've never felt this sensation! So exhilarating!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Анж",
+   "text": "「Нет!\n　Это же не я!」",
+   "orig": "Ange\n「No!\n　This isn't like me!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Анж",
+   "text": "「Убивать, потому что хочу жить!\n　Как грязно! Как мерзко!\n　Как эгоистично!」",
+   "orig": "Ange\n「Killing because I want to live!\n　So dirty! So despicable!\n　So selfish!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Анж",
+   "text": "（Вот что такое Норма.\n　И вот что такое я.）",
+   "orig": "Ange\n（That's Norma.\n　And that's me.）"
+  },
+  {
+   "i": 129,
+   "speaker": "Анж",
+   "text": "（А значит...）",
+   "orig": "Ange\n（And that means...）"
+  },
+  {
+   "i": 130,
+   "speaker": "Салия",
+   "text": "（Теперь я командир 1-й эскадрильи!\n　Я не провалю задание!）",
+   "orig": "Salia\n（I'm now the 1st Squadron commander!\n　I will not fail in my mission!）"
+  },
+  {
+   "i": 131,
+   "speaker": "Салия",
+   "text": "（Я не подведу её!\n　Не подведу Джилл и Алектру!）",
+   "orig": "Salia\n（I will meet her expectations!\n　The expectations of Jill and Alektra!）"
+  },
+  {
+   "i": 132,
+   "speaker": "Вивиан",
+   "text": "「С появлением чужаков и Драконов\n　у нас тут совсем не продохнуть!」",
+   "orig": "Vivian\n「We've been very busy with the arrival\n　of both outsiders and Dragons!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Вивиан",
+   "text": "「Так, время викторины!\n　Как думаете, чем кончится бой?」",
+   "orig": "Vivian\n「So it's quiz time!\n　How do you think this battle will go?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Эрша",
+   "text": "「Чужаки сражаются за нас на славу,\n　но Арзенал — наш дом.\n　Защищать его — наш долг.」",
+   "orig": "Ersha\n「The outsiders fight hard for us,\n　but Arzenal is our home.\n　It's our duty to protect it.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Эрша",
+   "text": "「Если мы не докажем свою полезность,\n　Нормам может не остаться места,\n　которое они зовут своим!」",
+   "orig": "Ersha\n「If we don't prove our effectiveness,\n　the Norma might be left without a place\n　of their own!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Хильда",
+   "text": "「Из меня так себе старший офицер,\n　но отказаться от повышения не вышло.」",
+   "orig": "Hilda\n「I'm not your normal executive officer,\n　but I've got no choice but to accept the promotion.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Хильда",
+   "text": "（Я выживу!\n　Выживу и добьюсь своего!）",
+   "orig": "Hilda\n（I will survive!\n　I'll survive and accomplish my objectives!）"
+  },
+  {
+   "i": 138,
+   "speaker": "Розали",
+   "text": "「Чёрт!\n　Я не проиграю Драконам,\n　которые убили моих сестёр!」",
+   "orig": "Rosalie\n「Dammit!\n　I'm not gonna lose to the Dragons\n　that killed my sisters!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Розали",
+   "text": "「Ну давайте!\n　Обменяю ваши жизни на наличные!」",
+   "orig": "Rosalie\n「Come and get it!\n　I'm gonna trade your lives in for cash!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Крис",
+   "text": "「Командира у нас больше нет.\n　Меня защищают Розали и Хильда.」",
+   "orig": "Chris\n「We no longer have a commander.\n　Rosalie and Hilda are protecting me.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Крис",
+   "text": "「Главное — не вырываться \n　слишком далеко вперёд.」",
+   "orig": "Chris\n「I've gotta make sure to not \n　to get too far ahead.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Джудо",
+   "text": "「Может, пока мы искали Хатауэя,\n　с нами случилось то же самое?」",
+   "orig": "Judau\n「Maybe we had our own accident\n　while looking for Hathaway and theirs?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Джудо",
+   "text": "「Но сейчас не об этом!\n　Надо вернуться в «Лондо Белл», \n　пока не поздно!」",
+   "orig": "Judau\n「But now's not the time for that!\n　I've gotta get back to Londo Bell \n　before its too late!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Ру",
+   "text": "「Синее море — это, конечно, славно,\n　но пусть эти ящерицы дадут передохнуть!」",
+   "orig": "Roux\n「I'm enjoying the blue seas and all,\n　but I wish these lizards would give us a break!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Ру",
+   "text": "「Понятия не имею, где мы,\n　но разбираться надо с тем, что есть.」",
+   "orig": "Roux\n「I have no idea where this is,\n　but I've gotta deal with the situation at hand.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Бича",
+   "text": "「Я ничего не понимаю,\n　но для лидера отряда «Гандамов»\n　это не оправдание!」",
+   "orig": "Beecha\n「I have no idea what's going on,\n　but that's no excuse for a Gundam team\n　leader!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Бича",
+   "text": "「Не волнуйтесь, ребята!\n　Я нас вытащу!」",
+   "orig": "Beecha\n「Don't worry, guys!\n　I'll get us outta this!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Эль",
+   "text": "「Да что вообще происходит?\n　Это всё из-за магнитной бури?」",
+   "orig": "Elle\n「What in the world is going on?\n　Is it because of the magnetic storm?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Эль",
+   "text": "「Я ничего не понимаю!\n　Хуже положения и не придумаешь!」",
+   "orig": "Elle\n「I have no idea what's going on!\n　This situation is as desperate as they come!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Анж",
+   "text": "（Мама, я всё ещё жива.）",
+   "orig": "Ange\n（Mother, I'm still alive.）"
+  },
+  {
+   "i": 151,
+   "speaker": "Анж",
+   "text": "（Принцесса Анжелиза мертва!\n　Но я всё ещё жива!）",
+   "orig": "Ange\n（Princess Angelise is dead!\n　But I am still alive!）"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

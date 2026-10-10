@@ -1,0 +1,736 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "$n",
+   "text": "「Так эти вонючие похитители\n　устроили на базе своё логово!」",
+   "orig": "$n\n「So those filthy kidnappers\n　are using this base as a hideout!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Акито",
+   "text": "「Так я и знал.\n　Помощников у них хватает.」",
+   "orig": "Akito\n「I knew it.\n　They've got plenty of help.」"
+  },
+  {
+   "i": 2,
+   "speaker": "$n",
+   "text": "「Надо убираться отсюда!\n　Этот мех, похожий на жука, идёт прямо на нас!」",
+   "orig": "$n\n「Let's get outta here!\n　That bug-looking mech is headed straight for us!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Акито",
+   "text": "「Мне больше некуда бежать.」",
+   "orig": "Akito\n「I've got nowhere left to run.」"
+  },
+  {
+   "i": 4,
+   "speaker": "$n",
+   "text": "「Это что, боевой корабль?」",
+   "orig": "$n\n「Is that a battleship?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Лапис",
+   "text": "「...」",
+   "orig": "Lapis\n「...」"
+  },
+  {
+   "i": 6,
+   "speaker": "Акито",
+   "text": "「Спускайся, Лапис.」",
+   "orig": "Akito\n「Come down here, Lapis.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Лапис",
+   "text": "「...」",
+   "orig": "Lapis\n「...」"
+  },
+  {
+   "i": 8,
+   "speaker": "Шестёрка Хокусина",
+   "text": "「Глупец! Ты вышел против нас один?」",
+   "orig": "Hokushin's Six\n「Fool! You would challenge us alone?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Шестёрка Хокусина",
+   "text": "「Ты заплатишь, Акито Тэнкава!\n　Здесь и сейчас!」",
+   "orig": "Hokushin's Six\n「You're going to pay, Akito Tenkawa!\n　Right here, right now!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Акито",
+   "text": "「Замолчи.」",
+   "orig": "Akito\n「Shut up.」"
+  },
+  {
+   "i": 11,
+   "speaker": "$n",
+   "text": "「«Вангрэй»!」",
+   "orig": "$n\n「VangRay!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Найн",
+   "text": "「Прости, что заставила ждать.」",
+   "orig": "Nine\n「Sorry to keep you waiting.」"
+  },
+  {
+   "i": 13,
+   "speaker": "$n",
+   "text": "「Ещё бы!\n　Можно было и побыстрее!」",
+   "orig": "$n\n「You should be!\n　Could you be any slower?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Найн",
+   "text": "「Эх.」",
+   "orig": "Nine\n「Sigh.」"
+  },
+  {
+   "i": 15,
+   "speaker": "$n",
+   "text": "「Да шучу я, Найн.\n　Выручила просто здорово!」",
+   "orig": "$n\n「I'm just kidding, Nine.\n　This is a huge help!」"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "「Стой, а как ты узнала, что я в беде?」",
+   "orig": "$n\n「Wait, how did you know I was in trouble?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Найн",
+   "text": "「Я заметила сбои в твоём\n　пульсе и дыхании.」",
+   "orig": "Nine\n「I detected irregularities in\n　your pulse and breathing.」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Ну знаешь, а в туалет мне можно спокойно сходить,」",
+   "orig": "$n\n「Jeez, can I go to the bathroom in peace, or are you」"
+  },
+  {
+   "i": 19,
+   "speaker": "$n",
+   "text": "「или ты и там смотришь? Нет, не отвечай.\n　Давай прикроем вон тот чёрный мех!」",
+   "orig": "$n\n「watching me there, too? Wait, don't answer that.\n　Let's provide some cover for that black mech!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Акито",
+   "text": "「Зачем ты вернулся?」",
+   "orig": "Akito\n「Why did you come back?」"
+  },
+  {
+   "i": 21,
+   "speaker": "$n",
+   "text": "「Они ведь изначально охотились за мной.\n　Решил, что разбираться с этим мне самому.」",
+   "orig": "$n\n「They came after me in the first place.\n　I figured I should do something about this myself.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Акито",
+   "text": "「Как хочешь.」",
+   "orig": "Akito\n「As you wish.」"
+  },
+  {
+   "i": 23,
+   "speaker": "$n",
+   "text": "「Ну что, Найн, наш выход.\n　Официально наш первый бой как напарников.」",
+   "orig": "$n\n「OK Nine, it's our time to shine.\n　This is officially our first battle as partners.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Найн",
+   "text": "「Будь начеку.\n　Те двое в тылу отличаются от остальных.」",
+   "orig": "Nine\n「Stay vigilant.\n　Those two in the back are different from the rest.」"
+  },
+  {
+   "i": 25,
+   "speaker": "$n",
+   "text": "「Да, я видел, кто там за рычагами, — тот убийца.」",
+   "orig": "$n\n「Yeah, I saw that dirty assassin piloting it.」"
+  },
+  {
+   "i": 26,
+   "speaker": "$n",
+   "text": "「Отлично!\n　Расквитаюсь с ними за то, что было раньше!」",
+   "orig": "$n\n「Perfect!\n　I'll get them back for what they did earlier!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Найн",
+   "text": "「Приближается боевой корабль.」",
+   "orig": "Nine\n「Battleship approaching.」"
+  },
+  {
+   "i": 28,
+   "speaker": "$n",
+   "text": "「Это же не «Ямато», верно? 」",
+   "orig": "$n\n「That can't be the Yamato, can it? 」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Это отряд «Отважный экспресс»!」",
+   "orig": "$n\n「It's the Brave Express Corps!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Майто",
+   "text": "「Салли ушла целой и невредимой\n　благодаря тебе, $n! Спасибо!」",
+   "orig": "Maito\n「Sally got away safely thanks to you,\n　$n! Thanks!」"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「А что за корабль с вами?」",
+   "orig": "$n\n「What's up with that battleship?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Рури",
+   "text": "「Рада знакомству. Говорит майор Рури Хосино\n　из Автономного отряда «Надэсико» Земных\n　федеральных сил, капитан «Надэсико B».」",
+   "orig": "Ruri\n「A pleasure to meet you. This is Major Ruri Hoshino\n　of the Earth Federation Force's Autonomous Nadesico\n　Squad, and captain of the Nadesico B.」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Федеральные силы, значит?\n　А корабль у вас довольно приметный.」",
+   "orig": "$n\n「Federation Forces, eh?\n　That's a pretty flashy battleship.」"
+  },
+  {
+   "i": 34,
+   "speaker": "$n",
+   "text": "「А вот капитан...」",
+   "orig": "$n\n「That captain, though.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Рури",
+   "text": "「...」",
+   "orig": "Ruri\n「...」"
+  },
+  {
+   "i": 36,
+   "speaker": "$n",
+   "text": "「Такая милая. Такая ладная. Такая\n　изящная! Прямо фея!」",
+   "orig": "$n\n「She's so cute. So fit. So elegant!\n　Like a fairy!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Найн",
+   "text": "「Это и называется «твой типаж»?」",
+   "orig": "Nine\n「Is she what you'd call your type?」"
+  },
+  {
+   "i": 38,
+   "speaker": "$n",
+   "text": "「Эй, не время болтать об этом посреди боя!」",
+   "orig": "$n\n「Hey now, we shouldn't talk about that during battle!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Рури",
+   "text": "「Мы действуем вместе с отрядом «Отважный экспресс»,\n　чтобы подавить террористическую группировку.」",
+   "orig": "Ruri\n「We are cooperating with the Brave Express Corps\n　to subdue a terrorist group.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Сабуроута",
+   "text": "「И всё же, какие связи у Проспектора — просто\n　не верится! Вот уж не думал, что к нам пристроится\n　сверхсекретный проект концерна «Сэмпудзи»!」",
+   "orig": "Saburouta\n「Even so, I can't believe how well-connected\n　Prospector is! I never imagined the Senpuji Concern's\n　top-secret project would be tagging along!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Харри",
+   "text": "「То есть «Нергал» и концерн «Сэмпудзи» в связке?\n　Такое и слиянием века назвать можно!」",
+   "orig": "Harry\n「So Nergal and the Senpuji Concern are collaborating?\n　I guess you could call this a massive merger!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Рёко",
+   "text": "「Ещё бы!」",
+   "orig": "Ryoko\n「You'd have to!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Акито",
+   "text": "「...」",
+   "orig": "Akito\n「...」"
+  },
+  {
+   "i": 44,
+   "speaker": "Рёко",
+   "text": "「Эй, да это же Акито!\n　Он в кабине того самого\n　чёрного меха!」",
+   "orig": "Ryoko\n「Hey, there's Akito!\n　He's in the cockpit of\n　that black mech!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Акито",
+   "text": "「...」",
+   "orig": "Akito\n「...」"
+  },
+  {
+   "i": 46,
+   "speaker": "Рёко",
+   "text": "「Эй, Акито! Скажи хоть что-нибудь!」",
+   "orig": "Ryoko\n「Hey Akito! Say something!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Рури",
+   "text": "「Идёт бой, Рёко.\n　Поговорим с ним, когда закончим.」",
+   "orig": "Ruri\n「There is a battle in progress, Ryoko.\n　We'll talk to him when we're finished.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Рёко",
+   "text": "「Ну вот, обидно!\n　На этот раз ты от меня не уйдёшь, Акито!」",
+   "orig": "Ryoko\n「Aww, lame!\n　I'm not letting you get away this time, Akito!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Акито",
+   "text": "「...」",
+   "orig": "Akito\n「...」"
+  },
+  {
+   "i": 50,
+   "speaker": "$n",
+   "text": "（Похоже, с этим Акито\n　всё очень непросто.）",
+   "orig": "$n\n（Seems like there's a lot\n　going on with this Akito guy.）"
+  },
+  {
+   "i": 51,
+   "speaker": "Харри",
+   "text": "「Силы террористов уничтожены.」",
+   "orig": "Harry\n「Terrorist element destroyed.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Рури",
+   "text": "「Я давно подозревала, что с этой базой что-то\n　нечисто. Теперь ясно — они её захватили.」",
+   "orig": "Ruri\n「I had long suspected there was something suspicious\n　about this base. I see they had taken it over.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Сабуроута",
+   "text": "「Плохой знак. Они продвинулись\n　довольно глубоко на\n　территорию Федерации.」",
+   "orig": "Saburouta\n「This isn't a good sign.\n　They've pressed quite deep\n　into Federation territory.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hrm.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Рёко",
+   "text": "「Акито!」",
+   "orig": "Ryoko\n「Akito!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Акито",
+   "text": "「Кхм.」",
+   "orig": "Akito\n「Urgh.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рёко",
+   "text": "「Акито!\n　Эй, да что с тобой такое?」",
+   "orig": "Ryoko\n「Akito!\n　Hey, what's your problem?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Рёко",
+   "text": "「Ну же, неужели не помнишь?\n　Ты же назвал меня тогда Рёко!」",
+   "orig": "Ryoko\n「Come on, don't you remember?\n　You called me Ryoko that one time!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Найн",
+   "text": "「Внимание. Обнаружен неизвестный\n　энергетический след.」",
+   "orig": "Nine\n「Warning.\n　Unknown energy signature detected.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Харри",
+   "text": "「Это же показания бозонных частиц!」",
+   "orig": "Harry\n「That must be a boson particle reading!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Акито",
+   "text": "「Что?!」",
+   "orig": "Akito\n「What!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Хокусин",
+   "text": "「Белый корабль наших врагов,\n　а на нём — Мститель в чёрном плаще.」",
+   "orig": "Hokushin\n「The white ship of our enemies,\n　with the Black-Cloaked Avenger on board.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Хокусин",
+   "text": "「Но тебе до него не добраться.\n　Ты лишь потратил время впустую.」",
+   "orig": "Hokushin\n「But you can't reach it.\n　You have wasted your time.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Акито",
+   "text": "「Ты сейчас...!」",
+   "orig": "Akito\n「You're gonna—!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Хокусин",
+   "text": "「Прыжок!」",
+   "orig": "Hokushin\n「Jump!」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Он исчез.」",
+   "orig": "$n\n「He's gone.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Найн",
+   "text": "「Полагаю, он прыгнул с помощью тех частиц.」",
+   "orig": "Nine\n「I believe he used those unknown particles to jump.」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Значит, вот как здесь прыгают.\n　Это ведь и есть $kwbбозонный прыжок$kwe, да?」",
+   "orig": "$n\n「So that's how you jump in this world.\n　That's what they call a $kwbBoson Jump$kwe, right?」"
+  },
+  {
+   "i": 69,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hmm.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Рёко",
+   "text": "「Акито!」",
+   "orig": "Ryoko\n「Akito!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Акито",
+   "text": "「Дождись меня, Юрика.」",
+   "orig": "Akito\n「Wait for me, Yurika.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Рури",
+   "text": "（Ах, Акито.）",
+   "orig": "Ruri\n（Oh, Akito.）"
+  },
+  {
+   "i": 73,
+   "speaker": "Харри",
+   "text": "「Капитан!\n　«Надэсико» принимает от кого-то\n　зашифрованные данные.」",
+   "orig": "Harry\n「Captain!\n　The Nadesico is receiving encrypted\n　data from someone.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Харри",
+   "text": "「Отправитель называет себя... ОТИКА?」",
+   "orig": "Harry\n「They're identifying themselves as...OTIKA?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Рури",
+   "text": "「Я знаю, от кого это.」",
+   "orig": "Ruri\n「I know who it's from.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Рёко",
+   "text": "「Акито, ну и дурак же ты!」",
+   "orig": "Ryoko\n「Akito, you fool!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Харри",
+   "text": "「Да что за чертовщина?」",
+   "orig": "Harry\n「What the heck?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Сабуроута",
+   "text": "「Что ещё, Харри?」",
+   "orig": "Saburouta\n「What is it now, Harry?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Харри",
+   "text": "「У нас проблемы! Террористическая\n　группировка сейчас выступит с\n　заявлением с колонии «Сирахимэ»!」",
+   "orig": "Harry\n「We're in trouble!\n　A terrorist group is about to make a\n　statement from Colony Shirahime!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Рури",
+   "text": "「Наконец-то они решили показаться.」",
+   "orig": "Ruri\n「So they're finally going to show themselves.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Найн",
+   "text": "「Этот чёрный мех весьма грозен.」",
+   "orig": "Nine\n「That black mech is quite formidable.」"
+  },
+  {
+   "i": 82,
+   "speaker": "$n",
+   "text": "「Машина и сама по себе хороша, но пилот внутри\n　талантлив просто сверх всякой меры.」",
+   "orig": "$n\n「The mech is pretty amazing on its own, but the\n　pilot inside it is just unnaturally talented.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "（От него жуть пробирает.\n　Что же так гонит этого парня?）",
+   "orig": "$n\n（He's absolutely terrifying.\n　What the heck is driving this guy?）"
+  },
+  {
+   "i": 84,
+   "speaker": "Шестёрка Хокусина",
+   "text": "「Кха!\n　Это была ошибка!」",
+   "orig": "Hokushin's Six\n「Gah!\n　This was a mistake!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Шестёрка Хокусина",
+   "text": "「Мы вернёмся, и ты за всё заплатишь!」",
+   "orig": "Hokushin's Six\n「We'll be back, and you're gonna pay!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Найн",
+   "text": "「О!」",
+   "orig": "Nine\n「Oh!」"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「Что такое, Найн?」",
+   "orig": "$n\n「What is it, Nine?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Найн",
+   "text": "「У меня есть идея. Я могу создать новую\n　Программу умений, проанализировав\n　боевые данные того меха.」",
+   "orig": "Nine\n「I've got an idea.\n　I could develop a new Skill Program by\n　analyzing that mech's combat data.」"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「Ты и такое умеешь?」",
+   "orig": "$n\n「You can do that kind of thing?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Найн",
+   "text": "「Я буду сообщать тебе\n　о каждой такой новой разработке.」",
+   "orig": "Nine\n「I'll keep you updated on\n　any new developments such as this.」"
+  },
+  {
+   "i": 91,
+   "speaker": "$n",
+   "text": "「Договорились.\n　Вместе мы кого угодно\n　одолеем!」",
+   "orig": "$n\n「Got it.\n　We can take anybody on if\n　we put our heads together!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Шестёрка Хокусина",
+   "text": "「Гра-а!\n　Нам конец!」",
+   "orig": "Hokushin's Six\n「Grah!\n　We're finished!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Шестёрка Хокусина",
+   "text": "「Я не забуду того, что ты сделал! При\n　первой же возможности сниму твою голову!」",
+   "orig": "Hokushin's Six\n「I won't forget what you've done!\n　Next chance I get, I'll have your head!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Акито",
+   "text": "「Прости меня, Юрика.」",
+   "orig": "Akito\n「I'm so sorry, Yurika.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Акито",
+   "text": "「Я не позволю вам продолжать.」",
+   "orig": "Akito\n「I cannot allow you to carry on.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Акито",
+   "text": "「Хокусин!」",
+   "orig": "Akito\n「Hokushin!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Акито",
+   "text": "「Я тебя раздавлю!」",
+   "orig": "Akito\n「I will crush you!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Найн",
+   "text": "「Внимание.\n　Обнаружены машины с защитными полями.」",
+   "orig": "Nine\n「Warning.\n　Units equipped with defense fields detected.」"
+  },
+  {
+   "i": 99,
+   "speaker": "$n",
+   "text": "「Какая тактика будет самой действенной?」",
+   "orig": "$n\n「What's the most effective strategy?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Найн",
+   "text": "「Рекомендую удары с незащищённой стороны.」",
+   "orig": "Nine\n「Blind-side attacks recommended.」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「Сегодня от тебя сплошная польза!」",
+   "orig": "$n\n「You're pretty helpful today!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Найн",
+   "text": "「У меня есть чувство справедливости.\n　Насколько оно возможно у робота.」",
+   "orig": "Nine\n「I have a sense of justice. As much as a robot can.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Ты о чём?」",
+   "orig": "$n\n「What do you mean?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Найн",
+   "text": "「Это я сама с собой.\n　Сосредоточься на бою.」",
+   "orig": "Nine\n「I was talking to myself.\n　Focus on the battle at hand.」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「Понял.\n　Этим ребятам тоже легко не отделаться.\n　Они растоптали мои цветы для Титосэ, мерзавцы!」",
+   "orig": "$n\n「You got it.\n　These guys aren't going to get off easy, either.\n　They wrecked my flowers for Chitose, the punks!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Рури",
+   "text": "（Они уже сильнее любой террористической\n　группировки. Скоро станут настоящей армией.）",
+   "orig": "Ruri\n（They've already become more powerful than any\n　terrorist group. They'll become an army in no time.）"
+  },
+  {
+   "i": 107,
+   "speaker": "Харри",
+   "text": "「Капитан? Всё в порядке?」",
+   "orig": "Harry\n「Captain? Is everything OK?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Рури",
+   "text": "「Да, Харри, всё хорошо, спасибо.\n　Какими бы ни были обстоятельства, я могу лишь\n　решать задачи по порядку, шаг за шагом.」",
+   "orig": "Ruri\n「Yes, I'm fine Harry, thank you.\n　No matter the circumstances, I can't help but\n　focus on the issue at hand, one step at a time.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Рури",
+   "text": "「А теперь покажем им, что\n　«Надэсико» всё ещё в силе.」",
+   "orig": "Ruri\n「Now, let's show them that the\n　Nadesico is still going strong.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рёко",
+   "text": "「Я вам этого не прощу!」",
+   "orig": "Ryoko\n「I won't let you get away with this!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Рёко",
+   "text": "「Вы украли счастье у Акито и Юрики,\n　и за это вам место в аду!」",
+   "orig": "Ryoko\n「You robbed Akito and Yurika of their happiness,\n　and for that you deserve to go to hell!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Сабуроута",
+   "text": "「Я и сам служил в юпитерианской армии, и потому\n　больше не могу терпеть ваше существование.」",
+   "orig": "Saburouta\n「As a former member of the Jovian military myself,\n　I can no longer tolerate your existence.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Сабуроута",
+   "text": "「Времена изменились!\n　Бросьте свои злобные замшелые взгляды\n　и поживите хоть немного в радость!」",
+   "orig": "Saburouta\n「Times have changed!\n　Get rid of your bitter, outdated outlook\n　and enjoy yourself a little!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Майтгайн",
+   "text": "「Так вот те самые террористы, что задумали свергнуть\n　правительство Федерации, о которых были донесения!」",
+   "orig": "Mightgaine\n「So these are the terrorists plotting to overthrow\n　the Federation government that the intel mentioned!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Майто",
+   "text": "「Думаете, можно ломать людям жизни по своей прихоти?\n　Такие, как Салли, просто хотят спокойно жить!」",
+   "orig": "Maito\n「You think you can just wreck people's lives on a whim?\n　People like Sally just want to live their lives!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Майто",
+   "text": "「Взрывами мир не изменить!\n　А если вам этого не понять, придётся\n　вбить это в ваши толстые черепа!」",
+   "orig": "Maito\n「You can't change the world with explosions!\n　If you can't understand that, then I'm going to\n　have to pound it through your thick skulls!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Трай Бомбер",
+   "text": "「Мы сражаемся с остатками юпитерианских сил?」",
+   "orig": "Tri Bomber\n「We're fighting the remnants of the Jovian forces?」"
+  },
+  {
+   "i": 118,
+   "speaker": "Трай Бомбер",
+   "text": "「Что ж, слушайте сюда, юпитерианцы!\n　Сейчас вы узнаете, что такое настоящая справедливость!」",
+   "orig": "Tri Bomber\n「Well, let me tell you something, Jovians!\n　You're about to discover the true meaning of justice!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Гард Дайвер",
+   "text": "「Сообщений о действиях террористов было слишком много.」",
+   "orig": "Guard Diver\n「There have been so many reports of terrorist activity.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Гард Дайвер",
+   "text": "「Я не позволю этим террористам и дальше\n　разрушать жизни обычных граждан!」",
+   "orig": "Guard Diver\n「I cannot allow these terrorists to continue\n　ruining the lives of ordinary citizens!」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Ahh!」"
+  }
+ ]
+}

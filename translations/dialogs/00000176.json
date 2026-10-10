@@ -1,0 +1,1276 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Ангар Арзенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Мэй",
+   "text": "「Джилл.」",
+   "orig": "Mei\n「Jill.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Джилл",
+   "text": "「Подготовка завершена.」",
+   "orig": "Jill\n「Preparations are in order.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Мэй",
+   "text": "「И мы правда её туда отправим?\n　Серьёзно?」",
+   "orig": "Mei\n「So we're sending her out there?\n　I mean, really?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Джилл",
+   "text": "「Да.」",
+   "orig": "Jill\n「Yes.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Анж",
+   "text": "「О чём вы говорите?」",
+   "orig": "Ange\n「What are you talking about?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Джилл",
+   "text": "「Это твоя машина.」",
+   "orig": "Jill\n「This is your unit.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Анж",
+   "text": "「Выглядит довольно старой.」",
+   "orig": "Ange\n「It looks pretty old.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Джилл",
+   "text": "「Дряхлый двигатель, безумные ограничители.\n　Эта развалина может рассыпаться в любой миг.\n　Разве не идеально для той, кто жаждет смерти?」",
+   "orig": "Jill\n「A decrepit engine and insane energy restraints.\n　This piece of junk could fall apart at any moment.\n　Isn't it perfect for someone with a death wish?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Анж",
+   "text": "「...」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 13,
+   "speaker": "Джилл",
+   "text": "「Её имя — Вилькисс.」",
+   "orig": "Jill\n「It's name is Villkiss.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Анж",
+   "text": "「В этой штуке я смогу умереть.\n　И снова стать Анжелизой.」",
+   "orig": "Ange\n「I can die in this thing.\n　And become Angelise again.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Джилл",
+   "text": "「Последняя милость.\n　Верну тебе это перед смертью.」",
+   "orig": "Jill\n「A final act of mercy.\n　I'll return this to you before you die.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Анж",
+   "text": "「Кольцо, что дала мне мать.」",
+   "orig": "Ange\n「The ring my mother gave me.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Джилл",
+   "text": "「Иди.\n　И сражайся.」",
+   "orig": "Jill\n「Go.\n　And fight.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Анж",
+   "text": "（Мама.\n　Скоро ты вернёшь свою Анжелизу.）",
+   "orig": "Ange\n（Mother.\n　You'll soon have your Angelise back.）"
+  },
+  {
+   "i": 22,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Ангар Арзенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Hangar-"
+  },
+  {
+   "i": 23,
+   "speaker": "Хатауэй",
+   "text": "「Джудо!\n　Ребята!」",
+   "orig": "Hathaway\n「Judau!\n　Everyone!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Джудо",
+   "text": "「Ну ты и напугал нас, Хатауэй!」",
+   "orig": "Judau\n「You had me worried, Hathaway!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Джудо",
+   "text": "「Говорю так, а пока мы тебя искали,\n　нас самих, похоже, чуть не пришлось спасать.」",
+   "orig": "Judau\n「I say that, but when we were searching for you,\n　we apparently almost needed a search party for ourselves.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Клузо",
+   "text": "「Значит, вы из отряда «Лондо Белл».\n　Что здесь происходит?」",
+   "orig": "Clouseau\n「So you're from Londo Bell's unit.\n　What's going on here?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Бича",
+   "text": "「Да мы сами без понятия.」",
+   "orig": "Beecha\n「We have no idea.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Эль",
+   "text": "「Мы попали в шторм в открытом море и\n　вдруг оказались среди ясной синей воды.」",
+   "orig": "Elle\n「We got caught up in a storm at sea and\n　suddenly found ourselves on clear blue seas.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Ру",
+   "text": "「Давайте познакомимся.\n　Я Ру Лука.」",
+   "orig": "Roux\n「Let's introduce ourselves.\n　I'm Roux Louka.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Джудо",
+   "text": "「Я Джудо Ашта.\n　А это Бича и Эль.」",
+   "orig": "Judau\n「I'm Judau Ashta.\n　And that's Beecha and Elle.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Соскэ",
+   "text": "「Я уже слышал это имя.\n　Значит, ваш отряд «Гандамов» был ядром\n　боевых сил АЕУГ в Первой войне Нео-Зеона.」",
+   "orig": "Sousuke\n「I've heard that name before.\n　So your Gundam team was the AEUG core\n　fighting force during the First Neo Zeon War.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Джудо",
+   "text": "「О! Мы известнее, чем я думал!」",
+   "orig": "Judau\n「Oh! We're more famous than I thought!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Ру",
+   "text": "「Нам сообщили, что «Дана» с испытуемым\n　Ξ Гандамом пропал в Тихом океане,\n　и нас отправили на поиски.」",
+   "orig": "Roux\n「We heard reports that the Danaan testing\n　Ξ Gundam had been lost in the Pacific Ocean\n　and were dispatched to search for it.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Джудо",
+   "text": "「Дальше — как я уже говорил.\n　Не успели понять — вокруг синее море.」",
+   "orig": "Judau\n「The rest is as I explained earlier.\n　The next thing we knew, it was all blue seas.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Хатауэй",
+   "text": "「Да, с нами было то же самое.」",
+   "orig": "Hathaway\n「Yeah, the same thing happened to us.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Курц",
+   "text": "「Что ж. И снова добро пожаловать\n　на Землю этого измерения.」",
+   "orig": "Kurz\n「Well, then.\n　Welcome again to this dimension's Earth.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Эль",
+   "text": "「Этого измерения...」",
+   "orig": "Elle\n「This dimension's...」"
+  },
+  {
+   "i": 38,
+   "speaker": "Бича",
+   "text": "「Земля?」",
+   "orig": "Beecha\n「Earth?」"
+  },
+  {
+   "i": 39,
+   "speaker": "Мао",
+   "text": "「Понимаю вашу реакцию.\n　Но это правда.」",
+   "orig": "Mao\n「I understand your reaction.\n　But it's the truth.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Джудо",
+   "text": "「Выходит, тот шторм — вроде дыры,\n　что соединяет наш мир с этим?」",
+   "orig": "Judau\n「That storm seems to be like a hole\n　that connects our world to this one?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Соскэ",
+   "text": "「Командир и Тидори такого же мнения.」",
+   "orig": "Sousuke\n「Commander and Chidori are of that opinion.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Клузо",
+   "text": "「И раз эти Драконы появились\n　в момент нашего переноса,\n　мы думаем, что связь тут тоже есть.」",
+   "orig": "Clouseau\n「And because those Dragons appeared\n　when we were teleported,\n　we believe there is a connection there as well.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Джудо",
+   "text": "「Остаётся главный вопрос.\n　Сможем ли мы вернуться?」",
+   "orig": "Judau\n「So the biggest question remains.\n　Can we go back?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Хатауэй",
+   "text": "「Вот именно.」",
+   "orig": "Hathaway\n「Right.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Клузо",
+   "text": "「К сожалению, ответа у нас нет.」",
+   "orig": "Clouseau\n「Unfortunately, we don't have an answer for you.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Клузо",
+   "text": "「Пока мы стараемся не рисковать\n　и разобраться в обстановке.」",
+   "orig": "Clouseau\n「For now, we're trying to keep safe\n　and get a handle on the situation.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Джудо",
+   "text": "「Но что будет с Землёй без отряда\n　«Гандамов» и «Мифрила»?」",
+   "orig": "Judau\n「But what's to become of Earth without\n　the Gundam team and Mithril?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Соскэ",
+   "text": "「Сейчас нет смысла об этом гадать.」",
+   "orig": "Sousuke\n「Not worth speculating on that now.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Джудо",
+   "text": "「Знаю, но всё равно.」",
+   "orig": "Judau\n「I know, but still.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Тобиа",
+   "text": "「А ты что думаешь, $n?」",
+   "orig": "Tobia\n「What do you think, $n?」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「Может, это просто совпадение?」",
+   "orig": "$n\n「Maybe it's just a coincidence?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Тобиа",
+   "text": "「Но «Дабл-Зета», «Зета»,\n　Хяку Шики, «Гандам Mk-II», Ξ Гандам...」",
+   "orig": "Tobia\n「But ZZ Gundam, Z Gundam,\n　Hyaku Shiki, Gundam Mk-II, Ξ Gundam...」"
+  },
+  {
+   "i": 53,
+   "speaker": "Тобиа",
+   "text": "「В нашем мире эти доспехи применяли\n　100 лет назад, при Амуро Рэе.」",
+   "orig": "Tobia\n「Those suits were used in our world\n　100 years ago, when Amuro Ray was around.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Вельт",
+   "text": "「«Гандам».\n　Всё началось с модели времён\n　Однолетней войны — RX-78.」",
+   "orig": "Velt\n「Gundam.\n　It all started with the One Year\n　War model, the RX-78.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Вельт",
+   "text": "「Невероятный успех RX-78 закрепил\n　имя «Гандам», а последующие модели\n　лишь укрепили эту славу.」",
+   "orig": "Velt\n「The incredible success of the RX-78\n　solidified the Gundam name, which would\n　only be bolstered by successor models.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Лотти",
+   "text": "「Познания твои, конечно, обширны,\n　но ты бы лучше нам тут помог.」",
+   "orig": "Lottie\n「We appreciate your extensive knowledge,\n　but try to give us a hand here.」"
+  },
+  {
+   "i": 57,
+   "speaker": "$n",
+   "text": "「Я тоже знаю про их машины.\n　Искал «Гандам» в военной\n　базе данных.」",
+   "orig": "$n\n「I know about their units, too.\n　I looked up Gundam in the military\n　database.」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Но я не думаю, что они\n　пришли из прошлого\n　нашего мира.」",
+   "orig": "$n\n「I don't think it's the case\n　that they came from\n　our world's past, though.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Тобиа",
+   "text": "「Но...」",
+   "orig": "Tobia\n「But...」"
+  },
+  {
+   "i": 60,
+   "speaker": "$n",
+   "text": "「Знаешь, я спросил Курца, и он сказал:\n　их моря покраснели из-за катастрофы.」",
+   "orig": "$n\n「You know, I asked Kurz,\n　and he said a disaster made their seas red.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Тобиа",
+   "text": "「Хм.」",
+   "orig": "Tobia\n「Huh.」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Если бы такое случилось 100 лет назад,\n　об этом наверняка остались бы записи.」",
+   "orig": "$n\n「If something like that happened 100 years ago,\n　surely there would be records of it.」"
+  },
+  {
+   "i": 63,
+   "speaker": "$n",
+   "text": "「И не странно ли, что мобильные доспехи столетней давности\n　по характеристикам почти не уступают\n　твоему «Скалл Харту»?」",
+   "orig": "$n\n「And isn't it strange that mobile suits from 100 years ago\n　exhibit virtually the same performance capabilities\n　as your Skull Heart?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Тобиа",
+   "text": "「Хм. В этом есть смысл.」",
+   "orig": "Tobia\n「Hmm. You have a point.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Канамэ",
+   "text": "「Тебя, похоже, смущает, что наш «Гандам»\n　так похож на машины из твоего мира.」",
+   "orig": "Kaname\n「You seem bothered by the resemblance of\n　our Gundam to those of your world.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тобиа",
+   "text": "「А ты кто?」",
+   "orig": "Tobia\n「Who are you?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Канамэ",
+   "text": "「Я Канамэ Тидори.\n　Вроде как тактический советник «Даны».」",
+   "orig": "Kaname\n「I'm Kaname Chidori.\n　I'm basically the Danaan's tactical advisor.」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Даже без настоящей должности?」",
+   "orig": "$n\n「Not even with a real title?」"
+  },
+  {
+   "i": 69,
+   "speaker": "Канамэ",
+   "text": "「Возвращаясь к «Гандамам»:\n　ты, похоже, считаешь, что машины отряда Джудо —\n　основа ваших.」",
+   "orig": "Kaname\n「Getting back to the Gundam topic,\n　you seem to think that Judau's team's Gundams\n　are the foundations of yours.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Канамэ",
+   "text": "「А я, напротив, думаю,\n　что технологии ваших «Гандамов» повлияли\n　на «Гандамов» нашего мира.」",
+   "orig": "Kaname\n「I, on the other hand,\n　think the technology of your Gundams influenced\n　the Gundams of our world.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Тобиа",
+   "text": "「Даже на X-1?」",
+   "orig": "Tobia\n「Even the X-1?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Канамэ",
+   "text": "「Точнее, при создании наших использовали\n　технологии поколения «Гандамов» до ваших.」",
+   "orig": "Kaname\n「To be precise, the technology in the generation of\n　Gundams before yours was used to make ours.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Канамэ",
+   "text": "「Иначе говоря, у всех «Гандамов» нашего\n　мира, можно сказать, одни родители.」",
+   "orig": "Kaname\n「In order words, all of our world's\n　Gundams share the same parents, so to speak.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Тобиа",
+   "text": "「И что это значит?」",
+   "orig": "Tobia\n「What does that mean?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Канамэ",
+   "text": "「Извини.\n　Это просто моя интуиция.」",
+   "orig": "Kaname\n「Sorry.\n　It's just my intuition speaking.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Канамэ",
+   "text": "「Но лучше я ничего не придумала.」",
+   "orig": "Kaname\n「But it's the best I've come up with.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Тобиа",
+   "text": "「О чём это она?」",
+   "orig": "Tobia\n「What's all that about?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Вельт",
+   "text": "「А ход мысли-то интересный.\n　У девочки, похоже, чутьё инженера.」",
+   "orig": "Velt\n「Well, it is an interesting approach.\n　This kid seems to have an engineer's intuition.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Лотти",
+   "text": "「С виду обычная девчонка,\n　но советник она явно не для вида.」",
+   "orig": "Lottie\n「Looks like your everyday kid,\n　but that tactical advisor title isn't just for show.」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Нам тут всё равно не додумать.\n　Надо скорее возвращаться на «Ямато»\n　и поручить расследование офицеру Санаде.」",
+   "orig": "$n\n「We're wasting our time thinking about this.\n　We need to hurry back to the Yamato\n　and get Officer Sanada to investigate.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Тобиа",
+   "text": "「И правда.」",
+   "orig": "Tobia\n「Good point.」"
+  },
+  {
+   "i": 82,
+   "speaker": "$n",
+   "text": "「Знаешь, я просто молюсь,\n　чтобы они не оказались нашими предками.」",
+   "orig": "$n\n「Well, you know,\n　I'm just praying that they're not our ancestors.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Тобиа",
+   "text": "「Да уж.\n　Думаю о том же, когда вижу Хатауэя.」",
+   "orig": "Tobia\n「Yeah.\n　I think the same when I see Hathaway.」"
+  },
+  {
+   "i": 84,
+   "speaker": "$n",
+   "text": "「Той принцессы, о которой\n　говорили, здесь, похоже, нет.」",
+   "orig": "$n\n「That princess we've heard about\n　doesn't appear to be here.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Тобиа",
+   "text": "「Да и $kwbМэйл Райдеров$kwe тут вообще нет.」",
+   "orig": "Tobia\n「None of the $kwbMail Riders$kwe are here, actually.」"
+  },
+  {
+   "i": 86,
+   "speaker": "$n",
+   "text": "「Слышал, они там все красотки,\n　и надеялся познакомиться.」",
+   "orig": "$n\n「I heard they were a bunch of cuties\n　and was hoping to introduce myself.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Тобиа",
+   "text": "「Вот поэтому Курц и Сабуроута\n　там и крутились.」",
+   "orig": "Tobia\n「That's exactly why Kurz and Saburouta\n　were hanging out over there.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Тобиа",
+   "text": "「А ты что думаешь, $n?」",
+   "orig": "Tobia\n「What do you think, $n?」"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「Может, это просто совпадение?」",
+   "orig": "$n\n「Maybe it's just a coincidence?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тобиа",
+   "text": "「Но «Дабл-Зета», «Зета»,\n　Хяку Шики, «Гандам Mk-II», Ξ Гандам...」",
+   "orig": "Tobia\n「But ZZ Gundam, Z Gundam,\n　Hyaku Shiki, Gundam Mk-II, Ξ Gundam...」"
+  },
+  {
+   "i": 91,
+   "speaker": "Тобиа",
+   "text": "「В нашем мире эти доспехи применяли\n　100 лет назад, при Амуро Рэе.」",
+   "orig": "Tobia\n「Those suits were used in our world\n　100 years ago, when Amuro Ray was around.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Вельт",
+   "text": "「«Гандам».\n　Всё началось с модели времён\n　Однолетней войны — RX-78.」",
+   "orig": "Velt\n「Gundam.\n　It all started with the One Year\n　War model, the RX-78.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Вельт",
+   "text": "「Невероятный успех RX-78 закрепил\n　имя «Гандам», а последующие модели\n　лишь укрепили эту славу.」",
+   "orig": "Velt\n「The incredible success of the RX-78\n　solidified the Gundam name, which would\n　only be bolstered by successor models.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Лотти",
+   "text": "「Познания твои, конечно, обширны,\n　но ты бы лучше нам тут помог.」",
+   "orig": "Lottie\n「We appreciate your extensive knowledge,\n　but try to give us a hand here.」"
+  },
+  {
+   "i": 95,
+   "speaker": "$n",
+   "text": "「Я тоже знаю про их машины.\n　Искал «Гандам» в военной\n　базе данных.」",
+   "orig": "$n\n「I know about their units, too.\n　I looked up Gundam in the military\n　database.」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Но я не думаю, что они\n　пришли из прошлого\n　нашего мира.」",
+   "orig": "$n\n「I don't think it's the case\n　that they came from\n　our world's past, though.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тобиа",
+   "text": "「Но...」",
+   "orig": "Tobia\n「But...」"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「Знаешь, я спросил Канамэ, и она сказала:\n　их моря покраснели из-за катастрофы.」",
+   "orig": "$n\n「You know, I asked Kaname,\n　and she said a disaster made their seas red.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Тобиа",
+   "text": "「Хм.」",
+   "orig": "Tobia\n「Huh.」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Если бы такое случилось 100 лет назад,\n　об этом наверняка остались бы записи.」",
+   "orig": "$n\n「If something like that happened 100 years ago,\n　surely there would be records of it.」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「И не странно ли, что мобильные доспехи столетней давности\n　по характеристикам почти не уступают\n　твоему «Скалл Харту»?」",
+   "orig": "$n\n「And isn't it strange that mobile suits from 100 years ago\n　exhibit virtually the same performance capabilities\n　as your Skull Heart?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тобиа",
+   "text": "「Хм. В этом есть смысл.」",
+   "orig": "Tobia\n「Hmm. You have a point.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Канамэ",
+   "text": "「Тебя, похоже, смущает, что наш «Гандам»\n　так похож на машины из твоего мира.」",
+   "orig": "Kaname\n「You seem bothered by the resemblance of\n　our Gundam to those of your world.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Тобиа",
+   "text": "「А ты кто?」",
+   "orig": "Tobia\n「Who are you?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Канамэ",
+   "text": "「Я Канамэ Тидори.\n　Вроде как тактический советник «Даны».」",
+   "orig": "Kaname\n「I'm Kaname Chidori.\n　I'm basically the Danaan's tactical advisor.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Тобиа",
+   "text": "「Даже без настоящей должности?」",
+   "orig": "Tobia\n「Not even with a real title?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Канамэ",
+   "text": "「Возвращаясь к «Гандамам»:\n　ты, похоже, считаешь, что машины отряда Джудо —\n　основа ваших.」",
+   "orig": "Kaname\n「Getting back to the Gundam topic,\n　you seem to think that Judau's team's Gundams\n　are the foundations of yours.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Канамэ",
+   "text": "「А я, напротив, думаю,\n　что технологии ваших «Гандамов» повлияли\n　на «Гандамов» нашего мира.」",
+   "orig": "Kaname\n「I, on the other hand,\n　think the technology of your Gundams influenced\n　the Gundams of our world.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Тобиа",
+   "text": "「И что это значит?」",
+   "orig": "Tobia\n「What does that mean?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Канамэ",
+   "text": "「Извини.\n　Это просто моя интуиция.」",
+   "orig": "Kaname\n「Sorry.\n　It's just my intuition speaking.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Канамэ",
+   "text": "「Но лучше я ничего не придумала.」",
+   "orig": "Kaname\n「But it's the best I've come up with.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Тобиа",
+   "text": "「О чём это она?」",
+   "orig": "Tobia\n「What's all that about?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Вельт",
+   "text": "「А ход мысли-то интересный.\n　У девочки, похоже, чутьё инженера.」",
+   "orig": "Velt\n「Well, it is an interesting approach.\n　This kid seems to have an engineer's intuition.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Лотти",
+   "text": "「С виду обычная девчонка,\n　но советник она явно не для вида.」",
+   "orig": "Lottie\n「Looks like your everyday kid,\n　but that tactical advisor title isn't just for show.」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Надо скорее вернуться на «Ямато»\n　и поручить расследование офицеру Санаде.」",
+   "orig": "$n\n「We should hurry back to the Yamato\n　and get Officer Sanada to investigate.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Тобиа",
+   "text": "「И правда.」",
+   "orig": "Tobia\n「Good point.」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「Знаешь, я просто молюсь,\n　чтобы они не оказались нашими предками.」",
+   "orig": "$n\n「Well, you know,\n　I'm just praying that they're not our ancestors.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Тобиа",
+   "text": "「Да уж.\n　Думаю о том же, когда вижу Хатауэя.」",
+   "orig": "Tobia\n「Yeah.\n　I think the same when I see Hathaway.」"
+  },
+  {
+   "i": 119,
+   "speaker": "$n",
+   "text": "「Той принцессы, о которой\n　говорили, здесь, похоже, нет.」",
+   "orig": "$n\n「That princess we've heard about\n　doesn't appear to be here.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Тобиа",
+   "text": "「Да и $kwbМэйл Райдеров$kwe тут вообще нет.」",
+   "orig": "Tobia\n「None of the $kwbMail Riders$kwe are here, actually.」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「Говорят, это боевой отряд из одних девушек.\n　Думаю, мы могли бы с ними поладить.」",
+   "orig": "$n\n「I heard they were an all-girl fighting force\n　and thought we might be able to get along.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Тобиа",
+   "text": "「Вот поэтому Курц и Сабуроута\n　там и крутились.」",
+   "orig": "Tobia\n「That's exactly why Kurz and Saburouta\n　were hanging out over there.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Тобиа",
+   "text": "「А ты что думаешь, $n?」",
+   "orig": "Tobia\n「What do you think, $n?」"
+  },
+  {
+   "i": 124,
+   "speaker": "$n",
+   "text": "「Может, это просто совпадение?」",
+   "orig": "$n\n「Maybe it's just a coincidence?」"
+  },
+  {
+   "i": 125,
+   "speaker": "Тобиа",
+   "text": "「Но «Дабл-Зета», «Зета»,\n　Хяку Шики, «Гандам Mk-II», Ξ Гандам...」",
+   "orig": "Tobia\n「But ZZ Gundam, Z Gundam,\n　Hyaku Shiki, Gundam Mk-II, Ξ Gundam...」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тобиа",
+   "text": "「В нашем мире эти доспехи применяли\n　100 лет назад, при Амуро Рэе.」",
+   "orig": "Tobia\n「Those suits were used in our world\n　100 years ago, when Amuro Ray was around.」"
+  },
+  {
+   "i": 127,
+   "speaker": "$n",
+   "text": "「Я тоже знаю про их машины.\n　Искал «Гандам» в военной\n　базе данных.」",
+   "orig": "$n\n「I know about their units, too.\n　I looked up Gundam in the military\n　database.」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「Но я не думаю, что они\n　пришли из прошлого\n　нашего мира.」",
+   "orig": "$n\n「I don't think it's the case\n　that they came from\n　our world's past, though.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Тобиа",
+   "text": "「Но...」",
+   "orig": "Tobia\n「But...」"
+  },
+  {
+   "i": 130,
+   "speaker": "$n",
+   "text": "「Знаешь, я спросил Курца, и он сказал:\n　их моря покраснели из-за катастрофы.」",
+   "orig": "$n\n「You know, I asked Kurz,\n　and he said a disaster made their seas red.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Тобиа",
+   "text": "「Хм.」",
+   "orig": "Tobia\n「Huh.」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Если бы такое случилось 100 лет назад,\n　об этом наверняка остались бы записи.」",
+   "orig": "$n\n「If something like that happened 100 years ago,\n　surely there would be records of it.」"
+  },
+  {
+   "i": 133,
+   "speaker": "$n",
+   "text": "「И не странно ли, что мобильные доспехи столетней давности\n　по характеристикам почти не уступают\n　твоему «Скалл Харту»?」",
+   "orig": "$n\n「And isn't it strange that mobile suits from 100 years ago\n　exhibit virtually the same performance capabilities\n　as your Skull Heart?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Тобиа",
+   "text": "「Хм. В этом есть смысл.」",
+   "orig": "Tobia\n「Hmm. You have a point.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Канамэ",
+   "text": "「Тебя, похоже, смущает, что наш «Гандам»\n　так похож на машины из твоего мира.」",
+   "orig": "Kaname\n「You seem bothered by the resemblance of\n　our Gundam to those of your world.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Тобиа",
+   "text": "「А ты кто?」",
+   "orig": "Tobia\n「Who are you?」"
+  },
+  {
+   "i": 137,
+   "speaker": "Канамэ",
+   "text": "「Я Канамэ Тидори.\n　Вроде как тактический советник «Даны».」",
+   "orig": "Kaname\n「I'm Kaname Chidori.\n　I'm basically the Danaan's tactical advisor.」"
+  },
+  {
+   "i": 138,
+   "speaker": "$n",
+   "text": "「Даже без настоящей должности?」",
+   "orig": "$n\n「Not even with a real title?」"
+  },
+  {
+   "i": 139,
+   "speaker": "Канамэ",
+   "text": "「Возвращаясь к «Гандамам»:\n　ты, похоже, считаешь, что машины отряда Джудо —\n　основа ваших.」",
+   "orig": "Kaname\n「Getting back to the Gundam topic,\n　you seem to think that Judau's team's Gundams\n　are the foundations of yours.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Канамэ",
+   "text": "「А я, напротив, думаю,\n　что технологии ваших «Гандамов» повлияли\n　на «Гандамов» нашего мира.」",
+   "orig": "Kaname\n「I, on the other hand,\n　think the technology of your Gundams influenced\n　the Gundams of our world.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Тобиа",
+   "text": "「Даже на X-1?」",
+   "orig": "Tobia\n「Even the X-1?」"
+  },
+  {
+   "i": 142,
+   "speaker": "Канамэ",
+   "text": "「Точнее, при создании наших использовали\n　технологии поколения «Гандамов» до ваших.」",
+   "orig": "Kaname\n「To be precise, the technology in the generation of\n　Gundams before yours was used to make ours.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Канамэ",
+   "text": "「Иначе говоря, у всех «Гандамов» нашего\n　мира, можно сказать, одни родители.」",
+   "orig": "Kaname\n「In order words, all of our world's\n　Gundams share the same parents, so to speak.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Тобиа",
+   "text": "「И что это значит?」",
+   "orig": "Tobia\n「What does that mean?」"
+  },
+  {
+   "i": 145,
+   "speaker": "Канамэ",
+   "text": "「Извини.\n　Это просто моя интуиция.」",
+   "orig": "Kaname\n「Sorry.\n　It's just my intuition speaking.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Канамэ",
+   "text": "「Но лучше я ничего не придумала.」",
+   "orig": "Kaname\n「But it's the best I've come up with.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Тобиа",
+   "text": "「О чём это она?」",
+   "orig": "Tobia\n「What's all that about?」"
+  },
+  {
+   "i": 148,
+   "speaker": "$n",
+   "text": "「Нам тут всё равно не додумать.\n　Надо скорее возвращаться на «Ямато»\n　и поручить расследование офицеру Санаде.」",
+   "orig": "$n\n「We're wasting our time thinking about this.\n　We need to hurry back to the Yamato\n　and get Officer Sanada to investigate.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Тобиа",
+   "text": "「И правда.」",
+   "orig": "Tobia\n「Good point.」"
+  },
+  {
+   "i": 150,
+   "speaker": "$n",
+   "text": "「Знаешь, я просто молюсь,\n　чтобы они не оказались нашими предками.」",
+   "orig": "$n\n「Well, you know,\n　I'm just praying that they're not our ancestors.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Тобиа",
+   "text": "「Да уж.\n　Думаю о том же, когда вижу Хатауэя.」",
+   "orig": "Tobia\n「Yeah.\n　I think the same when I see Hathaway.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Той принцессы, о которой\n　говорили, здесь, похоже, нет.」",
+   "orig": "$n\n「That princess we've heard about\n　doesn't appear to be here.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Тобиа",
+   "text": "「Да и $kwbМэйл Райдеров$kwe тут вообще нет.」",
+   "orig": "Tobia\n「None of the $kwbMail Riders$kwe are here, actually.」"
+  },
+  {
+   "i": 154,
+   "speaker": "$n",
+   "text": "「Слышал, они там все красотки,\n　и надеялся познакомиться.」",
+   "orig": "$n\n「I heard they were a bunch of cuties\n　and was hoping to introduce myself.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Тобиа",
+   "text": "「Вот поэтому Курц и Сабуроута\n　там и крутились.」",
+   "orig": "Tobia\n「That's exactly why Kurz and Saburouta\n　were hanging out over there.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Тобиа",
+   "text": "「А ты что думаешь, $n?」",
+   "orig": "Tobia\n「What do you think, $n?」"
+  },
+  {
+   "i": 157,
+   "speaker": "$n",
+   "text": "「Может, это просто совпадение?」",
+   "orig": "$n\n「Maybe it's just a coincidence?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Тобиа",
+   "text": "「Но «Дабл-Зета», «Зета»,\n　Хяку Шики, «Гандам Mk-II», Ξ Гандам...」",
+   "orig": "Tobia\n「But ZZ Gundam, Z Gundam,\n　Hyaku Shiki, Gundam Mk-II, Ξ Gundam...」"
+  },
+  {
+   "i": 159,
+   "speaker": "Тобиа",
+   "text": "「В нашем мире эти доспехи применяли\n　100 лет назад, при Амуро Рэе.」",
+   "orig": "Tobia\n「Those suits were used in our world\n　100 years ago, when Amuro Ray was around.」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Я тоже знаю про их машины.\n　Искал «Гандам» в военной\n　базе данных.」",
+   "orig": "$n\n「I know about their units, too.\n　I looked up Gundam in the military\n　database.」"
+  },
+  {
+   "i": 161,
+   "speaker": "$n",
+   "text": "「Но я не думаю, что они\n　пришли из прошлого\n　нашего мира.」",
+   "orig": "$n\n「I don't think it's the case\n　that they came from\n　our world's past, though.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Тобиа",
+   "text": "「Но...」",
+   "orig": "Tobia\n「But...」"
+  },
+  {
+   "i": 163,
+   "speaker": "$n",
+   "text": "「Знаешь, я спросил Канамэ, и она сказала:\n　их моря покраснели из-за катастрофы.」",
+   "orig": "$n\n「You know, I asked Kaname,\n　and she said a disaster made their seas red.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Тобиа",
+   "text": "「Хм.」",
+   "orig": "Tobia\n「Huh.」"
+  },
+  {
+   "i": 165,
+   "speaker": "$n",
+   "text": "「Если бы такое случилось 100 лет назад,\n　об этом наверняка остались бы записи.」",
+   "orig": "$n\n「If something like that happened 100 years ago,\n　surely there would be records of it.」"
+  },
+  {
+   "i": 166,
+   "speaker": "$n",
+   "text": "「И не странно ли, что мобильные доспехи столетней давности\n　по характеристикам почти не уступают\n　твоему «Скалл Харту»?」",
+   "orig": "$n\n「And isn't it strange that mobile suits from 100 years ago\n　exhibit virtually the same performance capabilities\n　as your Skull Heart?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Тобиа",
+   "text": "「Хм. В этом есть смысл.」",
+   "orig": "Tobia\n「Hmm. You have a point.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Канамэ",
+   "text": "「Тебя, похоже, смущает, что наш «Гандам»\n　так похож на машины из твоего мира.」",
+   "orig": "Kaname\n「You seem bothered by the resemblance of\n　our Gundam to those of your world.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Тобиа",
+   "text": "「А ты кто?」",
+   "orig": "Tobia\n「Who are you?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Канамэ",
+   "text": "「Я Канамэ Тидори.\n　Вроде как тактический советник «Даны».」",
+   "orig": "Kaname\n「I'm Kaname Chidori.\n　I'm basically the Danaan's tactical advisor.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Тобиа",
+   "text": "「Даже без настоящей должности?」",
+   "orig": "Tobia\n「Not even with a real title?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Канамэ",
+   "text": "「Возвращаясь к «Гандамам»:\n　ты, похоже, считаешь, что машины отряда Джудо —\n　основа ваших.」",
+   "orig": "Kaname\n「Getting back to the Gundam topic,\n　you seem to think that Judau's team's Gundams\n　are the foundations of yours.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Канамэ",
+   "text": "「А я, напротив, думаю,\n　что технологии ваших «Гандамов» повлияли\n　на «Гандамов» нашего мира.」",
+   "orig": "Kaname\n「I, on the other hand,\n　think the technology of your Gundams influenced\n　the Gundams of our world.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Тобиа",
+   "text": "「И что это значит?」",
+   "orig": "Tobia\n「What does that mean?」"
+  },
+  {
+   "i": 175,
+   "speaker": "Канамэ",
+   "text": "「Извини.\n　Это просто моя интуиция.」",
+   "orig": "Kaname\n「Sorry.\n　It's just my intuition speaking.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Канамэ",
+   "text": "「Но лучше я ничего не придумала.」",
+   "orig": "Kaname\n「But it's the best I've come up with.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Тобиа",
+   "text": "「О чём это она?」",
+   "orig": "Tobia\n「What's all that about?」"
+  },
+  {
+   "i": 178,
+   "speaker": "$n",
+   "text": "「Надо скорее вернуться на «Ямато»\n　и поручить расследование офицеру Санаде.」",
+   "orig": "$n\n「We should hurry back to the Yamato\n　and get Officer Sanada to investigate.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Тобиа",
+   "text": "「И правда.」",
+   "orig": "Tobia\n「Good point.」"
+  },
+  {
+   "i": 180,
+   "speaker": "$n",
+   "text": "「Знаешь, я просто молюсь,\n　чтобы они не оказались нашими предками.」",
+   "orig": "$n\n「Well, you know,\n　I'm just praying that they're not our ancestors.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Тобиа",
+   "text": "「Да уж.\n　Думаю о том же, когда вижу Хатауэя.」",
+   "orig": "Tobia\n「Yeah.\n　I think the same when I see Hathaway.」"
+  },
+  {
+   "i": 182,
+   "speaker": "$n",
+   "text": "「Той принцессы, о которой\n　говорили, здесь, похоже, нет.」",
+   "orig": "$n\n「That princess we've heard about\n　doesn't appear to be here.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Тобиа",
+   "text": "「Да и $kwbМэйл Райдеров$kwe тут вообще нет.」",
+   "orig": "Tobia\n「None of the $kwbMail Riders$kwe are here, actually.」"
+  },
+  {
+   "i": 184,
+   "speaker": "$n",
+   "text": "「Говорят, это боевой отряд из одних девушек.\n　Думаю, мы могли бы с ними поладить.」",
+   "orig": "$n\n「I heard they were an all-girl fighting force\n　and thought we might be able to get along.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Тобиа",
+   "text": "「Вот поэтому Курц и Сабуроута\n　там и крутились.」",
+   "orig": "Tobia\n「That's exactly why Kurz and Saburouta\n　were hanging out over there.」"
+  },
+  {
+   "i": 189,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Кладбище Арзенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Cemetery-"
+  },
+  {
+   "i": 190,
+   "speaker": "Анж",
+   "text": "「Прощайте,\n　отец, мать, брат и Сильвия.」",
+   "orig": "Ange\n「Goodbye,\n　Father, Mother, Brother, and Sylvia.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Анж",
+   "text": "「Срезав волосы, я оставляю всё позади.」",
+   "orig": "Ange\n「As I cut my hair, I leave everything behind me.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Анж",
+   "text": "「Всё, что у меня осталось, —\n　песня, которой научила меня мать.」",
+   "orig": "Ange\n「All that I have left is\n　the song that my mother taught me.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Анж",
+   "text": "（Eternal Story.\n　Песня, что хранит нас и указывает путь.）",
+   "orig": "Ange\n（Eternal Story.\n　The song that protects us and shows us the way.）"
+  },
+  {
+   "i": 194,
+   "speaker": "Анж",
+   "text": "（Мама...）",
+   "orig": "Ange\n（Mother...）"
+  },
+  {
+   "i": 195,
+   "speaker": "Анж",
+   "text": "（У меня ничего не осталось.\n　Мне ничего не нужно. Ни имени. Ничего.）",
+   "orig": "Ange\n（I have nothing left.\n　I don't need anything. My name. Nothing.）"
+  },
+  {
+   "i": 196,
+   "speaker": "Анж",
+   "text": "（Коко, Миранда, капитан.\n　Вы не могли погибнуть напрасно.）",
+   "orig": "Ange\n（Coco, Miranda, Captain.\n　Your deaths can't be in vain.）"
+  },
+  {
+   "i": 197,
+   "speaker": "Анж",
+   "text": "（Я выживу любой ценой. Буду пить грязь.\n　Буду ползать в земле. Буду кашлять кровью!）",
+   "orig": "Ange\n（I'll do whatever it takes to stay alive. I'll drink mud.\n　I'll crawl through dirt. I'll cough up blood!）"
+  },
+  {
+   "i": 198,
+   "speaker": "Анж",
+   "text": "（Я буду жить.）",
+   "orig": "Ange\n（I will live.）"
+  },
+  {
+   "i": 199,
+   "speaker": "Анж",
+   "text": "（Убивать, чтобы жить.）",
+   "orig": "Ange\n（Kill to live.）"
+  },
+  {
+   "i": 203,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Раздевалка Арзенала-",
+   "orig": "　\n　\n　　　　　　　　　　-Arzenal Locker Room-"
+  },
+  {
+   "i": 204,
+   "speaker": "Розали",
+   "text": "「Ух!\n　Как меня бесит эта Падшая принцесса!」",
+   "orig": "Rosalie\n「Ugh!\n　I've had it with that Fallen Princess!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Крис",
+   "text": "「Она невыносима.」",
+   "orig": "Chris\n「She's so annoying.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Розали",
+   "text": "「Ты же согласна, Хильда?」",
+   "orig": "Rosalie\n「You agree, don't you, Hilda?」"
+  },
+  {
+   "i": 207,
+   "speaker": "Хильда",
+   "text": "「А, да.」",
+   "orig": "Hilda\n「Uh, yeah.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Хильда",
+   "text": "「Извините.\n　Я пойду к себе в комнату.」",
+   "orig": "Hilda\n「Sorry.\n　I'm just gonna head back to my room.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Крис",
+   "text": "「Хильда...」",
+   "orig": "Chris\n「Hilda...」"
+  },
+  {
+   "i": 210,
+   "speaker": "Розали",
+   "text": "「Да оставь её, ладно?\n　Смерть Золы её подкосила сильнее всех.」",
+   "orig": "Rosalie\n「Leave her be, would you?\n　Zola's death seems to have hit her the hardest.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Розали",
+   "text": "「Мы обязательно за неё отомстим!\n　И за Хильду тоже!」",
+   "orig": "Rosalie\n「We will most definitely avenge her!\n　We'll do it for Hilda, too!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Найн",
+   "text": "「Это месть Драконам?\n　Или месть Анж?」",
+   "orig": "Nine\n「Is this vengeance against the Dragons?\n　Or vengeance against Ange?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Розали",
+   "text": "「Что за чёрт?\n　Ты откуда взялась?」",
+   "orig": "Rosalie\n「What the heck?\n　Where did you come from?」"
+  },
+  {
+   "i": 214,
+   "speaker": "Крис",
+   "text": "「Розали!\n　Это одна из чужаков!」",
+   "orig": "Chris\n「Rosalie!\n　It's one of the outsiders!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Найн",
+   "text": "「Ответьте на вопрос, пожалуйста.」",
+   "orig": "Nine\n「Please answer the question.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Розали",
+   "text": "「З-заткнись!\n　Не твоё дело!」",
+   "orig": "Rosalie\n「Sh-shut up!\n　It's none of your business!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Найн",
+   "text": "「Это моё дело.\n　Мы ведь союзники.」",
+   "orig": "Nine\n「It is my business.\n　We are allies, after all.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Крис",
+   "text": "「Союзники?」",
+   "orig": "Chris\n「Allies?」"
+  },
+  {
+   "i": 219,
+   "speaker": "Розали",
+   "text": "「Не смеши меня!\n　Не знаю, владеешь ты Маной или нет,\n　но ты всё равно считаешь нас скотом!」",
+   "orig": "Rosalie\n「Don't make me laugh!\n　I don't know if you can use Mana or not,\n　but I'm sure you still see us as lowly cattle!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Розали",
+   "text": "「Не знаю, что там задумала командир,\n　но связываться с вами я не собираюсь.」",
+   "orig": "Rosalie\n「I have no idea what the commander is thinking,\n　but I have no intention of mixing with you.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Крис",
+   "text": "「В-вот именно.」",
+   "orig": "Chris\n「W-what she said.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Найн",
+   "text": "「Люди, которые не люди?\n　Не вычисляется.」",
+   "orig": "Nine\n「Humans that aren't human?\n　Does not compute.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Найн",
+   "text": "「Люди сложнее, чем я думала.」",
+   "orig": "Nine\n「Humans are more complicated than I thought.」"
+  }
+ ]
+}

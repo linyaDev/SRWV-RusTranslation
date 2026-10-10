@@ -1,0 +1,436 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Салия",
+   "text": "「Все — в режим штурма, ждать.\n　Командую я.」",
+   "orig": "Salia\n「All units, standby in assault mode.\n　I'm in command.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Хильда",
+   "text": "「Капитан Зола с новенькими останется в тылу.」",
+   "orig": "Hilda\n「Captain Zola will wait in the rear with the recruits.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Вивиан",
+   "text": "「Скучно, Хильда?\n　А Розали с Крис как?」",
+   "orig": "Vivian\n「You lonely, Hilda?\n　How about Rosalie and Chris?」"
+  },
+  {
+   "i": 3,
+   "speaker": "Эрша",
+   "text": "「Вы все трое на капитана молитесь.」",
+   "orig": "Ersha\n「All three of you worship the captain.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Хильда",
+   "text": "「Ну.」",
+   "orig": "Hilda\n「Well.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Розали",
+   "text": "「Не понимаю я эту Падшую принцессу.」",
+   "orig": "Rosalie\n「I just don't get the Fallen Princess.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Анж",
+   "text": "「...」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 7,
+   "speaker": "Крис",
+   "text": "「Зачем она здесь?」",
+   "orig": "Chris\n「Why is she here?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Салия",
+   "text": "「Приказ капитана.」",
+   "orig": "Salia\n「Captain's orders.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Хильда",
+   "text": "「Да неважно.\n　Болтает громко. Сейчас и узнаем,\n　чего она стоит.」",
+   "orig": "Hilda\n「Whatever.\n　She talks big. Now we'll find out\n　if she can back it up.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Розали",
+   "text": "「Разве что обмочится, и всё.」",
+   "orig": "Rosalie\n「I doubt she'll do more than wet herself.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Крис",
+   "text": "「Это ты о своём первом бое, Розали?」",
+   "orig": "Chris\n「Talking about your first battle, Rosalie?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Салия",
+   "text": "「Хватит болтать!\n　Враг на подходе!」",
+   "orig": "Salia\n「Enough talking!\n　The enemy is approaching!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Розали",
+   "text": "「Сколько их!」",
+   "orig": "Rosalie\n「So many of them!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Крис",
+   "text": "「А чужаки нам не помогут?」",
+   "orig": "Chris\n「We're not having the outsiders help?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Хильда",
+   "text": "「Капитан отказалась.\n　Не хочет полагаться на чужаков.」",
+   "orig": "Hilda\n「The captain refused.\n　Didn't want to rely on outsiders.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Вивиан",
+   "text": "「Вот она, сильнейший капитан Арзенала!\n　Круто!」",
+   "orig": "Vivian\n「That's the Arzenal's strongest squad captain!\n　So cool!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Эрша",
+   "text": "「Смотри не опозорь её имя.」",
+   "orig": "Ersha\n「Try not to sully her name.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Салия",
+   "text": "「Противник класса «Шхуна».\n　Это будет проще простого.」",
+   "orig": "Salia\n「The enemies are Schooner-class.\n　This should be a piece of cake.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Хильда",
+   "text": "「Значит, можно и повольничать.」",
+   "orig": "Hilda\n「I guess that means we can do whatever.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Салия",
+   "text": "「Анж.」",
+   "orig": "Salia\n「Ange.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Анж",
+   "text": "「А, а-а-а.」",
+   "orig": "Ange\n「Ah, ahhh.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Эрша",
+   "text": "「Это нормально.\n　Ты их вблизи ещё не видела.」",
+   "orig": "Ersha\n「It's natural.\n　You've never seen one up close before.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Салия",
+   "text": "「Но, как я и говорила, Анж.\n　Здесь приказ командира — закон.」",
+   "orig": "Salia\n「But like I've said, Ange.\n　Here, the commander's orders are law.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Салия",
+   "text": "「А за дезертирство — смерть.」",
+   "orig": "Salia\n「And desertion is punishable by death.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Анж",
+   "text": "「!」",
+   "orig": "Ange\n「!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Салия",
+   "text": "「Я прошу немного.\n　Просто держись сзади и береги себя.」",
+   "orig": "Salia\n「I'm not asking much.\n　Just focus on protecting yourself back there.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Анж",
+   "text": "「...」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 28,
+   "speaker": "Салия",
+   "text": "「Все в атаку!\n　За мной!」",
+   "orig": "Salia\n「All units, attack!\n　Follow me!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Вивиан",
+   "text": "「Вперёд!」",
+   "orig": "Vivian\n「Charge!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Хильда",
+   "text": "「Капитан!」",
+   "orig": "Hilda\n「Captain!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Зола",
+   "text": "「Выжила, значит, Анж.」",
+   "orig": "Zola\n「So you survived, Ange.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Анж",
+   "text": "「...!」",
+   "orig": "Ange\n「...!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Зола",
+   "text": "「Твои глаза.\n　Ты ощутила упоение боем.」",
+   "orig": "Zola\n「Your eyes.\n　You felt the exhilaration of the battle.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Анж",
+   "text": "「Ч-что?」",
+   "orig": "Ange\n「Th-the what?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Зола",
+   "text": "「Снесёшь ли глаз, снесёшь ли руку —\n　это будит в тебе врождённую жажду боя.\n　Вот что значит быть нормой.」",
+   "orig": "Zola\n「Whether it's blowing away an eye or an arm,\n　it stirs your instinctual lust for battle.\n　That's what it means to be a Norma.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Зола",
+   "text": "「Сражайся, Анж.\n　Сражайся, чтобы выжечь своё недовольство.」",
+   "orig": "Zola\n「You fight, Ange.\n　You fight to burn away your discontent.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Зола",
+   "text": "「Тебя всё это бесило.\n　Настолько, что хотелось разбить твой лживый мир!」",
+   "orig": "Zola\n「You've been frustrated.\n　Enough to shatter that hypocritical world of yours!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Анж",
+   "text": "「Молчать!\n　Я не норма!」",
+   "orig": "Ange\n「Silence!\n　I am not a Norma!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Зола",
+   "text": "「Берегись!\n　Крупная идёт!」",
+   "orig": "Zola\n「Watch out!\n　A big one is coming!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Салия",
+   "text": "「Класс «Галеон»!」",
+   "orig": "Salia\n「Galleon-class!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Анж",
+   "text": "「Н-нет!」",
+   "orig": "Ange\n「N-no!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Салия",
+   "text": "「Куда ты, Анж?」",
+   "orig": "Salia\n「Where are you going, Ange?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Анж",
+   "text": "「Домой! Назад, в Империю Мисуруги!」",
+   "orig": "Ange\n「Going back! Back to the Misurugi Empire!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Хильда",
+   "text": "「Дура!\n　У этого «Пара-Мейла» топлива\n　только на бой!」",
+   "orig": "Hilda\n「You idiot!\n　That Para-Mail only has enough\n　fuel for battle!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Зола",
+   "text": "「Брось её!\n　Нам с Драконами разбираться!」",
+   "orig": "Zola\n「Leave her!\n　We've got Dragons to worry about!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Коко",
+   "text": "「Анж!」",
+   "orig": "Coco\n「Ange!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Миранда",
+   "text": "「Стой, Коко!」",
+   "orig": "Miranda\n「Wait, Coco!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Коко",
+   "text": "「Анжелиза!\n　Возьми меня с собой!」",
+   "orig": "Coco\n「Angelise!\n　Please take me with you!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Миранда",
+   "text": "「Как ты можешь, Коко?」",
+   "orig": "Miranda\n「How could you say that, Coco?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Коко",
+   "text": "「Хочу в страну Анжелизы,\n　хочу быть с ней.」",
+   "orig": "Coco\n「I want to go to Angelise's country\n　and be with her.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Коко",
+   "text": "「Гя-а!」",
+   "orig": "Coco\n「Gyah!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Миранда",
+   "text": "「Коко!」",
+   "orig": "Miranda\n「Coco!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Миранда",
+   "text": "「Н-нет!\n　Помогите!」",
+   "orig": "Miranda\n「N-no!\n　Help me!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Эрша",
+   "text": "「Коко! Миранда!」",
+   "orig": "Ersha\n「Coco! Miranda!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Анж",
+   "text": "「А, а-а-а.」",
+   "orig": "Ange\n「Ah, ahhh.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Анж",
+   "text": "「Нет! Нет!」",
+   "orig": "Ange\n「No! No!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Салия",
+   "text": "「Анж!\n　Отвлеки врага!」",
+   "orig": "Salia\n「Ange!\n　Distract the enemy!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Зола",
+   "text": "「Кха!」",
+   "orig": "Zola\n「Ack!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Зола",
+   "text": "「Надо живо прикончить главную!」",
+   "orig": "Zola\n「We've gotta crush the boss quickly!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Анж",
+   "text": "「Нет!」",
+   "orig": "Ange\n「No!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Зола",
+   "text": "「Ты что делаешь?\n　Уходи!」",
+   "orig": "Zola\n「What are you doing?\n　Get away!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Анж",
+   "text": "「Н-нет!」",
+   "orig": "Ange\n「N-no!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Анж",
+   "text": "「А-а-а-а-а-а!」",
+   "orig": "Ange\n「Ahhhhhhhhhh!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Вивиан",
+   "text": "「Молодец, Анж!」",
+   "orig": "Vivian\n「Way to go, Ange!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Хильда",
+   "text": "「Цык.」",
+   "orig": "Hilda\n「Tsk.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Салия",
+   "text": "「По тренажёру я знала, что ты хороша,\n　но не думала, что так быстро втянешься в бой.」",
+   "orig": "Salia\n「I knew you were good from the simulator,\n　but I didn't think you'd take to combat so quickly.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Розали",
+   "text": "「Да мелкая же была!\n　С такой любой справится!」",
+   "orig": "Rosalie\n「It was a little one!\n　Anyone could handle that!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Анж",
+   "text": "（Этот «Пара-Мейл» \n　чем-то похож на $kwbАйрию$kwe.）",
+   "orig": "Ange\n（This Para-Mail \n　kinda resembles $kwbAiria$kwe.）"
+  },
+  {
+   "i": 69,
+   "speaker": "Анж",
+   "text": "（И что это за странное чувство?）",
+   "orig": "Ange\n（And what is this strange feeling?）"
+  },
+  {
+   "i": 70,
+   "speaker": "Анж",
+   "text": "「Н-нет!\n　Уйди! Уйди-и-и-и-и!」",
+   "orig": "Ange\n「N-no!\n　Get away! Get awaaaaaaay!」"
+  },
+  {
+   "i": 71,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

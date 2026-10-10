@@ -1,0 +1,1714 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Ласс",
+   "text": "「Фельдт, слышишь меня?\n　Доложи обстановку. Сколько нам ещё\n　до Зоны D?」",
+   "orig": "Lasse\n「Feldt, can you hear me?\n　I want a status update. How much farther is\n　it until we reach Area D?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Фельдт",
+   "text": "「По текущей оценке — 32 минуты.」",
+   "orig": "Feldt\n「The current estimate is 32 minutes.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Милейна",
+   "text": "「Магнитные поля немного нестабильны, но в целом\n　море здесь довольно спокойное.」",
+   "orig": "Mileina\n「The magnetic fields are a little unstable, but\n　overall, the ocean here are pretty calm.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Ласс",
+   "text": "「От пары причуд тут и там никому вреда нет. Скорее\n　наоборот, Земле это помогает сохранять природу.\n　Не согласна, Сумераги?」",
+   "orig": "Lasse\n「Some quirks here and there don't really hurt anybody.\n　If anything, it helps the Earth conserve mother\n　nature. Wouldn't you agree, Sumeragi?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Сумераги",
+   "text": "「Хм...」",
+   "orig": "Sumeragi\n「Hmm...」"
+  },
+  {
+   "i": 5,
+   "speaker": "Фельдт",
+   "text": "「Что-то не так?」",
+   "orig": "Feldt\n「What's wrong?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Сумераги",
+   "text": "「Все слушайте: что бы ни случилось, мне нужно,\n　чтобы вы сохраняли спокойствие и собранность. Ясно?」",
+   "orig": "Sumeragi\n「Everyone, just so we're clear, no matter what happens,\n　I need you all to stay calm and focused. Understand?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Ласс",
+   "text": "「Эй, мы не дети. Сами с собой справимся.」",
+   "orig": "Lasse\n「Hey, we're not kids. We can handle ourselves fine.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Сумераги",
+   "text": "「Знаю, что справитесь. Сначала я не хотела ничего\n　говорить, но что-то тут не так.」",
+   "orig": "Sumeragi\n「I know you all can. I wasn't going to say anything\n　at first, but something just feels off about this.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Милейна",
+   "text": "「К нам приближается неопознанный отряд!」",
+   "orig": "Mileina\n「We've got an unidentified squad heading our way!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Фельдт",
+   "text": "「Магнитное поле, видимо, сбило мне показания!」",
+   "orig": "Feldt\n「The magnetic field must have thrown off my readings!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Ласс",
+   "text": "「Это Марсианские преемники?」",
+   "orig": "Lasse\n「Is it the Martian Successors?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Ласс",
+   "text": "「Что за... Они на мобильных доспехах?\n　Они из Армии Федерации Земли?」",
+   "orig": "Lasse\n「What the—They're in mobile suits?\n　Are they with the Earth Federation Forces?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Фельдт",
+   "text": "「Не знаю! Они не передают никаких опознавательных!」",
+   "orig": "Feldt\n「I don't know! They're not transmitting any sort of ID!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Милейна",
+   "text": "「И на наши сигналы они тоже не отвечают!」",
+   "orig": "Mileina\n「They're not responding to any of our signals, either!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Ласс",
+   "text": "「Им что, забыли сообщить, что\n　«Надэсико» — тоже корабль Федерации!?」",
+   "orig": "Lasse\n「Did nobody send them the memo that the\n　Nadesico is a Federation ship, too!?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Сумераги",
+   "text": "「Думаю, можно смело сказать: это не военные!\n　Всем машинам — приготовиться к бою!」",
+   "orig": "Sumeragi\n「I think it's safe to say these guys aren't military!\n　All units, prepare to engage!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Рёко",
+   "text": "「Эй, да перестаньте уже!\n　Если вы злитесь, что мы вторглись или что там,\n　так мы скоро уйдём, обещаю!」",
+   "orig": "Ryoko\n「Hey, stop it already!\n　If you're mad because we're trespassing or something,\n　we'll be out of here soon enough, I promise!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Майтгайн",
+   "text": "「Думаю, они нас вовсе не слышат, Рёко.\n　Уверен, этими машинами управляют ИИ.」",
+   "orig": "Mightgaine\n「I don't think they can hear us at all, Ryoko.\n　I'm pretty sure those units are piloted by AIs.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Рёко",
+   "text": "「То есть они беспилотные?」",
+   "orig": "Ryoko\n「You mean they're unmanned?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Майто",
+   "text": "「У меня складывается впечатление, что их выслали,\n　чтобы не пустить нас в Зону D.」",
+   "orig": "Maito\n「I'm starting to get the impression they might've been\n　deployed to try to keep us out of Area D.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Сабуроута",
+   "text": "「Но если распоряжается не Армия Федерации,\n　то кто тогда шлёт на нас эти штуки?」",
+   "orig": "Saburouta\n「But if it's not the Federation Forces calling the\n　shots, then who's sending these things after us?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Сэцуна",
+   "text": "「С этим разберёмся позже. Сейчас надо думать,\n　как мы будем прорываться.」",
+   "orig": "Setsuna\n「We can figure that out later. Right now, we need to\n　focus on how we're going to break through.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам — предельная осторожность.\n　Мы не знаем, что враг тут задумал.」",
+   "orig": "Sumeragi\n「All units, be extremely careful. We don't know what\n　the enemy might be planning to do here.」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「Если нас уже встречают вот такие, то с этим\n　местом точно что-то неладно.」",
+   "orig": "$n\n「Something's definitely up with this place if this\n　is who they're already sending to greet us, I'd say.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Рёко",
+   "text": "「Эй, да перестаньте уже!\n　Если вы злитесь, что мы вторглись или что там,\n　так мы скоро уйдём, обещаю!」",
+   "orig": "Ryoko\n「Hey, stop it already!\n　If you're mad because we're trespassing or something,\n　we'll be out of here soon enough, I promise!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Майтгайн",
+   "text": "「Думаю, они нас вовсе не слышат, Рёко.\n　Уверен, этими машинами управляют ИИ.」",
+   "orig": "Mightgaine\n「I don't think they can hear us at all, Ryoko.\n　I'm pretty sure those units are piloted by AIs.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Рёко",
+   "text": "「То есть они беспилотные?」",
+   "orig": "Ryoko\n「You mean they're unmanned?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Майто",
+   "text": "「У меня складывается впечатление, что их выслали,\n　чтобы не пустить нас в Зону D.」",
+   "orig": "Maito\n「I'm starting to get the impression they might've been\n　deployed to try to keep us out of Area D.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Сабуроута",
+   "text": "「Но если распоряжается не Армия Федерации,\n　то кто тогда шлёт на нас эти штуки?」",
+   "orig": "Saburouta\n「But if it's not the Federation Forces calling the\n　shots, then who's sending these things after us?」"
+  },
+  {
+   "i": 30,
+   "speaker": "Сэцуна",
+   "text": "「С этим разберёмся позже. Сейчас надо думать,\n　как мы будем прорываться.」",
+   "orig": "Setsuna\n「We can figure that out later. Right now, we need to\n　focus on how we're going to break through.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам — предельная осторожность.\n　Мы не знаем, что враг тут задумал.」",
+   "orig": "Sumeragi\n「All units, be extremely careful. We don't know what\n　the enemy might be planning to do here.」"
+  },
+  {
+   "i": 32,
+   "speaker": "$n",
+   "text": "「Это место стало куда подозрительнее теперь,\n　когда внезапно явились эти ребята.」",
+   "orig": "$n\n「This area just got a whole lot more fishy now\n　that these guys are suddenly in the picture.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Харри",
+   "text": "「Что за...」",
+   "orig": "Harry\n「What the—」"
+  },
+  {
+   "i": 34,
+   "speaker": "Рури",
+   "text": "「Харри? Что происходит?」",
+   "orig": "Ruri\n「Harry? What's going on?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Харри",
+   "text": "「Магнитное поле резко усиливается!」",
+   "orig": "Harry\n「The magnetism, it's suddenly getting a lot stronger!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Фельдт",
+   "text": "「Радар и датчики — оба отключились!」",
+   "orig": "Feldt\n「Our radar and sensors are both offline!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Милейна",
+   "text": "「Такое у нас впервые!」",
+   "orig": "Mileina\n「Well, that's a first!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Сумераги",
+   "text": "（Что-то приближается!）",
+   "orig": "Sumeragi\n（Something's coming!）"
+  },
+  {
+   "i": 39,
+   "speaker": "Сэцуна",
+   "text": "「Врата?!\n　Стой, из них что-то выходит!」",
+   "orig": "Setsuna\n「A gate?!\n　Wait, something's coming out of it!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Тобиа",
+   "text": "「Это то, о чём я думаю...?」",
+   "orig": "Tobia\n「Are those what I think they are...?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Вельт",
+   "text": "「Быть не может!」",
+   "orig": "Velt\n「No way!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Лотти",
+   "text": "「М-мне мерещится?」",
+   "orig": "Lottie\n「A-am I seeing things?」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「Что это такое?」",
+   "orig": "$n\n「What are they?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Найн",
+   "text": "「Судя по форме, это, похоже, Драконы.」",
+   "orig": "Nine\n「Based on their shape, they would appear to be Dragons.」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Ты знаешь, кто такие драконы, Найн?」",
+   "orig": "$n\n「You know what dragons are, Nine?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Найн",
+   "text": "「Да. В моих банках памяти множество данных о том,\n　что вы называете «мифами» и «легендами».」",
+   "orig": "Nine\n「Yes. My memory banks contain a wide array of data on\n　things that you refer to as \"myths\" and \"legends.\"」"
+  },
+  {
+   "i": 47,
+   "speaker": "$n",
+   "text": "「Ну ты и подготовлена ко всему, да?」",
+   "orig": "$n\n「Man, you come prepared for everything, don't you?」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Что это за штуки?」",
+   "orig": "$n\n「What are those things?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Найн",
+   "text": "「Судя по форме, это, похоже, Драконы.」",
+   "orig": "Nine\n「Based on their shape, they would appear to be Dragons.」"
+  },
+  {
+   "i": 50,
+   "speaker": "$n",
+   "text": "「Ты знаешь, кто такие драконы, Найн?」",
+   "orig": "$n\n「You know what dragons are, Nine?」"
+  },
+  {
+   "i": 51,
+   "speaker": "Найн",
+   "text": "「Да. В моих банках памяти множество данных о том,\n　что вы называете «мифами» и «легендами».」",
+   "orig": "Nine\n「Yes. My memory banks contain a wide array of data on\n　things that you refer to as \"myths\" and \"legends.\"」"
+  },
+  {
+   "i": 52,
+   "speaker": "$n",
+   "text": "「Ну ты и подготовлена ко всему, да?」",
+   "orig": "$n\n「Man, you come prepared for everything, don't you?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Вельт",
+   "text": "「Быть не может!」",
+   "orig": "Velt\n「No way!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Лотти",
+   "text": "「М-мне мерещится?」",
+   "orig": "Lottie\n「A-am I seeing things?」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「Да что это вообще такое?」",
+   "orig": "$n\n「What the heck are they?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Найн",
+   "text": "「Судя по форме, это, похоже, Драконы.」",
+   "orig": "Nine\n「Based on their shape, they would appear to be Dragons.」"
+  },
+  {
+   "i": 57,
+   "speaker": "$n",
+   "text": "「Ты знаешь, кто такие драконы, Найн?」",
+   "orig": "$n\n「You know what dragons are, Nine?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Найн",
+   "text": "「Да. В моих банках памяти множество данных о том,\n　что вы называете «мифами» и «легендами».」",
+   "orig": "Nine\n「Yes. My memory banks contain a wide array of data on\n　things that you refer to as \"myths\" and \"legends.\"」"
+  },
+  {
+   "i": 59,
+   "speaker": "$n",
+   "text": "「Ну, мифом это теперь точно уже не назовёшь!」",
+   "orig": "$n\n「Well they're not mythical any more, that's for sure!」"
+  },
+  {
+   "i": 60,
+   "speaker": "$n",
+   "text": "「Да что это вообще такое?」",
+   "orig": "$n\n「What the heck are they?」"
+  },
+  {
+   "i": 61,
+   "speaker": "Найн",
+   "text": "「Судя по форме, это, похоже, Драконы.」",
+   "orig": "Nine\n「Based on their shape, they would appear to be Dragons.」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Ты знаешь, кто такие драконы, Найн?」",
+   "orig": "$n\n「You know what dragons are, Nine?」"
+  },
+  {
+   "i": 63,
+   "speaker": "Найн",
+   "text": "「Да. В моих банках памяти множество данных о том,\n　что вы называете «мифами» и «легендами».」",
+   "orig": "Nine\n「Yes. My memory banks contain a wide array of data on\n　things that you refer to as \"myths\" and \"legends.\"」"
+  },
+  {
+   "i": 64,
+   "speaker": "$n",
+   "text": "「Ну, мифом это теперь точно уже не назовёшь!」",
+   "orig": "$n\n「Well they're not mythical any more, that's for sure!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Дракон",
+   "text": "「!」",
+   "orig": "Dragon\n「!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Фельдт",
+   "text": "「Беспилотный отряд противника уничтожен!」",
+   "orig": "Feldt\n「The unmanned enemy squadron has been eliminated!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Ласс",
+   "text": "「Здорово, конечно, но теперь они идут на нас!」",
+   "orig": "Lasse\n「That's great and all, but they're coming for us now!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Локон",
+   "text": "「Эти твари бешеные! Они крушат всё подряд!」",
+   "orig": "Lockon\n「Those things are crazy! They're just going hog wild!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тобиа",
+   "text": "「Эй, Майто? А это... в этом мире такое обычно\n　встречается?」",
+   "orig": "Tobia\n「Hey, Maito? Do you, uh, normally see these sort of\n　things here in this world?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Майто",
+   "text": "「Нет! Ничего подобного я ни видел, ни слышал!」",
+   "orig": "Maito\n「Nope! I've never seen or heard anything like them!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Сэцуна",
+   "text": "「Должно быть, они прошли через те врата и попали\n　в этот район!」",
+   "orig": "Setsuna\n「They must have used that gate over there to cross over\n　into this area!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Найн",
+   "text": "「Мои приборы всё ещё фиксируют нестабильность пространства.」",
+   "orig": "Nine\n「My instruments still detect instability in this space.」"
+  },
+  {
+   "i": 73,
+   "speaker": "$n",
+   "text": "「Ну замечательно, а что дальше?」",
+   "orig": "$n\n「Oh great, what's next?」"
+  },
+  {
+   "i": 74,
+   "speaker": "Локон",
+   "text": "「Они что, бешеные? Крушат всё подряд!」",
+   "orig": "Lockon\n「Are they crazy? They're just going hog wild!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Тобиа",
+   "text": "「Эй, Майто? А это... в этом мире такое обычно\n　встречается?」",
+   "orig": "Tobia\n「Hey, Maito? Do you, uh, normally see these sort of\n　things here in this world?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Майто",
+   "text": "「Нет! Ничего подобного я ни видел, ни слышал!」",
+   "orig": "Maito\n「Nope! I've never seen or heard anything like them!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Сэцуна",
+   "text": "「Должно быть, они прошли через те врата и попали\n　в этот район!」",
+   "orig": "Setsuna\n「They must have used that gate over there to cross over\n　into this area!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Найн",
+   "text": "「Мои приборы всё ещё фиксируют нестабильность пространства.」",
+   "orig": "Nine\n「My instruments still detect instability in this space.」"
+  },
+  {
+   "i": 79,
+   "speaker": "$n",
+   "text": "「О нет, а с чем нам теперь иметь дело?」",
+   "orig": "$n\n「Oh no, what do we have to deal with now?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Майто",
+   "text": "「Что это? Корабль? Нет, подлодка.\n　И, кажется, там есть что-то ещё!」",
+   "orig": "Maito\n「What is that? A ship? No, a submarine.\n　I think there's something else out there, too!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Тобиа",
+   "text": "「Да. Это «Гандам»?」",
+   "orig": "Tobia\n「Yeah. It's a Gundam?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тесса",
+   "text": "「Какова обстановка? Немедленно доклад!」",
+   "orig": "Tessa\n「What's the situation? I need a status report now!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Мардукас",
+   "text": "「Капитан, «Туата де Данаан» в порядке аварийного\n　реагирования резко всплыла на поверхность!」",
+   "orig": "Mardukas\n「Captain, the Tuatha de Danaan has made a rapid ascent\n　back to the surface as an emergency response!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Мардукас",
+   "text": "「Наше текущее положение неизвестно.\n　Но главное... Ого, взгляните на море.」",
+   "orig": "Mardukas\n「Our current position remains unknown.\n　But more importantly—Wow, look at the sea.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Тесса",
+   "text": "「Да. Какое синее, правда?」",
+   "orig": "Tessa\n「Yeah. It's so blue, isn't it?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Калинин",
+   "text": "「Хатауэй, ты в порядке?」",
+   "orig": "Kalinin\n「Hathaway, are you all right?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Хатауэй",
+   "text": "「Д-да, вроде бы.\n　Но где мы?」",
+   "orig": "Hathaway\n「Y-yeah, I think so.\n　But, where are we?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Мардукас",
+   "text": "「Обнаружено неопознанное судно, а также...」",
+   "orig": "Mardukas\n「I've detected an unidentified vessel and also—」"
+  },
+  {
+   "i": 89,
+   "speaker": "Тесса",
+   "text": "「Это что, Драконы?!」",
+   "orig": "Tessa\n「Are those Dragons?!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Мардукас",
+   "text": "「Что бы это ни было, они явно идут на нас!」",
+   "orig": "Mardukas\n「Whatever they are, they're definitely going after us!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Мардукас",
+   "text": "「Неопознанный отряд, похоже, тоже пытается\n　установить нашу принадлежность.」",
+   "orig": "Mardukas\n「An unidentified squadron also appears to be\n　trying to confirm our affiliation.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Тесса",
+   "text": "「По крайней мере они готовы говорить.\n　Открыть каналы, установить связь.」",
+   "orig": "Tessa\n「They look like they're willing to talk at least.\n　Open our channels and establish communication.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Мардукас",
+   "text": "「Так точно, капитан!」",
+   "orig": "Mardukas\n「Aye, Captain!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Тесса",
+   "text": "「Говорит коммандер Телетта Тестаросса, капитан\n　десантной подлодки «Туата де Данаан».\n　Я из Западного флота Тихого океана «Мифрила».」",
+   "orig": "Tessa\n「This is Commander Teletha Testarossa, captain of\n　the Assault Landing Submarine Tuatha de Danaan.\n　I'm with the Mithril West Pacific Fleet.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тесса",
+   "text": "「Прошу объяснить, что здесь происходит.」",
+   "orig": "Tessa\n「Please explain the current situation here.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Харри",
+   "text": "「Честно говоря, это легче сказать, чем сделать.」",
+   "orig": "Harry\n「That's a little easier said than done, to be honest.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Рури",
+   "text": "「Судя по её словам, она и сама толком не знает,\n　что здесь происходит, — даже про этих Драконов.」",
+   "orig": "Ruri\n「Judging from what she's saying, she doesn't seem to\n　really know what's going on here, either, not\n　even anything about those Dragons.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Рури",
+   "text": "「Приветствую, капитан. Я майор Рури\n　Хосино, капитан «Надэсико B».」",
+   "orig": "Ruri\n「Greetings, Captain. I'm Major Ruri\n　Hoshino, captain of the Nadesico B. 」"
+  },
+  {
+   "i": 99,
+   "speaker": "Рури",
+   "text": "「На данный момент эти создания атакуют всё,\n　до чего могут дотянуться когтями.」",
+   "orig": "Ruri\n「As it stands, those creatures are attacking anything\n　and everything they can get their claws on.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Рури",
+   "text": "「Полагаю, первая наша задача — выбраться отсюда,\n　и я прошу вас помочь нам в этом.」",
+   "orig": "Ruri\n「I believe our first order of business is to make our\n　way out of here and I ask that you help us with that.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Мардукас",
+   "text": "「Это мало что объясняет. С чего бы нам...」",
+   "orig": "Mardukas\n「That doesn't really explain much. Why should we—」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тесса",
+   "text": "「Вероятно, потому что ей некогда говорить.」",
+   "orig": "Tessa\n「Probably because she doesn't have time to talk.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Тесса",
+   "text": "「Принято, капитан. Мы займём оборонительную\n　позицию и вступим в бой с этими созданиями.」",
+   "orig": "Tessa\n「Copy that, Captain. We'll assume a\n　defensive position and commence fighting those creatures.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Рури",
+   "text": "「Благодарю, капитан. Признательна за содействие.」",
+   "orig": "Ruri\n「Thank you, Captain. I appreciate your cooperation.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Сумераги",
+   "text": "「Хм...」",
+   "orig": "Sumeragi\n「Hmm...」"
+  },
+  {
+   "i": 106,
+   "speaker": "Рури",
+   "text": "「Вы знаете что-то, о чём молчите, капитан?」",
+   "orig": "Ruri\n「Do you know something you're not telling me, Captain?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Сумераги",
+   "text": "「Поговорим об этом позже.\n　Сейчас займёмся этими Драконами.」",
+   "orig": "Sumeragi\n「We'll talk about it later.\n　Right now, let's just worry about those Dragons.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Рури",
+   "text": "「Справедливо.」",
+   "orig": "Ruri\n「Fair enough.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Тесса",
+   "text": "「Так, подведём подлодку ближе к земле\n　и высадим отряд особого реагирования.」",
+   "orig": "Tessa\n「All right, let's bring in the submarine closer to\n　land and deploy the Special Response Team.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Мардукас",
+   "text": "「Так точно, капитан!」",
+   "orig": "Mardukas\n「Aye, Captain!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Курц",
+   "text": "「Ущипните меня, не иначе как сон.\n　Море здесь такое синее.」",
+   "orig": "Kurz\n「Man, pinch me, I've got to be dreaming.\n　The ocean here is so blue.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Мао",
+   "text": "「Может, тот магнитный шторм приложил нас сильнее,\n　чем мы думали, и забросил прямиком в рай.」",
+   "orig": "Mao\n「Maybe that magnetic storm we ran into did a bigger\n　number on us than we thought and blew us up to heaven.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Клузо",
+   "text": "「Драконам в раю, вроде, не место, но мы вполне\n　могли оказаться в параллельном измерении.」",
+   "orig": "Clouseau\n「I'm pretty sure Dragons don't belong up in heaven, but\n　we could've ended up in a parallel dimension or something.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Соскэ",
+   "text": "「Хм...」",
+   "orig": "Sousuke\n「Hmm...」"
+  },
+  {
+   "i": 115,
+   "speaker": "Ал",
+   "text": "「Как вы оцениваете обстановку, сержант?」",
+   "orig": "Al\n「What do you make of the situation, Sergeant?」"
+  },
+  {
+   "i": 116,
+   "speaker": "Соскэ",
+   "text": "「Честно говоря, не имею понятия.」",
+   "orig": "Sousuke\n「Honestly, I don't have a clue.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Соскэ",
+   "text": "「Точно знаю только одно: эти летающие ящерицы\n　о нас невысокого мнения.」",
+   "orig": "Sousuke\n「The only thing I know for sure is those flying\n　lizards up there doesn't think too highly of us.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Курц",
+   "text": "「Значит, выбор у нас остаётся только один.」",
+   "orig": "Kurz\n「Then that only leaves us with only one choice.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Мао",
+   "text": "「Именно. Где бы мы ни были, если враг стучится,\n　наше дело — открыть ему с грохотом.」",
+   "orig": "Mao\n「Indeed. Wherever we are, if enemies come knocking,\n　it's our job to answer the door with a bang.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Клузо",
+   "text": "「Сможешь драться, Хатауэй?」",
+   "orig": "Clouseau\n「Think you can fight, Hathaway?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Хатауэй",
+   "text": "「Не знаю.」",
+   "orig": "Hathaway\n「I don't know.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Хатауэй",
+   "text": "「Но при этом я понимаю: надо что-то делать,\n　иначе нам всем тут конец!」",
+   "orig": "Hathaway\n「But at the same time, I know I've got to do\n　something or else we're all screwed here!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Мао",
+   "text": "「Парню страшно не везёт. Думал, что едет просто\n　что-то испытать, и тут — бам, его затянуло\n　в эту кашу. Не завидую.」",
+   "orig": "Mao\n「That kid is seriously unlucky. He just thinks\n　he's coming in to test something and then, boom,\n　he gets wrapped up in this mess. I don't envy him.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Курц",
+   "text": "「Но надо отдать ему должное — он не трусит.\n　Видно, оттого, что давно живёт рядом с войной.」",
+   "orig": "Kurz\n「You got to give him credit, though. He's got guts.\n　Must be because he's been around war for so long.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Соскэ",
+   "text": "「Выходит, мы с ним довольно похожи?」",
+   "orig": "Sousuke\n「I guess that makes him and me pretty similar, huh?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Мао",
+   "text": "「Ну, в один ряд я вас не поставлю. Шкура\n　у него тут не самая толстая.」",
+   "orig": "Mao\n「Well, I won't put you two together. I know he\n　doesn't have the thickest skin around here.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Соскэ",
+   "text": "「Это не отменяет того, что из боя живым выходит\n　только сильный. Ты ведь это понимаешь,\n　Хатауэй?」",
+   "orig": "Sousuke\n「That doesn't change the fact that you have to be\n　strong to come out of battle alive. You understand\n　that, don't you, Hathaway?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Хатауэй",
+   "text": "「Да, конечно понимаю!\n　Я-я не собираюсь тут умирать!」",
+   "orig": "Hathaway\n「Yes, of course I do!\n　I-I don't plan on dying here!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Соскэ",
+   "text": "「Вот это другой разговор.」",
+   "orig": "Sousuke\n「That's what I like to hear.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Соскэ",
+   "text": "「Ну, Ал, за дело! Нельзя надолго оставлять\n　Канамэ одну на «Данаане».」",
+   "orig": "Sousuke\n「All right, Al, let's do this! We shouldn't leave\n　Kaname behind back on the Danaan for too long.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Ал",
+   "text": "「Так точно.」",
+   "orig": "Al\n「Yes, sir.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Аллилуйя",
+   "text": "「Похоже, остальные готовятся к бою.」",
+   "orig": "Allelujah\n「Looks like the others are getting ready to fight.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Локон",
+   "text": "「Да, и с ними, похоже, «Гандам» и какая-то мелкая\n　наземная машина. Надеюсь, они тут не обуза.」",
+   "orig": "Lockon\n「Yeah, and they've got what looks like a Gundam and\n　some sort of smaller ground unit with them. They\n　better be able to pull their own weight here.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Майто",
+   "text": "「Уговорить всех этих созданий не получится.\n　Придётся просто драться!」",
+   "orig": "Maito\n「We're not going to be able to talk down all those\n　creatures. We'll just have to fight them all!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Сэцуна",
+   "text": "「Хм.」",
+   "orig": "Setsuna\n「Hmm.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Сумераги",
+   "text": "「Сэцуна, я знаю, о чём ты думаешь. Но сейчас\n　нам остаётся только защищаться.」",
+   "orig": "Sumeragi\n「Setsuna, I know what you're thinking. But all we\n　can do right now is try to defend ourselves.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Сэцуна",
+   "text": "「Знаю.」",
+   "orig": "Setsuna\n「I know.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Рури",
+   "text": "「Всем машинам — атаковать. Но помните: силы\n　противника пока неизвестны. В бою — предельная\n　осторожность.」",
+   "orig": "Ruri\n「All units, commence your attack. However, be aware\n　that the enemy's strength remains unknown. Use\n　extreme caution when engaging.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Тесса",
+   "text": "「Что ж, пора и нам. Открыть огонь!\n　Наша единственная задача сейчас — выжить!」",
+   "orig": "Tessa\n「Well, we better get going, I suppose. Open fire!\n　Our only objective right now is to stay alive!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Найн",
+   "text": "「Сюда что-то приближается.」",
+   "orig": "Nine\n「Something is coming this way.」"
+  },
+  {
+   "i": 141,
+   "speaker": "$n",
+   "text": "「Их ещё больше? Да ну бросьте!\n　У нас тут и так полно гостей!」",
+   "orig": "$n\n「There's more of them? Give me a break!\n　This party's big enough as it is already!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Найн",
+   "text": "「Сюда что-то приближается.」",
+   "orig": "Nine\n「Something is coming this way.」"
+  },
+  {
+   "i": 143,
+   "speaker": "$n",
+   "text": "「Что? Да ну хватит уже!\n　Вы можете наконец оставить нас в покое?」",
+   "orig": "$n\n「What? Oh, come on!\n　Can't you guys just give it a rest already?」"
+  },
+  {
+   "i": 144,
+   "speaker": "Салия",
+   "text": "「Мне говорили про Драконов, но такого я не ожидала.」",
+   "orig": "Salia\n「I heard there were Dragons, but I wasn't imagining this.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Вивиан",
+   "text": "「Да, это безумие! Кажется, эти пара-мейлы\n　из внешнего мира!」",
+   "orig": "Vivian\n「Yeah, this is crazy! I think those Para-Mails\n　are from the outside world!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Эрша",
+   "text": "「Да ладно это. Мне интересно, что\n　привело Драконов в такую даль.」",
+   "orig": "Ersha\n「Never mind that. I wonder what brings\n　these Dragons all the way out here.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Салия",
+   "text": "「И об этом не думай. У нас задание!」",
+   "orig": "Salia\n「Don't worry about that either. We have a mission to do!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Эрша",
+   "text": "「Слушай, Салия? Тот военный корабль пытается\n　выйти с нами на связь. Что делать?」",
+   "orig": "Ersha\n「Hey, Salia? That warship over there is trying to\n　contact us. What should we do?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Салия",
+   "text": "「Отвечать им незачем. Мне нечего им сказать,\n　и я предпочла бы, чтобы они вообще не знали,\n　что мы здесь.」",
+   "orig": "Salia\n「There's no need to answer them. I don't have anything\n　to say to them and I'd rather them not knowing that\n　we're even here to begin with.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Вивиан",
+   "text": "「Ну-у, почему? Это же отличный шанс завести\n　целую кучу новых друзей!」",
+   "orig": "Vivian\n「Aww, why not? This is a great opportunity for us\n　to make a ton of new friends, you know!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Салия",
+   "text": "「Жалоб от тебя слушать не желаю.\n　Я временно командую — просто выполняй приказы.」",
+   "orig": "Salia\n「I don't want to hear any complaints out of you.\n　As your temporary captain, just follow my orders.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Вивиан",
+   "text": "「Ну ладно.」",
+   "orig": "Vivian\n「Oh, all right.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Фельдт",
+   "text": "「Они не отвечают на наш сигнал! Все попытки\n　связаться отклоняются!」",
+   "orig": "Feldt\n「They're not answering our signal! They keep\n　rejecting my attempts to contact them!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Ласс",
+   "text": "「По крайней мере целятся они в Драконов, а не в нас.」",
+   "orig": "Lasse\n「At least they're targeting those Dragons and not us.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Тиерия",
+   "text": "「Судя по их действиям, подозреваю, что\n　об этих созданиях им известно.」",
+   "orig": "Tieria\n「Based on their movements, I suspect\n　they might know about those creatures.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Майто",
+   "text": "「Возможно, ты прав. Если так, стоит объединиться\n　с ними, чтобы выбраться отсюда.」",
+   "orig": "Maito\n「You might be right. If that's the case, then we\n　should team up with them so we can get out of here.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Рури",
+   "text": "「Согласна. Вы слышали, коммандер Тестаросса?\n　Кто эти машины, мы не знаем, но считаем, что\n　пока они нам не враги.」",
+   "orig": "Ruri\n「I agree. Did you copy that, Commander Testarossa?\n　We're unsure who those other units are with, but we\n　believe they're not our enemies for the time being.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Тесса",
+   "text": "「Меня это устраивает.\n　Постараемся не мешать им.」",
+   "orig": "Tessa\n「That works for me.\n　I'll make sure we stay out of their way.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Курц",
+   "text": "「Ого, то есть никто не знает, кто они такие?\n　Загадка для всех сразу, выходит?」",
+   "orig": "Kurz\n「Wow, so nobody knows who those guys are? They're\n　just one big mystery to everyone here, huh?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Мао",
+   "text": "「Кажется, нас втянули во что-то серьёзное.」",
+   "orig": "Mao\n「I think we've been dragged into something serious here.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Соскэ",
+   "text": "「Определённо. Жаль, мы так мало знаем об этом месте.」",
+   "orig": "Sousuke\n「Definitely. I just wish we knew more about where we are.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Салия",
+   "text": "「Помощь совершенно посторонних нам не нужна!\n　Вивиан, Эрша, давайте уже двигаться!」",
+   "orig": "Salia\n「We don't need any help from complete strangers!\n　Vivian, Ersha, let's get a move on already!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Вивиан",
+   "text": "「Так точно!」",
+   "orig": "Vivian\n「Yes, ma'am!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Эрша",
+   "text": "「Я тебя прикрою, Салия. Не волнуйся.」",
+   "orig": "Ersha\n「I've got your back, Salia. Don't worry.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Салия",
+   "text": "（Если бой пройдёт удачно, мне, может, дадут весь\n　взвод! Остаётся только проверить!）",
+   "orig": "Salia\n（If this fight goes well, they might put me in charge of\n　the whole platoon! Only one way to find out!）"
+  },
+  {
+   "i": 166,
+   "speaker": "Вивиан",
+   "text": "「Фух! На этом всё!」",
+   "orig": "Vivian\n「Whew! That's a wrap!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Эрша",
+   "text": "「Повезло, что эти чужаки оказались рядом\n　и помогли закончить бой быстро.」",
+   "orig": "Ersha\n「It's a good thing those outsiders were around to\n　help get this fight over with nice and quick.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Салия",
+   "text": "「Может, и так, но благодарить их незачем.\n　Их помощь нам не требовалась. Уходим.」",
+   "orig": "Salia\n「That may be, but I see no need to thank them. We\n　didn't need their help. Now let's leave.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Вивиан",
+   "text": "「Салия! Да ведь чужаки прямо перед нами!\n　Нельзя поболтать с ними хоть пару минут?」",
+   "orig": "Vivian\n「Salia! We have outsiders right here in front of us!\n　Can't we chat with them for just a few minutes?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Салия",
+   "text": "「Вивиан, нет.」",
+   "orig": "Salia\n「Vivian, no.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Вивиан",
+   "text": "「Ладно-ладно, больше не прошу. Ну и ну.」",
+   "orig": "Vivian\n「OK, OK, I won't ask again. Geez.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Сумераги",
+   "text": "「Стойте, вы трое!\n　Нам нужно кое-что у вас спросить.」",
+   "orig": "Sumeragi\n「Hold it, you three!\n　There's something we want to ask you all.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Вивиан",
+   "text": "「Простите, но нам, похоже, нельзя говорить\n　ни с кем из внешнего мира!」",
+   "orig": "Vivian\n「Sorry, but apparently we're not allowed to talk\n　with anyone from the outside world!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Салия",
+   "text": "「Вивиан!」",
+   "orig": "Salia\n「Vivian!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Салия",
+   "text": "「Что?!\n　Д-да, понимаю. Как прикажете.」",
+   "orig": "Salia\n「What?!\n　Y-yes, I understand. As you wish.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Эрша",
+   "text": "「Что такое, Салия?」",
+   "orig": "Ersha\n「What's up, Salia?」"
+  },
+  {
+   "i": 177,
+   "speaker": "Салия",
+   "text": "「Нам только что пришёл новый приказ командующей.」",
+   "orig": "Salia\n「We just received new orders from the commander.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Салия",
+   "text": "「Прошу прощения. Один из этих кораблей — «Надэсико»?」",
+   "orig": "Salia\n「Excuse me. Is one of these ships the Nadesico?」"
+  },
+  {
+   "i": 179,
+   "speaker": "Рури",
+   "text": "「Да, это мой.」",
+   "orig": "Ruri\n「Yes, that would be mine.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Салия",
+   "text": "「Хорошо. Мне велено доставить вас всех в Арзеналь.」",
+   "orig": "Salia\n「Good. I've been asked to bring you all to Arzenal.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Рури",
+   "text": "「Арзеналь?」",
+   "orig": "Ruri\n「Arzenal?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Салия",
+   "text": "「Там находится наша база.\n　Следуйте за мной.」",
+   "orig": "Salia\n「It's where our base is located.\n　Now follow me.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Харри",
+   "text": "「Э-э, капитан, как будем действовать?」",
+   "orig": "Harry\n「Uh, Captain, how do you want to proceed?」"
+  },
+  {
+   "i": 184,
+   "speaker": "Рури",
+   "text": "「Мы примем приглашение.\n　Посмотрим, что она нам покажет.」",
+   "orig": "Ruri\n「We'll accept their invitation.\n　We'll see what she has to show us.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Ласс",
+   "text": "「А мы, Сумераги? Что нам делать?」",
+   "orig": "Lasse\n「What about us, Sumeragi? What should we do?」"
+  },
+  {
+   "i": 186,
+   "speaker": "Сумераги",
+   "text": "「Можно и присоединиться. Она ведь не сказала,\n　что нам с ней идти нельзя.」",
+   "orig": "Sumeragi\n「We might as well tag along. She hasn't said\n　we're not allowed to go with her, too, at least.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Рури",
+   "text": "「Капитан...」",
+   "orig": "Ruri\n「Captain...」"
+  },
+  {
+   "i": 188,
+   "speaker": "Сумераги",
+   "text": "「Ты, наверное, догадываешься, почему нам тоже\n　интересно. У «Селестиал Бин» есть немного\n　сведений об этой Зоне D, где мы сейчас.」",
+   "orig": "Sumeragi\n「You can probably guess why we're interested, too.\n　Celestial Being happens to have a small amount of\n　intelligence on this Area D we happen to be in.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Сумераги",
+   "text": "「Сведений мало, и доступ к ним есть лишь у немногих\n　в нашей организации, но это всё же сведения.」",
+   "orig": "Sumeragi\n「It's not much to go off of and even then, only a\n　select few within our organization have been\n　made privy to, but it's information nonetheless.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Рури",
+   "text": "「Хотите сказать, здесь может быть то, до чего даже\n　ваша «Веда» дотянулась бы не без труда?」",
+   "orig": "Ruri\n「Is that to say that there could be more information\n　here that not even your Veda could come upon easily?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Сумераги",
+   "text": "「Да, именно так. Из-за этого я чувствую некоторую\n　ответственность: надо пойти и лично проверить\n　всё, что нам известно.」",
+   "orig": "Sumeragi\n「Yep, you've got it. I feel like we have a certain\n　responsibility to go check things out and verify\n　what all we know personally because of that.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Рури",
+   "text": "「Это понятно. Капитан Тестаросса, я хотела бы\n　попросить вас отправиться с нами.」",
+   "orig": "Ruri\n「That's understandable. Captain Testarossa, I'd like\n　to ask that you join us on our visit, as well.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Тесса",
+   "text": "（Столько всего надо обдумать... Магнитный шторм,\n　эти создания, а теперь ещё и тот отряд.）",
+   "orig": "Tessa\n（There's so much to think about still... The magnetic\n　storm, those creatures, and then that other squad.）"
+  },
+  {
+   "i": 194,
+   "speaker": "Мардукас",
+   "text": "「Капитан?」",
+   "orig": "Mardukas\n「Captain?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Тесса",
+   "text": "「Согласна. Нам сейчас нужнее всего собрать больше\n　сведений. Я тоже пойду и пока сделаю, как они просят.」",
+   "orig": "Tessa\n「I agree. We need to gather more information more than\n　anything else. I'll go, too, and do as they say for now.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Мардукас",
+   "text": "「Понял, капитан.」",
+   "orig": "Mardukas\n「Understood, Captain.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Тесса",
+   "text": "（Никак не привыкну, какое здесь синее море.\n　Не думала, что мы увидим его снова.）",
+   "orig": "Tessa\n（I just can't get over how blue the sea is here.\n　I didn't think we'd ever get to see it again.）"
+  },
+  {
+   "i": 198,
+   "speaker": "Харри",
+   "text": "「Все беспилотные силы противника уничтожены.」",
+   "orig": "Harry\n「All unmanned enemy forces have been eliminated.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Рури",
+   "text": "「Что будет дальше, неизвестно.\n　Всем машинам — пока оставаться настороже.」",
+   "orig": "Ruri\n「We can't be certain what will happen now.\n　All units, remain on guard for the time being.」"
+  },
+  {
+   "i": 200,
+   "speaker": "$n",
+   "text": "「Хм...」",
+   "orig": "$n\n「Hmm...」"
+  },
+  {
+   "i": 201,
+   "speaker": "Найн",
+   "text": "「Непривычно видеть у тебя такое суровое лицо.」",
+   "orig": "Nine\n「It is unusual to see you look so stern.」"
+  },
+  {
+   "i": 202,
+   "speaker": "$n",
+   "text": "「Приходится. Тут слишком напряжённо, чтобы\n　расслабляться, так что и ты будь начеку, Найн.\n　Чует моё сердце, это только начало.」",
+   "orig": "$n\n「I have to be. It's still too tense here to take it\n　easy, so you stay on point, too, Nine. I've got\n　a bad feeling this is just the beginning.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Найн",
+   "text": "「Принято.」",
+   "orig": "Nine\n「Understood.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Харри",
+   "text": "「Все беспилотные силы противника уничтожены.」",
+   "orig": "Harry\n「All unmanned enemy forces have been eliminated.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Рури",
+   "text": "「Что будет дальше, неизвестно.\n　Всем машинам — пока оставаться настороже.」",
+   "orig": "Ruri\n「We can't be certain what will happen now.\n　All units, remain on guard for the time being.」"
+  },
+  {
+   "i": 206,
+   "speaker": "$n",
+   "text": "「Хм...」",
+   "orig": "$n\n「Hmm...」"
+  },
+  {
+   "i": 207,
+   "speaker": "Найн",
+   "text": "「Что не так, сестрица?」",
+   "orig": "Nine\n「What's the matter, Sis?」"
+  },
+  {
+   "i": 208,
+   "speaker": "$n",
+   "text": "「Просто чует моё сердце, что худшее ещё впереди.\n　Ты тоже будь осторожна, Найн, хорошо?」",
+   "orig": "$n\n「I just have a bad feeling we haven't seen the worst\n　of it yet. You be careful, too, Nine, all right?」"
+  },
+  {
+   "i": 209,
+   "speaker": "Найн",
+   "text": "「Принято.」",
+   "orig": "Nine\n「Understood.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Ал",
+   "text": "「$kwbЛямбда-драйвер$kwe активирован.」",
+   "orig": "Al\n「The $kwbLambda Driver$kwe is now online.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Соскэ",
+   "text": "「Кажется, я наконец привык к этому ощущению.」",
+   "orig": "Sousuke\n「I think I've finally gotten used to this sensation.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Ал",
+   "text": "「Система генерации отталкивающего поля ложной оси\n　на ARX-7 «Арбалест» — вещь внушительная, не так ли?\n　Превращать энергию мысли в чистую физическую силу.」",
+   "orig": "Al\n「The False Axis Repulsive Field Generator System on the\n　ARX-7 Arbalest is quite something, isn't it? Being able\n　to convert mental energy into raw physical force.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Соскэ",
+   "text": "「Не скрою, раньше я эту штуку терпеть не мог. Но\n　теперь, когда владею ею, может, она и к лучшему.」",
+   "orig": "Sousuke\n「I won't lie, I used to really hate this thing. But now\n　that I can use it well, maybe it's ultimately good.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Соскэ",
+   "text": "「А раз такая сила есть, моё дело — выполнить\n　задание на «Арбалесте» во что бы ни стало.」",
+   "orig": "Sousuke\n「And having that power means it's my job to use the\n　Arbalest to get the mission done, no matter what.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Ал",
+   "text": "「Именно. А моё дело — помочь вам в этом.」",
+   "orig": "Al\n「Indeed. And my job is to help ensure that you do that.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Соскэ",
+   "text": "「Тогда нам остаётся только взлететь. Я сделаю, что\n　нужно, и вернусь целым! На это можешь\n　рассчитывать!」",
+   "orig": "Sousuke\n「Then I think the only thing that's left for us to do is\n　taking off. I'll do what needs to get done and come\n　back in one piece! You can count on it!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Рури",
+   "text": "（Если этот беспилотный отряд не от Армии Федерации\n　Земли и не от Марсианских преемников, то\n　за кого же он воюет?）",
+   "orig": "Ruri\n（If this unmanned squad isn't working for the Earth\n　Federation Forces and it's not with the Martian\n　Successors, who are they fighting for?）"
+  },
+  {
+   "i": 218,
+   "speaker": "Рури",
+   "text": "（Может, это стража, что не пускает нас, вторгшихся?\n　Если так, тем более нужно взглянуть.）",
+   "orig": "Ruri\n（Could they be guards trying to keep us intruders out?\n　If that's the case, we definitely need to take a look.）"
+  },
+  {
+   "i": 219,
+   "speaker": "Сумераги",
+   "text": "（Если отряд тут, чтобы не дать нам узнать секреты\n　Зоны D, вполне возможно, он работает на них.）",
+   "orig": "Sumeragi\n（If this squad is here to stop us from finding out Area\n　D's secrets, they could well be working for them.）"
+  },
+  {
+   "i": 220,
+   "speaker": "Майто",
+   "text": "「Так, Гайн, начинаем! Можно не щадить их —\n　это просто безмозглые ИИ, не как ты!」",
+   "orig": "Maito\n「All right, Gaine, let's get started! No need to go\n　easy on them! They're just mindless AI, unlike you!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Майтгайн",
+   "text": "「Понял, Майто! Этот бой мы выиграем! Я покажу\n　им, на что способен мой Супер-ИИ!」",
+   "orig": "Mightgaine\n「You've got it, Maito! We'll win this fight! I'll\n　show them what my Super AI is truly capable of!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Трай Бомбер",
+   "text": "「Я Супер-ИИ, проиграть простым ИИ мне нельзя — иначе\n　Хамаде и начальнику осакского завода будет стыдно!」",
+   "orig": "Tri Bomber\n「As a Super AI, I can't be beaten by mere AIs or else\n　Hamada and the Osaka Plant Manager'll be ashamed of me!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Трай Бомбер",
+   "text": "「Пора мне в бой!\n　Я покажу вам, прочим ИИ, насколько вы слабы!」",
+   "orig": "Tri Bomber\n「It's time for me to fight!\n　I'll show all you other AIs just how weak you are!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Гард Дайвер",
+   "text": "「Уверяю, вы, другие ИИ, тут не виноваты.\n　Виноваты те, кто вами управляет!」",
+   "orig": "Guard Diver\n「I assure you, you other AIs aren't at fault here.\n　It's the ones controlling you all who are wrong!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Гард Дайвер",
+   "text": "「Но это не значит, что я могу просто отступить!\n　У нас важная задача, выполнить её нужно любой ценой!」",
+   "orig": "Guard Diver\n「But that doesn't mean I can just step aside, either!\n　We have an important mission to get done at all costs!」"
+  },
+  {
+   "i": 226,
+   "speaker": "$n",
+   "text": "「Эти ИИ на мой вкус слишком скучные и пустые.\n　Ты куда лучше, Найн. Ты в сто раз милее!」",
+   "orig": "$n\n「These AI guys look way too boring and soulless for my\n　taste. You're way better, Nine. You're 100 times cuter!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Найн",
+   "text": "「Всего лишь в сто раз милее?」",
+   "orig": "Nine\n「Merely 100 times cuter?」"
+  },
+  {
+   "i": 228,
+   "speaker": "$n",
+   "text": "「Н-нет! В тысячу раз милее! Да чего уж там —\n　в десять тысяч раз милее! Так лучше?」",
+   "orig": "$n\n「N-no! I mean 1,000 times cuter! Heck, why stop there?\n　You're 10,000 times cuter! Is that any better?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Найн",
+   "text": "「Ноль «милоты», умноженный на что угодно, — всё равно ноль.」",
+   "orig": "Nine\n「Zero \"cuteness\" multiplied by any number is still zero.」"
+  },
+  {
+   "i": 230,
+   "speaker": "$n",
+   "text": "「Ох...」",
+   "orig": "$n\n「Urgh.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Найн",
+   "text": "「Однако, поскольку милой меня признали, я, как\n　говорят у вас, людей, «спущу это с рук».」",
+   "orig": "Nine\n「However, since you deemed me cute, I'll \"let it\n　slide,\" as you humans often say.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Найн",
+   "text": "「Поскольку наши враги — беспилотные машины, их\n　движения должны идти по заданным шаблонам, а значит,\n　я смогу разобрать их тактику.」",
+   "orig": "Nine\n「Given that our enemies are unmanned machines, their\n　movements should occur in preset patterns, making it\n　possible for me to analyze their strategy.」"
+  },
+  {
+   "i": 233,
+   "speaker": "$n",
+   "text": "「Ого, Найн, ты сегодня полна энтузиазма.」",
+   "orig": "$n\n「Wow, Nine, you're really motivated today.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Найн",
+   "text": "「Как ИИ, я вижу в этом бою лишь возможность показать\n　своё очевидно превосходящее программирование.」",
+   "orig": "Nine\n「As a fellow AI myself, I merely see this battle as an\n　opportunity to display my clearly superior programming.」"
+  },
+  {
+   "i": 235,
+   "speaker": "$n",
+   "text": "「Ты явно настроена на победу, да?」",
+   "orig": "$n\n「You're definitely in it to win it, aren't you?」"
+  },
+  {
+   "i": 236,
+   "speaker": "Найн",
+   "text": "「А у тебя настрой «на поражение»?」",
+   "orig": "Nine\n「Well, are you \"in it to lose it\"?」"
+  },
+  {
+   "i": 237,
+   "speaker": "$n",
+   "text": "「Не-не! Вот уж нет!」",
+   "orig": "$n\n「Nuh-uh! Definitely not!」"
+  },
+  {
+   "i": 238,
+   "speaker": "$n",
+   "text": "「Больше того, глядя на тебя, и мне захотелось\n　выложиться сегодня по полной!」",
+   "orig": "$n\n「In fact, watching you has really inspired me\n　to fight hard today myself!」"
+  },
+  {
+   "i": 239,
+   "speaker": "$n",
+   "text": "「Ну и ну, кто бы мог подумать — бой с драконами.」",
+   "orig": "$n\n「Man, I never thought I'd have to fight Dragons.」"
+  },
+  {
+   "i": 240,
+   "speaker": "$n",
+   "text": "「Скорей бы рассказать об этом всем на «Ямато»!」",
+   "orig": "$n\n「I can't wait to tell everyone about it back on the Yamato!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Найн",
+   "text": "「Странно оптимистичное замечание.」",
+   "orig": "Nine\n「That is a strangely optimistic thing to say.」"
+  },
+  {
+   "i": 242,
+   "speaker": "$n",
+   "text": "「Такой уж характер! Всегда смотрю на всё светло!」",
+   "orig": "$n\n「That's just who I am! I'm always a positive thinker!」"
+  },
+  {
+   "i": 243,
+   "speaker": "$n",
+   "text": "「Ох, ну и ну...」",
+   "orig": "$n\n「Man, oh man...」"
+  },
+  {
+   "i": 244,
+   "speaker": "Найн",
+   "text": "「Что-то не так, сестрица?」",
+   "orig": "Nine\n「Is something wrong, Sis?」"
+  },
+  {
+   "i": 245,
+   "speaker": "$n",
+   "text": "「Просто странно это — драться с живыми существами.」",
+   "orig": "$n\n「It just feels weird fighting, you know, living creatures.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Найн",
+   "text": "「Если тебе тяжело, закрой глаза. Я поведу «Вангрэй»\n　и выведу нас с этого поля боя.」",
+   "orig": "Nine\n「If you cannot handle it, then close your eyes. I will\n　pilot the VangRay and steer us out of this battlefield.」"
+  },
+  {
+   "i": 247,
+   "speaker": "$n",
+   "text": "「Нет-нет, всё в порядке, Найн!\n　Я могу драться! Не беспокойся!」",
+   "orig": "$n\n「Oh, no, that's OK, Nine!\n　I can fight! You don't have to worry!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Найн",
+   "text": "「Точно? Только не перенапрягайся.」",
+   "orig": "Nine\n「Are you sure? Do not push yourself too hard.」"
+  },
+  {
+   "i": 249,
+   "speaker": "$n",
+   "text": "「Убежать я не могу! «Вангрэем» управляем мы вдвоём!\n　Сделаю что нужно! Без всяких «но»!」",
+   "orig": "$n\n「I can't run away! I'm one of the VangRay's pilots!\n　I'll do what needs to be done! No ifs, ands, or buts!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Найн",
+   "text": "「Понятно.\n　Тогда я сделаю всё, чтобы тебя поддержать.」",
+   "orig": "Nine\n「I understand.\n　I shall do my utmost to support you, then.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Сэцуна",
+   "text": "（Что это за чувство?）",
+   "orig": "Setsuna\n（What is this feeling I sense?）"
+  },
+  {
+   "i": 252,
+   "speaker": "Сэцуна",
+   "text": "（Это воля этих драконов?）",
+   "orig": "Setsuna\n（Is it these dragons' wills?）"
+  },
+  {
+   "i": 253,
+   "speaker": "Тобиа",
+   "text": "（Клянусь, эту подлодку и «Гандам» при ней\n　я где-то уже видел.）",
+   "orig": "Tobia\n（I swear, I've seen that submarine and that\n　Gundam with it somewhere before.）"
+  },
+  {
+   "i": 254,
+   "speaker": "Тобиа",
+   "text": "（Да ладно! Сейчас есть забота и поважнее —\n　эти Драконы! Очень не хочется стать\n　их следующим обедом!）",
+   "orig": "Tobia\n（Whatever! I've got bigger things to worry about\n　right now, starting with these Dragons! I really\n　don't want to be their next dinner!）"
+  },
+  {
+   "i": 255,
+   "speaker": "Майтгайн",
+   "text": "「Знаешь, Майто? Я и представить не мог, что нам\n　правда придётся драться с такими диковинами.」",
+   "orig": "Mightgaine\n「You know, Maito? I never imagined we'd really ever\n　have to fight such outlandish enemies.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Майто",
+   "text": "「Да, но закрыть на них глаза нельзя! Если эти\n　создания подберутся к людям, кто знает, какой\n　разгром устроят! От них одна беда!」",
+   "orig": "Maito\n「Yeah, but we can't ignore them! If these creatures\n　get anywhere near civilization, who knows what\n　sort of havoc they could cause! They're bad news!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Майто",
+   "text": "「Мы должны побить их здесь и сейчас!\n　Отвечать за это нам, Гайн!」",
+   "orig": "Maito\n「We've got to beat them, right here, right now!\n　The buck stops here with us, Gaine!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Тесса",
+   "text": "「Где бы мы ни оказались, у всех нас есть\n　долг — выбраться живыми!」",
+   "orig": "Tessa\n「Wherever we end up, we all have an\n　obligation, a duty to make it out alive!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Тесса",
+   "text": "「Цель — те гигантские создания!」",
+   "orig": "Tessa\n「Now set our target for those giant creatures!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Мардукас",
+   "text": "「Так точно, капитан!」",
+   "orig": "Mardukas\n「Aye, Captain!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Тесса",
+   "text": "（Смутно помню, что когда-то видела такое море.）",
+   "orig": "Tessa\n（I just barely remember once seeing an ocean like this.）"
+  },
+  {
+   "i": 262,
+   "speaker": "Тесса",
+   "text": "（Но сейчас это неважно. У меня как у капитана\n　«Туата де Данаан» есть дела посерьёзнее!）",
+   "orig": "Tessa\n（But that's neither here nor there right now. I've\n　got more important things on my plate as captain of\n　the Tuatha de Danaan!）"
+  },
+  {
+   "i": 263,
+   "speaker": "Клузо",
+   "text": "「AS против драконов. Теперь я видел всё.」",
+   "orig": "Clouseau\n「An AS-on-Dragon fight. Now I've seen everything.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Клузо",
+   "text": "「Хотя, видимо, так и положено, когда дерёшься\n　в каком-то безумном придуманном мире!」",
+   "orig": "Clouseau\n「But I guess that's just part for the course when\n　you're duking it out in some crazy imaginary world!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Курц",
+   "text": "「Охота, признаться, никогда не была моим делом.」",
+   "orig": "Kurz\n「I've never really been one for hunting, really.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Курц",
+   "text": "「Но если надо — сделаю! Пусть вокруг и чудится\n　дичь, снайпер я всё тот же!」",
+   "orig": "Kurz\n「But if I have to do it, I will! Things might be\n　a little weird right now, but I'm still a sniper!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Фрайди",
+   "text": "「Обстановка вокруг по-прежнему неясна.\n　Кроме того, приближаются враги.」",
+   "orig": "Friday\n「Surrounding situation remains unclear.\n　Also, we have enemies approaching.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Мао",
+   "text": "「Под мной — огромный синий океан, а сверху, куда\n　ни глянь, — Драконы.」",
+   "orig": "Mao\n「I've got a big blue ocean stretching out below me\n　and Dragons as far as I can see in the sky up above.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Мао",
+   "text": "「Я ни черта не понимаю, что происходит, но одно\n　знаю точно: я не умру, пока не получу ответы\n　об этом месте!」",
+   "orig": "Mao\n「I don't have any idea what the hell is going on,\n　but one thing I do know for sure is that I'm not\n　dying, not until I get some answers about this place!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Соскэ",
+   "text": "「Против нас цели в разы крупнее нас самих.\n　Буду бить туда, где у них похоже на слабое место.」",
+   "orig": "Sousuke\n「We're up against targets many times larger than we are.\n　I'll aim for whatever looks to be their weak points.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Ал",
+   "text": "「Вы удивительно спокойны, сержант.」",
+   "orig": "Al\n「You're awfully calm right now, Sergeant.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Соскэ",
+   "text": "「Да с тех пор, как я сел в эту машину, моя жизнь —\n　одна долгая череда безумия. Глупо дёргаться\n　после всего, что я видел.」",
+   "orig": "Sousuke\n「Well, ever since I started riding this thing, my\n　life's just been one long stretch of craziness. It'd\n　be dumb to get worked up about it after what I've seen.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Ал",
+   "text": "「Пожалуй, это первая взрослая мысль из ваших уст.」",
+   "orig": "Al\n「I think that's the first mature thing you've ever said.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Соскэ",
+   "text": "「Мне сейчас нужнее твои данные, чем комплименты,\n　Ал. Без них мне не выжить!」",
+   "orig": "Sousuke\n「I could use your data more than your compliments right\n　now, Al. I kind of need it if I'm going to survive!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Соскэ",
+   "text": "（Канамэ, я сделаю всё, что в моих силах,\n　чтобы тебя защитить. Обещаю!）",
+   "orig": "Sousuke\n（Kaname, I'm going to do everything I can\n　to protect you. That's a promise!）"
+  },
+  {
+   "i": 276,
+   "speaker": "Салия",
+   "text": "（Я справлюсь... Я всем покажу, чего я стою!）",
+   "orig": "Salia\n（I can do this... I'll show everyone what I'm made of!）"
+  },
+  {
+   "i": 277,
+   "speaker": "Салия",
+   "text": "（Я должна доказать свою силу и свою цену —\n　и прежде всего ради Алектры!）",
+   "orig": "Salia\n（I've got to prove my worth and my strength,\n　especially for Alektra most of all!）"
+  },
+  {
+   "i": 278,
+   "speaker": "Вивиан",
+   "text": "「Время викторины!\n　Кто эти люди, что дерутся вон там?」",
+   "orig": "Vivian\n「Quiz time!\n　Who are those other people fighting over there?」"
+  },
+  {
+   "i": 279,
+   "speaker": "Вивиан",
+   "text": "「Ответ?\n　Понятия не имею! Потому и лезу в драку!」",
+   "orig": "Vivian\n「The answer?\n　I have no idea! That's why I'm joining the fray!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Эрша",
+   "text": "「У меня впечатление, что Драконы появляются\n　всё чаще и чаще.」",
+   "orig": "Ersha\n「I get the impression Dragons have been appearing\n　with greater and greater frequency lately.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Эрша",
+   "text": "「Но сейчас гадать о причинах бесполезно. Мне ещё\n　надо решить, что готовить на ужин!」",
+   "orig": "Ersha\n「But it's no use trying to figure out why now. I\n　still have to decide what to do for dinner tonight!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Хатауэй",
+   "text": "（Ах, Квесс.\n　Ты не поверишь, в какую передрягу я угодил\n　на этот раз.）",
+   "orig": "Hathaway\n（Oh, Quess.\n　You won't believe the mess that I've managed to\n　get myself in this time.）"
+  },
+  {
+   "i": 283,
+   "speaker": "Хатауэй",
+   "text": "（Но я не сдамся! Я поклялся жить дальше после\n　твоей смерти и обещание сдержу!）",
+   "orig": "Hathaway\n（But I won't give up! I swore to keep on living\n　after you died and I intend to keep that promise!）"
+  },
+  {
+   "i": 284,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Augh!」"
+  }
+ ]
+}

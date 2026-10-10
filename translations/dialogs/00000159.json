@@ -1,0 +1,1930 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Майто",
+   "text": "「Что?! С каких пор у тебя такие огромные роботы?」",
+   "orig": "Maito\n「What?! Since when did you have such big robots?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Виттон",
+   "text": "「Му-ха-ха, какие же они милашки, не правда ли?\n　И всё это благодаря моему чудесному новому\n　спонсору! Без его помощи я бы их не построила!」",
+   "orig": "Vuitton\n「Mwahaha, they're beautiful little darlings, aren't they?\n　This is all thanks to my wonderful new sponsor! I\n　couldn't have built all these without their help!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Майто",
+   "text": "「Спонсор? У тебя?\n　Да кто вообще—」",
+   "orig": "Maito\n「Sponsor? You?\n　Who would ever—」"
+  },
+  {
+   "i": 3,
+   "speaker": "Виттон",
+   "text": "「Извини, мальчик, это мур-рсональное.\n　Мои губы на замке! Я ни за что\n　не выпущу кота из мешка!」",
+   "orig": "Vuitton\n「Sorry, boy, but that's purr-ivate.\n　My lips are sealed! I can't possibly\n　ever let that cat out of the bag!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Одри",
+   "text": "「Госпожа, не пора ли нам?」",
+   "orig": "Audrey\n「My lady, shall we get going?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Виттон",
+   "text": "「Да, пожалуй. До встречи, мелюзга! Беги, пока я\n　не запустила в тебя когти, крысёныш!」",
+   "orig": "Vuitton\n「Yes, I think so. See you around, twerp! You better run\n　before I can get my claws on you, you little rodent!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Майто",
+   "text": "「Чёрт!\n　Если не поспешу, весь район—」",
+   "orig": "Maito\n「Crap!\n　If I don't act fast, this whole area will—」"
+  },
+  {
+   "i": 7,
+   "speaker": "Гайн",
+   "text": "「Не волнуйся, Майто! Подкрепление прибыло!」",
+   "orig": "Gaine\n「Not to worry, Maito! The cavalry has arrived!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Майто",
+   "text": "「Это «Надэсико»!」",
+   "orig": "Maito\n「It's the Nadesico!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Харри",
+   "text": "「Кажется, я понимаю, что тут творится. Эти роботы,\n　похоже, принадлежат воровкам, за которыми гонится Майто.」",
+   "orig": "Harry\n「I think I get what's going on here. Those robots seem\n　to belong to those thieves Maito's been going after.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Сабуроута",
+   "text": "「Верно. И они даже могут работать на Марсианских\n　преемников — как тот отвлекающий отряд до этого.」",
+   "orig": "Saburouta\n「Right. And they could even be working with the Martian\n　Successors, just like that diversionary squad earlier.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Гайн",
+   "text": "「Майто! Давай пока\n　состыкуемся с «Надэсико»!」",
+   "orig": "Gaine\n「Maito! Let's meet up with the\n　Nadesico for the time being!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Майто",
+   "text": "「Хорошо, идём!」",
+   "orig": "Maito\n「All right, let's go!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Харри",
+   "text": "「Капитан, приближается ещё один отряд врага.」",
+   "orig": "Harry\n「Captain, another enemy squad is approaching.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Рури",
+   "text": "「Это Марсианские преемники?」",
+   "orig": "Ruri\n「Is it the Martian Successors?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Харри",
+   "text": "「Нет, это—」",
+   "orig": "Harry\n「No, it's—」"
+  },
+  {
+   "i": 16,
+   "speaker": "Рёко",
+   "text": "「Да, я почти уверена, что это не Марс. преемники.」",
+   "orig": "Ryoko\n「Yeah, I'm pretty sure they're not Martian Successors.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Сабуроута",
+   "text": "「И от той розовой шайки они, кажется, отдельно.」",
+   "orig": "Saburouta\n「I think they're separate from that pink group, too.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Хо-хо-хо! Рад тебя здесь видеть,\n　Розовая кошка!」",
+   "orig": "Hoi Kow Lou\n「Hohoho!\n　Good to see you here, Pink Cat!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Виттон",
+   "text": "「Это—Не может быть! Это ты, Хой Коу Лоу?」",
+   "orig": "Vuitton\n「Is that—It can't be! Is that you, Hoi Kow Lou?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Он самый! Я счёл, что будет правильно\n　прийти и подать тебе руку помощи!」",
+   "orig": "Hoi Kow Lou\n「The one and only! I felt it was only\n　right that I come lend you a hand!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Виттон",
+   "text": "「Отлично, но сразу скажу: я тебе ничего не плачу.」",
+   "orig": "Vuitton\n「Great, but just to be clear, I'm not paying you anything.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ничего страшного.\n　Я и так пришёл сюда по просьбе своего\n　спонсора, так что рад поработать бесплатно.」",
+   "orig": "Hoi Kow Lou\n「That's fine.\n　I came here because my sponsor asked me\n　to anyway, so I'm happy to work for free.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Хой Коу Лоу",
+   "text": "「К тому же это отличный шанс показать мощь моего\n　неостановимого флота «Паозу» — в выигрыше все!」",
+   "orig": "Hoi Kow Lou\n「Besides, this is a great chance to show off the might\n　of my unstoppable Paozu fleet, too, so everybody wins!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Виттон",
+   "text": "「Вижу, ты, как всегда, оппур-ртунист в делах.」",
+   "orig": "Vuitton\n「I see you're as oppurr-tunistic a businessman as ever.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Разумеется! Иначе нельзя, если торгуешь оружием\n　по всему миру и хочешь на этом разбогатеть!」",
+   "orig": "Hoi Kow Lou\n「Of course! You've got to be if you're in the business of\n　global arms dealing and want to get rich off of it, too!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Чинджа",
+   "text": "「Господин Хой. Кажется, тот корабль\n　напротив — это «Надэсико».」",
+   "orig": "Chinja\n「Master Hoi. I believe that ship\n　across the way is the Nadesico.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Превосходно!\n　Если мы крепко ударим по «Нергалу», наши мехи\n　мигом взлетят в популярности!」",
+   "orig": "Hoi Kow Lou\n「Perfect!\n　If we can deal a big blow to Nergal, our mechas\n　are sure to soar in popularity overnight!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Никакой армии не одолеть мои «Паозу». Они будут\n　первыми в списке бестселлеров «Нувель-Токио Таймс»!」",
+   "orig": "Hoi Kow Lou\n「No mere army can hope to topple my Paozu. They'll\n　be on top of the Nouvelle Tokyo Times bestseller list!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Харри",
+   "text": "「Капитан, «Гайн» успешно принят на борт.」",
+   "orig": "Harry\n「Captain, we've successfully retrieved the Gaine.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Рури",
+   "text": "「Хорошая работа. Теперь выводите наши силы в бой.」",
+   "orig": "Ruri\n「Good work. Now deploy our forces onto the battlefield.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Так вот он, «Майтгайн», о котором я столько слышал.」",
+   "orig": "Hoi Kow Lou\n「So that's the Mightgaine I've heard so much about.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Чинджа",
+   "text": "「Похоже, машина весьма грозная, господин. Уверен,\n　и пилот у неё — здоровенный угрюмый мужик.」",
+   "orig": "Chinja\n「It looks like a very formidable machine, Master. I'm\n　sure its pilot is quite the big, surly man, too.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Да. Не дождусь, когда сам увижу его физиономию!」",
+   "orig": "Hoi Kow Lou\n「Yes. I can't wait to see his mug for myself when we win!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Майто",
+   "text": "「Надеюсь, вы оба меня слышите,\n　Розовая кошка и Хой Коу Лоу!」",
+   "orig": "Maito\n「I hope you two are listening out\n　there Pink Cat and Hoi Kow Lou!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Майто",
+   "text": "「У мира и без вас забот хватает — Марсианские\n　преемники объявили войну! А вы только всё\n　портите! Вам это с рук не сойдёт!」",
+   "orig": "Maito\n「The world's got enough trouble as it is dealing with\n　the Martian Successors declaring war without you two\n　making it even worse! You won't get away with this!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Майтгайн",
+   "text": "「Майто!\n　Посмотри туда!」",
+   "orig": "Mightgaine\n「Maito!\n　Look over there!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Майто",
+   "text": "「О нет! Здесь кто-то ещё остался!」",
+   "orig": "Maito\n「Oh no! Somebody's still trapped here!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Харри",
+   "text": "「Майто, ты слишком далеко вырвался! Назад!」",
+   "orig": "Harry\n「Maito, you're going too far forward! Pull back!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Майто",
+   "text": "「Не могу! Если не помогу, они пострадают!」",
+   "orig": "Maito\n「I can't! They could get hurt if I don't help!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Салли",
+   "text": "「Майто, это ты в том роботе?\n　Это ведь ты, правда?」",
+   "orig": "Sally\n「Maito, is that you piloting that\n　robot? It is you, isn't it?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Майто",
+   "text": "「Да, это я! Ты в порядке, Салли?」",
+   "orig": "Maito\n「Yeah, it's me! Are you all right, Sally?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Салли",
+   "text": "「Я-то да, но Тэцуя подвернул ногу.」",
+   "orig": "Sally\n「I'm fine, but Tetsuya twisted his ankle.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Тэцуя",
+   "text": "「Да всё нормально, Салли, правда! Меня\n　такой ерундой сдаться не заставишь!」",
+   "orig": "Tetsuya\n「I'm OK, Sally, really! It'll take a\n　lot more than this for me to give up!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Майто",
+   "text": "「Салли, забирай брата и уходи отсюда!\n　Я отвлеку врага, пока вы бежите!」",
+   "orig": "Maito\n「Sally, you need to take your brother and get out\n　of here! I'll distract the enemy while you run!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Салли",
+   "text": "「Ладно! Спасибо!」",
+   "orig": "Sally\n「OK! Thanks!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Харри",
+   "text": "「«Майтгайн» идёт прямо на территорию врага!」",
+   "orig": "Harry\n「The Mightgaine is headed straight for enemy territory!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Найн",
+   "text": "「При таком раскладе он попадёт под плотный огонь.」",
+   "orig": "Nine\n「At this rate, he is sure to sustain heavy enemy fire.」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Майто это знает! Точно знает!\n　Он просто ведёт себя как настоящий герой!」",
+   "orig": "$n\n「Maito knows that! I'm sure he does!\n　He's just being the big hero that he is!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Рёко",
+   "text": "「Ну, Майто, смелости тебе не занимать. Это точно!」",
+   "orig": "Ryoko\n「Man, Maito, you've got real guts. I'll give you that!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Сабуроута",
+   "text": "「Давай вперёд. Мы тебя прикроем, малыш!」",
+   "orig": "Saburouta\n「You go on ahead. We'll cover you, kid!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Майто",
+   "text": "「Спасибо, ребята! Я вас не подведу!」",
+   "orig": "Maito\n「Thanks, guys! I won't let you down!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Рури",
+   "text": "「Что ж, тогда решено. Всем подразделениям:\n　уничтожить противника как можно быстрее.」",
+   "orig": "Ruri\n「Then I suppose that settles it. All units,\n　eliminate the opposition as swiftly as possible.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Рури",
+   "text": "「И ещё, Харри, у меня для тебя\n　особое поручение.」",
+   "orig": "Ruri\n「Furthermore, Harry, I have a\n　special job for you to do.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Харри",
+   "text": "「Д-да, капитан.」",
+   "orig": "Harry\n「Y-yes, Captain.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Майто",
+   "text": "「Готовы или нет, злодеи, — мы идём! У вас нет\n　ни малейшего шанса, пока на сцене отряд\n　«Отважный экспресс» и «Надэсико»!」",
+   "orig": "Maito\n「Ready or not, evildoers, here we come! You don't\n　stand a ghost of a chance while the Brave Express\n　Corps and the Nadesico are on the scene!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Харри",
+   "text": "「«Майтгайн» идёт прямо на территорию врага!」",
+   "orig": "Harry\n「The Mightgaine is headed straight for enemy territory!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Найн",
+   "text": "「При таком раскладе он попадёт под плотный огонь.\n　Если рассуждать разумно, это тактическая оши—」",
+   "orig": "Nine\n「At this rate, he is sure to sustain heavy enemy fire.\n　Rationally speaking, I believe this is a tactical mis—」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Думаешь, он этого не знает? Конечно, знает,\n　что это риск! Потому он и настоящий герой!」",
+   "orig": "$n\n「You don't think he knows that? Of course he knows\n　it's risky! That's what makes him such a hero!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Рёко",
+   "text": "「Ну, Майто, смелости тебе не занимать. Это точно!」",
+   "orig": "Ryoko\n「Man, Maito, you've got real guts. I'll give you that!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Сабуроута",
+   "text": "「Давай вперёд. Мы тебя прикроем, малыш!」",
+   "orig": "Saburouta\n「You go on ahead. We'll cover you, kid!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Майто",
+   "text": "「Спасибо, ребята! Я вас не подведу!」",
+   "orig": "Maito\n「Thanks, guys! I won't let you down!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Рури",
+   "text": "「Что ж, тогда решено. Всем подразделениям:\n　уничтожить противника как можно быстрее.」",
+   "orig": "Ruri\n「Then I suppose that settles it. All units,\n　eliminate the opposition as swiftly as possible.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Рури",
+   "text": "「И ещё, Харри, у меня для тебя\n　особое поручение.」",
+   "orig": "Ruri\n「Furthermore, Harry, I have a\n　special job for you to do.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Харри",
+   "text": "「Д-да, капитан.」",
+   "orig": "Harry\n「Y-yes, Captain.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Майто",
+   "text": "「Готовы или нет, злодеи, — мы идём! У вас нет\n　ни малейшего шанса, пока на сцене отряд\n　«Отважный экспресс» и «Надэсико»!」",
+   "orig": "Maito\n「Ready or not, evildoers, here we come! You don't\n　stand a ghost of a chance while the Brave Express\n　Corps and the Nadesico are on the scene!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Хе, похоже, «Майтгайн» не явился.」",
+   "orig": "Hoi Kow Lou\n「Heh, looks like the Mightgaine is a no-show.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Чинджа",
+   "text": "「Какая жалость. Хотел бы я когда-нибудь увидеть,\n　кто же командир отряда «Отважный экспресс».」",
+   "orig": "Chinja\n「Such a shame. I'd like to see who the captain\n　of the Brave Express Corps is one of these days.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Рури",
+   "text": "「Всем подразделениям: внимательно следить за\n　обстановкой и уничтожить противника как можно скорее.」",
+   "orig": "Ruri\n「All units, pay close attention to your surroundings\n　and eliminate the opposition as swiftly as possible.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Рури",
+   "text": "「И ещё, Харри, у меня для тебя\n　особое поручение.」",
+   "orig": "Ruri\n「Furthermore, Harry, I have a\n　special job for you to do.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Харри",
+   "text": "「Д-да, капитан.」",
+   "orig": "Harry\n「Y-yes, Captain.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Майто",
+   "text": "「Готовы или нет, злодеи, — мы идём! У вас нет\n　ни малейшего шанса, пока на сцене отряд\n　«Отважный экспресс» и «Надэсико»!」",
+   "orig": "Maito\n「Ready or not, evildoers, here we come! You don't\n　stand a ghost of a chance while the Brave Express\n　Corps and the Nadesico are on the scene!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Харри",
+   "text": "「Капитан, похоже, силы сторон примерно равны.」",
+   "orig": "Harry\n「Captain, both sides appear to be evenly matched.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Рури",
+   "text": "「Нужно спешить. У нас немного времени,\n　прежде чем явятся новые гости—」",
+   "orig": "Ruri\n「We have to hurry. We don't have much more time\n　before more guests are probably going to—」"
+  },
+  {
+   "i": 74,
+   "speaker": "Харри",
+   "text": "「Капитан, показания бозонов только что\n　зашкалили! Это они! Точно они!」",
+   "orig": "Harry\n「Captain, boson readings have just gone\n　through the roof! It's them! It's got to be!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Харри",
+   "text": "「Капитан, похоже, бой идёт в нашу пользу.」",
+   "orig": "Harry\n「Captain, the battle appears to be going in our favor.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Рури",
+   "text": "「И всё же надо спешить. У нас осталось немного\n　времени, прежде чем явятся новые гости—」",
+   "orig": "Ruri\n「Regardless, we still have to hurry. We don't have much\n　more time before more guests are probably going to—」"
+  },
+  {
+   "i": 77,
+   "speaker": "Харри",
+   "text": "「Капитан, показания бозонов только что\n　зашкалили! Это они! Точно они!」",
+   "orig": "Harry\n「Captain, boson readings have just gone\n　through the roof! It's them! It's got to be!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Рёко",
+   "text": "「Вот и Марсианские преемники! И они окружили\n　весь корабль какими-то новыми машинами!」",
+   "orig": "Ryoko\n「There are those Martian Successors! And they've\n　surrounded the whole ship with some new units!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Сабуроута",
+   "text": "「Да бог с ними — когда они так здорово\n　научились управлять бозонными прыжками?」",
+   "orig": "Saburouta\n「Never mind that, when did they get\n　so damn good at controlling Boson Jumps?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Майто",
+   "text": "「Капитан, я выхожу им навстречу!」",
+   "orig": "Maito\n「Captain, I'm heading out to meet them!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Рури",
+   "text": "「Отправляйся. Думаю, у тебя всё получится.」",
+   "orig": "Ruri\n「Go on ahead. I trust you'll be fine.」"
+  },
+  {
+   "i": 82,
+   "speaker": "$n",
+   "text": "「Что это было?!」",
+   "orig": "$n\n「What was that?!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Найн",
+   "text": "「По моим расчётам, это был точный выстрел издалека.」",
+   "orig": "Nine\n「My calculations indicate it was precision fire from afar.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Рури",
+   "text": "「Точно по графику.」",
+   "orig": "Ruri\n「Right on schedule.」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Что сейчас произошло?!」",
+   "orig": "$n\n「What just happened?!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Найн",
+   "text": "「По моим расчётам, это был точный выстрел издалека.」",
+   "orig": "Nine\n「My calculations indicate it was precision fire from afar.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Рури",
+   "text": "「Точно по графику.」",
+   "orig": "Ruri\n「Right on schedule.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Сумераги",
+   "text": "「Поражена: вы и правда сделали из себя приманку,\n　чтобы выманить Марсианских преемников из укрытия.」",
+   "orig": "Sumeragi\n「I'm impresesed you've actually make yourselves a\n　decoy to draw out the Martian Successors out of hiding.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Рури",
+   "text": "「Мы верили, что вы в конце концов придёте нам\n　на помощь. Большой смелости тут не требовалось.」",
+   "orig": "Ruri\n「We trusted that you would all come to our aid\n　eventually. It wasn't that big of a leap of faith.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Локон",
+   "text": "「Что ж, мне лестно слышать, что вы доверяете\n　моему снайперскому умению.」",
+   "orig": "Lockon\n「I'm flattered to hear that you trust my\n　sniping skills to get the job done, then.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Аллилуйя",
+   "text": "「Я просто рад, что мы смогли прийти вам на помощь.」",
+   "orig": "Allelujah\n「I'm just glad we were able to come help you guys.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Найн",
+   "text": "「«00 Квант» и «Гандам Рафаэль» подтверждены.\n　Эти люди действительно оказались членами\n　«Селестиал Бин», как и предполагалось.」",
+   "orig": "Nine\n「00 QAN[T] and Raphael Gundam confirmed to be\n　present. These people do indeed appear to be\n　members of Celestial Being, as anticipated.」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「И они здесь не одни!」",
+   "orig": "$n\n「They're not the only ones here!」"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Смотрите! Это «Скаллхарт»!\n　Значит, Тобиа тоже здесь!」",
+   "orig": "$n\n「Look! It's the Skullheart!\n　That must mean Tobia's here, too!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тобиа",
+   "text": "「Ага! Привет, $n!」",
+   "orig": "Tobia\n「Yep! Hey there, $n!」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Ха-ха, привет! Как дела? Это они\n　притащили тебя сюда сражаться?」",
+   "orig": "$n\n「Haha, hey man! How's it going? Did\n　these guys drag you along to come fight?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тобиа",
+   "text": "「Да! Нас тут много пришло на помощь!」",
+   "orig": "Tobia\n「Yeah! Lots of us came here to help!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Тиерия",
+   "text": "「Тобиа, оставь радостную встречу на потом.」",
+   "orig": "Tieria\n「Tobia, save the happy reunion for latter, if you could.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Сэцуна",
+   "text": "「Сначала надо разобраться с Марсианскими преемниками.」",
+   "orig": "Setsuna\n「We've got some Martian Successors to take care of first.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Тобиа",
+   "text": "「Принято!」",
+   "orig": "Tobia\n「Roger that!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Гард Дайвер",
+   "text": "「Я всё ещё поражён, что «Селестиал Бин»\n　правда пришли и вступили в бой!」",
+   "orig": "Guard Diver\n「I'm still just amazed that Celestial\n　Being actually came and joined the fight!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Трай Бомбер",
+   "text": "「Да! Не каждый день удаётся встретить\n　таких суперзвёзд в нашем ремесле!」",
+   "orig": "Tri Bomber\n「Yeah! It's not every day we get to meet\n　such superstars in our line of work!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Рури",
+   "text": "「Возможно, помогло и то, что я послала им весть.」",
+   "orig": "Ruri\n「It might have helped that I sent them a message, too.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Харри",
+   "text": "「Что? У вас всё-таки был способ с ними связаться?」",
+   "orig": "Harry\n「What? You had a way of contacting them after all?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Рури",
+   "text": "「Ещё во время войны с Ящерами был момент, когда\n　Омоикане связывался с $kwbВедой$kwe. Я просто взяла\n　тот код и снова вышла на них.」",
+   "orig": "Ruri\n「Back during the Lizard War, there was a point where\n　we had Omoikane contact $kwbVeda$kwe. I just used the code\n　we had for that to reach out to them again.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Тиерия",
+   "text": "「Умный ход. По тому, как было зашифровано\n　сообщение, я сразу понял, что оно пришло\n　от капитана Хосино и Омоикане.」",
+   "orig": "Tieria\n「It was smart thinking. I recognized immediately based\n　on the way the message was encrypted that it had to\n　have come from Captain Hoshino and Omoikane.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Рури",
+   "text": "「Хотя, наверное, стоит извиниться. Мои методы,\n　по сути, были почти взломом, но иначе я не\n　придумала, как привлечь внимание вашей группы.」",
+   "orig": "Ruri\n「I should probably apologize, though. I know my methods\n　esssentially amounted to quasi-hacking, but it was the\n　only way I could think to attract your group's attention.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Сумераги",
+   "text": "「Ни у вас, ни у нас нет времени читать морали\n　о том, как другая сторона ведёт свои дела,\n　так что для меня это дело прошлое.」",
+   "orig": "Sumeragi\n「Neither of us exactly has time to be moralizing\n　how the other side goes about their business,\n　so it's all water under the bridge to me.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Харри",
+   "text": "「Это так круто, что у вас всё получилось,\n　капитан! Вы и правда настоящий гений!」",
+   "orig": "Harry\n「That's just so cool that you pulled it all\n　off, Captain! You really are such a genius!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рури",
+   "text": "「Но был вполне реальный риск, что Марсианские\n　преемники стёрли бы нас, если бы они не прибыли.」",
+   "orig": "Ruri\n「But there was still a very real chance that the Martian\n　Successors could have wiped us out if they didn't arrive.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Рури",
+   "text": "「Как-никак Омоикане определил, что эти новые\n　машины применяют бозонные прыжки только\n　с помощью внешнего оборудования.」",
+   "orig": "Ruri\n「After all, Omoikane determined that those new units\n　rely on external hardware in order to utilize\n　Boson Jumps.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Сабуроута",
+   "text": "「Зато это значит, что даже если они прибыли сюда\n　бозонным прыжком, домой им придётся своим ходом.」",
+   "orig": "Saburouta\n「On the upside, it means that even if they got here with\n　a Boson Jump, they've got to get back home the hard way.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Рёко",
+   "text": "「Лично я считаю, что надо отменить им обратный\n　рейс и устроить славный отпуск в аду!」",
+   "orig": "Ryoko\n「Personally, I think we should cancel their return trip\n　home and just give them a nice vacation in hell instead!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Сумераги",
+   "text": "「Всем подразделениям: взаимодействовать с машинами\n　«Надэсико» и атаковать Марсианских преемников!」",
+   "orig": "Sumeragi\n「All units, you're to cooperate with the Nadesico's\n　fighters and attack the Martian Successors!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Сэцуна",
+   "text": "「Вы, Марсианские преемники, хотите разжечь новый\n　конфликт. Я остановлю вас, пока он не начался!」",
+   "orig": "Setsuna\n「You Martian Successors are trying to trigger even more\n　conflict. I'll stop you all before it even gets started!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Сэцуна",
+   "text": "「Это моя—нет, это миссия «Селестиал Бин»!」",
+   "orig": "Setsuna\n「That's my—no, that's Celestial Being's mission!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Сумераги",
+   "text": "「Поражена: вы и правда сделали из себя приманку,\n　чтобы выманить Марсианских преемников из укрытия.」",
+   "orig": "Sumeragi\n「I'm impresesed you've actually make yourselves a\n　decoy to draw out the Martian Successors out of hiding.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Рури",
+   "text": "「Мы верили, что вы в конце концов придёте нам\n　на помощь. Большой смелости тут не требовалось.」",
+   "orig": "Ruri\n「We trusted that you would all come to our aid\n　eventually. It wasn't that big of a leap of faith.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Локон",
+   "text": "「Что ж, мне лестно слышать, что вы доверяете\n　моему снайперскому умению.」",
+   "orig": "Lockon\n「I'm flattered to hear that you trust my\n　sniping skills to get the job done, then.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Аллилуйя",
+   "text": "「Я просто рад, что мы смогли прийти вам на помощь.」",
+   "orig": "Allelujah\n「I'm just glad we were able to come help you guys.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Найн",
+   "text": "「«00 Квант» и «Гандам Рафаэль» подтверждены.\n　Эти люди действительно оказались членами\n　«Селестиал Бин», как и предполагалось.」",
+   "orig": "Nine\n「00 QAN[T] and Raphael Gundam confirmed to be\n　present. These people do indeed appear to be\n　members of Celestial Being, as anticipated.」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「И они здесь не одни!」",
+   "orig": "$n\n「They're not the only ones here!」"
+  },
+  {
+   "i": 123,
+   "speaker": "$n",
+   "text": "「Смотрите! Это «Скаллхарт»!\n　Значит, Тобиа тоже здесь!」",
+   "orig": "$n\n「Look! It's the Skullheart!\n　That must mean Tobia's here, too!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Тобиа",
+   "text": "「Ага! Привет, $n!」",
+   "orig": "Tobia\n「Yep! Hey there, $n!」"
+  },
+  {
+   "i": 125,
+   "speaker": "$n",
+   "text": "「Ха-ха, привет! Как дела? Это они\n　притащили тебя сюда сражаться?」",
+   "orig": "$n\n「Haha, hey man! How's it going? Did\n　these guys drag you along to come fight?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тобиа",
+   "text": "「Да, но я просто рад, что с тобой всё хорошо!」",
+   "orig": "Tobia\n「Yeah, but I'm just glad you're still OK!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Тиерия",
+   "text": "「Тобиа, оставь радостную встречу на потом.」",
+   "orig": "Tieria\n「Tobia, save the happy reunion for latter, if you could.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Сэцуна",
+   "text": "「Сначала надо разобраться с Марсианскими преемниками.」",
+   "orig": "Setsuna\n「We've got some Martian Successors to take care of first.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Тобиа",
+   "text": "「Принято!」",
+   "orig": "Tobia\n「Roger that!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Гард Дайвер",
+   "text": "「Я всё ещё поражён, что «Селестиал Бин»\n　правда пришли и вступили в бой!」",
+   "orig": "Guard Diver\n「I'm still just amazed that Celestial\n　Being actually came and joined the fight!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Трай Бомбер",
+   "text": "「Да! Не каждый день удаётся встретить\n　таких суперзвёзд в нашем ремесле!」",
+   "orig": "Tri Bomber\n「Yeah! It's not every day we get to meet\n　such superstars in our line of work!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Рури",
+   "text": "「Возможно, помогло и то, что я послала им весть.」",
+   "orig": "Ruri\n「It might have helped that I sent them a message, too.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Харри",
+   "text": "「Что? У вас всё-таки был способ с ними связаться?」",
+   "orig": "Harry\n「What? You had a way of contacting them after all?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Рури",
+   "text": "「Ещё во время войны с Ящерами был момент, когда\n　Омоикане связывался с $kwbВедой$kwe. Я просто взяла\n　тот код и снова вышла на них.」",
+   "orig": "Ruri\n「Back during the Lizard War, there was a point where\n　we had Omoikane contact $kwbVeda$kwe. I just used the code\n　we had for that to reach out to them again.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Тиерия",
+   "text": "「Умный ход. По тому, как было зашифровано\n　сообщение, я сразу понял, что оно пришло\n　от капитана Хосино и Омоикане.」",
+   "orig": "Tieria\n「It was smart thinking. I recognized immediately based\n　on the way the message was encrypted that it had to\n　have come from Captain Hoshino and Omoikane.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Рури",
+   "text": "「Хотя, наверное, стоит извиниться. Мои методы,\n　по сути, были почти взломом, но иначе я не\n　придумала, как привлечь внимание вашей группы.」",
+   "orig": "Ruri\n「I should probably apologize, though. I know my methods\n　esssentially amounted to quasi-hacking, but it was the\n　only way I could think to attract your group's attention.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Сумераги",
+   "text": "「Ни у вас, ни у нас нет времени читать морали\n　о том, как другая сторона ведёт свои дела,\n　так что для меня это дело прошлое.」",
+   "orig": "Sumeragi\n「Neither of us exactly has time to be moralizing\n　how the other side goes about their business,\n　so it's all water under the bridge to me.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Харри",
+   "text": "「Это так круто, что у вас всё получилось,\n　капитан! Вы и правда настоящий гений!」",
+   "orig": "Harry\n「That's just so cool that you pulled it all\n　off, Captain! You really are such a genuis!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Рури",
+   "text": "「Но был вполне реальный риск, что Марсианские\n　преемники стёрли бы нас, если бы они не прибыли.」",
+   "orig": "Ruri\n「But there was still a very real chance that the Martian\n　Successors could have wiped us out if they didn't arrive.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Рури",
+   "text": "「Как-никак Омоикане определил, что эти новые\n　машины применяют бозонные прыжки только\n　с помощью внешнего оборудования.」",
+   "orig": "Ruri\n「After all, Omoikane determined that those new units\n　rely on external hardware in order to utilize\n　Boson Jumps.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Сабуроута",
+   "text": "「Зато это значит, что даже если они прибыли сюда\n　бозонным прыжком, домой им придётся своим ходом.」",
+   "orig": "Saburouta\n「On the upside, it means that even if they got here with\n　a Boson Jump, they've got to get back home the hard way.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Рёко",
+   "text": "「Лично я считаю, что надо отменить им обратный\n　рейс и устроить славный отпуск в аду!」",
+   "orig": "Ryoko\n「Personally, I think we should cancel their return trip\n　home and just give them a nice vacation in hell instead!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Сумераги",
+   "text": "「Всем подразделениям: взаимодействовать с машинами\n　«Надэсико» и атаковать Марсианских преемников!」",
+   "orig": "Sumeragi\n「All units, you're to cooperate with the Nadesico's\n　fighters and attack the Martian Successors!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Сэцуна",
+   "text": "「Вы, Марсианские преемники, хотите разжечь новый\n　конфликт. Я остановлю вас, пока он не начался!」",
+   "orig": "Setsuna\n「You Martian Successors are trying to trigger even more\n　conflict. I'll stop you all before it even gets started!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Сэцуна",
+   "text": "「Это моя—нет, это миссия «Селестиал Бин»!」",
+   "orig": "Setsuna\n「That's my—no, that's Celestial Being's mission!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Сумераги",
+   "text": "「Поражена: вы и правда сделали из себя приманку,\n　чтобы выманить Марсианских преемников из укрытия.」",
+   "orig": "Sumeragi\n「I'm impresesed you've actually make yourselves a\n　decoy to draw out the Martian Successors out of hiding.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Рури",
+   "text": "「Мы верили, что вы в конце концов придёте нам\n　на помощь. Большой смелости тут не требовалось.」",
+   "orig": "Ruri\n「We trusted that you would all come to our aid\n　eventually. It wasn't that big of a leap of faith.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Локон",
+   "text": "「Что ж, мне лестно слышать, что вы доверяете\n　моему снайперскому умению.」",
+   "orig": "Lockon\n「I'm flattered to hear that you trust my\n　sniping skills to get the job done, then.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Аллилуйя",
+   "text": "「Я просто рад, что мы смогли прийти вам на помощь.」",
+   "orig": "Allelujah\n「I'm just glad we were able to come help you guys.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Найн",
+   "text": "「«00 Квант» и «Гандам Рафаэль» подтверждены.\n　Эти люди действительно оказались членами\n　«Селестиал Бин», как и предполагалось.」",
+   "orig": "Nine\n「00 QAN[T] and Raphael Gundam confirmed to be\n　present. These people do indeed appear to be\n　members of Celestial Being, as anticipated.」"
+  },
+  {
+   "i": 151,
+   "speaker": "$n",
+   "text": "「И это ещё не всё, что я вижу!」",
+   "orig": "$n\n「That's not all I see here!」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Вижу тот «Гандам» с черепом на лице!\n　Значит, Тобиа тоже здесь, да?」",
+   "orig": "$n\n「I see that Gundam with the skull face on it!\n　That must mean Tobia's here, too, right?」"
+  },
+  {
+   "i": 153,
+   "speaker": "Тобиа",
+   "text": "「$n!\n　Это ты, $n? Очень надеюсь!」",
+   "orig": "Tobia\n「$n!\n　Is that you, $n? It better be!」"
+  },
+  {
+   "i": 154,
+   "speaker": "$n",
+   "text": "「Да! Ох, как же я рада,\n　что ты цел, Тобиа!」",
+   "orig": "$n\n「It is! Oh, I'm just so\n　glad you're OK, Tobia!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Тобиа",
+   "text": "「Да! Нас тут много пришло на помощь!」",
+   "orig": "Tobia\n「Yeah! Lots of us came here to help!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Тиерия",
+   "text": "「Тобиа, оставь радостную встречу на потом.」",
+   "orig": "Tieria\n「Tobia, save the happy reunion for latter, if you could.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Сэцуна",
+   "text": "「Сначала надо разобраться с Марсианскими преемниками.」",
+   "orig": "Setsuna\n「We've got some Martian Successors to take care of first.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Тобиа",
+   "text": "「Принято!」",
+   "orig": "Tobia\n「Roger that!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Гард Дайвер",
+   "text": "「Я всё ещё поражён, что «Селестиал Бин»\n　правда пришли и вступили в бой!」",
+   "orig": "Guard Diver\n「I'm still just amazed that Celestial\n　Being actually came and joined the fight!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Трай Бомбер",
+   "text": "「Да! Не каждый день удаётся встретить\n　таких суперзвёзд в нашем ремесле!」",
+   "orig": "Tri Bomber\n「Yeah! It's not every day we get to meet\n　such superstars in our line of work!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Рури",
+   "text": "「Возможно, помогло и то, что я послала им весть.」",
+   "orig": "Ruri\n「It might have helped that I sent them a message, too.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Харри",
+   "text": "「Что? У вас всё-таки был способ с ними связаться?」",
+   "orig": "Harry\n「What? You had a way of contacting them after all?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Рури",
+   "text": "「Ещё во время войны с Ящерами был момент, когда\n　Омоикане связывался с $kwbВедой$kwe. Я просто взяла\n　тот код и снова вышла на них.」",
+   "orig": "Ruri\n「Back during the Lizard War, there was a point where\n　we had Omoikane contact $kwbVeda$kwe. I just used the code\n　we had for that to reach out to them again.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Тиерия",
+   "text": "「Умный ход. По тому, как было зашифровано\n　сообщение, я сразу понял, что оно пришло\n　от капитана Хосино и Омоикане.」",
+   "orig": "Tieria\n「It was smart thinking. I recognized immediately based\n　on the way the message was encrypted that it had to\n　have come from Captain Hoshino and Omoikane.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Рури",
+   "text": "「Хотя, наверное, стоит извиниться. Мои методы,\n　по сути, были почти взломом, но иначе я не\n　придумала, как привлечь внимание вашей группы.」",
+   "orig": "Ruri\n「I should probably apologize, though. I know my methods\n　esssentially amounted to quasi-hacking, but it was the\n　only way I could think to attract your group's attention.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Сумераги",
+   "text": "「Ни у вас, ни у нас нет времени читать морали\n　о том, как другая сторона ведёт свои дела,\n　так что для меня это дело прошлое.」",
+   "orig": "Sumeragi\n「Neither of us exactly has time to be moralizing\n　how the other side goes about their business,\n　so it's all water under the bridge to me.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Харри",
+   "text": "「Это так круто, что у вас всё получилось,\n　капитан! Вы и правда настоящий гений!」",
+   "orig": "Harry\n「That's just so cool that you pulled it all\n　off, Captain! You really are such a genuis!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Рури",
+   "text": "「Но был вполне реальный риск, что Марсианские\n　преемники стёрли бы нас, если бы они не прибыли.」",
+   "orig": "Ruri\n「But there was still a very real chance that the Martian\n　Successors could have wiped us out if they didn't arrive.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Рури",
+   "text": "「Как-никак Омоикане определил, что эти новые\n　машины применяют бозонные прыжки только\n　с помощью внешнего оборудования.」",
+   "orig": "Ruri\n「After all, Omoikane determined that those new units\n　rely on external hardware in order to utilize\n　Boson Jumps.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Сабуроута",
+   "text": "「Зато это значит, что даже если они прибыли сюда\n　бозонным прыжком, домой им придётся своим ходом.」",
+   "orig": "Saburouta\n「On the upside, it means that even if they got here with\n　a Boson Jump, they've got to get back home the hard way.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Рёко",
+   "text": "「Лично я считаю, что надо отменить им обратный\n　рейс и устроить славный отпуск в аду!」",
+   "orig": "Ryoko\n「Personally, I think we should cancel their return trip\n　home and just give them a nice vacation in hell instead!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Сумераги",
+   "text": "「Всем подразделениям: взаимодействовать с машинами\n　«Надэсико» и атаковать Марсианских преемников!」",
+   "orig": "Sumeragi\n「All units, you're to cooperate with the Nadesico's\n　fighters and attack the Martian Successors!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Сэцуна",
+   "text": "「Вы, Марсианские преемники, хотите разжечь новый\n　конфликт. Я остановлю вас, пока он не начался!」",
+   "orig": "Setsuna\n「You Martian Successors are trying to trigger even more\n　conflict. I'll stop you all before it even gets started!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Сэцуна",
+   "text": "「Для этого я—нет, для этого нас и создали!」",
+   "orig": "Setsuna\n「That's what I—no, that's what we were made to do!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Сумераги",
+   "text": "「Поражена: вы и правда сделали из себя приманку,\n　чтобы выманить Марсианских преемников из укрытия.」",
+   "orig": "Sumeragi\n「I'm impresesed you've actually make yourselves a\n　decoy to draw out the Martian Successors out of hiding.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Рури",
+   "text": "「Мы верили, что вы в конце концов придёте нам\n　на помощь. Большой смелости тут не требовалось.」",
+   "orig": "Ruri\n「We trusted that you would all come to our aid\n　eventually. It wasn't that big of a leap of faith.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Локон",
+   "text": "「Что ж, мне лестно слышать, что вы доверяете\n　моему снайперскому умению.」",
+   "orig": "Lockon\n「I'm flattered to hear that you trust my\n　sniping skills to get the job done, then.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Аллилуйя",
+   "text": "「Я просто рад, что мы смогли прийти вам на помощь.」",
+   "orig": "Allelujah\n「I'm just glad we were able to come help you guys.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Найн",
+   "text": "「«00 Квант» и «Гандам Рафаэль» подтверждены.\n　Эти люди действительно оказались членами\n　«Селестиал Бин», как и предполагалось.」",
+   "orig": "Nine\n「00 QAN[T] and Raphael Gundam confirmed to be\n　present. These people do indeed appear to be\n　members of Celestial Being, as anticipated.」"
+  },
+  {
+   "i": 180,
+   "speaker": "$n",
+   "text": "「И это ещё не всё, что я вижу!」",
+   "orig": "$n\n「That's not all I see here!」"
+  },
+  {
+   "i": 181,
+   "speaker": "$n",
+   "text": "「Вижу тот «Гандам» с черепом на лице!\n　Значит, Тобиа тоже здесь, да?」",
+   "orig": "$n\n「I see that Gundam with the skull face on it!\n　That must mean Tobia's here, too, right?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Тобиа",
+   "text": "「$n!\n　Это ты, $n? Очень надеюсь!」",
+   "orig": "Tobia\n「$n!\n　Is that you, $n? It better be!」"
+  },
+  {
+   "i": 183,
+   "speaker": "$n",
+   "text": "「Да! Ох, как же я рада,\n　что ты цел, Тобиа!」",
+   "orig": "$n\n「It is! Oh, I'm just so\n　glad you're OK, Tobia!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Тобиа",
+   "text": "「И я! Как же здорово снова тебя видеть!」",
+   "orig": "Tobia\n「Me, too! It's so good to see you again!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Тиерия",
+   "text": "「Тобиа, оставь радостную встречу на потом.」",
+   "orig": "Tieria\n「Tobia, save the happy reunion for latter, if you could.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Сэцуна",
+   "text": "「Сначала надо разобраться с Марсианскими преемниками.」",
+   "orig": "Setsuna\n「We've got some Martian Successors to take care of first.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Тобиа",
+   "text": "「Принято!」",
+   "orig": "Tobia\n「Roger that!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Гард Дайвер",
+   "text": "「Я всё ещё поражён, что «Селестиал Бин»\n　правда пришли и вступили в бой!」",
+   "orig": "Guard Diver\n「I'm still just amazed that Celestial\n　Being actually came and joined the fight!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Трай Бомбер",
+   "text": "「Да! Не каждый день удаётся встретить\n　таких суперзвёзд в нашем ремесле!」",
+   "orig": "Tri Bomber\n「Yeah! It's not every day we get to meet\n　such superstars in our line of work!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Рури",
+   "text": "「Возможно, помогло и то, что я послала им весть.」",
+   "orig": "Ruri\n「It might have helped that I sent them a message, too.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Харри",
+   "text": "「Что? У вас всё-таки был способ с ними связаться?」",
+   "orig": "Harry\n「What? You had a way of contacting them after all?」"
+  },
+  {
+   "i": 192,
+   "speaker": "Рури",
+   "text": "「Ещё во время войны с Ящерами был момент, когда\n　Омоикане связывался с $kwbВедой$kwe. Я просто взяла\n　тот код и снова вышла на них.」",
+   "orig": "Ruri\n「Back during the Lizard War, there was a point where\n　we had Omoikane contact $kwbVeda$kwe. I just used the code\n　we had for that to reach out to them again.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Тиерия",
+   "text": "「Умный ход. По тому, как было зашифровано\n　сообщение, я сразу понял, что оно пришло\n　от капитана Хосино и Омоикане.」",
+   "orig": "Tieria\n「It was smart thinking. I recognized immediately based\n　on the way the message was encrypted that it had to\n　have come from Captain Hoshino and Omoikane.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Рури",
+   "text": "「Хотя, наверное, стоит извиниться. Мои методы,\n　по сути, были почти взломом, но иначе я не\n　придумала, как привлечь внимание вашей группы.」",
+   "orig": "Ruri\n「I should probably apologize, though. I know my methods\n　esssentially amounted to quasi-hacking, but it was the\n　only way I could think to attract your group's attention.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Сумераги",
+   "text": "「Ни у вас, ни у нас нет времени читать морали\n　о том, как другая сторона ведёт свои дела,\n　так что для меня это дело прошлое.」",
+   "orig": "Sumeragi\n「Neither of us exactly has time to be moralizing\n　how the other side goes about their business,\n　so it's all water under the bridge to me.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Харри",
+   "text": "「Это так круто, что у вас всё получилось,\n　капитан! Вы и правда настоящий гений!」",
+   "orig": "Harry\n「That's just so cool that you pulled it all\n　off, Captain! You really are such a genius!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Рури",
+   "text": "「Но был вполне реальный риск, что Марсианские\n　преемники стёрли бы нас, если бы они не прибыли.」",
+   "orig": "Ruri\n「But there was still a very real chance that the Martian\n　Successors could have wiped us out if they didn't arrive.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Рури",
+   "text": "「Как-никак Омоикане определил, что эти новые\n　машины применяют бозонные прыжки только\n　с помощью внешнего оборудования.」",
+   "orig": "Ruri\n「After all, Omoikane determined that those new units\n　rely on external hardware in order to utilize\n　Boson Jumps.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Сабуроута",
+   "text": "「Зато это значит, что даже если они прибыли сюда\n　бозонным прыжком, домой им придётся своим ходом.」",
+   "orig": "Saburouta\n「On the upside, it means that even if they got here with\n　a Boson Jump, they've got to get back home the hard way.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Рёко",
+   "text": "「Лично я считаю, что надо отменить им обратный\n　рейс и устроить славный отпуск в аду!」",
+   "orig": "Ryoko\n「Personally, I think we should cancel their return trip\n　home and just give them a nice vacation in hell instead!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Сумераги",
+   "text": "「Всем подразделениям: взаимодействовать с машинами\n　«Надэсико» и атаковать Марсианских преемников!」",
+   "orig": "Sumeragi\n「All units, you're to cooperate with the Nadesico's\n　fighters and attack the Martian Successors!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Сэцуна",
+   "text": "「Вы, Марсианские преемники, хотите разжечь новый\n　конфликт. Я остановлю вас, пока он не начался!」",
+   "orig": "Setsuna\n「You Martian Successors are trying to trigger even more\n　conflict. I'll stop you all before it even gets started!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Сэцуна",
+   "text": "「Для этого я—нет, для этого нас и создали!」",
+   "orig": "Setsuna\n「That's what I—no, that's what we were made to do!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Милейна",
+   "text": "「Все противники уничтожены.」",
+   "orig": "Mileina\n「All enemies have been eliminated.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Фельт",
+   "text": "「Так вот как выглядит новый «Надэсико».」",
+   "orig": "Feldt\n「So that's what the new Nadesico looks like.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Лассе",
+   "text": "「Приятно снова поработать вместе после столького\n　времени, но радоваться тут особо нечему.」",
+   "orig": "Lasse\n「It's been nice working together again after so long,\n　but it's hard to feel too good knowing what's going on.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Сумераги",
+   "text": "「Но и в стороне остаться нельзя. Мы должны сражаться,\n　тем более если в деле Юпитерианская федерация.」",
+   "orig": "Sumeragi\n「But we can't just stay out, either. We have to fight,\n　especially if the Jovian Federation is involved.」"
+  },
+  {
+   "i": 208,
+   "speaker": "$n",
+   "text": "「Сэцуна, Тиерия, спасибо за помощь. Забавно, что наши\n　роли полностью поменялись по сравнению с прошлым.」",
+   "orig": "$n\n「Setsuna, Tieria, thanks for helping. Funny our positions\n　have completely flipped around compared to before.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Тиерия",
+   "text": "「Возможно, но в целом перемен в тебе немного.」",
+   "orig": "Tieria\n「That may be, but you still haven't changed much overall.」"
+  },
+  {
+   "i": 210,
+   "speaker": "$n",
+   "text": "「Могу сказать то же самое про вас.」",
+   "orig": "$n\n「I could say the same about you guys.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Сэцуна",
+   "text": "「Да, пожалуй...」",
+   "orig": "Setsuna\n「Yeah, I guess so...」"
+  },
+  {
+   "i": 212,
+   "speaker": "$n",
+   "text": "「И это в хорошем смысле. Вы примкнули к «Ямато», чтобы\n　спасти Землю, хотя это и не ваша Земля.」",
+   "orig": "$n\n「I mean that in a good way. You joined up with the Yamato\n　to save the Earth, even thought it's not your Earth.」"
+  },
+  {
+   "i": 213,
+   "speaker": "$n",
+   "text": "「И со мной то же самое. Пусть это и не мой дом, но\n　мир стоит того, чтобы его держать. И я не стерплю\n　никого, кто пытается отнять его у других.」",
+   "orig": "$n\n「And the same goes for me. This might not be home, but\n　peace is something worth holding on to. I can't tolerate\n　anyone who tries to take that away from others.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Сэцуна",
+   "text": "「Это очень благородно, $n.」",
+   "orig": "Setsuna\n「That's awfully noble of you, $n.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Тобиа",
+   "text": "「Да, правда.」",
+   "orig": "Tobia\n「Yeah, seriously.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Рури",
+   "text": "「Рада снова вас видеть, капитан Сумераги. Не хочу\n　торопить, но, думаю, нам стоит обменяться сведениями.」",
+   "orig": "Ruri\n「It's nice to see you again, Captain Sumeragi. Not to\n　rush you, but I believe we should exchange information.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Сумераги",
+   "text": "「Ого, когда я видела вас в последний раз, вы были\n　всего лишь оператором, а теперь капитан. Я старею.」",
+   "orig": "Sumeragi\n「Wow, last I saw you, you were just an operator\n　and now you're captain. I'm starting to feel old.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Рури",
+   "text": "「Во время войны с Ящерами мы ни разу не говорили\n　лично. Не против встретиться со мной на этот раз?」",
+   "orig": "Ruri\n「Back during the Lizard War, we never talked in person.\n　Would you mind having a meeting with me this time?」"
+  },
+  {
+   "i": 219,
+   "speaker": "Сумераги",
+   "text": "「Конечно, с радостью! Честно говоря, не думаю,\n　что мы смогли бы ещё долго справляться\n　с обстановкой, действуя сами по себе.」",
+   "orig": "Sumeragi\n「Sure, I'd love to! To be honest, I don't think we\n　could really keep coping with the situation just\n　operating by ourselves for much longer.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Сумераги",
+   "text": "（Догадки Веды и моё собственное чутьё говорят,\n　что в этом мире начинается новое движение.）",
+   "orig": "Sumeragi\n（Veda's speculation and my own gut instincts tell me\n　that this is the start of a new movement in this world.）"
+  },
+  {
+   "i": 221,
+   "speaker": "Сумераги",
+   "text": "（Возможно, у нас в «Селестиал Бин» есть долг\n　принять в нём участие. А чтобы это вышло, нам\n　придётся найти сторонников, которые помогут.）",
+   "orig": "Sumeragi\n（We at Celestial Being may well have a duty to take\n　part in that movement and to make that happen, we're\n　going to have to recruit some supporters who can help.）"
+  },
+  {
+   "i": 222,
+   "speaker": "Милейна",
+   "text": "「Все противники уничтожены.」",
+   "orig": "Mileina\n「All enemies have been eliminated.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Фельт",
+   "text": "「Так вот как выглядит новый «Надэсико».」",
+   "orig": "Feldt\n「So that's what the new Nadesico looks like.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Лассе",
+   "text": "「Приятно снова поработать вместе после столького\n　времени, но радоваться тут особо нечему.」",
+   "orig": "Lasse\n「It's been nice working together again after so long,\n　but it's hard to feel too good knowing what's going on.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Сумераги",
+   "text": "「Но и в стороне остаться нельзя. Мы должны сражаться,\n　тем более если в деле Юпитерианская федерация.」",
+   "orig": "Sumeragi\n「But we can't just stay out, either. We have to fight,\n　especially if the Jovian Federation is involved.」"
+  },
+  {
+   "i": 226,
+   "speaker": "$n",
+   "text": "「Сэцуна, Тиерия, спасибо за помощь. Забавно, что наши\n　роли полностью поменялись по сравнению с прошлым.」",
+   "orig": "$n\n「Setsuna, Tieria, thanks for helping. Funny our positions\n　have completely flipped around compared to before.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Тиерия",
+   "text": "「Возможно, но в целом перемен в тебе немного.」",
+   "orig": "Tieria\n「That may be, but you still haven't changed much overall.」"
+  },
+  {
+   "i": 228,
+   "speaker": "$n",
+   "text": "「Да ну, я просто научилась брать с вас пример.」",
+   "orig": "$n\n「Eh, I just learned to follow you and your friends' lead.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Сэцуна",
+   "text": "「Да, пожалуй...」",
+   "orig": "Setsuna\n「Yeah, I guess so...」"
+  },
+  {
+   "i": 230,
+   "speaker": "$n",
+   "text": "「Да вы сами посмотрите. Вы отправились с «Ямато»,\n　чтобы спасти Землю, которая вам даже не своя.」",
+   "orig": "$n\n「I mean, just look at you guys. You tagged along with the\n　Yamato to help save an Earth that's different from yours.」"
+  },
+  {
+   "i": 231,
+   "speaker": "$n",
+   "text": "「Я здесь пытаюсь делать то же самое. Каждый\n　заслуживает мира в своей жизни, и я готова драться\n　с кем угодно, чтобы этот мир был защищён.」",
+   "orig": "$n\n「That's what I'm trying to do here, too. Everyone\n　deserves peace in their lives and I'm willing to fight\n　whoever I must to make sure that peace is protected.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Сэцуна",
+   "text": "「Это очень благородно, $n.」",
+   "orig": "Setsuna\n「That's awfully noble of you, $n.」"
+  },
+  {
+   "i": 233,
+   "speaker": "Тобиа",
+   "text": "「Да, но иначе я её и представить не могу!」",
+   "orig": "Tobia\n「Yeah, but I couldn't see her being any other way!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Рури",
+   "text": "「Рада снова вас видеть, капитан Сумераги. Не хочу\n　торопить, но, думаю, нам стоит обменяться сведениями.」",
+   "orig": "Ruri\n「It's nice to see you again, Captain Sumeragi. Not to\n　rush you, but I believe we should exchange information.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Сумераги",
+   "text": "「Ого, когда я видела вас в последний раз, вы были\n　всего лишь оператором, а теперь капитан. Я старею.」",
+   "orig": "Sumeragi\n「Wow, last I saw you, you were just an operator\n　and now you're captain. I'm starting to feel old.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Рури",
+   "text": "「Во время войны с Ящерами мы ни разу не говорили\n　лично. Не против встретиться со мной на этот раз?」",
+   "orig": "Ruri\n「Back during the Lizard War, we never talked in person.\n　Would you mind having a meeting with me this time?」"
+  },
+  {
+   "i": 237,
+   "speaker": "Сумераги",
+   "text": "「Конечно, с радостью! Честно говоря, не думаю,\n　что мы смогли бы ещё долго справляться\n　с обстановкой, действуя сами по себе.」",
+   "orig": "Sumeragi\n「Sure, I'd love to! To be honest, I don't think we\n　could really keep coping with the situation just\n　operating by ourselves for much longer.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Сумераги",
+   "text": "（Догадки Веды и моё собственное чутьё говорят,\n　что в этом мире начинается новое движение.）",
+   "orig": "Sumeragi\n（Veda's speculation and my own gut instincts tell me\n　that this is the start of a new movement in this world.）"
+  },
+  {
+   "i": 239,
+   "speaker": "Сумераги",
+   "text": "（Возможно, у нас в «Селестиал Бин» есть долг\n　принять в нём участие. А чтобы это вышло, нам\n　придётся найти сторонников, которые помогут.）",
+   "orig": "Sumeragi\n（We at Celestial Being may well have a duty to take\n　part in that movement and to make that happen, we're\n　going to have to recruit some supporters who can help.）"
+  },
+  {
+   "i": 240,
+   "speaker": "Одри",
+   "text": "「Госпожа Кэтрин! Кажется, «Фромаж» больше\n　не выдержит! Нам пора уходить!」",
+   "orig": "Audrey\n「Lady Catherine! I don't think the Fromage\n　can take much more! We should leave!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Виттон",
+   "text": "「Проклятье! Но если так дело пошло, значит,\n　надо просто вложить больше денег в его\n　улучшение — и он станет сильнее прежнего!」",
+   "orig": "Vuitton\n「Curses! But if that's the way it's going to be,\n　then I just need to spend more money upgrading\n　it so it can be stronger than ever!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Виттон",
+   "text": "「Да и зачем на этом останавливаться? Сделаю его\n　милее и красивее во всём! Будет просто мур-мур!」",
+   "orig": "Vuitton\n「Heck, why stop there? I'll make it cuter and more\n　beautiful all around! It'll be the cat's meow!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Майто",
+   "text": "「Эта дама — просто беда со всех сторон.」",
+   "orig": "Maito\n「That lady's such a handful on so many levels.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Майтгайн",
+   "text": "「И не говори. Я её вообще не понимаю.」",
+   "orig": "Mightgaine\n「You can say that again. I don't get her at all.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Чинджа! Что происходит?\n　Почему всё разом сбоит?」",
+   "orig": "Hoi Kow Lou\n「Chinja! What's going on?\n　Why is everything malfunctioning?」"
+  },
+  {
+   "i": 246,
+   "speaker": "Чинджа",
+   "text": "「Я и сам не вполне понимаю, господин!」",
+   "orig": "Chinja\n「I'm not quite sure myself, Master!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Не могу поверить! Никто не захочет покупать наших\n　роботов, если они не могут выиграть вшивый бой!」",
+   "orig": "Hoi Kow Lou\n「I can't believe it! Nobody's going to want to buy\n　our robots if they can't win a stinking fight!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Сегодня бой ты выиграл, но война ещё не\n　кончена! Однажды наши роботы закопают вас\n　окончательно, и рынок будет нашим!」",
+   "orig": "Hoi Kow Lou\n「You may have won the battle today, but the war's\n　not over yet! One day, our robots will utterly\n　bury you and the market will be ours!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Трай Бомбер",
+   "text": "「Зря он тратил дыхание.\n　В моих банках памяти нет места для столь\n　шаблонного прощания от дешёвого злодея.」",
+   "orig": "Tri Bomber\n「He shouldn't have wasted his breath.\n　My memory banks don't have enough space to retain\n　such a cliched farewell from a two-bit bad guy.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Гард Дайвер",
+   "text": "「Точно. Без него всем нам лучше. Не люблю, когда\n　по миру разгуливают такие злые люди.」",
+   "orig": "Guard Diver\n「Definitely. We're all better off with him gone. I don't\n　like seeing evil men such as him roaming the world.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Рури",
+   "text": "「Харри, не забывай про наблюдение\n　за кормовой частью корабля.」",
+   "orig": "Ruri\n「Harry, make sure you don't neglect\n　surveillance along the ship's stern.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Харри",
+   "text": "「Да, капитан!」",
+   "orig": "Harry\n「Yes, Captain!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Рури",
+   "text": "（Вполне возможно, враг ударил по Нувель-Токио-Сити,\n　чтобы задержать нас в этих краях.）",
+   "orig": "Ruri\n（There's a good chance the enemy may well have struck\n　Nouvelle Tokyo City to keep us occupied in this vicinity.）"
+  },
+  {
+   "i": 254,
+   "speaker": "Рури",
+   "text": "（Хотя сейчас, в разгар боя, это уже не так важно.\n　Нам остаётся только собрать силы и отбивать\n　врага так, как сможем.）",
+   "orig": "Ruri\n（Not that it really matters now that we're in the middle\n　of fighting. All we can do is gather our forces and\n　ward off the enemy as best as we can.）"
+  },
+  {
+   "i": 255,
+   "speaker": "Рури",
+   "text": "（Значит, Марсианские преемники встроили\n　бозонный прыжок в свою боевую тактику.）",
+   "orig": "Ruri\n（So the Martian Successors have incorporated\n　Boson Jumping into their combat tactics.）"
+  },
+  {
+   "i": 256,
+   "speaker": "Рури",
+   "text": "（Вопрос — зачем. На что они могут нацелиться,\n　если считать, что делают это надёжно?）",
+   "orig": "Ruri\n（The question is to what end. What can they go after\n　now if we assume that they're able to do it reliably?）"
+  },
+  {
+   "i": 257,
+   "speaker": "Виттон",
+   "text": "「Этот мальчишка, видно, и есть пилот того робота.\n　Как тебе мой «Фромаж», мальчик? Мур-милый, а?」",
+   "orig": "Vuitton\n「That little brat must be the one piloting that robot.\n　What do you think of my Fromage, boy? Purr-ty cute, eh?」"
+  },
+  {
+   "i": 258,
+   "speaker": "Майтгайн",
+   "text": "「Не обманывайся его видом, Майто! Эта штука тебя\n　отделает, если будешь неосторожен!」",
+   "orig": "Mightgaine\n「Don't be fooled by its looks, Maito! That thing'll\n　do a real number on you if you're not careful!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Майто",
+   "text": "「Ответь мне, Кэтрин! Ты всегда была всего лишь\n　мелкой воровкой. Что, по-твоему, ты сможешь\n　сделать с этим гигантским роботом?」",
+   "orig": "Maito\n「Answer me this, Catherine! You've always been\n　nothing more than a petty thief. What do\n　you think you can do with that giant robot?」"
+  },
+  {
+   "i": 260,
+   "speaker": "Виттон",
+   "text": "「Что я смогу? Захватить ещё больше власти! Знаешь\n　поговорку? Большая власть — большие привилегии!」",
+   "orig": "Vuitton\n「What can I do? Seize more power with it! You know\n　the saying, right? With great power comes great perks!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Виттон",
+   "text": "「Теперь меня никому не остановить! Весь мир будет\n　кланяться мне и отдавать все свои сокровища!」",
+   "orig": "Vuitton\n「Nobody can stop me now! The whole world will have to\n　bow down to me and surrender all its beautiful treasures!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Майто",
+   "text": "「Только если мы не скажем своё слово первыми!」",
+   "orig": "Maito\n「Not if we have anything to say about it first!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Виттон",
+   "text": "「Ну попробуй! Не думай, что победишь только потому,\n　что ты миллиардер или сколько там у тебя нулей!」",
+   "orig": "Vuitton\n「Just try me! Don't think you'll win just because you're\n　a billionaire or whatever made up number you are!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Вот и «Майтгайн»! Я тебя как раз искал!\n　Пора тебя отделать и узнать, кто пилот!」",
+   "orig": "Hoi Kow Lou\n「There's the Mightgaine! I've been looking for you!\n　Time to pummel you and find out who's the pilot!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Майто",
+   "text": "「Если здесь кто и будет отделывать, так это я, Хой\n　Коу Лоу! Твои злодеяния как главаря азиатской\n　мафии заканчиваются здесь, на мне!」",
+   "orig": "Maito\n「If anyone's doing the pummelling here, it's me, Hoi\n　Kow Lou! Your evildoing as the boss of the Asian\n　Mafia ends right here with me!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ха, не смеши меня! Нравится тебе или нет, зло\n　всегда таится в тенях этого мира!」",
+   "orig": "Hoi Kow Lou\n「Ha, don't make me laugh! Like it or not, evil's\n　always lurking about in the shadows of this world!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Хой Коу Лоу",
+   "text": "「И пока это зло существует, у меня и моих ребят\n　будет работа! Ничего из того, что ты скажешь\n　или сделаешь, этого не изменит, понял?」",
+   "orig": "Hoi Kow Lou\n「And as long as that evil's around, the boys and\n　I are going to stay in business! Nothing you say\n　or do will ever change that, got it?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Майто",
+   "text": "「Тогда мне придётся свалить всех твоих злых клиентов!」",
+   "orig": "Maito\n「Then I'll just have to take down all your evil customers!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Майто",
+   "text": "「Для этого и существует отряд «Отважный экспресс»!」",
+   "orig": "Maito\n「That's what the Brave Express Corps is for!」"
+  },
+  {
+   "i": 270,
+   "speaker": "$n",
+   "text": "「Не верю, что вижу воровку в гигантском роботе.\n　Неудивительно, что у этого мира столько бед!」",
+   "orig": "$n\n「I can't believe I'm watching a thief run around in a\n　giant robot. No wonder this world's in so much trouble!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Виттон",
+   "text": "「Это немного не по теме, но скажу: ты довольно\n　взрослый для своих лет, большой мальчик. Мне нравится.」",
+   "orig": "Vuitton\n「This is a little off topic, but I've got to say, you're\n　pretty mature for your age, big boy. I like that.」"
+  },
+  {
+   "i": 272,
+   "speaker": "$n",
+   "text": "「Спасибо. Думаю, в зрелости что-то есть.\n　Именно она придаёт очарование женщинам в возрасте.」",
+   "orig": "$n\n「Thanks. I think there's something to be said for some\n　maturity. It gives older women like you their charm.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Виттон",
+   "text": "「Я не женщина в возрасте! Слышишь? Мне навеки\n　мур-рочных двадцать девять! Не смей забывать!」",
+   "orig": "Vuitton\n「I am not an older woman! Do you hear me? I'm forever\n　a purr-istine 29 years old! Don't you dare forget that!」"
+  },
+  {
+   "i": 274,
+   "speaker": "$n",
+   "text": "「Ой! Похоже, я наступил на минное поле!」",
+   "orig": "$n\n「Yikes! Guess I stepped into a minefield with that one!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Найн",
+   "text": "「Вам некого винить, кроме себя, кэп.」",
+   "orig": "Nine\n「You have no one to blame but yourself, Cap.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Весьма интересный робот у тебя там, приятель.\n　Пожалуй, я хочу его себе.」",
+   "orig": "Hoi Kow Lou\n「That's a real interesting robot you're piloting\n　there, buddy. I think I want that for myself.」"
+  },
+  {
+   "i": 277,
+   "speaker": "$n",
+   "text": "「Эта штука таким, как ты, не продаётся.」",
+   "orig": "$n\n「This thing isn't for sale to the likes of you.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Да ладно, у каждого есть цена. Какая у тебя?」",
+   "orig": "Hoi Kow Lou\n「Oh, come on, everyone has their price. What's yours?」"
+  },
+  {
+   "i": 279,
+   "speaker": "$n",
+   "text": "「Деньги мне не нужны. Моя беда\n　в том, что ты просто дурной человек!」",
+   "orig": "$n\n「I don't need money. My problem is\n　that you're just a real bad person!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Никто не отказывает старому Хой Коу Лоу\n　без последствий. Ты об этом пожалеешь!」",
+   "orig": "Hoi Kow Lou\n「Nobody refuses an offer from old Hoi Kow Lou and\n　gets away with it. I'll make you regret this!」"
+  },
+  {
+   "i": 281,
+   "speaker": "$n",
+   "text": "「Видишь? Вот из-за такого с тобой и нельзя\n　вести дела! Так сделки не заключают!」",
+   "orig": "$n\n「See? Stuff like that is why I could never do\n　business with you! That's no way to make a deal!」"
+  },
+  {
+   "i": 282,
+   "speaker": "$n",
+   "text": "「Если тебе так нравится договариваться силой, то\n　не волнуйся — её на тебя обрушится предостаточно!」",
+   "orig": "$n\n「If you prefer to negotiate by force so much, then\n　don't worry, there's a whole lot of it coming your way!」"
+  },
+  {
+   "i": 283,
+   "speaker": "$n",
+   "text": "「Вылезай из робота и уже сдавайся!」",
+   "orig": "$n\n「Get out of the robot and surrender yourself already!」"
+  },
+  {
+   "i": 284,
+   "speaker": "Виттон",
+   "text": "「О, девочка. Не ожидала увидеть\n　здесь такую юную особу.」",
+   "orig": "Vuitton\n「Oh, it's a girl. I didn't expect\n　to see one so young out here.」"
+  },
+  {
+   "i": 285,
+   "speaker": "$n",
+   "text": "「И при чём здесь это?」",
+   "orig": "$n\n「What's the got to do with anything?」"
+  },
+  {
+   "i": 286,
+   "speaker": "Виттон",
+   "text": "「Мне нравится, какая ты напористая. Не думала\n　ко мне пойти? Из тебя выйдет мур-кошечка!」",
+   "orig": "Vuitton\n「I just love how assertive you are. Ever thought\n　of joining me? You'd make for a supurrb Cat Girl!」"
+  },
+  {
+   "i": 287,
+   "speaker": "$n",
+   "text": "「Спасибо, но быть плохой девочкой — не мой стиль.」",
+   "orig": "$n\n「Thanks, but being a bad girl just isn't my style.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Виттон",
+   "text": "「Что ж, жаль это слышать. Тогда ты\n　мне годишься только мёртвой!」",
+   "orig": "Vuitton\n「Well, I'm sorry to hear that.\n　Then you're only good to me dead!」"
+  },
+  {
+   "i": 289,
+   "speaker": "$n",
+   "text": "「Извини, но этого тоже не будет. Мне ещё\n　слишком много надо сделать в жизни!」",
+   "orig": "$n\n「Sorry, but that's not happening, either. I've\n　still got too much I've got to do with my life!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Хой Коу Лоу",
+   "text": "「О, довольно необычный робот у тебя там.\n　Я бы с радостью запустил в него лапы!」",
+   "orig": "Hoi Kow Lou\n「Oh, that's a pretty unique looking robot you're\n　piloting there. I'd love to get my mitts on it!」"
+  },
+  {
+   "i": 291,
+   "speaker": "$n",
+   "text": "「С чего ты взял, что я просто отдам тебе «Вангрэй»?」",
+   "orig": "$n\n「What makes you think I'd just give you the VangRay?」"
+  },
+  {
+   "i": 292,
+   "speaker": "Найн",
+   "text": "「Верно. Так ему и скажи, сестрёнка.」",
+   "orig": "Nine\n「That's right. You tell him what for, Sis.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Да ладно. Просто назови цену — и я заплачу!」",
+   "orig": "Hoi Kow Lou\n「Come on. Just name your price and I'll pay it!」"
+  },
+  {
+   "i": 294,
+   "speaker": "$n",
+   "text": "「Твои грязные деньги мне не нужны! Оставь себе!」",
+   "orig": "$n\n「I don't need your dirty money! You can keep it!」"
+  },
+  {
+   "i": 295,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Никто не отказывает старому Хой Коу Лоу\n　без последствий. Ты об этом пожалеешь!」",
+   "orig": "Hoi Kow Lou\n「Nobody refuses an offer from old Hoi Kow Lou and\n　gets away with it. I'll make you regret this!」"
+  },
+  {
+   "i": 296,
+   "speaker": "$n",
+   "text": "「От такого мне ещё меньше хочется с тобой\n　работать! Почему злодеи всегда такие жадные? Ух!」",
+   "orig": "$n\n「That makes me want to work with you even less!\n　Why are bad guys like you always so selfish? Geez!」"
+  },
+  {
+   "i": 297,
+   "speaker": "Сумераги",
+   "text": "「Всё готово?」",
+   "orig": "Sumeragi\n「Is everything set?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Фельт",
+   "text": "「Да. Ждём вашей команды.」",
+   "orig": "Feldt\n「Yes. We're ready on your command.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Милейна",
+   "text": "「Печально, что нам приходится влезать в ещё\n　одну драку. Мне никогда не нравилась эта работа.」",
+   "orig": "Mileina\n「It's sad we have to get involved in yet another\n　fight. I never like having to do this work.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Лассе",
+   "text": "「Никому. Потому и надо всё закончить быстро,\n　особенно если тут как-то замешана Юпитерианская\n　федерация. Мы обязаны их остановить!」",
+   "orig": "Lasse\n「Nobody does. That's why we need to end it all fast,\n　especially if the Jovian Federation's involved\n　somehow. We have an obligation to stop them!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Сумераги",
+   "text": "「Верно. Аэолия Шенберг дерзнул мечтать о будущем,\n　полном мира, — и это будущее мы воплотим!」",
+   "orig": "Sumeragi\n「That's right. Aeolia Schenberg dared to dream of a\n　future full of peace and it's a future we'll make real!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Сумераги",
+   "text": "「А значит, надо положить конец всем войнам, какие\n　мы знаем! Вот за что «Селестиал Бин» и сражается!」",
+   "orig": "Sumeragi\n「And that means bringing an end to all war as we know\n　it! That's why we as Celestial Being have to fight!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Сэцуна",
+   "text": "（Две войны прошло, а этот мир всё так же\n　норовит решать свои беды силой.）",
+   "orig": "Setsuna\n（Two wars later and this world is still intent\n　on trying to solve its problems with force.）"
+  },
+  {
+   "i": 304,
+   "speaker": "Сэцуна",
+   "text": "（Но я не готов поставить на нём крест!\n　Я буду сражаться столько, сколько нужно,\n　чтобы избавить этот мир от боли войны!）",
+   "orig": "Setsuna\n（But I'm not ready to give up on it!\n　I'll fight for as long as it takes to\n　free this world from the pain of war!）"
+  },
+  {
+   "i": 305,
+   "speaker": "Локон",
+   "text": "「Похоже, у «Надэсико» новый капитан\n　со времён войны с Ящерами.」",
+   "orig": "Lockon\n「I guess the Nadesico's gotten a new captain\n　since we last saw it in the Lizard War.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Харо",
+   "text": "「Как и Локон.\n　Как и Локон.」",
+   "orig": "Haro\n「Just like Lockon.\n　Just like Lockon.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Локон",
+   "text": "「Да, ты прав.\n　У них уже второй капитан — как и я\n　второй Локон после брата.」",
+   "orig": "Lockon\n「Yeah, you're right.\n　They're on their second captain, just like\n　how I'm the second Lockon after my brother.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Локон",
+   "text": "「За ним непросто тянуться, но на «Гандаме\n　Забанья» я сделаю всё, чтобы он мной гордился!」",
+   "orig": "Lockon\n「He's one tough act to follow, but I'll do what\n　I can with the Gundam Zabanya to make him proud!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Аллилуйя",
+   "text": "「Так, пора выдвигаться, Мари!」",
+   "orig": "Allelujah\n「All right, time to roll out, Marie!」"
+  },
+  {
+   "i": 310,
+   "speaker": "Аллилуйя",
+   "text": "（После того как Сэцуна с Тиерией исчезли,\n　мы какое-то время шли своим путём, а потом\n　вернулись прямиком в «Селестиал Бин».）",
+   "orig": "Allelujah\n（After Setsuna and Tieria disappeared, we\n　ended up coming right back to Celestial Being\n　after striking it out alone for a while.）"
+  },
+  {
+   "i": 311,
+   "speaker": "Аллилуйя",
+   "text": "（Но если наше место здесь, то пусть так\n　и будет! С ними быть — это правильно!）",
+   "orig": "Allelujah\n（But if this is where we should be, then so\n　be it! It feels right being here with them!）"
+  },
+  {
+   "i": 312,
+   "speaker": "Пирис",
+   "text": "「Я готова выдвигаться, когда скажешь!」",
+   "orig": "Peries\n「I'm ready to go whenever you are!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Аллилуйя",
+   "text": "「С нашей общей силой против «Гандама\n　Харуте» никому не выстоять!」",
+   "orig": "Allelujah\n「With our combined strength, nobody\n　can stand up to the Gundam Harute!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Аллилуйя",
+   "text": "「Этой силой мы раз и навсегда\n　положим конец всем битвам!」",
+   "orig": "Allelujah\n「We'll use that strength to forever put\n　a stop to fighting once and for all!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Тиерия",
+   "text": "（В вооружённых силах Федерации земной сферы точно\n　есть сочувствующие Марсианским преемникам. Это ясно.）",
+   "orig": "Tieria\n（There are definitely Martian Successor sympathizers\n　within the Earth Federation Forces. That much is certain.）"
+  },
+  {
+   "i": 316,
+   "speaker": "Тиерия",
+   "text": "（Но я не понимаю, как они вообще так далеко\n　зашли. Почему их планы так успешны?）",
+   "orig": "Tieria\n（But what I don't get is how they've even gotten\n　this far. Why have their plans been so successful?）"
+  },
+  {
+   "i": 317,
+   "speaker": "Тиерия",
+   "text": "（Что творится за кулисами, чего мы не знаем?\n　Не держит ли кто-то нас всех за дураков?）",
+   "orig": "Tieria\n（What's going on behind the scenes that we don't know?\n　Is somebody out there playing us all for fools?）"
+  },
+  {
+   "i": 318,
+   "speaker": "Тобиа",
+   "text": "（Наконец-то я встретил кого-то ещё из своего мира.\n　Выходит, надежда у меня всё-таки есть.）",
+   "orig": "Tobia\n（I finally got to meet someone else from my own world.\n　I guess there is still some hope for me after all.）"
+  },
+  {
+   "i": 319,
+   "speaker": "Тобиа",
+   "text": "（Держись, Бернадетт! Я иду за тобой! Я не знаю,\n　где ты, но я тебя найду! Обещаю!）",
+   "orig": "Tobia\n（Hold on, Bernadette! I'm coming for you! I don't\n　know where you are, but I'll find you! I promise!）"
+  },
+  {
+   "i": 320,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Augh!」"
+  }
+ ]
+}

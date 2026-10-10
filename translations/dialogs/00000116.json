@@ -1,0 +1,1300 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　-Приёмная полицейского участка-",
+   "orig": "　\n　\n　　　　　　　-Police Station Reception Room-"
+  },
+  {
+   "i": 4,
+   "speaker": "$n",
+   "text": "「Ещё пару часов назад — какая-то убогая\n　комнатушка для допросов, а теперь меня вдруг\n　проводят в приёмную?」",
+   "orig": "$n\n「Up until a few hours ago I thought I was in\n　some dingy little interrogation room, and now all\n　of a sudden I'm getting passed through reception room?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Одзава",
+   "text": "「Жаловаться ты любишь, да?」",
+   "orig": "Ozawa\n「You sure like to complain, don't you?」"
+  },
+  {
+   "i": 6,
+   "speaker": "$n",
+   "text": "「Только не подумайте, я не жалуюсь!\n　Вы меня даже обедом накормили.」",
+   "orig": "$n\n「Don't get me wrong, I'm glad!\n　I mean, you even bought me a meal.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Одзава",
+   "text": "「Это была личная благодарность от меня —\n　Сёитиро Одзавы, лучшего инспектора Нувель-Токио-Сити.」",
+   "orig": "Ozawa\n「That was me, Shoichiro Ozawa, the finest inspector\n　in all of Nouvelle Tokyo City, personally thanking you.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Одзава",
+   "text": "「Раз уж ты, судя по всему, рискуешь шеей и\n　защищаешь этот город от сил зла.」",
+   "orig": "Ozawa\n「Seeing as you apparently stuck your neck out and\n　protected this city from the forces of evil.」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "「Значит, мы закончили! Отпускайте меня, и я—」",
+   "orig": "$n\n「So we're done here! You can let me go, and I'll—」"
+  },
+  {
+   "i": 10,
+   "speaker": "Одзава",
+   "text": "「О нет, это совсем другой вопрос.\n　Мы не можем позволить нелицензированному роботу\n　свободно разгуливать по улицам. Ты же понимаешь?」",
+   "orig": "Ozawa\n「Oh no, that's another matter entirely.\n　We cannot allow an unlicensed robot to roam these\n　streets unchecked. You understand that, don't you?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Одзава",
+   "text": "「Так как насчёт того, чтобы сказать мне правду?」",
+   "orig": "Ozawa\n「So how about you tell me the truth?」"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "（Поверь, приятель, с радостью бы. Но вряд ли ты\n　поверишь, что я из другого мира, — а доказать\n　это мне всё равно нечем.）",
+   "orig": "$n\n（Believe me pal, I'd love to. But I don't think there's\n　a chance in hell that you'll believe me when I tell\n　you I came from another world, but can't prove it.）"
+  },
+  {
+   "i": 13,
+   "speaker": "$n",
+   "text": "（Этим ребятам, кажется, можно доверять, но\n　меньше всего мне нужны новые проблемы.）",
+   "orig": "$n\n（I'm pretty sure I can trust these guys, but the\n　last thing I want to do is cause more trouble.）"
+  },
+  {
+   "i": 14,
+   "speaker": "Одзава",
+   "text": "「И после всего этого ты молчишь?」",
+   "orig": "Ozawa\n「And after all that, you remain silent?」"
+  },
+  {
+   "i": 15,
+   "speaker": "$n",
+   "text": "「Вы серьёзно относитесь к своей работе.」",
+   "orig": "$n\n「You're pretty serious about your job.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Одзава",
+   "text": "「Я же сказал, что я лучший инспектор во всём\n　Нувель-Токио-Сити, разве нет?」",
+   "orig": "Ozawa\n「I told you I'm the finest inspector in all of\n　Nouvelle Tokyo City, did I not?」"
+  },
+  {
+   "i": 17,
+   "speaker": "$n",
+   "text": "「А мне-то казалось, что эта комната — верный\n　знак, что мою невиновность уже доказали.」",
+   "orig": "$n\n「And here I thought this room was a sure sign\n　that you'd proven my innocence.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Одзава",
+   "text": "「Это мы ещё посмотрим.」",
+   "orig": "Ozawa\n「We'll see about that.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Аоки",
+   "text": "「Благодарю за ожидание, $l.\n　Прошу прощения за опоздание.」",
+   "orig": "Aoki\n「Thank you for waiting, $l.\n　I apologize for my tardiness.」"
+  },
+  {
+   "i": 20,
+   "speaker": "$n",
+   "text": "「А вы кто?」",
+   "orig": "$n\n「And you are?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Титосэ",
+   "text": "「Прекрати, $n!\n　Это же Аоки из концерна «Сэмпудзи»!」",
+   "orig": "Chitose\n「Knock it off, $n!\n　That's Aoki from Senpuji Concern!」"
+  },
+  {
+   "i": 22,
+   "speaker": "$n",
+   "text": "「Кто-кто?」",
+   "orig": "$n\n「Say who?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Титосэ",
+   "text": "「Аоки! Из концерна «Сэмпудзи»! Ну же, вспоминай!」",
+   "orig": "Chitose\n「Aoki! From the Senpuji Concern? Come on, think!」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「А. А, ну да! Тот самый\n　Аоки! Давно не виделись!」",
+   "orig": "$n\n「Oh. Oh yeah! That Aoki!\n　It's been a while!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Осака",
+   "text": "「Простите, инспектор. Похоже, «Вангрэй» — это\n　новый, строго секретный робот, который\n　разрабатывает «Сэмпудзи Хэви Индастриз».」",
+   "orig": "Osaka\n「Excuse me, Inspector. It appears that the VangRay\n　is a new, highly classified robot being developed by\n　Senpuji Heavy Industries.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Осака",
+   "text": "「Враги появились как раз перед началом\n　испытательных стрельб, и машина активировалась\n　в целях самообороны.」",
+   "orig": "Osaka\n「The enemies appeared just as the live-fire test\n　was about to commence, causing it to activate in\n　self-defense.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Одзава",
+   "text": "「Понятно.\n　Значит, всё-таки «Сэмпудзи Хэви Индастриз».」",
+   "orig": "Ozawa\n「I see.\n　So it was Senpuji Heavy Industries after all.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Одзава",
+   "text": "「Но я думал, они в основном занимаются\n　постройкой железнодорожных вагонов?」",
+   "orig": "Ozawa\n「But I thought they were primarily in the business\n　of building railroad cars?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Осака",
+   "text": "「Вот тут всё и усложняется.」",
+   "orig": "Osaka\n「That's where it gets complicated.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Одзава",
+   "text": "「Если мы точно выясним, откуда он взялся,\n　мы примем его как защитника горожан.」",
+   "orig": "Ozawa\n「If we can figure out exactly where it came from,\n　we'll welcome it as a guardian of the populace.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Одзава",
+   "text": "「Вот так всё и будет, $l.」",
+   "orig": "Ozawa\n「That's how this is going to go, $l.」"
+  },
+  {
+   "i": 32,
+   "speaker": "$n",
+   "text": "「Хорошо.\n　Извините за хлопоты.」",
+   "orig": "$n\n「OK.\n　Sorry for all the trouble.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Одзава",
+   "text": "「А теперь прошу меня извинить, мне нужно\n　оформить бумаги на твоё освобождение.」",
+   "orig": "Ozawa\n「Now if you'll excuse me, I have to file the\n　paperwork for your release.」"
+  },
+  {
+   "i": 34,
+   "speaker": "$n",
+   "text": "「Так... что это сейчас было?」",
+   "orig": "$n\n「So, what just happened?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Титосэ",
+   "text": "「Тацу вытащил нас из передряги, вот что!」",
+   "orig": "Chitose\n「Tatsu helped us out of a jam, is what happened!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Тацу",
+   "text": "「Дела у тебя были серьёзные, $n.」",
+   "orig": "Tatsu\n「You were in real trouble there, $n.」"
+  },
+  {
+   "i": 37,
+   "speaker": "$n",
+   "text": "「Ого!」",
+   "orig": "$n\n「Whoa!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Тацу",
+   "text": "「Титосэ со мной связалась, и я примчался сюда\n　как мог быстро. Вот уж никогда не думал, что ты\n　сядешь за робота и прогонишь врага!」",
+   "orig": "Tatsu\n「Chitose contacted me, and I got here as fast as I\n　could. Never in a million years did I expect to find\n　that you'd piloted a robot and turned the enemy away!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Осака",
+   "text": "「Позвольте и мне лично вас поблагодарить.\n　Благодаря вашим усилиям даже завод Аото\n　«Сэмпудзи Хэви Индастриз» уцелел в бою.」",
+   "orig": "Osaka\n「Allow me to personally thank you.\n　Even Senpuji Heavy Industries' Aoto factory emerged\n　from battle unscathed thanks to your efforts.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Осака",
+   "text": "「Меня зовут Дзиро Осака.\n　Я управляющий завода Аото.」",
+   "orig": "Osaka\n「My name is Jiro Osaka.\n　I'm the plant manager for the Aoto factory.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Тацу",
+   "text": "「Надо сказать, я и сам работал на заводе Аото,\n　когда ещё служил.」",
+   "orig": "Tatsu\n「I should mention that I worked at the Aoto factory\n　when I was on active duty.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Осака",
+   "text": "「Выслушав рассказ Тацу, я сразу же связался с\n　главой нашей головной компании, концерна\n　«Сэмпудзи», и добился вашего освобождения.」",
+   "orig": "Osaka\n「Upon hearing Tatsu's story, I immediately contacted\n　the CEO of our parent company, Senpuji Concern, and \n　secured your release.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Аоки",
+   "text": "「А меня послали это освобождение оформить.」",
+   "orig": "Aoki\n「And I was sent to finalize said release.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Аоки",
+   "text": "「Я Кэйитиро Аоки, дворецкий семьи Сэмпудзи.」",
+   "orig": "Aoki\n「I am Keiichiro Aoki, the Senpuji family butler.」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Ух ты. Спасибо тебе за всё, Тацу.\n　И вам тоже, Осака и Аоки.」",
+   "orig": "$n\n「Wow. Thank you for everything you've done, Tatsu.\n　You too, Osaka and Aoki.」"
+  },
+  {
+   "i": 46,
+   "speaker": "$n",
+   "text": "「Но это значит, что мне пока нельзя уйти, да?」",
+   "orig": "$n\n「But this means I can't leave yet, doesn't it?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Аоки",
+   "text": "「Боюсь, что нет.\n　Господин Сэмпудзи, глава концерна «Сэмпудзи»,\n　желает встретиться с вами лично, $l.」",
+   "orig": "Aoki\n「I'm afraid not, sir.\n　Mr. Senpuji, CEO of the Senpuji Concern, would like\n　to meet with you personally, $l.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Аоки",
+   "text": "「К тому же он хотел бы выяснить,\n　кто вы.」",
+   "orig": "Aoki\n「Additionally, he would like to inquire\n　as to who you are.」"
+  },
+  {
+   "i": 49,
+   "speaker": "$n",
+   "text": "「Ну конечно же.」",
+   "orig": "$n\n「Of course he does.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Тацу",
+   "text": "「Ты в порядке, $n?」",
+   "orig": "Tatsu\n「You OK, $n?」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「Что ж, от этого уже не отвертеться.」",
+   "orig": "$n\n「Well, there's no getting out of this one.」"
+  },
+  {
+   "i": 52,
+   "speaker": "$n",
+   "text": "「Хорошо, Аоки.\n　Я с ним встречусь и всё расскажу.」",
+   "orig": "$n\n「Understood, Aoki.\n　I'll meet with him, and tell him everything.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Титосэ",
+   "text": "「Это точно хорошая идея, $n?」",
+   "orig": "Chitose\n「Are you sure about this, $n?」"
+  },
+  {
+   "i": 54,
+   "speaker": "$n",
+   "text": "「Стоило «Вангрэю» выйти наружу — и стало ясно,\n　что скоро бегать нам будет уже некуда.」",
+   "orig": "$n\n「Once the VangRay was out, I knew it was only a matter\n　of time until we couldn't run any more.」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「И кроме того, мы в долгу перед Тацу и всеми,\n　кто нам помогал. Они заслужили объяснений.」",
+   "orig": "$n\n「And besides, we owe Tatsu and the rest of the\n　crew that helped us an explanation.」"
+  },
+  {
+   "i": 59,
+   "speaker": "　",
+   "text": "　　\n　　　　-Кабинет главы концерна «Сэмпудзи»-",
+   "orig": "　\n　　\n　　　　　　-Senpuji Concern Executive Office-"
+  },
+  {
+   "i": 60,
+   "speaker": "Аоки",
+   "text": "「Господин Майто,\n　я привёл ваших гостей.」",
+   "orig": "Aoki\n「Master Maito,\n　I have brought your guests.」"
+  },
+  {
+   "i": 61,
+   "speaker": "？？？",
+   "text": "「Спасибо, Аоки.」",
+   "orig": "？？？\n「Thank you , Aoki.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Титосэ",
+   "text": "（Это он — глава концерна «Сэмпудзи»?）",
+   "orig": "Chitose\n（He's the CEO of the Senpuji Concern?）"
+  },
+  {
+   "i": 63,
+   "speaker": "$n",
+   "text": "（Глава крупнейшего конгломерата\n　и, по слухам, богатейший человек в мире.）",
+   "orig": "$n\n（The leader of the largest conglomerate,\n　rumored to be the richest man in the world.）"
+  },
+  {
+   "i": 64,
+   "speaker": "Майто",
+   "text": "「Рад знакомству!\n　Я Майто Сэмпудзи.」",
+   "orig": "Maito\n「Nice to meet you!\n　I'm Maito Senpuji.」"
+  },
+  {
+   "i": 65,
+   "speaker": "$n",
+   "text": "「О-он же совсем мальчишка!」",
+   "orig": "$n\n「H-he's so young!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тацу",
+   "text": "「Так все говорят.」",
+   "orig": "Tatsu\n「That's what everybody says.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Майто",
+   "text": "「А вы, должно быть, Сингудзи с завода Аото.\n　Рад видеть, что у вас всё хорошо.」",
+   "orig": "Maito\n「And you must be Shinguji, from the Aoto factory.\n　I'm glad to see you're doing well.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Тацу",
+   "text": "「Огромное спасибо, господин Майто.\n　Не думал, что вы запомните имя\n　рядового сотрудника.」",
+   "orig": "Tatsu\n「Many thanks, Mr. Maito.\n　I didn't think you'd remember\n　the name of an ordinary employee.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Майто",
+   "text": "「О чём вы? Сотрудники — самые ценные люди\n　в концерне «Сэмпудзи».」",
+   "orig": "Maito\n「What are you talking about? Employees are the most\n　valuable people at the Senpuji Concern.」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Да он ещё и славный парень!」",
+   "orig": "$n\n「And he's a nice guy, to boot!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Идзуми",
+   "text": "「Он не просто славный парень, знаешь ли.\n　Его называют Славным Парнем, Зовущим Бурю.」",
+   "orig": "Izumi\n「He's not just any nice guy, you know.\n　They call him the Storm-calling Nice Guy.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Майто",
+   "text": "「Спасибо за уточнение, Идзуми.」",
+   "orig": "Maito\n「Thank you for the follow-up, Izumi.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Идзуми",
+   "text": "「Простите, что не представилась.\n　Идзуми Мацубара, личный секретарь господина Майто.\n　Очень рада со всеми вами познакомиться.」",
+   "orig": "Izumi\n「Forgive me for not introducing myself.\n　Izumi Matsubara, Mr. Maito's personal secretary.\n　It is a pleasure to meet you all.」"
+  },
+  {
+   "i": 74,
+   "speaker": "$n",
+   "text": "「Значит, у богатейшего главы-подростка в мире —\n　седовласый дворецкий и сногсшибательная личная\n　секретарша. Приоритеты расставлены верно.」",
+   "orig": "$n\n「So the richest teenaged CEO in the world has a silver-\n　haired butler and a drop-dead gorgeous personal\n　secretary. You've really got your priorities in line.」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「И не интерес ли к «Вангрэю» заставил такого\n　человека поручиться за ничтожного бродягу\n　вроде меня?」",
+   "orig": "$n\n「And might the reason such a person would vouch for\n　a lowly vagrant such as myself be due to an interest\n　in the VangRay?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Майто",
+   "text": "「Да. И, кстати, можно без этих церемоний.\n　Мы же сражались плечом к плечу, господин бродяга.」",
+   "orig": "Maito\n「Yes. And you don't need to talk like that, by the way.\n　We fought side-by-side after all, Mr. Vagrant.」"
+  },
+  {
+   "i": 77,
+   "speaker": "$n",
+   "text": "「Чего?」",
+   "orig": "$n\n「Say what?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Майто",
+   "text": "「Именно так.\n　Я ещё и капитан отряда «Отважный экспресс».」",
+   "orig": "Maito\n「That's right.\n　I am also the captain of the Brave Express Corps.」"
+  },
+  {
+   "i": 79,
+   "speaker": "$n",
+   "text": "「Так это ты вёл того робота!」",
+   "orig": "$n\n「So you were the one piloting that robot!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Майто",
+   "text": "「$l... нет, вообще-то позволь\n　мне называть тебя $n.」",
+   "orig": "Maito\n「$l—actually no, allow me to call you\n　$n.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Майто",
+   "text": "「Прежде всего я поручился за тебя и добился\n　освобождения, чтобы отблагодарить за то,\n　что ты там сделал.」",
+   "orig": "Maito\n「First and foremost, I vouched for you and secured\n　your release as a way to thank you for what you did\n　back there.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Майто",
+   "text": "「Так что позволь сказать спасибо лично.」",
+   "orig": "Maito\n「So let me say thank you, face-to-face.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Да я просто делаю то, что нужно делать.」",
+   "orig": "$n\n「I just did what I had to do.」"
+  },
+  {
+   "i": 84,
+   "speaker": "$n",
+   "text": "「Как и ты.」",
+   "orig": "$n\n「Same as you did.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Майто",
+   "text": "「Вот это я и хотел услышать!\n　Я так и знал! Хороший человек, сразу видно.」",
+   "orig": "Maito\n「Now that's what I'm talking about!\n　I knew you were a nice guy! I could just tell.」"
+  },
+  {
+   "i": 86,
+   "speaker": "$n",
+   "text": "「Но это ведь не всё, да?\n　Парень рядом с тобой всё вертится и открывает рот,\n　будто хочет что-то сказать.」",
+   "orig": "$n\n「But that's not all, is it?\n　The kid next to you keeps fidgeting and opening his\n　mouth like he's got something to say.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Майто",
+   "text": "「Позволь представить.\n　Это Мицухико Хамада, мой лучший друг.」",
+   "orig": "Maito\n「Allow me to introduce you.\n　This is Mitsuhiko Hamada, my best friend.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Хамада",
+   "text": "「Зови меня просто Хамада.\n　Рад знакомству.」",
+   "orig": "Hamada\n「Just call me Hamada.\n　Nice to meet you.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Хамада",
+   "text": "「$l, вот этот ваш...\n　ну, робот, которым вы управляете?\n　Он ведь от внеземной цивилизации, верно?」",
+   "orig": "Hamada\n「$l, your, uh,\n　that robot you're piloting?\n　That's from an alien civilization, isn't it?」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Хм.」",
+   "orig": "$n\n「Hrm.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Хамада",
+   "text": "「Я... впрочем, может, я спешу с выводами.\n　Это может быть и наследие древней цивилизации,\n　доработанное нынешними технологиями.」",
+   "orig": "Hamada\n「I—well, perhaps I'm jumping to conclusions there.\n　It could also be something from a prehistoric society\n　augmented with current technology.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Хамада",
+   "text": "「Мне просто страшно любопытен этот разрыв между\n　«Вангрэем» и современной техникой, вот и всё.」",
+   "orig": "Hamada\n「I'm just really curious about the apparent gap\n　between the VangRay and modern technology, is all.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Майто",
+   "text": "「Хамада участвует в проекте «Отважный экспресс»\n　и к тому же служит нашим инженером-механиком.」",
+   "orig": "Maito\n「Hamada is a member of the Brave Express Plan,\n　in addition to serving as our Mechanical Engineer.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Майто",
+   "text": "「Это он страшно заинтересовался «Вангрэем»,\n　едва увидел его.」",
+   "orig": "Maito\n「He was the one who became incredibly interested in\n　the VangRay once he laid eyes on it.」"
+  },
+  {
+   "i": 95,
+   "speaker": "$n",
+   "text": "「Значит, лучший друг юного гения-главы ещё и его\n　инженер. От тебя ничего не укроется, да?」",
+   "orig": "$n\n「So the boy wonder CEO's closest friend is also his\n　engineer. Nothing gets by you, does it?」"
+  },
+  {
+   "i": 96,
+   "speaker": "Титосэ",
+   "text": "「Полегче, $n.」",
+   "orig": "Chitose\n「Easy, $n.」"
+  },
+  {
+   "i": 97,
+   "speaker": "$n",
+   "text": "「Я здесь ровно для того, чтобы рассказать вам\n　правду. Я умею понять, когда за спиной стена\n　и бежать уже некуда.」",
+   "orig": "$n\n「The whole reason I came here was to tell you the\n　truth, because I know when I'm up against the wall\n　with no escape.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Титосэ",
+   "text": "「Но—」",
+   "orig": "Chitose\n「But—」"
+  },
+  {
+   "i": 99,
+   "speaker": "$n",
+   "text": "「Всё в порядке, Титосэ.\n　Этим людям можно доверять.」",
+   "orig": "$n\n「It's OK, Chitose.\n　We can trust these guys.」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Он скрывает, кто он на самом деле, чтобы\n　сражаться за правое дело. Что ещё нужно?」",
+   "orig": "$n\n「He's keeping his true identity a secret in order to\n　fight for what's right. What more can we ask for?」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「Хотя всё это, конечно, одна интуиция.」",
+   "orig": "$n\n「Granted, this is all a hunch.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Майто",
+   "text": "「Прошу, продолжай.」",
+   "orig": "Maito\n「Please continue.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Идзуми",
+   "text": "「Майто!\n　Те же роботы, что вчера, появились\n　в Нувель-Токио-Сити!」",
+   "orig": "Izumi\n「Maito!\n　The same robots from yesterday have appeared\n　in Nouvelle Tokyo City!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Майто",
+   "text": "「Видно, приятели наших врагов!」",
+   "orig": "Maito\n「They must be our enemies' little friends!」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「Эх! А ведь вся правда была уже на языке!」",
+   "orig": "$n\n「Aw, I was just about to reveal the truth behind this!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Майто",
+   "text": "「$n, об этом мы сможем\n　поговорить за ужином сколько угодно.」",
+   "orig": "Maito\n「$n, we can talk about that\n　all you want over dinner.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Э-эй!\n　Куда ты собрался!」",
+   "orig": "$n\n「H-hey!\n　Where do you think you're going!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Майто",
+   "text": "「Тут нужен герой!」",
+   "orig": "Maito\n「This calls for a hero!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Майто",
+   "text": "「Вперёд! Отряд «Отважный\n　экспресс», на выезд!」",
+   "orig": "Maito\n「Let's go!\n　Brave Express Corps, roll out!」"
+  },
+  {
+   "i": 113,
+   "speaker": "　",
+   "text": "　　\n　　　　-Кабинет главы концерна «Сэмпудзи»-",
+   "orig": "　\n　　\n　　　　　　-Senpuji Concern Executive Office-"
+  },
+  {
+   "i": 114,
+   "speaker": "Майто",
+   "text": "「Вот такие дела, $n.」",
+   "orig": "Maito\n「And with that, $n.」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Хм-м...」",
+   "orig": "$n\n「Hmm...」"
+  },
+  {
+   "i": 116,
+   "speaker": "Майто",
+   "text": "「Объявляю тебя почётным членом отряда «Храбрый\n　экспресс». Обслуживание «Вангрэя» оставь нам.」",
+   "orig": "Maito\n「I declare you an honorary member of the Brave Express\n　Corps. Leave the maintenance of the VangRay to us.」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「Ясно, капитан Майто.\n　Верю, что вы знаете, что делаете.」",
+   "orig": "$n\n「Understood, Captain Maito.\n　I trust you know what you're doing.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Идзуми",
+   "text": "「До сих пор не верится, что ты из другого мира!」",
+   "orig": "Izumi\n「I still can't believe you came from another world!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Хамада",
+   "text": "「Что ж, лично у меня нет причин сомневаться,\n　что $n говорит правду.」",
+   "orig": "Hamada\n「Well, I for one have no reason to doubt that\n　$n is telling the truth.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Тацу",
+   "text": "「Тебе, Титосэ, наверное, пришлось нелегко.」",
+   "orig": "Tatsu\n「That must have been difficult for you, Chitose.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Титосэ",
+   "text": "「Что сделано, то сделано.」",
+   "orig": "Chitose\n「What's done is done.」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「Титосэ...」",
+   "orig": "$n\n「Chitose...」"
+  },
+  {
+   "i": 123,
+   "speaker": "Осака",
+   "text": "「Из другого мира прибыли не только они.」",
+   "orig": "Osaka\n「It's not just them that came from another world.」"
+  },
+  {
+   "i": 124,
+   "speaker": "？？？",
+   "text": "「Вы обо мне?」",
+   "orig": "？？？\n「Are you talking about me?」"
+  },
+  {
+   "i": 125,
+   "speaker": "Осака",
+   "text": "「Да.\n　У меня в голове не укладывалось, что вы —\n　операционная система «Вангрэя».」",
+   "orig": "Osaka\n「Yes.\n　I couldn't wrap my head around the fact that you\n　are the OS that controls the VangRay.」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「Нас уже двое.」",
+   "orig": "$n\n「That makes two of us.」"
+  },
+  {
+   "i": 127,
+   "speaker": "？？？",
+   "text": "「Хм?」",
+   "orig": "？？？\n「Hmm?」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「В смысле, я вроде как понимаю, что ты и\n　Система Девять-Девять — одно и то же.」",
+   "orig": "$n\n「I mean, I kind of understand that you and\n　System Nine-Nine are the same.」"
+  },
+  {
+   "i": 129,
+   "speaker": "？？？",
+   "text": "「Потому что обе бесполезны и с дефектом?」",
+   "orig": "？？？\n「Because we're both unhelpful and defective?」"
+  },
+  {
+   "i": 130,
+   "speaker": "$n",
+   "text": "「Вот! Вот оно, прямо сейчас!\n　Чистая колкость Системы Девять-Девять!」",
+   "orig": "$n\n「See? That, right there!\n　That's classic System Nine-Nine snark!」"
+  },
+  {
+   "i": 131,
+   "speaker": "？？？",
+   "text": "「Э...」",
+   "orig": "？？？\n「Uh...」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Тогда спрошу ещё раз.\n　Как именно ты здесь появилась?」",
+   "orig": "$n\n「So let me ask you again.\n　How exactly did you come to be?」"
+  },
+  {
+   "i": 133,
+   "speaker": "？？？",
+   "text": "「Когда «Вангрэй» и я совершили прыжок\n　в эту вселенную, мы обошли весь мир\n　в поисках вас.」",
+   "orig": "？？？\n「Once the VangRay and I jumped to this\n　universe, we traveled the world in search\n　of you all.」"
+  },
+  {
+   "i": 134,
+   "speaker": "？？？",
+   "text": "「Я взломала все сети и собрала сведения\n　о вас, но, стыдно признать, на это\n　ушла целая неделя.」",
+   "orig": "？？？\n「I hacked into every network and collected\n　information on you, but I am ashamed to say\n　that this process took a week.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Хамада",
+   "text": "「Учитывая, что вы попали в этот мир, не зная\n　даже, где их искать, найти\n　$n за неделю — впечатляет.」",
+   "orig": "Hamada\n「Considering that you came to this world with no\n　clue as to where they might be, locating\n　$n within a week is impressive.」"
+  },
+  {
+   "i": 136,
+   "speaker": "？？？",
+   "text": "「И при этом мне говорят, что я с дефектом.」",
+   "orig": "？？？\n「And yet to hear him tell it, I'm defective.」"
+  },
+  {
+   "i": 137,
+   "speaker": "$n",
+   "text": "「Ты всё ещё держишь на меня зло...」",
+   "orig": "$n\n「You're still holding that grudge...」"
+  },
+  {
+   "i": 138,
+   "speaker": "Титосэ",
+   "text": "「А почему ты выбрала облик женщины?」",
+   "orig": "Chitose\n「Why did you choose to take the form of a woman?」"
+  },
+  {
+   "i": 139,
+   "speaker": "？？？",
+   "text": "「Мне стало очевидно, что для сбора\n　сведений придётся принять\n　человеческий облик.」",
+   "orig": "？？？\n「It became apparent to me that I\n　would need to assume a human form\n　in order to gather information.」"
+  },
+  {
+   "i": 140,
+   "speaker": "？？？",
+   "text": "「Поэтому я проникла в один исследовательский\n　центр, собрала себе из их материалов тело\n　и скопировала в него свои данные.」",
+   "orig": "？？？\n「So I infiltrated a research facility,\n　used their materials to build a human form\n　for myself, and copied my data to it.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Титосэ",
+   "text": "「Так вот зачем на «Вангрэе» было ремонтное\n　оборудование. А я думала, это просто запас.」",
+   "orig": "Chitose\n「So that's why you had repair equipment on board the\n　VangRay. I thought it was just good forward planning.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Осака",
+   "text": "「Хм. Мне всё же не верится, что операционная\n　система машины способна на такое.」",
+   "orig": "Osaka\n「Hmm. I find it rather incredible that a mech's OS\n　could do all of this.」"
+  },
+  {
+   "i": 143,
+   "speaker": "$n",
+   "text": "「Эй, кстати об этом!\n　Выходит, у «Вангрэя» сейчас нет никакой ОС?」",
+   "orig": "$n\n「Hey, speaking of!\n　Does this mean the VangRay has no OS right now?」"
+  },
+  {
+   "i": 144,
+   "speaker": "？？？",
+   "text": "「Это не проблема. Я могу\n　управлять им дистанционно.」",
+   "orig": "？？？\n「That's not a problem.\n　I can control it remotely.」"
+  },
+  {
+   "i": 145,
+   "speaker": "？？？",
+   "text": "「И даже к лучшему, что меня нет\n　внутри «Вангрэя», — если случится\n　худшее.」",
+   "orig": "？？？\n「And it's just as well that I am\n　not inside the VangRay, should the\n　worst-case scenario come to pass.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Майто",
+   "text": "「А именно?」",
+   "orig": "Maito\n「That being?」"
+  },
+  {
+   "i": 147,
+   "speaker": "？？？",
+   "text": "「Удар по «Вангрэю».」",
+   "orig": "？？？\n「An attack on the VangRay.」"
+  },
+  {
+   "i": 148,
+   "speaker": "$n",
+   "text": "「Эй, не искушай судьбу.」",
+   "orig": "$n\n「Hey now, let's not tempt fate.」"
+  },
+  {
+   "i": 149,
+   "speaker": "？？？",
+   "text": "「Я шучу.」",
+   "orig": "？？？\n「I'm joking.」"
+  },
+  {
+   "i": 150,
+   "speaker": "$n",
+   "text": "「А мне вот не смешно!」",
+   "orig": "$n\n「Well I'm not laughing!」"
+  },
+  {
+   "i": 151,
+   "speaker": "？？？",
+   "text": "「Хм.」",
+   "orig": "？？？\n「Hmm.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Да ну брось!\n　Не злись!」",
+   "orig": "$n\n「Aw, c'mon!\n　Don't get mad!」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Слушай, мы наконец снова\n　вместе. Это же хорошо!」",
+   "orig": "$n\n「Look, we've finally reunited.\n　This is a good thing!」"
+  },
+  {
+   "i": 154,
+   "speaker": "？？？",
+   "text": "「Я себя до микросхем извела,\n　пока искала тебя, — и это вся благодарность?」",
+   "orig": "？？？\n「I worked myself to the circuit board\n　trying to find you, and this is the thanks I get?」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「Так вот почему ты вчера\n　меня в упор не замечала?」",
+   "orig": "$n\n「Is that why you gave me\n　the cold shoulder yesterday?」"
+  },
+  {
+   "i": 156,
+   "speaker": "？？？",
+   "text": "「А была ли иная причина так поступать?」",
+   "orig": "？？？\n「Was there another reason why I should have?」"
+  },
+  {
+   "i": 157,
+   "speaker": "$n",
+   "text": "「Да откуда мне знать!」",
+   "orig": "$n\n「How should I know!」"
+  },
+  {
+   "i": 158,
+   "speaker": "？？？",
+   "text": "「Довольно.」",
+   "orig": "？？？\n「That's enough.」"
+  },
+  {
+   "i": 159,
+   "speaker": "$n",
+   "text": "「Человеческий облик лишь прячет твой вредный нрав.」",
+   "orig": "$n\n「Your human form just hides your nasty side.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Майто",
+   "text": "「Это было лишнее, $n. Как можно так говорить\n　после всего, что она сделала?」",
+   "orig": "Maito\n「That was uncalled for, $n.\n　How could you say that after what she's done?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Идзуми",
+   "text": "「Майто прав. Она держалась\n　невероятно храбро.」",
+   "orig": "Izumi\n「Maito's right.\n　She's been incredibly brave.」"
+  },
+  {
+   "i": 162,
+   "speaker": "？？？",
+   "text": "「Благодарю.」",
+   "orig": "？？？\n「Thank you.」"
+  },
+  {
+   "i": 163,
+   "speaker": "$n",
+   "text": "「Ладно, ладно.\n　Ты была права, а я — нет.\n　Прошу прощения.」",
+   "orig": "$n\n「OK, OK.\n　You were right, and I was wrong.\n　I apologize.」"
+  },
+  {
+   "i": 164,
+   "speaker": "？？？",
+   "text": "「Я лишь прошу понимания.」",
+   "orig": "？？？\n「I simply ask for your understanding.」"
+  },
+  {
+   "i": 165,
+   "speaker": "$n",
+   "text": "「Оно у тебя есть.\n　Нам придётся действовать вместе, иначе нам этого\n　не пережить. Надеюсь на тебя, Система Девять-Девять.」",
+   "orig": "$n\n「And you've got it.\n　We've got to cooperate if we're going to get through\n　this, OK? I'm counting on you, System Nine-Nine.」"
+  },
+  {
+   "i": 166,
+   "speaker": "$n",
+   "text": "「И, наверное, так тебя звать уже не стоит,\n　раз ты теперь выглядишь как человек. Дай подумать.」",
+   "orig": "$n\n「And I probably shouldn't call you that,\n　since you look human now. Let me think.」"
+  },
+  {
+   "i": 167,
+   "speaker": "$n",
+   "text": "「Придумал!\n　С этой минуты буду звать тебя просто Найн.」",
+   "orig": "$n\n「Got it.\n　From here on out, I'll just call you Nine.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Найн",
+   "text": "「Найн?」",
+   "orig": "Nine\n「Nine?」"
+  },
+  {
+   "i": 169,
+   "speaker": "$n",
+   "text": "「Не нравится?」",
+   "orig": "$n\n「Is that no good?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Найн",
+   "text": "「Ты мой хозяин.\n　Возражать я не намерена.」",
+   "orig": "Nine\n「You are my master.\n　I do not intend to disagree.」"
+  },
+  {
+   "i": 171,
+   "speaker": "$n",
+   "text": "「Хозяин?\n　Нет, к такому званию мне точно не привыкнуть.」",
+   "orig": "$n\n「Your master?\n　Nah, I don't think I could get used to that title.」"
+  },
+  {
+   "i": 172,
+   "speaker": "$n",
+   "text": "「Мы напарники, Найн. Зови просто по имени.\n　$n.」",
+   "orig": "$n\n「We're partners, Nine. Just use my name.\n　$n.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Найн",
+   "text": "「Мне нужно отличать это от моего ИИ-раздела.」",
+   "orig": "Nine\n「I must differentiate this from my AI partition.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Найн",
+   "text": "「Буду звать тебя Кэп.」",
+   "orig": "Nine\n「I'll call you Cap.」"
+  },
+  {
+   "i": 175,
+   "speaker": "$n",
+   "text": "「Кэп, значит?\n　Ну, это лучше, чем Хозяин.」",
+   "orig": "$n\n「Cap, huh?\n　I mean, it's better than Master.」"
+  },
+  {
+   "i": 176,
+   "speaker": "$n",
+   "text": "「Договорились, Найн. В этом мире\n　нет «Ямато», так что доводить\n　дело до конца нам.」",
+   "orig": "$n\n「You've got it, Nine.\n　There's no Yamato in this world,\n　so it's up to us to finish this.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Найн",
+   "text": "「Хм? «Ямато» здесь.」",
+   "orig": "Nine\n「Hm? The Yamato is here.」"
+  },
+  {
+   "i": 178,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Титосэ",
+   "text": "「Ты серьёзно?」",
+   "orig": "Chitose\n「Are you serious?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Найн",
+   "text": "「Пока я искала вас всех, мне попались сведения,\n　которые говорят именно об этом.」",
+   "orig": "Nine\n「In the course of my search for you all, I came\n　across information suggesting that to be the case.」"
+  },
+  {
+   "i": 181,
+   "speaker": "$n",
+   "text": "「Значит, «Ямато» всё-таки попал в этот мир?」",
+   "orig": "$n\n「So the Yamato jumped to this world after all?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Титосэ",
+   "text": "（Но как?）",
+   "orig": "Chitose\n（But how?）"
+  },
+  {
+   "i": 186,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　-Неизвестное место-",
+   "orig": "　\n　　\n　　　　　　　　　　-Unknown Location-"
+  },
+  {
+   "i": 187,
+   "speaker": "？？？",
+   "text": "「Этот чёрный мех крайне любопытен.」",
+   "orig": "？？？\n「That black mech is most curious.」"
+  },
+  {
+   "i": 188,
+   "speaker": "？？？",
+   "text": "「Готовьте войска.\n　Начнём с того, что изучим пилота.」",
+   "orig": "？？？\n「Ready the troops.\n　We'll start by investigating the pilot.」"
+  },
+  {
+   "i": 189,
+   "speaker": "？？？",
+   "text": "「А затем разберёмся с этими вредителями из «Отважного экспресса».」",
+   "orig": "？？？\n「Then we'll deal with those Brave Express pests.」"
+  },
+  {
+   "i": 190,
+   "speaker": "？？？",
+   "text": "「Хе-хе. Жду не дождусь их мучений.」",
+   "orig": "？？？\n「Heheh. I look forward to seeing them struggle.」"
+  },
+  {
+   "i": 194,
+   "speaker": "　",
+   "text": "　\n　-Ангар базы «Отважного экспресса» Майт-Стейшн-",
+   "orig": "　\n　\n　　　　　-Brave Express Base Might Station Hangar-"
+  },
+  {
+   "i": 195,
+   "speaker": "Найн",
+   "text": "「Кэп?」",
+   "orig": "Nine\n「Cap?」"
+  },
+  {
+   "i": 196,
+   "speaker": "$n",
+   "text": "「Что такое, Найн?」",
+   "orig": "$n\n「What's up, Nine?」"
+  },
+  {
+   "i": 197,
+   "speaker": "Найн",
+   "text": "「Пока я тебя искала, я многое узнала\n　о технологиях этого мира.」",
+   "orig": "Nine\n「I learned a lot about this world's technology\n　while I was searching for you.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Найн",
+   "text": "「Если соединить их с тем, что осталось от техники\n　нашего мира, можно сделать полезное оружие.」",
+   "orig": "Nine\n「We may be able to craft some useful weapons if we\n　combine it with extant technology from our world.」"
+  },
+  {
+   "i": 199,
+   "speaker": "$n",
+   "text": "「Да это же здорово!\n　Ну давай, показывай, что у тебя есть!」",
+   "orig": "$n\n「That's incredible!\n　Well c'mon, show me what you've got!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Найн",
+   "text": "「Это тебе кое-чего будет стоить.」",
+   "orig": "Nine\n「That will cost you.」"
+  },
+  {
+   "i": 201,
+   "speaker": "$n",
+   "text": "「За деньги, что ли?」",
+   "orig": "$n\n「They cost money?」"
+  },
+  {
+   "i": 202,
+   "speaker": "Найн",
+   "text": "「Нет, кое-чего подороже.\n　Нужен опыт всех и каждого.」",
+   "orig": "Nine\n「No, something more valuable than that.\n　It requires everyone's expertise.」"
+  },
+  {
+   "i": 203,
+   "speaker": "$n",
+   "text": "「А, тебе нужны наши головы.」",
+   "orig": "$n\n「Ah, you need our brains.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Найн",
+   "text": "「Я смогу разрабатывать детали, если получу данные,\n　а точнее — сведения, собранные всеми в бою.」",
+   "orig": "Nine\n「I can develop the parts if I have the data—rather,\n　the information everyone has gathered from combat.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Найн",
+   "text": "「И мало того, что данные пойдут в дело, — я ещё\n　смогу расширить свои возможности и обеспечить\n　тактическую поддержку всему отряду.」",
+   "orig": "Nine\n「In addition to putting the data to good use, I will\n　be able to expand my capabilities and offer tactical\n　support to the entire unit.」"
+  },
+  {
+   "i": 206,
+   "speaker": "$n",
+   "text": "「То есть мы соберём боевые данные,\n　а ты по ним понаделаешь всяких\n　крутых и очень полезных штук?」",
+   "orig": "$n\n「So we get our combat data together,\n　and you'll use it to create a bunch of\n　super cool, super useful stuff?」"
+  },
+  {
+   "i": 207,
+   "speaker": "Найн",
+   "text": "「Верно.」",
+   "orig": "Nine\n「Correct.」"
+  },
+  {
+   "i": 208,
+   "speaker": "$n",
+   "text": "「Потрясающе.」",
+   "orig": "$n\n「That's amazing.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Найн",
+   "text": "「Потому что я потрясающая. Признай.」",
+   "orig": "Nine\n「Because I'm amazing. Admit it.」"
+  },
+  {
+   "i": 210,
+   "speaker": "$n",
+   "text": "「Да-да, только не зазнавайся.\n　Постараюсь собрать данные, которые докажут\n　твоё превосходство.」",
+   "orig": "$n\n「Yeah, yeah, don't get ahead of yourself.\n　I'll do my best to collect the data that will\n　prove your excellence.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Найн",
+   "text": "「Одного этого не хватит.」",
+   "orig": "Nine\n「That alone won't be enough.」"
+  },
+  {
+   "i": 212,
+   "speaker": "$n",
+   "text": "「А что ещё нужно?」",
+   "orig": "$n\n「What else do you need?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Найн",
+   "text": "「Мне нужно больше знать о самих людях.\n　На одних боевых данных далеко не уеду.」",
+   "orig": "Nine\n「I need to know more about the people themselves.\n　I can't go on combat data alone.」"
+  },
+  {
+   "i": 214,
+   "speaker": "$n",
+   "text": "「Ещё и о людях, значит?」",
+   "orig": "$n\n「The people too, huh?」"
+  },
+  {
+   "i": 215,
+   "speaker": "$n",
+   "text": "「Что ж, рассказать тебе историю одной легенды?」",
+   "orig": "$n\n「Well, how about I tell you the story of a legend?」"
+  },
+  {
+   "i": 216,
+   "speaker": "Найн",
+   "text": "「Легенды?」",
+   "orig": "Nine\n「A legend?」"
+  },
+  {
+   "i": 217,
+   "speaker": "$n",
+   "text": "「Да. Я всю жизнь пилот!\n　Расскажу тебе свою историю.」",
+   "orig": "$n\n「Yeah. I've been a pilot my entire life!\n　I'll tell you my story.」"
+  },
+  {
+   "i": 218,
+   "speaker": "$n",
+   "text": "「Хотя если говорить о настоящих легендах,\n　то это пилоты-асы.」",
+   "orig": "$n\n「Though if we're talking about real legends,\n　those would be the ace pilots.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Найн",
+   "text": "「Пилот-ас? О чём ты?」",
+   "orig": "Nine\n「Ace pilot? What are you talking about?」"
+  },
+  {
+   "i": 220,
+   "speaker": "$n",
+   "text": "「Пилот с 60 сбитыми на счету.」",
+   "orig": "$n\n「A pilot with 60 confirmed kills.」"
+  },
+  {
+   "i": 221,
+   "speaker": "$n",
+   "text": "「Скажу Майто и остальным, чтобы\n　присылали к тебе всех асов.\n　Поняла?」",
+   "orig": "$n\n「I'll tell Maito and crew that they\n　should send any ace pilots your way.\n　Got it?」"
+  },
+  {
+   "i": 222,
+   "speaker": "Найн",
+   "text": "「Принято.」",
+   "orig": "Nine\n「Roger.」"
+  },
+  {
+   "i": 223,
+   "speaker": "$n",
+   "text": "「Нет-нет. Неправильно.」",
+   "orig": "$n\n「No, no. Wrong.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Найн",
+   "text": "「А что мне сказать?」",
+   "orig": "Nine\n「Then what should I say?」"
+  },
+  {
+   "i": 225,
+   "speaker": "$n",
+   "text": "「У меня для напарников\n　всего одно правило.」",
+   "orig": "$n\n「I've only got one rule\n　for partners.」"
+  },
+  {
+   "i": 226,
+   "speaker": "$n",
+   "text": "「Если кто-то согласен что-то\n　для тебя сделать — поблагодари.」",
+   "orig": "$n\n「When someone agrees to do something\n　for you, be sure to thank them.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Найн",
+   "text": "「Понятно.」",
+   "orig": "Nine\n「Understood.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Найн",
+   "text": "「Спасибо, что научил меня\n　столь ценным сведениям.」",
+   "orig": "Nine\n「Thank you for teaching\n　me such valuable information.」"
+  },
+  {
+   "i": 229,
+   "speaker": "$n",
+   "text": "「Для начала неплохо.\n　Давай попробуем, Найн.」",
+   "orig": "$n\n「That's a start.\n　Let's give this a shot, Nine.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Найн",
+   "text": "「Хорошо.」",
+   "orig": "Nine\n「Very well.」"
+  }
+ ]
+}

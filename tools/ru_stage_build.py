@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
 Validate translated dialog JSONs, inject into stage Lua files, encrypt and
 patch STGEST_EN.CPK in one pass.
@@ -22,6 +22,9 @@ sys.path.insert(0, TOOLS)
 from ru_lua_dialog import inject  # noqa: E402
 
 PLACEHOLDER = re.compile(r'\$kwb|\$kwe|\$n|\$l|\$c|\$r|\$F')
+MARKER = re.compile(r'\$kw[be]')
+LINE_WIDTH = 66
+MAX_LINES = 3
 
 
 def validate(en_path, ru_path):
@@ -50,11 +53,17 @@ def validate(en_path, ru_path):
             errs.append(f'[{i}] placeholders differ')
         if '「' in o['text'] and ('「' not in b['text'] or '」' not in b['text']):
             errs.append(f'[{i}] quote brackets lost')
+        # Ширина плашки диалога, а НЕ длина строки оригинала: в английских
+        # оригиналах встречаются строки до 69 знаков, в установленных и
+        # проверенных переводах — до 58. Маркеры $kwb/$kwe не отображаются.
         olines = o['text'].split('\n')
-        maxlen = max(len(l) for l in olines)
         for ln in b['text'].split('\n'):
-            if len(ln) > maxlen + 4:
-                errs.append(f'[{i}] line too long ({len(ln)} > {maxlen}+4): {ln[:40]}...')
+            vis = len(MARKER.sub('', ln))
+            if vis > LINE_WIDTH:
+                errs.append(f'[{i}] line too long ({vis} > {LINE_WIDTH}): {ln[:40]}...')
+        # В плашку помещается до 3 строк — столько встречается в оригиналах.
+        if len(b['text'].split('\n')) > max(len(olines), MAX_LINES):
+            errs.append(f'[{i}] line count {len(b["text"].split(chr(10)))} > {MAX_LINES}')
     return errs
 
 
@@ -103,3 +112,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
