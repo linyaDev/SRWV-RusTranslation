@@ -1,0 +1,856 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Хокусин",
+   "text": "「Идёшь?」",
+   "orig": "Hokushin\n「You coming?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Хокусин",
+   "text": "「Акито Тэнкава?」",
+   "orig": "Hokushin\n「Akito Tenkawa?」"
+  },
+  {
+   "i": 2,
+   "speaker": "Акито",
+   "text": "「Ну...」",
+   "orig": "Akito\n「Umm.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Хокусин",
+   "text": "「Чувства к любимой женщине\n　утянут тебя в бесконечную тьму.\n　И всё же ты идёшь?」",
+   "orig": "Hokushin\n「Your feelings for your beloved woman\n　will drive you into infinite darkness.\n　But are you coming?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Акито",
+   "text": "「Хокусин...」",
+   "orig": "Akito\n「Hokushin.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Хокусин",
+   "text": "「Что ж, ладно.\n　Разорвём тебя на части.」",
+   "orig": "Hokushin\n「Fine then.\n　We'll rip you limb from limb.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Теневая армия",
+   "text": "「Хокусин!\n　Мы прибыли на помощь, как и обещали!」",
+   "orig": "Shadow Army\n「Hokushin!\n　We're here to assist as promised!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Хокусин",
+   "text": "（Пушечное мясо.）",
+   "orig": "Hokushin\n（Bullet shields.）"
+  },
+  {
+   "i": 8,
+   "speaker": "Теневая армия",
+   "text": "「Наша цель — тот чёрный мех!\n　Вперёд!」",
+   "orig": "Shadow Army\n「Our target is that black mech!\n　Move out!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Теневая армия",
+   "text": "「Это ещё что за тип?」",
+   "orig": "Shadow Army\n「What's with this guy?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Акито",
+   "text": "「«Замбот 3».\n　Каппэй.」",
+   "orig": "Akito\n「Zambot 3.\n　Kappei.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Каппэй",
+   "text": "「Гр-р, у-ух!」",
+   "orig": "Kappei\n「Unnh, unhh.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Утюта",
+   "text": "「Бесполезно, Каппэй!\n　Надо отступать!」",
+   "orig": "Uchuta\n「It's no use, Kappei!\n　We've gotta retreat!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Кэйко",
+   "text": "「Действие $kwbОбучения во сне$kwe\n　выдохлось ещё в прошлом бою!」",
+   "orig": "Keiko\n「You lost the effect of the $kwbSleep Learning$kwe\n　in the last fight!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Каппэй",
+   "text": "「Знаю! И всё равно!」",
+   "orig": "Kappei\n「I know! But still!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Теневая армия",
+   "text": "「Кто мешает — не щадить!\n　Уничтожить всех!」",
+   "orig": "Shadow Army\n「Don't go easy on anyone who interferes!\n　Destroy them all!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Каппэй",
+   "text": "「А-а-а-а-а-а!」",
+   "orig": "Kappei\n「Arrrrgggghhhh!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Акито",
+   "text": "「Отходи, Каппэй!」",
+   "orig": "Akito\n「Fall back, Kappei!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Каппэй",
+   "text": "「Но я должен спасти Акито!」",
+   "orig": "Kappei\n「But I've gotta save Akito!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Акито",
+   "text": "「Ты уже достаточно сделал, Каппэй.」",
+   "orig": "Akito\n「You've done enough, Kappei.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Каппэй",
+   "text": "「Что?」",
+   "orig": "Kappei\n「Huh?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Акито",
+   "text": "「Гайзока больше нет, тебе незачем драться.\n　Ты уже достаточно сделал.」",
+   "orig": "Akito\n「You don't need to fight anymore with Gaizok gone.\n　You've done enough.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Каппэй",
+   "text": "「Н-но Акито!\n　А как же ты сам?」",
+   "orig": "Kappei\n「B-but Akito!\n　What about you?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Акито",
+   "text": "「Я буду драться один!」",
+   "orig": "Akito\n「I'll fight on my own!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Каппэй",
+   "text": "「Нельзя!」",
+   "orig": "Kappei\n「You can't!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Каппэй",
+   "text": "「Это же слишком печально!」",
+   "orig": "Kappei\n「That's just too sad!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Утюта",
+   "text": "「Каппэй!」",
+   "orig": "Uchuta\n「Kappei!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Кэйко",
+   "text": "「Ты чего!」",
+   "orig": "Keiko\n「You!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Каппэй",
+   "text": "「Драться в одиночку!\n　Это же слишком печально!」",
+   "orig": "Kappei\n「Fighting on your own!\n　That's just too sad!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Каппэй",
+   "text": "「Нас, семью Дзин, все ненавидели,\n　и драться пришлось одним,\n　но тебе-то, Акито, все хотят помочь!」",
+   "orig": "Kappei\n「We in the Jin family were hated\n　by everyone and forced to fight alone,\n　but everyone wants to help you, Akito!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Каппэй",
+   "text": "「Потому я и решил!\n　В этот раз я тебя спасу!」",
+   "orig": "Kappei\n「And that's why I've made up my mind!\n　I'm going to save you this time!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Акито",
+   "text": "「Каппэй...」",
+   "orig": "Akito\n「Kappei.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Каппэй",
+   "text": "「Думаешь, мне страшно?」",
+   "orig": "Kappei\n「You think I'm scared?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Каппэй",
+   "text": "「Если это избавит кого-то от той тоски,\n　какую я чувствовал тогда,\n　я вытерплю любую боль и любую муку!」",
+   "orig": "Kappei\n「If it means sparing someone's\n　sadness I felt back then,\n　I can endure any pain and anguish!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Акито",
+   "text": "「Хорошо.」",
+   "orig": "Akito\n「OK.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Каппэй",
+   "text": "「Вот и славно!」",
+   "orig": "Kappei\n「Good!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Акито",
+   "text": "「Спасибо, Каппэй!」",
+   "orig": "Akito\n「Thanks, Kappei!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Каппэй",
+   "text": "「Да не за что!\n　Мы же друзья!」",
+   "orig": "Kappei\n「No need to thank me!\n　We're friends after all!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Акито",
+   "text": "「Да.」",
+   "orig": "Akito\n「Yeah.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Джудо",
+   "text": "「Что это за робот?」",
+   "orig": "Judau\n「What's that robot?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Майто",
+   "text": "「Это «Замбот 3».\n　Его вернули в строй ради защиты мира.」",
+   "orig": "Maito\n「That's Zambot 3.\n　It was revived to protect the peace.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Каппэй",
+   "text": "「Спасибо, Майто!\n　И передай Осаке мою благодарность\n　за то, что привёл его в порядок!」",
+   "orig": "Kappei\n「Thanks, Maito!\n　And give my regards to Osaka\n　for fixing it up for me!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Майто",
+   "text": "「«Замбот 3», оставленный нам на хранение,\n　возвращён хозяину.」",
+   "orig": "Maito\n「The entrusted Zambot 3\n　has now been returned.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Рури",
+   "text": "「Каппэй.」",
+   "orig": "Ruri\n「Kappei.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Каппэй",
+   "text": "「И слышать ничего не хочу, Рури.\n　Я решил драться!」",
+   "orig": "Kappei\n「I don't want to hear it, Ruri.\n　I've made up my mind to fight!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Каппэй",
+   "text": "「За друзей, за мир и всех, кто в нём живёт.\n　За погибших деда, бабушку и отца.」",
+   "orig": "Kappei\n「For my friends, the world, and everyone in it.\n　For my deceased grandpa, grandma, and father.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Каппэй",
+   "text": "「Я делаю это ради всех них!」",
+   "orig": "Kappei\n「I'm doing this for all of them!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Утюта",
+   "text": "「Ты точно уверен, Каппэй?」",
+   "orig": "Uchuta\n「Are you sure, Kappei?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Каппэй",
+   "text": "「Простите, что опять вас впутываю,\n　но я на вас двоих рассчитываю!」",
+   "orig": "Kappei\n「I'm sorry to bother you with this,\n　but I'm counting on you two!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Кэйко",
+   "text": "「Да не вопрос!\n　Нам не привыкать!」",
+   "orig": "Keiko\n「No problem!\n　We're used to it!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Рури",
+   "text": "「Похоже, мои тревоги\n　были тебе ни к чему.」",
+   "orig": "Ruri\n「Perhaps my worries were\n　of no concern to you.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Акито",
+   "text": "「Я бы так не сказал.」",
+   "orig": "Akito\n「I wouldn't say that.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Рури",
+   "text": "「Акито...」",
+   "orig": "Ruri\n「Akito.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Теневая армия",
+   "text": "「Кх!\n　«Надэсико» и отряд «Брэйв Экспресс» тоже здесь!」",
+   "orig": "Shadow Army\n「Ngh!\n　Nadesico and Brave Express Corps are here, too!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Майто",
+   "text": "「Роботы сёгуна Мифунэ!\n　Он что, помогает Марсианским преемникам?」",
+   "orig": "Maito\n「Shogun Mifune's robots!\n　Is he helping the Martian Successors?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Тобиа",
+   "text": "「Эта красная машина.\n　От неё давит так, будто там кто-то выдающийся!」",
+   "orig": "Tobia\n「That red mech.\n　I feel the pressure of someone extraordinary!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Хокусин",
+   "text": "「Собираешь числом то, чего не хватает\n　твоему слабому сердцу, Акито Тэнкава?」",
+   "orig": "Hokushin\n「Gathering numbers to make up for your\n　weak heart, Akito Tenkawa?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Акито",
+   "text": "「Говори что хочешь.」",
+   "orig": "Akito\n「Say all you want.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Хокусин",
+   "text": "「Я вырву твоё слабое сердце!\n　И разотру его в кровавую кашу!」",
+   "orig": "Hokushin\n「I'm gonna rip out your weak heart!\n　And smash it into a bloody pulp!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Рури",
+   "text": "「Всем машинам! Сосредоточьте огонь\n　на красной машине командира!」",
+   "orig": "Ruri\n「All units! Focus your attacks\n　on the red enemy commander!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Рёко",
+   "text": "「Принято!\n　Я разгоню его подчинённых!」",
+   "orig": "Ryoko\n「Understood!\n　I'll scatter his subordinates!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Каппэй",
+   "text": "「Вперёд, Акито!」",
+   "orig": "Kappei\n「Let's do this, Akito!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Акито",
+   "text": "「Да!」",
+   "orig": "Akito\n「Yeah!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Харри",
+   "text": "「Уничтожение противника подтверждено.」",
+   "orig": "Harry\n「Enemy destruction confirmed.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Хикару",
+   "text": "「Эта красная машина командира…」",
+   "orig": "Hikaru\n「That red commander mech.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Идзуми",
+   "text": "「Это были не рядовые враги.」",
+   "orig": "Izumi\n「They were not your everyday enemies.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Бича",
+   "text": "「Даже Идзуми заговорила серьёзно.」",
+   "orig": "Beecha\n「Even Izumi is starting to sound serious.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Элль",
+   "text": "「По-настоящему опасный противник.」",
+   "orig": "Elle\n「A truly dangerous opponent.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Акито",
+   "text": "「Мм.」",
+   "orig": "Akito\n「Umm.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Каппэй",
+   "text": "「Это ведь твой враг, Акито?」",
+   "orig": "Kappei\n「That's your enemy, isn't it, Akito?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Акито",
+   "text": "「Это он забрал Юрику.」",
+   "orig": "Akito\n「He's the man who took Yurika.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Рури",
+   "text": "「Акито.」",
+   "orig": "Ruri\n「Akito.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Акито",
+   "text": "「Не против, если я побуду один?」",
+   "orig": "Akito\n「Mind if I have a minute to myself?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Рури",
+   "text": "「Конечно.」",
+   "orig": "Ruri\n「Sure.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Хокусин",
+   "text": "「Похоже, нам стоит быть повнимательнее.」",
+   "orig": "Hokushin\n「Guess we need to improve our recognition.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Акито",
+   "text": "「И куда это ты собрался?」",
+   "orig": "Akito\n「Where do you think you're going?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Хокусин",
+   "text": "「Акито Тэнкава.\n　Жду нашей следующей встречи.」",
+   "orig": "Hokushin\n「Akito Tenkawa.\n　I look forward to next time.」"
+  },
+  {
+   "i": 77,
+   "speaker": "$n",
+   "text": "「Мы победили. Хоть и кое-как.」",
+   "orig": "$n\n「We won. Somehow.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yeah.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hmm.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Рури",
+   "text": "（Значит, всё это время Акито набирал силу,\n　преследуя того человека.）",
+   "orig": "Ruri\n（So Akito's been building strength all this\n　time in the pursuit of that man.）"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Мы победили.\n　Но едва-едва.」",
+   "orig": "$n\n「We won.\n　But by the skin of our teeth.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yeah.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hmm.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Рури",
+   "text": "（Значит, всё это время Акито набирал силу,\n　преследуя того человека.）",
+   "orig": "Ruri\n（So Akito's been building strength all this\n　time in the pursuit of that man.）"
+  },
+  {
+   "i": 85,
+   "speaker": "Хокусин",
+   "text": "「Вот, значит, и всё.」",
+   "orig": "Hokushin\n「So this is it.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Акито",
+   "text": "「Ты не уйдёшь!」",
+   "orig": "Akito\n「You're not getting away!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Хокусин",
+   "text": "「Уйду?\n　С чего бы мне это делать?」",
+   "orig": "Hokushin\n「Get away?\n　Why would I need to do that?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hmm.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Хокусин",
+   "text": "「Акито Тэнкава.\n　Жду нашей следующей встречи.」",
+   "orig": "Hokushin\n「Akito Tenkawa.\n　I look forward to next time.」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Мы вернулись целыми и невредимыми.」",
+   "orig": "$n\n「We made it back in one piece.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yeah.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hmm.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Рури",
+   "text": "（Значит, всё это время Акито набирал силу,\n　преследуя того человека.）",
+   "orig": "Ruri\n（So Akito's been building strength all this\n　time in the pursuit of that man.）"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Ещё немного в том же духе —\n　и мы бы крепко влипли.」",
+   "orig": "$n\n「Much more of that,\n　and we would have been in serious trouble.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yeah.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hmm.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Рури",
+   "text": "（Значит, всё это время Акито набирал силу,\n　преследуя того человека.）",
+   "orig": "Ruri\n（So Akito's been building strength all this\n　time in the pursuit of that man.）"
+  },
+  {
+   "i": 98,
+   "speaker": "Хокусин",
+   "text": "「Как бы ни была сильна твоя машина,\n　сколько бы ты ни тренировался,\n　твоим сердцем будут править ужас и отчаяние.」",
+   "orig": "Hokushin\n「No matter how strong your mech,\n　No matter how much you train,\n　Your heart will be ruled by dread and despair.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Акито",
+   "text": "「И что в этом плохого?」",
+   "orig": "Akito\n「And what's wrong with that?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хокусин",
+   "text": "「Хмф.」",
+   "orig": "Hokushin\n「Hmph.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Акито",
+   "text": "「Я преодолею всё это!\n　Даже твою тьму!」",
+   "orig": "Akito\n「I'll overcome all of it!\n　Even your darkness!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Хокусин",
+   "text": "「Тот, кто покорился страху, не выживет.\n　А теперь умри!」",
+   "orig": "Hokushin\n「He who succumbs to fear cannot survive.\n　Now die!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Каппэй",
+   "text": "「Замолчи!\n　Думаешь, я стерплю, что кто-то вроде тебя\n　будет распоряжаться моей жизнью?」",
+   "orig": "Kappei\n「Shut up!\n　Do you expect me to put up with\n　you trying to dictate my life?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Каппэй",
+   "text": "「Дед, бабушка, отец и многие другие\n　отдали свои жизни, чтобы спасти мою!」",
+   "orig": "Kappei\n「My grandpa, grandma, father, and a number\n　of others gave their lives to save mine!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Каппэй",
+   "text": "「Вот почему я сражаюсь!\n　Нельзя позволить тебе делать что вздумается!」",
+   "orig": "Kappei\n「And that's why I fight!\n　You can't be allowed to have your way!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Тобиа",
+   "text": "「Ну и давит же от этого типа!\n　Будто бездонная трясина!」",
+   "orig": "Tobia\n「Look at the pressure from this guy!\n　It's like a bottomless swamp!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Хокусин",
+   "text": "「Значит, ты почувствовал мою тьму.\n　Недурно.」",
+   "orig": "Hokushin\n「So you've felt my darkness.\n　Not bad.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Хокусин",
+   "text": "「Посмотрим, долго ли ты продержишься!」",
+   "orig": "Hokushin\n「Let's see how long you're able to resist!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Тобиа",
+   "text": "「Думаешь, я дам себя убить тому,\n　кого так забавляют чужие смерти?」",
+   "orig": "Tobia\n「You really think I'll let myself die at the hands\n　of someone so amused by murdering others?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Джудо",
+   "text": "「Хватит всё портить!」",
+   "orig": "Judau\n「Stop trying to spoil everything!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Хокусин",
+   "text": "「Но в этом и есть суть моей тьмы.\n　Кого она поглотит, тот обречён умереть.」",
+   "orig": "Hokushin\n「But that's the essence of my darkness.\n　Those consumed by it are doomed to die.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Джудо",
+   "text": "「Только не при мне!\n　У меня ещё куча дел впереди!」",
+   "orig": "Judau\n「Not on my watch!\n　I've got a ton of stuff left to do!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Джудо",
+   "text": "「И первое из них — защитить этот мир\n　от таких, как ты!」",
+   "orig": "Judau\n「And first and foremost is to protect\n　the world from the likes of you!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Хатауэй",
+   "text": "「Этот тип не похож ни на одного врага до него!」",
+   "orig": "Hathaway\n「This man is unlike any enemy we've faced!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Хокусин",
+   "text": "「Если ты чувствуешь мою тьму,\n　тебе следует покориться страху перед ней!」",
+   "orig": "Hokushin\n「If you can feel my darkness,\n　you should succumb to your fear of it!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Хатауэй",
+   "text": "「Миру не нужны те, кто, как ты,\n　существует лишь ради убийства!」",
+   "orig": "Hathaway\n「The world doesn't need anyone who\n　exists only to kill people like you do!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Хатауэй",
+   "text": "「Я избавлю мир от твоей тьмы!\n　До последней капли!」",
+   "orig": "Hathaway\n「I'll rid the world of your darkness!\n　Every last bit of it!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Хокусин",
+   "text": "「Ты отыграл в героя, Майто Сэмпудзи.」",
+   "orig": "Hokushin\n「You're done playing hero, Maito Senpuji.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Майто",
+   "text": "「Смотрю, ты неплохо подготовился ко встрече!」",
+   "orig": "Maito\n「Looks like you've done your homework on me!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Хокусин",
+   "text": "「Все твои активы будут обращены в деньги\n　на нужды Марсианских преемников.」",
+   "orig": "Hokushin\n「All of your assets will be liquidated to fund\n　the actions of the Martian Successors.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Майто",
+   "text": "「Чёрта с два!」",
+   "orig": "Maito\n「Like hell they will!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Майто",
+   "text": "「Мои активы и активы моих компаний\n　служат только одному — защите этого мира!」",
+   "orig": "Maito\n「My assets and those of my companies\n　are only to be used to protect this world!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Майто",
+   "text": "「Иначе говоря, они пойдут на то,\n　чтобы сражаться с такими, как ты!」",
+   "orig": "Maito\n「In other words, they are to be\n　used to fight the likes of you!」"
+  },
+  {
+   "i": 124,
+   "speaker": "$n",
+   "text": "「Босс ещё тупее своих подручных!」",
+   "orig": "$n\n「The boss is duller than his henchmen!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Хокусин",
+   "text": "「Можешь сколько угодно гнать страх прочь.\n　Спасения нет.」",
+   "orig": "Hokushin\n「Try the shake the fear all you want.\n　There is no escape.」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「К сожалению для тебя, смерть меня недолюбливает.」",
+   "orig": "$n\n「Unfortunately, the death god is not fond of me.」"
+  },
+  {
+   "i": 127,
+   "speaker": "$n",
+   "text": "「Я не собираюсь встречаться со всеми ними\n　сразу после того, как побывал у их могил!\n　Сегодня я не умру!」",
+   "orig": "$n\n「I'm not about to face them all\n　so soon after visiting their graves!\n　This is not the day I die!」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「Так это ты похищаешь джамперов класса А!」",
+   "orig": "$n\n「So you're the criminal abducting Class-A Jumpers!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Хокусин",
+   "text": "「Мы делаем это во имя нового порядка.」",
+   "orig": "Hokushin\n「We do it in the service of the new order.」"
+  },
+  {
+   "i": 130,
+   "speaker": "$n",
+   "text": "「Твоя безумная логика на меня не подействует!\n　Я никогда не прощу тебе содеянного!」",
+   "orig": "$n\n「Your insane logic isn't gonna work on me!\n　I'll never forgive you for what you've done!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Хокусин",
+   "text": "「Девочка.\n　Одной лишь силой меня не одолеть.」",
+   "orig": "Hokushin\n「Girl.\n　You cannot beat me with might alone.」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Не попробую — не узнаю!」",
+   "orig": "$n\n「I won't know unless I try!」"
+  },
+  {
+   "i": 133,
+   "speaker": "$n",
+   "text": "「Я не позволю твоей тьме поглотить меня!」",
+   "orig": "$n\n「I refuse to let your darkness consume me!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Майто",
+   "text": "（Кэтрин Вюиттон, Хой Коу Лоу,\n　сёгун Мифунэ и Вольфганг.\n　Их наняли Марсианские преемники?）",
+   "orig": "Maito\n（Catherine Vuitton, Hoi Kow Lou\n　Shogun Mifune, and Wolfgang.\n　Did the Martian Successors hire them?）"
+  },
+  {
+   "i": 135,
+   "speaker": "Майто",
+   "text": "（Или за этим стоит кто-то ещё,\n　кто лишь помогает Марсианским преемникам?）",
+   "orig": "Maito\n（Or is this the doing of someone else\n　who is only helping the Martian Successors?）"
+  },
+  {
+   "i": 136,
+   "speaker": "Каппэй",
+   "text": "「Утюта! Кэйко!\n　Давно не практиковались, но соберитесь!」",
+   "orig": "Kappei\n「Uchuta! Keiko!\n　I know it's been a while, but hang in there!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Утюта",
+   "text": "「И это тот самый, кто только что трясся?」",
+   "orig": "Uchuta\n「Is this the same guy who was trembling earlier?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Кэйко",
+   "text": "「Да пусть его, скажу я.\n　Такой Каппэй мне нравится больше.」",
+   "orig": "Keiko\n「Just go with it, I say.\n　I like this Kappei better anyway.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Каппэй",
+   "text": "「Мне тоже!\n　И я не собираюсь проигрывать злу\n　ни сейчас, ни когда-либо ещё!」",
+   "orig": "Kappei\n「As do I!\n　And I'm not about to lose\n　to evil now or ever!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Каппэй",
+   "text": "「Дед! Бабушка! Отец! Я справлюсь!\n　«Замбот 3» сражается за мир!」",
+   "orig": "Kappei\n「Grandpa! Grandma! Father! I've got this!\n　Zambot 3 is here to fight for peace!」"
+  },
+  {
+   "i": 141,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

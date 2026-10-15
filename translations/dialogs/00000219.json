@@ -1,0 +1,1354 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Тэцуя",
+   "text": "「Салли!\n　Ещё один взрыв!」",
+   "orig": "Tetsuya\n「Sally!\n　Another explosion!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Салли",
+   "text": "「Д-да.」",
+   "orig": "Sally\n「Y-yeah.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Горожанин",
+   "text": "「Похоже, во время дорожных работ\n　повредили силовой кабель,\n　и теперь оттуда бьёт пламя.」",
+   "orig": "Civilian\n「It seems that a power cable\n　damaged during road construction\n　has been spewing fire.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Горожанин",
+   "text": "「Тогда и этому зданию грозит опасность!」",
+   "orig": "Civilian\n「Then this building is also in danger!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Горожанин",
+   "text": "「Но если выбираться неосторожно,\n　нас может накрыть взрывом.」",
+   "orig": "Civilian\n「But if we don't evacuate carefully,\n　we might be caught in the explosion.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Тэцуя",
+   "text": "「Что будем делать?」",
+   "orig": "Tetsuya\n「What are we going to do?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Салли",
+   "text": "「Всё в порядке, Тэцуя.\n　Смотри.」",
+   "orig": "Sally\n「It's OK, Tetsuya.\n　Look.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Майто",
+   "text": "「Гард Дайвер!\n　Туши огонь!」",
+   "orig": "Maito\n「Guard Diver!\n　Extinguish that fire!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Гард Дайвер",
+   "text": "「Понял.」",
+   "orig": "Guard Diver\n「Understood.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Майто",
+   "text": "「Гайн! А ты спасай всех,\n　кто ещё заперт в здании!」",
+   "orig": "Maito\n「Gaine! You save everyone who's\n　still stuck in the building!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Гайн",
+   "text": "「Постой, Майто!\n　Что-то приближается!」",
+   "orig": "Gaine\n「Wait, Maito!\n　Something is coming!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Майто",
+   "text": "「Вон там!」",
+   "orig": "Maito\n「There!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Майто",
+   "text": "「Гайн! Только чёрный!」",
+   "orig": "Maito\n「Gaine! But black!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Блэк Гайн",
+   "text": "「Моё имя — Блэк Гайн!\n　Сильнейший из всех воинов!」",
+   "orig": "Black Gaine\n「My name is Black Gaine!\n　The strongest of all warriors!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Майто",
+   "text": "「Он заговорил!\n　Он что, говорит сам по себе?」",
+   "orig": "Maito\n「It spoke!\n　Is it speaking on its own?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Гайн",
+   "text": "「Неужели у него такой же Супер-ИИ, как у меня?」",
+   "orig": "Gaine\n「Does it have the same Super AI that I have?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Удивлён, «Майтгайн»?\n　Это моё тайное оружие!」",
+   "orig": "Hoi Kow Lou\n「Surprised, Mightgaine?\n　This is my secret weapon!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Давай, Блэк Гайн!\n　Покажи им, на что ты способен!」",
+   "orig": "Hoi Kow Lou\n「All right, Black Gaine!\n　Show 'em what you can do!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Салли",
+   "text": "「А-а-а!」",
+   "orig": "Sally\n「Gyahhh!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Гард Дайвер",
+   "text": "「Майто!\n　Если так пойдёт, огонь перекинется дальше!」",
+   "orig": "Guard Diver\n「Maito!\n　If this keeps up, the fire will spread! 」"
+  },
+  {
+   "i": 20,
+   "speaker": "Майто",
+   "text": "「Гайн!\n　Блэк Гайна оставь мне!\n　Ты держи то здание!」",
+   "orig": "Maito\n「Gaine!\n　Leave Black Gaine to me!\n　You have to support that building!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Гайн",
+   "text": "「Понял!」",
+   "orig": "Gaine\n「Understood!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Майто",
+   "text": "「Что?」",
+   "orig": "Maito\n「Huh?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Блэк Гайн",
+   "text": "「Эту сторону оставь мне, Гайн!\n　Держи другую!」",
+   "orig": "Black Gaine\n「Leave this side to me, Gaine!\n　You support the other side!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Гайн",
+   "text": "「Л-ладно.」",
+   "orig": "Gaine\n「O-OK.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Майто",
+   "text": "「А? Чего?」",
+   "orig": "Maito\n「Huh? What?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Что ты творишь, Блэк Гайн?\n　Ты воин зла!\n　Кончай уже с Гайном!」",
+   "orig": "Hoi Kow Lou\n「What are you doing, Black Gaine?\n　You're a warrior of evil!\n　Do away with Gaine already!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Блэк Гайн",
+   "text": "「Да ты шутишь!\n　Я воин справедливости!」",
+   "orig": "Black Gaine\n「You've gotta be kidding!\n　I'm a just warrior!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ты кто-кто?!」",
+   "orig": "Hoi Kow Lou\n「You're a what?!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Чинджа",
+   "text": "「Господин Хой Коу Лоу.\n　Возможно, мы скопировали вообще всё,\n　включая чувство справедливости «Майтгайна».」",
+   "orig": "Chinja\n「Master Hoi Kow Lou.\n　It's possible that we copied everything,\n　including Mightgaine's sense of justice.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Майто",
+   "text": "「Похоже, твой план обернулся против тебя,\n　Хой Коу Лоу!」",
+   "orig": "Maito\n「Looks like your plan backfired, Hoi Kow Lou!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Т-ты!\n　Это ещё далеко не конец!」",
+   "orig": "Hoi Kow Lou\n「Y-you!\n　This is far from over!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Гайн",
+   "text": "「Он скрылся.」",
+   "orig": "Gaine\n「He's gone.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Блэк Гайн",
+   "text": "「Теперь нам ничто не мешает!\n　Спасай их всех, Гайн!」",
+   "orig": "Black Gaine\n「Now nothing stands in our way!\n　Rescue them all, Gaine!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Гайн",
+   "text": "「Уже иду!」",
+   "orig": "Gaine\n「I'm on it!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Майто",
+   "text": "「Удачи, Гайн!\n　И тебе, Блэк Гайн!」",
+   "orig": "Maito\n「Good luck, Gaine!\n　And to you, Black Gaine!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Хе-хе!\n　Вот и ты, «Майтгайн».\n　И Блэк Гайна с собой прихватил, я вижу.」",
+   "orig": "Hoi Kow Lou\n「Hehe!\n　There you are, Mightgaine.\n　You brought Black Gaine, I see.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Скоро всему этому придёт конец.」",
+   "orig": "Hoi Kow Lou\n「This will all be over soon.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Майто",
+   "text": "「Довольно, Хой Коу Лоу!」",
+   "orig": "Maito\n「That's enough, Hoi Kow Lou!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Блэк Гайн",
+   "text": "「Корпус «Брэйв Экспресс» прибыл!」",
+   "orig": "Black Gaine\n「The Brave Express Corps is here!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Вот наш шанс!\n　Летят на огонь, как мотыльки!」",
+   "orig": "Hoi Kow Lou\n「This is our chance!\n　They're like moths flying into the flames!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Чинджа",
+   "text": "「Блэк-контроллер! Пуск!」",
+   "orig": "Chinja\n「Black Controller! Fire!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Майтгайн",
+   "text": "「Блэк!」",
+   "orig": "Mightgaine\n「Black!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Блэк Гайн",
+   "text": "「А-а-а-а!」",
+   "orig": "Black Gaine\n「Arrrggghhhh!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Гард Дайвер",
+   "text": "「Что это за маска?」",
+   "orig": "Guard Diver\n「What's that mask?」"
+  },
+  {
+   "i": 45,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Хе-хе!\n　Это контроллер, созданный, чтобы вернуть\n　власть над Супер-ИИ Блэк Гайна.」",
+   "orig": "Hoi Kow Lou\n「Hehe!\n　It's a controller created to retake\n　control of Black Gaine's Super AI.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Майто",
+   "text": "「Что?!」",
+   "orig": "Maito\n「What?!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Вот так, мой милый принц!\n　Иди к папочке!」",
+   "orig": "Hoi Kow Lou\n「All right, sweet prince!\n　Come to papa!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Блэк Гайн",
+   "text": "「Принято!」",
+   "orig": "Black Gaine\n「Roger that!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ха-ха-ха-ха!\n　Наконец-то явится настоящий Блэк Гайн!」",
+   "orig": "Hoi Kow Lou\n「Hahahaha!\n　The real Black Gaine will finally emerge!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Ал",
+   "text": "「Блэк!」",
+   "orig": "Al\n「Black!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Найн",
+   "text": "「Вернись к нам, Блэк!」",
+   "orig": "Nine\n「Come back to us, Black!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Чинджа",
+   "text": "「Бесполезно!\n　Эта маска полностью подчиняет его себе!」",
+   "orig": "Chinja\n「It's no use!\n　That mask exerts total control over him!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Блэк Гайн переродился\n　как воин зла!」",
+   "orig": "Hoi Kow Lou\n「Black Gaine has been reborn\n　as a warrior of evil!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Майтгайн",
+   "text": "「Блэк!」",
+   "orig": "Mightgaine\n「Black!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Чинджа",
+   "text": "「Давайте покончим с ними, господин Хой Коу Лоу!」",
+   "orig": "Chinja\n「Let's finish this, Master Hoi Kow Lou!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Да!\n　Вперёд, Чёрный Майтгайн!」",
+   "orig": "Hoi Kow Lou\n「Yes!\n　Let's go, Black Mightgaine!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Объединение!\n　Чёрный Майтгайн!」",
+   "orig": "Hoi Kow Lou\n「Combine!\n　Black Mightgaine!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Майто",
+   "text": "「Чёрный Майтгайн!」",
+   "orig": "Maito\n「Black Mightgaine!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Смерть летит на чёрных крыльях\n　и зажигает надежде красный свет!」",
+   "orig": "Hoi Kow Lou\n「Murder swoops on wings of black,\n　giving all hope a red light!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Чинджа",
+   "text": "「Злой экспресс «Чёрный Майтгайн»\n　прибывает, и плевать он хотел на расписание!」",
+   "orig": "Chinja\n「The Evil Express Black Mightgaine,\n　arriving now with no care for your schedule!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Вперёд, Чёрный Майтгайн!\n　Покажи им всю свою мощь!」",
+   "orig": "Hoi Kow Lou\n「Go forth, Black Mightgaine!\n　Show them the extent of your powers!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Есть!」",
+   "orig": "Black Mightgaine\n「OK!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тэцуя",
+   "text": "「Этот злодей что, сидит у него в голове?」",
+   "orig": "Tetsuya\n「Is that villain riding in his head?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Каппэй",
+   "text": "「Что будем делать, Майто?」",
+   "orig": "Kappei\n「What are we going to do, Maito?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Анж",
+   "text": "「Мы что, будем драться с Чёрным?」",
+   "orig": "Ange\n「Are we gonna fight Black?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Майто",
+   "text": "「У нас нет выбора...」",
+   "orig": "Maito\n「We have no choice...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Вивиан",
+   "text": "「Но мы не можем!」",
+   "orig": "Vivian\n「But we can't!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Майто",
+   "text": "「Если мы не остановим Чёрного,\n　он не оставит от Нубель Токио Сити камня на камне.」",
+   "orig": "Maito\n「If we don't do something about Black,\n　he'll leave Nubel Tokio City in shambles.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Бандзё",
+   "text": "「Понял тебя, Майто.」",
+   "orig": "Banjo\n「Understood, Maito.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Кира",
+   "text": "「Но мы не вправе ставить на нём крест.」",
+   "orig": "Kira\n「But we can't give up on him.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Джудо",
+   "text": "「Попробуем сковать Чёрного в движении!\n　Это наш лучший шанс!」",
+   "orig": "Judau\n「Try to stop Black's movements!\n　That might be our best chance!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Майто",
+   "text": "「Ребята...」",
+   "orig": "Maito\n「Everyone...」"
+  },
+  {
+   "i": 73,
+   "speaker": "$n",
+   "text": "「Герои ведь никогда не теряют надежду, верно?」",
+   "orig": "$n\n「Heroes never give up on hope, right?」"
+  },
+  {
+   "i": 74,
+   "speaker": "Синн",
+   "text": "「Пока есть хоть капля надежды,\n　мы найдём выход из этого!」",
+   "orig": "Shinn\n「As long as there is still hope,\n　we can find a way out of this!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Соскэ",
+   "text": "「Будем драться до конца.\n　Это долг каждого, кто вышел в бой.」",
+   "orig": "Sousuke\n「We'll do our best to the end.\n　That's the duty of all who fight.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Майто",
+   "text": "「Да!」",
+   "orig": "Maito\n「Yes!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Начнём, Майтгайн!\n　Уничтожить тебя — моя работа!」",
+   "orig": "Black Mightgaine\n「Here we go, Mightgaine!\n　It's my job to destroy you!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Майтгайн",
+   "text": "「Чёрный!\n　Вернуть тебя — моя работа!」",
+   "orig": "Mightgaine\n「Black!\n　It's my job to get you back!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Майто",
+   "text": "「Чёрный Майтгайн!」",
+   "orig": "Maito\n「Black Mightgaine!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Смерть летит на чёрных крыльях\n　и зажигает надежде красный свет!」",
+   "orig": "Hoi Kow Lou\n「Murder swoops on wings of black,\n　giving all hope a red light!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Чинджа",
+   "text": "「Злой экспресс «Чёрный Майтгайн»\n　прибывает, и плевать он хотел на расписание!」",
+   "orig": "Chinja\n「The Evil Express Black Mightgaine,\n　arriving now with no care for your schedule!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Вперёд, Чёрный Майтгайн!\n　Покажи им всю свою мощь!」",
+   "orig": "Hoi Kow Lou\n「Go forth, Black Mightgaine!\n　Show them the extent of your powers!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Есть!」",
+   "orig": "Black Mightgaine\n「OK!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Тэцуя",
+   "text": "「Этот злодей что, сидит у него в голове?」",
+   "orig": "Tetsuya\n「Is that villain riding in his head?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Каппэй",
+   "text": "「Что будем делать, Майто?」",
+   "orig": "Kappei\n「What are we going to do, Maito?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Анж",
+   "text": "「Мы что, будем драться с Чёрным?」",
+   "orig": "Ange\n「Are we gonna fight Black?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Майто",
+   "text": "「У нас нет выбора.」",
+   "orig": "Maito\n「We have no choice.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Вивиан",
+   "text": "「Но мы не можем!」",
+   "orig": "Vivian\n「But we can't!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Майто",
+   "text": "「Если мы не остановим Чёрного,\n　он не оставит от Нубель Токио Сити камня на камне.」",
+   "orig": "Maito\n「If we don't do something about Black,\n　he'll leave Nubel Tokio City in shambles.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Бандзё",
+   "text": "「Понял тебя, Майто.」",
+   "orig": "Banjo\n「Understood, Maito.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Кира",
+   "text": "「Но мы не вправе ставить на нём крест.」",
+   "orig": "Kira\n「But we can't give up on him.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Джудо",
+   "text": "「Попробуем сковать Чёрного в движении!\n　Это наш лучший шанс!」",
+   "orig": "Judau\n「Try to stop Black's movements!\n　That might be our best chance!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Майто",
+   "text": "「Ребята...」",
+   "orig": "Maito\n「Everyone...」"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Герои ведь никогда не теряют надежду, верно?」",
+   "orig": "$n\n「Heroes never give up on hope, right?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Синн",
+   "text": "「Пока есть хоть капля надежды,\n　мы найдём выход из этого!」",
+   "orig": "Shinn\n「As long as there is still hope,\n　we can find a way out of this!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Соскэ",
+   "text": "「Будем драться до конца.\n　Это долг каждого, кто вышел в бой.」",
+   "orig": "Sousuke\n「We'll do our best to the end.\n　That's the duty of all who fight.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Майто",
+   "text": "「Да!」",
+   "orig": "Maito\n「Yes!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Начнём, Майтгайн!\n　Уничтожить тебя — моя работа!」",
+   "orig": "Black Mightgaine\n「Here we go, Mightgaine!\n　It's my job to destroy you!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Майтгайн",
+   "text": "「Чёрный!\n　Вернуть тебя — моя работа!」",
+   "orig": "Mightgaine\n「Black!\n　It's my job to get you back!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хатауэй",
+   "text": "「У нас получилось!」",
+   "orig": "Hathaway\n「We did it!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Тобиа",
+   "text": "「Мы остановили Чёрного!」",
+   "orig": "Tobia\n「We stopped Black!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Вы и правда так думаете?」",
+   "orig": "Hoi Kow Lou\n「You really think so?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Чинджа",
+   "text": "「Встать, Чёрный Майтгайн!\n　Этот бой ещё не окончен!」",
+   "orig": "Chinja\n「Stand, Black Mightgaine!\n　This fight isn't over!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Есть!」",
+   "orig": "Black Mightgaine\n「OK!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Каппэй",
+   "text": "「Он всё ещё может двигаться?」",
+   "orig": "Kappei\n「It can still move?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Атрун",
+   "text": "「Нет!\n　Его тело уже за пределом,\n　его заставляют двигаться против воли!」",
+   "orig": "Athrun\n「No!\n　Its body has been pushed past its limit\n　and is being moved against its will!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Лунамария",
+   "text": "「Да как они смеют!」",
+   "orig": "Lunamaria\n「How dare they!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Чинджа",
+   "text": "「Ну, похоже, сейчас он рванёт.」",
+   "orig": "Chinja\n「Well, I guess he's gonna blow.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Надо убираться отсюда, пока не поздно!」",
+   "orig": "Hoi Kow Lou\n「We've gotta get out of here before he does!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Локон",
+   "text": "「О нет!\n　Нельзя, чтобы взрыв накрыл город!」",
+   "orig": "Lockon\n「Oh no!\n　We can't let the explosion hit the city!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Майто",
+   "text": "「Хм...」",
+   "orig": "Maito\n「Hmm...」"
+  },
+  {
+   "i": 112,
+   "speaker": "Джудо",
+   "text": "「Майто?」",
+   "orig": "Judau\n「Maito?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Анж",
+   "text": "「Ты это что, серьёзно?..」",
+   "orig": "Ange\n「You can't be serious...」"
+  },
+  {
+   "i": 114,
+   "speaker": "Майто",
+   "text": "「Другого пути нет.」",
+   "orig": "Maito\n「It's the only way.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Майтгайн!\n　Ты будто сам пришёл умирать!」",
+   "orig": "Hoi Kow Lou\n「Mightgaine!\n　It's like you came here to die!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Майто",
+   "text": "「Я не умру!\n　И город я тоже защищу!」",
+   "orig": "Maito\n「I will not die!\n　And I will keep this city safe!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Тобиа",
+   "text": "「Майто! Нельзя!」",
+   "orig": "Tobia\n「Maito! You can't!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Каппэй",
+   "text": "「Другого пути нет.」",
+   "orig": "Kappei\n「It's the only way.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Тэцуя",
+   "text": "「Майто.\n　Ты готов поставить на кон всё?」",
+   "orig": "Tetsuya\n「Maito.\n　Are you ready to put it all on the line?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Майто",
+   "text": "「Тэцуя...」",
+   "orig": "Maito\n「Tetsuya...」"
+  },
+  {
+   "i": 121,
+   "speaker": "Тэцуя",
+   "text": "「Если Чёрным Майтгайном управляют\n　через устройство у него на голове,\n　то приёмник должен быть у основания шеи.」",
+   "orig": "Tetsuya\n「If Black Mightgaine is being\n　controlled by the device on its head,\n　the transmitter must be on the back of its neck.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Майто",
+   "text": "「Значит, устроен так же, как Грейт Мазингер!」",
+   "orig": "Maito\n「So it's the same build as Great Mazinger!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Элль",
+   "text": "「Значит, если ударить туда,\n　Чёрный Майтгайн, возможно, перестанет\n　слышать их команды!」",
+   "orig": "Elle\n「So if we attack there,\n　we might be able to stop Black Mightgaine\n　from hearing the commands!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Бича",
+   "text": "「Отлично, Майто!\n　Так и сделаем!」",
+   "orig": "Beecha\n「All right, Maito!\n　Let's do this!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Тэцуя",
+   "text": "「Сказать проще, чем сделать.」",
+   "orig": "Tetsuya\n「Easier said than done.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Бандзё",
+   "text": "「Пробиться сквозь защиту и ударить по шее.\n　Вот только неизвестно, слабое ли это место.」",
+   "orig": "Banjo\n「Slip through the enemy's defenses and hit the neck.\n　That said, there's no telling if that's his weakness.」"
+  },
+  {
+   "i": 127,
+   "speaker": "$n",
+   "text": "「И рвануть он может в любой момент.」",
+   "orig": "$n\n「And he could explode at any moment.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Майто",
+   "text": "「Мы обязаны попробовать!」",
+   "orig": "Maito\n「We have to try!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Майтгайн!\n　Ты будто сам пришёл умирать!」",
+   "orig": "Hoi Kow Lou\n「Mightgaine!\n　It's like you came here to die!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Майто",
+   "text": "「Я не умру!\n　И город я тоже защищу!」",
+   "orig": "Maito\n「I will not die!\n　And I will keep this city safe!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Тобиа",
+   "text": "「Майто! Нельзя!」",
+   "orig": "Tobia\n「Maito! You can't!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Каппэй",
+   "text": "「Другого пути нет.」",
+   "orig": "Kappei\n「It's the only way.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Тэцуя",
+   "text": "「Майто.\n　Ты готов поставить на кон всё?」",
+   "orig": "Tetsuya\n「Maito.\n　Are you ready to put it all on the line?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Майто",
+   "text": "「Тэцуя...」",
+   "orig": "Maito\n「Tetsuya...」"
+  },
+  {
+   "i": 135,
+   "speaker": "Тэцуя",
+   "text": "「Если Чёрным Майтгайном управляют\n　через устройство у него на голове,\n　то приёмник должен быть у основания шеи.」",
+   "orig": "Tetsuya\n「If Black Mightgaine is being\n　controlled by the device on its head,\n　the transmitter must be on the back of its neck.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Майто",
+   "text": "「Значит, устроен так же, как Грейт Мазингер!」",
+   "orig": "Maito\n「So it's the same build as Great Mazinger!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Элль",
+   "text": "「Значит, если ударить туда,\n　Чёрный Майтгайн, возможно, перестанет\n　слышать их команды!」",
+   "orig": "Elle\n「So if we attack there,\n　we might be able to stop Black Mightgaine\n　from hearing the commands!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Бича",
+   "text": "「Отлично, Майто!\n　Так и сделаем!」",
+   "orig": "Beecha\n「All right, Maito!\n　Let's do this!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Тэцуя",
+   "text": "「Сказать проще, чем сделать.」",
+   "orig": "Tetsuya\n「Easier said than done.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Бандзё",
+   "text": "「Пробиться сквозь защиту и ударить по шее.\n　Вот только неизвестно, слабое ли это место.」",
+   "orig": "Banjo\n「Slip through the enemy's defenses and hit the neck.\n　That said, there's no telling if that's his weakness.」"
+  },
+  {
+   "i": 141,
+   "speaker": "$n",
+   "text": "「И рвануть он может в любой момент.」",
+   "orig": "$n\n「And he could explode at any moment.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Майто",
+   "text": "「Мы обязаны попробовать!」",
+   "orig": "Maito\n「We have to try!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Майто",
+   "text": "「Я спасу и город, и Чёрного!\n　Это моя работа!」",
+   "orig": "Maito\n「I'll save the city and Black!\n　That's my job!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Майтгайн",
+   "text": "「Майто!」",
+   "orig": "Mightgaine\n「Maito!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Майто",
+   "text": "「За дело, Гайн!\n　Если выложимся без остатка,\n　мы точно спасём Чёрного!」",
+   "orig": "Maito\n「Let's do this, Gaine!\n　If we pull out all the stops,\n　I'm sure we can save Black!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Майтгайн",
+   "text": "「Есть!」",
+   "orig": "Mightgaine\n「OK!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Чинджа",
+   "text": "「Что там за шум?」",
+   "orig": "Chinja\n「What's all the racket?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Давай, Чёрный Майтгайн!\n　Уничтожь Майтгайна!」",
+   "orig": "Hoi Kow Lou\n「Go to it, Black Mightgaine!\n　Destroy Mightgaine!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Есть!」",
+   "orig": "Black Mightgaine\n「OK!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Соскэ",
+   "text": "「Должен быть способ!\n　Способ хоть на миг остановить его ноги!」",
+   "orig": "Sousuke\n「There's gotta be a way!\n　A way to stop Black's legs for a moment!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Курц",
+   "text": "「Стрелять нельзя!\n　Одно неверное движение —\n　и Чёрный взорвётся!」",
+   "orig": "Kurz\n「We can't use firearms!\n　One false move,\n　and Black is gonna blow!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Салия",
+   "text": "「Хватит и мгновения!\n　Нам нужен лишь шанс достать Чёрного!」",
+   "orig": "Salia\n「Even a moment is OK!\n　We just need a chance at Black!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Я с тобой покончу, Майтгайн!」",
+   "orig": "Black Mightgaine\n「I'm gonna end this, Mightgaine!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Майтгайн",
+   "text": "「Драйв Вил Сорд!」",
+   "orig": "Mightgaine\n「Drive Wheel Sword!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Майто",
+   "text": "「Я иду, Чёрный!」",
+   "orig": "Maito\n「Here I come, Black!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Ал",
+   "text": "「Чёрный!」",
+   "orig": "Al\n「Black!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Найн",
+   "text": "「Карл у Клары украл кораллы!」",
+   "orig": "Nine\n「She sells seashells by the seashore!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「！」",
+   "orig": "Black Mightgaine\n「！」"
+  },
+  {
+   "i": 159,
+   "speaker": "Каппэй",
+   "text": "「Карл у Клары украл кораллы!」",
+   "orig": "Kappei\n「She sells seashells by the seashore!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Джудо",
+   "text": "「Карл у Клары украл кораллы!」",
+   "orig": "Judau\n「She sells seashells by the seashore!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Кира",
+   "text": "「Карл у Клары украл кораллы!」",
+   "orig": "Kira\n「She sells seashells by the seashore!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ч-что?\n　Супер-ИИ перегружен!」",
+   "orig": "Hoi Kow Lou\n「W-what?\n　The Super AI is overloaded!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Майто",
+   "text": "「Сейчас!」",
+   "orig": "Maito\n「Now!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「А?」",
+   "orig": "Black Mightgaine\n「Huh?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Д-двигайся, Чёрный!\n　Почему ты не двигаешься?」",
+   "orig": "Hoi Kow Lou\n「M-move, Black!\n　Why won't you move?」"
+  },
+  {
+   "i": 166,
+   "speaker": "Чинджа",
+   "text": "「Господин Хой Коу Лоу!\n　Передатчик сгорел!\n　Мы потеряли контроль над Чёрным Майтгайном!」",
+   "orig": "Chinja\n「Master Hoi Kow Lou!\n　The transmitter is fried!\n　We've lost control of Black Mightgaine!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Хой Коу Лоу",
+   "text": "「К-кошмар! Уходим!\n　Иначе нам конец!」",
+   "orig": "Hoi Kow Lou\n「O-oh no! Escape!\n　We're doomed if we don't!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Тобиа",
+   "text": "「И куда это вы собрались?」",
+   "orig": "Tobia\n「Where do you think you're going?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Бандзё",
+   "text": "「Все!\n　Цель — тот малый катер!」",
+   "orig": "Banjo\n「Everyone!\n　Target that small craft!」"
+  },
+  {
+   "i": 170,
+   "speaker": "$n",
+   "text": "「Вперёд!」",
+   "orig": "$n\n「Go!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Тобиа",
+   "text": "「И куда это вы собрались?」",
+   "orig": "Tobia\n「Where do you think you're going?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Бандзё",
+   "text": "「Все!\n　Цель — тот малый катер!」",
+   "orig": "Banjo\n「Everyone!\n　Target that small craft!」"
+  },
+  {
+   "i": 173,
+   "speaker": "$n",
+   "text": "「Вперёд!」",
+   "orig": "$n\n「Go!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Хой Коу Лоу",
+   "text": "「А-а-а-а-а-а!」",
+   "orig": "Hoi Kow Lou\n「Eeeeeeeeek!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Чинджа",
+   "text": "「О-отступаем!」",
+   "orig": "Chinja\n「W-withdraw!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Вивиан",
+   "text": "「Они удрали!」",
+   "orig": "Vivian\n「They got away!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Эрша",
+   "text": "「Сейчас важнее Чёрный!」",
+   "orig": "Ersha\n「Black comes first!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Майто",
+   "text": "「Чёрный!」",
+   "orig": "Maito\n「Black!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Майтгайн",
+   "text": "「Ты в порядке, Чёрный?」",
+   "orig": "Mightgaine\n「Are you OK, Black?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Карл у Клары.」",
+   "orig": "Black Mightgaine\n「She sells.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Майто",
+   "text": "「А?」",
+   "orig": "Maito\n「Huh?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Карл у Клары украл—\n　Карл у Клары украл кораллы.」",
+   "orig": "Black Mightgaine\n「She sells seashells—\n　She sells seashells by the seashore.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Мой супер-ИИ работает нормально.」",
+   "orig": "Black Mightgaine\n「My Super AI is operating normally.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Майто",
+   "text": "「Чёрный!」",
+   "orig": "Maito\n「Black!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Тэцуя",
+   "text": "「Дело закрыто.」",
+   "orig": "Tetsuya\n「Case closed.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Бандзё",
+   "text": "「Несгибаемый дух Майто\n　и то, как все любят Чёрного, —\n　вот что принесло нам победу.」",
+   "orig": "Banjo\n「Maito's unwavering spirit,\n　and everyone's love for Black\n　is what made our victory possible.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Майтгайн",
+   "text": "「Пойдём домой, Чёрный.\n　Обратно на базу.」",
+   "orig": "Mightgaine\n「Let's go home, Black.\n　Back to our base.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Майто",
+   "text": "「Чёрный.\n　Теперь ты в отряде Отважного экспресса.」",
+   "orig": "Maito\n「Black.\n　You're in the Brave Express Corps now.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Принято, капитан.」",
+   "orig": "Black Mightgaine\n「Understood, Captain.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Майтгайн",
+   "text": "「Остановись, Чёрный!\n　Мы с тобой — одно целое!\n　Я не могу с тобой драться!」",
+   "orig": "Mightgaine\n「Stop, Black!\n　We are one in the same!\n　I can't fight you!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Я не стану на твою сторону!」",
+   "orig": "Black Mightgaine\n「I refuse to join you!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Майто",
+   "text": "「Дерись, Гайн!\n　Дерись ради меня!」",
+   "orig": "Maito\n「Fight, Gaine!\n　Fight for me!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Майтгайн",
+   "text": "「Бесполезно, Майто.\n　Я не могу.」",
+   "orig": "Mightgaine\n「It's no use, Maito.\n　I can't.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Майто",
+   "text": "「Гайн!\n　Поражение — беда не только наша!」",
+   "orig": "Maito\n「Gaine!\n　Defeat isn't only our problem!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Майто",
+   "text": "「Над этим миром нависло\n　чудовищное зло!」",
+   "orig": "Maito\n「An incredible evil\n　covers this world!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Майтгайн",
+   "text": "「Майто...」",
+   "orig": "Mightgaine\n「Maito...」"
+  },
+  {
+   "i": 197,
+   "speaker": "Майто",
+   "text": "「Поэтому мы и должны драться, Гайн!\n　Драться и не терять надежду!」",
+   "orig": "Maito\n「And that's why we have to fight, Gaine!\n　Fight and not lose hope!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Майтгайн",
+   "text": "「Хорошо, Майто.\n　Я исполню свой долг.」",
+   "orig": "Mightgaine\n「OK, Maito.\n　I'll do my duty.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「Наконец-то ты готов!」",
+   "orig": "Black Mightgaine\n「You're ready at last!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Майтгайн",
+   "text": "「Я иду, Чёрный!\n　Я выйду против тебя как твой брат\n　и как боец отряда Отважного экспресса.」",
+   "orig": "Mightgaine\n「Here I come, Black!\n　I'll fight you as your brother and\n　a part of the Brave Express Corps.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Гард Дайвер",
+   "text": "「Чёрный!\n　Как носитель того же супер-ИИ\n　я обязан тебя остановить!」",
+   "orig": "Guard Diver\n「Black!\n　As a one with the same Super AI,\n　I will not fail to stop you!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Чёрный Майтгайн",
+   "text": "「У спасательного робота против меня нет шансов!」",
+   "orig": "Black Mightgaine\n「No rescue robot stands a chance against me!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Гард Дайвер",
+   "text": "「Я горжусь тем, что я спасательный робот!」",
+   "orig": "Guard Diver\n「I'm proud to be a rescue robot!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Гард Дайвер",
+   "text": "「И сейчас я спасу тебя\n　из лап зла!」",
+   "orig": "Guard Diver\n「And watch as I rescue you\n　from the clutches of evil!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Тэцуя",
+   "text": "（Значит, Чёрным Майтгайном\n　управляют с того катера.）",
+   "orig": "Tetsuya\n（So that small craft is controlling\n　Black Mightgaine.）"
+  },
+  {
+   "i": 206,
+   "speaker": "Тэцуя",
+   "text": "（А что, если это\n　Брейн Кондор Чёрного?）",
+   "orig": "Tetsuya\n（What if that's \n　Black's Brain Condor?）"
+  },
+  {
+   "i": 207,
+   "speaker": "Соскэ",
+   "text": "「Ал,\n　ищи способ спасти Чёрного.\n　Я буду драться один.」",
+   "orig": "Sousuke\n「Al,\n　look for a way to save Black.\n　I'll fight alone.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Ал",
+   "text": "「Вы уверены, сержант?」",
+   "orig": "Al\n「Are you sure, Sir?」"
+  },
+  {
+   "i": 209,
+   "speaker": "Соскэ",
+   "text": "「Я хочу, чтобы вы учились вместе.\n　Хочу, чтобы у вас всех был честный ИИ!」",
+   "orig": "Sousuke\n「I want you to learn together.\n　I want you all to have an honest AI!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Соскэ",
+   "text": "「А этого не будет, если мы его не спасём!」",
+   "orig": "Sousuke\n「That won't happen if we can't rescue him!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Ал",
+   "text": "「Принято.\n　Что именно считать честным ИИ,\n　обсудим позже.」",
+   "orig": "Al\n「Understood.\n　We'll discuss what constitutes\n　an honest AI later.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Найн",
+   "text": "「Хм...」",
+   "orig": "Nine\n「Hmm...」"
+  },
+  {
+   "i": 213,
+   "speaker": "$n",
+   "text": "「Не волнуйся, Найн.\n　Мы вернём тебе\n　твоего парня!」",
+   "orig": "$n\n「Don't worry, Nine.\n　We're gonna get your boyfriend\n　back for you!」"
+  },
+  {
+   "i": 214,
+   "speaker": "$n",
+   "text": "「А ты знай тренируй скороговорки!」",
+   "orig": "$n\n「Just keep practicing those tongue twisters!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Найн",
+   "text": "「Зачем?」",
+   "orig": "Nine\n「Why?」"
+  },
+  {
+   "i": 216,
+   "speaker": "$n",
+   "text": "「Сама знаешь зачем!\n　Чтобы научить его, когда он вернётся!」",
+   "orig": "$n\n「You know why!\n　So you can teach him when he's back!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Найн",
+   "text": "「Хорошо!」",
+   "orig": "Nine\n「OK!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Найн",
+   "text": "「Хм...」",
+   "orig": "Nine\n「Hmm...」"
+  },
+  {
+   "i": 219,
+   "speaker": "$n",
+   "text": "「Всё будет хорошо, Найн!\n　Обещаю!」",
+   "orig": "$n\n「It'll be OK, Nine!\n　I promise!」"
+  },
+  {
+   "i": 220,
+   "speaker": "$n",
+   "text": "「Мы спасём Чёрного!\n　А ты знай тренируй скороговорки!」",
+   "orig": "$n\n「We're going to rescue Black!\n　Just keep practicing those tongue twisters!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Найн",
+   "text": "「Зачем?」",
+   "orig": "Nine\n「Why?」"
+  },
+  {
+   "i": 222,
+   "speaker": "$n",
+   "text": "「Сама знаешь зачем!\n　Будешь учить его,\n　когда он вернётся!」",
+   "orig": "$n\n「You know why!\n　You'll be teaching him\n　when he's back!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Найн",
+   "text": "「Хорошо!」",
+   "orig": "Nine\n「OK!」"
+  },
+  {
+   "i": 224,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

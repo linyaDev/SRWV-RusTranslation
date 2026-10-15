@@ -1,0 +1,3058 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Мостик «Надэсико B»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nadesico B Bridge-"
+  },
+  {
+   "i": 4,
+   "speaker": "Рури",
+   "text": "「К сожалению, базу Марсианских преемников\n　в секторе D обнаружить не удалось.」",
+   "orig": "Ruri\n「Unfortunately, we were unable to locate\n　Martian Successors base in Area D.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Проспектор",
+   "text": "「Ничего. Хорошая работа, капитан Рури.\n　И вам спасибо, господин Сэмпудзи.」",
+   "orig": "Prospector\n「It's OK. Good work, Captain Ruri.\n　You, too, Mr. Senpuji.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Майто",
+   "text": "「Давно не виделись, Проспектор.」",
+   "orig": "Maito\n「Long time no see, Prospector.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Проспектор",
+   "text": "「Наш председатель просил\n　передать вам привет.」",
+   "orig": "Prospector\n「Our chairman wanted me\n　to give you his regards.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Майто",
+   "text": "「Передайте и ему мой.\n　Я всегда многому учусь\n　у Акацуки.」",
+   "orig": "Maito\n「Give mine to him.\n　I always learn so much\n　from Akatsuki.」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "（Так вот он какой, Проспектор.）",
+   "orig": "$n\n（I take it that's the Prospector.）"
+  },
+  {
+   "i": 10,
+   "speaker": "Сабуроута",
+   "text": "（Он работает на «Нергал».\n　Умный человек, приставлен к силам «Надэсико».）",
+   "orig": "Saburouta\n（He's a Nergal employee.\n　A clever man added with the Nadesico force.）"
+  },
+  {
+   "i": 11,
+   "speaker": "Сабуроута",
+   "text": "（Тёмная он лошадка, конечно,\n　но мы хотя бы знаем, что он на нашей стороне.）",
+   "orig": "Saburouta\n（He may be mysterious,\n　but we at least know he's on our side.）"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "（Так вот он какой, Проспектор.）",
+   "orig": "$n\n（I take it that's the Prospector.）"
+  },
+  {
+   "i": 13,
+   "speaker": "Сабуроута",
+   "text": "（Он работает на «Нергал».\n　Умный человек, приставлен к силам «Надэсико».）",
+   "orig": "Saburouta\n（He's a Nergal employee.\n　A clever man added with the Nadesico force.）"
+  },
+  {
+   "i": 14,
+   "speaker": "Сабуроута",
+   "text": "（Тёмная он лошадка, конечно,\n　но мы хотя бы знаем, что он на нашей стороне.）",
+   "orig": "Saburouta\n（He may be mysterious,\n　but we at least know he's on our side.）"
+  },
+  {
+   "i": 15,
+   "speaker": "Рури",
+   "text": "「Теперь о моей просьбе.」",
+   "orig": "Ruri\n「Then there's the matter of my request.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Проспектор",
+   "text": "「О ней не забыли.\n　Мы подобрали боевой персонал\n　и уже везём его к вам.」",
+   "orig": "Prospector\n「That has not been overlooked.\n　We've picked up fighting personnel \n　and are bringing them over.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Проспектор",
+   "text": "「Подробности обсудим,\n　когда они прибудут в Японию.」",
+   "orig": "Prospector\n「We'll discuss it in more detail\n　after they reach Japan.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Рури",
+   "text": "「Большое спасибо.」",
+   "orig": "Ruri\n「Thank you very much.」"
+  },
+  {
+   "i": 22,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Нувель Токио Сити-",
+   "orig": "　\n　\n　　　　　　　　　　-Nouvelle Tokyo City-"
+  },
+  {
+   "i": 23,
+   "speaker": "Харри",
+   "text": "「У-у...」",
+   "orig": "Harry\n「Ugh.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Сабуроута",
+   "text": "「Да не кисни ты, Харри.」",
+   "orig": "Saburouta\n「Cheer up, Harry.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Харри",
+   "text": "「Но ведь—」",
+   "orig": "Harry\n「But—」"
+  },
+  {
+   "i": 26,
+   "speaker": "Рёко",
+   "text": "「Тебе так претит вербовка?」",
+   "orig": "Ryoko\n「Do you really hate recruiting that much?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Харри",
+   "text": "「У нас есть Отряд Брэйв Экспресс,\n　«Селестиал Бин» и чужаки вроде «Мифрила».\n　Разве этого мало?」",
+   "orig": "Harry\n「We've got the Brave Express Corps,\n　Celestial Being, and outsiders like Mithril.\n　Isn't that enough?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Майто",
+   "text": "「Возможно. Но мы до сих пор не знаем,\n　насколько сильны Марсианские преемники.」",
+   "orig": "Maito\n「Perhaps, but the strength of the Martian\n　Successors is still unknown to us.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Рури",
+   "text": "「К тому же у него могут быть\n　союзники, о которых мы не знаем.」",
+   "orig": "Ruri\n「And there's also a chance that he has\n　supporters we don't know about.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Майто",
+   "text": "「Вольфганг, сёгун Мифунэ,\n　Катрин Вюиттон и Хой Коу Лоу — все они\n　наняты, чтобы отвлекать внимание.」",
+   "orig": "Maito\n「Wolfgang, Shogun Mifune,\n　Catherine Vuitton, and Hoi Kow Lou are all\n　among those hired to divert attention.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Сабуроута",
+   "text": "「Вот потому нам и нужно собирать\n　собственные силы им в противовес.\n　Неужели это так трудно понять?」",
+   "orig": "Saburouta\n「And that's why we need to gather\n　forces of our own to oppose them.\n　Is it really that hard to understand?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Харри",
+   "text": "「Я всё прекрасно понимаю.」",
+   "orig": "Harry\n「I understand it perfectly.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Харри",
+   "text": "「Но на «Надэсико» уже есть ты и я.\n　Сколько ещё нам нужно?」",
+   "orig": "Harry\n「But Nadesico already has you and me.\n　How many more do we need?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Сабуроута",
+   "text": "「А не в том ли дело, что тебе не по себе\n　от того, что мы собираем экипаж\n　прежнего «Надэсико»?」",
+   "orig": "Saburouta\n「Could it be that you're uncomfortable\n　gathering the previous generation's\n　Nadesico members?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Харри",
+   "text": "「Н-не говори ерунды!」",
+   "orig": "Harry\n「D-don't be ridiculous!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Сабуроута",
+   "text": "「Такая реакция — лучшее доказательство.」",
+   "orig": "Saburouta\n「That response is all the proof I need.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Рёко",
+   "text": "「Чего?\n　Тебя мои старые друзья не устраивают?」",
+   "orig": "Ryoko\n「Huh?\n　You got a problem with my old friends?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Харри",
+   "text": "「Нет, дело не в этом.」",
+   "orig": "Harry\n「No, it's not that.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Майто",
+   "text": "「Ревнуешь, Харри?」",
+   "orig": "Maito\n「You jealous, Harry?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Сабуроута",
+   "text": "「Ясно.\n　Он просто не хочет, чтобы кто-то ещё\n　слишком сблизился с его обожаемым капитаном.」",
+   "orig": "Saburouta\n「I see.\n　He must not want anyone else to get\n　too close to his beloved captain.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Рёко",
+   "text": "「Да брось!\n　Будь уже мужиком!」",
+   "orig": "Ryoko\n「Oh, c'mon!\n　Man up already!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Харри",
+   "text": "「У-у...」",
+   "orig": "Harry\n「Ugh.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Харри",
+   "text": "「А-а-а-а!」",
+   "orig": "Harry\n「Aaaahhh!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Майто",
+   "text": "「Эй, Харри!」",
+   "orig": "Maito\n「Hey, Harry!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Рури",
+   "text": "「Думаю, его лучше оставить в покое.」",
+   "orig": "Ruri\n「I think we should leave him alone.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Рёко",
+   "text": "「Уверена?」",
+   "orig": "Ryoko\n「You sure?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Рури",
+   "text": "「Проспектор с коллегами тоже не сидят сложа руки.\n　Нам надо спешить к Хикару.」",
+   "orig": "Ruri\n「Prospector and Co. are also hard at work.\n　We need to hurry to Hikaru's location.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Майто",
+   "text": "「А чем вообще занимается\n　эта самая Хикару?」",
+   "orig": "Maito\n「What is this Hikaru person\n　up to anyway?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Рури",
+   "text": "「Я слышала, она рисует комиксы.」",
+   "orig": "Ruri\n「I heard she was a cartoonist.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Майто",
+   "text": "「Хм. Художница комиксов.」",
+   "orig": "Maito\n「Huh. A cartoonist.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Рури",
+   "text": "「Говорят, она создала большой хит\n　про «жар» настоящего боя.」",
+   "orig": "Ruri\n「I heard she created a big hit\n　based on the \"heat\" of battle.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Майто",
+   "text": "「Значит, «горячая» художница...」",
+   "orig": "Maito\n「So she must be a \"hot\" female cartoonist...」"
+  },
+  {
+   "i": 53,
+   "speaker": "Хикару",
+   "text": "「Именно так!\n　Это я, великая мастерица, Хикару Амано!」",
+   "orig": "Hikaru\n「That's right!\n　It is I, the master, Hikaru Amano!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Рёко",
+   "text": "「Хикару!」",
+   "orig": "Ryoko\n「Hikaru!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Хикару",
+   "text": "「Хе-хе! Услышала, что Рури и Рёко здесь,\n　и примчалась со всех ног.」",
+   "orig": "Hikaru\n「Hehe! I heard that Ruri and Ryoko were\n　here, so I came as quick as I could.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Рёко",
+   "text": "「Приятно слышать от популярной художницы!」",
+   "orig": "Ryoko\n「Feels good coming from a popular cartoonist!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рури",
+   "text": "「Но, Хикару,\n　я слышала, у тебя скоро важный дедлайн.」",
+   "orig": "Ruri\n「But Hikaru,\n　I heard you had a big deadline coming up.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Рури",
+   "text": "「И одета ты совсем не так,\n　как подобает для выхода на улицу.」",
+   "orig": "Ruri\n「And you aren't appropriately\n　dressed to be outdoors.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Хикару",
+   "text": "「Ой!\n　Ну-у—!」",
+   "orig": "Hikaru\n「Uh!\n　Well—!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Салли",
+   "text": "「Мастер! Стойте!\n　Вам нельзя уходить! У нас горит дедлайн!」",
+   "orig": "Sally\n「Master! Wait!\n　You can't leave! We've got a deadline looming!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Майто",
+   "text": "「Э-э, Салли?!」",
+   "orig": "Maito\n「Uh, Sally?!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Салли",
+   "text": "「Майто!」",
+   "orig": "Sally\n「Maito!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Хикару",
+   "text": "「Погодите.\n　Что?\n　Вы знакомы?」",
+   "orig": "Hikaru\n「Wait.\n　What?\n　You know each other?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Хикару",
+   "text": "「Этот горько-сладкий флёр!\n　Неужели?!」",
+   "orig": "Hikaru\n「This bittersweet feeling!\n　It couldn't be!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Салли",
+   "text": "「М-мастер!\n　Дедлайн завтра!\n　Нам надо вернуться к работе!」",
+   "orig": "Sally\n「M-Master!\n　The deadline is tomorrow!\n　We have to get back to work!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Майто",
+   "text": "「Салли, так ты знаешь Хикару?」",
+   "orig": "Maito\n「So, Sally. You know Hikaru?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Салли",
+   "text": "「Да, меня познакомила с ней подруга,\n　которая подрабатывала у неё ассистенткой.」",
+   "orig": "Sally\n「Yeah, I was introduced to her by a friend\n　who was working as a temporary assistant.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Рёко",
+   "text": "「Хикару, врушка!\n　Ты пришла вовсе не к нам!\n　Ты просто бегаешь от дедлайна!」",
+   "orig": "Ryoko\n「You liar, Hikaru!\n　You didn't come to see us!\n　You were just trying to avoid your deadline!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Хикару",
+   "text": "「Я-я просто вышла подышать!」",
+   "orig": "Hikaru\n「J-just wanted to get some air!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Салли",
+   "text": "「Вот и отлично.\n　Подышали — теперь можно и за работу.」",
+   "orig": "Sally\n「OK, then.\n　Now that you got some, you can return to work.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Хикару",
+   "text": "「Не хочу!」",
+   "orig": "Hikaru\n「No!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Салли",
+   "text": "「Ну пожалуйста...」",
+   "orig": "Sally\n「Please...」"
+  },
+  {
+   "i": 73,
+   "speaker": "Хикару",
+   "text": "「Не сяду за работу, пока не получу ролл с натто!」",
+   "orig": "Hikaru\n「I'm not working until I get my natto roll!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Салли",
+   "text": "「Да где же я его возьму!」",
+   "orig": "Sally\n「Be reasonable!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Майто",
+   "text": "「Неужели ролл с натто и правда\n　так трудно достать?」",
+   "orig": "Maito\n「Is a natto roll really all\n　that hard to come by?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Рури",
+   "text": "「Похоже, в Японии многое изменилось\n　с нашего последнего визита.」",
+   "orig": "Ruri\n「Seems like a lot has changed\n　since we were last in Japan.」"
+  },
+  {
+   "i": 80,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Бар «Кэмэко»-",
+   "orig": "　\n　　\n　　　　　　　　　　　-Bar Kemeko-"
+  },
+  {
+   "i": 81,
+   "speaker": "Идзуми",
+   "text": "「Кажется, придумала.」",
+   "orig": "Izumi\n「I think I got it.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Идзуми",
+   "text": "「Апельсин остаётся апельсином, пока не станет яблоком.\n　Хе-хе-хе.」",
+   "orig": "Izumi\n「An orange is an orange unless it's an apple.\n　Hehehe.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Проспектор",
+   "text": "「Услышав, что вы стоите за барной стойкой,\n　я решил, что вы начали новую жизнь. Но,\n　Идзуми, кое-что не меняется никогда.」",
+   "orig": "Prospector\n「I figured that you had turned over a new\n　leaf when I heard you were tending bar,\n　but some things never change, Izumi.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Идзуми",
+   "text": "「То же самое могу сказать и о вас.」",
+   "orig": "Izumi\n「I could say the same to you.」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Так вот она какая — Идзуми Маки из эскадрильи\n　«Эстивалис» прежнего «Надэсико».」",
+   "orig": "$n\n「So that's Izumi Maki from the previous\n　Nadesico's Aestivalis Squadron.」"
+  },
+  {
+   "i": 86,
+   "speaker": "$n",
+   "text": "「Красавица, не спорю,\n　но до чего же не похожа на нашу Идзуми.」",
+   "orig": "$n\n「I admit that she is a beauty,\n　but she's just so different from our Izumi.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Идзуми",
+   "text": "「$n? Какими судьбами?」",
+   "orig": "Izumi\n「$n? What brings you here?」"
+  },
+  {
+   "i": 88,
+   "speaker": "$n",
+   "text": "「Мне хотелось, чтобы Тобиа и Джудо увидели\n　мирную Японию, а Майто, думаю, не полезет\n　к ним, пока я рядом с тобой.」",
+   "orig": "$n\n「I wanted Tobia and Judau to enjoy\n　Japan at peace and figured Maito would\n　keep his distance if I was with you.」"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「А взрослая часть меня здесь просто\n　как представитель «Надэсико».」",
+   "orig": "$n\n「I guess the adult in me is just here\n　as a representative of Nadesico.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Идзуми",
+   "text": "「Вот только ты уже какое-то время\n　странно озираешься по сторонам.」",
+   "orig": "Izumi\n「But you've been looking around\n　strangely for a while now.」"
+  },
+  {
+   "i": 91,
+   "speaker": "$n",
+   "text": "「Прости. Знаю, невежливо отвлекаться,\n　когда перед тобой такая красота.」",
+   "orig": "$n\n「Sorry. I know it's rude to get distracted\n　when faced with such beauty.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Идзуми",
+   "text": "「Ловко выкрутился.」",
+   "orig": "Izumi\n「Nice recovery.」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「Что ж! Тогда — за твои прекрасные глаза!」",
+   "orig": "$n\n「OK then! A toast to your beautiful eyes!」"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Кхе!」",
+   "orig": "$n\n「Ugh.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Идзуми",
+   "text": "「Что такое?」",
+   "orig": "Izumi\n「What's wrong?」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Так вот он какой, виски.」",
+   "orig": "$n\n「So this is whiskey.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Идзуми",
+   "text": "（Держится бойко,\n　а к таким вещам совсем непривычно...）",
+   "orig": "Izumi\n（He acts all tough,\n　but he's not used to anything...）"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「Так вот она какая — Идзуми Маки из эскадрильи\n　«Эстивалис» прежнего «Надэсико».」",
+   "orig": "$n\n「So that's Izumi Maki from the previous\n　Nadesico's Aestivalis Squadron.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Аоки",
+   "text": "「Именно.」",
+   "orig": "Aoki\n「Indeed.」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「И всё же...」",
+   "orig": "$n\n「Still...」"
+  },
+  {
+   "i": 101,
+   "speaker": "Аоки",
+   "text": "「Что такое?」",
+   "orig": "Aoki\n「What is it?」"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「Я тут с Проспектором, ради опыта...\n　Значит, вот они какие, бары?」",
+   "orig": "$n\n「I came with Prospector for the experience,\n　but I guess this is how bars are, huh?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Аоки",
+   "text": "「Желаешь чего-нибудь выпить?\n　Основные коктейли я сделать умею.」",
+   "orig": "Aoki\n「Would you like something to drink?\n　I can make most basic cocktails.」"
+  },
+  {
+   "i": 104,
+   "speaker": "$n",
+   "text": "「Ой! Нет!\n　Там же алкоголь, да?」",
+   "orig": "$n\n「Oh! No!\n　They have alcohol in it, right?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Аоки",
+   "text": "「Ты ведь никогда раньше\n　не пробовал спиртного?」",
+   "orig": "Aoki\n「You've never had alcohol\n　before, have you?」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「Н-нет.\n　И в таком месте я тоже впервые.」",
+   "orig": "$n\n「N-no,\n　and I've never been in a place like this.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Аоки",
+   "text": "「Спасибо, что заглянул.\n　Если не возражаешь, я с удовольствием\n　преподам пару уроков по части выпивки.」",
+   "orig": "Aoki\n「Thank you for coming.\n　If you don't mind, I'd be more than happy\n　to teach you a thing or two about drinking.」"
+  },
+  {
+   "i": 108,
+   "speaker": "$n",
+   "text": "「С-спасибо большое!\n　Но не надо, правда.」",
+   "orig": "$n\n「Th-thank you so much!\n　But I'm fine.」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Я побаиваюсь алкоголя.」",
+   "orig": "$n\n「I'm kind of afraid of alcohol.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Аоки",
+   "text": "（Эта наивность — от мира, в котором\n　довелось расти? Или это и есть\n　настоящий характер?）",
+   "orig": "Aoki\n（Is this naivety the result of the\n　world she was raised in? Or\n　is this who she actually is?）"
+  },
+  {
+   "i": 111,
+   "speaker": "Проспектор",
+   "text": "「Так вы готовы снова взойти на «Надэсико»?」",
+   "orig": "Prospector\n「So you're willing to board Nadesico again?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Идзуми",
+   "text": "「Да без проблем,\n　но сначала мне нужно кое-что сделать.」",
+   "orig": "Izumi\n「It's not a problem,\n　but there's something I need to do first.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Проспектор",
+   "text": "「И что же это?」",
+   "orig": "Prospector\n「And what would that be?」"
+  },
+  {
+   "i": 114,
+   "speaker": "Идзуми",
+   "text": "「Поесть натто.」",
+   "orig": "Izumi\n「Eat natto.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Аоки",
+   "text": "「Понятно.\n　Значит, вернуть вас на передовую\n　способна лишь порция натто?」",
+   "orig": "Aoki\n「I see.\n　So a mouthful of natto is the only thing\n　that will get you back to the front lines?」"
+  },
+  {
+   "i": 116,
+   "speaker": "Идзуми",
+   "text": "「Именно. На пустой желудок не повоюешь.」",
+   "orig": "Izumi\n「That's right. Can't fight on an empty stomach.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Аоки",
+   "text": "「Прекрасно вас понимаю.」",
+   "orig": "Aoki\n「I totally understand.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Идзуми",
+   "text": "「Я знала, что поймёте.」",
+   "orig": "Izumi\n「As I knew you would.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Проспектор",
+   "text": "「Так вот как изъясняются мастера своего дела?」",
+   "orig": "Prospector\n「So this is how the masters talk?」"
+  },
+  {
+   "i": 123,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Нувель Токио Сити-",
+   "orig": "　\n　\n　　　　　　　　　　-Nouvelle Tokyo City-"
+  },
+  {
+   "i": 124,
+   "speaker": "Хамада",
+   "text": "「Хорошо, Майто.\n　Можешь на меня рассчитывать.」",
+   "orig": "Hamada\n「OK, Maito.\n　Count me in.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Джудо",
+   "text": "「Хамада.\n　Что сказал Майто?」",
+   "orig": "Judau\n「Hamada.\n　What did Maito say?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Хамада",
+   "text": "「Сказал, что ему срочно нужна моя помощь.」",
+   "orig": "Hamada\n「He said he urgently needed my help.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Вельт",
+   "text": "「Мы ему многим обязаны.\n　Давайте поможем.」",
+   "orig": "Velt\n「We really owe him one.\n　Let's help out.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Хамада",
+   "text": "「Хм. По-моему, такой подход\n　тебе не очень идёт, Вельт.」",
+   "orig": "Hamada\n「Hmm. I don't think that approach\n　really suits you, Velt.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Хамада",
+   "text": "「Вы впервые за долгое время свободны от службы,\n　так что постарайтесь просто отдохнуть.」",
+   "orig": "Hamada\n「We're all off-duty for the first time in ages,\n　so you should try to take it easy.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Лотти",
+   "text": "「Ну, с этим трудно спорить.\n　Спасибо, Хамада.」",
+   "orig": "Lottie\n「Well, it's hard to argue with that.\n　Thanks, Hamada.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Хамада",
+   "text": "「Найн.\n　Прости, но дальше я оставляю это на тебя.」",
+   "orig": "Hamada\n「Nine.\n　Sorry, but I need you to take it from here.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Найн",
+   "text": "「Поняла.\n　Прослежу, чтобы всем понравилось\n　в Нувель Токио Сити.」",
+   "orig": "Nine\n「Understood.\n　I'll make sure everybody enjoys\n　their stay in Nouvelle Tokyo City.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Тобиа",
+   "text": "「Найн, не надо так серьёзно.」",
+   "orig": "Tobia\n「No need to take it so seriously, Nine.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Джудо",
+   "text": "「Ага.\n　Просто пройтись по этим мирным улицам —\n　и то для нас уже за глаза.」",
+   "orig": "Judau\n「Yeah.\n　Just strolling through these peaceful streets\n　is more than enough for us.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Тобиа",
+   "text": "「Похоже, в вашем мире вам несладко.」",
+   "orig": "Tobia\n「Sounds like you've got it tough in your world.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Джудо",
+   "text": "「Можно и так сказать.」",
+   "orig": "Judau\n「You could say that.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Тобиа",
+   "text": "（С Хатауэем то же самое:\n　ни «Мифрил», ни Джудо особо не рвутся\n　рассказывать о своих мирах.）",
+   "orig": "Tobia\n（It's the same with Hathaway,\n　but Mithril and Judau don't seem overly\n　eager to talk about their worlds.）"
+  },
+  {
+   "i": 138,
+   "speaker": "Тобиа",
+   "text": "（Миры с историей, похожей на нашу.\n　Как бы ни хотелось спросить — не могу.）",
+   "orig": "Tobia\n（Worlds with histories similar to our own.\n　As much as I want to ask, I just can't.）"
+  },
+  {
+   "i": 139,
+   "speaker": "Хатауэй",
+   "text": "「И всё же полиции тут что-то слишком много.」",
+   "orig": "Hathaway\n「But there's been a heavy police presence here.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Ру",
+   "text": "「И правда.\n　Похоже, они что-то охраняют.」",
+   "orig": "Roux\n「You're right.\n　Seems like they're guarding something.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Хамада",
+   "text": "「Это потому, что последние несколько дней\n　в Нувель Токио Сити орудует странный вор.」",
+   "orig": "Hamada\n「It's because a strange thief has been on the\n　loose in Nouvelle Tokyo City these last few days.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Элль",
+   "text": "「Что? Неуловимый вор?」",
+   "orig": "Elle\n「Huh? The Phantom Thief?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Бича",
+   "text": "「Давай подробности!」",
+   "orig": "Beecha\n「Tell us more!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Салли",
+   "text": "「О. Это же приятель Майто.」",
+   "orig": "Sally\n「Oh. It's Maito's friend.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Хамада",
+   "text": "「Здравствуйте. Вы, похоже, спешите.\n　Что-то случилось?」",
+   "orig": "Hamada\n「Hello. Looks like you're in a hurry.\n　Is something wrong?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Салли",
+   "text": "「Мне подруга достала натто, вот я и решила\n　поскорее его доставить.」",
+   "orig": "Sally\n「I got some natto from a friend and thought\n　I should hurry up and deliver it.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Хамада",
+   "text": "「Ого! Вот это самоотверженность!」",
+   "orig": "Hamada\n「Wow! What dedication!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Ру",
+   "text": "「Натто?」",
+   "orig": "Roux\n「Natto?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Хатауэй",
+   "text": "「Японское блюдо из ферментированной сои.\n　Тягучее, с очень своеобразным запахом.」",
+   "orig": "Hathaway\n「It's a fermented Japanese food.\n　A sticky soy product with a peculiar odor.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Элль",
+   "text": "「А ты, Хатауэй, прямо знаток.」",
+   "orig": "Elle\n「You really know your stuff, Hathaway.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Хатауэй",
+   "text": "「Моя мать была японского происхождения.」",
+   "orig": "Hathaway\n「My mother was of Japanese descent.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Вельт",
+   "text": "「Я вижу, натто тебя заинтересовал.\n　Позволь, я расскажу о нём подробнее.」",
+   "orig": "Velt\n「Seems like you've taken an interest in natto.\n　Allow me to explain it to you.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Лотти",
+   "text": "「Нет уж, спасибо!\n　Я такое не люблю!」",
+   "orig": "Lottie\n「No thank you!\n　I'm not a fan of that!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Тобиа",
+   "text": "「Хамада.\n　А натто — это что-то ценное?」",
+   "orig": "Tobia\n「Hamada.\n　Is natto valuable?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Хамада",
+   "text": "「В сегодняшней Японии — да.」",
+   "orig": "Hamada\n「It is in Japan at the moment.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Хамада",
+   "text": "「Тот самый вор, о котором я говорил,\n　таскает натто по всей Японии.」",
+   "orig": "Hamada\n「The thief I mentioned earlier has been\n　stealing natto from all across Japan.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Джудо",
+   "text": "「Ворует натто?」",
+   "orig": "Judau\n「Stealing natto?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Ру",
+   "text": "「Но натто же еда, верно?\n　Зачем красть именно её?」",
+   "orig": "Roux\n「But natto is a food, right?\n　Why steal that of all things?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Салли",
+   "text": "「Полиция как раз это и выясняет,\n　но пока безрезультатно.」",
+   "orig": "Sally\n「The police have been investigating that\n　but still aren't sure.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Юдзиро",
+   "text": "「М-м! Вы только вдохните!」",
+   "orig": "Yujiro\n「Mmm! Get a whiff of that!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Салли",
+   "text": "「Кья-а!」",
+   "orig": "Sally\n「Gyah!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Найн",
+   "text": "「Обнаружен извращенец.\n　Вызываю полицию.」",
+   "orig": "Nine\n「Creep discovered.\n　Notifying police.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Юдзиро",
+   "text": "「И-извращенец?」",
+   "orig": "Yujiro\n「C-creep?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Джудо",
+   "text": "「А как ещё назвать деда,\n　который обнюхивает незнакомых девушек?」",
+   "orig": "Judau\n「What else would you call an\n　old man sniffing random girls?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Тобиа",
+   "text": "「Я не хочу калечить пожилых людей.\n　Будьте добры, не сопротивляйтесь.」",
+   "orig": "Tobia\n「I don't want to hurt the elderly.\n　Please refrain from resisting.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Юдзиро",
+   "text": "「Да погодите вы!\n　Вы всё неправильно поняли!」",
+   "orig": "Yujiro\n「Hold on a second!\n　You've got me all wrong!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Харри",
+   "text": "「Н-негодяй!\n　Этого я тебе не прощу!」",
+   "orig": "Harry\n「Y-you creep!\n　I'll never forgive you!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Джудо",
+   "text": "「Харри?」",
+   "orig": "Judau\n「Harry?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Тобиа",
+   "text": "「А ты что тут делаешь?」",
+   "orig": "Tobia\n「What are you doing here?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Харри",
+   "text": "「Да неважно! Его надо схватить!」",
+   "orig": "Harry\n「Never mind that! We've gotta arrest him!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Юдзиро",
+   "text": "「Говорю же! Вы всё не так поняли!\n　Я без ума от запаха натто!」",
+   "orig": "Yujiro\n「I told you! You've got me all wrong!\n　It's the smell of natto that I adore!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Салли",
+   "text": "「Натто?」",
+   "orig": "Sally\n「Natto?」"
+  },
+  {
+   "i": 173,
+   "speaker": "Юдзиро",
+   "text": "「Именно. Я Юдзиро Сэмпудзи.\n　Главный поклонник натто.」",
+   "orig": "Yujiro\n「That's right. I'm Yujiro Senpuji.\n　Natto's biggest fan.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Хамада",
+   "text": "「А? Вы сказали «Сэмпудзи»?」",
+   "orig": "Hamada\n「Huh? Did you say Senpuji?」"
+  },
+  {
+   "i": 175,
+   "speaker": "Юдзиро",
+   "text": "「Не оглядывайтесь,\n　но, кажется, к вашим девушкам подбирается\n　настоящий извращенец.」",
+   "orig": "Yujiro\n「Don't look now,\n　but it looks like a real creep is making\n　a move on your girls.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 177,
+   "speaker": "Найн",
+   "text": "「Хм?」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 178,
+   "speaker": "？？？",
+   "text": "「Барышня, а вы ведь не человек?」",
+   "orig": "？？？\n「My lady, are you not human?」"
+  },
+  {
+   "i": 179,
+   "speaker": "Найн",
+   "text": "「Вы это поняли?」",
+   "orig": "Nine\n「You can tell?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Урибатакэ",
+   "text": "「Даже боги не сумеют обвести\n　вокруг пальца Сэйю Урибатакэ!」",
+   "orig": "Uribatake\n「Not even the gods can pull the wool\n　over the eyes of Seiya Uribatake!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Урибатакэ",
+   "text": "「И при этом какая тонкая работа, какая прелесть!\n　Хоть на полку как коллекционную фигурку ставь!\n　Кто же создал такой шедевр?」",
+   "orig": "Uribatake\n「And yet, you're so delicate, so lovely!\n　It wouldn't be a stretch to call you an action figure!\n　Who could have made such a masterpiece?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Найн",
+   "text": "「Говорить такое даме невежливо.」",
+   "orig": "Nine\n「It's rude to tell a lady that.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Ру",
+   "text": "「Найн права.」",
+   "orig": "Roux\n「Nine is right.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Элль",
+   "text": "「Мы не будем стоять и смотреть,\n　как ты пристаёшь к нашей подруге!」",
+   "orig": "Elle\n「We're not going to sit back and\n　watch you molest our friend!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Юдзиро",
+   "text": "「Обрушьте молот правосудия\n　на голову этого неисправимого ловеласа!」",
+   "orig": "Yujiro\n「Bring the hammer of justice down hard\n　upon the head of this incorrigible flirt!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Хатауэй",
+   "text": "「Э-это начинает выходить из-под контроля!」",
+   "orig": "Hathaway\n「Th-this is starting to get out of hand!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Тобиа",
+   "text": "「Ох!」",
+   "orig": "Tobia\n「Ugh!」"
+  },
+  {
+   "i": 188,
+   "speaker": "？？？",
+   "text": "「Эй, мальчики. Вижу, вы любите натто.」",
+   "orig": "？？？\n「Hey, boys. Looks like you enjoy natto.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джудо",
+   "text": "「Ты ещё кто?」",
+   "orig": "Judau\n「Who are you?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Вюиттон",
+   "text": "「Меня зовут Розовая Кошка, неуловимая воровка.」",
+   "orig": "Vuitton\n「People call me Pink Cat, the phantom thief.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Хамада",
+   "text": "「Катрин Вюиттон!」",
+   "orig": "Hamada\n「Catherine Vuitton!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Вюиттон",
+   "text": "「Она самая.」",
+   "orig": "Vuitton\n「Here I am.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Вюиттон",
+   "text": "「Вестница ненависти!」",
+   "orig": "Vuitton\n「The messenger of hate!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Хамада",
+   "text": "「Хорошо, Майто.\n　Можешь на меня рассчитывать.」",
+   "orig": "Hamada\n「OK, Maito.\n　Count me in.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Джудо",
+   "text": "「Хамада.\n　Что сказал Майто?」",
+   "orig": "Judau\n「Hamada.\n　What did Maito say?」"
+  },
+  {
+   "i": 196,
+   "speaker": "Хамада",
+   "text": "「Сказал, что ему срочно нужна моя помощь.\n　Прости, Найн. Дальше оставляю это на тебя.」",
+   "orig": "Hamada\n「He said he urgently needed my help.\n　Sorry, Nine. Please take it from here.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Найн",
+   "text": "「Поняла.\n　Прослежу, чтобы всем понравилось\n　в Нувель Токио Сити.」",
+   "orig": "Nine\n「Understood.\n　I'll make sure everybody enjoys\n　their stay in Nouvelle Tokyo City.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Тобиа",
+   "text": "「Найн, не надо так серьёзно.」",
+   "orig": "Tobia\n「No need to take it so seriously, Nine.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Джудо",
+   "text": "「Ага.\n　Просто пройтись по этим мирным улицам —\n　и то для нас уже за глаза.」",
+   "orig": "Judau\n「Yeah.\n　Just strolling through these peaceful streets\n　is more than enough for us.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Тобиа",
+   "text": "「Похоже, в вашем мире вам несладко.」",
+   "orig": "Tobia\n「Sounds like you've got it tough in your world.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Джудо",
+   "text": "「Можно и так сказать.」",
+   "orig": "Judau\n「You could say that.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Тобиа",
+   "text": "（С Хатауэем то же самое:\n　ни «Мифрил», ни Джудо особо не рвутся\n　рассказывать о своих мирах.）",
+   "orig": "Tobia\n（It's the same with Hathaway,\n　but Mithril and Judau don't seem overly\n　eager to talk about their worlds.）"
+  },
+  {
+   "i": 203,
+   "speaker": "Тобиа",
+   "text": "（Миры с историей, похожей на нашу.\n　Как бы ни хотелось спросить — не могу.）",
+   "orig": "Tobia\n（Worlds with histories similar to our own.\n　As much as I want to ask, I just can't.）"
+  },
+  {
+   "i": 204,
+   "speaker": "Хатауэй",
+   "text": "「И всё же полиции тут что-то слишком много.」",
+   "orig": "Hathaway\n「But there's been a heavy police presence here.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Ру",
+   "text": "「И правда.\n　Похоже, они что-то охраняют.」",
+   "orig": "Roux\n「You're right.\n　Seems like they're guarding something.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Хамада",
+   "text": "「Это потому, что последние несколько дней\n　в Нувель Токио Сити орудует странный вор.」",
+   "orig": "Hamada\n「It's because a strange thief has been on the\n　loose in Nouvelle Tokyo City these last few days.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Элль",
+   "text": "「Что? Неуловимый вор?」",
+   "orig": "Elle\n「Huh? The Phantom Thief?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Бича",
+   "text": "「Давай подробности!」",
+   "orig": "Beecha\n「Tell us more!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Салли",
+   "text": "「О. Это же приятель Майто.」",
+   "orig": "Sally\n「Oh. It's Maito's friend.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Хамада",
+   "text": "「Здравствуйте. Вы, похоже, спешите.\n　Что-то случилось?」",
+   "orig": "Hamada\n「Hello. Looks like you're in a hurry.\n　Is something wrong?」"
+  },
+  {
+   "i": 211,
+   "speaker": "Салли",
+   "text": "「Мне подруга достала натто, вот я и решила\n　поскорее его доставить.」",
+   "orig": "Sally\n「I got some natto from a friend and thought\n　I should hurry up and deliver it.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Хамада",
+   "text": "「Ого! Вот это самоотверженность!」",
+   "orig": "Hamada\n「Wow! What dedication!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Ру",
+   "text": "「Натто?」",
+   "orig": "Roux\n「Natto?」"
+  },
+  {
+   "i": 214,
+   "speaker": "Хатауэй",
+   "text": "「Японское блюдо из ферментированной сои.\n　Тягучее, с очень своеобразным запахом.」",
+   "orig": "Hathaway\n「It's a fermented Japanese food.\n　A sticky soy product with a peculiar odor.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Элль",
+   "text": "「А ты, Хатауэй, прямо знаток.」",
+   "orig": "Elle\n「You really know your stuff, Hathaway.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Хатауэй",
+   "text": "「Моя мать была японского происхождения.」",
+   "orig": "Hathaway\n「My mother was of Japanese descent.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Тобиа",
+   "text": "「Хамада.\n　А натто — это что-то ценное?」",
+   "orig": "Tobia\n「Hamada.\n　Is natto valuable?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Хамада",
+   "text": "「В сегодняшней Японии — да.」",
+   "orig": "Hamada\n「It is in Japan at the moment.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Хамада",
+   "text": "「Тот самый вор, о котором я говорил,\n　таскает натто по всей Японии.」",
+   "orig": "Hamada\n「The thief I mentioned earlier has been\n　stealing natto from all across Japan.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Джудо",
+   "text": "「Ворует натто?」",
+   "orig": "Judau\n「Stealing natto?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Ру",
+   "text": "「Но натто же еда, верно?\n　Зачем красть именно её?」",
+   "orig": "Roux\n「But natto is a food, right?\n　Why steal that of all things?」"
+  },
+  {
+   "i": 222,
+   "speaker": "Салли",
+   "text": "「Полиция как раз это и выясняет,\n　но пока безрезультатно.」",
+   "orig": "Sally\n「The police have been investigating that\n　but still aren't sure.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Юдзиро",
+   "text": "「М-м! Вы только вдохните!」",
+   "orig": "Yujiro\n「Mmm! Get a whiff of that!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Салли",
+   "text": "「Кья-а!」",
+   "orig": "Sally\n「Gyah!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Найн",
+   "text": "「Обнаружен извращенец.\n　Вызываю полицию.」",
+   "orig": "Nine\n「Creep discovered.\n　Notifying police.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Юдзиро",
+   "text": "「И-извращенец?」",
+   "orig": "Yujiro\n「C-creep?」"
+  },
+  {
+   "i": 227,
+   "speaker": "Джудо",
+   "text": "「А как ещё назвать деда,\n　который обнюхивает незнакомых девушек?」",
+   "orig": "Judau\n「What else would you call an\n　old man sniffing random girls?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Тобиа",
+   "text": "「Я не хочу калечить пожилых людей.\n　Будьте добры, не сопротивляйтесь.」",
+   "orig": "Tobia\n「I don't want to hurt the elderly.\n　Please refrain from resisting.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Юдзиро",
+   "text": "「Да погодите вы!\n　Вы всё неправильно поняли!」",
+   "orig": "Yujiro\n「Hold on a second!\n　You've got me all wrong!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Харри",
+   "text": "「Н-негодяй!\n　Этого я тебе не прощу!」",
+   "orig": "Harry\n「Y-you creep!\n　I'll never forgive you!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Джудо",
+   "text": "「Харри?」",
+   "orig": "Judau\n「Harry?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Тобиа",
+   "text": "「А ты что тут делаешь?」",
+   "orig": "Tobia\n「What are you doing here?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Харри",
+   "text": "「Да неважно! Его надо схватить!」",
+   "orig": "Harry\n「Never mind that! We've gotta arrest him!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Юдзиро",
+   "text": "「Говорю же! Вы всё не так поняли!\n　Я без ума от запаха натто!」",
+   "orig": "Yujiro\n「I told you! You've got me all wrong!\n　It's the smell of natto that I adore!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Салли",
+   "text": "「Натто?」",
+   "orig": "Sally\n「Natto?」"
+  },
+  {
+   "i": 236,
+   "speaker": "Юдзиро",
+   "text": "「Именно. Я Юдзиро Сэмпудзи.\n　Главный поклонник натто.」",
+   "orig": "Yujiro\n「That's right. I'm Yujiro Senpuji.\n　Natto's biggest fan.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Хамада",
+   "text": "「А? Вы сказали «Сэмпудзи»?」",
+   "orig": "Hamada\n「Huh? Did you say Senpuji?」"
+  },
+  {
+   "i": 238,
+   "speaker": "Юдзиро",
+   "text": "「Не оглядывайтесь,\n　но, кажется, к вашим девушкам подбирается\n　настоящий извращенец.」",
+   "orig": "Yujiro\n「Don't look now,\n　but it looks like a real creep is making\n　a move on your girls.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「What?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Найн",
+   "text": "「Хм?」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 241,
+   "speaker": "？？？",
+   "text": "「Барышня, а вы ведь не человек?」",
+   "orig": "？？？\n「My lady, are you not human?」"
+  },
+  {
+   "i": 242,
+   "speaker": "Найн",
+   "text": "「Вы это поняли?」",
+   "orig": "Nine\n「You can tell?」"
+  },
+  {
+   "i": 243,
+   "speaker": "Урибатакэ",
+   "text": "「Даже боги не сумеют обвести\n　вокруг пальца Сэйю Урибатакэ!」",
+   "orig": "Uribatake\n「Not even the gods can pull the wool\n　over the eyes of Seiya Uribatake!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Урибатакэ",
+   "text": "「И при этом какая тонкая работа, какая прелесть!\n　Хоть на полку как коллекционную фигурку ставь!\n　Кто же создал такой шедевр?」",
+   "orig": "Uribatake\n「And yet, you're so delicate, so lovely!\n　It wouldn't be a stretch to call you an action figure!\n　Who could have made such a masterpiece?」"
+  },
+  {
+   "i": 245,
+   "speaker": "Найн",
+   "text": "「Говорить такое даме невежливо.」",
+   "orig": "Nine\n「It's rude to tell a lady that.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Ру",
+   "text": "「Найн права.」",
+   "orig": "Roux\n「Nine is right.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Элль",
+   "text": "「Мы не будем стоять и смотреть,\n　как ты пристаёшь к нашей подруге!」",
+   "orig": "Elle\n「We're not going to sit back and\n　watch you molest our friend!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Юдзиро",
+   "text": "「Обрушьте молот правосудия\n　на голову этого неисправимого ловеласа!」",
+   "orig": "Yujiro\n「Bring the hammer of justice down hard\n　upon the head of this incorrigible flirt!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Хатауэй",
+   "text": "「Э-это начинает выходить из-под контроля!」",
+   "orig": "Hathaway\n「Th-this is starting to get out of hand!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Тобиа",
+   "text": "「Ох!」",
+   "orig": "Tobia\n「Ugh!」"
+  },
+  {
+   "i": 251,
+   "speaker": "？？？",
+   "text": "「Эй, мальчики. Вижу, вы любите натто.」",
+   "orig": "？？？\n「Hey, boys. Looks like you enjoy natto.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Джудо",
+   "text": "「Ты ещё кто?」",
+   "orig": "Judau\n「Who are you?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Вюиттон",
+   "text": "「Меня зовут Розовая Кошка, неуловимая воровка.」",
+   "orig": "Vuitton\n「People call me Pink Cat, the phantom thief.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Хамада",
+   "text": "「Катрин Вюиттон!」",
+   "orig": "Hamada\n「Catherine Vuitton!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Вюиттон",
+   "text": "「Она самая.」",
+   "orig": "Vuitton\n「Here I am.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Вюиттон",
+   "text": "「Вестница ненависти!」",
+   "orig": "Vuitton\n「The messenger of hate!」"
+  },
+  {
+   "i": 260,
+   "speaker": "　",
+   "text": "　\n　　　　　　　-Контроль качества натто-",
+   "orig": "　\n　\n　　　　　　　　　-Natto Quality Assurance-"
+  },
+  {
+   "i": 261,
+   "speaker": "Ру",
+   "text": "「Ч-чем это так пахнет?!」",
+   "orig": "Roux\n「W-what's that smell?!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Элль",
+   "text": "「Может, этой бурой массой\n　в тех чанах?」",
+   "orig": "Elle\n「Could it be the brown stuff\n　in those tanks?」"
+  },
+  {
+   "i": 263,
+   "speaker": "Найн",
+   "text": "「Анализ обонятельных сенсоров показал,\n　что этот запах — натто.」",
+   "orig": "Nine\n「An analysis of my olfactory sensors\n　has determined that this smell is natto.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Харри",
+   "text": "「Натто!」",
+   "orig": "Harry\n「Natto!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Вюиттон",
+   "text": "「Хо-хо-хо-хо!\n　Дамы! Теперь вы познали всю мерзость натто!」",
+   "orig": "Vuitton\n「Hohohoho!\n　Ladies! Have you learned of natto's repulsiveness!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Вюиттон",
+   "text": "「Если так, я, пожалуй, возьму вас\n　к себе в Кошечки.」",
+   "orig": "Vuitton\n「If so, I may be able to hire\n　you to be my Cat Girls.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Ру",
+   "text": "「В кошечки?」",
+   "orig": "Roux\n「Girls?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Элль",
+   "text": "「А как же Харри?」",
+   "orig": "Elle\n「But what about Harry?」"
+  },
+  {
+   "i": 269,
+   "speaker": "Харри",
+   "text": "「Я-я вообще-то мужчина!」",
+   "orig": "Harry\n「I-I'm a man!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Вюиттон",
+   "text": "「Ох! Как неловко вышло!」",
+   "orig": "Vuitton\n「Oh! How rude of me!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Вюиттон",
+   "text": "「Впрочем, мне всё равно,\n　лишь бы был милашкой.」",
+   "orig": "Vuitton\n「But I don't really care\n　as long as you're cute.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Харри",
+   "text": "「Д-да как вы смеете!」",
+   "orig": "Harry\n「H-how dare you!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Юдзиро",
+   "text": "「Отпустите меня!\n　Какой прок от немощного старика?」",
+   "orig": "Yujiro\n「Let me go!\n　What use is a weak old man like me?」"
+  },
+  {
+   "i": 274,
+   "speaker": "Вюиттон",
+   "text": "「Молчать, страшилище!」",
+   "orig": "Vuitton\n「Shut up, ugly!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Юдзиро",
+   "text": "「Сама молчи!\n　Что тебе от нас вообще нужно?」",
+   "orig": "Yujiro\n「You shut up!\n　Now what do you want with us?」"
+  },
+  {
+   "i": 276,
+   "speaker": "Вюиттон",
+   "text": "「Хе-хе-хе. Во всём виновато натто.」",
+   "orig": "Vuitton\n「Hehehe. It's the natto that's to blame.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Салли",
+   "text": "「Ч-что вы задумали?!」",
+   "orig": "Sally\n「W-what are you plotting?!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Вюиттон",
+   "text": "「Я собираю любителей натто со всего света,\n　чтобы промыть им мозги и научить его ненавидеть.」",
+   "orig": "Vuitton\n「I'm gathering natto lovers from all over,\n　so that I can brainwash them into hating it.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Вюиттон",
+   "text": "「И это ещё не всё.\n　Я сотру с лица планеты\n　последнюю его крупицу.」",
+   "orig": "Vuitton\n「And that's not all.\n　I'm going to erase every last\n　morsel of it from the planet.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Вюиттон",
+   "text": "「Такова моя миссия!\n　Хо-хо-хо-хо! Хо-хо-хо-хо!」",
+   "orig": "Vuitton\n「That's my mission!\n　Hohohoho! Hohohoho!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Найн",
+   "text": "「Осмыслению не поддаётся.」",
+   "orig": "Nine\n「Unable to understand.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Вюиттон",
+   "text": "「Молчать!\n　Сперва вас с головы до пят\n　окунут в ванну с натто.」",
+   "orig": "Vuitton\n「Silence!\n　First, you'll be dipped from head to toes\n　into a bath of natto.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Вюиттон",
+   "text": "「Потом заставлю съесть десять порций натто\n　и спать на соломенных подушках с натто.」",
+   "orig": "Vuitton\n「Then I'll make you eat ten servings of natto\n　and sleep with straw pillows made with natto.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Юдзиро",
+   "text": "「Ого! Вот это разговор!\n　Да я будто в рай попал!」",
+   "orig": "Yujiro\n「Whoa! Now we're talking!\n　I've died and gone to heaven!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Вюиттон",
+   "text": "「Что?!」",
+   "orig": "Vuitton\n「Huh?!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Юдзиро",
+   "text": "「Поторопитесь уже с этим адом из натто—\n　то есть с раем из натто!」",
+   "orig": "Yujiro\n「Hurry it up with the natto hell—\n　I mean, natto heaven already!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Вюиттон",
+   "text": "「Н-не может быть, чтобы кто-то так любил натто!」",
+   "orig": "Vuitton\n「Y-you can't possibly love natto that much!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Майто",
+   "text": "「Всё кончено, Катрин Вюиттон!」",
+   "orig": "Maito\n「It's over, Catherine Vuitton!」"
+  },
+  {
+   "i": 289,
+   "speaker": "Вюиттон",
+   "text": "「Мальчишка Сэмпудзи!」",
+   "orig": "Vuitton\n「The Senpuji boy!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Одри",
+   "text": "「Не может быть!\n　Откуда вы узнали про это место?」",
+   "orig": "Audrey\n「No way!\n　How did you know about this place?」"
+  },
+  {
+   "i": 291,
+   "speaker": "$n",
+   "text": "「Вы всё плохо продумали.\n　У нас тут есть природный передатчик.」",
+   "orig": "$n\n「You didn't think things through.\n　We've gotta natural transmitter here.」"
+  },
+  {
+   "i": 292,
+   "speaker": "Найн",
+   "text": "「Это я.」",
+   "orig": "Nine\n「That would be me.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Одри",
+   "text": "「Но я же всех обыскала!」",
+   "orig": "Audrey\n「But I checked everyone!」"
+  },
+  {
+   "i": 294,
+   "speaker": "$n",
+   "text": "「Ты что, не слышала?\n　Сказано же — природный.」",
+   "orig": "$n\n「Didn't you hear me?\n　I said natural.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Найн",
+   "text": "「Это ведь не намёк на мою непосредственность?」",
+   "orig": "Nine\n「This isn't about my behavior, is it?」"
+  },
+  {
+   "i": 296,
+   "speaker": "$n",
+   "text": "「Ну, и на неё тоже.」",
+   "orig": "$n\n「Well, there's that, too.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Найн",
+   "text": "「Нет. Быть такого не может.」",
+   "orig": "Nine\n「No. It can't be.」"
+  },
+  {
+   "i": 298,
+   "speaker": "$n",
+   "text": "「Найн, сейчас не до этого!\n　На этот раз она нас всех и выручила.」",
+   "orig": "$n\n「This isn't the time for that, Nine!\n　This time it saved the day.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Вюиттон",
+   "text": "「Ах!」",
+   "orig": "Vuitton\n「Ugh!」"
+  },
+  {
+   "i": 300,
+   "speaker": "Майто",
+   "text": "「Катрин Вюиттон!\n　Зачем вы крадёте натто\n　и громите фабрики натто?」",
+   "orig": "Maito\n「Catherine Vuitton!\n　Why are you stealing natto\n　and destroying natto factories?」"
+  },
+  {
+   "i": 301,
+   "speaker": "Вюиттон",
+   "text": "「Тебя это совершенно не касается!」",
+   "orig": "Vuitton\n「That has nothing to do with you!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Вюиттон",
+   "text": "「Хотя, вообще-то, касается.\n　Но ты мальчишка, так что объясню по слогам.\n　Одри!」",
+   "orig": "Vuitton\n「Well, actually it does,\n　but you're a boy, so I'll spell it out for you.\n　Audrey!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Одри",
+   "text": "「Всё началось примерно неделю назад.」",
+   "orig": "Audrey\n「It all started about a week ago.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Одри",
+   "text": "「Повар, готовивший ужин,\n　нечаянно поскользнулся и вывалил\n　натто прямо на Катрин.」",
+   "orig": "Audrey\n「The chef preparing dinner\n　accidentally slipped and spilled\n　natto all over Catherine.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Вюиттон",
+   "text": "「Вот так всё и вышло.」",
+   "orig": "Vuitton\n「And here we are.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Майто",
+   "text": "「М-да...」",
+   "orig": "Maito\n「Umm.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Салли",
+   "text": "「М-да...」",
+   "orig": "Sally\n「Umm.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Юдзиро",
+   "text": "「М-да...」",
+   "orig": "Yujiro\n「Umm.」"
+  },
+  {
+   "i": 309,
+   "speaker": "$n",
+   "text": "「Найн, теперь понимаешь?」",
+   "orig": "$n\n「You understand now, Nine?」"
+  },
+  {
+   "i": 310,
+   "speaker": "Найн",
+   "text": "「Осмыслению не поддаётся.\n　Не верится, что профессиональная похитительница\n　произведений искусства опустилась до такого.」",
+   "orig": "Nine\n「Unable to understand.\n　I can't believe a professional art thief\n　would lower herself to this.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Вюиттон",
+   "text": "「Не лезь в гарнир к моему главному блюду!」",
+   "orig": "Vuitton\n「Don't pick at the side dish to my main course!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Майто",
+   "text": "「К чему вы вообще клоните?」",
+   "orig": "Maito\n「What are you tryinig to say?」"
+  },
+  {
+   "i": 313,
+   "speaker": "Вюиттон",
+   "text": "「Глупый мальчишка!\n　Натто меня опозорило!\n　Нет ничего опаснее!」",
+   "orig": "Vuitton\n「Foolish boy!\n　Natto embarrassed me!\n　Nothing is more dangerous!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Вюиттон",
+   "text": "「Вот почему его надо уничтожить!」",
+   "orig": "Vuitton\n「That's why it must be eliminated!」"
+  },
+  {
+   "i": 315,
+   "speaker": "$n",
+   "text": "「Это ребячество, иначе не скажешь,\n　но детей обижать не хочется.」",
+   "orig": "$n\n「I would call this childish,\n　but I don't want to offend any children.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Майто",
+   "text": "「Натто — сокровище простого народа!\n　Это вам с рук не сойдёт!」",
+   "orig": "Maito\n「Natto, a treasure of the masses!\n　You won't get away with this!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Вюиттон",
+   "text": "「Пыл похвальный, но на этом всё и кончится.\n　Это тебе за всё, что ты мне когда-то устроил!」",
+   "orig": "Vuitton\n「I appreciate your enthusiasm, but it ends here.\n　This is for everything you've done to me in the past!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Майто",
+   "text": "「Стойте, Катрин Вюиттон!」",
+   "orig": "Maito\n「Wait, Catherine Vuitton!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Харри",
+   "text": "「Д-давайте уже уйдём отсюда!\n　Я больше не вынесу этот запах!」",
+   "orig": "Harry\n「L-let's get the heck out of here!\n　I can't take much more of this smell!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Юдзиро",
+   "text": "「Мне, видно, послышалось, парень.\n　Ты что, сказал, что натто воняет?」",
+   "orig": "Yujiro\n「I don't think I heard you right, boy.\n　Are you saying natto stinks?」"
+  },
+  {
+   "i": 321,
+   "speaker": "Харри",
+   "text": "「Н-ну...」",
+   "orig": "Harry\n「W-well—」"
+  },
+  {
+   "i": 322,
+   "speaker": "Юдзиро",
+   "text": "「А ты его хоть раз пробовал?」",
+   "orig": "Yujiro\n「Have you ever actually tried it before?」"
+  },
+  {
+   "i": 323,
+   "speaker": "Харри",
+   "text": "「Не доводилось.」",
+   "orig": "Harry\n「I can't say I have.」"
+  },
+  {
+   "i": 324,
+   "speaker": "Юдзиро",
+   "text": "「Тогда как ты можешь без умолку болтать\n　о том, в чём ничего не смыслишь?」",
+   "orig": "Yujiro\n「Then how can you just ramble on and on\n　about something you know nothing about?」"
+  },
+  {
+   "i": 325,
+   "speaker": "Юдзиро",
+   "text": "「Да ещё и молодой совсем.\n　Важно держать голову открытой\n　и всё пробовать самому.」",
+   "orig": "Yujiro\n「And you're so young, too.\n　It's important to keep an open mind\n　and give everything a try.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Юдзиро",
+   "text": "「Держи! Попробуй натто!」",
+   "orig": "Yujiro\n「Here! Try some natto!」"
+  },
+  {
+   "i": 327,
+   "speaker": "Харри",
+   "text": "「Ого! Какое тягучее!」",
+   "orig": "Harry\n「Whoa! It's so stringy!」"
+  },
+  {
+   "i": 328,
+   "speaker": "Юдзиро",
+   "text": "「Ну как?\n　Чем дольше мешаешь,\n　тем тягучее становится!」",
+   "orig": "Yujiro\n「Well?\n　The more you mix it,\n　the stickier it gets!」"
+  },
+  {
+   "i": 329,
+   "speaker": "Харри",
+   "text": "「Да это же вкусно!」",
+   "orig": "Harry\n「It's delicious!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Юдзиро",
+   "text": "「А я что говорил?」",
+   "orig": "Yujiro\n「Didn't I tell you?」"
+  },
+  {
+   "i": 331,
+   "speaker": "Майто",
+   "text": "「Не до того, дед!\n　Вюиттон вот-вот спустит на нас роботов!」",
+   "orig": "Maito\n「Save it, grandpa!\n　Vuitton is sure to unleash the robots!」"
+  },
+  {
+   "i": 332,
+   "speaker": "Майто",
+   "text": "「Всё кончено, Катрин Вюиттон!」",
+   "orig": "Maito\n「It's over, Catherine Vuitton!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Вюиттон",
+   "text": "「Мальчишка Сэмпудзи!」",
+   "orig": "Vuitton\n「The Senpuji boy!」"
+  },
+  {
+   "i": 334,
+   "speaker": "Одри",
+   "text": "「Не может быть!\n　Откуда вы узнали про это место?」",
+   "orig": "Audrey\n「No way!\n　How did you know about this place?」"
+  },
+  {
+   "i": 335,
+   "speaker": "$n",
+   "text": "「Вы всё плохо продумали.\n　У нас тут есть природный передатчик.」",
+   "orig": "$n\n「You didn't think things through.\n　We've gotta natural transmitter here.」"
+  },
+  {
+   "i": 336,
+   "speaker": "Найн",
+   "text": "「Это я.」",
+   "orig": "Nine\n「That would be me.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Одри",
+   "text": "「Но я же всех обыскала!」",
+   "orig": "Audrey\n「But I checked everyone!」"
+  },
+  {
+   "i": 338,
+   "speaker": "$n",
+   "text": "「Извини, воровка!\n　Найн настолько же талантлива, насколько мила!」",
+   "orig": "$n\n「Sorry, thief!\n　Nine is as amazing as she is cute!」"
+  },
+  {
+   "i": 339,
+   "speaker": "Найн",
+   "text": "「Что ж, благодарю.」",
+   "orig": "Nine\n「Why, thank you.」"
+  },
+  {
+   "i": 340,
+   "speaker": "$n",
+   "text": "「Прости, Найн, за этот испуг.\n　Но теперь всё будет хорошо.」",
+   "orig": "$n\n「Sorry if I scared you, Nine.\n　But everything is gonna be OK.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Найн",
+   "text": "「Не стоит беспокоиться.\n　Я знала, что вы придёте.」",
+   "orig": "Nine\n「Don't worry about it.\n　I knew you would come.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Вюиттон",
+   "text": "「Ах!」",
+   "orig": "Vuitton\n「Ugh!」"
+  },
+  {
+   "i": 343,
+   "speaker": "Майто",
+   "text": "「Катрин Вюиттон!\n　Зачем вы крадёте натто\n　и громите фабрики натто?」",
+   "orig": "Maito\n「Catherine Vuitton!\n　Why are you stealing natto\n　and destroying natto factories?」"
+  },
+  {
+   "i": 344,
+   "speaker": "Вюиттон",
+   "text": "「Ко мне это не имеет никакого отношения!」",
+   "orig": "Vuitton\n「That has nothing to do with me!」"
+  },
+  {
+   "i": 345,
+   "speaker": "Вюиттон",
+   "text": "「Хотя, вообще-то, касается.\n　Но ты мальчишка, так что объясню по слогам.\n　Одри!」",
+   "orig": "Vuitton\n「Well, actually it does,\n　but you're a boy, so I'll spell it out for you.\n　Audrey!」"
+  },
+  {
+   "i": 346,
+   "speaker": "Одри",
+   "text": "「Всё началось примерно неделю назад.」",
+   "orig": "Audrey\n「It all started about a week ago.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Одри",
+   "text": "「Повар, готовивший ужин,\n　нечаянно поскользнулся и вывалил\n　натто прямо на Катрин.」",
+   "orig": "Audrey\n「The chef preparing dinner\n　accidentally slipped and spilled\n　natto all over Catherine.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Вюиттон",
+   "text": "「Вот так всё и вышло.」",
+   "orig": "Vuitton\n「And here we are.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Майто",
+   "text": "「М-да...」",
+   "orig": "Maito\n「Umm.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Салли",
+   "text": "「М-да...」",
+   "orig": "Sally\n「Umm.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Юдзиро",
+   "text": "「М-да...」",
+   "orig": "Yujiro\n「Umm.」"
+  },
+  {
+   "i": 352,
+   "speaker": "$n",
+   "text": "「Найн, теперь понимаешь?」",
+   "orig": "$n\n「You understand now, Nine?」"
+  },
+  {
+   "i": 353,
+   "speaker": "Найн",
+   "text": "「Осмыслению не поддаётся.\n　Не верится, что профессиональная похитительница\n　произведений искусства опустилась до такого.」",
+   "orig": "Nine\n「Unable to understand.\n　I can't believe a professional art thief\n　would lower herself to this.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Вюиттон",
+   "text": "「Не лезь в гарнир к моему главному блюду!」",
+   "orig": "Vuitton\n「Don't pick at the side dish to my main course!」"
+  },
+  {
+   "i": 355,
+   "speaker": "Майто",
+   "text": "「К чему вы вообще клоните?」",
+   "orig": "Maito\n「What are you tryinig to say?」"
+  },
+  {
+   "i": 356,
+   "speaker": "Вюиттон",
+   "text": "「Глупый мальчишка!\n　Натто меня опозорило!\n　Нет ничего опаснее!」",
+   "orig": "Vuitton\n「Foolish boy!\n　Natto embarrassed me!\n　Nothing is more dangerous!」"
+  },
+  {
+   "i": 357,
+   "speaker": "Вюиттон",
+   "text": "「Вот почему его надо уничтожить!」",
+   "orig": "Vuitton\n「That's why it must be eliminated!」"
+  },
+  {
+   "i": 358,
+   "speaker": "$n",
+   "text": "「Это ребячество, иначе не скажешь,\n　но детей обижать не хочется.」",
+   "orig": "$n\n「I would call this childish,\n　but I don't want to offend any children.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Майто",
+   "text": "「Натто — сокровище простого народа!\n　Это вам с рук не сойдёт!」",
+   "orig": "Maito\n「Natto, a treasure of the masses!\n　You won't get away with this!」"
+  },
+  {
+   "i": 360,
+   "speaker": "Вюиттон",
+   "text": "「Пыл похвальный, но на этом всё и кончится.\n　Это тебе за всё, что ты мне когда-то устроил!」",
+   "orig": "Vuitton\n「I appreciate your enthusiasm, but it ends here.\n　This is for everything you've done to me in the past!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Майто",
+   "text": "「Стойте, Катрин Вюиттон!」",
+   "orig": "Maito\n「Wait, Catherine Vuitton!」"
+  },
+  {
+   "i": 362,
+   "speaker": "Харри",
+   "text": "「Д-давайте уже уйдём отсюда!\n　Я больше не вынесу этот запах!」",
+   "orig": "Harry\n「L-let's get the heck out of here!\n　I can't take much more of this smell!」"
+  },
+  {
+   "i": 363,
+   "speaker": "Юдзиро",
+   "text": "「Мне, видно, послышалось, парень.\n　Ты что, сказал, что натто воняет?」",
+   "orig": "Yujiro\n「I don't think I heard you right, boy.\n　Are you saying natto stinks?」"
+  },
+  {
+   "i": 364,
+   "speaker": "Харри",
+   "text": "「Н-ну...」",
+   "orig": "Harry\n「W-well—」"
+  },
+  {
+   "i": 365,
+   "speaker": "Юдзиро",
+   "text": "「А ты его хоть раз пробовал?」",
+   "orig": "Yujiro\n「Have you ever actually tried it before?」"
+  },
+  {
+   "i": 366,
+   "speaker": "Харри",
+   "text": "「Не доводилось.」",
+   "orig": "Harry\n「I can't say I have.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Юдзиро",
+   "text": "「Тогда как ты можешь без умолку болтать\n　о том, в чём ничего не смыслишь?」",
+   "orig": "Yujiro\n「Then how can you just ramble on and on\n　about something you know nothing about?」"
+  },
+  {
+   "i": 368,
+   "speaker": "Юдзиро",
+   "text": "「Да ещё и молодой совсем.\n　Важно держать голову открытой\n　и всё пробовать самому.」",
+   "orig": "Yujiro\n「And you're so young, too.\n　It's important to keep an open mind\n　and give everything a try.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Юдзиро",
+   "text": "「Держи! Попробуй натто!」",
+   "orig": "Yujiro\n「Here! Try some natto!」"
+  },
+  {
+   "i": 370,
+   "speaker": "Харри",
+   "text": "「Ого! Какое тягучее!」",
+   "orig": "Harry\n「Whoa! It's so stringy!」"
+  },
+  {
+   "i": 371,
+   "speaker": "Юдзиро",
+   "text": "「Ну как?\n　Чем дольше мешаешь,\n　тем тягучее становится!」",
+   "orig": "Yujiro\n「Well?\n　The more you mix it,\n　the stickier it gets!」"
+  },
+  {
+   "i": 372,
+   "speaker": "Харри",
+   "text": "「Да это же вкусно!」",
+   "orig": "Harry\n「It's delicious!」"
+  },
+  {
+   "i": 373,
+   "speaker": "Юдзиро",
+   "text": "「А я что говорил?」",
+   "orig": "Yujiro\n「Didn't I tell you?」"
+  },
+  {
+   "i": 374,
+   "speaker": "Майто",
+   "text": "「Не до того, дед!\n　Вюиттон вот-вот спустит на нас роботов!」",
+   "orig": "Maito\n「Save it, grandpa!\n　Vuitton is sure to unleash the robots!」"
+  },
+  {
+   "i": 378,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Банкетный зал особняка Сэмпудзи-",
+   "orig": "　\n　　\n　　　　　　　-Senpuji Residence Party Room-"
+  },
+  {
+   "i": 379,
+   "speaker": "Джудо",
+   "text": "「И надо же такому совпасть: этот дед\n　оказался дедом Майто.」",
+   "orig": "Judau\n「But what a coincidence that the old man\n　turned out to be Maito's grandfather.」"
+  },
+  {
+   "i": 380,
+   "speaker": "Тобиа",
+   "text": "「Эта готовность сразу лезть в драку —\n　точно у них семейное.」",
+   "orig": "Tobia\n「Their eagerness to take act is definitely what\n　you'd expect from a long line of tough guys.」"
+  },
+  {
+   "i": 381,
+   "speaker": "Элль",
+   "text": "「Зато сердце у них такое же большое, как кулаки.\n　Нас ведь всех пригласили на ужин.」",
+   "orig": "Elle\n「But their hearts are as big as they are tough.\n　They did invite us all to dinner, after all.」"
+  },
+  {
+   "i": 382,
+   "speaker": "Бича",
+   "text": "「Значит, остаётся только налечь на еду!」",
+   "orig": "Beecha\n「Then I guess we'll just have to eat up!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Ру",
+   "text": "「Не жадничай.\n　А то про наш мир плохо подумают.」",
+   "orig": "Roux\n「Don't be too greedy.\n　You'll make our world look bad.」"
+  },
+  {
+   "i": 384,
+   "speaker": "Хикару",
+   "text": "「Без помощи Хамады я бы ни за что\n　не успела к сроку и не попала бы\n　сюда сегодня!」",
+   "orig": "Hikaru\n「I would have met my deadline\n　or made it here today without\n　all of Hamada's help!」"
+  },
+  {
+   "i": 385,
+   "speaker": "Хамада",
+   "text": "「Я тоже благодарен: работа над вашими страницами\n　стала для меня бесценным опытом.」",
+   "orig": "Hamada\n「Well, likewise, working on your script has\n　been an incredibly invaluable experience.」"
+  },
+  {
+   "i": 386,
+   "speaker": "Хамада",
+   "text": "「Если выдастся свободная минутка,\n　я был бы рад показать вам кое-что своё.」",
+   "orig": "Hamada\n「If you ever have a moment,\n　I'd love you to look at one of mine.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Хикару",
+   "text": "「Конечно!\n　Время теперь точно найдётся — серия\n　уходит на перерыв.」",
+   "orig": "Hikaru\n「Of course!\n　I'm sure I'll find time now that the series\n　is going on hiatus for the time being.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Рёко",
+   "text": "「Хикару, ты ведь понимаешь?\n　Нам предстоит бой с Марсианскими преемниками.」",
+   "orig": "Ryoko\n「You get it, don't you, Hikaru?\n　We're going up against the Martian Successors.」"
+  },
+  {
+   "i": 389,
+   "speaker": "Хикару",
+   "text": "「Хе-хе-хе.」",
+   "orig": "Hikaru\n「Hehehe.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Рёко",
+   "text": "「Ч-чего? Ты чего смеёшься?」",
+   "orig": "Ryoko\n「H-huh? Why are you laughing?」"
+  },
+  {
+   "i": 391,
+   "speaker": "Хикару",
+   "text": "「После двух лет в аду дедлайнов\n　меня уже ничем не напугать.」",
+   "orig": "Hikaru\n「Nothing scares me after the two years\n　of deadline hell I just endured.」"
+  },
+  {
+   "i": 392,
+   "speaker": "Хамада",
+   "text": "「Приму это к сердцу, мастер Амано.」",
+   "orig": "Hamada\n「I'll take that to heart, Master Amano.」"
+  },
+  {
+   "i": 393,
+   "speaker": "$n",
+   "text": "「Хамада, ты и правда мечтаешь рисовать комиксы?」",
+   "orig": "$n\n「You really wanted to be a cartoonist, Hamada?」"
+  },
+  {
+   "i": 394,
+   "speaker": "Идзуми",
+   "text": "「Художникам комиксов снится собственная смерть.\n　Так что поменьше спи. Хе-хе.」",
+   "orig": "Izumi\n「Cartoonists tend to dream their own deaths.\n　Try not to sleep too much. Hehe.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Рёко",
+   "text": "「Кто бы говорил о приметах!」",
+   "orig": "Ryoko\n「Of all the people to be superstitious!」"
+  },
+  {
+   "i": 396,
+   "speaker": "Майто",
+   "text": "「Ну что поделать, Рёко.\n　Это всё-таки дедов праздник.」",
+   "orig": "Maito\n「It is what it is, Ryoko.\n　It is my grandpa's party after all.」"
+  },
+  {
+   "i": 397,
+   "speaker": "Джудо",
+   "text": "「И то верно.\n　Налегаем на еду, а с завтрашнего дня — за дело.」",
+   "orig": "Judau\n「You're right.\n　Eat up and let's do our best from tomorrow.」"
+  },
+  {
+   "i": 398,
+   "speaker": "Тобиа",
+   "text": "「Жду не дождусь угощения.」",
+   "orig": "Tobia\n「I can't wait for the feast.」"
+  },
+  {
+   "i": 399,
+   "speaker": "Рёко",
+   "text": "「Эй. Вы, мелкие, только брюхом и думаете.」",
+   "orig": "Ryoko\n「Hey. You brats always think with your bellies.」"
+  },
+  {
+   "i": 400,
+   "speaker": "$n",
+   "text": "「Кстати о брюхе, Рёко.」",
+   "orig": "$n\n「Speaking of which, Ryoko.」"
+  },
+  {
+   "i": 401,
+   "speaker": "Сабуроута",
+   "text": "「А взрослые, видать, ценят содержание, а не форму.」",
+   "orig": "Saburouta\n「I guess adults are substance over style.」"
+  },
+  {
+   "i": 402,
+   "speaker": "Рёко",
+   "text": "「Молчи!\n　Тебя никто не спрашивал!」",
+   "orig": "Ryoko\n「Shut up!\n　Nobody asked you!」"
+  },
+  {
+   "i": 403,
+   "speaker": "Юдзиро",
+   "text": "「Простите, что заставил ждать.」",
+   "orig": "Yujiro\n「Sorry to keep you waiting.」"
+  },
+  {
+   "i": 404,
+   "speaker": "Рури",
+   "text": "「Ну что вы.\n　Спасибо, что пригласили нас.」",
+   "orig": "Ruri\n「On the contrary.\n　Thank you for having us.」"
+  },
+  {
+   "i": 405,
+   "speaker": "Проспектор",
+   "text": "「Большая честь познакомиться с легендой\n　железных дорог Сэмпудзи — Юдзиро Сэмпудзи.」",
+   "orig": "Prospector\n「It's a pleasure to make the acquaintance of the\n　great Senpuji Railroad hero, Yujiro Senpuji.」"
+  },
+  {
+   "i": 406,
+   "speaker": "Юдзиро",
+   "text": "「Ха-ха-ха. Да полно вам, Прос.\n　Вы только с Майто построже не будьте, хорошо?」",
+   "orig": "Yujiro\n「Hahaha. Don't mention it, Pros.\n　Just go easy on Maito, OK?」"
+  },
+  {
+   "i": 407,
+   "speaker": "Тобиа",
+   "text": "「Мы должны извиниться, Юдзиро.\n　Простите, что обозвали вас проходимцем.」",
+   "orig": "Tobia\n「We owe you an apology, Yujiro.\n　We're sorry we called you a creep.」"
+  },
+  {
+   "i": 408,
+   "speaker": "Юдзиро",
+   "text": "「Ничего страшного.\n　Друг Майто не может быть неправым человеком.」",
+   "orig": "Yujiro\n「It's OK.\n　Any friend of Maito is bound to be just.」"
+  },
+  {
+   "i": 409,
+   "speaker": "Юдзиро",
+   "text": "「Я приготовил для вас сегодня\n　несколько своих фирменных блюд.\n　Надеюсь, они вам придутся по вкусу.」",
+   "orig": "Yujiro\n「I've prepared some specialties\n　of mine for you this evening.\n　I hope you'll enjoy them.」"
+  },
+  {
+   "i": 410,
+   "speaker": "Джудо",
+   "text": "「Отлично!」",
+   "orig": "Judau\n「All right!」"
+  },
+  {
+   "i": 411,
+   "speaker": "Бича",
+   "text": "「Жду не дождусь!」",
+   "orig": "Beecha\n「I can hardly wait!」"
+  },
+  {
+   "i": 412,
+   "speaker": "Юдзиро",
+   "text": "「Аоки, подавай.」",
+   "orig": "Yujiro\n「OK, Aoki. The food.」"
+  },
+  {
+   "i": 413,
+   "speaker": "Аоки",
+   "text": "「Есть. Прошу сюда.」",
+   "orig": "Aoki\n「Yes. Right this way.」"
+  },
+  {
+   "i": 414,
+   "speaker": "Ру",
+   "text": "「Этот запах!」",
+   "orig": "Roux\n「That smell!」"
+  },
+  {
+   "i": 415,
+   "speaker": "Элль",
+   "text": "「Не может быть!」",
+   "orig": "Elle\n「It couldn't be!」"
+  },
+  {
+   "i": 416,
+   "speaker": "Юдзиро",
+   "text": "「Итак, друзья!\n　Вас ждёт полный обед из моего любимого натто!」",
+   "orig": "Yujiro\n「OK, everyone!\n　Get ready for a full course of my beloved natto!」"
+  },
+  {
+   "i": 417,
+   "speaker": "Юдзиро",
+   "text": "「Салат с натто, омлет с натто, котлета с натто,\n　паста, суп, рагу, сок — и всё с натто—」",
+   "orig": "Yujiro\n「Natto salad, natto omelet, natto hamburger,\n　natto pasta, natto soup, natto stew, natto juice—」"
+  },
+  {
+   "i": 418,
+   "speaker": "Юдзиро",
+   "text": "「А на закуску — рис с натто!」",
+   "orig": "Yujiro\n「And to round it all off, natto rice!」"
+  },
+  {
+   "i": 419,
+   "speaker": "Аоки",
+   "text": "「От натто невозможно оторваться.」",
+   "orig": "Aoki\n「Natto keeps you coming back for more.」"
+  },
+  {
+   "i": 420,
+   "speaker": "Юдзиро",
+   "text": "「Вот именно!\n　Ха-ха-ха-ха-ха!」",
+   "orig": "Yujiro\n「It sure does!\n　Hahahahaha!」"
+  },
+  {
+   "i": 421,
+   "speaker": "Джудо",
+   "text": "「Элль, Ру.\n　Соберитесь с духом и налегайте.」",
+   "orig": "Judau\n「Elle and Roux.\n　Let's suck it up and dig in.」"
+  },
+  {
+   "i": 422,
+   "speaker": "Харри",
+   "text": "「Да.\n　Не попробовав, судить нельзя.」",
+   "orig": "Harry\n「Yes.\n　Can't knock it until you've tried it.」"
+  },
+  {
+   "i": 423,
+   "speaker": "Рури",
+   "text": "「Итак, все вместе.」",
+   "orig": "Ruri\n「OK, everyone.」"
+  },
+  {
+   "i": 424,
+   "speaker": "Майто",
+   "text": "「Приятного аппетита!」",
+   "orig": "Maito\n「Let's eat!」"
+  },
+  {
+   "i": 425,
+   "speaker": "$n",
+   "text": "「Как вкусно, Юдзиро!」",
+   "orig": "$n\n「This is great, Yujiro!」"
+  },
+  {
+   "i": 426,
+   "speaker": "Юдзиро",
+   "text": "「Ещё бы!\n　В натто я разбираюсь лучше всех на свете!」",
+   "orig": "Yujiro\n「Why of course it is!\n　I know more about eating natto than anyone!」"
+  },
+  {
+   "i": 427,
+   "speaker": "$n",
+   "text": "（Ем натто — и сразу вспоминается\n　всё то время, что мы провели с Тацу.）",
+   "orig": "$n\n（Eating natto like this reminds me\n　of all the times I spent with Tatsu.）"
+  },
+  {
+   "i": 428,
+   "speaker": "$n",
+   "text": "（Титосэ...\n　Я буду действовать по-своему.\n　Продержись ради меня.）",
+   "orig": "$n\n（Chitose...\n　I'm gonna do things my way.\n　Hang in there for me.）"
+  },
+  {
+   "i": 429,
+   "speaker": "Джудо",
+   "text": "「И всё-таки надо же такому совпасть —\n　старик оказался дедом Майто.」",
+   "orig": "Judau\n「But what a coincidence that the old man\n　turned out to be Maito's grandfather.」"
+  },
+  {
+   "i": 430,
+   "speaker": "Тобиа",
+   "text": "「Эта готовность лезть в самое пекло — как раз\n　то, чего ждёшь от рода крепких мужиков.」",
+   "orig": "Tobia\n「Their eagerness to take act is definitely what\n　you'd expect from a long line of tough guys.」"
+  },
+  {
+   "i": 431,
+   "speaker": "Элль",
+   "text": "「Зато сердца у них такие же большие, как кулаки.\n　Всех нас ведь на ужин позвали.」",
+   "orig": "Elle\n「But their hearts are as big as they are tough.\n　They did invite us all to dinner, after all.」"
+  },
+  {
+   "i": 432,
+   "speaker": "Бича",
+   "text": "「Значит, остаётся только наесться от пуза!」",
+   "orig": "Beecha\n「Then I guess we'll just have to eat up!」"
+  },
+  {
+   "i": 433,
+   "speaker": "Ру",
+   "text": "「Не жадничай так.\n　Опозоришь весь наш мир.」",
+   "orig": "Roux\n「Don't be too greedy.\n　You'll make our world look bad.」"
+  },
+  {
+   "i": 434,
+   "speaker": "Хикару",
+   "text": "「Без помощи Хамады я бы ни за что\n　не сдала работу в срок и уж точно\n　не добралась бы сегодня сюда!」",
+   "orig": "Hikaru\n「I would have met my deadline\n　or made it here today without\n　all of Hamada's help!」"
+  },
+  {
+   "i": 435,
+   "speaker": "Хамада",
+   "text": "「Что вы, для меня работа над вашей рукописью\n　тоже стала бесценным опытом.」",
+   "orig": "Hamada\n「Well, likewise, working on your script has\n　been an incredibly invaluable experience.」"
+  },
+  {
+   "i": 436,
+   "speaker": "Хамада",
+   "text": "「Если у вас найдётся минутка,\n　я бы очень хотел показать вам свою.」",
+   "orig": "Hamada\n「If you ever have a moment,\n　I'd love you to look at one of mine.」"
+  },
+  {
+   "i": 437,
+   "speaker": "Хикару",
+   "text": "「Конечно!\n　Время теперь наверняка найдётся — серия\n　пока что уходит на перерыв.」",
+   "orig": "Hikaru\n「Of course!\n　I'm sure I'll find time now that the series\n　is going on hiatus for the time being.」"
+  },
+  {
+   "i": 438,
+   "speaker": "Рёко",
+   "text": "「Ты же понимаешь, Хикару?\n　Нам предстоит бой с Марсианскими преемниками.」",
+   "orig": "Ryoko\n「You get it, don't you, Hikaru?\n　We're going up against the Martian Successors.」"
+  },
+  {
+   "i": 439,
+   "speaker": "Хикару",
+   "text": "「Хе-хе-хе.」",
+   "orig": "Hikaru\n「Hehehe.」"
+  },
+  {
+   "i": 440,
+   "speaker": "Рёко",
+   "text": "「Ч-чего? Ты чего смеёшься?」",
+   "orig": "Ryoko\n「H-huh? Why are you laughing?」"
+  },
+  {
+   "i": 441,
+   "speaker": "Хикару",
+   "text": "「После двух лет ада со сроками сдачи\n　меня уже ничем не напугаешь.」",
+   "orig": "Hikaru\n「Nothing scares me after the two years\n　of deadline hell I just endured.」"
+  },
+  {
+   "i": 442,
+   "speaker": "Хамада",
+   "text": "「Приму это к сердцу, госпожа Амано.」",
+   "orig": "Hamada\n「I'll take that to heart, Master Amano.」"
+  },
+  {
+   "i": 443,
+   "speaker": "$n",
+   "text": "「Хамада, ты правда хотел стать мангакой?」",
+   "orig": "$n\n「You really wanted to be a cartoonist, Hamada?」"
+  },
+  {
+   "i": 444,
+   "speaker": "Идзуми",
+   "text": "「Мангакам часто снится собственная смерть.\n　Так что спи поменьше. Хе-хе.」",
+   "orig": "Izumi\n「Cartoonists tend to dream their own deaths.\n　Try not to sleep too much. Hehe.」"
+  },
+  {
+   "i": 445,
+   "speaker": "Рёко",
+   "text": "「Вот уж от кого не ждала суеверий!」",
+   "orig": "Ryoko\n「Of all the people to be superstitious!」"
+  },
+  {
+   "i": 446,
+   "speaker": "Майто",
+   "text": "「Что поделать, Рёко.\n　Это всё-таки вечер моего деда.」",
+   "orig": "Maito\n「It is what it is, Ryoko.\n　It is my grandpa's party after all.」"
+  },
+  {
+   "i": 447,
+   "speaker": "Джудо",
+   "text": "「И верно.\n　Наедайся и с завтрашнего дня выкладывайся.」",
+   "orig": "Judau\n「You're right.\n　Eat up and do your best from tomorrow.」"
+  },
+  {
+   "i": 448,
+   "speaker": "Тобиа",
+   "text": "「Скорей бы уже пир.」",
+   "orig": "Tobia\n「I can't wait for the feast.」"
+  },
+  {
+   "i": 449,
+   "speaker": "Рёко",
+   "text": "「Эй. У вас, мелюзги, одно брюхо на уме.」",
+   "orig": "Ryoko\n「Hey. You brats always think with your bellies.」"
+  },
+  {
+   "i": 450,
+   "speaker": "$n",
+   "text": "「А что в этом плохого, Рёко?\n　По-моему, хороший ужин мы заслужили.」",
+   "orig": "$n\n「But what's wrong with that, Ryoko?\n　I think we've earned a good meal.」"
+  },
+  {
+   "i": 451,
+   "speaker": "Сабуроута",
+   "text": "「Эх.\n　Похоже, для $n суть важнее формы.」",
+   "orig": "Saburouta\n「Ugh.\n　Looks like $n is still substance over style.」"
+  },
+  {
+   "i": 452,
+   "speaker": "Юдзиро",
+   "text": "「Простите, что заставил ждать.」",
+   "orig": "Yujiro\n「Sorry to keep you waiting.」"
+  },
+  {
+   "i": 453,
+   "speaker": "Рури",
+   "text": "「Ну что вы.\n　Спасибо, что пригласили нас.」",
+   "orig": "Ruri\n「On the contrary.\n　Thank you for having us.」"
+  },
+  {
+   "i": 454,
+   "speaker": "Проспектор",
+   "text": "「Большая честь познакомиться с легендой\n　железных дорог Сэмпудзи — Юдзиро Сэмпудзи.」",
+   "orig": "Prospector\n「It's a pleasure to make the acquaintance of the\n　great Senpuji Railroad hero, Yujiro Senpuji.」"
+  },
+  {
+   "i": 455,
+   "speaker": "Юдзиро",
+   "text": "「Ха-ха-ха. Да полно вам, Прос.\n　Вы только с Майто построже не будьте, хорошо?」",
+   "orig": "Yujiro\n「Hahaha. Don't mention it, Pros.\n　Just go easy on Maito, OK?」"
+  },
+  {
+   "i": 456,
+   "speaker": "Тобиа",
+   "text": "「Мы должны извиниться, Юдзиро.\n　Простите, что обозвали вас проходимцем.」",
+   "orig": "Tobia\n「We owe you an apology, Yujiro.\n　We're sorry we called you a creep.」"
+  },
+  {
+   "i": 457,
+   "speaker": "Юдзиро",
+   "text": "「Ничего страшного.\n　Друг Майто не может быть неправым человеком.」",
+   "orig": "Yujiro\n「It's OK.\n　Any friend of Maito is bound to be just.」"
+  },
+  {
+   "i": 458,
+   "speaker": "Юдзиро",
+   "text": "「Я приготовил для вас сегодня\n　несколько своих фирменных блюд.\n　Надеюсь, они вам придутся по вкусу.」",
+   "orig": "Yujiro\n「I've prepared some specialties\n　of mine for you this evening.\n　I hope you'll enjoy them.」"
+  },
+  {
+   "i": 459,
+   "speaker": "Джудо",
+   "text": "「Отлично!」",
+   "orig": "Judau\n「All right!」"
+  },
+  {
+   "i": 460,
+   "speaker": "Бича",
+   "text": "「Жду не дождусь!」",
+   "orig": "Beecha\n「I can hardly wait!」"
+  },
+  {
+   "i": 461,
+   "speaker": "Юдзиро",
+   "text": "「Аоки, подавай.」",
+   "orig": "Yujiro\n「OK, Aoki. The food.」"
+  },
+  {
+   "i": 462,
+   "speaker": "Аоки",
+   "text": "「Есть. Прошу сюда.」",
+   "orig": "Aoki\n「Yes. Right this way.」"
+  },
+  {
+   "i": 463,
+   "speaker": "Ру",
+   "text": "「Этот запах!」",
+   "orig": "Roux\n「That smell!」"
+  },
+  {
+   "i": 464,
+   "speaker": "Элль",
+   "text": "「Не может быть!」",
+   "orig": "Elle\n「It couldn't be!」"
+  },
+  {
+   "i": 465,
+   "speaker": "Юдзиро",
+   "text": "「Итак, друзья!\n　Вас ждёт полный обед из моего любимого натто!」",
+   "orig": "Yujiro\n「OK, everyone!\n　Get ready for a full course of my beloved natto!」"
+  },
+  {
+   "i": 466,
+   "speaker": "Юдзиро",
+   "text": "「Салат с натто, омлет с натто, котлета с натто,\n　паста, суп, рагу, сок — и всё с натто—」",
+   "orig": "Yujiro\n「Natto salad, natto omelet, natto hamburger,\n　natto pasta, natto soup, natto stew, natto juice—」"
+  },
+  {
+   "i": 467,
+   "speaker": "Юдзиро",
+   "text": "「А на закуску — рис с натто!」",
+   "orig": "Yujiro\n「And to round it all off, natto rice!」"
+  },
+  {
+   "i": 468,
+   "speaker": "Аоки",
+   "text": "「От натто невозможно оторваться.」",
+   "orig": "Aoki\n「Natto keeps you coming back for more.」"
+  },
+  {
+   "i": 469,
+   "speaker": "Юдзиро",
+   "text": "「Вот именно!\n　Ха-ха-ха-ха-ха!」",
+   "orig": "Yujiro\n「It sure does!\n　Hahahahaha!」"
+  },
+  {
+   "i": 470,
+   "speaker": "Джудо",
+   "text": "「Элль, Ру.\n　Соберитесь с духом и налегайте.」",
+   "orig": "Judau\n「Elle and Roux.\n　Let's suck it up and dig in.」"
+  },
+  {
+   "i": 471,
+   "speaker": "Харри",
+   "text": "「Да.\n　Не попробовав, судить нельзя.」",
+   "orig": "Harry\n「Yes.\n　Can't knock it until you've tried it.」"
+  },
+  {
+   "i": 472,
+   "speaker": "Рури",
+   "text": "「Итак, все вместе.」",
+   "orig": "Ruri\n「OK, everyone.」"
+  },
+  {
+   "i": 473,
+   "speaker": "Майто",
+   "text": "「Приятного аппетита!」",
+   "orig": "Maito\n「Let's eat!」"
+  },
+  {
+   "i": 474,
+   "speaker": "$n",
+   "text": "「Юдзиро, это же объедение!」",
+   "orig": "$n\n「It's delicious, Yujiro!」"
+  },
+  {
+   "i": 475,
+   "speaker": "Юдзиро",
+   "text": "「Ещё бы!\n　В натто я разбираюсь лучше всех на свете!」",
+   "orig": "Yujiro\n「Why of course it is!\n　I know more about eating natto than anyone!」"
+  },
+  {
+   "i": 476,
+   "speaker": "$n",
+   "text": "（Ем натто — и сразу вспоминается\n　всё то время, что мы провели с Тацу.）",
+   "orig": "$n\n（Eating natto like this reminds me\n　of all the times I spent with Tatsu.）"
+  },
+  {
+   "i": 477,
+   "speaker": "$n",
+   "text": "（Содзи...\n　Я пойду своим путём.）",
+   "orig": "$n\n（Soji...\n　I'm going to do my own thing.）"
+  },
+  {
+   "i": 478,
+   "speaker": "$n",
+   "text": "（Надеюсь, и ты найдёшь\n　свой собственный путь.）",
+   "orig": "$n\n（I hope you also figure out\n　how to live your life.）"
+  },
+  {
+   "i": 482,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Убежище Хой Коу Лоу-",
+   "orig": "　\n　\n　　　　　　　　　-Hoi Kow Lou's Hideout-"
+  },
+  {
+   "i": 483,
+   "speaker": "Вюиттон",
+   "text": "「Хой Коу Лоу!」",
+   "orig": "Vuitton\n「Hoi Kow Lou!」"
+  },
+  {
+   "i": 484,
+   "speaker": "Хой Коу Лоу",
+   "text": "「О, никак сама Розовая Кошка.\n　Ловко же ты меня отыскала.」",
+   "orig": "Hoi Kow Lou\n「Oh, if it isn't Pink Cat.\n　Good job finding me.」"
+  },
+  {
+   "i": 485,
+   "speaker": "Вюиттон",
+   "text": "「Вора вычислит только вор.\n　Моей агентурной сети нет равных.」",
+   "orig": "Vuitton\n「Takes a thief to know a thief.\n　My intelligence network is second to none.」"
+  },
+  {
+   "i": 486,
+   "speaker": "Вюиттон",
+   "text": "「И что это был за робот, объясни-ка?\n　Он оказался совершенно бесполезным!」",
+   "orig": "Vuitton\n「Anyway, what was the deal with that robot?\n　It turned out to be completely useless!」"
+  },
+  {
+   "i": 487,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Да как у тебя язык поворачивается?!\n　Я помог тебе всем, чем мог,\n　а ты всё равно не смогла победить!」",
+   "orig": "Hoi Kow Lou\n「How can you say that?!\n　I gave you all that help,\n　and you still couldn't win!」"
+  },
+  {
+   "i": 488,
+   "speaker": "Вюиттон",
+   "text": "「Что, прости?!」",
+   "orig": "Vuitton\n「Excuse me?!」"
+  },
+  {
+   "i": 489,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Я лишь выполнял приказ нашего спонсора.\n　Предъявлять мне нечего.」",
+   "orig": "Hoi Kow Lou\n「I was only obeying our sponsor's orders.\n　You've got no right to complain.」"
+  },
+  {
+   "i": 490,
+   "speaker": "Вюиттон",
+   "text": "「Жадный старикашка!\n　Ты за это поплатишься!」",
+   "orig": "Vuitton\n「Greedy old man!\n　You'll pay for this!」"
+  },
+  {
+   "i": 491,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Закрой рот!\n　Я не собираюсь сидеть и молча слушать,\n　как ты меня оскорбляешь!」",
+   "orig": "Hoi Kow Lou\n「Shut your mouth!\n　I'm not about to just sit back and\n　listen to you insult me further!」"
+  },
+  {
+   "i": 492,
+   "speaker": "Чинджа",
+   "text": "「Прошу прощения, что перебиваю.\n　Вам обоим входящий вызов.」",
+   "orig": "Chinja\n「Pardon the interruption.\n　There is an incoming call for you both.」"
+  },
+  {
+   "i": 493,
+   "speaker": "Вюиттон",
+   "text": "「Нам обоим?」",
+   "orig": "Vuitton\n「Both of us?」"
+  },
+  {
+   "i": 494,
+   "speaker": "Чинджа",
+   "text": "「Да.\n　Клиент желает говорить и с господином\n　Хой Коу Лоу, и с Катрин Вюиттон.」",
+   "orig": "Chinja\n「Yes.\n　A client would like to talk to both\n　Master Hoi Kow Lou and Catherine Vuitton.」"
+  },
+  {
+   "i": 495,
+   "speaker": "Вюиттон",
+   "text": "「Одри, откуда вообще кто-то знает, что мы здесь?!」",
+   "orig": "Vuitton\n「Audrey, why does anyone know we're here?!」"
+  },
+  {
+   "i": 496,
+   "speaker": "Одри",
+   "text": "「Мы прибыли сюда в полной тайне...」",
+   "orig": "Audrey\n「We're here in absolute secrecy...」"
+  },
+  {
+   "i": 497,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Чинджа.\n　Кто с нами связывается?」",
+   "orig": "Hoi Kow Lou\n「Chinja.\n　Who is contacting us?」"
+  },
+  {
+   "i": 498,
+   "speaker": "Чинджа",
+   "text": "「Некто, назвавшийся мистером Иксом.」",
+   "orig": "Chinja\n「Someone calling himself Mr. X.」"
+  },
+  {
+   "i": 499,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Мистер—!」",
+   "orig": "Hoi Kow Lou\n「Mister—!」"
+  },
+  {
+   "i": 500,
+   "speaker": "Вюиттон",
+   "text": "「Икс!」",
+   "orig": "Vuitton\n「X!」"
+  },
+  {
+   "i": 504,
+   "speaker": "Хикару",
+   "text": "「Привет!\n　Ты ведь Найн, да?」",
+   "orig": "Hikaru\n「Hi there!\n　You're Nine, aren't you?」"
+  },
+  {
+   "i": 505,
+   "speaker": "Найн",
+   "text": "「А вы — Хикару и Идзуми.\n　Приятно познакомиться.」",
+   "orig": "Nine\n「And you're Hikaru and Izumi.\n　Nice to meet you.」"
+  },
+  {
+   "i": 506,
+   "speaker": "Идзуми",
+   "text": "「Найн.」",
+   "orig": "Izumi\n「Nine.」"
+  },
+  {
+   "i": 507,
+   "speaker": "Найн",
+   "text": "「Прошу, не смотрите мне в грудь при разговоре.」",
+   "orig": "Nine\n「Please do not stare at my chest when talking.」"
+  },
+  {
+   "i": 508,
+   "speaker": "Идзуми",
+   "text": "「Найн — это ведь「нет」. Восторга не вижу.」",
+   "orig": "Izumi\n「\"Nine\" too pleased I take it.」"
+  },
+  {
+   "i": 509,
+   "speaker": "Хикару",
+   "text": "「Ха-ха. Не принимай слова Идзуми\n　слишком всерьёз.」",
+   "orig": "Hikaru\n「Haha. Try not to take Izumi\n　too seriously.」"
+  },
+  {
+   "i": 510,
+   "speaker": "Найн",
+   "text": "「Но должна сказать, меня впечатлило,\n　насколько слаженно вы мыслите вдвоём.」",
+   "orig": "Nine\n「I do have to say though that I was inspired\n　by how well you thought together.」"
+  },
+  {
+   "i": 511,
+   "speaker": "Найн",
+   "text": "「Анализ той атаки позволил моему\n　тактическому процессору собрать данные,\n　эквивалентные 100 ТакО.」",
+   "orig": "Nine\n「Analyzing that attack,\n　my tactical processing capacity was able to\n　acquire data equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 512,
+   "speaker": "Идзуми",
+   "text": "「Данные, данные, данные.\n　А праздник продолжается.\n　Куда дальше?」",
+   "orig": "Izumi\n「Data, data, data.\n　The party lives on.\n　Where to next?」"
+  },
+  {
+   "i": 513,
+   "speaker": "Хикару",
+   "text": "「Да, после такой горы натто\n　хочется немного размяться.」",
+   "orig": "Hikaru\n「Yeah, I want to move a bit\n　after eating all that natto.」"
+  },
+  {
+   "i": 514,
+   "speaker": "Найн",
+   "text": "「Прошу прощения.\n　Мне нужно кое-куда идти.」",
+   "orig": "Nine\n「Excuse me.\n　I have somewhere I have to be.」"
+  },
+  {
+   "i": 515,
+   "speaker": "Идзуми",
+   "text": "「Не иначе как на встречу с парнем.」",
+   "orig": "Izumi\n「She must be meeting up with a guy.」"
+  },
+  {
+   "i": 516,
+   "speaker": "Хикару",
+   "text": "「Вот молодец!\n　Свидания под луной — это так романтично!」",
+   "orig": "Hikaru\n「Good for her!\n　Moonlit dates are romantic!」"
+  },
+  {
+   "i": 520,
+   "speaker": "Найн",
+   "text": "「Всем привет.」",
+   "orig": "Nine\n「Hi, everyone.」"
+  },
+  {
+   "i": 521,
+   "speaker": "Гайн",
+   "text": "「Найн.」",
+   "orig": "Gaine\n「Nine.」"
+  },
+  {
+   "i": 522,
+   "speaker": "Лео Бомбер",
+   "text": "「Что случилось?\n　Праздник ведь в самом разгаре.」",
+   "orig": "Leo Bomber\n「What's wrong?\n　The party is in full swing, isn't it?」"
+  },
+  {
+   "i": 523,
+   "speaker": "Найн",
+   "text": "「Мне просто захотелось поговорить с вами.」",
+   "orig": "Nine\n「I just wanted to talk with you guys.」"
+  },
+  {
+   "i": 524,
+   "speaker": "Фаер Дайвер",
+   "text": "「Как это мило с твоей стороны.」",
+   "orig": "Fire Diver\n「That's so sweet of you.」"
+  },
+  {
+   "i": 525,
+   "speaker": "Полис Дайвер",
+   "text": "「Тебе, наверное, неловко, что мы\n　остались в стороне от праздника.」",
+   "orig": "Police Diver\n「You probably felt bad about us\n　missing out on the party.」"
+  },
+  {
+   "i": 526,
+   "speaker": "Дино Бомбер",
+   "text": "「Но не переживай.」",
+   "orig": "Dino Bomber\n「But not to worry.」"
+  },
+  {
+   "i": 527,
+   "speaker": "Джет Дайвер",
+   "text": "「Смотри.」",
+   "orig": "Jet Diver\n「Look.」"
+  },
+  {
+   "i": 528,
+   "speaker": "Майто",
+   "text": "「Спасибо, что подождали!」",
+   "orig": "Maito\n「Thanks for waiting, everyone!」"
+  },
+  {
+   "i": 529,
+   "speaker": "Джудо",
+   "text": "「Продолжение вечера будет здесь.」",
+   "orig": "Judau\n「The after-party will be held here.」"
+  },
+  {
+   "i": 530,
+   "speaker": "Тобиа",
+   "text": "「Каким бы большим ни был дом Майто,\n　весь отряд «Отважный экспресс» в него не влезет.」",
+   "orig": "Tobia\n「No matter how big Maito's place might be,\n　it can't hold the whole Brave Express Corps.」"
+  },
+  {
+   "i": 531,
+   "speaker": "Найн",
+   "text": "「Все собрались.」",
+   "orig": "Nine\n「Everyone is here.」"
+  },
+  {
+   "i": 532,
+   "speaker": "Бёрд Бомбер",
+   "text": "「Эй! Я же сказал, не переживай!」",
+   "orig": "Bird Bomber\n「Hey! I told you not to worry, didn't I?」"
+  },
+  {
+   "i": 533,
+   "speaker": "Дрилл Дайвер",
+   "text": "「Майто и Хамада ни за что\n　про нас не забудут.」",
+   "orig": "Drill Diver\n「Maito and Hamada would never\n　forget about us.」"
+  },
+  {
+   "i": 534,
+   "speaker": "Гайн",
+   "text": "「Эй, Найн.\n　Тебе тоже стоит повеселиться.」",
+   "orig": "Gaine\n「Hey, Nine.\n　You should try to enjoy the party, too.」"
+  },
+  {
+   "i": 535,
+   "speaker": "Найн",
+   "text": "「Хорошо.」",
+   "orig": "Nine\n「OK.」"
+  }
+ ]
+}

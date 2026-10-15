@@ -1,0 +1,1336 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Майто",
+   "text": "「Какова обстановка?」",
+   "orig": "Maito\n「What's the situation?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Хамада",
+   "text": "「Салли, Харри, Ру, Элль и Найн —\n　все впутались в похищение некоего\n　Юдзиро Сэмпудзи, устроенное Катрин Вюиттон.」",
+   "orig": "Hamada\n「Sally, Harry, Roux, Elle, and Nine\n　all got dragged into Catherine Vuitton's\n　kidnap of one Yujiro Senpuji.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Майто",
+   "text": "「Юдзиро Сэмпудзи!\n　Это же мой дед!」",
+   "orig": "Maito\n「Yujiro Senpuji!\n　That's my grandfather!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Хамада",
+   "text": "「Так я и знал!」",
+   "orig": "Hamada\n「I knew it!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Тобиа",
+   "text": "「Прости, Майто.\n　Мы не смогли этому помешать.」",
+   "orig": "Tobia\n「Sorry, Maito.\n　We couldn't stop it.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Майто",
+   "text": "「Всё в порядке, Тобиа.\n　Выдвигайтесь с Джудо к точке 1201.」",
+   "orig": "Maito\n「It's OK, Tobia.\n　Come to Point 1201 with Judau.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Джудо",
+   "text": "「А искать остальных не надо?」",
+   "orig": "Judau\n「We don't have to look for everyone?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Майто",
+   "text": "「Нет, спасательная операция уже идёт.」",
+   "orig": "Maito\n「No, we're already working on the rescue.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Вюиттон",
+   "text": "「Просто спалите тут всё дотла!\n　Сгорит город — сгорит и натто!\n　И со всем этим будет покончено!」",
+   "orig": "Vuitton\n「Just burn it all down!\n　If the city burns, the natto burns!\n　Then this will all be over!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Одри",
+   "text": "「Принято.」",
+   "orig": "Audrey\n「Understood.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Вюиттон",
+   "text": "「Жар ведь заглушает запах!\n　Одним выстрелом — двух зайцев!」",
+   "orig": "Vuitton\n「So adding heat deadens the smell!\n　It's like killing two birds with one stone!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Хамада",
+   "text": "「Всё выходит из-под контроля!\n　Скорее, Майто!」",
+   "orig": "Hamada\n「This is getting out of control!\n　Hurry, Maito!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Харри",
+   "text": "「Мы вернулись!」",
+   "orig": "Harry\n「We're back!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Рури",
+   "text": "「Рада, что ты цел, Харри.」",
+   "orig": "Ruri\n「I'm glad you're safe, Harry.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Харри",
+   "text": "「Капитан.」",
+   "orig": "Harry\n「Captain.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Рури",
+   "text": "「Всем машинам! Приготовиться к вылету!」",
+   "orig": "Ruri\n「All units! Prepare for takeoff!」"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "「Ты как будто в ударе, Рёко!」",
+   "orig": "$n\n「You seem excited, Ryoko!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Рёко",
+   "text": "「А как же, на меня старая подруга смотрит!\n　Я не имею права опозориться!」",
+   "orig": "Ryoko\n「That's because an old friend is watching!\n　I'm not about to screw this up!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Майтгайн",
+   "text": "「Майто!\n　Тех, кого взяли на заводе контроля качества,\n　передали в руки полиции!」",
+   "orig": "Mightgaine\n「Maito!\n　Those caught at the quality assurance plant\n　have been taken into police custody!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Майто",
+   "text": "「Отлично!\n　Теперь очередь Розовой Кошки!」",
+   "orig": "Maito\n「That's great!\n　Now, it's the Pink Cat's turn!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Вюиттон",
+   "text": "「А ты наглый мальчишка, однако!\n　Я преподам тебе урок, который ты не забудешь!」",
+   "orig": "Vuitton\n「You're an audacious young one, aren't you?\n　I'll teach you a lesson you'll never forget!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Одри",
+   "text": "「Катрин, вызов на связи.」",
+   "orig": "Audrey\n「Catherine, there's a transmission.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Вюиттон",
+   "text": "「Сейчас?! От кого?」",
+   "orig": "Vuitton\n「Now?! From who?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Одри",
+   "text": "「От Хой Коу Лоу.\n　Я отвечу.」",
+   "orig": "Audrey\n「From Hoi Kow Lou.\n　I'll answer it.」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「Ты как будто в ударе, Рёко!」",
+   "orig": "$n\n「You seem excited, Ryoko!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Рёко",
+   "text": "「А как же, на меня старая подруга смотрит!\n　Я не имею права опозориться!」",
+   "orig": "Ryoko\n「That's because an old friend is watching!\n　I'm not about to screw this up!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Майтгайн",
+   "text": "「Майто!\n　Тех, кого взяли на заводе контроля качества,\n　передали в руки полиции!」",
+   "orig": "Mightgaine\n「Maito!\n　Those caught at the quality assurance plant\n　have been taken into police custody!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Майто",
+   "text": "「Отлично!\n　Теперь очередь Розовой Кошки!」",
+   "orig": "Maito\n「That's great!\n　Now, it's the Pink Cat's turn!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Вюиттон",
+   "text": "「А ты наглый мальчишка, однако!\n　Я преподам тебе урок, который ты не забудешь!」",
+   "orig": "Vuitton\n「You're an audacious young one, aren't you?\n　I'll teach you a lesson you'll never forget!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Одри",
+   "text": "「Катрин, вызов на связи.」",
+   "orig": "Audrey\n「Catherine, there's a transmission.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Вюиттон",
+   "text": "「Сейчас?! От кого?」",
+   "orig": "Vuitton\n「Now?! From who?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Одри",
+   "text": "「От Хой Коу Лоу.\n　Я отвечу.」",
+   "orig": "Audrey\n「From Hoi Kow Lou.\n　I'll answer it.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Хо-хо-хо. Никак сама Розовая Кошка,\n　или лучше сказать — Катрин Вюиттон?」",
+   "orig": "Hoi Kow Lou\n「Hohoho. If it isn't Pink Cat,\n　or should I say, Catherine Vuitton?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Вюиттон",
+   "text": "「Я сейчас занята. Это не подождёт?」",
+   "orig": "Vuitton\n「I'm busy right now. Can it wait?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Хой Коу Лоу",
+   "text": "「От такой злости морщины пойдут, между прочим.」",
+   "orig": "Hoi Kow Lou\n「All that anger is gonna lead to wrinkles, you know.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Вюиттон",
+   "text": "「Вот уж чего мне совсем не надо!」",
+   "orig": "Vuitton\n「That's about the last thing I need!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Хой Коу Лоу",
+   "text": "「В общем, я выслал подкрепление.\n　Распорядись им с толком.」",
+   "orig": "Hoi Kow Lou\n「Anyway, I sent reinforcements.\n　Put them to good use.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Трай Бомбер",
+   "text": "「Гляньте на этого робота!」",
+   "orig": "Tri Bomber\n「Look at that robot!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Гард Дайвер",
+   "text": "「Неужели это азиатская мафия такое сделала?」",
+   "orig": "Guard Diver\n「The Asian Mafia actually developed that?」"
+  },
+  {
+   "i": 39,
+   "speaker": "Вюиттон",
+   "text": "「Что, бесплатная проба твоего товара?」",
+   "orig": "Vuitton\n「Free trial of your product, is it?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Именно так.\n　Что ж, удачи.」",
+   "orig": "Hoi Kow Lou\n「That's right.\n　Anyway, good luck.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Вюиттон",
+   "text": "「Ну и ладно.\n　Грех не пустить их в дело.」",
+   "orig": "Vuitton\n「Well, whatever.\n　Might as well put them to good use.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Майтгайн",
+   "text": "「Что будем делать, Майто?」",
+   "orig": "Mightgaine\n「What are we going to do, Maito?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Майто",
+   "text": "「Да тут всё просто!\n　Мы сражаемся со злом!\n　Это наш долг!」",
+   "orig": "Maito\n「That's easy!\n　We combat evil!\n　It's our duty!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Вюиттон",
+   "text": "「Какая храбрость, мальчик!\n　Но если ты думаешь, что всё будет как прежде,\n　то жестоко ошибаешься!」",
+   "orig": "Vuitton\n「Very brave of you, boy!\n　But if you think this will be the same as before,\n　you're gravely mistaken!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Вюиттон",
+   "text": "「Время сегодняшнего урока!\n　Тема — моя ненависть к натто!」",
+   "orig": "Vuitton\n「It's time for today's lesson!\n　My hatred for natto!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Рури",
+   "text": "「О чём она вообще?」",
+   "orig": "Ruri\n「What is she talking about?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Харри",
+   "text": "「Даже не пытайтесь это понять!」",
+   "orig": "Harry\n「Don't bother trying to understand!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Вюиттон",
+   "text": "「Вы поплатитесь за то, что меня недооценили!」",
+   "orig": "Vuitton\n「You'll pay for underestimating me!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Джудо",
+   "text": "「А она крепкий орешек!」",
+   "orig": "Judau\n「She's tough!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Ру",
+   "text": "「Вредные дети всегда добиваются своего!」",
+   "orig": "Roux\n「Bad kids tend to get their way!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Харри",
+   "text": "「Неопознанная отметка на радаре!」",
+   "orig": "Harry\n「Unidentified radar response!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Сабуроута",
+   "text": "「Ещё подкрепление из жутких роботов!」",
+   "orig": "Saburouta\n「More terrifying robot reinforcements!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Майтгайн",
+   "text": "「Не похоже ни на робота Вюиттон,\n　ни на робота Хой Коу Лоу.」",
+   "orig": "Mightgaine\n「Doesn't seem like Vuitton's\n　or Hoi Kow Lou's robot.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тобиа",
+   "text": "「Но мы его уже видели, $n!」",
+   "orig": "Tobia\n「But we've seen it before, $n!」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「Да, точно!\n　Это враг из межпространственного разлома!」",
+   "orig": "$n\n「Yeah, you're right!\n　It's the enemy from the dimensional rift!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Майто",
+   "text": "「Враг, с которым вы столкнулись в том мире!\n　Что он делает здесь?」",
+   "orig": "Maito\n「The enemy you met in the other world!\n　What is it doing here?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Вельт",
+   "text": "「Должно быть, они тоже\n　перепрыгнули в этот мир!」",
+   "orig": "Velt\n「They must have made\n　the jump to this world!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Лотти",
+   "text": "「Капитан Рури!\n　Это беспилотники!\n　Выходить с ними на связь бессмысленно!」",
+   "orig": "Lottie\n「Captain Ruri!\n　They're drones!\n　There's no point in communicating with them!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Найн",
+   "text": "「Сканирую на признаки жизни.\n　Как и ожидалось, пилотов внутри нет.」",
+   "orig": "Nine\n「Scanning for signs of life.\n　As expected, there are no passengers.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Майтгайн",
+   "text": "「Не похоже ни на робота Вюиттон,\n　ни на робота Хой Коу Лоу.」",
+   "orig": "Mightgaine\n「Doesn't seem like Vuitton's\n　or Hoi Kow Lou's robot.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Тобиа",
+   "text": "「Но мы его уже видели, $n!」",
+   "orig": "Tobia\n「But we've seen it before, $n!」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Да, точно!\n　Это враг из межпространственного разлома!」",
+   "orig": "$n\n「Yeah, you're right!\n　It's the enemy from the dimensional rift!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Майто",
+   "text": "「Враг, с которым вы столкнулись в том мире!\n　Что он делает здесь?」",
+   "orig": "Maito\n「The enemy you met in the other world!\n　What is it doing here?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Тобиа",
+   "text": "「Видимо, они совершили прыжок, как и мы.」",
+   "orig": "Tobia\n「They must have made the jump like we did.」"
+  },
+  {
+   "i": 65,
+   "speaker": "$n",
+   "text": "「Капитан Рури!\n　Это беспилотники!\n　Выходить с ними на связь бессмысленно!」",
+   "orig": "$n\n「Captain Ruri!\n　They're drones!\n　There's no point in communicating with them!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Найн",
+   "text": "「Сканирую на признаки жизни.\n　Как и ожидалось, пилотов внутри нет.」",
+   "orig": "Nine\n「Scanning for signs of life.\n　As expected, there are no passengers.」"
+  },
+  {
+   "i": 67,
+   "speaker": "$n",
+   "text": "「Глупцы!\n　Думаете, здесь вы с нами поквитаетесь?」",
+   "orig": "$n\n「Fools!\n　Think you can get revenge on us here?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Вюиттон",
+   "text": "「Не знаю, кто они и откуда,\n　но для нас это шанс!」",
+   "orig": "Vuitton\n「I don't know who or where they're from,\n　but now is our chance!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Майтгайн",
+   "text": "「Не похоже ни на роботов Вюиттон,\n　ни на роботов Хой Коу Лоу.」",
+   "orig": "Mightgaine\n「Doesn't seem like Vuitton's\n　or Hoi Kow Lou's robots.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тобиа",
+   "text": "「Но мы их уже видели, $n!」",
+   "orig": "Tobia\n「But we've seen them before, $n!」"
+  },
+  {
+   "i": 71,
+   "speaker": "$n",
+   "text": "「Да, точно!\n　Это враг из межпространственного разлома!」",
+   "orig": "$n\n「Yeah, you're right!\n　It's the enemy from the dimensional rift!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Майто",
+   "text": "「Враг, с которым вы столкнулись в том мире!\n　Что они делают здесь?」",
+   "orig": "Maito\n「The enemy you met in the other world!\n　What are they doing here?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Вельт",
+   "text": "「Должно быть, они тоже\n　перепрыгнули в этот мир!」",
+   "orig": "Velt\n「They must have made\n　the jump to this world!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Лотти",
+   "text": "「Капитан Рури!\n　Это беспилотники!\n　Выходить с ними на связь бессмысленно!」",
+   "orig": "Lottie\n「Captain Ruri!\n　They're drones!\n　There's no point in communicating with them!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Найн",
+   "text": "「Сканирую на признаки жизни.\n　Как и ожидалось, пилотов внутри нет.」",
+   "orig": "Nine\n「Scanning for signs of life.\n　As expected, there are no passengers.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Майтгайн",
+   "text": "「Не похоже на машины Вюиттон\n　или Хой Коу Лоу.」",
+   "orig": "Mightgaine\n「Doesn't seem like Vuitton\n　or Hoi Kow Lou's mecha.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Тобиа",
+   "text": "「Но мы их уже видели, $n!」",
+   "orig": "Tobia\n「But we've seen them before, $n!」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Да, точно!\n　Это враг из межпространственного разлома!」",
+   "orig": "$n\n「Yeah, you're right!\n　It's the enemy from the dimensional rift!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Майто",
+   "text": "「Враг, с которым вы столкнулись в том мире!\n　Что они делают здесь?」",
+   "orig": "Maito\n「The enemy you met in the other world!\n　What are they doing here?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Тобиа",
+   "text": "「Видимо, они совершили прыжок, как и мы.」",
+   "orig": "Tobia\n「They must have made the jump like we did.」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Капитан Рури!\n　Это беспилотники!\n　Выходить с ними на связь бессмысленно!」",
+   "orig": "$n\n「Captain Ruri!\n　They're drones!\n　There's no point in communicating with them!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Найн",
+   "text": "「Сканирую на признаки жизни.\n　Как и ожидалось, пилотов внутри нет.」",
+   "orig": "Nine\n「Scanning for signs of life.\n　As expected, there are no passengers.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Думаете, здесь вы с нами поквитаетесь?」",
+   "orig": "$n\n「Think you can get revenge on us here?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Вюиттон",
+   "text": "「Не знаю, кто они и откуда,\n　но для нас это шанс!」",
+   "orig": "Vuitton\n「I don't know who or where they're from,\n　but now is our chance!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Майто",
+   "text": "「Я не дам тебе уйти!」",
+   "orig": "Maito\n「Not gonna let you get away!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Вюиттон",
+   "text": "「Сделай вид, что отступаешь,\n　и бей контратакой!」",
+   "orig": "Vuitton\n「Feign escape and hit\n　them with a counterattack!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Вюиттон",
+   "text": "「Слить из цистерны всё натто до капли!\n　А я пущу в ход Особую алмазную атаку!」",
+   "orig": "Vuitton\n「Release all the natto from within the tank!\n　I'll use my Special Diamond Attack!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Майтгайн",
+   "text": "「Кх!」",
+   "orig": "Mightgaine\n「Ngh!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Майто",
+   "text": "「Проклятье!」",
+   "orig": "Maito\n「Dammit!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Вюиттон",
+   "text": "「Хо-хо-хо-хо!\n　Вот каково это — быть облитым натто, мальчик!」",
+   "orig": "Vuitton\n「Hohohoho!\n　That's how it feels to be covered in natto, boy!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Вюиттон",
+   "text": "「Самое время с тобой покончить!」",
+   "orig": "Vuitton\n「It's about time I finish you off!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Рёко",
+   "text": "「Майто!」",
+   "orig": "Ryoko\n「Maito!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Одри",
+   "text": "「Этот малыш отбил удар\n　железным шаром «Фромажа»?」",
+   "orig": "Audrey\n「That little robot is able to deflect\n　the Fromage's iron ball attack?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Вюиттон",
+   "text": "「Не вздумай опростоволоситься, Одри!\n　Особая алмазная атака!」",
+   "orig": "Vuitton\n「Don't screw this up, Audrey!\n　Special Diamond Attack!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Одри",
+   "text": "「Прошу прощения.」",
+   "orig": "Audrey\n「Sorry about that.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Рёко",
+   "text": "「Мы покрепче, чем кажемся!」",
+   "orig": "Ryoko\n「We're tougher than we look!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Хикару",
+   "text": "「Рёко, ты слишком безрассудна!」",
+   "orig": "Hikaru\n「You're too reckless, Ryoko!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Рёко",
+   "text": "「Вот уж от кого не хочу это слышать — от той,\n　кто впервые за сто лет села в машину!」",
+   "orig": "Ryoko\n「That's the last thing I want to hear from\n　someone fighting for the first time in ages!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Идзуми",
+   "text": "「Да. И правда давненько не воевали.」",
+   "orig": "Izumi\n「Yeah. It really has been a while.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Вюиттон",
+   "text": "「И это сейчас, когда мелких роботов прибавилось!」",
+   "orig": "Vuitton\n「And just when we get more of these small robots!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Рури",
+   "text": "「Рёко!\n　Враг целится в Майтгайна!」",
+   "orig": "Ruri\n「Ryoko!\n　The enemy is targeting Mightgaine!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Рёко",
+   "text": "「Полем искажения я смогу\n　немного сбить урон!」",
+   "orig": "Ryoko\n「I can use a distortion field to\n　reduce the damage a bit!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Харри",
+   "text": "「Рёко!\n　Действуй по схеме, которую я тебе передаю.」",
+   "orig": "Harry\n「Ryoko!\n　Please use the tactics I'm sending your way.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Рёко",
+   "text": "「А?\n　Это что, всерьёз?」",
+   "orig": "Ryoko\n「Huh?\n　Is this for real?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Идзуми",
+   "text": "「Пока не попробуешь — не узнаешь.\n　Остаётся только рискнуть.」",
+   "orig": "Izumi\n「The proof is in the pudding.\n　We'll just have to give it a try.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Хикару",
+   "text": "「Давно мы не показывали,\n　на что способны в строю!」",
+   "orig": "Hikaru\n「It's been a while since we've last\n　shown what we can do in formation!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Трай Бомбер",
+   "text": "「Ныряем прямо в натто!」",
+   "orig": "Tri Bomber\n「Plunge into the natto!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Рёко",
+   "text": "「Погнали!\n　Торнадо-атака!」",
+   "orig": "Ryoko\n「Let's do this!\n　Tornado Attack!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Вюиттон",
+   "text": "「Что бы вы ни задумали, всё без толку!\n　Испытайте на себе мою\n　Особую алмазную атаку!」",
+   "orig": "Vuitton\n「Whatever you're up to, it's no use!\n　Feel the wrath of my\n　Special Diamond Attack!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Вюиттон",
+   "text": "「Не может быть!\n　Мою особую алмазную атаку\n　отбили!」",
+   "orig": "Vuitton\n「Impossible!\n　My special diamond attack\n　was deflected!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Рёко",
+   "text": "「Это всё из-за тягучести?」",
+   "orig": "Ryoko\n「Is it because of the stickiness?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Харри",
+   "text": "「Именно так!」",
+   "orig": "Harry\n「You guessed it!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Рури",
+   "text": "「Чем дольше мешаешь натто,\n　тем тягучее он становится.」",
+   "orig": "Ruri\n「The more you mix natto,\n　the stickier it gets.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Майто",
+   "text": "「Настолько, что остановил шар Вюиттон!」",
+   "orig": "Maito\n「Enough to stop Vuitton's iron ball!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Рёко",
+   "text": "「Но из-за этой тягучести\n　и мне самой трудно двигаться!」",
+   "orig": "Ryoko\n「But this stickiness\n　is also making it hard for me to move!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Рури",
+   "text": "「Это не беда.」",
+   "orig": "Ruri\n「That's OK.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Гард Дайвер",
+   "text": "「Гидропушка! Огонь!」",
+   "orig": "Guard Diver\n「Hydro Cannon! Fire!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Рёко",
+   "text": "「Отлично!\n　Машина снова слушается!」",
+   "orig": "Ryoko\n「All right!\n　My unit is moving normally!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Рури",
+   "text": "「От воды натто всегда теряет тягучесть!」",
+   "orig": "Ruri\n「Water always makes natto less sticky!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Рёко",
+   "text": "「Молодчина, Харри!\n　Отличный расчёт!」",
+   "orig": "Ryoko\n「Well done, Harry!\n　Nice tactics!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Харри",
+   "text": "「Это вы прекрасно всё отыграли.」",
+   "orig": "Harry\n「You did a great job coordinating them.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Рёко",
+   "text": "「Хе-хе. Приму за комплимент.」",
+   "orig": "Ryoko\n「Hehe. I'll take that as a compliment.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Сабуроута",
+   "text": "「Капитан, похоже, тоже знает толк в натто.」",
+   "orig": "Saburouta\n「The captain also seems to know a bit about natto.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Рури",
+   "text": "「Я часто его ела, когда жила\n　вместе с Акито.」",
+   "orig": "Ruri\n「I ate it often when I lived \n　with Akito.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Рёко",
+   "text": "「Рури...」",
+   "orig": "Ryoko\n「Ruri...」"
+  },
+  {
+   "i": 126,
+   "speaker": "Вюиттон",
+   "text": "「К-кх!\n　Меня снова погубило натто!」",
+   "orig": "Vuitton\n「U-ugh!\n　Undone by natto again!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Майто",
+   "text": "「Спасибо, Рёко!\n　И вам тоже, Хикару и Идзуми!」",
+   "orig": "Maito\n「Thank you, Ryoko!\n　And to you, Hikaru and Izumi!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Хикару",
+   "text": "「Да пустяки! Пустяки!」",
+   "orig": "Hikaru\n「It's nothing! Nothing!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Идзуми",
+   "text": "「Когда нас трое — точно пустяки.」",
+   "orig": "Izumi\n「Not with the three of us, it isn't.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Рёко",
+   "text": "「Верно сказано!\n　Прикрывайте меня, Хикару, Идзуми!」",
+   "orig": "Ryoko\n「You said it!\n　Cover me, Hikaru and Izumi!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Хикару",
+   "text": "「Есть!」",
+   "orig": "Hikaru\n「OK!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Рури",
+   "text": "「Мы вернулись к началу.\n　Наши цели — воры Розовой Кошки\n　и загадочный отряд беспилотников.」",
+   "orig": "Ruri\n「We're back to square one.\n　Our targets are the Pink Cat thieves\n　and the mysterious drone force.」"
+  },
+  {
+   "i": 133,
+   "speaker": "$n",
+   "text": "「Не знаю, кто они такие,\n　но нам повезло встретить их здесь!\n　Разнесём их раз и навсегда!」",
+   "orig": "$n\n「I don't know who they are,\n　but we're fortunate to meet them here!\n　We're gonna crush them once and for all!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Рури",
+   "text": "「Мы вернулись к началу.\n　Наши цели — воры Розовой Кошки\n　и загадочный отряд беспилотников.」",
+   "orig": "Ruri\n「We're back to square one.\n　Our targets are the Pink Cat thieves\n　and the mysterious drone force.」"
+  },
+  {
+   "i": 135,
+   "speaker": "$n",
+   "text": "「Не знаю, кто они такие,\n　но за нападение на нас они поплатятся!」",
+   "orig": "$n\n「I don't know who they are,\n　but they'll pay for attacking us!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Рёко",
+   "text": "「Есть!\n　Мы победили!」",
+   "orig": "Ryoko\n「Yes!\n　We won!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Майтгайн",
+   "text": "「Положение было, прямо скажем, липкое,\n　но мы всё-таки справились.」",
+   "orig": "Mightgaine\n「That was quite the sticky situation,\n　but we somehow managed.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Хикару",
+   "text": "「Было бы желание, а способ найдётся.」",
+   "orig": "Hikaru\n「Where there's a will, there's a way.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Идзуми",
+   "text": "「Упорство прямо как у натто — тянулось до конца.\n　Хе-хе-хе.」",
+   "orig": "Izumi\n「I dare say it was a natto-esque display of tenacity.\n　Hehehe.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Рёко",
+   "text": "「Давно мне не было так хорошо.」",
+   "orig": "Ryoko\n「I haven't felt this good in ages.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Рёко",
+   "text": "「Ну так что скажешь, Харри?\n　Возьмём теперь Хикару и Идзуми к себе?」",
+   "orig": "Ryoko\n「So how about it, Harry?\n　Can we add Hikaru and Izumi now?」"
+  },
+  {
+   "i": 142,
+   "speaker": "Харри",
+   "text": "「Разумеется, возьмём.\n　«Надэсико» будет только рад им.」",
+   "orig": "Harry\n「Of course we can.\n　Nadesico would be happy to have them.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Сабуроута",
+   "text": "「А ты и правда изменился, Харри.」",
+   "orig": "Saburouta\n「You've really changed, Harry.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Харри",
+   "text": "「Ну, кто-то же сказал, что важно хотя бы раз\n　попробовать что угодно. Хоть бы и натто.」",
+   "orig": "Harry\n「Well, someone said it's important for people\n　to give at least one try to things. Like natto.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Хикару",
+   "text": "「Какая прелесть!\n　Нынешняя команда «Надэсико» — просто душки!」",
+   "orig": "Hikaru\n「How cute!\n　Gotta love the current Nadesico team!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Рури",
+   "text": "「Кстати, Хикару,\n　раз уж натто у тебя есть, то срок сдачи—」",
+   "orig": "Ruri\n「By the way, Hikaru,\n　now that you have natto, your deadline—」"
+  },
+  {
+   "i": 147,
+   "speaker": "Хикару",
+   "text": "「Я-я не успеваю...」",
+   "orig": "Hikaru\n「I-I can't finish in time...」"
+  },
+  {
+   "i": 148,
+   "speaker": "Майто",
+   "text": "「Не переживай, Хикару.\n　Я нашёл тех, кто готов помочь.」",
+   "orig": "Maito\n「It's OK, Hikaru.\n　I found people willing to help out.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Рёко",
+   "text": "「Безупречная работа в связке!」",
+   "orig": "Ryoko\n「A perfect collaboration!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Хикару",
+   "text": "「А ты как думала?\n　Это же наша фирменная связка!」",
+   "orig": "Hikaru\n「Well, what did you expect?\n　It was our own combination, after all!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Идзуми",
+   "text": "「Эта связка и впрямь закрутила\n　колёса как надо...\n　Хе-хе-хе.」",
+   "orig": "Izumi\n「This combination really made\n　the wheels go 'round and 'round...\n　Hehehe.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Потрясающая троица.」",
+   "orig": "$n\n「What an amazing trio.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Найн",
+   "text": "「Опять заигрываешь?」",
+   "orig": "Nine\n「Flirting again?」"
+  },
+  {
+   "i": 154,
+   "speaker": "$n",
+   "text": "「Да нет. Просто восхищаюсь\n　их мастерством пилотов.」",
+   "orig": "$n\n「Nah. I'm just impressed with\n　their skills as pilots.」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「Надеюсь, это нас сблизит.」",
+   "orig": "$n\n「I hope this brings us together.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Найн",
+   "text": "「Вот как?」",
+   "orig": "Nine\n「You don't say?」"
+  },
+  {
+   "i": 157,
+   "speaker": "Рёко",
+   "text": "「Безупречная работа в связке!」",
+   "orig": "Ryoko\n「A perfect collaboration!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Хикару",
+   "text": "「А ты как думала?\n　Это же наша фирменная связка!」",
+   "orig": "Hikaru\n「Well, what did you expect?\n　It was our own combination, after all!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Идзуми",
+   "text": "「Эта связка и впрямь закрутила\n　колёса как надо...\n　Хе-хе-хе.」",
+   "orig": "Izumi\n「This combination really made\n　the wheels go 'round and 'round...\n　Hehehe.」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Потрясающая троица.」",
+   "orig": "$n\n「What an amazing trio.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Найн",
+   "text": "「Такая слаженность приходит только со временем.」",
+   "orig": "Nine\n「The kind of teamwork that comes with time.」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Думаешь, мы сможем так же?」",
+   "orig": "$n\n「Think we can be like them?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Найн",
+   "text": "「Мне это неизвестно.」",
+   "orig": "Nine\n「I do not know.」"
+  },
+  {
+   "i": 164,
+   "speaker": "$n",
+   "text": "「А от тебя так хотелось услышать что-нибудь вроде:\n　«Конечно, мы постараемся быть как они!»」",
+   "orig": "$n\n「I was hoping you'd say something like,\n　\"Of course, well will try to be like them!\"」"
+  },
+  {
+   "i": 165,
+   "speaker": "Найн",
+   "text": "「Так и есть, сестрица.」",
+   "orig": "Nine\n「Indeed, Sis.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Одри",
+   "text": "「Госпожа Катрин,\n　похоже, нам конец.」",
+   "orig": "Audrey\n「Lady Catherine,\n　It appears we're done for.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Вюиттон",
+   "text": "「П-проклятье!\n　Переделанный «Фромаж» пал от одного удара!\n　Да ещё и весь в этом мерзком натто!」",
+   "orig": "Vuitton\n「D-dammit all!\n　The remodeled Fromage undone by a single blow!\n　And now it's covered in disgusting natto!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Вюиттон",
+   "text": "「Запомни это, Майтгайн!\n　В следующий раз ты встанешь передо мной на колени!」",
+   "orig": "Vuitton\n「Take heed, Mightgaine!\n　Next time, I'll make you kneel before me!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Рёко",
+   "text": "「И зачем она вообще сюда явилась?」",
+   "orig": "Ryoko\n「Why did she have to show up at all?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Майтгайн",
+   "text": "「Жду не дождусь следующего невразумительного злодейства.」",
+   "orig": "Mightgaine\n「Can hardly wait for the next incomprehensible crime.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Майто",
+   "text": "「Ох. Даже думать об этом не хочу.」",
+   "orig": "Maito\n「Ugh. I don't even want to think about it.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Вюиттон",
+   "text": "「Хо-хо-хо-хо!\n　Этого маловато, чтобы\n　разделаться с моим «Фромажем»!」",
+   "orig": "Vuitton\n「Hohohoho!\n　That's not gonna be enough\n　to take out my Fromage!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Хатауэй",
+   "text": "「Кх!\n　Он крепче, чем кажется!」",
+   "orig": "Hathaway\n「Ugh!\n　It's stronger than it looks!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Рёко",
+   "text": "「Хатауэй!\n　В такие моменты врага надо отделать так,\n　чтобы он с рёвом бежал к мамочке!」",
+   "orig": "Ryoko\n「Hathaway!\n　It's time like these when you have to make\n　the enemy cry all the way home to mommy!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Майтгайн",
+   "text": "「Вот это отважная женщина.」",
+   "orig": "Mightgaine\n「Now there's a brave woman.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Майто",
+   "text": "「Мы обязаны выйти победителями!」",
+   "orig": "Maito\n「We've gotta come out on top!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Одри",
+   "text": "「Госпожа Катрин,\n　похоже, нам конец.」",
+   "orig": "Audrey\n「Lady Catherine,\n　It appears we're done for.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Вюиттон",
+   "text": "「П-проклятье!\n　Переделанный «Фромаж» пал от одного удара!\n　Да ещё и весь в этом мерзком натто!」",
+   "orig": "Vuitton\n「D-dammit all!\n　The remodeled Fromage undone by a single blow!\n　And now it's covered in disgusting natto! 」"
+  },
+  {
+   "i": 179,
+   "speaker": "Вюиттон",
+   "text": "「Запомни это, Майтгайн!\n　В следующий раз ты встанешь передо мной на колени!」",
+   "orig": "Vuitton\n「Take heed, Mightgaine!\n　Next time, I'll make you kneel before me!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Рёко",
+   "text": "「И зачем она вообще сюда явилась?」",
+   "orig": "Ryoko\n「Why did she have to show up at all?」"
+  },
+  {
+   "i": 181,
+   "speaker": "Майтгайн",
+   "text": "「Жду не дождусь следующего невразумительного злодейства.」",
+   "orig": "Mightgaine\n「Can hardly wait for the next incomprehensible crime.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Майто",
+   "text": "「Ох. Даже думать об этом не хочу.」",
+   "orig": "Maito\n「Ugh. I don't even want to think about it.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Майто",
+   "text": "「Катрин Вюиттон!\n　Я не позволю твоей прихоти лишить\n　весь мир драгоценного натто!」",
+   "orig": "Maito\n「Catherine Vuitton!\n　I will not let your ego deprive\n　the world of its precious natto!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Вюиттон",
+   "text": "「Мне нет никакого дела до простого люда!\n　Я ненавижу и презираю натто!\n　Этого довольно, чтобы стереть его с лица земли!」",
+   "orig": "Vuitton\n「I don't care one bit for the common people!\n　I hate and despite natto!\n　That's reason enough to eliminate it!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Майтгайн",
+   "text": "「Бесполезно, Майто.\n　Нам её никогда не понять.」",
+   "orig": "Mightgaine\n「It's no use, Maito.\n　We'll never be able to understand her.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Майто",
+   "text": "「Доводы злодеев для нас ничего не значат!」",
+   "orig": "Maito\n「A villain's reasoning means nothing to us!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Вюиттон",
+   "text": "「Р-р-р! Какая наглость, как всегда!」",
+   "orig": "Vuitton\n「Grrr! Audacious as ever!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Майто",
+   "text": "「Искоренять зло — моя работа!\n　Твои дни сочтены, Катрин Вюиттон!」",
+   "orig": "Maito\n「It's my job to root out evil!\n　Your days are numbered, Catherine Vuitton!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джудо",
+   "text": "「И это именно тогда, когда все наконец\n　смогли хоть немного пожить спокойно!」",
+   "orig": "Judau\n「And just when everyone was able to enjoy\n　a bit of peace and quiet for a change!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Джудо",
+   "text": "「Тот, кто не ценит мирную жизнь,\n　навсегда останется моим врагом!」",
+   "orig": "Judau\n「Those who do not value peace\n　will forever be my enemy!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Хатауэй",
+   "text": "「Так в этом мире, оказывается,\n　бывают и такие преступники!」",
+   "orig": "Hathaway\n「So there are criminals like this\n　in this world!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Хатауэй",
+   "text": "「Тем, кто не способен думать о других и о мире,\n　нельзя владеть такой силой!」",
+   "orig": "Hathaway\n「Those who cannot think about others or the world\n　cannot be allowed to possess such power!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Тобиа",
+   "text": "「Я слышал об этом мире\n　от «Селестиал Бин»,\n　но это уже ни в какие ворота!」",
+   "orig": "Tobia\n「I heard about the world\n　from Celestial Being,\n　but this is absolutely criminal!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Тобиа",
+   "text": "「Пираты раздавят грабителей!\n　Даже если придётся взять грубой силой!」",
+   "orig": "Tobia\n「The pirates will smash the robbers!\n　Even if we have to resort to brute force!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Найн",
+   "text": "「Кэп.\n　Зачем ты вообще добирался\n　до убежища Розовой Кошки?」",
+   "orig": "Nine\n「Cap.\n　Why did you come all the way\n　to the Pink Cat hideout?」"
+  },
+  {
+   "i": 196,
+   "speaker": "$n",
+   "text": "「Как это зачем?\n　Да потому что я за тебя переживаю.」",
+   "orig": "$n\n「Why you ask?\n　Because you had me worried.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Найн",
+   "text": "「Большое спасибо.」",
+   "orig": "Nine\n「Thank you very much.」"
+  },
+  {
+   "i": 198,
+   "speaker": "$n",
+   "text": "「Ну, вперёд!\n　Надо спасти наше любимое натто!」",
+   "orig": "$n\n「Well, let's get going!\n　We need to save our beloved natto!」"
+  },
+  {
+   "i": 199,
+   "speaker": "$n",
+   "text": "（Титосэ!\n　Надеюсь, с тобой всё хорошо!）",
+   "orig": "$n\n（Chitose!\n　I hope you're OK!）"
+  },
+  {
+   "i": 200,
+   "speaker": "Найн",
+   "text": "「Сестрица.\n　Зачем ты вообще добиралась\n　до убежища Розовой Кошки?」",
+   "orig": "Nine\n「Sis.\n　Why did you come all the way\n　to the Pink Cat hideout?」"
+  },
+  {
+   "i": 201,
+   "speaker": "$n",
+   "text": "「Чтобы тебя спасти, разумеется!」",
+   "orig": "$n\n「To rescue you, of course!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Найн",
+   "text": "「Спасти меня?」",
+   "orig": "Nine\n「Rescue me?」"
+  },
+  {
+   "i": 203,
+   "speaker": "$n",
+   "text": "「Напарница попала в беду.\n　Как тут не помочь?」",
+   "orig": "$n\n「My partner needed help.\n　It's the least I could do.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Найн",
+   "text": "「Спасибо.」",
+   "orig": "Nine\n「Thank you.」"
+  },
+  {
+   "i": 205,
+   "speaker": "$n",
+   "text": "「Ну, вперёд!\n　Пора проучить этих гадов, укравших\n　любимое натто Тацу!」",
+   "orig": "$n\n「Well, let's get going!\n　We need to punish those jerks that stole\n　Tatsu's beloved natto!」"
+  },
+  {
+   "i": 206,
+   "speaker": "$n",
+   "text": "（Содзи!\n　Я выкладываюсь без остатка!）",
+   "orig": "$n\n（Soji!\n　I'm doing my absolute best!）"
+  },
+  {
+   "i": 207,
+   "speaker": "Найн",
+   "text": "「Враг целится в «Вангрэя».」",
+   "orig": "Nine\n「The enemy is targeting the VangRay.」"
+  },
+  {
+   "i": 208,
+   "speaker": "$n",
+   "text": "「А?\n　Они что, мстят нам за то, что потеряли\n　своих в межпространственном разломе?」",
+   "orig": "$n\n「Huh?\n　Are they trying to get revenge for the\n　loss of their allies in the dimensional rift?」"
+  },
+  {
+   "i": 209,
+   "speaker": "Найн",
+   "text": "「Если так, значит, у них стоит такой же\n　супер-ИИ, как у отряда «Отважный экспресс».」",
+   "orig": "Nine\n「If so, it would mean that they possess the\n　same Super AI as the Brave Express Corps.」"
+  },
+  {
+   "i": 210,
+   "speaker": "$n",
+   "text": "「Зато ясно одно: такого же чувства\n　справедливости у них точно нет.」",
+   "orig": "$n\n「But we at least know that they don't\n　possess the same sense of justice.」"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "「С теми, кто лезет в драку с нами прямо\n　в этом городе, церемониться незачем.\n　Разделаемся с ними!」",
+   "orig": "$n\n「We don't need to show restraint to anyone\n　willing to pick a fight with us in this city.\n　Let's take 'em out!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Найн",
+   "text": "「Враг целится в «Вангрэя».」",
+   "orig": "Nine\n「The enemy is targeting the VangRay.」"
+  },
+  {
+   "i": 213,
+   "speaker": "$n",
+   "text": "「Может, они мстят нам за то, что потеряли\n　своих в межпространственном разломе?」",
+   "orig": "$n\n「Maybe they're trying to get revenge for the\n　loss of their allies in the dimensional rift?」"
+  },
+  {
+   "i": 214,
+   "speaker": "Найн",
+   "text": "「Если так, значит, у них стоит такой же\n　супер-ИИ, как у отряда «Отважный экспресс».」",
+   "orig": "Nine\n「If so, it would mean that they possess the\n　same Super AI as the Brave Express Corps.」"
+  },
+  {
+   "i": 215,
+   "speaker": "$n",
+   "text": "「Но что-то тут не сходится!\n　В них нет справедливости Гайна!」",
+   "orig": "$n\n「But something's not right!\n　They lack Gaine's sense of justice!」"
+  },
+  {
+   "i": 216,
+   "speaker": "$n",
+   "text": "「С теми, кто лезет в драку с нами в таком\n　городе, церемониться незачем.\n　Разделаемся с ними!」",
+   "orig": "$n\n「We don't need to show restraint to anyone\n　willing to pick a fight with us in a city like this.\n　Let's take 'em out!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Рёко",
+   "text": "「Пошли, Хикару, Идзуми!」",
+   "orig": "Ryoko\n「Let's go, Hikaru and Izumi!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Хикару",
+   "text": "「Мы готовы!」",
+   "orig": "Hikaru\n「We're ready!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Идзуми",
+   "text": "「Как шайка в бане!」",
+   "orig": "Izumi\n「Like a bucket in a bath!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Рёко",
+   "text": "「Отлично!\n　Теперь нас уже ничто не остановит!」",
+   "orig": "Ryoko\n「All right!\n　Nothing is gonna stop us now!」"
+  },
+  {
+   "i": 221,
+   "speaker": "$n",
+   "text": "「О!」",
+   "orig": "$n\n「Oh!」"
+  }
+ ]
+}

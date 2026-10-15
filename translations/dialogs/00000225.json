@@ -1,0 +1,1618 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Вюиттон",
+   "text": "「Хо-хо-хо-хо!\n　Недурной дебют для Опасного\n　Золотого Альянса, сиречь ОЗ-Альянса!」",
+   "orig": "Vuitton\n「Hohohoho!\n　Not a bad debut for the Dangerous\n　Gold Alliance aka DG Alliance!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Мифунэ",
+   "text": "「Эх.\n　Выбрось я тогда ножницы — звались бы мы\n　Великий Ураганный Отряд Эдо.」",
+   "orig": "Mifune\n「Ugh.\n　If only I'd gone with scissors,\n　it would have been Super Edo Gale Force.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Вюиттон",
+   "text": "「Мелочно ныть о том, на что сами же\n　и согласились, сёгун Мифунэ.」",
+   "orig": "Vuitton\n「It's petty of you to keep complaining about\n　something we agreed on, Shogun Mifune.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Мифунэ",
+   "text": "「Молчать!\n　Настоящий мужчина знает, когда держать рот на замке!」",
+   "orig": "Mifune\n「Silence!\n　Men know when to keep their mouths shut!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Вольфганг",
+   "text": "「Кстати говоря,\n　Хой Коу Лоу давно что-то не видать.」",
+   "orig": "Wolfgang\n「By the way,\n　I haven't seen Hoi Kow Lou for a while.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Вюиттон",
+   "text": "「Я бы о нём не беспокоился.」",
+   "orig": "Vuitton\n「I wouldn't worry about him.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Вольфганг",
+   "text": "「Ладно, неважно.\n　«Майтгайн» весь твой, Дзё.」",
+   "orig": "Wolfgang\n「Well, it doesn't matter.\n　Mightgaine is all yours, Joe.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Дзё",
+   "text": "「Понял.」",
+   "orig": "Joe\n「Roger.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Дзё",
+   "text": "「Выходи, «Надэсико»!\n　И ты тоже, «Майтгайн»!」",
+   "orig": "Joe\n「Come on out, Nadesico!\n　And you, too, Mightgaine!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Дзё",
+   "text": "「Сегодня я покончу с этим раз и навсегда!」",
+   "orig": "Joe\n「I'm gonna settle this once and for all!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Салли",
+   "text": "（Бой начался, всё как и говорил Дзё.）",
+   "orig": "Sally\n（A fight is happening just like Joe said it would.）"
+  },
+  {
+   "i": 11,
+   "speaker": "Салли",
+   "text": "（В котором из этих роботов\n　сидит Дзё?）",
+   "orig": "Sally\n（Which of those robots\n　is Joe piloting?）"
+  },
+  {
+   "i": 12,
+   "speaker": "Тэцуя",
+   "text": "「Сестра! Смотри!\n　Это «Майтгайн»!」",
+   "orig": "Tetsuya\n「Sis! Look!\n　It's Mightgaine!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Майто",
+   "text": "「«Хирю»!\n　Значит, это Дзё по прозвищу Ас!」",
+   "orig": "Maito\n「Hiryu!\n　That means Joe the Ace!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Дзё",
+   "text": "「Я долго этого ждал, Майто Сэмпудзи.\n　Сегодня я тебя и загрызу.」",
+   "orig": "Joe\n「I've been waiting for this, Maito Senpuji.\n　This is the day that I prey upon you.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Майто",
+   "text": "「И ради этого стоит\n　разносить целый город?」",
+   "orig": "Maito\n「Is it really worth destroying\n　the whole city over?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Дзё",
+   "text": "「У нашего нанимателя свои счёты\n　к тебе и к «Надэсико».」",
+   "orig": "Joe\n「Our employer takes issue\n　with you and Nadesico.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Дзё",
+   "text": "「«Надэсико» я оставлю остальным.\n　Ты — мой!」",
+   "orig": "Joe\n「I'll let the others take care of Nadesico.\n　You're mine!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Харри",
+   "text": "「Поверить не могу: все преступники,\n　с которыми мы дрались, явились разом!」",
+   "orig": "Harry\n「I can't believe criminals we've\n　faced are all appearing at once!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Рури",
+   "text": "「И это почти доказывает, что\n　у всех у них один и тот же главарь.」",
+   "orig": "Ruri\n「And that all but confirms that\n　they all share the same boss.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Локон",
+   "text": "「Зато то, что они собрались в одном месте,\n　нам даже на руку!」",
+   "orig": "Lockon\n「But having them all in one place\n　isn't exactly a bad thing!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Сэцуна",
+   "text": "「Покончим с ними здесь —\n　и сразу в космос!」",
+   "orig": "Setsuna\n「We'll take 'em all out here\n　and then head into space!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Тэцуя",
+   "text": "「Майто!\n　Один неверный шаг — и городу конец!」",
+   "orig": "Tetsuya\n「Maito!\n　One false move could spell doom for the city!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Бандзё",
+   "text": "「Тебе некогда тратить время на дуэли!」",
+   "orig": "Banjo\n「You can't afford to waste time on duels!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Майто",
+   "text": "「Понял!\n　Тогда бьёмся все вместе!」",
+   "orig": "Maito\n「Got it!\n　Then we'll fight as a team!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Дзё",
+   "text": "「Ну-ну, Майто Сэмпудзи!\n　Мне плевать, как ты будешь драться —\n　конец у тебя всё равно один!」",
+   "orig": "Joe\n「OK, Maito Senpuji!\n　I don't care how you go about it,\n　you're still gonna end up dead!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Майто",
+   "text": "「Так иди и возьми, Дзё!\n　Я дерусь с тобой и за «Трай Бомбер»,\n　и за добрых жителей этого города!」",
+   "orig": "Maito\n「Come and get it, Joe!\n　I'll fight you for both Tri Bomber\n　and the good people of this city!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Салли",
+   "text": "（Майто… Дзё…）",
+   "orig": "Sally\n（Maito... Joe...）"
+  },
+  {
+   "i": 28,
+   "speaker": "Майто",
+   "text": "「Вот видишь, Дзё!\n　Победа за нами!」",
+   "orig": "Maito\n「You see, Joe!\n　Victory is ours!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Дзё",
+   "text": "「Ничего ещё не кончено, Майто Сэмпудзи!」",
+   "orig": "Joe\n「It's not over 'til it's over, Maito Senpuji!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Курц",
+   "text": "「Он что, всё ещё рвётся в бой?」",
+   "orig": "Kurz\n「He still wants to fight?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Мао",
+   "text": "「Да он и правда хорош, раз может\n　управлять машиной, которой досталось\n　столько, сколько досталось этой!」",
+   "orig": "Mao\n「He really must be amazing\n　if he can continue to pilot a mech\n　that's sustained that much damage!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Дзё",
+   "text": "「Фух.\n　Надо отдать старику Вольфгангу должное.\n　Отклик у этой машины что надо.」",
+   "orig": "Joe\n「Phew.\n　I gotta hand it to old Wolfgang.\n　This mech's response is really something.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Дзё",
+   "text": "「Я иду за тобой, Майто Сэмпудзи!\n　Второй раунд начинается! 」",
+   "orig": "Joe\n「I'm coming for ya, Maito Senpuji!\n　Round two is about to start! 」"
+  },
+  {
+   "i": 34,
+   "speaker": "Майто",
+   "text": "「Я готов, Дзё!」",
+   "orig": "Maito\n「I'm ready for you, Joe!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Майто",
+   "text": "「Ответь мне, Дзё!\n　Почему ты охотишься за мной?」",
+   "orig": "Maito\n「Tell me something, Joe!\n　Why are you after me?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Дзё",
+   "text": "「С чего бы мне тебе отвечать!」",
+   "orig": "Joe\n「I'm under no obligation to answer that!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Майто",
+   "text": "「Тогда ты не оставляешь мне выбора!」",
+   "orig": "Maito\n「Then you leave me no choice!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Майтгайн",
+   "text": "「Стой, Майто!\n　Там кто-то есть!」",
+   "orig": "Mightgaine\n「Wait, Maito!\n　Someone is there!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Майто",
+   "text": "「Это же—!」",
+   "orig": "Maito\n「That's—!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Салли",
+   "text": "「Прекратите!\n　Вы оба!!」",
+   "orig": "Sally\n「Stop it!\n　Both of you!!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Майто",
+   "text": "「Салли!」",
+   "orig": "Maito\n「Sally!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Дзё",
+   "text": "「Открылся!」",
+   "orig": "Joe\n「An opening!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Майто",
+   "text": "「Чёрт!\n　Он меня достал!」",
+   "orig": "Maito\n「Dammit!\n　He's got me!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Дзё",
+   "text": "「А теперь вдребезги кокпит.」",
+   "orig": "Joe\n「Now to smash the hell outta the cockpit.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Майто",
+   "text": "「А-а!」",
+   "orig": "Maito\n「Argh!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Каппэй",
+   "text": "「Майто!」",
+   "orig": "Kappei\n「Maito!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Утюта",
+   "text": "「Это засада!」",
+   "orig": "Uchuta\n「It's an ambush!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Кэйко",
+   "text": "「Но они бьют и по Дзё Асу тоже!」",
+   "orig": "Keiko\n「But they're attacking Joe the Ace, too!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Майто",
+   "text": "「Этот робот!」",
+   "orig": "Maito\n「That robot!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Дзё",
+   "text": "「Это Хой Коу Лоу!」",
+   "orig": "Joe\n「It's Hoi Kow Lou!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Именно так, Дзё Ас!」",
+   "orig": "Hoi Kow Lou\n「That's right, Joe the Ace!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Чинджа",
+   "text": "「Хотя нам было бы приятнее,\n　если бы и ты, и «Майтгайн» легли разом.」",
+   "orig": "Chinja\n「Though we would have preferred it if\n　you and Mightgaine both went down.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Дзё",
+   "text": "「Что?!」",
+   "orig": "Joe\n「Huh?!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Такой человек, как ты, просто\n　не годится для Великого\n　Хой Коу Лоу и компании.」",
+   "orig": "Hoi Kow Lou\n「A man like you is simply\n　not a good fit for the Great\n　Hoi Kow Lou and Company.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Хой Коу Лоу",
+   "text": "「А посему мы решили разделаться\n　и с тобой, и с «Майтгайном».」",
+   "orig": "Hoi Kow Lou\n「Therefore, we've decided to take\n　care of both you and Mightgaine.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Чинджа",
+   "text": "「Одолев «Майтгайна», господин Хой Коу Лоу\n　станет бесспорным вожаком.」",
+   "orig": "Chinja\n「Defeating Mightgaine makes Master Hoi\n　Kow Lou the undisputed leader.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ха-ха-ха-ха!\n　Подумать только: меня равняют с безумным учёным,\n　мелким воришкой и самураем-недоучкой.」",
+   "orig": "Hoi Kow Lou\n「Hahahaha!\n　And to think I'm afforded the same treatment as\n　a mad scientist, petty thief, and wannabe samurai.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Дзё",
+   "text": "「Ах ты!」",
+   "orig": "Joe\n「You!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Поздно!\n　Пора кончать дело «Нибелунгом»,\n　который я купил у Вольфганга!」",
+   "orig": "Hoi Kow Lou\n「It's too late!\n　It's time to finish this with the Nibelung\n　I bought from Wolfgang!」"
+  },
+  {
+   "i": 60,
+   "speaker": "？？？",
+   "text": "「Не так быстро!」",
+   "orig": "？？？\n「Not so fast!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Бэттл Бомбер",
+   "text": "「«Майтгайн»!\n　За дело!」",
+   "orig": "Battle Bomber\n「Mightgaine!\n　Let's do this!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Думаешь, со мной это пройдёт?」",
+   "orig": "Battle Bomber\n「You think that's gonna work on me?」"
+  },
+  {
+   "i": 63,
+   "speaker": "Майто",
+   "text": "「Да ты же!」",
+   "orig": "Maito\n「You!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Я — Бэттл Бомбер!\n　Это «Трай Бомбер» плюс новый товарищ —\n　Хорн Бомбер!」",
+   "orig": "Battle Bomber\n「I am Battle Bomber!\n　I am Tri Bomber with the addition\n　of a new ally, Horn Bomber!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Тобиа",
+   "text": "「Бомберы!」",
+   "orig": "Tobia\n「Bombers!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Джудо",
+   "text": "「И как раз вовремя!」",
+   "orig": "Judau\n「And not a second too soon!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Бэттл Бомбер",
+   "text": "「И всё это благодаря трудам\n　управляющего Осаки и Хамады!」",
+   "orig": "Battle Bomber\n「It's all thanks to Manager Osaka\n　and Hamada's hard work!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Гард Дайвер",
+   "text": "「Рады видеть тебя, Бэттл Бомбер.」",
+   "orig": "Guard Diver\n「We're happy to have you, Battle Bomber.」"
+  },
+  {
+   "i": 69,
+   "speaker": "$n",
+   "text": "「Заставили же вы нас ждать!」",
+   "orig": "$n\n「You've kept us waiting!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Рури",
+   "text": "「Хорошо, Бэттл Бомбер.\n　Выложись по полной.」",
+   "orig": "Ruri\n「OK, Battle Bomber.\n　Give us your best.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Положитесь на нас, капитан Рури!」",
+   "orig": "Battle Bomber\n「You can count on us, Captain Ruri!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Найн",
+   "text": "「Хорн Бомбер.\n　Мы недавно виделись.」",
+   "orig": "Nine\n「Horn Bomber.\n　We met recently.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Привет, Найн!\n　Экспресс-корпус Зверей возродился!」",
+   "orig": "Battle Bomber\n「Hi there, Nine!\n　This is the Beast Express Corps reborn!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Будь ты проклят, Вольфганг!\n　Этой груде железа, что ты мне всучил,\n　с тем роботом не тягаться!」",
+   "orig": "Hoi Kow Lou\n「Damn you, Wolfgang!\n　This bucket of bolts you sold me\n　is no match for that robot!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Не совсем так, Хой Коу Лоу!\n　Просто твои удары бессильны\n　против брони этого нового тела!」",
+   "orig": "Battle Bomber\n「Not quite, Hoi Kow Lou!\n　It's just that your attacks are useless\n　against this new body's armor!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Чинджа",
+   "text": "「Тц. Всего лишь ещё одна помеха на пути!」",
+   "orig": "Chinja\n「Tsk. Just one more obstacle to overcome!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Сумераги",
+   "text": "「Всего лишь?」",
+   "orig": "Sumeragi\n「Just one?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Думаешь, со мной это пройдёт?」",
+   "orig": "Battle Bomber\n「You think that's gonna work on me?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Майто",
+   "text": "「Да ты же!」",
+   "orig": "Maito\n「You!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Я — Бэттл Бомбер!\n　Это «Трай Бомбер» плюс новый товарищ —\n　Хорн Бомбер!」",
+   "orig": "Battle Bomber\n「I am Battle Bomber!\n　I am Tri Bomber with the addition\n　of a new ally, Horn Bomber!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Тобиа",
+   "text": "「Бомберы!」",
+   "orig": "Tobia\n「Bombers!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Джудо",
+   "text": "「И как раз вовремя!」",
+   "orig": "Judau\n「And not a second too soon!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Бэттл Бомбер",
+   "text": "「И всё это благодаря трудам\n　управляющего Осаки и Хамады!」",
+   "orig": "Battle Bomber\n「It's all thanks to Manager Osaka\n　and Hamada's hard work!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Гард Дайвер",
+   "text": "「Рады видеть тебя, Бэттл Бомбер.」",
+   "orig": "Guard Diver\n「We're happy to have you, Battle Bomber.」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Заставили же вы нас ждать!」",
+   "orig": "$n\n「You've kept us waiting!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Рури",
+   "text": "「Хорошо, Бэттл Бомбер.\n　Покажи, на что ты способен.」",
+   "orig": "Ruri\n「OK, Battle Bomber.\n　Show us what you can do.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Положитесь на нас, капитан Рури!」",
+   "orig": "Battle Bomber\n「You can count on us, Captain Ruri!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Будь ты проклят, Вольфганг!\n　Этой груде железа, что ты мне всучил,\n　с тем роботом не тягаться!」",
+   "orig": "Hoi Kow Lou\n「Damn you, Wolfgang!\n　This bucket of bolts you sold me\n　is no match for that robot!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Не совсем так, Хой Коу Лоу!\n　Просто твои удары бессильны\n　против брони этого нового тела!」",
+   "orig": "Battle Bomber\n「Not quite, Hoi Kow Lou!\n　It's just that your attacks are useless\n　against this new body's armor!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Чинджа",
+   "text": "「Вот бы ещё один враг объявился!」",
+   "orig": "Chinja\n「If only another enemy appeared!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Сумераги",
+   "text": "「И думаешь, этого бы хватило?」",
+   "orig": "Sumeragi\n「You think that'd be enough?」"
+  },
+  {
+   "i": 92,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Думаешь, со мной это пройдёт?」",
+   "orig": "Battle Bomber\n「You think that's gonna work on me?」"
+  },
+  {
+   "i": 93,
+   "speaker": "Майто",
+   "text": "「Да ты же!」",
+   "orig": "Maito\n「You!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Я — Бэттл Бомбер!\n　Это «Трай Бомбер» плюс новый товарищ —\n　Хорн Бомбер!」",
+   "orig": "Battle Bomber\n「I am Battle Bomber!\n　I am Tri Bomber with the addition\n　of a new ally, Horn Bomber!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тобиа",
+   "text": "「Бомберы!」",
+   "orig": "Tobia\n「Bombers!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Джудо",
+   "text": "「И как раз вовремя!」",
+   "orig": "Judau\n「And not a second too soon!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Бэттл Бомбер",
+   "text": "「И всё это благодаря трудам\n　управляющего Осаки и Хамады!」",
+   "orig": "Battle Bomber\n「It's all thanks to Manager Osaka\n　and Hamada's hard work!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Гард Дайвер",
+   "text": "「Рады видеть тебя, Бэттл Бомбер.」",
+   "orig": "Guard Diver\n「We're happy to have you, Battle Bomber.」"
+  },
+  {
+   "i": 99,
+   "speaker": "$n",
+   "text": "「С возвращением, Бомберы!」",
+   "orig": "$n\n「Welcome back, Bombers!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Рури",
+   "text": "「Хорошо, Бэттл Бомбер.\n　Выложись по полной.」",
+   "orig": "Ruri\n「OK, Battle Bomber.\n　Give us your best.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Положитесь на нас, капитан Рури!」",
+   "orig": "Battle Bomber\n「You can count on us, Captain Ruri!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Найн",
+   "text": "「Хорн Бомбер.\n　Мы недавно виделись.」",
+   "orig": "Nine\n「Horn Bomber.\n　We met recently.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Привет, Найн!\n　Экспресс-корпус Зверей возродился!」",
+   "orig": "Battle Bomber\n「Hi there, Nine!\n　This is the Beast Express Corps reborn!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Будь ты проклят, Вольфганг!\n　Этой груде железа, что ты мне всучил,\n　с тем роботом не тягаться!」",
+   "orig": "Hoi Kow Lou\n「Damn you, Wolfgang!\n　This bucket of bolts you sold me\n　is no match for that robot!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Не совсем так, Хой Коу Лоу!\n　Просто твои удары бессильны\n　против брони этого нового тела!」",
+   "orig": "Battle Bomber\n「Not quite, Hoi Kow Lou!\n　It's just that your attacks are useless\n　against this new body's armor!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Чинджа",
+   "text": "「Вот бы ещё один враг объявился!」",
+   "orig": "Chinja\n「If only another enemy appeared!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Сумераги",
+   "text": "「И думаешь, этого бы хватило?」",
+   "orig": "Sumeragi\n「You think that'd be enough?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Думаешь, со мной это пройдёт?」",
+   "orig": "Battle Bomber\n「You think that's gonna work on me?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Майто",
+   "text": "「Да ты же!」",
+   "orig": "Maito\n「You!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Я — Бэттл Бомбер!\n　Это «Трай Бомбер» плюс новый товарищ —\n　Хорн Бомбер!」",
+   "orig": "Battle Bomber\n「I am Battle Bomber!\n　I am Tri Bomber with the addition\n　of a new ally, Horn Bomber!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Тобиа",
+   "text": "「Бомберы!」",
+   "orig": "Tobia\n「Bombers!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Джудо",
+   "text": "「И как раз вовремя!」",
+   "orig": "Judau\n「And not a second too soon!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Бэттл Бомбер",
+   "text": "「И всё это благодаря трудам\n　управляющего Осаки и Хамады!」",
+   "orig": "Battle Bomber\n「It's all thanks to Manager Osaka\n　and Hamada's hard work!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Гард Дайвер",
+   "text": "「Рады видеть тебя, Бэттл Бомбер.」",
+   "orig": "Guard Diver\n「We're happy to have you, Battle Bomber.」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「С возвращением, Бомберы!」",
+   "orig": "$n\n「Welcome back, Bombers!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Рури",
+   "text": "「Хорошо, Бэттл Бомбер.\n　Покажи, на что ты способен.」",
+   "orig": "Ruri\n「OK, Battle Bomber.\n　Show us what you can do.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Положитесь на нас, капитан Рури!」",
+   "orig": "Battle Bomber\n「You can count on us, Captain Ruri!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Будь ты проклят, Вольфганг!\n　Этой груде железа, что ты мне всучил,\n　с тем роботом не тягаться!」",
+   "orig": "Hoi Kow Lou\n「Damn you, Wolfgang!\n　This bucket of bolts you sold me\n　is no match for that robot!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Не совсем так, Хой Коу Лоу!\n　Просто твои удары бессильны\n　против брони этого нового тела!」",
+   "orig": "Battle Bomber\n「Not quite, Hoi Kow Lou!\n　It's just that your attacks are useless\n　against this new body's armor!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Чинджа",
+   "text": "「Вот бы ещё один враг объявился!」",
+   "orig": "Chinja\n「If only another enemy appeared!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Сумераги",
+   "text": "「И думаешь, этого бы хватило?」",
+   "orig": "Sumeragi\n「You think that'd be enough?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ч-что?!」",
+   "orig": "Hoi Kow Lou\n「Wh-what?!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Коласур",
+   "text": "「Простите за ожидание!\n　Я ас Земной Федерации, Везунчик Коласур!」",
+   "orig": "Colasour\n「Sorry to keep you waiting!\n　I'm the Earth Federation ace, Lucky Colasour!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Аллилуйя",
+   "text": "「Это тот самый, кого прозвали\n　Бессмертным Коласуром?」",
+   "orig": "Allelujah\n「You mean, the man known\n　as The Immortal Colasour?」"
+  },
+  {
+   "i": 125,
+   "speaker": "Пэрис",
+   "text": "「Похоже, он сменил прозвище.」",
+   "orig": "Peries\n「Looks like he's changed his name.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Атрун",
+   "text": "「Такого типа я ещё\n　не видел.」",
+   "orig": "Athrun\n「I've never seen\n　that type before.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Грэм",
+   "text": "「Я майор Грэм Эйкер из отряда\n　«Солбрейвз» Земной Федерации.\n　Мы прибыли на помощь.」",
+   "orig": "Graham\n「I'm Major Graham Aker of the\n　Earth Federation's Solbraves.\n　We're here to help.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Дзё",
+   "text": "「А?」",
+   "orig": "Joe\n「Huh?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Сэцуна",
+   "text": "「Понял.\n　Рады, что вы с нами.」",
+   "orig": "Setsuna\n「Understood.\n　We're happy to have you.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Грэм",
+   "text": "（Парень.\n　Вот наконец и день, когда мы бьёмся бок о бок.）",
+   "orig": "Graham\n（Boy.\n　The day we fight together is here at least.）"
+  },
+  {
+   "i": 131,
+   "speaker": "Хой Коу Лоу",
+   "text": "「О нет! Дело плохо!」",
+   "orig": "Hoi Kow Lou\n「Oh no! This is bad!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Дзё",
+   "text": "「Ну всё!」",
+   "orig": "Joe\n「OK!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Ч-что ты делаешь, Дзё?」",
+   "orig": "Hoi Kow Lou\n「Wh-what are you doing, Joe?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Чинджа",
+   "text": "「Ты же не предаёшь нас, а?!」",
+   "orig": "Chinja\n「You're not betraying us, are you?!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Дзё",
+   "text": "「Что за вздор.\n　Это ведь вы на меня напали.」",
+   "orig": "Joe\n「What nonsense.\n　Didn't you just attack me?」"
+  },
+  {
+   "i": 136,
+   "speaker": "Майто",
+   "text": "「Дзё.」",
+   "orig": "Maito\n「Joe.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Дзё",
+   "text": "「Майто Сэмпудзи.\n　С тобой мы рассчитаемся позже.」",
+   "orig": "Joe\n「Maito Senpuji.\n　We'll settle this later.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Дзё",
+   "text": "「Я своих врагов не прощаю!」",
+   "orig": "Joe\n「I do not forgive my enemies!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Майто",
+   "text": "「Значит, будешь драться вместе с нами?」",
+   "orig": "Maito\n「So you're gonna fight with us?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Дзё",
+   "text": "「Я такого не говорил.\n　Считай, это временное перемирие.」",
+   "orig": "Joe\n「I didn't say that.\n　Let's call it a temporary cease-fire.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Майто",
+   "text": "「И на том спасибо!\n　А пока — раздавим Хой Коу Лоу!」",
+   "orig": "Maito\n「Good enough!\n　For now, we'll crush Hoi Kow Lou!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Грэм",
+   "text": "（Дзё…）",
+   "orig": "Graham\n（Joe...）"
+  },
+  {
+   "i": 143,
+   "speaker": "Коласур",
+   "text": "「За дело, Грэм Эйкер.\n　Мы, Земная Федерация,\n　не терпим преступников.」",
+   "orig": "Colasour\n「Let's do this, Graham Aker.\n　We of the Earth Federation\n　do not tolerate outlaws.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Грэм",
+   "text": "「Вас понял!」",
+   "orig": "Graham\n「Roger that!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Бандзё",
+   "text": "「Ты крупно просчитался, Хой Коу Лоу!」",
+   "orig": "Banjo\n「You've miscalculated terribly, Hoi Kow Lou!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Молчать!\n　Этот робот, «Шаомай», — сильнейшее,\n　что когда-либо создавала моя организация!」",
+   "orig": "Hoi Kow Lou\n「Silence!\n　This robot, Shaomai, is the strongest\n　my organization has ever produced!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Хой Коу Лоу",
+   "text": "「И с ним я разом уничтожу «Майтгайна»,\n　Дзё Аса и «Надэсико»!」",
+   "orig": "Hoi Kow Lou\n「And with it, I'm gonna destroy Mightgaine,\n　Joe the Ace, and Nadesico all at once!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Дзё",
+   "text": "「Это ты так думаешь?」",
+   "orig": "Joe\n「Is that what you think?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Майто",
+   "text": "「Готовься, Хой Коу Лоу!\n　Узри силу справедливости!」",
+   "orig": "Maito\n「Get ready, Hoi Kow Lou!\n　Behold the power of justice!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Т-ты!\n　Я тебе этого не прощу!」",
+   "orig": "Hoi Kow Lou\n「Y-you!\n　I'll never forgive you!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Чинджа",
+   "text": "「Господин Хой Коу Лоу!\n　Нам надо уносить отсюда ноги!」",
+   "orig": "Chinja\n「Master Hoi Kow Lou!\n　We've gotta get out of here!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Хой Коу Лоу",
+   "text": "「А? Что?\n　Ч-что такое?!」",
+   "orig": "Hoi Kow Lou\n「Huh? What?\n　Wh-what?!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Фельдт",
+   "text": "「Силы противника уничтожены.」",
+   "orig": "Feldt\n「The enemy force has been destroyed.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Сумераги",
+   "text": "「Разгром такого крупного отряда должен\n　изрядно подкосить эту преступную организацию.」",
+   "orig": "Sumeragi\n「Beating a force as big as that one should\n　hamper the criminal organization a bit.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Рури",
+   "text": "「И мы знаем, что будет дальше.」",
+   "orig": "Ruri\n「And we know what comes next.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Майто",
+   "text": "「Дзё.」",
+   "orig": "Maito\n「Joe.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Дзё",
+   "text": "「Сегодня нам помешали.\n　Но час расплаты всё равно настанет.」",
+   "orig": "Joe\n「We were interfered with today.\n　But the day of reckoning will come.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Грэм",
+   "text": "「Постой, Дзё.」",
+   "orig": "Graham\n「Wait, Joe.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Дзё",
+   "text": "「Хм…」",
+   "orig": "Joe\n「Hmm...」"
+  },
+  {
+   "i": 160,
+   "speaker": "Грэм",
+   "text": "「Бывшего командира ты всё же слушаешь.」",
+   "orig": "Graham\n「Guess you'd listen to your former superior.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Дзё",
+   "text": "「Это ведь ты научил меня летать.」",
+   "orig": "Joe\n「You're the one who taught me how to fly.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Грэм",
+   "text": "「Да.\n　И я пытался собрать лучших\n　в новое боевое подразделение.」",
+   "orig": "Graham\n「Yes.\n　And I tried to gather talent\n　for a new fighting force.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Грэм",
+   "text": "「Но ты к тому времени уже ушёл.\n　Точнее, тебя выгнали, когда вскрылось,\n　что ты пытался украсть секретные данные.」",
+   "orig": "Graham\n「But you had already quit by then.\n　Or rather, your attempted theft of secrets\n　was exposed and you were driven out.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Грэм",
+   "text": "「Ответь мне, Дзё.\n　Какого чёрта ты это сделал?」",
+   "orig": "Graham\n「Answer me, Joe.\n　Why the heck did you do that?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Дзё",
+   "text": "「Этого я не смогу, даже если прикажешь.」",
+   "orig": "Joe\n「I couldn't do that, even if you ordered it.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Грэм",
+   "text": "「Открой глаза, Дзё!\n　Будешь и дальше водиться с преступниками —\n　сам прогниёшь насквозь!」",
+   "orig": "Graham\n「Open your eyes, Joe!\n　You're gonna end up corrupted if you\n　keep associating with outlaws!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Дзё",
+   "text": "「Прежнего меня больше нет.」",
+   "orig": "Joe\n「The old me is dead and gone.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Грэм",
+   "text": "「Дзё…」",
+   "orig": "Graham\n「Joe...」"
+  },
+  {
+   "i": 169,
+   "speaker": "Коласур",
+   "text": "「Упрямым он был\n　всегда.」",
+   "orig": "Colasour\n「He's always\n　been stubborn.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Грэм",
+   "text": "「Верно.」",
+   "orig": "Graham\n「True.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Майто",
+   "text": "「Вы прибыли сюда,\n　чтобы встретиться с Дзё?」",
+   "orig": "Maito\n「Did you come here\n　to confront Joe?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Грэм",
+   "text": "「И чтобы драться плечом к плечу с вами.」",
+   "orig": "Graham\n「And to fight at your side.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Коласур",
+   "text": "「Но пока в Федерации сидят сочувствующие\n　Марсианскому преемнику, у армии связаны руки.」",
+   "orig": "Colasour\n「But with Martian Successor sympathizers\n　in the Federation, the army's hands are tied.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Коласур",
+   "text": "「А в итоге остался я,\n　Патрик Маннекин!\n　Мы здесь по приказу бригадного генерала!」",
+   "orig": "Colasour\n「And the end result is me,\n　Patrick Mannequin!\n　We came here on the brigadier general's orders!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Локон",
+   "text": "「Везунчик Коласур…\n　А «Коласур» откуда взялся?」",
+   "orig": "Lockon\n「Lucky Colasour...\n　Where does the \"Colasour\" come from?」"
+  },
+  {
+   "i": 176,
+   "speaker": "Коласур",
+   "text": "「Это моя прежняя фамилия.」",
+   "orig": "Colasour\n「It's my old name.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Сумераги",
+   "text": "「Спасибо, майор Грэм и командир Патрик.\n　Бригадный генерал Кати мне о вас рассказывала.」",
+   "orig": "Sumeragi\n「Thanks, Major Graham and Commander Patrick.\n　I heard about you from Brigadier General Kati.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Фельдт",
+   "text": "「Сумераги!\n　Мы принимаем данные\n　о Марсианских преемниках!」",
+   "orig": "Feldt\n「Sumeragi!\n　We're receiving data on\n　the Martian Successors!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Харри",
+   "text": "「А отправитель — Дзё Ас!\n　Здесь и сведения об их центре!」",
+   "orig": "Harry\n「And the sender is Joe the Ace!\n　There's also info on their center!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Рури",
+   "text": "「Зачем ему это?」",
+   "orig": "Ruri\n「Why would he do that?」"
+  },
+  {
+   "i": 181,
+   "speaker": "Бандзё",
+   "text": "「Эта преступная организация связана\n　с Марсианскими преемниками.\n　Вполне вероятно, что данные подлинные.」",
+   "orig": "Banjo\n「This criminal organization\n　is connected to the Martian Successors.\n　It's quite likely that it's real.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Коласур",
+   "text": "「Может, он так\n　возвращает нам долг.」",
+   "orig": "Colasour\n「It might be his way\n　of paying us back.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Грэм",
+   "text": "「Грозным он только прикидывается, а долги платит.\n　Ты совсем не изменился, Дзё.」",
+   "orig": "Graham\n「He may act tough, but he pays his debts.\n　You haven't changed a bit, Joe.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Майто",
+   "text": "（Дзё Ас.\n　Ради чего ты дерёшься?）",
+   "orig": "Maito\n（Joe the Ace.\n　Why do you fight?）"
+  },
+  {
+   "i": 185,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Отлично!\n　Лучше и быть не могло!」",
+   "orig": "Battle Bomber\n「All right!\n　That couldn't have gone better!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Гард Дайвер",
+   "text": "「Наша сила стала ещё больше,\n　чем была!」",
+   "orig": "Guard Diver\n「Our power is even greater\n　than it already was!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Да!\n　Против нас никому не выстоять!」",
+   "orig": "Battle Bomber\n「Yeah!\n　No one stands a chance against us!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Найн",
+   "text": "「Мы на тебя рассчитываем, Бэттл Бомбер.」",
+   "orig": "Nine\n「We're counting on you, Battle Bomber.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Дзё",
+   "text": "「Не может быть…\n　Это просто невозмож—」",
+   "orig": "Joe\n「Impossible...\n　There's no way—」"
+  },
+  {
+   "i": 190,
+   "speaker": "Майто",
+   "text": "「Дзё…」",
+   "orig": "Maito\n「Joe...」"
+  },
+  {
+   "i": 191,
+   "speaker": "Грэм",
+   "text": "「Как—\n　Как же ты мог…」",
+   "orig": "Graham\n「How—\n　How could you...」"
+  },
+  {
+   "i": 192,
+   "speaker": "Дзё",
+   "text": "「Дуэль, толпой — мне всё равно!\n　Я всё равно тебя одолею!」",
+   "orig": "Joe\n「I don't care if it's a duel or in teams!\n　I'm going to defeat you!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Майто",
+   "text": "「А я не собираюсь быть твоей добычей!」",
+   "orig": "Maito\n「I've got no interest in being your prey!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Майто",
+   "text": "「Поехали, Дзё!\n　Мне плевать, насколько ты хорош!\n　Проигрывать я не намерен!」",
+   "orig": "Maito\n「Here we go, Joe!\n　I don't care how good you are!\n　I'm not about to lose!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Дзё",
+   "text": "「Прославленный добряк, Бандзё Харан.\n　Противник, с которым я очень хотел сойтись.」",
+   "orig": "Joe\n「The renowned nice guy, Banjo Haran.\n　An opponent I really wanted to fight.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Бандзё",
+   "text": "「Я бы предпочёл, чтобы ты не втягивал меня\n　в свои глупые игры.」",
+   "orig": "Banjo\n「I'd prefer that you leave me\n　out of your silly games.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Дзё",
+   "text": "「Ты напоминаешь мне Майто Сэмпудзи!\n　И это вовсе не похвала!」",
+   "orig": "Joe\n「You remind me of Maito Senpuji!\n　And that's not a good thing!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Бандзё",
+   "text": "「До чего же себялюбивые доводы!\n　Таким, как ты, никогда не одолеть\n　меня и «Дайтарн 3»!」",
+   "orig": "Banjo\n「Such selfish reasons!\n　The likes of you will never\n　beat me and Daitarn 3!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Тэцуя",
+   "text": "「Теперь ясно, почему ты зовёшь себя Асом.\n　Манёвры у тебя и впрямь недурны.」",
+   "orig": "Tetsuya\n「I see why you call yourself Ace.\n　Your moves are pretty impressive.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Дзё",
+   "text": "「Ты!\n　Ты держишь мой темп?!」",
+   "orig": "Joe\n「You!\n　You can match my mobility?!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Тэцуя",
+   "text": "「Я тоже не последний пилот!\n　И в воздушном бою уступать не намерен!」",
+   "orig": "Tetsuya\n「I'm also a renowned pilot!\n　And I'm not about to lose a dogfight!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Тэцуя",
+   "text": "「Хочешь добраться до Майто —\n　сперва одолей его наставника!」",
+   "orig": "Tetsuya\n「If you want a shot at Maito,\n　you're gonna have to beat his coach first!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Каппэй",
+   "text": "「Ну ты даёшь!\n　Ты и правда силён!」",
+   "orig": "Kappei\n「You!\n　You're really strong!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Дзё",
+   "text": "「С дороги.\n　Мне некогда возиться с мелюзгой.」",
+   "orig": "Joe\n「Outta my way.\n　I don't have time to play with some brat.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Каппэй",
+   "text": "「Да как ты смеешь!\n　Никакая я не мелюзга!」",
+   "orig": "Kappei\n「How dare you!\n　I'm no brat!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Каппэй",
+   "text": "「Я дрался не на жизнь, а на смерть!\n　И не собираюсь проигрывать такому\n　себялюбивому подонку, как ты!」",
+   "orig": "Kappei\n「I've been fighting for my life!\n　And I'm not about to lose to a selfish\n　scumbag like you!」"
+  },
+  {
+   "i": 207,
+   "speaker": "$n",
+   "text": "「Так двигается только тот,\n　кто тренировался без поблажек!」",
+   "orig": "$n\n「Your movements are definitely those\n　of someone who trained regularly!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Дзё",
+   "text": "「Мой бывший командир\n　гонял меня нещадно.」",
+   "orig": "Joe\n「My former superior\n　pushed me hard.」"
+  },
+  {
+   "i": 209,
+   "speaker": "$n",
+   "text": "「Жаль мне его.\n　Знал бы он, каким мерзавцем ты стал!」",
+   "orig": "$n\n「I feel sorry for him.\n　If he knew the villain you'd become!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Дзё",
+   "text": "「Такими жалкими подначками\n　меня из себя не вывести!」",
+   "orig": "Joe\n「That degree of provocation\n　will not upset me in the least!」"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "「Я и не стану опускаться до уловок!\n　Я остановлю тебя\n　своим мастерством пилота!」",
+   "orig": "$n\n「I'd never stoop to such tricks!\n　I'll use my skills as a pilot\n　to stop you in your tracks!」"
+  },
+  {
+   "i": 212,
+   "speaker": "$n",
+   "text": "「Ты силён!\n　И всё же!」",
+   "orig": "$n\n「You're strong!\n　Still!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Дзё",
+   "text": "「Знаешь, что я сильнее, и всё равно лезешь?」",
+   "orig": "Joe\n「You know I'm stronger and you still come?」"
+  },
+  {
+   "i": 214,
+   "speaker": "$n",
+   "text": "「Пусть в одиночку мне тебя не одолеть —\n　вместе с Найн у меня это выйдет!」",
+   "orig": "$n\n「Even if I can't beat you alone,\n　I can at least do it with Nine's help!」"
+  },
+  {
+   "i": 215,
+   "speaker": "$n",
+   "text": "「Сейчас мы покажем надменному одиночке,\n　на что мы способны!」",
+   "orig": "$n\n「We're about to show a haughty lone wolf\n　exactly what we can do!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Найн",
+   "text": "「Хорошо сказано, сестра.」",
+   "orig": "Nine\n「Well said, Sis.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Майто",
+   "text": "「Торговец смертью, Хой Коу Лоу!\n　Твоему разгулу приходит конец!」",
+   "orig": "Maito\n「Merchant of death, Hoi Kow Lou!\n　Your reign of terror ends here!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Чинджа",
+   "text": "「Тьфу! Молчать! Молчать!」",
+   "orig": "Chinja\n「Ugh! Shut up! Shut up!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Мы поставили на «Шаомай» всю организацию!\n　Скоро ты пожалеешь об этих словах!」",
+   "orig": "Hoi Kow Lou\n「We staked our entire organization on Shaomai!\n　You will soon come to regret those words!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Майто",
+   "text": "「Сомневаюсь!\n　Потому что победим мы!」",
+   "orig": "Maito\n「I doubt it!\n　Because we're gonna win!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Майто",
+   "text": "「Я никогда не склонюсь перед злом!\n　Ни я, ни Отважный экспресс-корпус!」",
+   "orig": "Maito\n「I will never succumb to evil!\n　Neither I nor the Brave Express Corps!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Майтгайн",
+   "text": "「Я дерусь за то, что твои амбиции\n　сотворили с бедным Блэком!」",
+   "orig": "Mightgaine\n「I fight for what your ambitions\n　did to poor Black!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Майто",
+   "text": "「Торговец смертью, Хой Коу Лоу!\n　Твоему разгулу приходит конец!」",
+   "orig": "Maito\n「Merchant of death, Hoi Kow Lou!\n　Your reign of terror ends here!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Чинджа",
+   "text": "「Тьфу! Молчать! Молчать!」",
+   "orig": "Chinja\n「Ugh! Shut up! Shut up!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Мы поставили на «Шаомай» всю организацию!\n　Скоро ты пожалеешь об этих словах!」",
+   "orig": "Hoi Kow Lou\n「We staked our entire organization on Shaomai!\n　You will soon come to regret those words!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Майто",
+   "text": "「Сомневаюсь!\n　Потому что победим мы!」",
+   "orig": "Maito\n「I doubt it!\n　Because we're gonna win!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Майто",
+   "text": "「Я никогда не склонюсь перед злом!\n　Ни я, ни Отважный экспресс-корпус!」",
+   "orig": "Maito\n「I will never succumb to evil!\n　Neither I nor the Brave Express Corps!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Бандзё Харан!\n　Как ты смеешь мешать моим делам!」",
+   "orig": "Hoi Kow Lou\n「Banjo Haran!\n　How dare you hinder my business!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Бандзё",
+   "text": "「Это ты мешаешь миру на всей планете.\n　И я здесь, чтобы заставить тебя за это заплатить.」",
+   "orig": "Banjo\n「You're the one who has hindered world peace.\n　And I'm here to make you pay for it.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Чинджа",
+   "text": "「Э-этот тип смотрит на нас свысока!」",
+   "orig": "Chinja\n「Th-this guy is looking down on us!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Так вот ты каков, добряк Бандзё Харан!」",
+   "orig": "Hoi Kow Lou\n「So you're the nice guy, Banjo Haran!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Бандзё",
+   "text": "「Во мне горит солнце!\n　Так слушай же, Хой Коу Лоу!\n　Я развею твою тьму!」",
+   "orig": "Banjo\n「I've got the sun in me!\n　So hear this, Hoi Kow Lou!\n　I'm gonna sweep your darkness away!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Тэцуя",
+   "text": "「Конец у злодеев почти всегда\n　выходит жалким.」",
+   "orig": "Tetsuya\n「The end for villains is almost\n　always a miserable one.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Хой Коу Лоу",
+   "text": "「М-молчать!\n　До конца ещё далеко!」",
+   "orig": "Hoi Kow Lou\n「Sh-shut up!\n　This is far from over!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Тэцуя",
+   "text": "「Раз сам не понимаешь —\n　нам придётся тебе объяснить!」",
+   "orig": "Tetsuya\n「If you can't see it for yourself\n　We'll just have to make you understand!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Тэцуя",
+   "text": "「Мне и «Грейт Мазингеру»!」",
+   "orig": "Tetsuya\n「Me and Great Mazinger!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Чинджа",
+   "text": "「О-он человек или демон?」",
+   "orig": "Chinja\n「I-is he man or demon?」"
+  },
+  {
+   "i": 238,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Наследие Беалиан!\n　За такое дадут немалые деньги!」",
+   "orig": "Hoi Kow Lou\n「The Bealian legacy!\n　That'll fetch a pretty penny!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Каппэй",
+   "text": "「Замолчи!\n　Мы сдадим тебя полиции!」",
+   "orig": "Kappei\n「Shut up!\n　We're gonna get you into police custody!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Чинджа",
+   "text": "「Думаешь, ребёнок способен нас одолеть?」",
+   "orig": "Chinja\n「You think a child can beat us?」"
+  },
+  {
+   "i": 241,
+   "speaker": "Каппэй",
+   "text": "「Не хочешь проиграть ребёнку —\n　завязывал бы с мафией!」",
+   "orig": "Kappei\n「If you don't want to lose to a child,\n　you might wanna leave the mafia!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Чинджа",
+   "text": "「Господин Хой Коу Лоу!\n　Пара-Мейл на подходе!」",
+   "orig": "Chinja\n「Master Hoi Kow Lou!\n　Para-Mail incoming!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Отребье-норма!\n　Тебе не место во внешнем мире!」",
+   "orig": "Hoi Kow Lou\n「Norma scum!\n　You've got no right to walk the outside world!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Анж",
+   "text": "「Меня не занимает справедливое возмездие.」",
+   "orig": "Ange\n「I've got no interest in poetic justice.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Анж",
+   "text": "「Но лично мне ты противен!\n　Я позабочусь о том, чтобы ты\n　больше никому не навредил!」",
+   "orig": "Ange\n「But I personally can't stand you!\n　I'm gonna make sure you\n　never do evil again!」"
+  },
+  {
+   "i": 246,
+   "speaker": "$n",
+   "text": "「Недурно.\n　Вот это настоящий робот главного злодея.\n　Не терпится его разнести.」",
+   "orig": "$n\n「Nice.\n　This really is the evil boss's robot.\n　I can't wait to break it.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Найн",
+   "text": "「В каком смысле?」",
+   "orig": "Nine\n「What do you mean?」"
+  },
+  {
+   "i": 248,
+   "speaker": "$n",
+   "text": "「Попроси Хикару\n　показать тебе $kwbГэкиганга$kwe.\n　Ты взглянешь на мир по-новому.」",
+   "orig": "$n\n「You should ask Hikaru\n　to show you $kwbGekiganger$kwe.\n　It'll change how you see the world.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Да ты!\n　Мы не какие-то злодеи из мультика!」",
+   "orig": "Hoi Kow Lou\n「You!\n　We're more than mere cartoon villains!」"
+  },
+  {
+   "i": 250,
+   "speaker": "$n",
+   "text": "「А вот и нет, всё ровно то же самое.\n　Плохие парни в конце всегда проигрывают!」",
+   "orig": "$n\n「But it really is the same, you see.\n　The bad guys always lose in the end!」"
+  },
+  {
+   "i": 251,
+   "speaker": "$n",
+   "text": "「Трусливый торговец смертью!\n　Я без колебаний тебя уничтожу!」",
+   "orig": "$n\n「Cowardly merchant of death!\n　I won't hesitate to destroy you!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Чинджа",
+   "text": "「Эта девчонка вообразила себя\n　поборницей справедливости.」",
+   "orig": "Chinja\n「This girl is mistaking herself\n　for an ally of justice.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Глупцы!\n　Мы покажем вам, насколько\n　мультики расходятся с жизнью!」",
+   "orig": "Hoi Kow Lou\n「Fool!\n　We'll show you just how different\n　reality and cartoons can be!」"
+  },
+  {
+   "i": 254,
+   "speaker": "$n",
+   "text": "「Может, я и не герой, как Майто или Бандзё.\n　И никакой не поборник справедливости.」",
+   "orig": "$n\n「Maybe I'm not a hero like Maito or Banjo.\n　And I'm no ally of justice.」"
+  },
+  {
+   "i": 255,
+   "speaker": "$n",
+   "text": "「Но всё же!\n　Таким преступникам, как ты,\n　нельзя разгуливать на свободе!」",
+   "orig": "$n\n「However!\n　Criminals like you cannot\n　be allowed to roam free!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Дзё.\n　Извинись сейчас — и я позволю тебе\n　остаться у меня в прихвостнях.」",
+   "orig": "Hoi Kow Lou\n「Joe.\n　Apologize now, and I'll allow you\n　to be one of my henchmen.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Чинджа",
+   "text": "「Правда, для этого придётся встать на колени.」",
+   "orig": "Chinja\n「Though you will need to kneel before him.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Дзё",
+   "text": "「Ты плохо понимаешь, кто здесь кто.」",
+   "orig": "Joe\n「You don't know your place on the pecking order.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Хой Коу Лоу",
+   "text": "「Да как ты смеешь!\n　Ты всего лишь бродячий пёс!」",
+   "orig": "Hoi Kow Lou\n「How dare you!\n　You're just a stray dog!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Дзё",
+   "text": "「Я дерусь только за себя.\n　А кто встанет на пути — тот умрёт!」",
+   "orig": "Joe\n「I fight for me and me only.\n　You'll die for getting in my way!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Бэттл Бомбер",
+   "text": "「За дело!\n　Обрушим на врага всю мощь,\n　что течёт в этом теле!」",
+   "orig": "Battle Bomber\n「Let's do this!\n　Let's hit the enemy with all of the power\n　that flows within this body!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Бомберы Экспресс-корпуса Зверей!\n　Навёрстываем упущенное!」",
+   "orig": "Battle Bomber\n「Beast Express Corps Bombers!\n　We're gonna make up for lost time!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Грэм",
+   "text": "（Есть то, что ты можешь сделать для мира.\n　А есть твой долг солдата.）",
+   "orig": "Graham\n（There's what you can do for the world.\n　And there's your duty as a soldier.）"
+  },
+  {
+   "i": 264,
+   "speaker": "Грэм",
+   "text": "（Сэцуна Ф. Сэйэй.\n　Встретив тебя, я сбился с пути — и,\n　встретив снова, обрёл его вновь.）",
+   "orig": "Graham\n（Setsuna F. Seiei.\n　I lost my way by meeting you and then\n　found it by meeting you again.）"
+  },
+  {
+   "i": 265,
+   "speaker": "Грэм",
+   "text": "（Теперь моим крыльям ничто не мешает!\n　Я буду драться с тобой, как и мечтал.）",
+   "orig": "Graham\n（Now there's nothing to bind my wings!\n　I'll fight with you as I've always wanted.）"
+  },
+  {
+   "i": 266,
+   "speaker": "Коласур",
+   "text": "「За дело!\n　Командир— то есть бригадный генерал\n　ждёт от меня великих свершений!」",
+   "orig": "Colasour\n「Let's do this!\n　Commander— I mean, Brigadier General\n　is expecting big things out of me!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Коласур",
+   "text": "「И я вас не подведу, дорогой мой командир!\n　Погодите! Я покажу, насколько заслуженно\n　меня зовут Везунчиком Коласуром!」",
+   "orig": "Colasour\n「And I won't disappoint you, my dear Commander!\n　Just you wait! I'll show you just how fitting\n　the Lucky Colasour name really is!」"
+  },
+  {
+   "i": 268,
+   "speaker": "$n",
+   "text": "「О！」",
+   "orig": "$n\n「Oh！」"
+  }
+ ]
+}

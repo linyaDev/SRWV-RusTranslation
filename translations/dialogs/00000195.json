@@ -1,0 +1,1582 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Сумераги",
+   "text": "「Даём бой Драконам здесь.」",
+   "orig": "Sumeragi\n「We'll engage the Dragons here.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Салия",
+   "text": "「Все Пара-мейлы готовы?」",
+   "orig": "Salia\n「Are all Para-Mail units ready?」"
+  },
+  {
+   "i": 2,
+   "speaker": "Вивиан",
+   "text": "「А?\n　А где Анж?」",
+   "orig": "Vivian\n「Huh?\n　Where's Ange?」"
+  },
+  {
+   "i": 3,
+   "speaker": "Крис",
+   "text": "「На «Птолемее» её тоже не было.」",
+   "orig": "Chris\n「She wasn't on the Ptolemaios, either.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Салия",
+   "text": "「Анж отлёживается с простудой.」",
+   "orig": "Salia\n「Ange is recuperating from a cold.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Эрша",
+   "text": "「Ох.\n　Это плохо.」",
+   "orig": "Ersha\n「Uh oh.\n　That's not good.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Розали",
+   "text": "「Вот же зараза!\n　Небось дрыхнет себе в одном белье!」",
+   "orig": "Rosalie\n「Damn her!\n　She's probably catching Z's in her undies!」"
+  },
+  {
+   "i": 7,
+   "speaker": "$n",
+   "text": "「В одном белье, значит.」",
+   "orig": "$n\n「Undies, huh.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Найн",
+   "text": "「Полагаю, «бельё» здесь означает\n　«нижнее бельё».」",
+   "orig": "Nine\n「I believe that \"undies\" is\n　short for \"underwear.\"」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "「А, э-э, да ну?」",
+   "orig": "$n\n「Oh, uh, you don't say?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Найн",
+   "text": "「Зафиксирован рост пульса и давления.\n　Вы тоже простудились, кэп?」",
+   "orig": "Nine\n「Rising pulse and blood pressure confirmed.\n　Did you catch a cold, too, Cap?」"
+  },
+  {
+   "i": 11,
+   "speaker": "$n",
+   "text": "「Хватит уже этой роботской аналитики!」",
+   "orig": "$n\n「Quit with the robotic analysis, would ya?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Хильда",
+   "text": "「Так ей и надо, Падшей принцессе.\n　Уклонение от боя по любой причине —\n　повод для штрафа.」",
+   "orig": "Hilda\n「Serves you right, Fallen Princess.\n　Abstaining from combat for any reason\n　is grounds for a fine.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Розали",
+   "text": "「Правила ведь те же, что были\n　на Арзенале, да, Сумераги?」",
+   "orig": "Rosalie\n「Those rules are the same as they were\n　on Arzenal, aren't they, Sumeragi?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Сумераги",
+   "text": "「Н-ну да, наверное.」",
+   "orig": "Sumeragi\n「Y-yeah, I guess.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Крис",
+   "text": "「Зато без Анж мы наконец развернёмся.」",
+   "orig": "Chris\n「But with Ange gone, this is our chance to shine.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Розали",
+   "text": "「Пока они там гудят про штраф,\n　мы налетим и заберём награду себе!」",
+   "orig": "Rosalie\n「While they're buzzing about that fine,\n　we'll swoop in to claim the reward for ourselves!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Атрун",
+   "text": "「Даже с переходом на жалованье\n　эта часть работы ничуть не изменилась.」",
+   "orig": "Athrun\n「Even with the move to a salary system,\n　that part of the job remains unchanged.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Тиерия",
+   "text": "「Отдельная премия, введённая для них\n　под предлогом поддержания мотивации,\n　похоже, оборачивается против нас.」",
+   "orig": "Tieria\n「Establishing a bonus especially for them\n　under the guise of maintaining motivation\n　appears to be backfiring on us.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Синн",
+   "text": "「Поразительно, сколько сил они тратят\n　на грызню между собой.」",
+   "orig": "Shinn\n「I can't believe how much energy they\n　waste fighting among themselves.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Хильда",
+   "text": "「Закрой рот, Синн.\n　С каких пор ты имеешь право так говорить?」",
+   "orig": "Hilda\n「Shut your mouth, Shinn.\n　Where'd you get off talking like that?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Синн",
+   "text": "「Я решил оставить прошлое позади.」",
+   "orig": "Shinn\n「I've chosen to forget the past.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Хильда",
+   "text": "「Вот же неугомонный тип.」",
+   "orig": "Hilda\n「This guy just doesn't know when to quit.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Синн",
+   "text": "「Говори что хочешь.」",
+   "orig": "Shinn\n「Say what you want.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Синн",
+   "text": "「Но сидеть сложа руки и смотреть,\n　как вы грызётесь, я больше не буду.」",
+   "orig": "Shinn\n「But I'm not going to just sit back and watch\n　you guys fight each other anymore.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Атрун",
+   "text": "「Синн.」",
+   "orig": "Athrun\n「Shinn.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Аллилуйя",
+   "text": "「Атрун это предвидел и позвал\n　Синна на подмогу.」",
+   "orig": "Allelujah\n「Athrun foresaw this and called\n　upon Shinn for support.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Атрун",
+   "text": "「Верно.\n　Синн теперь человек, который умеет слушать\n　других, но решает сам.」",
+   "orig": "Athrun\n「That's right.\n　Shinn is now a man who can listen to others\n　but draw his own conclusions.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Синн",
+   "text": "「Ну, это уже перебор.」",
+   "orig": "Shinn\n「I wouldn't go that far.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Синн",
+   "text": "「Мне до тебя далеко, Атрун.」",
+   "orig": "Shinn\n「I'm not half the man you are, Athrun.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Лунамария",
+   "text": "「Хе. Вот бы посмотреть, как по Синну сохнут девчонки.」",
+   "orig": "Lunamaria\n「Heh. I'd love to see girls swooning over Shinn.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Синн",
+   "text": "「Да ни за что на свете.」",
+   "orig": "Shinn\n「Like that'd ever happen.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Хильда",
+   "text": "「Тьфу! До чего же вы все раздражаете!」",
+   "orig": "Hilda\n「Ugh! You're all so irritating!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Салия",
+   "text": "「Соберись, Хильда.\n　Шлюз открывается.」",
+   "orig": "Salia\n「Focus, Hilda.\n　The door is opening.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Хильда",
+   "text": "「Как прикажете, капитан!」",
+   "orig": "Hilda\n「Your wish is my command, Captain!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Салия",
+   "text": "「Кх.」",
+   "orig": "Salia\n「Ngh.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Сумераги",
+   "text": "「Даём бой Драконам здесь.」",
+   "orig": "Sumeragi\n「We'll engage the Dragons here.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Салия",
+   "text": "「Все Пара-мейлы готовы?」",
+   "orig": "Salia\n「Are all Para-Mail units ready?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Вивиан",
+   "text": "「А?\n　А где Анж?」",
+   "orig": "Vivian\n「Huh?\n　Where's Ange?」"
+  },
+  {
+   "i": 39,
+   "speaker": "Крис",
+   "text": "「На «Птолемее» её тоже не было.」",
+   "orig": "Chris\n「She wasn't on the Ptolemaios, either.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Салия",
+   "text": "「Анж отлёживается с простудой.」",
+   "orig": "Salia\n「Ange is recuperating from a cold.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Эрша",
+   "text": "「Ох.\n　Это плохо.」",
+   "orig": "Ersha\n「Uh oh.\n　That's not good.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Розали",
+   "text": "「Вот же зараза!\n　Небось дрыхнет себе в одном белье!」",
+   "orig": "Rosalie\n「Damn her!\n　She's probably catching Z's in her undies!」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「В одном белье, значит.」",
+   "orig": "$n\n「Undies, huh.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Найн",
+   "text": "「Полагаю, «бельё» здесь означает\n　«нижнее бельё».」",
+   "orig": "Nine\n「I believe that \"undies\" is\n　short for \"underwear.\"」"
+  },
+  {
+   "i": 45,
+   "speaker": "Найн",
+   "text": "「Вы, если не ошибаюсь, спите так же.」",
+   "orig": "Nine\n「Pretty sure you do the same.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Курц",
+   "text": "「Да ну?」",
+   "orig": "Kurz\n「You don't say?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Мао",
+   "text": "「Ха. Вот это новость.」",
+   "orig": "Mao\n「Huh. Now there's a surprise.」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Н-Найн!\n　Да как ты могла!」",
+   "orig": "$n\n「N-Nine!\n　How dare you!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Найн",
+   "text": "「Прошу прощения.\n　Видимо, это следовало сохранить в тайне.」",
+   "orig": "Nine\n「I am so sorry.\n　I guess that should have stayed secret, huh.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Хильда",
+   "text": "「Так ей и надо, Падшей принцессе.\n　Уклонение от боя по любой причине —\n　повод для штрафа.」",
+   "orig": "Hilda\n「Serves you right, Fallen Princess.\n　Abstaining from combat for any reason\n　is grounds for a fine.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Розали",
+   "text": "「Правила ведь те же, что были\n　на Арзенале, да, Сумераги?」",
+   "orig": "Rosalie\n「Those rules are the same as they were\n　on Arzenal, aren't they, Sumeragi?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Сумераги",
+   "text": "「Н-ну да, наверное.」",
+   "orig": "Sumeragi\n「Y-yeah, I guess.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Крис",
+   "text": "「Зато без Анж мы наконец развернёмся.」",
+   "orig": "Chris\n「But with Ange gone, this is our chance to shine.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Розали",
+   "text": "「Пока они там гудят про штраф,\n　мы налетим и заберём награду себе!」",
+   "orig": "Rosalie\n「While they're buzzing about that fine,\n　we'll swoop in to claim the reward for ourselves!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Атрун",
+   "text": "「Даже с переходом на жалованье\n　эта часть работы ничуть не изменилась.」",
+   "orig": "Athrun\n「Even with the move to a salary system,\n　that part of the job remains unchanged.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тиерия",
+   "text": "「Отдельная премия, введённая для них\n　под предлогом поддержания мотивации,\n　похоже, оборачивается против нас.」",
+   "orig": "Tieria\n「Establishing a bonus especially for them\n　under the guise of maintaining motivation\n　appears to be backfiring on us.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Синн",
+   "text": "「Поразительно, сколько сил они тратят\n　на грызню между собой.」",
+   "orig": "Shinn\n「I can't believe how much energy they\n　waste fighting among themselves.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Хильда",
+   "text": "「Закрой рот, Синн.\n　С каких пор ты имеешь право так говорить?」",
+   "orig": "Hilda\n「Shut your mouth, Shinn.\n　Where'd you get off talking like that?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Синн",
+   "text": "「Я решил оставить прошлое позади.」",
+   "orig": "Shinn\n「I've chosen to forget the past.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Хильда",
+   "text": "「Вот же неугомонный тип.」",
+   "orig": "Hilda\n「This guy just doesn't know when to quit.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Синн",
+   "text": "「Говори что хочешь.」",
+   "orig": "Shinn\n「Say what you want.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Синн",
+   "text": "「Но сидеть сложа руки и смотреть,\n　как вы грызётесь, я больше не буду.」",
+   "orig": "Shinn\n「But I'm not going to just sit back and watch\n　you guys fight each other anymore.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Атрун",
+   "text": "「Синн.」",
+   "orig": "Athrun\n「Shinn.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Аллилуйя",
+   "text": "「Атрун это предвидел и позвал\n　Синна на подмогу.」",
+   "orig": "Allelujah\n「Athrun foresaw this and called\n　upon Shinn for support.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Атрун",
+   "text": "「Верно.\n　Синн теперь человек, который умеет слушать\n　других, но решает сам.」",
+   "orig": "Athrun\n「That's right.\n　Shinn is now a man who can listen to others\n　but draw his own conclusions.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Синн",
+   "text": "「Ну, это уже перебор.」",
+   "orig": "Shinn\n「I wouldn't go that far.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Синн",
+   "text": "「Мне до тебя далеко, Атрун.」",
+   "orig": "Shinn\n「I'm not half the man you are, Athrun.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Лунамария",
+   "text": "「Хе. Вот бы посмотреть, как по Синну сохнут девчонки.」",
+   "orig": "Lunamaria\n「Heh. I'd love to see girls swooning over Shinn.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Синн",
+   "text": "「Да ни за что на свете.」",
+   "orig": "Shinn\n「Like that'd ever happen.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Хильда",
+   "text": "「Тьфу! До чего же вы все раздражаете!」",
+   "orig": "Hilda\n「Ugh! You're all so irritating!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Салия",
+   "text": "「Соберись, Хильда.\n　Шлюз открывается.」",
+   "orig": "Salia\n「Focus, Hilda.\n　The door is opening.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Хильда",
+   "text": "「Как прикажете, капитан!」",
+   "orig": "Hilda\n「Your wish is my command, Captain!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Салия",
+   "text": "「Кх.」",
+   "orig": "Salia\n「Ngh.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Фельдт",
+   "text": "「Три класса «Галеон» и двенадцать класса «Шхуна»!」",
+   "orig": "Feldt\n「Three Galleon-class and 12 Schooner-class!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Сумераги",
+   "text": "「Стая приличная.\n　Можно будет развернуться и по-крупному.」",
+   "orig": "Sumeragi\n「A decent sized group.\n　We might be able to use some large-scale tactics.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Курц",
+   "text": "「Слушай.」",
+   "orig": "Kurz\n「Hey.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Соскэ",
+   "text": "「Что такое?」",
+   "orig": "Sousuke\n「What is it?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Курц",
+   "text": "「А если пройти через ту дыру,\n　мы вернёмся в свой мир?」",
+   "orig": "Kurz\n「Can we return to our world\n　if we pass through that hole?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Мао",
+   "text": "「Да ты шутишь.\n　Эта дыра ведёт в мир Драконов, не иначе.」",
+   "orig": "Mao\n「You've gotta be kidding.\n　That hole probably leads to the Dragon world.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Клузо",
+   "text": "「Полагаю, сюда нас забросило потому,\n　что мы угодили в обрушение\n　нестабильной пространственно-временной стены.」",
+   "orig": "Clouseau\n「I surmise that our teleportation here\n　was because we were caught up in the\n　collapse of an unstable space-time wall.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Клузо",
+   "text": "「Сомневаюсь, что мы прошли прямо через ту дыру.」",
+   "orig": "Clouseau\n「I doubt we traveled directly through that hole.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Курц",
+   "text": "「Но мы ведь не можем заниматься\n　этим вечно, сами понимаете.」",
+   "orig": "Kurz\n「But we can't keep on doing\n　this forever, you know.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Тесса",
+   "text": "「Я понимаю ваши чувства, Вебер.\n　Но прошу сосредоточиться на задаче,\n　пока мы не найдём решения получше.」",
+   "orig": "Tessa\n「I understand how you feel, Weber.\n　But please focus on the task at hand\n　until we come up with something better.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Курц",
+   "text": "「Принято.」",
+   "orig": "Kurz\n「Understood.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Розали",
+   "text": "「Погнали!\n　Нет Падшей принцессы — есть лёгкие деньги!」",
+   "orig": "Rosalie\n「Here we go!\n　No Fallen Princess means easy money!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Хильда",
+   "text": "「Вот-вот, Салия!\n　Просто не мешай нам работать!」",
+   "orig": "Hilda\n「What she said, Salia!\n　Just let us do our thing!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Салия",
+   "text": "「Хм.」",
+   "orig": "Salia\n「Hmm.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Эрша",
+   "text": "「Салия?」",
+   "orig": "Ersha\n「Salia?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Вельт",
+   "text": "「Примерно половину мы зачистили.\n　Однако…」",
+   "orig": "Velt\n「We've cleared about half of them.\n　However—」"
+  },
+  {
+   "i": 90,
+   "speaker": "Лотти",
+   "text": "「Без Анж всё-таки куда тяжелее, да?」",
+   "orig": "Lottie\n「This is a lot harder without Ange, huh?」"
+  },
+  {
+   "i": 91,
+   "speaker": "Салия",
+   "text": "「Н-неправда!\n　Мы и без неё прекрасно справляемся.」",
+   "orig": "Salia\n「Th-that's not true!\n　We can hold our own without her.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Сумераги",
+   "text": "「Но ведь правда и то, что её присутствие\n　оттягивало внимание врага и снижало\n　потери всего отряда.」",
+   "orig": "Sumeragi\n「But it's true that her presence would\n　divert the enemy's attention and reduce\n　the casualty rates of the whole unit.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Салия",
+   "text": "「А…」",
+   "orig": "Salia\n「Huh...」"
+  },
+  {
+   "i": 94,
+   "speaker": "Сэцуна",
+   "text": "「Возможно, так она пыталась\n　искупить свои прошлые грехи.」",
+   "orig": "Setsuna\n「That might have been her way of trying\n　to atone for her past indiscretions.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Салия",
+   "text": "「Быть не может!\n　Анж совсем не из тех, кто…!」",
+   "orig": "Salia\n「Impossible!\n　Ange just isn't the type of—!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Милейна",
+   "text": "「Приближается подкрепление противника!」",
+   "orig": "Mileina\n「Enemy reinforcements incoming!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Фельдт",
+   "text": "「Половина позади.」",
+   "orig": "Feldt\n「We're half done.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Сумераги",
+   "text": "「Без Анж всё-таки куда тяжелее, да?」",
+   "orig": "Sumeragi\n「This is a lot harder without Ange, huh?」"
+  },
+  {
+   "i": 99,
+   "speaker": "Салия",
+   "text": "「Н-неправда!\n　Мы и без неё прекрасно справляемся.」",
+   "orig": "Salia\n「Th-that's not true!\n　We can hold our own without her.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Сумераги",
+   "text": "「Но ведь правда и то, что её присутствие\n　оттягивало внимание врага и снижало\n　потери всего отряда.」",
+   "orig": "Sumeragi\n「But it's true that her presence would\n　divert the enemy's attention and reduce\n　the casualty rates of the whole unit.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Салия",
+   "text": "「А…」",
+   "orig": "Salia\n「Huh...」"
+  },
+  {
+   "i": 102,
+   "speaker": "Сэцуна",
+   "text": "「Возможно, так она пыталась\n　искупить свои прошлые грехи.」",
+   "orig": "Setsuna\n「That might have been her way of trying\n　to atone for her past indiscretions.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Салия",
+   "text": "「Быть не может!\n　Анж совсем не из тех, кто…!」",
+   "orig": "Salia\n「Impossible!\n　Ange just isn't the type of—!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Милейна",
+   "text": "「Приближается подкрепление противника!」",
+   "orig": "Mileina\n「Enemy reinforcements incoming!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Вивиан",
+   "text": "「Да они громадные!」",
+   "orig": "Vivian\n「They're huge!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Атрун",
+   "text": "「Отряд из Драконов покрупнее?」",
+   "orig": "Athrun\n「A unit composed of larger Dragons?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Хильда",
+   "text": "「Салия!\n　Что это за чудовища?!」",
+   "orig": "Hilda\n「Salia!\n　What are these monstrosities?!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Салия",
+   "text": "「Я таких никогда не видела.」",
+   "orig": "Salia\n「I've never seen them before.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Розали",
+   "text": "「Никогда не видела?!」",
+   "orig": "Rosalie\n「You've never seen them?!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Крис",
+   "text": "「Тогда ты понимаешь, что это значит!」",
+   "orig": "Chris\n「Then you know what that means!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Хильда",
+   "text": "「«Неизвестный»!」",
+   "orig": "Hilda\n「Unknowns!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Лунамария",
+   "text": "「«Неизвестный»?」",
+   "orig": "Lunamaria\n「Unknowns?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Эрша",
+   "text": "「Драконы, которых раньше никто не встречал.」",
+   "orig": "Ersha\n「Dragons they've never encountered before.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Розали",
+   "text": "「Если вернуться на Арзенал с данными по этой твари,\n　мне точно отвалят особую премию!」",
+   "orig": "Rosalie\n「Returning to Arzenal with info on this thing\n　is sure to net me some kind of special reward!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Хильда",
+   "text": "「Прикончим эту штуку — и будем праздновать,\n　купаясь в деньгах!」",
+   "orig": "Hilda\n「Kill this thing and we'll probably find ourselves\n　celebrating in a bathtub full of cash!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Крис",
+   "text": "「Праздновать? Купаясь в деньгах?」",
+   "orig": "Chris\n「Celebrating? In a bathtub full of cash?」"
+  },
+  {
+   "i": 117,
+   "speaker": "Салия",
+   "text": "「Не делайте глупостей!\n　Данных нет — значит, мы не знаем,\n　какие атаки он для нас припас!」",
+   "orig": "Salia\n「Don't do anything stupid!\n　No data means that we don't know what\n　kinds of attacks it has in store for us!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Розали",
+   "text": "「Молчи, недокапитан!\n　Зола бы ни за что не испугалась\n　схватки с «неизвестным»!」",
+   "orig": "Rosalie\n「Shut up, wanna-be Captain!\n　Zola would never be afraid\n　to take on an unknown!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Салия",
+   "text": "「Кх…」",
+   "orig": "Salia\n「Ngh...」"
+  },
+  {
+   "i": 120,
+   "speaker": "Ал",
+   "text": "「Приближается противник нового типа.」",
+   "orig": "Al\n「New enemy type approaching.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Соскэ",
+   "text": "「Движения у него вялые.」",
+   "orig": "Sousuke\n「Its movements seem sluggish.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Эрша",
+   "text": "「Остальные Драконы уходят повыше.」",
+   "orig": "Ersha\n「The other Dragons are taking refuge high above.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Вивиан",
+   "text": "「Что это за чувство?\n　Волосы будто дыбом встают.」",
+   "orig": "Vivian\n「What is this feeling?\n　It's like my hair is tingling.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам! Держать дистанцию!\n　У меня дурное предчувствие!」",
+   "orig": "Sumeragi\n「All units! Keep your distance!\n　I have a bad feeling about this!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Хильда",
+   "text": "「Как можно упускать такой шанс?!」",
+   "orig": "Hilda\n「How can you let this chance slip away?!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Вивиан",
+   "text": "「Нет!\n　Быть не может!」",
+   "orig": "Vivian\n「No!\n　It can't be!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Сэцуна",
+   "text": "「Кх!」",
+   "orig": "Setsuna\n「Ngh!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Синн",
+   "text": "「Что происходит?」",
+   "orig": "Shinn\n「What's going on?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Хильда",
+   "text": "「Машина стала как свинцовая!」",
+   "orig": "Hilda\n「My unit is so heavy!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Фельдт",
+   "text": "「Вокруг Дракона усилилась гравитация!」",
+   "orig": "Feldt\n「Heightened gravity around the Dragon!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Милейна",
+   "text": "「В таком поле сдвинется только корабль!」",
+   "orig": "Mileina\n「Only a battleship could move in this!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Лассе",
+   "text": "「Проклятье!\n　А эта громадная ящерица бьёт будь здоров!」",
+   "orig": "Lasse\n「Dammit!\n　That giant lizard really packs a punch!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Тесса",
+   "text": "「Вот почему остальные ушли\n　на большую высоту!」",
+   "orig": "Tessa\n「That must be why the others retreated\n　to a higher altitude!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам! Занять оборону!\n　Перелом устроим силами $kwb«Птолемея»$kwe!」",
+   "orig": "Sumeragi\n「All units! Take up defensive positions!\n　We'll break the deadlock with the $kwbPtolemy$kwe!」"
+  },
+  {
+   "i": 135,
+   "speaker": "$n",
+   "text": "「Вся надежда на вас, Сумераги!\n　Хуже уже просто некуда!」",
+   "orig": "$n\n「We're counting on you, Sumeragi!\n　This is about as bad as it gets!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Салия",
+   "text": "（Так ведь можно всем тут и остаться.\n　Что же нам делать?）",
+   "orig": "Salia\n（This could be the end for all of us.\n　What are we going to do?）"
+  },
+  {
+   "i": 137,
+   "speaker": "Сэцуна",
+   "text": "「Кх!」",
+   "orig": "Setsuna\n「Ngh!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Синн",
+   "text": "「Что происходит?」",
+   "orig": "Shinn\n「What's going on?」"
+  },
+  {
+   "i": 139,
+   "speaker": "Хильда",
+   "text": "「Машина стала как свинцовая!」",
+   "orig": "Hilda\n「My unit is so heavy!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Фельдт",
+   "text": "「Вокруг Дракона усилилась гравитация!」",
+   "orig": "Feldt\n「Heightened gravity around the Dragon!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Милейна",
+   "text": "「В таком поле сдвинется только корабль!」",
+   "orig": "Mileina\n「Only a battleship could move in this!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Лассе",
+   "text": "「Проклятье!\n　А эта громадная ящерица бьёт будь здоров!」",
+   "orig": "Lasse\n「Dammit!\n　That giant lizard really packs a punch!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Тесса",
+   "text": "「Вот почему остальные ушли\n　на большую высоту!」",
+   "orig": "Tessa\n「That must be why the others retreated\n　to a higher altitude!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам! Занять оборону!\n　Перелом устроим силами $kwb«Птолемея»$kwe!」",
+   "orig": "Sumeragi\n「All units! Take up defensive positions!\n　We'll break the deadlock with the $kwbPtolemy$kwe!」"
+  },
+  {
+   "i": 145,
+   "speaker": "$n",
+   "text": "「Вся надежда на вас, Сумераги!\n　Хуже уже просто некуда!」",
+   "orig": "$n\n「We're counting on you, Sumeragi!\n　This is about as bad as it gets!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Салия",
+   "text": "（Так ведь можно всем тут и остаться.\n　Что же нам делать?）",
+   "orig": "Salia\n（This could be the end for all of us.\n　What are we going to do?）"
+  },
+  {
+   "i": 147,
+   "speaker": "Салия",
+   "text": "「Ах ты чудовище!」",
+   "orig": "Salia\n「You monster!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Розали",
+   "text": "「Проклятье!\n　Мы долго так не протянем!」",
+   "orig": "Rosalie\n「Dammit!\n　We can't take much more of this!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Хильда",
+   "text": "「Салия!\n　Неужели ничего нельзя сделать?!」",
+   "orig": "Hilda\n「Salia!\n　Can nothing be done?!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Салия",
+   "text": "「Мы с Сумераги приказали вам\n　держаться в стороне и наблюдать!」",
+   "orig": "Salia\n「Sumeragi and I ordered you\n　to sit back and observe!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Тесса",
+   "text": "「Сумераги!」",
+   "orig": "Tessa\n「Sumeragi!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Сумераги",
+   "text": "「В худшем случае столкновение\n　с «Птолемеем» погубит нас всех.」",
+   "orig": "Sumeragi\n「The absolute worst case is that a collision\n　with the Tolemy could kill us all.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Фельдт",
+   "text": "「Стойте!\n　Сверху что-то приближается!」",
+   "orig": "Feldt\n「Wait!\n　Something is coming from above!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Салия",
+   "text": "「Два «Вилькисса»?!」",
+   "orig": "Salia\n「Two Villkiss units?!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Атрун",
+   "text": "「«Фридом»!\n　Кира!」",
+   "orig": "Athrun\n「Freedom!\n　Kira!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Хильда",
+   "text": "「Белый вихрь Орба!」",
+   "orig": "Hilda\n「Orb's White Gale!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Синн",
+   "text": "「«Фридом». Кира Ямато.」",
+   "orig": "Shinn\n「Freedom. Kira Yamato.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Салия",
+   "text": "「Анж!\n　У тебя же был жар!\n　Что ты здесь делаешь?」",
+   "orig": "Salia\n「Ange!\n　You had a fever!\n　What are you doing here?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Анж",
+   "text": "「Да помолчи ты!\n　Приду — ворчишь,\n　не приду — тоже ворчишь.」",
+   "orig": "Ange\n「Shut up!\n　You complain if I come\n　and complain if I don't come.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Анж",
+   "text": "「Ух. Голова кружится.\n　Надо кончать с этим побыстрее.」",
+   "orig": "Ange\n「Ugh. I'm dizzy.\n　Need to finish this quick.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Салия",
+   "text": "「Не подходи, Анж!\n　Гравитация тебя раздавит!」",
+   "orig": "Salia\n「Stay away, Ange!\n　The gravity will get you!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Кира",
+   "text": "「Гравитация?」",
+   "orig": "Kira\n「Gravity?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Атрун",
+   "text": "「Да!\n　Этот гигантский Дракон умеет управлять\n　гравитацией вокруг себя!」",
+   "orig": "Athrun\n「Yeah!\n　That gigantic Dragon is able to manipulate\n　the gravity in its immediate vicinity!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Анж",
+   "text": "「Не переживай.」",
+   "orig": "Ange\n「Don't worry.」"
+  },
+  {
+   "i": 165,
+   "speaker": "$n",
+   "text": "「Дело плохо!\n　Её мотает из стороны в сторону!」",
+   "orig": "$n\n「This isn't good!\n　She's unsteady!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Сэцуна",
+   "text": "「Анж, отходи!」",
+   "orig": "Setsuna\n「Fall back, Ange!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Анж",
+   "text": "「Как всегда, я справлюсь сама.」",
+   "orig": "Ange\n「As usual, I'm fine on my own.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Салия",
+   "text": "「Да сколько можно!\n　Слушай сюда, дура!」",
+   "orig": "Salia\n「Ugh! It never ends!\n　Listen up, you fool!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Анж",
+   "text": "「А?」",
+   "orig": "Ange\n「Huh?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Салия",
+   "text": "「С этим Драконом ты откусила\n　больше, чем в силах проглотить!」",
+   "orig": "Salia\n「You're biting off more than you\n　can chew with this Dragon!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Салия",
+   "text": "「Ты меня никогда не слушаешь!\n　Но если не хочешь умереть —\n　в этот раз послушаешь!」",
+   "orig": "Salia\n「You never listen to me!\n　But unless you want to die,\n　you'll listen to me this time!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Анж",
+   "text": "「Л-ладно.」",
+   "orig": "Ange\n「O-OK.」"
+  },
+  {
+   "i": 173,
+   "speaker": "$n",
+   "text": "「Бесполезно!\n　Её слишком сильно мотает!」",
+   "orig": "$n\n「It's no use!\n　You're too unsteady!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Сэцуна",
+   "text": "「Анж, отходи!」",
+   "orig": "Setsuna\n「Fall back, Ange!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Анж",
+   "text": "「Как всегда, я справлюсь сама.」",
+   "orig": "Ange\n「As usual, I'm fine on my own.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Салия",
+   "text": "「Да сколько можно!\n　Слушай сюда, дура!」",
+   "orig": "Salia\n「Ugh! It never ends!\n　Listen up, you fool!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Анж",
+   "text": "「А?」",
+   "orig": "Ange\n「Huh?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Салия",
+   "text": "「С этим Драконом ты откусила\n　больше, чем в силах проглотить!」",
+   "orig": "Salia\n「You're biting off more than you\n　can chew with this Dragon!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Салия",
+   "text": "「Ты меня никогда не слушаешь!\n　Но если не хочешь умереть —\n　в этот раз послушаешь!」",
+   "orig": "Salia\n「You never listen to me!\n　But unless you want to die,\n　you'll listen to me this time!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Анж",
+   "text": "「Л-ладно.」",
+   "orig": "Ange\n「O-OK.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Кира",
+   "text": "「Я тебя прикрою.」",
+   "orig": "Kira\n「I'll cover you.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Анж",
+   "text": "「Не нужно.」",
+   "orig": "Ange\n「Unnecessary.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Кира",
+   "text": "「Уверена?\n　Капитан будет недовольна.」",
+   "orig": "Kira\n「You sure?\n　The captain won't be happy.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Анж",
+   "text": "「Тьфу.」",
+   "orig": "Ange\n「Ugh.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Салия",
+   "text": "「Анж, живо!」",
+   "orig": "Salia\n「Hurry, Ange!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Анж",
+   "text": "「П-поняла.」",
+   "orig": "Ange\n「U-understood.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Салия",
+   "text": "「Сначала вверх!」",
+   "orig": "Salia\n「Ascend first!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Салия",
+   "text": "「Поправка! Три градуса вправо!\n　Двадцать градусов вперёд!」",
+   "orig": "Salia\n「Adjust! Three degrees right!\n　Twenty degrees forward!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Анж",
+   "text": "「Вправо? Вот так, что ли?」",
+   "orig": "Ange\n「Right? So this way?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Салия",
+   "text": "「Стой на месте!\n　Теперь вниз!」",
+   "orig": "Salia\n「Stop right there!\n　Now descend!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Анж",
+   "text": "「Я-я, кажется, падаю слишком быстро!」",
+   "orig": "Ange\n「I-I seem to be falling fast!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Соскэ",
+   "text": "「Её затянуло гравитацией?」",
+   "orig": "Sousuke\n「Is she caught in the gravitational pull?」"
+  },
+  {
+   "i": 193,
+   "speaker": "Атрун",
+   "text": "「Салия!\n　Если так пойдёт дальше—」",
+   "orig": "Athrun\n「Salia!\n　If this keeps up—」"
+  },
+  {
+   "i": 194,
+   "speaker": "Салия",
+   "text": "「Закрой рот!」",
+   "orig": "Salia\n「Shut your mouth!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Атрун",
+   "text": "「Л-ладно.」",
+   "orig": "Athrun\n「O-OK.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Анж",
+   "text": "「Так я ведь падаю, да?」",
+   "orig": "Ange\n「So I'm falling, right?」"
+  },
+  {
+   "i": 197,
+   "speaker": "Салия",
+   "text": "「Это в тебе жар говорит!」",
+   "orig": "Salia\n「That's just the fever talking!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Салия",
+   "text": "「Давай, Анж!\n　Обнажи меч!」",
+   "orig": "Salia\n「Now, Ange!\n　Draw your sword!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Анж",
+   "text": "「В-вот так?」",
+   "orig": "Ange\n「L-like this?」"
+  },
+  {
+   "i": 200,
+   "speaker": "Аллилуйя",
+   "text": "「Она усиливает удар разгоном\n　от силы тяжести?!」",
+   "orig": "Allelujah\n「She's using the acceleration from the\n　gravity to enhance the attack?!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Локон",
+   "text": "「Одно неверное движение — и ей конец!」",
+   "orig": "Lockon\n「One false move, and she's dead!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Вивиан",
+   "text": "「Да!\n　Я снова могу двигаться!」",
+   "orig": "Vivian\n「Yes!\n　I can move!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Эрша",
+   "text": "「Похоже, удар Анж всё-таки\n　продавил этого Дракона!」",
+   "orig": "Ersha\n「Looks like Ange's attack\n　put a dent in that Dragon!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Кира",
+   "text": "「Вот наш шанс!」",
+   "orig": "Kira\n「Now's our chance!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Кира",
+   "text": "「Все обратно в строй!」",
+   "orig": "Kira\n「Back in formation!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Тиерия",
+   "text": "「Спасибо, Кира.」",
+   "orig": "Tieria\n「Thanks, Kira.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Сэцуна",
+   "text": "「Но почему именно вы с Анж?」",
+   "orig": "Setsuna\n「But why you and Ange?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Кира",
+   "text": "「Я шёл с ПЛАНТа на соединение с вами\n　и по дороге наткнулся на эту машину,\n　которую мотало из стороны в сторону.」",
+   "orig": "Kira\n「I was coming from PLANT to link up with\n　you and discovered this unsteady unit\n　along the way.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Анж",
+   "text": "「Тьфу.\n　Звучит так, будто ты меня спас.」",
+   "orig": "Ange\n「Ugh.\n　You make it sound like you saved me.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Кира",
+   "text": "「Для твоего состояния ты держалась отлично.」",
+   "orig": "Kira\n「You did well considering the shape you're in.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Анж",
+   "text": "「Э-э, спасибо.」",
+   "orig": "Ange\n「Uh, thanks.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Кира",
+   "text": "「А теперь отходи и оставь остальное нам.」",
+   "orig": "Kira\n「Now fall back and leave the rest to us.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Анж",
+   "text": "「Вот ещё.\n　Мне надо проучить Салию за то,\n　что она сделала из меня снаряд.」",
+   "orig": "Ange\n「I don't think so.\n　I've gotta teach Salia a lesson\n　for using me as a bullet.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Салия",
+   "text": "「Можешь стараться изо всех сил.\n　Сомневаюсь, что сейчас их у тебя много.」",
+   "orig": "Salia\n「You can do your worst.\n　I doubt that it's much at the moment.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Салия",
+   "text": "「Но сегодня ты будешь мне подчиняться!\n　Я больше не хочу терять людей\n　из первой эскадрильи!」",
+   "orig": "Salia\n「But you're going to obey me today!\n　I don't want to see 1st Squadron\n　casualties anymore!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Анж",
+   "text": "「Так точно, капитан Салия.」",
+   "orig": "Ange\n「Understood, Captain Salia.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Мардукас",
+   "text": "「Похоже, последняя деталь наконец встала на место.」",
+   "orig": "Mardukas\n「It looks like the last piece is finally in place.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Тесса",
+   "text": "「Да.\n　Теперь она знает, что нужно её отряду.\n　Одного этого хватит, чтобы они стали сильнее.」",
+   "orig": "Tessa\n「Yeah.\n　She now knows what is best for her unit.\n　That alone will make them stronger than ever.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Мардукас",
+   "text": "「Осталось только научиться взаимодействовать.」",
+   "orig": "Mardukas\n「Now they just have to consciously cooperate.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Тесса",
+   "text": "「Думаю, это лишь вопрос времени.」",
+   "orig": "Tessa\n「I think it's only a matter of time.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам — в атаку!\n　Салия! Командование на тебе!」",
+   "orig": "Sumeragi\n「All units! Attack!\n　Salia! You're in command!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Салия",
+   "text": "「Всем машинам! Покончить с ними быстро!\n　В атаку!」",
+   "orig": "Salia\n「All units! Kill them quickly!\n　Charge!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Хильда",
+   "text": "「Вы слышали капитана!\n　Пошли!」",
+   "orig": "Hilda\n「You heard the Captain!\n　Let's go!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Анж",
+   "text": "「Поняла!」",
+   "orig": "Ange\n「Got it!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Розали",
+   "text": "「Отлично!\n　Свежее мясо уже готово к подаче!」",
+   "orig": "Rosalie\n「All right!\n　This fresh meat is ready to serve!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Крис",
+   "text": "「Наконец-то смогу доработать свою машину!」",
+   "orig": "Chris\n「I'll finally be able to remodel my unit!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Эрша",
+   "text": "「Хорошо, что Анж появилась.」",
+   "orig": "Ersha\n「Good thing Ange showed up.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Розали",
+   "text": "「Ну, это...」",
+   "orig": "Rosalie\n「That's...」"
+  },
+  {
+   "i": 229,
+   "speaker": "Крис",
+   "text": "「Э-э...」",
+   "orig": "Chris\n「Uh...」"
+  },
+  {
+   "i": 230,
+   "speaker": "Салия",
+   "text": "「Обо всём этом поговорим позже.\n　Анж нужно отдохнуть.」",
+   "orig": "Salia\n「We can talk about all that later.\n　Ange needs to rest.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Анж",
+   "text": "「Тут спорить не буду.」",
+   "orig": "Ange\n「No disagreement here.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Сумераги",
+   "text": "「Спасибо, Кира.\n　Тебя Лакус прислала?」",
+   "orig": "Sumeragi\n「Thanks, Kira.\n　Did Lacus send you?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Кира",
+   "text": "「Да.\n　Она услышала ваш доклад и решила,\n　что лишняя помощь вам не помешает.」",
+   "orig": "Kira\n「Yes.\n　She heard your report and thought\n　you could use some more help.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Атрун",
+   "text": "「Рассчитываю на тебя, Кира.」",
+   "orig": "Athrun\n「Looking forward to more of your help, Kira.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Кира",
+   "text": "「И я на тебя, Атрун.」",
+   "orig": "Kira\n「As am I, Athrun.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Синн",
+   "text": "（Значит, Кира Ямато...）",
+   "orig": "Shinn\n（Kira Yamato, huh...）"
+  },
+  {
+   "i": 237,
+   "speaker": "Вивиан",
+   "text": "「Да! У нас получилось!」",
+   "orig": "Vivian\n「Yes! We did it!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Эрша",
+   "text": "「Вот что бывает, когда мы действуем сообща.」",
+   "orig": "Ersha\n「That's what happens when we work together.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Салия",
+   "text": "「Наконец-то мы начинаем походить на команду.」",
+   "orig": "Salia\n「We're finally starting to resemble a team.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Хильда",
+   "text": "「Ну-у...」",
+   "orig": "Hilda\n「Umm.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Анж",
+   "text": "「Ну-у...」",
+   "orig": "Ange\n「Umm.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Сумераги",
+   "text": "（Трудностей хватает,\n　но мы движемся вперёд.）",
+   "orig": "Sumeragi\n（Looks like difficulties remain,\n　but we're making progress.）"
+  },
+  {
+   "i": 243,
+   "speaker": "Хильда",
+   "text": "「А этот крепкий!」",
+   "orig": "Hilda\n「This one is tough!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Салия",
+   "text": "「Бьём волнами!\n　Не давайте ему передышки!」",
+   "orig": "Salia\n「We need to attack in waves!\n　Keep the heat on it!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Эрша",
+   "text": "「Поняла, Салия.」",
+   "orig": "Ersha\n「Got it, Salia.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Вивиан",
+   "text": "「Мы прямо как настоящая команда!」",
+   "orig": "Vivian\n「It's almost like we're a team!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Хильда",
+   "text": "「Ну-у...」",
+   "orig": "Hilda\n「Umm.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Анж",
+   "text": "「Ну-у...」",
+   "orig": "Ange\n「Umm.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Сумераги",
+   "text": "（Трудностей хватает,\n　но мы движемся вперёд.）",
+   "orig": "Sumeragi\n（Looks like difficulties remain,\n　but we're making progress.）"
+  },
+  {
+   "i": 250,
+   "speaker": "Вивиан",
+   "text": "「Анж, ты сегодня как-то\n　иначе двигаешься.」",
+   "orig": "Vivian\n「You're moving differently\n　today, Ange.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Найн",
+   "text": "「Ага, паришь, будто пёрышко.」",
+   "orig": "Nine\n「Yeah, you're floating along like feather.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Анж",
+   "text": "（Да какая разница.\n　Мне бы просто обратно в постель.）",
+   "orig": "Ange\n（Whatever.\n　I just want to get back to bed.）"
+  },
+  {
+   "i": 253,
+   "speaker": "Салия",
+   "text": "（Анж нет — лучшего шанса не будет!\n　Перестроить первую эскадрилью — сейчас или никогда!）",
+   "orig": "Salia\n（Ange's absence is my best chance!\n　Reorganizing 1st Squadron comes now or never!）"
+  },
+  {
+   "i": 254,
+   "speaker": "Салия",
+   "text": "（Но для этого мне придётся показать\n　всем, на что я способна!）",
+   "orig": "Salia\n（But to do it, I'll have to show\n　everyone what I can do!）"
+  },
+  {
+   "i": 255,
+   "speaker": "Салия",
+   "text": "（Анж...\n　Ты всё равно вылетела, хоть и больна.）",
+   "orig": "Salia\n（Ange...\n　You came even though you were sick.）"
+  },
+  {
+   "i": 256,
+   "speaker": "Салия",
+   "text": "（Раз она так хочет играть,\n　я исполню свой долг капитана!\n　И сделаю это по-своему!）",
+   "orig": "Salia\n（If that's how she wants to play,\n　I'll fulfill my responsibilities as the captain!\n　And I'll do it my way!）"
+  },
+  {
+   "i": 257,
+   "speaker": "Анж",
+   "text": "「Голова болит, и всё плывёт.\n　Надо было послушать Момоку\n　и остаться в постели.」",
+   "orig": "Ange\n「My head hurts, and I'm dizzy.\n　I should have just listened to Momoka\n　and stayed in bed.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Кира",
+   "text": "（Война снова хочет поглотить мир.）",
+   "orig": "Kira\n（War seeks to consume the world again.）"
+  },
+  {
+   "i": 259,
+   "speaker": "Кира",
+   "text": "（Лакус. Я тоже буду сражаться.\n　Всем сердцем и всеми силами!）",
+   "orig": "Kira\n（Lacus. I'll fight, too.\n　With my heart and strength!）"
+  },
+  {
+   "i": 260,
+   "speaker": "Синн",
+   "text": "（Кира Ямато.\n　Не думал, что буду драться с ним плечом к плечу.）",
+   "orig": "Shinn\n（Kira Yamato.\n　I never thought I'd fight at his side.）"
+  },
+  {
+   "i": 261,
+   "speaker": "Синн",
+   "text": "（Стелла.\n　Что же мне делать?）",
+   "orig": "Shinn\n（Stella.\n　What should I do?）"
+  },
+  {
+   "i": 262,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

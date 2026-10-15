@@ -51,7 +51,18 @@ UTF-8, русский НЕ в `\u`-эскейпах.
 
 ## Имена
 
-Основной список — в `GLOSSARY.md`. Для миссий 012–017:
+Основной список — в `GLOSSARY.md`. Для главы 3 (стадии 021–030) дополнительно:
+
+Athrun Zala — Атрун Зала · Kira Yamato — Кира Ямато ·
+Shinn Asuka — Синн Аска · Lunamaria — Лунамария ·
+Akatsuki — Акацуки · Kappei — Каппэй · Banjo — Бандзё ·
+Joe — Дзё · Yujiro — Юдзиро · Uchuta — Утюта · Hikaru — Хикару ·
+Keiko — Кэйко · Momoka — Момока · Tsukiomi — Цукиоми ·
+Prospector — Проспектор · Ghuli — Гули · Chinja — Чинджа ·
+Vuitton — Вюиттон · Tusk — Таск · Izumi — Идзуми ·
+Hoi Kow Lou — Хой Коу Лоу · Mao — Мао · Graham — Грэм
+
+Для миссий 012–017:
 
 Maito Senpuuji — Майто Сэмпудзи · Gaine — Гайн · Tatsu — Тацу ·
 Guard Diver — Гард Дайвер · Tri Bomber — Трай Бомбер · Mifune — Мифунэ ·

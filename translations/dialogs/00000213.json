@@ -1,0 +1,1684 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Вольфганг",
+   "text": "「Ну что, Дзё?\n　Как тебе мой шедевр — «Соник»?」",
+   "orig": "Wolfgang\n「Well, Joe?\n　How is my masterpiece, Sonic?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Дзё",
+   "text": "「Совсем неплохо.」",
+   "orig": "Joe\n「Not bad at all.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Вольфганг",
+   "text": "「«Соник» построен на основе\n　исчерпывающего изучения внутреннего\n　устройства «Майтгайна».」",
+   "orig": "Wolfgang\n「Sonic was constructed based\n　on exhaustive research into the\n　inner workings of Mightgaine.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Вольфганг",
+   "text": "「Для полноты картины не хватало\n　только пилота вроде тебя!」",
+   "orig": "Wolfgang\n「All we need to complete\n　is a pilot like you!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Дзё",
+   "text": "「Хорошо сказано.\n　С этим я соглашусь.」",
+   "orig": "Joe\n「Well said.\n　I'll agree with that.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Вольфганг",
+   "text": "「Вот видишь?\n　Наконец-то ты оценил «Соника».」",
+   "orig": "Wolfgang\n「Right?\n　You finally understand Sonic's worth.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Дзё",
+   "text": "「Никакой не «Соник».\n　Отныне его зовут «Хирю».」",
+   "orig": "Joe\n「It's not Sonic.\n　It'll be Hiryu from now on.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Вольфганг",
+   "text": "「«Хирю»?」",
+   "orig": "Wolfgang\n「Hiryu?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Дзё",
+   "text": "「Именно.\n　«Хирю» — имя куда более подходящее.」",
+   "orig": "Joe\n「Yes.\n　Hiryu is a better name for it.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Вольфганг",
+   "text": "「Ну, раз ты настаиваешь.\n　Теперь он твой.\n　Называй его как пожелаешь.」",
+   "orig": "Wolfgang\n「Well, if you insist.\n　It belongs to you now.\n　You can name it whatever you want.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Вольфганг",
+   "text": "「Взамен я прошу лишь об одном!\n　Чтобы ты на своём «Хирю» как следует\n　отделал этот проклятый «Майтгайн».」",
+   "orig": "Wolfgang\n「I only ask for one thing in return!\n　That you use your Hiryu to give that\n　damn Mightgaine a serious beating.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Дзё",
+   "text": "「Хватит болтать.\n　У нас гости.」",
+   "orig": "Joe\n「Enough talk.\n　We have visitors.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Дзё",
+   "text": "「Что это ещё за робот?」",
+   "orig": "Joe\n「What is that robot?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Трай Бомбер",
+   "text": "「Отважный экспресс, Трай Бомбер!\n　Прибыл строго по расписанию!」",
+   "orig": "Tri Bomber\n「Brave Express Tri Bomber!\n　Right on schedule!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Дзё",
+   "text": "「Я, кажется, требовал «Майтгайн».」",
+   "orig": "Joe\n「I thought I insisted on Mightgaine.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Трай Бомбер",
+   "text": "「У «Майтгайна» нашлись другие дела.\n　Пока что твоим противником буду я.」",
+   "orig": "Tri Bomber\n「Mightgaine had other business to attend to.\n　I'll be your opponent for the time being.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Трай Бомбер",
+   "text": "「Если не справишься со мной,\n　то против «Майтгайна» у тебя\n　нет ни единого шанса!」",
+   "orig": "Tri Bomber\n「If you can't beat me,\n　you won't stand a snowball's chance\n　in hell against Mightgaine!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Дзё",
+   "text": "「Хорошо.\n　Обкатаю на тебе «Хирю».」",
+   "orig": "Joe\n「Fine.\n　I'll use you for Hiryu's trial run.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Трай Бомбер",
+   "text": "「Гляди-ка, у тебя новая машина!\n　Сейчас подготовлю её к металлолому!」",
+   "orig": "Tri Bomber\n「Looks like a new mech you got there!\n　I'll soften it up for the scrap heap!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Дзё",
+   "text": "「Обычным роботам\n　меня не одолеть.」",
+   "orig": "Joe\n「No ordinary robots\n　are gonna beat me.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Трай Бомбер",
+   "text": "「Мы не обычные роботы!\n　Мы — отряд «Отважный экспресс»!」",
+   "orig": "Tri Bomber\n「We're no ordinary robots!\n　We're the Brave Express Corps!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Дзё",
+   "text": "「Впечатляет: ты сумел продержаться\n　против меня целых три минуты.」",
+   "orig": "Joe\n「I'm impressed that you've managed\n　to last three minutes against me.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Трай Бомбер",
+   "text": "「Проклятье!\n　Он и впрямь так крут, как говорит!」",
+   "orig": "Tri Bomber\n「Dammit!\n　He's as tough as he talks!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Дзё",
+   "text": "「Ясно.\n　А ты и правда силён.」",
+   "orig": "Joe\n「I see.\n　You're certainly strong.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Трай Бомбер",
+   "text": "「Проклятье!\n　Загнал его куда хотел, а шансы\n　всё равно не в мою пользу!」",
+   "orig": "Tri Bomber\n「Dammit!\n　I get him right where I want him\n　and still don't like my odds!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Трай Бомбер",
+   "text": "「Ещё не всё!\n　Майто на меня рассчитывает!\n　Я его не подведу!」",
+   "orig": "Tri Bomber\n「Not yet!\n　Maito is counting on me!\n　I won't let him down!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Дзё",
+   "text": "「Ты!」",
+   "orig": "Joe\n「You!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Майто",
+   "text": "「Ты цел, Трай Бомбер?」",
+   "orig": "Maito\n「Are you OK, Tri Bomber?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Трай Бомбер",
+   "text": "「Более-менее!」",
+   "orig": "Tri Bomber\n「More or less!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Дзё",
+   "text": "「Вот, значит, как.\n　Сперва измотать меня его руками,\n　а потом влететь и забрать лёгкую победу.」",
+   "orig": "Joe\n「So that's how it is.\n　You use this guy to wear me down\n　and swoop in for the easy win.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Трай Бомбер",
+   "text": "「Майто никогда бы так не поступил!」",
+   "orig": "Tri Bomber\n「Maito would never do that!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Дзё",
+   "text": "「Полно героев, которые не брезгуют\n　и самыми трусливыми приёмами.」",
+   "orig": "Joe\n「There are a lot of heroes out there who\n　resort to exceedingly cowardly tactics.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Трай Бомбер",
+   "text": "「Возьми свои слова назад!\n　Майто не из таких!」",
+   "orig": "Tri Bomber\n「Take that back!\n　Maito is not that kind of guy!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Трай Бомбер",
+   "text": "「Он командир «Отважного экспресса»!\n　Праведник, что бьётся за мир на Земле!」",
+   "orig": "Tri Bomber\n「He's the Brave Express Corps commander!\n　A just man who fights for world peace!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Дзё",
+   "text": "「Молчать!\n　Что такое справедливость? Что такое мир?」",
+   "orig": "Joe\n「Silence!\n　What is justice? What is peace?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Дзё",
+   "text": "「Я отрицаю и то, и другое!」",
+   "orig": "Joe\n「I deny them both!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Майто",
+   "text": "「Отходи, Трай Бомбер!」",
+   "orig": "Maito\n「Fall back, Tri Bomber!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Дзё",
+   "text": "「Умри!」",
+   "orig": "Joe\n「Die!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Трай Бомбер",
+   "text": "「А-а-а-а-а!」",
+   "orig": "Tri Bomber\n「Arrrrggghhh!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Майто",
+   "text": "「Трай Бомбер!」",
+   "orig": "Maito\n「Tri Bomber!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Дзё",
+   "text": "「«Майтгайн»!\n　Теперь твой черёд!」",
+   "orig": "Joe\n「Mightgaine!\n　Now it's your turn!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Трай Бомбер",
+   "text": "「Кх!」",
+   "orig": "Tri Bomber\n「Unh!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Трай Бомбер",
+   "text": "「Ва-а-а-а-а!」",
+   "orig": "Tri Bomber\n「Waaaahhhh!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Майто",
+   "text": "「Трай Бомбер!」",
+   "orig": "Maito\n「Tri Bomber!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Дзё",
+   "text": "「Откуда прилетел этот выстрел?」",
+   "orig": "Joe\n「Where did that attack come from?」"
+  },
+  {
+   "i": 45,
+   "speaker": "Дзё",
+   "text": "「Неужели—!\n　Серийная модель «Хирю»!」",
+   "orig": "Joe\n「Is that—!\n　The Hiryu mass production model!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Вольфганг",
+   "text": "「Я предпочитаю звать её завершённой моделью.」",
+   "orig": "Wolfgang\n「I'd like to call it Hiryu complete model.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Дзё",
+   "text": "「Вольфганг!」",
+   "orig": "Joe\n「Wolfgang!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Вольфганг",
+   "text": "「Ты был так близок.\n　«Майтгайн» был бы уничтожен,\n　не вмешайся этот Трай Бомбер.」",
+   "orig": "Wolfgang\n「You were so close.\n　Mightgaine would have been destroyed\n　if only Tri Bomber hadn't interfered.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Вольфганг",
+   "text": "「Но такова уж $kwbмеганоидная$kwe «Нибелунг».\n　У неё невероятная дальность.」",
+   "orig": "Wolfgang\n「But that's the $kwbMeganoid$kwe Nibelung for you.\n　It has incredible range.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Дзё",
+   "text": "「Не лезь ко мне под руку.\n　«Майтгайн» — мой.」",
+   "orig": "Joe\n「Stay outta my way.\n　The Mightgaine is mine.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Вольфганг",
+   "text": "「Замолчи!\n　Мне всё равно, лишь бы победила моя машина!」",
+   "orig": "Wolfgang\n「Shut up!\n　I don't care as long as my mecha wins!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Вольфганг",
+   "text": "「Полюбуйтесь на этот «Мегасоник 8823»\n　и на «Нибелунг» —\n　совершеннейший из танков!」",
+   "orig": "Wolfgang\n「Feast your eyes on this\n　Megasonic 8823 unit and\n　the Ultimate Tank Nibelung!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Вольфганг",
+   "text": "「Это навеки впишет моё имя в историю.」",
+   "orig": "Wolfgang\n「This will cement my place in history.」"
+  },
+  {
+   "i": 54,
+   "speaker": "？？？",
+   "text": "「Мы не можем закрывать глаза на тех,\n　у кого на руках такие игрушки.」",
+   "orig": "？？？\n「We're not gonna be able to turn a blind\n　eye to anyone with toys like those.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Вольфганг",
+   "text": "「Кто ты такой?」",
+   "orig": "Wolfgang\n「Who are you?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Бандзё",
+   "text": "「Спросил — получай ответ!」",
+   "orig": "Banjo\n「Ask and you shall receive!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Бандзё",
+   "text": "「«Дайтарн»! Ко мне!」",
+   "orig": "Banjo\n「Daitarn! Come here!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Бандзё",
+   "text": "「Мы крушим негодяев ради планеты\n　и ради людей! Мы — «Дайтарн 3»!」",
+   "orig": "Banjo\n「We crush scoundrels for planet\n　and people alike! We're Daitarn 3!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Бандзё",
+   "text": "「Если солнце вам не страшно —\n　подходите и отведайте его!」",
+   "orig": "Banjo\n「If you don't fear the sun,\n　come and taste it!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Дзё",
+   "text": "「Бандзё Харан.」",
+   "orig": "Joe\n「Banjo Haran.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Ихь",
+   "text": "「М-мастер Вольфганг!\n　Это же Бандзё Харан!」",
+   "orig": "Ich\n「M-Master Wolfgang!\n　That's Banjo Haran!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Либе",
+   "text": "「Говорят, он в одиночку растоптал\n　все замыслы $kwbмеганоидов$kwe!」",
+   "orig": "Liebe\n「He's reported to have stomped out\n　$kwbMeganoid$kwe ambitions all on his own!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Дихь",
+   "text": "「Я-я так и знал, что связываться\n　с меганоидной техникой — плохая идея!」",
+   "orig": "Dich\n「I-I knew it was a bad idea\n　to use Meganoid mecha!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Вольфганг",
+   "text": "「З-заткнитесь!\n　У нас есть «Мегасоник»!\n　Мы не проиграем!」",
+   "orig": "Wolfgang\n「Sh-shut up!\n　We've got the Megasonic, too!\n　We won't lose!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Вольфганг",
+   "text": "「Но выложиться придётся\n　до последнего!」",
+   "orig": "Wolfgang\n「But we're gonna have to give\n　this everything we've got!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Ихь",
+   "text": "「А?」",
+   "orig": "Ich\n「Huh?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Бандзё",
+   "text": "「В чём дело, доктор Вольфганг?\n　Подкрепления не будет?」",
+   "orig": "Banjo\n「What's wrong, Dr. Wolfgang?\n　No reinforcements?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Вольфганг",
+   "text": "「Этого не может быть!」",
+   "orig": "Wolfgang\n「This can't be happening!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тэцуя",
+   "text": "「Я позаботился о вашей\n　маленькой засаде.」",
+   "orig": "Tetsuya\n「I took care of\n　your little ambush.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Вольфганг",
+   "text": "「Ч-что ты сделал?」",
+   "orig": "Wolfgang\n「Y-you what?」"
+  },
+  {
+   "i": 71,
+   "speaker": "Бандзё",
+   "text": "「Вы и правда растащили «Надэсико»,\n　разбросав мелкие отряды по разным точкам,\n　но дальше этого дело не пойдёт.」",
+   "orig": "Banjo\n「You may have scattered Nadesico\n　by deploying small forces to different areas,\n　but that's as far as it's gonna go.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Тобиа",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Tobia\n「Great Mazinger!」"
+  },
+  {
+   "i": 73,
+   "speaker": "$n",
+   "text": "「Тэцуя!」",
+   "orig": "$n\n「Tetsuya!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Тэцуя",
+   "text": "「$n.\n　Рёма с вами?」",
+   "orig": "Tetsuya\n「$n.\n　Is Ryoma with you?」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「К сожалению, нет.」",
+   "orig": "$n\n「Unfortunately not.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Вельт",
+   "text": "「Ты первым делом спрашиваешь про Рёму?」",
+   "orig": "Velt\n「You ask about Ryoma before anything else?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Лотти",
+   "text": "「Разве это не странно?」",
+   "orig": "Lottie\n「Isn't that kind of strange?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Тэцуя",
+   "text": "「Извините.\n　Просто мы с ним совершили переход\n　в один и тот же момент.」",
+   "orig": "Tetsuya\n「Sorry.\n　We just happened to have made the leap\n　at the exact same time.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Тэцуя",
+   "text": "（И я любой ценой должен вернуть\n　Рёму в наш мир.）",
+   "orig": "Tetsuya\n（And I've gotta do whatever it takes\n　to get Ryoma back to our world.）"
+  },
+  {
+   "i": 80,
+   "speaker": "Хэтэуэй",
+   "text": "「Так вот он какой, «Грейт Мазингер» Тобиа.」",
+   "orig": "Hathaway\n「So that's the Great Mazinger Tobia mentioned.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Джудо",
+   "text": "「Вид под стать имени — внушает.」",
+   "orig": "Judau\n「It's as impressive in appearance as in name.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Каппэй",
+   "text": "「Вот уж не ждал встретить тебя здесь, Бандзё!」",
+   "orig": "Kappei\n「But I never thought I'd see you here, Banjo!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Бандзё",
+   "text": "「Сколько лет, Каппэй.\n　Похоже, ты снова решил драться.」",
+   "orig": "Banjo\n「It's been too long, Kappei.\n　Looks like you've decided to fight again.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Каппэй",
+   "text": "「Вроде того.\n　Но я должен сказать тебе спасибо\n　за то, что оставил «Замбот» Майто.」",
+   "orig": "Kappei\n「I suppose so.\n　But I need to thank you\n　for leaving Zambot to Maito.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Бандзё",
+   "text": "「Не стоит благодарности.\n　Это я должен отметить твою храбрость.」",
+   "orig": "Banjo\n「Don't mention it.\n　I must commend you on your valor.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе! От твоей похвалы\n　я прямо краснею!」",
+   "orig": "Kappei\n「Hehe! Any compliment from you\n　is enough to make me blush!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Бандзё",
+   "text": "「Что ж, пора показать, каким впечатляющим\n　бывает совместный удар «Дайтарна 3» и «Замбота 3».」",
+   "orig": "Banjo\n「Well then, it's time to show just how spectacular\n　a joint attack of Daitarn 3 and Zambot 3 can be.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Бандзё",
+   "text": "「Давай, Майто!\n　Настоящий бой только начинается!\n　Уведём Трай Бомбера в безопасное место!」",
+   "orig": "Banjo\n「All right, Maito!\n　The real fight starts now!\n　We'll get Tri Bomber to safety!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Майто",
+   "text": "「Х-хорошо!」",
+   "orig": "Maito\n「O-OK!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Трай Бомбер",
+   "text": "「Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Take it back.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Дзё",
+   "text": "「Что?」",
+   "orig": "Joe\n「Huh?」"
+  },
+  {
+   "i": 92,
+   "speaker": "Трай Бомбер",
+   "text": "「Майто не трус.\n　Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Maito is no coward.\n　Take it back.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Майто",
+   "text": "「Довольно, Трай Бомбер!\n　Не говори ничего!」",
+   "orig": "Maito\n「Enough, Tri Bomber!\n　Don't speak!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Трай Бомбер",
+   "text": "「Оскорбить Майто — всё равно что\n　оскорбить весь «Отважный экспресс».\n　Я заставлю тебя взять слова назад.」",
+   "orig": "Tri Bomber\n「Insulting Maito is the same\n　as insulting the Brave Express Corps.\n　I'll make you take it back.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Дзё",
+   "text": "「Ладно.」",
+   "orig": "Joe\n「OK.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Дзё",
+   "text": "「Для робота ты удивителен.\n　За твой боевой дух, Трай Бомбер,\n　я беру свои слова назад.」",
+   "orig": "Joe\n「You're pretty amazing for a robot.\n　In light of your spirit, Tri Bomber,\n　I'll take back what I said.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Трай Бомбер",
+   "text": "「Хе-хе. Прямо от сердца отлегло.」",
+   "orig": "Tri Bomber\n「Hehe. I'm relieved to hear that.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Майто",
+   "text": "「Трай Бомбер!」",
+   "orig": "Maito\n「Tri Bomber!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Тобиа",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Tobia\n「Great Mazinger!」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Тэцуя!」",
+   "orig": "$n\n「Tetsuya!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Тэцуя",
+   "text": "「$n, Тобиа.\n　Рёма с вами?」",
+   "orig": "Tetsuya\n「$n, Tobia.\n　Is Ryoma with you?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тобиа",
+   "text": "「К сожалению, нет.」",
+   "orig": "Tobia\n「Unfortunately not.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Ты первым делом спрашиваешь про Рёму?」",
+   "orig": "$n\n「You ask about Ryoma before anything else?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Тэцуя",
+   "text": "「Извините.\n　Просто мы с ним совершили переход\n　в один и тот же момент.」",
+   "orig": "Tetsuya\n「Sorry.\n　We just happened to have made the leap\n　at the exact same time.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Тэцуя",
+   "text": "（И я любой ценой должен вернуть\n　Рёму в наш мир.）",
+   "orig": "Tetsuya\n（And I've gotta do whatever it takes\n　to get Ryoma back to our world.）"
+  },
+  {
+   "i": 106,
+   "speaker": "Хэтэуэй",
+   "text": "「Так вот он какой, «Грейт Мазингер» Тобиа.」",
+   "orig": "Hathaway\n「So that's the Great Mazinger Tobia mentioned.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Джудо",
+   "text": "「Вид под стать имени — внушает.」",
+   "orig": "Judau\n「It's as impressive in appearance as in name.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Каппэй",
+   "text": "「Вот уж не ждал встретить тебя здесь, Бандзё!」",
+   "orig": "Kappei\n「But I never thought I'd see you here, Banjo!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Бандзё",
+   "text": "「Сколько лет, Каппэй.\n　Похоже, ты снова решил драться.」",
+   "orig": "Banjo\n「It's been too long, Kappei.\n　Looks like you've decided to fight again.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Каппэй",
+   "text": "「Вроде того.\n　Но я должен сказать тебе спасибо\n　за то, что оставил «Замбот» Майто.」",
+   "orig": "Kappei\n「I suppose so.\n　But I need to thank you\n　for leaving Zambot to Maito.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Бандзё",
+   "text": "「Не стоит благодарности.\n　Это я должен отметить твою храбрость.」",
+   "orig": "Banjo\n「Don't mention it.\n　I must commend you on your valor.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе! От твоей похвалы\n　я прямо краснею!」",
+   "orig": "Kappei\n「Hehe! Any compliment from you\n　is enough to make me blush!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Бандзё",
+   "text": "「Что ж, пора показать, каким впечатляющим\n　бывает совместный удар «Дайтарна 3» и «Замбота 3».」",
+   "orig": "Banjo\n「Well then, it's time to show just how spectacular\n　a joint attack of Daitarn 3 and Zambot 3 can be.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Бандзё",
+   "text": "「Давай, Майто!\n　Настоящий бой только начинается!\n　Уведём Трай Бомбера в безопасное место!」",
+   "orig": "Banjo\n「All right, Maito!\n　The real fight starts now!\n　We'll get Tri Bomber to safety!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Майто",
+   "text": "「Х-хорошо!」",
+   "orig": "Maito\n「O-OK!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Трай Бомбер",
+   "text": "「Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Take it back.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Дзё",
+   "text": "「Что?」",
+   "orig": "Joe\n「Huh?」"
+  },
+  {
+   "i": 118,
+   "speaker": "Трай Бомбер",
+   "text": "「Майто не трус.\n　Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Maito is no coward.\n　Take it back.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Майто",
+   "text": "「Довольно, Трай Бомбер!\n　Не говори ничего!」",
+   "orig": "Maito\n「Enough, Tri Bomber!\n　Don't speak!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Трай Бомбер",
+   "text": "「Оскорбить Майто — всё равно что\n　оскорбить весь «Отважный экспресс».\n　Я заставлю тебя взять слова назад.」",
+   "orig": "Tri Bomber\n「Insulting Maito is the same\n　as insulting the Brave Express Corps.\n　I'll make you take it back.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Дзё",
+   "text": "「Ладно.」",
+   "orig": "Joe\n「OK.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Дзё",
+   "text": "「Для робота ты удивителен.\n　За твой боевой дух, Трай Бомбер,\n　я беру свои слова назад.」",
+   "orig": "Joe\n「You're pretty amazing for a robot.\n　In light of your spirit, Tri Bomber,\n　I'll take back what I said.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Трай Бомбер",
+   "text": "「Хе-хе. Прямо от сердца отлегло.」",
+   "orig": "Tri Bomber\n「Hehe. I'm relieved to hear that.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Майто",
+   "text": "「Трай Бомбер!」",
+   "orig": "Maito\n「Tri Bomber!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Тобиа",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Tobia\n「Great Mazinger!」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「Тэцуя!」",
+   "orig": "$n\n「Tetsuya!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Тэцуя",
+   "text": "「$n.\n　Рёма с вами?」",
+   "orig": "Tetsuya\n「$n.\n　Is Ryoma with you?」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「К сожалению, нет.」",
+   "orig": "$n\n「Unfortunately not.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Вельт",
+   "text": "「Ты первым делом спрашиваешь про Рёму?」",
+   "orig": "Velt\n「You ask about Ryoma before anything else?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Лотти",
+   "text": "「Разве это не странно?」",
+   "orig": "Lottie\n「Isn't that kind of strange?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Тэцуя",
+   "text": "「Извините.\n　Просто мы с ним совершили переход\n　в один и тот же момент.」",
+   "orig": "Tetsuya\n「Sorry.\n　We just happened to have made the leap\n　at the exact same time.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Тэцуя",
+   "text": "（И я любой ценой должен вернуть\n　Рёму в наш мир.）",
+   "orig": "Tetsuya\n（And I've gotta do whatever it takes\n　to get Ryoma back to our world.）"
+  },
+  {
+   "i": 133,
+   "speaker": "Хэтэуэй",
+   "text": "「Так вот он какой, «Грейт Мазингер» Тобиа.」",
+   "orig": "Hathaway\n「So that's the Great Mazinger Tobia mentioned.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Джудо",
+   "text": "「Вид под стать имени — внушает.」",
+   "orig": "Judau\n「It's as impressive in appearance as in name.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Каппэй",
+   "text": "「Вот уж не ждал встретить тебя здесь, Бандзё!」",
+   "orig": "Kappei\n「But I never thought I'd see you here, Banjo!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Бандзё",
+   "text": "「Сколько лет, Каппэй.\n　Похоже, ты снова решил драться.」",
+   "orig": "Banjo\n「It's been too long, Kappei.\n　Looks like you've decided to fight again.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Каппэй",
+   "text": "「Вроде того.\n　Но я должен сказать тебе спасибо\n　за то, что оставил «Замбот» Майто.」",
+   "orig": "Kappei\n「I suppose so.\n　But I need to thank you\n　for leaving Zambot to Maito.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Бандзё",
+   "text": "「Не стоит благодарности.\n　Это я должен отметить твою храбрость.」",
+   "orig": "Banjo\n「Don't mention it.\n　I must commend you on your valor.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе! От твоей похвалы\n　я прямо краснею!」",
+   "orig": "Kappei\n「Hehe! Any compliment from you\n　is enough to make me blush!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Бандзё",
+   "text": "「Что ж, пора показать, каким впечатляющим\n　бывает совместный удар «Дайтарна 3» и «Замбота 3».」",
+   "orig": "Banjo\n「Well then, it's time to show just how spectacular\n　a joint attack of Daitarn 3 and Zambot 3 can be.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Бандзё",
+   "text": "「Давай, Майто!\n　Настоящий бой только начинается!\n　Уведём Трай Бомбера в безопасное место!」",
+   "orig": "Banjo\n「All right, Maito!\n　The real fight starts now!\n　We'll get Tri Bomber to safety!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Майто",
+   "text": "「Х-хорошо!」",
+   "orig": "Maito\n「O-OK!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Трай Бомбер",
+   "text": "「Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Take it back.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Дзё",
+   "text": "「Что?」",
+   "orig": "Joe\n「Huh?」"
+  },
+  {
+   "i": 145,
+   "speaker": "Трай Бомбер",
+   "text": "「Майто не трус.\n　Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Maito is no coward.\n　Take it back.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Майто",
+   "text": "「Довольно, Трай Бомбер!\n　Не говори ничего!」",
+   "orig": "Maito\n「Enough, Tri Bomber!\n　Don't speak!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Трай Бомбер",
+   "text": "「Оскорбить Майто — всё равно что\n　оскорбить весь «Отважный экспресс».\n　Я заставлю тебя взять слова назад.」",
+   "orig": "Tri Bomber\n「Insulting Maito is the same\n　as insulting the Brave Express Corps.\n　I'll make you take it back.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Дзё",
+   "text": "「Ладно.」",
+   "orig": "Joe\n「OK.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Дзё",
+   "text": "「Для робота ты удивителен.\n　За твой боевой дух, Трай Бомбер,\n　я беру свои слова назад.」",
+   "orig": "Joe\n「You're pretty amazing for a robot.\n　In light of your spirit, Tri Bomber,\n　I'll take back what I said.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Трай Бомбер",
+   "text": "「Хе-хе. Прямо от сердца отлегло.」",
+   "orig": "Tri Bomber\n「Hehe. I'm relieved to hear that.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Майто",
+   "text": "「Трай Бомбер!」",
+   "orig": "Maito\n「Tri Bomber!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Тобиа",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Tobia\n「Great Mazinger!」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Тэцуя!」",
+   "orig": "$n\n「Tetsuya!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Тэцуя",
+   "text": "「$n, Тобиа.\n　Рёма с вами?」",
+   "orig": "Tetsuya\n「$n, Tobia.\n　Is Ryoma with you?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Тобиа",
+   "text": "「К сожалению, нет.」",
+   "orig": "Tobia\n「Unfortunately not.」"
+  },
+  {
+   "i": 156,
+   "speaker": "$n",
+   "text": "「В первую очередь волнуешься о Рёме.\n　Я прямо завидую.」",
+   "orig": "$n\n「Worried about Ryoma first and foremost.\n　I'm green with envy.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Тэцуя",
+   "text": "「Извините.\n　Просто мы с ним совершили переход\n　в один и тот же момент.」",
+   "orig": "Tetsuya\n「Sorry.\n　We just happened to have made the leap\n　at the exact same time.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Тэцуя",
+   "text": "（И я любой ценой должен вернуть\n　Рёму в наш мир.）",
+   "orig": "Tetsuya\n（And I've gotta do whatever it takes\n　to get Ryoma back to our world.）"
+  },
+  {
+   "i": 159,
+   "speaker": "Хэтэуэй",
+   "text": "「Так вот он какой, «Грейт Мазингер» Тобиа.」",
+   "orig": "Hathaway\n「So that's the Great Mazinger Tobia mentioned.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Джудо",
+   "text": "「Вид под стать имени — внушает.」",
+   "orig": "Judau\n「It's as impressive in appearance as in name.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Каппэй",
+   "text": "「Вот уж не ждал встретить тебя здесь, Бандзё!」",
+   "orig": "Kappei\n「But I never thought I'd see you here, Banjo!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Бандзё",
+   "text": "「Сколько лет, Каппэй.\n　Похоже, ты снова решил драться.」",
+   "orig": "Banjo\n「It's been too long, Kappei.\n　Looks like you've decided to fight again.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Каппэй",
+   "text": "「Вроде того.\n　Но я должен сказать тебе спасибо\n　за то, что оставил «Замбот» Майто.」",
+   "orig": "Kappei\n「I suppose so.\n　But I need to thank you leaving\n　Zambot to Maito.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Бандзё",
+   "text": "「Не стоит благодарности.\n　Это я должен отметить твою храбрость.」",
+   "orig": "Banjo\n「Don't mention it.\n　I must commend you on your valor.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе! От твоей похвалы\n　я прямо краснею!」",
+   "orig": "Kappei\n「Hehe! Any compliment from you\n　is enough to make me blush!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Бандзё",
+   "text": "「Что ж, пора показать, каким впечатляющим\n　бывает совместный удар «Дайтарна 3» и «Замбота 3».」",
+   "orig": "Banjo\n「Well then, it's time to show just how spectacular\n　a joint attack of Daitarn 3 and Zambot 3 can be.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Бандзё",
+   "text": "「Давай, Майто!\n　Настоящий бой только начинается!\n　Уведём Трай Бомбера в безопасное место!」",
+   "orig": "Banjo\n「All right, Maito!\n　The real fight starts now!\n　We'll get Tri Bomber to safety!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Майто",
+   "text": "「Х-хорошо!」",
+   "orig": "Maito\n「O-OK!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Трай Бомбер",
+   "text": "「Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Take it back.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Дзё",
+   "text": "「Что?」",
+   "orig": "Joe\n「Huh?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Трай Бомбер",
+   "text": "「Майто не трус.\n　Возьми свои слова назад.」",
+   "orig": "Tri Bomber\n「Maito is no coward.\n　Take it back.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Майто",
+   "text": "「Довольно, Трай Бомбер!\n　Не говори ничего!」",
+   "orig": "Maito\n「Enough, Tri Bomber!\n　Don't speak!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Трай Бомбер",
+   "text": "「Оскорбить Майто — всё равно что\n　оскорбить весь «Отважный экспресс».\n　Я заставлю тебя взять слова назад.」",
+   "orig": "Tri Bomber\n「Insulting Maito is the same\n　as insulting the Brave Express Corps.\n　I'll make you take it back.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Дзё",
+   "text": "「Ладно.」",
+   "orig": "Joe\n「OK.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Дзё",
+   "text": "「Для робота ты удивителен.\n　За твой боевой дух, Трай Бомбер,\n　я беру свои слова назад.」",
+   "orig": "Joe\n「You're pretty amazing for a robot.\n　In light of your spirit, Tri Bomber,\n　I'll take back what I said.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Трай Бомбер",
+   "text": "「Хе-хе. Прямо от сердца отлегло.」",
+   "orig": "Tri Bomber\n「Hehe. I'm relieved to hear that.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Майто",
+   "text": "「Трай Бомбер!」",
+   "orig": "Maito\n「Tri Bomber!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Бандзё",
+   "text": "「Ну что, Вольфганг!\n　Попробуем ещё раз!」",
+   "orig": "Banjo\n「Well, Wolfgang!\n　Let's try this again!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Вольфганг",
+   "text": "「Р-р-р!\n　Теперь я раздавлю тебя в лоб!」",
+   "orig": "Wolfgang\n「Grrrr!\n　Now I'm gonna crush you head on!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Бандзё",
+   "text": "「Майто.」",
+   "orig": "Banjo\n「Maito.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Майто",
+   "text": "「Понял!\n　Я разберусь с ним сам!」",
+   "orig": "Maito\n「Understood!\n　I'll settle this myself!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Дзё",
+   "text": "「У «Майтгайна» сильные друзья.」",
+   "orig": "Joe\n「Mightgaine has strong friends.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Майто",
+   "text": "「Я пришёл отомстить\n　за Трай Бомбера!」",
+   "orig": "Maito\n「I'm here to avenge\n　Tri Bomber!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Дзё",
+   "text": "「Вольфганг!\n　Не лезь в наш бой!」",
+   "orig": "Joe\n「Wolfgang!\n　Stay outta our fight!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Вольфганг",
+   "text": "「Да пожалуйста!\n　У меня и своих забот хватает!」",
+   "orig": "Wolfgang\n「Go for it!\n　I've got my hands full as is!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Майто",
+   "text": "「Назови своё имя.」",
+   "orig": "Maito\n「Tell me your name.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Дзё",
+   "text": "「Дзё по прозвищу Ас.」",
+   "orig": "Joe\n「Joe the Ace.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Майто",
+   "text": "「Я иду за тобой, Дзё!\n　Ради справедливости и ради Трай Бомбера\n　я буду с тобой драться!」",
+   "orig": "Maito\n「I'm coming for ya, Joe!\n　For justice and for Tri Bomber,\n　I will fight you!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Дзё",
+   "text": "「Хм. Справедливость, значит.」",
+   "orig": "Joe\n「Hmph. Justice, huh.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Дзё",
+   "text": "「Засунь свою справедливость подальше!」",
+   "orig": "Joe\n「Take your justice and shove it!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Харри",
+   "text": "「Уничтожение противника подтверждено.」",
+   "orig": "Harry\n「Enemy destruction confirmed.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Рури",
+   "text": "「Всем подразделениям. Возвращайтесь на базу.\n　Нужно доставить Трай Бомбера домой.」",
+   "orig": "Ruri\n「All units. Return to base.\n　We have to get Tri Bomber home.」"
+  },
+  {
+   "i": 193,
+   "speaker": "$n",
+   "text": "「Тэцуя, ты был вместе с Бандзё?」",
+   "orig": "$n\n「Tetsuya, have you been with Banjo?」"
+  },
+  {
+   "i": 194,
+   "speaker": "Тэцуя",
+   "text": "「Да.\n　Он нашёл меня и принял к себе.」",
+   "orig": "Tetsuya\n「Yeah.\n　He found me and brought me into the fold.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Тэцуя",
+   "text": "「Пришлось повозиться с ремонтом: «Грейт»\n　здорово потрепало при переходе.」",
+   "orig": "Tetsuya\n「It took time to repair the damage inflicted\n　on Great during the jump.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Джудо",
+   "text": "「Ты в порядке, Майто?\n　Похоже, вы с этим Дзё Асом\n　неплохо там потанцевали.」",
+   "orig": "Judau\n「You OK, Maito?\n　Looks like you had quite the dance\n　there with that Joe the Ace.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Майто",
+   "text": "「Обо мне не беспокойся.\n　Сейчас главное — Трай Бомбер.」",
+   "orig": "Maito\n「No need to worry.\n　Tri Bomber comes first.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Майто",
+   "text": "（Дзё по прозвищу Ас.\n　Сегодня верх взял я, но он только-только\n　начал осваиваться в этой машине.）",
+   "orig": "Maito\n（Joe the Ace.\n　I came out on top today, but he was really\n　starting to get the hang of that robot.）"
+  },
+  {
+   "i": 199,
+   "speaker": "Майто",
+   "text": "（Смогу ли я и правда победить?）",
+   "orig": "Maito\n（Can I really win this?）"
+  },
+  {
+   "i": 200,
+   "speaker": "Харри",
+   "text": "「Уничтожение противника подтверждено.」",
+   "orig": "Harry\n「Enemy destruction confirmed.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Рури",
+   "text": "「Всем подразделениям. Возвращайтесь на базу.\n　Нужно доставить Трай Бомбера домой.」",
+   "orig": "Ruri\n「All units. Return to base.\n　We have to get Tri Bomber home.」"
+  },
+  {
+   "i": 202,
+   "speaker": "$n",
+   "text": "「Тэцуя, ты всё это время\n　был вместе с Бандзё?」",
+   "orig": "$n\n「Tetsuya, have you been with Banjo\n　this whole time?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Тэцуя",
+   "text": "「Да.\n　Он нашёл меня и принял к себе.」",
+   "orig": "Tetsuya\n「Yeah.\n　He found me and brought me into the fold.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Тэцуя",
+   "text": "「Пришлось повозиться с ремонтом: «Грейт»\n　здорово потрепало при переходе.」",
+   "orig": "Tetsuya\n「It took time to repair the damage inflicted\n　on Great during the jump.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Джудо",
+   "text": "「Ты в порядке, Майто?\n　Похоже, вы с этим Дзё Асом\n　неплохо там потанцевали.」",
+   "orig": "Judau\n「You OK, Maito?\n　Looks like you had quite the dance\n　there with that Joe the Ace.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Майто",
+   "text": "「Обо мне не беспокойся.\n　Сейчас главное — Трай Бомбер.」",
+   "orig": "Maito\n「No need to worry.\n　Tri Bomber comes first.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Майто",
+   "text": "（Дзё по прозвищу Ас.\n　Сегодня верх взял я, но он только-только\n　начал осваиваться в этой машине.）",
+   "orig": "Maito\n（Joe the Ace.\n　I came out on top today, but he was really\n　starting to get the hang of that robot.）"
+  },
+  {
+   "i": 208,
+   "speaker": "Майто",
+   "text": "（Смогу ли я и правда победить?）",
+   "orig": "Maito\n（Can I really win this?）"
+  },
+  {
+   "i": 209,
+   "speaker": "Хикару",
+   "text": "「Невероятно!\n　Восемь машин за одну минуту!」",
+   "orig": "Hikaru\n「Amazing!\n　Eight craft in one minute!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Рёко",
+   "text": "「Они нас так совсем без работы оставят!」",
+   "orig": "Ryoko\n「They're making us look bad!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Идзуми",
+   "text": "「Я волнуюсь за Трай Бомбера.\n　Надо спешить.」",
+   "orig": "Izumi\n「I'm worried about Tri Bomber.\n　We've gotta hurry.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Дзё",
+   "text": "「Цык!\n　Нам с «Хирю» ещё расти и расти!」",
+   "orig": "Joe\n「Tsk!\n　Hiryu and I still have a ways to go!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Майто",
+   "text": "「Стой, Дзё!\n　Мы ещё не закончили!」",
+   "orig": "Maito\n「Wait, Joe!\n　This is not over!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Дзё",
+   "text": "「Сегодня я признаю поражение.\n　Но больше этого не повторится.」",
+   "orig": "Joe\n「I'll admit defeat today.\n　But it won't happen again.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Дзё",
+   "text": "「В следующий раз мы с «Хирю» разнесём\n　твою хвалёную справедливость в пыль!」",
+   "orig": "Joe\n「Next time, Hiryu and I will smash\n　your so-called justice to smithereens!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Сабуроута",
+   "text": "「Ты справился.」",
+   "orig": "Saburouta\n「You made it.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Гард Дайвер",
+   "text": "「Дзё по прозвищу Ас.\n　Какой же грозный противник.」",
+   "orig": "Guard Diver\n「Joe the Ace.\n　What a tremendous enemy.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Майто",
+   "text": "「Да.」",
+   "orig": "Maito\n「Yeah.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Майто",
+   "text": "（Сможем ли мы с «Майтгайном»\n　и правда одолеть его в следующий раз?）",
+   "orig": "Maito\n（I wonder if Mightgaine and I\n　can really beat him next time.）"
+  },
+  {
+   "i": 220,
+   "speaker": "Вольфганг",
+   "text": "「Что за…\n　Даже «Мегасоник 8823» не приносит победы?」",
+   "orig": "Wolfgang\n「What the…\n　I can't win even with the Megasonic 8823?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Ихь",
+   "text": "「Я-я так и знал.」",
+   "orig": "Ich\n「I-I knew it.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Либе",
+   "text": "「Возможно, дело в мастерстве пилота.」",
+   "orig": "Liebe\n「Perhaps it's the skill of the pilot.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Дихь",
+   "text": "「Может, в этом вся проблема?」",
+   "orig": "Dich\n「Maybe that's the problem?」"
+  },
+  {
+   "i": 224,
+   "speaker": "Вольфганг",
+   "text": "「Хватит болтать!\n　Построю робота посильнее, и всё тут!\n　На сегодня закончили!」",
+   "orig": "Wolfgang\n「Enough talk!\n　I'll just have to build a stronger robot!\n　Let's call it a day!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Бандзё",
+   "text": "「Злой гений робототехники, Вольфганг.」",
+   "orig": "Banjo\n「The evil robot genius, Wolfgang.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Бандзё",
+   "text": "（Его наука служит лишь его самолюбию.\n　Жаль, что он этого не понимает.）",
+   "orig": "Banjo\n（His egomaniacal science helps no one.\n　I wish you could understand that.）"
+  },
+  {
+   "i": 227,
+   "speaker": "Дзё",
+   "text": "「Не путайтесь под ногами!」",
+   "orig": "Joe\n「Stay outta our way!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Дзё",
+   "text": "「С тобой я разберусь потом,\n　так что сиди и смотри!」",
+   "orig": "Joe\n「I'll take care of you after,\n　so just sit back and watch!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Дзё",
+   "text": "「Трай Бомбер!\n　Поможешь мне испытать мощь «Хирю»!」",
+   "orig": "Joe\n「Tri Bomber!\n　You can help me test Hiryu's power!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Трай Бомбер",
+   "text": "「Ты и правда силён!\n　Но есть вещи, которые тебе не сломать!」",
+   "orig": "Tri Bomber\n「You're certainly strong!\n　But there are things you can't break!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Дзё",
+   "text": "「И что же это за вещи?」",
+   "orig": "Joe\n「And what might those be?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Трай Бомбер",
+   "text": "「Моя отвага!\n　И моё чувство справедливости!」",
+   "orig": "Tri Bomber\n「My gutsy attitude!\n　And my sense of justice!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Дзё",
+   "text": "「Глупец!\n　Я покажу тебе, что и твоя драгоценная\n　справедливость прекрасно ломается!」",
+   "orig": "Joe\n「Fool!\n　I'll show you that even your precious\n　sense of justice can be broken!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Майто",
+   "text": "「Ты будто клинок, жаждущий крови!\n　Такое чувство, что мы уже встречались!」",
+   "orig": "Maito\n「You're like a knife that thirsts for blood!\n　I get the feeling we've met before!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Дзё",
+   "text": "「А ты наблюдателен, Майто Сэмпудзи.」",
+   "orig": "Joe\n「Very observant of you, Maito Senpuji.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Майто",
+   "text": "「Так это был ты!」",
+   "orig": "Maito\n「So it was you!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Дзё",
+   "text": "「Я удивлён не меньше.\n　Вот уж не ждал встретить пилота\n　«Майтгайна» именно там.」",
+   "orig": "Joe\n「I'm equally surprised.\n　I never expected to meet the pilot\n　of Mightgaine there of all places.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Майто",
+   "text": "「Почему ты тогда не напал на меня?」",
+   "orig": "Maito\n「Why didn't you target me back then?」"
+  },
+  {
+   "i": 239,
+   "speaker": "Дзё",
+   "text": "「Потому что победа над тобой вне\n　«Майтгайна» для меня ничего не значит.」",
+   "orig": "Joe\n「Because beating you when you're not inside\n　Mightgaine means nothing to me.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Майто",
+   "text": "「Тогда почему именно «Майтгайн»?」",
+   "orig": "Maito\n「Why Mightgaine, then?」"
+  },
+  {
+   "i": 241,
+   "speaker": "Дзё",
+   "text": "「Я наёмник.\n　И охотник по натуре.」",
+   "orig": "Joe\n「I'm a hired gun.\n　And a hunter by nature.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Майто",
+   "text": "「Охотник?」",
+   "orig": "Maito\n「A hunter?」"
+  },
+  {
+   "i": 243,
+   "speaker": "Дзё",
+   "text": "「«Майтгайн» — идеальная добыча.\n　Я буду идти по его следу, пока он не падёт.\n　Потому что так поступают охотники.」",
+   "orig": "Joe\n「Mightgaine is the perfect target.\n　I'll continue to track it until it's down.\n　Because that's what hunters do.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Майто",
+   "text": "「И это всё?」",
+   "orig": "Maito\n「That's it?」"
+  },
+  {
+   "i": 245,
+   "speaker": "Дзё",
+   "text": "「Далеко не всё, Майто Сэмпудзи!\n　Меня тошнит от самого твоего существования!」",
+   "orig": "Joe\n「It's much more than that, Maito Senpuji!\n　Your very existence sickens me!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Майто",
+   "text": "「Таким доводам я проигрывать не собираюсь!」",
+   "orig": "Maito\n「I'm not about to lose to reasoning like that!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Майто",
+   "text": "「Я иду за тобой, Дзё Ас!\n　Хочешь «Майтгайн» —\n　ты его получишь!」",
+   "orig": "Maito\n「I'm coming for ya, Joe the Ace!\n　If it's Mightgaine you want,\n　it's Mightgaine you're gonna get!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Вольфганг",
+   "text": "「«Дайтарн 3» и Бандзё Харан!\n　У меня есть вопрос к сыну\n　$kwbСодзо Харана$kwe!」",
+   "orig": "Wolfgang\n「Daitarn 3 and Banjo Haran!\n　There's something I want to ask the\n　son of $kwbSozo Haran$kwe!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Бандзё",
+   "text": "「Об этом человеке я говорить не стану.」",
+   "orig": "Banjo\n「I won't speak of that man.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Вольфганг",
+   "text": "「Да брось!\n　Его технологии киборгизации и моя\n　робототехника дадут сильнейшего робота!」",
+   "orig": "Wolfgang\n「Come now!\n　His cyborg technology and my robotics\n　could lead to the strongest robot ever!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Бандзё",
+   "text": "「Вот оно что.\n　Значит, «Нибелунг» попала к тебе потому,\n　что ты искал технологии $kwbмеганоидов$kwe.」",
+   "orig": "Banjo\n「I see.\n　So you got your hands on the Nibelung,\n　because you sought $kwbMeganoid$kwe technology.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Бандзё",
+   "text": "「Ты слишком опасен, чтобы тебя не замечать!\n　Пора объяснить тебе, что твоя злая наука\n　приносит человечеству только вред!」",
+   "orig": "Banjo\n「You're too dangerous to ignore!\n　You must be taught to understand that your\n　evil science only serves to harm humankind!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Вольфганг",
+   "text": "「К-какой напор!\n　А говорили, что ты славный малый!」",
+   "orig": "Wolfgang\n「S-such drive!\n　Not the nice guy everyone says you are!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Бандзё",
+   "text": "「Я просто не приемлю науку,\n　что приносит больше вреда, чем пользы!」",
+   "orig": "Banjo\n「I simply refuse to accept sciences\n　that do more harm than good!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Бандзё",
+   "text": "「«Нибелунг», совершеннейший из танков.\n　Наследие командира Хесслера.」",
+   "orig": "Banjo\n「Ultimate Tank Nibelung.\n　Commander Hessler's bequest.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Бандзё",
+   "text": "「Ему нельзя позволить существовать!\n　Всё, что осталось от меганоидов,\n　должно быть стёрто в пыль!」",
+   "orig": "Banjo\n「It cannot be allowed to exist!\n　Every last trace of Meganoid existence\n　must be ground into dust!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Бандзё",
+   "text": "「Тьма пытается поглотить эту планету.」",
+   "orig": "Banjo\n「Darkness is trying to consume the planet.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Бандзё",
+   "text": "「А значит, мы с «Дайтарном 3»\n　станем солнцем, что её разгонит!」",
+   "orig": "Banjo\n「And that means that Daitarn 3 and I\n　will be the sun that drives it away!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Вольфганг",
+   "text": "「Чёрная броня!\n　Сокрушительная мощь!\n　Настоящий супер-робот!」",
+   "orig": "Wolfgang\n「Black armor!\n　Overwhelming power!\n　A super robot!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Тэцуя",
+   "text": "「Лестью ты ничего не добьёшься.\n　Хм. А может, и добьёшься.」",
+   "orig": "Tetsuya\n「Praise won't get you anywhere.\n　Hmm. Or maybe it will.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Вольфганг",
+   "text": "「И чего же я добьюсь?」",
+   "orig": "Wolfgang\n「What will it get me?」"
+  },
+  {
+   "i": 262,
+   "speaker": "Тэцуя",
+   "text": "「Всякий, на любой планете, кто обращает\n　науку себе на пользу, — мой враг!」",
+   "orig": "Tetsuya\n「Anyone on any planet who uses science\n　to their own ends is an enemy of mine!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Тэцуя",
+   "text": "「И чтобы ты понял, что я не шучу,\n　«Грейт» уничтожит твоего драгоценного\n　робота вместе со всеми твоими замыслами!」",
+   "orig": "Tetsuya\n「To show that I'm serious,\n　Great is going to annihilate your precious\n　robot and all of your vile ambitions!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Вольфганг",
+   "text": "「Э-этого мне только не хватало!」",
+   "orig": "Wolfgang\n「Th-that's about the last thing I need!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Тэцуя",
+   "text": "（Раз Тобиа и остальные здесь,\n　значит, и Рёма должен быть где-то рядом.）",
+   "orig": "Tetsuya\n（If Tobia and the others are here,\n　Ryoma must be here as well.）"
+  },
+  {
+   "i": 266,
+   "speaker": "Тэцуя",
+   "text": "（Да ещё и отряд «Гандамов».\n　Надежда есть!）",
+   "orig": "Tetsuya\n（And then there's the Gundam group.\n　There is hope!）"
+  },
+  {
+   "i": 267,
+   "speaker": "Вольфганг",
+   "text": "「Я сразу понял, что этот робот особенный,\n　но он, похоже, вообще из другого мира!」",
+   "orig": "Wolfgang\n「I knew this robot was different,\n　but it seems to be from another world!」"
+  },
+  {
+   "i": 268,
+   "speaker": "$n",
+   "text": "「Мы, похоже, их тоже заинтересовали.\n　Но «Вангрэй» они не получат.」",
+   "orig": "$n\n「They seem interested in us as well.\n　But they're not getting the VangRay.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Найн",
+   "text": "「Кое-что ты забыл.」",
+   "orig": "Nine\n「You're missing something.」"
+  },
+  {
+   "i": 270,
+   "speaker": "$n",
+   "text": "「Поправка.\n　Они не получат ни Найн,\n　ни «Вангрэй»!」",
+   "orig": "$n\n「Correction.\n　They're not getting Nine\n　or the VangRay!」"
+  },
+  {
+   "i": 271,
+   "speaker": "$n",
+   "text": "「Эти негодяи должны ответить\n　за свою трусость!」",
+   "orig": "$n\n「These scoundrels must be punished\n　for resorting to such cowardice!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Вольфганг",
+   "text": "「Я сразу понял, что этот робот особенный,\n　но он, похоже, вообще из другого мира!」",
+   "orig": "Wolfgang\n「I knew this robot was different,\n　but it seems to be from another world!」"
+  },
+  {
+   "i": 273,
+   "speaker": "$n",
+   "text": "「Мы, похоже, их тоже заинтересовали.\n　Но «Вангрэй» они не получат.」",
+   "orig": "$n\n「They seem interested in us as well.\n　But they're not getting the VangRay.」"
+  },
+  {
+   "i": 274,
+   "speaker": "$n",
+   "text": "「И меня с Найн им тоже не получить!」",
+   "orig": "$n\n「Nor are they getting me or Nine!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Найн",
+   "text": "「Хорошо сказано, сестрёнка.」",
+   "orig": "Nine\n「Well said, Sis.」"
+  },
+  {
+   "i": 276,
+   "speaker": "$n",
+   "text": "「О?\n　Спасибо, Найн.」",
+   "orig": "$n\n「Oh?\n　Thanks, Nine.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Найн",
+   "text": "「Ну что ж.」",
+   "orig": "Nine\n「Well then.」"
+  },
+  {
+   "i": 278,
+   "speaker": "$n",
+   "text": "「Пора вывести этих негодяев под корень!」",
+   "orig": "$n\n「It's time to exterminate these scoundrels!」"
+  },
+  {
+   "i": 279,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

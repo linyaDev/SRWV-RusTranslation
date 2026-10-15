@@ -1,0 +1,2032 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　-Убежище Вольфганга-",
+   "orig": "　\n　　\n　　　　　　　　　-Wolfgang's Hideout-"
+  },
+  {
+   "i": 4,
+   "speaker": "Вольфганг",
+   "text": "「У-у! Как я зол!\n　Стоит только вспомнить — и бешусь!」",
+   "orig": "Wolfgang\n「Ugh! I'm so mad!\n　Just thinking about it makes me angry!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Вольфганг",
+   "text": "「Р-р-р-р!\n　Как я зо-о-о-ол!」",
+   "orig": "Wolfgang\n「Urrrgh!\n　I'm soooo maaaad!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Дих",
+   "text": "「Что стряслось с мастером Вольфгангом?」",
+   "orig": "Dich\n「What's wrong with Master Wolfgang?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Ихь",
+   "text": "「Говорят, с ним связался его спонсор.」",
+   "orig": "Ich\n「I heard his sponsor contacted him.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Дих",
+   "text": "「Тот чудак, что зовёт себя мистером Иксом.」",
+   "orig": "Dich\n「That weirdo who goes by the name of Mr. X.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Ихь",
+   "text": "「Платит он хорошо,\n　но и выжимает из нас все соки.」",
+   "orig": "Ich\n「He pays well\n　but really makes us work for it.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Дих",
+   "text": "「Так вот из-за чего мастер Вольфганг в ярости.」",
+   "orig": "Dich\n「So that's what's got Master Wolfgang so angry.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Вольфганг",
+   "text": "「Да, но благодаря его деньгам\n　мы наконец заполучим робота,\n　который сильнее «Майтгайна»!」",
+   "orig": "Wolfgang\n「Yes, but thanks to his funds, \n　we're finally gonna get our hands on a robot\n　more powerful than Mightgaine!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Ихь",
+   "text": "「Это тот самый, о котором я думаю?」",
+   "orig": "Ich\n「Is it the one I think it is?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Либе",
+   "text": "「Штука, конечно, впечатляющая, но…」",
+   "orig": "Liebe\n「It is pretty amazing, but—」"
+  },
+  {
+   "i": 14,
+   "speaker": "Дих",
+   "text": "「Вы уверены, что именно он?」",
+   "orig": "Dich\n「Are you sure that's the one?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Вольфганг",
+   "text": "「Да что с вами такое?\n　Это же мой величайший шедевр!」",
+   "orig": "Wolfgang\n「What's wrong with you guys?\n　It's my greatest masterpiece!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Ихь",
+   "text": "「Так-то оно так, мастер Вольфганг.\n　Но мы не можем заставить его работать.」",
+   "orig": "Ich\n「Yes, but Master Wolfgang.\n　We can't get it to work properly.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Либе",
+   "text": "「Каким бы сильным ни был робот,\n　он немногим лучше кучи металлолома,\n　если им некому управлять.」",
+   "orig": "Liebe\n「No matter how strong a robot may be,\n　it's little more than a glorified trash heap\n　if no one is able to pilot it.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Вольфганг",
+   "text": "「Я уже об этом подумал.\n　Заходи.」",
+   "orig": "Wolfgang\n「I've already considered that.\n　Get in.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Дзё",
+   "text": "「Хм.」",
+   "orig": "Joe\n「Hmm.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Дих",
+   "text": "「Кто это?」",
+   "orig": "Dich\n「Who is he?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Вольфганг",
+   "text": "「Это не кто иной, как Дзё Ас.\n　Не слыхали?」",
+   "orig": "Wolfgang\n「This is none other than Joe the Ace.\n　Never heard of him?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Ихь",
+   "text": "「Д-Дзё Ас?」",
+   "orig": "Ich\n「J-Joe the Ace?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Либе",
+   "text": "「Лучший пилот Федерации!」",
+   "orig": "Liebe\n「The Federation's master pilot!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Дих",
+   "text": "「Всегда на передовой, наград не счесть —\n　и он потребовал добавить к имени слово «Ас»!」",
+   "orig": "Dich\n「Always on the front, with numerous medals,\n　he wanted the word \"Ace\" added to his name!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Ихь",
+   "text": "「Но я слышал, он преступник и скрылся\n　после того, как нарушил приказ.」",
+   "orig": "Ich\n「But I heard that he was a criminal who\n　went into hiding after disobeying orders. 」"
+  },
+  {
+   "i": 26,
+   "speaker": "Вольфганг",
+   "text": "「Что ж, тот самый Дзё Ас\n　стоит сейчас перед вами во плоти.」",
+   "orig": "Wolfgang\n「Well, that very same Joe the Ace\n　now stands before you in the flesh.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Дзё",
+   "text": "「Хватит балагана.\n　Говори, что тебе нужно.」",
+   "orig": "Joe\n「Enough of this foolishness.\n　Tell me what you want.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Вольфганг",
+   "text": "「Хе-хе-хе. Вот это разговор.\n　Смелости тебе не занимать, признаю.」",
+   "orig": "Wolfgang\n「Hehehe. That's the spirit.\n　You've got guts. I'll give you that.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Дзё",
+   "text": "「Раз уж речь обо мне, добавлю:\n　я не большой любитель исполнять приказы.」",
+   "orig": "Joe\n「While we're on the subject of me,\n　I might add that I'm not big on taking orders.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Ихь",
+   "text": "「Ты кем себя возомнил?」",
+   "orig": "Ich\n「Who do you think you are?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Либе",
+   "text": "「С мастером Вольфгангом так не говорят!」",
+   "orig": "Liebe\n「Nobody talks to Master Wolfgang like that!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Дзё",
+   "text": "「И что?\n　Угрожаешь мне?」",
+   "orig": "Joe\n「So what?\n　You threatening me?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Вольфганг",
+   "text": "「Вовсе нет.\n　Вот инструкция к роботу,\n　за штурвал которого я хочу тебя посадить.」",
+   "orig": "Wolfgang\n「Not our intent.\n　Here's a manual for the robot\n　I want you to pilot.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Дзё",
+   "text": "「И что мне с этой штукой делать?」",
+   "orig": "Joe\n「What do you want me to do with this thing?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Вольфганг",
+   "text": "「Победить «Майтгайна».\n　Вот и всё.」",
+   "orig": "Wolfgang\n「Defeat Mightgaine.\n　That's it.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Дзё",
+   "text": "「«Майтгайн».\n　Идёт.」",
+   "orig": "Joe\n「Mightgaine.\n　Fine.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Вольфганг",
+   "text": "「Погоди!\n　Куда ты, Дзё?」",
+   "orig": "Wolfgang\n「Hold on!\n　Where are you going, Joe?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Дзё",
+   "text": "「Я взялся за работу.\n　Дай мне делать её по-своему.」",
+   "orig": "Joe\n「I took the job.\n　Now let me do it my way.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Ихь",
+   "text": "「Н-ну и хам!」",
+   "orig": "Ich\n「H-he's such a jerk!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Вольфганг",
+   "text": "「Не стану спорить.\n　Но в мастерстве ему нет равных.」",
+   "orig": "Wolfgang\n「I won't say I disagree.\n　But his skills are second to none.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Либе",
+   "text": "「Но мастер Вольфганг!\n　Сомневаюсь, что мистер Икс обрадуется,\n　если мы не одолеем «Майтгайн»!」",
+   "orig": "Liebe\n「But Master Wolfgang!\n　I doubt Mr. X is going to be happy\n　if we can't beat Mightgaine!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Вольфганг",
+   "text": "「Ты думаешь, мой шедевр может проиграть?」",
+   "orig": "Wolfgang\n「You think my masterpiece is going to lose?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Либе",
+   "text": "「Ч-что вы, я и не думал такого!」",
+   "orig": "Liebe\n「I-I'd never suggest that!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Вольфганг",
+   "text": "「Не волнуйтесь.\n　Я подготовился как следует.」",
+   "orig": "Wolfgang\n「Don't worry.\n　I'm perfectly prepared.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Ихь",
+   "text": "「Э-это значит то, о чём я подумал?」",
+   "orig": "Ich\n「D-does that mean what I think it means?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Вольфганг",
+   "text": "「Именно так!\n　Восстановление прошло успешно!」",
+   "orig": "Wolfgang\n「It does indeed!\n　The restoration was a success!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Дих",
+   "text": "「Хотя довести его до ума\n　стоило уймы денег.」",
+   "orig": "Dich\n「Though it took a ton of money\n　to finally complete it.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Ихь",
+   "text": "「Нам пришлось тащиться аж до Марса,\n　чтобы рыться там в металлоломе.」",
+   "orig": "Ich\n「We ended up going all the way\n　to Mars to rummage through scrap.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Вольфганг",
+   "text": "「Не говори так, будто всё было впустую.\n　Мы нашли там немало любопытного.」",
+   "orig": "Wolfgang\n「Don't make it sound like a waste.\n　We found a lot of interesting things there.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Либе",
+   "text": "「Но почти ничего не удалось восстановить,\n　и мы залезли в долги ещё глубже.」",
+   "orig": "Liebe\n「But most of them couldn't be restored\n　and put us deeper in the red.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Вольфганг",
+   "text": "「Неважно, на этот раз мы победим!\n　Некогда горевать о прошлом!」",
+   "orig": "Wolfgang\n「Anyway, we'll win this time!\n　No time to worry about the past!」"
+  },
+  {
+   "i": 55,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　-Нубель Токио Сити-",
+   "orig": "　\n　　\n　　　　　　　　　　-Nubel Tokio City-"
+  },
+  {
+   "i": 56,
+   "speaker": "Салли",
+   "text": "「П-пожалуйста, оставьте меня в покое!」",
+   "orig": "Sally\n「P-please leave me alone!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Горожанин",
+   "text": "「Ну чего ты такая злюка?\n　Я просто хочу познакомиться, и всё.」",
+   "orig": "Civilian\n「Why you gotta be so mean?\n　I just want to get to know you is all.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Салли",
+   "text": "「Я опоздаю на работу.」",
+   "orig": "Sally\n「I'm going to be late for work.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Горожанин",
+   "text": "「Да можно же разок прогулять, а?\n　Тебе понравится, обещаю.」",
+   "orig": "Civilian\n「You can take one day off, now, can't ya?\n　You'll enjoy it, I promise.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Дзё",
+   "text": "「Хм.」",
+   "orig": "Joe\n「Hmm.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Горожанин",
+   "text": "「Ты кем себя возомнил?」",
+   "orig": "Civilian\n「Who do you think you are?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Дзё",
+   "text": "「Отойди.\n　Надоела мне твоя рожа.」",
+   "orig": "Joe\n「Move it.\n　I'm sick of your ugly mug.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Горожанин",
+   "text": "「Ах ты гад!\n　Похоже, кому-то тут хочется по шее!」",
+   "orig": "Civilian\n「Damn you!\n　Looks like somebody wants to get hurt!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Дзё",
+   "text": "「Кажется, я сказал тебе отойти.」",
+   "orig": "Joe\n「I thought I told you to move.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Горожанин",
+   "text": "「Ых.」",
+   "orig": "Civilian\n「Unnh.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Дзё",
+   "text": "「Лает, да не кусает.」",
+   "orig": "Joe\n「All bark and no bite.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Салли",
+   "text": "「Э-э, простите…」",
+   "orig": "Sally\n「Uh, umm.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Дзё",
+   "text": "「Благодарности мне не нужны.」",
+   "orig": "Joe\n「I don't need your gratitude.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Салли",
+   "text": "「Спасибо, что выручили!」",
+   "orig": "Sally\n「Thank you for saving me!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Салли",
+   "text": "「Хотя вы, кажется, немного перестарались.」",
+   "orig": "Sally\n「Though you kind of overdid it.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Дзё",
+   "text": "「Я с ним помягче обошёлся.\n　Ходить он ещё будет.」",
+   "orig": "Joe\n「I went easy on him.\n　He'll walk again.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Горожанин",
+   "text": "「Эй, ты!\n　Думаешь, ты тут самый крутой?」",
+   "orig": "Civilian\n「You!\n　You really think you're tough, huh?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Дзё",
+   "text": "「Что я говорил.」",
+   "orig": "Joe\n「What'd I tell you.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Горожанин",
+   "text": "「Это тебе так не сойдёт!\n　Пусть за меня скажет нож!」",
+   "orig": "Civilian\n「You won't get away this!\n　I'll let my knife do the talking!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Майто",
+   "text": "「Берегись!」",
+   "orig": "Maito\n「Watch out!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Горожанин",
+   "text": "「Гх!」",
+   "orig": "Civilian\n「Ngh!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Салли",
+   "text": "「Майто!」",
+   "orig": "Sally\n「Maito!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Майто",
+   "text": "「Ты цела, Салли?」",
+   "orig": "Maito\n「Are you all right, Sally?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Дзё",
+   "text": "（Майто.\n　Ясно. Значит, это и есть Майто Сэмпудзи.）",
+   "orig": "Joe\n（Maito.\n　I see. So he's Maito Senpuji.）"
+  },
+  {
+   "i": 80,
+   "speaker": "Майто",
+   "text": "「А вы? Не пострадали?」",
+   "orig": "Maito\n「How about you? You okay?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Дзё",
+   "text": "「По-моему, ты лишнего наворотил.」",
+   "orig": "Joe\n「I think you were overkill.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Майто",
+   "text": "「Пожалуй, вы правы.\n　Вам, наверное, и помощь-то не требовалась\n　с этим хулиганом.」",
+   "orig": "Maito\n「You're probably right.\n　You probably didn't need any help\n　with that punk.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Майто",
+   "text": "「Но здесь была и Салли.\n　А я не могу просто стоять и смотреть,\n　как кто-то угрожает невинным.」",
+   "orig": "Maito\n「But Sally was here, too.\n　And I can't just sit by and watch\n　people threaten the innocent.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Дзё",
+   "text": "「Цык.」",
+   "orig": "Joe\n「Tsk.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Дзё",
+   "text": "（Пришёл сюда отдохнуть —\n　и напоролся именно на него.）",
+   "orig": "Joe\n（I come here to relax and\n　run into him of all people.）"
+  },
+  {
+   "i": 86,
+   "speaker": "Дзё",
+   "text": "（Хотя не сказать, что это меня не раззадорило.）",
+   "orig": "Joe\n（Though I can't say it doesn't motivate me.）"
+  },
+  {
+   "i": 87,
+   "speaker": "Салли",
+   "text": "「Э-эй, постойте!\n　Я ведь даже имени вашего не узнала!」",
+   "orig": "Sally\n「Umm, wait!\n　I didn't get your name!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Майто",
+   "text": "（Этот человек был готов ответить\n　в ту же секунду, как на него навели нож.）",
+   "orig": "Maito\n（That man was ready to respond the\n　second the knife was pointed at him.）"
+  },
+  {
+   "i": 89,
+   "speaker": "Майто",
+   "text": "（Какая быстрота. Кто же он такой?）",
+   "orig": "Maito\n（So quick. Who was he?）"
+  },
+  {
+   "i": 90,
+   "speaker": "Салли",
+   "text": "「Майто.」",
+   "orig": "Sally\n「Maito.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Майто",
+   "text": "「Я рад, что ты цела, Салли.\n　Услышал твой голос и сразу прибежал.」",
+   "orig": "Maito\n「I'm glad you're safe, Sally.\n　I heard your voice and came running.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Салли",
+   "text": "「Спасибо, Майто.」",
+   "orig": "Sally\n「Thank you, Maito.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Салли",
+   "text": "「Но, э-э…\n　тебя что-то тревожит?」",
+   "orig": "Sally\n「But, uh,\n　is something bothering you?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Майто",
+   "text": "「А?」",
+   "orig": "Maito\n「Huh?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Салли",
+   "text": "「Просто сегодня ты как будто\n　сам не свой.」",
+   "orig": "Sally\n「I mean, you don't seem\n　like your usual self today.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Майто",
+   "text": "「Мм.」",
+   "orig": "Maito\n「Umm.」"
+  },
+  {
+   "i": 100,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Подземный ангар завода Аото-",
+   "orig": "　\n　\n　　　　　　　-Aoto Factory Underground Hangar-"
+  },
+  {
+   "i": 101,
+   "speaker": "Майто",
+   "text": "（Что правда, то правда: после прошлого боя\n　меня не отпускает тревога.）",
+   "orig": "Maito\n（It's true that I've felt impatient\n　since the last fight.）"
+  },
+  {
+   "i": 102,
+   "speaker": "Майто",
+   "text": "（Невероятное зло, о котором говорил Акито,\n　и невероятное зло, о котором говорил отец.\n　Возможно, это одно и то же.）",
+   "orig": "Maito\n（The incredible evil Akito mentioned and\n　the incredible evil my dad mentioned.\n　It might be one in the same.）"
+  },
+  {
+   "i": 103,
+   "speaker": "Майто",
+   "text": "（Смогу ли я и дальше с ним сражаться?）",
+   "orig": "Maito\n（Can I really keep fighting it?）"
+  },
+  {
+   "i": 104,
+   "speaker": "Джудо",
+   "text": "「Майто в последнее время\n　сам не свой.」",
+   "orig": "Judau\n「Maito seems troubled\n　as of late.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Бича",
+   "text": "「Странно видеть президента Майто таким,\n　когда отряд Храброго Экспресса\n　приехал сюда ради техобслуживания.」",
+   "orig": "Beecha\n「It's strange seeing President Maito like that\n　with the Brave Express Corps coming\n　all the way here for maintenance.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Гайн",
+   "text": "「Простите, ребята.\n　Думаю, Майто нужно побыть одному.」",
+   "orig": "Gaine\n「Sorry, everyone.\n　I think Maito needs some time to himself.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Тобиа",
+   "text": "「Понятно, Гайн.」",
+   "orig": "Tobia\n「Understood, Gaine.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Гайн",
+   "text": "「Теперь, когда он знает, кто стоит\n　за гибелью его родителей, он обдумывает,\n　как быть дальше.」",
+   "orig": "Gaine\n「Now that he knows who is behind\n　his parents' accident, he's busy considering\n　his next course of action.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Бича",
+   "text": "「Это чудовище помогает Марсианским преемникам?」",
+   "orig": "Beecha\n「Is that monster aiding the Martian Successor?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Элль",
+   "text": "「Похоже на то, если Акито не ошибся.\n　Но уследить за всем этим было непросто.」",
+   "orig": "Elle\n「He seems to be if what Akito said is true.\n　But it was all kind of hard to follow.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Ру",
+   "text": "「А вы двое слышали, что сказала\n　об этом капитан Рури?」",
+   "orig": "Roux\n「Did you two hear what Captain\n　Ruri had to say about it?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Бича",
+   "text": "「Слышали.\n　Но ведь это не про наш мир, так?」",
+   "orig": "Beecha\n「We did.\n　But it's not about our world, is it?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Бича",
+   "text": "「Главное, что должно нас заботить, —\n　как вернуться в свой мир.」",
+   "orig": "Beecha\n「Our biggest concern should be\n　getting back to our world.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Тобиа",
+   "text": "「Хм.」",
+   "orig": "Tobia\n「Hmm.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Хатауэй",
+   "text": "「А ты что обо всём этом думаешь, Тобиа?」",
+   "orig": "Hathaway\n「What do you think of all this, Tobia?」"
+  },
+  {
+   "i": 116,
+   "speaker": "Тобиа",
+   "text": "「Честно говоря, сам не знаю, что думать.」",
+   "orig": "Tobia\n「To be honest, I'm not sure what to think.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Тобиа",
+   "text": "「Будь у нас дорога домой,\n　я бы вернулся и занялся своими делами.\n　Но дороги нет.」",
+   "orig": "Tobia\n「If we had a way home,\n　I'd go back and do what we have to do.\n　But that's not the case.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Тобиа",
+   "text": "「А значит, у нас нет выбора —\n　надо заниматься тем, что перед нами.」",
+   "orig": "Tobia\n「And that means we've got no choice\n　but to take care of the task at hand.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Гайн",
+   "text": "「Ты и правда такой справедливый, как говорят.」",
+   "orig": "Gaine\n「You really are as just as they say.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Тобиа",
+   "text": "「Ну, это уже слишком сильно сказано.」",
+   "orig": "Tobia\n「I wouldn't go that far.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Джудо",
+   "text": "「Я согласен с Тобиа.\n　Террористам и похитителям нельзя\n　позволять творить что вздумается.」",
+   "orig": "Judau\n「I agree with Tobia.\n　Terrorists and kidnappers cannot\n　be left to their own devices.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Ру",
+   "text": "「А ты как считаешь, Бича?\n　Если тебе неинтересно, может, уйдёшь\n　с «Надэсико» и пойдёшь работать к Сэмпудзи?」",
+   "orig": "Roux\n「What do you think, Beecha?\n　If you're not interested, how about leaving\n　Nadesico and working for Senpuji?」"
+  },
+  {
+   "i": 123,
+   "speaker": "Гайн",
+   "text": "「Хочешь, я спрошу Хамаду и Осаку?」",
+   "orig": "Gaine\n「Want me to ask Hamada and Osaka?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Бича",
+   "text": "「Я-я же пошутил!\n　Я весь в деле!」",
+   "orig": "Beecha\n「I-I was just joking!\n　I'm all business!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Тобиа",
+   "text": "「Но никто тебя не осудит,\n　если ты уйдёшь с «Надэсико».\n　У тебя своя жизнь.」",
+   "orig": "Tobia\n「But nobody would blame you\n　for leaving Nadesico.\n　You have your own life to live.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Бича",
+   "text": "「Ладно, там видно будет.」",
+   "orig": "Beecha\n「Well, we'll see how things go.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Джудо",
+   "text": "「Кстати, Хатауэй.\n　А ты как?」",
+   "orig": "Judau\n「Speaking of which, Hathaway.\n　What about you?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Хатауэй",
+   "text": "「Я думаю так же, как Тобиа.\n　Я не могу простить тех, кто прибегает к террору.」",
+   "orig": "Hathaway\n「I feel the same as Tobia.\n　I can't forgive anyone who resorts to terror.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Джудо",
+   "text": "「Хатауэй.」",
+   "orig": "Judau\n「Hathaway.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Ру",
+   "text": "（Похоже, кое-кто до сих пор не забыл\n　$kwbКвес$kwe со времён $kwbМятежа Чара$kwe.）",
+   "orig": "Roux\n（Looks like someone still hasn't gotten over\n　$kwbQuess$kwe from the time of $kwbChar's Rebellion$kwe.）"
+  },
+  {
+   "i": 131,
+   "speaker": "Джудо",
+   "text": "（Как и опасались Брайт с Чан.）",
+   "orig": "Judau\n（Just as Bright and Chan feared.）"
+  },
+  {
+   "i": 132,
+   "speaker": "Элль",
+   "text": "「Эй, ребята.\n　Я ловлю странную передачу.」",
+   "orig": "Elle\n「Hey, everyone.\n　I'm picking up a strange transmission.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Гайн",
+   "text": "「Передачу?」",
+   "orig": "Gaine\n「A transmission?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Элль",
+   "text": "「Вызов на бой, адресованный «Майтгайну».」",
+   "orig": "Elle\n「A written challenge addressed to Mightgaine.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Майто",
+   "text": "「Что?」",
+   "orig": "Maito\n「What?」"
+  },
+  {
+   "i": 136,
+   "speaker": "Гайн",
+   "text": "「Официально вызываю «Майтгайн» на дуэль.\n　Если вызов не будет принят,\n　город подвергнется беспощадному разрушению.」",
+   "orig": "Gaine\n「I formally challenge Mightgaine to a duel.\n　If this challenge is not accepted,\n　the city will be indiscriminately destroyed.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Ру",
+   "text": "「Плохие новости.\n　С «Надэсико» только что сообщили:\n　в Кансае зашевелились преступники.」",
+   "orig": "Roux\n「This is bad news.\n　We just got word from Nadesico that\n　criminals are on the move in Kansai.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Тобиа",
+   "text": "「Они хотят нас разделить?」",
+   "orig": "Tobia\n「Are they trying to divide us?」"
+  },
+  {
+   "i": 139,
+   "speaker": "Бича",
+   "text": "「Что будем делать, Майто?\n　«Локоморайзер» сейчас недоступен!」",
+   "orig": "Beecha\n「What are we going to do, Maito?\n　Locomorizer is currently unavailable!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Майто",
+   "text": "「Дайверы тоже на техобслуживании.\n　Что же у нас остаётся?」",
+   "orig": "Maito\n「Divers are also undergoing maintenance.\n　So what does that leave us?」"
+  },
+  {
+   "i": 144,
+   "speaker": "　",
+   "text": "　\n　　　　　　　-Мостик «Надэсико B»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nadesico B Bridge-"
+  },
+  {
+   "i": 145,
+   "speaker": "Рури",
+   "text": "「Итак, «Селестиал Бин» и «Мифрил».\n　И 1-я эскадрилья «Пара-мейлов» Арзенала.\n　Мы все соединяемся здесь.」",
+   "orig": "Ruri\n「OK, Celestial Being and Mithril.\n　And Arzenal's 1st Para-Mail Squadron.\n　We're all going to link up here.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Сумераги",
+   "text": "「«Туата де Данаан»\n　проходит техобслуживание в доке «Нергала»\n　в расчёте на предстоящие бои.」",
+   "orig": "Sumeragi\n「The Tuatha de Danaan\n　is undergoing maintenance at Nergal dock\n　in anticipation of the battles ahead.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Сумераги",
+   "text": "「Всякого случилось немало,\n　но 1-я эскадрилья пара-райдеров\n　под началом Салии понемногу крепнет.」",
+   "orig": "Sumeragi\n「A lot has happened, \n　but the 1st Para-Rider Squadron under\n　Salia has shown gradual improvement.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Сумераги",
+   "text": "「Ещё из $kwbПЛАНТ$kwe и $kwbОрба$kwe к нам направили\n　Киру Ямато, Атруна Залу, Синна Аску\n　и Лунамарию Хоук.」",
+   "orig": "Sumeragi\n「We've also dispatched Kira Yamato,\n　Athrun Zala, Shinn Asuka, and Lunamaria Hawke\n　from $kwbPLANT$kwe and $kwbOrb$kwe.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Рури",
+   "text": "「Белый Шквал и Алая Вспышка из Орба.\n　И Синяя Молния из ЗАФТа.」",
+   "orig": "Ruri\n「Orb's White Gale and Red Flash.\n　And ZAFT's Blue Lightning.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Рури",
+   "text": "「До глубины души трогает, когда вчерашние\n　враги сражаются плечом к плечу.」",
+   "orig": "Ruri\n「It's deeply moving to see former enemies\n　fight on the same side as allies.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Сумераги",
+   "text": "「Да.\n　Если бы весь мир\n　был хоть немного похож на них.」",
+   "orig": "Sumeragi\n「Yeah.\n　If only the whole world\n　could be more like them.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Рури",
+   "text": "「И не говорите.」",
+   "orig": "Ruri\n「You said it.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Рури",
+   "text": "「Что ж, мне нужно заняться лечением\n　«Трай Бомбера», так что я буду ждать\n　в Нубель Токио Сити.」",
+   "orig": "Ruri\n「Well, I've got to see to Tri Bomber's treatment,\n　so I'll be waiting in Nubel Tokio City.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Сумераги",
+   "text": "「А потом?」",
+   "orig": "Sumeragi\n「And then?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Рури",
+   "text": "「А потом мы выйдем на сцену раньше, чем\n　Марсианский преемник начнёт решающий удар.」",
+   "orig": "Ruri\n「Then we make an entrance before the Martian\n　Successor can begin his final offensive.」"
+  },
+  {
+   "i": 159,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Подземный ангар завода Аото-",
+   "orig": "　\n　\n　　　　　　　-Aoto Factory Underground Hangar-"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Господин Осака.\n　Как «Трай Бомбер»?」",
+   "orig": "$n\n「Mr. Osaka.\n　How is Tri Bomber?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Осака",
+   "text": "「Он выкарабкается.\n　Просто нужно время.」",
+   "orig": "Osaka\n「He'll pull through.\n　It'll just take time.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Каппэй",
+   "text": "「Правда?」",
+   "orig": "Kappei\n「Really?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Осака",
+   "text": "「Да.\n　«Трай Бомбер» обязательно вернётся\n　и станет крепче прежнего.」",
+   "orig": "Osaka\n「Yeah.\n　Tri Bomber will definitely be\n　back and better than ever.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Майто",
+   "text": "「Простите, Бомберы.\n　Я слишком многого от вас потребовал.」",
+   "orig": "Maito\n「Sorry, Bombers.\n　I asked too much of you.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Бандзё",
+   "text": "「Полагаю, ты и сам знаешь,\n　что теперь делать, а, Майто?」",
+   "orig": "Banjo\n「So I suppose you know\n　what to do then, eh, Maito?」"
+  },
+  {
+   "i": 166,
+   "speaker": "Майто",
+   "text": "「Да.」",
+   "orig": "Maito\n「Yes.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Каппэй",
+   "text": "「Бандзё с тобой что-то уж\n　слишком суров, Майто.」",
+   "orig": "Kappei\n「Banjo is kind of hard\n　on you, Maito.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Майто",
+   "text": "「Всё в порядке, Каппэй.\n　Он мне вроде учителя.」",
+   "orig": "Maito\n「It's OK, Kappei.\n　He's kind of like a teacher to me.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Аоки",
+   "text": "「К тому же господин Харан —\n　один из спонсоров отряда Храброго Экспресса.」",
+   "orig": "Aoki\n「Haran also happens to be one of\n　the Brave Express Corps sponsors.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Тобиа",
+   "text": "「Спонсор?」",
+   "orig": "Tobia\n「A sponsor?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Идзуми",
+   "text": "「Более того,\n　он ещё и акционер концерна Сэмпудзи.」",
+   "orig": "Izumi\n「To take it one step further,\n　he's also a Senpuji Concern shareholder.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Джудо",
+   "text": "「Акционер?」",
+   "orig": "Judau\n「Shareholder?」"
+  },
+  {
+   "i": 173,
+   "speaker": "$n",
+   "text": "「Значит, вы\n　богач?」",
+   "orig": "$n\n「So does that mean\n　you're rich?」"
+  },
+  {
+   "i": 174,
+   "speaker": "Бандзё",
+   "text": "「Пожалуй, можно и так сказать.」",
+   "orig": "Banjo\n「I guess you could say that.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Аоки",
+   "text": "「Если бы господин Бандзё раскрыл размеры\n　своего состояния, звание самого богатого\n　человека мира у господина Майто пошатнулось бы.」",
+   "orig": "Aoki\n「If Master Banjo made his individual assets\n　public, Master Maito's claim to fame as the\n　world's richest man would be at risk.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Бандзё",
+   "text": "「Я куда скрытнее его.」",
+   "orig": "Banjo\n「I'm far more private than he is.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Майто",
+   "text": "「Если бы Бандзё раскрылся,\n　у меня пошатнулась бы и слава\n　самого добродушного человека в мире.」",
+   "orig": "Maito\n「If Banjo went public,\n　even my reputation as the world's\n　nicest guy would be at risk.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Каппэй",
+   "text": "「Ну, такая слава у тебя точно есть!」",
+   "orig": "Kappei\n「Well, he certainly has that reputation!」"
+  },
+  {
+   "i": 179,
+   "speaker": "$n",
+   "text": "「Да вы и впрямь нечто.」",
+   "orig": "$n\n「You're really something.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Бандзё",
+   "text": "「Что ж, позвольте представиться заново.」",
+   "orig": "Banjo\n「So allow us to reintroduce ourselves.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Бандзё",
+   "text": "「Я Бандзё Харан.\n　Пилот «Дайтарна 3», который по-своему\n　разбирается со злом этого мира.」",
+   "orig": "Banjo\n「I am Banjo Haran.\n　I'm a Daitarn 3 pilot who deals with\n　the world's evil in my own way.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Бандзё",
+   "text": "「А вот и моя свита.」",
+   "orig": "Banjo\n「And here is my supporting cast.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Гаррисон",
+   "text": "「Я дворецкий господина Бандзё, Гаррисон Токида.\n　Рад знакомству.」",
+   "orig": "Garrison\n「I'm Master Banjo's steward, Garrison Tokida.\n　Pleased to make your acquaintance.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Рэйка",
+   "text": "「Я его помощница, Рэйка Сандзё.\n　Приятно познакомиться.」",
+   "orig": "Reika\n「I'm his assistant, Reika Sanjo.\n　Nice to meet you.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Бьюти",
+   "text": "「Я его правая рука, Бьютифул Татибана.\n　Можно просто Бьюти.」",
+   "orig": "Beauty\n「I'm his right-hand lady, Beautiful Tachibana.\n　You can call me Beauty.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Рэйка",
+   "text": "「Бьюти.\n　И как язык поворачивается так себя звать?\n　Совсем стыда нет?」",
+   "orig": "Reika\n「Beauty.\n　How can you call yourself that?\n　Have you no shame?」"
+  },
+  {
+   "i": 187,
+   "speaker": "Бьюти",
+   "text": "「Зависть тебя не красит, Рэйка.」",
+   "orig": "Beauty\n「Jealousy isn't attractive, Reika.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Рэйка",
+   "text": "「Мне незачем об этом объявлять.\n　Я и так знаю, что от меня есть толк.」",
+   "orig": "Reika\n「I don't need to announce it.\n　I already know I'm useful.」"
+  },
+  {
+   "i": 189,
+   "speaker": "$n",
+   "text": "「Дворецкий и красавицы-секретарши.\n　Одних этих двух милашек хватит,\n　чтобы обойти Майто.」",
+   "orig": "$n\n「A steward and beautiful secretaries.\n　These two cuties alone might be\n　enough to give him a leg up on Maito.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Идзуми",
+   "text": "「Ну-ну, $n.\n　Моя красота и ум побьют их обеих.」",
+   "orig": "Izumi\n「Oh, $n.\n　My beauty and brains trump them both.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Рэйка",
+   "text": "「Ты только послушай себя, Идзуми!」",
+   "orig": "Reika\n「Listen to you, Izumi!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Идзуми",
+   "text": "「Я бы не сказала, не будь это правдой.」",
+   "orig": "Izumi\n「I wouldn't say it if it weren't true.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Бьюти",
+   "text": "「Ну, за словом в карман ты точно не лезешь!」",
+   "orig": "Beauty\n「Well, you're never at a loss for words!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Гаррисон",
+   "text": "「Весьма недурно.\n　Барышня, которая знает себе цену.」",
+   "orig": "Garrison\n「Not too shabby.\n　A young lady who applies herself.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Аоки",
+   "text": "「И не говорите.」",
+   "orig": "Aoki\n「You can say that again.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Ру",
+   "text": "「Учитель и ученик, дворецкие-приятели и секретарши-соперницы.」",
+   "orig": "Roux\n「Master and student, a steward friend, and secretary rivals.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Топпо",
+   "text": "「Эй! Про меня не забудьте!」",
+   "orig": "Toppo\n「Oh yeah! Don't forget about me!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Топпо",
+   "text": "「Я Тотта Тода!\n　Все зовут меня Топпо.\n　Я лучший ученик Бандзё.」",
+   "orig": "Toppo\n「I'm Totta Toda!\n　Everyone calls me Toppo.\n　I'm Banjo's best student.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Майто",
+   "text": "「Попросту говоря, главный подмастерье.」",
+   "orig": "Maito\n「Basically, his chief apprentice.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Каппэй",
+   "text": "「А значит, Майто теперь\n　мой новый подмастерье.」",
+   "orig": "Kappei\n「And that would make\n　Maito my new apprentice.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Джудо",
+   "text": "「Отлично!」",
+   "orig": "Judau\n「Perfect!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Тобиа",
+   "text": "「Богач с дворецким, красавицами-секретаршами\n　и собственным подмастерьем!」",
+   "orig": "Tobia\n「A rich guy with a steward, beautiful\n　secretaries, and his own apprentice!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Хатауэй",
+   "text": "「Да ещё и сильный в придачу!」",
+   "orig": "Hathaway\n「And he's strong to boot!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Бандзё",
+   "text": "「На деле я вовсе не так хорош, как звучит.\n　Дерусь-то я всё так же безрассудно.」",
+   "orig": "Banjo\n「I'm really not as great as that all sounds.\n　I mean, I still fight as recklessly as ever.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Майто",
+   "text": "「Бандзё.\n　Я хочу стать сильнее.」",
+   "orig": "Maito\n「Banjo.\n　I want to grow stronger.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Бандзё",
+   "text": "「Чтобы одолеть Дзё Аса?」",
+   "orig": "Banjo\n「So you can beat Joe the Ace?」"
+  },
+  {
+   "i": 207,
+   "speaker": "Майто",
+   "text": "「Отчасти.」",
+   "orig": "Maito\n「That's part of it.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Майто",
+   "text": "「Но впереди меня ждёт\n　и другой противник.\n　И проиграть я не имею права.」",
+   "orig": "Maito\n「But there's another opponent\n　waiting on the horizon.\n　And I can't lose.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Бандзё",
+   "text": "「Я понимаю, Майто.\n　Я позаботился о том, чтобы ты усвоил\n　всё, что тебе следовало усвоить.」",
+   "orig": "Banjo\n「I understand, Maito.\n　I've made sure that you've learned\n　what you've need to learn.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Бандзё",
+   "text": "「Ты уже превосходный командир.\n　Мне больше нечему тебя учить.」",
+   "orig": "Banjo\n「You're already a splendid commander.\n　I have nothing more to teach you.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Майто",
+   "text": "「Но?」",
+   "orig": "Maito\n「But?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Бандзё",
+   "text": "「У меня на примете есть особый человек.」",
+   "orig": "Banjo\n「I've got someone special in mind.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Тэцуя",
+   "text": "「Звал, Бандзё?」",
+   "orig": "Tetsuya\n「You called, Banjo?」"
+  },
+  {
+   "i": 214,
+   "speaker": "Майто",
+   "text": "「Вы?」",
+   "orig": "Maito\n「You?」"
+  },
+  {
+   "i": 215,
+   "speaker": "Тэцуя",
+   "text": "「Тэцуя Цуруги.\n　Пилот «Грейт Мазингера».」",
+   "orig": "Tetsuya\n「Tetsuya Tsurugi.\n　Pilot of Great Mazinger.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Бандзё",
+   "text": "「Тэцуя.\n　Мне нужно доложить капитану Рури\n　обо всём, что я выяснил.」",
+   "orig": "Banjo\n「Tetsuya.\n　I've got to report to Captain Ruri\n　on everything I've learned.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Бандзё",
+   "text": "「Займёшься Майто вместо меня?」",
+   "orig": "Banjo\n「Can you take care of Maito for me?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Тэцуя",
+   "text": "「Если он выдержит\n　мои методы.」",
+   "orig": "Tetsuya\n「If he can handle my\n　way of doing things.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Майто",
+   "text": "「Уверен, что выдержу.」",
+   "orig": "Maito\n「I'm sure I can.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Тэцуя",
+   "text": "「Как бы тебе не пожалеть об этих словах.」",
+   "orig": "Tetsuya\n「You may come to regret those words.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Бича",
+   "text": "「К-кто это вообще такой?\n　Демон? Демон в человеческой шкуре?」",
+   "orig": "Beecha\n「W-who is this guy?\n　A demon? A demon in human skin?」"
+  },
+  {
+   "i": 222,
+   "speaker": "Элль",
+   "text": "「Ты ведь его друг?\n　С ним точно всё в порядке?」",
+   "orig": "Elle\n「You're his friend, right?\n　Is that person OK?」"
+  },
+  {
+   "i": 223,
+   "speaker": "$n",
+   "text": "「Он страдает потерей памяти.\n　А значит, и о его прошлом\n　мы знаем не особенно много.」",
+   "orig": "$n\n「He's suffering from amnesia.\n　And that means that we don't\n　know much about his past either.」"
+  },
+  {
+   "i": 224,
+   "speaker": "$n",
+   "text": "「Но на него как минимум можно положиться.」",
+   "orig": "$n\n「But he's at least reliable.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Тобиа",
+   "text": "「Удачи, Майто.」",
+   "orig": "Tobia\n「Good luck, Maito.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Каппэй",
+   "text": "「И не стесняйся звать, если нужен\n　будет напарник для тренировок!」",
+   "orig": "Kappei\n「Don't hesitate to ask if you're\n　looking for someone to train with!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Майто",
+   "text": "「Ага!\n　Покажу, насколько я вырос,\n　когда «Трай Бомбер» снова встанет в строй!」",
+   "orig": "Maito\n「Yeah!\n　I'll show you how much I've grown\n　when Tri Bomber is back in action!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Бандзё",
+   "text": "「Похоже, всё в порядке.」",
+   "orig": "Banjo\n「Looks like everything is OK.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Майто",
+   "text": "「Огромное спасибо, Бандзё.\n　Ты всегда рядом,\n　когда ты мне нужнее всего.」",
+   "orig": "Maito\n「Thank you so much, Banjo.\n　You're always there for me\n　when I need you most.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Бандзё",
+   "text": "「Это потому, что ты меня зовёшь.」",
+   "orig": "Banjo\n「That's because you call on me.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Майто",
+   "text": "「А, ну да.」",
+   "orig": "Maito\n「Ah, well.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Бандзё",
+   "text": "「Я Бандзё Харан.\n　А ты — Славный Парень, Зовущий Бурю.」",
+   "orig": "Banjo\n「I'm Banjo Haran.\n　And you're the Storm-calling Nice Guy.」"
+  },
+  {
+   "i": 233,
+   "speaker": "Майто",
+   "text": "「Пожалуй, ты прав.」",
+   "orig": "Maito\n「I suppose you're right.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Бандзё",
+   "text": "（Расти сильным, Майто.\n　То невероятное зло, за которым ты идёшь, —\n　враг страшнее, чем ты можешь вообразить.）",
+   "orig": "Banjo\n（Grow strong, Maito.\n　The incredible evil you're after is an even\n　greater enemy than you can imagine.）"
+  },
+  {
+   "i": 235,
+   "speaker": "Бандзё",
+   "text": "（А чтобы с ним сразиться,\n　тебе самому придётся стать\n　крупнее и сильнее.）",
+   "orig": "Banjo\n（And to fight it,\n　you're gonna have to grow bigger\n　and stronger yourself.）"
+  },
+  {
+   "i": 236,
+   "speaker": "$n",
+   "text": "「Господин Осака.\n　Как «Трай Бомбер»?」",
+   "orig": "$n\n「Mr. Osaka.\n　How is Tri Bomber?」"
+  },
+  {
+   "i": 237,
+   "speaker": "Осака",
+   "text": "「Он выкарабкается.\n　Просто нужно время.」",
+   "orig": "Osaka\n「He'll pull through.\n　It'll just take time.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Каппэй",
+   "text": "「Правда?」",
+   "orig": "Kappei\n「Really?」"
+  },
+  {
+   "i": 239,
+   "speaker": "Осака",
+   "text": "「Да.\n　«Трай Бомбер» обязательно вернётся\n　и станет крепче прежнего.」",
+   "orig": "Osaka\n「Yeah.\n　Tri Bomber will definitely be\n　back and better than ever.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Майто",
+   "text": "「Простите, Бомберы.\n　Я слишком многого от вас потребовал.」",
+   "orig": "Maito\n「Sorry, Bombers.\n　I asked too much of you.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Бандзё",
+   "text": "「Полагаю, ты и сам знаешь,\n　что теперь делать, а, Майто?」",
+   "orig": "Banjo\n「So I suppose you know\n　what to do then, eh, Maito?」"
+  },
+  {
+   "i": 242,
+   "speaker": "Майто",
+   "text": "「Да.」",
+   "orig": "Maito\n「Yes.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Каппэй",
+   "text": "「Бандзё с тобой что-то уж\n　слишком суров, Майто.」",
+   "orig": "Kappei\n「Banjo is kind of hard\n　on you, Maito.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Майто",
+   "text": "「Всё в порядке, Каппэй.\n　Он мне вроде учителя.」",
+   "orig": "Maito\n「It's OK, Kappei.\n　He's kind of like a teacher to me.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Аоки",
+   "text": "「К тому же господин Харан —\n　один из спонсоров отряда Храброго Экспресса.」",
+   "orig": "Aoki\n「Haran also happens to be one of\n　the Brave Express Corps sponsors.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Тобиа",
+   "text": "「Спонсор?」",
+   "orig": "Tobia\n「A sponsor?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Идзуми",
+   "text": "「Более того,\n　он ещё и акционер концерна Сэмпудзи.」",
+   "orig": "Izumi\n「To take it one step further,\n　he's also a Senpuji Concern shareholder.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Джудо",
+   "text": "「Акционер?」",
+   "orig": "Judau\n「Shareholder?」"
+  },
+  {
+   "i": 249,
+   "speaker": "$n",
+   "text": "「Значит, вы\n　богач?」",
+   "orig": "$n\n「So does that mean\n　you're rich?」"
+  },
+  {
+   "i": 250,
+   "speaker": "Бандзё",
+   "text": "「Пожалуй, можно и так сказать.」",
+   "orig": "Banjo\n「I guess you could say that.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Аоки",
+   "text": "「Если бы господин Бандзё раскрыл размеры\n　своего состояния, звание самого богатого\n　человека мира у господина Майто пошатнулось бы.」",
+   "orig": "Aoki\n「If Master Banjo made his individual assets\n　public, Master Maito's claim to fame as the\n　world's richest man would be at risk.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Бандзё",
+   "text": "「Я куда скрытнее его.」",
+   "orig": "Banjo\n「I'm far more private than he is.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Майто",
+   "text": "「Если бы Бандзё раскрылся,\n　у меня пошатнулась бы и слава\n　самого добродушного человека в мире.」",
+   "orig": "Maito\n「If Banjo went public,\n　even my reputation as the world's\n　nicest guy would be at risk.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Каппэй",
+   "text": "「Ну, такая слава у тебя точно есть!」",
+   "orig": "Kappei\n「Well, he certainly has that reputation!」"
+  },
+  {
+   "i": 255,
+   "speaker": "$n",
+   "text": "「Да вы и впрямь нечто.」",
+   "orig": "$n\n「You're really something.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Бандзё",
+   "text": "「Что ж, позвольте представиться заново.」",
+   "orig": "Banjo\n「So allow us to reintroduce ourselves.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Бандзё",
+   "text": "「Я Бандзё Харан.\n　Пилот «Дайтарна 3», который по-своему\n　разбирается со злом этого мира.」",
+   "orig": "Banjo\n「I am Banjo Haran.\n　I'm a Daitarn 3 pilot who deals with\n　the world's evil in my own way.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Бандзё",
+   "text": "「А вот и моя свита.」",
+   "orig": "Banjo\n「And here is my supporting cast.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Гаррисон",
+   "text": "「Я дворецкий господина Бандзё, Гаррисон Токида.\n　Рад знакомству.」",
+   "orig": "Garrison\n「I'm Master Banjo's steward, Garrison Tokida.\n　Pleased to make your acquaintance.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Рэйка",
+   "text": "「Я его помощница, Рэйка Сандзё.\n　Приятно познакомиться.」",
+   "orig": "Reika\n「I'm his assistant, Reika Sanjo.\n　Nice to meet you.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Бьюти",
+   "text": "「Я его правая рука, Бьютифул Татибана.\n　Можно просто Бьюти.」",
+   "orig": "Beauty\n「I'm his right-hand lady, Beautiful Tachibana.\n　You can call me Beauty.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Рэйка",
+   "text": "「Бьюти.\n　И как язык поворачивается так себя звать?\n　Совсем стыда нет?」",
+   "orig": "Reika\n「Beauty.\n　How can you call yourself that?\n　Have you no shame?」"
+  },
+  {
+   "i": 263,
+   "speaker": "Бьюти",
+   "text": "「Зависть тебя не красит, Рэйка.」",
+   "orig": "Beauty\n「Jealousy isn't attractive, Reika.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Рэйка",
+   "text": "「Мне незачем об этом объявлять.\n　Я и так знаю, что от меня есть толк.」",
+   "orig": "Reika\n「I don't need to announce it.\n　I already know I'm useful.」"
+  },
+  {
+   "i": 265,
+   "speaker": "$n",
+   "text": "「Дворецкий и красавицы-секретарши.\n　Одних этих двух милашек хватит,\n　чтобы обойти Майто.」",
+   "orig": "$n\n「A steward and beautiful secretaries.\n　These two cuties alone might be\n　enough to give him a leg up on Maito.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Идзуми",
+   "text": "「Ну-ну, $n.\n　Моя красота и ум побьют их обеих.」",
+   "orig": "Izumi\n「Oh, $n.\n　My beauty and brain trumps them both.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Рэйка",
+   "text": "「Ты только послушай себя, Идзуми!」",
+   "orig": "Reika\n「Listen to you, Izumi!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Идзуми",
+   "text": "「Я бы не сказала, не будь это правдой.」",
+   "orig": "Izumi\n「I wouldn't say it if it weren't true.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Бьюти",
+   "text": "「Ну, за словом в карман ты точно не лезешь!」",
+   "orig": "Beauty\n「Well, you're never at a loss for words!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Гаррисон",
+   "text": "「Весьма недурно.\n　Барышня, которая знает себе цену.」",
+   "orig": "Garrison\n「Not too shabby.\n　A young lady who applies herself.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Аоки",
+   "text": "「И не говорите.」",
+   "orig": "Aoki\n「You can say that again.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Ру",
+   "text": "「Учитель и ученик, дворецкие-приятели и секретарши-соперницы.」",
+   "orig": "Roux\n「Master and student, a steward friend, and secretary rivals.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Топпо",
+   "text": "「Эй! Про меня не забудьте!」",
+   "orig": "Toppo\n「Oh yeah! Don't forget about me!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Топпо",
+   "text": "「Я Тотта Тода!\n　Все зовут меня Топпо.\n　Я лучший ученик Бандзё.」",
+   "orig": "Toppo\n「I'm Totta Toda!\n　Everyone calls me Toppo.\n　I'm Banjo's best student.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Майто",
+   "text": "「Попросту говоря, главный подмастерье.」",
+   "orig": "Maito\n「Basically, his chief apprentice.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Каппэй",
+   "text": "「А значит, Майто теперь\n　мой новый подмастерье.」",
+   "orig": "Kappei\n「And that would make\n　Maito my new apprentice.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Джудо",
+   "text": "「Отлично!」",
+   "orig": "Judau\n「Perfect!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Тобиа",
+   "text": "「Богач с дворецким, красавицами-секретаршами\n　и собственным подмастерьем!」",
+   "orig": "Tobia\n「A rich guy with a steward, beautiful\n　secretaries, and his own apprentice!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Хатауэй",
+   "text": "「Да ещё и сильный в придачу!」",
+   "orig": "Hathaway\n「And he's strong to boot!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Бандзё",
+   "text": "「На деле я вовсе не так хорош, как звучит.\n　Дерусь-то я всё так же безрассудно.」",
+   "orig": "Banjo\n「I'm really not as great as that all sounds.\n　I mean, I still fight as recklessly as ever.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Майто",
+   "text": "「Бандзё.\n　Я хочу стать сильнее.」",
+   "orig": "Maito\n「Banjo.\n　I want to grow stronger.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Бандзё",
+   "text": "「Чтобы одолеть Дзё Аса?」",
+   "orig": "Banjo\n「So you can beat Joe the Ace?」"
+  },
+  {
+   "i": 283,
+   "speaker": "Майто",
+   "text": "「Отчасти.」",
+   "orig": "Maito\n「That's part of it.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Майто",
+   "text": "「Но впереди меня ждёт\n　и другой противник.\n　И проиграть я не имею права.」",
+   "orig": "Maito\n「But there's another opponent\n　waiting on the horizon.\n　And I can't lose.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Бандзё",
+   "text": "「Я понимаю, Майто.\n　Я позаботился о том, чтобы ты усвоил\n　всё, что тебе следовало усвоить.」",
+   "orig": "Banjo\n「I understand, Maito.\n　I've made sure that you've learned\n　what you've need to learn.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Бандзё",
+   "text": "「Ты уже превосходный командир.\n　Мне больше нечему тебя учить.」",
+   "orig": "Banjo\n「You're already a splendid commander.\n　I have nothing more to teach you.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Майто",
+   "text": "「Но?」",
+   "orig": "Maito\n「But?」"
+  },
+  {
+   "i": 288,
+   "speaker": "Бандзё",
+   "text": "「У меня на примете есть особый человек.」",
+   "orig": "Banjo\n「I've got someone special in mind.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Тэцуя",
+   "text": "「Звал, Бандзё?」",
+   "orig": "Tetsuya\n「You called, Banjo?」"
+  },
+  {
+   "i": 290,
+   "speaker": "Майто",
+   "text": "「Вы?」",
+   "orig": "Maito\n「You?」"
+  },
+  {
+   "i": 291,
+   "speaker": "Тэцуя",
+   "text": "「Тэцуя Цуруги.\n　Пилот «Грейт Мазингера».」",
+   "orig": "Tetsuya\n「Tetsuya Tsurugi.\n　Pilot of Great Mazinger.」"
+  },
+  {
+   "i": 292,
+   "speaker": "Бандзё",
+   "text": "「Тэцуя.\n　Мне нужно доложить капитану Рури\n　обо всём, что я выяснил.」",
+   "orig": "Banjo\n「Tetsuya.\n　I've got to report to Captain Ruri\n　on everything I've learned.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Бандзё",
+   "text": "「Займёшься Майто вместо меня?」",
+   "orig": "Banjo\n「Can you take care of Maito for me?」"
+  },
+  {
+   "i": 294,
+   "speaker": "Тэцуя",
+   "text": "「Если он выдержит\n　мои методы.」",
+   "orig": "Tetsuya\n「If he can handle my\n　way of doing things.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Майто",
+   "text": "「Уверен, что выдержу.」",
+   "orig": "Maito\n「I'm sure I can.」"
+  },
+  {
+   "i": 296,
+   "speaker": "Тэцуя",
+   "text": "「Как бы тебе не пожалеть об этих словах.」",
+   "orig": "Tetsuya\n「You may come to regret those words.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Бича",
+   "text": "「К-кто это вообще такой?\n　Демон? Демон в человеческой шкуре?」",
+   "orig": "Beecha\n「W-who is this guy?\n　A demon? A demon in human skin?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Элль",
+   "text": "「Ты ведь его друг?\n　С ним точно всё в порядке?」",
+   "orig": "Elle\n「You're his friend, right?\n　Is that person OK?」"
+  },
+  {
+   "i": 299,
+   "speaker": "$n",
+   "text": "「Он страдает потерей памяти.\n　О его прошлом мы тоже ничего не знаем.」",
+   "orig": "$n\n「He's suffering from amnesia.\n　We don't know his past either.」"
+  },
+  {
+   "i": 300,
+   "speaker": "$n",
+   "text": "「Но на него как минимум можно положиться.」",
+   "orig": "$n\n「But he's at least reliable.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Тобиа",
+   "text": "「Удачи, Майто.」",
+   "orig": "Tobia\n「Good luck, Maito.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Каппэй",
+   "text": "「И не стесняйся звать, если нужен\n　будет напарник для тренировок!」",
+   "orig": "Kappei\n「Don't hesitate to ask if you're\n　looking for someone to train with!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Майто",
+   "text": "「Ага!\n　Покажу, насколько я вырос,\n　когда «Трай Бомбер» снова встанет в строй!」",
+   "orig": "Maito\n「Yeah!\n　I'll show you how much I've grown\n　when Tri Bomber is back in action!」"
+  },
+  {
+   "i": 304,
+   "speaker": "Бандзё",
+   "text": "「Похоже, всё в порядке.」",
+   "orig": "Banjo\n「Looks like everything is OK.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Майто",
+   "text": "「Огромное спасибо, Бандзё.\n　Ты всегда рядом,\n　когда ты мне нужнее всего.」",
+   "orig": "Maito\n「Thank you so much, Banjo.\n　You're always there for me\n　when I need you most.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Бандзё",
+   "text": "「Это потому, что ты меня зовёшь.」",
+   "orig": "Banjo\n「That's because you call on me.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Майто",
+   "text": "「А, ну да.」",
+   "orig": "Maito\n「Ah, well.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Бандзё",
+   "text": "「Я Бандзё Харан.\n　А ты — Славный Парень, Зовущий Бурю.」",
+   "orig": "Banjo\n「I'm Banjo Haran.\n　And you're the Storm-calling Nice Guy.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Майто",
+   "text": "「Пожалуй, ты прав.」",
+   "orig": "Maito\n「I suppose you're right.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Бандзё",
+   "text": "（Расти сильным, Майто.\n　То невероятное зло, за которым ты идёшь, —\n　враг страшнее, чем ты можешь вообразить.）",
+   "orig": "Banjo\n（Grow strong, Maito.\n　The incredible evil you're after is an even\n　greater enemy than you can imagine.）"
+  },
+  {
+   "i": 311,
+   "speaker": "Бандзё",
+   "text": "（А чтобы с ним сразиться,\n　тебе самому придётся стать\n　крупнее и сильнее.）",
+   "orig": "Banjo\n（And to fight it,\n　you're gonna have to grow bigger\n　and stronger yourself.）"
+  },
+  {
+   "i": 315,
+   "speaker": "Найн",
+   "text": "「Хорошая работа, Майто.」",
+   "orig": "Nine\n「Good job, Maito.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Майто",
+   "text": "「Мне ещё расти и расти.\n　Впереди тренировки у Тэцуи.」",
+   "orig": "Maito\n「Still have a long way to go.\n　I've got Tetsuya's training next.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Найн",
+   "text": "「Можно сперва кое-что спросить?」",
+   "orig": "Nine\n「Mind if I ask you something first?」"
+  },
+  {
+   "i": 318,
+   "speaker": "Найн",
+   "text": "「В сегодняшнем бою\n　ты дрался один на один\n　с Дзё Асом.」",
+   "orig": "Nine\n「In today's fight,\n　you fought one-on-one\n　against Joe the Ace.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Майто",
+   "text": "「Да.」",
+   "orig": "Maito\n「Yeah.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Найн",
+   "text": "「С чужой помощью\n　преимущество наверняка было бы за тобой.\n　Почему же ты решил драться в одиночку?」",
+   "orig": "Nine\n「With the help of others,\n　you surely would had the upper hand.\n　So why did you choose to fight alone?」"
+  },
+  {
+   "i": 321,
+   "speaker": "Майто",
+   "text": "「Потому что «Трай Бомбер» дрался с ним так\n　и потому что он сам хотел драться так.」",
+   "orig": "Maito\n「Because Tri Bomber fought him that way\n　and because he wanted to fight that way.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Майто",
+   "text": "「А ещё потому, что я не хочу\n　проигрывать никому, с кем схожусь в бою.」",
+   "orig": "Maito\n「And also because I don't want\n　to lose to anyone I face.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Майто",
+   "text": "「Прости, если это звучит эгоистично.」",
+   "orig": "Maito\n「Apologies if it sounds selfish of me.」"
+  },
+  {
+   "i": 324,
+   "speaker": "Найн",
+   "text": "「Ничего страшного. Данные, которые я собрала,\n　наблюдая за твоим боем, благотворно\n　повлияли на мой ИИ.」",
+   "orig": "Nine\n「No worries. The data I received\n　from watching you fight has had a\n　positive influence on my A.I.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Найн",
+   "text": "「Проанализировав твою манеру боя,\n　мой тактический процессор получил данные,\n　равные 100 ТакО.」",
+   "orig": "Nine\n「After analyzing your combat style,\n　my tactical processing capacity was able to acquire\n　data equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Майто",
+   "text": "「Понятно.\n　Покажи потом эти данные\n　«Трай Бомберу».」",
+   "orig": "Maito\n「I see.\n　Show that data to Tri\n　Bomber for me.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Найн",
+   "text": "「Покажу.\n　Я и так собиралась\n　позже навестить Бомберов.」",
+   "orig": "Nine\n「I will.\n　I'm planning to check in \n　on Bombers later.」"
+  },
+  {
+   "i": 331,
+   "speaker": "Найн",
+   "text": "「Лео Бомбер, Дино Бомбер\n　и Бёрд Бомбер.」",
+   "orig": "Nine\n「Leo Bomber, Dino Bomber,\n　and Bird Bomber.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Хамада",
+   "text": "「С ними всё хорошо, Найн.\n　Все трое полностью поправятся.」",
+   "orig": "Hamada\n「They're fine, Nine.\n　They'll all make a total recovery.」"
+  },
+  {
+   "i": 333,
+   "speaker": "Найн",
+   "text": "「Ясно.」",
+   "orig": "Nine\n「OK.」"
+  },
+  {
+   "i": 334,
+   "speaker": "Бандзё",
+   "text": "「А ты и правда добрая, Найн.」",
+   "orig": "Banjo\n「You're really sweet, Nine.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Найн",
+   "text": "「Я не человек,\n　так что мне это трудно понять.」",
+   "orig": "Nine\n「I'm not human,\n　so it's hard to understand that.」"
+  },
+  {
+   "i": 336,
+   "speaker": "Бандзё",
+   "text": "「Я повидал немало людей с таким раздутым\n　самомнением, что людьми их звать и нельзя.」",
+   "orig": "Banjo\n「I've seen a lot people with such huge\n　egos that they're barely even human.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Бандзё",
+   "text": "「Потому я так и сказал.\n　Доброта и справедливость мало связаны\n　с тем, человек ты или ИИ.」",
+   "orig": "Banjo\n「And that's why I said it.\n　Being sweet or just has little\n　to do with humanity or A.I.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Найн",
+   "text": "「Спасибо, Бандзё.」",
+   "orig": "Nine\n「Thank you, Banjo.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Бандзё",
+   "text": "「Не за что.\n　У тебя славная улыбка.」",
+   "orig": "Banjo\n「Sure.\n　You've got a nice smile.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Бандзё",
+   "text": "「Уверен, для $n было бы\n　большой радостью видеть её почаще.」",
+   "orig": "Banjo\n「I'm sure $n would\n　love to see it more often.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Найн",
+   "text": "「Об этом не может быть и речи.」",
+   "orig": "Nine\n「That's out of the question.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Хамада",
+   "text": "「Вот как?」",
+   "orig": "Hamada\n「Oh?」"
+  },
+  {
+   "i": 343,
+   "speaker": "Бандзё",
+   "text": "「И отчего же?」",
+   "orig": "Banjo\n「And why would that be?」"
+  },
+  {
+   "i": 344,
+   "speaker": "Найн",
+   "text": "「Это секрет.」",
+   "orig": "Nine\n「It's a secret.」"
+  },
+  {
+   "i": 345,
+   "speaker": "Найн",
+   "text": "「Лео Бомбер, Дино Бомбер\n　и Бёрд Бомбер.」",
+   "orig": "Nine\n「Leo Bomber, Dino Bomber,\n　and Bird Bomber.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Хамада",
+   "text": "「С ними всё хорошо, Найн.\n　Все трое полностью поправятся.」",
+   "orig": "Hamada\n「They're fine, Nine.\n　They'll all make a total recovery.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Найн",
+   "text": "「Ясно.」",
+   "orig": "Nine\n「OK.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Бандзё",
+   "text": "「А ты и правда добрая, Найн.」",
+   "orig": "Banjo\n「You're really sweet, Nine.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Найн",
+   "text": "「Я не человек,\n　так что мне это трудно понять.」",
+   "orig": "Nine\n「I'm not human,\n　so it's hard to understand that.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Бандзё",
+   "text": "「Я повидал немало людей с таким раздутым\n　самомнением, что людьми их звать и нельзя.」",
+   "orig": "Banjo\n「I've seen a lot people with such huge\n　egos that they're barely even human.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Бандзё",
+   "text": "「Потому я так и сказал.\n　Доброта и справедливость мало связаны\n　с тем, человек ты или ИИ.」",
+   "orig": "Banjo\n「And that's why I said it.\n　Being sweet or just has little\n　to do with humanity or A.I.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Найн",
+   "text": "「Спасибо, Бандзё.」",
+   "orig": "Nine\n「Thank you, Banjo.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Бандзё",
+   "text": "「Не за что.\n　У тебя славная улыбка.」",
+   "orig": "Banjo\n「Sure.\n　You've got a nice smile.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Бандзё",
+   "text": "「Уверен, для $n было бы\n　большой радостью видеть её почаще.」",
+   "orig": "Banjo\n「I'm sure $n would\n　love to see it more often.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Найн",
+   "text": "「Об этом не может быть и речи.」",
+   "orig": "Nine\n「That's out of the question.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Хамада",
+   "text": "「Вот как?」",
+   "orig": "Hamada\n「Oh?」"
+  },
+  {
+   "i": 357,
+   "speaker": "Бандзё",
+   "text": "「И отчего же?」",
+   "orig": "Banjo\n「And why would that be?」"
+  },
+  {
+   "i": 358,
+   "speaker": "Найн",
+   "text": "「Это секрет.」",
+   "orig": "Nine\n「It's a secret.」"
+  }
+ ]
+}

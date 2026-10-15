@@ -1,0 +1,1516 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Харри",
+   "text": "「Враг ударил по нам\n　с помощью бозонного прыжка!」",
+   "orig": "Harry\n「Our enemy used a Boson Jump\n　to get the jump on us!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Рури",
+   "text": "「Похоже, они пронюхали, что мы идём на Аматэрасу.」",
+   "orig": "Ruri\n「I guess they got wind of our move toward Amaterasu.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Тесса",
+   "text": "「Тогда надо отбить эту атаку\n　и как можно скорее добраться до Аматэрасу.」",
+   "orig": "Tessa\n「Then we need to repel this enemy attack\n　and get to Amaterasu as soon as we can.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам! Прорвать вражеское кольцо!\n　Перехватывайте всех, кто идёт на корабли!」",
+   "orig": "Sumeragi\n「All units! Break out of the enemy encirclement!\n　Intercept any enemies approaching battleships!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Рёко",
+   "text": "「Ну вот, теперь все точно проснулись!」",
+   "orig": "Ryoko\n「Well, that woke everyone up!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Соскэ",
+   "text": "「Но мы в невыгодном положении.\n　Бозонные прыжки позволяют им\n　опережать каждый наш шаг.」",
+   "orig": "Sousuke\n「But we're at a disadvantage.\n　Boson Jumps allow them to preempt\n　our every move.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Джудо",
+   "text": "「Вот как?\n　Значит, переломим ход боя!」",
+   "orig": "Judau\n「Is that so?\n　Then we'll just to turn the tide!」"
+  },
+  {
+   "i": 7,
+   "speaker": "$n",
+   "text": "「За дело, Найн!\n　Пробьёмся на «Вангрэе»!」",
+   "orig": "$n\n「Let's do this, Nine!\n　We'll bust through with the VangRay!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "「Найн?」",
+   "orig": "$n\n「Nine?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 11,
+   "speaker": "$n",
+   "text": "「Да хватит уже!\n　Я прекрасно знаю, из-за чего ты так себя ведёшь!」",
+   "orig": "$n\n「Enough already!\n　I know why you're acting that way!」"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "「Не хочешь помогать —\n　тогда выиграю этот бой в одиночку!」",
+   "orig": "$n\n「If you're not gonna help,\n　I'll just have to win this myself!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Тэцуя",
+   "text": "「Что случилось, $n?」",
+   "orig": "Tetsuya\n「What's wrong, $n?」"
+  },
+  {
+   "i": 14,
+   "speaker": "$n",
+   "text": "「Н-ничего, Тэцуя!\n　Совершенно ничего!」",
+   "orig": "$n\n「N-nothing's wrong, Tetsuya!\n　Nothing at all!」"
+  },
+  {
+   "i": 15,
+   "speaker": "$n",
+   "text": "（Что же делать.\n　Я больше не могу смотреть на Тэцую как раньше.）",
+   "orig": "$n\n（What to do.\n　I just don't see Tetsuya the same way anymore.）"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "（Кажется, слова Найн меня всё-таки задели.）",
+   "orig": "$n\n（Nine's words may have shaken me a bit.）"
+  },
+  {
+   "i": 17,
+   "speaker": "Харри",
+   "text": "「Реакция бозонных частиц!」",
+   "orig": "Harry\n「A boson particle response!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Рури",
+   "text": "「Приближаются новые враги!」",
+   "orig": "Ruri\n「More enemies on the way!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Анж",
+   "text": "「Кое-как справились.」",
+   "orig": "Ange\n「We managed somehow.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Сэцуна",
+   "text": "「Нужно быть начеку.」",
+   "orig": "Setsuna\n「We've gotta be careful.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Харри",
+   "text": "「Реакция бозонных частиц!」",
+   "orig": "Harry\n「A boson particle response!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Рури",
+   "text": "「Приближаются новые враги!」",
+   "orig": "Ruri\n「More enemies on the way!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Локон",
+   "text": "「Они никак не угомонятся!」",
+   "orig": "Lockon\n「They don't know when to quit!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Кира",
+   "text": "「Плохо дело!\n　Они целятся в «Надэсико»!」",
+   "orig": "Kira\n「Oh no!\n　They're targeting Nadesico!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Лунамария",
+   "text": "「Подкрепление?」",
+   "orig": "Lunamaria\n「Reinforcements?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Синн",
+   "text": "「Смотрите!」",
+   "orig": "Shinn\n「Look!」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「Опять эти дроны!」",
+   "orig": "$n\n「It's the drones again!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Гули",
+   "text": "「Опаздывают.」",
+   "orig": "Ghuli\n「They're late.」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Кх!」",
+   "orig": "$n\n「Ugh!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Гули",
+   "text": "「Ни силы, ни ума у тебя не хватает.」",
+   "orig": "Ghuli\n「You're not strong or smart enough.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Гули",
+   "text": "「А скорости — тем более.」",
+   "orig": "Ghuli\n「And you're definitely not fast enough.」"
+  },
+  {
+   "i": 32,
+   "speaker": "$n",
+   "text": "「Ты!」",
+   "orig": "$n\n「You!」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Не может быть!\n　Уклонился с такой дистанции?」",
+   "orig": "$n\n「No way!\n　You dodged at that range?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Гули",
+   "text": "「Что я говорил?\n　Скорости тебе не хватает.」",
+   "orig": "Ghuli\n「What did I tell you?\n　You're not fast enough.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Тобиа",
+   "text": "「Это не дрон!\n　Им кто-то управляет!」",
+   "orig": "Tobia\n「It's not a drone!\n　Somebody's piloting it!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Тэцуя",
+   "text": "「Кто?」",
+   "orig": "Tetsuya\n「Who?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Гули",
+   "text": "「Глупость ваша именно такая, как я и ожидал.」",
+   "orig": "Ghuli\n「You're as stupid as I thought you'd be.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Каппэй",
+   "text": "「Что?」",
+   "orig": "Kappei\n「What?」"
+  },
+  {
+   "i": 39,
+   "speaker": "Гули",
+   "text": "「Зовите меня как угодно,\n　но если вы и впрямь думаете, что знаете, кто я, —\n　вы бездари без малейшей надежды на спасение.」",
+   "orig": "Ghuli\n「You can call me what you will,\n　but if you really think you know what I am,\n　you're incompetents past the point salvation.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Сэцуна",
+   "text": "「Полагаю, нашу сторону\n　ты выслушивать не собираешься.」",
+   "orig": "Setsuna\n「I suppose you're not interested\n　in hearing our side of the story.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Гули",
+   "text": "「Пустая болтовня только крадёт мою скорость,\n　так что скажу лишь то, что вам важнее всего знать.」",
+   "orig": "Ghuli\n「Tedious talk only serves to hinder my speed,\n　so I'll just tell you what you want to know most.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Гули",
+   "text": "「Мне поручено уничтожить вас.\n　Я ваш враг.」",
+   "orig": "Ghuli\n「I am on a mission to destroy you.\n　I am your enemy.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Гули",
+   "text": "「Пока что я стёр всех глупцов,\n　что могли бы помешать.」",
+   "orig": "Ghuli\n「For now, I've deleted any fools that\n　seemed like they'd be a hindrance.」"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「Стёр?\n　Ты про Марсианских преемников?」",
+   "orig": "$n\n「Deleted?\n　You don't mean the Martian Successors?」"
+  },
+  {
+   "i": 45,
+   "speaker": "Гули",
+   "text": "「Он ведь был вашим врагом?\n　Так что скажите спасибо.」",
+   "orig": "Ghuli\n「He was your enemy, wasn't he?\n　You must be grateful.」"
+  },
+  {
+   "i": 46,
+   "speaker": "$n",
+   "text": "「Да, я знаю, что они самовлюблённые террористы,\n　но ты правда считаешь, что подлое убийство\n　исподтишка стоит такого хвастовства?」",
+   "orig": "$n\n「I mean, I know they're egomaniacal terrorists and all,\n　but do you really think killing people with a cowardly\n　surprise attack warrants that level of boasting?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Гули",
+   "text": "「Мне нужна лишь скорость.\n　Я просто стираю все помехи.」",
+   "orig": "Ghuli\n「Speed is all I seek.\n　I just erase all obstacles.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Рури",
+   "text": "「Если слова до тебя не доходят,\n　нам остаётся только драться!」",
+   "orig": "Ruri\n「If our words have no impact,\n　you leave us no choice but to fight!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Гули",
+   "text": "「Отлично! Этого я и хотел!\n　Раз таков ваш ответ,\n　дело пойдёт быстрее!」",
+   "orig": "Ghuli\n「Good! That's what I want!\n　Because that's your answer,\n　we can expedite this process!」"
+  },
+  {
+   "i": 50,
+   "speaker": "$n",
+   "text": "「Да что с ним такое?」",
+   "orig": "$n\n「What's with this guy?」"
+  },
+  {
+   "i": 51,
+   "speaker": "Гули",
+   "text": "「Я иду, глупцы!\n　Скорость убивает!」",
+   "orig": "Ghuli\n「Here I come, fools!\n　Speed kills!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Гули",
+   "text": "「Что такое, глупцы?\n　И это всё, на что вы способны?」",
+   "orig": "Ghuli\n「What's wrong, fools?\n　That all you got?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Майто",
+   "text": "「Значит, он не просто болтун!」",
+   "orig": "Maito\n「So he's not all talk!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Грэм",
+   "text": "「Да и его робот.\n　Его технологии сильно превосходят наши!」",
+   "orig": "Graham\n「And his robot.\n　Its technology greatly exceeds our own!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Сэцуна",
+   "text": "「Он человек? Или какой-то инопланетянин?」",
+   "orig": "Setsuna\n「Is he human? Or some kind of alien?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Гули",
+   "text": "「Я ждал от этого задания большего.\n　Пора с ним поторопиться.」",
+   "orig": "Ghuli\n「I had higher hopes for this mission.\n　Time to hurry it along.」"
+  },
+  {
+   "i": 57,
+   "speaker": "$n",
+   "text": "「Так мы тебе и позволили!」",
+   "orig": "$n\n「As if we'll let you!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Гули",
+   "text": "「Что ж, женщина. Ты первая.」",
+   "orig": "Ghuli\n「OK, woman. You're first.」"
+  },
+  {
+   "i": 59,
+   "speaker": "$n",
+   "text": "「Ах!」",
+   "orig": "$n\n「Ack!」"
+  },
+  {
+   "i": 60,
+   "speaker": "$n",
+   "text": "「Бесполезно!\n　Мне от него не оторваться!」",
+   "orig": "$n\n「It's no use!\n　I can't shake him!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Гули",
+   "text": "「Это и есть твоя предельная скорость?」",
+   "orig": "Ghuli\n「Is that as fast as you can go?」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Кх!」",
+   "orig": "$n\n「Ugh!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Гули",
+   "text": "「Игры закончились!\n　А теперь умри!」",
+   "orig": "Ghuli\n「Playtime is over!\n　Now die!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Гули",
+   "text": "「Ты!」",
+   "orig": "Ghuli\n「You!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Тэцуя",
+   "text": "「Столько слов про скорость,\n　а языком треплешь без умолку!」",
+   "orig": "Tetsuya\n「For all your talk about speed,\n　you sure like to run your mouth!」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Тэцуя!」",
+   "orig": "$n\n「Tetsuya!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тэцуя",
+   "text": "「Что ты творишь, $n?\n　«Вангрэй» на полной мощности\n　должен двигаться куда быстрее!」",
+   "orig": "Tetsuya\n「What are you doing, $n?\n　The VangRay must be able to move\n　faster at maximum output!」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Э-э...」",
+   "orig": "$n\n「Umm.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Найн",
+   "text": "「Спасибо за ожидание, сестрица.」",
+   "orig": "Nine\n「Thank you for waiting, Sis.」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Найн!」",
+   "orig": "$n\n「Nine!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Найн",
+   "text": "「Я перенастроила системы «Вангрэя»\n　под твои нынешние возможности.」",
+   "orig": "Nine\n「I've upgraded the VangRay's\n　systems to better match your\n　current abilities.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Найн",
+   "text": "「Изначально он строился под тактику бозонных прыжков,\n　и, решив, что сейчас она понадобится,\n　я ускорила работу над этими функциями.」",
+   "orig": "Nine\n「It was originally designed for Boson Jump tactics,\n　and having judged them to be needed this time,\n　I had work on those features rushed.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Найн",
+   "text": "「Прости, что вышло дольше, чем я рассчитывала:\n　пришлось заниматься этим прямо в бою.」",
+   "orig": "Nine\n「I am sorry that it took longer than expected\n　due to my having to do it while in battle.」"
+  },
+  {
+   "i": 74,
+   "speaker": "$n",
+   "text": "「Ты ведь не дулась, нет?」",
+   "orig": "$n\n「You weren't sulking, were you?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Найн",
+   "text": "「Ну, может, самую малость.」",
+   "orig": "Nine\n「Well, maybe a little.」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「Ничего страшного!\n　Лучше поздно, чем никогда!」",
+   "orig": "$n\n「No worries!\n　Late is still better than never!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Тэцуя",
+   "text": "「Хватит, вы обе.\n　У этого маньяка скорости терпение на исходе.」",
+   "orig": "Tetsuya\n「Enough, you two.\n　Speed mania here is fresh out of patience.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Гули",
+   "text": "「Проклятье!\n　Вы смеете меня игнорировать?」",
+   "orig": "Ghuli\n「Damn you!\n　You dare to ignore me?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Гули",
+   "text": "「Откуда прилетел этот выстрел?」",
+   "orig": "Ghuli\n「Where did that attack come from?」"
+  },
+  {
+   "i": 80,
+   "speaker": "？？？",
+   "text": "「Этот болтун сам себе могилу роет!」",
+   "orig": "？？？\n「This loudmouth is chasing an early grave!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Рёма",
+   "text": "「Столько слов про скорость,\n　а вовремя заткнуться так и не научился.」",
+   "orig": "Ryoma\n「For all your talk about speed,\n　you sure don't know when to shut up.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тэцуя",
+   "text": "「Рёма!」",
+   "orig": "Tetsuya\n「Ryoma!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Тобиа",
+   "text": "「F91? Это Кинкейд за штурвалом?」",
+   "orig": "Tobia\n「F91? Is that Kincade in there?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Кинкейд",
+   "text": "「Он самый.\n　Вот уж не думал встретить\n　тебя здесь, Тобиа.」",
+   "orig": "Kincade\n「It sure is.\n　Didn't expect to find you\n　here, Tobia.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Кодай",
+   "text": "「Всем отрядам! Перестроиться и прикрыть их!」",
+   "orig": "Kodai\n「All units! Reform and cover them!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Лотти",
+   "text": "「Тактический офицер Кодай!」",
+   "orig": "Lottie\n「Tactical Officer Kodai!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Вельт",
+   "text": "「Вы за штурвалом «Космо Зеро».\n　Значит, вам удалось сбежать с «Ямато»?」",
+   "orig": "Velt\n「I see you're piloting the Cosmo Zero.\n　Does that mean you escaped Yamato?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Кодай",
+   "text": "「Именно так.」",
+   "orig": "Kodai\n「It does indeed.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Мори",
+   "text": "「Полагаю, вы уже знаете, что «Ямато»\n　попал в руки Марсианских преемников.」",
+   "orig": "Mori\n「Guess you're already aware that Yamato has\n　fallen into the hands of the Martian Successors.」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Офицер оперативного отдела Мори!」",
+   "orig": "$n\n「Operations Officer Mori!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Рури",
+   "text": "「Мы — Независимый отряд «Надэсико», союзники\n　Земной Федерации. Я немало слышала о «Ямато»\n　от $F.」",
+   "orig": "Ruri\n「We're the Autonomous Nadesico Squad, allied with\n　the Earth Federation. I've heard much about Yamato\n　from $F.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Рури",
+   "text": "「Наша задача — разбить Марсианских преемников.\n　Мы хотели бы предложить вам союз.」",
+   "orig": "Ruri\n「We're on a mission to defeat the Martian Successors.\n　We would like to propose an alliance.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Кодай",
+   "text": "「Лейтенант Сусуму Кодай, тактический офицер «Ямато».\n　Выберемся отсюда — и поступим, как скажете.」",
+   "orig": "Kodai\n「Yamato Tactical Officer, Lt. Susumu Kodai here.\n　We'll do as instructed once we're out of this.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Рёма",
+   "text": "「Но нам ещё приходится драться с теми,\n　кто лезет сюда из разлома в пространстве.」",
+   "orig": "Ryoma\n「But we've also been forced to fight those\n　guys from the dimensional rift in this world.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Кинкейд",
+   "text": "「Только на этот раз один из них — с пилотом.\n　Может, мы наконец узнаем, кто они.」",
+   "orig": "Kincade\n「Except one of them is manned this time.\n　Maybe we're closer to learning their identity.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Гули",
+   "text": "「Похоже, препятствий стало больше.」",
+   "orig": "Ghuli\n「Seems I've got more obstacles to deal with.」"
+  },
+  {
+   "i": 97,
+   "speaker": "$n",
+   "text": "「Всё ещё твердишь, что сотрёшь нас?」",
+   "orig": "$n\n「You still gonna prattle on about deleting us?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Гули",
+   "text": "「Ах ты!」",
+   "orig": "Ghuli\n「You!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Тэцуя",
+   "text": "「Перестроиться, $n!」",
+   "orig": "Tetsuya\n「Reform, $n!」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Есть!」",
+   "orig": "$n\n「Roger that!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Рёма",
+   "text": "「Столько слов про скорость,\n　а вовремя заткнуться так и не научился.」",
+   "orig": "Ryoma\n「For all your talk about speed,\n　you sure don't know when to shut up.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тэцуя",
+   "text": "「Рёма!」",
+   "orig": "Tetsuya\n「Ryoma!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Тобиа",
+   "text": "「F91? Это Кинкейд за штурвалом?」",
+   "orig": "Tobia\n「F91? Is that Kincade in there?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Кинкейд",
+   "text": "「Он самый.\n　Вот уж не думал встретить\n　тебя здесь, Тобиа.」",
+   "orig": "Kincade\n「It sure is.\n　Didn't expect to find you\n　here, Tobia.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Кодай",
+   "text": "「Всем отрядам! Перестроиться и прикрыть их!」",
+   "orig": "Kodai\n「All units! Reform and cover them!」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「Вы за штурвалом «Космо Зеро».\n　Значит, вам удалось сбежать с «Ямато»?」",
+   "orig": "$n\n「I see you're piloting the Cosmo Zero.\n　Does that mean you escaped Yamato?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Кодай",
+   "text": "「Именно так.」",
+   "orig": "Kodai\n「It does indeed.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Мори",
+   "text": "「Полагаю, вы уже знаете, что «Ямато»\n　попал в руки Марсианских преемников.」",
+   "orig": "Mori\n「Guess you're already aware that Yamato has\n　fallen into the hands of the Martian Successors.」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Офицер оперативного отдела Мори!」",
+   "orig": "$n\n「Operations Officer Mori!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рури",
+   "text": "「Мы — Независимый отряд «Надэсико», союзники\n　Земной Федерации. Я немало слышала о «Ямато»\n　от $F.」",
+   "orig": "Ruri\n「We're the Autonomous Nadesico Squad, allied with\n　the Earth Federation. I've heard much about Yamato\n　from $F.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Рури",
+   "text": "「Наша задача — разбить Марсианских преемников.\n　Мы хотели бы предложить вам союз.」",
+   "orig": "Ruri\n「We're on a mission to defeat the Martian Successors.\n　We would like to propose an alliance.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Кодай",
+   "text": "「Я лейтенант «Ямато», Сусуму Кодай.\n　Выберемся отсюда — и поступим, как скажете.」",
+   "orig": "Kodai\n「I am Yamato lieutenant, Susumu Kodai.\n　We'll do as instructed once we're out of this.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Рёма",
+   "text": "「Но нам ещё приходится драться с теми,\n　кто лезет сюда из разлома в пространстве.」",
+   "orig": "Ryoma\n「But we've also been forced to fight those\n　guys from the dimensional rift in this world.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Кинкейд",
+   "text": "「Только на этот раз один из них — с пилотом.\n　Может, мы наконец узнаем, кто они.」",
+   "orig": "Kincade\n「Except one of them is manned this time.\n　Maybe we're closer to learning their identity.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Гули",
+   "text": "「Похоже, препятствий стало больше.」",
+   "orig": "Ghuli\n「Seems I've got more obstacles to deal with.」"
+  },
+  {
+   "i": 116,
+   "speaker": "$n",
+   "text": "「Всё ещё твердишь, что сотрёшь нас?」",
+   "orig": "$n\n「You still gonna prattle on about deleting us?」"
+  },
+  {
+   "i": 117,
+   "speaker": "Гули",
+   "text": "「Ах ты!」",
+   "orig": "Ghuli\n「You!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Тэцуя",
+   "text": "「Перестроиться, $n!」",
+   "orig": "Tetsuya\n「Reform, $n!」"
+  },
+  {
+   "i": 119,
+   "speaker": "$n",
+   "text": "「Есть!」",
+   "orig": "$n\n「Roger that!」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Он быстрее, чем когда-либо!」",
+   "orig": "$n\n「It's faster than ever!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Найн",
+   "text": "「Я определила, что сейчас ты можешь\n　выжать из «Вангрэя» больше,\n　и постепенно сняла ограничитель.」",
+   "orig": "Nine\n「I've determined that you are currently\n　able to get more power out VangRay\n　and have gradually cut its limiter in turn.」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「То есть я расту?」",
+   "orig": "$n\n「Does that mean I'm getting better?」"
+  },
+  {
+   "i": 123,
+   "speaker": "Найн",
+   "text": "「Данные говорят именно об этом.」",
+   "orig": "Nine\n「The data seems to support that.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Тэцуя",
+   "text": "「Покажи, что ты умеешь, $n.」",
+   "orig": "Tetsuya\n「Show us what you've got, $n.」"
+  },
+  {
+   "i": 125,
+   "speaker": "$n",
+   "text": "「Хорошо!」",
+   "orig": "$n\n「OK!」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「Найн.\n　Тэцуя рисковал собой, чтобы меня спасти.\n　У тебя с этим какие-то проблемы?」",
+   "orig": "$n\n「Nine.\n　Tetsuya risked his neck to save me.\n　You got a problem with that?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Найн",
+   "text": "「Никаких.」",
+   "orig": "Nine\n「I do not.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Гули",
+   "text": "「Не думал, что какая-то захолустная раса\n　сумеет так меня опозорить!」",
+   "orig": "Ghuli\n「I never imagined a fringe race could\n　make this much of a fool out of me!」"
+  },
+  {
+   "i": 129,
+   "speaker": "$n",
+   "text": "「Стирать мы тебя не станем,\n　но, может, всё-таки уйдёшь с дороги?」",
+   "orig": "$n\n「We won't go as far as deletion,\n　but could you at least step aside?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Гули",
+   "text": "「Ты смеешь меня игнорировать?」",
+   "orig": "Ghuli\n「You dare to ignore me?」"
+  },
+  {
+   "i": 131,
+   "speaker": "$n",
+   "text": "「Такое я меньше всего хочу слышать от того,\n　кто считает чужие жизни расходным материалом!」",
+   "orig": "$n\n「That's about the last thing I want to hear out\n　of someone who treats lives like fodder!」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Вперёд, Найн!\n　«Ямато» ждёт!」",
+   "orig": "$n\n「Let's go, Nine!\n　Yamato awaits us!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Найн",
+   "text": "「Да, сестрица!」",
+   "orig": "Nine\n「OK, Sis!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Фельдт",
+   "text": "「Неопознанный объект уничтожен.」",
+   "orig": "Feldt\n「The unknown has been destroyed.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Лассе",
+   "text": "「Мы так и не знаем, кто они\n　и чего добиваются.」",
+   "orig": "Lasse\n「We still don't know who they\n　are or what they're after.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Хатауэй",
+   "text": "「Единственная зацепка — слово «Гардим»,\n　которое обронил этот Гули.」",
+   "orig": "Hathaway\n「Our only clue is the word \"Gardim\" \n　used by that Ghuli guy.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Атрун",
+   "text": "「Раз он сказал, что выполняет задание,\n　значит, кто-то ему это задание отдал.」",
+   "orig": "Athrun\n「The fact that he said he was on a mission\n　means that someone ordered him to do it.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Джудо",
+   "text": "「И этот кто-то охотится за нами.」",
+   "orig": "Judau\n「And that someone is after us.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Элль",
+   "text": "「Может, они злятся, что мы\n　переиграли их дронов?」",
+   "orig": "Elle\n「Perhaps they're angry at us for turning\n　the tables on the drones?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Ру",
+   "text": "「Но разве не они напали первыми?」",
+   "orig": "Roux\n「But aren't they the ones who attacked us?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Тобиа",
+   "text": "「Дело прежде всего в том, что он сам явился.\n　Он ведь сказал, что мы ещё увидимся.」",
+   "orig": "Tobia\n「It's his appearance more than anything.\n　He said we haven't seen the last of him.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Бандзё",
+   "text": "「Если допустить, что они телепортировались,\n　сюда могла перенестись и вся их организация.」",
+   "orig": "Banjo\n「If we assumed they teleported,\n　their organization might have come with them.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Сабуроута",
+   "text": "「Значит, эта помешанная на скорости\n　организация и зовётся Гардим.」",
+   "orig": "Saburouta\n「This speed-obsessed organization's\n　name is probably Gardim then.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Тобиа",
+   "text": "「Но почему они охотятся за нами?」",
+   "orig": "Tobia\n「But why are they after us?」"
+  },
+  {
+   "i": 145,
+   "speaker": "Кинкейд",
+   "text": "「Пока оставь это, Тобиа.」",
+   "orig": "Kincade\n「Leave it be for now, Tobia.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Рёма",
+   "text": "「У нас ведь есть дело поважнее, верно?」",
+   "orig": "Ryoma\n「We have work to do, now, don't we?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Тобиа",
+   "text": "「Вернуть «Ямато».」",
+   "orig": "Tobia\n「Retaking Yamato.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Рёма",
+   "text": "「Сперва надо разбить Марсианских преемников.」",
+   "orig": "Ryoma\n「We've gotta crush the Martian Successors first.」"
+  },
+  {
+   "i": 149,
+   "speaker": "$n",
+   "text": "「Верно.」",
+   "orig": "$n\n「You're right.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Сумераги",
+   "text": "「Я сведу всю информацию воедино.\n　Прошу вас подняться к нам на борт, лейтенант Кодай.」",
+   "orig": "Sumeragi\n「I'll organize the information.\n　Please come board our ship, Lieutenant Kodai.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Кодай",
+   "text": "「Понял.」",
+   "orig": "Kodai\n「Understood.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Найн.」",
+   "orig": "$n\n「Nine.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Найн",
+   "text": "「Да?」",
+   "orig": "Nine\n「Yes?」"
+  },
+  {
+   "i": 154,
+   "speaker": "$n",
+   "text": "「Поговорим потом?」",
+   "orig": "$n\n「Mind if we talk later?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Найн",
+   "text": "「Конечно.」",
+   "orig": "Nine\n「Sure.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Гули",
+   "text": "「Проклятье!\n　Как я мог проиграть?」",
+   "orig": "Ghuli\n「Dammit!\n　How did I lose?」"
+  },
+  {
+   "i": 157,
+   "speaker": "$n",
+   "text": "「Не такая уж у тебя и скорость.」",
+   "orig": "$n\n「Your speed isn't all it's cracked up to be.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Гули",
+   "text": "「Ты!」",
+   "orig": "Ghuli\n「You!」"
+  },
+  {
+   "i": 159,
+   "speaker": "$n",
+   "text": "「И в наказание за поражение\n　ты расскажешь нам всё.」",
+   "orig": "$n\n「And as punishment for losing,\n　I want you to tell us everything.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Гули",
+   "text": "「Так я и стал бы.」",
+   "orig": "Ghuli\n「As if I could possibly do that. 」"
+  },
+  {
+   "i": 161,
+   "speaker": "$n",
+   "text": "「Решил сбежать?」",
+   "orig": "$n\n「Trying to escape?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Гули",
+   "text": "「Моё имя — Гули.\n　Солдат Гардима.」",
+   "orig": "Ghuli\n「My name is Ghuli.\n　A Gardim soldier.」"
+  },
+  {
+   "i": 163,
+   "speaker": "$n",
+   "text": "「Вот как?」",
+   "orig": "$n\n「Oh?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Гули",
+   "text": "「И не смейте забывать!\n　В следующий раз я буду куда быстрее вас!」",
+   "orig": "Ghuli\n「And don't you forget it!\n　I'll be way faster than you next time!」"
+  },
+  {
+   "i": 165,
+   "speaker": "$n",
+   "text": "「Преследовать его незачем.」",
+   "orig": "$n\n「There's no need to give chase.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Найн",
+   "text": "「Судя по его тону,\n　мне кажется, мы скоро увидимся снова.」",
+   "orig": "Nine\n「Judging by his tone,\n　I feel like we'll be seeing him again soon.」"
+  },
+  {
+   "i": 167,
+   "speaker": "$n",
+   "text": "「Очень на это надеюсь.\n　Может, в следующий раз получим ответы.」",
+   "orig": "$n\n「I do hope so.\n　Maybe we'll get some answers next time.」"
+  },
+  {
+   "i": 168,
+   "speaker": "$n",
+   "text": "「Но сперва надо разбить Марсианских\n　преемников и вернуть «Ямато».」",
+   "orig": "$n\n「But first we need to crush the Martian\n　Successors and retake Yamato.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Найн",
+   "text": "「Поняла.」",
+   "orig": "Nine\n「Understood.」"
+  },
+  {
+   "i": 170,
+   "speaker": "$n",
+   "text": "「Хм.」",
+   "orig": "$n\n「Hmm.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Найн",
+   "text": "「Что такое?」",
+   "orig": "Nine\n「What is it?」"
+  },
+  {
+   "i": 172,
+   "speaker": "$n",
+   "text": "「Спасибо, что вернулась ко мне, Найн.」",
+   "orig": "$n\n「Thanks for coming back to me, Nine.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Найн",
+   "text": "「Я лишь выполняю свой долг.」",
+   "orig": "Nine\n「Just doing my duty.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Кодай",
+   "text": "「Ты как там, Мори?\n　Мы закончим это как можно скорее,\n　так что потерпи ещё немного.」",
+   "orig": "Kodai\n「Are you OK, Mori?\n　We're gonna finish this as soon as possible,\n　so please hold on just a little longer.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Мори",
+   "text": "「За меня не волнуйся.\n　Сосредоточься на бое.」",
+   "orig": "Mori\n「You don't have to worry about me.\n　Just focus on fighting.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Кодай",
+   "text": "「Не могу.\n　Ты же ключ к возвращению «Ямато».」",
+   "orig": "Kodai\n「I can't.\n　You're the key to retaking Yamato, after all.」"
+  },
+  {
+   "i": 177,
+   "speaker": "$n",
+   "text": "（Ох.\n　От любого слова у них сразу подозрения.\n　Вот же вредный ИИ.）",
+   "orig": "$n\n（Ugh.\n　Every little word makes 'em suspect something.\n　What an annoying A.I.）"
+  },
+  {
+   "i": 178,
+   "speaker": "$n",
+   "text": "（Надо будет потом серьёзно поговорить.）",
+   "orig": "$n\n（We're gonna have to have a few words later.）"
+  },
+  {
+   "i": 179,
+   "speaker": "Гули",
+   "text": "「Эта никчёмная низшая раса\n　смеет лезть на меня в лоб?」",
+   "orig": "Ghuli\n「This bungling inferior race\n　dares to approach head on?」"
+  },
+  {
+   "i": 180,
+   "speaker": "$n",
+   "text": "「Кто дал тебе право\n　так говорить о других?」",
+   "orig": "$n\n「Who gave you the right to talk\n　about others like that?」"
+  },
+  {
+   "i": 181,
+   "speaker": "Гули",
+   "text": "「Право?\n　Ты, верно, издеваешься!」",
+   "orig": "Ghuli\n「The right?\n　You've got to be kidding me!」"
+  },
+  {
+   "i": 182,
+   "speaker": "$n",
+   "text": "「Всё, с меня хватит!\n　Полный вперёд, Найн!」",
+   "orig": "$n\n「That's it! I've had it!\n　Full speed ahead, Nine!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Найн",
+   "text": "「Раскрыть истинный потенциал «Вангрэя»\n　можешь только ты, сестрица.」",
+   "orig": "Nine\n「It's up to you to unleash\n　VangRay's true potential, Sis. 」"
+  },
+  {
+   "i": 184,
+   "speaker": "$n",
+   "text": "「Нет!\n　Только мы вдвоём, Найн!」",
+   "orig": "$n\n「No!\n　It's up to us, Nine!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Найн",
+   "text": "「Есть!」",
+   "orig": "Nine\n「Roger that!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Гули",
+   "text": "「Такой громадине\n　за мной нипочём не угнаться!」",
+   "orig": "Ghuli\n「That huge body can't\n　possibly keep up with me!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Бандзё",
+   "text": "「Это мы ещё посмотрим!\n　Я верю в проворство «Дайтарна»!」",
+   "orig": "Banjo\n「We'll see about that!\n　I believe in Daitarn's agility!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Бандзё",
+   "text": "「А ещё я верю в мухобойки!」",
+   "orig": "Banjo\n「And I also believe in fly swatters!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Гули",
+   "text": "「Ты!\n　Ты поплатишься за то, что принял меня за насекомое!」",
+   "orig": "Ghuli\n「You!\n　You'll pay for treating me like an insect!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Каппэй",
+   "text": "「Проклятье!\n　Скорость у тебя и впрямь что надо.」",
+   "orig": "Kappei\n「Damn you!\n　Your speed is really something, huh.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Гули",
+   "text": "「Что надо? Скорость — это всё!\n　Овладей скоростью — и не проиграешь никогда!」",
+   "orig": "Ghuli\n「Something? Speed is everything!\n　Master speed, and you'll never lose!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Каппэй",
+   "text": "「Думаешь, я проиграю?\n　У тебя скорость, зато у меня сила!」",
+   "orig": "Kappei\n「Think I'm gonna lose?\n　You may have speed, but I have power!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Гули",
+   "text": "「Ты ничего не понимаешь, сопляк!\n　Моя скорость одолеет твою силу!」",
+   "orig": "Ghuli\n「You know nothing, brat!\n　My speed will beat your power!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Джудо",
+   "text": "「И учти: злится на тебя\n　не только $n!\n　Я тоже!」",
+   "orig": "Judau\n「Just so you know, $n\n　isn't the only one mad at you!\n　I am, too!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Гули",
+   "text": "「Иными словами, соображаешь ты\n　так же туго, как и он.」",
+   "orig": "Ghuli\n「In other words, you're as slow\n　on the uptake as he is.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Джудо",
+   "text": "「Ничего я не туго соображаю!\n　Я просто в бешенстве!」",
+   "orig": "Judau\n「I'm not slow at all!\n　I'm just pissed off!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Джудо",
+   "text": "「Я выбью из тебя признание!」",
+   "orig": "Judau\n「I'm gonna beat a confession outta you!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Хатауэй",
+   "text": "「А ты быстрый!」",
+   "orig": "Hathaway\n「You're fast!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Гули",
+   "text": "「Властвуй над скоростью — и будешь властвовать надо всем!\n　Заруби это себе на носу!」",
+   "orig": "Ghuli\n「Rule speed, and you rule over all!\n　You'd be wise to take that to heart!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Хатауэй",
+   "text": "「Мне всё равно, что ты там думаешь!\n　Того, кто так пренебрегает человеческой жизнью,\n　нельзя оставлять без присмотра!」",
+   "orig": "Hathaway\n「I don't care what you think!\n　Someone with your disregard for human life\n　cannot be left to their own devices!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Тобиа",
+   "text": "「В скорости мне с ним не тягаться!\n　Придётся сойтись вплотную и свести её на нет!」",
+   "orig": "Tobia\n「I'm no match for his speed!\n　I'll have to get in close and neutralize it!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Гули",
+   "text": "「И это по силам такому глупцу, как ты?」",
+   "orig": "Ghuli\n「Is that even possible for a fool like you?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Тобиа",
+   "text": "「Сейчас увидишь!\n　Я прорвусь через тебя\n　и верну свою Бернадетт!」",
+   "orig": "Tobia\n「You'll see!\n　I'll break through you and go\n　get my Bernadette back!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Синн",
+   "text": "「Невероятно, даже «Дестини»\n　еле за ним поспевает!」",
+   "orig": "Shinn\n「I can't believe even Destiny\n　is struggling to keep up!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Гули",
+   "text": "「И это далеко не всё!」",
+   "orig": "Ghuli\n「And there's more where that came from!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Синн",
+   "text": "「Я пришёл сюда не в салки играть!\n　Я пришёл тебя убить!」",
+   "orig": "Shinn\n「I didn't come here to play tag!\n　I'm here to kill you!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Гули",
+   "text": "「Ну давай, попробуй!\n　Если справишься с моей скоростью!」",
+   "orig": "Ghuli\n「Go ahead and try!\n　If you can handle my speed that is!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Гули",
+   "text": "「Поспеваешь за моим «Блармагом»?\n　Недурно!」",
+   "orig": "Ghuli\n「You're keeping up with my Blarmag?\n　Not bad!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Кира",
+   "text": "「Не знаю, чего ты добиваешься,\n　но у нас своё дело!」",
+   "orig": "Kira\n「I don't know what you're after,\n　but we've got our own job to do!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Гули",
+   "text": "「Как и у меня!\n　С моей скоростью я закончу это задание\n　в рекордный срок!」",
+   "orig": "Ghuli\n「That makes two of us!\n　My speed will ensure that I complete\n　this mission in record time!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Сэцуна",
+   "text": "「Почему ты отказываешься от разговора?」",
+   "orig": "Setsuna\n「Why do you refuse dialogue?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Гули",
+   "text": "「А какой в нём смысл?」",
+   "orig": "Ghuli\n「What's the point?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Гули",
+   "text": "「Я истреблю вас всех!\n　Исход уже предрешён.\n　Нет никакого смысла затягивать.」",
+   "orig": "Ghuli\n「I'm going to exterminate you all!\n　And it's already the forgone conclusion.\n　No reason to add to the process.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Сэцуна",
+   "text": "（С этим типом что-то не так.\n　Но что именно?）",
+   "orig": "Setsuna\n（Something's not right about this guy.\n　But what the heck is it?）"
+  },
+  {
+   "i": 215,
+   "speaker": "Майтгайн",
+   "text": "「Майто!\n　Против его скорости нам не выстоять!」",
+   "orig": "Mightgaine\n「Maito!\n　We can't win against his speed!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Майто",
+   "text": "「Знаю!\n　Это напоминает мне бой\n　против «Хирю» Дзё.」",
+   "orig": "Maito\n「I know!\n　This reminds me of the fight\n　against Joe's Hiryu.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Гули",
+   "text": "「Размышления только мешают скорости!\n　Умри уже наконец!」",
+   "orig": "Ghuli\n「The act of thinking hinders speed!\n　Just die already!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Майто",
+   "text": "「Ни за что!\n　Я, Майто Сэмпудзи, не отдам свою жизнь мрази,\n　которая не понимает её ценности!」",
+   "orig": "Maito\n「I will not!\n　I, Maito Senpuji, will not give my life to scum\n　that can't understand its importance!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Майто",
+   "text": "「Я вытрясу из тебя все твои планы!」",
+   "orig": "Maito\n「I'm gonna stomp your plans out of you!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Харри",
+   "text": "「Капитан!\n　Его скорость! Нам за ней не угнаться!」",
+   "orig": "Harry\n「Captain!\n　Its speed! It's too much for us!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Рури",
+   "text": "「Линкору не выстоять против мобильной машины\n　на ближней дистанции!」",
+   "orig": "Ruri\n「It's impossible for a battleship to fight mobile\n　weaponry at close range!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Рури",
+   "text": "「Просто продолжайте собирать данные.\n　Наша задача — установить, кто он\n　и что за силы за ним стоят.」",
+   "orig": "Ruri\n「Just continue acquiring data.\n　Our role is to confirm the identity\n　of him and his force.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Гули",
+   "text": "「Ты!\n　Ты читаешь мои движения?」",
+   "orig": "Ghuli\n「You!\n　You're reading my movements?」"
+  },
+  {
+   "i": 224,
+   "speaker": "Тэцуя",
+   "text": "「Ставка на одну лишь скорость делает\n　твои движения предсказуемыми.」",
+   "orig": "Tetsuya\n「Reliance on speed makes your moves tedious.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Тэцуя",
+   "text": "「Моя техника и выучка\n　остановят тебя на полном ходу.」",
+   "orig": "Tetsuya\n「My technique and discipline\n　will stop you in your tracks.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Гули",
+   "text": "「Тогда я просто стану ещё быстрее!\n　Я до боли покажу тебе предел твоих сил!」",
+   "orig": "Ghuli\n「Then I'll just have to move faster!\n　I'll make you painfully aware of your limits!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Соскэ",
+   "text": "「Человечности тебе недостаёт,\n　зато чувства долга — с избытком.」",
+   "orig": "Sousuke\n「For what you lack in humanity,\n　you make up for in your sense of duty.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Гули",
+   "text": "「Выполнение полученного задания —\n　самая логичная из всех систем.」",
+   "orig": "Ghuli\n「Accomplishing the missions you're given\n　is the most logical of systems.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Гули",
+   "text": "「И именно поэтому моя скорость—」",
+   "orig": "Ghuli\n「And that's why my speed is—」"
+  },
+  {
+   "i": 230,
+   "speaker": "Соскэ",
+   "text": "「А болтаешь ты много!\n　И скоро это станет твоим роковым изъяном!」",
+   "orig": "Sousuke\n「You sure talk a lot!\n　And that'll soon be your fatal flaw!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Гули",
+   "text": "「Обнаружена приоритетная цель — «Вилькисс»!\n　Подлежит немедленному уничтожению!」",
+   "orig": "Ghuli\n「Priority target Bilkis discovered!\n　It must be destroyed immediately!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Анж",
+   "text": "「Я к боям в космосе ещё и привыкнуть не успела,\n　а меня уже гоняет этот жалкий тип!」",
+   "orig": "Ange\n「I'm still not used to space warfare and yet,\n　I end up chased by this miserable wretch!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Анж",
+   "text": "「Но если речь о скорости —\n　я полностью доверяю своему «Вилькиссу».\n　И ты скоро поймёшь почему!」",
+   "orig": "Ange\n「But if this is about speed,\n　I have complete faith in my Villkiss.\n　And you'll soon understand why!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Анж",
+   "text": "「Так вот он какой, космос.」",
+   "orig": "Ange\n「So this is space.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Хильда",
+   "text": "「Не говори глупостей, Падшая принцесса!\n　Тебе так страшно, что приходится\n　проговаривать очевидное?」",
+   "orig": "Hilda\n「Don't be silly, Fallen Princess!\n　Are you really so scared that you\n　have to state the obvious?」"
+  },
+  {
+   "i": 236,
+   "speaker": "Крис",
+   "text": "「Н-но, Хильда!」",
+   "orig": "Chris\n「B-but Hilda!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Розали",
+   "text": "「Тут как будто нет ни верха, ни низа!\n　Меня это жутко сбивает!」",
+   "orig": "Rosalie\n「It's like there is no up or down!\n　It's really bothering me!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Салия",
+   "text": "「Все!\n　Вспомните симулятор!」",
+   "orig": "Salia\n「Everyone!\n　Remember the simulation!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Эрша",
+   "text": "「Легко сказать.」",
+   "orig": "Ersha\n「Easier said than done.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Вивиан",
+   "text": "「Это и правда тяжело!」",
+   "orig": "Vivian\n「This is really difficult!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Анж",
+   "text": "「Но надо хотя бы пытаться!\n　От этого зависит, выживем мы или нет!」",
+   "orig": "Ange\n「But we have to try!\n　Our survival depends on it!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Анж",
+   "text": "「Я не продам свою жизнь задёшево!\n　Я отсюда выберусь!」",
+   "orig": "Ange\n「I'm not gonna sell my life short!\n　I will survive this!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Рёма",
+   "text": "「Ты поможешь мне размять тело\n　после месяца взаперти!」",
+   "orig": "Ryoma\n「You're going to help me rehabilitate my\n　body after that month of confinement!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Рёма",
+   "text": "「Давай всё, что у тебя есть!\n　Меня теперь никто не остановит!」",
+   "orig": "Ryoma\n「Give me everything you've got!\n　Nobody's gonna stop me now!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Кинкейд",
+   "text": "「А теперь — в контратаку!」",
+   "orig": "Kincade\n「Now we launch a counterattack!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Кинкейд",
+   "text": "「Жди нас, «Ямато»!\n　Мы мигом вернёмся!」",
+   "orig": "Kincade\n「Wait for us, Yamato!\n　We'll be back in no time!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Мори",
+   "text": "「Надо же, мичман $l идёт в составе сил,\n　которые двинулись на Аматэрасу.」",
+   "orig": "Mori\n「I can't believe Ensign $l is a part\n　of the force moving on Amaterasu.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Кодай",
+   "text": "「Так уж повернулось.\n　Присоединимся к ним и вернём «Ямато»!」",
+   "orig": "Kodai\n「That's the way the wind blows.\n　We'll join them and retake Yamato!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Кодай",
+   "text": "「Но сперва надо как-то\n　выбраться из этой передряги.」",
+   "orig": "Kodai\n「But first, we're gonna have to\n　find a way out of this mess.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Мори",
+   "text": "「У тебя получится, Кодай.\n　Мы на тебя рассчитываем.」",
+   "orig": "Mori\n「You can do this, Kodai.\n　We're counting on you.」"
+  },
+  {
+   "i": 251,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

@@ -1,0 +1,1852 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　-Кабинет президента «Нергал Хэви Индастриз»-",
+   "orig": "　\n　　\n　　　-Nergal Heavy Industries President's Office-"
+  },
+  {
+   "i": 4,
+   "speaker": "Проспектор",
+   "text": "「Похоже, «Туата де Данаан»\n　отбыл благополучно.」",
+   "orig": "Prospector\n「It appears that the Tuatha de\n　Danaan has departed safely.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Эрина",
+   "text": "「Значит, он покинул атмосферу\n　и состыковался с «Надэсико».」",
+   "orig": "Erina\n「So it has left the atmosphere and\n　linked up with Nadesico then.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Эрина",
+   "text": "「Также пришло сообщение, что груз\n　благополучно доставлен на «Надэсико».」",
+   "orig": "Erina\n「We've also received word that the\n　item was safely delivered to Nadesico.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Акацуки",
+   "text": "「Что ж, капитан Рури нацелилась\n　на «Аматэрасу», но можем ли мы правда уйти?」",
+   "orig": "Akatsuki\n「Well, Captain Ruri has set her sights\n　on Amaterasu, but can we really leave?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Акацуки",
+   "text": "「Из-за кадровых перестановок ремонт\n　«Туата де Данаана» всё ещё идёт.」",
+   "orig": "Akatsuki\n「Thanks to personnel changes,\n　repairs to the Tuatha de Danaan are ongoing.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Проспектор",
+   "text": "「Старший Сэмпудзи от этого\n　вовсе не в восторге.」",
+   "orig": "Prospector\n「The elder Senpuji is none\n　too happy about that.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Юдзиро",
+   "text": "「Извольте объясниться, президент!\n　С какой стати ремонт подводной лодки\n　достался «Нергалу»?」",
+   "orig": "Yujiro\n「Explain yourself, President!\n　Where do you get off having the submarine's\n　repairs done at Nergal?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Акацуки",
+   "text": "「Давно не виделись.\n　Знаете, от злости одни лишь морщины.」",
+   "orig": "Akatsuki\n「Long time no see.\n　Anger is only going to give you wrinkles, you know.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Юдзиро",
+   "text": "「Только не с моим натто!\n　Отвечай на вопрос, или я обрею\n　твою роскошную гриву наголо!」",
+   "orig": "Yujiro\n「Not if my natto has anything to say about it!\n　Answer my question, or I'll shave that\n　beautiful mane of yours down to nothing!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Акацуки",
+   "text": "「Ну, у вас железные дороги, у меня корабли.\n　Совершенно разные вещи, не так ли?」",
+   "orig": "Akatsuki\n「Well, you deal in rail, and I deal in ships.\n　They're completely different, are they not?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Юдзиро",
+   "text": "「Тут не поспоришь.\n　Просто я очень хотел встретиться с Тэссой!」",
+   "orig": "Yujiro\n「You've got a point.\n　It's just that I really wanted to meet Tessa!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Акацуки",
+   "text": "「Так я и думал.\n　Но у вас же есть капитан Хосино, разве нет?」",
+   "orig": "Akatsuki\n「That's what I thought.\n　But you've got Captain Hoshino, don't you?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Юдзиро",
+   "text": "「Да хоть Электронная фея, хоть Тэсса —\n　я хочу заполучить их всех!」",
+   "orig": "Yujiro\n「I don't care if it's the Electron Fairy or Tessa,\n　I want them all to myself!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Юдзиро",
+   "text": "「Обе и умны, и красивы!\n　Любая из них стала бы Майто славной женой.」",
+   "orig": "Yujiro\n「They're both as bright as they are beautiful!\n　Either would make a fine wife for Maito.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Акацуки",
+   "text": "「Вы любящий дед и глупый старик разом.」",
+   "orig": "Akatsuki\n「You're a doting parent and a dumb old man.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Акацуки",
+   "text": "「Будете продолжать в том же духе —\n　и от репутации бывших членов\n　«Селестиал Бин» камня на камне не останется.」",
+   "orig": "Akatsuki\n「If you keep this up,\n　the reputations of the former Celestial Being\n　members are gonna be in shambles.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Юдзиро",
+   "text": "「Кхм!」",
+   "orig": "Yujiro\n「Ngh!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Акацуки",
+   "text": "「Вы правда думали, что я не знаю?\n　Видимо, поэтому меня и не принимали всерьёз.」",
+   "orig": "Akatsuki\n「You really thought I didn't know?\n　Guess that's why you didn't take me seriously.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Акацуки",
+   "text": "「Вы ушли из «Селестиал Бин»,\n　когда услышали, что некий «Гандам»\n　начал творить беды.」",
+   "orig": "Akatsuki\n「You left Celestial Being\n　when you heard about some\n　Gundam causing problems.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Акацуки",
+   "text": "「И вам немалая честь за то, что после этого\n　вы создали нейтральную всемирную сеть дорог,\n　не столь уязвимую для бедствий войны.」",
+   "orig": "Akatsuki\n「You deserve a lot of credit\n　for establishing a neutral worldwide rail network\n　less susceptible to the ravages of war after that.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Юдзиро",
+   "text": "「Это было очень давно.」",
+   "orig": "Yujiro\n「That was a long time ago.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Юдзиро",
+   "text": "「Не хочу вспоминать, чем всё это\n　обернулось для моего сына и его жены.」",
+   "orig": "Yujiro\n「I don't want to remember how all of\n　that ended for my son and his wife.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Акацуки",
+   "text": "「Простите, что завёл об этом речь.」",
+   "orig": "Akatsuki\n「Sorry I brought it up.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Юдзиро",
+   "text": "「Но именно поэтому я больше всего на свете\n　хочу, чтобы мой внук Майто был счастлив!\n　И никому не позволю этому помешать.」",
+   "orig": "Yujiro\n「But that's why I want more than anything\n　for my grandson Maito to be happy!\n　I won't let anyone get in the way of that.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Эрина",
+   "text": "「Похоже, это надолго.」",
+   "orig": "Erina\n「Looks like this is gonna take a while.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Проспектор",
+   "text": "「Новая модель и правда отстаёт от графика?」",
+   "orig": "Prospector\n「Is the new model really behind schedule?」"
+  },
+  {
+   "i": 30,
+   "speaker": "Эрина",
+   "text": "「Боюсь, что так.\n　Даже если поторопимся — уйдёт месяц.」",
+   "orig": "Erina\n「I'm afraid so.\n　It would take a month, even if we rushed it.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Проспектор",
+   "text": "「Но, думаю, команда «Надэсико Б»\n　прекрасно справится и сама.」",
+   "orig": "Prospector\n「But I think that everyone in Nadesico B\n　will do just fine on their own.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Акацуки",
+   "text": "「Дело не в том, верите вы в их победу или нет.」",
+   "orig": "Akatsuki\n「It's not about whether you think they can win.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Проспектор",
+   "text": "「Спасибо, что поговорили со стариком за нас.」",
+   "orig": "Prospector\n「Thanks for talking to the old man for us.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Акацуки",
+   "text": "「С Сэмпудзи меня связывают ещё дела родителей.\n　Я не могу взять и отказать им наотрез.」",
+   "orig": "Akatsuki\n「My relationship with Senpuji goes back to my parents.\n　It's not like I can flat-out refuse them.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Проспектор",
+   "text": "「Два ведущих молодых главы, похоже,\n　идут в совершенно разные стороны.」",
+   "orig": "Prospector\n「The two top young leaders seem to\n　be moving in totally opposite directions.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Акацуки",
+   "text": "「Пусть юный герой Сэмпудзи идёт своей дорогой.\n　Хочу посмотреть, куда заведёт его молодость.」",
+   "orig": "Akatsuki\n「The young Senpuji hero can keep at it.\n　I want to see how far his youth will take him.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Эрина",
+   "text": "「Времена изменились, надо полагать.」",
+   "orig": "Erina\n「Times have changed, I suppose.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Акацуки",
+   "text": "「Ещё как изменились.\n　Как и мы с Тэнкавой.\n　Печально.」",
+   "orig": "Akatsuki\n「They sure have.\n　As have Tenkawa and I.\n　It's sad.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Эрина",
+   "text": "「И впрямь.」",
+   "orig": "Erina\n「Indeed.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Акацуки",
+   "text": "「Но я всегда был реалистом, и потому считаю,\n　что «Нергалу» нужна куда более громкая победа,\n　если он хочет, чтобы его хоть во что-то ставили.」",
+   "orig": "Akatsuki\n「But I'm ever the realist, and that's why\n　I think Nergal needs to sell itself with a more\n　sensational win if it's gonna get any credit.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Акацуки",
+   "text": "「А уж пустит ли этот добряк в ход\n　наш подарок — пусть решает сам.」",
+   "orig": "Akatsuki\n「I'll leave it to the nice guy whether or not\n　to use the present we're giving him.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Проспектор",
+   "text": "「$kwbГруппа «Кримсон»$kwe и без того помогает\n　Марсианским преемникам.」",
+   "orig": "Prospector\n「$kwbCrimson Group$kwe is already helping\n　the Martian Successors after all.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Проспектор",
+   "text": "「Если они и дальше будут набирать силу,\n　под угрозой окажется даже наша компания.」",
+   "orig": "Prospector\n「At the rate they're growing in power,\n　even our company may be at risk.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Акацуки",
+   "text": "「Дело не только в этом.」",
+   "orig": "Akatsuki\n「There's more to it than that.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Проспектор",
+   "text": "「В каком смысле?」",
+   "orig": "Prospector\n「What do you mean?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Акацуки",
+   "text": "「Когда возглавляешь «Нергал», начинаешь кое-что\n　понимать о том, как устроен этот мир.」",
+   "orig": "Akatsuki\n「Becoming the top of Nergal teaches you a\n　few things about how this world is structured.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Эрина",
+   "text": "「В отличие от концерна Сэмпудзи,\n　наша компания берётся и за грязные дела.」",
+   "orig": "Erina\n「Unlike the Senpuji Concern,\n　our company gets involved in seedier affairs.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Акацуки",
+   "text": "「Отсюда и мой вывод.\n　Если дать им волю, их мерзкий смрад\n　непременно расползётся повсюду.」",
+   "orig": "Akatsuki\n「And that leads me to my conclusion.\n　If we let them have their way,\n　their vile stench is bound to spread.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Проспектор",
+   "text": "「Да.」",
+   "orig": "Prospector\n「Yeah.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Акацуки",
+   "text": "「По-моему, исправить то, в чём мы увязли,\n　можно лишь разрушив мир и начав заново.」",
+   "orig": "Akatsuki\n「I think the only way to fix where we find ourselves\n　is to destroy the world and start over.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Проспектор",
+   "text": "「Вы о мировом господстве?」",
+   "orig": "Prospector\n「Are you talking world domination?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Акацуки",
+   "text": "「Вы меня вообще слушали?\n　Я же сказал, что я реалист.」",
+   "orig": "Akatsuki\n「Weren't you listening?\n　I told you I'm a realist.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Акацуки",
+   "text": "「А потому и подход у меня будет реалистичный.\n　Хитрость, до которой ни один герой не додумается.」",
+   "orig": "Akatsuki\n「And that's why I'll take a realistic approach.\n　Trickery that no hero would think to employ.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Проспектор",
+   "text": "「Кстати, а где вы взяли этот наряд?」",
+   "orig": "Prospector\n「Where did you get that clothing, by the way?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Акацуки",
+   "text": "「Недурно, да?\n　Держу его для особых случаев.」",
+   "orig": "Akatsuki\n「Not bad, huh?\n　I keep it around for special occasions.」"
+  },
+  {
+   "i": 59,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Ангар «Туата де Данаан»-",
+   "orig": "　\n　\n　　　　　　　　　-Tuatha de Danaan Hangar-"
+  },
+  {
+   "i": 60,
+   "speaker": "Майто",
+   "text": "「А меня здорово удивило, что\n　«Туата де Данаан» может ходить и в космосе.」",
+   "orig": "Maito\n「But I was really surprised to hear that the\n　Tuatha de Danaan can navigate space.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Курц",
+   "text": "「В нашем мире бои идут\n　и в атмосфере,\n　и вне её.」",
+   "orig": "Kurz\n「In our world,\n　battles take place in both atmospheric\n　and non-atmospheric conditions.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Соскэ",
+   "text": "「Изначально «Данаан» строили как подлодку,\n　а уже потом доработали для полётов в космос.」",
+   "orig": "Sousuke\n「Danaan was initially designed to be a submarine\n　and then later modded for space flight.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Мао",
+   "text": "「Но раз в космосе его применять не собирались,\n　на подготовку к выходу уходит уйма времени.」",
+   "orig": "Mao\n「But because it originally couldn't be used in space,\n　it takes a lot of prep to get it up there.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Майто",
+   "text": "「Строить корабли «Нергал» умеет лучше всех.\n　Мы не ошиблись, доверив работу им.」",
+   "orig": "Maito\n「Battleship building is where Nergal excels.\n　We were right to ask them to handle this.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Мао",
+   "text": "「Хотя Тэсса, пожалуй, с этим бы поспорила.」",
+   "orig": "Mao\n「Tessa might be inclined to disagree, though.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Майто",
+   "text": "「Это из-за президента Акацуки?」",
+   "orig": "Maito\n「Is it because of President Akatsuki?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тэсса",
+   "text": "「Да, более или менее.」",
+   "orig": "Tessa\n「Yeah, more or less.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Мао",
+   "text": "「По словам коммандера Мардукаса,\n　он придумает любой повод, лишь бы позвать\n　вас на свидание, и отказов не принимает.」",
+   "orig": "Mao\n「According to Commander Mardukas,\n　he'll come up with any and every reason to ask\n　you on a date and doesn't take rejection lightly.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Майто",
+   "text": "「Он, я смотрю, совсем не меняется.」",
+   "orig": "Maito\n「He's the same as ever, I see.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Тэсса",
+   "text": "「Зато благодаря этому\n　мы вышли в открытый космос.」",
+   "orig": "Tessa\n「But at least it's allowed us\n　to get into outer space.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Тэсса",
+   "text": "「Отсюда по-настоящему понимаешь,\n　до чего же Земля голубая.」",
+   "orig": "Tessa\n「From here, I can really appreciate\n　just how blue the Earth really is.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Канамэ",
+   "text": "「И не говори.\n　Сразу ясно, почему её зовут водной планетой.」",
+   "orig": "Kaname\n「You said it.\n　It's not hard to see why it's called the water star.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Тэсса",
+   "text": "「Я рада, что «Туата де Данаан» дал мне\n　возможность увидеть глубокую синеву морей.」",
+   "orig": "Tessa\n「I'm glad that the Tuatha de Danaan gave\n　me a chance to see the deep blue seas.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Канамэ",
+   "text": "「Да?」",
+   "orig": "Kaname\n「Yeah?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Тэсса",
+   "text": "「«Туата де Данаан» — это попытка вернуть\n　стратегическую ценность морю и другим средам,\n　которые человечество почти забросило.」",
+   "orig": "Tessa\n「The Tuatha de Danaan is an attempt to return\n　strategic value to the sea and other environments\n　that have been all but abandoned by humankind.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тэсса",
+   "text": "「Возможно, затевая проект, его создатель\n　думал в том числе и о прошлом.」",
+   "orig": "Tessa\n「The individual who launched the project maybe\n　even considered the past in its conception.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Канамэ",
+   "text": "「Возможно, ты и права.」",
+   "orig": "Kaname\n「You might be right about that.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Майто",
+   "text": "（Я слышал, что в мирах Джудо и «Мифрила»\n　моря красного цвета.）",
+   "orig": "Maito\n（I heard that the seas are red\n　in Judau and Mithril's worlds.）"
+  },
+  {
+   "i": 79,
+   "speaker": "Майто",
+   "text": "（Глядя на них вот так, очень тяжело\n　заводить об этом разговор.）",
+   "orig": "Maito\n（Seeing them like this makes it\n　really hard to dig any deeper.）"
+  },
+  {
+   "i": 80,
+   "speaker": "Розали",
+   "text": "「Нет, серьёзно.\n　Думаете, Пара-Мейлы и правда сгодятся в космосе?」",
+   "orig": "Rosalie\n「But seriously.\n　You really think Para-Mail can work in space?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Сакс",
+   "text": "「Не волнуйся.\n　«Сэмпудзи Хэви Индастриз» не покладая рук\n　добивались полной герметичности кокпитов.」",
+   "orig": "Sacks\n「Not to worry.\n　Senpuji Heavy Industries has been working\n　tirelessly to make sure the cockpits are airtight.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Сакс",
+   "text": "「Хотя, говорят, большую часть работы\n　сделали подрядчики.」",
+   "orig": "Sacks\n「Though I heard most of the work\n　was done by subcontractors.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Розали",
+   "text": "「И ты уверен, что всё будет нормально?」",
+   "orig": "Rosalie\n「Are you sure it's gonna be OK?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Сакс",
+   "text": "「Говорят, мастерские там толковые.\n　И связаны со старой командой «Надэсико».」",
+   "orig": "Sacks\n「I've heard that the smaller workshops are good.\n　And that they're connect to old Nadesico members.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Крис",
+   "text": "「А если по нам ударят и\n　в кокпите появятся дыры?」",
+   "orig": "Chris\n「But what if we're attacked and\n　holes open up in the cockpit?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Хильда",
+   "text": "「Помрём, не успев понять, что случилось.」",
+   "orig": "Hilda\n「We'll be dead before we know what hit us.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Крис",
+   "text": "「Ох нет!」",
+   "orig": "Chris\n「Oh no!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Салия",
+   "text": "「Хильда!\n　Выбирай, пожалуйста, выражения!」",
+   "orig": "Salia\n「Hilda!\n　Please watch what you say!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Хильда",
+   "text": "「Ну а разве не правда?\n　К тому же это касается\n　не только космических боёв.」",
+   "orig": "Hilda\n「Well, it's the truth, ain't it?\n　But it's not like it's limited\n　to space battles, either.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Хильда",
+   "text": "「Мы уже видели, чем кончается драка\n　с Драконами в небронированных кокпитах.」",
+   "orig": "Hilda\n「We've seen what can happen when you\n　fight against Dragons in unarmored cockpits.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Эрша",
+   "text": "「Если подумать, ты права.」",
+   "orig": "Ersha\n「Now that I think about it, you're right.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Вивиан",
+   "text": "「Но нет ничего приятнее,\n　чем ветер в полёте!」",
+   "orig": "Vivian\n「But nothing feels better than\n　the wind while in flight!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Хильда",
+   "text": "「Мораль проста: там, наверху,\n　жизни нас, норм, не ставят\n　ни во что.」",
+   "orig": "Hilda\n「The moral of the story\n　is that those at the top don't place much\n　value on the lives of us Normas.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Тэсса",
+   "text": "「Знаете, вы вправе не участвовать\n　в предстоящей операции.」",
+   "orig": "Tessa\n「You know, it's OK if you don't want to\n　be a part the upcoming operation.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Хильда",
+   "text": "「Гляди-ка, наш доблестный капитан.」",
+   "orig": "Hilda\n「Well if it isn't our valiant captain.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Тэсса",
+   "text": "「Раз вас нанял «Селестиал Бин»,\n　вы, 1-я эскадрилья Пара-Мейлов,\n　стали частью наших сил.」",
+   "orig": "Tessa\n「Having been employed by Celestial Being,\n　you in the 1st Para-Mail Squadron\n　have become a part of our force.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тэсса",
+   "text": "「Но я уверена, что контракт даёт вам\n　право отказаться от некоторых приказов.」",
+   "orig": "Tessa\n「However, I'm sure your contract gives\n　you the right to refuse certain orders.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Розали",
+   "text": "「Да ну? Неужели?」",
+   "orig": "Rosalie\n「Oh? You don't say?」"
+  },
+  {
+   "i": 99,
+   "speaker": "Крис",
+   "text": "「Тогда, пожалуй, вопрос решён.」",
+   "orig": "Chris\n「I guess that settles it then.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Анж",
+   "text": "「Я участвую.」",
+   "orig": "Ange\n「I'm in.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Момока",
+   "text": "「Анжелиза?」",
+   "orig": "Momoka\n「Angelise?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Анж",
+   "text": "「Хильда.\n　Ты только что сказала, что наверху\n　наши жизни ни во что не ставят.」",
+   "orig": "Ange\n「Hilda.\n　You just said that those at the top\n　don't place much value on our lives.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Хильда",
+   "text": "「И что с того?」",
+   "orig": "Hilda\n「What of it?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Анж",
+   "text": "「Не знаю, как к этому относятся другие,\n　но я свою жизнь ценю очень высоко.」",
+   "orig": "Ange\n「I don't know how others feel about that,\n　but I do place a lot of value on my life.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Анж",
+   "text": "「Потому я и поклялась выжить.\n　И драться во что бы то ни стало.」",
+   "orig": "Ange\n「And that's why I swore to survive.\n　And fight no matter what.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Салия",
+   "text": "「Анж.」",
+   "orig": "Salia\n「Ange.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Анж",
+   "text": "「А знаете, что это ещё значит?\n　Если никто из вас не явится,\n　вся награда достанется мне.」",
+   "orig": "Ange\n「And you know what that also means.\n　If none of you show up, all of the rewards\n　are as good as mine.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Крис",
+   "text": "「П-погоди-ка!」",
+   "orig": "Chris\n「H-hold on a second!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Розали",
+   "text": "「Так нечестно!」",
+   "orig": "Rosalie\n「That's not fair!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Тэсса",
+   "text": "「Значит, будем драться вместе.\n　Все до единой.」",
+   "orig": "Tessa\n「Then let's fight together.\n　All of us.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Салия",
+   "text": "「Капитан Тестаросса права.\n　Мы должны держаться вместе,\n　если хотим вернуться в «Арсенал» живыми.」",
+   "orig": "Salia\n「Captain Testarossa is right.\n　We have to band together if we\n　hope to return to Arzenal alive.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Вивиан",
+   "text": "「Так точно!」",
+   "orig": "Vivian\n「Yes, ma'am!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Эрша",
+   "text": "「Огромное спасибо, капитан Тестаросса.\n　Ваши слова — именно то, что нужно было Салии.」",
+   "orig": "Ersha\n「Thank you so much, Captain Testarossa.\n　Your words were exactly what Salia needed.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Тэсса",
+   "text": "「Волнуются все.\n　Будем драться вместе — вместе и выживем.」",
+   "orig": "Tessa\n「Everybody is nervous.\n　Fight together, and we survive together.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Вивиан",
+   "text": "「Вы такая добрая, капитан Тэсса.\n　Вот бы вы были вместо Джилл и нашей командующей.」",
+   "orig": "Vivian\n「You're so kind, Captain Tessa.\n　I wish you could replace Jill and our commander.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Анж",
+   "text": "「Для начала пусть займёт место ворчливой\n　Салии во главе нашей эскадрильи.」",
+   "orig": "Ange\n「She could start by replacing that grumpy\n　Salia as captain of our squadron.」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「В каком смысле?」",
+   "orig": "$n\n「What do you mean?」"
+  },
+  {
+   "i": 118,
+   "speaker": "Курц",
+   "text": "「То есть Тэсса наденет ваш лётный костюм?」",
+   "orig": "Kurz\n「So Tessa would be wearing your rider suits?」"
+  },
+  {
+   "i": 119,
+   "speaker": "Сабуроута",
+   "text": "「Вот это я поддерживаю!」",
+   "orig": "Saburouta\n「I can get behind that!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Хильда",
+   "text": "「А вас вообще кто-нибудь спрашивал?」",
+   "orig": "Hilda\n「Who the hell asked you anyway?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Тэцуя",
+   "text": "「Они, похоже, расслабились.」",
+   "orig": "Tetsuya\n「They seem relaxed.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Майто",
+   "text": "「Уверен, она как раз и хотела\n　снять с них напряжение.」",
+   "orig": "Maito\n「I'm sure she was trying\n　to ease their tension.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Тэцуя",
+   "text": "「В космическом бою — невесомость,\n　и враг заходит со всех сторон разом.\n　Не забывай об этом, Майто.」",
+   "orig": "Tetsuya\n「When fighting in space,\n　it's zero-G and enemies coming from all directions.\n　And don't you forget it, Maito.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Майто",
+   "text": "「Понял!\n　Спасибо, Тэцуя.」",
+   "orig": "Maito\n「Got it!\n　Thank you, Tetsuya.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Джудо",
+   "text": "「Найдётся минутка, Тэцуя?」",
+   "orig": "Judau\n「Can I have a minute, Tetsuya?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тэцуя",
+   "text": "「Что такое, Джудо?」",
+   "orig": "Tetsuya\n「What is it, Judau?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Джудо",
+   "text": "「Тебе знаком «Мазингер Зет»?」",
+   "orig": "Judau\n「Do you know of the Mazinger Z?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Тэцуя",
+   "text": "「Нет.\n　Хотя название похоже на «Грейта».」",
+   "orig": "Tetsuya\n「I don't.\n　But its name resembles that of Great.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Элль",
+   "text": "「Ну вот, пожалуйста!\n　Простое совпадение!」",
+   "orig": "Elle\n「There you have it!\n　It's just a coincidence!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Джудо",
+   "text": "「Но Тэцуя потерял память,\n　так что, может, он просто забыл.」",
+   "orig": "Judau\n「But Tetsuya lost his memory,\n　so maybe he's just forgotten.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Элль",
+   "text": "「Хм. Пожалуй, тут ты прав.」",
+   "orig": "Elle\n「Hmm. I guess you've got a point.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Бича",
+   "text": "「«Гандамы» существуют\n　и в мире Тобиа, и в этом.\n　С «Мазингером» может быть так же.」",
+   "orig": "Beecha\n「Gundams exist both\n　in Tobia's world and this one.\n　Mazinger may be no different.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Джудо",
+   "text": "「И такое возможно.」",
+   "orig": "Judau\n「That's another possibility.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Тэцуя",
+   "text": "「Выходит, «Мазингер Зет» —\n　робот из вашего мира.」",
+   "orig": "Tetsuya\n「I suppose that Mazinger Z\n　is a robot from your world then.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Тэцуя",
+   "text": "「Сейчас я занят заданием,\n　но, как всё утихнет, расскажешь подробнее.」",
+   "orig": "Tetsuya\n「I'm busy with a mission right now\n　but tell me more when things quiet down.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Джудо",
+   "text": "「Ладно. Хорошо.」",
+   "orig": "Judau\n「OK. Sure.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Лотти",
+   "text": "「Тэцуя всегда невозмутим как скала.\n　Меня это не перестаёт поражать.」",
+   "orig": "Lottie\n「Tetsuya is always cool as cucumber.\n　It never ceases to amaze me.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Вельт",
+   "text": "「Хотя как знать.\n　Вполне возможно, что с возвращением памяти\n　он станет совсем другим человеком.」",
+   "orig": "Velt\n「You never know though.\n　It's possible that he'll be a completely\n　different person with his memory back.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Лотти",
+   "text": "「Вдруг он окажется на удивление весёлым.」",
+   "orig": "Lottie\n「Perhaps he'll prove surprisingly playful.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Вельт",
+   "text": "「Вот этого я совсем не представляю.」",
+   "orig": "Velt\n「I just can't imagine that.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Вельт",
+   "text": "「Что такое, Найн?」",
+   "orig": "Velt\n「What is it, Nine?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Найн",
+   "text": "「Неважно. Ничего.」",
+   "orig": "Nine\n「Never mind. It's nothing.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 148,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Коридор «Туата де Данаан»-",
+   "orig": "　\n　　\n　　　　　　　　-Tuatha de Danaan Passage-"
+  },
+  {
+   "i": 149,
+   "speaker": "$n",
+   "text": "「То есть ты думаешь, что Тэцуя\n　что-то скрывает?」",
+   "orig": "$n\n「So you think that Tetsuya\n　is hiding something?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yes.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Найн",
+   "text": "「На лице Тэцуи промелькнула слабая реакция,\n　когда прозвучало название «Мазингер Зет».」",
+   "orig": "Nine\n「Their was a faint reaction on Tetusya's face\n　when the \"Mazinger Z\" was mentioned.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Найн",
+   "text": "「Я начинаю сомневаться, действительно ли\n　он потерял память.」",
+   "orig": "Nine\n「I'm starting to wonder whether or not\n　he's actually lost his memory.」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Ясно.」",
+   "orig": "$n\n「I see.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Найн",
+   "text": "「Укажите, как действовать дальше, кэп.」",
+   "orig": "Nine\n「Please instruct me on how to proceed, Cap.」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「Для начала — никому ни слова об этом.」",
+   "orig": "$n\n「For starters, tell no one what you just told me.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Найн",
+   "text": "「Почему?\n　Нужно доложить капитану Рури или Сумераги,\n　чтобы за ним следили или приняли меры.」",
+   "orig": "Nine\n「Why not?\n　We should report to Captain Ruri or Sumeragi\n　to have him monitored or otherwise dealt with.」"
+  },
+  {
+   "i": 157,
+   "speaker": "$n",
+   "text": "「Оставь это.\n　У каждого найдётся пара-тройка тайн.」",
+   "orig": "$n\n「Let it go.\n　Everyone has at least one or two secrets.」"
+  },
+  {
+   "i": 158,
+   "speaker": "$n",
+   "text": "「Как бы там ни было,\n　мы точно знаем, что он нам не враг.\n　И этого достаточно.」",
+   "orig": "$n\n「If nothing else,\n　we can at least tell that he's not the enemy.\n　And that's enough.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Найн",
+   "text": "「Такая нелогичность мне непостижима.」",
+   "orig": "Nine\n「I can't comprehend such illogical thinking.」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Подозрение тянет за собой новое подозрение.\n　Сейчас нам это совсем ни к чему.」",
+   "orig": "$n\n「Suspicion leads to more suspicion.\n　That's not what we need right now.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Найн",
+   "text": "「Мы в разгаре важной операции.\n　Нужно устранять любые сомнения, если это\n　хоть немного снижает риск.」",
+   "orig": "Nine\n「We're in the middle of an important mission.\n　We should quell any and all concerns if it\n　means even a slight reduction in risk.」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Риск, говоришь.\n　Разве хранить свои тайны — преступление?」",
+   "orig": "$n\n「Risk, you say.\n　I wonder if closely guarded secrets are a crime.」"
+  },
+  {
+   "i": 163,
+   "speaker": "$n",
+   "text": "「Если так, то я виновен(на) не меньше его.」",
+   "orig": "$n\n「Because if they are, I'm just as guilty as he is.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Найн",
+   "text": "「У вас есть тайны, кэп?」",
+   "orig": "Nine\n「You've got secrets, Cap?」"
+  },
+  {
+   "i": 165,
+   "speaker": "$n",
+   "text": "「А что, ты знаешь обо мне всё?」",
+   "orig": "$n\n「Well, do you know everything about me?」"
+  },
+  {
+   "i": 166,
+   "speaker": "Найн",
+   "text": "「Нет, не всё.」",
+   "orig": "Nine\n「No, I don't.」"
+  },
+  {
+   "i": 167,
+   "speaker": "$n",
+   "text": "「Тогда позволь спросить.\n　Разве не ложь, что человеческий облик тебе\n　дали ради удобства общения?」",
+   "orig": "$n\n「Then let me ask you.\n　Is it a lie that you were given human form\n　for the sake of communication?」"
+  },
+  {
+   "i": 168,
+   "speaker": "Найн",
+   "text": "「Вы правда считаете, что ИИ умеет лгать?」",
+   "orig": "Nine\n「Do you really think AI can lie?」"
+  },
+  {
+   "i": 169,
+   "speaker": "$n",
+   "text": "「Твой ИИ ведь незаурядный, не так ли?」",
+   "orig": "$n\n「Your AI is exceptional, is it not?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Найн",
+   "text": "「И это вы говорите именно сейчас!」",
+   "orig": "Nine\n「Of all the times for you to say that!」"
+  },
+  {
+   "i": 171,
+   "speaker": "$n",
+   "text": "「Разговор окончен.\n　Не подозревай своих без доказательств.」",
+   "orig": "$n\n「This discussion is over.\n　Don't suspect an ally without evidence.」"
+  },
+  {
+   "i": 172,
+   "speaker": "$n",
+   "text": "「Это лишь будет точить тебя изнутри.」",
+   "orig": "$n\n「It'll only eat you up inside.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Найн",
+   "text": "「Но ведь!」",
+   "orig": "Nine\n「But!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Найн",
+   "text": "「Что такое?」",
+   "orig": "Nine\n「What is it?」"
+  },
+  {
+   "i": 175,
+   "speaker": "$n",
+   "text": "「Атака снаружи!」",
+   "orig": "$n\n「An attack from outside!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Найн",
+   "text": "「Но о приближении врага не было ни слова!」",
+   "orig": "Nine\n「But we heard nothing about incoming enemies!」"
+  },
+  {
+   "i": 177,
+   "speaker": "$n",
+   "text": "「Если против нас Марсианские преемники,\n　они умеют мгновенно покрывать любые расстояния.」",
+   "orig": "$n\n「If our adversaries are the Martian Successors,\n　they're able to move long distances instantly.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Найн",
+   "text": "「Бозонные прыжки.」",
+   "orig": "Nine\n「Boson Jumps.」"
+  },
+  {
+   "i": 182,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Ангар «Птолемея 2 Кастом»-",
+   "orig": "　\n　　\n　　　　　　　-Ptolemaios 2 Custom Hangar-"
+  },
+  {
+   "i": 183,
+   "speaker": "Вельт",
+   "text": "「Невероятно.\n　Как «Ямато» мог попасть в руки Марсианских преемников?」",
+   "orig": "Velt\n「Unbelievable.\n　How could Yamato fall into the Martian Successors' hands?」"
+  },
+  {
+   "i": 184,
+   "speaker": "Тэцуя",
+   "text": "「Может, их одолели тактикой бозонных прыжков?」",
+   "orig": "Tetsuya\n「Maybe it was defeated with Boson Jump tactics?」"
+  },
+  {
+   "i": 185,
+   "speaker": "Кинкейд",
+   "text": "「Это, бесспорно, сыграло свою роль.」",
+   "orig": "Kincade\n「That was certainly a factor.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Рёма",
+   "text": "「Но у того, что «Ямато» не смог дать отпор, есть причина.」",
+   "orig": "Ryoma\n「But there's a reason Yamato was unable to resist.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Тобиа",
+   "text": "「Какая причина?」",
+   "orig": "Tobia\n「What reason?」"
+  },
+  {
+   "i": 188,
+   "speaker": "Кодай",
+   "text": "「Командир Окита слёг.」",
+   "orig": "Kodai\n「Commander Okita collapsed.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Лотти",
+   "text": "「Что?」",
+   "orig": "Lottie\n「Huh?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Тэцуя",
+   "text": "「Я слышал, он был совсем плох\n　ещё с боя у Глизе.」",
+   "orig": "Tetsuya\n「I heard he'd been in bad shape\n　since the battle at Gliese.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Мори",
+   "text": "「Думаю, телепортация тоже сказалась на нём.\n　Ровно в тот миг, когда Марсианские преемники нас окружили,\n　ему потребовалась экстренная операция.」",
+   "orig": "Mori\n「I think the teleportation affected him as well.\n　Just as the Martian Successors surrounded us,\n　he found himself in need of emergency surgery.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Кодай",
+   "text": "「Понимая, насколько всё серьёзно,\n　старший офицер Санада решил подчиниться требованиям\n　Марсианских преемников и прекратить сопротивление.」",
+   "orig": "Kodai\n「Grasping the severity of the situation,\n　Executive Officer Sanada decided to follow the Martian\n　Successors' instructions and stop resisting.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Тобиа",
+   "text": "「Но они же собираются свергнуть\n　существующий строй террором!」",
+   "orig": "Tobia\n「But they're planning to use\n　terror to overthrow society!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Кинкейд",
+   "text": "「Успокойся, Тобиа.\n　Мы и сами никогда не жаловали тех,\n　кто зовёт к сотрудничеству под дулом ствола.」",
+   "orig": "Kincade\n「Calm down, Tobia.\n　We've never been fans of guys who\n　urge us to cooperate at gunpoint.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Кодай",
+   "text": "「Но «Ямато» получил серьёзные\n　повреждения из-за телепортации.」",
+   "orig": "Kodai\n「But Yamato suffered considerable\n　damage due to the teleportation.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Кодай",
+   "text": "「Операция командира и ремонт «Ямато».\n　Нам просто нужно было больше времени.」",
+   "orig": "Kodai\n「The commander's surgery and Yamato's repairs.\n　We just needed more time.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Сумераги",
+   "text": "「Но разве Марсианские преемники\n　захватили «Ямато» не затем, чтобы сделать его\n　частью собственного флота?」",
+   "orig": "Sumeragi\n「But didn't the Martian Successors\n　seize the Yamato in the hope of making it\n　a part of their own fighting force?」"
+  },
+  {
+   "i": 198,
+   "speaker": "Мори",
+   "text": "「Офицер Санада предполагал именно это,\n　поэтому сговорился с инженерным офицером\n　и преувеличил тяжесть повреждений.」",
+   "orig": "Mori\n「Officer Sanada assumed that would be the case,\n　so he had a meeting with the engineering officer\n　and exaggerated the severity of the damage.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Рёма",
+   "text": "「Вот кто умеет сохранять хладнокровие.\n　Пригрозил, что если полезут, снесёт соседние объекты, —\n　и они не рискнули подходить ближе.」",
+   "orig": "Ryoma\n「That man really knows how to keep his cool.\n　He threatened to obliterate nearby facilities if bothered,\n　and that prevented them from coming closer.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Кодай",
+   "text": "「Ещё он обещал, что после ремонта мы начнём сотрудничать.\n　Это не только отвадило их от вмешательства —\n　они заперли корабль, будто он заразный.」",
+   "orig": "Kodai\n「He also said we'd cooperate after completing repairs.\n　This not only prevented them from meddling,\n　it also caused them to confine it as if it were diseased.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Мори",
+   "text": "「С тех пор командир поправился\n　и вернулся в строй.」",
+   "orig": "Mori\n「The commander has since recovered\n　and returned to active duty.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Тэцуя",
+   "text": "「Ясно.\n　Так вот почему вы перешли в контрнаступление.」",
+   "orig": "Tetsuya\n「I see.\n　So that's why you've begun a counterattack.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Вельт",
+   "text": "「Но всё ли в порядке?\n　Разве отсутствие таких ключевых людей, как лейтенант Кодай,\n　не ставит «Ямато» в невыгодное положение?」",
+   "orig": "Velt\n「But is everything really OK?\n　Doesn't the absence of key people like Lt. Kodai\n　put the Yamato at a disadvantage?」"
+  },
+  {
+   "i": 204,
+   "speaker": "Кинкейд",
+   "text": "「Не проблема.」",
+   "orig": "Kincade\n「Not a problem.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Кодай",
+   "text": "「Мы попытались отбить «Ямато».\n　На ключевых постах были наши люди.」",
+   "orig": "Kodai\n「We took action to retake the Yamato.\n　Had insurgents at key posts.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Рёма",
+   "text": "「Но план провалился, и пришлось уходить.」",
+   "orig": "Ryoma\n「But we had to flee after the plan failed.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Тобиа",
+   "text": "「Рёма спешит на помощь с порцией суровой правды.」",
+   "orig": "Tobia\n「Ryoma to the rescue with a dose of reality.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Рёма",
+   "text": "「Прелестно сказано, Тобиа.\n　Вот только именно мне доверили\n　передать сообщение от Бернадетт.」",
+   "orig": "Ryoma\n「Lovely choice of wording, Tobia.\n　But it's me of all people who was entrusted\n　with a message from Bernadette.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Тобиа",
+   "text": "「А-а!\n　Даже не знаю, как к этому относиться!」",
+   "orig": "Tobia\n「Ahh!\n　Not sure how I feel about that!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Кинкейд",
+   "text": "「При такой заварухе на Аматэрасу\n　мы ждали Земную Федерацию,\n　но уж точно не вас.」",
+   "orig": "Kincade\n「With all the trouble on Amaterasu,\n　we figured the Earth Federation would come,\n　but we never expected you guys.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Лотти",
+   "text": "「У нас своих передряг хватало.」",
+   "orig": "Lottie\n「We've had our own share of difficulties.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Сумераги",
+   "text": "「Но останавливаться нельзя.\n　Марсианские преемники знают, что мы рядом.」",
+   "orig": "Sumeragi\n「But we can't stop now.\n　The Martian Successors know we're close.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Рури",
+   "text": "「Раз у него есть «Ямато»,\n　вряд ли он уведёт штаб с Аматэрасу.\n　Скорее всего, стянет туда ближайшие силы.」",
+   "orig": "Ruri\n「With Yamato,\n　I doubt he'll move his HQ from Amaterasu.\n　He'll probably assemble nearby forces.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Рури",
+   "text": "「Если не будем осторожны, нам придётся драться\n　со всем, что есть у Марсианских преемников.」",
+   "orig": "Ruri\n「If we're not careful, we could end up against\n　everything the Martian Successors have.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Сумераги",
+   "text": "「И что же нам делать?」",
+   "orig": "Sumeragi\n「So what do we do?」"
+  },
+  {
+   "i": 216,
+   "speaker": "Рури",
+   "text": "「Возможно, придётся пустить в ход козырь.」",
+   "orig": "Ruri\n「We might need to use our secret weapon.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Кодай",
+   "text": "「Мы с радостью поможем с планом\n　по захвату Аматэрасу.」",
+   "orig": "Kodai\n「We would love to help with the plan\n　to capture Amaterasu.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Сумераги",
+   "text": "「С планом?」",
+   "orig": "Sumeragi\n「Plan?」"
+  },
+  {
+   "i": 219,
+   "speaker": "Мори",
+   "text": "「Да, именно ради этого я и собрала эту группу.」",
+   "orig": "Mori\n「Yes, I've added this group for that very purpose.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Тобиа",
+   "text": "「Невероятно.\n　Как «Ямато» мог попасть в руки Марсианских преемников?」",
+   "orig": "Tobia\n「Unbelievable.\n　How could Yamato fall into the Martian Successors' hands?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Тэцуя",
+   "text": "「Может, их одолели тактикой бозонных прыжков?」",
+   "orig": "Tetsuya\n「Maybe it was defeated with Boson Jump tactics?」"
+  },
+  {
+   "i": 222,
+   "speaker": "Кинкейд",
+   "text": "「Это, бесспорно, сыграло свою роль.」",
+   "orig": "Kincade\n「That was certainly a factor.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Рёма",
+   "text": "「Но у того, что «Ямато» не смог дать отпор, есть причина.」",
+   "orig": "Ryoma\n「But there's a reason Yamato was unable to resist.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Тобиа",
+   "text": "「Какая причина?」",
+   "orig": "Tobia\n「What reason?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Кодай",
+   "text": "「Командир Окита слёг.」",
+   "orig": "Kodai\n「Commander Okita collapsed.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Тобиа",
+   "text": "「Что?」",
+   "orig": "Tobia\n「Huh?」"
+  },
+  {
+   "i": 227,
+   "speaker": "Тэцуя",
+   "text": "「Я слышал, он был совсем плох\n　ещё с боя у Глизе.」",
+   "orig": "Tetsuya\n「I heard he'd been in bad shape\n　since the battle at Gliese.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Мори",
+   "text": "「Думаю, телепортация тоже сказалась на нём.\n　Ровно в тот миг, когда Марсианские преемники нас окружили,\n　ему потребовалась экстренная операция.」",
+   "orig": "Mori\n「I think the teleportation affected him as well.\n　Just as the Martian Successors surrounded us,\n　he found himself in need of emergency surgery.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Кодай",
+   "text": "「Понимая, насколько всё серьёзно,\n　старший офицер Санада решил подчиниться требованиям\n　Марсианских преемников и прекратить сопротивление.」",
+   "orig": "Kodai\n「Grasping the severity of the situation,\n　Executive Officer Sanada decided to follow the Martian\n　Successors' instructions and stop resisting.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Тобиа",
+   "text": "「Но они же собираются свергнуть\n　существующий строй террором!」",
+   "orig": "Tobia\n「But they're planning to use\n　terror to overthrow society!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Кинкейд",
+   "text": "「Успокойся, Тобиа.\n　Мы и сами никогда не жаловали тех,\n　кто зовёт к сотрудничеству под дулом ствола.」",
+   "orig": "Kincade\n「Calm down, Tobia.\n　We've never been fans of guys who\n　urge us to cooperate at gunpoint.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Кодай",
+   "text": "「Но «Ямато» получил серьёзные\n　повреждения из-за телепортации.」",
+   "orig": "Kodai\n「But Yamato suffered considerable\n　damage due to the teleportation.」"
+  },
+  {
+   "i": 233,
+   "speaker": "Кодай",
+   "text": "「Операция командира и ремонт «Ямато».\n　Нам просто нужно было больше времени.」",
+   "orig": "Kodai\n「The commander's surgery and Yamato's repairs.\n　We just needed more time.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Сумераги",
+   "text": "「Но разве Марсианские преемники\n　захватили «Ямато» не затем, чтобы сделать его\n　частью собственного флота?」",
+   "orig": "Sumeragi\n「But didn't the Martian Successors\n　seize the Yamato in the hope of making it\n　a part of their own fighting force?」"
+  },
+  {
+   "i": 235,
+   "speaker": "Мори",
+   "text": "「Офицер Санада предполагал именно это,\n　поэтому сговорился с инженерным офицером\n　и преувеличил тяжесть повреждений.」",
+   "orig": "Mori\n「Officer Sanada assumed that would be the case,\n　so he had a meeting with the engineering officer\n　and exaggerated the severity of the damage.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Рёма",
+   "text": "「Вот кто умеет сохранять хладнокровие.\n　Пригрозил, что если полезут, снесёт соседние объекты, —\n　и они не рискнули подходить ближе.」",
+   "orig": "Ryoma\n「That man really knows how to keep his cool.\n　He threatened to obliterate nearby facilities if bothered\n　and that prevented them from coming closer.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Кодай",
+   "text": "「Ещё он обещал, что после ремонта мы начнём сотрудничать.\n　Это не только отвадило их от вмешательства —\n　они заперли корабль, будто он заразный.」",
+   "orig": "Kodai\n「He also said we'd cooperate after completing repairs.\n　This not only prevented them from meddling,\n　it also caused them to confine it as if it were diseased.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Мори",
+   "text": "「С тех пор командир поправился\n　и вернулся в строй.」",
+   "orig": "Mori\n「The commander has since recovered\n　and returned to active duty.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Тэцуя",
+   "text": "「Ясно.\n　Так вот почему вы перешли в контрнаступление.」",
+   "orig": "Tetsuya\n「I see.\n　So that's why you've begun a counterattack.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Тобиа",
+   "text": "「Но всё ли в порядке?\n　Разве отсутствие таких ключевых людей, как лейтенант Кодай,\n　не ставит «Ямато» в невыгодное положение?」",
+   "orig": "Tobia\n「But is everything really OK?\n　Doesn't the absence of key people like Lt. Kodai\n　put the Yamato at a disadvantage?」"
+  },
+  {
+   "i": 241,
+   "speaker": "Кинкейд",
+   "text": "「Не проблема.」",
+   "orig": "Kincade\n「Not a problem.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Кодай",
+   "text": "「Мы попытались отбить «Ямато».\n　На ключевых постах были наши люди.」",
+   "orig": "Kodai\n「We took action to retake Yamato.\n　Had insurgents at key posts.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Рёма",
+   "text": "「Но план провалился, и пришлось уходить.」",
+   "orig": "Ryoma\n「But we had to flee after the plan failed.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Тобиа",
+   "text": "「Рёма спешит на помощь с порцией суровой правды.」",
+   "orig": "Tobia\n「Ryoma to the rescue with a dose of reality.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Рёма",
+   "text": "「Прелестно сказано, Тобиа.\n　Вот только именно мне доверили\n　передать сообщение от Бернадетт.」",
+   "orig": "Ryoma\n「Lovely choice of wording, Tobia.\n　But it's me of all people who was entrusted\n　with a message from Bernadette.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Тобиа",
+   "text": "「А-а!\n　Даже не знаю, как к этому относиться!」",
+   "orig": "Tobia\n「Ahh!\n　Not sure how I feel about that!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Кинкейд",
+   "text": "「При такой заварухе на Аматэрасу\n　мы ждали Земную Федерацию,\n　но уж точно не вас.」",
+   "orig": "Kincade\n「With all the trouble on Amaterasu,\n　we figured the Earth Federation would come,\n　but we never expected you guys.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Тобиа",
+   "text": "「У нас своих передряг хватало.」",
+   "orig": "Tobia\n「We've had our own share of difficulties.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Сумераги",
+   "text": "「Но останавливаться нельзя.\n　Марсианские преемники знают, что мы рядом.」",
+   "orig": "Sumeragi\n「But we can't stop now.\n　The Martian Successors know we're close.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Рури",
+   "text": "「Раз у него есть «Ямато»,\n　вряд ли он уведёт штаб с Аматэрасу.\n　Скорее всего, стянет туда ближайшие силы.」",
+   "orig": "Ruri\n「With Yamato,\n　I doubt he'll move his HQ from Amaterasu.\n　He'll probably assemble nearby forces.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Рури",
+   "text": "「Если не будем осторожны, нам придётся драться\n　со всем, что есть у Марсианских преемников.」",
+   "orig": "Ruri\n「If we're not careful, we could end up against\n　everything the Martian Successors have.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Сумераги",
+   "text": "「И что же нам делать?」",
+   "orig": "Sumeragi\n「So what do we do?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Рури",
+   "text": "「Возможно, придётся пустить в ход козырь.」",
+   "orig": "Ruri\n「We might need to use our secret weapon.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Кодай",
+   "text": "「Мы с радостью поможем с планом\n　по захвату Аматэрасу.」",
+   "orig": "Kodai\n「We would love to help with the plan\n　to capture Amaterasu.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Сумераги",
+   "text": "「С планом?」",
+   "orig": "Sumeragi\n「Plan?」"
+  },
+  {
+   "i": 256,
+   "speaker": "Мори",
+   "text": "「Да, именно ради этого я и собрала эту группу.」",
+   "orig": "Mori\n「Yes, I've added this group for that very purpose.」"
+  },
+  {
+   "i": 260,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Кокпит «Вангрэя»-",
+   "orig": "　\n　\n　　　　　　　　　　　-VangRay Cockpit-"
+  },
+  {
+   "i": 261,
+   "speaker": "Найн",
+   "text": "「Эй, кэп.」",
+   "orig": "Nine\n「Hey, Cap.」"
+  },
+  {
+   "i": 262,
+   "speaker": "$n",
+   "text": "「А, вот и ты, Найн.」",
+   "orig": "$n\n「There you are, Nine.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Найн",
+   "text": "「Ты хотел поговорить?」",
+   "orig": "Nine\n「You wanted to talk?」"
+  },
+  {
+   "i": 264,
+   "speaker": "$n",
+   "text": "「Прости за сегодняшнее.」",
+   "orig": "$n\n「I'm sorry about today.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Найн",
+   "text": "「А?」",
+   "orig": "Nine\n「Huh?」"
+  },
+  {
+   "i": 266,
+   "speaker": "$n",
+   "text": "「Вполне естественно не доверять тому,\n　кто что-то скрывает.」",
+   "orig": "$n\n「It's only natural to suspect someone\n　who is harboring secrets.」"
+  },
+  {
+   "i": 267,
+   "speaker": "$n",
+   "text": "「Ты набралась смелости и всё мне сказала,\n　а я отмахнулся, даже не подумав.」",
+   "orig": "$n\n「You went out of your way to tell me,\n　and I rejected it without a second thought.」"
+  },
+  {
+   "i": 268,
+   "speaker": "$n",
+   "text": "「И за это прошу прощения, Найн.」",
+   "orig": "$n\n「And for that, I am sorry, Nine.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Найн",
+   "text": "「Ммм.」",
+   "orig": "Nine\n「Umm.」"
+  },
+  {
+   "i": 270,
+   "speaker": "$n",
+   "text": "「Э-эй!\n　Что с тобой, Найн?」",
+   "orig": "$n\n「H-hey!\n　What's wrong, Nine?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Найн",
+   "text": "「Я думала, ты меня невзлюбил.」",
+   "orig": "Nine\n「I thought you didn't like me.」"
+  },
+  {
+   "i": 272,
+   "speaker": "$n",
+   "text": "「Тебе так казалось\n　с самого конца боя?」",
+   "orig": "$n\n「Have you felt that way ever\n　since the battle ended?」"
+  },
+  {
+   "i": 273,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yes.」"
+  },
+  {
+   "i": 274,
+   "speaker": "$n",
+   "text": "「Глупости.\n　Разве можно невзлюбить такого важного напарника?」",
+   "orig": "$n\n「Don't be stupid.\n　I could never hate an important partner like you.」"
+  },
+  {
+   "i": 275,
+   "speaker": "$n",
+   "text": "「А я-то, наоборот, решил,\n　что ты холодна со мной потому,\n　что я тебе надоел.」",
+   "orig": "$n\n「On the other hand,\n　I thought you'd been cold to me\n　because you'd grown sick of me.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Найн",
+   "text": "「Никогда в жизни.」",
+   "orig": "Nine\n「I could never.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Найн",
+   "text": "「Но прошу, расскажи.」",
+   "orig": "Nine\n「But please tell me.」"
+  },
+  {
+   "i": 278,
+   "speaker": "$n",
+   "text": "「О чём?」",
+   "orig": "$n\n「About what?」"
+  },
+  {
+   "i": 279,
+   "speaker": "Найн",
+   "text": "「О твоих тайнах.」",
+   "orig": "Nine\n「About your secrets.」"
+  },
+  {
+   "i": 280,
+   "speaker": "$n",
+   "text": "「Они не настолько важны, чтобы звать их тайнами.\n　Просто они повлияли на то, как я жил.」",
+   "orig": "$n\n「They're not a big enough deal to call secrets.\n　They only influence the way I lived my life.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Найн",
+   "text": "「Это связано с той злостью,\n　что ты испытал к тому типу, Гули?」",
+   "orig": "Nine\n「Is it connected to the anger you\n　felt toward that Ghuli guy?」"
+  },
+  {
+   "i": 282,
+   "speaker": "$n",
+   "text": "「От тебя ничего не укроется.」",
+   "orig": "$n\n「Nothing gets past you.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Найн",
+   "text": "「Расскажи подробнее.」",
+   "orig": "Nine\n「Please tell me more.」"
+  },
+  {
+   "i": 284,
+   "speaker": "$n",
+   "text": "「Только никому ни слова.」",
+   "orig": "$n\n「Don't say a word of this to anyone.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Найн",
+   "text": "「Хорошо.」",
+   "orig": "Nine\n「OK.」"
+  },
+  {
+   "i": 286,
+   "speaker": "$n",
+   "text": "「После $kwbОперации М$kwe я остался\n　единственным выжившим на Лунар-25.」",
+   "orig": "$n\n「I was the sole survivor of Lunar 25\n　after $kwbM Operation$kwe.」"
+  },
+  {
+   "i": 287,
+   "speaker": "$n",
+   "text": "「Тот бой до сих пор\n　иногда снится мне в кошмарах.」",
+   "orig": "$n\n「I still have nightmares\n　about that battle sometimes.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Найн",
+   "text": "「Кэп...」",
+   "orig": "Nine\n「Cap...」"
+  },
+  {
+   "i": 289,
+   "speaker": "$n",
+   "text": "「Шла война.\n　Я не держу ни обид, ни ненависти.」",
+   "orig": "$n\n「We were at war.\n　I don't hold any grudges or harbor any hatred.」"
+  },
+  {
+   "i": 290,
+   "speaker": "$n",
+   "text": "「Но когда я вспоминаю, как мои товарищи\n　медленно умирали, моля о спасении,\n　меня бесят те, кому жизнь других ничего не стоит.」",
+   "orig": "$n\n「But when I think back on my comrades\n　slowly dying as they begged for their lives,\n　I get angry at those with a blatant disregard for life.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Найн",
+   "text": "「Прости меня.」",
+   "orig": "Nine\n「I'm so sorry.」"
+  },
+  {
+   "i": 292,
+   "speaker": "$n",
+   "text": "「За что?」",
+   "orig": "$n\n「Why are you sorry?」"
+  },
+  {
+   "i": 293,
+   "speaker": "Найн",
+   "text": "「За то, что тебе пришлось вспомнить такое горе.\n　Прости.」",
+   "orig": "Nine\n「That you had to recall something so sad.\n　I'm sorry.」"
+  },
+  {
+   "i": 294,
+   "speaker": "$n",
+   "text": "「Всё в порядке, Найн.\n　Что было, то было.」",
+   "orig": "$n\n「It's OK, Nine.\n　What's done is done.」"
+  },
+  {
+   "i": 295,
+   "speaker": "$n",
+   "text": "「Именно поэтому я и хочу жить.\n　И радоваться жизни.」",
+   "orig": "$n\n「But that's why I want to live.\n　And enjoy living.」"
+  },
+  {
+   "i": 296,
+   "speaker": "$n",
+   "text": "「Смеяться, петь, есть, пить, спать.\n　Я стараюсь наслаждаться всем этим за погибших друзей.」",
+   "orig": "$n\n「Laughing, singing, eating, drinking, sleeping.\n　I try to enjoy them all for my fallen friends.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Найн",
+   "text": "「Кэп...」",
+   "orig": "Nine\n「Cap...」"
+  },
+  {
+   "i": 298,
+   "speaker": "$n",
+   "text": "「Помоги мне, Найн.\n　Помоги мне прожить долгую жизнь.\n　Помоги сберечь моих людей.」",
+   "orig": "$n\n「Give me a hand, Nine.\n　Help me live a long life.\n　Help me keep my men alive.」"
+  },
+  {
+   "i": 299,
+   "speaker": "$n",
+   "text": "「Ради этого мне нужны и ты, и «Вангрэй».」",
+   "orig": "$n\n「To that end, I need both you and VangRay.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Найн",
+   "text": "「Поняла, кэп.」",
+   "orig": "Nine\n「Understood, Cap.」"
+  },
+  {
+   "i": 301,
+   "speaker": "$n",
+   "text": "「Спасибо.」",
+   "orig": "$n\n「Thank you.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Найн",
+   "text": "「Но можно спросить, почему?\n　Почему ты никому не рассказываешь?」",
+   "orig": "Nine\n「But may I ask why?\n　Why won't you tell anyone?」"
+  },
+  {
+   "i": 303,
+   "speaker": "$n",
+   "text": "「Это не то, чем делятся с кем попало.」",
+   "orig": "$n\n「This is not something I share with others.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Найн",
+   "text": "「Ты сказал мне, потому что я ИИ?」",
+   "orig": "Nine\n「It's because I'm an AI that you told me?」"
+  },
+  {
+   "i": 305,
+   "speaker": "$n",
+   "text": "「Потому что мы очень близки.」",
+   "orig": "$n\n「It's because we're very close.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Найн",
+   "text": "「Кэп...」",
+   "orig": "Nine\n「Cap...」"
+  },
+  {
+   "i": 307,
+   "speaker": "$n",
+   "text": "（Даже если мы вернём «Ямато»,\n　неизвестно, сможем ли мы попасть домой.\n　А если и сможем, может быть уже поздно.）",
+   "orig": "$n\n（Even if we get the Yamato back,\n　we don't know if we can go home,\n　And even if we do, it might be too late.）"
+  },
+  {
+   "i": 308,
+   "speaker": "$n",
+   "text": "（И всё же мы обязаны идти.\n　Из-за клятвы, что я дал на самом дне ада.）",
+   "orig": "$n\n（But we still have to go.\n　Because of the oath I pledged in the depths of hell.）"
+  },
+  {
+   "i": 312,
+   "speaker": "Найн",
+   "text": "「Лейтенант Кодай.」",
+   "orig": "Nine\n「Lt. Kodai.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Кодай",
+   "text": "「Найн, верно?\n　Тебя легко принять за человека.」",
+   "orig": "Kodai\n「Nine, is it?\n　You could easily pass as human.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Кодай",
+   "text": "「Уверен, ты бы произвела впечатление\n　на Аналайзера.」",
+   "orig": "Kodai\n「I'm sure you'd impress\n　Analyzer.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Найн",
+   "text": "「А меня впечатлило то,\n　что вы показали в сегодняшнем бою.」",
+   "orig": "Nine\n「Well, I was also impressed with\n　what you showed in battle today.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Кодай",
+   "text": "「Я всегда был в тройке лучших по воздушному бою,\n　ещё с академии.」",
+   "orig": "Kodai\n「I've always been top three in aerial combat\n　since my days at the military academy.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Найн",
+   "text": "「Разбирая вашу манеру боя,\n　мой тактический процессор получил данные,\n　эквивалентные 100 ТакО.」",
+   "orig": "Nine\n「Analyzing your fighting style,\n　my tactical processing capacity was able to acquire\n　data equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Кодай",
+   "text": "「Ты и правда так умеешь?」",
+   "orig": "Kodai\n「You can actually do that?」"
+  },
+  {
+   "i": 319,
+   "speaker": "Найн",
+   "text": "「Но одного я не поняла.\n　С вашим уровнем пилотирования я ожидала,\n　что вы будете драться куда напористее.」",
+   "orig": "Nine\n「But there was one thing I didn't understand.\n　With your piloting, I thought that you would\n　fight more aggressively than you did.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Кодай",
+   "text": "「У меня же сзади сидел Мори.\n　Я не мог рисковать его жизнью.」",
+   "orig": "Kodai\n「I had Mori in back, you know.\n　I couldn't put his life at risk.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Найн",
+   "text": "「Понятно.\n　Вот в чём дело.」",
+   "orig": "Nine\n「I see.\n　So that's why.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Кодай",
+   "text": "「Вот в чём дело.」",
+   "orig": "Kodai\n「That's why.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Мори",
+   "text": "（Какой-то неловкий у них разговор...）",
+   "orig": "Mori\n（Their conversation seems kind of awkward...）"
+  },
+  {
+   "i": 327,
+   "speaker": "Найн",
+   "text": "（Эффективность, рациональность, сердце, жизнь.）",
+   "orig": "Nine\n（Efficiency, rationality, heart, life.）"
+  },
+  {
+   "i": 328,
+   "speaker": "Найн",
+   "text": "（Противоречат ли они друг другу?\n　Или нет?）",
+   "orig": "Nine\n（Are they contradictory?\n　Or not?）"
+  }
+ ]
+}

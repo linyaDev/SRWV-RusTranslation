@@ -1,0 +1,1462 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Крис",
+   "text": "「Нас хватит, как думаете?」",
+   "orig": "Chris\n「I wonder if we're gonna\n　be enough.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Хильда",
+   "text": "「Это приказ командира и Сумераги.\n　Волноваться не о чем.」",
+   "orig": "Hilda\n「The commander and Sumeragi ordered it.\n　There's nothing to worry about.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Розали",
+   "text": "「Чем меньше машин,\n　тем больше навар!\n　Делаем, что умеем!」",
+   "orig": "Rosalie\n「The fewer the units,\n　the higher the chance for profit!\n　Let's do what we do!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Анж",
+   "text": "「Как недальновидно.\n　Там ведь и погибнуть можно.」",
+   "orig": "Ange\n「So shortsighted.\n　You could die out there.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Крис",
+   "text": "「Ух!」",
+   "orig": "Chris\n「Ugh!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Розали",
+   "text": "「Заткнись, Падшая Принцесса!\n　Мы тебе не служанки!」",
+   "orig": "Rosalie\n「Shut up, Fallen Princess!\n　Don't mistake us for your servants!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Хильда",
+   "text": "「Бедная, бедная девочка.\n　Завтра она ведь погибнет, да?\n　И так скоро после встречи с тобой.」",
+   "orig": "Hilda\n「That poor, poor girl.\n　She's going to die tomorrow, isn't she?\n　And so soon after coming to see you.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Анж",
+   "text": "「Скажу один раз:\n　состав этой вылазки\n　подбирала я.」",
+   "orig": "Ange\n「I'll only say this once,\n　but I'm the one responsible\n　for this attack's lineup.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Крис",
+   "text": "「Что-что?」",
+   "orig": "Chris\n「What in the world?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Анж",
+   "text": "「Решила, что это хороший повод\n　указать вам ваше место.」",
+   "orig": "Ange\n「I thought this would be a good\n　chance to put you in your place.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Хильда",
+   "text": "「Да как ты смеешь?」",
+   "orig": "Hilda\n「How dare you?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Анж",
+   "text": "「Атрун!\n　Смотри внимательно!」",
+   "orig": "Ange\n「Athrun!\n　Watch this!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Атрун",
+   "text": "「Х-хорошо.」",
+   "orig": "Athrun\n「O-OK.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Крис",
+   "text": "「Не смей командовать Атруном!」",
+   "orig": "Chris\n「Don't tell Athrun what to do!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Хильда",
+   "text": "「Хватит, Крис!\n　У нас гости!」",
+   "orig": "Hilda\n「Enough, Chris!\n　We've got company!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Атрун",
+   "text": "「Осторожно!\n　Там «Галеон»!」",
+   "orig": "Athrun\n「Watch out!\n　There's a Galleon-class!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Анж",
+   "text": "「Отлично!\n　Кто его добьёт — тот и победил!」",
+   "orig": "Ange\n「Perfect!\n　Whoever kills it is the winner!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Хильда",
+   "text": "「Идёт!」",
+   "orig": "Hilda\n「Deal!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Розали",
+   "text": "「Готовься, Падшая Принцесса!\n　Сейчас мы тебя опозорим!」",
+   "orig": "Rosalie\n「Get ready, Fallen Princess!\n　We're about to make you look bad!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Анж",
+   "text": "「Это мы ещё посмотрим!\n　Мне хватит трёх минут, не больше!」",
+   "orig": "Ange\n「We'll see about that!\n　This will take me three minutes, tops!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Анж",
+   "text": "（Момока.\n　Жди меня.）",
+   "orig": "Ange\n（Momoka.\n　Wait for me.）"
+  },
+  {
+   "i": 21,
+   "speaker": "Крис",
+   "text": "「Что-то приближается!」",
+   "orig": "Chris\n「Something's coming!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Хильда",
+   "text": "「Такая отметка!\n　Это не Дракон!」",
+   "orig": "Hilda\n「This response!\n　It's no Dragon!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Синн",
+   "text": "「Ты цел, Атрун?」",
+   "orig": "Shinn\n「Are you OK, Athrun?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Атрун",
+   "text": "「Ты успел, Синн!\n　И ты тоже, Лунамария!」",
+   "orig": "Athrun\n「You made it, Shinn!\n　And you, too, Lunamaria!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Лунамария",
+   "text": "「Нас временно прикомандировали к Орбу.\n　Зови — и мы тут же будем рядом.」",
+   "orig": "Lunamaria\n「We've been temporarily assigned to Orb.\n　All you have to do is call for us.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Анж",
+   "text": "「Твои знакомые, Атрун?」",
+   "orig": "Ange\n「Friends of yours, Athrun?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Атрун",
+   "text": "「Именно так.\n　Синн Аска и Лунамария Хоук.\n　Надёжнее не бывает.」",
+   "orig": "Athrun\n「Yes, indeed.\n　Shinn Asuka and Lunamaria Hawke.\n　They're as reliable as they come.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Хильда",
+   "text": "「Погоди. Синн Аска?」",
+   "orig": "Hilda\n「Hold on. Shinn Asuka?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Розали",
+   "text": "「И эта синяя машина!\n　Синяя Молния ЗАФТ!」",
+   "orig": "Rosalie\n「And that blue mech!\n　The ZAFT Blue Lightning!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Лунамария",
+   "text": "「Это ещё что?\n　Какое-то прозвище Синна?」",
+   "orig": "Lunamaria\n「What's that?\n　Shinn's alias or something?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Атрун",
+   "text": "「Дело не только в «Селестиал Бин».\n　Искажения миров добрались и до нас.」",
+   "orig": "Athrun\n「It's not just Celestial Being.\n　World distortions are even reaching us.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Синн",
+   "text": "「Извините, но я не тот, о ком вы думаете.」",
+   "orig": "Shinn\n「Sorry, but I'm not who you think.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Крис",
+   "text": "「Но ведь—」",
+   "orig": "Chris\n「But—」"
+  },
+  {
+   "i": 34,
+   "speaker": "Синн",
+   "text": "「Я уже не тот, каким был тогда.\n　Ладно, неважно.」",
+   "orig": "Shinn\n「I'm different from the me back then.\n　Anyway.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Анж",
+   "text": "「Не моё дело, конечно,\n　но если прилетели помогать — будете драться?\n　Драконы разговаривать не станут.」",
+   "orig": "Ange\n「It's none of my business,\n　but if you're here to help, will you fight?\n　The Dragons aren't interested in talking.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Синн",
+   "text": "「А?」",
+   "orig": "Shinn\n「Huh?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Лунамария",
+   "text": "「Она права, Синн!\n　Вперёд!」",
+   "orig": "Lunamaria\n「She's right, Shinn!\n　Let's go!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Синн",
+   "text": "「Понял!\n　Всякий враг человечества —\n　мой враг!」",
+   "orig": "Shinn\n「Okay!\n　Any enemy of humanity\n　is an enemy of mine!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Синн",
+   "text": "（Вот так я и буду\n　жить дальше!）",
+   "orig": "Shinn\n（That is how I'm going\n　to live from now on!）"
+  },
+  {
+   "i": 40,
+   "speaker": "Анж",
+   "text": "「Моя победа.」",
+   "orig": "Ange\n「I win.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Хильда",
+   "text": "「Да ты издеваешься!\n　Подкралась кошкой и утащила нашу добычу!」",
+   "orig": "Hilda\n「You've gotta be kidding me!\n　You snuck up like a cat and stole our meal!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Анж",
+   "text": "「Воровка-кошка — всё же прозвище\n　получше, чем свинья.」",
+   "orig": "Ange\n「A thieving cat is at least a better\n　name for me than a pig.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Анж",
+   "text": "「А раз вы проиграли воровке-кошке,\n　выходит, вы просто грязные крысы, не так ли?」",
+   "orig": "Ange\n「And if you lost to a thieving cat,\n　I guess that makes you filthy rats, now, doesn't it?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Крис",
+   "text": "「Ч-чтоб тебя!」",
+   "orig": "Chris\n「C-curse you!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Розали",
+   "text": "「Ух!\n　Думаешь, мы это молча проглотим?」",
+   "orig": "Rosalie\n「Ugh!\n　You expect us to shut up and take this?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Атрун",
+   "text": "「Да что ж такое?\n　Они умудрились разругаться ещё сильнее!」",
+   "orig": "Athrun\n「What the heck?\n　Their relationship somehow got even worse!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Синн",
+   "text": "「Что у них за беда?」",
+   "orig": "Shinn\n「What's their problem?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Лунамария",
+   "text": "（Похоже, Атрун звал нас на помощь\n　не против Драконов,\n　а против них.）",
+   "orig": "Lunamaria\n（Maybe Athrun called upon us\n　to help not with the Dragons,\n　but with them.）"
+  },
+  {
+   "i": 49,
+   "speaker": "Розали",
+   "text": "「Отлично!\n　Победа наша, Падшая Принцесса!」",
+   "orig": "Rosalie\n「All right!\n　Victory is ours, Fallen Princess!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Анж",
+   "text": "「...!」",
+   "orig": "Ange\n「...!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Анж",
+   "text": "「Добивающий удар нанесла я.\n　Иначе говоря, победа моя.」",
+   "orig": "Ange\n「I delivered the finishing blow.\n　In other words, I win.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Хильда",
+   "text": "「Да ты издеваешься!\n　Подкралась кошкой и утащила нашу добычу!」",
+   "orig": "Hilda\n「You've gotta be kidding me!\n　You snuck up like a cat and stole our meal!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Анж",
+   "text": "「Воровка-кошка — всё же прозвище\n　 получше, чем свинья.」",
+   "orig": "Ange\n「A thieving cat is at least a better\n　 name for me than a pig.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Анж",
+   "text": "「А раз вы проиграли воровке-кошке,\n　выходит, вы просто грязные крысы, не так ли?」",
+   "orig": "Ange\n「And if you lost to a thieving cat,\n　I guess that makes you filthy rats, now, doesn't it?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Крис",
+   "text": "「Ч-чтоб тебя!」",
+   "orig": "Chris\n「C-curse you!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Розали",
+   "text": "「Ух!\n　Думаешь, мы это молча проглотим?」",
+   "orig": "Rosalie\n「Ugh!\n　You expect us to shut up and take this?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Атрун",
+   "text": "「Да что ж такое?\n　Они умудрились разругаться ещё сильнее!」",
+   "orig": "Athrun\n「What the heck?\n　Their relationship somehow got even worse!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Синн",
+   "text": "「Что у них за беда?」",
+   "orig": "Shinn\n「What's their problem?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Лунамария",
+   "text": "（Похоже, Атрун звал нас на помощь\n　не против Драконов,\n　а против них.）",
+   "orig": "Lunamaria\n（Maybe Athrun called upon us\n　to help not with the Dragons,\n　but with them.）"
+  },
+  {
+   "i": 60,
+   "speaker": "Крис",
+   "text": "「Так держать, Атрун!」",
+   "orig": "Chris\n「Way to go, Athrun!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Синн",
+   "text": "「Атрун?」",
+   "orig": "Shinn\n「Athrun?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Анж",
+   "text": "「Это ещё не конец!」",
+   "orig": "Ange\n「It's not over yet!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Анж",
+   "text": "「Неплохая попытка, Атрун.」",
+   "orig": "Ange\n「Nice try, Athrun.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Анж",
+   "text": "「Добивающий удар нанесла я.\n　Иначе говоря, победа моя.」",
+   "orig": "Ange\n「I delivered the finishing blow.\n　In other words, I win.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Хильда",
+   "text": "「Да ты издеваешься!\n　Подкралась кошкой и утащила нашу добычу!」",
+   "orig": "Hilda\n「You've gotta be kidding me!\n　You snuck up like a cat and stole our meal!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Анж",
+   "text": "「Воровка-кошка — всё же прозвище\n　 получше, чем свинья.」",
+   "orig": "Ange\n「A thieving cat is at least a better\n　 name for me than a pig.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Анж",
+   "text": "「А раз вы проиграли воровке-кошке,\n　выходит, вы просто грязные крысы, не так ли?」",
+   "orig": "Ange\n「And if you lost to a thieving cat,\n　I guess that makes you filthy rats, now, doesn't it?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Крис",
+   "text": "「Ч-чтоб тебя!」",
+   "orig": "Chris\n「C-curse you!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Розали",
+   "text": "「Ух!\n　Думаешь, мы это молча проглотим?」",
+   "orig": "Rosalie\n「Ugh!\n　You expect us to shut up and take this?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Атрун",
+   "text": "「Да что ж такое?\n　Они умудрились разругаться ещё сильнее!」",
+   "orig": "Athrun\n「What the heck?\n　Their relationship somehow got even worse!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Синн",
+   "text": "「Что у них за беда?」",
+   "orig": "Shinn\n「What's their problem?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Лунамария",
+   "text": "（Похоже, Атрун звал нас на помощь\n　не против Драконов,\n　а против них.）",
+   "orig": "Lunamaria\n（Maybe Athrun called upon us\n　to help not with the Dragons,\n　but with them.）"
+  },
+  {
+   "i": 73,
+   "speaker": "Лунамария",
+   "text": "「Получилось!」",
+   "orig": "Lunamaria\n「I did it!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Розали",
+   "text": "「Эй!\n　Ты как посмела влезть из-за спины?」",
+   "orig": "Rosalie\n「Hey!\n　How dare you come from behind like that?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Крис",
+   "text": "「Кое-кто совсем намёков не понимает.」",
+   "orig": "Chris\n「Someone can't take a hint.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Синн",
+   "text": "「Это ещё что значит?」",
+   "orig": "Shinn\n「What was that?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Анж",
+   "text": "「Это ещё не конец!」",
+   "orig": "Ange\n「This isn't over yet!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Анж",
+   "text": "「Неплохая попытка.」",
+   "orig": "Ange\n「Nice try.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Анж",
+   "text": "「Добивающий удар нанесла я.\n　Иначе говоря, победа моя.」",
+   "orig": "Ange\n「I delivered the finishing blow.\n　In other words, I win.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Хильда",
+   "text": "「Да ты издеваешься!\n　Подкралась кошкой и утащила нашу добычу!」",
+   "orig": "Hilda\n「You've gotta be kidding me!\n　You snuck up like a cat and stole our meal!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Анж",
+   "text": "「Воровка-кошка — всё же прозвище\n　 получше, чем свинья.」",
+   "orig": "Ange\n「A thieving cat is at least a better\n　 name for me than a pig.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Анж",
+   "text": "「А раз вы проиграли воровке-кошке,\n　выходит, вы просто грязные крысы, не так ли?」",
+   "orig": "Ange\n「And if you lost to a thieving cat,\n　I guess that makes you filthy rats, now, doesn't it?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Крис",
+   "text": "「Ч-чтоб тебя!」",
+   "orig": "Chris\n「C-curse you!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Розали",
+   "text": "「Ух!\n　Думаешь, мы это молча проглотим?」",
+   "orig": "Rosalie\n「Ugh!\n　You expect us to shut up and take this?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Атрун",
+   "text": "「Да что ж такое?\n　Они умудрились разругаться ещё сильнее!」",
+   "orig": "Athrun\n「What the heck?\n　Their relationship somehow got even worse!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Синн",
+   "text": "「Что у них за беда?」",
+   "orig": "Shinn\n「What's their problem?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Лунамария",
+   "text": "（Похоже, Атрун звал нас на помощь\n　не против Драконов,\n　а против них.）",
+   "orig": "Lunamaria\n（Maybe Athrun called upon us\n　to help not with the Dragons,\n　but with them.）"
+  },
+  {
+   "i": 88,
+   "speaker": "Анж",
+   "text": "「Я с этим покончу!」",
+   "orig": "Ange\n「I'll finish this!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Анж",
+   "text": "「Моя победа.」",
+   "orig": "Ange\n「I win.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Хильда",
+   "text": "「Да ты издеваешься!\n　Подкралась кошкой и утащила нашу добычу!」",
+   "orig": "Hilda\n「You've gotta be kidding me!\n　You snuck up like a cat and stole our meal!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Анж",
+   "text": "「Воровка-кошка — всё же прозвище\n　 получше, чем свинья.」",
+   "orig": "Ange\n「A thieving cat is at least a better\n　 name for me than a pig.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Анж",
+   "text": "「А раз вы проиграли воровке-кошке,\n　выходит, вы просто грязные крысы, не так ли?」",
+   "orig": "Ange\n「And if you lost to a thieving cat,\n　I guess that makes you filthy rats, now, doesn't it?」"
+  },
+  {
+   "i": 93,
+   "speaker": "Крис",
+   "text": "「Ч-чтоб тебя!」",
+   "orig": "Chris\n「C-curse you!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Розали",
+   "text": "「Ух!\n　Думаешь, мы это молча проглотим?」",
+   "orig": "Rosalie\n「Ugh!\n　You expect us to shut up and take this?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Атрун",
+   "text": "「Да что ж такое?\n　Они умудрились разругаться ещё сильнее!」",
+   "orig": "Athrun\n「What the heck?\n　Their relationship somehow got even worse!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Синн",
+   "text": "「Что у них за беда?」",
+   "orig": "Shinn\n「What's their problem?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Лунамария",
+   "text": "（Похоже, Атрун звал нас на помощь\n　не против Драконов,\n　а против них.）",
+   "orig": "Lunamaria\n（Maybe Athrun called upon us\n　to help not with the Dragons,\n　but with them.）"
+  },
+  {
+   "i": 98,
+   "speaker": "Лунамария",
+   "text": "「Дракон!」",
+   "orig": "Lunamaria\n「A Dragon!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Синн",
+   "text": "「Огонь на подавление?」",
+   "orig": "Shinn\n「Covering fire?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Атрун",
+   "text": "「Нет!\n　Он бьёт без разбора!」",
+   "orig": "Athrun\n「No!\n　This is an indiscriminant attack!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Синн",
+   "text": "「Кх!\n　Что это такое?」",
+   "orig": "Shinn\n「Ngh!\n　What is this?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Атрун",
+   "text": "「Подкрепление противника?」",
+   "orig": "Athrun\n「Enemy reinforcements?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Хильда",
+   "text": "「Дрон Государств-основателей!」",
+   "orig": "Hilda\n「A Founding Nations drone!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Розали",
+   "text": "「Видно, его поставили здесь, чтобы отгонять\n　всех, кто сунется в эти воды!」",
+   "orig": "Rosalie\n「I guess it was placed here to repel\n　anyone who trespassed in these seas!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Крис",
+   "text": "「Тогда почему он напал на нас?」",
+   "orig": "Chris\n「Then why did it attack us?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Атрун",
+   "text": "「«Селестиал Бин» здесь?」",
+   "orig": "Athrun\n「Celestial Being is here?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Анж",
+   "text": "「Я и без подкреплений\n　прекрасно справлюсь!」",
+   "orig": "Ange\n「I can do fine on my own\n　without reinforcements!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Хильда",
+   "text": "「Ну и делай что хочешь, Падшая Принцесса!」",
+   "orig": "Hilda\n「Then do whatever, Fallen Princess!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Розали",
+   "text": "「Неужто награда тебе так дорога,\n　ты, деньголюбка?」",
+   "orig": "Rosalie\n「Does the reward really mean\n　that much to you, ya moneygrubber?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Анж",
+   "text": "「Это кто тут деньголюбка?\n　Это вы без конца ноете,\n　что я украла вашу награду!」",
+   "orig": "Ange\n「Who's the moneygrubber?\n　You're the ones who keep whining\n　about me stealing your reward!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Крис",
+   "text": "「Замолчи!\n　Будто ты знаешь, каково это — быть нищей!」",
+   "orig": "Chris\n「Shut up!\n　Like you know what it's like to be poor!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Анж",
+   "text": "「Мне неинтересно спорить, кто беднее!\n　Уж в этом вы меня наверняка обойдёте.」",
+   "orig": "Ange\n「I'm not interested in arguing over who is poorer!\n　I'm sure you've got me beat by a mile.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Сумераги",
+   "text": "「Хватит этой чепухи!」",
+   "orig": "Sumeragi\n「Enough of this nonsense!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Анж",
+   "text": "「!」",
+   "orig": "Ange\n「!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Хильда",
+   "text": "「!」",
+   "orig": "Hilda\n「!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Сумераги",
+   "text": "「Анж!\n　Я пустила тебя в эту вылазку, потому что ты\n　обещала всё уладить. Стало только хуже!」",
+   "orig": "Sumeragi\n「Ange!\n　I allowed you to join this attack, because you\n　said you'd settle this. It's only gotten worse!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Анж",
+   "text": "「Но...」",
+   "orig": "Ange\n「But...」"
+  },
+  {
+   "i": 118,
+   "speaker": "Сумераги",
+   "text": "「Атрун!\n　Как ты мог до такого\n　довести?」",
+   "orig": "Sumeragi\n「Athrun!\n　How could you let\n　this happen?」"
+  },
+  {
+   "i": 119,
+   "speaker": "Атрун",
+   "text": "「В смысле — как я мог?」",
+   "orig": "Athrun\n「How, you ask?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Сумераги",
+   "text": "「Я не в настроении слушать оправдания!」",
+   "orig": "Sumeragi\n「I'm not in the mood for excuses!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Хильда",
+   "text": "「С-Сумераги.\n　По-моему, это всё затеяла Анж.」",
+   "orig": "Hilda\n「S-Sumeragi.\n　I think this is Ange's doing.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Сумераги",
+   "text": "「Нет!\n　Виновато тут совсем другое!」",
+   "orig": "Sumeragi\n「No!\n　Something else is to blame!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Сумераги",
+   "text": "「На вас ни в чём нельзя положиться!\n　Придётся заняться этим самой!」",
+   "orig": "Sumeragi\n「I can't rely on you to get anything right!\n　I'll have to take care of this myself!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Сумераги",
+   "text": "「«Селестиал Бин» выкупает права\n　на 1-ю эскадрилью пара-мэйлов Арсенала!」",
+   "orig": "Sumeragi\n「Celestial Being is purchasing the rights\n　to the Arzenal's 1st Para-Mail Squadron!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Розали",
+   "text": "「Чего?」",
+   "orig": "Rosalie\n「What?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Крис",
+   "text": "「В-выкупает права?」",
+   "orig": "Chris\n「P-purchasing the rights?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Тесса",
+   "text": "「Объясню за Сумераги.」",
+   "orig": "Tessa\n「I'll explain in Sumeragi's\n　stead.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Тесса",
+   "text": "「Отныне 1-я эскадрилья пара-мэйлов\n　переходит на систему жалованья.」",
+   "orig": "Tessa\n「From this point on, the 1st Para-Mail\n　Squadron will adopt a salary system.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Тесса",
+   "text": "「Размер жалованья определяем мы с Сумераги,\n　и зависит он не только от боевых успехов,\n　но и от слаженности и поведения.」",
+   "orig": "Tessa\n「Salaries will be decided by Sumeragi and me\n　and be based not only battle successes,\n　but also on teamwork and behavior.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Розали",
+   "text": "「Слаженности?」",
+   "orig": "Rosalie\n「Teamwork?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Крис",
+   "text": "「Поведения?」",
+   "orig": "Chris\n「Behavior?」"
+  },
+  {
+   "i": 132,
+   "speaker": "Тесса",
+   "text": "「Да.\n　Такая система принята в $kwbМифриле$kwe,\n　поэтому мы и собираемся её сохранить.」",
+   "orig": "Tessa\n「Yes.\n　This is the system that $kwbMithril$kwe uses,\n　and that's why we plan to continue using it.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Тесса",
+   "text": "「Те, кто проявит себя особенно хорошо,\n　получат сверх жалованья особую премию,\n　так что постарайтесь, пожалуйста.」",
+   "orig": "Tessa\n「Those that do particularly well will receive\n　a special reward in addition to their wages,\n　so please do your best.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Хильда",
+   "text": "「Думаете, мы на это согласимся?」",
+   "orig": "Hilda\n「You think we're gonna go along with this?」"
+  },
+  {
+   "i": 135,
+   "speaker": "Сумераги",
+   "text": "「Фельдт!\n　Свяжись с Джилл!」",
+   "orig": "Sumeragi\n「Feldt!\n　Contact Jill!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Фельдт",
+   "text": "「Ответ командира Джилл уже получен.\n　Она с радостью их продаст.」",
+   "orig": "Feldt\n「We already have a response from Commander Jill.\n　She'd be more than happy to sell them.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Сумераги",
+   "text": "「Значит, решено!\n　Отныне вы наши!」",
+   "orig": "Sumeragi\n「Then it's decided!\n　You're ours from now on!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Вивиан",
+   "text": "「Так точно!」",
+   "orig": "Vivian\n「Yes, ma'am!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Эрша",
+   "text": "「Что ж, придётся стараться.」",
+   "orig": "Ersha\n「We'll just have to do our best.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Анж",
+   "text": "「Э-э, кхм.」",
+   "orig": "Ange\n「Uh, umm.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Тиерия",
+   "text": "「Смирись.\n　Если Сумераги Ли Норьега что-то решила,\n　обратного хода нет.」",
+   "orig": "Tieria\n「Give it up.\n　Once Sumeragi Lee Noriega makes up her mind,\n　there's no turning back.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Курц",
+   "text": "「Везёт же!\n　Мне бы такую начальницу, как Сумераги!」",
+   "orig": "Kurz\n「Lucky!\n　I wish Sumeragi was my master!」"
+  },
+  {
+   "i": 143,
+   "speaker": "$n",
+   "text": "「Похоже, нелёгкая их ждёт жизнь.」",
+   "orig": "$n\n「Looks like a hard life awaits.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Сумераги",
+   "text": "「Салия!\n　Держи этих мегер в узде!」",
+   "orig": "Sumeragi\n「Salia!\n　Keep these shrews in line!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Салия",
+   "text": "「Т-так точно!」",
+   "orig": "Salia\n「Y-yes, ma'am!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Тесса",
+   "text": "「Если разговор окончен,\n　можно начинать атаку.」",
+   "orig": "Tessa\n「We can launch the attack if\n　we're done talking here.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Клузо",
+   "text": "「Принято!\n　Всем машинам — перехватить вражеский дрон!」",
+   "orig": "Clouseau\n「Understood!\n　All units are to intercept the enemy drone!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Локон",
+   "text": "「Слушай, Атрун.\n　Синяя Молния ЗАФТ\n　ведь на нашей стороне?」",
+   "orig": "Lockon\n「So Athrun.\n　ZAFT Blue Lightning\n　is on our side, right?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Атрун",
+   "text": "「Да.\n　Я сам запросил подмогу.」",
+   "orig": "Athrun\n「Yeah.\n　I requested backup.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Синн",
+   "text": "「«Селестиал Бин»...」",
+   "orig": "Shinn\n「Celestial Being...」"
+  },
+  {
+   "i": 151,
+   "speaker": "Лунамария",
+   "text": "「Синн...」",
+   "orig": "Lunamaria\n「Shinn...」"
+  },
+  {
+   "i": 152,
+   "speaker": "Синн",
+   "text": "「Да, когда-то председатель приказал мне\n　сражаться против них.」",
+   "orig": "Shinn\n「Indeed, the chairman ordered\n　me to fight with them.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Синн",
+   "text": "「Но та война уже кончилась.\n　Я хочу своими глазами увидеть,\n　за что они сражались.」",
+   "orig": "Shinn\n「But the war is already over.\n　I want to see what they were fighting\n　for with my own eyes.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Сэцуна",
+   "text": "「Хорошо, Синн Аска.\n　Как пожелаешь.」",
+   "orig": "Setsuna\n「Okay, Shinn Asuka.\n　As you will.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Синн",
+   "text": "「Сэцуна Ф. Сэйэй.\n　Буду рад работать вместе.」",
+   "orig": "Shinn\n「Setsuna F. Seiei.\n　Looking forward to working with you.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам — в атаку!\n　Мэйл-райдеры! Отрабатывайте своё жалованье!」",
+   "orig": "Sumeragi\n「All units! Attack!\n　Mail Riders! Earn your keep!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Анж",
+   "text": "「Так точно!\n　Похоже, будет жарко!」",
+   "orig": "Ange\n「Yes, ma'am!\n　This is gonna be a tough one!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Сумераги",
+   "text": "「Анж!\n　Я пустила тебя в эту вылазку, потому что ты\n　обещала всё уладить. Стало только хуже!」",
+   "orig": "Sumeragi\n「Ange!\n　I allowed you to join this attack, because you\n　said you'd settle this. It's only gotten worse!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Анж",
+   "text": "「Но...」",
+   "orig": "Ange\n「But...」"
+  },
+  {
+   "i": 160,
+   "speaker": "Сумераги",
+   "text": "「Атрун!\n　Как ты мог до такого\n　довести?」",
+   "orig": "Sumeragi\n「Athrun!\n　How could you let\n　this happen?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Атрун",
+   "text": "「В смысле — как я мог?」",
+   "orig": "Athrun\n「How, you ask?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Сумераги",
+   "text": "「Я не в настроении слушать оправдания!」",
+   "orig": "Sumeragi\n「I'm not in the mood for excuses!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Хильда",
+   "text": "「С-Сумераги.\n　По-моему, это всё затеяла Анж.」",
+   "orig": "Hilda\n「S-Sumeragi.\n　I think this is Ange's doing.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Сумераги",
+   "text": "「Нет!\n　Виновато тут совсем другое!」",
+   "orig": "Sumeragi\n「No!\n　Something else is to blame!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Сумераги",
+   "text": "「На вас ни в чём нельзя положиться!\n　Придётся заняться этим самой!」",
+   "orig": "Sumeragi\n「I can't rely on you to get anything right!\n　I'll have to take care of this myself!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Сумераги",
+   "text": "「«Селестиал Бин» выкупает права\n　на 1-ю эскадрилью пара-мэйлов Арсенала!」",
+   "orig": "Sumeragi\n「Celestial Being is purchasing the rights\n　to the Arzenal's 1st Para-Mail Squadron!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Розали",
+   "text": "「Чего?」",
+   "orig": "Rosalie\n「What?」"
+  },
+  {
+   "i": 168,
+   "speaker": "Крис",
+   "text": "「В-выкупает права?」",
+   "orig": "Chris\n「P-purchasing the rights?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Тесса",
+   "text": "「Объясню за Сумераги.」",
+   "orig": "Tessa\n「I'll explain in Sumeragi's\n　stead.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Тесса",
+   "text": "「Отныне 1-я эскадрилья пара-мэйлов\n　переходит на систему жалованья.」",
+   "orig": "Tessa\n「From this point on, the 1st Para-Mail\n　Squadron will adopt a salary system.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Тесса",
+   "text": "「Размер жалованья определяем мы с Сумераги,\n　и зависит он не только от боевых успехов,\n　но и от слаженности и поведения.」",
+   "orig": "Tessa\n「Salaries will be decided by Sumeragi and me\n　and be based not only battle successes,\n　but also on teamwork and behavior.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Розали",
+   "text": "「Слаженности?」",
+   "orig": "Rosalie\n「Teamwork?」"
+  },
+  {
+   "i": 173,
+   "speaker": "Крис",
+   "text": "「Поведения?」",
+   "orig": "Chris\n「Behavior?」"
+  },
+  {
+   "i": 174,
+   "speaker": "Тесса",
+   "text": "「Да.\n　Такая система принята в $kwbМифриле$kwe,\n　поэтому мы и собираемся её сохранить.」",
+   "orig": "Tessa\n「Yes.\n　This is the system that $kwbMithril$kwe uses,\n　and that's why we plan to continue using it.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Тесса",
+   "text": "「Те, кто проявит себя особенно хорошо,\n　получат сверх жалованья особую премию,\n　так что постарайтесь, пожалуйста.」",
+   "orig": "Tessa\n「Those that do particularly well will receive\n　a special reward in addition to their wages,\n　so please do your best.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Хильда",
+   "text": "「Думаете, мы на это согласимся?」",
+   "orig": "Hilda\n「You think we're gonna go along with this?」"
+  },
+  {
+   "i": 177,
+   "speaker": "Сумераги",
+   "text": "「Фельдт!\n　Свяжись с Джилл!」",
+   "orig": "Sumeragi\n「Feldt!\n　Contact Jill!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Фельдт",
+   "text": "「Ответ командира Джилл уже получен.\n　Она с радостью их продаст.」",
+   "orig": "Feldt\n「We already have a response from Commander Jill.\n　She'd be more than happy to sell them.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Сумераги",
+   "text": "「Значит, решено!\n　Отныне вы наши!」",
+   "orig": "Sumeragi\n「Then it's decided!\n　You're ours from now on!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Вивиан",
+   "text": "「Так точно!」",
+   "orig": "Vivian\n「Yes, ma'am!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Эрша",
+   "text": "「Что ж, придётся стараться.」",
+   "orig": "Ersha\n「We'll just have to do our best.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Анж",
+   "text": "「Э-э, кхм.」",
+   "orig": "Ange\n「Uh, umm.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Тиерия",
+   "text": "「Смирись.\n　Если Сумераги Ли Норьега что-то решила,\n　обратного хода нет.」",
+   "orig": "Tieria\n「Give it up.\n　Once Sumeragi Lee Noriega makes up her mind,\n　there's no turning back.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Курц",
+   "text": "「Везёт же!\n　Мне бы такую начальницу, как Сумераги!」",
+   "orig": "Kurz\n「Lucky!\n　I wish Sumeragi was my master!」"
+  },
+  {
+   "i": 185,
+   "speaker": "$n",
+   "text": "「Курц, как всегда, сорвиголова.」",
+   "orig": "$n\n「Kurz, ever the daredevil.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Сумераги",
+   "text": "「Салия!\n　Держи этих мегер в узде!」",
+   "orig": "Sumeragi\n「Salia!\n　Keep these shrews in line!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Салия",
+   "text": "「Т-так точно!」",
+   "orig": "Salia\n「Y-yes, ma'am!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Тесса",
+   "text": "「Если разговор окончен,\n　можно начинать атаку.」",
+   "orig": "Tessa\n「We can launch the attack if\n　we're done talking here.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Клузо",
+   "text": "「Принято!\n　Всем машинам — перехватить вражеский дрон!」",
+   "orig": "Clouseau\n「Understood!\n　All units are to intercept the enemy drone!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Локон",
+   "text": "「Слушай, Атрун.\n　Синяя Молния ЗАФТ\n　ведь на нашей стороне?」",
+   "orig": "Lockon\n「So Athrun.\n　ZAFT Blue Lightning\n　is on our side, right?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Атрун",
+   "text": "「Да.\n　Я сам запросил подмогу.」",
+   "orig": "Athrun\n「Yeah.\n　I requested backup.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Синн",
+   "text": "「«Селестиал Бин»...」",
+   "orig": "Shinn\n「Celestial Being...」"
+  },
+  {
+   "i": 193,
+   "speaker": "Лунамария",
+   "text": "「Синн...」",
+   "orig": "Lunamaria\n「Shinn...」"
+  },
+  {
+   "i": 194,
+   "speaker": "Синн",
+   "text": "「Да, когда-то председатель приказал мне\n　сражаться против них.」",
+   "orig": "Shinn\n「Indeed, the chairman ordered\n　me to fight with them.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Синн",
+   "text": "「Но та война уже кончилась.\n　Я хочу своими глазами увидеть,\n　за что они сражались.」",
+   "orig": "Shinn\n「But the war is already over.\n　I want to see what they were fighting\n　for with my own eyes.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Сэцуна",
+   "text": "「Хорошо, Синн Аска.\n　Как пожелаешь.」",
+   "orig": "Setsuna\n「Okay, Shinn Asuka.\n　As you will.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Синн",
+   "text": "「Сэцуна Ф. Сэйэй.\n　Буду рад работать вместе.」",
+   "orig": "Shinn\n「Setsuna F. Seiei.\n　Looking forward to working with you.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам — в атаку!\n　Мэйл-райдеры! Отрабатывайте своё жалованье!」",
+   "orig": "Sumeragi\n「All units! Attack!\n　Mail Riders! Earn your keep!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Анж",
+   "text": "「Так точно!\n　Похоже, будет жарко!」",
+   "orig": "Ange\n「Yes, ma'am!\n　This is gonna be a tough one!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Мардукас",
+   "text": "「Уничтожение всех целей подтверждено.」",
+   "orig": "Mardukas\n「Destruction of all enemies confirmed.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Тесса",
+   "text": "「Кажется, мы неплохо сработались.」",
+   "orig": "Tessa\n「Looks like we worked pretty well together.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Мардукас",
+   "text": "「Хотя, полагаю, до настоящей слаженности\n　команде ещё работать и работать.」",
+   "orig": "Mardukas\n「Though I think there is still work to be done\n　before we can really function as a team.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Сумераги",
+   "text": "「Спасибо, Тесса.\n　Предложенная тобой тактика себя оправдала.」",
+   "orig": "Sumeragi\n「Thanks, Tessa.\n　The tactics you proposed have really paid off.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Тесса",
+   "text": "「Помогает то, что мы и сами наёмники.\n　Мы знаем, как награда поднимает боевой дух.」",
+   "orig": "Tessa\n「It helps that we're also mercenaries.\n　We know what it's like to be motivated by rewards.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Сумераги",
+   "text": "「Награда, значит.」",
+   "orig": "Sumeragi\n「Rewards, huh.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Лассе",
+   "text": "「«Селестиал Бин» когда-то была такой же.」",
+   "orig": "Lasse\n「Celestial Being also used to be like that.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Фельдт",
+   "text": "（$kwbКрис$kwe вечно спускала все деньги\n　сразу, как только их получала.）",
+   "orig": "Feldt\n（$kwbChris$kwe always blew her money\n　right after she got it.）"
+  },
+  {
+   "i": 208,
+   "speaker": "Сумераги",
+   "text": "「Ну что ж, возвращаемся.\n　Надо оформить договор как положено.」",
+   "orig": "Sumeragi\n「Well, let's head back.\n　We've gotta formally make the agreement.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Анж",
+   "text": "「...」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 210,
+   "speaker": "Анж",
+   "text": "（Государства-основатели собирают Драконов.\n　Но зачем?）",
+   "orig": "Ange\n（The Founding Nations are collecting Dragons.\n　But what for?）"
+  },
+  {
+   "i": 211,
+   "speaker": "Анж",
+   "text": "（Живя в империи, я ничего не знала.\n　Вернее, я и не пыталась узнать.）",
+   "orig": "Ange\n（I didn't know anything while in the empire.\n　Rather, I didn't make any effort to find out.）"
+  },
+  {
+   "i": 212,
+   "speaker": "Анж",
+   "text": "（Но почему?\n　Что происходит в этом кривом мире?）",
+   "orig": "Ange\n（But why?\n　What's going on in this crooked world?）"
+  },
+  {
+   "i": 213,
+   "speaker": "Мардукас",
+   "text": "「Двенадцать целей сбито за одну минуту.」",
+   "orig": "Mardukas\n「We shot down 12 enemies in one minute.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Тесса",
+   "text": "「Слаженность отряда растёт.」",
+   "orig": "Tessa\n「Our coordination as a group is improving.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Мардукас",
+   "text": "「Да.\n　Прогресс постепенный, но действия отряда\n　становятся всё более собранными.」",
+   "orig": "Mardukas\n「Yes.\n　The improvement is gradual, but we're starting\n　to see a more concentrated group effort.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Тесса",
+   "text": "「Отряд, собранный из трёх измерений.\n　Если мы сумеем сплотиться и драться как одно\n　целое, с нами и впрямь придётся считаться.」",
+   "orig": "Tessa\n「A force made of individuals from three dimensions.\n　If we can come together and fight as one,\n　we will truly be a force to be reckoned with.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Анж",
+   "text": "（Жди, Момока.\n　Пока это всё, что я могу!）",
+   "orig": "Ange\n（Wait, Momoka.\n　This is all I can do right now!）"
+  },
+  {
+   "i": 218,
+   "speaker": "Анж",
+   "text": "（Но я с тобой!）",
+   "orig": "Ange\n（But I'm here for you!）"
+  },
+  {
+   "i": 219,
+   "speaker": "Хильда",
+   "text": "「Смотри и учись, Падшая Принцесса!\n　Не всё же выходит по-твоему!」",
+   "orig": "Hilda\n「Watch this, Fallen Princess!\n　You can't always have it your way!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Хильда",
+   "text": "「Я тебе нос расквашу!」",
+   "orig": "Hilda\n「I'm gonna break your nose!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Розали",
+   "text": "「За дело!\n　Всё, что мне не под силу одной,\n　я точно вытяну вместе с Хильдой!」",
+   "orig": "Rosalie\n「Let's do this!\n　Anything I can't do alone,\n　I can definitely do with Hilda!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Розали",
+   "text": "「Падшая Принцесса!\n　Сегодня твоему правлению конец!」",
+   "orig": "Rosalie\n「Fallen Princess!\n　Your rule ends today!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Крис",
+   "text": "（Удачи, Хильда, Розали.\n　Какой-то Падшей Принцессе мы не проиграем.）",
+   "orig": "Chris\n（Good luck, Hilda and Rosalie.\n　We won't lose to some Fallen Princess.）"
+  },
+  {
+   "i": 224,
+   "speaker": "Крис",
+   "text": "（Я сделаю всё, чтобы выжить.）",
+   "orig": "Chris\n（I'll do whatever it takes to survive.）"
+  },
+  {
+   "i": 225,
+   "speaker": "Атрун",
+   "text": "（Так больше продолжаться не может.\n　Если так пойдёт, кто-нибудь погибнет.）",
+   "orig": "Athrun\n（We can't take much more of this.\n　If this continues, somebody is gonna die.）"
+  },
+  {
+   "i": 226,
+   "speaker": "Атрун",
+   "text": "（Хоть бы он поскорее добрался!）",
+   "orig": "Athrun\n（I hope he gets here soon!）"
+  },
+  {
+   "i": 227,
+   "speaker": "Атрун",
+   "text": "（Если явится Синн,\n　я смогу оставить их противника ему!）",
+   "orig": "Athrun\n（If Shinn comes,\n　I can leave their opponent to him!）"
+  },
+  {
+   "i": 228,
+   "speaker": "Атрун",
+   "text": "（Теперь можно сосредоточиться на бою!）",
+   "orig": "Athrun\n（Now I can concentrate on fighting!）"
+  },
+  {
+   "i": 229,
+   "speaker": "Синн",
+   "text": "（Не знаю, что было на уме у Атруна,\n　когда он меня вызвал,\n　но раз на меня рассчитывают — не подведу!）",
+   "orig": "Shinn\n（I don't know what Athrun was thinking\n　when he summoned me,\n　but if he's counting on me, I'll deliver!）"
+  },
+  {
+   "i": 230,
+   "speaker": "Синн",
+   "text": "（Была не была!\n　Сегодня начинается новая битва!）",
+   "orig": "Shinn\n（Here goes nothing!\n　Today marks the start of a new battle!）"
+  },
+  {
+   "i": 231,
+   "speaker": "Лунамария",
+   "text": "「Раз объявились Марсианские преемники,\n　отсиживаться в Орбе я не могу.」",
+   "orig": "Lunamaria\n「Now that the Martian Successors have appeared,\n　I can't take it easy in Orb.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Лунамария",
+   "text": "「Я буду драться рядом с Синном.\n　Я буду драться за этот мир!」",
+   "orig": "Lunamaria\n「I'll fight at Shinn's side.\n　I'll fight for this world!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Ал",
+   "text": "「Сержант.」",
+   "orig": "Al\n「Sergeant.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Соскэ",
+   "text": "「Что такое, Ал?」",
+   "orig": "Sousuke\n「What is it, Al?」"
+  },
+  {
+   "i": 235,
+   "speaker": "Ал",
+   "text": "「Как вы считаете, ИИ, установленный\n　на этих дронах, отличается от меня?」",
+   "orig": "Al\n「Do you think the AI equipped on\n　the drones is different from me?」"
+  },
+  {
+   "i": 236,
+   "speaker": "Соскэ",
+   "text": "「Ты союзник, а они враги.\n　Нужен разбор подробнее — спроси Мао.」",
+   "orig": "Sousuke\n「You're our ally, and they're our enemies.\n　Ask Mao if you want a more detailed analysis.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Ал",
+   "text": "「Принято.\n　Но, пожалуй, я подумаю над этим сам.」",
+   "orig": "Al\n「Understood.\n　Though I think I'd like to consider it on my own.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Сумераги",
+   "text": "（Этот отряд дронов.\n　Я совсем не уверена, что они здесь, чтобы\n　устранить нарушителя в секторе D.）",
+   "orig": "Sumeragi\n（This drone force.\n　I'm not really sure that they're here\n　to eliminate the trespasser in Area D.）"
+  },
+  {
+   "i": 239,
+   "speaker": "Сумераги",
+   "text": "（Что, если их запрограммировали бить по нам?\n　И если так — то почему?）",
+   "orig": "Sumeragi\n（What if they've been programmed to attack us?\n　And if that's the case, why is it the case?）"
+  },
+  {
+   "i": 240,
+   "speaker": "Салия",
+   "text": "（1-я эскадрилья совсем развалилась\n　из-за Анж и этих чужаков!）",
+   "orig": "Salia\n（The 1st Squadron is in complete disarray\n　thanks to Ange and those outsiders!）"
+  },
+  {
+   "i": 241,
+   "speaker": "Салия",
+   "text": "（Если так пойдёт дальше, Арсенал\n　уже никогда не будет прежним!）",
+   "orig": "Salia\n（If this keeps up, Arzenal will\n　never be the same!）"
+  },
+  {
+   "i": 242,
+   "speaker": "$n",
+   "text": "「О!」",
+   "orig": "$n\n「Oh!」"
+  }
+ ]
+}

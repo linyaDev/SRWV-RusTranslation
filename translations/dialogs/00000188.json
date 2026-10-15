@@ -1,0 +1,2098 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Ангар Арсенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Курц",
+   "text": "「Эй, Анж.\n　Как насчёт чашечки чая?」",
+   "orig": "Kurz\n「Hey, Ange.\n　How 'bout some tea?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Анж",
+   "text": "「…」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 6,
+   "speaker": "Курц",
+   "text": "「Когда ты так на меня зыркаешь,\n　твоё милое личико совсем не выигрывает.」",
+   "orig": "Kurz\n「You're not doing your pretty face any\n　favors when you scowl at me like that.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Курц",
+   "text": "「Улыбка пошла бы тебе куда больше.\n　Покажи мне самую лучшую.」",
+   "orig": "Kurz\n「A smile would go a lot farther.\n　Show me the best one you've got.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Анж",
+   "text": "「Я собираюсь на тренировку.\n　Будь добр, не путайся под ногами.」",
+   "orig": "Ange\n「I'm about to start training.\n　Mind staying out of my way?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Курц",
+   "text": "「Упрямая штучка.」",
+   "orig": "Kurz\n「She's a stubborn one.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Розали",
+   "text": "「Эта дрянь отлично умеет\n　запускать коготки в мужчин.」",
+   "orig": "Rosalie\n「That bag of filth sure knows how\n　to get her claws into men.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Крис",
+   "text": "「Шлюха. Свинья.」",
+   "orig": "Chris\n「Harlot. Pig.」"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "「Эй! Кто бы говорил,\n　только не вы двое!\n　Сами же таяли при виде Атруна!」",
+   "orig": "$n\n「Hey! That's big talk coming\n　from the two of you!\n　Weren't you head over heels for Athrun?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Розали",
+   "text": "「Я не желаю слышать от таких, как ты,\n　ни единого дерзкого слова про Атруна!」",
+   "orig": "Rosalie\n「I don't need to hear a single condescending\n　word about Athrun from the likes of you!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Крис",
+   "text": "「И не смей равнять себя с Атруном!」",
+   "orig": "Chris\n「Don't you dare try to pretend you're Athrun!」"
+  },
+  {
+   "i": 15,
+   "speaker": "$n",
+   "text": "「А в чём разница?」",
+   "orig": "$n\n「What's the difference?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Найн",
+   "text": "「Полагаю, в харизме.」",
+   "orig": "Nine\n「I think it's his charisma.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Эрша",
+   "text": "「И, наверное, в доброте?」",
+   "orig": "Ersha\n「And maybe kindness as well?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Вивиан",
+   "text": "「И не забывайте, какой он крутой!」",
+   "orig": "Vivian\n「Don't forget how cool he is!」"
+  },
+  {
+   "i": 19,
+   "speaker": "$n",
+   "text": "「Трижды мимо, значит.」",
+   "orig": "$n\n「A triple threat, huh.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Клузо",
+   "text": "「Мне показалось, что на прошлой вечеринке\n　отношения всё-таки потеплели.」",
+   "orig": "Clouseau\n「I think I saw an improvement\n　in relations at the previous party.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Аллилуйя",
+   "text": "「Анж и правда заметно оттаяла\n　рядом с Эршей и Вивиан.」",
+   "orig": "Allelujah\n「Ange really seemed to open\n　up to Ersha and Vivian.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Тиерия",
+   "text": "「Но враждебность остальных мэйл-райдеров\n　никуда не делась.」",
+   "orig": "Tieria\n「But the animosity from the other\n　Mail Riders is as strong as ever.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Тиерия",
+   "text": "「Думаю, причина в том, что действия Анж\n　затмевают их собственные успехи.」",
+   "orig": "Tieria\n「I think the reason is that Ange's actions\n　have cast a shadow over their successes.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Мари",
+   "text": "「Не сказала бы, что это оправдывает такую злобу,\n　но и наши рабочие отношения с 1-м отрядом\n　хорошими назвать трудно.」",
+   "orig": "Marie\n「I don't think it warrants that degree of animosity,\n　but I can't really say our working relationship\n　with the 1st Squadron is a good one.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Мао",
+   "text": "「Такая уж у них работа.\n　Для них всякий, кто помогает бить Драконов, —\n　всё равно что конкурент по бизнесу.」",
+   "orig": "Mao\n「It's the nature of their work.\n　For them, having people help them fight\n　Dragons is akin to having business rivals.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Клузо",
+   "text": "「У них меньше сбитых —\n　значит, меньше денег.\n　Вот в чём корень проблемы.」",
+   "orig": "Clouseau\n「In their case, a decrease in kills\n　means a decrease in income.\n　That's the root of the problem.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Локон",
+   "text": "「Деньги для них дороже\n　собственной безопасности.」",
+   "orig": "Lockon\n「They value money\n　above their safety.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Аллилуйя",
+   "text": "「Для Сумераги и капитана Тестароссы\n　это превращается в сплошную головную боль.」",
+   "orig": "Allelujah\n「It's getting to be a huge pain in the neck\n　for Sumeragi and Captain Testarossa.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Мао",
+   "text": "「Мы тоже наёмники и работаем за деньги,\n　но они-то болтают так, будто поход\n　в лавку Жасмин — единственная радость в жизни.」",
+   "orig": "Mao\n「We're also mercenaries who work for money,\n　But they run their mouths off like shopping\n　at Jasmine's shop is the only joy in their lives.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Мари",
+   "text": "「Кстати, сегодня как раз должны\n　привезти припасы с большой земли.」",
+   "orig": "Marie\n「That reminds me, we're due to get\n　supplies from the outside today.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Хильда",
+   "text": "「Уймись, пока цел, мужлан.\n　Ещё раз подкатишь к Розали или Крис —\n　и тебе этого не забудут.」",
+   "orig": "Hilda\n「Stop while you're ahead, man-beast.\n　Make one more pass at Rosalie or Chris,\n　and you won't hear the end of it.」"
+  },
+  {
+   "i": 32,
+   "speaker": "$n",
+   "text": "「Ясно.」",
+   "orig": "$n\n「Got it.」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Тогда, может, составишь мне компанию ты?」",
+   "orig": "$n\n「Mind if I ask for your company instead, then?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Хильда",
+   "text": "「Надо же. Кому-то жить надоело?」",
+   "orig": "Hilda\n「Well what do we have here? A man with a death wish?」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「Да ты что!\n　Я живу с твёрдым намерением\n　пережить тут всех и каждого!」",
+   "orig": "$n\n「Don't be ridiculous!\n　I live my life with the intent\n　of outlasting everyone!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Эрша",
+   "text": "「Смелая цель для такого безрассудного.」",
+   "orig": "Ersha\n「A lofty goal for someone so careless.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Найн",
+   "text": "「Да.\n　Ты — живое воплощение минного поля.」",
+   "orig": "Nine\n「Yes.\n　You're the living embodiment of a minefield.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Вивиан",
+   "text": "「Проще говоря, ты дурачина!」",
+   "orig": "Vivian\n「Basically, you're an idiot!」"
+  },
+  {
+   "i": 39,
+   "speaker": "$n",
+   "text": "「Соскэ.\n　Сделай что-нибудь с этими девчонками.\n　Даже безобидный флирт уже не проходит.」",
+   "orig": "$n\n「Sousuke.\n　Do something about these girls for me.\n　Not even playful flirting is acceptable.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Соскэ",
+   "text": "「Понял.」",
+   "orig": "Sousuke\n「Understood.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Вивиан",
+   "text": "「А?\n　Соскэ, ты поиграешь с нами?」",
+   "orig": "Vivian\n「Huh?\n　You're going to play with us, Sousuke?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Соскэ",
+   "text": "「Так точно. Стрелковая или рукопашная подготовка.\n　Что предпочитаете?」",
+   "orig": "Sousuke\n「Sure. Shooting or fighting training.\n　Which do you prefer?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Канамэ",
+   "text": "「И это у тебя называется «поиграть»?」",
+   "orig": "Kaname\n「That's \"play\" to you?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Эрша",
+   "text": "「Ну… пусть будет стрелковая, наверное.\n　Я хоть и вожусь с тяжёлой артиллерией,\n　а своими руками стреляю так себе.」",
+   "orig": "Ersha\n「Well, uh, shooting training, I guess.\n　Even though I use heavy artillery,\n　I don't shoot all that well in the flesh.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Найн",
+   "text": "「Полагаю, дело в груди: она мешает\n　держать устойчивое положение при стрельбе.」",
+   "orig": "Nine\n「I presume that's because your chest gets\n　in the way by hindering stability when shooting.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Вивиан",
+   "text": "「Тогда давайте рукопашную!\n　Хотя эта грудь и там будет сильно отвлекать!」",
+   "orig": "Vivian\n「Let's go with fighting training, then!\n　Though that chest could prove quite a distraction!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Эрша",
+   "text": "「Вивиан, Найн, хватит уже!」",
+   "orig": "Ersha\n「Vivian, Nine, enough of that!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Соскэ",
+   "text": "「Значит, рукопашная подготовка.」",
+   "orig": "Sousuke\n「Fighting training it is.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Вивиан",
+   "text": "「Так, и что я должна сказать…\n　А, «есть, сэр!»」",
+   "orig": "Vivian\n「Let's see... I'm supposed to say...\n　Ah, \"yes, sir!\"」"
+  },
+  {
+   "i": 50,
+   "speaker": "Канамэ",
+   "text": "「Они всё ближе подбираются к Соскэ!」",
+   "orig": "Kaname\n「They're getting closer to Sousuke!」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「Его тоже растили для войны,\n　и об обычной жизни он знает мало.\n　С этими девчонками та же история.」",
+   "orig": "$n\n「He was also raised for war\n　and has little understanding of social norms.\n　These kids are the same.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Канамэ",
+   "text": "「Вот оно что.」",
+   "orig": "Kaname\n「I see.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Мао",
+   "text": "「Нападение?」",
+   "orig": "Mao\n「Enemy attack?」"
+  },
+  {
+   "i": 54,
+   "speaker": "Анж",
+   "text": "「Если так, надо немедленно вылетать!」",
+   "orig": "Ange\n「If so, we've gotta dispatch!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Джилл",
+   "text": "「Внимание всему личному составу.\n　На территории Арсенала посторонний.」",
+   "orig": "Jill\n「Informing all hands.\n　There is a trespasser in Arzenal.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Хильда",
+   "text": "「Пробралась вместе с сегодняшней поставкой.」",
+   "orig": "Hilda\n「She slipped in through today's delivery.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Розали",
+   "text": "「Каким же надо быть психом,\n　чтобы самому лезть в этот ад!」",
+   "orig": "Rosalie\n「What kind of freak would come\n　to this hell on purpose!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Джилл",
+   "text": "「Цель направлялась в сторону леса.\n　1-му отряду немедленно выдвинуться\n　на место и задержать её.」",
+   "orig": "Jill\n「The target was heading for the forest.\n　1st Squadron is to head to the site\n　and apprehend her immediately.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Крис",
+   "text": "「Интересно, за её голову дают награду?」",
+   "orig": "Chris\n「I wonder if there's a price on her head.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Хильда",
+   "text": "「!」",
+   "orig": "Hilda\n「!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Вивиан",
+   "text": "「!」",
+   "orig": "Vivian\n「!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Розали",
+   "text": "「За дело!\n　Поймаю её и выменяю на деньги —\n　как раз хватит на запчасти к «Глэйву» и новую юбку!」",
+   "orig": "Rosalie\n「Let's do this!\n　I'll catch her and trade her in for the cash\n　needed to get Glaive parts and a new skirt!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Курц",
+   "text": "「Эй, Анж.\n　Как насчёт чашечки чая?」",
+   "orig": "Kurz\n「Hey, Ange.\n　How 'bout some tea?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Анж",
+   "text": "「…」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 65,
+   "speaker": "Курц",
+   "text": "「Когда ты так на меня зыркаешь,\n　твоё милое личико совсем не выигрывает.」",
+   "orig": "Kurz\n「You're not doing your pretty face any\n　favors when you scowl at me like that.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Курц",
+   "text": "「Улыбка пошла бы тебе куда больше.\n　Покажи мне самую лучшую.」",
+   "orig": "Kurz\n「A smile would go a lot farther.\n　Show me the best one you've got.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Анж",
+   "text": "「Я собираюсь на тренировку.\n　Будь добр, не путайся под ногами.」",
+   "orig": "Ange\n「I'm about to start training.\n　Mind staying out of my way?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Курц",
+   "text": "「Упрямая штучка.」",
+   "orig": "Kurz\n「She's a stubborn one.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Розали",
+   "text": "「Эта дрянь отлично умеет\n　запускать коготки в мужчин.」",
+   "orig": "Rosalie\n「That bag of filth sure knows how\n　to get her claws into men.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Крис",
+   "text": "「Шлюха. Свинья.」",
+   "orig": "Chris\n「Harlot. Pig.」"
+  },
+  {
+   "i": 71,
+   "speaker": "$n",
+   "text": "「Эй! Кто бы говорил,\n　только не вы двое!\n　Сами же таяли при виде Атруна!」",
+   "orig": "$n\n「Hey! That's big talk coming\n　from the two of you!\n　Weren't you head over heels for Athrun?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Розали",
+   "text": "「Я не желаю слышать от таких, как ты,\n　ни единого дерзкого слова про Атруна!」",
+   "orig": "Rosalie\n「I don't need to hear a single condescending\n　word about Athrun from the likes of you!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Крис",
+   "text": "「Ты!\n　Ты же не собираешься\n　забрать Атруна себе одной?」",
+   "orig": "Chris\n「You!\n　You're not here take Athrun\n　all for yourself, now, are you?」"
+  },
+  {
+   "i": 74,
+   "speaker": "$n",
+   "text": "「Ни за что!」",
+   "orig": "$n\n「Never!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Найн",
+   "text": "「Уверены?」",
+   "orig": "Nine\n「You sure?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Вивиан",
+   "text": "「Даже при том, что он крутой?」",
+   "orig": "Vivian\n「Even though he's cool?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Эрша",
+   "text": "「И настоящий джентльмен.」",
+   "orig": "Ersha\n「And quite the gentleman.」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Н-но дело вовсе не в том,\n　нравится мне кто-то или нет.」",
+   "orig": "$n\n「B-but this has nothing to do\n　with liking someone or not.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Найн",
+   "text": "「Вы покраснели.\n　У вас жар?」",
+   "orig": "Nine\n「You're turning red.\n　Do you have a fever?」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Найн.\n　Ты на что-то намекаешь?」",
+   "orig": "$n\n「Nine.\n　Are you implying something?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Найн",
+   "text": "「Может, да, а может, и нет.」",
+   "orig": "Nine\n「Maybe yes, maybe no.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Вивиан",
+   "text": "「$n, ты такая прелесть!\n　Вы с Салией отлично подружились бы!」",
+   "orig": "Vivian\n「You're so cute, $n!\n　You and Salia would make great friends!」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Вот как.」",
+   "orig": "$n\n「Huh.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Клузо",
+   "text": "「Мне показалось, что на прошлой вечеринке\n　отношения всё-таки потеплели.」",
+   "orig": "Clouseau\n「I think I saw an improvement\n　in relations at the previous party.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Аллилуйя",
+   "text": "「Анж и правда заметно оттаяла\n　рядом с Эршей и Вивиан.」",
+   "orig": "Allelujah\n「Ange really seemed to open\n　up to Ersha and Vivian.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Тиерия",
+   "text": "「Но враждебность остальных мэйл-райдеров\n　никуда не делась.」",
+   "orig": "Tieria\n「But the animosity from the other\n　Mail Riders is as strong as ever.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Тиерия",
+   "text": "「Думаю, причина в том, что действия Анж\n　затмевают их собственные успехи.」",
+   "orig": "Tieria\n「I think the reason is that Ange's actions\n　have cast a shadow over their successes.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Мари",
+   "text": "「Не сказала бы, что это оправдывает такую злобу,\n　но и наши рабочие отношения с 1-м отрядом\n　хорошими назвать трудно.」",
+   "orig": "Marie\n「I don't think it warrants that degree of animosity,\n　but I can't really say our working relationship\n　with the 1st Squadron is a good one.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Мао",
+   "text": "「Такая уж у них работа.\n　Для них всякий, кто помогает бить Драконов, —\n　всё равно что конкурент по бизнесу.」",
+   "orig": "Mao\n「It's the nature of their work.\n　For them, having people help them fight\n　Dragons is akin to having business rivals.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Клузо",
+   "text": "「У них меньше сбитых —\n　значит, меньше денег.\n　Вот в чём корень проблемы.」",
+   "orig": "Clouseau\n「In their case, a decrease in kills\n　means a decrease in income.\n　That's the root of the problem.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Локон",
+   "text": "「Деньги для них дороже\n　собственной безопасности.」",
+   "orig": "Lockon\n「They value money\n　above their safety.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Аллилуйя",
+   "text": "「Для Сумераги и капитана Тестароссы\n　это превращается в сплошную головную боль.」",
+   "orig": "Allelujah\n「It's getting to be a huge pain in the neck\n　for Sumeragi and Captain Testarossa.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Мао",
+   "text": "「Мы тоже наёмники и работаем за деньги,\n　но они-то болтают так, будто поход\n　в лавку Жасмин — единственная радость в жизни.」",
+   "orig": "Mao\n「We're also mercenaries who work for money,\n　But they run their mouths off like shopping\n　at Jasmine's shop is the only joy in their lives.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Мари",
+   "text": "「Кстати, сегодня как раз должны\n　привезти припасы с большой земли.」",
+   "orig": "Marie\n「That reminds me, we're due to get\n　supplies from the outside today.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Хильда",
+   "text": "「Оставь это, $n.\n　Если тебя не устраивают наши порядки,\n　мы с радостью сочтём тебя врагом.」",
+   "orig": "Hilda\n「Let it go, $n.\n　If you have a problem with how we do things,\n　we'll happily treat you as an enemy.」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Хильда.」",
+   "orig": "$n\n「Hilda.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Хильда",
+   "text": "「Ч-чего?」",
+   "orig": "Hilda\n「W-what?」"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「Я надеялся, что мы сможем поладить,\n　но этому, похоже, не бывать?」",
+   "orig": "$n\n「I was hoping we could be closer,\n　but it's not going to happen, is it?」"
+  },
+  {
+   "i": 99,
+   "speaker": "Вивиан",
+   "text": "「Ого!\n　Вот это прямо в лоб!」",
+   "orig": "Vivian\n「Whoa!\n　Straight to the point!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хильда",
+   "text": "「Я… я бы так не сказала.」",
+   "orig": "Hilda\n「I-I wouldn't put it like that.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Эрша",
+   "text": "（Ах…\n　Хильда совсем не умеет обороняться.）",
+   "orig": "Ersha\n（Ah...\n　Hilda isn't good on the defensive.）"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「Тогда есть о чём поговорить.\n　И это касается всех троих.」",
+   "orig": "$n\n「Then there are things I'd like to discuss.\n　That goes for all three of you.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Хильда",
+   "text": "「Н-ну, от разговора вреда не будет.」",
+   "orig": "Hilda\n「I-I don't see the harm in a little talk.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Вивиан",
+   "text": "「Эй, $n!\n　Давай поиграем!」",
+   "orig": "Vivian\n「Hey, $n!\n　Let's play!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Эрша",
+   "text": "「Не сейчас, Виви.\n　Это дело между $n и Хильдой.」",
+   "orig": "Ersha\n「No, Vivi.\n　This is between $n and Hilda.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Соскэ",
+   "text": "「Тогда я поиграю с вами\n　вместо $l.」",
+   "orig": "Sousuke\n「Then I'll play with you\n　in $l's place.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Вивиан",
+   "text": "「А?\n　Соскэ, ты поиграешь с нами?」",
+   "orig": "Vivian\n「Huh?\n　You're going to play with us, Sousuke?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Соскэ",
+   "text": "「Так точно. Стрелковая или рукопашная подготовка.\n　Что предпочитаете?」",
+   "orig": "Sousuke\n「Sure. Shooting or fighting training.\n　Which do you prefer?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Канамэ",
+   "text": "「И это у тебя называется «поиграть»?」",
+   "orig": "Kaname\n「That's \"play\" to you?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Эрша",
+   "text": "「Ну… пусть будет стрелковая, наверное.\n　Я хоть и вожусь с тяжёлой артиллерией,\n　а своими руками стреляю так себе.」",
+   "orig": "Ersha\n「Well, uh, shooting training, I guess.\n　Even though I use heavy artillery,\n　I don't shoot all that well in the flesh.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Найн",
+   "text": "「Полагаю, дело в груди: она мешает\n　держать устойчивое положение при стрельбе.」",
+   "orig": "Nine\n「I presume that's because your chest gets\n　in the way by hindering stability when shooting.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Вивиан",
+   "text": "「Тогда давайте рукопашную!\n　Хотя эта грудь и там будет сильно отвлекать!」",
+   "orig": "Vivian\n「Let's go with fighting training, then!\n　Though that chest could prove quite a distraction!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Эрша",
+   "text": "「Вивиан, Найн, хватит уже!」",
+   "orig": "Ersha\n「Vivian, Nine, enough of that!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Соскэ",
+   "text": "「Значит, рукопашная подготовка.」",
+   "orig": "Sousuke\n「Fighting training it is.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Вивиан",
+   "text": "「Так, и что я должна сказать…\n　А, «есть, сэр!»」",
+   "orig": "Vivian\n「Let's see... I'm supposed to say...\n　Ah, \"yes, sir!\"」"
+  },
+  {
+   "i": 116,
+   "speaker": "Канамэ",
+   "text": "「Они всё ближе подбираются к Соскэ!」",
+   "orig": "Kaname\n「They're getting closer to Sousuke!」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「Его тоже растили для войны,\n　и об обычной жизни он знает мало.\n　С этими девчонками та же история.」",
+   "orig": "$n\n「He was also raised for war\n　and has little understanding of social norms.\n　These kids are the same.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Канамэ",
+   "text": "「Вот оно что.」",
+   "orig": "Kaname\n「I see.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Мао",
+   "text": "「Нападение?」",
+   "orig": "Mao\n「Enemy attack?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Анж",
+   "text": "「Если так, надо немедленно вылетать!」",
+   "orig": "Ange\n「If so, we've gotta dispatch!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Джилл",
+   "text": "「Внимание всему личному составу.\n　На территории Арсенала посторонний.」",
+   "orig": "Jill\n「Informing all hands.\n　There is a trespasser in Arzenal.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Хильда",
+   "text": "「Пробралась вместе с сегодняшней поставкой.」",
+   "orig": "Hilda\n「She slipped in through today's delivery.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Розали",
+   "text": "「Каким же надо быть психом,\n　чтобы самому лезть в этот ад!」",
+   "orig": "Rosalie\n「What kind of freak would come\n　to this hell on purpose!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Джилл",
+   "text": "「Цель направлялась в сторону леса.\n　1-му отряду немедленно выдвинуться\n　на место и задержать её.」",
+   "orig": "Jill\n「The target was heading for the forest.\n　1st Squadron is to head to the site\n　and apprehend her immediately.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Крис",
+   "text": "「Интересно, за её голову дают награду?」",
+   "orig": "Chris\n「I wonder if there's a price on her head.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Хильда",
+   "text": "「!」",
+   "orig": "Hilda\n「!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Вивиан",
+   "text": "「!」",
+   "orig": "Vivian\n「!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Розали",
+   "text": "「За дело!\n　Поймаю его и выменяю на деньги —\n　как раз хватит на запчасти к «Глэйву» и новую юбку!」",
+   "orig": "Rosalie\n「Let's do this!\n　I'll catch him and trade her in for the cash\n　needed to get Glaive parts and a new skirt!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Хильда",
+   "text": "「Розали! Крис!\n　Заходите сбоку и отрезайте путь!」",
+   "orig": "Hilda\n「Rosalie! Chris!\n　Swing around and cut 'em off!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Крис",
+   "text": "「Поняла!」",
+   "orig": "Chris\n「Understood!」"
+  },
+  {
+   "i": 134,
+   "speaker": "？？？",
+   "text": "「!」",
+   "orig": "？？？\n「!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Розали",
+   "text": "「А ну стой!\n　Иначе будем стрелять!」",
+   "orig": "Rosalie\n「Stop right there!\n　We'll shoot if you don't!」"
+  },
+  {
+   "i": 136,
+   "speaker": "？？？",
+   "text": "「О Свет Маны!\n　Защити меня!」",
+   "orig": "？？？\n「Oh Light of Mana!\n　Shield me!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Салия",
+   "text": "「Он остановил наши пули?」",
+   "orig": "Salia\n「It stopped our bullets?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Анж",
+   "text": "「Свет Маны.」",
+   "orig": "Ange\n「The Light of Mana.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Момока",
+   "text": "「Прошу, прекратите!\n　Я пришла лишь для того,\n　чтобы увидеть Анджелиз!」",
+   "orig": "Momoka\n「Please stop!\n　I'm only here to meet\n　with Angelise!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Анж",
+   "text": "「Момока?」",
+   "orig": "Ange\n「Momoka?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Момока",
+   "text": "「Ах.」",
+   "orig": "Momoka\n「Oh.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Момока",
+   "text": "「Это вы, Анджелиз?」",
+   "orig": "Momoka\n「Is that you, Angelise?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Момока",
+   "text": "「Анджелиз!!」",
+   "orig": "Momoka\n「Angelise!!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Анж",
+   "text": "「…」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 148,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Столовая Арсенала-",
+   "orig": "　\n　\n　　　　　　　　　　-Arzenal Mess Hall-"
+  },
+  {
+   "i": 149,
+   "speaker": "Локон",
+   "text": "「Та самая нарушительница.\n　Она служила Анж, когда та была принцессой.」",
+   "orig": "Lockon\n「That trespasser.\n　She served Ange when she was still a princess.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Тиерия",
+   "text": "「Её зовут Момока Огиномэ.\n　Она была старшей горничной Анджелиз.」",
+   "orig": "Tieria\n「Her name is Momoka Oginome.\n　She was Angelise's head maid.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Тиерия",
+   "text": "「Её обязанностью было скрывать, что принцесса\n　не владеет Маной, применяя её вместо неё.」",
+   "orig": "Tieria\n「Her duty was to hide the princess'\n　Mana shortcomings by using it in her place.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Сэцуна",
+   "text": "「Их связывало не только служение.\n　Она любила Анж всем сердцем.」",
+   "orig": "Setsuna\n「They were more than just master and servant.\n　She loved Ange from the bottom of her heart.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Аллилуйя",
+   "text": "「Иначе она вряд ли рискнула бы\n　сюда добираться.」",
+   "orig": "Allelujah\n「I suppose if she didn't,\n　she wouldn't have risked coming here.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Мари",
+   "text": "「Вопрос в том, что с ней теперь делать.」",
+   "orig": "Marie\n「The problem is what to do with her.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Розали",
+   "text": "「Тут и думать нечего.\n　Это место и Драконы — тайна.」",
+   "orig": "Rosalie\n「There's no two ways about it.\n　This place and the Dragons are a secret.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Крис",
+   "text": "「Нарушителей казнят.\n　Говорят, её передадут со следующей\n　поставкой и казнят в открытом море.」",
+   "orig": "Chris\n「Trespassers are to be executed.\n　Word is she's to be handed over on the\n　next delivery and executed at sea.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Атрун",
+   "text": "「И её никак не спасти?」",
+   "orig": "Athrun\n「Is there no way to save her?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Розали",
+   "text": "「Атрун, не стоит тебе забивать\n　голову из-за такой, как она.」",
+   "orig": "Rosalie\n「Athrun, there's no need to concern\n　yourself with the likes of her.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Крис",
+   "text": "「Верно.\n　Это всё вина Анж.」",
+   "orig": "Chris\n「She's right.\n　This is all Ange's fault.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Атрун",
+   "text": "「Анж?」",
+   "orig": "Athrun\n「Ange?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Розали",
+   "text": "「Все, кто её любит,\n　в итоге погибают.」",
+   "orig": "Rosalie\n「Everybody who loves\n　her ends up dead.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Крис",
+   "text": "「Коко. Миранда.\n　Теперь эта девчонка.\n　Она жестокая. Невероятно жестокая.」",
+   "orig": "Chris\n「Coco. Miranda.\n　Now this girl.\n　She's cruel. Incredibly cruel.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Атрун",
+   "text": "「Вы ошибаетесь.」",
+   "orig": "Athrun\n「You're wrong.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Крис",
+   "text": "「Что?」",
+   "orig": "Chris\n「Huh?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Атрун",
+   "text": "「И гибель новобранцев, и казнь девушки\n　за то, что она сюда пришла, — всё это\n　из-за здешних порядков!」",
+   "orig": "Athrun\n「The recruits' deaths and the girl's execution\n　for coming here are all because of the system\n　in place here!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Розали",
+   "text": "「Атрун…」",
+   "orig": "Rosalie\n「Athrun...」"
+  },
+  {
+   "i": 167,
+   "speaker": "Хильда",
+   "text": "「Розали! Крис! Вы чего расселись?\n　Доедайте и пошли.」",
+   "orig": "Hilda\n「Rosalie! Chris! What are you doing?\n　Let's finish eating and get going.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Крис",
+   "text": "「Н-ну ладно.」",
+   "orig": "Chris\n「O-OK.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Розали",
+   "text": "「До встречи, Атрун.\n　Береги себя.」",
+   "orig": "Rosalie\n「Until next time, Athrun.\n　Take care.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Сэцуна",
+   "text": "「Атрун.」",
+   "orig": "Setsuna\n「Athrun.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Атрун",
+   "text": "「Прости.\n　Не хотел срываться.」",
+   "orig": "Athrun\n「Sorry.\n　Didn't mean to lose my cool.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Аллилуйя",
+   "text": "「Всё нормально, Атрун.\n　Тебя и без того гложет, как быть\n　с натуралами и координаторами.」",
+   "orig": "Allelujah\n「It's OK, Athrun.\n　You're already worried and lost about what\n　to do about the Naturals and Coordinators.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Атрун",
+   "text": "「Когда я услышал об этом месте от Кагалли,\n　во мне вскипел невиданный прежде гнев.」",
+   "orig": "Athrun\n「When I heard about this place from Cagalli,\n　I felt an anger unlike any I'd ever felt before.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Атрун",
+   "text": "「Такой дискриминации не должно быть места.\n　Потому я и пришёл сюда сам, чтобы помочь.」",
+   "orig": "Athrun\n「This kind of discrimination should not be allowed.\n　That's why I came here of my own accord to help.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Аллилуйя",
+   "text": "「Ясно.\n　Так вот почему ты здесь.」",
+   "orig": "Allelujah\n「I see.\n　So that's why you're here.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Тиерия",
+   "text": "「И всё же ты нам очень помог.\n　А те девушки от тебя без ума.」",
+   "orig": "Tieria\n「But you've been a huge help to us.\n　And those girls have taken to you.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Локон",
+   "text": "「Сочувствую, что тебе выпало быть их кумиром.」",
+   "orig": "Lockon\n「I'm deeply sorry you have to be their idol.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Атрун",
+   "text": "「С этим я справлюсь.\n　К тому же я вызвал подмогу.」",
+   "orig": "Athrun\n「That I don't mind.\n　Because I've arranged for help.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Сэцуна",
+   "text": "「Подмогу?」",
+   "orig": "Setsuna\n「Help?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Атрун",
+   "text": "「Да.\n　Уверен, он нам пригодится.」",
+   "orig": "Athrun\n「Yes.\n　And I'm sure he'll be of use to us.」"
+  },
+  {
+   "i": 184,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　-Комната Анж-",
+   "orig": "　\n　\n　　　　　　　　　　　　-Ange's Room-"
+  },
+  {
+   "i": 185,
+   "speaker": "Момока",
+   "text": "「Так вот ваша комната.」",
+   "orig": "Momoka\n「So this is your room.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Анж",
+   "text": "「Садись.\n　Тебе разрешили остаться здесь\n　до завтрашней поставки.」",
+   "orig": "Ange\n「Have a seat.\n　You've been permitted to stay here\n　until tomorrow's delivery.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Момока",
+   "text": "「Целых три дня вместе!\n　Быть рядом с вами — это уже\n　сбывшаяся мечта!」",
+   "orig": "Momoka\n「Reunited for three days!\n　Being by your side already feels\n　like a dream come true!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Момока",
+   "text": "「Вы ведь будете переодеваться.\n　Позвольте вам помочь.」",
+   "orig": "Momoka\n「You'll be changing your clothes, I assume.\n　Please allow me to help.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Анж",
+   "text": "「Не нужно.」",
+   "orig": "Ange\n「Don't worry about it.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Момока",
+   "text": "「Как это?\n　Это же долг вашей старшей\n　горничной Момоки!」",
+   "orig": "Momoka\n「What do you mean?\n　It's the duty of I, Momoka,\n　your head maid!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Анж",
+   "text": "「Мне не нужна твоя помощь!」",
+   "orig": "Ange\n「I don't need your help!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Момока",
+   "text": "「П-прошу прощения.」",
+   "orig": "Momoka\n「I-I do apologize.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Анж",
+   "text": "「…」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 194,
+   "speaker": "Момока",
+   "text": "「Вы коротко постриглись.\n　Вам очень идёт.」",
+   "orig": "Momoka\n「You've cut your hair short.\n　It is very becoming on you.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Момока",
+   "text": "「В этом есть что-то взрослое.\n　Будто вы оставили позади ту принцессу,\n　которой когда-то были.」",
+   "orig": "Momoka\n「It has an adult feel to it.\n　It's almost like you've left behind\n　the princess you used to be.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Анж",
+   "text": "「Называй как хочешь,\n　но Анджелиз больше нет.」",
+   "orig": "Ange\n「Call it what you will,\n　but Angelise no longer exists.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Момока",
+   "text": "「Как вы можете так говорить?\n　Вы и есть Анджелиз!」",
+   "orig": "Momoka\n「How can you say that?\n　You're Angelise!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Момока",
+   "text": "「Я не вернусь!\n　Я не отойду от вас ни на шаг!\n　Я буду служить вам вечно!」",
+   "orig": "Momoka\n「I won't go back!\n　I won't leave your side!\n　I'm here to serve you forever!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Анж",
+   "text": "「Так когда ты узнала?\n　Когда ты узнала,\n　что я Норма?」",
+   "orig": "Ange\n「So when did you find out?\n　When did you find out that\n　I was a Norma?」"
+  },
+  {
+   "i": 200,
+   "speaker": "Момока",
+   "text": "「!」",
+   "orig": "Momoka\n「!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Анж",
+   "text": "「Наверняка с самого начала.\n　Отец приставил тебя ко мне,\n　чтобы мне не пришлось пользоваться Маной?」",
+   "orig": "Ange\n「It must have been from the start.\n　My father introduced you to me\n　so that I wouldn't have to use Mana, right?」"
+  },
+  {
+   "i": 202,
+   "speaker": "Момока",
+   "text": "「Мне всё равно, что случится\n　и что скажут другие. Моё место рядом\n　с вами, и этим всё сказано.」",
+   "orig": "Momoka\n「I don't care what happens\n　or what anybody says. I belong by\n　your side, and that's just how it is.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Момока",
+   "text": "「Я искала вас и искала,\n　и вот наконец я рядом с вами!\n　Прошу, умоляю, позвольте мне остаться.」",
+   "orig": "Momoka\n「I've been chasing and chasing,\n　and now I am finally here with you!\n　Please, please allow me to stay.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Анж",
+   "text": "「Это место не для людей.」",
+   "orig": "Ange\n「This is no place for a human.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Анж",
+   "text": "「Ты ведь уже это поняла?\n　Еда скверная, условия — сплошная грязь.\n　И смерть тут поджидает на каждом шагу.」",
+   "orig": "Ange\n「You've learned that much, haven't you?\n　The food is bad and the facilities unsanitary.\n　And death is in the air at every turn.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Момока",
+   "text": "「Мне всё равно!」",
+   "orig": "Momoka\n「I don't care!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Анж",
+   "text": "「Что у тебя с рукой?\n　Откуда это?」",
+   "orig": "Ange\n「Look at your arm!\n　What happened?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Момока",
+   "text": "「О, вы заметили.」",
+   "orig": "Momoka\n「Oh, you noticed.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Анж",
+   "text": "「Это с того раза, когда ты нечаянно\n　разбила мою куклу?」",
+   "orig": "Ange\n「Could that be from when you\n　accidentally broke my doll?」"
+  },
+  {
+   "i": 210,
+   "speaker": "Момока",
+   "text": "「Да.\n　Поранилась об осколок.」",
+   "orig": "Momoka\n「Yes.\n　From one of the fragments.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Анж",
+   "text": "「Ты же могла свести этот шрам Маной.」",
+   "orig": "Ange\n「You could have removed that scar with Mana.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Момока",
+   "text": "「Это знак нашей с вами связи.」",
+   "orig": "Momoka\n「It's a symbol of the bond between us.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Анж",
+   "text": "「Нашей связи?」",
+   "orig": "Ange\n「The bond between us?」"
+  },
+  {
+   "i": 214,
+   "speaker": "Момока",
+   "text": "「Да.\n　Тогда вы не стали злиться из-за куклы,\n　а первым делом забеспокоились о моей ране.」",
+   "orig": "Momoka\n「Yes.\n　Back then, you chose to worry about my wound\n　rather than get angry about your doll.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Анж",
+   "text": "「Это было очень давно.」",
+   "orig": "Ange\n「That was a long time ago.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Момока",
+   "text": "「Но я никогда этого не забуду.\n　Я такая, какая есть, только благодаря вам.」",
+   "orig": "Momoka\n「But I'll never forget.\n　Who I am today is all because of you.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Момока",
+   "text": "「Вот почему я всегда буду\n　любить вас, Анджелиз.」",
+   "orig": "Momoka\n「And that's why I will\n　always love you, Angelise.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Анж",
+   "text": "「Уходи.」",
+   "orig": "Ange\n「Go.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Момока",
+   "text": "「Что?」",
+   "orig": "Momoka\n「Huh?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Анж",
+   "text": "「Убирайся отсюда!」",
+   "orig": "Ange\n「Go away!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Момока",
+   "text": "「Но мне ведь разрешили остаться до завтра.」",
+   "orig": "Momoka\n「But I thought I could stay until tomorrow.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Анж",
+   "text": "「Нет! Уходи сейчас же!\n　Перенесись через море Маной,\n　переплыви его — мне всё равно как!」",
+   "orig": "Ange\n「No! I want you gone now!\n　Use your Mana to cross the seas\n　or swim them or whatever!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Анж",
+   "text": "「Беги отсюда, Момока!」",
+   "orig": "Ange\n「Escape this place, Momoka!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Момока",
+   "text": "「Вы наконец назвали меня\n　по имени.」",
+   "orig": "Momoka\n「You finally called me\n　by my name.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Анж",
+   "text": "「Что?」",
+   "orig": "Ange\n「Huh?」"
+  },
+  {
+   "i": 226,
+   "speaker": "Момока",
+   "text": "「Прошу, позвольте мне побыть рядом,\n　пока у меня ещё есть такая возможность.」",
+   "orig": "Momoka\n「Please let me stay by your\n　side while I still can.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Анж",
+   "text": "「Но зачем?」",
+   "orig": "Ange\n「But why?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Момока",
+   "text": "「Затем, что я, Момока Огиномэ, —\n　старшая горничная Анджелиз.」",
+   "orig": "Momoka\n「Because I, Momoka Oginome,\n　am Angelise's head maid.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Анж",
+   "text": "「Дурочка.」",
+   "orig": "Ange\n「Fool.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Памела",
+   "text": "「Внимание. Обнаружен противник первого типа.\n　Всем подразделениям приготовиться к бою.」",
+   "orig": "Pamela\n「Attention. Type one encounter.\n　All units prepare for battle.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Анж",
+   "text": "「Сейчас?」",
+   "orig": "Ange\n「Now?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Момока",
+   "text": "「Вы уезжаете?」",
+   "orig": "Momoka\n「Are you going?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Анж",
+   "text": "「Я теперь другая. Я должна идти.」",
+   "orig": "Ange\n「The new me has to go.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Момока",
+   "text": "「Берегите себя,\n　Анжелиза.」",
+   "orig": "Momoka\n「Please be careful,\n　Angelise.」"
+  },
+  {
+   "i": 238,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Взлётная полоса Арсенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Runway-"
+  },
+  {
+   "i": 239,
+   "speaker": "Джилл",
+   "text": "「Пора.」",
+   "orig": "Jill\n「It's almost time.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Момока",
+   "text": "「Спасибо вам за всё.\n　Я пробыла здесь недолго, но было хорошо.\n　Передайте, пожалуйста, пару слов Анжелизе.」",
+   "orig": "Momoka\n「Thank you for everything.\n　My time here was short but sweet.\n　Will you please talk to Angelise for me?」"
+  },
+  {
+   "i": 241,
+   "speaker": "Эмма",
+   "text": "「Передам.」",
+   "orig": "Emma\n「I will.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Момока",
+   "text": "（Прощайте, Анжелиза.）",
+   "orig": "Momoka\n（Farewell, Angelise.）"
+  },
+  {
+   "i": 243,
+   "speaker": "Анж",
+   "text": "「Стой!」",
+   "orig": "Ange\n「Wait!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Момока",
+   "text": "「Анжелиза!」",
+   "orig": "Momoka\n「Angelise!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Анж",
+   "text": "「Она моя! Я пришла выкупить Момоку!」",
+   "orig": "Ange\n「She's mine! I'm here to buy Momoka!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Эмма",
+   "text": "「Норма покупает человека?\n　Разве так вообще бывает?」",
+   "orig": "Emma\n「A Norma buying a human?\n　How is that even possible?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Анж",
+   "text": "「Если вам нужны деньги —\n　вот они, и ещё то, что я заняла у Сумераги!\n　Этого ведь хватит?」",
+   "orig": "Ange\n「If it's cash you want, \n　I've got this, plus what I've borrowed from Sumeragi!\n　It's enough, isn't it?」"
+  },
+  {
+   "i": 248,
+   "speaker": "Джилл",
+   "text": "「Полагаю, хватит.」",
+   "orig": "Jill\n「I suppose it is.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Момока",
+   "text": "「А?」",
+   "orig": "Momoka\n「Huh?」"
+  },
+  {
+   "i": 250,
+   "speaker": "Джилл",
+   "text": "「Отменить отправку этой девушки.\n　Она остаётся на базе.」",
+   "orig": "Jill\n「Cancel transport of this girl.\n　She will remain at this base.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Джилл",
+   "text": "「Отныне она — собственность Анж.」",
+   "orig": "Jill\n「She is now the property of Ange.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Эмма",
+   "text": "「К-командир?」",
+   "orig": "Emma\n「C-commander?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Джилл",
+   "text": "「За деньги здесь можно купить что угодно.\n　Таковы правила.」",
+   "orig": "Jill\n「Money can buy you anything.\n　That's the rule here.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Сумераги",
+   "text": "「Анж.\n　Похоже, ты всё-таки успела.」",
+   "orig": "Sumeragi\n「Ange.\n　Sounds like you made it in time.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Тесса",
+   "text": "「Она сделала всё, что только могла,\n　лишь бы раздобыть эти деньги.」",
+   "orig": "Tessa\n「She did anything and everything\n　to get her hands on that money.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Сумераги",
+   "text": "「Вот уж не думала, что такая, как Анж,\n　проглотит гордость и попросит в долг.\n　Значит, эта девочка ей по-настоящему дорога.」",
+   "orig": "Sumeragi\n「I never thought someone like Ange\n　would swallow her pride and ask for a loan.\n　It just shows how important that girl is to her.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Атрун",
+   "text": "「Люди меняются.\n　Уверен, она тоже меняется.」",
+   "orig": "Athrun\n「People change.\n　I'm sure that she's changing, too.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Синн",
+   "text": "「Атрун.」",
+   "orig": "Shinn\n「Athrun.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Атрун",
+   "text": "「Что такое, Синн?」",
+   "orig": "Athrun\n「What's wrong, Shinn?」"
+  },
+  {
+   "i": 260,
+   "speaker": "Синн",
+   "text": "「Ты позвал меня сюда, чтобы я помог тебе\n　разбираться с этими кошмарными девицами?」",
+   "orig": "Shinn\n「Did you call upon me to help you\n　deal with these terrible women?」"
+  },
+  {
+   "i": 261,
+   "speaker": "Розали",
+   "text": "「Ты вообще кем себя возомнил?」",
+   "orig": "Rosalie\n「Who do you think you are?」"
+  },
+  {
+   "i": 262,
+   "speaker": "Крис",
+   "text": "「Таким, как ты, даже мечтать не стоит\n　о том, чтобы сравниться с Атруном!」",
+   "orig": "Chris\n「The likes of you could never even\n　dream of filling Athrun's shoes!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Синн",
+   "text": "「Чего?\n　Да я с вами, фуриями, дел иметь не собираюсь!」",
+   "orig": "Shinn\n「What?\n　I'm not doing anything with you hellions!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Розали",
+   "text": "「Ты прямо с языка у нас это снял!」",
+   "orig": "Rosalie\n「You took the words right out of our mouths!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Атрун",
+   "text": "「Вы уверены, Розали, Крис?\n　По-моему, Синн очень даже неплох.」",
+   "orig": "Athrun\n「You sure about that, Rosalie and Chris?\n　I personally think Shinn is pretty cool.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Розали",
+   "text": "「Нет! Нет! Нет!\n　Никто и рядом с Атруном не стоял!」",
+   "orig": "Rosalie\n「No! No! No!\n　Nobody can hold a candle to Athrun!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Крис",
+   "text": "「Вот именно.\n　Для меня есть только Атрун и больше никто.」",
+   "orig": "Chris\n「Yeah, you said it.\n　It's Athrun or bust for me.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Синн",
+   "text": "「Атрун!\n　Ты вызвал меня сюда только затем,\n　чтобы самому себе казаться лучше?」",
+   "orig": "Shinn\n「Athrun!\n　Did you summon me here so that you\n　could feel better about yourself?」"
+  },
+  {
+   "i": 269,
+   "speaker": "Атрун",
+   "text": "「Н-нет, Синн!\n　Я бы никогда так не поступил!」",
+   "orig": "Athrun\n「N-no, Shinn!\n　I'd never do that!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Синн",
+   "text": "「Ну-ну!」",
+   "orig": "Shinn\n「I wonder!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Лунамария",
+   "text": "「...」",
+   "orig": "Lunamaria\n「...」"
+  },
+  {
+   "i": 272,
+   "speaker": "$n",
+   "text": "「Ты в порядке?\n　Этот вспыльчивый парень — твой, верно?」",
+   "orig": "$n\n「You OK?\n　That fiery guy is your boyfriend, right?」"
+  },
+  {
+   "i": 273,
+   "speaker": "Лунамария",
+   "text": "「Всё хорошо.\n　Я давно не видела, чтобы Синн вот так\n　открыто говорил, что думает.」",
+   "orig": "Lunamaria\n「I'm fine.\n　I haven't seen Shinn express himself\n　like that in ages.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Сэцуна",
+   "text": "「Ясно.」",
+   "orig": "Setsuna\n「I see.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Локон",
+   "text": "「Видать, ему тоже многое пришлось пережить.」",
+   "orig": "Lockon\n「I guess he's gone through a lot himself.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Лунамария",
+   "text": "「Странное чувство — сражаться бок о бок\n　с «Селестиал Бин».」",
+   "orig": "Lunamaria\n「It feels strange fighting alongside\n　Celestial Being like this.」"
+  },
+  {
+   "i": 277,
+   "speaker": "$n",
+   "text": "「В смысле?」",
+   "orig": "$n\n「What do you mean?」"
+  },
+  {
+   "i": 278,
+   "speaker": "Тиерия",
+   "text": "「В прошлой войне они были нашими врагами\n　как бойцы ЗАФТ.」",
+   "orig": "Tieria\n「In an earlier war,\n　they were hostile to us as members of ZAFT.」"
+  },
+  {
+   "i": 279,
+   "speaker": "$n",
+   "text": "「Но с Атруном они, похоже, знакомы.」",
+   "orig": "$n\n「But they seem to be acquainted with Athrun.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Тиерия",
+   "text": "「Атрун поначалу тоже был в ЗАФТ,\n　но потом ушёл и сражался на нашей стороне.」",
+   "orig": "Tieria\n「Athrun was also in ZAFT initially\n　but later left them to fight on our side.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Лунамария",
+   "text": "「А мы двое оставались в ЗАФТ до самого конца.」",
+   "orig": "Lunamaria\n「The two of us stuck with ZAFT until the end.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Лунамария",
+   "text": "「Но не потому, что сами так хотели.\n　Мы выполняли приказы $kwbДюрандаля$kwe,\n　председателя $kwbПЛАНТ$kwe.」",
+   "orig": "Lunamaria\n「But that wasn't what we wanted.\n　We did as ordered by $kwbDurandal$kwe,\n　the chair of $kwbPLANT$kwe.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Лунамария",
+   "text": "「Теперь я думаю, что всё это вышло оттого,\n　что мы отказались от того, что считали верным.」",
+   "orig": "Lunamaria\n「Now I think that was all the result\n　of abandoning what we knew to be right.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Синн",
+   "text": "「И всё же я не собираюсь отрекаться\n　от всего, что сделал до этого дня.」",
+   "orig": "Shinn\n「Still, I'm not about to disavow\n　everything I've done up to this point.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Лунамария",
+   "text": "「Синн.」",
+   "orig": "Lunamaria\n「Shinn.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Синн",
+   "text": "「Я хочу взять то, чему научила меня та война,\n　и обратить это на пользу — и миру,\n　и самому себе.」",
+   "orig": "Shinn\n「I mean, I want to take what I learned\n　from that conflict and use it to the benefit\n　of both the world and myself.」"
+  },
+  {
+   "i": 287,
+   "speaker": "$n",
+   "text": "「Это здорово.\n　После таких слов я многого жду\n　от того, что нас ждёт впереди.」",
+   "orig": "$n\n「That's great.\n　Hearing that gives me high hopes\n　for what's to come.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Сэцуна",
+   "text": "「Сэцуна Ф. Сэйэй, к вашим услугам.\n　Рад знакомству, Синн Аска.」",
+   "orig": "Setsuna\n「Setsuna F. Seiei, at your service.\n　Pleasure to meet you, Shinn Asuka.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Синн",
+   "text": "「Мы столько раз бились друг против друга,\n　что видеть тебя вот так, вживую, даже странно.」",
+   "orig": "Shinn\n「I've fought against you many times in battle,\n　so it's strange seeing you face-to-face like this.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Сэцуна",
+   "text": "「Я, как и ты, продолжаю меняться.\n　Потому мы сейчас и союзники.」",
+   "orig": "Setsuna\n「Like you, I continue to change.\n　And that's why we're now allies.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Синн",
+   "text": "「Резонно.」",
+   "orig": "Shinn\n「Makes sense.」"
+  },
+  {
+   "i": 292,
+   "speaker": "Синн",
+   "text": "「А вот с женщинами у него всё так же скверно.」",
+   "orig": "Shinn\n「Though his woman troubles are as dire as ever.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Атрун",
+   "text": "「Ты не прав, Синн!\n　Ты всё неправильно понял!」",
+   "orig": "Athrun\n「You're wrong, Shinn!\n　You misunderstand me!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Сэцуна",
+   "text": "「Значит, тебе надо чаще говорить вслух.」",
+   "orig": "Setsuna\n「You need to speak out more then.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Синн",
+   "text": "「Сэцуна прав, Атрун.\n　И не только мне — объясни всё, что можешь,\n　и представителю Атхе.」",
+   "orig": "Shinn\n「Setsuna is right, Athrun.\n　And not only to me; you should explain everything\n　you can to Representative Athha.」"
+  },
+  {
+   "i": 296,
+   "speaker": "Лунамария",
+   "text": "「И Мейрин заодно.」",
+   "orig": "Lunamaria\n「Or to Meyrin, as well.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Атрун",
+   "text": "「И как до этого дошло?」",
+   "orig": "Athrun\n「How did it come to this?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Лунамария",
+   "text": "「...」",
+   "orig": "Lunamaria\n「...」"
+  },
+  {
+   "i": 299,
+   "speaker": "$n",
+   "text": "「Ты в порядке?\n　Этот вспыльчивый парень — твой, верно?」",
+   "orig": "$n\n「You OK?\n　That fiery guy is your boyfriend, right?」"
+  },
+  {
+   "i": 300,
+   "speaker": "Лунамария",
+   "text": "「Всё хорошо.\n　Я давно не видела, чтобы Синн вот так\n　открыто говорил, что думает.」",
+   "orig": "Lunamaria\n「I'm fine.\n　I haven't seen Shinn express himself\n　like that in ages.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Сэцуна",
+   "text": "「Ясно.」",
+   "orig": "Setsuna\n「I see.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Локон",
+   "text": "「Видать, ему тоже многое пришлось пережить.」",
+   "orig": "Lockon\n「I guess he's gone through a lot himself.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Лунамария",
+   "text": "「Странное чувство — сражаться бок о бок\n　с «Селестиал Бин».」",
+   "orig": "Lunamaria\n「It feels strange fighting alongside\n　Celestial Being like this.」"
+  },
+  {
+   "i": 304,
+   "speaker": "$n",
+   "text": "「В смысле?」",
+   "orig": "$n\n「What do you mean?」"
+  },
+  {
+   "i": 305,
+   "speaker": "Тиерия",
+   "text": "「В прошлой войне они были нашими врагами\n　как бойцы ЗАФТ.」",
+   "orig": "Tieria\n「In an earlier war,\n　they were hostile to us as members of ZAFT.」"
+  },
+  {
+   "i": 306,
+   "speaker": "$n",
+   "text": "「Но с Атруном они, похоже, знакомы.」",
+   "orig": "$n\n「But they seem to be acquainted with Athrun.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Тиерия",
+   "text": "「Атрун поначалу тоже был в ЗАФТ,\n　но потом ушёл и сражался на нашей стороне.」",
+   "orig": "Tieria\n「Athrun was also in ZAFT initially\n　but later left them to fight on our side.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Лунамария",
+   "text": "「А мы двое оставались в ЗАФТ до самого конца.」",
+   "orig": "Lunamaria\n「The two of us stuck with ZAFT until the end.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Лунамария",
+   "text": "「Но не потому, что сами так хотели.\n　Мы выполняли приказы $kwbДюрандаля$kwe,\n　председателя $kwbПЛАНТ$kwe.」",
+   "orig": "Lunamaria\n「But that wasn't what we wanted.\n　We did as ordered by $kwbDurandal$kwe,\n　the chair of $kwbPLANT$kwe.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Лунамария",
+   "text": "「Теперь я думаю, что всё это вышло оттого,\n　что мы отказались от того, что считали верным.」",
+   "orig": "Lunamaria\n「Now I think that was all the result\n　of abandoning what we knew to be right.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Синн",
+   "text": "「И всё же я не собираюсь отрекаться\n　от всего, что сделал до этого дня.」",
+   "orig": "Shinn\n「Still, I'm not about to disavow\n　everything I've done up to this point.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Лунамария",
+   "text": "「Синн.」",
+   "orig": "Lunamaria\n「Shinn.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Синн",
+   "text": "「Я хочу взять то, чему научила меня та война,\n　и обратить это на пользу — и миру,\n　и самому себе.」",
+   "orig": "Shinn\n「I mean, I want to take what I learned\n　from that conflict and use it to the benefit\n　of both the world and myself.」"
+  },
+  {
+   "i": 314,
+   "speaker": "$n",
+   "text": "「Это здорово.\n　Буду рад работать с тобой, Синн.」",
+   "orig": "$n\n「That's great.\n　Looking forward to working with you, Shinn.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Сэцуна",
+   "text": "「Сэцуна Ф. Сэйэй, к вашим услугам.\n　Рад знакомству, Синн Аска.」",
+   "orig": "Setsuna\n「Setsuna F. Seiei, at your service.\n　Pleasure to meet you, Shinn Asuka.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Синн",
+   "text": "「Мы столько раз бились друг против друга,\n　что видеть тебя вот так, вживую, даже странно.」",
+   "orig": "Shinn\n「I've fought against you many times in battle,\n　so it's strange seeing you face-to-face like this.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Сэцуна",
+   "text": "「Я, как и ты, продолжаю меняться.\n　Потому мы сейчас и союзники.」",
+   "orig": "Setsuna\n「Like you, I continue to change.\n　And that's why we're now allies.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Синн",
+   "text": "「Резонно.」",
+   "orig": "Shinn\n「Makes sense.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Синн",
+   "text": "「А вот с женщинами у него всё так же скверно.」",
+   "orig": "Shinn\n「Though his woman troubles are as dire as ever.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Атрун",
+   "text": "「Ты не прав, Синн!\n　Ты всё неправильно понял!」",
+   "orig": "Athrun\n「You're wrong, Shinn!\n　You misunderstand me!」"
+  },
+  {
+   "i": 321,
+   "speaker": "Сэцуна",
+   "text": "「Значит, тебе надо чаще говорить вслух.」",
+   "orig": "Setsuna\n「You need to speak out more then.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Синн",
+   "text": "「Сэцуна прав, Атрун.\n　И не только мне — объясни всё, что можешь,\n　и представителю Атхе.」",
+   "orig": "Shinn\n「Setsuna is right, Athrun.\n　And not only to me; you should explain everything\n　you can to Representative Athha.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Лунамария",
+   "text": "「И Мейрин заодно.」",
+   "orig": "Lunamaria\n「Or to Meyrin, as well.」"
+  },
+  {
+   "i": 324,
+   "speaker": "Атрун",
+   "text": "「И как до этого дошло?」",
+   "orig": "Athrun\n「How did it come to this?」"
+  },
+  {
+   "i": 325,
+   "speaker": "Момока",
+   "text": "「Анжелиза.」",
+   "orig": "Momoka\n「Angelise.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Анж",
+   "text": "「Что такое, Момока?」",
+   "orig": "Ange\n「What is it, Momoka?」"
+  },
+  {
+   "i": 327,
+   "speaker": "Момока",
+   "text": "「Место здесь и правда ужасное,\n　но зато не скучное.」",
+   "orig": "Momoka\n「It's true that this is a terrible place,\n　but it's at least lively.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Анж",
+   "text": "「Ага.\n　Как привыкнешь — уже и не так плохо.」",
+   "orig": "Ange\n「Yeah.\n　It's not so bad once you get used to it.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Момока",
+   "text": "「Я проживу хоть на самом дне преисподней —\n　лишь бы вы были рядом, Анжелиза.」",
+   "orig": "Momoka\n「I can live in even the deepest pits of hell, just\n　as long as I have you by my side, Angelise.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Анж",
+   "text": "「Анж.」",
+   "orig": "Ange\n「Ange.」"
+  },
+  {
+   "i": 331,
+   "speaker": "Момока",
+   "text": "「?」",
+   "orig": "Momoka\n「?」"
+  },
+  {
+   "i": 332,
+   "speaker": "Анж",
+   "text": "「Меня зовут Анж!」",
+   "orig": "Ange\n「The name's Ange!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Момока",
+   "text": "「Хорошо, Анжелиза!」",
+   "orig": "Momoka\n「OK, Angelise!」"
+  },
+  {
+   "i": 337,
+   "speaker": "Найн",
+   "text": "「Ал.」",
+   "orig": "Nine\n「Al.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Ал",
+   "text": "「Ты ведь Найн?\n　Чем могу помочь?」",
+   "orig": "Al\n「You're Nine, right?\n　What can I do for you?」"
+  },
+  {
+   "i": 339,
+   "speaker": "Найн",
+   "text": "「Речь о вопросе, который ты задал\n　Соскэ в сегодняшнем бою.」",
+   "orig": "Nine\n「It's about the question you asked\n　Sousuke during today's battle.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Ал",
+   "text": "「О разнице между мной и боевыми ИИ.」",
+   "orig": "Al\n「The difference between me and the battle AIs.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Ал",
+   "text": "「Я отличаюсь и от боевых ИИ, и от суперИИ\n　из отряда «Брэйв Экспресс».\n　И если так — то что же я такое?」",
+   "orig": "Al\n「I'm different from both the battle AIs, as well as\n　the Super AIs in the Brave Express Corps.\n　And if that's the case, what am I?」"
+  },
+  {
+   "i": 342,
+   "speaker": "Найн",
+   "text": "「Мне очень жаль, Ал.\n　Я не могу ответить на этот вопрос.」",
+   "orig": "Nine\n「I am very sorry, Al.\n　I am not able to answer that question.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Найн",
+   "text": "「Не могу потому, что сама пытаюсь\n　разобраться с тем же вопросом о себе.」",
+   "orig": "Nine\n「The reason I can't answer is that I am trying\n　to figure out that same question about myself.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Ал",
+   "text": "「Понятно.」",
+   "orig": "Al\n「I see.」"
+  },
+  {
+   "i": 345,
+   "speaker": "Найн",
+   "text": "「И всё же, Ал.\n　Я надеялась, что мы могли бы стать друзьями.」",
+   "orig": "Nine\n「Anyway, Al.\n　I was hoping we could be friends.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Ал",
+   "text": "「Человека и машину связывают отношения\n　господина и слуги, но две машины, полагаю,\n　способны стать друзьями. Я принимаю твоё предложение.」",
+   "orig": "Al\n「Humans and machines have a master-slave relationship,\n　but I believe that two machines can become friends.\n　I gladly accept your request for friendship.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Найн",
+   "text": "「Вы с Соскэ показываете боевую эффективность\n　на 102% выше, чем у тех дронов.」",
+   "orig": "Nine\n「You and Sousuke both exhibit a 102%\n　improvement in battle capability over those drones.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Найн",
+   "text": "「Более глубокий анализ показал, что мой блок\n　тактической обработки получил данные,\n　эквивалентные 50 ТакО.」",
+   "orig": "Nine\n「A closer analysis revealed that\n　my tactical processing capacity acquired data\n　equivalent to 50 TAC points.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Ал",
+   "text": "「Результат выше того, что позволяют характеристики.」",
+   "orig": "Al\n「Results above what the specifications should allow.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Найн",
+   "text": "「Да.\n　И мне кажется, что ответ скрыт именно там.」",
+   "orig": "Nine\n「Yes.\n　And I think our answer is somewhere in there.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Найн",
+   "text": "「...」",
+   "orig": "Nine\n「...」"
+  },
+  {
+   "i": 355,
+   "speaker": "Синн",
+   "text": "「Ч-чего?」",
+   "orig": "Shinn\n「W-what?」"
+  },
+  {
+   "i": 356,
+   "speaker": "Найн",
+   "text": "「Меня зовут Найн.\n　Приятно познакомиться.」",
+   "orig": "Nine\n「My name is Nine.\n　Pleased to meet you.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Синн",
+   "text": "「Это я уже слышал, когда мы встретились.\n　Я спрашиваю, зачем ты здесь.」",
+   "orig": "Shinn\n「I heard that already when we first met.\n　I'm asking you why you're here.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Найн",
+   "text": "「Судя по всему, вы с Лунамарией\n　состоите в отношениях.」",
+   "orig": "Nine\n「It appears that you are in\n　a relationship with Lunamaria.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Синн",
+   "text": "「Э-э, ну да, состоим.」",
+   "orig": "Shinn\n「Uh, yeah, I am.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Найн",
+   "text": "「Я подумала, что ты расскажешь об этом подробнее.」",
+   "orig": "Nine\n「I just thought you could tell me more about it.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Синн",
+   "text": "「Подробнее о чём?」",
+   "orig": "Shinn\n「More about what?」"
+  },
+  {
+   "i": 362,
+   "speaker": "Найн",
+   "text": "「Начало романа, признание в чувствах,\n　места свиданий, планы на будущее\n　и тому подобное.」",
+   "orig": "Nine\n「The start of the romance, confessing your feelings,\n　date locations, and future outlook, among other things.」"
+  },
+  {
+   "i": 363,
+   "speaker": "Милейна",
+   "text": "「Я бы тоже с удовольствием это послушала.」",
+   "orig": "Mileina\n「I'd love to hear all of that as well.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Вивиан",
+   "text": "「И я!\n　Потом всё перескажу Салии!」",
+   "orig": "Vivian\n「Me, too!\n　I'll pass it on to Salia later!」"
+  },
+  {
+   "i": 365,
+   "speaker": "Синн",
+   "text": "「Н-ничего я вам рассказывать не буду!」",
+   "orig": "Shinn\n「I-I'm not going to tell you anything!」"
+  },
+  {
+   "i": 366,
+   "speaker": "Вивиан",
+   "text": "「Ой, сбежал.」",
+   "orig": "Vivian\n「Oh, he's gone.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Милейна",
+   "text": "「Ну а вы что скажете, Хоук?」",
+   "orig": "Mileina\n「Well, care to comment, Hawke?」"
+  },
+  {
+   "i": 368,
+   "speaker": "Лунамария",
+   "text": "「Ничего.」",
+   "orig": "Lunamaria\n「No.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Найн",
+   "text": "「Отношения полов у людей трудны для понимания.」",
+   "orig": "Nine\n「Human gender relations are difficult to understand.」"
+  }
+ ]
+}
