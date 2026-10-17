@@ -1,0 +1,2716 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Сигэру",
+   "text": "（Вот уж не думал, что Федеральные войска\n　вот так вдруг возьмутся за силу.）",
+   "orig": "Shigeru\n（I never would've guessed that the\n　Federation Forces would suddenly resort to force.）"
+  },
+  {
+   "i": 1,
+   "speaker": "Макото",
+   "text": "（Похоже, одалживать «Евангелионы» «Лондо Белл»\n　всё-таки было ошибкой.）",
+   "orig": "Makoto\n（It looks like loaning the EVAs to Londo Bell\n　was probably a mistake.）"
+  },
+  {
+   "i": 2,
+   "speaker": "Майя",
+   "text": "（Но если NERV захватят,\n　штаб всё равно отправит «Евангелионы»\n　воевать с Нео-Зеоном.）",
+   "orig": "Maya\n（But if NERV is seized,\n　the EVAs are also gonna be dispatched\n　by GHQ to fight Neo Zeon.）"
+  },
+  {
+   "i": 3,
+   "speaker": "Макото",
+   "text": "（Те самые, кто подумывает извести спейсноидов\n　под корень. А если так, то на защиту Токио-3\n　им точно будет наплевать.）",
+   "orig": "Makoto\n（The group that's considering exterminating\n　the Spacenoids. And if that happens, you can bet that\n　protecting Tokyo-3 is gonna be given short shrift.）"
+  },
+  {
+   "i": 4,
+   "speaker": "Сигэру",
+   "text": "（Нео-Зеон прямо над головой, а Ангелы неизвестно\n　когда явятся — вот они и решат, что Нео-Зеон опаснее.\n　И, наверное, будут правы.）",
+   "orig": "Shigeru\n（Neo Zeon is right overhead, but you never know when\n　the Angels might come around, so they'll decide that\n　Neo Zeon is more of a threat. And they're probably right.）"
+  },
+  {
+   "i": 5,
+   "speaker": "Макото",
+   "text": "（Что вы намерены делать, командующий?）",
+   "orig": "Makoto\n（What are you gonna do now, Commander?）"
+  },
+  {
+   "i": 6,
+   "speaker": "Гэндо",
+   "text": "「Хм.」",
+   "orig": "Gendo\n「Hmm.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Буран",
+   "text": "「Я майор Буран Блутарх из «Джи-Хаунда»,\n　подразделения Земных федеральных войск.」",
+   "orig": "Buran\n「I'm Major Buran Blutarch of G-Hound,\n　a member of the Earth Federation Forces.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Буран",
+   "text": "「NERV раз за разом отклонял запросы штаба\n　о сотрудничестве, поэтому отдан приказ о захвате.\n　Опустите оружие и сдавайтесь без сопротивления.」",
+   "orig": "Buran\n「NERV rejected repeated requests for cooperation\n　from GHQ, so the order when out to seize it.\n　Now, lower your weapons and surrender peacefully.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Гэндо",
+   "text": "「Мы относимся к Федеральным войскам, но нам\n　разрешено действовать как независимому подразделению.\n　Вам это известно?」",
+   "orig": "Gendo\n「We belong to the Federation Forces, but we\n　have permission to operate as an independent unit.\n　Are you aware of that?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Буран",
+   "text": "「В связи с кризисной обстановкой это право отозвано.」",
+   "orig": "Buran\n「Due to the crisis situation, that right was rescinded.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Гэндо",
+   "text": "「Ясно.\n　Значит, мы ничем не отличаемся от «Лондо Белл».」",
+   "orig": "Gendo\n「I see.\n　So we're no different from Londo Bell.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Рицуко",
+   "text": "「Присутствие Ангелов подтверждено,\n　а вы всё равно отказываетесь смотреть правде в глаза.」",
+   "orig": "Ritsuko\n「The presence of Angels has been confirmed,\n　and yet you still refuse to face reality.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Фуюцуки",
+   "text": "「Люди часто таковы.\n　Даже такая огромная трагедия, как Второй удар,\n　стремительно становится делом прошлым.」",
+   "orig": "Fuyutsuki\n「People are often like that.\n　Even a tragedy as huge as the Second Impact\n　is rapidly becoming a thing of the past.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Фуюцуки",
+   "text": "「Впрочем, эту склонность стряхивать с себя прошлое\n　можно истолковать и как оптимизм.」",
+   "orig": "Fuyutsuki\n「But you could also interpret that tendency\n　to shake off the past as optimism.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Лэйн",
+   "text": "「Майор Буран, эти ребята, похоже,\n　не настроены слушать ни единого нашего слова.」",
+   "orig": "Lane\n「Major Buran, those guys are apparently\n　in no mood to listen to anything we have to say.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Буран",
+   "text": "「Видимо, без силы не обойтись.\n　Но ущерб свести к минимуму.」",
+   "orig": "Buran\n「I guess we have no choice but to use force.\n　But let's keep the damage to a minimum.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Лэйн",
+   "text": "（Слишком вы самоуверенны, майор. И незачем\n　так сочувствовать мятежникам.）",
+   "orig": "Lane\n（You're way too confident, Major. And there's\n　no need to show so much sympathy for insurgents.）"
+  },
+  {
+   "i": 18,
+   "speaker": "Буран",
+   "text": "「Всем подразделениям — в атаку!\n　И не забывайте: наша цель — устрашение!」",
+   "orig": "Buran\n「All units, commence attack!\n　And don't forget that the goal is to intimidate them!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Макото",
+   "text": "「Федеральные войска начали атаку!」",
+   "orig": "Makoto\n「Federation Forces have started to attack!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Фуюцуки",
+   "text": "「Токио-3 построен для обороны от вторжения Ангелов.\n　Добраться до Геофронта будет не так-то просто.」",
+   "orig": "Fuyutsuki\n「Tokyo-3 is set up to defend against invasions by Angels.\n　It's not gonna be so easy to reach GeoFront.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Сигэру",
+   "text": "「И всё же рано или поздно…」",
+   "orig": "Shigeru\n「Still, at some point—」"
+  },
+  {
+   "i": 22,
+   "speaker": "Гэндо",
+   "text": "「Об этом можно не беспокоиться.」",
+   "orig": "Gendo\n「No need to worry about that.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Макото",
+   "text": "「«Лондо Белл»!」",
+   "orig": "Makoto\n「Londo Bell!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Фуюцуки",
+   "text": "「Успели вовремя.」",
+   "orig": "Fuyutsuki\n「They got here in time.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Амуро",
+   "text": "「Значит, штаб отправил «Джи-Хаунд».」",
+   "orig": "Amuro\n「So GHQ dispatched G-Hound.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Хатауэй",
+   "text": "「Здесь и машины с Миновски-Крафтом, с которыми\n　мы уже дрались!」",
+   "orig": "Hathaway\n「Minovsky Craft units we fought before are here too!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Брайт",
+   "text": "「Майор Буран,\n　немедленно прекратите бой.」",
+   "orig": "Bright\n「Major Buran,\n　cease combat immediately.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Буран",
+   "text": "「Не могу.」",
+   "orig": "Buran\n「I can't do that.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Конрой",
+   "text": "「Просто выполняет приказ, да?」",
+   "orig": "Conroy\n「Just following orders, huh?」"
+  },
+  {
+   "i": 30,
+   "speaker": "Дагза",
+   "text": "「В каком-то смысле он образцовый солдат.\n　И всё же…」",
+   "orig": "Daguza\n「In a way you could say he's a model soldier.\n　And yet—」"
+  },
+  {
+   "i": 31,
+   "speaker": "Брайт",
+   "text": "「NERV — организация по борьбе с Ангелами. Иными словами,\n　она предотвращает катастрофы планетарного масштаба.\n　Забрать её мощь себе — не на благо человечеству.」",
+   "orig": "Bright\n「NERV is an anti-Angel organization. In other words,\n　it prevents disasters of global proportions. Commandeering\n　that firepower would not be to the benefit of mankind.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Буран",
+   "text": "「Не «Лондо Белл» такое говорить,\n　учитывая, что вы сами используете серию EVA.」",
+   "orig": "Buran\n「That's not something that Londo Bell should be saying,\n　given that it's operating the EVA series.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Брайт",
+   "text": "「Это решение командующего Икари.」",
+   "orig": "Bright\n「This is the decision of Commander Ikari.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Буран",
+   "text": "「Ордер на арест выписан и на «Лондо Белл»!\n　И если встанете у нас на пути, начнём с вас!」",
+   "orig": "Buran\n「An arrest warrant has been issued for Londo Bell too!\n　And if you get in our way, we'll take you on first!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Окита",
+   "text": "「Похоже, боя не избежать.」",
+   "orig": "Okita\n「Looks like there's no way to avoid fighting.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Брайт",
+   "text": "「У нас нет выбора!\n　Всем подразделениям — перехватить «Джи-Хаунд»!\n　Защитить NERV!」",
+   "orig": "Bright\n「We've got not choice!\n　All units, intercept G-Hound!\n　Protect NERV!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Рэй",
+   "text": "「Есть.」",
+   "orig": "Rei\n「Yes, sir.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Синдзи",
+   "text": "（Говорят, Аянами очень привязана к отцу.）",
+   "orig": "Shinji\n（I hear that Ayanami is pretty attached to Father.）"
+  },
+  {
+   "i": 39,
+   "speaker": "Рэй",
+   "text": "「Икари, бой уже начался!」",
+   "orig": "Rei\n「Ikari, the fighting's already started!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Синдзи",
+   "text": "「З-знаю.」",
+   "orig": "Shinji\n「I, I know that.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Синдзи",
+   "text": "（Здесь ведь не только отец.\n　Тодзи, Кэнсукэ и много кто ещё здесь живут.\n　Мы должны их защитить!）",
+   "orig": "Shinji\n（It's not just Father who's here.\n　Toji, Kensuke, and lots of others live here.\n　We've gotta protect them!）"
+  },
+  {
+   "i": 42,
+   "speaker": "Макото",
+   "text": "「Это «Лондо Белл»!」",
+   "orig": "Makoto\n「It's Londo Bell!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Фуюцуки",
+   "text": "「Успели вовремя.」",
+   "orig": "Fuyutsuki\n「They got here in time.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Амуро",
+   "text": "「Значит, штаб отправил «Джи-Хаунд».」",
+   "orig": "Amuro\n「So GHQ dispatched G-Hound.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Хатауэй",
+   "text": "「Эта машина…」",
+   "orig": "Hathaway\n「That mobile unit...」"
+  },
+  {
+   "i": 46,
+   "speaker": "Хатауэй",
+   "text": "「На ней стоит Миновски-Крафт,\n　совсем как на «Кси Гандаме»!」",
+   "orig": "Hathaway\n「It's equipped with a Minovsky Craft,\n　just like the Ξ Gundam!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Лэйн",
+   "text": "（Я слышал, «Лондо Белл» испытывает\n　преемника «Пенелопы».）",
+   "orig": "Lane\n（I heard that Londo Bell is testing\n　the successor to the Penelope.）"
+  },
+  {
+   "i": 48,
+   "speaker": "Лэйн",
+   "text": "（Если они клепают машину по той же концепции —\n　это и будет доказательством моих способностей!）",
+   "orig": "Lane\n（If they crank out a unit based on the same concept,\n　that'll be proof of my capabilities!）"
+  },
+  {
+   "i": 49,
+   "speaker": "Брайт",
+   "text": "「Майор Буран,\n　немедленно прекратите бой.」",
+   "orig": "Bright\n「Major Buran,\n　cease combat immediately.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Буран",
+   "text": "「Не могу.」",
+   "orig": "Buran\n「I can't do that.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Конрой",
+   "text": "「Просто выполняет приказ, да?」",
+   "orig": "Conroy\n「Just following orders, huh?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Дагза",
+   "text": "「В каком-то смысле он образцовый солдат.\n　И всё же…」",
+   "orig": "Daguza\n「In a way you could say he's a model soldier.\n　And yet—」"
+  },
+  {
+   "i": 53,
+   "speaker": "Брайт",
+   "text": "「NERV — организация по борьбе с Ангелами. Иными словами,\n　она предотвращает катастрофы планетарного масштаба.\n　Забрать её мощь себе — не на благо человечеству.」",
+   "orig": "Bright\n「NERV is an anti-Angel organization. In other words,\n　it prevents disasters of global proportions. Commandeering\n　that firepower would not be to the benefit of mankind.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Буран",
+   "text": "「Не «Лондо Белл» такое говорить,\n　учитывая, что вы сами используете серию EVA.」",
+   "orig": "Buran\n「That's not something that Londo Bell should be saying,\n　given that it's operating the EVA series.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Брайт",
+   "text": "「Это решение командующего Икари.」",
+   "orig": "Bright\n「This is the decision of Commander Ikari.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Буран",
+   "text": "「Ордер на арест выписан и на «Лондо Белл»!\n　И если встанете у нас на пути, начнём с вас!」",
+   "orig": "Buran\n「An arrest warrant has been issued for Londo Bell too!\n　And if you get in our way, we'll take you on first!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Окита",
+   "text": "「Похоже, боя не избежать.」",
+   "orig": "Okita\n「Looks like there's no way to avoid fighting.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Брайт",
+   "text": "「У нас нет выбора!\n　Всем подразделениям — перехватить «Джи-Хаунд»!\n　Защитить NERV!」",
+   "orig": "Bright\n「We've got not choice!\n　All units, intercept G-Hound!\n　Protect NERV!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Рэй",
+   "text": "「Есть.」",
+   "orig": "Rei\n「Yes, sir.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Синдзи",
+   "text": "（Говорят, Аянами очень привязана к отцу.）",
+   "orig": "Shinji\n（I hear that Ayanami is pretty attached to Father.）"
+  },
+  {
+   "i": 61,
+   "speaker": "Рэй",
+   "text": "「Икари, бой уже начался!」",
+   "orig": "Rei\n「Ikari, the fighting's already started!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Синдзи",
+   "text": "「З-знаю.」",
+   "orig": "Shinji\n「I, I know that.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Синдзи",
+   "text": "（Здесь ведь не только отец.\n　Тодзи, Кэнсукэ и много кто ещё здесь живут.\n　Мы должны их защитить!）",
+   "orig": "Shinji\n（It's not just Father who's here.\n　Toji, Kensuke, and lots of others live here.\n　We've gotta protect them!）"
+  },
+  {
+   "i": 64,
+   "speaker": "Буран",
+   "text": "「Чёрт!\n　Язан и Джерид опоздали!」",
+   "orig": "Buran\n「Damn!\n　Yazan and Jerid were too late!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Отто",
+   "text": "「Так точно! Если выбьем командира,\n　«Джи-Хаунд» должен отступить!」",
+   "orig": "Otto\n「Yes! If we can\n　take out the captain, G-Hound should pull out too!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Лиам",
+   "text": "「Капитан!\n　Приближается неопознанный летающий объект!」",
+   "orig": "Liam\n「Captain!\n　Unidentified flying object approaching!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Рицуко",
+   "text": "「Это…」",
+   "orig": "Ritsuko\n「That—」"
+  },
+  {
+   "i": 68,
+   "speaker": "Сигэру",
+   "text": "「Синий паттерн!\n　Ангел подтверждён!」",
+   "orig": "Shigeru\n「Pattern Blue!\n　Angel confirmed!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Буран",
+   "text": "「Язан и Джерид всё ещё не здесь?」",
+   "orig": "Buran\n「Yazan and Jerid aren't here yet?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Отто",
+   "text": "「Так точно!\n　Если удержим темп, отбросим «Джи-Хаунд»!」",
+   "orig": "Otto\n「Yes!\n　If we can keep it up we'll drive G-Hound back!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Лиам",
+   "text": "「Капитан!\n　Приближается неопознанный летающий объект!」",
+   "orig": "Liam\n「Captain!\n　Unidentified flying object approaching!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Рицуко",
+   "text": "「Это…」",
+   "orig": "Ritsuko\n「That—」"
+  },
+  {
+   "i": 73,
+   "speaker": "Сигэру",
+   "text": "「Синий паттерн!\n　Ангел подтверждён!」",
+   "orig": "Shigeru\n「Pattern Blue!\n　Angel confirmed!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Мисато",
+   "text": "「Это Шестой Ангел!」",
+   "orig": "Misato\n「It's the Sixth Angel!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Буран",
+   "text": "「Уааа!」",
+   "orig": "Buran\n「Ooof!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Лэйн",
+   "text": "「Майор Буран!」",
+   "orig": "Lane\n「Major Buran!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Буран",
+   "text": "「Так вот он какой, Ангел!\n　Враг человечества!」",
+   "orig": "Buran\n「So that's one of the Angels!\n　Enemies of mankind!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Буран",
+   "text": "「Но в нынешнем состоянии нам с ними не справиться!\n　Всем подразделениям — отход!」",
+   "orig": "Buran\n「But we can't fight these things the way we are now!\n　All units, retreat!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Буран",
+   "text": "「Лэйн!\n　Почему не отходишь?」",
+   "orig": "Buran\n「Lane!\n　Why aren't you retreating?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Лэйн",
+   "text": "「«Пенелопа» способна драться с этими тварями!」",
+   "orig": "Lane\n「The Penelope can fight these bastards!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Буран",
+   "text": "「Ты…」",
+   "orig": "Buran\n「You—」"
+  },
+  {
+   "i": 82,
+   "speaker": "Лэйн",
+   "text": "「Если эти твари устроят Третий удар,\n　отпускать их просто нельзя!」",
+   "orig": "Lane\n「If these things are gonna cause the Third Impact,\n　we can just let them go!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Буран",
+   "text": "「Хорошо.\n　Но не смей погибнуть!」",
+   "orig": "Buran\n「Alright.\n　But don't you dare die!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Буран",
+   "text": "「Уааа!」",
+   "orig": "Buran\n「Ooof!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Лэйн",
+   "text": "「Майор Буран!」",
+   "orig": "Lane\n「Major Buran!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Буран",
+   "text": "「Лэйн!\n　Зачем ты вернулся?」",
+   "orig": "Buran\n「Lane!\n　Why did you come back?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Лэйн",
+   "text": "「«Пенелопа» ещё может драться!」",
+   "orig": "Lane\n「The Penelope can still fight!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Буран",
+   "text": "「Обстановка изменилась!\n　В нынешнем состоянии нам с этим не справиться!\n　Всем подразделениям — отход!」",
+   "orig": "Buran\n「The situation has changed!\n　The way we are now, we can't fight these things!\n　All units, retreat!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Буран",
+   "text": "「Лэйн!\n　Почему не отходишь?」",
+   "orig": "Buran\n「Lane!\n　Why aren't you retreating?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Лэйн",
+   "text": "「«Пенелопа» способна драться с этими тварями!」",
+   "orig": "Lane\n「The Penelope can fight these bastards!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Буран",
+   "text": "「Ты…」",
+   "orig": "Buran\n「You—」"
+  },
+  {
+   "i": 92,
+   "speaker": "Лэйн",
+   "text": "「Если эти твари устроят Третий удар,\n　отпускать их просто нельзя!」",
+   "orig": "Lane\n「If these things are gonna cause the Third Impact,\n　we can just let them go!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Буран",
+   "text": "「Хорошо.\n　Но не смей погибнуть!」",
+   "orig": "Buran\n「Alright.\n　But don't you dare die!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Лэйн",
+   "text": "「Есть, майор.」",
+   "orig": "Lane\n「Yes, Major.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Лэйн",
+   "text": "「«Лондо Белл», вы меня слышите?\n　Я лейтенант Лэйн Эйм из «Джи-Хаунда»!」",
+   "orig": "Lane\n「Londo Bell, can you hear me?\n　I'm Lieutenant Lane Aime of G-Hound!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Лэйн",
+   "text": "「Предлагаю объявить временное перемирие\n　и ударить по Ангелу единым фронтом!」",
+   "orig": "Lane\n「I propose that we declare a temporary cease-fire\n　and fight the Angel as a united front!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Брайт",
+   "text": "「Говорит командир «Лондо Белл» Брайт Ноа.\n　Мы принимаем ваше предложение.」",
+   "orig": "Bright\n「This is Londo Bell Commander Bright Noa.\n　We accept your proposal.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Брайт",
+   "text": "「Благодарим за содействие.」",
+   "orig": "Bright\n「We appreciate your cooperation.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Лэйн",
+   "text": "「Не стоит. Мы всего лишь солдаты,\n　защищающие людей — защищающие Землю.」",
+   "orig": "Lane\n「That's not necessary. We're just soldiers\n　protecting the citizens—protecting the Earth.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хатауэй",
+   "text": "「Лейтенант Лэйн Эйм, значит?」",
+   "orig": "Hathaway\n「Lieutenant Lane Aime, huh?」"
+  },
+  {
+   "i": 101,
+   "speaker": "Банагер",
+   "text": "「Вроде не похож на плохого человека.」",
+   "orig": "Banagher\n「He doesn't seem like a bad guy.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тобиа",
+   "text": "「«Джи-Хаунд» отступил!\n　Весь огонь по Ангелу!」",
+   "orig": "Tobia\n「G-Hound has retreated!\n　Focus your fire on the Angel!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Найн",
+   "text": "「Погодите-ка.\n　Сюда направляется что-то ещё.」",
+   "orig": "Nine\n「Wait just a minute.\n　Something else is still on the way.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Хатауэй",
+   "text": "「Это Нео-Зеон!」",
+   "orig": "Hathaway\n「It's Neo Zeon!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Джудо",
+   "text": "「Эти машины!\n　Это земные силы Зеона!」",
+   "orig": "Judau\n「Those mobile units!\n　That's Zeon's Earth forces」"
+  },
+  {
+   "i": 106,
+   "speaker": "Тобиа",
+   "text": "「Земные силы.\n　Они вторглись на Землю из космоса, а потом\n　остались и сделали Землю своим домом.」",
+   "orig": "Tobia\n「The Earth forces.\n　They invaded the Earth from space, and then\n　stuck around and made the Earth their home.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Они открыли по нам огонь!」",
+   "orig": "$n\n「They fired at us!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Рёма",
+   "text": "「И целятся только в нас? Да вы шутите?!」",
+   "orig": "Ryoma\n「And we're their sole target? Are you kidding?!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Брайт",
+   "text": "「Говорит командир «Лондо Белл» Брайт Ноа!\n　Немедленно прекратите атаку!」",
+   "orig": "Bright\n「This is Londo Bell Commander Bright Noa!\n　Discontinue your assault immediately!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Брайт",
+   "text": "「Если мы просто проигнорируем этого Ангела,\n　Третий удар случится наверняка!」",
+   "orig": "Bright\n「If we just ignore that Angel,\n　the Third Impact is guaranteed to happen!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Солдат Зеона",
+   "text": "「Нам это известно.」",
+   "orig": "Zeon Soldier\n「We're aware of that.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Мисато",
+   "text": "「Что ты сказал?」",
+   "orig": "Misato\n「What did you say?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Солдат Зеона",
+   "text": "「Мы и не собирались уйти отсюда живыми.\n　Мы пришли, чтобы утащить Землю за собой!」",
+   "orig": "Zeon Soldier\n「We have no intention of leaving here alive.\n　We came here to take the Earth down with us!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Банагер",
+   "text": "「Это безумие!\n　Нео-Зеон и правда хочет,\n　чтобы Земля погибла!」",
+   "orig": "Banagher\n「This is insane!\n　Neo Zeon really wants the Earth\n　to perish!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Лэйн",
+   "text": "「Зеонские ублюдки!\n　Эгоисты до самого конца!」",
+   "orig": "Lane\n「Zeon bastards!\n　Selfish to the bitter end!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Отто",
+   "text": "「С этой компанией говорить бесполезно!\n　Главное сейчас — остановить Ангела!」",
+   "orig": "Otto\n「It's useless to talk to that bunch!\n　Stopping the Angel is the first order of business!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Джудо",
+   "text": "「Но у него…\n　У него бим-пушка с невероятной\n　дальностью и мощью!」",
+   "orig": "Judau\n「But he—\n　He's got a beam cannon with unbeliEVAble\n　range and power!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Амуро",
+   "text": "「И всё равно мы обязаны это сделать!」",
+   "orig": "Amuro\n「We still have to do this!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Мисато",
+   "text": "「Синдзи! Рэй!」",
+   "orig": "Misato\n「Shinji! Rei!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Синдзи",
+   "text": "「Знаем!\n　Благодаря AT-полю\n　даже этот луч…!」",
+   "orig": "Shinji\n「We know!\n　Thanks to the AT field,\n　even that beam—!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Мисато",
+   "text": "「Вот это настрой.\n　Значит, тренировки Рёмы не прошли даром.」",
+   "orig": "Misato\n「That's the spirit.\n　Ryoma's training wasn't for nothing after all.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Мисато",
+   "text": "「Синдзи, бросайся на Ангела и навязывай\n　ближний бой! Рэй, прикрывай его!」",
+   "orig": "Misato\n「Shinji, charge the Angel and engage it in\n　close combat! And Rei, you back him up!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Рэй",
+   "text": "「Принято.」",
+   "orig": "Rei\n「Roger.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Брайт",
+   "text": "「Всем подразделениям: на Зеон не отвлекаться!\n　Весь огонь по Ангелу!」",
+   "orig": "Bright\n「All units, don't worry about Zeon!\n　Focus your attack on the Angel!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Синдзи",
+   "text": "「Если Третий удар случится из-за этих\n　зацикленных на себе ублюдков…」",
+   "orig": "Shinji\n「If the Third Impact occurs because of those\n　self-involved bastards—」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「Синдзи, мы рассчитываем, что ты этого не допустишь!」",
+   "orig": "$n\n「Shinji, we're counting on you to not let that happen!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Синдзи",
+   "text": "「Есть!」",
+   "orig": "Shinji\n「Yes, sir!」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「Они стреляют по нам!」",
+   "orig": "$n\n「They're shooting at us!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Рёма",
+   "text": "「И целятся только в нас? Да вы шутите?!」",
+   "orig": "Ryoma\n「And we're their sole target? Are you kidding?!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Брайт",
+   "text": "「Говорит командир «Лондо Белл» Брайт Ноа!\n　Немедленно прекратите атаку!」",
+   "orig": "Bright\n「This is Londo Bell Commander Bright Noa!\n　Discontinue your assault immediately!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Брайт",
+   "text": "「Если мы просто проигнорируем этого Ангела,\n　Третий удар случится наверняка!」",
+   "orig": "Bright\n「If we just ignore that Angel,\n　the Third Impact is guaranteed to happen!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Солдат Зеона",
+   "text": "「Нам это известно.」",
+   "orig": "Zeon Soldier\n「We're aware of that.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Мисато",
+   "text": "「Что ты сказал?」",
+   "orig": "Misato\n「What did you say?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Солдат Зеона",
+   "text": "「Мы и не собирались уйти отсюда живыми.\n　Мы пришли, чтобы утащить Землю за собой!」",
+   "orig": "Zeon Soldier\n「We have no intention of leaving here alive.\n　We came here to take the Earth down with us!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Банагер",
+   "text": "「Это безумие!\n　Нео-Зеон и правда хочет,\n　чтобы Земля погибла!」",
+   "orig": "Banagher\n「This is insane!\n　Neo Zeon really wants the Earth\n　to perish!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Лэйн",
+   "text": "「Зеонские ублюдки!\n　Эгоисты до самого конца!」",
+   "orig": "Lane\n「Zeon bastards!\n　Selfish to the bitter end!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Отто",
+   "text": "「С этой компанией говорить бесполезно!\n　Главное сейчас — остановить Ангела!」",
+   "orig": "Otto\n「It's useless to talk to that bunch!\n　Stopping the Angel is the first order of business!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Джудо",
+   "text": "「Но у него…\n　У него бим-пушка с невероятной\n　дальностью и мощью!」",
+   "orig": "Judau\n「But he—\n　He's got a beam cannon with unbeliEVAble\n　range and power!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Амуро",
+   "text": "「И всё равно мы обязаны это сделать!」",
+   "orig": "Amuro\n「We still have to do this!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Мисато",
+   "text": "「Синдзи! Рэй!」",
+   "orig": "Misato\n「Shinji! Rei!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Синдзи",
+   "text": "「Знаем!\n　Благодаря AT-полю\n　даже этот луч…!」",
+   "orig": "Shinji\n「We know!\n　Thanks to the AT field,\n　even that beam—!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Мисато",
+   "text": "「Вот это настрой.\n　Значит, тренировки Рёмы не прошли даром.」",
+   "orig": "Misato\n「That's the spirit.\n　Ryoma's training wasn't for nothing after all.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Мисато",
+   "text": "「Синдзи, бросайся на Ангела и навязывай\n　ближний бой! Рэй, прикрывай его!」",
+   "orig": "Misato\n「Shinji, charge the Angel and engage it in\n　close combat! And Rei, you back him up!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Рэй",
+   "text": "「Принято.」",
+   "orig": "Rei\n「Roger.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Брайт",
+   "text": "「Всем подразделениям: на Зеон не отвлекаться!\n　Весь огонь по Ангелу!」",
+   "orig": "Bright\n「All units, don't worry about Zeon!\n　Focus your attack on the Angel!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Синдзи",
+   "text": "「Если Третий удар случится из-за этих\n　зацикленных на себе ублюдков…」",
+   "orig": "Shinji\n「If the Third Impact occurs because of those\n　self-involved bastards—」"
+  },
+  {
+   "i": 147,
+   "speaker": "$n",
+   "text": "「Сделай всё, чтобы этого не случилось,\n　Синдзи!」",
+   "orig": "$n\n「Do whatever it takes to not let that happen,\n　Shinji!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Синдзи",
+   "text": "「Есть!」",
+   "orig": "Shinji\n「Yes, ma'am!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Джудо",
+   "text": "「Получилось!」",
+   "orig": "Judau\n「We did it!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Мисато",
+   "text": "「Бесполезно!\n　Если так пойдёт дальше…」",
+   "orig": "Misato\n「It's no use!\n　If this keeps up—」"
+  },
+  {
+   "i": 151,
+   "speaker": "Кинкейд",
+   "text": "「Что? Он восстановился?」",
+   "orig": "Kincade\n「What? It restored itself?」"
+  },
+  {
+   "i": 152,
+   "speaker": "Мисато",
+   "text": "「Ангел будет возрождаться снова и снова, пока мы\n　не уничтожим его ядро! А его способность к регенерации\n　невероятна даже на фоне прежних Ангелов!」",
+   "orig": "Misato\n「The Angel is gonna keep coming back to life\n　until we destroy its core! And its regenerative powers\n　are extraordinary compared to the Angels up till now!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Синдзи",
+   "text": "「Но их ядра глубоко внутри тела, и они всё время\n　меняют форму — до ядра никак не добраться!」",
+   "orig": "Shinji\n「But their cores are deep inside their bodies, and the\n　way they change shape, there's no way to get to them!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Мисато",
+   "text": "「Найн!\n　Сможешь просчитать?」",
+   "orig": "Misato\n「Nine!\n　Can you do the calculation?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Найн",
+   "text": "「Ядро расположено в центре Ангела.\n　Если бы у нас было оружие, способное пробить ядро\n　одним выстрелом, думаю, мы смогли бы его уничтожить.」",
+   "orig": "Nine\n「The core is located in the center of the Angel.\n　If we had a weapon that could penetrate the core in\n　one shot, I think we might be able to destroy it.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Хаято",
+   "text": "「Наши удары вблизи он гасит прямо у поверхности.\n　Но вот сверхмощным огнестрельным оружием…」",
+   "orig": "Hayato\n「It stops our up-close attacks right at the surface.\n　But with an ultra-high-powered firearm...」"
+  },
+  {
+   "i": 157,
+   "speaker": "Намбу",
+   "text": "「Командир!\n　Если бы мы применили волновую пушку…」",
+   "orig": "Nanbu\n「Commander!\n　If we could use the wave motion gun—」"
+  },
+  {
+   "i": 158,
+   "speaker": "Окита",
+   "text": "「Исключено!\n　Если ударить волновой пушкой на поверхности Земли,\n　неизвестно, какой урон это нанесёт!」",
+   "orig": "Okita\n「No chance!\n　If we use the wave motion gun on the Earth's surface,\n　we have no idea what damage it could cause!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Окита",
+   "text": "「Волновая пушка применяется лишь в крайнем случае!」",
+   "orig": "Okita\n「The wave motion gun is only used as a last resort!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Мисато",
+   "text": "（А если именно сейчас и есть тот самый случай…）",
+   "orig": "Misato\n（If we were to use it at a time like this—）"
+  },
+  {
+   "i": 161,
+   "speaker": "Макото",
+   "text": "「Что это?」",
+   "orig": "Makoto\n「What's this?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Фуюцуки",
+   "text": "「Что происходит?」",
+   "orig": "Fuyutsuki\n「What's going on?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Макото",
+   "text": "「Приближается ещё один неопознанный объект!」",
+   "orig": "Makoto\n「A new unidentified flying object is approaching!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Сигэру",
+   "text": "「Синий паттерн!\n　Это Ангел!」",
+   "orig": "Shigeru\n「Pattern Blue!\n　It's an Angel!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Мисато",
+   "text": "「Ещё один Ангел!」",
+   "orig": "Misato\n「Another Angel!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Фуюцуки",
+   "text": "（Несколько Ангелов появляются одновременно.\n　Возможно, произошёл фазовый сдвиг из-за\n　связи с параллельным измерением.）",
+   "orig": "Fuyutsuki\n（Multiple Angels appearing at the same time.\n　Maybe a phase shift occurred as a result of\n　a connection with a parallel dimension.）"
+  },
+  {
+   "i": 167,
+   "speaker": "Гэндо",
+   "text": "（Придётся внести в график\n　дополнительные изменения.）",
+   "orig": "Gendo\n（We're gonna have to make additional\n　changes to the schedule.）"
+  },
+  {
+   "i": 168,
+   "speaker": "Синдзи",
+   "text": "「Бесполезно.\n　Если срочно что-нибудь не придумаем, нам…」",
+   "orig": "Shinji\n「It's no use.\n　If we don't do something fast, we're—」"
+  },
+  {
+   "i": 169,
+   "speaker": "？？？",
+   "text": "「Ты что, дурак?」",
+   "orig": "？？？\n「Are you stupid?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Синдзи",
+   "text": "「Красный «Евангелион»!」",
+   "orig": "Shinji\n「A red Evangelion!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Мисато",
+   "text": "「Второй номер!」",
+   "orig": "Misato\n「Unit-02!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Аска",
+   "text": "「Вот и я!」",
+   "orig": "Asuka\n「Here I come!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Синдзи",
+   "text": "「Новый «Ева».」",
+   "orig": "Shinji\n「A new EVA.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Аска",
+   "text": "「Именно так, папенькин сынок.」",
+   "orig": "Asuka\n「That's right, Daddy's Boy.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 176,
+   "speaker": "Аска",
+   "text": "「Чтоб ты знал: Второй номер —\n　совсем не чета вашим «Евам».」",
+   "orig": "Asuka\n「Just so you know, Unit-02 here\n　is a whole different animal from those EVAs of yours.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Аска",
+   "text": "「Ведь Нулевой и Первый — всего лишь прототип\n　и опытный образец на пути разработки!\n　А вот Второй номер — совсем другое дело!」",
+   "orig": "Asuka\n「After all, Unit-00 and Unit-01 were just\n　a prototype and a test type of the development process!\n　But Unit-02 here is a different story!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Аска",
+   "text": "「Его создавали для настоящего боя.\n　Первый в мире подлинный «Евангелион»!\n　Единственная серийная модель!」",
+   "orig": "Asuka\n「This one was actually created for real combat.\n　The world's very first genuine Evangelion!\n　The one and only official model!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Аска",
+   "text": "「А пилот Второго номера — не кто иная, как я,\n　Аска Лэнгли Сикинами!」",
+   "orig": "Asuka\n「And the pilot of Unit-02 is none other than me,\n　Asuka Langley Shikinami!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Мисато",
+   "text": "「Второй номер, разработан в Европе,\n　пилот — Второе Дитя, Аска.」",
+   "orig": "Misato\n「Unit-02, developed in Europe,\n　and operated by the Second Child, Asuka.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Аска",
+   "text": "「Давно не виделись, Мисато.\n　Не переживай, что Ангелов двое.\n　Раз я здесь, всё под контролем.」",
+   "orig": "Asuka\n「Long time no see, Misato.\n　Don't worry about two Angels showing up.\n　Now that I'm here, everything's under control.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Мисато",
+   "text": "（Командующий Икари предвидел такую ситуацию\n　и вызвал Аску.）",
+   "orig": "Misato\n（Commander Ikari anticipated this situation\n　and called Asuka in.）"
+  },
+  {
+   "i": 183,
+   "speaker": "Бича",
+   "text": "「Ещё одна «Ева» ничего не изменит\n　для того ромбовидного красавца,\n　что кружит там наверху!」",
+   "orig": "Beecha\n「One more EVA isn't gonna mean a thing\n　to that diamond-shaped bad boy\n　flying around over there!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Джудо",
+   "text": "「Чёрт!\n　У «Хай-Мега-Пушки» энергия рассеивается.\n　Пробить ядро ей никак не выйдет!」",
+   "orig": "Judau\n「Damn it!\n　With the High Mega Cannon, the energy scatters.\n　There's no way it'll be able to penetrate the core!」"
+  },
+  {
+   "i": 185,
+   "speaker": "？？？",
+   "text": "「Небрежно, небрежно, Джудо!」",
+   "orig": "？？？\n「Sloppy sloppy, Judau!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Амуро",
+   "text": "「Этот мобильный доспех!\n　Это машина «Джи-Хаунда»!」",
+   "orig": "Amuro\n「That mobile suit!\n　It's a G-Hound unit!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Лэйн",
+   "text": "「Командир Язан!\n　И вы, лейтенант Джерид!」",
+   "orig": "Lane\n「Commander Yazan!\n　And you too, Lieutenant Jerid!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Джерид",
+   "text": "「Похоже, туго тебе приходится, Лэйн.」",
+   "orig": "Jerid\n「Seems like you're having a tough go of it, Lane.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Язан",
+   "text": "「Извини.\n　Дотащить сюда эту штуку заняло время.」",
+   "orig": "Yazan\n「Sorry.\n　Bringing this guy we captured here took some time.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Найджел",
+   "text": "「Эй, это что, гигантская винтовка\n　у того мобильного доспеха?」",
+   "orig": "Nigel\n「Hey, is that a giant rifle\n　on that mobile suit?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Мисато",
+   "text": "「Это самоходная позитронная пушка 460 мм повышенной\n　мощности, второе поколение. Дальневосточный штаб Земных\n　федеральных войск заказал её как снаряжение для «Евы».」",
+   "orig": "Misato\n「It's a High Output 2nd Generation Self-propelled 460mm\n　Positron Cannon. The Far East Headquarters of the Earth\n　Federation Forces ordered it as custom gear for the EVA.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Гэндо",
+   "text": "「Капитан Кацураги.\n　Выбейте ею ядро Шестого Ангела.」",
+   "orig": "Gendo\n「Commander Katsuragi.\n　Use that to blast out the core of the Sixth Angel.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Мисато",
+   "text": "「Но настраивать её прямо в бою…」",
+   "orig": "Misato\n「But tuning it on the battlefield would be—」"
+  },
+  {
+   "i": 194,
+   "speaker": "Гэндо",
+   "text": "「Иначе всему конец.」",
+   "orig": "Gendo\n「If we don't, it's all over.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Мисато",
+   "text": "「Поняла.」",
+   "orig": "Misato\n「Understood.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Мисато",
+   "text": "「Синдзи!\n　Забери позитронную пушку у «Джи-Хаунда»!」",
+   "orig": "Misato\n「Shinji!\n　Get the Positron Cannon from G-Hound!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Синдзи",
+   "text": "「Есть!」",
+   "orig": "Shinji\n「Yes, ma'am!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Рицуко",
+   "text": "「Рэй, к шахте 12!\n　Оборонительное вооружение готово!」",
+   "orig": "Ritsuko\n「Rei, get to Silo 12!\n　The defensive armaments have been completed!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Рэй",
+   "text": "「Есть.」",
+   "orig": "Rei\n「Yes, ma'am.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Амуро",
+   "text": "「Этот мобильный доспех!\n　Это машина «Джи-Хаунда»!」",
+   "orig": "Amuro\n「That mobile suit!\n　It's a G-Hound unit!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Джудо",
+   "text": "「Язан!」",
+   "orig": "Judau\n「Yazan!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Язан",
+   "text": "「С такими чудовищами на руках\n　даже «Лондо Белл», похоже, приходится туго.」",
+   "orig": "Yazan\n「What with those monsters to deal with,\n　seems like even Londo Bell is having a tough go of it.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Джерид",
+   "text": "「Похоже, одолеть их можно только\n　с помощью этой захваченной штуки.」",
+   "orig": "Jerid\n「Looks like the only way to defeat them\n　is to use this guy we captured.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Найджел",
+   "text": "「Эй, это что, гигантская винтовка\n　у того мобильного доспеха?」",
+   "orig": "Nigel\n「Hey, is that a giant rifle\n　on that mobile suit?」"
+  },
+  {
+   "i": 205,
+   "speaker": "Мисато",
+   "text": "「Это самоходная позитронная пушка 460 мм повышенной\n　мощности, второе поколение. Дальневосточный штаб Земных\n　федеральных войск заказал её как снаряжение для «Евы».」",
+   "orig": "Misato\n「It's a High Output 2nd Generation Self-propelled 460mm\n　Positron Cannon. The Far East Headquarters of the Earth\n　Federation Forces ordered it as custom gear for the EVA.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Гэндо",
+   "text": "「Капитан Кацураги.\n　Выбейте ею ядро Шестого Ангела.」",
+   "orig": "Gendo\n「Commander Katsuragi.\n　Use that to blast out the core of the Sixth Angel.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Мисато",
+   "text": "「Но настраивать её прямо в бою…」",
+   "orig": "Misato\n「But tuning it on the battlefield would be—」"
+  },
+  {
+   "i": 208,
+   "speaker": "Гэндо",
+   "text": "「Иначе всему конец.」",
+   "orig": "Gendo\n「If we don't, it's all over.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Мисато",
+   "text": "「Поняла.」",
+   "orig": "Misato\n「Understood.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Мисато",
+   "text": "「Синдзи!\n　Забери позитронную пушку у «Джи-Хаунда»!」",
+   "orig": "Misato\n「Shinji!\n　Get the Positron Cannon from G-Hound!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Синдзи",
+   "text": "「Есть!」",
+   "orig": "Shinji\n「Yes, ma'am!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Рицуко",
+   "text": "「Рэй, к шахте 12!\n　Оборонительное вооружение готово!」",
+   "orig": "Ritsuko\n「Rei, get to Silo 12!\n　The defensive armaments have been completed!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Рэй",
+   "text": "「Есть.」",
+   "orig": "Rei\n「Yes, ma'am.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Рицуко",
+   "text": "「С этим щитом мы сможем хоть сколько-то\n　выдержать бим-пушки Ангелов.」",
+   "orig": "Ritsuko\n「With that shield, we should be able to withstand\n　the Angels' beam cannons at least somewhat. 」"
+  },
+  {
+   "i": 215,
+   "speaker": "Рэй",
+   "text": "「Им мы защитим Икари.\n　Это наш долг.」",
+   "orig": "Rei\n「We'll protect Ikari with this.\n　That's are duty.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Язан",
+   "text": "「За щитом идёт меч.\n　Держи, «Евангелион».」",
+   "orig": "Yazan\n「After the shield comes the sword.\n　Here, take this, Evangelion.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Синдзи",
+   "text": "「Так вот она, позитронная пушка.」",
+   "orig": "Shinji\n「So this is the Positron Cannon.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Рицуко",
+   "text": "「Синдзи!\n　Я буду передавать команды отсюда,\n　так что занимай позицию для стрельбы!」",
+   "orig": "Ritsuko\n「Shinji!\n　I'll send you orders from here,\n　so assume firing position!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Майя",
+   "text": "「Но «Ева» своими силами не выдаст\n　достаточно энергии, чтобы выстрелить из позитронной\n　пушки на полной мощности!!」",
+   "orig": "Maya\n「But on its own the EVA\n　can't supply enough energy to fire the Positron Cannon\n　at maximum power!!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Рицуко",
+   "text": "「Сейчас нам остаётся лишь выжать максимум из…」",
+   "orig": "Ritsuko\n「At this point we've just got to do the best that—」"
+  },
+  {
+   "i": 221,
+   "speaker": "Окита",
+   "text": "「«Ямато», прикрыть «Еву»!」",
+   "orig": "Okita\n「Yamato, move to defend the EVA!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Сима",
+   "text": "「Есть!\n　«Ямато», полный вперёд!」",
+   "orig": "Shima\n「Roger!\n　Yamato, full speed ahead!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Санада",
+   "text": "「Икари!\n　Тяни кабель позитронной пушки к люку «Ямато»!」",
+   "orig": "Sanada\n「Ikari!\n　Bring the Positron Cannon's cable to hatch of the Yamato!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Окита",
+   "text": "「Токугава!\n　Направьте энергию, вырабатываемую волновым\n　двигателем, в позитронную пушку!」",
+   "orig": "Okita\n「Tokugawa!\n　Send the electric power generated by the wave\n　motion engine to the Positron Cannon!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Токугава",
+   "text": "「Есть!」",
+   "orig": "Tokugawa\n「Yes, sir!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Мисато",
+   "text": "「Командир Окита, что происходит?」",
+   "orig": "Misato\n「Commander Okita, what's going on?」"
+  },
+  {
+   "i": 227,
+   "speaker": "Окита",
+   "text": "「Когда «Ямато» запускал волновой двигатель,\n　люди со всего мира отдали нам свою энергию.」",
+   "orig": "Okita\n「Back when the Yamato activated the wave motion engine,\n　people from around the world sent us energy.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Окита",
+   "text": "「И теперь, как защитник этого самого мира,\n　«Ямато» отдаст свою энергию «Еве».」",
+   "orig": "Okita\n「And now, as a defender of that same world,\n　the Yamato is going to give energy to the EVA.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Майя",
+   "text": "「С такой подпиткой мы сможем выстрелить\n　из позитронной пушки на полной мощности!」",
+   "orig": "Maya\n「With this boost we'll be able to fire the Positron Cannon\n　 at maximum power!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Рицуко",
+   "text": "「Если он сумеет свалить Седьмого Ангела…」",
+   "orig": "Ritsuko\n「If he can take down the Seventh Angel...」"
+  },
+  {
+   "i": 231,
+   "speaker": "Джерид",
+   "text": "「Не думаю, что всё будет так просто!」",
+   "orig": "Jerid\n「I don't think it's gonna be that simple!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Джудо",
+   "text": "「Зеон!\n　Вы всё ещё лезете на нас?」",
+   "orig": "Judau\n「Zeon!\n　You're still coming after us?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Хатауэй",
+   "text": "「Они целятся в Синдзи!」",
+   "orig": "Hathaway\n「They're targeting Shinji!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Саяка",
+   "text": "「Мы остановили Нео-Зеон!」",
+   "orig": "Sayaka\n「Did we stop Neo Zeon!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Кодзи",
+   "text": "「Это же…」",
+   "orig": "Koji\n「That's—」"
+  },
+  {
+   "i": 236,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Koji\n「The Great Mazinger!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Рёма",
+   "text": "「Тэцуя!\n　Ты…」",
+   "orig": "Ryoma\n「Tetsuya!\n　You—」"
+  },
+  {
+   "i": 238,
+   "speaker": "Тэцуя",
+   "text": "「Защиту «Евы» оставьте мне.」",
+   "orig": "Tetsuya\n「Leave it to me to defend the EVA.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Кодзи",
+   "text": "「А?」",
+   "orig": "Koji\n「Huh?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Тэцуя",
+   "text": "「Я ни за что не позволю миру погибнуть.」",
+   "orig": "Tetsuya\n「No way am I letting the world come to an end.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Язан",
+   "text": "「Разногласия разногласиями, а они такие же, как мы.」",
+   "orig": "Yazan\n「We may have our differences, but they're the same as us.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Джерид",
+   "text": "「Зеон мы берём на себя!\n　«Лондо Белл», займитесь Ангелами!」",
+   "orig": "Jerid\n「We'll handle Zeon!\n　Londo Bell, you go after the Angels!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Джудо",
+   "text": "「Есть!\n　Синдзи, мы на тебя рассчитываем!」",
+   "orig": "Judau\n「Yes, sir!\n　Shinji, we're counting on you!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Синдзи",
+   "text": "「Смотрите, как все нам помогают.」",
+   "orig": "Shinji\n「Look how everyone's helping us.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Санада",
+   "text": "「Быстрее, Икари!\n　Пока машины сдерживают Ангелов,\n　мы начнём готовить позитронную пушку к выстрелу!」",
+   "orig": "Sanada\n「Hurry up, Ikari!\n　While the mobile units are holding off the Angels,\n　we'll start preparing to fire the Positron Cannon!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Синдзи",
+   "text": "「Есть!」",
+   "orig": "Shinji\n「Yes, sir!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Аска",
+   "text": "「А я-то считала его просто папенькиным сынком —\n　а в мальчишке, оказывается, есть характер.」",
+   "orig": "Asuka\n「Here I thought of him just as Daddy's Boy,\n　but he's really got spirit, that kid.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Рёма",
+   "text": "「А парень покрепче, чем кажется.」",
+   "orig": "Ryoma\n「That guy's gutsier than he looks.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Амуро",
+   "text": "「Тебя ведь зовут Аска.\n　Бой с Седьмым Ангелом\n　за тобой и твоей «Евой».」",
+   "orig": "Amuro\n「He said his name was Asuka.\n　Fighting that Seventh Angel\n　is up to you and your EVA.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Аска",
+   "text": "「После таких слов от Белого метеора\n　Федерации мне только и остаётся, что драться.」",
+   "orig": "Asuka\n「After talk like that from the Federation's\n　White Meteor, what choice do I have but to fight?」"
+  },
+  {
+   "i": 251,
+   "speaker": "Брайт",
+   "text": "「Защиту Синдзи оставляем\n　«Джи-Хаунду» и Тэцуе,\n　а сами бьёмся с Ангелами!」",
+   "orig": "Bright\n「We're leaving the defense of Shinji\n　to G-Hound and Tetsuya,\n　and we'll fight the Angels!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Мисато",
+   "text": "「Забудьте про Шестого Ангела и сосредоточьте\n　весь огонь на Седьмом! Если свалим его,\n　у нас появится линия огня!」",
+   "orig": "Misato\n「Forget about the Sixth Angel and just\n　focus your attack on the Seventh Angel! If we\n　can take that one down, we can secure a line of fire!」"
+  },
+  {
+   "i": 253,
+   "speaker": "$n",
+   "text": "「Драться с ещё одним Ангелом,\n　да ещё и уворачиваясь от этой бим-пушки!」",
+   "orig": "$n\n「The idea of taking on another Angel,\n　all the while dodging that beam cannon!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Тобиа",
+   "text": "「Синдзи по-настоящему разошёлся!\n　И я тоже!」",
+   "orig": "Tobia\n「Shinji is really starting to get into the spirit!\n　And so am I!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи!\n　Этого Ангела оставь нам!」",
+   "orig": "Hathaway\n「Shinji!\n　Leave that Angel to us!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Банагер",
+   "text": "「Мы защитим тебя во что бы то ни стало!\n　Так что давай, действуй!」",
+   "orig": "Banagher\n「We'll protect you no matter what!\n　So just go for it!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Синдзи",
+   "text": "「Ребята…」",
+   "orig": "Shinji\n「Everyone.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Рэй",
+   "text": "「Всё хорошо, Икари.」",
+   "orig": "Rei\n「It's alright, Ikari.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Синдзи",
+   "text": "「Аянами.」",
+   "orig": "Shinji\n「Ayanami.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Рэй",
+   "text": "「Ты не умрёшь.\n　Потому что я тебя защищу.」",
+   "orig": "Rei\n「You're not gonna die.\n　Because I'm gonna protect you.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Синдзи",
+   "text": "「Защитишь меня?」",
+   "orig": "Shinji\n「Protect me?」"
+  },
+  {
+   "i": 262,
+   "speaker": "Рэй",
+   "text": "「Прощай.」",
+   "orig": "Rei\n「Goodbye.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Синдзи",
+   "text": "「Постой!」",
+   "orig": "Shinji\n「Wait!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Koji\n「The Great Mazinger!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Рёма",
+   "text": "「Тэцуя!\n　Ты…」",
+   "orig": "Ryoma\n「Tetsuya!\n　You—」"
+  },
+  {
+   "i": 266,
+   "speaker": "Тэцуя",
+   "text": "「Защиту «Евы» оставьте мне.」",
+   "orig": "Tetsuya\n「Leave it to me to defend the EVA.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Кодзи",
+   "text": "「А?」",
+   "orig": "Koji\n「Huh?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Тэцуя",
+   "text": "「Я ни за что не позволю миру погибнуть.」",
+   "orig": "Tetsuya\n「No way am I letting the world come to an end.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Язан",
+   "text": "「Разногласия разногласиями, а они такие же, как мы.」",
+   "orig": "Yazan\n「We may have our differences, but they're the same as us.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Джерид",
+   "text": "「Зеон мы берём на себя!\n　«Лондо Белл», займитесь Ангелами!」",
+   "orig": "Jerid\n「We'll handle Zeon!\n　Londo Bell, you go after the Angels!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Джудо",
+   "text": "「Есть!\n　Синдзи, мы на тебя рассчитываем!」",
+   "orig": "Judau\n「Yes, sir!\n　Shinji, we're counting on you!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Синдзи",
+   "text": "「Смотрите, как все нам помогают.」",
+   "orig": "Shinji\n「Look how everyone's helping us.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Санада",
+   "text": "「Быстрее, Икари!\n　Пока машины сдерживают Ангелов,\n　мы начнём готовить позитронную пушку к выстрелу!」",
+   "orig": "Sanada\n「Hurry up, Ikari!\n　While the mobile units are holding off the Angels,\n　we'll start preparing to fire the Positron Cannon!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Синдзи",
+   "text": "「Есть!」",
+   "orig": "Shinji\n「Yes, sir!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Аска",
+   "text": "「А я-то считала его просто папенькиным сынком —\n　а в мальчишке, оказывается, есть характер.」",
+   "orig": "Asuka\n「Here I thought of him just as Daddy's Boy,\n　but he's really got spirit, that kid.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Рёма",
+   "text": "「А парень покрепче, чем кажется.」",
+   "orig": "Ryoma\n「That guy's gutsier than he looks.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Амуро",
+   "text": "「Тебя ведь зовут Аска.\n　Бой с Седьмым Ангелом\n　за тобой и твоей «Евой».」",
+   "orig": "Amuro\n「He said his name was Asuka.\n　Fighting that Seventh Angel\n　is up to you and your EVA.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Аска",
+   "text": "「После таких слов от Белого метеора\n　Федерации мне только и остаётся, что драться.」",
+   "orig": "Asuka\n「After talk like that from the Federation's\n　White Meteor, what choice do I have but to fight?」"
+  },
+  {
+   "i": 279,
+   "speaker": "Брайт",
+   "text": "「Защиту Синдзи оставляем\n　«Джи-Хаунду» и Тэцуе,\n　а сами бьёмся с Ангелами!」",
+   "orig": "Bright\n「We're leaving the defense of Shinji\n　to G-Hound and Tetsuya,\n　and we'll fight the Angels!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Мисато",
+   "text": "「Забудьте про Шестого Ангела и сосредоточьте\n　весь огонь на Седьмом! Если свалим его,\n　у нас появится линия огня!」",
+   "orig": "Misato\n「Forget about the Sixth Angel and just\n　focus your attack on the Seventh Angel! If we\n　can take that one down, we can secure a line of fire!」"
+  },
+  {
+   "i": 281,
+   "speaker": "$n",
+   "text": "「Задача не из лёгких.\n　Драться с ещё одним Ангелом, уворачиваясь от бим-пушки!」",
+   "orig": "$n\n「This is a pretty difficult mission.\n　Taking on another Angel while dodging that beam cannon!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Тобиа",
+   "text": "「Синдзи по-настоящему разошёлся!\n　И я тоже!」",
+   "orig": "Tobia\n「Shinji is really starting to get into the spirit!\n　And so am I!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи!\n　Этого Ангела оставь нам!」",
+   "orig": "Hathaway\n「Shinji!\n　Leave that Angel to us!」"
+  },
+  {
+   "i": 284,
+   "speaker": "Банагер",
+   "text": "「Мы защитим тебя во что бы то ни стало!\n　Так что давай, действуй!」",
+   "orig": "Banagher\n「We'll protect you no matter what!\n　So just go for it!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Синдзи",
+   "text": "「Ребята…」",
+   "orig": "Shinji\n「Everyone.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Рэй",
+   "text": "「Всё хорошо, Икари.」",
+   "orig": "Rei\n「It's alright, Ikari.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Синдзи",
+   "text": "「Аянами.」",
+   "orig": "Shinji\n「Ayanami.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Рэй",
+   "text": "「Ты не умрёшь.\n　Потому что я тебя защищу.」",
+   "orig": "Rei\n「You're not gonna die.\n　Because I'm gonna protect you.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Синдзи",
+   "text": "「Защитишь меня?」",
+   "orig": "Shinji\n「Protect me?」"
+  },
+  {
+   "i": 290,
+   "speaker": "Рэй",
+   "text": "「Прощай.」",
+   "orig": "Rei\n「Goodbye.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Синдзи",
+   "text": "「Постой!」",
+   "orig": "Shinji\n「Wait!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Банагер",
+   "text": "「Ангелы замерли на месте!」",
+   "orig": "Banagher\n「The Angels have stopped cold!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Язан",
+   "text": "「Дело дрянь, совсем дрянь!」",
+   "orig": "Yazan\n「This is bad, really bad!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Джерид",
+   "text": "「Зеонские ублюдки!\n　Сколько же вы сюда стволов нагнали?」",
+   "orig": "Jerid\n「Zeon bastards!\n　Just how much firepower are you sending in?」"
+  },
+  {
+   "i": 295,
+   "speaker": "Тэцуя",
+   "text": "「Если так пойдёт, они прорвутся!」",
+   "orig": "Tetsuya\n「If this keeps up, they're gonna break through!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Солдат Зеона",
+   "text": "「Зиг Зеон!\n　Федерация, ощути нашу ярость!」",
+   "orig": "Zeon Soldier\n「Seig Zeon!\n　Federation, feel our fury!」"
+  },
+  {
+   "i": 297,
+   "speaker": "Джудо",
+   "text": "「Да прекратите вы уже!」",
+   "orig": "Judau\n「Just stop this already!」"
+  },
+  {
+   "i": 298,
+   "speaker": "Амуро",
+   "text": "「Джудо…」",
+   "orig": "Amuro\n「Judau—」"
+  },
+  {
+   "i": 299,
+   "speaker": "Джудо",
+   "text": "「Вы же все жили на Земле!\n　Разве там, внизу, нет тех, кто вам дорог?」",
+   "orig": "Judau\n「You've all been living on Earth!\n　Aren't there people you care about down there?」"
+  },
+  {
+   "i": 300,
+   "speaker": "Солдат Зеона",
+   "text": "「Молчать!\n　Мы…」",
+   "orig": "Zeon Soldier\n「Silence!\n　We—」"
+  },
+  {
+   "i": 301,
+   "speaker": "Джудо",
+   "text": "「Вы готовы обречь всех на Земле\n　ради собственной злобы?」",
+   "orig": "Judau\n「You're just gonna doom everyone on Earth\n　for the sake of your own animosity?」"
+  },
+  {
+   "i": 302,
+   "speaker": "Джудо",
+   "text": "「Вы правда из тех, кому ничего не стоит отнять\n　жизнь у каждого, кого вы встретили на Земле?\n　Отвечайте!」",
+   "orig": "Judau\n「Are you really the sort of people who think nothing of\n　taking the lives of everybody you've met on Earth?\n　Answer me!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Солдат Зеона",
+   "text": "「Хм.」",
+   "orig": "Zeon Soldier\n「Hmph.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Джудо",
+   "text": "「Да прекратите этот бред!\n　Если мы будем снова и снова крутить круг ненависти,\n　человечество никогда не двинется вперёд!」",
+   "orig": "Judau\n「Stop this nonsense already!\n　If we just repeat this cycle of hatred,\n　the human race will never be able to move forward!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Джудо",
+   "text": "「А отнятые жизни\n　уже никогда, никогда не вернуть!」",
+   "orig": "Judau\n「And the lives that are lost\n　can never, ever be brought back!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Найн",
+   "text": "「Отнятые жизни… не вернуть…」",
+   "orig": "Nine\n「Lives that are lost...can't be brought back...」"
+  },
+  {
+   "i": 307,
+   "speaker": "Рёма",
+   "text": "「Проклятье!\n　Этот Ангел, он всё ещё жив!」",
+   "orig": "Ryoma\n「Dammit!\n　That Angel, it's still alive!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Синдзи",
+   "text": "「Ааа!」",
+   "orig": "Shinji\n「Whoa!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Банагер",
+   "text": "「Синдзи!」",
+   "orig": "Banagher\n「Shinji!」"
+  },
+  {
+   "i": 310,
+   "speaker": "Солдат Зеона",
+   "text": "「Гр-р!」",
+   "orig": "Zeon Soldier\n「Grr!」"
+  },
+  {
+   "i": 311,
+   "speaker": "Отто",
+   "text": "「Зеон прикрыл «Еву»?」",
+   "orig": "Otto\n「Zeon defended the EVA?」"
+  },
+  {
+   "i": 312,
+   "speaker": "Окита",
+   "text": "「Вот наш шанс!\n　Обрушить на Ангелов сосредоточенный огонь,\n　пока они не двигаются!」",
+   "orig": "Okita\n「Now's our chance!\n　Rain down concentrated firepower on the Angels\n　while they're not moving!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Кодай",
+   "text": "「Есть!\n　Всем орудиям — огонь!」",
+   "orig": "Kodai\n「Roger!\n　All guns, fire!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Аска",
+   "text": "「Вот это уже настоящая полная победа!」",
+   "orig": "Asuka\n「This time it's really a total victory!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Окита",
+   "text": "「Ещё рано!」",
+   "orig": "Okita\n「Not yet it's not!」"
+  },
+  {
+   "i": 316,
+   "speaker": "Мисато",
+   "text": "「Синдзи!\n　Шестой Ангел заметил, что мы целимся в него!」",
+   "orig": "Misato\n「Shinji!\n　The Sixth Angel noticed that we're targeting it!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Кинкейд",
+   "text": "「Вот и луч!」",
+   "orig": "Kincade\n「Here comes that beam!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Рёма",
+   "text": "「Уклоняйся, Синдзи!」",
+   "orig": "Ryoma\n「Dodge it, Shinji!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Рэй",
+   "text": "「Ааа!」",
+   "orig": "Rei\n「Whoa!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Пуру",
+   "text": "「Рэй!」",
+   "orig": "Ple\n「Rei!」"
+  },
+  {
+   "i": 321,
+   "speaker": "Пуру Два",
+   "text": "「Прикрыть Первый номер!」",
+   "orig": "Ple Two\n「Cover Unit-01!」"
+  },
+  {
+   "i": 322,
+   "speaker": "Синдзи",
+   "text": "「Аянами!」",
+   "orig": "Shinji\n「Ayanami!」"
+  },
+  {
+   "i": 323,
+   "speaker": "Токугава",
+   "text": "「Зарядка позитронной пушки завершена!」",
+   "orig": "Tokugawa\n「Positron Cannon charging complete!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Мисато",
+   "text": "「Синдзи, огонь!」",
+   "orig": "Misato\n「Shinji, fire!」"
+  },
+  {
+   "i": 325,
+   "speaker": "Синдзи",
+   "text": "「Ааааа!」",
+   "orig": "Shinji\n「Waaaa!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Найн",
+   "text": "「Получилось!\n　У нас правда получилось!」",
+   "orig": "Nine\n「We did it!\n　We really did it!」"
+  },
+  {
+   "i": 327,
+   "speaker": "$n",
+   "text": "「Да!\n　Отличная работа, Синдзи!\n　И ты, Рэй!」",
+   "orig": "$n\n「Yes!\n　Great job, Shinji!\n　And you too, Rei!」"
+  },
+  {
+   "i": 328,
+   "speaker": "Найн",
+   "text": "「Получилось!\n　У нас правда получилось!」",
+   "orig": "Nine\n「We did it!\n　We really did it!」"
+  },
+  {
+   "i": 329,
+   "speaker": "$n",
+   "text": "「Синдзи! Рэй!\n　Мы победили!」",
+   "orig": "$n\n「Shinji! Rei!\n　We won!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Тэцуя",
+   "text": "「Значит, всё кончено?」",
+   "orig": "Tetsuya\n「So it's all over, eh?」"
+  },
+  {
+   "i": 331,
+   "speaker": "Рёма",
+   "text": "「Благодарности от меня не жди, Тэцуя.」",
+   "orig": "Ryoma\n「Don't expect me to thank you, Tetsuya.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Тэцуя",
+   "text": "「И в мыслях не было.\n　Я просто выполнил свой долг, не более.」",
+   "orig": "Tetsuya\n「Furthest thing from my mind.\n　I just did my duty, nothing more.」"
+  },
+  {
+   "i": 333,
+   "speaker": "Кодзи",
+   "text": "「Ты…」",
+   "orig": "Koji\n「You—」"
+  },
+  {
+   "i": 334,
+   "speaker": "Тэцуя",
+   "text": "「Кодзи Кабуто,\n　в следующую нашу встречу я вытащу тебя\n　из «Мазингера Зет». Можешь не сомневаться.」",
+   "orig": "Tetsuya\n「Koji Kabuto,\n　Next time we meet, I'm gonna drag you out\n　of that Mazinger Z. Count on it.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Тобиа",
+   "text": "「Этот Тэцуя. С чего бы вдруг…?」",
+   "orig": "Tobia\n「That Tetsuya. Why in the world...?」"
+  },
+  {
+   "i": 336,
+   "speaker": "Кинкейд",
+   "text": "「Кто его знает.\n　Но он нам помог. Это факт.」",
+   "orig": "Kincade\n「Who knows.\n　But he did help us. That's a fact.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Джудо",
+   "text": "「Нам помог не только Тэцуя.」",
+   "orig": "Judau\n「Tetsuya wasn't the only one who helped us.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Солдат Зеона",
+   "text": "「Хм.」",
+   "orig": "Zeon Soldier\n「Hmph.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Джудо",
+   "text": "「Спасибо.\n　Мы победили во многом благодаря вам.」",
+   "orig": "Judau\n「Thanks.\n　You guys are a big part of the reason we won.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Солдат Зеона",
+   "text": "「Тело само дёрнулось, только и всего.」",
+   "orig": "Zeon Soldier\n「My body just moved of its own accord, that's all.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Амуро",
+   "text": "（Совсем как тогда, с Аксисом.）",
+   "orig": "Amuro\n（Just like with Axis.）"
+  },
+  {
+   "i": 342,
+   "speaker": "Амуро",
+   "text": "（Чар.\n　Люди не настолько глупы.）",
+   "orig": "Amuro\n（Char.\n　People aren't that foolish.）"
+  },
+  {
+   "i": 343,
+   "speaker": "Язан",
+   "text": "「Зеон тоже отошёл. Может, и нам домой?」",
+   "orig": "Yazan\n「Zeon pulled out too. How about we head home?」"
+  },
+  {
+   "i": 344,
+   "speaker": "Брайт",
+   "text": "「Благодарим за содействие.」",
+   "orig": "Bright\n「Thanks for your cooperation.」"
+  },
+  {
+   "i": 345,
+   "speaker": "Джерид",
+   "text": "「Мы сражаемся, чтобы защитить Землю.\n　Таков наш долг.」",
+   "orig": "Jerid\n「We fight to protect the Earth.\n　That's our duty.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Язан",
+   "text": "「Возвращаемся, Лэйн.」",
+   "orig": "Yazan\n「We're heading back, Lane」"
+  },
+  {
+   "i": 347,
+   "speaker": "Лэйн",
+   "text": "「Принято.」",
+   "orig": "Lane\n「Roger.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Джудо",
+   "text": "「Спасибо, Язан.」",
+   "orig": "Judau\n「Thanks, Yazan.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Язан",
+   "text": "「Хм.\n　В следующий раз я раздавлю вас всех.」",
+   "orig": "Yazan\n「Hmph.\n　Next time around I'm gonna crush the lot of you.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Амуро",
+   "text": "（Совсем как тогда, с Аксисом.）",
+   "orig": "Amuro\n（Just like with Axis.）"
+  },
+  {
+   "i": 351,
+   "speaker": "Амуро",
+   "text": "（Чар.\n　Люди не настолько глупы.）",
+   "orig": "Amuro\n（Char.\n　People aren't that foolish.）"
+  },
+  {
+   "i": 352,
+   "speaker": "Язан",
+   "text": "「Зеон тоже отошёл. Может, и нам домой?」",
+   "orig": "Yazan\n「Zeon pulled out too. How about we head home?」"
+  },
+  {
+   "i": 353,
+   "speaker": "Брайт",
+   "text": "「Благодарим за содействие.」",
+   "orig": "Bright\n「Thanks for your cooperation.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Джерид",
+   "text": "「Мы сражаемся, чтобы защитить Землю.\n　Таков наш долг.」",
+   "orig": "Jerid\n「We fight to protect the Earth.\n　That's our duty.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Джудо",
+   "text": "「А я всё равно это скажу.\n　Спасибо, Язан.」",
+   "orig": "Judau\n「Well I'm gonna say it anyway.\n　Thanks, Yazan.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Язан",
+   "text": "「Хм.\n　В следующий раз я раздавлю вас всех.」",
+   "orig": "Yazan\n「Hmph.\n　Next time around I'm gonna crush the lot of you.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Ру",
+   "text": "「«Джи-Хаунд». Зеон. Тэцуя.\n　Кого только сюда не занесло.」",
+   "orig": "Roux\n「G-Hound. Zeon. Tetsuya.\n　All kinds of people showed up.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Банагер",
+   "text": "「Когда Земля оказалась в опасности, люди\n　с разными взглядами смогли объединить силы.」",
+   "orig": "Banagher\n「Seeing the Earth in danger, people\n　with different viewpoints were able to join forces.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Амуро",
+   "text": "「Значит, надежда ещё есть.」",
+   "orig": "Amuro\n「I guess that means that there's still hope.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Рёма",
+   "text": "「Но герой дня — всё-таки Синдзи.」",
+   "orig": "Ryoma\n「But the man of the hour has got to be Shinji.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Кодзи",
+   "text": "「И где же он?」",
+   "orig": "Koji\n「And where is that guy?」"
+  },
+  {
+   "i": 362,
+   "speaker": "Хатауэй",
+   "text": "「Как раз выбирается из «Евы».」",
+   "orig": "Hathaway\n「He's getting out of the EVA.」"
+  },
+  {
+   "i": 363,
+   "speaker": "Мисато",
+   "text": "（Молодцы все.\n　Молодцы, Синдзи и Рэй.）",
+   "orig": "Misato\n（Great job, everyone.\n　Great job, Shinji and Rei.）"
+  },
+  {
+   "i": 364,
+   "speaker": "Мисато",
+   "text": "（Этому миру ещё очень, очень далеко до конца.）",
+   "orig": "Misato\n（This world, it's far, far from over.）"
+  },
+  {
+   "i": 365,
+   "speaker": "Мари",
+   "text": "「Вот они — Нулевой, Первый и Второй номера.」",
+   "orig": "Mari\n「That's Unit-00, Unit-01, and Unit-02.」"
+  },
+  {
+   "i": 366,
+   "speaker": "Кадзи",
+   "text": "「Столько лет не были в Японии — и возвращаемся\n　прямиком в этот нелепый балаган.」",
+   "orig": "Kaji\n「We come back to Japan after all this time,\n　and just look at this ridiculous situation.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Мари",
+   "text": "「И всё-таки я ужасно рада,\n　что мне довелось встретить этих ребят.」",
+   "orig": "Mari\n「Still, I'm really happy\n　that I got to meet those kids.」"
+  },
+  {
+   "i": 368,
+   "speaker": "Мари",
+   "text": "「Удачи вам, мальчики и девочки.\n　У вас впереди долгое будущее.」",
+   "orig": "Mari\n「Good luck, boys and girls.\n　You've got a long future ahead of you.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Лэйн",
+   "text": "「Чёрт!\n　Как я попал в такую передрягу?」",
+   "orig": "Lane\n「Damn!\n　How did I get into this predicament?」"
+  },
+  {
+   "i": 370,
+   "speaker": "Буран",
+   "text": "「Лэйн, отходи!\n　Мы не можем позволить себе потерять «Пенелопу»!」",
+   "orig": "Buran\n「Lane, retreat!\n　We can't afford to lose the Penelope!」"
+  },
+  {
+   "i": 371,
+   "speaker": "Лэйн",
+   "text": "「Виноват!\n　Лэйн Эйм, временно отхожу!」",
+   "orig": "Lane\n「Apologies!\n　Lane Aime, retreating temporarily!」"
+  },
+  {
+   "i": 372,
+   "speaker": "Амуро",
+   "text": "（Навыки у него неплохие,\n　но опыта, похоже, не хватает.）",
+   "orig": "Amuro\n（His skills aren't bad,\n　but he seems to lack experience.）"
+  },
+  {
+   "i": 373,
+   "speaker": "Лэйн",
+   "text": "「Я хотел показать «Лондо Белл», на что способен,\n　но, похоже, на этом всё!」",
+   "orig": "Lane\n「I was hoping to show Londo Bell what I can do,\n　but it looks like this is the end of the line!」"
+  },
+  {
+   "i": 374,
+   "speaker": "Лэйн",
+   "text": "「Лэйн Эйм, ухожу с передовой!\n　Дальше всё на вас!」",
+   "orig": "Lane\n「Lane Aime, withdrawing from the front line!\n　It's up to you from here on out!」"
+  },
+  {
+   "i": 375,
+   "speaker": "Тэцуя",
+   "text": "「Проклятье!\n　Так я не смогу выполнить задание!」",
+   "orig": "Tetsuya\n「Dammit!\n　At this rate I won't be able to fulfill my mission!」"
+  },
+  {
+   "i": 376,
+   "speaker": "Рёма",
+   "text": "「Тэцуя!」",
+   "orig": "Ryoma\n「Tetsuya!」"
+  },
+  {
+   "i": 377,
+   "speaker": "Язан",
+   "text": "「И это я — в таком месте!」",
+   "orig": "Yazan\n「Me, in a place like this!」"
+  },
+  {
+   "i": 378,
+   "speaker": "Джерид",
+   "text": "「И снова я не смог защитить своих.」",
+   "orig": "Jerid\n「Once again, I couldn't protect my allies.」"
+  },
+  {
+   "i": 379,
+   "speaker": "Джерид",
+   "text": "「Кх, ааааа!」",
+   "orig": "Jerid\n「Ugh, whoaaaa!」"
+  },
+  {
+   "i": 380,
+   "speaker": "Язан",
+   "text": "「Цык!\n　Чем там вообще занят этот Джерид?」",
+   "orig": "Yazan\n「Tsk!\n　What the hell is that Jerid doing?」"
+  },
+  {
+   "i": 381,
+   "speaker": "Синдзи",
+   "text": "「Я не оправдал ничьих надежд.」",
+   "orig": "Shinji\n「I failed to live up to everyone's expectations.」"
+  },
+  {
+   "i": 382,
+   "speaker": "Мисато",
+   "text": "「Синдзи!」",
+   "orig": "Misato\n「Shinji!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Гэндо",
+   "text": "「План провалился.」",
+   "orig": "Gendo\n「The plan failed.」"
+  },
+  {
+   "i": 384,
+   "speaker": "Рэй",
+   "text": "「Командующий Икари, нет мне прощения.」",
+   "orig": "Rei\n「Commander Ikari, I can't apologize enough.」"
+  },
+  {
+   "i": 385,
+   "speaker": "Синдзи",
+   "text": "「Аянами!」",
+   "orig": "Shinji\n「Ayanami!」"
+  },
+  {
+   "i": 386,
+   "speaker": "Гэндо",
+   "text": "（Рэй…）",
+   "orig": "Gendo\n（Rei...）"
+  },
+  {
+   "i": 387,
+   "speaker": "Аска",
+   "text": "「И что я вообще творю?\n　Не лучше папенькиного сынка и любимицы командующего!」",
+   "orig": "Asuka\n「What the heck am I doing?\n　I'm no better than Daddy's Boy and Commander's Pet!」"
+  },
+  {
+   "i": 388,
+   "speaker": "Синдзи",
+   "text": "「Второй номер…」",
+   "orig": "Shinji\n「Unit-02 is...」"
+  },
+  {
+   "i": 389,
+   "speaker": "Мисато",
+   "text": "「За Аской мы отправим спасательную группу.\n　Синдзи, сосредоточься на бою!」",
+   "orig": "Misato\n「We'll send out the recovery squad for Asuka.\n　Shinji, you just concentrate on fighting!」"
+  },
+  {
+   "i": 390,
+   "speaker": "Бича",
+   "text": "「Вот зараза!\n　Он восстановился в мгновение ока!」",
+   "orig": "Beecha\n「That bastard!\n　It regenerated itself in the blink of an eye!」"
+  },
+  {
+   "i": 391,
+   "speaker": "Мондо",
+   "text": "「Как нам его остановить,\n　если он залечивается каждый раз, как мы его разносим?」",
+   "orig": "Mondo\n「How are we supposed to stop this thing\n　If it keeps recovering every time we smash it?」"
+  },
+  {
+   "i": 392,
+   "speaker": "Брайт",
+   "text": "「Не зацикливайтесь на Шестом Ангеле!\n　Им займётся Синдзи!」",
+   "orig": "Bright\n「Don't get hung up on attacking the Sixth Angel!\n　Let Shinji take care of that!」"
+  },
+  {
+   "i": 393,
+   "speaker": "Окита",
+   "text": "「Наша цель — Седьмой Ангел!\n　Свалите его и освободите линию огня!」",
+   "orig": "Okita\n「Our target is the Seventh Angel!\n　Take that sucker down to secure the line of fire!」"
+  },
+  {
+   "i": 394,
+   "speaker": "Лэйн",
+   "text": "「Подделка под «Пенелопу»!\n　То, что мятежники используют «Гандамы», —\n　непростительно!」",
+   "orig": "Lane\n「A Penelope knock-off!\n　The idea of the insurgent using Gundams\n　is unforgivable!」"
+  },
+  {
+   "i": 395,
+   "speaker": "Хатауэй",
+   "text": "「Мы не можем проиграть тем,\n　кто считает действия Федерации правильными!」",
+   "orig": "Hathaway\n「We can't let ourselves lose to people\n　who think that what the Federation is doing is right!」"
+  },
+  {
+   "i": 396,
+   "speaker": "Лэйн",
+   "text": "「Мерзавец!\n　Ты смеешь идти прямо на меня?」",
+   "orig": "Lane\n「Bastard!\n　You dare to come straight at me?」"
+  },
+  {
+   "i": 397,
+   "speaker": "Хатауэй",
+   "text": "「Ты слишком полагаешься на свою машину!」",
+   "orig": "Hathaway\n「You rely way too much on your mobile unit!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Хатауэй",
+   "text": "「Что до машин с Миновски-Крафтом —\n　я знаю все их сильные и слабые стороны!」",
+   "orig": "Hathaway\n「When it comes to units equipped with Minovsky Craft,\n　I know its every strength and weakness!」"
+  },
+  {
+   "i": 399,
+   "speaker": "Лэйн",
+   "text": "「Мерзавец!\n　А он крепкий орешек!」",
+   "orig": "Lane\n「Bastard!\n　He's a tough one!」"
+  },
+  {
+   "i": 400,
+   "speaker": "Хатауэй",
+   "text": "「Мы не можем проиграть тем,\n　кто считает действия Федерации правильными!」",
+   "orig": "Hathaway\n「We can't let ourselves lose to people\n　who think that what the Federation is doing is right!」"
+  },
+  {
+   "i": 401,
+   "speaker": "Лэйн",
+   "text": "「Проклятые мятежники!\n　Мы с «Пенелопой» подавим ваш жалкий бунт!」",
+   "orig": "Lane\n「Damn insurgents!\n　Me and Penelope here will quell your little uprising!」"
+  },
+  {
+   "i": 402,
+   "speaker": "Хатауэй",
+   "text": "「Ты так полагаешься на свою машину —\n　и всерьёз думаешь, что сможешь меня одолеть?」",
+   "orig": "Hathaway\n「You rely that much on your mobile unit,\n　and you really think that you could ever defeat me?」"
+  },
+  {
+   "i": 403,
+   "speaker": "Лэйн",
+   "text": "「Амуро Рэй, Белый метеор Федерации!」",
+   "orig": "Lane\n「Amuro Ray, the Federation's White Meteor!」"
+  },
+  {
+   "i": 404,
+   "speaker": "Амуро",
+   "text": "「А ты наблюдателен!\n　Но даже так…」",
+   "orig": "Amuro\n「Very perceptive!\n　But even so...」"
+  },
+  {
+   "i": 405,
+   "speaker": "Амуро",
+   "text": "「Если драться как одержимый, полагаясь лишь\n　на чутьё, долго ты не проживёшь!」",
+   "orig": "Amuro\n「If you fight like a maniac and just rely on\n　your senses, you're not gonna stay alive for long!」"
+  },
+  {
+   "i": 406,
+   "speaker": "Амуро",
+   "text": "「Майор Буран!\n　Если грызня внутри Федерации продолжится,\n　праздновать будет один только Нео-Зеон!」",
+   "orig": "Amuro\n「Major Buran!\n　If all this in-fighting in the Federation continues,\n　all it's gonna do is give Neo Zeon a reason to celebrate!」"
+  },
+  {
+   "i": 407,
+   "speaker": "Буран",
+   "text": "「Тогда просто подчинитесь моим приказам!」",
+   "orig": "Buran\n「Well then, just follow my orders!」"
+  },
+  {
+   "i": 408,
+   "speaker": "Амуро",
+   "text": "「Опасно давать силу тем, кто и не думает\n　разрывать эту цепь вражды!\n　Постарайтесь это понять!」",
+   "orig": "Amuro\n「It's dangerous to give power to a bunch of people who\n　have no intention of breaking this chain of animosity!\n　Try to understand that!」"
+  },
+  {
+   "i": 409,
+   "speaker": "Синдзи",
+   "text": "（Может быть, Аянами тоже сражается,\n　чтобы оправдать ожидания моего отца —\n　точно как я.）",
+   "orig": "Shinji\n（It just might be that Ayanami\n　is fighting to fulfill the expectations of my father,\n　just like I am.）"
+  },
+  {
+   "i": 410,
+   "speaker": "Синдзи",
+   "text": "（Сейчас я полностью сосредоточен!\n　Я сделаю то, что должен,\n　как боец «Лондо Белл»!）",
+   "orig": "Shinji\n（I'm completely focused right now!\n　I'm determined to do what I have to do\n　as a member of Londo Bell!）"
+  },
+  {
+   "i": 411,
+   "speaker": "Лэйн",
+   "text": "「Если я покажу себя по-настоящему,\n　их внимание переключится на «Лондо Белл»!」",
+   "orig": "Lane\n「If I play a really active role,\n　that will divert their attention to Londo Bell!」"
+  },
+  {
+   "i": 412,
+   "speaker": "Лэйн",
+   "text": "「Смотрите на меня!\n　На мне теперь честь всего «Джи-Хаунда»!」",
+   "orig": "Lane\n「Just watch me!\n　I've got the honor of G-Hound on my shoulders now!」"
+  },
+  {
+   "i": 413,
+   "speaker": "Язан",
+   "text": "「Убивать чудовищ — тоже солдатский долг!」",
+   "orig": "Yazan\n「Killing monsters is another duty that soldiers have!」"
+  },
+  {
+   "i": 414,
+   "speaker": "Язан",
+   "text": "「На кону этого боя судьба мира!\n　Вот он, настоящий азарт!」",
+   "orig": "Yazan\n「The fate of the world is riding on this battle!\n　This is the ultimate thrill!」"
+  },
+  {
+   "i": 415,
+   "speaker": "Джерид",
+   "text": "「Думаете, я позволю чудовищам, Нео-Зеону\n　или кому угодно топтать Землю?」",
+   "orig": "Jerid\n「You think I'm gonna let monsters, Neo Zeon,\n　or anybody else run roughshod over the Earth?」"
+  },
+  {
+   "i": 416,
+   "speaker": "Джерид",
+   "text": "「Поехали!\n　Мы защитим эту планету во что бы то ни стало!」",
+   "orig": "Jerid\n「Here we go!\n　We're gonna protect this planet no matter what!」"
+  },
+  {
+   "i": 417,
+   "speaker": "Тэцуя",
+   "text": "「Предназначение «Грейт Мазингера» —\n　защищать этот мир!」",
+   "orig": "Tetsuya\n「The mission of the Great Mazinger\n　is to protect this world!」"
+  },
+  {
+   "i": 418,
+   "speaker": "Тэцуя",
+   "text": "「«Мазингеру Зет» рискованно подходить к Ангелу вплотную!\n　Мы закончим этот бой в один миг!」",
+   "orig": "Tetsuya\n「It's risky for the Mazinger Z to get close to an Angel!\n　We can end this battle in a flash!」"
+  },
+  {
+   "i": 419,
+   "speaker": "Аска",
+   "text": "「Вот это да! Тут настоящее светопреставление!\n　Самое время показать, на что я способна!」",
+   "orig": "Asuka\n「Incredible! Suddenly all hell's breaking loose!\n　Here's my chance to show what I can do!」"
+  },
+  {
+   "i": 420,
+   "speaker": "Аска",
+   "text": "「Смотрите, папенькин сынок и любимица командующего!\n　Вот он, новейший «Ева», и за штурвалом — я!」",
+   "orig": "Asuka\n「Check this out, Daddy's Boy and Commander's Pet!\n　Behold the the brand new EVA, with me at the controls!」"
+  },
+  {
+   "i": 421,
+   "speaker": "Джудо",
+   "text": "「Почему вы не понимаете,\n　насколько бессмысленно продолжать эту драку?」",
+   "orig": "Judau\n「Why don't you understand\n　how meaningless it is to continue to fight like this?」"
+  },
+  {
+   "i": 422,
+   "speaker": "Джудо",
+   "text": "「Вы обесценили всё, что сделала Хаман.\n　Неужели вы этого не видите?」",
+   "orig": "Judau\n「You made what Haman did worthless.\n　Can't you see that?」"
+  },
+  {
+   "i": 423,
+   "speaker": "Джудо",
+   "text": "「Постой-ка, Синдзи!\n　С помехами мы разбираемся сами!」",
+   "orig": "Judau\n「Hold on there, Shinji!\n　We dispose of nuisances, you know!」"
+  },
+  {
+   "i": 424,
+   "speaker": "Джудо",
+   "text": "「Как это закончить — решать тебе!\n　Давай, выложись по полной!」",
+   "orig": "Judau\n「I'll leave it up to you how to end this!\n　Come on, give me your best shot!」"
+  },
+  {
+   "i": 425,
+   "speaker": "Амуро",
+   "text": "（Эти существа, которых зовут Ангелами.\n　Что они вообще такое?）",
+   "orig": "Amuro\n（These creatures called Angels.\n　Just what exactly are they?）"
+  },
+  {
+   "i": 426,
+   "speaker": "Амуро",
+   "text": "（Это давление, что обволакивает меня.\n　Оно исходит из их разума?）",
+   "orig": "Amuro\n（This pressure that's wrapping itself around me.\n　Is it from the minds of these things?）"
+  },
+  {
+   "i": 427,
+   "speaker": "Банагер",
+   "text": "「Прямо сейчас Синдзи отчаянно\n　готовится сокрушить Ангелов!」",
+   "orig": "Banagher\n「Right now, Shinji is frantically\n　preparing to defeat the Angels!」"
+  },
+  {
+   "i": 428,
+   "speaker": "Банагер",
+   "text": "「И я сделаю то же самое!\n　Чтобы «Юникорн» защитил этот мир!」",
+   "orig": "Banagher\n「I'm gonna do the same!\n　So that the Unicorn can protect this world!」"
+  },
+  {
+   "i": 429,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи!\n　Вспомни тренировки с Рёмой!」",
+   "orig": "Hathaway\n「Shinji!\n　Remember the training you did with Ryoma!」"
+  },
+  {
+   "i": 430,
+   "speaker": "Хатауэй",
+   "text": "「Этот бой решат стойкость и упрямство!\n　Не теряй боевого духа!」",
+   "orig": "Hathaway\n「It's gonna be guts and grit that decide this battle!\n　Don't lose your fighting spirit!」"
+  },
+  {
+   "i": 431,
+   "speaker": "Тобиа",
+   "text": "「Если мы свалим эту тварь,\n　остальное сделает Синдзи!」",
+   "orig": "Tobia\n「If we bring down this thing,\n　Shinji will do the rest!」"
+  },
+  {
+   "i": 432,
+   "speaker": "Тобиа",
+   "text": "「Синдзи, мы на тебя рассчитываем!\n　Но сперва мы расчистим тебе дорогу!」",
+   "orig": "Tobia\n「Shinji, we're counting on you!\n　But first we're gonna blaze the path for you!」"
+  },
+  {
+   "i": 433,
+   "speaker": "Кинкейд",
+   "text": "「Пусть море и красное — пока там живут люди,\n　мы будем защищать эту планету!」",
+   "orig": "Kincade\n「The sea may be red, but as long as there are people\n　living there, we're gonna protect this planet!」"
+  },
+  {
+   "i": 434,
+   "speaker": "Кинкейд",
+   "text": "「Человечество ещё не доросло до того,\n　чтобы отказаться от этих земель.」",
+   "orig": "Kincade\n「Human beings haven't yet grown up\n　to the point where they can give up these lands.」"
+  },
+  {
+   "i": 435,
+   "speaker": "Рёма",
+   "text": "「Синдзи!\n　Я верю, что тебе это по силам!」",
+   "orig": "Ryoma\n「Shinji!\n　I have faith that you've got it in you to do this!」"
+  },
+  {
+   "i": 436,
+   "speaker": "Рёма",
+   "text": "「Ни о чём больше не думай!\n　Просто пусти свои чувства прямо в «Еву» —\n　и она обязательно отзовётся!」",
+   "orig": "Ryoma\n「You don't have to think about anything else!\n　Just let your feelings flow directly into the EVA,\n　and I know it'll respond!」"
+  },
+  {
+   "i": 437,
+   "speaker": "Кодзи",
+   "text": "「Когда дерёшься с таким сильным противником,\n　боевой дух разгорается по-настоящему!」",
+   "orig": "Koji\n「When I fight against a strong opponent like this guy,\n　it really sets my fighting spirit on fire!」"
+  },
+  {
+   "i": 438,
+   "speaker": "Кодзи",
+   "text": "「Вперёд, «Мазингер»!\n　Вложи в удар всю мощь до последней капли!」",
+   "orig": "Koji\n「Here we go, Mazinger!\n　Hit him with every last bit of power you've got in you!」"
+  },
+  {
+   "i": 439,
+   "speaker": "Найн",
+   "text": "「Синдзи.」",
+   "orig": "Nine\n「Shinji.」"
+  },
+  {
+   "i": 440,
+   "speaker": "$n",
+   "text": "「Не волнуйся, Найн!\n　Этот малыш справится с задачей!」",
+   "orig": "$n\n「Don't worry, Nine!\n　That baby will get the job done!」"
+  },
+  {
+   "i": 441,
+   "speaker": "$n",
+   "text": "「У тех, кто вот так копит всё в себе,\n　взрывная сила самая мощная!」",
+   "orig": "$n\n「The ones that keep everything bottled up like that\n　are the ones that have the most explosive power!」"
+  },
+  {
+   "i": 442,
+   "speaker": "$n",
+   "text": "「И когда он выплеснет всё это разом,\n　любой вредитель перед ним будет стёрт в порошок!」",
+   "orig": "$n\n「And when it lets all of that out in a blaze of glory,\n　it'll be extermination time for any pests in front of it!」"
+  },
+  {
+   "i": 443,
+   "speaker": "Найн",
+   "text": "（Удачи, Синдзи.）",
+   "orig": "Nine\n（Good luck, Shinji.）"
+  },
+  {
+   "i": 444,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 445,
+   "speaker": "$n",
+   "text": "「Переживаешь за Синдзи?」",
+   "orig": "$n\n「Worried about Shinji?」"
+  },
+  {
+   "i": 446,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yeah.」"
+  },
+  {
+   "i": 447,
+   "speaker": "$n",
+   "text": "「Всё будет хорошо, Найн. Даже если у Синдзи не выйдет,\n　мы просто дадим ему новый шанс — столько раз,\n　сколько понадобится.」",
+   "orig": "$n\n「It's be alright, Nine. Even if Shinji should fail,\n　we'll just have to create new opportunities for him,\n　as many times as it takes.」"
+  },
+  {
+   "i": 448,
+   "speaker": "$n",
+   "text": "「Верить друг в друга и помогать друг другу.\n　Вот что значит быть боевыми товарищами.」",
+   "orig": "$n\n「Believing in each other and helping each other.\n　That's what it means to be comrades in arms.」"
+  },
+  {
+   "i": 449,
+   "speaker": "Найн",
+   "text": "「Я… я тоже верю в Синдзи.」",
+   "orig": "Nine\n「I, I believe in Shinji too.」"
+  },
+  {
+   "i": 450,
+   "speaker": "$n",
+   "text": "「Отлично!\n　Тогда идём и уберём с дороги ту штуку,\n　что мешает ему выстрелить!」",
+   "orig": "$n\n「OK!\n　Then let's go and get rid of that thing\n　that's in the way of his shot!」"
+  },
+  {
+   "i": 451,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

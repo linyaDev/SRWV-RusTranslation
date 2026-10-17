@@ -1,0 +1,2710 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Синдзи",
+   "text": "「У-ух!」",
+   "orig": "Shinji\n「W-wow!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Мисато",
+   "text": "「Так, Синдзи, а теперь дерись!」",
+   "orig": "Misato\n「Alright Shinji, now fight!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Синдзи",
+   "text": "「Да о чём вы вообще?」",
+   "orig": "Shinji\n「What are you talking about?」"
+  },
+  {
+   "i": 3,
+   "speaker": "Мисато",
+   "text": "「Ты теперь за штурвалом «Евы»!\n　Будешь так мяться — тебе конец!」",
+   "orig": "Misato\n「You're riding an EVA now!\n　If you hesitate like that you'll be dead meat!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Синдзи",
+   "text": "「Вы притащили меня сюда,\n　чуть ли не силой засунули в эту штуку...」",
+   "orig": "Shinji\n「You bring me here,\n　you pretty much force me onto this thing...」"
+  },
+  {
+   "i": 5,
+   "speaker": "Синдзи",
+   "text": "「Отец, что здесь вообще происходит?」",
+   "orig": "Shinji\n「Dad, just what the hell is going on?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Гэндо",
+   "text": "「Я тебе уже всё объяснил.」",
+   "orig": "Gendo\n「I've already explained it to you.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Синдзи",
+   "text": "「Но почему я?\n　Почему именно мне надо\n　садиться в эту «Еву»?」",
+   "orig": "Shinji\n「But why me?\n　Why am I the one who has to\n　ride this EVA?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Гэндо",
+   "text": "「Это твой долг.」",
+   "orig": "Gendo\n「That's your duty.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Синдзи",
+   "text": "「Да вы шутите!」",
+   "orig": "Shinji\n「You can't be serious!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Мисато",
+   "text": "「Синдзи!\n　Ангел приближается!」",
+   "orig": "Misato\n「Shinji!\n　Angels incoming!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Сигэру",
+   "text": "「Повреждение головы, степень неизвестна!」",
+   "orig": "Shigeru\n「Damage to the head, extent unknown!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Майя",
+   "text": "「Поддерживать работу становится невозможно!」",
+   "orig": "Maya\n「Encountering difficulties maintaining operation!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Мисато",
+   "text": "「Что со статусом?」",
+   "orig": "Misato\n「Status?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Майя",
+   "text": "「Синхрограф перевёрнут!\n　Импульсы идут в обратную сторону!」",
+   "orig": "Maya\n「Synchro Graph reversed!\n　Pulses are flowing backward!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Рицуко",
+   "text": "「Разорвать цепи!\n　Остановите это!」",
+   "orig": "Ritsuko\n「Circuitry cut off!\n　Stop it!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Майя",
+   "text": "「Бесполезно!\n　Сигнал отвергнут, приёма нет!」",
+   "orig": "Maya\n「It's no use!\n　Signal rejected, not receiving!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Мисато",
+   "text": "「А что с Синдзи?」",
+   "orig": "Misato\n「What about Shinji?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Макото",
+   "text": "「Монитор не отвечает! Жив ли он — неизвестно!」",
+   "orig": "Makoto\n「Monitor not reacting! No way to tell if he's alive!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Сигэру",
+   "text": "「Ева-01 полностью умолкла!」",
+   "orig": "Shigeru\n「Unit-01 has gone completely silent!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Кодзи",
+   "text": "「Чёрт!\n　Бой уже начался!」",
+   "orig": "Koji\n「Damn it!\n　The fighting's already started!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Саяка",
+   "text": "「Так вот они какие, эти самые Ангелы.」",
+   "orig": "Sayaka\n「So those are the so-called Angels.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Саяка",
+   "text": "「По словам отца,\n　если Ангелы доберутся до сердца Токио-3,\n　Второй удар повторится.」",
+   "orig": "Sayaka\n「According to my father,\n　when the Angels reach the heart of Tokyo-3,\n　the Second Impact will happen again.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Кодзи",
+   "text": "「Ну, раз он идёт после Второго удара,\n　то это уже Третий удар!」",
+   "orig": "Koji\n「Well it's the one after the Second Impact,\n　so it's actually the Third Impact!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Босс",
+   "text": "「А это что за фиолетовый робот вон там?」",
+   "orig": "Boss\n「And what's that purple robot over there?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Нукэ",
+   "text": "「Это же новое оружие для защиты Токио-3, нет?」",
+   "orig": "Nuke\n「Isn't that the new weapon for protecting Tokyo-3?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Мутя",
+   "text": "「Вот только ему, похоже, уже конец.」",
+   "orig": "Mucha\n「I think it's been done in, though.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Кодзи",
+   "text": "「Саяка, Босс, вперёд!\n　Мы должны остановить этих Ангелов,\n　иначе Земле конец!」",
+   "orig": "Koji\n「Sayaka, Boss, let's go!\n　We've got to stop those Angels\n　or else Earth is doomed!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Сигэру",
+   "text": "「«Мазингер Зет» из Института фотонной энергии!」",
+   "orig": "Shigeru\n「The Photonic Power Research Institute's Mazinger Z!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Фуюцуки",
+   "text": "「Должно быть, они пришли на помощь\n　по сигналу «Код: Ангел».」",
+   "orig": "Fuyutsuki\n「They must have come to help us\n　in response to the \"Code: Angel.\"」"
+  },
+  {
+   "i": 30,
+   "speaker": "Мисато",
+   "text": "「Немедленно отзывайте Еву-01!\n　Жизнь пилота — высший приоритет!\n　Принудительно катапультируйте капсулу!」",
+   "orig": "Misato\n「Send in Unit-01 right now!\n　Pilot protection is top priority!\n　Forcibly eject the plug!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Майя",
+   "text": "「Бесполезно!\n　Она совершенно не слушается!」",
+   "orig": "Maya\n「It's no use!\n　It's completely uncontrollable!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Мисато",
+   "text": "「Что?」",
+   "orig": "Misato\n「What?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Макото",
+   "text": "「«Ева» снова активировалась!」",
+   "orig": "Makoto\n「EVA, reactivate!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Майя",
+   "text": "「Что? Она же никак не может двигаться!」",
+   "orig": "Maya\n「What? There's no way it should be able to move!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Мисато",
+   "text": "「Не может быть...」",
+   "orig": "Misato\n「This can't be?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Рицуко",
+   "text": "「Она взбесилась?」",
+   "orig": "Ritsuko\n「It's gone berserk?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Фуюцуки",
+   "text": "「Эта битва за нами.」",
+   "orig": "Fuyutsuki\n「We've won this one.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Гэндо",
+   "text": "「Хм.」",
+   "orig": "Gendo\n「Hmph.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Майя",
+   "text": "「Э-э, Ева-01 нейтрализует AT-поле Ангела\n　и разрушает его—」",
+   "orig": "Maya\n「Uh, Unit-01 is neutralizing the Angel's AT field\n　and destroying it—」"
+  },
+  {
+   "i": 40,
+   "speaker": "Рицуко",
+   "text": "「Нет, она его прорывает!」",
+   "orig": "Ritsuko\n「No, it's infiltrating it!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Мисато",
+   "text": "「Как ей это удалось так легко?」",
+   "orig": "Misato\n「How did it do that so easily?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Босс",
+   "text": "「Это ещё что такое?」",
+   "orig": "Boss\n「What the heck is that?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Нукэ",
+   "text": "「Невероятно!\n　Одна атака — и всё кончено!」",
+   "orig": "Nuke\n「Amazing!\n　One attack and that's all she wrote!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Мутя",
+   "text": "「Кризис миновал!\n　Мир снова в безопасности.」",
+   "orig": "Mucha\n「Crisis averted!\n　The world is safe again.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Кодзи",
+   "text": "「Нет, расслабляться ещё рано!」",
+   "orig": "Koji\n「No, we're not out of the woods yet!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Кодзи",
+   "text": "「Этот тип!」",
+   "orig": "Koji\n「That guy!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Босс",
+   "text": "「Ч-что происходит, Кабуто?」",
+   "orig": "Boss\n「Wh-what's going on, Kabuto?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Кодзи",
+   "text": "「Она видит в нас врага!」",
+   "orig": "Koji\n「It's seeing us as an enemy!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Нукэ",
+   "text": "「Д-да это же бред!\n　Мы пришли защищать!」",
+   "orig": "Nuke\n「That, that's ridiculous!\n　We came here to protect!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Мутя",
+   "text": "「Прекрати!\n　Мы на вашей стороне!」",
+   "orig": "Mucha\n「Cut that out!\n　We're on your side!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Кодзи",
+   "text": "「С этой штукой не договоришься!」",
+   "orig": "Koji\n「This isn't something you can talk to!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Кодзи",
+   "text": "（Стоп.\n　Откуда я вообще это знаю?）",
+   "orig": "Koji\n（Wait.\n　Why is it that I can tell that?）"
+  },
+  {
+   "i": 53,
+   "speaker": "Саяка",
+   "text": "「Смотрите все!」",
+   "orig": "Sayaka\n「Everyone, look!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Босс",
+   "text": "「Вот это удача!\n　Силы Федерации подоспели!」",
+   "orig": "Boss\n「What a relief!\n　The Federation Forces just arrived!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Нукэ",
+   "text": "「Ч-что вы делаете?」",
+   "orig": "Nuke\n「Wh-what are you doing?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Мутя",
+   "text": "「Мы союзники, у нас добрые намерения!」",
+   "orig": "Mucha\n「We're well-intentioned allies!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Саяка",
+   "text": "「Бесполезно!\n　Этот мобильный доспех не отвечает!」",
+   "orig": "Sayaka\n「It's no use!\n　There's no response from that mobile suit!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Кодзи",
+   "text": "「Это... это беспилотники.」",
+   "orig": "Koji\n「They, they're drones.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Саяка",
+   "text": "「Что?」",
+   "orig": "Sayaka\n「What?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Кодзи",
+   "text": "「В той машине никого нет.\n　Я это чувствую.」",
+   "orig": "Koji\n「There's nobody in that one.\n　I can tell.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Саяка",
+   "text": "「Кодзи.」",
+   "orig": "Sayaka\n「Koji.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Юми",
+   "text": "「Бесполезно, Кодзи.\n　С NERV у нас связи тоже нет.」",
+   "orig": "Yumi\n「It's no use, Koji.\n　We're not in contact with NERV either.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Кодзи",
+   "text": "「$kwbNERV$kwe?」",
+   "orig": "Koji\n「$kwbNERV$kwe?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Юми",
+   "text": "「Организация, что перехватывает Ангелов\n　и защищает этот район.」",
+   "orig": "Yumi\n「A group that intercepts Angels and protects this area.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Юми",
+   "text": "「«Евангелион», судя по всему, —\n　их оружие против Ангелов.」",
+   "orig": "Yumi\n「Evangelion is apparently their weapon\n　against the Angels.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Кодзи",
+   "text": "「«Евангелион».\n　Так вот как эти штуки называются.」",
+   "orig": "Koji\n「Evangelion.\n　So that's what those things are called.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Юми",
+   "text": "「И ещё отряд мобильных доспехов. Мы не знаем,\n　кто они и какова их цель.\n　Берегите себя, это сейчас важнее всего.」",
+   "orig": "Yumi\n「And the mobile suit unit. We don't know\n　who they are or what their objective is.\n　All of you, be sure to stay safe above all else.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Кодзи",
+   "text": "「Понял!」",
+   "orig": "Koji\n「Roger!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Босс",
+   "text": "「Ну что, идём в бой, Кабуто?」",
+   "orig": "Boss\n「We're doing this, right, Kabuto?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Кодзи",
+   "text": "「Другого выхода нет!\n　Пойдём и на мобильные доспехи,\n　и на «Евангелион»!」",
+   "orig": "Koji\n「It's the only way!\n　We're gonna take on both\n　the mobile suits and Evangelion!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Кодзи",
+   "text": "「Чёрт!\n　Нам и с доктором Хеллом хлопот хватало,\n　а теперь ещё и с этими драться!」",
+   "orig": "Koji\n「Damn it!\n　We had our hands full just dealing with Dr. Hell,\n　and now we've got to fight those guys too!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Саяка",
+   "text": "「К нам приближается что-то ещё!」",
+   "orig": "Sayaka\n「Something else is coming in!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Кодзи",
+   "text": "「Это—」",
+   "orig": "Koji\n「That—」"
+  },
+  {
+   "i": 74,
+   "speaker": "Кодзи",
+   "text": "「Это «Лондо Белл»?」",
+   "orig": "Koji\n「Is that Londo Bell?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Брайт",
+   "text": "「Мы получили сводку от доктора Юми.\n　Дальше мы вас прикроем.」",
+   "orig": "Bright\n「I received a status report from Dr. Yumi.\n　We'll protect you from here on out.」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「Нам сказали, что надо остановить Третий удар, —\n　так этот фиолетовый и есть тот самый Ангел?」",
+   "orig": "$n\n「This is supposedly about stopping the Third Impact, but\n　is that purple guy the Angel I've been hearing about?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Хатауэй",
+   "text": "「Эта штука называется «Евангелион».\n　Говорят, это оружие против Ангелов.」",
+   "orig": "Hathaway\n「That is called Evangelion.\n　They're apparently weapons against the Angels.」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Эта штука...\n　она больше похожа на живое существо, чем на робота.」",
+   "orig": "$n\n「That thing, it,\n　it looks more like living thing than a robot.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Найн",
+   "text": "「Это ты обо мне?」",
+   "orig": "Nine\n「Are you referring to me?」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Ну, с вами обоими непросто иметь дело,\n　просто каждый по-своему.」",
+   "orig": "$n\n「Well, you're both cumbersome to deal with,\n　just in different ways.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmph.」"
+  },
+  {
+   "i": 82,
+   "speaker": "$n",
+   "text": "「Да ладно, это просто шутка,\n　чтобы снять напряжение!」",
+   "orig": "$n\n「Come on, just a little joke\n　to relieve the tension!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Вельт",
+   "text": "「Сейчас не время для шуток,\n　$n.」",
+   "orig": "Velt\n「This is no time for jokes,\n　$n.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Лотти",
+   "text": "「Вот увидишь, этот «Евангелион» — та ещё беда!」",
+   "orig": "Lottie\n「I'll tell you, that Evangelion is real trouble!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Рёма",
+   "text": "「Гляжу, как он беснуется, и чувствую:\n　на то есть своя причина.」",
+   "orig": "Ryoma\n「Watching it rampaging around, I get the feeling\n　that there's some reason why it's that.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Амуро",
+   "text": "「Ангелы повержены, и теперь наш долг —\n　остановить этот «Евангелион».」",
+   "orig": "Amuro\n「Now that we've toppled the Angels, our duty\n　is to stop that Evangelion.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Каппэй",
+   "text": "「А что с отрядом мобильных доспехов по краям?」",
+   "orig": "Kappei\n「What about the mobile suit unit on the periphery?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Майто",
+   "text": "「Если полезут на нас,\n　придётся дать отпор!」",
+   "orig": "Maito\n「If they come at us\n　we've got no choice but to fight back!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Джудо",
+   "text": "「Тэцуя!\n　Там, в бою, «Мазингер Зет»!」",
+   "orig": "Judau\n「Tetsuya!\n　That's a Mazinger Z fighting over there!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тэцуя",
+   "text": "「Так вот, значит, что это такое.」",
+   "orig": "Tetsuya\n「So that's what that is.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Саяка",
+   "text": "「Кодзи, смотри!\n　Там ещё один «Мазингер»!」",
+   "orig": "Sayaka\n「Koji, look!\n　There's a Mazinger over there!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Кодзи",
+   "text": "「М-м.」",
+   "orig": "Koji\n「Mmm.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Джудо",
+   "text": "「Слышишь меня, Кодзи?\n　Этого красавца зовут «Грейт Мазингер»!」",
+   "orig": "Judau\n「Can you hear me, Koji?\n　That bad boy is called the Great Mazinger!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Босс",
+   "text": "「Даже название похожее!」",
+   "orig": "Boss\n「Even the name is similar!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер».」",
+   "orig": "Koji\n「Great Mazinger.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Тэцуя",
+   "text": "「Поболтаем потом, Джудо.\n　Сейчас надо остановить этот «Евангелион».」",
+   "orig": "Tetsuya\n「We can talk later, Judau.\n　Right now we've got to stop that Evangelion.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Джудо",
+   "text": "「Вот так вот, Кодзи!\n　Ещё поговорим!」",
+   "orig": "Judau\n「There you have it, Koji!\n　Talk to you later!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Кодзи",
+   "text": "「А, да.」",
+   "orig": "Koji\n「Uh, yeah.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Тэцуя",
+   "text": "（«Евангелион».）",
+   "orig": "Tetsuya\n（Evangelion.）"
+  },
+  {
+   "i": 100,
+   "speaker": "Тэцуя",
+   "text": "（Отпускать его на волю опасно.\n　Значит, разберёмся с ним здесь и сейчас.）",
+   "orig": "Tetsuya\n（It would be dangerous to let it go free.\n　So we'd better deal with it here and now.）"
+  },
+  {
+   "i": 101,
+   "speaker": "Кодзи",
+   "text": "「Это «Лондо Белл»?」",
+   "orig": "Koji\n「Is that Londo Bell?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Брайт",
+   "text": "「Мы получили сводку от доктора Юми.\n　Дальше мы вас прикроем.」",
+   "orig": "Bright\n「I received a status report from Dr. Yumi.\n　We'll protect you from here on out.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Нам сказали, что надо остановить Третий удар, —\n　так этот фиолетовый и есть тот самый Ангел?」",
+   "orig": "$n\n「This is supposedly about stopping the Third Impact, but\n　is that purple guy the Angel I've been hearing about?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Хатауэй",
+   "text": "「Эта штука называется «Евангелион».\n　Говорят, это оружие против Ангелов.」",
+   "orig": "Hathaway\n「That is called Evangelion.\n　They're apparently weapons against the Angels.」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「Эта штука...\n　она больше похожа на живое существо, чем на робота.」",
+   "orig": "$n\n「That thing, it,\n　it looks more like living thing than a robot.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Найн",
+   "text": "「Это ты обо мне?」",
+   "orig": "Nine\n「Are you referring to me?」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Ну, с вами обоими непросто иметь дело,\n　просто каждый по-своему.」",
+   "orig": "$n\n「Well, you're both cumbersome to deal with,\n　just in different ways.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmph.」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Да ладно, это просто шутка,\n　чтобы снять напряжение!」",
+   "orig": "$n\n「Come on, just a little joke\n　to relieve the tension!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рёма",
+   "text": "「Гляжу, как он беснуется, и чувствую:\n　на то есть своя причина.」",
+   "orig": "Ryoma\n「Watching it rampaging around, I get the feeling\n　that there's some reason why it's that.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Амуро",
+   "text": "「Ангелы повержены, и теперь наш долг —\n　остановить этот «Евангелион».」",
+   "orig": "Amuro\n「Now that we've toppled the Angels, our duty\n　is to stop that Evangelion.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Каппэй",
+   "text": "「А что с отрядом мобильных доспехов по краям?」",
+   "orig": "Kappei\n「What about the mobile suit unit on the periphery?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Майто",
+   "text": "「Если полезут на нас,\n　придётся дать отпор!」",
+   "orig": "Maito\n「If they come at us\n　we've got no choice but to fight back!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Джудо",
+   "text": "「Тэцуя!\n　Там, в бою, «Мазингер Зет»!」",
+   "orig": "Judau\n「Tetsuya!\n　That's a Mazinger Z fighting over there!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Тэцуя",
+   "text": "「Так вот, значит, что это такое.」",
+   "orig": "Tetsuya\n「So that's what that is.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Саяка",
+   "text": "「Кодзи, смотри!\n　Там ещё один «Мазингер»!」",
+   "orig": "Sayaka\n「Koji, look!\n　There's a Mazinger over there!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Кодзи",
+   "text": "「М-м.」",
+   "orig": "Koji\n「Mmm.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Джудо",
+   "text": "「Слышишь меня, Кодзи?\n　Этого красавца зовут «Грейт Мазингер»!」",
+   "orig": "Judau\n「Can you hear me, Koji?\n　That bad boy is called the Great Mazinger!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Босс",
+   "text": "「Даже название похожее!」",
+   "orig": "Boss\n「Even the name is similar!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер».」",
+   "orig": "Koji\n「Great Mazinger.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Тэцуя",
+   "text": "「Поболтаем потом, Джудо.\n　Сейчас надо остановить этот «Евангелион».」",
+   "orig": "Tetsuya\n「We can talk later, Judau.\n　Right now we've got to stop that Evangelion.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Джудо",
+   "text": "「Вот так вот, Кодзи!\n　Ещё поговорим!」",
+   "orig": "Judau\n「There you have it, Koji!\n　Talk to you later!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Кодзи",
+   "text": "「А, ну да.」",
+   "orig": "Koji\n「Uh, right.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Тэцуя",
+   "text": "（«Евангелион».）",
+   "orig": "Tetsuya\n（Evangelion.）"
+  },
+  {
+   "i": 125,
+   "speaker": "Тэцуя",
+   "text": "（Отпускать его на волю опасно.\n　Значит, разберёмся с ним здесь и сейчас.）",
+   "orig": "Tetsuya\n（It would be dangerous to let it go free.\n　So we'd better deal with it here and now.）"
+  },
+  {
+   "i": 126,
+   "speaker": "Кодзи",
+   "text": "「Это «Лондо Белл»?」",
+   "orig": "Koji\n「Is that Londo Bell?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Брайт",
+   "text": "「Мы получили сводку от доктора Юми.\n　Дальше мы вас прикроем.」",
+   "orig": "Bright\n「I received a status report from Dr. Yumi.\n　We'll protect you from here on out.」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「Мы здесь, чтобы не дать случиться Третьему удару, —\n　так эти фиолетовые роботы и есть Ангелы?」",
+   "orig": "$n\n「We're here to prevent the Third Impact, but\n　are those purple robots the Angels?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Хатауэй",
+   "text": "「Эта штука называется «Евангелион».\n　Говорят, это оружие против Ангелов.」",
+   "orig": "Hathaway\n「That is called Evangelion.\n　They're apparently weapons against the Angels.」"
+  },
+  {
+   "i": 130,
+   "speaker": "$n",
+   "text": "「Эта штука...\n　она больше похожа на живое существо, чем на робота.」",
+   "orig": "$n\n「That thing, it,\n　it looks more like living thing than a robot.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmph.」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Раз уж взялись, могли бы сделать эти штуки\n　милыми, как Найн.」",
+   "orig": "$n\n「While they were at it they should've\n　made those things cute like Nine.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Найн",
+   "text": "「Волнуешься, сестрёнка?」",
+   "orig": "Nine\n「Are you nervous, Sis?」"
+  },
+  {
+   "i": 134,
+   "speaker": "$n",
+   "text": "「Так заметно?」",
+   "orig": "$n\n「You can tell?」"
+  },
+  {
+   "i": 135,
+   "speaker": "Найн",
+   "text": "「Да, заметно.\n　Я ведь ИИ, и даже мне не по себе,\n　когда я смотрю на это.」",
+   "orig": "Nine\n「Yes, I can.\n　Heck, I'm an AI, and even I\n　get nervous looking at that.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Вельт",
+   "text": "「Один вид этой штуки будит страх,\n　которому нет разумного объяснения.」",
+   "orig": "Velt\n「Looking at that seems to awaken\n　the kind of fear that transcends logic.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Лотти",
+   "text": "「Вот увидишь, этот «Евангелион» — та ещё беда!」",
+   "orig": "Lottie\n「I'll tell you, that Evangelion is real trouble!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Рёма",
+   "text": "「Гляжу, как он беснуется, и чувствую:\n　на то есть своя причина.」",
+   "orig": "Ryoma\n「Watching it rampaging around, I get the feeling\n　that there's some reason why it's that.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Амуро",
+   "text": "「Ангелы повержены, и теперь наш долг —\n　остановить этот «Евангелион».」",
+   "orig": "Amuro\n「Now that we've toppled the Angels, our duty\n　is to stop that Evangelion.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Каппэй",
+   "text": "「А что с отрядом мобильных доспехов по краям?」",
+   "orig": "Kappei\n「What about the mobile suit unit on the periphery?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Майто",
+   "text": "「Если полезут на нас,\n　придётся дать отпор!」",
+   "orig": "Maito\n「If they come at us\n　we've got no choice but to fight back!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Джудо",
+   "text": "「Тэцуя!\n　Там, в бою, «Мазингер Зет»!」",
+   "orig": "Judau\n「Tetsuya!\n　That's a Mazinger Z fighting over there!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Тэцуя",
+   "text": "「Так вот, значит, что это такое.」",
+   "orig": "Tetsuya\n「So that's what that is.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Саяка",
+   "text": "「Кодзи, смотри!\n　Там ещё один «Мазингер»!」",
+   "orig": "Sayaka\n「Koji, look!\n　There's a Mazinger over there!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Кодзи",
+   "text": "「М-м.」",
+   "orig": "Koji\n「Mmm.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Джудо",
+   "text": "「Слышишь меня, Кодзи?\n　Этого красавца зовут «Грейт Мазингер»!」",
+   "orig": "Judau\n「Can you hear me, Koji?\n　That bad boy is called the Great Mazinger!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Босс",
+   "text": "「Даже название похожее!」",
+   "orig": "Boss\n「Even the name is similar!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер».」",
+   "orig": "Koji\n「Great Mazinger.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Тэцуя",
+   "text": "「Поболтаем потом, Джудо.\n　Сейчас надо остановить этот «Евангелион».」",
+   "orig": "Tetsuya\n「We can talk later, Judau.\n　Right now we've got to stop that Evangelion.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Джудо",
+   "text": "「Вот так вот, Кодзи!\n　Ещё поговорим!」",
+   "orig": "Judau\n「There you have it, Koji!\n　Talk to you later!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Кодзи",
+   "text": "「А, ну да.」",
+   "orig": "Koji\n「Uh, right.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Тэцуя",
+   "text": "（«Евангелион».）",
+   "orig": "Tetsuya\n（Evangelion.）"
+  },
+  {
+   "i": 153,
+   "speaker": "Тэцуя",
+   "text": "（Отпускать его на волю опасно.\n　Значит, разберёмся с ним здесь и сейчас.）",
+   "orig": "Tetsuya\n（It would be dangerous to let it go free.\n　So we'd better deal with it here and now.）"
+  },
+  {
+   "i": 154,
+   "speaker": "Кодзи",
+   "text": "「Это «Лондо Белл»?」",
+   "orig": "Koji\n「Is that Londo Bell?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Брайт",
+   "text": "「Мы получили сводку от доктора Юми.\n　Дальше мы вас прикроем.」",
+   "orig": "Bright\n「I received a status report from Dr. Yumi.\n　We'll protect you from here on out.」"
+  },
+  {
+   "i": 156,
+   "speaker": "$n",
+   "text": "「Мы здесь, чтобы не дать случиться Третьему удару, —\n　так эти фиолетовые роботы и есть Ангелы?」",
+   "orig": "$n\n「We're here to prevent the Third Impact, but\n　are those purple robots the Angels?」"
+  },
+  {
+   "i": 157,
+   "speaker": "Хатауэй",
+   "text": "「Эта штука называется «Евангелион».\n　Говорят, это оружие против Ангелов.」",
+   "orig": "Hathaway\n「That is called Evangelion.\n　They're apparently weapons against the Angels.」"
+  },
+  {
+   "i": 158,
+   "speaker": "$n",
+   "text": "「Эта штука...\n　она больше похожа на живое существо, чем на робота.」",
+   "orig": "$n\n「That thing, it,\n　it looks more like living thing than a robot.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Найн",
+   "text": "「Хм.」",
+   "orig": "Nine\n「Hmph.」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Раз уж взялись, могли бы сделать эти штуки\n　милыми, как Найн.」",
+   "orig": "$n\n「While they were at it they should've\n　made those things cute like Nine.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Найн",
+   "text": "「Волнуешься, сестрёнка?」",
+   "orig": "Nine\n「Are you nervous, Sis?」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Так заметно?」",
+   "orig": "$n\n「You can tell?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Найн",
+   "text": "「Да, заметно.\n　Я ведь ИИ, и даже мне не по себе,\n　когда я смотрю на это.」",
+   "orig": "Nine\n「Yes, I can.\n　Heck, I'm an AI, and even I\n　get nervous looking at that.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Рёма",
+   "text": "「Гляжу, как он беснуется, и чувствую:\n　на то есть своя причина.」",
+   "orig": "Ryoma\n「Watching it rampaging around, I get the feeling\n　that there's some reason why it's that.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Амуро",
+   "text": "「Ангелы повержены, и теперь наш долг —\n　остановить этот «Евангелион».」",
+   "orig": "Amuro\n「Now that we've toppled the Angels, our duty\n　is to stop that Evangelion.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Каппэй",
+   "text": "「А что с отрядом мобильных доспехов по краям?」",
+   "orig": "Kappei\n「What about the mobile suit unit on the periphery?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Майто",
+   "text": "「Если полезут на нас,\n　придётся дать отпор!」",
+   "orig": "Maito\n「If they come at us\n　we've got no choice but to fight back!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Джудо",
+   "text": "「Тэцуя!\n　Там, в бою, «Мазингер Зет»!」",
+   "orig": "Judau\n「Tetsuya!\n　That's a Mazinger Z fighting over there!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Тэцуя",
+   "text": "「Так вот, значит, что это такое.」",
+   "orig": "Tetsuya\n「So that's what that is.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Саяка",
+   "text": "「Кодзи, смотри!\n　Там ещё один «Мазингер»!」",
+   "orig": "Sayaka\n「Koji, look!\n　There's a Mazinger over there!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Кодзи",
+   "text": "「М-м.」",
+   "orig": "Koji\n「Mmm.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Джудо",
+   "text": "「Слышишь меня, Кодзи?\n　Этого красавца зовут «Грейт Мазингер»!」",
+   "orig": "Judau\n「Can you hear me, Koji?\n　That bad boy is called the Great Mazinger!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Босс",
+   "text": "「Даже название похожее!」",
+   "orig": "Boss\n「Even the name is similar!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер».」",
+   "orig": "Koji\n「Great Mazinger.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Тэцуя",
+   "text": "「Поболтаем потом, Джудо.\n　Сейчас надо остановить этот «Евангелион».」",
+   "orig": "Tetsuya\n「We can talk later, Judau.\n　Right now we've got to stop that Evangelion.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Джудо",
+   "text": "「Вот так вот, Кодзи!\n　Ещё поговорим!」",
+   "orig": "Judau\n「There you have it, Koji!\n　Talk to you later!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Кодзи",
+   "text": "「А, ну да.」",
+   "orig": "Koji\n「Uh, right.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Тэцуя",
+   "text": "（«Евангелион».）",
+   "orig": "Tetsuya\n（Evangelion.）"
+  },
+  {
+   "i": 179,
+   "speaker": "Тэцуя",
+   "text": "（Отпускать его на волю опасно.\n　Значит, разберёмся с ним здесь и сейчас.）",
+   "orig": "Tetsuya\n（It would be dangerous to let it go free.\n　So we'd better deal with it here and now.）"
+  },
+  {
+   "i": 180,
+   "speaker": "Кинкейд",
+   "text": "「Получилось?」",
+   "orig": "Kincade\n「Did we do it?」"
+  },
+  {
+   "i": 181,
+   "speaker": "Тэцуя",
+   "text": "「Ещё нет!」",
+   "orig": "Tetsuya\n「Not yet!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Синн",
+   "text": "「Проклятье!\n　Что это ещё за чудовище?」",
+   "orig": "Shinn\n「Damn it!\n　What the hell is that monster?」"
+  },
+  {
+   "i": 183,
+   "speaker": "Бандзё",
+   "text": "「Это не робот,\n　это какой-то дикий зверь!」",
+   "orig": "Banjo\n「It's not like a robot,\n　it's more like some wild beast!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Кира",
+   "text": "「О нет!」",
+   "orig": "Kira\n「Oh no!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Сэцуна",
+   "text": "「Там внизу люди!」",
+   "orig": "Setsuna\n「There's somebody over there!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Тодзи",
+   "text": "「О-она идёт сюда, Кэнсукэ!」",
+   "orig": "Toji\n「He, he's coming this way, Kensuke!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Кэнсукэ",
+   "text": "「Надо убираться отсюда, Тодзи!」",
+   "orig": "Kensuke\n「We need to get out of here, Toji!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Тодзи",
+   "text": "「Легко сказать, Кэнсукэ!」",
+   "orig": "Toji\n「Easier said than done, Kensuke!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Кэнсукэ",
+   "text": "「Надо было по-умному держаться подальше,\n　а не строить из себя супергероев!」",
+   "orig": "Kensuke\n「We should have done the smart thing and avoided\n　this, rather than trying to look like super heroes!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Кодзи",
+   "text": "「Чёрт!」",
+   "orig": "Koji\n「Damn!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Кодзи",
+   "text": "「Эй, вы там!\n　Немедленно убирайтесь оттуда!」",
+   "orig": "Koji\n「Guys!\n　Get out of there now!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Тодзи",
+   "text": "「Е-есть!」",
+   "orig": "Toji\n「Y-yes, sir!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Кодзи",
+   "text": "「А-а!」",
+   "orig": "Koji\n「Aah!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Джудо",
+   "text": "「Даже «Мазингер» не может её остановить!」",
+   "orig": "Judau\n「Even the Mazinger can't stop that thing!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Рёма",
+   "text": "「Ты чего возишься?\n　Давай, разнеси эту тварь!」",
+   "orig": "Ryoma\n「What the hell are you doing?\n　Hurry up and smash that bastard!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Кодзи",
+   "text": "「Я... я не могу!」",
+   "orig": "Koji\n「I, I can't!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Саяка",
+   "text": "「Кодзи!」",
+   "orig": "Sayaka\n「Koji!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Кодзи",
+   "text": "「В этом «Евангелионе» человек!」",
+   "orig": "Koji\n「There's a person in that Evangelion!」"
+  },
+  {
+   "i": 199,
+   "speaker": "$n",
+   "text": "「Что?」",
+   "orig": "$n\n「What?」"
+  },
+  {
+   "i": 200,
+   "speaker": "Найн",
+   "text": "「У нас здесь то же подтверждение.\n　Фиксируются биологические реакции.」",
+   "orig": "Nine\n「We've got confirmation of that here, too.\n　Life form reactions are registering.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Банагер",
+   "text": "「Но если не остановить её сейчас—」",
+   "orig": "Banagher\n「But if we don't stop it now—」"
+  },
+  {
+   "i": 202,
+   "speaker": "Кодзи",
+   "text": "「Я иду на неё!\n　Мне нужно лишь лишить её способности драться!」",
+   "orig": "Koji\n「I'm going for it!\n　I just need to take away its ability to fight!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Кодзи",
+   "text": "「А-а!」",
+   "orig": "Koji\n「Aah!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Джудо",
+   "text": "「Даже «Мазингер» не может её остановить!」",
+   "orig": "Judau\n「Even the Mazinger can't stop that thing!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Рёма",
+   "text": "「Ты чего возишься?\n　Давай, разнеси эту тварь!」",
+   "orig": "Ryoma\n「What the hell are you doing?\n　Hurry up and smash that bastard!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Кодзи",
+   "text": "「Я... я не могу!」",
+   "orig": "Koji\n「I, I can't!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Саяка",
+   "text": "「Кодзи!」",
+   "orig": "Sayaka\n「Koji!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Кодзи",
+   "text": "「В этом «Евангелионе» человек!」",
+   "orig": "Koji\n「There's a person in that Evangelion!」"
+  },
+  {
+   "i": 209,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Найн",
+   "text": "「У нас здесь то же подтверждение.\n　Фиксируются биологические реакции.」",
+   "orig": "Nine\n「We've got confirmation of that here too.\n　Life form reactions are registering.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Банагер",
+   "text": "「Но если не остановить её сейчас—」",
+   "orig": "Banagher\n「But if we don't stop it now—」"
+  },
+  {
+   "i": 212,
+   "speaker": "Кодзи",
+   "text": "「Я иду на неё!\n　Мне нужно лишь лишить её способности драться!」",
+   "orig": "Koji\n「I'm going for it!\n　I just need to take away its ability to fight!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Тэцуя",
+   "text": "「Ого!」",
+   "orig": "Tetsuya\n「Whoa!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Кодзи",
+   "text": "「«Мазингер»!\n　Одолжи мне свою силу!」",
+   "orig": "Koji\n「Mazinger!\n　Lend me your power!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Кодзи",
+   "text": "「Поехали!\n　Отброшу её назад всем, что у меня есть!」",
+   "orig": "Koji\n「Here we go!\n　I'm gonna drive it back with everything I've got!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Сигэру",
+   "text": "「Ева-01 полностью прекратила движение!」",
+   "orig": "Shigeru\n「All movement of Unit-01 has been stopped!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Рицуко",
+   "text": "「Удар «Мазингера Зет» превысил\n　её предел прочности?」",
+   "orig": "Ritsuko\n「Did it exceed its damage threshold\n　in the attack by the Mazinger Z?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Мисато",
+   "text": "「Хватит разговоров!\n　Берите её под контроль, пока не поздно!」",
+   "orig": "Misato\n「Enough talking!\n　Take it into custody before it's too late!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Босс",
+   "text": "「Мы сделали это, Кабуто!」",
+   "orig": "Boss\n「We did it, Kabuto!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Саяка",
+   "text": "「Этот «Мазингер» и правда хорош!」",
+   "orig": "Sayaka\n「That Mazinger was really something!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Кодзи",
+   "text": "「Да уж.」",
+   "orig": "Koji\n「I guess.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Тэцуя",
+   "text": "「М-м.」",
+   "orig": "Tetsuya\n「Mmm.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Салия",
+   "text": "「Осторожно!\n　К нам что-то приближается!」",
+   "orig": "Salia\n「Be careful!\n　Something is coming our way!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Анж",
+   "text": "「Драконы!」",
+   "orig": "Ange\n「Dragons!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Хильда",
+   "text": "「Проклятые ящерицы!\n　Вы и сюда за нами притащились?」",
+   "orig": "Hilda\n「Damn lizards!\n　You followed us all the way here?」"
+  },
+  {
+   "i": 226,
+   "speaker": "Эрша",
+   "text": "「Думаешь, Драконов тоже забросило сюда\n　во время боя на Марсе?」",
+   "orig": "Ersha\n「You think the Dragons also got flung here\n　in the fighting on Mars?」"
+  },
+  {
+   "i": 227,
+   "speaker": "Анж",
+   "text": "「Да какая разница!\n　Главное, что они пришли драться!」",
+   "orig": "Ange\n「Never mind that!\n　The problem is that they're here to fight!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Тиерия",
+   "text": "「Анж права.\n　Они явно изготовились к атаке!」",
+   "orig": "Tieria\n「Ange is right.\n　They're clearly poised to attack!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Синн",
+   "text": "「Значит, остаётся только драться!」",
+   "orig": "Shinn\n「Then we have no choice but to fight!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Джудо",
+   "text": "「Брайт, ты слышал!\n　Эти твари — Драконы из измерения AD!」",
+   "orig": "Judau\n「Bright, you heard it!\n　Those monsters are the AD dimension Dragons!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Ру",
+   "text": "「С этими тварями не договоришься!\n　Если полезут, придётся дать отпор!」",
+   "orig": "Roux\n「You can't talk to those things!\n　If they come at us, we've got to fight back!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Брайт",
+   "text": "「Всем — атаковать Драконов!\n　Нельзя оставлять враждебных тварей на свободе!」",
+   "orig": "Bright\n「All hands, attack the Dragons!\n　We can't let hostile creatures go free!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Хильда",
+   "text": "「Из огня да в полымя!\n　В этом мире ни минуты покоя, а?」",
+   "orig": "Hilda\n「Out of the frying pan, into the fire!\n　Never a dull moment in this world, eh?」"
+  },
+  {
+   "i": 234,
+   "speaker": "Анж",
+   "text": "「Ворчать будешь потом! Если, конечно, не хочешь,\n　чтобы тебя тут сжевали и выплюнули!」",
+   "orig": "Ange\n「Save your complaining for later! Unless of course\n　you want to be chewed up and spit out in this place!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Саяка",
+   "text": "「Осторожно!\n　Приближается что-то ещё!」",
+   "orig": "Sayaka\n「Be careful!\n　Something else is coming in!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Босс",
+   "text": "「Это ещё что на этот раз?」",
+   "orig": "Boss\n「What is it this time?」"
+  },
+  {
+   "i": 237,
+   "speaker": "Кодзи",
+   "text": "「Это—」",
+   "orig": "Koji\n「That—」"
+  },
+  {
+   "i": 238,
+   "speaker": "Соскэ",
+   "text": "「Это—」",
+   "orig": "Sousuke\n「That's—」"
+  },
+  {
+   "i": 239,
+   "speaker": "Кодзи",
+   "text": "「Верно. Форма у них другая,\n　чем раньше, но это точно Ангелы!」",
+   "orig": "Koji\n「You got it. They've got a different form\n　from before, but they're definitely Angels!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Вивиан",
+   "text": "「Похоже, Драконы тоже дерутся с этими ребятами.」",
+   "orig": "Vivian\n「Looks like the Dragons are fighting those guys too.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Эрша",
+   "text": "「Ты хоть что-то понимаешь, Вив?」",
+   "orig": "Ersha\n「Are you following this, Viv?」"
+  },
+  {
+   "i": 242,
+   "speaker": "Вивиан",
+   "text": "「Ага,\n　более-менее.」",
+   "orig": "Vivian\n「Yeah,\n　more or less.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Анж",
+   "text": "「Если эти чудища вздумали поубивать друг друга,\n　нам это только на руку!」",
+   "orig": "Ange\n「If those monsters are set on killing each other,\n　that's just fine with us!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Сигэру",
+   "text": "「Паттерн «синий»!\n　Ангелы подтверждены!」",
+   "orig": "Shigeru\n「Pattern Blue!\n　Angels confirmed!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Фуюцуки",
+   "text": "「Поверить не могу: они идут один за другим.」",
+   "orig": "Fuyutsuki\n「I can't believe they're showing up one after another.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Гэндо",
+   "text": "「Ева-01 готова к вылету?」",
+   "orig": "Gendo\n「Is Unit-01 ready to go?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Рицуко",
+   "text": "「Кабели подключены заново, повреждённые участки\n　наспех залатаны.」",
+   "orig": "Ritsuko\n「The cables have been reconnected, and stop-gap\n　measures on the damaged areas are finished.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Мисато",
+   "text": "「Командующий Икари!\n　Синдзи не готов к бою!」",
+   "orig": "Misato\n「Commander Ikari!\n　Shinji isn't ready to fight!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Гэндо",
+   "text": "「Пусть Рэй его прикроет.\n　Выпускайте Еву-00 и Еву-01.」",
+   "orig": "Gendo\n「Have Rei back him up.\n　Dispatch Unit-00 and Unit-01.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Мисато",
+   "text": "「Командующий Икари!」",
+   "orig": "Misato\n「Commander Ikari!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Гэндо",
+   "text": "「Это приказ.」",
+   "orig": "Gendo\n「That's an order.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Мисато",
+   "text": "「Ева-00, Ева-01 — на взлёт!」",
+   "orig": "Misato\n「Unit-00, Unit-01, take off!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Хатауэй",
+   "text": "「Появились «Евангелионы»!\n　Две машины!」",
+   "orig": "Hathaway\n「Evangelion have appeared!\n　Two of them!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Рёко",
+   "text": "「Только не говорите, что они опять взбесятся!」",
+   "orig": "Ryoko\n「Don't tell me they're gonna go on a rampage again!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Мисато",
+   "text": "「Синдзи, ты справишься?」",
+   "orig": "Misato\n「Shinji, can you handle this?」"
+  },
+  {
+   "i": 256,
+   "speaker": "Синдзи",
+   "text": "「Не знаю.\n　Но другого выхода у меня нет.」",
+   "orig": "Shinji\n「I don't know.\n　But I've got no other choice.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Мисато",
+   "text": "「И всё же, если не сможешь—」",
+   "orig": "Misato\n「Still, if you can't do it—」"
+  },
+  {
+   "i": 258,
+   "speaker": "Синдзи",
+   "text": "「Я заставил друзей пережить настоящий кошмар.」",
+   "orig": "Shinji\n「I put my friends through a horrifying ordeal.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Мисато",
+   "text": "「Что?」",
+   "orig": "Misato\n「What?」"
+  },
+  {
+   "i": 260,
+   "speaker": "Рицуко",
+   "text": "「Те ребята, которых чуть не раздавила Ева-01.\n　Похоже, это одноклассники Синдзи.」",
+   "orig": "Ritsuko\n「Those kids who were almost stomped by Unit-01.\n　Apparently they were Shinji's classmates.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Синдзи",
+   "text": "「Тодзи и Кэнсукэ отнеслись ко мне по-доброму,\n　когда я перевёлся в их школу.\n　А я вот чем им отплатил.」",
+   "orig": "Shinji\n「Toji and Kensuke were really nice to me\n　when I transferred into the school.\n　And look what I put them through.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Синдзи",
+   "text": "「Поэтому я выложусь по полной!」",
+   "orig": "Shinji\n「So I'm gonna give this everything I've got!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Фуюцуки",
+   "text": "（Похоже, перевод в школу до зачисления в NERV\n　подействовал на него неожиданным образом.）",
+   "orig": "Fuyutsuki\n（Seems like getting transferred before being recruited\n　into NERV had an unexpected effect on him.）"
+  },
+  {
+   "i": 264,
+   "speaker": "Фуюцуки",
+   "text": "（А может, это всё задумка Икари.）",
+   "orig": "Fuyutsuki\n（Or maybe this is all Ikari's handiwork.）"
+  },
+  {
+   "i": 265,
+   "speaker": "Мисато",
+   "text": "「Хорошо, Синдзи.\n　Только не перенапрягайся.」",
+   "orig": "Misato\n「Alright, Shinji.\n　Just don't overextend yourself.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Мисато",
+   "text": "「Рэй, рассчитываю на тебя — прикрой Синдзи.」",
+   "orig": "Misato\n「Rei, I'm counting on you to back Shinji up.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Рэй",
+   "text": "「Принято.」",
+   "orig": "Rei\n「Understood.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Синдзи",
+   "text": "（Меня запихнули в робота, я ничего не понимал,\n　а потом ещё и прошёл через весь этот\n　кошмар.）",
+   "orig": "Shinji\n（Shoved into a robot, not having any idea\n　what's going on, and then being subjected\n　to a horrifying experience like that.）"
+  },
+  {
+   "i": 269,
+   "speaker": "Синдзи",
+   "text": "（И всё же я—）",
+   "orig": "Shinji\n（Still, I—）"
+  },
+  {
+   "i": 270,
+   "speaker": "Кодзи",
+   "text": "「А ты не трус, этого у тебя не отнять.」",
+   "orig": "Koji\n「You've got guts, I'll give you that.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 272,
+   "speaker": "Кодзи",
+   "text": "「Как тебя зовут?」",
+   "orig": "Koji\n「What's your name?」"
+  },
+  {
+   "i": 273,
+   "speaker": "Синдзи",
+   "text": "「Синдзи Икари.」",
+   "orig": "Shinji\n「Shinji Ikari.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Кодзи",
+   "text": "「Тогда вперёд, Синдзи!\n　Мы прикроем тебе спину!」",
+   "orig": "Koji\n「Well, Shinji, just go for it!\n　We'll be right behind you!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Синдзи",
+   "text": "「М-м.」",
+   "orig": "Shinji\n「Mmm.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Майто",
+   "text": "「Я слышал, этот ваш робот «Евангелион»\n　создан специально для боя с Ангелами.」",
+   "orig": "Maito\n「I hear that that Evangelion robot of yours\n　was made special to fight the Angels.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Джудо",
+   "text": "「Ну тогда за дело!\n　Спасём этот мир!」",
+   "orig": "Judau\n「Well then, let's do this!\n　Let's save the world!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Синдзи",
+   "text": "（Эти люди — они ведь не солдаты.\n　И по возрасту почти как я.）",
+   "orig": "Shinji\n（These people, they're not soldiers.\n　And they're about the same age as me too.）"
+  },
+  {
+   "i": 279,
+   "speaker": "$n",
+   "text": "「В первый раз страшно каждому.\n　Думай сейчас об одном — вернуться целым.」",
+   "orig": "$n\n「Everyone is scared their first time.\n　Just focus on getting through it in one piece.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Синдзи",
+   "text": "「Понял!」",
+   "orig": "Shinji\n「Understood!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Рэй",
+   "text": "「Икари.」",
+   "orig": "Rei\n「Ikari.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Синдзи",
+   "text": "（Значит, Аянами тоже пилот «Евы».）",
+   "orig": "Shinji\n（So Ayanami's an EVA pilot too.）"
+  },
+  {
+   "i": 283,
+   "speaker": "Синдзи",
+   "text": "（Я должен сражаться. Деваться некуда.\n　Хотя бы ради того, чтобы отец меня признал.）",
+   "orig": "Shinji\n（I have to fight. There's no getting around it.\n　If only to win Father's approval.）"
+  },
+  {
+   "i": 284,
+   "speaker": "Хатауэй",
+   "text": "「Появились «Евангелионы»!\n　Две машины!」",
+   "orig": "Hathaway\n「Evangelion have appeared!\n　Two of them!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Рёко",
+   "text": "「Только не говорите, что они опять взбесятся!」",
+   "orig": "Ryoko\n「Don't tell me they're gonna go berserk again!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Мисато",
+   "text": "「Синдзи, ты справишься?」",
+   "orig": "Misato\n「Shinji, can you handle this?」"
+  },
+  {
+   "i": 287,
+   "speaker": "Синдзи",
+   "text": "「Не знаю.\n　Но другого выхода у меня нет.」",
+   "orig": "Shinji\n「I don't know.\n　But I've got no other choice.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Мисато",
+   "text": "「И всё же, если не сможешь—」",
+   "orig": "Misato\n「Still, if you can't do it—」"
+  },
+  {
+   "i": 289,
+   "speaker": "Синдзи",
+   "text": "「Я заставил друзей пережить настоящий кошмар.」",
+   "orig": "Shinji\n「I put my friends through a horrifying ordeal.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Мисато",
+   "text": "「Что?」",
+   "orig": "Misato\n「What?」"
+  },
+  {
+   "i": 291,
+   "speaker": "Рицуко",
+   "text": "「Те ребята, которых чуть не раздавила Ева-01.\n　Похоже, это одноклассники Синдзи.」",
+   "orig": "Ritsuko\n「Those kids who were almost stomped by Unit-01.\n　Apparently they were Shinji's classmates.」"
+  },
+  {
+   "i": 292,
+   "speaker": "Синдзи",
+   "text": "「Тодзи и Кэнсукэ отнеслись ко мне по-доброму,\n　когда я перевёлся в их школу.\n　А я вот чем им отплатил.」",
+   "orig": "Shinji\n「Toji and Kensuke were really nice to me\n　when I transferred into the school.\n　And look what I put them through.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Синдзи",
+   "text": "「Поэтому я выложусь по полной!」",
+   "orig": "Shinji\n「So I'm gonna give this everything I've got!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Фуюцуки",
+   "text": "（Похоже, перевод в школу до зачисления в NERV\n　подействовал на него неожиданным образом.）",
+   "orig": "Fuyutsuki\n（Seems like getting transferred before being recruited\n　into NERV had an unexpected effect on him.）"
+  },
+  {
+   "i": 295,
+   "speaker": "Фуюцуки",
+   "text": "（А может, это всё задумка Икари.）",
+   "orig": "Fuyutsuki\n（Or maybe this is all Ikari's handiwork.）"
+  },
+  {
+   "i": 296,
+   "speaker": "Мисато",
+   "text": "「Хорошо, Синдзи.\n　Только не перенапрягайся.」",
+   "orig": "Misato\n「Alright, Shinji.\n　Just don't overextend yourself.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Мисато",
+   "text": "「Рэй, рассчитываю на тебя — прикрой Синдзи.」",
+   "orig": "Misato\n「Rei, I'm counting on you to back Shinji up.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Рэй",
+   "text": "「Принято.」",
+   "orig": "Rei\n「Understood.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Синдзи",
+   "text": "（Меня запихнули в робота, я ничего не понимал,\n　а потом ещё и прошёл через весь этот\n　кошмар.）",
+   "orig": "Shinji\n（Shoved into a robot, not having any idea\n　what's going on, and then being subjected\n　to a horrifying experience like that.）"
+  },
+  {
+   "i": 300,
+   "speaker": "Синдзи",
+   "text": "（И всё же я—）",
+   "orig": "Shinji\n（Still, I—）"
+  },
+  {
+   "i": 301,
+   "speaker": "Кодзи",
+   "text": "「А ты не трус, этого у тебя не отнять.」",
+   "orig": "Koji\n「You've got guts, I'll give you that.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 303,
+   "speaker": "Кодзи",
+   "text": "「Как тебя зовут?」",
+   "orig": "Koji\n「What's your name?」"
+  },
+  {
+   "i": 304,
+   "speaker": "Синдзи",
+   "text": "「Синдзи Икари.」",
+   "orig": "Shinji\n「Shinji Ikari.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Кодзи",
+   "text": "「Тогда вперёд, Синдзи!\n　Мы прикроем тебе спину!」",
+   "orig": "Koji\n「Well, Shinji, just go for it!\n　We'll be right behind you!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Синдзи",
+   "text": "「М-м.」",
+   "orig": "Shinji\n「Mmm.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Майто",
+   "text": "「Я слышал, этот ваш робот «Евангелион»\n　создан специально для боя с Ангелами.」",
+   "orig": "Maito\n「I hear that that Evangelion robot of yours\n　was made special to fight the Angels.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Джудо",
+   "text": "「Ну тогда за дело!\n　Спасём этот мир!」",
+   "orig": "Judau\n「Well then, let's do this!\n　Let's save the world!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Синдзи",
+   "text": "（Эти люди — они ведь не солдаты.\n　И по возрасту почти как я.）",
+   "orig": "Shinji\n（These people, they're not soldiers.\n　And they're about the same age as me too.）"
+  },
+  {
+   "i": 310,
+   "speaker": "$n",
+   "text": "「На твоём месте испугался бы кто угодно.\n　Но давай выложимся по полной!」",
+   "orig": "$n\n「Anybody in this position would be frightened.\n　But let's give this everything we've got!」"
+  },
+  {
+   "i": 311,
+   "speaker": "Синдзи",
+   "text": "「Понял!」",
+   "orig": "Shinji\n「Understood!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Рэй",
+   "text": "「Икари.」",
+   "orig": "Rei\n「Ikari.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Синдзи",
+   "text": "（Значит, Аянами тоже пилот «Евы».）",
+   "orig": "Shinji\n（So Ayanami's an EVA pilot too.）"
+  },
+  {
+   "i": 314,
+   "speaker": "Синдзи",
+   "text": "（Я должен сражаться. Деваться некуда.\n　Хотя бы ради того, чтобы отец меня признал.）",
+   "orig": "Shinji\n（I have to fight. There's no getting around it.\n　If only to win Father's approval.）"
+  },
+  {
+   "i": 315,
+   "speaker": "Тобиа",
+   "text": "「Получилось!\n　У нас правда получилось!」",
+   "orig": "Tobia\n「We did it!\n　We actually did it!」"
+  },
+  {
+   "i": 316,
+   "speaker": "Кинкейд",
+   "text": "「Эти твари были просто невероятны.」",
+   "orig": "Kincade\n「Those monsters were incredible.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Крис",
+   "text": "「Драконы отступают.」",
+   "orig": "Chris\n「The Dragons are running away.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Розали",
+   "text": "「Да и пусть бегут.\n　Надеюсь, больше их морд я не увижу.」",
+   "orig": "Rosalie\n「Let 'em go.\n　I hope I never have to see their faces again.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Крис",
+   "text": "「Мобильные доспехи тоже отходят.」",
+   "orig": "Chris\n「The mobile suits are retreating too.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Розали",
+   "text": "「Вот же гады.\n　Не знаю, кто они и откуда взялись,\n　но крови нам попортили изрядно.」",
+   "orig": "Rosalie\n「Bastards.\n　I don't know who they are or where they're from,\n　but they sure put us through the wringer.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Синдзи",
+   "text": "「Всё закончилось.」",
+   "orig": "Shinji\n「It's over.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Кодзи",
+   "text": "「Ты молодец, Синдзи.」",
+   "orig": "Koji\n「You did good, Shinji.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Hmm?」"
+  },
+  {
+   "i": 324,
+   "speaker": "$n",
+   "text": "「Это ведь был твой первый бой?\n　Уже то, что ты не сбежал, — немало.」",
+   "orig": "$n\n「That was your first battle, right?\n　Just the fact that you didn't run away is plenty.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Джудо",
+   "text": "「Вот именно.\n　Отлично держался.」",
+   "orig": "Judau\n「Exactly.\n　Great job out there.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Майто",
+   "text": "「Хорошая работа.\n　А теперь отдохни.」",
+   "orig": "Maito\n「Good job.\n　Now get some rest.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Синдзи",
+   "text": "（Что это за странное чувство?）",
+   "orig": "Shinji\n（What's this strange feeling?）"
+  },
+  {
+   "i": 328,
+   "speaker": "Синдзи",
+   "text": "（Когда я подружился с Тодзи и Кэнсукэ,\n　я чувствовал то же самое.）",
+   "orig": "Shinji\n（When I became friends with Toji and\n　Kensuke. I had the same feeling.）"
+  },
+  {
+   "i": 329,
+   "speaker": "Рёма",
+   "text": "「Денёк выдался жаркий.\n　Даже я, признаться, вымотался.」",
+   "orig": "Ryoma\n「Business was sure brisk today.\n　Even I'm tired out, I must admit.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Тэцуя",
+   "text": "「Но наша работа здесь ещё не закончена.」",
+   "orig": "Tetsuya\n「Our work isn't done here, though.」"
+  },
+  {
+   "i": 331,
+   "speaker": "$n",
+   "text": "「Тэцуя?」",
+   "orig": "$n\n「Tetsuya?」"
+  },
+  {
+   "i": 332,
+   "speaker": "Тэцуя",
+   "text": "「Рёма.\n　Идём со мной.」",
+   "orig": "Tetsuya\n「Ryoma.\n　Come with me.」"
+  },
+  {
+   "i": 333,
+   "speaker": "Рёма",
+   "text": "「Ты это о чём?」",
+   "orig": "Ryoma\n「What are you talking about?」"
+  },
+  {
+   "i": 334,
+   "speaker": "Тэцуя",
+   "text": "「Всё объясню позже.\n　Идём со мной.」",
+   "orig": "Tetsuya\n「I'll explain the situation later.\n　Come with me.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Майто",
+   "text": "「Тэцуя.」",
+   "orig": "Maito\n「Tetsuya.」"
+  },
+  {
+   "i": 336,
+   "speaker": "Каппэй",
+   "text": "「Ты о чём вообще, Тэцуя?\n　Хочешь сказать, нам надо поджать хвост и сбежать?」",
+   "orig": "Kappei\n「What are you talking about, Tetsuya?\n　Are you saying we should turn tail and run away?」"
+  },
+  {
+   "i": 337,
+   "speaker": "Рёма",
+   "text": "「И куда именно ты меня тащишь?\n　И ради чего всё это?」",
+   "orig": "Ryoma\n「Where exactly are you taking me?\n　And what's the reason for all this?」"
+  },
+  {
+   "i": 338,
+   "speaker": "Тэцуя",
+   "text": "「Этого я сказать не могу.」",
+   "orig": "Tetsuya\n「That I can't tell you.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Рёма",
+   "text": "「И ты думаешь, я просто пойду за тобой?」",
+   "orig": "Ryoma\n「You expect me to just go along with this?」"
+  },
+  {
+   "i": 340,
+   "speaker": "Тэцуя",
+   "text": "「У нас нет времени.\n　Прошу, просто поверь мне.」",
+   "orig": "Tetsuya\n「We've got no time.\n　Please, just trust me.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Рёма",
+   "text": "「Извини.」",
+   "orig": "Ryoma\n「Sorry.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Тэцуя",
+   "text": "「Рёма!」",
+   "orig": "Tetsuya\n「Ryoma!」"
+  },
+  {
+   "i": 343,
+   "speaker": "Рёма",
+   "text": "「Я тебе верю.\n　Но своим друзьям, что сейчас здесь,\n　я верю ничуть не меньше.」",
+   "orig": "Ryoma\n「I do trust you.\n　But I trust my friends who are here\n　as much as I trust you.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Рёма",
+   "text": "「Так что взять и бросить их я не могу.」",
+   "orig": "Ryoma\n「So I can't just up and leave them here.」"
+  },
+  {
+   "i": 345,
+   "speaker": "Тэцуя",
+   "text": "「Ясно.」",
+   "orig": "Tetsuya\n「I see.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Синдзи",
+   "text": "「Всё закончилось.」",
+   "orig": "Shinji\n「It's over.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Кодзи",
+   "text": "「Ты молодец, Синдзи.」",
+   "orig": "Koji\n「You did good, Shinji.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Hmm?」"
+  },
+  {
+   "i": 349,
+   "speaker": "$n",
+   "text": "「Это ведь был твой первый бой?\n　Уже то, что ты не сбежал, — немало.」",
+   "orig": "$n\n「That was your first battle, right?\n　Just the fact that you didn't run away is plenty.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Джудо",
+   "text": "「Вот именно.\n　Отлично держался.」",
+   "orig": "Judau\n「Exactly.\n　Great job out there.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Майто",
+   "text": "「Хорошая работа.\n　А теперь отдохни.」",
+   "orig": "Maito\n「Good job.\n　Now get some rest.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Синдзи",
+   "text": "（Что это за странное чувство?）",
+   "orig": "Shinji\n（What's this strange feeling?）"
+  },
+  {
+   "i": 353,
+   "speaker": "Синдзи",
+   "text": "（Точно так же было, когда я подружился\n　с Тодзи и Кэнсукэ.）",
+   "orig": "Shinji\n（Feels like it did when I became friends\n　with Toji and Kensuke.）"
+  },
+  {
+   "i": 354,
+   "speaker": "Рёма",
+   "text": "「Денёк выдался жаркий.\n　Даже я, признаться, вымотался.」",
+   "orig": "Ryoma\n「Business was sure brisk today.\n　Even I'm tired out, I must admit.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Тэцуя",
+   "text": "「Но наша работа здесь ещё не закончена.」",
+   "orig": "Tetsuya\n「Our work isn't done here, though.」"
+  },
+  {
+   "i": 356,
+   "speaker": "$n",
+   "text": "「Тэцуя?」",
+   "orig": "$n\n「Tetsuya?」"
+  },
+  {
+   "i": 357,
+   "speaker": "Тэцуя",
+   "text": "「Рёма.\n　Идём со мной.」",
+   "orig": "Tetsuya\n「Ryoma.\n　Come with me.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Рёма",
+   "text": "「Ты это о чём?」",
+   "orig": "Ryoma\n「What are you talking about?」"
+  },
+  {
+   "i": 359,
+   "speaker": "Тэцуя",
+   "text": "「Всё объясню позже.\n　Идём со мной.」",
+   "orig": "Tetsuya\n「I'll explain the situation later.\n　Come with me.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Майто",
+   "text": "「Тэцуя.」",
+   "orig": "Maito\n「Tetsuya.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Каппэй",
+   "text": "「Ты о чём вообще, Тэцуя?\n　Хочешь сказать, нам надо поджать хвост и сбежать?」",
+   "orig": "Kappei\n「What are you talking about, Tetsuya?\n　Are you saying we should turn tail and run away?」"
+  },
+  {
+   "i": 362,
+   "speaker": "Рёма",
+   "text": "「И куда именно ты меня тащишь?\n　И ради чего всё это?」",
+   "orig": "Ryoma\n「Where exactly are you taking me?\n　And what's the reason for all this?」"
+  },
+  {
+   "i": 363,
+   "speaker": "Тэцуя",
+   "text": "「Этого я сказать не могу.」",
+   "orig": "Tetsuya\n「That I can't tell you.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Рёма",
+   "text": "「И ты думаешь, я просто пойду за тобой?」",
+   "orig": "Ryoma\n「You expect me to just go along with this?」"
+  },
+  {
+   "i": 365,
+   "speaker": "Тэцуя",
+   "text": "「У нас нет времени.\n　Прошу, просто поверь мне.」",
+   "orig": "Tetsuya\n「We've got no time.\n　Please, just trust me.」"
+  },
+  {
+   "i": 366,
+   "speaker": "Рёма",
+   "text": "「Извини.」",
+   "orig": "Ryoma\n「Sorry.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Тэцуя",
+   "text": "「Рёма!」",
+   "orig": "Tetsuya\n「Ryoma!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Рёма",
+   "text": "「Я тебе верю.\n　Но своим друзьям, что сейчас здесь,\n　я верю ничуть не меньше.」",
+   "orig": "Ryoma\n「I do trust you.\n　But I trust my friends who are here\n　as much as I trust you.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Рёма",
+   "text": "「Так что взять и бросить их я не могу.」",
+   "orig": "Ryoma\n「So I can't just up and leave them here.」"
+  },
+  {
+   "i": 370,
+   "speaker": "Тэцуя",
+   "text": "「Ясно.」",
+   "orig": "Tetsuya\n「I see.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Бандзё",
+   "text": "「Тэцуя!」",
+   "orig": "Banjo\n「Tetsuya!」"
+  },
+  {
+   "i": 372,
+   "speaker": "Кодзи",
+   "text": "「Постой!\n　Что это за «Мазингер» у тебя такой?」",
+   "orig": "Koji\n「Hold on!\n　What's the deal with that Mazinger of yours?」"
+  },
+  {
+   "i": 373,
+   "speaker": "Тэцуя",
+   "text": "「«Грейт Мазингер»...」",
+   "orig": "Tetsuya\n「Great Mazinger...」"
+  },
+  {
+   "i": 374,
+   "speaker": "Тэцуя",
+   "text": "「Это робот, превосходящий «Мазингер Зет».」",
+   "orig": "Tetsuya\n「It's a robot that surpasses the Mazinger Z.」"
+  },
+  {
+   "i": 375,
+   "speaker": "$n",
+   "text": "「Тэцуя.」",
+   "orig": "$n\n「Tetsuya.」"
+  },
+  {
+   "i": 376,
+   "speaker": "Рёма",
+   "text": "「Вот же он.\n　В такой-то момент. О чём он только думает?」",
+   "orig": "Ryoma\n「That guy.\n　At such a crucial time. What the hell is he thinking?」"
+  },
+  {
+   "i": 377,
+   "speaker": "$n",
+   "text": "「Тэцуя.」",
+   "orig": "$n\n「Tetsuya.」"
+  },
+  {
+   "i": 378,
+   "speaker": "Рёма",
+   "text": "「Вот же он.\n　В такой-то момент. О чём он только думает?」",
+   "orig": "Ryoma\n「That guy.\n　At such a crucial time. What the hell is he thinking?」"
+  },
+  {
+   "i": 379,
+   "speaker": "Босс",
+   "text": "「Нашу атаку отбило!」",
+   "orig": "Boss\n「Our attack was repelled!」"
+  },
+  {
+   "i": 380,
+   "speaker": "Саяка",
+   "text": "「Это из-за того поля?」",
+   "orig": "Sayaka\n「Is it because of that field?」"
+  },
+  {
+   "i": 381,
+   "speaker": "Кодзи",
+   "text": "「Если так,\n　значит, надо ударить с силой,\n　что превзойдёт прочность этого поля!」",
+   "orig": "Koji\n「If it is,\n　we'll just have to hit it with an attack\n　that exceeds the strength of the field!」"
+  },
+  {
+   "i": 382,
+   "speaker": "Кодзи",
+   "text": "「Значит, у Ангелов тоже есть такое поле?」",
+   "orig": "Koji\n「So the Angels have that field too, eh?」"
+  },
+  {
+   "i": 383,
+   "speaker": "Рэй",
+   "text": "「«Ева» способна нейтрализовать AT-поле.」",
+   "orig": "Rei\n「An EVA should be able to neutralize an AT field.」"
+  },
+  {
+   "i": 384,
+   "speaker": "Амуро",
+   "text": "「Ну конечно.\n　Мы можем подавить их поле, ударив по нему\n　полем того же типа.」",
+   "orig": "Amuro\n「Of course.\n　We can interfere with their field by hitting it\n　with one of the same type.」"
+  },
+  {
+   "i": 385,
+   "speaker": "Бандзё",
+   "text": "「Иными словами, тут нужен ближний бой.」",
+   "orig": "Banjo\n「In other words, this calls for close-range combat.」"
+  },
+  {
+   "i": 386,
+   "speaker": "Кодзи",
+   "text": "「Справишься, Синдзи?」",
+   "orig": "Koji\n「Can you handle it, Shinji?」"
+  },
+  {
+   "i": 387,
+   "speaker": "Синдзи",
+   "text": "「Здесь ведь и моя школа.\n　Я попробую!」",
+   "orig": "Shinji\n「My school is here too.\n　I'll give it a shot!」"
+  },
+  {
+   "i": 388,
+   "speaker": "Джудо",
+   "text": "「Хорошо, передовая твоя!\n　А мы прикроем!」",
+   "orig": "Judau\n「Okay, the front is all yours!\n　And we'll be backing you up!」"
+  },
+  {
+   "i": 389,
+   "speaker": "Синдзи",
+   "text": "（Тодзи. Кэнсукэ.\n　Ну, поехали.）",
+   "orig": "Shinji\n（Toji. Kensuke.\n　Here we go.）"
+  },
+  {
+   "i": 390,
+   "speaker": "Атрун",
+   "text": "「Что это такое?」",
+   "orig": "Athrun\n「What is that?」"
+  },
+  {
+   "i": 391,
+   "speaker": "Лунамария",
+   "text": "「Похоже на какое-то поле.\n　Оно только что отбило нашу атаку!」",
+   "orig": "Lunamaria\n「It's like some sort of field.\n　And it just repelled our attack!」"
+  },
+  {
+   "i": 392,
+   "speaker": "Рэй",
+   "text": "「Это AT-поле.\n　У «Ев» есть такое же.」",
+   "orig": "Rei\n「An AT field.\n　EVAs have the same thing.」"
+  },
+  {
+   "i": 393,
+   "speaker": "Рэй",
+   "text": "「Значит, «Ева» способна его нейтрализовать.」",
+   "orig": "Rei\n「So an EVA should be able to neutralize that.」"
+  },
+  {
+   "i": 394,
+   "speaker": "Амуро",
+   "text": "「Ну конечно.\n　Мы можем подавить их поле, ударив по нему\n　полем того же типа.」",
+   "orig": "Amuro\n「Of course.\n　We can interfere with their field by hitting it\n　with one of the same type.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Бандзё",
+   "text": "「Иными словами, тут нужен ближний бой.」",
+   "orig": "Banjo\n「In other words, this calls for close-range combat.」"
+  },
+  {
+   "i": 396,
+   "speaker": "Кодзи",
+   "text": "「Справишься, Синдзи?」",
+   "orig": "Koji\n「Can you handle it, Shinji?」"
+  },
+  {
+   "i": 397,
+   "speaker": "Синдзи",
+   "text": "「Здесь ведь и моя школа.\n　Я попробую!」",
+   "orig": "Shinji\n「My school is here too.\n　I'll give it a shot!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Джудо",
+   "text": "「Хорошо, передовая твоя!\n　А мы прикроем!」",
+   "orig": "Judau\n「Okay, the front is all yours!\n　And we'll be backing you up!」"
+  },
+  {
+   "i": 399,
+   "speaker": "Синдзи",
+   "text": "（Тодзи. Кэнсукэ.\n　Ну, поехали.）",
+   "orig": "Shinji\n（Toji. Kensuke.\n　Here we go.）"
+  },
+  {
+   "i": 400,
+   "speaker": "Синдзи",
+   "text": "「Похоже, я... я всё-таки не справлюсь.」",
+   "orig": "Shinji\n「It looks like I, I just can't pull this off.」"
+  },
+  {
+   "i": 401,
+   "speaker": "Мисато",
+   "text": "「Синдзи!」",
+   "orig": "Misato\n「Shinji!」"
+  },
+  {
+   "i": 402,
+   "speaker": "Гэндо",
+   "text": "「Похоже, мы провалились.」",
+   "orig": "Gendo\n「Looks like we failed.」"
+  },
+  {
+   "i": 403,
+   "speaker": "Кодзи",
+   "text": "「Этого робота создали, чтобы спасти мир.\n　И я не позволю ему получить новые раны!」",
+   "orig": "Koji\n「This robot was created to save the world.\n　I just can't let it sustain any more damage!」"
+  },
+  {
+   "i": 404,
+   "speaker": "Кодзи",
+   "text": "「Стой, «Евангелион»!\n　Я остановлю тебя здесь и сейчас!」",
+   "orig": "Koji\n「Hold on there, Evangelion!\n　I'm gonna shut you down right here and now!」"
+  },
+  {
+   "i": 405,
+   "speaker": "Кодзи",
+   "text": "（Что происходит? «Мазингер» сегодня\n　какой-то не такой, как раньше.）",
+   "orig": "Koji\n（What's going on? The Mazinger is somehow\n　different today than it was before.）"
+  },
+  {
+   "i": 406,
+   "speaker": "Кодзи",
+   "text": "（Нет, наверное, показалось!\n　Сейчас надо думать о враге передо мной!）",
+   "orig": "Koji\n（No, must be my imagination!\n　Right now I've got to focus on the enemy in front of me!）"
+  },
+  {
+   "i": 407,
+   "speaker": "Саяка",
+   "text": "「«Венус А» может и с этими гадами драться,\n　и Кодзи заодно выручить!」",
+   "orig": "Sayaka\n「This Venus A can fight those bastards\n　and also save Koji along the way!」"
+  },
+  {
+   "i": 408,
+   "speaker": "Саяка",
+   "text": "「Начали! Лори, Лору!\n　Хигаси, Оидэ!\n　Одолжите мне силу «Мазингера»!」",
+   "orig": "Sayaka\n「Here we go! Lori, Loru!\n　Higashi, Oide!\n　Lend me the power of the Mazinger!」"
+  },
+  {
+   "i": 409,
+   "speaker": "Кросс",
+   "text": "「Работай как следует, Босс.」",
+   "orig": "Cross\n「Work like you mean it, Boss.」"
+  },
+  {
+   "i": 410,
+   "speaker": "Окику",
+   "text": "「Пока мадам в отъезде,\n　мы — особая подмога «Босса Борота».」",
+   "orig": "Okiku\n「While Madam is away,\n　we're the special helpers of Boss Borot.」"
+  },
+  {
+   "i": 411,
+   "speaker": "Джанго",
+   "text": "「Раз уж мы подсобляем, провалы исключены.」",
+   "orig": "Django\n「If we're lending a hand, failure's not an option.」"
+  },
+  {
+   "i": 412,
+   "speaker": "Сэнсэй",
+   "text": "「М-м.」",
+   "orig": "Sensei\n「Mmm.」"
+  },
+  {
+   "i": 413,
+   "speaker": "Ясу",
+   "text": "「Сэнсэй говорит: будешь халтурить — разрубит надвое.」",
+   "orig": "Yasu\n「Sensei says if you cut corners he'll cut you in two.」"
+  },
+  {
+   "i": 414,
+   "speaker": "Нукэ",
+   "text": "（Б-босс,\n　эти ребята пострашнее врага будут.）",
+   "orig": "Nuke\n（B-Boss,\n　these people are even scarier than the enemy.）"
+  },
+  {
+   "i": 415,
+   "speaker": "Мутя",
+   "text": "（Что-то мы не похожи на подмогу, Босс.\n　Скорее уж на смотрителей зверинца!）",
+   "orig": "Mucha\n（It doesn't seem like we're helpers, Boss.\n　It's more like we're zookeepers!）"
+  },
+  {
+   "i": 416,
+   "speaker": "Босс",
+   "text": "（Н-но даже если так,\n　не могут же они просто велеть нам убираться.）",
+   "orig": "Boss\n（B-but even so,\n　it's not like they can just tell us to get out.）"
+  },
+  {
+   "i": 417,
+   "speaker": "Кросс",
+   "text": "「Ты там что бубнишь?」",
+   "orig": "Cross\n「What are you blathering on about?」"
+  },
+  {
+   "i": 418,
+   "speaker": "Ясу",
+   "text": "「Давай уже, соберись и вперёд.」",
+   "orig": "Yasu\n「Come on, just steel your nerves and charge ahead.」"
+  },
+  {
+   "i": 419,
+   "speaker": "Босс",
+   "text": "「Отчаянные времена — отчаянные меры!\n　Поехали, «Куроганэ Файв»!」",
+   "orig": "Boss\n「Desperate times call for desperate measures!\n　Here we go, Kurogane Five!」"
+  },
+  {
+   "i": 420,
+   "speaker": "Тэцуя",
+   "text": "（«Мазингер Зет». Кодзи Кабуто.）",
+   "orig": "Tetsuya\n（Mazinger Z. Koji Kabuto.）"
+  },
+  {
+   "i": 421,
+   "speaker": "Тэцуя",
+   "text": "（Времени у нас почти не осталось!）",
+   "orig": "Tetsuya\n（We don't have much time left!）"
+  },
+  {
+   "i": 422,
+   "speaker": "Тэцуя",
+   "text": "（Такая мощь.\n　Если так пойдёт дальше—）",
+   "orig": "Tetsuya\n（All that power.\n　At this rate—）"
+  },
+  {
+   "i": 423,
+   "speaker": "Тэцуя",
+   "text": "（Нет! Я не дам этому миру погибнуть!）",
+   "orig": "Tetsuya\n（No! No way am I letting this world perish!）"
+  },
+  {
+   "i": 424,
+   "speaker": "Кодзи",
+   "text": "「В прошлый раз мы опоздали, но раз они вернулись,\n　на этот раз мы точно дадим им бой!」",
+   "orig": "Koji\n「We were too late last time, but if they're back\n　we're definitely gonna take them on this time around!」"
+  },
+  {
+   "i": 425,
+   "speaker": "Кодзи",
+   "text": "「Поехали!\n　Пока в нас есть хоть капля жизни,\n　мы не дадим этому миру погибнуть!」",
+   "orig": "Koji\n「Here we go!\n　No way are we gonna let this world perish\n　while there's still breath left in us!」"
+  },
+  {
+   "i": 426,
+   "speaker": "Амуро",
+   "text": "（Так вот он какой, этот самый Ангел.\n　И надо же было ему явиться именно сейчас—）",
+   "orig": "Amuro\n（So that's the Angel everyone's talking about.\n　And for it to show up at this exact moment—）"
+  },
+  {
+   "i": 427,
+   "speaker": "Амуро",
+   "text": "（Если Третий удар всё-таки случится, миру\n　и правда придёт конец прямо здесь и сейчас!）",
+   "orig": "Amuro\n（If the Third Impact does occur, the world really is\n　gonna come to an end right then and there!）"
+  },
+  {
+   "i": 428,
+   "speaker": "Джудо",
+   "text": "「Не знаю, из-за чего случится Третий удар,\n　но больше ран Земле я нанести не дам!」",
+   "orig": "Judau\n「I don't know what's gonna cause the Third Impact,\n　but I'm not letting the Earth take any more damage!」"
+  },
+  {
+   "i": 429,
+   "speaker": "Джудо",
+   "text": "「У меня есть дела поважнее.\n　Так что проваливайте отсюда, чудовища!」",
+   "orig": "Judau\n「I've got better things to do with my time.\n　Now get the hell out of here, you monsters!」"
+  },
+  {
+   "i": 430,
+   "speaker": "Хатауэй",
+   "text": "「Значит, Ангелы и правда существуют.」",
+   "orig": "Hathaway\n「So the Angels really did exist after all.」"
+  },
+  {
+   "i": 431,
+   "speaker": "Хатауэй",
+   "text": "「И как прикажете драться с такими чудовищами?」",
+   "orig": "Hathaway\n「How does one fight against monsters like these?」"
+  },
+  {
+   "i": 432,
+   "speaker": "Банагер",
+   "text": "（Одри,\n　если ты где-то на этой Земле\n　сражаешься ради своего долга—）",
+   "orig": "Banagher\n（Audrey,\n　if you're somewhere on this Earth\n　fighting to fulfill your obligations—）"
+  },
+  {
+   "i": 433,
+   "speaker": "Банагер",
+   "text": "（Я спасу Землю, вот увидишь!\n　А значит, спасу и тебя!）",
+   "orig": "Banagher\n（I'll save the Earth, just wait and see!\n　That way, I'll be saving you too!）"
+  },
+  {
+   "i": 434,
+   "speaker": "Ал",
+   "text": "「Данных о поле противника нет.\n　Эффективный способ атаки неизвестен.」",
+   "orig": "Al\n「We don't have any data on the enemy's field.\n　Effective method of attack unknown.」"
+  },
+  {
+   "i": 435,
+   "speaker": "Соскэ",
+   "text": "「Можешь не сомневаться: они действуют\n　так же наугад, как и мы.」",
+   "orig": "Sousuke\n「You can bet they're just as haphazard as we are.」"
+  },
+  {
+   "i": 436,
+   "speaker": "Соскэ",
+   "text": "「Иду на сближение! Пробью их поле\n　Лямбда-драйвером!」",
+   "orig": "Sousuke\n「Here I go! I'm gonna use\n　the Lambda Driver to break through their field!」"
+  },
+  {
+   "i": 437,
+   "speaker": "Синдзи",
+   "text": "（Меня вдруг вызвали в Токио-3,\n　заставили перевестись в другую школу,\n　а потом ещё и сесть в эту штуку.）",
+   "orig": "Shinji\n（I'm suddenly summoned to Tokyo-3,\n　forced to transfer to a different school,\n　and then forced to ride this thing.）"
+  },
+  {
+   "i": 438,
+   "speaker": "Синдзи",
+   "text": "（И всё же мне остаётся только драться!\n　Ведь именно за этим отец меня и позвал!）",
+   "orig": "Shinji\n（Still, I've got no choice but to do it!\n　After all, this is what Dad called me in to do!）"
+  },
+  {
+   "i": 439,
+   "speaker": "$n",
+   "text": "「Мне случалось драться с самыми разными\n　чудовищами, но это — совершенно особый случай.」",
+   "orig": "$n\n「I've fought all kinds of monsters,\n　but this one is really in a class by itself.」"
+  },
+  {
+   "i": 440,
+   "speaker": "Найн",
+   "text": "「Пока мы не соберём данные,\n　я советую действовать осторожно.」",
+   "orig": "Nine\n「Until we gather data,\n　I advise cautious tactics.」"
+  },
+  {
+   "i": 441,
+   "speaker": "$n",
+   "text": "「Но если за это время мир обратится в руины,\n　всё это окажется напрасным.」",
+   "orig": "$n\n「But if the world crumbles to ruin in the meantime\n　then it all will have been meaningless.」"
+  },
+  {
+   "i": 442,
+   "speaker": "$n",
+   "text": "「Время шоу!\n　Раз уж малыш Синдзи решил показать характер,\n　мне остаётся только преподать ему пару уроков!」",
+   "orig": "$n\n「It's show time!\n　Now that young Shinji went and talked tough,\n　it's up to me to show him a thing or two!」"
+  },
+  {
+   "i": 443,
+   "speaker": "$n",
+   "text": "「Я в своё время сражался с самыми разными чудищами,\n　но это — совершенно особый случай.」",
+   "orig": "$n\n「I've fought all kinds of monsters in the past,\n　but this one is really in a class by itself.」"
+  },
+  {
+   "i": 444,
+   "speaker": "Найн",
+   "text": "「Тебе страшно, сестрица?」",
+   "orig": "Nine\n「Are you scared, Sis?」"
+  },
+  {
+   "i": 445,
+   "speaker": "$n",
+   "text": "「Честно говоря, да.」",
+   "orig": "$n\n「To be perfectly honest, yes.」"
+  },
+  {
+   "i": 446,
+   "speaker": "$n",
+   "text": "「Но когда речь заходит о конце света,\n　бояться я просто не имею права!\n　Давай, Найн, вперёд!」",
+   "orig": "$n\n「But when I hear talk about the world ending,\n　I know I can't afford to be scared!\n　Come on, Nine, here we go!」"
+  },
+  {
+   "i": 447,
+   "speaker": "Найн",
+   "text": "「Вот этим ты и поразительна.」",
+   "orig": "Nine\n「That's what makes you so incredible.」"
+  },
+  {
+   "i": 448,
+   "speaker": "Анж",
+   "text": "「Надо же, встретить знакомого в таком месте.」",
+   "orig": "Ange\n「Imagine running into someone I know in a place like this.」"
+  },
+  {
+   "i": 449,
+   "speaker": "Анж",
+   "text": "「И всё же я не собираюсь уступать ни на волос!\n　Раз уж ты держишь меня на прицеле!」",
+   "orig": "Ange\n「Even so, I'm don't intend to let up even a little bit!\n　Not as long as you've got me in your crosshairs!」"
+  },
+  {
+   "i": 450,
+   "speaker": "$n",
+   "text": "「Ого!」",
+   "orig": "$n\n「Whoa!」"
+  }
+ ]
+}

@@ -1,0 +1,2332 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　-Ангар Арзенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Анж",
+   "text": "「Кто здесь?」",
+   "orig": "Ange\n「Who's there?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Момока",
+   "text": "「Благодарю, что пришли, госпожа Анжелиз.」",
+   "orig": "Momoka\n「Thank you for coming, Lady Angelise.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Анж",
+   "text": "「Момока.」",
+   "orig": "Ange\n「Momoka.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Момока",
+   "text": "「Если вы отправляетесь в Империю Мисуруги,\n　то я поеду с вами.」",
+   "orig": "Momoka\n「If you are travelling to Misurugi Empire,\n　then I will accompany you.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Анж",
+   "text": "「Ты слишком хорошо меня знаешь.」",
+   "orig": "Ange\n「You know me all too well.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Момока",
+   "text": "「Да.\n　Я знаю, что госпожа не оставит без внимания\n　беду, в которой оказалась госпожа Сильвия.」",
+   "orig": "Momoka\n「Yes.\n　I know milady cannot neglect the \n　predicament Lady Sylvia is in.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Анж",
+   "text": "「Причина этой беды — я.」",
+   "orig": "Ange\n「I am the cause of that predicament.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Анж",
+   "text": "「В детстве Сильвия упала с лошади, на которой\n　мы катались, и больше не могла ходить.」",
+   "orig": "Ange\n「When we were little, Sylvia fell from a horse we \n　were riding, rendering her unable to walk.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Момока",
+   "text": "「Это был несчастный случай.」",
+   "orig": "Momoka\n「It was an unfortunate accident.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Анж",
+   "text": "「Но это не отменяет того, что свободы\n　она лишилась по моей вине.\n　Я у неё в долгу.」",
+   "orig": "Ange\n「But it doesn't change the fact that I'm \n　the cause of the loss of her freedom. \n　I owe her.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Анж",
+   "text": "「Пойдёшь со мной, Момока?」",
+   "orig": "Ange\n「Will you accompany me, Momoka?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Момока",
+   "text": "「С величайшей радостью!」",
+   "orig": "Momoka\n「It would be my pleasure!」"
+  },
+  {
+   "i": 16,
+   "speaker": "？？？",
+   "text": "「Ого, худшей актёрской игры я в жизни не видела.」",
+   "orig": "？？？\n「Wow, that's some of the worst acting I've ever seen.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Анж",
+   "text": "「Хильда.」",
+   "orig": "Ange\n「Hilda.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Хильда",
+   "text": "「Добрый вечер, падшая принцесса.\n　Вышла прогуляться?」",
+   "orig": "Hilda\n「Good evening, Fallen Princess.\n　Out for a stroll?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Хильда",
+   "text": "「Здесь, на Арзенале,\n　это называется дезертирством.」",
+   "orig": "Hilda\n「Here on Arzenal,\n　we call that desertion.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Анж",
+   "text": "「Попробуешь меня остановить,\n　Хильда, — придётся\n　пройти через тебя.」",
+   "orig": "Ange\n「If you try and stop me,\n　Hilda, you'll force\n　me to go through you.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Хильда",
+   "text": "「Не горячись. У меня на уме кое-что другое.」",
+   "orig": "Hilda\n「Now let's not be hasty. I have something else in mind.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Хильда",
+   "text": "「Если мы дезертируем разом, погоне придётся\n　разделить силы. Удобно, не находишь?」",
+   "orig": "Hilda\n「If we were both to desert simultaneously, our pursuers\n　would have to divide their forces. Convenient, no?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Анж",
+   "text": "「И вправду.」",
+   "orig": "Ange\n「Indeed.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Хильда",
+   "text": "「Я тоже ухожу с Арзенала.\n　Как и тебе, мне нужно\n　увидеть одного важного человека.」",
+   "orig": "Hilda\n「I'm leaving Arzenal, too.\n　Like you, there's someone\n　important I need to see.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Анж",
+   "text": "「И кто же это?」",
+   "orig": "Ange\n「Who would that be?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Хильда",
+   "text": "「Моя мать.」",
+   "orig": "Hilda\n「My mother.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Анж",
+   "text": "「Хорошо, Хильда.\n　Будем действовать вместе.」",
+   "orig": "Ange\n「Very well, Hilda.\n　I'll work with you.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Хильда",
+   "text": "「Первую эскадрилью наняли «Селестиал Бин».\n　Так что Пара-Мейлы полностью заправлены.\n　На них мы перелетим океан.」",
+   "orig": "Hilda\n「The 1st Squadron was hired by Celestial Being.\n　So the Para-Mails are all fueled up.\n　They'll get us across the ocean.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Хильда",
+   "text": "「Эй, Момока.\n　Открой люки своей Маной.\n　А дальше уж как-нибудь выкрутимся.」",
+   "orig": "Hilda\n「Hey, Momoka.\n　Use your Mana to open the hatches.\n　We should be able to work something from there.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Момока",
+   "text": "「К-конечно!」",
+   "orig": "Momoka\n「O-of course!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Хильда",
+   "text": "「Первый и последний раз, когда мы заодно, да?」",
+   "orig": "Hilda\n「First and last time we'll ever cooperate, huh?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Анж",
+   "text": "「Да, скорее всего.」",
+   "orig": "Ange\n「Yeah, probably.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Хильда",
+   "text": "「Ч-чего уставилась?」",
+   "orig": "Hilda\n「W-what are you looking at?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Анж",
+   "text": "「Завидую, что ты сможешь увидеть мать, Хильда.」",
+   "orig": "Ange\n「I envy you being able to meet your mother, Hilda.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Хильда",
+   "text": "「З-заткнись!\n　Не твоё дело!」",
+   "orig": "Hilda\n「Sh-shut up!\n　It's none of your business!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Хильда",
+   "text": "「Но за сочувствие спасибо.\n　Тебе я тоже желаю удачи в твоём деле.」",
+   "orig": "Hilda\n「But I appreciate your sentiment.\n　I wish you luck in your endeavor as well.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Анж",
+   "text": "「Удачи тебе, Хильда.\n　Молю, чтобы мы больше не встретились.」",
+   "orig": "Ange\n「Good luck to you, Hilda.\n　I pray we never meet again.」"
+  },
+  {
+   "i": 41,
+   "speaker": "　",
+   "text": "　　\n　　-Академия Феникс Священной Империи Мисуруги-",
+   "orig": "　\n　　\n　　　　　-Holy Misurugi Empire Phoenix Academy-"
+  },
+  {
+   "i": 42,
+   "speaker": "Анж",
+   "text": "「Империя Мисуруги.\n　С виду она как будто совсем не изменилась.」",
+   "orig": "Ange\n「The Misurugi Empire.\n　On the surface, it doesn't seem to have changed.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Момока",
+   "text": "「После того как вас выслали, госпожа Анжелиз,\n　новым императором Империи Мисуруги\n　стал господин Джулио.」",
+   "orig": "Momoka\n「After you were sent away, Lady Angelise,\n　Master Julio became the new emperor of \n　Misurugi Empire.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Анж",
+   "text": "（Значит, казнить Сильвию решил\n　мой старший брат Джулио?）",
+   "orig": "Ange\n（So then it was my older brother Julio \n　who decided to execute Sylvia?）"
+  },
+  {
+   "i": 45,
+   "speaker": "Момока",
+   "text": "「И всё же «Вилькисс» совершил невероятный прыжок!」",
+   "orig": "Momoka\n「At any rate, the Villkiss' made an incredible jump!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Анж",
+   "text": "「Да, я и сама удивлена, что мы добрались\n　до Империи Мисуруги всего за один прыжок.」",
+   "orig": "Ange\n「Yes, I'm quite surprised we were able to\n　make it to Misurugi Empire in just one jump.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Анж",
+   "text": "「Но если бы не беда Сильвии,\n　я бы сюда, пожалуй, вообще не вернулась.」",
+   "orig": "Ange\n「If it weren't for Sylvia's predicament though,\n　I doubt I would have returned at all.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Момока",
+   "text": "「Госпожа Анж...」",
+   "orig": "Momoka\n「Lady Ange...」"
+  },
+  {
+   "i": 49,
+   "speaker": "Анж",
+   "text": "「Пока что спрячем\n　«Вилькисс» при школе\n　и дойдём до дворца пешком.」",
+   "orig": "Ange\n「For now, we'll hide\n　the Villkiss at the school\n　and walk to the palace.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Анж",
+   "text": "「Проникнем внутрь тайным ходом королевской семьи.\n　С замками, что попадутся по пути, разберёшься ты.」",
+   "orig": "Ange\n「We'll use the secret royal family passage to infiltrate.\n　I'll need you to take care of any locks we come across.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Момока",
+   "text": "「Предоставьте их мне, госпожа.\n　Ради этого я с вами и пошла.」",
+   "orig": "Momoka\n「Leave them to me, milady.\n　That is why I accompanied you.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Акихо",
+   "text": "「Ой.」",
+   "orig": "Akiho\n「Oh.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Анж",
+   "text": "「Акихо.\n　Ты ведь Акихо из команды «Айрия»?」",
+   "orig": "Ange\n「Akiho.\n　You're Akiho from the Airia Team, aren't you?」"
+  },
+  {
+   "i": 54,
+   "speaker": "Акихо",
+   "text": "「Госпожа Анжелиз.」",
+   "orig": "Akiho\n「Lady Angelise.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Акихо",
+   "text": "「Ой!\n　П-простите меня. Пожалуйста, не убивайте!」",
+   "orig": "Akiho\n「Ohh!\n　I-I'm so sorry. Please don't kill me!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Момока",
+   "text": "「Акихо!」",
+   "orig": "Momoka\n「Akiho!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Анж",
+   "text": "「С тем, как в обществе смотрят на норм,\n　твою реакцию трудно ставить тебе в вину.」",
+   "orig": "Ange\n「The way society views Normas,\n　I can hardly blame you for your reaction.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Акихо",
+   "text": "「П-пожалуйста, не убивайте меня!\n　Умоляю вас!」",
+   "orig": "Akiho\n「Pl-please don't kill me!\n　I beg of you!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Анж",
+   "text": "「Акихо, а что, по-твоему,\n　я собираюсь с тобой сделать?」",
+   "orig": "Ange\n「Akiho, just what do you\n　think I'm going to do to you?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Акихо",
+   "text": "「Н-ну, просто... Понимаете...」",
+   "orig": "Akiho\n「W-well, it's just that... You see...」"
+  },
+  {
+   "i": 61,
+   "speaker": "Анж",
+   "text": "「Нормы — жестокие твари, враги общества…\n　Ты ведь тоже так думаешь?」",
+   "orig": "Ange\n「Normas are violent, anti-social monsters—\n　Is that what you think?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Акихо",
+   "text": "「Нет-нет, я бы никогда такого не сказала!」",
+   "orig": "Akiho\n「Oh, no, I'd never say that!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Анж",
+   "text": "「Пусть я и Норма, но я всё та же.\n　Я ничуть не изменилась.」",
+   "orig": "Ange\n「Even though I'm a Norma, I'm still just me.\n　I haven't changed.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Анж",
+   "text": "「Я не причиню тебе вреда,\n　Акихо, ты же моя подруга.」",
+   "orig": "Ange\n「I'm not going to harm you,\n　Akiho, you are my friend.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Акихо",
+   "text": "「П-подруга?」",
+   "orig": "Akiho\n「F-friend?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Акихо",
+   "text": "「А, ну да… \n　М-мы п-подруги.\n　А-ха-ха-ха!」",
+   "orig": "Akiho\n「Uh, oh yes... \n　W-we're f-friends.\n　Ah haha ha!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Анж",
+   "text": "「Акихо, у меня к тебе просьба.\n　Пожалуйста, не говори никому, что я была здесь.」",
+   "orig": "Ange\n「Akiho, I have a favor to ask.\n　Please don't tell anyone I was here.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Акихо",
+   "text": "「К-конечно.\n　Я никому не скажу. Обещаю!」",
+   "orig": "Akiho\n「O-of course.\n　I won't say anything. I promise!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Анж",
+   "text": "「Тогда будь добра, выключи\n　мана-передатчик, который прячешь за спиной.」",
+   "orig": "Ange\n「Then will you please shut down the\n　Mana communicator behind your back for me?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Акихо",
+   "text": "「Ой!」",
+   "orig": "Akiho\n「Oh!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Анж",
+   "text": "「Ясно. Похоже, ты такая же, как и все.」",
+   "orig": "Ange\n「I see. It seems you are like the others.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Акихо",
+   "text": "「Н-не подходи ко мне, чудовище!」",
+   "orig": "Akiho\n「St-stay away from me, you monster!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Анж",
+   "text": "「Я не причиню тебе вреда,\n　но связать тебя мне всё-таки придётся.」",
+   "orig": "Ange\n「I'm not going to harm you,\n　but I am going to have to tie you up.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Анж",
+   "text": "「Потому что я должна идти, чего бы это ни стоило.」",
+   "orig": "Ange\n「Because no matter what happens, I have to go.」"
+  },
+  {
+   "i": 78,
+   "speaker": "　",
+   "text": "　\n　　　　　—Дворец Священной империи Мисуруги—",
+   "orig": "　\n　\n　　　　　　　　—Holy Misurugi Empire Palace—"
+  },
+  {
+   "i": 79,
+   "speaker": "Солдат Мисуруги",
+   "text": "「Не щадите её!\n　Это уже не та леди Анжелиза, которую мы знали!」",
+   "orig": "Misurugi Soldier\n「Don't hold back!\n　That is not the Lady Angelise we once knew!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Солдат Мисуруги",
+   "text": "「Чудовище!\n　Мы не пустим тебя во дворец!」",
+   "orig": "Misurugi Soldier\n「You monster!\n　We won't let you set foot inside the palace!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Анж",
+   "text": "「Не хотела бы я этого, но вы стоите у меня на пути!」",
+   "orig": "Ange\n「I hate to do this, but you're in my way!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Солдат Мисуруги",
+   "text": "「Аргх!」",
+   "orig": "Misurugi Soldier\n「Argh!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Солдат Мисуруги",
+   "text": "「Нам её не остановить!\n　Зовите подкрепление!」",
+   "orig": "Misurugi Soldier\n「We can't stand against her!\n　Call for backup!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Анж",
+   "text": "「Это был последний часовой!」",
+   "orig": "Ange\n「That was the last guard!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Момока",
+   "text": "「Леди Анжелиза!\n　Леди Сильвия прямо впереди!」",
+   "orig": "Momoka\n「Lady Angelise!\n　Lady Sylvia is just up ahead!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Анж",
+   "text": "「Сильвия!\n　Если слышишь мой голос — выйди, прошу тебя!」",
+   "orig": "Ange\n「Sylvia!\n　If you can hear my voice, please show yourself!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Сильвия",
+   "text": "「Анжелиза!」",
+   "orig": "Sylvia\n「Angelise!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Анж",
+   "text": "「Сильвия!\n　Как же я рада, что с тобой всё в порядке.」",
+   "orig": "Ange\n「Sylvia!\n　I'm happy to see you're alright.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Сильвия",
+   "text": "「Ты пришла за мной?!\n　Ах, спасибо тебе!」",
+   "orig": "Sylvia\n「You came for me?!\n　Oh, thank you!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Анж",
+   "text": "「Ты моя младшая сестра. Разумеется, пришла.」",
+   "orig": "Ange\n「You're my little sister. Of course I would.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Анж",
+   "text": "「Идём. Нам надо выбираться отсюда.\n　Скорее, забирайся мне на спину!」",
+   "orig": "Ange\n「Come on. We have to get out of here.\n　Quickly, climb onto my back!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Сильвия",
+   "text": "「Анжелиза…」",
+   "orig": "Sylvia\n「Angelise...」"
+  },
+  {
+   "i": 93,
+   "speaker": "Сильвия",
+   "text": "「Умри!」",
+   "orig": "Sylvia\n「Die!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Анж",
+   "text": "「Сильвия!\n　Что с тобой?」",
+   "orig": "Ange\n「Sylvia!\n　What's the matter?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Сильвия",
+   "text": "「Как ты смеешь выдавать себя за мою сестру!\n　Ты не она!\n　Ты чудовище!」",
+   "orig": "Sylvia\n「How dare you pretend to be my sister!\n　You're not her!\n　You're a monster!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Сильвия",
+   "text": "「Почему?\n　Почему ты вообще родилась на свет?!」",
+   "orig": "Sylvia\n「Why?\n　Why did you have to be born?!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Анж",
+   "text": "「С-Сильвия…」",
+   "orig": "Ange\n「S-Sylvia...」"
+  },
+  {
+   "i": 98,
+   "speaker": "Сильвия",
+   "text": "「Отец, мать, Джулио и я — все мы прожили бы\n　куда более счастливую жизнь,\n　если бы ты никогда не родилась!」",
+   "orig": "Sylvia\n「Father, mother, Julio, and I would have all\n　been a lot happier in life\n　if you had never been born!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Сильвия",
+   "text": "「Если бы ты не родилась,\n　я бы до сих пор могла ходить!\n　И мама была бы жива!」",
+   "orig": "Sylvia\n「If you had never been born,\n　I would still be able to walk!\n　And mother would still be alive!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Сильвия",
+   "text": "「Ты отняла у меня всё! Всё разрушила!\n　Верни мне мать!」",
+   "orig": "Sylvia\n「You took everything from me! Destroyed it all!\n　Return my mother!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Сильвия",
+   "text": "「Чудовище!\n　Чудовище!\n　Ненавижу тебя!」",
+   "orig": "Sylvia\n「Monster!\n　Monster!\n　I hate you!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Анж",
+   "text": "「Я…」",
+   "orig": "Ange\n「I...」"
+  },
+  {
+   "i": 103,
+   "speaker": "Момока",
+   "text": "「Успокойтесь, леди Анжелиза!」",
+   "orig": "Momoka\n「Stay calm, Lady Angelise!」"
+  },
+  {
+   "i": 104,
+   "speaker": "？？？",
+   "text": "「Какая неловкость. И как же это к лицу\n　Падшей принцессе в её жалкие последние дни.」",
+   "orig": "？？？\n「Well, this is awkward. And yet, how appropriate\n　for the Fallen Princess' pitiful final days.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Анж",
+   "text": "「Джулио?」",
+   "orig": "Ange\n「Julio?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Джулио",
+   "text": "「Да, это я. И именно это выражение\n　я и хотел увидеть на твоём лице. Заманить тебя\n　сюда определённо стоило всех хлопот.」",
+   "orig": "Julio\n「Yes, it's me. And that's\n　exactly the look I wanted to see on your face. It\n　was definitely worth the trouble of luring you here.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Анж",
+   "text": "「Значит, казнь Сильвии была всего лишь уловкой.」",
+   "orig": "Ange\n「So then, Sylvia's execution was all a ruse.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Джулио",
+   "text": "「Разумеется.\n　Всё это — ловушка, чтобы заманить тебя сюда.」",
+   "orig": "Julio\n「Of course.\n　All a trap to lure you here.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Джулио",
+   "text": "「А теперь пришло время покарать тебя\n　за твоё преступление, Анжелиза.\n　Ха-ха-ха! Ха-ха-ха!」",
+   "orig": "Julio\n「And now it's time to punish you\n　for your crime, Angelise.\n　Hahaha! Hahaha!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Анж",
+   "text": "「Ррр!」",
+   "orig": "Ange\n「Grr!」"
+  },
+  {
+   "i": 114,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　—Площадь Столпа Рассвета—",
+   "orig": "　\n　　\n　　　　　　　　　—Pillar of Dawn Front—"
+  },
+  {
+   "i": 115,
+   "speaker": "Риза",
+   "text": "「Леди Сильвия, ваш хлыст.」",
+   "orig": "Riza\n「My Lady Sylvia, the whip.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Сильвия",
+   "text": "「Благодарю, Риза.」",
+   "orig": "Sylvia\n「Thank you, Riza.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Сильвия",
+   "text": "「За то, что по твоей вине я упала с лошади!」",
+   "orig": "Sylvia\n「For the crime of making me fall from the horse!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Анж",
+   "text": "「А-ах!」",
+   "orig": "Ange\n「Aagh!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Сильвия",
+   "text": "「За то, что по твоей вине я не могу ходить!」",
+   "orig": "Sylvia\n「For the crime of making me lose the ability to walk!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Анж",
+   "text": "「Ррр!」",
+   "orig": "Ange\n「Rrr!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Сильвия",
+   "text": "「И за то, что ты вообще родилась!」",
+   "orig": "Sylvia\n「And for the crime of being born!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Анж",
+   "text": "「А-а-а!」",
+   "orig": "Ange\n「Ahhh!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Момока",
+   "text": "「Леди Сильвия!\n　Прошу вас… Прошу, остановитесь!\n　Это слишком жестоко!」",
+   "orig": "Momoka\n「Lady Sylvia!\n　Please... Please, won't you stop?\n　This is too awful!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Сильвия",
+   "text": "「Жестоко, говоришь?\n　Ты готова назвать эту Норму… эту мерзкую, злобную\n　тварь, врага общества, моей старшей сестрой?」",
+   "orig": "Sylvia\n「Too awful, you say?\n　You would call this Norma... this vile, violent,  \n　anti-social monster my older sister?」"
+  },
+  {
+   "i": 125,
+   "speaker": "Сильвия",
+   "text": "「Скажи мне, что на свете может быть жесточе этого?」",
+   "orig": "Sylvia\n「Tell me, what is more awful in the world, than that?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Анж",
+   "text": "「Сильвия…」",
+   "orig": "Ange\n「Sylvia...」"
+  },
+  {
+   "i": 127,
+   "speaker": "Сильвия",
+   "text": "「Проси прощения! Скажи: «Простите. Я во всём\n　виновата, потому что я Норма». Говори!」",
+   "orig": "Sylvia\n「Apologize! Say \"I'm sorry. It's all my fault,\n　because I'm a Norma.\" Say it!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Акихо",
+   "text": "「Леди Сильвия права!」",
+   "orig": "Akiho\n「Lady Sylvia is right!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Момока",
+   "text": "「Леди Анжелиза…」",
+   "orig": "Momoka\n「Lady Angelise.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Джулио",
+   "text": "「Благодарю тебя, Момока.」",
+   "orig": "Julio\n「Thank you, Momoka.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Момока",
+   "text": "「За что?」",
+   "orig": "Momoka\n「For what?」"
+  },
+  {
+   "i": 132,
+   "speaker": "Джулио",
+   "text": "「За то, что дала нам возможность покарать её.」",
+   "orig": "Julio\n「For giving us the opportunity to punish her.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Джулио",
+   "text": "「Это ведь я вскрыл истинную сущность\n　Анжелизы на её крещении.」",
+   "orig": "Julio\n「I was the one who uncovered Angelise's  \n　true nature at her baptism.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Анж",
+   "text": "「И разрушил всё!」",
+   "orig": "Ange\n「And destroyed everything!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Джулио",
+   "text": "「Хе-хе. Какое же это было облегчение — вычистить\n　дворец от паразита, гнездившегося в нём 16 лет.」",
+   "orig": "Julio\n「Heh heh. Cleaning the royal palace of the vermin\n　that had nested in it for 16 years was such a relief.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Джулио",
+   "text": "「Её отправили в ад Зоны D, и я ждал вестей о том,\n　что прочие чудовища с ней покончили.\n　Какая жалость. Куда лучше было бы, умри она там.」",
+   "orig": "Julio\n「She was sent to the hell of Area D and I awaited the\n　news of her demise at the hands of the other monsters.\n　Pity. It really would have been better if she'd died.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Джулио",
+   "text": "「Я попросту не могу позволить ей и дальше жить.\n　Вот почему, дорогая Момока,\n　я не поскупился, чтобы отправить туда тебя.」",
+   "orig": "Julio\n「I simply cannot allow her existence to continue.\n　That's why, dear Momoka.\n　I spared no expenses to send you.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Момока",
+   "text": "「Что?!」",
+   "orig": "Momoka\n「What?!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Джулио",
+   "text": "「Ты ведь не думала всерьёз, что простой служанке\n　так легко добраться до сосланной Нормы?」",
+   "orig": "Julio\n「You really didn't think it would be that easy for  \n　a mere handmaid to meet an exiled Norma, did you?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Джулио",
+   "text": "「Смотреть, как ты отчаянно пляшешь\n　по нотам ради спасения Сильвии…\n　это было поистине восхитительно.」",
+   "orig": "Julio\n「Watching you so desperately go through \n　the moves to save Sylvia...\n　was quite a treat, indeed.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Момока",
+   "text": "「Н-не может быть!」",
+   "orig": "Momoka\n「I-I don't believe it!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Джулио",
+   "text": "「Прежние император и императрица погибли за то, что\n　укрывали дочь-Норму и обманывали весь народ империи.」",
+   "orig": "Julio\n「The old Empress and Emperor died for protecting their\n　Norma daughter and deceiving the citizens of the empire.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Анж",
+   "text": "「Мама… Отец…」",
+   "orig": "Ange\n「Mother... Father...」"
+  },
+  {
+   "i": 144,
+   "speaker": "Джулио",
+   "text": "「А теперь, Анжелиза, мерзкая ты тварь-Норма, твоя\n　смерть очистит императорский род от скверны!」",
+   "orig": "Julio\n「And now, Angelise, you loathsome Norma vermin, your\n　death will cleanse the imperial lineage of impurity!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Джулио",
+   "text": "「Сегодня наша страна возрождается\n　как Священная империя Мисуруги!」",
+   "orig": "Julio\n「This is the day the nation is reborn\n　as the Holy Misurugi Empire!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Джулио",
+   "text": "「И своим первым указом в сане Священного\n　императора Джулио I я приговариваю тебя к смерти!」",
+   "orig": "Julio\n「And as my first order as Holy Emperor Julio I,\n　I sentence you to death!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Джулио",
+   "text": "「Позвольте представить гостя нашего торжества.」",
+   "orig": "Julio\n「Let me introduce my guest to our little celebration.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Джулио",
+   "text": "「Рок-музыкант века —\n　Пёрпл!」",
+   "orig": "Julio\n「The rock'n roll musician of the century,\n　Purple!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Пёрпл",
+   "text": "「Благодарю за приглашение на столь\n　знаменательное событие, император Джулио!」",
+   "orig": "Purple\n「Thank you for inviting me to this most \n　momentous occasion, Emperor Julio!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Пёрпл",
+   "text": "「И позвольте мне благословить\n　рождение Священной империи Мисуруги.」",
+   "orig": "Purple\n「And may I offer up my blessings to\n　the birth of the Holy Misurugi Empire.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Пёрпл",
+   "text": "「Ну что, народ! Больше не нужно\n　сдерживать свои истинные чувства!」",
+   "orig": "Purple\n「Alright, everyone! You don't need to\n　hold your true feelings back any longer!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Пёрпл",
+   "text": "「Дайте волю гневу и ненависти!　\n　Пусть Норма узнает, что вы на самом деле чувствуете!」",
+   "orig": "Purple\n「Let your anger and hate flow freely!　\n　Let the Norma know just how you feel!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Джулио",
+   "text": "（Ха-ха… Вывести Пёрпла на сцену было гениально. \n　Мне повезло, что меня ему представили.）",
+   "orig": "Julio\n（Ha ha... Putting Purple on stage was brilliant. \n　I was lucky to get an introduction to him.）"
+  },
+  {
+   "i": 154,
+   "speaker": "Момока",
+   "text": "「Почему?\n　Почему только леди Анжелизу\n　травят вот так?」",
+   "orig": "Momoka\n「Why?\n　Why is Lady Angelise the only\n　one being persecuted like this?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Джулио",
+   "text": "「Причина очевидна.\n　Она Норма.」",
+   "orig": "Julio\n「The reason is obvious.\n　She's a Norma.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Анж",
+   "text": "（Момока… \n　Ты, люди из Арзенала, экипаж «Надэсико» —\n　все вы куда лучше жителей этой страны.）",
+   "orig": "Ange\n（Momoka... \n　You, the people at Arzenal, the crew of the Nadesico,\n　you are all far better than the people of this nation.）"
+  },
+  {
+   "i": 157,
+   "speaker": "Анж",
+   "text": "（Там не было никакой травли. Неважно было, \n　Норма я или нет. Меня просто принимали такой.）",
+   "orig": "Ange\n（There was never any discrimination. Didn't matter that \n　I was a Norma or not. Everyone just accepted me.）"
+  },
+  {
+   "i": 158,
+   "speaker": "Анж",
+   "text": "（А по сравнению с этим здесь — настоящий ад.）",
+   "orig": "Ange\n（Compared to that, this is hell.）"
+  },
+  {
+   "i": 159,
+   "speaker": "Акихо",
+   "text": "「Вздёрнуть её!\n　Вздёрнуть Норму!」",
+   "orig": "Akiho\n「Hang her!\n　Hang the Norma!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Горожанин",
+   "text": "「Вздёрнуть её!」",
+   "orig": "Civilian\n「Hang her!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Горожанин",
+   "text": "「Вздёрнуть её!」",
+   "orig": "Civilian\n「Hang her!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Горожанин",
+   "text": "「Вздёрнуть её!」",
+   "orig": "Civilian\n「Hang her!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Пёрпл",
+   "text": "「Вот так! Злитесь!\n　Пусть кровь кипит!\n　Покажите ей, что вы чувствуете на самом деле!」",
+   "orig": "Purple\n「That's it! Rage!\n　Let your blood boil!\n　Show her how you really feel!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Анж",
+   "text": "「Куда делись те мирные люди, которых я знала?」",
+   "orig": "Ange\n「What happened to the peaceful people I once knew?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Анж",
+   "text": "「Вы ничем не лучше скота!\n　Бездумные, доверчивые свиньи!」",
+   "orig": "Ange\n「You're no better than animals!\n　You unthinking, gullible pigs!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Анж",
+   "text": "「Я убивала Драконов, чтобы защитить вас всех!\n　И вот как вы мне платите? 」",
+   "orig": "Ange\n「I've slayed Dragons to protect you all!\n　And this is how you repay me? 」"
+  },
+  {
+   "i": 167,
+   "speaker": "Джулио",
+   "text": "「Молчать, мерзкая Норма!」",
+   "orig": "Julio\n「Silence, you vile Norma!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Анж",
+   "text": "「Ни за что!」",
+   "orig": "Ange\n「Never!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Риза",
+   "text": "「Это что, какая-то песня?」",
+   "orig": "Riza\n「Is that some kind of song?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Джулио",
+   "text": "「Это «Вечная история». Старое предание, \n　что передаётся в королевской семье из поколения в поколение.」",
+   "orig": "Julio\n「It's the Eternal Story. An old telling passed \n　down generations within the royal family.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Сильвия",
+   "text": "「Это песня матери!\n　Не смей осквернять её своими погаными губами Нормы!」",
+   "orig": "Sylvia\n「That's Mother's song!\n　Don't you dare violate it with your vile Norma lips!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Анж",
+   "text": "（Мама…\n　Я помню тот день, когда ты научила меня этой песне,\n　будто это было вчера.）",
+   "orig": "Ange\n（Mother...\n　I remember the day you taught me this song\n　like it was yesterday.）"
+  },
+  {
+   "i": 173,
+   "speaker": "Анж",
+   "text": "（Мама желала, чтобы меня благословил свет.\n　А вместо этого я рухнула в этот ад.）",
+   "orig": "Ange\n（It was Mother's wish that I be blessed by light.\n　And instead, I fell into this hell.）"
+  },
+  {
+   "i": 174,
+   "speaker": "？？？",
+   "text": "「Анж!」",
+   "orig": "？？？\n「Ange!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Анж",
+   "text": "「Что?!」",
+   "orig": "Ange\n「What?!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Таск",
+   "text": "「Беги, Анж! Сейчас же!」",
+   "orig": "Tusk\n「Run, Ange! Now!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Анж",
+   "text": "「Таск!\n　Что ты здесь делаешь?」",
+   "orig": "Ange\n「Tusk!\n　What are you doing here?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Таск",
+   "text": "「Меня прислала Джилл.\n　Велела помочь тебе.」",
+   "orig": "Tusk\n「Jill sent me.\n　Told me to help you.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Анж",
+   "text": "「Джилл — в смысле командир?」",
+   "orig": "Ange\n「Jill, as in the commander?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Момока",
+   "text": "「Леди Анжелиза!」",
+   "orig": "Momoka\n「Lady Angelise!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Таск",
+   "text": "「Обсудим это позже!\n　Сейчас надо вытащить тебя отсюда!」",
+   "orig": "Tusk\n「We'll discuss it later!\n　Right now, we have to get you out of here!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Анж",
+   "text": "「Таск, прежде чем уйдём… \n　У тебя есть при себе оружие?」",
+   "orig": "Ange\n「Tusk, before we go... \n　Do you have any weapons on you?」"
+  },
+  {
+   "i": 183,
+   "speaker": "Таск",
+   "text": "「Сюрикены сгодятся?」",
+   "orig": "Tusk\n「Will shuriken do?」"
+  },
+  {
+   "i": 184,
+   "speaker": "Анж",
+   "text": "「Спасибо. Давай.」",
+   "orig": "Ange\n「Thanks. Please.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Джулио",
+   "text": "「Анжелиза, чудовище!\n　Думаешь, так легко уйдёшь?」",
+   "orig": "Julio\n「Angelise, you monster!\n　You think you can get away that easily?」"
+  },
+  {
+   "i": 186,
+   "speaker": "Анж",
+   "text": "「Спасибо тебе, брат,\n　что раскрыл мою истинную сущность.」",
+   "orig": "Ange\n「Thank you, brother,\n　for uncovering my true nature.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Анж",
+   "text": "「И спасибо тебе, Сильвия,\n　что показала, насколько ты прогнила.」",
+   "orig": "Ange\n「And thank you, Sylvia,\n　for showing me how truly corrupt you are.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Сильвия",
+   "text": "「Да как ты смеешь!」",
+   "orig": "Sylvia\n「I never!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джулио",
+   "text": "「Н-не дайте ей уйти!\n　Убейте, если понадобится!」",
+   "orig": "Julio\n「D-don't let her escape!\n　Kill her if you must!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Анж",
+   "text": "「Прощай, гниющая падаль, в которую превратилась Мисуруги.」",
+   "orig": "Ange\n「Farewell to the rotting carcass Misurugi has become.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Джулио",
+   "text": "「Аргх!」",
+   "orig": "Julio\n「Argh!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Риза",
+   "text": "「Император Джулио!」",
+   "orig": "Riza\n「Emperor Julio!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Джулио",
+   "text": "「Больно!\n　А-ай!」",
+   "orig": "Julio\n「It hurts!\n　Oww!」"
+  },
+  {
+   "i": 197,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Карцер Арзенала-",
+   "orig": "　\n　\n　　　　　　　　　　-Arzenal Prison Cell-"
+  },
+  {
+   "i": 198,
+   "speaker": "Хильда",
+   "text": "「Хм.」",
+   "orig": "Hilda\n「Hmm.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Хильда",
+   "text": "「Да вы издеваетесь.」",
+   "orig": "Hilda\n「You've gotta be kidding me.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Салия",
+   "text": "「У тебя новая соседка по камере, Хильда.」",
+   "orig": "Salia\n「You have a new cellmate, Hilda.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Анж",
+   "text": "「Сколько лет, сколько зим.」",
+   "orig": "Ange\n「Long time, no see.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Хильда",
+   "text": "「Заперли с Падшей принцессой, значит?」",
+   "orig": "Hilda\n「Locked up with the Fallen Princess, huh?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Розали",
+   "text": "「Скажи-ка, Хильда, зачем ты сбежала?\n　Почему не пришла сначала ко мне?\n　Я думала, мы подруги.」",
+   "orig": "Rosalie\n「So tell me, Hilda, why did you desert?\n　Why didn't you come to me first?\n　I thought we were friends.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Крис",
+   "text": "「Может, ты так и думала, Розали,\n　но Хильда, похоже, считает иначе.」",
+   "orig": "Chris\n「That might be what you thought, Rosalie,\n　but apparently, Hilda doesn't feel the same.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Розали",
+   "text": "「Что?」",
+   "orig": "Rosalie\n「What?」"
+  },
+  {
+   "i": 206,
+   "speaker": "Хильда",
+   "text": "「Хмф. Только сейчас дошло?\n　Я никогда не считала нас подругами.」",
+   "orig": "Hilda\n「Hmph. You're just now realizing that?\n　I never considered us friends.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Хильда",
+   "text": "「Я просто делала вид, что лажу с вами,\n　чтобы жить было попроще, вот и всё.」",
+   "orig": "Hilda\n「I just pretended to get along with you\n　all to make my life easier, is all.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Розали",
+   "text": "「Хильда,\n　ах ты ведьма!」",
+   "orig": "Rosalie\n「Hilda,\n　you witch!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Крис",
+   "text": "「Это низко, Хильда.」",
+   "orig": "Chris\n「That's low, Hilda.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Салия",
+   "text": "「Испытательный срок — неделя.\n　А вы двое — успокойтесь, живо.」",
+   "orig": "Salia\n「Probation period is one week.\n　You two, calm down, right now.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Анж",
+   "text": "「Ты и правда умеешь заводить и беречь друзей.」",
+   "orig": "Ange\n「You sure know how to make and keep friends.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Хильда",
+   "text": "「Это искусство.」",
+   "orig": "Hilda\n「It's an art.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Анж",
+   "text": "「Охотно верю.」",
+   "orig": "Ange\n「I can imagine.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Хильда",
+   "text": "「Ну так что, Падшая принцесса,\n　что за парень этот Таск?」",
+   "orig": "Hilda\n「So, Fallen Princess,\n　who's that guy named Tusk?」"
+  },
+  {
+   "i": 215,
+   "speaker": "Анж",
+   "text": "「Не в настроении о нём говорить.」",
+   "orig": "Ange\n「I'm not in the mood to talk about him.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Хильда",
+   "text": "「Хмф. Мне-то досталось по полной, а у тебя,\n　похоже, было настоящее веселье.」",
+   "orig": "Hilda\n「Hmph. I had a miserable time, but it\n　sounds like you had some real fun.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Анж",
+   "text": "「Как бы не так.」",
+   "orig": "Ange\n「Hardly.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Анж",
+   "text": "「Меня стегали хлыстом перед толпой, которая улюлюкала \n　и освистывала меня, а потом меня собрались повесить.」",
+   "orig": "Ange\n「I was whipped in front of a large crowd who jeered \n　and booed me, and they prepared to hang me.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Хильда",
+   "text": "「Ух ты. Вот это праздник.」",
+   "orig": "Hilda\n「Wow. Quite the party.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Анж",
+   "text": "「А у тебя?」",
+   "orig": "Ange\n「You?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Хильда",
+   "text": "「Меня отметелили полсотни копов, которых я потом\n　сама отправила в больницу.」",
+   "orig": "Hilda\n「Got beat up by 50 cops whom I then\n　proceeded to put in the hospital.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Хильда",
+   "text": "「Когда подоспело их подкрепление, я решила, что мне конец.\n　Но тут влез этот парень, Акито, и спас мою шкуру.」",
+   "orig": "Hilda\n「When their backup showed, I thought I was done for.\n　But that guy, Akito, jumped in and saved my butt.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Анж",
+   "text": "「Ты встретилась с матерью?」",
+   "orig": "Ange\n「Did you meet your mother?」"
+  },
+  {
+   "i": 224,
+   "speaker": "Хильда",
+   "text": "「Да, насчёт этого…」",
+   "orig": "Hilda\n「Yeah, about that...」"
+  },
+  {
+   "i": 225,
+   "speaker": "Анж",
+   "text": "「Похоже, мы обе потратили время зря.\n　Тебя нашли раньше, чем ты успела её увидеть?」",
+   "orig": "Ange\n「Sounds like we both wasted our time.\n　They found you before you could meet your mother?」"
+  },
+  {
+   "i": 226,
+   "speaker": "Хильда",
+   "text": "「Нет, увидеться-то я с ней увиделась.」",
+   "orig": "Hilda\n「No, I met her alright.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Хильда",
+   "text": "「Но она от меня отвернулась.」",
+   "orig": "Hilda\n「But she turned her back on me.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Анж",
+   "text": "「Ох, Хильда…」",
+   "orig": "Ange\n「Oh, Hilda...」"
+  },
+  {
+   "i": 229,
+   "speaker": "Хильда",
+   "text": "「Меня привезли в Арзенал одиннадцать лет назад.\n　С того дня я думала только об одном, \n　только ради этого и выживала — снова её увидеть.」",
+   "orig": "Hilda\n「They brought me to Arzenal 11 years ago.\n　Since that day, the only thing I thought about, the \n　only thing I survived for, was meeting her again.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Хильда",
+   "text": "「Я была уверена, что она \n　простит мне то, что я Норма.\n　Но, видно, я просто себя обманывала.」",
+   "orig": "Hilda\n「I was sure that she would \n　forgive me for being a Norma.\n　But I guess I was just kidding myself.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Хильда",
+   "text": "「Пока меня не было, она родила ещё одну девочку.\n　И та, конечно же, владеет Маной, как все.\n　А назвала её мать… «Хильда».」",
+   "orig": "Hilda\n「She gave birth to another little girl while I was away.\n　Of course, she can use Mana like anyone else.\n　And my mother named her... \"Hilda.\"」"
+  },
+  {
+   "i": 232,
+   "speaker": "Анж",
+   "text": "「Я…」",
+   "orig": "Ange\n「I—」"
+  },
+  {
+   "i": 233,
+   "speaker": "Хильда",
+   "text": "「А меня переименовала в «Чудовище».」",
+   "orig": "Hilda\n「And renamed me \"Monster.\"」"
+  },
+  {
+   "i": 234,
+   "speaker": "Хильда",
+   "text": "「Чудовища! Все мы, Нормы, до единой! \n　Так что мне и возвращаться было некуда!」",
+   "orig": "Hilda\n「Monsters! Every one of us Normas! \n　So I never had a home to return to!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Анж",
+   "text": "「Да, но ты же здесь, верно?\n　Со своими подругами.」",
+   "orig": "Ange\n「Yeah, but you're here, aren't you?\n　With your friends.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Хильда",
+   "text": "「Подругами?\n　Друзья — это для дураков.」",
+   "orig": "Hilda\n「Friends?\n　Friends are for fools.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Акито",
+   "text": "「Хватит строить из себя крутую, Хильда.」",
+   "orig": "Akito\n「Enough of the tough talk, Hilda.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Анж",
+   "text": "「Акито.」",
+   "orig": "Ange\n「Akito.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Хильда",
+   "text": "「Да отстань ты. Сначала снисходительно лезешь\n　помогать, а теперь ещё и проповеди читать будешь?」",
+   "orig": "Hilda\n「Gimme a break. First you patronize me with your\n　help, and now you're going to sermonize, too?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Хильда",
+   "text": "「У тебя-то всё прекрасно и чудесно, да!\n　Тебе есть к кому вернуться — к любимой женщине!」",
+   "orig": "Hilda\n「All great and wonderful for you, huh!\n　You get to return to the woman you love!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Акито",
+   "text": "「Да, но до этого мне пришлось пройти через ад.」",
+   "orig": "Akito\n「Yes, but I fell on troubling times well before that.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Анж",
+   "text": "「И как ты сумел из него выбраться?」",
+   "orig": "Ange\n「How were you able to get yourself out of them?」"
+  },
+  {
+   "i": 243,
+   "speaker": "Акито",
+   "text": "「Это нелегко. Но возможно.」",
+   "orig": "Akito\n「It's not easy. But it can be done.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Акито",
+   "text": "「Друзья помогают. Рядом с ними правда легче.」",
+   "orig": "Akito\n「Friends help. They are a true comfort.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Хильда",
+   "text": "「Я же сказала.\n　Не нужны мне друзья!」",
+   "orig": "Hilda\n「I already told you.\n　I don't need friends!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Акито",
+   "text": "「Ты бросаешься резкими словами,\n　а сердце у тебя полно горечи.」",
+   "orig": "Akito\n「You spew tough words,\n　but your heart is full of sorrow.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Хильда",
+   "text": "「Да пошёл ты.」",
+   "orig": "Hilda\n「Screw you.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Акито",
+   "text": "「Извинись перед Розали и Крис.」",
+   "orig": "Akito\n「Apologize to Rosalie and Chris.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Хильда",
+   "text": "「Красиво говоришь,\n　да только что ты вообще знаешь?」",
+   "orig": "Hilda\n「You talk the talk,\n　but what the hell do you know?」"
+  },
+  {
+   "i": 250,
+   "speaker": "Анж",
+   "text": "「Хильда, прекрати.\n　Мне грустно это от тебя слышать.」",
+   "orig": "Ange\n「Hilda, stop it.\n　Makes me sad to hear you say that.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Хильда",
+   "text": "「Ах, ты теперь меня жалеешь?」",
+   "orig": "Hilda\n「Oh you pity me now, do you?」"
+  },
+  {
+   "i": 252,
+   "speaker": "Анж",
+   "text": "「Акито прав.\n　Тебе больно внутри.」",
+   "orig": "Ange\n「Akito's right.\n　You're hurting on the inside.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Хильда",
+   "text": "「А тебе-то что?」",
+   "orig": "Hilda\n「What do you care?」"
+  },
+  {
+   "i": 254,
+   "speaker": "Хильда",
+   "text": "「Я ведь уже говорила…\n　Что сказала, то и думаю, и слов назад не беру.」",
+   "orig": "Hilda\n「Like I said before...\n　I mean what I say, and I don't ever take it back.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Анж",
+   "text": "「Да… Я помню.」",
+   "orig": "Ange\n「Yeah... I remember.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Хильда",
+   "text": "「Ах. И что мне теперь делать?\n　Всё пропало, всё до последнего.」",
+   "orig": "Hilda\n「Ahh. What am I gonna do?\n　It's gone, all gone.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Хильда",
+   "text": "「У меня забрали деньги, комнату, всё подчистую.\n　И всё потому, что я сбежала. Жить незачем.\n　Лучше бы я сдохла.」",
+   "orig": "Hilda\n「They confiscated my money, my room, everything.\n　All because I deserted. There's no reason to live.\n　I'd be better off dead.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Анж",
+   "text": "「Не смей так говорить.\n　Сейчас тебе умирать нельзя.」",
+   "orig": "Ange\n「Don't say that.\n　You can't die now.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Хильда",
+   "text": "「Ха! И это говорит бывшая принцесса. Бесподобно!\n　Ну и ради чего мне жить, скажи?」",
+   "orig": "Hilda\n「Ha! Said the former princess. Just priceless!\n　Tell me, what's there to live for?」"
+  },
+  {
+   "i": 260,
+   "speaker": "Хильда",
+   "text": "「Я скатилась на самое дно по всем статьям, а ты \n　говоришь мне жить дальше? Не терять надежду?」",
+   "orig": "Hilda\n「I've hit the rock bottom of life in every way, and \n　you're telling me to live on? Not to throw away hope?」"
+  },
+  {
+   "i": 261,
+   "speaker": "Анж",
+   "text": "「Нет, просто мне будет жутко неудобно, \n　если ты умрёшь. Провоняешь тут всё.」",
+   "orig": "Ange\n「No, because it would be a big pain in the butt \n　if you died. You'd stink up the place.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Хильда",
+   "text": "「И всё? Мой труп провоняет тут всё?」",
+   "orig": "Hilda\n「That's it? My corpse would stink up the place?」"
+  },
+  {
+   "i": 263,
+   "speaker": "Анж",
+   "text": "「Ага.」",
+   "orig": "Ange\n「Yeah.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Хильда",
+   "text": "「Ну ты и штучка.」",
+   "orig": "Hilda\n「You're a piece of work.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Хильда",
+   "text": "「Ха-ха-ха!\n　Это же верх эгоизма!」",
+   "orig": "Hilda\n「Hahaha!\n　That has to be the height of selfishness!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Анж",
+   "text": "「Никакой надежды не существует.」",
+   "orig": "Ange\n「There's no such thing as hope.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Хильда",
+   "text": "「А?」",
+   "orig": "Hilda\n「Huh?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Анж",
+   "text": "「Ты правда думаешь, что надежда бывает?\n　Для нас, Норм, есть только война. А когда\n　бои кончатся — зачем нам вообще существовать?」",
+   "orig": "Ange\n「Yeah, you think there's really such thing as hope?\n　For us Normas there's only warfare. And when\n　the fighting's done, what reason to exist is there?」"
+  },
+  {
+   "i": 269,
+   "speaker": "Анж",
+   "text": "「Это настолько нелепо, что остаётся только смеяться!\n　Презрение въелось в головы обычных людей намертво.\n　И только Нормы отказываются это признавать.」",
+   "orig": "Ange\n「It's so utterly ludicrous, all you can do is laugh!\n　Discrimination is etched into the mind of the average\n　person. Only Normas are in denial of this fact.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Анж",
+   "text": "「Почему неумение владеть Маной — это так ужасно?\n　Разве быть другой — такое уж преступление?」",
+   "orig": "Ange\n「Why is the inability to use Mana such a terrible thing?\n　Is it so wrong to be different?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Анж",
+   "text": "「В Мисуруги всё — сплошная ложь!\n　Друзья… семья… узы…\n　Да к чёрту всё это!」",
+   "orig": "Ange\n「Everything about Misurugi is a lie!\n　Friends... family... bonds...\n　To hell with it all!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Хильда",
+   "text": "「Э-эй!」",
+   "orig": "Hilda\n「W-whoa!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Анж",
+   "text": "「Дружба прекрасна, узы священны…\n　Хочется съездить себе по лицу за то, что я так\n　бесстыдно верила в эту очевидную ложь!」",
+   "orig": "Ange\n「Friendship is wonderful, bonds are beautiful;\n　I want to punch myself for so unabashedly\n　believing in the obvious lie of it all!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Хильда",
+   "text": "「Ты что, с ума сошла?」",
+   "orig": "Hilda\n「Are you nuts, or something?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Анж",
+   "text": "「Определённо; я полная дура!\n　Как и все остальные!\n　Этот мир прогнил до самой сердцевины!」",
+   "orig": "Ange\n「Most definitely; a complete fool!\n　Just like everyone else!\n　This world is rotten to the core!」"
+  },
+  {
+   "i": 276,
+   "speaker": "Анж",
+   "text": "「Ну что, разнесём его к чертям?」",
+   "orig": "Ange\n「What do you say, we destroy it all?」"
+  },
+  {
+   "i": 277,
+   "speaker": "Хильда",
+   "text": "「Что?! Ты серьёзно?」",
+   "orig": "Hilda\n「What?! Are you serious?」"
+  },
+  {
+   "i": 278,
+   "speaker": "Анж",
+   "text": "「Нам это по силам.\n　Если объединить мощь «Надэсико»\n　и «Селестиал Бин».」",
+   "orig": "Ange\n「We could do it.\n　If we used the combined power of the Nadesico\n　and Celestial Being.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Анж",
+   "text": "「А если и этого будет мало,\n　можно прыгнуть в измерение Вселенского века\n　и позвать тамошних к нам!」",
+   "orig": "Ange\n「And if that's not enough,\n　we could jump to the Universal Century dimension,\n　and get them to join us!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Хильда",
+   "text": "「Вот теперь ты меня начинаешь пугать.」",
+   "orig": "Hilda\n「Now you're starting to scare me.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Анж",
+   "text": "「Я выбью спесь из Стран-основателей\n　с их так называемой «историей».」",
+   "orig": "Ange\n「I'm going to crush the arrogance from the\n　Founding Nations with their so-called \"history.\"」"
+  },
+  {
+   "i": 282,
+   "speaker": "Анж",
+   "text": "「Я отвергаю гнёт этого мира, его унижения и\n　презрение ко мне! Этот мир не дал мне ничего,\n　кроме оскорблений и ярости!」",
+   "orig": "Ange\n「I reject this world's oppression, humiliation, and\n　contempt for me! This world hasn't done anything\n　but insult and enrage me!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Хильда",
+   "text": "「Ну что ж, тогда я с тобой. У меня тоже найдётся\n　пара людей и мест, которые я бы с радостью снесла.」",
+   "orig": "Hilda\n「Well, then, let me join you. I can think of a few\n　people and places I'd like to destroy, as well.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Анж",
+   "text": "「Например?」",
+   "orig": "Ange\n「Like?」"
+  },
+  {
+   "i": 285,
+   "speaker": "Хильда",
+   "text": "「В первую очередь — этих вонючих копов.」",
+   "orig": "Hilda\n「First and foremost, those stinking cops.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Сэцуна",
+   "text": "「Анж! Хильда!\n　Вас выпускают!」",
+   "orig": "Setsuna\n「Ange! Hilda!\n　You're being released!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Анж",
+   "text": "「Я думала, нас заперли на неделю.」",
+   "orig": "Ange\n「I thought we were confined for a week.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Атрун",
+   "text": "「Нет времени объяснять!」",
+   "orig": "Athrun\n「There's no time for explaining!」"
+  },
+  {
+   "i": 289,
+   "speaker": "Синн",
+   "text": "「Оно приближается!」",
+   "orig": "Shinn\n「It's coming!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Хильда",
+   "text": "「Что приближается?」",
+   "orig": "Hilda\n「What's coming?」"
+  },
+  {
+   "i": 291,
+   "speaker": "？？？",
+   "text": "「!!!」",
+   "orig": "？？？\n「!!!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Анж",
+   "text": "「Дракон!」",
+   "orig": "Ange\n「A Dragon!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Хильда",
+   "text": "「Внутри Арзенала?!」",
+   "orig": "Hilda\n「Inside Arzenal?!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Синн",
+   "text": "「Это мы сами хотели бы узнать!」",
+   "orig": "Shinn\n「That's what we want to ask!」"
+  },
+  {
+   "i": 295,
+   "speaker": "Атрун",
+   "text": "「Он внезапно появился\n　в жилом блоке!」",
+   "orig": "Athrun\n「It suddenly appeared in the\n　residential block!」"
+  },
+  {
+   "i": 296,
+   "speaker": "？？？",
+   "text": "「～～～～～」",
+   "orig": "？？？\n「～～～～～」"
+  },
+  {
+   "i": 297,
+   "speaker": "Анж",
+   "text": "「Что?」",
+   "orig": "Ange\n「What?」"
+  },
+  {
+   "i": 298,
+   "speaker": "？？？",
+   "text": "「～～! ～～! ～～!」",
+   "orig": "？？？\n「～～! ～～! ～～!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Анж",
+   "text": "「Этот дракон… поёт.」",
+   "orig": "Ange\n「That Dragon is... singing.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Анж",
+   "text": "（Это же песня мамы.）",
+   "orig": "Ange\n（That's Mother's song.）"
+  },
+  {
+   "i": 301,
+   "speaker": "Атрун",
+   "text": "「Этот дракон знает твою песню, Анж.」",
+   "orig": "Athrun\n「That Dragon knows your song, Ange.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Синн",
+   "text": "「Да плевать! Я открываю огонь!」",
+   "orig": "Shinn\n「I don't care! I'm opening fire!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Сэцуна",
+   "text": "「Стой, Синн!\n　Не стреляй!」",
+   "orig": "Setsuna\n「Wait, Shinn!\n　Don't shoot!」"
+  },
+  {
+   "i": 304,
+   "speaker": "？？？",
+   "text": "「!」",
+   "orig": "？？？\n「!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Вивиан",
+   "text": "「…」",
+   "orig": "Vivian\n「...」"
+  },
+  {
+   "i": 306,
+   "speaker": "Хильда",
+   "text": "「Вивиан?!\n　Этот дракон превратился в Вивиан!」",
+   "orig": "Hilda\n「Vivian?!\n　That Dragon transformed into Vivian!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Синн",
+   "text": "「Да что здесь вообще происходит?」",
+   "orig": "Shinn\n「What on earth is going on?」"
+  },
+  {
+   "i": 308,
+   "speaker": "Джилл",
+   "text": "「Мэгги!\n　Неси ингибитор!」",
+   "orig": "Jill\n「Maggie!\n　Bring the inhibitor!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Мэгги",
+   "text": "「Чёрт!\n　Стоило съездить в империю Мисуруги —\n　и кровь Вивиан пробудилась!」",
+   "orig": "Maggie\n「Crap!\n　A trip to the Misurugi Empire,\n　and Vivian's blood awakens!」"
+  },
+  {
+   "i": 310,
+   "speaker": "Анж",
+   "text": "「Командир.」",
+   "orig": "Ange\n「Commander.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Джилл",
+   "text": "「Значит, ты всё видела.」",
+   "orig": "Jill\n「So you witnessed, did you?」"
+  },
+  {
+   "i": 312,
+   "speaker": "Анж",
+   "text": "「Что вы скрываете, командир?」",
+   "orig": "Ange\n「What are you hiding, Commander?」"
+  },
+  {
+   "i": 313,
+   "speaker": "Джилл",
+   "text": "「Я не думаю…」",
+   "orig": "Jill\n「I don't think—」"
+  },
+  {
+   "i": 314,
+   "speaker": "Анж",
+   "text": "「Довольно. Вы расскажете мне\n　о драконах, о «Виллькиссе» —\n　и о нашем мире.」",
+   "orig": "Ange\n「Enough. You're going to tell me\n　about the Dragons, the Villkiss—\n　and our world.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Найн",
+   "text": "「Ох!」",
+   "orig": "Nine\n「Oh my!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Таск",
+   "text": "「Ч-что-то не так?」",
+   "orig": "Tusk\n「I-is anything the matter?」"
+  },
+  {
+   "i": 320,
+   "speaker": "Найн",
+   "text": "「Мои сенсоры реагируют на тебя.\n　Ты… враг всех женщин.」",
+   "orig": "Nine\n「My sensors are reacting to you.\n　You... are women's enemy.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Таск",
+   "text": "「Н-ну, то ли это был промысел божий, то ли случайность, \n　то ли просто везение — у нас с Анж многое было, но…」",
+   "orig": "Tusk\n「W-well, whether it was an act of God, accidental or \n　just luck, Ange and I have been through a lot but—」"
+  },
+  {
+   "i": 322,
+   "speaker": "Найн",
+   "text": "「Я заметила, что в бою\n　ты очень серьёзно относишься\n　к своей задаче прикрывать Анж.」",
+   "orig": "Nine\n「I've noticed that during battle,\n　you take your job of\n　backing Ange very seriously.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Найн",
+   "text": "「Проанализировав твои действия,\n　мой тактический процессор получил данные,\n　эквивалентные 100 ТакО.」",
+   "orig": "Nine\n「By analyzing your actions,\n　my tactical processing capacity gained data\n　equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 324,
+   "speaker": "Таск",
+   "text": "「Э-э, не очень понял, но, наверное, это хорошо.」",
+   "orig": "Tusk\n「Uh, not sure what that means, but good deal, I guess.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Найн",
+   "text": "「Пусть ты и враг женщин вообще,\n　но я признаю тебя другом Анж.」",
+   "orig": "Nine\n「You might be women's enemy in general,\n　but I recognize you as Ange's friend.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Таск",
+   "text": "「Что ж, рад, что развеял твои подозрения.」",
+   "orig": "Tusk\n「I'm glad I cleared up your suspicions, then.」"
+  },
+  {
+   "i": 327,
+   "speaker": "$n",
+   "text": "「Погоди-ка минутку.\n　Нас ты пока ни в чём не убедил.」",
+   "orig": "$n\n「Hold on just a second.\n　We're still not convinced of that yet.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Сабуроута",
+   "text": "「Не будешь ли так любезен рассказать, как\n　вы с Анж провели ту неделю?」",
+   "orig": "Saburouta\n「Would you be kind enough to tell us how\n　you and Ange spent that week?」"
+  },
+  {
+   "i": 329,
+   "speaker": "Синн",
+   "text": "「До большого объявления командира\n　у нас ещё есть время.」",
+   "orig": "Shinn\n「We still have time before the\n　commander's big announcement.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Локон",
+   "text": "「Ага, выкладывай всё!」",
+   "orig": "Lockon\n「Yeah, tell us everything!」"
+  },
+  {
+   "i": 331,
+   "speaker": "Таск",
+   "text": "「А-Атрун!\n　Выручай, а?」",
+   "orig": "Tusk\n「A-Athrun!\n　Help me out here?」"
+  },
+  {
+   "i": 332,
+   "speaker": "Атрун",
+   "text": "「Сам виноват, Таск.」",
+   "orig": "Athrun\n「It's your own fault, Tusk.」"
+  },
+  {
+   "i": 333,
+   "speaker": "Таск",
+   "text": "「Атрун, ты же не держишь на меня зла за то,\n　что случилось $kwbна том острове$kwe?\n　Хочешь сказать, я был обузой?」",
+   "orig": "Tusk\n「Athrun, you don't begrudge me for\n　what happened $kwbOn That Island$kwe, do you?\n　Are you saying I was a burden?」"
+  },
+  {
+   "i": 334,
+   "speaker": "Атрун",
+   "text": "「Ну, в общем-то…」",
+   "orig": "Athrun\n「Yeah, well...」"
+  },
+  {
+   "i": 335,
+   "speaker": "Таск",
+   "text": "「Значит, держишь!」",
+   "orig": "Tusk\n「So you do!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Акито",
+   "text": "「Ладно, пойдём.」",
+   "orig": "Akito\n「Alright, let's go.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Таск",
+   "text": "「Н-ну зачем же вы все так со мной сурово?」",
+   "orig": "Tusk\n「Y-you all don't have to be so hard on me, do you?」"
+  },
+  {
+   "i": 338,
+   "speaker": "$n",
+   "text": "「Найн, ты с нами?」",
+   "orig": "$n\n「Nine, are you coming, too?」"
+  },
+  {
+   "i": 339,
+   "speaker": "Найн",
+   "text": "「Пожалуй, воздержусь.」",
+   "orig": "Nine\n「I'll pass.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Найн",
+   "text": "「Ох!」",
+   "orig": "Nine\n「Oh my!」"
+  },
+  {
+   "i": 341,
+   "speaker": "Таск",
+   "text": "「Ч-что-то не так?」",
+   "orig": "Tusk\n「I-is anything the matter?」"
+  },
+  {
+   "i": 342,
+   "speaker": "Найн",
+   "text": "「Мои сенсоры реагируют на тебя.\n　Ты… враг всех женщин.」",
+   "orig": "Nine\n「My sensors are reacting to you.\n　You... are women's enemy.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Таск",
+   "text": "「Н-ну, то ли это был промысел божий, то ли случайность, \n　то ли просто везение — у нас с Анж многое было, но…」",
+   "orig": "Tusk\n「W-well, whether it was an act of God, accidental or \n　just luck, Ange and I have been through a lot but—」"
+  },
+  {
+   "i": 344,
+   "speaker": "Найн",
+   "text": "「Я заметила, что в бою\n　ты очень серьёзно относишься\n　к своей задаче прикрывать Анж.」",
+   "orig": "Nine\n「I've noticed that during battle,\n　you take your job of\n　backing Ange very seriously.」"
+  },
+  {
+   "i": 345,
+   "speaker": "Найн",
+   "text": "「Проанализировав твои действия,\n　мой тактический процессор получил данные,\n　эквивалентные 100 ТакО.」",
+   "orig": "Nine\n「By analyzing your actions,\n　my tactical processing capacity gained data\n　equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Таск",
+   "text": "「Э-э, не очень понял, но, наверное, это хорошо.」",
+   "orig": "Tusk\n「Uh, not sure what that means, but good deal, I guess.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Найн",
+   "text": "「Пусть ты и враг женщин вообще,\n　но я признаю тебя другом Анж.」",
+   "orig": "Nine\n「You might be women's enemy in general,\n　but I recognize you as Ange's friend.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Таск",
+   "text": "「Что ж, рад, что развеял твои подозрения.」",
+   "orig": "Tusk\n「I'm glad I cleared up your suspicions, then.」"
+  },
+  {
+   "i": 349,
+   "speaker": "$n",
+   "text": "「Погоди-ка минутку.\n　Нас ты пока ни в чём не убедил.」",
+   "orig": "$n\n「Hold on just a second.\n　We're still not convinced of that yet.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Сабуроута",
+   "text": "「Не будешь ли так любезен рассказать, как\n　вы с Анж провели ту неделю?」",
+   "orig": "Saburouta\n「Would you be kind enough to tell us how\n　you and Ange spent that week?」"
+  },
+  {
+   "i": 351,
+   "speaker": "Синн",
+   "text": "「До большого объявления командира\n　у нас ещё есть время.」",
+   "orig": "Shinn\n「We still have time before the\n　commander's big announcement.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Локон",
+   "text": "「Ага, выкладывай всё!」",
+   "orig": "Lockon\n「Yeah, tell us everything!」"
+  },
+  {
+   "i": 353,
+   "speaker": "Таск",
+   "text": "「А-Атрун!\n　Выручай, а?」",
+   "orig": "Tusk\n「A-Athrun!\n　Help me out here?」"
+  },
+  {
+   "i": 354,
+   "speaker": "Атрун",
+   "text": "「Сам виноват, Таск.」",
+   "orig": "Athrun\n「It's your own fault, Tusk.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Таск",
+   "text": "「Атрун, ты же не держишь на меня зла за то,\n　что случилось $kwbна том острове$kwe?\n　Хочешь сказать, я был обузой?」",
+   "orig": "Tusk\n「Athrun, you don't begrudge me for\n　what happened $kwbOn That Island$kwe, do you?\n　Are you saying I was a burden?」"
+  },
+  {
+   "i": 356,
+   "speaker": "Атрун",
+   "text": "「Ну, в общем-то…」",
+   "orig": "Athrun\n「Yeah, well...」"
+  },
+  {
+   "i": 357,
+   "speaker": "Таск",
+   "text": "「Значит, держишь!」",
+   "orig": "Tusk\n「So you do!」"
+  },
+  {
+   "i": 358,
+   "speaker": "Акито",
+   "text": "「Ладно, пойдём.」",
+   "orig": "Akito\n「Alright, let's go.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Таск",
+   "text": "「Н-ну зачем же вы все так со мной сурово?」",
+   "orig": "Tusk\n「Y-you all don't have to be so hard on me, do you?」"
+  },
+  {
+   "i": 360,
+   "speaker": "$n",
+   "text": "「Найн, тоже хочешь послушать его историю?\n　Вдруг соберёшь по-настоящему сочные данные.」",
+   "orig": "$n\n「You want to hear his story, too, Nine?\n　You might pick up some real juicy data.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Найн",
+   "text": "「Это было бы крайне дурным тоном.」",
+   "orig": "Nine\n「It would be in very bad taste, Sis.」"
+  },
+  {
+   "i": 362,
+   "speaker": "$n",
+   "text": "「Н-но мне же интересно, что там было…」",
+   "orig": "$n\n「B-but I kind of want to know what happened...」"
+  },
+  {
+   "i": 363,
+   "speaker": "Найн",
+   "text": "「Какая пошлость.」",
+   "orig": "Nine\n「Perv.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Найн",
+   "text": "「Ох!」",
+   "orig": "Nine\n「Oh my!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Таск",
+   "text": "「Ч-что-то не так?」",
+   "orig": "Tusk\n「I-is anything the matter?」"
+  },
+  {
+   "i": 369,
+   "speaker": "Найн",
+   "text": "「Мои сенсоры реагируют на тебя.\n　Ты… враг всех женщин.」",
+   "orig": "Nine\n「My sensors are reacting to you.\n　You... are women's enemy.」"
+  },
+  {
+   "i": 370,
+   "speaker": "Таск",
+   "text": "「Н-ну, то ли это был промысел божий, то ли случайность, \n　то ли просто везение — у нас с Анж многое было, но…」",
+   "orig": "Tusk\n「W-well, whether it was an act of God, accidental or \n　just luck, Ange and I have been through a lot but—」"
+  },
+  {
+   "i": 371,
+   "speaker": "Найн",
+   "text": "「И всё же ты действительно рисковал \n　собственной жизнью, чтобы спасти Анж.」",
+   "orig": "Nine\n「However, it is true that you risked \n　your own life to save Ange's.」"
+  },
+  {
+   "i": 372,
+   "speaker": "Найн",
+   "text": "「Пусть ты и враг женщин вообще,\n　но я признаю тебя другом Анж.」",
+   "orig": "Nine\n「You might be women's enemy in general,\n　but I recognize you as Ange's friend.」"
+  },
+  {
+   "i": 373,
+   "speaker": "Таск",
+   "text": "「Что ж, рад, что развеял твои подозрения.」",
+   "orig": "Tusk\n「I'm glad I cleared up your suspicions, then.」"
+  },
+  {
+   "i": 374,
+   "speaker": "$n",
+   "text": "「Погоди-ка минутку.\n　Нас ты пока ни в чём не убедил.」",
+   "orig": "$n\n「Hold on just a second.\n　We're still not convinced of that yet.」"
+  },
+  {
+   "i": 375,
+   "speaker": "Сабуроута",
+   "text": "「Не будешь ли так любезен рассказать, как\n　вы с Анж провели ту неделю?」",
+   "orig": "Saburouta\n「Would you be kind enough to tell us how\n　you and Ange spent that week?」"
+  },
+  {
+   "i": 376,
+   "speaker": "Синн",
+   "text": "「До большого объявления командира\n　у нас ещё есть время.」",
+   "orig": "Shinn\n「We still have time before the\n　commander's big announcement.」"
+  },
+  {
+   "i": 377,
+   "speaker": "Локон",
+   "text": "「Ага, выкладывай всё!」",
+   "orig": "Lockon\n「Yeah, tell us everything!」"
+  },
+  {
+   "i": 378,
+   "speaker": "Таск",
+   "text": "「А-Атрун!\n　Выручай, а?」",
+   "orig": "Tusk\n「A-Athrun!\n　Help me out here?」"
+  },
+  {
+   "i": 379,
+   "speaker": "Атрун",
+   "text": "「Сам виноват, Таск.」",
+   "orig": "Athrun\n「It's your own fault, Tusk.」"
+  },
+  {
+   "i": 380,
+   "speaker": "Таск",
+   "text": "「Атрун, ты же не держишь на меня зла за то,\n　что случилось $kwbна том острове$kwe?\n　Хочешь сказать, я был обузой?」",
+   "orig": "Tusk\n「Athrun, you don't begrudge me for\n　what happened $kwbOn That Island$kwe, do you?\n　Are you saying I was a burden?」"
+  },
+  {
+   "i": 381,
+   "speaker": "Атрун",
+   "text": "「Ну, в общем-то…」",
+   "orig": "Athrun\n「Yeah, well...」"
+  },
+  {
+   "i": 382,
+   "speaker": "Таск",
+   "text": "「Значит, держишь!」",
+   "orig": "Tusk\n「So you do!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Акито",
+   "text": "「Ладно, пойдём.」",
+   "orig": "Akito\n「Alright, let's go.」"
+  },
+  {
+   "i": 384,
+   "speaker": "Таск",
+   "text": "「Н-ну зачем же вы все так со мной сурово?」",
+   "orig": "Tusk\n「Y-you all don't have to be so hard on me, do you?」"
+  },
+  {
+   "i": 385,
+   "speaker": "$n",
+   "text": "「Найн, ты с нами?」",
+   "orig": "$n\n「Nine, are you coming, too?」"
+  },
+  {
+   "i": 386,
+   "speaker": "Найн",
+   "text": "「Пожалуй, воздержусь.」",
+   "orig": "Nine\n「I'll pass.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Найн",
+   "text": "「Ох!」",
+   "orig": "Nine\n「Oh my!」"
+  },
+  {
+   "i": 388,
+   "speaker": "Таск",
+   "text": "「Ч-что-то не так?」",
+   "orig": "Tusk\n「I-is anything the matter?」"
+  },
+  {
+   "i": 389,
+   "speaker": "Найн",
+   "text": "「Мои сенсоры реагируют на тебя.\n　Ты… враг всех женщин.」",
+   "orig": "Nine\n「My sensors are reacting to you.\n　You... are women's enemy.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Таск",
+   "text": "「Н-ну, то ли это был промысел божий, то ли случайность, \n　то ли просто везение — у нас с Анж многое было, но…」",
+   "orig": "Tusk\n「W-well, whether it was an act of God, accidental or \n　just luck, Ange and I have been through a lot but—」"
+  },
+  {
+   "i": 391,
+   "speaker": "Найн",
+   "text": "「И всё же ты действительно рисковал \n　собственной жизнью, чтобы спасти Анж.」",
+   "orig": "Nine\n「However, it is true that you risked \n　your own life to save Ange's.」"
+  },
+  {
+   "i": 392,
+   "speaker": "Найн",
+   "text": "「Пусть ты и враг женщин вообще,\n　но я признаю тебя другом Анж.」",
+   "orig": "Nine\n「You might be women's enemy in general,\n　but I recognize you as Ange's friend.」"
+  },
+  {
+   "i": 393,
+   "speaker": "Таск",
+   "text": "「Что ж, рад, что развеял твои подозрения.」",
+   "orig": "Tusk\n「I'm glad I cleared up your suspicions, then.」"
+  },
+  {
+   "i": 394,
+   "speaker": "$n",
+   "text": "「Погоди-ка минутку.\n　Нас ты пока ни в чём не убедил.」",
+   "orig": "$n\n「Hold on just a second.\n　We're still not convinced of that yet.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Сабуроута",
+   "text": "「Не будешь ли так любезен рассказать, как\n　вы с Анж провели ту неделю?」",
+   "orig": "Saburouta\n「Would you be kind enough to tell us how\n　you and Ange spent that week?」"
+  },
+  {
+   "i": 396,
+   "speaker": "Синн",
+   "text": "「До большого объявления командира\n　у нас ещё есть время.」",
+   "orig": "Shinn\n「We still have time before the\n　commander's big announcement.」"
+  },
+  {
+   "i": 397,
+   "speaker": "Локон",
+   "text": "「Ага, выкладывай всё!」",
+   "orig": "Lockon\n「Yeah, tell us everything!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Таск",
+   "text": "「А-Атрун!\n　Выручай, а?」",
+   "orig": "Tusk\n「A-Athrun!\n　Help me out here?」"
+  },
+  {
+   "i": 399,
+   "speaker": "Атрун",
+   "text": "「Сам виноват, Таск.」",
+   "orig": "Athrun\n「It's your own fault, Tusk.」"
+  },
+  {
+   "i": 400,
+   "speaker": "Таск",
+   "text": "「Атрун, ты же не держишь на меня зла за то,\n　что случилось $kwbна том острове$kwe?\n　Хочешь сказать, я был обузой?」",
+   "orig": "Tusk\n「Athrun, you don't begrudge me for\n　what happened $kwbOn That Island$kwe, do you?\n　Are you saying I was a burden?」"
+  },
+  {
+   "i": 401,
+   "speaker": "Атрун",
+   "text": "「Ну, в общем-то…」",
+   "orig": "Athrun\n「Yeah, well...」"
+  },
+  {
+   "i": 402,
+   "speaker": "Таск",
+   "text": "「Значит, держишь!」",
+   "orig": "Tusk\n「So you do!」"
+  },
+  {
+   "i": 403,
+   "speaker": "Акито",
+   "text": "「Ладно, пойдём.」",
+   "orig": "Akito\n「Alright, let's go.」"
+  },
+  {
+   "i": 404,
+   "speaker": "Таск",
+   "text": "「Н-ну зачем же вы все так со мной сурово?」",
+   "orig": "Tusk\n「Y-you all don't have to be so hard on me, do you?」"
+  },
+  {
+   "i": 405,
+   "speaker": "$n",
+   "text": "「Найн, тоже хочешь послушать его историю?\n　Вдруг соберёшь по-настоящему сочные данные.」",
+   "orig": "$n\n「You want to hear his story, too, Nine?\n　You might pick up some real juicy data.」"
+  },
+  {
+   "i": 406,
+   "speaker": "Найн",
+   "text": "「Это было бы крайне дурным тоном.」",
+   "orig": "Nine\n「It would be in very bad taste, Sis.」"
+  },
+  {
+   "i": 407,
+   "speaker": "$n",
+   "text": "「Н-но мне же интересно, что там было…」",
+   "orig": "$n\n「B-but I kind of want to know what happened...」"
+  },
+  {
+   "i": 408,
+   "speaker": "Найн",
+   "text": "「Какая пошлость.」",
+   "orig": "Nine\n「Perv.」"
+  }
+ ]
+}

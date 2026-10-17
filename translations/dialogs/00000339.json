@@ -1,0 +1,3346 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Меран",
+   "text": "「Капитан Тестаросса,\n　для вас приготовлено место. Прошу сюда.」",
+   "orig": "Meran\n「Captain Testarossa,\n　We've prepared a seat for you. Please come this way.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Тесса",
+   "text": "「Благодарю.」",
+   "orig": "Tessa\n「Thank you.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Тесса",
+   "text": "（Если верить докладу Банагера и Хатауэя,\n　раз Канамэ в Дакаре, то велика вероятность,\n　что Леонард тоже здесь.）",
+   "orig": "Tessa\n（Just as Banagher and Hathaway reported,\n　if Kaname is in Dakar then there's a good chance\n　that Leonard is here too.）"
+  },
+  {
+   "i": 3,
+   "speaker": "Тесса",
+   "text": "（А раз Леонард выходит на поле боя, там же будет\n　и ключ к разгадке его намерений.）",
+   "orig": "Tessa\n（As long as Leonard is coming to the battlefield,\n　the key to finding out his intentions will be there too.）"
+  },
+  {
+   "i": 4,
+   "speaker": "Марта",
+   "text": "「Надо же, эти беглецы объявились в Дакаре.」",
+   "orig": "Martha\n「The idea that those fugitives would show up in Dakar.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Ронан",
+   "text": "「Нас они и пальцем не тронут.\n　Джон Бауэр это гарантирует.」",
+   "orig": "Ronan\n「Those guys won't put a hand on us.\n　John Bauer is guaranteeing that.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Марта",
+   "text": "「Пусть этот сторожевой пёс и не слушается\n　хозяина, свою роль он всё же исполняет.\n　Иначе говоря, польза от него есть.」",
+   "orig": "Martha\n「Even if that guard dog doesn't listen to its owner,\n　he's still carrying out his role.\n　In other words, there are some value in using him.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Марта",
+   "text": "「А главное, стоит нам заполучить ту самую вещь,\n　и мы вышвырнем Нео-Зеон — с их помощью\n　или без неё.」",
+   "orig": "Martha\n「Above all, if we can just get our hands on that thing,\n　we'll be able to drive out Neo Zeon\n　with or without those guys.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Ронан",
+   "text": "「Расследование идёт полным ходом.\n　И благодаря содействию вашего «Анахайма»\n　точность наших данных заметно выросла.」",
+   "orig": "Ronan\n「The investigation is proceeding apace.\n　And thanks to the cooperation of you folks at Anaheim,\n　the accuracy of our data has probably improved as well.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Марта",
+   "text": "「Мы, со своей стороны, тоже не можем закрывать\n　глаза на бесчинства Нео-Зеона.」",
+   "orig": "Martha\n「For our part as well, we can't ignore\n　the tyranny of Neo Zeon.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Ронан",
+   "text": "（Настоящие торговцы войной. Подправляют чашу\n　весов, когда та слишком клонится в одну сторону,\n　и управляют ходом войны.）",
+   "orig": "Ronan\n（True merchants of war. Adjusting the scale\n　when it's tilted too far in one direction,\n　and controlling the tide of the war.）"
+  },
+  {
+   "i": 11,
+   "speaker": "Ронан",
+   "text": "「Поступил доклад: наземный отряд Нео-Зеона\n　прорвал первую линию обороны.\n　Нам лучше уйти в убежище.」",
+   "orig": "Ronan\n「We've received a report that Neo Zeon's\n　ground team has penetrated the primary line of defense.\n　We'd better head for the shelter.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Марта",
+   "text": "「Поняла.\n　Теперь всё зависит от доблести «Лондо Белл».」",
+   "orig": "Martha\n「Understood.\n　Now it all depends on the brave fighting of Londo Bell.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Лиам",
+   "text": "「Отряд Нео-Зеона подтверждён!」",
+   "orig": "Liam\n「Neo Zeon squad confirmed!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Отто",
+   "text": "「Даже гигантская мобильная броня тут, значит?」",
+   "orig": "Otto\n「Even giant mobile armor is here, huh?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Брайт",
+   "text": "「Всем подразделениям — вылет!\n　Защитить Дакар!」",
+   "orig": "Bright\n「All units, take off!\n　Defend Dakar!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Лони",
+   "text": "「Хм-м...」",
+   "orig": "Loni\n「Hmm...」"
+  },
+  {
+   "i": 17,
+   "speaker": "Киркс",
+   "text": "「Как самочувствие, Лони?」",
+   "orig": "Kirks\n「How's it going, Loni?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Лони",
+   "text": "「Чувствую себя отлично.\n　И «Шамбло», оставшийся мне от отца,\n　тоже без единой проблемы.」",
+   "orig": "Loni\n「I'm feeling pretty good.\n　And the Shamblo that my father left me\n　isn't having any problems either.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Роммель",
+   "text": "「Лони Гарви.\n　Сражайся изо всех сил и исполни последнюю\n　волю твоего отца, Махди Гарви.」",
+   "orig": "Rommel\n「Loni Garvey.\n　Fight your heart out, and fulfill your father\n　Mahdi Garvey's last wishes.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Лони",
+   "text": "「Моего отца убила Федерация!\n　Я сведу с ними счёты этими самыми руками!」",
+   "orig": "Loni\n「My father, killed by the Federation!\n　I'll settle that score with these hands!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Джудо",
+   "text": "「Шишки из Федерации! Делайте что хотите,\n　но вы даже не дали горожанам\n　шанса укрыться!」",
+   "orig": "Judau\n「Federation bigwigs! You're free to do\n　what you please, but you didn't even\n　give the citizens a chance to seek refuge!」"
+  },
+  {
+   "i": 22,
+   "speaker": "$n",
+   "text": "「Это ложится на нас серьёзной ответственностью.」",
+   "orig": "$n\n「That's gonna be a significant responsibility for us.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Тобиа",
+   "text": "「Хатауэй, Банагер, вы справитесь?」",
+   "orig": "Tobia\n「Hathaway, Banagher, are you up to this?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Хатауэй",
+   "text": "「Если бы не справились, нас бы здесь не было.」",
+   "orig": "Hathaway\n「If we didn't think so, we wouldn't be here.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Амуро",
+   "text": "「Похоже, ты немного остыл.」",
+   "orig": "Amuro\n「Looks like you've cooled down a bit.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Кинкейд",
+   "text": "「Ну, им пришлось побывать в плену у врага\n　и сбежать оттуда обратно к нам.」",
+   "orig": "Kincade\n「Well, they did go through being captured by the enemy\n　and then escaping back here.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Хатауэй",
+   "text": "「Банагер.」",
+   "orig": "Hathaway\n「Banagher.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Банагер",
+   "text": "「Я почему-то чувствую это.\n　Я просто знаю: Лони в той мобильной броне.」",
+   "orig": "Banagher\n「Somehow I can tell.\n　I just know that Loni is in that mobile armor.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Хатауэй",
+   "text": "「Она не должна сражаться!\n　Мы обязаны её остановить!」",
+   "orig": "Hathaway\n「She should not be fighting!\n　We've got to stop her!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Банагер",
+   "text": "「Именно!」",
+   "orig": "Banagher\n「That's right!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Амуро",
+   "text": "「Ядро вражеской силы — эта гигантская\n　мобильная броня. Бить по ней в первую очередь.」",
+   "orig": "Amuro\n「The nucleus of the enemy's power is that giant\n　mobile armor We need to target it as our top priority.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Найджел",
+   "text": "「Осторожно!\n　Машины остальных отрядов пусть и старые,\n　но начинка у них модернизированная!」",
+   "orig": "Nigel\n「Be careful!\n　The mobile units of these other groups may be old,\n　but their insides have been upgraded!」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Видно, эта любовь к ретро у них вроде мании.」",
+   "orig": "$n\n「I guess this retro fetish is a form of obsession.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Брайт",
+   "text": "「Всем подразделениям — быстрее!\n　Мы обязаны отстоять Дакар любой ценой!」",
+   "orig": "Bright\n「All units, hurry!\n　We've got to defend Dakar no matter what!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Канамэ",
+   "text": "「Хм.」",
+   "orig": "Kaname\n「Hmph.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Леонард",
+   "text": "「Ты как будто не в духе.」",
+   "orig": "Leonard\n「You look like you're in a bad mood.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Канамэ",
+   "text": "「А был хоть один раз, когда рядом с тобой\n　я была в хорошем настроении?」",
+   "orig": "Kaname\n「Has there been a single time when\n　I was in a good mood around you?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Леонард",
+   "text": "「Справедливо.」",
+   "orig": "Leonard\n「Good point.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Канамэ",
+   "text": "「Ничего, что мы не уходим в укрытие?」",
+   "orig": "Kaname\n「Is it okay that we're not taking refuge?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Леонард",
+   "text": "「Ты должна увидеть этот бой своими глазами.\n　И тогда ты сама захочешь помочь мне\n　в том, что я задумал.」",
+   "orig": "Leonard\n「You have to witness this battle.\n　Once you do, you'll want to cooperate with me\n　in what I'm trying to do.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Канамэ",
+   "text": "「Твоей самоуверенности можно позавидовать.」",
+   "orig": "Kaname\n「Your confidence is impressive.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Леонард",
+   "text": "「Хе-хе, этого я отрицать не могу.」",
+   "orig": "Leonard\n「Heheh, there's no way I can deny that.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Канамэ",
+   "text": "（Соскэ нет среди «Лондо Белл».）",
+   "orig": "Kaname\n（Sousuke isn't in there with Londo Bell.）"
+  },
+  {
+   "i": 44,
+   "speaker": "Канамэ",
+   "text": "（Соскэ...\n　Только не говори мне, что ты—）",
+   "orig": "Kaname\n（Sousuke...\n　Please don't tell me that you—）"
+  },
+  {
+   "i": 45,
+   "speaker": "Лони",
+   "text": "「Хм-м...」",
+   "orig": "Loni\n「Hmm...」"
+  },
+  {
+   "i": 46,
+   "speaker": "Киркс",
+   "text": "「Как самочувствие, Лони?」",
+   "orig": "Kirks\n「How's it going, Loni?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Лони",
+   "text": "「Чувствую себя отлично.\n　И «Шамбло», оставшийся мне от отца,\n　тоже без единой проблемы.」",
+   "orig": "Loni\n「I'm feeling pretty good.\n　And the Shamblo that my father left me\n　isn't having any problems either.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Роммель",
+   "text": "「Лони Гарви.\n　Сражайся изо всех сил и исполни последнюю\n　волю твоего отца, Махди Гарви.」",
+   "orig": "Rommel\n「Loni Garvey.\n　Fight your heart out, and fulfill your father\n　Mahdi Garvey's last wishes.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Лони",
+   "text": "「Моего отца убила Федерация!\n　Я сведу с ними счёты этими самыми руками!」",
+   "orig": "Loni\n「My father, killed by the Federation!\n　I'll settle that score with these hands!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Джудо",
+   "text": "「Шишки из Федерации! Делайте что хотите,\n　но вы даже не дали горожанам\n　шанса укрыться!」",
+   "orig": "Judau\n「Federation bigwigs! You're free to do\n　what you please, but you didn't even\n　give the citizens a chance to seek refuge!」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「Значит, нам остаётся только самим\n　защитить людей в городе!」",
+   "orig": "$n\n「So we've got no choice but to\n　protect the people in the city ourselves!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Тобиа",
+   "text": "「Хатауэй, Банагер, вы справитесь?」",
+   "orig": "Tobia\n「Hathaway, Banagher, are you up to this?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Хатауэй",
+   "text": "「Если бы не справились, нас бы здесь не было.」",
+   "orig": "Hathaway\n「If we didn't think so, we wouldn't be here.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Амуро",
+   "text": "「Похоже, ты немного остыл.」",
+   "orig": "Amuro\n「Looks like you've cooled down a bit.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Кинкейд",
+   "text": "「Ну, им пришлось побывать в плену у врага\n　и сбежать оттуда обратно к нам.」",
+   "orig": "Kincade\n「Well, they did go through being captured by the enemy\n　and then escaping back here.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Хатауэй",
+   "text": "「Банагер.」",
+   "orig": "Hathaway\n「Banagher.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Банагер",
+   "text": "「Я почему-то чувствую это.\n　Я просто знаю: Лони в той мобильной броне.」",
+   "orig": "Banagher\n「Somehow I can tell.\n　I just know that Loni is in that mobile armor.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Хатауэй",
+   "text": "「Она не должна сражаться!\n　Мы обязаны её остановить!」",
+   "orig": "Hathaway\n「She should not be fighting!\n　We've got to stop her!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Банагер",
+   "text": "「Именно!」",
+   "orig": "Banagher\n「That's right!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Амуро",
+   "text": "「Ядро вражеской силы — эта гигантская\n　мобильная броня. Бить по ней в первую очередь.」",
+   "orig": "Amuro\n「The nucleus of the enemy's power is that giant\n　mobile armor We need to target it as our top priority.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Найджел",
+   "text": "「Осторожно!\n　Машины остальных отрядов пусть и старые,\n　но начинка у них модернизированная!」",
+   "orig": "Nigel\n「Be careful!\n　The mobile units of these other groups may be old,\n　but their insides have been upgraded!」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Их одержимость видно уже по тому, что\n　снаружи они нарочно ничего не меняют.」",
+   "orig": "$n\n「You can sense their obsession from the way they\n　intentionally don't change the outside of those things.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Брайт",
+   "text": "「Всем подразделениям — быстрее!\n　Мы обязаны отстоять Дакар любой ценой!」",
+   "orig": "Bright\n「All units, hurry!\n　We've got to defend Dakar no matter what!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Канамэ",
+   "text": "「Хм.」",
+   "orig": "Kaname\n「Hmph.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Леонард",
+   "text": "「Ты как будто не в духе.」",
+   "orig": "Leonard\n「You look like you're in a bad mood.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Канамэ",
+   "text": "「А был хоть один раз, когда рядом с тобой\n　я была в хорошем настроении?」",
+   "orig": "Kaname\n「Has there been a single time when\n　I was in a good mood around you?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Леонард",
+   "text": "「Справедливо.」",
+   "orig": "Leonard\n「Good point.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Канамэ",
+   "text": "「Ничего, что мы не уходим в укрытие?」",
+   "orig": "Kaname\n「Is it okay that we're not taking refuge?」"
+  },
+  {
+   "i": 69,
+   "speaker": "Леонард",
+   "text": "「Ты должна увидеть этот бой своими глазами.\n　И тогда ты сама захочешь помочь мне\n　в том, что я задумал.」",
+   "orig": "Leonard\n「You have to witness this battle.\n　Once you do, you'll want to cooperate with me\n　in what I'm trying to do.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Канамэ",
+   "text": "「Твоей самоуверенности можно позавидовать.」",
+   "orig": "Kaname\n「Your confidence is impressive.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Леонард",
+   "text": "「Хе-хе, этого я отрицать не могу.」",
+   "orig": "Leonard\n「Heheh, there's no way I can deny that.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Канамэ",
+   "text": "（Соскэ нет среди «Лондо Белл».）",
+   "orig": "Kaname\n（Sousuke isn't in there with Londo Bell.）"
+  },
+  {
+   "i": 73,
+   "speaker": "Канамэ",
+   "text": "（Соскэ...\n　Только не говори мне, что ты—）",
+   "orig": "Kaname\n（Sousuke...\n　Please don't tell me that you—）"
+  },
+  {
+   "i": 74,
+   "speaker": "Лони",
+   "text": "「Нет!」",
+   "orig": "Loni\n「No!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Клузо",
+   "text": "「Отлично!\n　Мы остановили их на месте!」",
+   "orig": "Clouseau\n「Alright!\n　We stopped them in their tracks!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Дагза",
+   "text": "「Эта штука просто громадная.\n　Немудрено, что её так просто не подорвать.」",
+   "orig": "Daguza\n「That thing is just enormous.\n　It's no wonder it doesn't explode so easily.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Банагер",
+   "text": "「Лони!」",
+   "orig": "Banagher\n「Loni!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Мао",
+   "text": "「Осторожно!\n　Что-то приближается!」",
+   "orig": "Mao\n「Be careful!\n　Something's coming!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Лони",
+   "text": "「Проклятые федералы!\n　Вы всё ещё сопротивляетесь?」",
+   "orig": "Loni\n「Federation bastards!\n　Do you still resist us?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Банагер",
+   "text": "「Лони!\n　Прекрати! Прекрати немедленно!」",
+   "orig": "Banagher\n「Loni!\n　Stop! Stop this now!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Мао",
+   "text": "「Осторожно!\n　Что-то приближается!」",
+   "orig": "Mao\n「Be careful!\n　Something's coming!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тесса",
+   "text": "「«Амальгама»!」",
+   "orig": "Tessa\n「Amalgam!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Гаурон",
+   "text": "「Отходите, Нео-Зеон.\n　В наземном бою БД нет равных.」",
+   "orig": "Gauron\n「Pull back, Neo Zeon.\n　In ground combat, the AS is unrivaled.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Гаурон",
+   "text": "「И всё же уничтожить Совет Федерации —\n　высшая награда для террористической группы.」",
+   "orig": "Gauron\n「Still, destroying the Federation Council\n　would be the ultimate prize for a terrorist group.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Марта",
+   "text": "「Ударный отряд «Амальгамы»!」",
+   "orig": "Martha\n「Amalgam's implementation squad!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Марта",
+   "text": "（Леонард Тестаросса.\n　Если ты думаешь, что всё и дальше пойдёт\n　по-твоему, ты жестоко ошибаешься!）",
+   "orig": "Martha\n（Leonard Testarossa.\n　If you think things are gonna go your way forever,\n　you're gravely mistaken!）"
+  },
+  {
+   "i": 87,
+   "speaker": "Ронан",
+   "text": "「Волноваться не о чем.\n　«Джи-Хаунд» уже в пути.」",
+   "orig": "Ronan\n「There's no need to worry.\n　G-Hound is coming.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Брайт",
+   "text": "「«Джи-Хаунд»!\n　Если собирались быть здесь — были бы с самого начала!」",
+   "orig": "Bright\n「G-Hound!\n　If you're gonna be here, be here from the get-go!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Джудо",
+   "text": "「Что это такое?!」",
+   "orig": "Judau\n「What is that?!」"
+  },
+  {
+   "i": 90,
+   "speaker": "？？？",
+   "text": "「Хм.」",
+   "orig": "？？？\n「Hmph.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Банагер",
+   "text": "「Чёрный «Юникорн».」",
+   "orig": "Banagher\n「A black Unicorn.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Буран",
+   "text": "「Лейтенант Лэйн,\n　ваша задача — доставка «Банши».\n　Отойдите оттуда.」",
+   "orig": "Buran\n「Lieutenant Lane,\n　you're tasked with transporting the Banshee.\n　Pull away from there.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Лэйн",
+   "text": "「Но, майор,\n　здесь же и «Лондо Белл».」",
+   "orig": "Lane\n「But Major,\n　Londo Bell is here too.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Лэйн",
+   "text": "「Мы вместе дрались в Токио-3, но для\n　«Джи-Хаунда» позор, что Совет Федерации\n　защищает кучка отступников.」",
+   "orig": "Lane\n「We fought together in Tokyo-3, but it's\n　a disgrace to G-Hound that they had a\n　renegade group protect the Federation Council.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Буран",
+   "text": "「Хорошо.\n　Разрешаю вступить в бой.」",
+   "orig": "Buran\n「Very well.\n　Permission to engage in combat granted.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Буран",
+   "text": "「Но с «Банши» будьте предельно\n　осторожны.」",
+   "orig": "Buran\n「But you better be very careful\n　with the Banshee.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Лэйн",
+   "text": "「Благодарю! Помяните моё слово,\n　я разнесу Нео-Зеон и заставлю\n　«Лондо Белл» сдаться!」",
+   "orig": "Lane\n「Thank you! Mark my words,\n　I'm gonna smash Neo Zeon and\n　force Londo Bell to surrender!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Синдзи",
+   "text": "「Они и по нам стреляют!」",
+   "orig": "Shinji\n「They're shooting this way too!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Аска",
+   "text": "「Похоже, вместе драться против Ангелов — это одно.\n　А встать с нами плечом к плечу против Нео-Зеона\n　они себя заставить не могут.」",
+   "orig": "Asuka\n「Apparently, fighting against the Angels together is one thing.\n　They can't bring themselves to join our forces\n　when we're fighting against Neo Zeon.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хатауэй",
+   "text": "「Прекратите, лейтенант Лэйн!」",
+   "orig": "Hathaway\n「Stop this, Lieutenant Lane!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Лэйн",
+   "text": "「Не фамильярничай, мятежник!」",
+   "orig": "Lane\n「Don't get so familiar, insurgents!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Киркс",
+   "text": "「Осторожно, Лони!\n　Тут вот-вот начнётся свалка всех против всех!」",
+   "orig": "Kirks\n「Be careful, Loni!\n　This could turn into a free-for-all!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Лони",
+   "text": "「Федерация... враг отца.\n　Враг Нео-Зеона. Мой враг.」",
+   "orig": "Loni\n「The Federation... Father's enemy.\n　They're Neo Zeon's enemy. My enemy.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Киркс",
+   "text": "「Лони?」",
+   "orig": "Kirks\n「Loni?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Лони",
+   "text": "「Враг... враг...\n　Я... я уничтожу их всех!」",
+   "orig": "Loni\n「Enemy... Enemy...\n　I-I'll destroy them all!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Киркс",
+   "text": "「Проклятье!\n　Система псикоммю «Шамбло»\n　захватывает разум Лони!」",
+   "orig": "Kirks\n「Damn it!\n　The Shamblo's Psycommu system\n　is taking hold of Loni's mind!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Лони",
+   "text": "「А-а-а-а!」",
+   "orig": "Loni\n「Aaaargh!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Лони",
+   "text": "「Проклятые федералы!\n　Вот вам ярость Зеона! Моя ярость!」",
+   "orig": "Loni\n「Federation bastards!\n　Here's a taste of Zeon's fury! Of my fury!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Хатауэй",
+   "text": "「Лони!」",
+   "orig": "Hathaway\n「Loni!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Банагер",
+   "text": "「Прекрати, Лони!\n　Это просто разрушение ради разрушения!」",
+   "orig": "Banagher\n「Stop this, Loni!\n　This is just destruction for destruction's sake!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Лони",
+   "text": "「Молчи!\n　Моих отца и мать убила Федерация!\n　Убила, даже не дав им шанса сдаться!」",
+   "orig": "Loni\n「Silence!\n　My father and mother were both killed by the Federation!\n　Murdered without even the option to surrender!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Лони",
+   "text": "「Единственный смысл моей жизни — довершить дело отца,\n　и я сделаю это прямо здесь и сейчас!」",
+   "orig": "Loni\n「My sole purpose in life is to carry out my father's\n　and that's what I'm gonna do, right here and now!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Хатауэй",
+   "text": "「Эта ярость. Этот напор в атаке.\n　Это чистая ненависть Лони обрела плоть!」",
+   "orig": "Hathaway\n「This aggression. This offensive pressure.\n　It's a manifestation of Loni's pure hatred!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Лэйн",
+   "text": "「Ублюдки из Нео-Зеона!\n　Что вы, чёрт возьми, создали?!」",
+   "orig": "Lane\n「Neo Zeon bastards!\n　What the hell have you created?!」"
+  },
+  {
+   "i": 115,
+   "speaker": "？？？",
+   "text": "「Ньютайп...」",
+   "orig": "？？？\n「Newtype...」"
+  },
+  {
+   "i": 116,
+   "speaker": "Лэйн",
+   "text": "「Что?」",
+   "orig": "Lane\n「Huh?」"
+  },
+  {
+   "i": 117,
+   "speaker": "？？？",
+   "text": "「Я уничтожу тебя!」",
+   "orig": "？？？\n「I will eliminate you!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Синдзи",
+   "text": "「Они и по нам стреляют!」",
+   "orig": "Shinji\n「They're shooting this way too!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Аска",
+   "text": "「Похоже, драться плечом к плечу против Ангелов —\n　это одно. А вот встать с нами в один строй против\n　Нео-Зеона они себя заставить не могут.」",
+   "orig": "Asuka\n「Apparently, fighting against the Angels together is one thing.\n　They can't bring themselves to join our forces\n　when we're fighting against Neo Zeon.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Хатауэй",
+   "text": "「Прекратите, лейтенант Лэйн!」",
+   "orig": "Hathaway\n「Stop this, Lieutenant Lane!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Лэйн",
+   "text": "「Не фамильярничай, мятежник!」",
+   "orig": "Lane\n「Don't get so familiar, insurgents!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Лони",
+   "text": "「Федерация... Враг отца.\n　Враг Нео-Зеона. Мой враг.」",
+   "orig": "Loni\n「The Federation... Father's enemy.\n　They're Neo Zeon's enemy. My enemy.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Лони",
+   "text": "「Враги... Враги...\n　Я... я уничтожу их всех!」",
+   "orig": "Loni\n「Enemy... Enemy...\n　I-I'll destroy them all!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Амуро",
+   "text": "「Проклятье!\n　Машина вот-вот поглотит пилота!」",
+   "orig": "Amuro\n「Damn it!\n　That pilot is gonna get swallowed up by the machine!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Лони",
+   "text": "「А-а-а-а!」",
+   "orig": "Loni\n「Aaaargh!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Лони",
+   "text": "「Ублюдки из Федерации!\n　Вот вам гнев Зеона! Мой гнев!」",
+   "orig": "Loni\n「Federation bastards!\n　Here's a taste of Zeon's fury! Of my fury!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Хатауэй",
+   "text": "「Лони!」",
+   "orig": "Hathaway\n「Loni!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Банагер",
+   "text": "「Прекрати, Лони!\n　Это просто разрушение ради разрушения!」",
+   "orig": "Banagher\n「Stop this, Loni!\n　This is just destruction for destruction's sake!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Лони",
+   "text": "「Молчи!\n　Моих отца и мать убила Федерация!\n　Убила, даже не дав им шанса сдаться!」",
+   "orig": "Loni\n「Silence!\n　My father and mother were both killed by the Federation!\n　Murdered without even the option to surrender!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Лони",
+   "text": "「И Киркс тоже погиб!\n　Вы отняли у меня человека, который был мне дорог!」",
+   "orig": "Loni\n「Kirks is dead too!\n　You've taken a precious person in my life away from me!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Лони",
+   "text": "「Пришло время заплатить по счетам!」",
+   "orig": "Loni\n「It's time for you to reap your reward!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Хатауэй",
+   "text": "「Эта ярость. Этот напор в атаке.\n　Это чистая ненависть Лони обрела плоть!」",
+   "orig": "Hathaway\n「This aggression. This offensive pressure.\n　It's a manifestation of Loni's pure hatred!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Лэйн",
+   "text": "「Ублюдки из Нео-Зеона!\n　Что вы, чёрт возьми, создали?!」",
+   "orig": "Lane\n「Neo Zeon bastards!\n　What the hell have you created?!」"
+  },
+  {
+   "i": 134,
+   "speaker": "？？？",
+   "text": "「Ньютайп...」",
+   "orig": "？？？\n「Newtype...」"
+  },
+  {
+   "i": 135,
+   "speaker": "Лэйн",
+   "text": "「Что?」",
+   "orig": "Lane\n「Huh?」"
+  },
+  {
+   "i": 136,
+   "speaker": "？？？",
+   "text": "「Я уничтожу тебя!」",
+   "orig": "？？？\n「I will eliminate you!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Вельт",
+   "text": "「Активирован режим «Дестрой»!」",
+   "orig": "Velt\n「Destroy Mode has been activated!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Лотти",
+   "text": "「Эти рога — ну прямо львиная грива!」",
+   "orig": "Lottie\n「Those horns, they look just like a lion's mane!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Амуро",
+   "text": "「Система NT-D на этой машине реагирует\n　на взбесившуюся гигантскую мобильную броню!」",
+   "orig": "Amuro\n「The NT-D System on that thing\n　is reacting to the giant mobile armor going berserk!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Тобиа",
+   "text": "「Это же система, которая убивает ньютайпов!」",
+   "orig": "Tobia\n「That's the system that kills Newtypes!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Бича",
+   "text": "「Плохо дело!\n　Кроме пилотов Нео-Зеона здесь есть\n　и другие ньютайпы!」",
+   "orig": "Beecha\n「Oh no!\n　There are other Newtypes here\n　besides Neo Zeon pilots!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Кинкейд",
+   "text": "「Осторожно!\n　Они прут наобум, без разбора!」",
+   "orig": "Kincade\n「Be careful!\n　They're coming in willy-nilly!」"
+  },
+  {
+   "i": 143,
+   "speaker": "？？？",
+   "text": "「Уооо!」",
+   "orig": "？？？\n「Whoaaa!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Лони",
+   "text": "「А-а-а-а!」",
+   "orig": "Loni\n「Whaaaa!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Джудо",
+   "text": "「Это режим «Дестрой»!」",
+   "orig": "Judau\n「It's in Destroy Mode!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Амуро",
+   "text": "「Система NT-D на этой машине реагирует\n　на взбесившуюся гигантскую мобильную броню!」",
+   "orig": "Amuro\n「The NT-D System on that thing\n　is reacting to the giant mobile armor going berserk!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Тобиа",
+   "text": "「Это же система, которая убивает ньютайпов!」",
+   "orig": "Tobia\n「That's the system the kills Newtypes!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Бича",
+   "text": "「Плохо дело!\n　Кроме пилотов Нео-Зеона здесь есть\n　и другие ньютайпы!」",
+   "orig": "Beecha\n「Oh no!\n　There are other Newtypes here\n　besides Neo Zeon pilots!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Кинкейд",
+   "text": "「Осторожно!\n　Они прут наобум, без разбора!」",
+   "orig": "Kincade\n「Be careful!\n　They're coming in willy-nilly!」"
+  },
+  {
+   "i": 150,
+   "speaker": "？？？",
+   "text": "「Уооо!」",
+   "orig": "？？？\n「Whoaaa!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Лони",
+   "text": "「А-а-а-а!」",
+   "orig": "Loni\n「Whaaaa!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Канамэ",
+   "text": "「Это просто кошмар. Это уже даже\n　не война. Это что-то намного худшее.」",
+   "orig": "Kaname\n「This is just terrible. It's not even\n　war at this point. It's something much worse.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Леонард",
+   "text": "「А первопричину всего этого создала ты.」",
+   "orig": "Leonard\n「The one who created the cause of this is you.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Канамэ",
+   "text": "「Что ты сказал?!」",
+   "orig": "Kaname\n「What did you say?!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Леонард",
+   "text": "「Разве не понятно?\n　И у той мобильной брони, и у чёрного «Гандама»\n　системы псикоммю вышли из-под контроля.」",
+   "orig": "Leonard\n「Don't you get it?\n　The Psycommu systems on both that mobile armor\n　and that black Gundam are going berserk.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Леонард",
+   "text": "「Кто именно создал эту систему — вопрос отдельный,\n　но нет никаких сомнений, что уисперды приложили\n　руку к её развитию.」",
+   "orig": "Leonard\n「Setting aside the person who created that system,\n　there's no doubt that the Whispereds had a hand\n　in fostering its development.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Канамэ",
+   "text": "「Если так, то разве ты сам не в той же лодке?」",
+   "orig": "Kaname\n「If that's true, doesn't it put you in the same boat?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Канамэ",
+   "text": "「И вообще,\n　я не по своей воле\n　стала уиспердом!」",
+   "orig": "Kaname\n「And on top of that,\n　I didn't become a Whispered\n　by choice!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Леонард",
+   "text": "「Ты не понимаешь.\n　Ты — особый случай.」",
+   "orig": "Leonard\n「You don't understand.\n　You're a special case.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Канамэ",
+   "text": "「Особый случай?」",
+   "orig": "Kaname\n「A special case?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Курц",
+   "text": "「Если мы не остановим того красного и того чёрного,\n　Дакар погрузится в полный хаос!」",
+   "orig": "Kurz\n「If we don't stop that red one and that black one,\n　Dakar is gonna descend into utter chaos!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Рёма",
+   "text": "「Первая цель — гигантская мобильная броня!\n　Она сносит всё, что попадается ей на пути!」",
+   "orig": "Ryoma\n「The first target is the giant mobile armor!\n　It's bent on destroying everything in front of it!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Банагер",
+   "text": "「Лони...」",
+   "orig": "Banagher\n「Loni...」"
+  },
+  {
+   "i": 164,
+   "speaker": "Амуро",
+   "text": "「Банагер,\n　ты знаешь этого пилота?」",
+   "orig": "Amuro\n「Banagher,\n　do you know that pilot?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Амуро",
+   "text": "「Потому что если знаешь—」",
+   "orig": "Amuro\n「Because if you do—」"
+  },
+  {
+   "i": 166,
+   "speaker": "Банагер",
+   "text": "「Я... я не могу в неё стрелять!」",
+   "orig": "Banagher\n「I-I can't shoot at her!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Амуро",
+   "text": "「Хватит вести себя как капризный мальчишка!\n　Этот пилот уже—」",
+   "orig": "Amuro\n「Stop acting like a spoiled brat!\n　That pilot is already—」"
+  },
+  {
+   "i": 168,
+   "speaker": "Хатауэй",
+   "text": "「Банагер, не сбивай её!」",
+   "orig": "Hathaway\n「Banagher, don't shoot her down!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Джудо",
+   "text": "「Хатауэй!」",
+   "orig": "Judau\n「Hathaway!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Хатауэй",
+   "text": "「Если мы собьём эту женщину,\n　мы только породим новую вражду!\n　Нам просто нельзя этого делать!」",
+   "orig": "Hathaway\n「If we shoot that woman,\n　we'll just be creating new animosity!\n　We just can't do that!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Кинкейд",
+   "text": "「Я понимаю, что ты чувствуешь.\n　Но в такой ситуации у нас нет выбора.」",
+   "orig": "Kincade\n「I know how you feel.\n　But in this situation, we've got no choice.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Банагер",
+   "text": "「Кх.」",
+   "orig": "Banagher\n「Hmph.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Хатауэй",
+   "text": "「Но... но ведь—!」",
+   "orig": "Hathaway\n「But... But—!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Амуро",
+   "text": "「Хатауэй! Банагер!」",
+   "orig": "Amuro\n「Hathaway! Banagher!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Банагер",
+   "text": "「Лони...」",
+   "orig": "Banagher\n「Loni...」"
+  },
+  {
+   "i": 176,
+   "speaker": "Хатауэй",
+   "text": "「Мы—」",
+   "orig": "Hathaway\n「We—」"
+  },
+  {
+   "i": 177,
+   "speaker": "？？？",
+   "text": "「Хватит ныть!\n　Пищите, как птенцы, потерявшие мать!」",
+   "orig": "？？？\n「Stop whining!\n　You sound like chicks that lost their mother!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Соскэ",
+   "text": "「Зачем вам глаза и уши?!\n　Зачем вам руки и ноги?!\n　Вы, ползучие личинки!」",
+   "orig": "Sousuke\n「Why do you have eyes and ears?!\n　Why do you have arms and legs?!\n　You slithering little maggots!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Соскэ",
+   "text": "「Враг прямо перед вами!\n　Если не хотите получить по шее,\n　живо выполняйте свой долг!」",
+   "orig": "Sousuke\n「The enemy is right in front of you!\n　If you don't want to get your asses kicked,\n　hurry up and do your duty!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Курц",
+   "text": "「Т-ты—」",
+   "orig": "Kurz\n「Y-you—」"
+  },
+  {
+   "i": 181,
+   "speaker": "Мао",
+   "text": "「Соскэ, это ты?」",
+   "orig": "Mao\n「Sousuke, is that you?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Соскэ",
+   "text": "「Так точно.\n　Давно не виделись.」",
+   "orig": "Sousuke\n「Affirmative.\n　Long time no see.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Кодзи",
+   "text": "「Ты же лежал в госпитале с тяжёлыми ранениями?」",
+   "orig": "Koji\n「Weren't you hospitalized with serious injuries?」"
+  },
+  {
+   "i": 184,
+   "speaker": "Соскэ",
+   "text": "「Этому есть объяснение.」",
+   "orig": "Sousuke\n「There's an explanation for that.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Соскэ",
+   "text": "「Капитан.\n　Сержант Соскэ Сагара возвращается в своё\n　подразделение и приступает к службе немедленно.」",
+   "orig": "Sousuke\n「Captain.\n　This is Sergeant Sousuke Sagara, returning to\n　his home squad, effective immediately.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Тесса",
+   "text": "「Отличная работа, сержант Сагара.\n　Рассчитываю на вас и впредь.」",
+   "orig": "Tessa\n「Good job, Sergeant Sagara.\n　I expect more good things from you in the future.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Мао",
+   "text": "「То есть вы знали,\n　что Соскэ появится?」",
+   "orig": "Mao\n「So you knew that Sousuke\n　would be showing up?」"
+  },
+  {
+   "i": 188,
+   "speaker": "Тесса",
+   "text": "「Да, знала.」",
+   "orig": "Tessa\n「Yes, I did.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Курц",
+   "text": "「Да ну?」",
+   "orig": "Kurz\n「How's that?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Тесса",
+   "text": "「Простите, что ввела вас в заблуждение. Но сейчас\n　давайте разберёмся с тем, что перед нами.」",
+   "orig": "Tessa\n「I apologize for deceiving you all. But right now,\n　let's deal with the situation before us.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Мао",
+   "text": "「Есть!\n　С возвращением, Соскэ!」",
+   "orig": "Mao\n「Yes, ma'am!\n　Welcome back, Sousuke!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Курц",
+   "text": "「Только скажи,\n　что это за Rk-92 такой странной раскраски?」",
+   "orig": "Kurz\n「But tell me,\n　what's with the Rk-92 with the weird color scheme?」"
+  },
+  {
+   "i": 193,
+   "speaker": "Соскэ",
+   "text": "「Ты ошибаешься, Курц.\n　Это Rk-91.」",
+   "orig": "Sousuke\n「Make no mistake, Kurz.\n　That's an Rk-91.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Курц",
+   "text": "「Что?! Ещё более старая модель?」",
+   "orig": "Kurz\n「What?! An even older model?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Соскэ",
+   "text": "「Он называется Al II.\n　Также известен как «Арбалет».」",
+   "orig": "Sousuke\n「It's called the Al II.\n　Also known as the Crossbow.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Соскэ",
+   "text": "「Его подготовил для меня человек, который помогал\n　мне при выполнении задания. Выглядит как ржавое\n　корыто, но в деле ещё вполне на что-то годится.」",
+   "orig": "Sousuke\n「It was prepared for me by someone who's\n　helped me in the course of my duties. It may look\n　like a beat-up clunker, but it's still quite serviceable.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Соскэ",
+   "text": "「И что гораздо важнее...」",
+   "orig": "Sousuke\n「More importantly...」"
+  },
+  {
+   "i": 198,
+   "speaker": "Соскэ",
+   "text": "「Хатауэй! Банагер!」",
+   "orig": "Sousuke\n「Hathaway! Banagher!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Банагер",
+   "text": "「А!」",
+   "orig": "Banagher\n「Ah!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Хатауэй",
+   "text": "「Д-да, сэр!」",
+   "orig": "Hathaway\n「Y-yes, sir!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Соскэ",
+   "text": "「Долг солдата — побеждать!\n　Вы уклоняетесь от этого долга?」",
+   "orig": "Sousuke\n「A soldier's duty is to win!\n　Are you shirking that duty?」"
+  },
+  {
+   "i": 202,
+   "speaker": "Банагер",
+   "text": "「Я не солдат!」",
+   "orig": "Banagher\n「I am not a soldier!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Соскэ",
+   "text": "「Тогда кто же ты? Трус, отказавшийся от победы?」",
+   "orig": "Sousuke\n「Then what are you? A coward who abandons victory?」"
+  },
+  {
+   "i": 204,
+   "speaker": "Хатауэй",
+   "text": "「К чему именно вы клоните?」",
+   "orig": "Hathaway\n「What exactly are you trying to say?」"
+  },
+  {
+   "i": 205,
+   "speaker": "Соскэ",
+   "text": "「Победа здесь означает уничтожить вооружение\n　врага — а если вражеские солдаты при этом погибнут,\n　значит, так тому и быть!」",
+   "orig": "Sousuke\n「Victory in this case means smashing the enemy's\n　armaments-and if enemy soldiers die, so be it!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Хатауэй",
+   "text": "「Э...」",
+   "orig": "Hathaway\n「Uh...」"
+  },
+  {
+   "i": 207,
+   "speaker": "Амуро",
+   "text": "「Соскэ прав. Но должен быть и такой способ,\n　при котором вражеских солдат убивать не придётся.」",
+   "orig": "Amuro\n「Sousuke is right. There must be a strategy\n　that doesn't involve killing enemy troops.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Амуро",
+   "text": "「Не повторяйте наших былых ошибок.\n　Не отнимайте жизни — спасайте их!」",
+   "orig": "Amuro\n「Don't go and repeat our past mistakes.\n　Don't take lives, save them!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Банагер",
+   "text": "「Есть!」",
+   "orig": "Banagher\n「Yes, sir!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Пуру",
+   "text": "「Банагер, Хатауэй, удачи!」",
+   "orig": "Ple\n「Banagher, Hathaway, good luck!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Пуру Два",
+   "text": "「С чёрным «Юникорном» мы как-нибудь разберёмся!」",
+   "orig": "Ple Two\n「We'll deal with the black Unicorn one way or another!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Джудо",
+   "text": "「Хватит болтать. Покажите делом!」",
+   "orig": "Judau\n「Don't just tell us. Show us!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Хатауэй",
+   "text": "「Ладно!」",
+   "orig": "Hathaway\n「Okay!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Банагер",
+   "text": "「«Юникорн» — это... Зверь Возможностей!\n　Мы должны обуздать эту силу, чтобы—」",
+   "orig": "Banagher\n「The Unicorn is... the Beast of Possibility!\n　We've got to harness that power to—」"
+  },
+  {
+   "i": 215,
+   "speaker": "Соскэ",
+   "text": "「Я смотрю, боевой дух на месте!\n　Тогда вперёд — и в бой!」",
+   "orig": "Sousuke\n「You sure are fired up!\n　In that case, get out there and fight!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Гаурон",
+   "text": "「А ведь это по-своему забавно.」",
+   "orig": "Gauron\n「This is really kind of fun.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Гаурон",
+   "text": "「Ты не находишь, Кашим?」",
+   "orig": "Gauron\n「Don't you think so, Kashim?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Соскэ",
+   "text": "「Гаурон!」",
+   "orig": "Sousuke\n「Gauron!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Гаурон",
+   "text": "「Какой счастливый день, Кашим!\n　Вот уж не думал, что ты примешь приглашение!」",
+   "orig": "Gauron\n「It's such a happy occasion for me, Kashim!\n　Never thought you'd accepted my invitation!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Соскэ",
+   "text": "「Мне до смерти надоело видеть твою рожу!\n　Пора покончить с тобой раз и навсегда!」",
+   "orig": "Sousuke\n「I'm really tired of seeing your face already!\n　It's time to get rid of you once and for all!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Гаурон",
+   "text": "「Правда думаешь, что сможешь? На этом металлоломе?」",
+   "orig": "Gauron\n「You really think you can? In that piece of junk?」"
+  },
+  {
+   "i": 222,
+   "speaker": "$n",
+   "text": "「Соскэ!」",
+   "orig": "$n\n「Sousuke!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Джудо",
+   "text": "「Держись!\n　Я сейчас же иду к тебе на помощь!」",
+   "orig": "Judau\n「Wait for me!\n　I'm coming to help you right now!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Соскэ",
+   "text": "「Не смей!」",
+   "orig": "Sousuke\n「Don't do that!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Клузо",
+   "text": "「Но—」",
+   "orig": "Clouseau\n「But—」"
+  },
+  {
+   "i": 226,
+   "speaker": "Соскэ",
+   "text": "「Даже если я его не одолею,\n　я хотя бы смогу его задержать!」",
+   "orig": "Sousuke\n「Even if I can't topple this guy,\n　I can at least hold him off!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Гаурон",
+   "text": "「Какая отвага, Кашим!\n　Разыгрываешь жертвенного агнца,\n　лишь бы выручить дружков!」",
+   "orig": "Gauron\n「That's very brave of you, Kashim!\n　Playing the sacrificial lamb\n　just to help out your friends!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Гаурон",
+   "text": "「И учти: на то, что эта машина перегреется,\n　как все прочие, рассчитывать не стоит!\n　Её доводил до ума сам мистер Эй-Джи!」",
+   "orig": "Gauron\n「You should know that you can't rely\n　on this mech to overheat like the rest of them!\n　This model was improved by Mr. Ag himself!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Гаурон",
+   "text": "「Именно так: тот самый, кто убил твою милую\n　зазнобу, теперь прикончит и тебя!」",
+   "orig": "Gauron\n「That's right, the same guy who killed\n　your little sweetie pie is going to finish you off!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Соскэ",
+   "text": "「Ах ты—!」",
+   "orig": "Sousuke\n「You little—!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Гаурон",
+   "text": "「Знает, что нам не ровня, и всё равно лезет\n　в драку! Какая поэтичная жертва!」",
+   "orig": "Gauron\n「He knows he's no match for us, and still he\n　challenges us! What a poetic sacrifice!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Гаурон",
+   "text": "「Знал бы об этом Калинин — расхохотался бы,\n　глядя, как барахтается его ягнёночек!」",
+   "orig": "Gauron\n「If that Kalinin knew about this, he'd burst out\n　laughing at the sight of his floundering little lamb!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Гаурон",
+   "text": "「Может, стоит с ним связаться!」",
+   "orig": "Gauron\n「Maybe I ought to get in touch with him!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Соскэ",
+   "text": "「Да как ты—!」",
+   "orig": "Sousuke\n「Why you—!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Гаурон",
+   "text": "「Вот так! Дай волю гневу и ненависти!\n　Начни наконец убивать врага всерьёз!」",
+   "orig": "Gauron\n「That's it! Let your anger and hate flow!\n　Get serious about killing your enemy!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Гаурон",
+   "text": "「Что ещё за разговоры — драться, но не убивать?\n　Запихни этот вздор себе подальше!」",
+   "orig": "Gauron\n「What's this talk about fighting without killing?\n　You can take all that nonsense and shove it!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Гаурон",
+   "text": "「Ты же святой убийца, а, Кашим?」",
+   "orig": "Gauron\n「You're the killer saint, right, Kashim?」"
+  },
+  {
+   "i": 238,
+   "speaker": "Соскэ",
+   "text": "「Я не Кашим и не святой убийца!」",
+   "orig": "Sousuke\n「I'm not Kashim, and I'm not the killer saint!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Соскэ",
+   "text": "「Я — Соскэ Сагара!」",
+   "orig": "Sousuke\n「I am Sosuke Sagara!」"
+  },
+  {
+   "i": 240,
+   "speaker": "$n",
+   "text": "「Соскэ!」",
+   "orig": "$n\n「Sousuke!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Джудо",
+   "text": "「Держись!\n　Я сейчас же иду к тебе на помощь!」",
+   "orig": "Judau\n「Wait for me!\n　I'm coming to help you right now!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Соскэ",
+   "text": "「Не смей!」",
+   "orig": "Sousuke\n「Don't do that!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Клузо",
+   "text": "「Но—」",
+   "orig": "Clouseau\n「But—」"
+  },
+  {
+   "i": 244,
+   "speaker": "Соскэ",
+   "text": "「Даже если я его не одолею,\n　я хотя бы смогу его задержать!」",
+   "orig": "Sousuke\n「Even if I can't topple this guy,\n　I can at least hold him off!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Гаурон",
+   "text": "「Какая отвага, Кашим!\n　Разыгрываешь жертвенного агнца,\n　лишь бы выручить дружков!」",
+   "orig": "Gauron\n「That's very brave of you, Kashim!\n　Playing the sacrificial lamb\n　just to help out your friends!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Гаурон",
+   "text": "「И учти: на то, что эта машина перегреется,\n　как все прочие, рассчитывать не стоит!\n　Её доводил до ума сам мистер Эй-Джи!」",
+   "orig": "Gauron\n「You should know that you can't rely\n　on this mech to overheat like the rest of them!\n　This model was improved by Mr. Ag himself!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Гаурон",
+   "text": "「Именно так: тот самый, кто убил твою милую\n　зазнобу, теперь прикончит и тебя!」",
+   "orig": "Gauron\n「That's right, the same guy who killed\n　your little sweetie pie is going to finish you off!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Соскэ",
+   "text": "「Ах ты—!」",
+   "orig": "Sousuke\n「You little—!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Гаурон",
+   "text": "「Знает, что нам не ровня, и всё равно лезет\n　в драку! Какая поэтичная жертва!」",
+   "orig": "Gauron\n「He knows he's no match for us, and still he\n　challenges us! What a poetic sacrifice!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Гаурон",
+   "text": "「Знал бы об этом Калинин — расхохотался бы,\n　глядя, как барахтается его ягнёночек!」",
+   "orig": "Gauron\n「If that Kalinin knew about this, he'd burst out\n　laughing at the sight of his floundering little lamb!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Гаурон",
+   "text": "「Может, стоит с ним связаться!」",
+   "orig": "Gauron\n「Maybe I ought to get in touch with him!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Соскэ",
+   "text": "「Да как ты—!」",
+   "orig": "Sousuke\n「Why you—!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Гаурон",
+   "text": "「Вот так! Дай волю гневу и ненависти!\n　Начни наконец убивать врага всерьёз!」",
+   "orig": "Gauron\n「That's it! Let your anger and hate flow!\n　Get serious about killing your enemy!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Гаурон",
+   "text": "「Что ещё за разговоры — драться, но не убивать?\n　Запихни этот вздор себе подальше!」",
+   "orig": "Gauron\n「What's this talk about fighting without killing?\n　You can take all that nonsense and shove it!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Гаурон",
+   "text": "「Ты же святой убийца, а, Кашим?」",
+   "orig": "Gauron\n「You're the killer saint, right, Kashim?」"
+  },
+  {
+   "i": 256,
+   "speaker": "Соскэ",
+   "text": "「Я не Кашим и не святой убийца!」",
+   "orig": "Sousuke\n「I'm not Kashim, and I'm not the killer saint!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Соскэ",
+   "text": "「Я — Соскэ Сагара!」",
+   "orig": "Sousuke\n「I am Sosuke Sagara!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Соскэ",
+   "text": "「Прости, Нами.\n　Я угробил твой «Арбалет».」",
+   "orig": "Sousuke\n「I'm sorry, Nami.\n　I ruined your Crossbow.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Соскэ",
+   "text": "「Al II.\n　Увольнение со службы разрешаю.」",
+   "orig": "Sousuke\n「Al II.\n　Discharge granted.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Кодзи",
+   "text": "「Соскэ!」",
+   "orig": "Koji\n「Sousuke!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Рёма",
+   "text": "「Всё в порядке!\n　Он катапультируется!」",
+   "orig": "Ryoma\n「Everything's aright!\n　It's bailing out!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Тесса",
+   "text": "「Сагара, в укрытие!」",
+   "orig": "Tessa\n「Sagara, take cover!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Меран",
+   "text": "「Капитан Тестаросса,\n　нам поступило срочное сообщение от человека\n　по имени $kwbГэвин Хантер$kwe!」",
+   "orig": "Meran\n「Captain Testarossa,\n　we received an urgent message from a person\n　named $kwbGavin Hunter$kwe!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Тесса",
+   "text": "「От Хантера?!」",
+   "orig": "Tessa\n「From Hunter?!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Соскэ",
+   "text": "「Кх.」",
+   "orig": "Sousuke\n「Hmph.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Гаурон",
+   "text": "「А ты живучая обезьянка, Кашим.\n　Отправить тебя на тот свет\n　и впрямь будет приятно.」",
+   "orig": "Gauron\n「You're a tough little monkey, Kashim.\n　Sending you to the hereafter\n　is really gonna be worth it.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Соскэ",
+   "text": "「То, что ты уже считаешь себя победителем, доказывает:\n　ты третий сорт не только как человек, но и как солдат.」",
+   "orig": "Sousuke\n「The fact that you think you've won proves that you're\n　third-rate not just as a man but as a soldier as well.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Гаурон",
+   "text": "「Мне даже грустно от мысли, что я больше\n　не услышу твоих колкостей!」",
+   "orig": "Gauron\n「It makes me sad to think that I won't be\n　hearing your quick retorts ever again!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Гаурон",
+   "text": "「Прощай, Кашим!\n　Увидимся в аду!」",
+   "orig": "Gauron\n「Farewell, Kashim!\n　See you in hell!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Соскэ",
+   "text": "（Тидори!）",
+   "orig": "Sousuke\n（Chidori!）"
+  },
+  {
+   "i": 271,
+   "speaker": "Гаурон",
+   "text": "「Что?!」",
+   "orig": "Gauron\n「What?!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Тесса",
+   "text": "「Сагара!\n　Живо к АС!」",
+   "orig": "Tessa\n「Sagara!\n　Get to the AS on the double!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Соскэ",
+   "text": "「Эта машина... Не может быть...」",
+   "orig": "Sousuke\n「This unit... It can't be...」"
+  },
+  {
+   "i": 274,
+   "speaker": "Ал",
+   "text": "「Давно не виделись, сержант.」",
+   "orig": "Al\n「It's been too long, Sergeant.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Соскэ",
+   "text": "「Ал, это ты?」",
+   "orig": "Sousuke\n「Al, is that you?」"
+  },
+  {
+   "i": 276,
+   "speaker": "Ал",
+   "text": "「Так точно.\n　Но эта машина называется ARX-8 «Лэватейн».」",
+   "orig": "Al\n「Affirmative.\n　But this unit is called the ARX-8 Laevatein.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Соскэ",
+   "text": "「ARX-8?!」",
+   "orig": "Sousuke\n「ARX-8?!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Ал",
+   "text": "「Верно, это преемник ARX-7 «Арбалест».」",
+   "orig": "Al\n「You guessed it, it's the successor to the ARX-7 Arbalest.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Ал",
+   "text": "「Сержант Сагара.\n　Прошу разрешения вернуться в бой.」",
+   "orig": "Al\n「Sergeant Sagara.\n　Permission requested to return to combat.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Соскэ",
+   "text": "「Разумеется.\n　Разрешаю.」",
+   "orig": "Sousuke\n「Of course.\n　Permission granted.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Соскэ",
+   "text": "「Прости, что заставил ждать, Гаурон.」",
+   "orig": "Sousuke\n「Sorry to keep you waiting, Gauron.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Гаурон",
+   "text": "「Ничего страшного, Кашим.\n　Раз уж ты пересел на новую модель,\n　раздавить тебя будет ещё приятнее.」",
+   "orig": "Gauron\n「No problem, Kashim.\n　Now that you're in a new model,\n　Crushing you will feel even better.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Соскэ",
+   "text": "「Довольно болтовни!」",
+   "orig": "Sousuke\n「Enough out of you!」"
+  },
+  {
+   "i": 284,
+   "speaker": "Гаурон",
+   "text": "「Какая скорость!」",
+   "orig": "Gauron\n「So fast!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Соскэ",
+   "text": "「Я что, на миг отключился?\n　Ал! Какая стоит мощность?」",
+   "orig": "Sousuke\n「Did I lose consciousness there?\n　Al! What's the output setting?」"
+  },
+  {
+   "i": 286,
+   "speaker": "Ал",
+   "text": "「Сейчас восемьдесят процентов.\n　Вам понравилось?」",
+   "orig": "Al\n「It's at 80% right now.\n　Did you enjoy that?」"
+  },
+  {
+   "i": 287,
+   "speaker": "Соскэ",
+   "text": "「Да ты—!」",
+   "orig": "Sousuke\n「Why you—!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Ал",
+   "text": "「Вообще-то эту машину, э-э,\n　собирали тайно, так что полноценных\n　ходовых испытаний не проводилось.」",
+   "orig": "Al\n「Actually, this suit was, um,\n　built in secret, so proper trial runs\n　were never performed.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Соскэ",
+   "text": "「Что?!」",
+   "orig": "Sousuke\n「What?!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Ал",
+   "text": "「Ах да, и всем этим нелепым снаряжением\n　пожертвовали ради бортовой системы ECS.」",
+   "orig": "Al\n「Oh, and all those absurd bits of equipment were\n　sacrificed for the ECS on-boarding system.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Соскэ",
+   "text": "「Эта штука вообще воевать способна?」",
+   "orig": "Sousuke\n「Can this thing even fight?」"
+  },
+  {
+   "i": 292,
+   "speaker": "Ал",
+   "text": "「Не извольте беспокоиться!\n　Финальную настройку под вас делал механик,\n　который знает вашу манеру пилотажа назубок.」",
+   "orig": "Al\n「Fear not!\n　A mechanic who knows your piloting methods inside and\n　out made all the final adjustments to best suit you.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Ал",
+   "text": "「Её зовут $kwbНами$kwe, и для вас есть\n　сообщение от неё: «Удачи, Соскэ».」",
+   "orig": "Al\n「Her name is $kwbNami$kwe, and there's\n　a message from her. It says \"Good luck, Sousuke.\"」"
+  },
+  {
+   "i": 294,
+   "speaker": "Соскэ",
+   "text": "「Вот оно что. Значит, она тоже участвовала\n　в разработке этой машины?」",
+   "orig": "Sousuke\n「I see. So she was also involved\n　in the development of this unit, eh?」"
+  },
+  {
+   "i": 295,
+   "speaker": "Ал",
+   "text": "「Но вот в Лямбда-драйвере мы до конца\n　не уверены.」",
+   "orig": "Al\n「But we aren't completely confident in the\n　Lambda Driver.」"
+  },
+  {
+   "i": 296,
+   "speaker": "Соскэ",
+   "text": "「Тогда испытаем его прямо на ходу!」",
+   "orig": "Sousuke\n「Then we'll have to do some ad hoc testing!」"
+  },
+  {
+   "i": 297,
+   "speaker": "Хатауэй",
+   "text": "「Невероятно!」",
+   "orig": "Hathaway\n「Amazing!」"
+  },
+  {
+   "i": 298,
+   "speaker": "Банагер",
+   "text": "「Это сила воли Соскэ!」",
+   "orig": "Banagher\n「This is the power of Sousuke's will!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Соскэ",
+   "text": "「Отлично!\n　Лямбда-драйвер работает!」",
+   "orig": "Sousuke\n「Great!\n　The Lambda Driver works!」"
+  },
+  {
+   "i": 300,
+   "speaker": "Ал",
+   "text": "「Подтверждаю, сержант.\n　В вашем нынешнем состоянии вы можете вести бой\n　при постоянно включённом Лямбда-драйвере.」",
+   "orig": "Al\n「I just confirmed it, Sergeant.\n　In your current condition, you can do battle\n　with the Lambda Driver continuously activated.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Канамэ",
+   "text": "「Соскэ...」",
+   "orig": "Kaname\n「Sousuke...」"
+  },
+  {
+   "i": 302,
+   "speaker": "Леонард",
+   "text": "「Поверить не могу, что он выжал из этой штуки\n　столько мощи. Это никак не могла быть удача.」",
+   "orig": "Leonard\n「I can't believe he got that much power out of\n　that thing. There's no way that was just dumb luck.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Канамэ",
+   "text": "「Он и правда... сражается изо всех сил.」",
+   "orig": "Kaname\n「He really is... fighting hard.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Канамэ",
+   "text": "「...Значит, и я буду!」",
+   "orig": "Kaname\n「...And so will I!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Леонард",
+   "text": "「Что?!」",
+   "orig": "Leonard\n「What?!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Гаурон",
+   "text": "「Великолепно, Кашим!\n　Ты и впрямь лучший, Кашим!」",
+   "orig": "Gauron\n「This is awesome, Kashim!\n　You really are the greatest, Kashim!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Соскэ",
+   "text": "「Ещё раз назовёшь меня Кашимом—!」",
+   "orig": "Sousuke\n「If you call me Kashim again—!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Ал",
+   "text": "「Не принимайте близко к сердцу, сержант. Солдату\n　вовсе не обязательно побеждать в перепалках.」",
+   "orig": "Al\n「Don't let it get to you, Sergeant. It's not\n　necessary for a soldier to win verbal skirmishes. 」"
+  },
+  {
+   "i": 309,
+   "speaker": "Соскэ",
+   "text": "「На этот раз ты прав.\n　Что ж, тогда я навяжу ему свой бой.」",
+   "orig": "Sousuke\n「This time you're right.\n　Okay then, I'm gonna make him fight my fight.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Ал",
+   "text": "「Цель — три минуты.\n　Вас устроит?」",
+   "orig": "Al\n「The target is three minutes.\n　Is that okay?」"
+  },
+  {
+   "i": 311,
+   "speaker": "Соскэ",
+   "text": "「Более чем!」",
+   "orig": "Sousuke\n「That's plenty!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Соскэ",
+   "text": "「Вперёд, напарник!\n　Теперь нас никому не одолеть!」",
+   "orig": "Sousuke\n「Here we go, partner!\n　Nobody can beat us now!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Меран",
+   "text": "「Уничтожение «Джи-Хаунда» и Нео-Зеона подтверждено.」",
+   "orig": "Meran\n「Annihilation of G-Hound and Neo Zeon confirmed.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Брайт",
+   "text": "「Мне не нужны лишние трения с войсками\n　Федерации. Пора отходить.」",
+   "orig": "Bright\n「I don't want to create any unnecessary friction with\n　the Federation Forces. Time for us to pull out.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Аска",
+   "text": "「Такое чувство, будто мы поработали задаром.」",
+   "orig": "Asuka\n「Feels like I'm working for free somehow.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Синдзи",
+   "text": "「Да ладно, по-моему, всё хорошо.\n　Мы же не ради благодарностей сюда шли.\n　Пришли и сделали то, что собирались.」",
+   "orig": "Shinji\n「Come on, this is great, don't you think?\n　We didn't do this to be thanked by anybody.\n　We came in and we did what we set out to do.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Аска",
+   "text": "「Да, пожалуй.」",
+   "orig": "Asuka\n「Yeah, maybe so.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Хатауэй",
+   "text": "「Банагер—」",
+   "orig": "Hathaway\n「Banagher—」"
+  },
+  {
+   "i": 319,
+   "speaker": "Банагер",
+   "text": "「Всё в порядке, Хатауэй.\n　Лони наверняка жива.」",
+   "orig": "Banagher\n「It's alright, Hathaway.\n　Loni is undoubtedly safe.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Банагер",
+   "text": "（Программа «Лаплас».\n　Снова это изображение.）",
+   "orig": "Banagher\n（The Laplace Program.\n　It's that display again.）"
+  },
+  {
+   "i": 321,
+   "speaker": "Банагер",
+   "text": "（Это что, координаты какого-то места?）",
+   "orig": "Banagher\n（Is this coordinate information for someplace?）"
+  },
+  {
+   "i": 322,
+   "speaker": "Соскэ",
+   "text": "「Ал, сколько минут вышло?」",
+   "orig": "Sousuke\n「Al, how many minutes did it take?」"
+  },
+  {
+   "i": 323,
+   "speaker": "Ал",
+   "text": "「Как я и говорил, уложились меньше чем в три минуты.\n　Весьма впечатляюще, сержант.」",
+   "orig": "Al\n「As I indicated, we broke three minutes.\n　Very impressive, Sergeant.」"
+  },
+  {
+   "i": 324,
+   "speaker": "Соскэ",
+   "text": "「Это не только моя заслуга.」",
+   "orig": "Sousuke\n「This success wasn't mine alone.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Ал",
+   "text": "「Так точно. Своим вкладом её обеспечил\n　и ваш выдающийся напарник — то есть я.」",
+   "orig": "Al\n「Affirmative. It was also due to\n　the efforts of your outstanding partner-me.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Соскэ",
+   "text": "「Верно.」",
+   "orig": "Sousuke\n「That's right.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Ал",
+   "text": "「Обычно в этом месте вы велите мне\n　перестать себя нахваливать или что-то в этом роде.」",
+   "orig": "Al\n「This is where you'd usually tell me to\n　stop patting myself on the back, or some such.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Соскэ",
+   "text": "「Так и есть, но сегодня похвала и впрямь заслуженная.」",
+   "orig": "Sousuke\n「You're right, but this time you do deserve the compliment.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Соскэ",
+   "text": "「Я рад, что ты вышел из этого целым, Ал.」",
+   "orig": "Sousuke\n「I'm glad you came out of this safe and sound, Al.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Ал",
+   "text": "「Спасибо, сержант.\n　И вам того же.」",
+   "orig": "Al\n「Thanks, Sergeant.\n　The same goes for me.」"
+  },
+  {
+   "i": 331,
+   "speaker": "Соскэ",
+   "text": "（Мы говорим как настоящие боевые товарищи, и почему-то\n　меня от этого совсем не воротит.）",
+   "orig": "Sousuke\n（We're talking just like comrades in arms, but for\n　some reason it's not making me sick to my stomach.）"
+  },
+  {
+   "i": 332,
+   "speaker": "Канамэ",
+   "text": "「Соскэ!」",
+   "orig": "Kaname\n「Sousuke!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Соскэ",
+   "text": "「Это—」",
+   "orig": "Sousuke\n「That's—」"
+  },
+  {
+   "i": 334,
+   "speaker": "Банагер",
+   "text": "（Программа «Лаплас».\n　Снова это изображение.）",
+   "orig": "Banagher\n（The Laplace Program.\n　It's that display again.）"
+  },
+  {
+   "i": 335,
+   "speaker": "Банагер",
+   "text": "（Это что, координаты какого-то места?）",
+   "orig": "Banagher\n（Is this coordinate information for someplace?）"
+  },
+  {
+   "i": 336,
+   "speaker": "Соскэ",
+   "text": "「Ал, сколько минут вышло?」",
+   "orig": "Sousuke\n「Al, how many minutes did it take?」"
+  },
+  {
+   "i": 337,
+   "speaker": "Ал",
+   "text": "「К сожалению, мы вышли за три минуты.」",
+   "orig": "Al\n「Unfortunately, we went over three minutes.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Соскэ",
+   "text": "「Похоже, твоя оценка была слишком оптимистичной.」",
+   "orig": "Sousuke\n「Looks like your estimate was too optimistic.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Ал",
+   "text": "「Вина целиком на вас: вы ведь с ней согласились.」",
+   "orig": "Al\n「The fault is entirely yours for agreeing with it.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Ал",
+   "text": "「Впрочем, как бы мне ни хотелось так сказать,\n　как ваш напарник я тоже несу ответственность.」",
+   "orig": "Al\n「Actually, as much as I'd like to say that,\n　as your partner I take responsibility too.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Соскэ",
+   "text": "「Что ж, как бы там ни было,\n　я бы сказал, что результат всё равно приемлемый.」",
+   "orig": "Sousuke\n「Well, in any case,\n　I'd say that the results were still adequate.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Соскэ",
+   "text": "「Я рад, что ты вышел из этого целым, Ал.」",
+   "orig": "Sousuke\n「I'm glad you came out of this safe and sound, Al.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Ал",
+   "text": "「Спасибо, сержант.\n　И вам того же.」",
+   "orig": "Al\n「Thanks, Sergeant.\n　The same goes for me.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Соскэ",
+   "text": "（Мы говорим как настоящие боевые товарищи, и почему-то\n　меня от этого совсем не воротит.）",
+   "orig": "Sousuke\n（We're talking just like comrades in arms, but for\n　some reason it's not making me sick to my stomach.）"
+  },
+  {
+   "i": 345,
+   "speaker": "Канамэ",
+   "text": "「Соскэ!」",
+   "orig": "Kaname\n「Sousuke!」"
+  },
+  {
+   "i": 346,
+   "speaker": "Соскэ",
+   "text": "「Это—」",
+   "orig": "Sousuke\n「That's—」"
+  },
+  {
+   "i": 347,
+   "speaker": "Соскэ",
+   "text": "「Тидори... выстрелила в Леонарда...」",
+   "orig": "Sousuke\n「Chidori... shot Leonard...」"
+  },
+  {
+   "i": 348,
+   "speaker": "Ал",
+   "text": "「Сержант, приближаются войска Федерации.」",
+   "orig": "Al\n「Sergeant, Federation Forces are coming.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Меран",
+   "text": "「Основные силы «Джи-Хаунда»!」",
+   "orig": "Meran\n「G-Hound's main troop!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Брайт",
+   "text": "「Всем подразделениям — немедленный отход!」",
+   "orig": "Bright\n「All units, pull out on the double!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Канамэ",
+   "text": "「Я... я—」",
+   "orig": "Kaname\n「I-I—」"
+  },
+  {
+   "i": 352,
+   "speaker": "Калинин",
+   "text": "「Успокойся.\n　Мы тоже уходим отсюда.」",
+   "orig": "Kalinin\n「Calm down.\n　We're getting out of here too.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Канамэ",
+   "text": "「Леонард—」",
+   "orig": "Kaname\n「Leonard—」"
+  },
+  {
+   "i": 354,
+   "speaker": "Калинин",
+   "text": "「Он в критическом состоянии.」",
+   "orig": "Kalinin\n「He's in critical condition.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Канамэ",
+   "text": "「Нет...」",
+   "orig": "Kaname\n「No...」"
+  },
+  {
+   "i": 356,
+   "speaker": "Калинин",
+   "text": "「Поторопись.」",
+   "orig": "Kalinin\n「Hurry up.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Канамэ",
+   "text": "「Дайте мне попрощаться с Соскэ.」",
+   "orig": "Kaname\n「Let me say goodbye to Sousuke.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Канамэ",
+   "text": "「Соскэ, ты меня слышишь?」",
+   "orig": "Kaname\n「Sousuke, can you hear me?」"
+  },
+  {
+   "i": 359,
+   "speaker": "Соскэ",
+   "text": "「Тидори!」",
+   "orig": "Sousuke\n「Chidori!」"
+  },
+  {
+   "i": 360,
+   "speaker": "Канамэ",
+   "text": "「Пожалуйста, больше не пытайся за мной прийти.」",
+   "orig": "Kaname\n「Please don't try to come get me any more.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Соскэ",
+   "text": "「Что?」",
+   "orig": "Sousuke\n「Huh?」"
+  },
+  {
+   "i": 362,
+   "speaker": "Соскэ",
+   "text": "「О чём ты говоришь?」",
+   "orig": "Sousuke\n「What are you talking about?」"
+  },
+  {
+   "i": 363,
+   "speaker": "Канамэ",
+   "text": "「Пожалуйста, не пытайся за мной прийти.\n　Теперь я с Калининым.\n　И с Леонардом.」",
+   "orig": "Kaname\n「Please don't try to come and get me.\n　I'm with Kalinin now.\n　And Leonard.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Канамэ",
+   "text": "「Я... я, кажется, его убила.」",
+   "orig": "Kaname\n「I-I might have killed him.」"
+  },
+  {
+   "i": 365,
+   "speaker": "Соскэ",
+   "text": "「Что?」",
+   "orig": "Sousuke\n「Huh?」"
+  },
+  {
+   "i": 366,
+   "speaker": "Канамэ",
+   "text": "「И мне... мне придётся\n　за это ответить.」",
+   "orig": "Kaname\n「I-I'll have to\n　take responsibility for that.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Соскэ",
+   "text": "「Но это же был Леонард! Это была самооборона!」",
+   "orig": "Sousuke\n「But it was Leonard! It was self-defense!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Канамэ",
+   "text": "「Нет, не была.\n　Выходит, что главная причина этой войны — я.」",
+   "orig": "Kaname\n「No, it wasn't.\n　I-I'm apparently the main cause of the war here.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Соскэ",
+   "text": "「Что?!」",
+   "orig": "Sousuke\n「What?!」"
+  },
+  {
+   "i": 370,
+   "speaker": "Канамэ",
+   "text": "「Так что прости.\n　Правда, не пытайся за мной прийти.」",
+   "orig": "Kaname\n「So, I'm sorry.\n　Seriously, don't try to come and get me.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Канамэ",
+   "text": "「Всё, что ты для меня делал,\n　 очень меня радует, но всё равно—」",
+   "orig": "Kaname\n「Everything you've been doing for me\n　 makes me very happy, but even so—」"
+  },
+  {
+   "i": 372,
+   "speaker": "Соскэ",
+   "text": "「Тидори, что ты такое говоришь?」",
+   "orig": "Sousuke\n「Chidori, what are you saying?」"
+  },
+  {
+   "i": 373,
+   "speaker": "Канамэ",
+   "text": "「Соскэ, я говорю,\n　чтобы ты просто забыл обо мне.」",
+   "orig": "Kaname\n「Sousuke, I'm saying\n　that you should just forget all about me.」"
+  },
+  {
+   "i": 374,
+   "speaker": "Соскэ",
+   "text": "「Постой, Тидори!\n　Я—」",
+   "orig": "Sousuke\n「Hold on, Chidori!\n　I—」"
+  },
+  {
+   "i": 375,
+   "speaker": "Канамэ",
+   "text": "「Пожалуйста, постарайся понять.\n　Нам двоим просто не—」",
+   "orig": "Kaname\n「Please just try to understand.\n　The two of us, it's just not—」"
+  },
+  {
+   "i": 376,
+   "speaker": "Соскэ",
+   "text": "（Я не приму ничего из этого! Для меня\n　мир без Тидори — мир без смысла!）",
+   "orig": "Sousuke\n（I refuse to accept any of this! For me,\n　a world without Chidori is a world without meaning!）"
+  },
+  {
+   "i": 377,
+   "speaker": "Канамэ",
+   "text": "「Ммм...」",
+   "orig": "Kaname\n「Hmm...」"
+  },
+  {
+   "i": 378,
+   "speaker": "Канамэ",
+   "text": "「Нет, не могу.」",
+   "orig": "Kaname\n「No, I can't do this.」"
+  },
+  {
+   "i": 379,
+   "speaker": "Канамэ",
+   "text": "「Не могу я всё-таки через это переступить.」",
+   "orig": "Kaname\n「I can't go through with this after all.」"
+  },
+  {
+   "i": 380,
+   "speaker": "Соскэ",
+   "text": "「Тидори—」",
+   "orig": "Sousuke\n「Chidori—」"
+  },
+  {
+   "i": 381,
+   "speaker": "Канамэ",
+   "text": "「Соскэ...\n　Как бывший зампред школьного совета\n　отдаю тебе прямой приказ.」",
+   "orig": "Kaname\n「Sousuke...\n　As former vice-chairman of the student council,\n　I'm giving you a direct order.」"
+  },
+  {
+   "i": 382,
+   "speaker": "Канамэ",
+   "text": "「Приди и спаси меня!」",
+   "orig": "Kaname\n「Come save me!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Канамэ",
+   "text": "「Мне всё равно, чем тебе придётся пожертвовать!\n　Выложись до конца! Подними всех своих\n　бесполезных, занудных солдафонов до единого!」",
+   "orig": "Kaname\n「I don't care what sacrifices you have to make!\n　Give it everything you've got! Mobilize every one\n　of those useless, annoying soldiers of yours!」"
+  },
+  {
+   "i": 384,
+   "speaker": "Канамэ",
+   "text": "「Дерись не на жизнь, а на смерть с любым врагом,\n　каким бы опасным он ни был! Приди и обними\n　меня! Ты ведь сможешь, правда?」",
+   "orig": "Kaname\n「Fight tooth and nail against every opponent,\n　no matter how dangerous! Come and take me\n　in your arms! You can do that, can't you?」"
+  },
+  {
+   "i": 385,
+   "speaker": "Соскэ",
+   "text": "「Ещё как смогу!」",
+   "orig": "Sousuke\n「You bet I can!」"
+  },
+  {
+   "i": 386,
+   "speaker": "Соскэ",
+   "text": "「Я приду за тобой, чего бы это ни стоило.\n　Просто жди меня.」",
+   "orig": "Sousuke\n「I'll come get you no matter what.\n　Just wait for me.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Канамэ",
+   "text": "「Соскэ, я люблю тебя.」",
+   "orig": "Kaname\n「Sousuke, I love you.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Соскэ",
+   "text": "「И я тебя люблю.\n　По-настоящему.」",
+   "orig": "Sousuke\n「I love you too.\n　I really do.」"
+  },
+  {
+   "i": 389,
+   "speaker": "Канамэ",
+   "text": "「Я так рада это слышать.」",
+   "orig": "Kaname\n「That makes me so happy.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Канамэ",
+   "text": "「Когда мы встретимся снова, я хочу тебя поцеловать.」",
+   "orig": "Kaname\n「The next time we meet, I want to kiss you.」"
+  },
+  {
+   "i": 391,
+   "speaker": "Канамэ",
+   "text": "「Без стеснения.\n　Где бы мы ни были.\n　Ты не против? Обещаешь?」",
+   "orig": "Kaname\n「No holding back.\n　No matter where we are.\n　Is that okay with you? Can you promise me?」"
+  },
+  {
+   "i": 392,
+   "speaker": "Соскэ",
+   "text": "「Обещаю.」",
+   "orig": "Sousuke\n「I promise.」"
+  },
+  {
+   "i": 393,
+   "speaker": "Канамэ",
+   "text": "「Сколько бы ни пришлось ждать, я буду тебя ждать.」",
+   "orig": "Kaname\n「No matter how long it takes, I'll be waiting for you.」"
+  },
+  {
+   "i": 394,
+   "speaker": "Соскэ",
+   "text": "「Не волнуйся.\n　Я заберу тебя, что бы ни случилось.」",
+   "orig": "Sousuke\n「Don't worry.\n　I'm gonna get you, come what may.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Канамэ",
+   "text": "「Соскэ.」",
+   "orig": "Kaname\n「Sousuke.」"
+  },
+  {
+   "i": 396,
+   "speaker": "Киркс",
+   "text": "「Какая жалость!\n　Похоже, это конец!」",
+   "orig": "Kirks\n「Such a pity!\n　I guess this is the end!」"
+  },
+  {
+   "i": 397,
+   "speaker": "Лони",
+   "text": "「Киркс!」",
+   "orig": "Loni\n「Kirks!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Киркс",
+   "text": "「Лони, довольно.\n　Просто живи своей жизнью. Будь свободна.」",
+   "orig": "Kirks\n「Loni, that's enough.\n　Just go live your life. Be free.」"
+  },
+  {
+   "i": 399,
+   "speaker": "Лони",
+   "text": "「Что?!」",
+   "orig": "Loni\n「What?!」"
+  },
+  {
+   "i": 400,
+   "speaker": "Киркс",
+   "text": "「Живи для себя.\n　Не для отца, не для Зеона.」",
+   "orig": "Kirks\n「Live for yourself.\n　Not for your father, not for Zeon.」"
+  },
+  {
+   "i": 401,
+   "speaker": "Киркс",
+   "text": "「Не кончи... как мы...」",
+   "orig": "Kirks\n「Don't end up... like us...」"
+  },
+  {
+   "i": 402,
+   "speaker": "Лони",
+   "text": "「Киркс!」",
+   "orig": "Loni\n「Kirks!」"
+  },
+  {
+   "i": 403,
+   "speaker": "Лони",
+   "text": "「Ублюдки из Федерации!\n　Вы убили человека, который меня защищал!\n　Вы убили последнего близкого мне человека!」",
+   "orig": "Loni\n「Federation bastards!\n　You killed the person who protected me!\n　You killed the last of my family!」"
+  },
+  {
+   "i": 404,
+   "speaker": "Киркс",
+   "text": "「Какая жалость!\n　Похоже, это конец!」",
+   "orig": "Kirks\n「Such a pity!\n　I guess this is the end!」"
+  },
+  {
+   "i": 405,
+   "speaker": "Лони",
+   "text": "「Киркс!」",
+   "orig": "Loni\n「Kirks!」"
+  },
+  {
+   "i": 406,
+   "speaker": "Киркс",
+   "text": "「Лони, довольно.\n　Просто живи своей жизнью. Будь свободна.」",
+   "orig": "Kirks\n「Loni, that's enough.\n　Just go live your life. Be free.」"
+  },
+  {
+   "i": 407,
+   "speaker": "Лони",
+   "text": "「Что?!」",
+   "orig": "Loni\n「What?!」"
+  },
+  {
+   "i": 408,
+   "speaker": "Киркс",
+   "text": "「Живи для себя.\n　Не для отца, не для Зеона.」",
+   "orig": "Kirks\n「Live for yourself.\n　Not for your father, not for Zeon.」"
+  },
+  {
+   "i": 409,
+   "speaker": "Киркс",
+   "text": "「Не кончи... как мы...」",
+   "orig": "Kirks\n「Don't end up... like us...」"
+  },
+  {
+   "i": 410,
+   "speaker": "Лони",
+   "text": "「Нет!\n　Киркс!」",
+   "orig": "Loni\n「No!\n　Kirks!」"
+  },
+  {
+   "i": 411,
+   "speaker": "Лони",
+   "text": "「Ублюдки из Федерации!\n　Вы... вы—!」",
+   "orig": "Loni\n「Federation bastards!\n　You... You—!」"
+  },
+  {
+   "i": 412,
+   "speaker": "Киркс",
+   "text": "「Какая жалость!\n　Похоже, это конец!」",
+   "orig": "Kirks\n「Such a pity!\n　I guess this is the end!」"
+  },
+  {
+   "i": 413,
+   "speaker": "Киркс",
+   "text": "「Лони,\n　прости меня.」",
+   "orig": "Kirks\n「Loni,\n　I'm sorry.」"
+  },
+  {
+   "i": 414,
+   "speaker": "Банагер",
+   "text": "「Этот человек.」",
+   "orig": "Banagher\n「That guy.」"
+  },
+  {
+   "i": 415,
+   "speaker": "Хатауэй",
+   "text": "「До последнего думал о Лони.」",
+   "orig": "Hathaway\n「Concerned about Loni right to the end.」"
+  },
+  {
+   "i": 416,
+   "speaker": "Лони",
+   "text": "「А...」",
+   "orig": "Loni\n「Uh...」"
+  },
+  {
+   "i": 417,
+   "speaker": "Банагер",
+   "text": "「Лони!」",
+   "orig": "Banagher\n「Loni!」"
+  },
+  {
+   "i": 418,
+   "speaker": "Хатауэй",
+   "text": "「Прошу, не сражайся больше!」",
+   "orig": "Hathaway\n「Please, don't fight any more!」"
+  },
+  {
+   "i": 419,
+   "speaker": "Лони",
+   "text": "「И всё же я—」",
+   "orig": "Loni\n「Still, I—」"
+  },
+  {
+   "i": 420,
+   "speaker": "Банагер",
+   "text": "「Лони.」",
+   "orig": "Banagher\n「Loni.」"
+  },
+  {
+   "i": 421,
+   "speaker": "Хатауэй",
+   "text": "「Не сдавайся, Банагер!\n　Мы ведь не знаем наверняка, что Лони погибла!」",
+   "orig": "Hathaway\n「Don't give up, Banagher!\n　We still don't know for sure that Loni is dead!」"
+  },
+  {
+   "i": 422,
+   "speaker": "Банагер",
+   "text": "（Лони...\n　Всё это слишком печально.）",
+   "orig": "Banagher\n（Loni...\n　All of this, it's just too sad.）"
+  },
+  {
+   "i": 423,
+   "speaker": "Киркс",
+   "text": "「Лони.」",
+   "orig": "Kirks\n「Loni.」"
+  },
+  {
+   "i": 424,
+   "speaker": "Киркс",
+   "text": "（Это мы с Махди заставили тебя сражаться.\n　Вот и вся правда.）",
+   "orig": "Kirks\n（Mahdi and I—we forced you to fight.\n　That's the bottom line.）"
+  },
+  {
+   "i": 425,
+   "speaker": "Киркс",
+   "text": "「А раз так, я обязан за это ответить!」",
+   "orig": "Kirks\n「That being the case, I have to take responsibility!」"
+  },
+  {
+   "i": 426,
+   "speaker": "Банагер",
+   "text": "「Лони.」",
+   "orig": "Banagher\n「Loni.」"
+  },
+  {
+   "i": 427,
+   "speaker": "Хатауэй",
+   "text": "「Не сдавайся, Банагер!\n　Мы ведь не знаем наверняка, что Лони погибла!」",
+   "orig": "Hathaway\n「Don't give up, Banagher!\n　We still don't know for sure that Loni is dead!」"
+  },
+  {
+   "i": 428,
+   "speaker": "Банагер",
+   "text": "（Лони...\n　Всё это слишком печально.）",
+   "orig": "Banagher\n（Loni...\n　All of this, it's just too sad.）"
+  },
+  {
+   "i": 429,
+   "speaker": "？？？",
+   "text": "「Ньютайпы Зеона отступили!\n　Остался только—」",
+   "orig": "？？？\n「The Zeon Newtypes retreated!\n　All that's left is—」"
+  },
+  {
+   "i": 430,
+   "speaker": "Амуро",
+   "text": "「Осторожно!\n　Чёрный «Юникорн» явно\n　нацелился на нас!」",
+   "orig": "Amuro\n「Be careful!\n　The black Unicorn is obviously\n　setting its sights on us!」"
+  },
+  {
+   "i": 431,
+   "speaker": "Джудо",
+   "text": "「Проклятье! Что ещё за\n　машина, созданная убивать ньютайпов? Думаете,\n　я позволю такой штуке себя одолеть?」",
+   "orig": "Judau\n「Damn it! What's all this\n　about a machine made for killing Newtypes? You think\n　I'm gonna let a thing like that get the best of me?」"
+  },
+  {
+   "i": 432,
+   "speaker": "？？？",
+   "text": "「«Банши», что ты творишь?\n　Отвечай!」",
+   "orig": "？？？\n「Banshee, what are you doing?\n　Answer me!」"
+  },
+  {
+   "i": 433,
+   "speaker": "Джудо",
+   "text": "「Его тоже поглощает машина?!」",
+   "orig": "Judau\n「Is he being swallowed up by the machine too?!」"
+  },
+  {
+   "i": 434,
+   "speaker": "Банагер",
+   "text": "「Остановись!\n　Если так пойдёт, ты—」",
+   "orig": "Banagher\n「Stop!\n　At this rate you're gonna—」"
+  },
+  {
+   "i": 435,
+   "speaker": "？？？",
+   "text": "「Молчать!\n　Ради Хозяина я никак не могу\n　просто взять и уйти!」",
+   "orig": "？？？\n「Silence!\n　For Master's sake, there's no way I can\n　just up and leave!」"
+  },
+  {
+   "i": 436,
+   "speaker": "Банагер",
+   "text": "「Хозяина?」",
+   "orig": "Banagher\n「Master?」"
+  },
+  {
+   "i": 437,
+   "speaker": "Джудо",
+   "text": "「Неужели?\n　Ты... Марида?」",
+   "orig": "Judau\n「Could it be?\n　Are you... Marida?」"
+  },
+  {
+   "i": 438,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Я — Пуру Двенадцать!」",
+   "orig": "Ple Twelve\n「I am Ple Twelve!」"
+  },
+  {
+   "i": 439,
+   "speaker": "Банагер",
+   "text": "「Что?」",
+   "orig": "Banagher\n「What?」"
+  },
+  {
+   "i": 440,
+   "speaker": "Джудо",
+   "text": "「Пуру Двенадцать. Двенадцатая Пуру, значит?」",
+   "orig": "Judau\n「Ple Twelve. The twelfth Ple, eh?」"
+  },
+  {
+   "i": 441,
+   "speaker": "Пуру",
+   "text": "「Я поняла.\n　Теперь всё стало ясно.」",
+   "orig": "Ple\n「I get it.\n　It's all so clear now.」"
+  },
+  {
+   "i": 442,
+   "speaker": "Пуру Два",
+   "text": "「Эта девочка — она такая же, как мы.」",
+   "orig": "Ple Two\n「That kid—she's the same as us.」"
+  },
+  {
+   "i": 443,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Враги хозяина — мои враги!」",
+   "orig": "Ple Twelve\n「Master's enemies are all my enemies!」"
+  },
+  {
+   "i": 444,
+   "speaker": "Пуру",
+   "text": "「Довольно!」",
+   "orig": "Ple\n「Enough!」"
+  },
+  {
+   "i": 445,
+   "speaker": "Пуру Два",
+   "text": "「Немедленно прекрати драться!」",
+   "orig": "Ple Two\n「Stop this fighting right now!」"
+  },
+  {
+   "i": 446,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Ч-что это такое?!\n　Это не хозяин. Это откуда-то ещё раньше...」",
+   "orig": "Ple Twelve\n「Wh-what is that?!\n　It's not the master. It's from even further back...」"
+  },
+  {
+   "i": 447,
+   "speaker": "Пуру Двенадцать",
+   "text": "「А, ааа!\n　Отступаю!」",
+   "orig": "Ple Twelve\n「Ah, ahhh!\n　Retreat!」"
+  },
+  {
+   "i": 448,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 449,
+   "speaker": "Джудо",
+   "text": "「Да что здесь вообще происходит?」",
+   "orig": "Judau\n「What the hell is going on here?」"
+  },
+  {
+   "i": 450,
+   "speaker": "Гаурон",
+   "text": "「Было весело, Кашим!」",
+   "orig": "Gauron\n「That was fun, Kashim!」"
+  },
+  {
+   "i": 451,
+   "speaker": "Гаурон",
+   "text": "「Сойтись с тобой лицом к лицу в этом проклятом мире\n　было для меня высшим наслаждением,\n　Кашим!」",
+   "orig": "Gauron\n「Facing off against you in this godforsaken world\n　has been the ultimate joy for me,\n　Kashim!」"
+  },
+  {
+   "i": 452,
+   "speaker": "Гаурон",
+   "text": "「Порядок почему-то перевернулся, Кашим!\n　В ад я отправлюсь первым! Буду ждать тебя там!」",
+   "orig": "Gauron\n「Somehow the order got reversed, Kashim!\n　I'll be going to hell first! I'll be waiting for you there!」"
+  },
+  {
+   "i": 453,
+   "speaker": "Ал",
+   "text": "「Уничтожение «Венома» подтверждено.」",
+   "orig": "Al\n「Downing of the Venom confirmed.」"
+  },
+  {
+   "i": 454,
+   "speaker": "Соскэ",
+   "text": "「Хм...」",
+   "orig": "Sousuke\n「Hmm...」"
+  },
+  {
+   "i": 455,
+   "speaker": "Ал",
+   "text": "「Что-то не так, сержант?」",
+   "orig": "Al\n「What's the matter, Sergeant?」"
+  },
+  {
+   "i": 456,
+   "speaker": "Соскэ",
+   "text": "「Ничего.」",
+   "orig": "Sousuke\n「It's nothing.」"
+  },
+  {
+   "i": 457,
+   "speaker": "Соскэ",
+   "text": "（Гаурон.\n　Вряд ли я вспомню об этом ещё когда-нибудь после сегодняшнего,\n　так что скажу тебе это сейчас.）",
+   "orig": "Sousuke\n（Gauron.\n　It probably won't occur to me again after today,\n　so let me say this to you now.）"
+  },
+  {
+   "i": 458,
+   "speaker": "Соскэ",
+   "text": "（Имя Кашим умрёт вместе с тобой.\n　Я — Соскэ Сагара.）",
+   "orig": "Sousuke\n（The name Kashim will now die along with you.\n　I am Sousuke Sagara.）"
+  },
+  {
+   "i": 459,
+   "speaker": "Ю Фан",
+   "text": "（Хозяин.\n　Когда я отомщу за вас, я тоже последую за вами.）",
+   "orig": "Yu Fan\n（Master.\n　After I exact vengeance for you, I'll follow you as well.）"
+  },
+  {
+   "i": 460,
+   "speaker": "Ю Лан",
+   "text": "（Подождите нас, хозяин.\n　Мы с сестрой придём к вам.）",
+   "orig": "Yu Lan\n（Please wait for us, Master.\n　Sis and I will come to your side.）"
+  },
+  {
+   "i": 461,
+   "speaker": "Лэйн",
+   "text": "「Вот она, подделка под «Пенелопу»!\n　Да и пилот весьма неплох!」",
+   "orig": "Lane\n「That's a Penelope knock-off alright!\n　And the pilot is pretty good too!」"
+  },
+  {
+   "i": 462,
+   "speaker": "Хатауэй",
+   "text": "「Ты ведь и сам чувствуешь то же самое!\n　Что этот бой нам вообще не следовало начинать!」",
+   "orig": "Hathaway\n「You must be feeling the same thing too!\n　That this is a battle that we shouldn't be fighting!」"
+  },
+  {
+   "i": 463,
+   "speaker": "Лэйн",
+   "text": "「И это говорит «Лондо Белл», после того как вы\n　так дерзко нарушили приказ Генштаба! Слушались бы нас —\n　мы бы давно разбили Нео-Зеон!」",
+   "orig": "Lane\n「What kind of talk is that from Londo Bell, after you\n　defied GHQ like that! If you'd only obey us,\n　we'd be able to defeat Neo Zeon!」"
+  },
+  {
+   "i": 464,
+   "speaker": "Хатауэй",
+   "text": "「Теперь мне всё предельно ясно.\n　Мир меняют не террором,\n　не войной и не насилием.」",
+   "orig": "Hathaway\n「It's all so clear to me now.\n　The way to change the world isn't through\n　terrorism, war, or violence.」"
+  },
+  {
+   "i": 465,
+   "speaker": "Хатауэй",
+   "text": "「Квесс,\n　то, чего ты пыталась добиться, —\n　это ведь был мир без войны!」",
+   "orig": "Hathaway\n「Quess,\n　what you were trying to achieve\n　was actually a world without war!」"
+  },
+  {
+   "i": 466,
+   "speaker": "Хатауэй",
+   "text": "「Но реальность ранила тебя,\n　и ты попросила помощи у другого — у Чара!」",
+   "orig": "Hathaway\n「But you were wounded by reality,\n　and you sought help from someone-from Char!」"
+  },
+  {
+   "i": 467,
+   "speaker": "Лэйн",
+   "text": "「Ты о чём это несёшь?」",
+   "orig": "Lane\n「What are you blathering about?」"
+  },
+  {
+   "i": 468,
+   "speaker": "Хатауэй",
+   "text": "「Кси Гандам!\n　Если во мне есть то, что нужно пилоту «Гандама», —\n　то, что нужно, чтобы изменить мир, — ответь мне!」",
+   "orig": "Hathaway\n「Ξ Gundam!\n　If I've got what it takes to pilot a Gundam-\n　what it takes to change the world, answer me!」"
+  },
+  {
+   "i": 469,
+   "speaker": "Хатауэй",
+   "text": "「Я шагну за пределы этого места и этого часа,\n　за пределы собственных сил. Смотри же!」",
+   "orig": "Hathaway\n「I'm gonna go beyond the here and now,\n　beyond my own capabilities. Just you watch!」"
+  },
+  {
+   "i": 470,
+   "speaker": "Лэйн",
+   "text": "「Агх!\n　Держись, «Пенелопа»!」",
+   "orig": "Lane\n「Agh!\n　Hold on, Penelope!」"
+  },
+  {
+   "i": 471,
+   "speaker": "Хатауэй",
+   "text": "「Ты всё ещё будешь драться?」",
+   "orig": "Hathaway\n「You're gonna keep fighting?」"
+  },
+  {
+   "i": 472,
+   "speaker": "Лэйн",
+   "text": "「Это мой долг!」",
+   "orig": "Lane\n「It's my duty!」"
+  },
+  {
+   "i": 473,
+   "speaker": "Хатауэй",
+   "text": "「Попробуй взглянуть на вещи шире.\n　Тогда твой мир разом станет куда больше!」",
+   "orig": "Hathaway\n「You should try to see things more openly.\n　If you did, your world would expand dramatically!」"
+  },
+  {
+   "i": 474,
+   "speaker": "Лэйн",
+   "text": "「Что я вообще творю?\n　Я теперь просто позор для «Джи-Хаунда»!」",
+   "orig": "Lane\n「What the hell am I doing?\n　At this point I'm nothing but a disgrace to G-Hound!」"
+  },
+  {
+   "i": 475,
+   "speaker": "Хатауэй",
+   "text": "「Лейтенант Лэйн, попытайтесь понять, что на самом деле\n　нужно, чтобы положить конец этой бойне.」",
+   "orig": "Hathaway\n「Lieutenant Lane, try to understand what's\n　really gonna take to put an end to this fighting.」"
+  },
+  {
+   "i": 476,
+   "speaker": "Лэйн",
+   "text": "「Ещё не всё!\n　Держись, «Пенелопа»!」",
+   "orig": "Lane\n「Not yet!\n　Wait, Penelope!」"
+  },
+  {
+   "i": 477,
+   "speaker": "Лэйн",
+   "text": "「Ну, держись!\n　Хотя бы этот «Гандам» я прикончу здесь и сейчас!」",
+   "orig": "Lane\n「Here I go!\n　I'm gonna at least take out that Gundam here and now!」"
+  },
+  {
+   "i": 478,
+   "speaker": "Хатауэй",
+   "text": "「Лейтенант Лэйн!\n　Вы ведь и сами чувствуете то же самое!\n　Что этот бой нам вообще не следовало начинать!」",
+   "orig": "Hathaway\n「Lieutenant Lane!\n　You must be feeling the same thing too!\n　That this is a battle that we shouldn't be fighting!」"
+  },
+  {
+   "i": 479,
+   "speaker": "Лэйн",
+   "text": "「И это говорит «Лондо Белл», после того как вы\n　так дерзко нарушили приказ Генштаба! Слушались бы нас —\n　мы бы давно разбили Нео-Зеон!」",
+   "orig": "Lane\n「What kind of talk is that from Londo Bell, after you\n　defied GHQ like that! If you'd only obey us,\n　we'd be able to defeat Neo Zeon!」"
+  },
+  {
+   "i": 480,
+   "speaker": "Хатауэй",
+   "text": "「Теперь мне всё предельно ясно.\n　Мир меняют не террором,\n　не войной и не насилием.」",
+   "orig": "Hathaway\n「It's all so clear to me now.\n　The way to change the world isn't through\n　terrorism, war, or violence.」"
+  },
+  {
+   "i": 481,
+   "speaker": "Хатауэй",
+   "text": "「Квесс,\n　то, чего ты пыталась добиться, —\n　это ведь был мир без войны!」",
+   "orig": "Hathaway\n「Quess,\n　what you were trying to achieve\n　was actually a world without war!」"
+  },
+  {
+   "i": 482,
+   "speaker": "Хатауэй",
+   "text": "「Но реальность ранила тебя,\n　и ты попросила помощи у другого — у Чара!」",
+   "orig": "Hathaway\n「But you were wounded by reality,\n　and you sought help from someone-from Char!」"
+  },
+  {
+   "i": 483,
+   "speaker": "Лэйн",
+   "text": "「Ты о чём это несёшь?」",
+   "orig": "Lane\n「What are you blathering about?」"
+  },
+  {
+   "i": 484,
+   "speaker": "Хатауэй",
+   "text": "「Кси Гандам!\n　Если во мне есть то, что нужно пилоту «Гандама», —\n　то, что нужно, чтобы изменить мир, — ответь мне!」",
+   "orig": "Hathaway\n「Ξ Gundam!\n　If I've got what it takes to pilot a Gundam-\n　what it takes to change the world, answer me!」"
+  },
+  {
+   "i": 485,
+   "speaker": "Хатауэй",
+   "text": "「Я шагну за пределы этого места и этого часа,\n　за пределы собственных сил. Смотри же!」",
+   "orig": "Hathaway\n「I'm gonna go beyond the here and now,\n　beyond my own capabilities. Just you watch!」"
+  },
+  {
+   "i": 486,
+   "speaker": "Лэйн",
+   "text": "「Что я вообще творю?\n　Я теперь просто позор для «Джи-Хаунда»!」",
+   "orig": "Lane\n「What the hell am I doing?\n　At this point I'm nothing but a disgrace to G-Hound!」"
+  },
+  {
+   "i": 487,
+   "speaker": "Хатауэй",
+   "text": "「Лейтенант Лэйн, попытайтесь понять, что на самом деле\n　нужно, чтобы положить конец этой бойне.」",
+   "orig": "Hathaway\n「Lieutenant Lane, try to understand what's\n　really gonna take to put an end to this fighting.」"
+  },
+  {
+   "i": 488,
+   "speaker": "Ю Фан",
+   "text": "「Простите меня, хозяин.\n　Прости, Ю Лан.」",
+   "orig": "Yu Fan\n「I'm sorry, Master.\n　Sorry, Yu Lan.」"
+  },
+  {
+   "i": 489,
+   "speaker": "Гаурон",
+   "text": "「Хорошая работа, Ю Фан.\n　Ты была славной ученицей.」",
+   "orig": "Gauron\n「Good work, Yu Fan.\n　You were a good student.」"
+  },
+  {
+   "i": 490,
+   "speaker": "Ю Лан",
+   "text": "「Сестра,\n　я отомщу за тебя, не беспокойся.」",
+   "orig": "Yu Lan\n「Sis,\n　I'm going to take revenge for this, don't you worry.」"
+  },
+  {
+   "i": 491,
+   "speaker": "Ю Лан",
+   "text": "「Простите меня, хозяин.\n　Прости меня, сестра.」",
+   "orig": "Yu Lan\n「I'm sorry, Master.\n　I'm sorry, Sis.」"
+  },
+  {
+   "i": 492,
+   "speaker": "Гаурон",
+   "text": "「Спи спокойно, Ю Лан.\n　Дальше я сам.」",
+   "orig": "Gauron\n「Sleep well, Yu Lan.\n　I'll take it from here.」"
+  },
+  {
+   "i": 493,
+   "speaker": "Ю Фан",
+   "text": "「Жди меня, Ю Лан.\n　Отомщу — и приду к тебе.」",
+   "orig": "Yu Fan\n「Wait for me, Yu Lan.\n　After I exact vengeance, I'll be coming to join you.」"
+  },
+  {
+   "i": 494,
+   "speaker": "Роммель",
+   "text": "「Дух Зеона не умрёт никогда.\n　Зиг Зеон!」",
+   "orig": "Rommel\n「The spirit of Zeon will never die\n　Seig Zeon!」"
+  },
+  {
+   "i": 495,
+   "speaker": "Джудо",
+   "text": "「Что ещё за «дух Зеона»? Они целиком\n　помешались на этой ерунде. Вот почему война\n　не кончается, сколько бы времени ни прошло.」",
+   "orig": "Judau\n「What's this \"spirit of Zeon\" crap? They're completely\n　caught up in stuff like that. That's why the war\n　never ends no matter how much time passes.」"
+  },
+  {
+   "i": 496,
+   "speaker": "Банагер",
+   "text": "「Лони!」",
+   "orig": "Banagher\n「Loni!」"
+  },
+  {
+   "i": 497,
+   "speaker": "Лони",
+   "text": "「Банагер,\n　ты всё-таки пришёл.」",
+   "orig": "Loni\n「Banagher,\n　You showed up.」"
+  },
+  {
+   "i": 498,
+   "speaker": "Банагер",
+   "text": "「Я—」",
+   "orig": "Banagher\n「I'm—」"
+  },
+  {
+   "i": 499,
+   "speaker": "Лони",
+   "text": "「Тебе не нужно облекать свои намерения\n　в слова.」",
+   "orig": "Loni\n「You don't have to put your intentions\n　into words.」"
+  },
+  {
+   "i": 500,
+   "speaker": "Лони",
+   "text": "「Но у меня всё точно так же!」",
+   "orig": "Loni\n「But, I'm just the same way!」"
+  },
+  {
+   "i": 501,
+   "speaker": "Банагер",
+   "text": "「Значит, выбора нет... только драться?」",
+   "orig": "Banagher\n「So, there's no choice... but to fight, eh?」"
+  },
+  {
+   "i": 502,
+   "speaker": "Хатауэй",
+   "text": "「Прекрати, Лони!\n　Здесь же мирные жители!」",
+   "orig": "Hathaway\n「Stop this, Loni!\n　There are citizens here!」"
+  },
+  {
+   "i": 503,
+   "speaker": "Лони",
+   "text": "「И всё равно я должна это сделать!\n　Чтобы положить конец войне!」",
+   "orig": "Loni\n「Even so, I have to do this!\n　In order to put an end to the war!」"
+  },
+  {
+   "i": 504,
+   "speaker": "Хатауэй",
+   "text": "「Даже если мы так победим, война\n　не кончится! Мы лишь породим новую ненависть!」",
+   "orig": "Hathaway\n「Even if we managed to win like this, the war\n　won't end! We'll just be creating new animosity!」"
+  },
+  {
+   "i": 505,
+   "speaker": "Лони",
+   "text": "「Я понимаю! Но я... я должна\n　отомстить за отца, за свою семью!」",
+   "orig": "Loni\n「I understand! But I-I've got to\n　take revenge for my father-for my family!」"
+  },
+  {
+   "i": 506,
+   "speaker": "Хатауэй",
+   "text": "「Не надо, Лони!\n　Нельзя сражаться ради мести!」",
+   "orig": "Hathaway\n「You shouldn't do this, Loni!\n　You shouldn't fight out of vengeance!」"
+  },
+  {
+   "i": 507,
+   "speaker": "Лони",
+   "text": "「Прочь с дороги, Банагер!\n　Если будешь мешать—」",
+   "orig": "Loni\n「Out of my way, Banagher!\n　If you get in my way—」"
+  },
+  {
+   "i": 508,
+   "speaker": "Банагер",
+   "text": "「То, что сейчас творится с Лони, — это ровно то же,\n　что было со мной под управлением системы NT-D!」",
+   "orig": "Banagher\n「The state Loni is in right now, it's just like\n　when I was being controlled by the NT-D System!」"
+  },
+  {
+   "i": 509,
+   "speaker": "Банагер",
+   "text": "「У нас нет выбора!\n　Чтобы спасти Лони,\n　нужно остановить эту мобильную броню!」",
+   "orig": "Banagher\n「We've got no choice!\n　In order to save Loni,\n　we've got to stop that mobile armor!」"
+  },
+  {
+   "i": 510,
+   "speaker": "Лони",
+   "text": "「Хатауэй!\n　Я никому не дам встать у меня на пути, даже тебе!」",
+   "orig": "Loni\n「Hathaway!\n　I'm not letting anybody, even you, get in my way!」"
+  },
+  {
+   "i": 511,
+   "speaker": "Хатауэй",
+   "text": "「Машина, что подчиняет себе разум людей!」",
+   "orig": "Hathaway\n「Machine that controls people's minds!」"
+  },
+  {
+   "i": 512,
+   "speaker": "Хатауэй",
+   "text": "「Больше я не позволю использовать ньютайпов\n　как простые инструменты! Я спасу Лони любой ценой!」",
+   "orig": "Hathaway\n「I'm not letting you use Newtypes as mere tools\n　any longer! I'm gonna save Loni no matter what!」"
+  },
+  {
+   "i": 513,
+   "speaker": "Амуро",
+   "text": "「Ньютайпы — не орудия войны.\n　Неужели вы так и не поняли этого\n　даже после того, как трагедия повторилась?」",
+   "orig": "Amuro\n「Newtypes aren't tools of war.\n　Do you really not understand that\n　even after repeating a tragedy of this magnitude?」"
+  },
+  {
+   "i": 514,
+   "speaker": "Амуро",
+   "text": "「Неужели мир, где люди понимают друг друга, —\n　и впрямь всего лишь пустая мечта?」",
+   "orig": "Amuro\n「Is a world where people understand one another\n　really just a pipe dream?」"
+  },
+  {
+   "i": 515,
+   "speaker": "Джудо",
+   "text": "「Неужели сознание этой женщины полностью\n　подчинено мобильной броне?」",
+   "orig": "Judau\n「Is that woman's consciousness really under\n　the complete control of the mobile armor?」"
+  },
+  {
+   "i": 516,
+   "speaker": "Джудо",
+   "text": "「Если так, тем более нельзя её убивать!\n　Наш настоящий враг — вот эти штуки, что делают\n　из людей орудия войны!」",
+   "orig": "Judau\n「If so, then that's all the more reason that we\n　can't kill it! Our true enemy is these things that\n　use people as tools of war!」"
+  },
+  {
+   "i": 517,
+   "speaker": "Амуро",
+   "text": "「Что это за чувство?」",
+   "orig": "Amuro\n「What's this feeling I'm getting?」"
+  },
+  {
+   "i": 518,
+   "speaker": "Амуро",
+   "text": "「Неужели я уже дрался с этим пилотом\n　где-то раньше?」",
+   "orig": "Amuro\n「Have I fought against this pilot\n　somewhere before?」"
+  },
+  {
+   "i": 519,
+   "speaker": "Джудо",
+   "text": "「Ого!」",
+   "orig": "Judau\n「Whoa!」"
+  },
+  {
+   "i": 520,
+   "speaker": "Джудо",
+   "text": "「Только не говорите, что за чёрным «Юникорном» сидит—」",
+   "orig": "Judau\n「Don't tell me that the pilot of that black Unicorn is—」"
+  },
+  {
+   "i": 521,
+   "speaker": "Банагер",
+   "text": "「Разум этого пилота\n　подчинён NT-D —\n　точно как мой когда-то!」",
+   "orig": "Banagher\n「That pilot's mind\n　is being controlled by the NT-D,\n　just like mine was at some point in the past!」"
+  },
+  {
+   "i": 522,
+   "speaker": "Банагер",
+   "text": "「Смогу ли я вообще драться с таким противником?」",
+   "orig": "Banagher\n「Can I really fight against an opponent like that?」"
+  },
+  {
+   "i": 523,
+   "speaker": "Хатауэй",
+   "text": "「Я чувствую разум пилота чёрного «Юникорна»!\n　Неужели моё чутьё и правда обостряется?」",
+   "orig": "Hathaway\n「I can sense the mind of the pilot of the black Unicorn!\n　Are my senses actually getting sharper?」"
+  },
+  {
+   "i": 524,
+   "speaker": "Хатауэй",
+   "text": "「Только не говорите, что за этой штукой—!」",
+   "orig": "Hathaway\n「Don't tell me that the pilot of that thing is—!」"
+  },
+  {
+   "i": 525,
+   "speaker": "Гаурон",
+   "text": "「Кашим, надеюсь, ты не станешь отговариваться тем,\n　что без Лямбда-драйвера тебе не победить!」",
+   "orig": "Gauron\n「Kashim, I hope you're not make up some excuse,\n　like that you can't win without the Lambda Driver!」"
+  },
+  {
+   "i": 526,
+   "speaker": "Соскэ",
+   "text": "「Солдат идёт в бой с тем снаряжением,\n　какое ему выдали! Вот и всё!」",
+   "orig": "Sousuke\n「A soldier goes to war with whatever equipment\n　he's given! That's all there is to it!」"
+  },
+  {
+   "i": 527,
+   "speaker": "Гаурон",
+   "text": "「Весьма похвально, Кашим!\n　Что ж, вот и настало время веселья.\n　Только не вздумай сдаться слишком быстро!」",
+   "orig": "Gauron\n「Very admirable, Kashim!\n　Well then, it's finally party time.\n　Don't you dare throw in the towel too quickly!」"
+  },
+  {
+   "i": 528,
+   "speaker": "Соскэ",
+   "text": "「Я больше не желаю слышать твой голос\n　ни одной лишней секунды!」",
+   "orig": "Sousuke\n「I don't want to even hear your voice any more,\n　not even for another second!」"
+  },
+  {
+   "i": 529,
+   "speaker": "Гаурон",
+   "text": "「Цок!\n　Эта новая модель просто невероятна!」",
+   "orig": "Gauron\n「Tsk!\n　This new model is incredible!」"
+  },
+  {
+   "i": 530,
+   "speaker": "Соскэ",
+   "text": "「Похоже, теперь всё наоборот, Гаурон.」",
+   "orig": "Sousuke\n「It seems the tables have turned, Gauron.」"
+  },
+  {
+   "i": 531,
+   "speaker": "Гаурон",
+   "text": "「Не заносись только потому,\n　что раздобыл себе новую игрушку, Кашим!」",
+   "orig": "Gauron\n「Don't get carried away just because\n　you went and got a new toy, Kashim!」"
+  },
+  {
+   "i": 532,
+   "speaker": "Соскэ",
+   "text": "「Ты смеешь звать моего напарника игрушкой?\n　Ты потерял чутьё на тактику, Гаурон!」",
+   "orig": "Sousuke\n「You dare treat my partner here like a toy?\n　You've lost your eye for war tactics, Gauron!」"
+  },
+  {
+   "i": 533,
+   "speaker": "Соскэ",
+   "text": "「Я покончу со всем здесь и сейчас! Пора оборвать\n　эту тягостную связь, что между нами тянется!」",
+   "orig": "Sousuke\n「I'm gonna end all this right here and now! Time to\n　cut this tedious connection that we seem to have!」"
+  },
+  {
+   "i": 534,
+   "speaker": "Соскэ",
+   "text": "（Нами.\n　Благодаря тебе и остальным\n　я сумел дойти так далеко.）",
+   "orig": "Sousuke\n（Nami.\n　Thanks to you and the others,\n　I've managed to come this far.）"
+  },
+  {
+   "i": 535,
+   "speaker": "Соскэ",
+   "text": "（Я сделаю это, можешь не сомневаться!\n　Я спасу Тидори и раздавлю «Амальгам» за то,\n　что они отняли у неё — обычную жизнь!）",
+   "orig": "Sousuke\n（I'm gonna do it, of that you can be sure!\n　I'm gonna rescue Chidori, and I'm gonna crush\n　Amalgam for robbing her—of her normal life!）"
+  },
+  {
+   "i": 536,
+   "speaker": "Соскэ",
+   "text": "「Что это за снаряжение?」",
+   "orig": "Sousuke\n「This equipment, what is it?」"
+  },
+  {
+   "i": 537,
+   "speaker": "Ал",
+   "text": "「Удлинитель ствола для подрывной пушки. Как только\n　мы его поставим, дальность резко вырастет.」",
+   "orig": "Al\n「It's a barrel extension for the demolition gun. After\n　we attach it, the gun's range will improve dramatically.」"
+  },
+  {
+   "i": 538,
+   "speaker": "Соскэ",
+   "text": "「Ставить на БД подрывную пушку... Глупо уже даже\n　удивляться таким вещам на этом этапе.」",
+   "orig": "Sousuke\n「To think that we're equipping the AS with a demolition\n　gun. I feel stupid for even being surprised at this point.」"
+  },
+  {
+   "i": 539,
+   "speaker": "Ал",
+   "text": "「Приму это за комплимент.」",
+   "orig": "Al\n「I'll take that as a compliment.」"
+  },
+  {
+   "i": 540,
+   "speaker": "Соскэ",
+   "text": "「Эта машина идеально мне подходит!\n　Я освоюсь с ней в два счёта!」",
+   "orig": "Sousuke\n「This unit is just perfect for me!\n　I'll be an expert at using it in no time!」"
+  },
+  {
+   "i": 541,
+   "speaker": "Хатауэй",
+   "text": "「Этот мобильный доспех!\n　Если в нём лейтенант Лэйн Эйм,\n　прекратите с ним бой!」",
+   "orig": "Hathaway\n「That mobile suit!\n　If Lieutenant Lane Aime is in it,\n　stop fighting against it!」"
+  },
+  {
+   "i": 542,
+   "speaker": "Лэйн",
+   "text": "「Не набивайтесь в друзья, предатели!\n　Может, хватит уже миндальничать —\n　займитесь лучше Зеоном!」",
+   "orig": "Lane\n「Don't get so buddy-buddy, traitors!\n　Maybe it's time you stop holding back\n　and concentrate on attacking Zeon!」"
+  },
+  {
+   "i": 543,
+   "speaker": "Хатауэй",
+   "text": "「Проклятье!\n　Солдат, который просто исполняет приказы!」",
+   "orig": "Hathaway\n「Damn it!\n　A soldier just following orders!」"
+  },
+  {
+   "i": 544,
+   "speaker": "Лэйн",
+   "text": "「И что же в этом плохого?\n　Разве не в этом работа солдата?」",
+   "orig": "Lane\n「What, exactly, is wrong with that?\n　That's the job of a soldier, isn't it?」"
+  },
+  {
+   "i": 545,
+   "speaker": "Хатауэй",
+   "text": "「Ты не видишь, что за этим стоит!\n　Опасно, когда у таких людей в руках военная сила!」",
+   "orig": "Hathaway\n「You can't see what lies beyond that!\n　It's dangerous when somebody like that has military might!」"
+  },
+  {
+   "i": 546,
+   "speaker": "Джудо",
+   "text": "「Эй! Да ты же\n　тот старик, что командовал в Африке?」",
+   "orig": "Judau\n「You! Aren't you\n　the old man who was in charge in Africa?」"
+  },
+  {
+   "i": 547,
+   "speaker": "Роммель",
+   "text": "「Ах ты, щенок! Не думай,\n　что опять победишь, как в прошлый раз!」",
+   "orig": "Rommel\n「You little brat! Don't go thinking\n　that you can win again like you did before!」"
+  },
+  {
+   "i": 548,
+   "speaker": "Джудо",
+   "text": "「Извини, но у меня нет времени на тех,\n　кто видит только то, что у них под носом!」",
+   "orig": "Judau\n「Sorry, but I don't have time for people\n　who can only see what's right in front of them!」"
+  },
+  {
+   "i": 549,
+   "speaker": "Роммель",
+   "text": "「Ах ты, щенок!\n　Сегодня я рассчитаюсь с тобой за прошлый раз!」",
+   "orig": "Rommel\n「You little brat!\n　Today is the day that I pay you back for last time!」"
+  },
+  {
+   "i": 550,
+   "speaker": "Джудо",
+   "text": "「Ты всё ещё об этом?」",
+   "orig": "Judau\n「You're still talking about that?」"
+  },
+  {
+   "i": 551,
+   "speaker": "Джудо",
+   "text": "「Извини, но у меня нет времени на тех,\n　кто видит только то, что у них под носом!」",
+   "orig": "Judau\n「Sorry, but I don't have time for people\n　who can only see what's right in front of them!」"
+  },
+  {
+   "i": 552,
+   "speaker": "Пуру",
+   "text": "「Это чувство!」",
+   "orig": "Ple\n「This feeling!」"
+  },
+  {
+   "i": 553,
+   "speaker": "Пуру Два",
+   "text": "「Знаю!\n　Когда разум пилота скован, его скрытые\n　чувства, наоборот, проступают ещё яснее!」",
+   "orig": "Ple Two\n「I know!\n　When pilots' mental facilities are constrained, their\n　hidden emotions actually show through more clearly!」"
+  },
+  {
+   "i": 554,
+   "speaker": "Пуру Два",
+   "text": "「Пуру!」",
+   "orig": "Ple Two\n「Ple!」"
+  },
+  {
+   "i": 555,
+   "speaker": "Пуру",
+   "text": "「Я знаю, Пуру Два!\n　Эта девочка, она—!」",
+   "orig": "Ple\n「I know, Ple Two!\n　That girl, she's—!」"
+  },
+  {
+   "i": 556,
+   "speaker": "$n",
+   "text": "「Ого!」",
+   "orig": "$n\n「Whoa!」"
+  }
+ ]
+}

@@ -1,0 +1,1342 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Репортёр",
+   "text": "「Совсем скоро именем его Священного Величества\n　будет приведена в исполнение казнь принцессы-Нормы.」",
+   "orig": "Reporter\n「Very soon, the execution of the Norma princess will\n　carry out in the name of his Holy Majesty.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Репортёр",
+   "text": "「Горожане собрались здесь, у Столпа Рассвета, \n　чтобы увидеть последние минуты Нормы.」",
+   "orig": "Reporter\n「Citizens have gathered here in front of the Pillar \n　of Dawn to witness the last moments of the Norma.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Репортёр",
+   "text": "「А-ах!\n　Её королевское высочество Сильвия \n　приступила к бичеванию!」",
+   "orig": "Reporter\n「Ahh.\n　The flogging by her Royal \n　Highness Sylvia has begun!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Репортёр",
+   "text": "「У Столпа Рассвета началась\n　паника и полная неразбериха!」",
+   "orig": "Reporter\n「There's a panic and mayhem break out\n　in front of the Pillar of Dawn!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Риза",
+   "text": "「Поднимайте войска обороны!\n　Не дайте мерзавцам уйти!」",
+   "orig": "Riza\n「Call out the defense troops!\n　Don't let the scoundrels get away!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Пёрпл",
+   "text": "（Вот он, настоящий хаос!\n　Именно этого я и добивался!）",
+   "orig": "Purple\n（This is pure chaos!\n　And is exactly what I wanted!）"
+  },
+  {
+   "i": 6,
+   "speaker": "Момока",
+   "text": "「Леди Анжелиза!\n　Они приближаются!」",
+   "orig": "Momoka\n「Lady Angelise!\n　Here they come!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Таск",
+   "text": "「Ррр!\n　Мы что, до сих пор от них не оторвались?」",
+   "orig": "Tusk\n「Grr!\n　Haven't we lost these guys yet?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Анж",
+   "text": "「Я не собираюсь так умирать!」",
+   "orig": "Ange\n「I'm not going to die like this!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Анж",
+   "text": "「Не здесь и не сейчас!」",
+   "orig": "Ange\n「Not here, not now!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Таск",
+   "text": "「«Виллькисс»!」",
+   "orig": "Tusk\n「The Villkiss!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Момока",
+   "text": "「В нём же никого нет! Как он сюда попал?」",
+   "orig": "Momoka\n「Nobody's piloting it! How did it get here?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Анж",
+   "text": "「Дальше я сама, ребята!」",
+   "orig": "Ange\n「Leave it to me, you guys!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Анж",
+   "text": "「Спасибо, «Виллькисс».\n　Ты подоспел в самый последний момент.」",
+   "orig": "Ange\n「Thank you, Villkiss.\n　You came just in the nick of time.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Анж",
+   "text": "（Как и тогда, когда вышла та история \n　с Бонта-куном. Ты пришёл ради меня.）",
+   "orig": "Ange\n（Just like the time when there was trouble \n　with Bonta-kun. You're here for me.）"
+  },
+  {
+   "i": 15,
+   "speaker": "Анж",
+   "text": "「Ты ведь прилетел спасти меня,\n　верно, «Виллькисс»?」",
+   "orig": "Ange\n「You came to save me,\n　didn't you, Villkiss?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Момока",
+   "text": "「Леди Анжелиза! «Надэсико»!」",
+   "orig": "Momoka\n「Lady Angelise! The Nadesico!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Анж",
+   "text": "「Он совершил Бозонный прыжок!」",
+   "orig": "Ange\n「It made a Boson Jump!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Рури",
+   "text": "「Отличная работа, Юрика. Спасибо.\n　Твоя навигация была точна до метра.」",
+   "orig": "Ruri\n「Good work, Yurika. Thanks.\n　Your navigation skills were right on target.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Юрика",
+   "text": "「Всегда пожалуйста.」",
+   "orig": "Yurika\n「You're welcome.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Юрика",
+   "text": "（Что за странное чувство? Будто мир искривлён. \n　И тот столп, похоже, — центр искажения.）",
+   "orig": "Yurika\n（What's this strange feeling? Feels like the world is \n　distorted. That pillar seems to be the focal point.）"
+  },
+  {
+   "i": 21,
+   "speaker": "Таск",
+   "text": "「Анж!\n　Скорее, на «Надэсико»!」",
+   "orig": "Tusk\n「Ange!\n　Quickly, to the Nadesico!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Анж",
+   "text": "「Повторять не нужно!」",
+   "orig": "Ange\n「Don't need to tell me twice!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Рури",
+   "text": "「Говорит майор Рури Хосино, автономный отряд\n　«Надэсико» Войск Земной Федерации.」",
+   "orig": "Ruri\n「I am Major Ruri Hoshino of the Earth Federation Forces'\n　Autonomous Nadesico Squad.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Рури",
+   "text": "「Благодарим за содействие в задержании\n　этой дезертирки.\n　Мы берём её под стражу и разберёмся сами.」",
+   "orig": "Ruri\n「We appreciate your cooperation in\n　apprehending this deserter.\n　We will take custody and deal with her appropriately.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Джулио",
+   "text": "「Кто позволил вам прыгать в пределы Мисуруги?!」",
+   "orig": "Julio\n「Who gave you permission to jump into Misurugi?!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Рури",
+   "text": "「Видите ли, мы автономный отряд,\n　нам разрешение, в общем-то, не требуется.」",
+   "orig": "Ruri\n「Uh, as an autonomous squad,\n　we don't exactly need permission.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Рури",
+   "text": "「Но прошу прощения — тем не менее.」",
+   "orig": "Ruri\n「But I offer my apologies nonetheless.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Джулио",
+   "text": "「Простите мою резкость, Электронная фея.\n　Раз уж вы всё равно здесь, \n　мне будет приятно принять вас как гостей.」",
+   "orig": "Julio\n「Forgive me for my gruffness, Electron Fairy.\n　Since you are already here, it would \n　give me great pleasure to have you as guests.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Джулио",
+   "text": "「Не желаете ли провести \n　учебный бой с силами \n　обороны Мисуруги?」",
+   "orig": "Julio\n「Would you care to engage \n　in a war game with the  \n　Misurugi Defense Forces?」"
+  },
+  {
+   "i": 30,
+   "speaker": "Харри",
+   "text": "「К-капитан!\n　Они же…」",
+   "orig": "Harry\n「C-Captain!\n　They are—」"
+  },
+  {
+   "i": 31,
+   "speaker": "Рури",
+   "text": "「Я знаю, Харри.」",
+   "orig": "Ruri\n「I'm aware, Harry.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Рури",
+   "text": "「Благодарю, император Джулио.\n　Мы почтительно принимаем ваше приглашение.」",
+   "orig": "Ruri\n「Thank you, Emperor Julio.\n　We respectfully accept your invitation.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Рури",
+   "text": "「Раз уж вы, судя по всему, будете \n　стрелять боевыми, мы ответим тем же.」",
+   "orig": "Ruri\n「As you will apparently be using \n　live ammunition, we'll follow suit.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Юрика",
+   "text": "「Ой-ой, похоже, император-сопляк\n　всерьёз разозлил Рури.」",
+   "orig": "Yurika\n「Uh-oh, looks like Emperor Brat\n　has gotten Ruri all riled up.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Рури",
+   "text": "「Всем бойцам — приготовиться к вылету.」",
+   "orig": "Ruri\n「All combatants, prepare for launch.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Атрун",
+   "text": "「Таск,\n　как твой «Пара-Мейл»?」",
+   "orig": "Athrun\n「Tusk,\n　how's the Para-Mail?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Таск",
+   "text": "「Полный порядок.\n　Я всё это время возился с ним на острове.\n　Джилл сберегла его для меня.」",
+   "orig": "Tusk\n「No problems.\n　I've been maintaining it the whole time\n　while on the island. Jill held on to it for me.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Розали",
+   "text": "「Фу, это что? Парень за штурвалом «Мейла»?\n　Что-то в этом не так.」",
+   "orig": "Rosalie\n「Eww, what? A male mail rider?\n　Something's just wrong with that.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Крис",
+   "text": "「Бр-р. И он что, н-носит такой же\n　костюм, как у нас?」",
+   "orig": "Chris\n「Ick. D-does he wear a suit like\n　we do, too?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Таск",
+   "text": "「Размечтались!」",
+   "orig": "Tusk\n「In your dreams!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Таск",
+   "text": "（С твоего благословения, мама,\n　я поведу твою «Аркебузу».）",
+   "orig": "Tusk\n（With your blessings, mother,\n　I use your Arquebus.）"
+  },
+  {
+   "i": 42,
+   "speaker": "Эрша",
+   "text": "「Кстати… Таск, верно?\n　Ты явно знаком с Анж, но кем\n　именно ты ей приходишься?」",
+   "orig": "Ersha\n「Anyway... Tusk, wasn't it?\n　You seem to know Ange, but what\n　exactly is your relationship to her?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Таск",
+   "text": "「Мы провели вместе где-то неделю.」",
+   "orig": "Tusk\n「We spent time together for about a week.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Синн",
+   "text": "「Прошу прощения?!」",
+   "orig": "Shinn\n「I beg your pardon?!」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Да ладно — ну всё!\n　Ты разрушил весь мой образ Анж!」",
+   "orig": "$n\n「Holee—That's it!\n　You've ruined my image of Ange!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Найн",
+   "text": "「Кэп, тише!」",
+   "orig": "Nine\n「Cap, hush!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Салия",
+   "text": "「Анж!\n　У тебя совсем стыда нет?」",
+   "orig": "Salia\n「Ange!\n　Have you no shame?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Анж",
+   "text": "「О чём это вы вообще?」",
+   "orig": "Ange\n「What are you talking about?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Вивиан",
+   "text": "「Анж?」",
+   "orig": "Vivian\n「Ange?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Анж",
+   "text": "「Розали, Крис.\n　Кто-нибудь из вас видел Хильду?」",
+   "orig": "Ange\n「Rosalie, Chris.\n　Have either of you seen Hilda?」"
+  },
+  {
+   "i": 51,
+   "speaker": "Розали",
+   "text": "「Откуда мне знать? Я за дезертирами не слежу.」",
+   "orig": "Rosalie\n「How would I know? I don't keep track of deserters.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Анж",
+   "text": "「Понятно.\n　Значит, её ещё не поймали.」",
+   "orig": "Ange\n「I see.\n　So she hasn't been recaptured yet.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Момока",
+   "text": "「Леди Анжелиза…」",
+   "orig": "Momoka\n「Lady Angelise...」"
+  },
+  {
+   "i": 54,
+   "speaker": "Анж",
+   "text": "（Что ж, Хильда, у меня ничего не вышло, \n　и возвращаться мне больше некуда.）",
+   "orig": "Ange\n（Well, Hilda, I failed, and I no \n　longer have a place to call home.）"
+  },
+  {
+   "i": 55,
+   "speaker": "Рури",
+   "text": "「Хм. Какие будут предложения?」",
+   "orig": "Ruri\n「Hmm. Recommendations?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Бандзё",
+   "text": "「Капитан Рури, предлагаю пока оставить поиски Хильды.」",
+   "orig": "Banjo\n「Captain Ruri, I say we forget tracking Hilda for now.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рури",
+   "text": "「Согласна. Сейчас надо сосредоточиться на том,\n　как выпутаться из нынешнего положения.」",
+   "orig": "Ruri\n「I agree. We need to concentrate on how to\n　free ourselves from our current situation.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Рури",
+   "text": "「Император Джулио хочет учебный бой,\n　но, боюсь, я не смогу избавить его\n　ни от потерь, ни от позора.」",
+   "orig": "Ruri\n「Emperor Julio wants a war game,\n　but I'm afraid I can't spare him the ensuing\n　damages or humiliation.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Рури",
+   "text": "「Поэтому сейчас главной задачей \n　сделаем отход «Надэсико».」",
+   "orig": "Ruri\n「Therefore, at this time, let's make \n　the withdraw of the Nadesico a priority.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Анж",
+   "text": "「Простите, капитан Рури.\n　Но этот приказ я выполнить не могу.」",
+   "orig": "Ange\n「I'm sorry, Captain Ruri.\n　But I can't follow those orders.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Рури",
+   "text": "「Поделать я с этим ничего не могу: формально ты\n　дезертирка, так что поступай как знаешь, Анж.」",
+   "orig": "Ruri\n「Not much I can do about that, as you are technically\n　a deserter, so do as you please, Ange.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Рури",
+   "text": "「А раз уж тайное стало явным, тот же приказ\n　я отдаю и всем остальным.」",
+   "orig": "Ruri\n「And now that that cat's out of the bag, I'm\n　issuing the same order to everyone.」"
+  },
+  {
+   "i": 63,
+   "speaker": "$n",
+   "text": "「Иначе говоря, можно делать что душе угодно.」",
+   "orig": "$n\n「In other words, we can do whatever we want.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе! Ура! Погнали!」",
+   "orig": "Kappei\n「Heh heh! Yay! Let's do it!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Кира",
+   "text": "「Против нас беспилотные дроны?\n　Что ж, тогда я и не подумаю их щадить!」",
+   "orig": "Kira\n「Our opponents are unmanned drones?\n　Well, then, I won't bother giving any quarter!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Синн",
+   "text": "「Кира…」",
+   "orig": "Shinn\n「Kira...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Лунамария",
+   "text": "「Кира, тебя, похоже, по-настоящему вывели\n　из себя действия империи Мисуруги.」",
+   "orig": "Lunamaria\n「Kira, you seem really riled up over\n　Misurugi Empire's actions.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Рури",
+   "text": "「Рассчитаем маршрут отхода «Надэсико».」",
+   "orig": "Ruri\n「Let's work out the withdraw route for the Nadesico.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Атрун",
+   "text": "「Таск,\n　как твой «Пара-Мейл»?」",
+   "orig": "Athrun\n「Tusk,\n　how's the Para-Mail?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Таск",
+   "text": "「Полный порядок.\n　Я всё это время возился с ним на острове.\n　Джилл сберегла его для меня.」",
+   "orig": "Tusk\n「No problems.\n　I've been maintaining it the whole time\n　while on the island. Jill held on to it for me.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Розали",
+   "text": "「Фу, это что? Парень за штурвалом «Мейла»?\n　Что-то в этом не так.」",
+   "orig": "Rosalie\n「Eww, what? A male mail rider?\n　Something's just wrong with that.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Крис",
+   "text": "「Бр-р. И он что, н-носит такой же\n　костюм, как у нас?」",
+   "orig": "Chris\n「Ick. D-does he wear a suit like\n　we do, too?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Таск",
+   "text": "「Размечтались!」",
+   "orig": "Tusk\n「In your dreams!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Таск",
+   "text": "（С твоего благословения, мама,\n　я поведу твою «Аркебузу».）",
+   "orig": "Tusk\n（With your blessings, mother,\n　I use your Arquebus.）"
+  },
+  {
+   "i": 75,
+   "speaker": "Эрша",
+   "text": "「Кстати… Таск, верно?\n　Ты явно знаком с Анж, но кем\n　именно ты ей приходишься?」",
+   "orig": "Ersha\n「Anyway... Tusk, wasn't it?\n　You seem to know Ange, but what\n　exactly is your relationship to her?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Таск",
+   "text": "「Мы провели вместе где-то неделю.」",
+   "orig": "Tusk\n「We spent time together for about a week.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Синн",
+   "text": "「Прошу прощения?!」",
+   "orig": "Shinn\n「I beg your pardon?!」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Т-ты серьёзно?\n　Таск — парень Анж?」",
+   "orig": "$n\n「A-are you serious?\n　Tusk is Ange's boyfriend?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Найн",
+   "text": "「Не надо так бурно реагировать.」",
+   "orig": "Nine\n「You're overreacting, Sis.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Салия",
+   "text": "「Анж!\n　У тебя совсем стыда нет?」",
+   "orig": "Salia\n「Ange!\n　Have you no shame?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Анж",
+   "text": "「О чём это вы вообще?」",
+   "orig": "Ange\n「What are you talking about?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Вивиан",
+   "text": "「Анж?」",
+   "orig": "Vivian\n「Ange?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Анж",
+   "text": "「Розали, Крис.\n　Кто-нибудь из вас видел Хильду?」",
+   "orig": "Ange\n「Rosalie, Chris.\n　Have either of you seen Hilda?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Розали",
+   "text": "「Откуда мне знать? Я за дезертирами не слежу.」",
+   "orig": "Rosalie\n「How would I know? I don't keep track of deserters.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Анж",
+   "text": "「Понятно.\n　Значит, её ещё не поймали.」",
+   "orig": "Ange\n「I see.\n　So she hasn't been recaptured yet.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Момока",
+   "text": "「Леди Анжелиза…」",
+   "orig": "Momoka\n「Lady Angelise...」"
+  },
+  {
+   "i": 87,
+   "speaker": "Анж",
+   "text": "（Что ж, Хильда, у меня ничего не вышло, \n　и возвращаться мне больше некуда.）",
+   "orig": "Ange\n（Well, Hilda, I failed, and I no \n　longer have a place to call home.）"
+  },
+  {
+   "i": 88,
+   "speaker": "Рури",
+   "text": "「Хм. Какие будут предложения?」",
+   "orig": "Ruri\n「Hmm. Recommendations?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Бандзё",
+   "text": "「Капитан Рури, предлагаю пока оставить поиски Хильды.」",
+   "orig": "Banjo\n「Captain Ruri, I say we forget tracking Hilda for now.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Рури",
+   "text": "「Согласна. Сейчас надо сосредоточиться на том,\n　как выпутаться из нынешнего положения.」",
+   "orig": "Ruri\n「I agree. We need to concentrate on how to\n　free ourselves from our current situation.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Рури",
+   "text": "「Император Джулио хочет учебный бой,\n　но, боюсь, я не смогу избавить его\n　ни от потерь, ни от позора.」",
+   "orig": "Ruri\n「Emperor Julio wants a war game,\n　but I'm afraid I can't spare him the ensuing\n　damages or humiliation.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Рури",
+   "text": "「Поэтому сейчас главной задачей \n　сделаем отход «Надэсико».」",
+   "orig": "Ruri\n「Therefore, at this time, let's make \n　the withdraw of the Nadesico a priority.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Анж",
+   "text": "「Простите, капитан Рури.\n　Но этот приказ я выполнить не могу.」",
+   "orig": "Ange\n「I'm sorry, Captain Ruri.\n　But I can't follow those orders.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Рури",
+   "text": "「Поделать я с этим ничего не могу: формально ты\n　дезертирка, так что поступай как знаешь, Анж.」",
+   "orig": "Ruri\n「Not much I can do about that, as you are technically\n　a deserter, so do as you please, Ange.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Рури",
+   "text": "「А раз уж тайное стало явным, тот же приказ\n　я отдаю и всем остальным.」",
+   "orig": "Ruri\n「And now that that cat's out of the bag, I'm\n　issuing the same order to everyone.」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Что ж, я прекрасно знаю, чем займусь.」",
+   "orig": "$n\n「Well then, I know exactly what I'm going to do.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе, вот это другой разговор!」",
+   "orig": "Kappei\n「Heh heh, now you're talking!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Кира",
+   "text": "「Против нас беспилотные дроны?\n　Что ж, тогда я и не подумаю их щадить!」",
+   "orig": "Kira\n「Our opponents are unmanned drones?\n　Well, then, I won't bother giving any quarter!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Синн",
+   "text": "「Кира…」",
+   "orig": "Shinn\n「Kira...」"
+  },
+  {
+   "i": 100,
+   "speaker": "Лунамария",
+   "text": "「Кира, тебя, похоже, по-настоящему вывели\n　из себя действия империи Мисуруги.」",
+   "orig": "Lunamaria\n「Kira, you seem really riled up over\n　Misurugi Empire's actions.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Рури",
+   "text": "「Рассчитаем маршрут отхода «Надэсико».」",
+   "orig": "Ruri\n「Let's work out the withdraw route for the Nadesico.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Рури",
+   "text": "「Долго удерживать эту позицию бессмысленно.\n　В ближайшие 5 минут прикрывайте «Надэсико C», \n　пока он не выйдет на указанный рубеж.」",
+   "orig": "Ruri\n「Since it's futile to hold this position for very long.\n　Within the next 5 minutes, give the Nadesico C \n　support cover as it makes it to that line.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Рури",
+   "text": "「Начинаем операцию.\n　Мы покажем императору Джулио, что оборона\n　Мисуруги не просто жалко слаба…」",
+   "orig": "Ruri\n「Commence operation.\n　We'll show Emperor Julio that not only\n　are Misurugi's defenses sadly inadequate—」"
+  },
+  {
+   "i": 104,
+   "speaker": "Рури",
+   "text": "「…но и выбьем из него спесивую \n　самоуверенность так, что он \n　этого ещё долго не забудет.」",
+   "orig": "Ruri\n「but also, give his snobby,  \n　overconfidence in them, a \n　beating he won't soon forget.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Рури",
+   "text": "「Не сдерживайтесь.」",
+   "orig": "Ruri\n「Hold nothing back.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Харри",
+   "text": "（Ого, капитан настроена предельно серьёзно!）",
+   "orig": "Harry\n（Whoa, the Captain's deadly serious!）"
+  },
+  {
+   "i": 107,
+   "speaker": "Анж",
+   "text": "「Джулио, Сильвия,\n　считайте это прощанием навсегда!」",
+   "orig": "Ange\n「Julio, Sylvia,\n　consider this farewell forever!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Харри",
+   "text": "「Сообщение с «Птолемея»!\n　Приближаются драконы!」",
+   "orig": "Harry\n「Incoming communique from the Ptolemaios!\n　Dragons inbound!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Юрика",
+   "text": "「Что?!」",
+   "orig": "Yurika\n「What?!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Крис",
+   "text": "「Драконы за пределами Зоны D?」",
+   "orig": "Chris\n「Dragons outside of Area D?」"
+  },
+  {
+   "i": 111,
+   "speaker": "Розали",
+   "text": "「А что Арзенал?\n　Они что, прозевали Сингулярную реакцию?」",
+   "orig": "Rosalie\n「What is Arzenal's response?\n　Have they missed the Singular Reaction?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Салия",
+   "text": "（Алектра, неужели ты\n　намеренно игнорируешь драконов?）",
+   "orig": "Salia\n（Alektra, are you\n　deliberately ignoring the Dragons?）"
+  },
+  {
+   "i": 113,
+   "speaker": "Акихо",
+   "text": "「Что это такое?!」",
+   "orig": "Akiho\n「What is that?!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Сильвия",
+   "text": "「Силы небесные!」",
+   "orig": "Sylvia\n「Holy smokes!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Джулио",
+   "text": "「«Н-Надэсико»!\n　У вас на борту есть Нормы!\n　Немедленно бросьте их против драконов!」",
+   "orig": "Julio\n「N-Nadesico!\n　You have Normas aboard your ship!\n　Launch them against the Dragons immediately!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Рури",
+   "text": "「Не надо учить нас делать нашу работу.」",
+   "orig": "Ruri\n「You don't need to tell us how to do our job.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Майто",
+   "text": "「Нужно остановить драконов прежде, \n　чем они обрушатся на город!」",
+   "orig": "Maito\n「We must stop the Dragons before they \n　can inflict damage upon the city!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Локон",
+   "text": "「Но дроны Мисуруги запрограммированы \n　атаковать только нас!」",
+   "orig": "Lockon\n「But the Misurugi drones are \n　programmed only to attack us!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Тиерия",
+   "text": "「Проклятый император-болван!」",
+   "orig": "Tieria\n「That damned fool emperor!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Анж",
+   "text": "「Капитан Рури,\n　уводите «Надэсико».」",
+   "orig": "Ange\n「Captain Ruri,\n　withdraw the Nadesico.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Анж",
+   "text": "「Драконов оставьте мне!」",
+   "orig": "Ange\n「Leave the Dragons to me!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Таск",
+   "text": "「Анж…」",
+   "orig": "Tusk\n「Ange...」"
+  },
+  {
+   "i": 123,
+   "speaker": "Анж",
+   "text": "「Мисуруги прогнила так, что уже не спасти.」",
+   "orig": "Ange\n「Misurugi is now corrupt beyond redemption.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Анж",
+   "text": "（И всё же я обещаю, что никогда не\n　предам память отца и матери.）",
+   "orig": "Ange\n（However, I promise never to fail to honor\n　the memories of my mother and father.）"
+  },
+  {
+   "i": 125,
+   "speaker": "Харри",
+   "text": "「Сенсоры фиксируют рост числа бозонных частиц!\n　Думаю, это Акито!」",
+   "orig": "Harry\n「Sensors indicate an increase of boson particles!\n　I believe it's Akito!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Юрика",
+   "text": "「Акито!」",
+   "orig": "Yurika\n「Akito!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Акито",
+   "text": "「Хильда тоже здесь, со мной, цела и невредима.」",
+   "orig": "Akito\n「Hilda is here, too, safe with me.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Хильда",
+   "text": "「Я…」",
+   "orig": "Hilda\n「I—」"
+  },
+  {
+   "i": 129,
+   "speaker": "Розали",
+   "text": "「Хильда, уже поздно! Мне плевать, как глубоко\n　ты будешь извиняться! Я тебя никогда не прощу!」",
+   "orig": "Rosalie\n「Hilda, it's too late! I don't care how deeply\n　you apologize! I'll never forgive you!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Крис",
+   "text": "「Предательница!\n　Трусиха!」",
+   "orig": "Chris\n「Traitor!\n　Coward!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Хильда",
+   "text": "「М-м…」",
+   "orig": "Hilda\n「Mm...」"
+  },
+  {
+   "i": 132,
+   "speaker": "Анж",
+   "text": "「Розали, Крис, довольно!」",
+   "orig": "Ange\n「Rosalie, Chris, that's enough!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Розали",
+   "text": "「Не лезь, Падшая принцесса!\n　Одна дезертирка защищает другую? Вот умора!」",
+   "orig": "Rosalie\n「Stay out of it, Fallen Princess!\n　One deserter defending another? What a crock!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Атрун",
+   "text": "「Сначала драконы! Отношения выясните потом!」",
+   "orig": "Athrun\n「Take care of the Dragons first! Hash it out later!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Крис",
+   "text": "「Как прикажете, господин Атрун.」",
+   "orig": "Chris\n「By your command, Master Athrun.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Кира",
+   "text": "「Ты сможешь сражаться, Хильда?」",
+   "orig": "Kira\n「Can you fight, Hilda?」"
+  },
+  {
+   "i": 137,
+   "speaker": "Хильда",
+   "text": "「Я…」",
+   "orig": "Hilda\n「I—」"
+  },
+  {
+   "i": 138,
+   "speaker": "Анж",
+   "text": "「Подними голову, Хильда, прошу.\n　Ни тебе, ни мне больше некуда возвращаться.」",
+   "orig": "Ange\n「Raise your face, please, Hilda.\n　You and I—we no longer have homes to return to.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Анж",
+   "text": "「Значит, мы построим себе собственный дом.」",
+   "orig": "Ange\n「So we'll build a place to call our own, instead.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Хильда",
+   "text": "「Я буду драться.」",
+   "orig": "Hilda\n「I'll fight.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Рури",
+   "text": "「Небольшое изменение в планах.\n　Перехват драконов становится первоочередной задачей.」",
+   "orig": "Ruri\n「Slight change in plans, people.\n　Interception of the Dragons now takes top priority.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Рури",
+   "text": "「Помните, как ваши действия отразятся на городе и\n　горожанах, и выполняйте приказ быстро. \n　Продолжайте бой, пока «Надэсико» отходит.」",
+   "orig": "Ruri\n「Consider how your actions will affect the city and\n　citizens and carry out your orders quickly. \n　Continue fighting as the Nadesico withdraws.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Сэцуна",
+   "text": "「Будьте осторожны!\n　Дроны по-прежнему нацелены только на нас!」",
+   "orig": "Setsuna\n「Be careful out there!\n　The drones are still programmed only to fight us!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Анж",
+   "text": "「И прекрасно.\n　Я уничтожу и драконов, и дронов…\n　а потом и весь этот мир!」",
+   "orig": "Ange\n「That's fine with me.\n　I'll destroy the Dragons and the drones...\n　and after that, the world!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Хильда",
+   "text": "「Уничтожить мир…」",
+   "orig": "Hilda\n「Destroy the world...」"
+  },
+  {
+   "i": 146,
+   "speaker": "Анж",
+   "text": "「Нам это по силам, Хильда.\n　Только так мы и выживем!」",
+   "orig": "Ange\n「We can do it, Hilda.\n　That's how we'll survive!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Харри",
+   "text": "「«Надэсико» отходит!」",
+   "orig": "Harry\n「Nadesico withdrawing!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Рури",
+   "text": "「Всем продолжать.」",
+   "orig": "Ruri\n「Everyone continue.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Анж",
+   "text": "「Прощай, империя Мисуруги.\n　Молись, чтобы я никогда не вернулась.」",
+   "orig": "Ange\n「So long, Misurugi Empire.\n　You better hope I never return.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Анж",
+   "text": "「Потому что если вернусь — я сотру это место с лица земли!」",
+   "orig": "Ange\n「For if I do, I will destroy this place!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Пёрпл",
+   "text": "（До чего любопытная выходит картина.\n　Приехать сюда определённо стоило.）",
+   "orig": "Purple\n（Such an interesting situation.\n　Coming here was all worth it.）"
+  },
+  {
+   "i": 152,
+   "speaker": "Пёрпл",
+   "text": "（Хо-хо-хо. Отряд «Брейв-экспресс»,\n　я жду не дождусь дня, когда уничтожу вас.）",
+   "orig": "Purple\n（Hohoho. Brave Express Corps,\n　I look forward to the day I can destroy you.）"
+  },
+  {
+   "i": 153,
+   "speaker": "Джулио",
+   "text": "「Анжелиза!」",
+   "orig": "Julio\n「Angelise!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Риза",
+   "text": "（Наконец-то время пришло.）",
+   "orig": "Riza\n（Finally the time has come.）"
+  },
+  {
+   "i": 155,
+   "speaker": "Риза",
+   "text": "（Наконец-то мы сможем\n　ступить на землю Мисуруги.）",
+   "orig": "Riza\n（At long last we will be able to\n　set foot in Misurugi.）"
+  },
+  {
+   "i": 156,
+   "speaker": "Риза",
+   "text": "（А долгожданный день станет куда ближе!）",
+   "orig": "Riza\n（Bringing a very long-awaited day much closer!）"
+  },
+  {
+   "i": 157,
+   "speaker": "Анж",
+   "text": "「Спасибо, Таск.」",
+   "orig": "Ange\n「Thanks, Tusk.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Таск",
+   "text": "「Не стоит, Анж.\n　Считаю это своим долгом.」",
+   "orig": "Tusk\n「No worries, Ange.\n　I consider it my duty.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Таск",
+   "text": "「Я ведь твой должник после того, \n　как увидел тебя на острове голой.」",
+   "orig": "Tusk\n「I owe you after seeing  \n　you nude on the island.」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Голой?!」",
+   "orig": "$n\n「Nude?!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Сабуроута",
+   "text": "「Ты серьёзно?!」",
+   "orig": "Saburouta\n「Are you serious?!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Синн",
+   "text": "「Как у тебя вообще язык повернулся?」",
+   "orig": "Shinn\n「How could you even bring that up?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Анж",
+   "text": "「Хватит!\n　Сосредоточьтесь на бою!」",
+   "orig": "Ange\n「Enough!\n　Concentrate on fighting!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Таск",
+   "text": "「П-прости! Так точно!」",
+   "orig": "Tusk\n「S-sorry! Yes, ma'am!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Анж",
+   "text": "「Спасибо, Таск.」",
+   "orig": "Ange\n「Thanks, Tusk.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Таск",
+   "text": "「Не стоит, Анж.\n　Считаю это своим долгом.」",
+   "orig": "Tusk\n「No worries, Ange.\n　I consider it my duty.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Таск",
+   "text": "「Я ведь твой должник после того, \n　как увидел тебя на острове голой.」",
+   "orig": "Tusk\n「I owe you after seeing  \n　you nude on the island.」"
+  },
+  {
+   "i": 168,
+   "speaker": "$n",
+   "text": "「Что?!\n　Голой?」",
+   "orig": "$n\n「What?!\n　Nude?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Сабуроута",
+   "text": "「Ты серьёзно?!」",
+   "orig": "Saburouta\n「Are you serious?!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Синн",
+   "text": "「Как у тебя вообще язык повернулся?」",
+   "orig": "Shinn\n「How could you even bring that up?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Анж",
+   "text": "「Хватит!\n　Сосредоточьтесь на бою!」",
+   "orig": "Ange\n「Enough!\n　Concentrate on fighting!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Таск",
+   "text": "「П-принято!」",
+   "orig": "Tusk\n「R-Roger!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Харри",
+   "text": "「Маршрут отхода для всех сил рассчитан.\n　Удерживаем позицию и ведём огонь на прикрытие.」",
+   "orig": "Harry\n「Withdraw solution for all forces secure.\n　We will hold this position and give cover fire.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Рури",
+   "text": "「Остаётся только уничтожить драконов.\n　Продержитесь ещё немного.」",
+   "orig": "Ruri\n「All that's left to do is destroy the Dragons.\n　Hang in there just a little longer, people.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Харри",
+   "text": "「Все драконы уничтожены!」",
+   "orig": "Harry\n「All Dragons destroyed!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Рури",
+   "text": "「Остаётся только отвести наши силы.\n　И побыстрее.」",
+   "orig": "Ruri\n「All that's left to do is withdraw our forces.\n　Be quick about it.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Харри",
+   "text": "「Все драконы уничтожены!」",
+   "orig": "Harry\n「All Dragons destroyed!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Рури",
+   "text": "「Очень хорошо.」",
+   "orig": "Ruri\n「Very well.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Джулио",
+   "text": "「Н-не может быть.\n　Все мои силы… Какое глубокое разочарование!」",
+   "orig": "Julio\n「I-I don't believe it.\n　All my forces... How extremely disappointing!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Рёко",
+   "text": "「Анж!\n　Твой братец — трус!」",
+   "orig": "Ryoko\n「Ange!\n　That brother of yours is a coward!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Анж",
+   "text": "「Я давно уже не считаю этого глупца своим братом.」",
+   "orig": "Ange\n「I don't think of that fool as my brother any longer.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Анж",
+   "text": "「И полностью с тобой согласна.」",
+   "orig": "Ange\n「And I completely agree with you.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Вивиан",
+   "text": "「Так им и надо, Анж.」",
+   "orig": "Vivian\n「You tell them, Ange.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Салия",
+   "text": "「Теперь осталось разобраться с драконами.\n　За дело!」",
+   "orig": "Salia\n「Now all we have to do is take care of the Dragons.\n　Let's do it!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Джулио",
+   "text": "「Н-не может быть.\n　Все мои силы… Какое глубокое разочарование!」",
+   "orig": "Julio\n「I-I don't believe it.\n　All my forces... How extremely disappointing!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Рёко",
+   "text": "「Анж!\n　Твой братец — трус!」",
+   "orig": "Ryoko\n「Ange!\n　That brother of yours is a coward!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Анж",
+   "text": "「Я давно уже не считаю этого глупца своим братом.」",
+   "orig": "Ange\n「I don't think of that fool as my brother any longer.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Анж",
+   "text": "「И полностью с тобой согласна.」",
+   "orig": "Ange\n「And I completely agree with you.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Вивиан",
+   "text": "「Так им и надо, Анж.」",
+   "orig": "Vivian\n「You tell them, Ange.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Рури",
+   "text": "「Здесь мы закончили.\n　Остаётся только уйти.\n　Харри, уводи нас отсюда.」",
+   "orig": "Ruri\n「We're finished here.\n　All that's left to do is leave.\n　Harry, get us out of here.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Харри",
+   "text": "「Принято!\n　«Надэсико C» отходит немедленно!」",
+   "orig": "Harry\n「Roger!\n　Nadesico C, withdrawing posthaste!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Харри",
+   "text": "「С начала операции прошло 4 минуты!」",
+   "orig": "Harry\n「4 minutes lapsed since operation start!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Юрика",
+   "text": "「Мы не выдержим такого затяжного боя!\n　Риск, что что-то пойдёт не так, только растёт!」",
+   "orig": "Yurika\n「We can't sustain a prolonged battle like this!\n　The risk of something going wrong increases!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Рури",
+   "text": "「На всё про всё — одна минута.\n　Так что действуйте. Я на вас рассчитываю.」",
+   "orig": "Ruri\n「1 minute to do what needs to be done.\n　So get it done. I'm counting on you all.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Харри",
+   "text": "「С начала операции прошло 5 минут!」",
+   "orig": "Harry\n「5 minutes lapsed since operation start!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Рури",
+   "text": "「Мы не успели отойти вовремя…」",
+   "orig": "Ruri\n「We failed to withdraw in time...」"
+  },
+  {
+   "i": 197,
+   "speaker": "Джулио",
+   "text": "「Вы проиграли, Электронная фея!\n　Передай ей, Анжелиза. А когда наплачешься\n　над своей судьбой — ползи ко мне на коленях!」",
+   "orig": "Julio\n「You've lost, Electron Fairy!\n　Tell her, Angelise. After you've finished lamenting\n　your situation, come grovel before me!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Анж",
+   "text": "「Мы не успели!」",
+   "orig": "Ange\n「We didn't make it!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Харри",
+   "text": "「С начала операции прошло 5 минут!」",
+   "orig": "Harry\n「5 minutes lapsed since operation start!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Юрика",
+   "text": "「Продолжать бой — значит подставить город!」",
+   "orig": "Yurika\n「Continuing the battle puts the city at risk!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Рури",
+   "text": "「Да, к сожалению, мы не справились…」",
+   "orig": "Ruri\n「Yes, unfortunately, we have failed...」"
+  },
+  {
+   "i": 202,
+   "speaker": "Анж",
+   "text": "（Мне здесь больше нет места.）",
+   "orig": "Ange\n（I no longer belong here.）"
+  },
+  {
+   "i": 203,
+   "speaker": "Анж",
+   "text": "「Но я всё ещё жива!\n　И пока я жива, я создам себе место, \n　где мне и правда будут рады!」",
+   "orig": "Ange\n「But I am still alive!\n　And while I live, I shall create a place \n　for myself where I do belong!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Таск",
+   "text": "（Отец, мама, друзья… \n　Не тревожьтесь: я больше не заблудший.）",
+   "orig": "Tusk\n（Father, mother, friends... \n　Fear not for, I am no longer lost.）"
+  },
+  {
+   "i": 205,
+   "speaker": "Таск",
+   "text": "「Моя задача — защищать Анж!\n　Я — рыцарь «Виллькисса»!」",
+   "orig": "Tusk\n「My mission is to protect Ange!\n　I am a Knight of Villkiss!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Вивиан",
+   "text": "「Мне как-то не по себе.\n　От той высокой башни идёт тревожное чувство.」",
+   "orig": "Vivian\n「I feel strange.\n　That large tower has an unsettling feeling about it.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Вивиан",
+   "text": "「Время викторины.\n　Что же со мной станет?」",
+   "orig": "Vivian\n「Time for a quiz.\n　What will become of me?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Хильда",
+   "text": "（Мама…）",
+   "orig": "Hilda\n（Mother...）"
+  },
+  {
+   "i": 209,
+   "speaker": "Хильда",
+   "text": "（Ты отреклась от меня, мама.）",
+   "orig": "Hilda\n（You have forsaken me, mother.）"
+  },
+  {
+   "i": 210,
+   "speaker": "Хильда",
+   "text": "「Но что я сделала не так?\n　Что плохого в том, что я не владею Маной?」",
+   "orig": "Hilda\n「But what did I do wrong?\n　What's wrong with not being able to use Mana?」"
+  },
+  {
+   "i": 211,
+   "speaker": "Хильда",
+   "text": "「Будь проклят этот мир!\n　Пропади он пропадом!」",
+   "orig": "Hilda\n「Damn this world!\n　Damn it all to hell!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Акито",
+   "text": "「Рури…\n　Хильда…」",
+   "orig": "Akito\n「Ruri...\n　Hilda...」"
+  },
+  {
+   "i": 213,
+   "speaker": "Рури",
+   "text": "「Командир Джилл ввела меня в курс дела,\n　так что в общих чертах я всё понимаю.」",
+   "orig": "Ruri\n「Commander Jill filled me in\n　so I have a general understanding of the situation.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Рури",
+   "text": "「Хорошая работа, Акито.\n　Спасибо, что вернул её, \n　пока всё не стало ещё хуже.」",
+   "orig": "Ruri\n「Good work, Akito.\n　Thank you for bringing her back \n　before things could get any worse.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Акито",
+   "text": "（Не отчаивайся, Хильда.\n　Тебе есть куда возвращаться.）",
+   "orig": "Akito\n（Don't despair, Hilda.\n　You have a place you can return to.）"
+  },
+  {
+   "i": 216,
+   "speaker": "Эрша",
+   "text": "（Что это за ощущение?）",
+   "orig": "Ersha\n（What is this sensation?）"
+  },
+  {
+   "i": 217,
+   "speaker": "Крис",
+   "text": "（Такое чувство, будто за мной кто-то наблюдает.）",
+   "orig": "Chris\n（I feel like someone's watching me.）"
+  },
+  {
+   "i": 218,
+   "speaker": "Салия",
+   "text": "（Такое чувство, будто кто-то\n　заглядывает мне прямо в мысли.）",
+   "orig": "Salia\n（It feels like someone is\n　looking directly into my mind.）"
+  },
+  {
+   "i": 219,
+   "speaker": "Пёрпл",
+   "text": "「Хе-хе, так вот он какой, Майто Сэмпудзи?」",
+   "orig": "Purple\n「Heheh, so that's Maito Senpuji, is it?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Майто",
+   "text": "（Что это за чувство?）",
+   "orig": "Maito\n（What is this feeling?）"
+  },
+  {
+   "i": 221,
+   "speaker": "Майто",
+   "text": "（Это знак — знак зла.\n　Ощущение чистейшего, чернейшего зла,\n　какого я ещё никогда не встречал.）",
+   "orig": "Maito\n（It's a sign—a sign of evil.\n　A sensation of the purest, darkest evil,\n　unlike I have ever experienced.）"
+  },
+  {
+   "i": 222,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

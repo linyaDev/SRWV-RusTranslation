@@ -1,0 +1,1390 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Отто",
+   "text": "「Майор Конрой,\n　что здесь, собственно, происходит?」",
+   "orig": "Otto\n「Major Conroy,\n　what exactly is going on?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Конрой",
+   "text": "「Если вы о машинах и пилотах, которых мы собрали\n　здесь, на «Нахель Аргаме», — это сделано для того,\n　чтобы мы могли проверить их действия.」",
+   "orig": "Conroy\n「If you're talking about the mobile weapons and pilots\n　that we've brought together on the Nahel Argama,\n　that's so we can confirm their actions.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Конрой",
+   "text": "「Раз они не принадлежат ни к одной организации,\n　мы обязаны точно знать, чем они заняты.」",
+   "orig": "Conroy\n「Since they don't belong to any organization,\n　we've got to keep track of them accurately.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Отто",
+   "text": "「Что ж, это, конечно, верно.」",
+   "orig": "Otto\n「Well that's certainly true.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Альберто",
+   "text": "（Проклятый ЭКОАС.\n　Наконец-то зашевелились?）",
+   "orig": "Alberto\n（That damn ECOAS.\n　They're finally on the move, eh?）"
+  },
+  {
+   "i": 5,
+   "speaker": "Альберто",
+   "text": "（Что ж, и ладно.\n　Теперь, когда мы увидели «Юникорн» в деле,\n　остаётся только убраться отсюда.）",
+   "orig": "Alberto\n（I guess that's alright.\n　Now that we've seen how the Unicorn operates,\n　all that's left is for us to get out of here.）"
+  },
+  {
+   "i": 6,
+   "speaker": "Лиам",
+   "text": "「К нам приближаются свои.」",
+   "orig": "Liam\n「Friendly forces are on the way.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Майто",
+   "text": "「Гигантский транспортный самолёт?」",
+   "orig": "Maito\n「A giant transport aircraft?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Джудо",
+   "text": "「Это «Гаруда», из войск Земной Федерации.」",
+   "orig": "Judau\n「That's the Garuda, from the Earth Federation Forces.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Найджел",
+   "text": "「Пф-ф.\n　Похоже, с этим мы ещё намучаемся.」",
+   "orig": "Nigel\n「Pfff.\n　This is shaping up to be a real pain in the rump.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Буран",
+   "text": "「Говорит майор Буран Блутарх, «Джи-Хаунд»,\n　войска Земной Федерации.」",
+   "orig": "Buran\n「This is Major Buran Blutarch of G-Hound,\n　member of the Earth Federation Forces.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Буран",
+   "text": "「С этой минуты «Лондо Белл» переходит в подчинение\n　Генерального штаба войск Земной Федерации.」",
+   "orig": "Buran\n「As of now, Londo Bell will take orders from\n　the Earth Federation Force General Headquarters.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Отто",
+   "text": "「Постойте.\n　Вы получили на это согласие\n　командующего «Лондо Белл» Брайта?」",
+   "orig": "Otto\n「Hold on.\n　Have you received the consent of Londo Bell\n　Commander Bright for this?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Отто",
+   "text": "「Как вам известно,\n　у нас есть особое разрешение действовать\n　самостоятельно, как отдельное соединение.」",
+   "orig": "Otto\n「As you know,\n　we have specific permission to operate\n　independently as an external unit.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Буран",
+   "text": "「Вы и сами прекрасно знаете обстановку.\n　Генштаб счёл, что сейчас необходимо\n　сосредоточить силы в один кулак.」",
+   "orig": "Buran\n「You too are surely aware of the situation.\n　GHQ has deemed that it's now necessary\n　to concentrate our forces.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Отто",
+   "text": "「Если всю эту огневую мощь, что вы стягиваете,\n　вы намерены бросить в бессмысленную войну, —\n　мы категорически против.」",
+   "orig": "Otto\n「All this firepower that you're bringing together,\n　if you're planning to use it to fight a futile war,\n　we're strongly opposed to that.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Буран",
+   "text": "「Хм.」",
+   "orig": "Buran\n「Hmph.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Отто",
+   "text": "「Хм.」",
+   "orig": "Otto\n「Hmph.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Буран",
+   "text": "「Ну хорошо.\n　К этому разговору мы ещё вернёмся.」",
+   "orig": "Buran\n「Alright, fine.\n　We'll talk about this again at another time.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Буран",
+   "text": "「А пока передайте нам своих иррегуляров —\n　то есть отряды из другого мира.」",
+   "orig": "Buran\n「Now then, turn over your Irregulars -\n　that is, your forces from another world.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Отто",
+   "text": "「Что?」",
+   "orig": "Otto\n「What?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Буран",
+   "text": "「Они не входят в состав «Лондо Белл».\n　Право на самостоятельность на них не распространяется.」",
+   "orig": "Buran\n「They're not members of Londo Bell.\n　The right to operate independently doesn't apply.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Отто",
+   "text": "「Но из этого следует и то,\n　что приказы Генштаба им тоже не указ.」",
+   "orig": "Otto\n「But that also means that\n　they don't have to follow orders from GHQ.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Буран",
+   "text": "「Генштаб постановил, что в чрезвычайное время\n　мы не можем оставлять на свободе отряды\n　неизвестной принадлежности.」",
+   "orig": "Buran\n「Well GHQ has deemed that\n　in times of emergency we can't just\n　let forces of unknown affiliation go free.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Отто",
+   "text": "「Майор Конрой,\n　так вот зачем вы собрали их всех в одном месте?」",
+   "orig": "Otto\n「Major Conroy,\n　is that why you got them all together in one place?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Конрой",
+   "text": "「Да, именно так.」",
+   "orig": "Conroy\n「Yes, that's right.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Отто",
+   "text": "「Но так же нельзя! Это союзники, которые пришли\n　к нам с добрыми намерениями. И вы готовы выдать их,\n　даже не выяснив их истинных намерений?」",
+   "orig": "Otto\n「But you just can't go about it this way! These are\n　well-meaning allies. Can you just turn them over\n　without confirming what their intentions actually are?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Буран",
+   "text": "「Так вы считаете, что так и надо поступить?」",
+   "orig": "Buran\n「So you think that that's the way to go?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Отто",
+   "text": "「Что?」",
+   "orig": "Otto\n「What?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Буран",
+   "text": "「Мы вынуждены пойти на это, чтобы покончить\n　с той самой бессмысленной войной, о которой вы говорите.」",
+   "orig": "Buran\n「We've got to do this in order to put an end\n　to this futile war you're talking about.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Отто",
+   "text": "「Нет, в этом нет никакой необходимости.\n　Если ударить по самому средоточию сил врага,\n　мы сможем закончить эту войну.」",
+   "orig": "Otto\n「No, that won't be necessary.\n　If we attack the nexus of the enemy forces,\n　we'll be able to end this war.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Буран",
+   "text": "「Прошлый опыт ясно показывает: такими действиями\n　коренных проблем не решить.」",
+   "orig": "Buran\n「It's clear from past experience that such actions\n　won't resolve the fundamental problems.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Отто",
+   "text": "「То есть вы намерены ударить по колонии\n　и вынудить спейсноидов сдаться?」",
+   "orig": "Otto\n「So you're planning to attack the colony\n　and force the Spacenoids to surrender?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Буран",
+   "text": "「Это возмездие за сброшенный Зеоном «Аксис»\n　и за удары по городам.」",
+   "orig": "Buran\n「This is retaliation for Zeon's Axis Drop\n　and its attacks on urban areas.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Отто",
+   "text": "「Если мы и дальше будем так поступать, бойня\n　не прекратится, пока человечество не сгинет совсем.」",
+   "orig": "Otto\n「If we keep doing things like that, the fighting\n　will continue until mankind really does perish.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Отто",
+   "text": "「Понимает ли это Генеральный штаб?\n　Когда до этого дойдёт, первой\n　выгорит дотла сама Земля!」",
+   "orig": "Otto\n「Does General Headquarters understand?\n　When that happens, it'll be\n　the Earth itself that flames out first!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Буран",
+   "text": "「Похоже, этот разговор ни к чему нас не приведёт.」",
+   "orig": "Buran\n「Seems like wherever this goes it's more of the same.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Отто",
+   "text": "「Совершенно верно, майор Буран.\n　Мы выясним их истинные намерения\n　и доложим о результатах.」",
+   "orig": "Otto\n「That's very true, Major Buran.\n　We'll ascertain their actual intentions\n　and then report the results.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Отто",
+   "text": "「А если говорить понятнее —\n　до свидания!」",
+   "orig": "Otto\n「To put it in more easy-to-understand language,\n　I'll see you later!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Отто",
+   "text": "「Возвращайтесь на базу и передайте Генштабу,\n　что плану войск Федерации мы следовать не будем.」",
+   "orig": "Otto\n「Return to base and tell GHQ that we won't\n　be following the strategy of the Federation Forces.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Буран",
+   "text": "「Раз вы так говорите…」",
+   "orig": "Buran\n「If you say so.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Буран",
+   "text": "「Раз вы так говорите, значит, так тому и быть.」",
+   "orig": "Buran\n「If you say so, I guess that's that.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Отто",
+   "text": "「Они намерены применить силу?」",
+   "orig": "Otto\n「They're planning to resort to force?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Конрой",
+   "text": "「Капитан Отто.」",
+   "orig": "Conroy\n「Captain Otto.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Отто",
+   "text": "「Потом!\n　У меня сейчас дел по горло!」",
+   "orig": "Otto\n「Later!\n　I've got my hands full right now!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Конрой",
+   "text": "「Прошу прощения, капитан.\n　Отныне приказы здесь отдаём мы.」",
+   "orig": "Conroy\n「I'm sorry, sir.\n　From here on out you're going to follow our orders.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Отто",
+   "text": "「Майор Конрой, о чём вы вообще?」",
+   "orig": "Otto\n「Major Conroy, what are you talking about?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Конрой",
+   "text": "「С этой минуты ЭКОАС берёт\n　«Нахель Аргаму» под свой контроль.」",
+   "orig": "Conroy\n「ECOAS will now take control\n　of the Nahel Argama.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Капитан Федерации",
+   "text": "「Майор Буран!\n　ЭКОАС не сумел взять\n　иррегуляров под контроль!」",
+   "orig": "Federation Captain\n「Major Buran!\n　ECOAS has failed to take control\n　of the Irregulars!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Буран",
+   "text": "「Значит, выбора нет.\n　Придётся действовать силой.」",
+   "orig": "Buran\n「We've got no choice then.\n　We'll have to resort to force.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Язан",
+   "text": "「Вот, значит, чем всё обернулось.」",
+   "orig": "Yazan\n「So this is how things end up.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Джерид",
+   "text": "「А вы, я смотрю, довольны, командир.」",
+   "orig": "Jerid\n「You look pleased, Commander.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Язан",
+   "text": "「Да нет, вовсе нет.\n　Просто я с самого начала не верил,\n　что эта публика пойдёт с нами по-тихому.」",
+   "orig": "Yazan\n「No, no, I'm not.\n　It's just that I never did think that those people\n　would just come along quietly.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Джерид",
+   "text": "「Понимаю, о чём вы.\n　Видно, придётся разобраться с ними по-свойски.」",
+   "orig": "Jerid\n「I know what you mean.\n　I guess we're gonna have to have it out with them.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Язан",
+   "text": "「Кто бы мог подумать, что они так быстро\n　отплатят за добро злом?」",
+   "orig": "Yazan\n「Who'd have thought that they'd be so quick\n　to repay kindness with evil?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Буран",
+   "text": "「Всем подразделениям приготовиться к атаке! Берём\n　«Лондо Белл» и иррегуляров под свой контроль!」",
+   "orig": "Buran\n「All units, prepare to attack! We're going to\n　take control of Londo Bell and the Irregulars!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Дагза",
+   "text": "「Майор Буран, постойте! Сражаться\n　с другими частями войск Федерации—」",
+   "orig": "Daguza\n「Major Buran, wait! Fighting with\n　other members of the Federation Force—」"
+  },
+  {
+   "i": 57,
+   "speaker": "Буран",
+   "text": "「Жаль, но пока «Лондо Белл» не подчиняется приказам\n　Генштаба, с ними придётся обращаться как с мятежниками.」",
+   "orig": "Buran\n「It's a shame, but as long as Londo Bell doesn't follow\n　GHQ orders, they have to be treated as rebels.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Дагза",
+   "text": "（И здесь солдаты, связанные по рукам приказом.）",
+   "orig": "Daguza\n（Even here there are soldiers tied up by orders.）"
+  },
+  {
+   "i": 59,
+   "speaker": "Дагза",
+   "text": "（А Генштаб прежде всего печётся\n　о том, как бы не уронить лицо!）",
+   "orig": "Daguza\n（And GHQ is concerned about\n　saving its own face first and foremost!）"
+  },
+  {
+   "i": 60,
+   "speaker": "Михиро",
+   "text": "「Капитан Отто!\n　Получено сообщение от командира Окиты!」",
+   "orig": "Mihiro\n「Captain Otto!\n　We received a message from Commander Okita!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Михиро",
+   "text": "「«Следуя своим убеждениям, мы окажем\n　сопротивление их насилию.\n　Вам надлежит немедленно отойти», — передают они.」",
+   "orig": "Mihiro\n「In accordance with our principles,\n　we will resist their violent actions.\n　You must withdraw immediately, it says.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Отто",
+   "text": "「Да вы издеваетесь!」",
+   "orig": "Otto\n「You've got to be kidding!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Лиам",
+   "text": "「Капитан.」",
+   "orig": "Liam\n「Captain.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Отто",
+   "text": "「В такой же передряге они прикрыли Джудо,\n　а в прошлом бою прикрыли нас!」",
+   "orig": "Otto\n「Under the same circumstances they backed Judau,\n　and in the last conflict they backed us!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Отто",
+   "text": "「Если мы отплатим за это пощёчиной,\n　то в итоге потеряем человеческий облик.」",
+   "orig": "Otto\n「If we repay that kindness with a slap in the face,\n　we'll end up losing our humanity.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Лиам",
+   "text": "「Значит, тогда—」",
+   "orig": "Liam\n「Alright then—」"
+  },
+  {
+   "i": 67,
+   "speaker": "Отто",
+   "text": "「«Лондо Белл», всем в атаку!\n　Мы не обязаны слушаться «Джи-Хаунда»,\n　раз они вознамерились попрать наши права!」",
+   "orig": "Otto\n「Londo Bell, all units attack!\n　We don't have to follow G-Hound if they're\n　intent on violating our rights!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Джудо",
+   "text": "「Капитан Отто!\n　От ваших слов у меня мурашки по коже!」",
+   "orig": "Judau\n「Captain Otto!\n　What you said earlier gave me chills!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Хатауэй",
+   "text": "「Мы все чувствуем то же самое!」",
+   "orig": "Hathaway\n「All of us feel the same way you do!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Окита",
+   "text": "「Благодарим вас, капитан Отто.」",
+   "orig": "Okita\n「We want to thank you, Captain Otto.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Отто",
+   "text": "「И вам того же, командир Окита.」",
+   "orig": "Otto\n「Same to you, Commander Okita.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Окита",
+   "text": "「Нет-нет,\n　это с вас надо брать пример настоящего солдата.」",
+   "orig": "Okita\n「No, no,\n　it's you who we can look to as a true soldier.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Отто",
+   "text": "「Когда меня так расхваливают,\n　поневоле хочется оправдать ожидания.」",
+   "orig": "Otto\n「When you give me too much credit like that,\n　it makes me want to live up to your expectations.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Дагза",
+   "text": "「Майор Буран!\n　Если вы не прекратите бой,\n　нам придётся ответить!」",
+   "orig": "Daguza\n「Major Buran!\n　If you refuse to stop fighting,\n　we're going to have to respond!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Буран",
+   "text": "「ЭКОАС встаёт на сторону «Лондо Белл»?」",
+   "orig": "Buran\n「ECOAS is taking Londo Bell's side?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Дагза",
+   "text": "「Мы поддерживаем «Лондо Белл»!\n　И как солдаты, и как люди!」",
+   "orig": "Daguza\n「We support Londo Bell!\n　As soldiers, and as human beings!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Отто",
+   "text": "「Вас понял, командир!\n　Добро пожаловать в нашу команду!」",
+   "orig": "Otto\n「Roger that, Commander!\n　Welcome to our team!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Дагза",
+   "text": "「Рад быть на борту!」",
+   "orig": "Daguza\n「Happy to be aboard!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Банагер",
+   "text": "「Дагза.」",
+   "orig": "Banagher\n「Daguza.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Дагза",
+   "text": "「Прости, Конрой,\n　что втянул тебя в это.」",
+   "orig": "Daguza\n「Sorry, Conroy,\n　for dragging you into this.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Конрой",
+   "text": "「Пустяки. Я пошёл на это\n　по своей воле.」",
+   "orig": "Conroy\n「No problem. I chose to do this\n　of my own free will.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Дагза",
+   "text": "「Отлично! С этой минуты\n　мы тоже бойцы «Лондо Белл»!」",
+   "orig": "Daguza\n「Good! From here on out,\n　we're members of Londo Bell too!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Отто",
+   "text": "「Всем подразделениям!\n　Отбрасываем «Джи-Хаунд»\n　и как можно скорее уходим отсюда!」",
+   "orig": "Otto\n「All units!\n　Let's drive back G-Hound\n　and get out of here as soon as possible!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Окита",
+   "text": "「Мы действуем по своим убеждениям!\n　А потому сражайтесь без оглядки и без стыда!」",
+   "orig": "Okita\n「We act according to our own convictions!\n　Now fight with no reservations and no shame!」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Есть!」",
+   "orig": "$n\n「Roger!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Найн",
+   "text": "「Подумать только: союзники сражаются друг с другом.」",
+   "orig": "Nine\n「The idea of allies actually fighting each other.」"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「Жаль, но подружиться с ними у нас не вышло.」",
+   "orig": "$n\n「It's a shame, but we couldn't become friends with them.」"
+  },
+  {
+   "i": 88,
+   "speaker": "$n",
+   "text": "「Враг нашего врага — они хотели перетянуть нас\n　на свою сторону, да не сложилось.\n　Мы такие, какие есть, и всё тут.」",
+   "orig": "$n\n「As enemies of a common enemy, they had planned\n　to put us on their side, but it wasn't meant to be.\n　We are who we are, and that's it.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Найн",
+   "text": "「Кажется, я понимаю.」",
+   "orig": "Nine\n「I think I understand.」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「И этого достаточно, Найн.」",
+   "orig": "$n\n「That'll do, Nine.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Отто",
+   "text": "「Всем подразделениям — в атаку!\n　Поражение исключено!」",
+   "orig": "Otto\n「All units, commence attack!\n　Defeat is not an option!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Отто",
+   "text": "「Всем подразделениям!\n　Отбрасываем «Джи-Хаунд»\n　и как можно скорее уходим отсюда!」",
+   "orig": "Otto\n「All units!\n　Let's drive back G-Hound\n　and get out of here as soon as possible!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Окита",
+   "text": "「Мы действуем по своим убеждениям!\n　А потому сражайтесь без оглядки и без стыда!」",
+   "orig": "Okita\n「We act according to our own convictions!\n　Now fight with no reservations and no shame!」"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Есть!」",
+   "orig": "$n\n「Roger!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Найн",
+   "text": "「Подумать только: союзники сражаются друг с другом.」",
+   "orig": "Nine\n「The idea of allies actually fighting each other.」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Союзник, друг, товарищ — неважно.\n　Что неправильно, то неправильно.\n　Тут уступать нельзя, Найн.」",
+   "orig": "$n\n「Ally, friend, comrade, none of that matters.\n　What's not right is not right.\n　We can't compromise on that, Nine.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Найн",
+   "text": "「Поняла.\n　Буду иметь в виду.」",
+   "orig": "Nine\n「Understood.\n　I'll keep that in mind.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Отто",
+   "text": "「Всем подразделениям — в атаку!\n　Поражение исключено!」",
+   "orig": "Otto\n「All units, commence attack!\n　Defeat is not an option!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Джерид",
+   "text": "「Бьём по «Нахель Аргаме»\n　и кончаем с этим!」",
+   "orig": "Jerid\n「Take it to the Nahel Argama,\n　and let's get this over with!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Язан",
+   "text": "「Вперёд, Джерид!\n　Прикроем тебя отсюда!」",
+   "orig": "Yazan\n「Go, Jerid!\n　We'll back you up from here!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Джерид",
+   "text": "「Ну, с такой скоростью «Бьярланта»—」",
+   "orig": "Jerid\n「Well, as fast as this Byarlant is—」"
+  },
+  {
+   "i": 102,
+   "speaker": "Лиам",
+   "text": "「Зенитная оборона прорвана!」",
+   "orig": "Liam\n「The anti-aircraft defenses have been broken!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Отто",
+   "text": "「Уклонение, немедленно!」",
+   "orig": "Otto\n「Take evasive action, now!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Хатауэй",
+   "text": "「Бесполезно!\n　Мы не успеваем!」",
+   "orig": "Hathaway\n「It's no use!\n　There's no time!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Джерид",
+   "text": "「Вот теперь ты мой!」",
+   "orig": "Jerid\n「Now I've got you!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Джерид",
+   "text": "「Кха!\n　Откуда ведётся огонь?」",
+   "orig": "Jerid\n「Urgh!\n　Where's the attack coming from?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Амуро",
+   "text": "「«Ре-ГЗ»!\n　Кто за штурвалом?」",
+   "orig": "Amuro\n「Re-GZ!\n　Who's the pilot?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Джудо",
+   "text": "「Это чувство…\n　Неужели это—」",
+   "orig": "Judau\n「This feeling,\n　I wonder if it's—」"
+  },
+  {
+   "i": 109,
+   "speaker": "Камий",
+   "text": "「Мы вас прикроем!\n　«Нахель Аргама», отходите!」",
+   "orig": "Kamille\n「We'll provide back-up!\n　Nahel Argama, retreat!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Джудо",
+   "text": "「Камий!\n　Это правда ты?」",
+   "orig": "Judau\n「Kamille!\n　Is that really you?」"
+  },
+  {
+   "i": 111,
+   "speaker": "Камий",
+   "text": "「Да.」",
+   "orig": "Kamille\n「Yeah.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Лиам",
+   "text": "「Капитан!\n　«Ра Кайлум» тоже идёт сюда!」",
+   "orig": "Liam\n「Captain!\n　The Ra Cailum is coming too!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Пуру",
+   "text": "「Джудо!」",
+   "orig": "Ple\n「Judau!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Пуру Два",
+   "text": "「Это правда ты!」",
+   "orig": "Ple Two\n「It's really you!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Джудо",
+   "text": "「Пуру Два!」",
+   "orig": "Judau\n「Ple Two!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Брайт",
+   "text": "「Мы вас прикроем, капитан Отто.\n　Возвращайтесь на позицию.」",
+   "orig": "Bright\n「We'll back you up, Captain Otto.\n　Get back in position.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Хатауэй",
+   "text": "「Отец!」",
+   "orig": "Hathaway\n「Father!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Брайт",
+   "text": "（Хатауэй.\n　Рад, что ты цел.）",
+   "orig": "Bright\n（Hathaway.\n　Glad you're alright.）"
+  },
+  {
+   "i": 119,
+   "speaker": "Амуро",
+   "text": "「Значит, Камий сражается\n　с «Ра Кайлума»?」",
+   "orig": "Amuro\n「So Kamille is fighting\n　from the Ra Cailum, eh?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Брайт",
+   "text": "「Что?\n　Камий здесь?」",
+   "orig": "Bright\n「What?\n　Kamille is here?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Хатауэй",
+   "text": "「Так этот «Ре-ГЗ»\n　был не с «Ра Кайлума»?!」",
+   "orig": "Hathaway\n「That Re-GZ,\n　it wasn't with the Ra Cailum?!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Брайт",
+   "text": "「М-да. И о том, что Камий вернулся\n　на передовую, я тоже ничего не слышал.」",
+   "orig": "Bright\n「Mmm. And I hadn't heard\n　that Kamille was back on the front line.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Джудо",
+   "text": "「Так ты поможешь нам, Камий?」",
+   "orig": "Judau\n「So you're gonna lend a hand, right Kamille?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Камий",
+   "text": "「Да, собираюсь.」",
+   "orig": "Kamille\n「I plan to, yes.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Джерид",
+   "text": "「Камий!\n　Ты… ты Камий Бидан?」",
+   "orig": "Jerid\n「Kamille!\n　You-you're Kamille Bidan?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Камий",
+   "text": "「Э-э, да.」",
+   "orig": "Kamille\n「Uh, yes.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Язан",
+   "text": "「Вот это удача!\n　У меня прямо кровь закипела!」",
+   "orig": "Yazan\n「This is awesome!\n　Suddenly I've got the fighting spirit!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Джерид",
+   "text": "「Раз ты на стороне «Лондо Белл» —\n　значит, я тебя прикончу!」",
+   "orig": "Jerid\n「If you're siding with Londo Bell,\n　I'll just have to take you down!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Камий",
+   "text": "「Хм.」",
+   "orig": "Kamille\n「Hmph.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Фа",
+   "text": "「Камий.」",
+   "orig": "Fa\n「Kamille.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Камий",
+   "text": "「Всё в порядке, Фа.\n　Сейчас главное — защитить «Нахель Аргаму».」",
+   "orig": "Kamille\n「It's alright, Fa.\n　Right now let's protect the Nahel Argama.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Амуро",
+   "text": "「Камий,\n　после боя у меня к тебе много вопросов.」",
+   "orig": "Amuro\n「Kamille,\n　there's a lot I want to ask you after this.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Джерид",
+   "text": "「«Пенелопа» здесь?」",
+   "orig": "Jerid\n「The Penelope is here?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Язан",
+   "text": "「Этот парень делает что хочет.」",
+   "orig": "Yazan\n「That kid just does whatever he wants.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Буран",
+   "text": "「Лэйн Эйм!\n　Я же велел тебе ждать на «Гаруде»!」",
+   "orig": "Buran\n「Lane Aime!\n　I thought I told you to wait in the Garuda!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Лэйн",
+   "text": "「Но, майор Буран,\n　к «Лондо Белл» подошло подкрепление —\n　значит, и нам нужно больше огневой мощи!」",
+   "orig": "Lane\n「But Major Buran,\n　with reinforcements coming to Londo Bell,\n　we need more firepower on our side too!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Лэйн",
+   "text": "「«Пенелопа» к вылету готова!\n　Я тоже буду драться!」",
+   "orig": "Lane\n「The Penelope is ready to go!\n　I'm gonna be part of this battle!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Буран",
+   "text": "「Ладно, так и быть.\n　Только не лезь на рожон.」",
+   "orig": "Buran\n「Alright, that's fine, I suppose.\n　Just don't overextend yourself.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Лэйн",
+   "text": "「Есть!」",
+   "orig": "Lane\n「Roger!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Хатауэй",
+   "text": "「Эта машина!\n　На ней Миновски-крафт,\n　точно как на «Кси Гандаме»!」",
+   "orig": "Hathaway\n「That unit!\n　It's equipped with a Minovsky Craft,\n　just like the Ξ Gundam!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Лэйн",
+   "text": "（Я слышал, что «Лондо Белл» испытывает\n　преемника «Пенелопы».）",
+   "orig": "Lane\n（I heard that Londo Bell is testing\n　the successor to the Penelope.）"
+  },
+  {
+   "i": 142,
+   "speaker": "Лэйн",
+   "text": "（И если они клепают машину по той же схеме —\n　это лучшее доказательство моих способностей!）",
+   "orig": "Lane\n（If they crank out a unit based on the same concept,\n　that'll be proof of my capabilities!）"
+  },
+  {
+   "i": 143,
+   "speaker": "Лэйн",
+   "text": "「Ну, поехали!\n　Всыплем этим предателям как следует!」",
+   "orig": "Lane\n「Here we go!\n　Let's give these traitors a sound thrashing!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Джерид",
+   "text": "「Иду к тебе, Камий!\n　Пора сбить спесь с предателей!」",
+   "orig": "Jerid\n「Here I come, Kamille!\n　Time to knock the traitors down a peg!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Язан",
+   "text": "「Сделай себе одолжение — сдавайся сейчас же!」",
+   "orig": "Yazan\n「Do yourself a favor and surrender now!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Камий",
+   "text": "「И какой же смысл в этом бою?」",
+   "orig": "Kamille\n「What meaning exactly does this battle have?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Лиам",
+   "text": "「Отход «Джи-Хаунда» подтверждён.」",
+   "orig": "Liam\n「G-Hound's retreat confirmed.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Отто",
+   "text": "「Значит, с сегодняшнего дня мы предатели?」",
+   "orig": "Otto\n「So from today on we're traitors, eh?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Бандзё",
+   "text": "「Это не так, капитан Отто.」",
+   "orig": "Banjo\n「That's not true, Captain Otto.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Тобиа",
+   "text": "「Мы просто идём тем путём, который считаем верным.」",
+   "orig": "Tobia\n「We're just following the path that we think is right.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Брайт",
+   "text": "「Именно так.\n　У нас есть право действовать как\n　самостоятельное соединение. Стыдиться нам нечего.」",
+   "orig": "Bright\n「That's right.\n　We have the authority to operate as an\n　independent unit. We have nothing to be ashamed of.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Брайт",
+   "text": "「И всё же дорога, что ждёт нас впереди,\n　будет тяжелее всего пройденного до сих пор.」",
+   "orig": "Bright\n「Still, the path that awaits us now\n　is a rougher one than we've been on so far.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Окита",
+   "text": "「Когда этот трудный путь начнёт подкашивать вас,\n　вспомните о выборе, который вы сделали сегодня.」",
+   "orig": "Okita\n「Whenever you get discouraged about the difficult path\n　you're following, remember the choice you made today.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Окита",
+   "text": "「Твёрдые убеждения непременно\n　укрепят ваш дух и не дадут вам поколебаться.」",
+   "orig": "Okita\n「Your strong convictions are sure to\n　steady your nerves and keep you from wavering.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Камий",
+   "text": "「Значит, это они пришли из другого мира?」",
+   "orig": "Kamille\n「So they're the ones who came from another world, eh?」"
+  },
+  {
+   "i": 156,
+   "speaker": "Амуро",
+   "text": "「А теперь скажи, Камий.\n　Как именно ты здесь оказался?」",
+   "orig": "Amuro\n「Now tell me, Kamille.\n　How exactly did you get here?」"
+  },
+  {
+   "i": 157,
+   "speaker": "Камий",
+   "text": "「На самом деле—」",
+   "orig": "Kamille\n「Well actually—」"
+  },
+  {
+   "i": 158,
+   "speaker": "Камий",
+   "text": "「Не могу сказать.」",
+   "orig": "Kamille\n「I can't say.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Джудо",
+   "text": "「Камий!」",
+   "orig": "Judau\n「Kamille!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Камий",
+   "text": "「Надеюсь, мы ещё встретимся.」",
+   "orig": "Kamille\n「I hope we meet again.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Синн",
+   "text": "「А это вообще кто такой был?」",
+   "orig": "Shinn\n「Who the heck was that, anyway?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Тобиа",
+   "text": "「Похоже, один из товарищей Джудо.」",
+   "orig": "Tobia\n「One of Judau's comrades, apparently.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Банагер",
+   "text": "「Выходит, он явился сюда, чтобы защитить\n　«Нахель Аргаму».」",
+   "orig": "Banagher\n「So she must have come here to protect\n　the Nahel Argama.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Джудо",
+   "text": "「Камий.」",
+   "orig": "Judau\n「Kamille.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Буран",
+   "text": "「Кх!\n　Нужно отходить!」",
+   "orig": "Buran\n「Argh!\n　We've got to retreat!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Дагза",
+   "text": "「Майор Буран!」",
+   "orig": "Daguza\n「Major Buran!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Буран",
+   "text": "「Отныне мы враги.」",
+   "orig": "Buran\n「From here on out we're enemies.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Конрой",
+   "text": "「Майор до мозга костей —\n　намерен исполнить солдатский долг до конца.」",
+   "orig": "Conroy\n「He's a Major through and through,\n　intent on doing his duty as a soldier.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Дагза",
+   "text": "「Выполнять приказы.\n　В этом и состоит долг солдата.」",
+   "orig": "Daguza\n「Obeying orders.\n　That's the duty of a soldier.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Дагза",
+   "text": "「Нам не пристало осуждать майора Бурана. Всё, что\n　нам остаётся, — следовать своим убеждениям.」",
+   "orig": "Daguza\n「We're in no position to criticize Major Buran. All we\n　can do is follow our convictions as best we can.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Язан",
+   "text": "「Впечатляет, «Лондо Белл»!\n　И Камий тоже хорош!」",
+   "orig": "Yazan\n「Very impressive, Londo Bell!\n　And Kamille as well!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Язан",
+   "text": "「Но раз вы не желаете подчиняться,\n　значит, вы наши враги!\n　В следующий раз так легко не отделаетесь!」",
+   "orig": "Yazan\n「But if you're not gonna obey us\n　then you're our enemy!\n　Next time you won't get off so easy!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Бича",
+   "text": "「Похоже, $kwbгосподин Язан$kwe настроен серьёзно.」",
+   "orig": "Beecha\n「Looks like $kwbMr. Yazan$kwe means business.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Элль",
+   "text": "「В ярости он довольно страшен.」",
+   "orig": "Elle\n「He's pretty scary when he's upset.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Джерид",
+   "text": "「Ублюдки из «Лондо Белл»!\n　Вы ничем не лучше АЕУГ!」",
+   "orig": "Jerid\n「Londo Bell bastards!\n　You're no better than AEUG!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Джерид",
+   "text": "「До Зеона мы доберёмся, но сперва — до вас!\n　Ради Земли!」",
+   "orig": "Jerid\n「We'll get Zeon, but we're gonna get you first!\n　For the sake of the Earth!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Камий",
+   "text": "「Джерид!」",
+   "orig": "Kamille\n「Jerid!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Джерид",
+   "text": "「Камий!\n　Так или иначе, сегодня мы всё решим!」",
+   "orig": "Jerid\n「Kamille!\n　We're gonna settle this, one way or another!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Амуро",
+   "text": "「Этот пилот.\n　Он до сих пор не может отпустить Камия.」",
+   "orig": "Amuro\n「That pilot.\n　He still can't let go of Kamille.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Камий",
+   "text": "「Он… он совсем не изменился.」",
+   "orig": "Kamille\n「He-he hasn't changed at all.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Лэйн",
+   "text": "「Чёрт!\n　Вот он, настоящий бой!」",
+   "orig": "Lane\n「Damn it!\n　This is real fighting!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Лэйн",
+   "text": "「Ну, поехали!\n　Уж теперь-то я им покажу!」",
+   "orig": "Lane\n「Here we go!\n　This time I'll really show them!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Хатауэй",
+   "text": "「Эта машина.\n　Должно быть, тот самый «Кси Гандам»,\n　о котором говорила Чан.」",
+   "orig": "Hathaway\n「That unit.\n　It must be the Ξ Gundam\n　that Chan was talking about.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Капитан Федерации",
+   "text": "「Мы не можем потерять корабль класса «Гаруда»!\n　Отходим!」",
+   "orig": "Federation Captain\n「We can't lose our precious Garuda-class!\n　Retreat!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Камий",
+   "text": "「Что за—\n　И надо же было, именно здесь!」",
+   "orig": "Kamille\n「What the—\n　In a place like this!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Фа",
+   "text": "「Камий!」",
+   "orig": "Fa\n「Kamille!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Фа",
+   "text": "「Ах, Камий!」",
+   "orig": "Fa\n「Ah, Kamille!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Камий",
+   "text": "「Прости, Фа.\n　И всё это лишь потому, что ты пошла со мной.」",
+   "orig": "Kamille\n「I'm sorry, Fa.\n　All this just from having you accompany me.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джудо",
+   "text": "「Язан!\n　Мы правда будем драться?」",
+   "orig": "Judau\n「Yazan!\n　We're really gonna do this?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Язан",
+   "text": "「Вот это удача, Джудо!\n　Теперь-то я отплачу тебе за Шангри-Ла!」",
+   "orig": "Yazan\n「This is great, Judau!\n　Now I can pay you back for Shangri-La!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Джудо",
+   "text": "「Взрослый мужик, а носится с пустой обидой?\n　Да это просто стыдно, вот что!」",
+   "orig": "Judau\n「A full-grown man nursing a baseless grudge?\n　That's really unbecoming, that sort of thing!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Амуро",
+   "text": "「Этот тип!\n　Пилот из $kwbбитвы у Килиманджаро$kwe!」",
+   "orig": "Amuro\n「That guy!\n　The pilot from the $kwbBattle at Kilimanjaro$kwe!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Джерид",
+   "text": "「Не думай, что я тот же, что и тогда, Амуро!」",
+   "orig": "Jerid\n「Don't think I'm the same man as I was then, Amuro!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Джерид",
+   "text": "「И я докажу это, стерев тебя в пыль!」",
+   "orig": "Jerid\n「And I'm gonna prove it by pounding you into dust!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Амуро",
+   "text": "「Тебе, похоже, нужны другие, чтобы доказать\n　свою силу. Никакого роста я тут не вижу!」",
+   "orig": "Amuro\n「You apparently need other people to show how\n　strong you are. I'm not seeing any growth at all!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Буран",
+   "text": "「Амуро Рэй! Вот уж не думал, что мне выпадет\n　случай вернуть тебе должок!」",
+   "orig": "Buran\n「Amuro Ray! I never thought\n　I'd get the chance to repay my debt to you!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Амуро",
+   "text": "「Этот тип!\n　Тот самый пилот «Ассимара»!」",
+   "orig": "Amuro\n「This guy!\n　It's that pilot of the Asshimar!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Буран",
+   "text": "「«Анкша» — преемник «Ассимара»!\n　Второй раз я не проиграю!」",
+   "orig": "Buran\n「The Anksha is the successor to the Asshimar!\n　I won't be defeated again!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Дагза",
+   "text": "「Вперёд, Конрой!\n　У нас есть работа —\n　пусть нас хоть предателями назовут!」",
+   "orig": "Daguza\n「Here we go, Conroy!\n　We've got a job to do\n　even if we end up labeled as traitors!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Конрой",
+   "text": "「Так точно, командир!\n　Дух ЭКОАС не умрёт никогда!」",
+   "orig": "Conroy\n「Yes sir, Captain!\n　The spirit of ECOAS will never die!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Брайт",
+   "text": "（Хатауэй.\n　Хорошо, что с ним всё в порядке.）",
+   "orig": "Bright\n（Hathaway.\n　Good thing he's alright.）"
+  },
+  {
+   "i": 202,
+   "speaker": "Меран",
+   "text": "「Капитан.\n　Хотя бы ради Хатауэя\n　мы обязаны справиться во что бы то ни стало.」",
+   "orig": "Meran\n「Captain.\n　For Hathaway's sake too,\n　we've got to rise to the occasion no matter what.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Брайт",
+   "text": "「Именно это я и намерен сделать.」",
+   "orig": "Bright\n「I intend to, without any doubt.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Брайт",
+   "text": "「Я рассчитываю на каждого из вас!\n　Мы доведём дело до конца и восстановим\n　справедливость — как «Лондо Белл»!」",
+   "orig": "Bright\n「I'm counting on each and every one of you!\n　We will finish this to bring justice as Londo Bell!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Пуру",
+   "text": "「Пуру Два!\n　Раз уж нам довелось встретиться с Джудо,\n　давай выложимся без остатка!」",
+   "orig": "Ple\n「Ple Two!\n　Now that we've had the chance to meet Judau,\n　let's give this everything we've got!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Пуру Два",
+   "text": "「Постараемся как следует, чтобы он нас похвалил!」",
+   "orig": "Ple Two\n「Let's do our very best so that he'll praise us!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Пуру",
+   "text": "「Ага!\n　Нужно наверстать упущенное!」",
+   "orig": "Ple\n「Yeah!\n　We need to make up for lost time!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Язан",
+   "text": "「Камий, ты жив!\n　Отличная новость!」",
+   "orig": "Yazan\n「Kamille, you're alive!\n　That's great news!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Камий",
+   "text": "「Язан!」",
+   "orig": "Kamille\n「Yazan!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Язан",
+   "text": "「«Лондо Белл», «Джи-Хаунд» — плевать на всё это.\n　Это дело между нами двоими, так давай повеселимся!」",
+   "orig": "Yazan\n「Londo Bell and G-Hound, none of that matters.\n　This is between you and me, so let's enjoy it!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Камий",
+   "text": "「Ни этот человек, ни этот мир — ничто не изменилось.」",
+   "orig": "Kamille\n「This guy and this world, nothing has changed.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Джерид",
+   "text": "「Камий!」",
+   "orig": "Jerid\n「Kamille!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Камий",
+   "text": "「Прекрати, Джерид!\n　Прекрати этот бой!」",
+   "orig": "Kamille\n「Stop, Jerid!\n　Stop this fighting!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Джерид",
+   "text": "「Тогда молчи и получай своё!\n　Хотя бы так ты сбережёшь жизни тех,\n　кого иначе убьёшь!」",
+   "orig": "Jerid\n「Then shut up and take your lumps!\n　At least then you'll be sparing the lives\n　of the people you're about to kill!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Камий",
+   "text": "「Ты всё ещё заладил про это?」",
+   "orig": "Kamille\n「You're still going on about that?」"
+  },
+  {
+   "i": 216,
+   "speaker": "Джерид",
+   "text": "「Пока ты жив, я буду сражаться с тобой!\n　Чтобы и самому двигаться дальше!」",
+   "orig": "Jerid\n「As long as you're still alive, I'll keep fighting you!\n　So that I can keep moving forward as well!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Камий",
+   "text": "（Если бойня будет продолжаться вот так,\n　не станет ни Земли, ни колоний — ничего!）",
+   "orig": "Kamille\n（If the fighting keeps up like this,\n　there'll be no Earth, no colonies, no nothing!）"
+  },
+  {
+   "i": 218,
+   "speaker": "Камий",
+   "text": "（И всё же нельзя позволить себе принять\n　те методы, к которым прибегает этот мерзавец!）",
+   "orig": "Kamille\n（But even so, we can't let ourselves accept\n　the methods that that bastard is resorting to!）"
+  },
+  {
+   "i": 219,
+   "speaker": "Фа",
+   "text": "（Камий,\n　просто сражайся так, как сам считаешь нужным.）",
+   "orig": "Fa\n（Kamille,\n　just fight however you like.）"
+  },
+  {
+   "i": 220,
+   "speaker": "Фа",
+   "text": "（Ведь я буду тебя защищать!）",
+   "orig": "Fa\n（Because I'll be protecting you!）"
+  },
+  {
+   "i": 221,
+   "speaker": "Лэйн",
+   "text": "「Машины у нас почти равны!\n　Если я одолею его — это и будет доказательством!」",
+   "orig": "Lane\n「The units are pretty much evenly matched!\n　If I beat this guy it'll be proof of my ability!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Хатауэй",
+   "text": "「И только ради этого ты сражаешься?」",
+   "orig": "Hathaway\n「Is that all you're fighting for?」"
+  },
+  {
+   "i": 223,
+   "speaker": "Лэйн",
+   "text": "「Говори что хочешь, предатель!\n　Правда на моей стороне!」",
+   "orig": "Lane\n「Say whatever you want, traitor!\n　Justice is on my side!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Хатауэй",
+   "text": "「И ты думаешь спасти мир\n　с таким вот закостенелым умом?」",
+   "orig": "Hathaway\n「You think you're gonna save the world\n　with rigid thinking like that?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Хатауэй",
+   "text": "「До чего же это похоже на регулярную армию.\n　Попробуй хоть раз увидеть всё как оно есть!」",
+   "orig": "Hathaway\n「This is so typical of the regular army.\n　Try to see things as they really are for a change!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Окита",
+   "text": "（Командир Дагза выбрал свой путь.）",
+   "orig": "Okita\n（Commander Daguza has chosen his own path.）"
+  },
+  {
+   "i": 227,
+   "speaker": "Окита",
+   "text": "（Уверен, он прекрасно с ними сживётся — пусть даже\n　им и довелось родиться в разных мирах.）",
+   "orig": "Okita\n（I'm sure he'll fit in very well with them, even if\n　they happen to have been born in different worlds.）"
+  },
+  {
+   "i": 228,
+   "speaker": "Лэйн",
+   "text": "「Как эти мерзавцы смеют не подчиняться\n　решениям Генштаба в такое тяжёлое время?」",
+   "orig": "Lane\n「How can those bastards not go along with\n　GHQ's decisions in a time of crisis like this?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Лэйн",
+   "text": "「«Лондо Белл»!\n　Вы недостойны «Гандамов»!」",
+   "orig": "Lane\n「Londo Bell!\n　You're not fit to have Gundams!」"
+  },
+  {
+   "i": 230,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

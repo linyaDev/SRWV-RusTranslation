@@ -1,0 +1,2980 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　-Ангар «Туата де Данаан»-",
+   "orig": "　\n　\n　　　　　　　　　-Tuatha de Danaan Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Курц",
+   "text": "「Этот $kwbГлаз феи$kwe и правда нечто!」",
+   "orig": "Kurz\n「That $kwbFairy's Eyes$kwe is pretty amazing!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Клузо",
+   "text": "「Это новое оружие против Лямбда-драйвера.\n　С такой штукой на борту даже наш М9\n　сможет потягаться с $kwbВеномом$kwe «Амальгамы».」",
+   "orig": "Clouseau\n「It's a new weapon for use against the Lambda Driver.\n　With this baby on board, even our M9\n　can take on Amalgam's $kwbVenom$kwe.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Мао",
+   "text": "「Раз они способны разрабатывать такое,\n　значит, «Мифрил» ещё далеко не сломлен.」",
+   "orig": "Mao\n「To be able to develop something like this,\n　it just goes to show that Mithril is far from finished.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Тесса",
+   "text": "「«Амальгама» разгромила множество их баз,\n　но уцелевшие продолжают сражаться.\n　Именно они и создали этот «Глаз феи».」",
+   "orig": "Tessa\n「They've had a lot of their bases crushed by Amalgam,\n　but those who survived are fighting on.\n　They're the ones who created this Fairy's Eyes.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Банагер",
+   "text": "「Похоже, никто из них не собирается сдаваться.」",
+   "orig": "Banagher\n「Looks like none of them is throwing in the towel.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Хатауэй",
+   "text": "「Значит, и нам нельзя позволить себе проиграть.」",
+   "orig": "Hathaway\n「And we can't allow ourselves to be defeated either.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Канамэ",
+   "text": "「И всё равно победы нам, возможно, не видать.」",
+   "orig": "Kaname\n「Even so, we might not be able to achieve victory.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Соскэ",
+   "text": "「Тидори.」",
+   "orig": "Sousuke\n「Chidori.」"
+  },
+  {
+   "i": 12,
+   "speaker": "$n",
+   "text": "「Что на тебя нашло, Канамэ?\n　Непохоже на тебя говорить такое.」",
+   "orig": "$n\n「What's gotten into you, Kaname?\n　It's not like you to say something like that.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Босс",
+   "text": "「$n прав.\n　Нельзя победить, если в голове ты уже проиграл.」",
+   "orig": "Boss\n「$n is right.\n　You can't win if in your mind you've already lost.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Канамэ",
+   "text": "「Если бы можно было побеждать такой простенькой логикой,\n　всё это было бы проще пареной репы.」",
+   "orig": "Kaname\n「If we could win with that sort of simplistic logic,\n　this whole thing would be a cakewalk.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Босс",
+   "text": "「Гррр.」",
+   "orig": "Boss\n「Grrr.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Саяка",
+   "text": "「Что с тобой, Канамэ?」",
+   "orig": "Sayaka\n「What's wrong, Kaname?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Кодзи",
+   "text": "「Босс всего лишь пытался тебя подбодрить.」",
+   "orig": "Koji\n「Boss was just trying to cheer you up.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Канамэ",
+   "text": "「Я это понимаю.\n　Но если мы так и будем продолжать…」",
+   "orig": "Kaname\n「I'm aware of that.\n　But if we just keep going like this—」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тесса",
+   "text": "「Канамэ…」",
+   "orig": "Tessa\n「Kaname...」"
+  },
+  {
+   "i": 20,
+   "speaker": "Канамэ",
+   "text": "「Тесса, ты ведь понимаешь, да?\n　Что если мы и дальше будем воевать так же,\n　нам эту войну никак не выиграть.」",
+   "orig": "Kaname\n「Tessa, you get it, right?\n　That if we continue to fight like we have been,\n　there's no way we can win this thing.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Канамэ",
+   "text": "「Люди. Ресурсы. Средства. Технологии.\n　Нео-Зеон и «Амальгама» превосходят нас\n　во всём.」",
+   "orig": "Kaname\n「Personnel. Resources. Assets. Technology.\n　Neo Zeon and Amalgam surpass us\n　in every way.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Канамэ",
+   "text": "「Если мы будем просто сопротивляться, Нео-Зеон\n　может снова пойти на что-нибудь отчаянное\n　вроде сброса «Акси».」",
+   "orig": "Kaname\n「If we just keep resisting like this, Neo Zeon\n　might resort to some sort of drastic action\n　like the Axis Drop again.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Канамэ",
+   "text": "「А если это случится, Земле конец!」",
+   "orig": "Kaname\n「And if that happens, it's over for the Earth!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Соскэ",
+   "text": "「Успокойся, Тидори.」",
+   "orig": "Sousuke\n「Calm down, Chidori.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Канамэ",
+   "text": "「Я спокойна!」",
+   "orig": "Kaname\n「I am calm!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Синдзи",
+   "text": "「Канамэ…」",
+   "orig": "Shinji\n「Kaname...」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「Что с тобой всё-таки происходит?」",
+   "orig": "$n\n「What's going on with you exactly?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Канамэ",
+   "text": "「Ничего. Совсем ничего.\n　Почему вы не можете понять такую простую вещь?」",
+   "orig": "Kaname\n「Nothing. Nothing at all.\n　Why can't you understand something this simple?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Канамэ",
+   "text": "「Почему вы все закрываете глаза на реальность?」",
+   "orig": "Kaname\n「Why are all of you averting your eyes from reality?」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тесса",
+   "text": "「Канамэ, ты, должно быть, вымоталась.」",
+   "orig": "Tessa\n「Kaname, you must be exhausted.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Тесса",
+   "text": "「Сержант Сагара, даю вам отпуск.\n　Разрешаю сойти на берег вместе с Канамэ.」",
+   "orig": "Tessa\n「Sergeant Sagara, I'm giving you some time off.\n　You have permission to disembark with Kaname.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Соскэ",
+   "text": "「Так точно!」",
+   "orig": "Sousuke\n「Yes, ma'am!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Канамэ",
+   "text": "「Хм.」",
+   "orig": "Kaname\n「Hmph.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тесса",
+   "text": "（Эта внезапная вспышка Канамэ.\n　Возможно, она связана с усилением\n　её способностей $kwbШепчущей$kwe.）",
+   "orig": "Tessa\n（Kaname's sudden outburst.\n　It might be tied to the increase\n　in her $kwbWhispered$kwe powers.）"
+  },
+  {
+   "i": 35,
+   "speaker": "Курц",
+   "text": "「Этот $kwbГлаз феи$kwe и правда нечто!」",
+   "orig": "Kurz\n「That $kwbFairy's Eyes$kwe is pretty amazing!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Клузо",
+   "text": "「Это новое оружие против Лямбда-драйвера.\n　С такой штукой на борту даже наш М9\n　сможет потягаться с $kwbВеномом$kwe «Амальгамы».」",
+   "orig": "Clouseau\n「It's a new weapon for use against the Lambda Driver.\n　With this baby on board, even our M9\n　can take on Amalgam's $kwbVenom$kwe.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Мао",
+   "text": "「Раз они способны разрабатывать такое,\n　значит, «Мифрил» ещё далеко не сломлен.」",
+   "orig": "Mao\n「To be able to develop something like this,\n　it just goes to show that Mithril is far from finished.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Тесса",
+   "text": "「«Амальгама» разгромила множество их баз,\n　но уцелевшие продолжают сражаться.\n　Именно они и создали этот «Глаз феи».」",
+   "orig": "Tessa\n「They've had a lot of their bases crushed by Amalgam,\n　but those who survived are fighting on.\n　They're the ones who created this Fairy's Eyes.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Банагер",
+   "text": "「Похоже, никто из них не собирается сдаваться.」",
+   "orig": "Banagher\n「Looks like none of them is throwing in the towel.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Хатауэй",
+   "text": "「Значит, и нам нельзя позволить себе проиграть.」",
+   "orig": "Hathaway\n「And we can't allow ourselves to be defeated either.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Канамэ",
+   "text": "「И всё равно победы нам, возможно, не видать.」",
+   "orig": "Kaname\n「Even so, we might not be able to achieve victory.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Соскэ",
+   "text": "「Тидори…」",
+   "orig": "Sousuke\n「Chidori...」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「Что на тебя нашло, Канамэ?\n　Это совсем на тебя не похоже.」",
+   "orig": "$n\n「What's gotten into you, Kaname?\n　This sort of thing just isn't like you.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Босс",
+   "text": "「$n прав.\n　Нельзя победить, если в голове ты уже проиграл.」",
+   "orig": "Boss\n「$n is right.\n　You can't win if in your mind you've already lost.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Канамэ",
+   "text": "「Если бы можно было побеждать такой простенькой логикой,\n　всё это было бы проще пареной репы.」",
+   "orig": "Kaname\n「If we could win with that sort of simplistic logic,\n　this whole thing would be a cakewalk.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Босс",
+   "text": "「Гррр.」",
+   "orig": "Boss\n「Grrr.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Саяка",
+   "text": "「Что с тобой, Канамэ?」",
+   "orig": "Sayaka\n「What's wrong, Kaname?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Кодзи",
+   "text": "「Босс всего лишь пытался тебя подбодрить.」",
+   "orig": "Koji\n「Boss was just trying to cheer you up.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Канамэ",
+   "text": "「Я это понимаю.\n　Но если мы так и будем продолжать…」",
+   "orig": "Kaname\n「I'm aware of that.\n　But if we just keep going like this—」"
+  },
+  {
+   "i": 50,
+   "speaker": "Тесса",
+   "text": "「Канамэ.」",
+   "orig": "Tessa\n「Kaname.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Канамэ",
+   "text": "「Тесса, ты ведь понимаешь, да?\n　Что если мы и дальше будем воевать так же,\n　нам эту войну никак не выиграть.」",
+   "orig": "Kaname\n「Tessa, you get it, right?\n　That if we continue to fight like we have been,\n　there's no way we can win this thing.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Канамэ",
+   "text": "「Люди. Ресурсы. Средства. Технологии.\n　Нео-Зеон и «Амальгама» превосходят нас\n　во всём.」",
+   "orig": "Kaname\n「Personnel. Resources. Assets. Technology.\n　Neo Zeon and Amalgam surpass us\n　in every way.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Канамэ",
+   "text": "「Если мы будем просто сопротивляться, Нео-Зеон\n　может снова пойти на что-нибудь отчаянное\n　вроде сброса «Акси».」",
+   "orig": "Kaname\n「If we just keep resisting like this, Neo Zeon\n　might resort to some sort of drastic action\n　like the Axis Drop again.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Канамэ",
+   "text": "「А если это случится, Земле конец!」",
+   "orig": "Kaname\n「And if that happens, it's over for the Earth!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Соскэ",
+   "text": "「Успокойся, Тидори.」",
+   "orig": "Sousuke\n「Calm down, Chidori.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Канамэ",
+   "text": "「Я спокойна!」",
+   "orig": "Kaname\n「I am calm!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Синдзи",
+   "text": "「Канамэ…」",
+   "orig": "Shinji\n「Kaname...」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Да что здесь вообще происходит?」",
+   "orig": "$n\n「Just what exactly is all this about?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Канамэ",
+   "text": "「Ничего. Совсем ничего.\n　Почему вы не можете понять такую простую вещь?」",
+   "orig": "Kaname\n「Nothing. Nothing at all.\n　Why can't you understand something this simple?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Канамэ",
+   "text": "「Почему вы все закрываете глаза на реальность?」",
+   "orig": "Kaname\n「Why are all of you averting your eyes from reality?」"
+  },
+  {
+   "i": 61,
+   "speaker": "Тесса",
+   "text": "「Канамэ, ты, должно быть, вымоталась.」",
+   "orig": "Tessa\n「Kaname, you must be exhausted.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Тесса",
+   "text": "「Сержант Сагара, даю вам отпуск.\n　Разрешаю сойти на берег вместе с Канамэ.」",
+   "orig": "Tessa\n「Sergeant Sagara, I'm giving you some time off.\n　You have permission to disembark with Kaname.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Соскэ",
+   "text": "「Так точно!」",
+   "orig": "Sousuke\n「Yes, ma'am!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Канамэ",
+   "text": "「…」",
+   "orig": "Kaname\n「…」"
+  },
+  {
+   "i": 65,
+   "speaker": "Тесса",
+   "text": "（Эта внезапная вспышка Канамэ.\n　Возможно, она связана с усилением\n　её способностей $kwbШепчущей$kwe.）",
+   "orig": "Tessa\n（Kaname's sudden outburst.\n　It might be tied to the increase\n　in her $kwbWhispered$kwe powers.）"
+  },
+  {
+   "i": 69,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Главный вход старшей школы Дзиндай-",
+   "orig": "　\n　　\n　　　　　　-Jindai High School Main Entrance-"
+  },
+  {
+   "i": 70,
+   "speaker": "Канамэ",
+   "text": "「Вот, значит, куда нас занесло.」",
+   "orig": "Kaname\n「So this is where we ended up.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Соскэ",
+   "text": "「Прости.」",
+   "orig": "Sousuke\n「Sorry.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Канамэ",
+   "text": "「Ничего.\n　В конце концов, нет для нас места\n　дороже этого.」",
+   "orig": "Kaname\n「It's okay.\n　After all, there's no place more precious to us\n　than this place.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Соскэ",
+   "text": "「Тидори.」",
+   "orig": "Sousuke\n「Chidori.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Канамэ",
+   "text": "「Зайдём в наш класс?」",
+   "orig": "Kaname\n「Wanna go to our classroom?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Соскэ",
+   "text": "「Да.」",
+   "orig": "Sousuke\n「Yeah.」"
+  },
+  {
+   "i": 79,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Класс старшей школы Дзиндай-",
+   "orig": "　\n　　\n　　　　　　　-Jindai High School Classroom-"
+  },
+  {
+   "i": 80,
+   "speaker": "Соскэ",
+   "text": "「Канамэ.\n　Насчёт вчерашнего…」",
+   "orig": "Sousuke\n「Kaname.\n　About yesterday—」"
+  },
+  {
+   "i": 81,
+   "speaker": "Канамэ",
+   "text": "「Если ты про мою истерику в ангаре — прости.\n　Я, наверное, и правда устала, как Тесса сказала.」",
+   "orig": "Kaname\n「If you mean my little hissy fit in the hangar,\n　sorry about that. I must've been tired, like Tessa said.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Соскэ",
+   "text": "「Понятно.」",
+   "orig": "Sousuke\n「I see.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Канамэ",
+   "text": "「И всё же иногда мне приходит в голову:\n　миру, возможно, было бы куда лучше,\n　если бы Шепчущих вовсе не существовало.」",
+   "orig": "Kaname\n「But still, it sometimes occurs to me.\n　The world just might be better off\n　if Whispered didn't exist.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Соскэ",
+   "text": "「Тидори…」",
+   "orig": "Sousuke\n「Chidori...」"
+  },
+  {
+   "i": 85,
+   "speaker": "Канамэ",
+   "text": "「Измерение Нового Правильного века, откуда родом Тобиа,\n　прошло исторический путь, похожий на путь нашей Земли,\n　но ничего вроде Шепчущих там, похоже, не было.」",
+   "orig": "Kaname\n「The New Correct Century dimension, where Tobia comes\n　from, followed a similar historical path as this Earth, but\n　there was apparently nothing like the Whispered there.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Канамэ",
+   "text": "「Благодаря этому не было и «Арм Слейвов»,\n　и, как я слышала, их войны между людьми\n　никогда не доходили до такого ужаса, как наши.」",
+   "orig": "Kaname\n「Thanks to which, there were no Arm Slaves,\n　and from what I hear their wars among humans\n　never reached the level of misery as ours have.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Соскэ",
+   "text": "（Майор Калинин\n　как-то говорил примерно то же самое.）",
+   "orig": "Sousuke\n（Major Kalinin\n　was saying the same sort of thing at one point.）"
+  },
+  {
+   "i": 88,
+   "speaker": "Соскэ",
+   "text": "（Что существование Шепчущих изменило мир\n　и в результате мир оказался охвачен войной.）",
+   "orig": "Sousuke\n（That the existence of the Whispered had changed\n　the world and as a result the world was engulfed in war.）"
+  },
+  {
+   "i": 89,
+   "speaker": "Канамэ",
+   "text": "「Существование Шепчущих искорёжило мир.\n　По крайней мере, в том, что старшую школу Дзиндай\n　закрыли, виновата я.」",
+   "orig": "Kaname\n「The existence of the Whispered has warped the world.\n　At the very least, the closing of Jindai High School\n　was my fault.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Канамэ",
+   "text": "「Мне надо извиниться перед Кёко и остальными.」",
+   "orig": "Kaname\n「I've got to apologize to Kyoko and the others.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Соскэ",
+   "text": "「Ты неправа, Тидори.\n　Виноваты те, кто пытается использовать твою силу,\n　силу Шепчущих.」",
+   "orig": "Sousuke\n「You're wrong, Chidori.\n　The fault is with those who try to use your power,\n　the power of the Whispered.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Канамэ",
+   "text": "「Соскэ, выслушай меня.」",
+   "orig": "Kaname\n「Sousuke, listen to me.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Канамэ",
+   "text": "「Я… я правда в это верю.\n　Если эту войну начали Шепчущие,\n　то и закончить её должны Шепчущие.」",
+   "orig": "Kaname\n「I...I really believe this.\n　If it was the Whispered who started this war,\n　then it's got to be the Whispered who end it.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Соскэ",
+   "text": "「Закончить войну?」",
+   "orig": "Sousuke\n「End the war?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Канамэ",
+   "text": "「Федерация. Нео-Зеон. Пока война\n　заканчивается, неважно, кто из них победит.」",
+   "orig": "Kaname\n「The Federation. Neo Zeon. As long as\n　the war ends, it doesn't matter which one wins.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Канамэ",
+   "text": "「Если… если я уйду к «Амальгаме»…」",
+   "orig": "Kaname\n「If...if I go to Amalgam—」"
+  },
+  {
+   "i": 97,
+   "speaker": "Соскэ",
+   "text": "「Тидори, возьми себя в руки!\n　Это совершенно недопустимо!」",
+   "orig": "Sousuke\n「Chidori, pull yourself together!\n　That would be absolutely unforgivable!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Соскэ",
+   "text": "「Нео-Зеон сбрасывал на Землю колонии и метеориты!\n　Если оставить их в покое, это приведёт не к концу\n　войны, а к концу планеты!」",
+   "orig": "Sousuke\n「Neo Zeon dropped colonies and meteorites on Earth!\n　Leaving them to their own devices won't lead to\n　the end of the war, it'll lead to the end of the planet!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Канамэ",
+   "text": "「И что же, по-твоему, нам делать?」",
+   "orig": "Kaname\n「So what are you saying we should do?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Соскэ",
+   "text": "「У меня нет ответа на это.」",
+   "orig": "Sousuke\n「I don't have an answer to that.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Соскэ",
+   "text": "「Но, по-моему, именно для этого и существуют\n　такие организации, как «Лондо Белл» и «Мифрил».」",
+   "orig": "Sousuke\n「But in my opinion it's for that purpose that we have\n　groups like Londo Bell and Mithril.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Канамэ",
+   "text": "「Ты точно такой же, как все остальные.\n　Мешаешь упрямство, идеализм и оптимизм —\n　и закрываешь глаза на реальность.」",
+   "orig": "Kaname\n「You're exactly the same as the rest of them.\n　You mix never-say-die spirit, idealism, and optimism,\n　and you avert your eyes from reality.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Канамэ",
+   "text": "「Почему ты не можешь понять такую простую вещь?\n　Что даже если мы продолжим воевать как прежде,\n　положение только ухудшится.」",
+   "orig": "Kaname\n「Why can't you understand something this simple?\n　That even if we continue to fight like we have been,\n　the situation will only get worse.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Канамэ",
+   "text": "「А когда это случится, Нео-Зеон пойдёт ровно на тот\n　решительный и разрушительный шаг, которого ты боишься.\n　Почему же ты не в состоянии это осознать?」",
+   "orig": "Kaname\n「And if that happens, Neo Zeon will engage in the exact\n　decisive and destructive behavior that you fear.\n　How is it that you're not capable of grasping that?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Соскэ",
+   "text": "「Просто успокойся, Тидори.」",
+   "orig": "Sousuke\n「Just calm down, Chidori.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Канамэ",
+   "text": "「Ты правда не понимаешь, о чём я говорю?」",
+   "orig": "Kaname\n「You really don't understand what I'm saying?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Канамэ",
+   "text": "「Ясно.\n　Видимо, ты и вправду такой же, как остальные.」",
+   "orig": "Kaname\n「I see.\n　I guess you really are just like the others.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Соскэ",
+   "text": "「Тидори.」",
+   "orig": "Sousuke\n「Chidori.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Канамэ",
+   "text": "「Что ты на меня так смотришь?\n　Думаешь, я умом тронулась?」",
+   "orig": "Kaname\n「Why are you looking at me like that?\n　You think I've gone funny in the head?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Соскэ",
+   "text": "「Я этого не говорил.\n　Но я…」",
+   "orig": "Sousuke\n「I didn't say that.\n　But, I—」"
+  },
+  {
+   "i": 111,
+   "speaker": "Канамэ",
+   "text": "「Меня это начинает бесить.\n　Когда у тебя такое дурацкое лицо,\n　мне кажется, что надо мной насмехаются.」",
+   "orig": "Kaname\n「I'm starting to get irritated.\n　When you get that goofy look on your face,\n　it makes me feel like I'm being made fun of.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Канамэ",
+   "text": "「Вы все одинаковые, все до единого!\n　Почему вы не можете понять такую простую вещь?\n　Неужели вы и правда настолько тупые?」",
+   "orig": "Kaname\n「You're all the same, every one of you!\n　Why can't you understand something this simple?\n　Could you really be this stupid?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Соскэ",
+   "text": "「Тидори!」",
+   "orig": "Sousuke\n「Chidori!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Соскэ",
+   "text": "「Это всего лишь бред, вызванный тем,\n　что у Шепчущих сверхчеловеческий интеллект.」",
+   "orig": "Sousuke\n「This is just a delusion caused by the fact that\n　the Whispered have superhuman intelligence.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Соскэ",
+   "text": "「Нельзя так свысока смотреть на других.\n　Признай, что ты больна.\n　Постарайся вспомнить, что ты всегда…」",
+   "orig": "Sousuke\n「You shouldn't look down on others like that.\n　Recognize your own illness.\n　Try and remember that you always—」"
+  },
+  {
+   "i": 116,
+   "speaker": "Канамэ",
+   "text": "「Пытаешься получить психологическое преимущество,\n　строя озабоченную мину.」",
+   "orig": "Kaname\n「Trying to get the psychological upper hand\n　by looking all worried.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Канамэ",
+   "text": "「Ты правда думаешь, что справишься с положением\n　этим своим корыстным проявлением доброты?\n　Какая наивность.」",
+   "orig": "Kaname\n「You really think you can control the situation\n　with this self-serving display of kindness?\n　How simple-minded.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Соскэ",
+   "text": "「Мне такое и в голову не приходило.\n　Я хочу лишь защитить тебя.」",
+   "orig": "Sousuke\n「That thought never crossed my mind.\n　All I want is to protect you.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Соскэ",
+   "text": "「Мой долг перед «Мифрилом» тут ни при чём.」",
+   "orig": "Sousuke\n「It's got nothing to do with my duty to Mithril.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Соскэ",
+   "text": "「Я люблю тебя.\n　Поэтому и хочу защитить.」",
+   "orig": "Sousuke\n「I love you.\n　So I want to protect you.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Канамэ",
+   "text": "「Я…」",
+   "orig": "Kaname\n「I—」"
+  },
+  {
+   "i": 122,
+   "speaker": "Соскэ",
+   "text": "「И я буду защищать\n　не только тебя, но и всё, что с тобой связано.\n　Каждый мир, которому ты принадлежишь.」",
+   "orig": "Sousuke\n「And I'm going to protect\n　not just you but everything to do with you.\n　Every world that you belong to.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Канамэ",
+   "text": "「Но…」",
+   "orig": "Kaname\n「But...」"
+  },
+  {
+   "i": 124,
+   "speaker": "Соскэ",
+   "text": "「Тидори.\n　Насчёт вчерашнего…」",
+   "orig": "Sousuke\n「Chidori.\n　About yesterday—」"
+  },
+  {
+   "i": 125,
+   "speaker": "Канамэ",
+   "text": "「Если ты про мою истерику в ангаре — прости.\n　Я, наверное, и правда устала, как Тесса сказала.」",
+   "orig": "Kaname\n「If you mean my little hissy fit in the hangar,\n　sorry about that. I must've been tired, like Tessa said.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Соскэ",
+   "text": "「Понятно.」",
+   "orig": "Sousuke\n「I see.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Канамэ",
+   "text": "「И всё же иногда мне приходит в голову:\n　миру, возможно, было бы куда лучше,\n　если бы Шепчущих вовсе не существовало.」",
+   "orig": "Kaname\n「But still, it sometimes occurs to me.\n　The world just might be better off\n　if Whispered didn't exist.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Соскэ",
+   "text": "「Тидори…」",
+   "orig": "Sousuke\n「Chidori...」"
+  },
+  {
+   "i": 129,
+   "speaker": "Канамэ",
+   "text": "「Измерение Нового Правильного века, откуда родом Тобиа,\n　прошло исторический путь, похожий на путь нашей Земли,\n　но ничего вроде Шепчущих там, похоже, не было.」",
+   "orig": "Kaname\n「The New Correct Century dimension, where Tobia comes\n　from, followed a similar historical path as this Earth, but\n　there was apparently nothing like the Whispered there.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Канамэ",
+   "text": "「Благодаря этому не было и «Арм Слейвов»,\n　и, как я слышала, их войны между людьми\n　никогда не доходили до такого ужаса, как наши.」",
+   "orig": "Kaname\n「Thanks to which, there were no Arm Slaves,\n　and from what I hear their wars among humans\n　never reached the level of misery as ours have.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Соскэ",
+   "text": "（Майор Калинин\n　как-то говорил примерно то же самое.）",
+   "orig": "Sousuke\n（Major Kalinin\n　was saying the same sort of thing at one point.）"
+  },
+  {
+   "i": 132,
+   "speaker": "Соскэ",
+   "text": "（Что существование Шепчущих изменило мир\n　и в результате мир оказался охвачен войной.）",
+   "orig": "Sousuke\n（That the existence of the Whispered had changed\n　the world and as a result the world was engulfed in war.）"
+  },
+  {
+   "i": 133,
+   "speaker": "Канамэ",
+   "text": "「Существование Шепчущих искорёжило мир.\n　По крайней мере, в том, что старшую школу Дзиндай\n　закрыли, виновата я.」",
+   "orig": "Kaname\n「The existence of the Whispered has warped the world.\n　At the very least, the closing of Jindai High School\n　was my fault.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Канамэ",
+   "text": "「«Амальгама» гонялась за мной, устраивая\n　одно нападение за другим, и в итоге этот район\n　объявили зоной боевых действий.」",
+   "orig": "Kaname\n「Amalgam came after me, carrying out\n　one attack after another, and as a result, this area\n　ended up being designated as a combat zone.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Канамэ",
+   "text": "「И из-за этого Кёко и все остальные\n　разъехались по другим школам.」",
+   "orig": "Kaname\n「And because of that, Kyoko and all the others\n　got transferred to all those other schools.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Соскэ",
+   "text": "「Ты неправа, Тидори.\n　Виноваты те, кто пытается использовать твою силу,\n　силу Шепчущих.」",
+   "orig": "Sousuke\n「You're wrong, Chidori.\n　The fault is with those who try to use your power,\n　the power of the Whispered.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Канамэ",
+   "text": "「Соскэ, выслушай меня.」",
+   "orig": "Kaname\n「Sousuke, listen to me.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Канамэ",
+   "text": "「Я… я правда в это верю.\n　Если эту войну начали Шепчущие,\n　то и закончить её должны Шепчущие.」",
+   "orig": "Kaname\n「I...I really believe this.\n　If it was the Whispered who started this war,\n　then it's got to be the Whispered who end it.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Соскэ",
+   "text": "「Закончить войну?」",
+   "orig": "Sousuke\n「End the war?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Канамэ",
+   "text": "「Федерация. Нео-Зеон. Пока война\n　заканчивается, неважно, кто из них победит.」",
+   "orig": "Kaname\n「The Federation. Neo Zeon. As long as\n　the war ends, it doesn't matter which one wins.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Канамэ",
+   "text": "「Если… если я уйду к «Амальгаме»…」",
+   "orig": "Kaname\n「If...if I go to Amalgam—」"
+  },
+  {
+   "i": 142,
+   "speaker": "Соскэ",
+   "text": "「Тидори, возьми себя в руки!\n　Это совершенно недопустимо!」",
+   "orig": "Sousuke\n「Chidori, pull yourself together!\n　That would be absolutely unforgivable!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Соскэ",
+   "text": "「Нео-Зеон сбрасывал на Землю колонии и метеориты!\n　Если оставить их в покое, это приведёт не к концу\n　войны, а к концу планеты!」",
+   "orig": "Sousuke\n「Neo Zeon dropped colonies and meteorites on Earth!\n　Leaving them to their own devices won't lead to\n　the end of the war, it'll lead to the end of the planet!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Канамэ",
+   "text": "「И что же, по-твоему, нам делать?」",
+   "orig": "Kaname\n「So what are you saying we should do?」"
+  },
+  {
+   "i": 145,
+   "speaker": "Соскэ",
+   "text": "「У меня нет ответа на это.」",
+   "orig": "Sousuke\n「I don't have an answer to that.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Соскэ",
+   "text": "「Но, по-моему, именно для этого и существуют\n　такие организации, как «Лондо Белл» и «Мифрил».」",
+   "orig": "Sousuke\n「But in my opinion it's for that purpose that we have\n　groups like Londo Bell and Mithril.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Канамэ",
+   "text": "「Ты точно такой же, как все остальные.\n　Мешаешь упрямство, идеализм и оптимизм —\n　и закрываешь глаза на реальность.」",
+   "orig": "Kaname\n「You're exactly the same as the rest of them.\n　You mix never-say-die spirit, idealism, and optimism,\n　and you avert your eyes from reality.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Канамэ",
+   "text": "「Почему ты не можешь понять такую простую вещь?\n　Что даже если мы продолжим воевать как прежде,\n　положение только ухудшится.」",
+   "orig": "Kaname\n「Why can't you understand something this simple?\n　That even if we continue to fight like we have been,\n　the situation will only get worse.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Канамэ",
+   "text": "「А когда это случится, Нео-Зеон пойдёт ровно на тот\n　решительный и разрушительный шаг, которого ты боишься.\n　Почему же ты не в состоянии это осознать?」",
+   "orig": "Kaname\n「And if that happens, Neo Zeon will engage in the exact\n　decisive and destructive behavior that you fear.\n　How is it that you're not capable of grasping that?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Соскэ",
+   "text": "「Просто успокойся, Тидори.」",
+   "orig": "Sousuke\n「Just calm down, Chidori.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Канамэ",
+   "text": "「Ты правда не понимаешь, о чём я говорю?」",
+   "orig": "Kaname\n「You really don't understand what I'm saying?」"
+  },
+  {
+   "i": 152,
+   "speaker": "Канамэ",
+   "text": "「Ясно.\n　Видимо, ты и вправду такой же, как остальные.」",
+   "orig": "Kaname\n「I see.\n　I guess you really are just like the others.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Соскэ",
+   "text": "「Тидори…」",
+   "orig": "Sousuke\n「Chidori....」"
+  },
+  {
+   "i": 154,
+   "speaker": "Канамэ",
+   "text": "「Что ты на меня так смотришь?\n　Думаешь, я умом тронулась?」",
+   "orig": "Kaname\n「Why are you looking at me like that?\n　You think I've gone funny in the head?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Соскэ",
+   "text": "「Я этого не говорил.\n　Но я…」",
+   "orig": "Sousuke\n「I didn't say that.\n　But, I—」"
+  },
+  {
+   "i": 156,
+   "speaker": "Канамэ",
+   "text": "「Меня это начинает бесить.\n　Когда у тебя такое дурацкое лицо,\n　мне кажется, что надо мной насмехаются.」",
+   "orig": "Kaname\n「I'm starting to get irritated.\n　When you get that goofy look on your face,\n　it makes me feel like I'm being made fun of.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Канамэ",
+   "text": "「Вы все одинаковые, все до единого!\n　Почему вы не можете понять такую простую вещь?\n　Неужели вы и правда настолько тупые?」",
+   "orig": "Kaname\n「You're all the same, every one of you!\n　Why can't you understand something this simple?\n　Could you really be this stupid?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Соскэ",
+   "text": "「Тидори!」",
+   "orig": "Sousuke\n「Chidori!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Соскэ",
+   "text": "「Это всего лишь бред, вызванный тем,\n　что у Шепчущих сверхчеловеческий интеллект.」",
+   "orig": "Sousuke\n「This is just a delusion caused by the fact that\n　the Whispered have superhuman intelligence.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Соскэ",
+   "text": "「Нельзя так свысока смотреть на других.\n　Признай, что ты больна.\n　Постарайся вспомнить, что ты всегда…」",
+   "orig": "Sousuke\n「You shouldn't look down on others like that.\n　Recognize your own illness.\n　Try and remember that you always—」"
+  },
+  {
+   "i": 161,
+   "speaker": "Канамэ",
+   "text": "「Пытаешься получить психологическое преимущество,\n　строя озабоченную мину.」",
+   "orig": "Kaname\n「Trying to get the psychological upper hand\n　by looking all worried.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Канамэ",
+   "text": "「Ты правда думаешь, что справишься с положением\n　этим своим корыстным проявлением доброты?\n　Какая наивность.」",
+   "orig": "Kaname\n「You really think you can control the situation\n　with this self-serving display of kindness?\n　How simple-minded.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Соскэ",
+   "text": "「Мне такое и в голову не приходило.\n　Я хочу лишь защитить тебя.」",
+   "orig": "Sousuke\n「That thought never crossed my mind.\n　All I want is to protect you.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Соскэ",
+   "text": "「Мой долг перед «Мифрилом» тут ни при чём.」",
+   "orig": "Sousuke\n「It's got nothing to do with my duty to Mithril.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Соскэ",
+   "text": "「Я люблю тебя.\n　Поэтому и хочу защитить.」",
+   "orig": "Sousuke\n「I love you.\n　So I want to protect you.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Канамэ",
+   "text": "「Я…」",
+   "orig": "Kaname\n「I—」"
+  },
+  {
+   "i": 167,
+   "speaker": "Соскэ",
+   "text": "「И я буду защищать\n　не только тебя, но и всё, что с тобой связано.\n　Каждый мир, которому ты принадлежишь.」",
+   "orig": "Sousuke\n「And I'm going to protect\n　not just you but everything to do with you.\n　Every world that you belong to.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Канамэ",
+   "text": "「Но…」",
+   "orig": "Kaname\n「But...」"
+  },
+  {
+   "i": 169,
+   "speaker": "？？？",
+   "text": "「Не трать на него слова,\n　Канамэ Тидори.」",
+   "orig": "？？？\n「Don't waste your breath on that guy,\n　Kaname Chidori.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Канамэ",
+   "text": "「Что…」",
+   "orig": "Kaname\n「Wha—」"
+  },
+  {
+   "i": 171,
+   "speaker": "Соскэ",
+   "text": "「Кто ты такой, чёрт возьми?」",
+   "orig": "Sousuke\n「Who the hell are you?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Леонард",
+   "text": "「Позвольте представиться.\n　Я Леонард Тестаросса.」",
+   "orig": "Leonard\n「Allow me to introduce myself.\n　I'm Leonard Testarossa.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Леонард",
+   "text": "「В «Амальгаме» меня зовут мистер Аг.」",
+   "orig": "Leonard\n「At Amalgam they call me Mr. Ag.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Соскэ",
+   "text": "「Этот тип — из руководства «Амальгамы»!\n　И эта фамилия, Тестаросса...」",
+   "orig": "Sousuke\n「This guy is an official at Amalgam!\n　And that name, Testarossa...」"
+  },
+  {
+   "i": 175,
+   "speaker": "Леонард",
+   "text": "「Угадал.\n　Я брат-близнец твоего командира,\n　Телеты Тестароссы.」",
+   "orig": "Leonard\n「You guessed it.\n　I'm the twin brother of\n　your superior, Teletha Testarossa.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Леонард",
+   "text": "「Но позволь поправить: я не просто «из руководства».」",
+   "orig": "Leonard\n「But let me correct your description of me as an official.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Леонард",
+   "text": "「На самом деле я глава «Амальгамы».\n　Скажу больше — можно сказать,\n　что я её властелин.」",
+   "orig": "Leonard\n「Because actually, I'm\n　the leader of Amalgam. In fact, you might say that I'm\n　the ruler of Amalgam.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Соскэ",
+   "text": "「Что?」",
+   "orig": "Sousuke\n「What?」"
+  },
+  {
+   "i": 179,
+   "speaker": "Леонард",
+   "text": "「Школа закрыта, но это всё же храм знаний.\n　Ты правда собираешься стрелять здесь?」",
+   "orig": "Leonard\n「It may be closed, but this is still a sacred institution\n　of learning. Do you really intend to use a firearm here?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Соскэ",
+   "text": "「Замолчи и отнесись к этому серьёзно!」",
+   "orig": "Sousuke\n「Shut up and get serious!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Соскэ",
+   "text": "「Медленно подними руки.\n　А если нет —」",
+   "orig": "Sousuke\n「Just put your hands up nice and slow.\n　And if you don't—」"
+  },
+  {
+   "i": 182,
+   "speaker": "Леонард",
+   "text": "「То ты выстрелишь, да?\n　Пора бы уже отправить эту заготовку на покой.\n　Такие угрозы давно вышли из моды.」",
+   "orig": "Leonard\n「Then you'll shoot me, right?\n　It's time you gave that old stand-by a rest.\n　Tough talk like that is really behind the times.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Соскэ",
+   "text": "「Я предупреждал!」",
+   "orig": "Sousuke\n「I warned you!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Леонард",
+   "text": "「Забудь об этом, Соскэ Сагара.\n　Ты, похоже, талантливый убийца, но даже так...」",
+   "orig": "Leonard\n「Forget about it, Sousuke Sagara.\n　You're apparently a gifted assassin, but even so...」"
+  },
+  {
+   "i": 185,
+   "speaker": "Соскэ",
+   "text": "「С меня хватит!」",
+   "orig": "Sousuke\n「Enough out of you!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Канамэ",
+   "text": "「Пуля от него отскочила!」",
+   "orig": "Kaname\n「The bullet bounced off him!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Леонард",
+   "text": "「Да, вы всё видели сами.\n　У этого плаща есть такая особенность.」",
+   "orig": "Leonard\n「Yeah, it's like you just saw.\n　This coat happens to have that capability.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Соскэ",
+   "text": "「Тогда я применю огневую мощь, которой он не —」",
+   "orig": "Sousuke\n「Well then, I'll use more firepower than it can—」"
+  },
+  {
+   "i": 189,
+   "speaker": "Леонард",
+   "text": "「Учти, это не единственная моя защита.」",
+   "orig": "Leonard\n「That's not my only protection, mind you.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Аластор",
+   "text": "「...」",
+   "orig": "Alastor\n「...」"
+  },
+  {
+   "i": 191,
+   "speaker": "Соскэ",
+   "text": "「Это —」",
+   "orig": "Sousuke\n「That's—」"
+  },
+  {
+   "i": 192,
+   "speaker": "Леонард",
+   "text": "「Plan-1211 «Аластор».\n　Можно смело сказать — самый маленький\n　Арм Слейв в мире.」",
+   "orig": "Leonard\n「Plan-1211 Alastor.\n　The world's smallest Arm Slave, it's safe to say.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Соскэ",
+   "text": "「Раз ты его хозяин, то стоит убрать тебя —\n　и он превратится в бесполезную куклу!」",
+   "orig": "Sousuke\n「Well since you're its master, if I dispose of you,\n　it'll be reduced to a useless puppet!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Канамэ",
+   "text": "「Прекрати, Соскэ!\n　Это же брат Тессы!」",
+   "orig": "Kaname\n「Stop it, Sousuke!\n　That's Tessa's brother!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Соскэ",
+   "text": "「Но он наш враг!」",
+   "orig": "Sousuke\n「But he's our enemy!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Леонард",
+   "text": "「Может, успокоишься хоть немного?\n　Я пришёл сюда только поговорить.」",
+   "orig": "Leonard\n「Maybe you could calm down just a tad.\n　I only came here to talk.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Леонард",
+   "text": "「То, что я хочу сказать, очень просто.\n　Канамэ Тидори, оставь свою нынешнюю жизнь\n　и пойдём со мной.」",
+   "orig": "Leonard\n「What I want to say is very simple.\n　Kaname Chidori, would you please give up\n　your current life and come with me.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Канамэ",
+   "text": "「Что ты сказал?」",
+   "orig": "Kaname\n「What did you say?」"
+  },
+  {
+   "i": 199,
+   "speaker": "Леонард",
+   "text": "「Я обещаю тебе весьма обеспеченную жизнь. Всё,\n　что нужно для твоих научных интересов, уже готово\n　и ждёт тебя. А главное — ты будешь совершенно свободна.」",
+   "orig": "Leonard\n「I can promise you a fairly affluent lifestyle. Facilities\n　to fulfill all of your intellectual interests are ready and\n　waiting, and above all, you'll be completely free.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Леонард",
+   "text": "「И там ты сможешь думать о том, как закончить войну,\n　о чём так долго разглагольствует вот этот тип.」",
+   "orig": "Leonard\n「And there you can think about ways to end the war\n　like this guy has been rambling about.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Соскэ",
+   "text": "「Хватит уже этих шуток!」",
+   "orig": "Sousuke\n「Enough with the jokes already!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Леонард",
+   "text": "「Какая жалость.\n　Похоже, друзьями нам всё-таки не стать.」",
+   "orig": "Leonard\n「What a shame.\n　It looks like we won't become friends after all.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Леонард",
+   "text": "「И всё же я хочу, чтобы ты увидела мою искренность.\n　Я пришёл забрать тебя по-джентльменски,\n　а не силой.」",
+   "orig": "Leonard\n「Still, I'd like you to see that I'm being sincere.\n　And that I've come to take you with me\n　by gentlemanly means, and not by force.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Соскэ",
+   "text": "「Откуда ты вообще узнал, что мы здесь?」",
+   "orig": "Sousuke\n「How did you even know we were here?」"
+  },
+  {
+   "i": 205,
+   "speaker": "Леонард",
+   "text": "「По той причине, которую тебе меньше всего хочется\n　слышать. Верно: у вас есть крот.」",
+   "orig": "Leonard\n「For the reason you most don't want to hear.\n　That's right: a mole in your operation.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Леонард",
+   "text": "「Именно так мы узнали об острове Мерида,\n　и именно так я смог встретиться с вами сегодня.」",
+   "orig": "Leonard\n「That's how we found out about Melida Island,\n　and that's how I was able to meet you here today.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Соскэ",
+   "text": "「Хм.」",
+   "orig": "Sousuke\n「Hmph.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Леонард",
+   "text": "「Канамэ Тидори, идём.\n　Ради тебя самой и ради этого мира.」",
+   "orig": "Leonard\n「Kaname Chidori, let's go.\n　For your sake, and for the sake of this world.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Канамэ",
+   "text": "「Но зачем тебе вообще, чтобы я —」",
+   "orig": "Kaname\n「But why would you want me to—」"
+  },
+  {
+   "i": 210,
+   "speaker": "Леонард",
+   "text": "「Я же сказал тебе в $kwbтот дождливый день$kwe.\n　Потому что я тебя люблю.」",
+   "orig": "Leonard\n「It's like I told you on $kwbThat Rainy Day$kwe.\n　Because I'm in love with you.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Канамэ",
+   "text": "「Что —」",
+   "orig": "Kaname\n「Wha—」"
+  },
+  {
+   "i": 212,
+   "speaker": "Соскэ",
+   "text": "「Да как у тебя наглости хватает!」",
+   "orig": "Sousuke\n「You've got a lot of nerve!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Канамэ",
+   "text": "「А я... я тебя терпеть не могу.」",
+   "orig": "Kaname\n「But I...I really hate you.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Леонард",
+   "text": "「О твоих чувствах ко мне поговорим позже.\n　Ты вольна делать всё, что пожелаешь.」",
+   "orig": "Leonard\n「We can discuss your feelings about me later.\n　You're free to do whatever you like.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Леонард",
+   "text": "「Ты избранная, ты уже гений.\n　И всё же эти люди думают лишь о том, как красивыми\n　словами использовать таких, как мы.」",
+   "orig": "Leonard\n「You're a chosen one, and you're already a genius.\n　And yet all people can think about is how to use\n　fancy words to exploit us.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Леонард",
+   "text": "「Неужели ты хочешь, чтобы они тобой командовали?」",
+   "orig": "Leonard\n「Is your desire to be ordered around by these people?」"
+  },
+  {
+   "i": 217,
+   "speaker": "Канамэ",
+   "text": "「Прекрати.」",
+   "orig": "Kaname\n「Stop it.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Леонард",
+   "text": "「Ты ведь и сама давно это заметила.\n　Что все вокруг тебя — безнадёжно\n　тупоголовые глупцы.」",
+   "orig": "Leonard\n「You must already have noticed it.\n　That those around you are hopelessly\n　dim-witted fools.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Леонард",
+   "text": "「И правда в том, что их глупость\n　уже начинает тебя раздражать, не так ли?」",
+   "orig": "Leonard\n「And the truth is that their stupidity\n　is starting to get on your nerves, isn't it?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Канамэ",
+   "text": "「Убирайся отсюда!」",
+   "orig": "Kaname\n「Get out of here!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Леонард",
+   "text": "「Хорошо, уйду.\n　Мне и так уже надоело, что твой сторожевой пёс\n　так на меня смотрит.」",
+   "orig": "Leonard\n「Alright, I will.\n　I'm getting tired of your guard dog here\n　glaring at me like that anyway.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Соскэ",
+   "text": "「Хм.」",
+   "orig": "Sousuke\n「Hmph.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Леонард",
+   "text": "「И этот твой AS — «Арбалест», кажется?\n　Неплохая машина,\n　но она уже начала мозолить глаза.」",
+   "orig": "Leonard\n「And that AS of yours—the Arbalest was it?\n　It's not a bad mobile unit,\n　but it's become a bit of an eyesore.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Соскэ",
+   "text": "「Что ты хочешь этим сказать?」",
+   "orig": "Sousuke\n「What are you trying to say?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Леонард",
+   "text": "「Она слишком бросается в глаза.\n　Что ж, на этой ноте...」",
+   "orig": "Leonard\n「It sticks out like a sore them.\n　Well, on that note...」"
+  },
+  {
+   "i": 226,
+   "speaker": "Канамэ",
+   "text": "「Хм.」",
+   "orig": "Kaname\n「Hmph.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Соскэ",
+   "text": "「Тидори.\n　Не сходи с этого места.」",
+   "orig": "Sousuke\n「Chidori.\n　Don't move away from this spot.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Канамэ",
+   "text": "「Соскэ, ты куда?」",
+   "orig": "Kaname\n「Sousuke, where are you going?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Соскэ",
+   "text": "「Будь уверена, они придут за тобой.\n　Я их перехвачу.」",
+   "orig": "Sousuke\n「You can bet they'll be coming for you.\n　I'm gonna intercept them.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Канамэ",
+   "text": "「Это же безумие!\n　Ты совсем один —.」",
+   "orig": "Kaname\n「That's ridiculous!\n　You all by yourself—.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Соскэ",
+   "text": "「Не волнуйся.\n　Если что, со мной будет «Арбалест».」",
+   "orig": "Sousuke\n「Don't worry.\n　If anything happens, I'll have the Arbalest with me.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Соскэ",
+   "text": "「В общем, я же тебе уже говорил.\n　Я хочу тебя защитить.」",
+   "orig": "Sousuke\n「Anyway, it's like I told you before.\n　I want to protect you.」"
+  },
+  {
+   "i": 233,
+   "speaker": "Соскэ",
+   "text": "「Когда дело касается тебя, какой бы трудной ни была\n　задача, я вытащу нас обоих. Вот увидишь.」",
+   "orig": "Sousuke\n「When it comes to you, no matter how tough the problem,\n　I'm gonna get us through it. You'll see.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Канамэ",
+   "text": "「Соскэ...」",
+   "orig": "Kaname\n「Sousuke...」"
+  },
+  {
+   "i": 238,
+   "speaker": "Канамэ",
+   "text": "「Что —」",
+   "orig": "Kaname\n「Wha—」"
+  },
+  {
+   "i": 239,
+   "speaker": "Калинин",
+   "text": "「Тидори, вижу, с тобой всё в порядке.」",
+   "orig": "Kalinin\n「Chidori, I see you're fine.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Канамэ",
+   "text": "「Калинин!」",
+   "orig": "Kaname\n「Kalinin!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Калинин",
+   "text": "「Здесь опасно.\n　Уходим отсюда.」",
+   "orig": "Kalinin\n「This place is dangerous.\n　Let's get out of here.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Канамэ",
+   "text": "「Не подходи ко мне!」",
+   "orig": "Kaname\n「Stay away from me!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Калинин",
+   "text": "「О чём это ты?」",
+   "orig": "Kalinin\n「What are you talking about?」"
+  },
+  {
+   "i": 244,
+   "speaker": "Канамэ",
+   "text": "「Калинин, сегодня ты какой-то не такой,\n　как обычно.」",
+   "orig": "Kaname\n「Kalinin, you seem different today\n　from your usual self.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Калинин",
+   "text": "「Не думал, что ты заметишь.」",
+   "orig": "Kalinin\n「I didn't think you'd notice.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Канамэ",
+   "text": "「Что —」",
+   "orig": "Kaname\n「Wha—」"
+  },
+  {
+   "i": 247,
+   "speaker": "Калинин",
+   "text": "「Это не твоя сила Шептуньи.\n　Скорее всего, дело в твоей природной чистоте.」",
+   "orig": "Kalinin\n「This isn't from your power as a Whispered.\n　It's probably the result of your natural purity.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Канамэ",
+   "text": "「Калинин.」",
+   "orig": "Kaname\n「Kalinin.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Калинин",
+   "text": "「Канамэ Тидори, ты идёшь со мной.」",
+   "orig": "Kalinin\n「Kaname Chidori, you're coming with me.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Калинин",
+   "text": "「Чтобы мы вернули этот мир в должное состояние.」",
+   "orig": "Kalinin\n「So we can return this world to its proper state.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Канамэ",
+   "text": "（Соскэ...）",
+   "orig": "Kaname\n（Sousuke...）"
+  },
+  {
+   "i": 255,
+   "speaker": "　",
+   "text": "　\n　　　　-Брифинг-зал авиагруппы «Ямато»-",
+   "orig": "　\n　\n　　　　　　-Yamato Aircraft Squad Briefing Room-"
+  },
+  {
+   "i": 256,
+   "speaker": "Тесса",
+   "text": "「Как вы все уже знаете,\n　майор Андрей Сергеевич Калинин\n　передавал сведения «Амальгаме».」",
+   "orig": "Tessa\n「As all of you already know,\n　Major Andrei Sergeivich Kalinin\n　was leaking information to Amalgam.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Курц",
+   "text": "「Хм.」",
+   "orig": "Kurz\n「Hmph.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Мао",
+   "text": "「Хм.」",
+   "orig": "Mao\n「Hmph.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Тесса",
+   "text": "「Он не только сообщил «Амальгаме» местоположение\n　нашей базы на острове Мерида...」",
+   "orig": "Tessa\n「Not only did he tell Amalgam the location\n　of our base, Melida Island...」"
+  },
+  {
+   "i": 260,
+   "speaker": "Тесса",
+   "text": "「Он также выдал, где находятся сержант Сагара\n　и Канамэ Тидори, и в итоге её похитили.」",
+   "orig": "Tessa\n「He also revealed the location of Sergeant Sagara and\n　Kaname Chidori, and as a result, she was kidnapped.」"
+  },
+  {
+   "i": 261,
+   "speaker": "$n",
+   "text": "「А что с Соскэ?」",
+   "orig": "$n\n「And what happened to Sousuke?」"
+  },
+  {
+   "i": 262,
+   "speaker": "Тесса",
+   "text": "「Он в критическом состоянии.\n　Его доставили в медцентр «Мифрила»,\n　где провели экстренную операцию.」",
+   "orig": "Tessa\n「He's in critical condition.\n　He was taken to Mithril's medical facility,\n　where they performed emergency surgery on him.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Тесса",
+   "text": "「А «Арбалест» уничтожен полностью\n　и восстановлению не подлежит.」",
+   "orig": "Tessa\n「Meanwhile, the Arbalest was completely destroyed,\n　and is beyond repair.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Клузо",
+   "text": "「Не верится, что мы потеряли единственную машину\n　«Мифрила» с Лямбда-драйвером.」",
+   "orig": "Clouseau\n「I can't believe we lost Mithril's only\n　Lambda Driver-equipped model.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Джудо",
+   "text": "「Ну, даже если бы «Арбалест» и починили,\n　управлять им может только Соскэ.」",
+   "orig": "Judau\n「Well, even if the Arbalest could be repaired,\n　Sousuke is the only one who can use it.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Пуру",
+   "text": "「Соскэ умрёт?」",
+   "orig": "Ple\n「Is Sousuke going to die?」"
+  },
+  {
+   "i": 267,
+   "speaker": "Пуру Два",
+   "text": "「Не может быть.\n　Ничего подобного не случится.」",
+   "orig": "Ple Two\n「Impossible.\n　There's no way that's gonna happen.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Пуру Два",
+   "text": "「У него всегда было такое серьёзное лицо,\n　но он всё равно всегда с нами играл.」",
+   "orig": "Ple Two\n「That guy, he always had a serious look on his face,\n　but he always played with us.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Пуру",
+   "text": "「Ага.\n　И ещё помогал нам с Канамэ с учёбой.」",
+   "orig": "Ple\n「Yeah.\n　And he used to help me and Kaname with our studies.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Банагер",
+   "text": "「Пуру, Пуру Два,\n　давайте помолимся, чтобы Соскэ выкарабкался.」",
+   "orig": "Banagher\n「Ple, Ple Two,\n　let's pray that Sousuke pulls through this.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Пуру",
+   "text": "「Хорошо.」",
+   "orig": "Ple\n「Okay.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Пуру Два",
+   "text": "「Ладно, Банагер.」",
+   "orig": "Ple Two\n「Alright, Banagher.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Амуро",
+   "text": "「Мы до сих пор не знаем, почему Калинин перешёл к ним.」",
+   "orig": "Amuro\n「What we still don't know is why Kalinin defected.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Дагза",
+   "text": "「Да. В конце концов,\n　боевые неудачи начались у нас далеко не сегодня.」",
+   "orig": "Daguza\n「Yeah. After all,\n　it's not like our bad luck in battle just started today.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Като",
+   "text": "「Может, это тянулось так долго,\n　что в итоге сломило его дух?」",
+   "orig": "Kato\n「Could it be that that's been going on for so long\n　that it finally broke his spirit?」"
+  },
+  {
+   "i": 276,
+   "speaker": "Курц",
+   "text": "「Нет, только не этот старик.\n　Такое просто немыслимо!」",
+   "orig": "Kurz\n「No, not that old man.\n　That's just unthinkable!」"
+  },
+  {
+   "i": 277,
+   "speaker": "Клузо",
+   "text": "「Успокойся, Вебер.\n　Сам факт предательства означает, что он уже\n　не тот Калинин, которого мы знали.」",
+   "orig": "Clouseau\n「Calm down, Weber.\n　Just the fact that he betrayed us means that\n　he's not the same Kalinin that we all knew.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Тесса",
+   "text": "「Придётся это признать. Майор Калинин\n　нанёс ущерб «Туата де Данаан» и перебежал\n　к врагу, прихватив наши сведения.」",
+   "orig": "Tessa\n「We've got to face it. Major Kalinin\n　has caused damage to the Tuatha de Danaan, and has\n　absconded to the enemy, along with our information.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Тесса",
+   "text": "「Мы лишились главного козыря против\n　вражеского Лямбда-драйвера.」",
+   "orig": "Tessa\n「We've lost our biggest trump card against\n　the enemy's Lambda Driver.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Тесса",
+   "text": "「А Канамэ похищена врагом.」",
+   "orig": "Tessa\n「And Kaname has been snatched away by the enemy.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Окита",
+   "text": "「Единственный плюс в том, что Мельда Дитц сдалась\n　и мы получим кое-какие сведения о Гамиласе.」",
+   "orig": "Okita\n「The only positive development is that since Melda Dietz\n　surrendered, we'll get some information about Gamillas.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Отто",
+   "text": "「И где же она?」",
+   "orig": "Otto\n「And where is she?」"
+  },
+  {
+   "i": 283,
+   "speaker": "Окита",
+   "text": "「Допросить её поручено Кодаю.」",
+   "orig": "Okita\n「Kodai's been tasked with questioning her.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Тесса",
+   "text": "「Есть и ещё одна хорошая новость.」",
+   "orig": "Tessa\n「There's one more positive development.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Брайт",
+   "text": "「И какая же?」",
+   "orig": "Bright\n「And what would that be?」"
+  },
+  {
+   "i": 286,
+   "speaker": "Тесса",
+   "text": "「Найден путь к уничтожению «Амальгамы».」",
+   "orig": "Tessa\n「A route for toppling Amalgam has been established.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Тесса",
+   "text": "「По итогам прошлых расследований мы установили, что\n　у «Амальгамы» нет единоличного главы: решения\n　принимаются по согласию нескольких руководителей.」",
+   "orig": "Tessa\n「Based on our investigations in the past, we ascertained\n　that Amalgam doesn't have an absolute top, but rather\n　makes decisions based on agreement by multiple officials.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Хаято",
+   "text": "「Стоит выбыть хотя бы одному из них —\n　и вся организация встаёт.」",
+   "orig": "Hayato\n「If even one of those officials isn't present,\n　the organization is brought to a standstill.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Тесса",
+   "text": "「Именно так.\n　Но теперь Леонард Тестаросса\n　объявил себя единственным главой «Амальгамы».」",
+   "orig": "Tessa\n「That's right.\n　But now Leonard Testarossa has\n　named himself sole leader of Amalgam.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Тесса",
+   "text": "「Мы не знаем, что к этому привело,\n　но, если верить его словам, он, похоже,\n　взял «Амальгаму» под свой контроль.」",
+   "orig": "Tessa\n「We're not sure what led up to this,\n　but taking him at his word, he's apparently\n　taken control over Amalgam.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Рёма",
+   "text": "「Другими словами, у зверя появилась голова, которую\n　можно снести.」",
+   "orig": "Ryoma\n「In other words, now the beast has a head for us to crush.」"
+  },
+  {
+   "i": 292,
+   "speaker": "Тесса",
+   "text": "「Именно. Если мы уберём его,\n　«Амальгама» как организация будет уничтожена.\n　Это открытие — огромный шаг вперёд для нас.」",
+   "orig": "Tessa\n「Exactly. If we take him out,\n　Amalgam as an organization will be destroyed.\n　Finding that out has been a hugely positive development.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Кодзи",
+   "text": "「Но ведь он —」",
+   "orig": "Koji\n「But he's—」"
+  },
+  {
+   "i": 294,
+   "speaker": "Тесса",
+   "text": "「Вы думаете правильно.\n　Он мой брат-близнец.」",
+   "orig": "Tessa\n「It's just like you're thinking.\n　He's my twin brother.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Тесса",
+   "text": "「Я годами не знала, где он находится,\n　а о том, что он в «Амальгаме»,\n　даже я узнала лишь недавно.」",
+   "orig": "Tessa\n「I had no idea where he was for years,\n　and the fact that he was at Amalgam\n　was something even I didn't know until recently.」"
+  },
+  {
+   "i": 296,
+   "speaker": "Санада",
+   "text": "（Брат-близнец.\n　Значит, он тоже $kwbШептун$kwe,\n　как капитан Тестаросса и Тидори.）",
+   "orig": "Sanada\n（Twin brother.\n　That must mean that he's a $kwbWhispered$kwe,\n　just like Captain Testarossa and Chidori.）"
+  },
+  {
+   "i": 297,
+   "speaker": "Тесса",
+   "text": "「Поэтому в нашей дальнейшей войне с Нео-Зеоном\n　разгром их союзницы, «Амальгамы», займёт\n　одно из главных мест в нашей стратегии.」",
+   "orig": "Tessa\n「So in our war with Neo Zeon going forward,\n　toppling their ally Amalgam is going to occupy\n　a prominent position in our strategy.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Тесса",
+   "text": "「А для этого мы ставим\n　его устранение — устранение Леонарда Тестароссы —\n　высшим приоритетом.」",
+   "orig": "Tessa\n「And in order to do that, we're going to make\n　toppling him—toppling Leonard Testarossa—\n　a top priority.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Брайт",
+   "text": "「Вы точно согласны с этим, капитан Тестаросса?」",
+   "orig": "Bright\n「Are you okay with that, Captain Testarossa?」"
+  },
+  {
+   "i": 300,
+   "speaker": "Тесса",
+   "text": "「Да, я смирилась с этим.」",
+   "orig": "Tessa\n「Yes, I've made my peace with the situation.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Тесса",
+   "text": "（Я просто не могу понять, зачем он\n　так охотился за Канамэ.）",
+   "orig": "Tessa\n（I just can't fathom why he went after\n　Kaname like that.）"
+  },
+  {
+   "i": 302,
+   "speaker": "Тесса",
+   "text": "（Никак не могу избавиться от тревоги.\n　Канамэ — особенная даже среди Шептунов.\n　С видением, которое смогло увлечь самого Калинина.）",
+   "orig": "Tessa\n（I can't seem to shake this feeling of uneasiness.\n　Kaname, a special person even among the Whispered.\n　With a vision powerful enough to entice Kalinin.）"
+  },
+  {
+   "i": 303,
+   "speaker": "Тесса",
+   "text": "（Леонард,\n　что же ты всё-таки задумал?）",
+   "orig": "Tessa\n（Leonard,\n　just what exactly are you planning to do?）"
+  },
+  {
+   "i": 304,
+   "speaker": "Тесса",
+   "text": "「Как вы все уже знаете,\n　майор Андрей Сергеевич Калинин\n　передавал сведения «Амальгаме».」",
+   "orig": "Tessa\n「As all of you already know,\n　Major Andrei Sergeivich Kalinin\n　was leaking information to Amalgam.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Курц",
+   "text": "「Хм.」",
+   "orig": "Kurz\n「Hmph.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Мао",
+   "text": "「Хм.」",
+   "orig": "Mao\n「Hmph.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Тесса",
+   "text": "「Он не только сообщил «Амальгаме» местоположение\n　нашей базы на острове Мерида.」",
+   "orig": "Tessa\n「Not only did he tell Amalgam the location\n　of our base, Melida Island.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Тесса",
+   "text": "「Он также выдал, где находятся сержант Сагара\n　и Канамэ Тидори, и в итоге её похитили.」",
+   "orig": "Tessa\n「He also revealed the location of Sergeant Sagara and\n　Kaname Chidori, and as a result, she was kidnapped.」"
+  },
+  {
+   "i": 309,
+   "speaker": "$n",
+   "text": "「А что с Соскэ?」",
+   "orig": "$n\n「And what happened to Sousuke?」"
+  },
+  {
+   "i": 310,
+   "speaker": "Тесса",
+   "text": "「Он в критическом состоянии.\n　Его доставили в медцентр «Мифрила»,\n　где провели экстренную операцию.」",
+   "orig": "Tessa\n「He's in critical condition.\n　He was taken to Mithril's medical facility,\n　where they performed emergency surgery on him.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Тесса",
+   "text": "「А «Арбалест» уничтожен полностью\n　и восстановлению не подлежит.」",
+   "orig": "Tessa\n「Meanwhile, the Arbalest was completely destroyed,\n　and is beyond repair.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Клузо",
+   "text": "「Не верится, что мы потеряли единственную машину\n　«Мифрила» с Лямбда-драйвером.」",
+   "orig": "Clouseau\n「I can't believe we lost Mithril's only\n　Lambda Driver-equipped model.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Джудо",
+   "text": "「Ну, даже если бы «Арбалест» и починили,\n　управлять им может только Соскэ.」",
+   "orig": "Judau\n「Well, even if the Arbalest could be repaired,\n　Sousuke is the only one who can use it.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Пуру",
+   "text": "「Соскэ умрёт?」",
+   "orig": "Ple\n「Is Sousuke going to die?」"
+  },
+  {
+   "i": 315,
+   "speaker": "Пуру Два",
+   "text": "「Не может быть.\n　Ничего подобного не случится.」",
+   "orig": "Ple Two\n「Impossible.\n　There's no way that's gonna happen.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Пуру Два",
+   "text": "「У него всегда было такое серьёзное лицо,\n　но он всё равно всегда с нами играл.」",
+   "orig": "Ple Two\n「That guy, he always had a serious look on his face,\n　but he always played with us.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Пуру",
+   "text": "「Ага.\n　И ещё помогал нам с Канамэ с учёбой.」",
+   "orig": "Ple\n「Yeah.\n　And he used to help me and Kaname with our studies.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Банагер",
+   "text": "「Пуру, Пуру Два,\n　давайте помолимся, чтобы Соскэ выкарабкался.」",
+   "orig": "Banagher\n「Ple, Ple Two,\n　let's pray that Sousuke pulls through this.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Пуру",
+   "text": "「Хорошо.」",
+   "orig": "Ple\n「Okay.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Пуру Два",
+   "text": "「Ладно, Банагер.」",
+   "orig": "Ple Two\n「Alright, Banagher.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Амуро",
+   "text": "「Мы до сих пор не знаем, почему Калинин перешёл к ним.」",
+   "orig": "Amuro\n「What we still don't know is why Kalinin defected.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Дагза",
+   "text": "「Да. В конце концов,\n　боевые неудачи начались у нас далеко не сегодня.」",
+   "orig": "Daguza\n「Yeah. After all,\n　it's not like our bad luck in battle just started today.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Като",
+   "text": "「Может, это тянулось так долго,\n　что в итоге сломило его дух?」",
+   "orig": "Kato\n「Could it be that that's been going on for so long\n　that it finally broke his spirit?」"
+  },
+  {
+   "i": 324,
+   "speaker": "Курц",
+   "text": "「Нет, только не этот старик.\n　Такое просто немыслимо!」",
+   "orig": "Kurz\n「No, not that old man.\n　That's just unthinkable!」"
+  },
+  {
+   "i": 325,
+   "speaker": "Клузо",
+   "text": "「Успокойся, Вебер.\n　Сам факт предательства означает, что он уже\n　не тот Калинин, которого мы знали.」",
+   "orig": "Clouseau\n「Calm down, Weber.\n　Just the fact that he betrayed us means that\n　he's not the same Kalinin that we all knew.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Тесса",
+   "text": "「Придётся это признать. Майор Калинин\n　нанёс ущерб «Туата де Данаан» и перебежал\n　к врагу, прихватив наши сведения.」",
+   "orig": "Tessa\n「We've got to face it. Major Kalinin\n　has caused damage to the Tuatha de Danaan, and has\n　absconded to the enemy, along with our information.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Тесса",
+   "text": "「Мы лишились главного козыря против\n　вражеского Лямбда-драйвера.」",
+   "orig": "Tessa\n「We've lost our biggest trump card against\n　the enemy's Lambda Driver.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Тесса",
+   "text": "「А Канамэ похищена врагом.」",
+   "orig": "Tessa\n「And Kaname has been snatched away by the enemy.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Окита",
+   "text": "「Единственный плюс в том, что Мельда Дитц сдалась\n　и мы получим кое-какие сведения о Гамиласе.」",
+   "orig": "Okita\n「The only positive development is that since Melda Dietz\n　surrendered, we'll get some information about Gamillas.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Отто",
+   "text": "「И где же она?」",
+   "orig": "Otto\n「And where is she?」"
+  },
+  {
+   "i": 331,
+   "speaker": "Окита",
+   "text": "「Допросить её поручено Кодаю.」",
+   "orig": "Okita\n「Kodai's been tasked with questioning her.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Тесса",
+   "text": "「Есть и ещё одна хорошая новость.」",
+   "orig": "Tessa\n「There's one more positive development.」"
+  },
+  {
+   "i": 333,
+   "speaker": "Брайт",
+   "text": "「И какая же?」",
+   "orig": "Bright\n「And what would that be?」"
+  },
+  {
+   "i": 334,
+   "speaker": "Тесса",
+   "text": "「Найден путь к уничтожению «Амальгамы».」",
+   "orig": "Tessa\n「A route for toppling Amalgam has been established.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Тесса",
+   "text": "「По итогам прошлых расследований мы установили, что\n　у «Амальгамы» нет единоличного главы: решения\n　принимаются по согласию нескольких руководителей.」",
+   "orig": "Tessa\n「Based on our investigations in the past, we ascertained\n　that Amalgam doesn't have an absolute top, but rather\n　makes decisions based on agreement by multiple officials.」"
+  },
+  {
+   "i": 336,
+   "speaker": "Хаято",
+   "text": "「Стоит выбыть хотя бы одному из них —\n　и вся организация встаёт.」",
+   "orig": "Hayato\n「If even one of those officials isn't present,\n　the organization is brought to a standstill.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Тесса",
+   "text": "「Именно так.\n　Но теперь Леонард Тестаросса\n　объявил себя единственным главой «Амальгамы».」",
+   "orig": "Tessa\n「That's right.\n　But now Leonard Testarossa has\n　named himself sole leader of Amalgam.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Тесса",
+   "text": "「Мы не знаем, что к этому привело,\n　но, если верить его словам, он, похоже,\n　взял «Амальгаму» под свой контроль.」",
+   "orig": "Tessa\n「We're not sure what led up to this,\n　but taking him at his word, he's apparently\n　taken control over Amalgam.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Рёма",
+   "text": "「Другими словами, у зверя появилась голова, которую\n　можно снести.」",
+   "orig": "Ryoma\n「In other words, now the beast has a head for us to crush.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Тесса",
+   "text": "「Именно. Если мы уберём его,\n　«Амальгама» как организация будет уничтожена.\n　Это открытие — огромный шаг вперёд для нас.」",
+   "orig": "Tessa\n「Exactly. If we take him out,\n　Amalgam as an organization will be destroyed.\n　Finding that out has been a hugely positive development.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Кодзи",
+   "text": "「Но ведь он —」",
+   "orig": "Koji\n「But he's—」"
+  },
+  {
+   "i": 342,
+   "speaker": "Тесса",
+   "text": "「Вы думаете правильно.\n　Он мой брат-близнец.」",
+   "orig": "Tessa\n「It's just like you're thinking.\n　He's my twin brother.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Тесса",
+   "text": "「Я годами не знала, где он находится,\n　а о том, что он в «Амальгаме»,\n　даже я узнала лишь недавно.」",
+   "orig": "Tessa\n「I had no idea where he was for years,\n　and the fact that he was at Amalgam\n　was something even I didn't know until recently.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Санада",
+   "text": "（Брат-близнец.\n　Значит, он тоже $kwbШептун$kwe,\n　как капитан Тестаросса и Тидори.）",
+   "orig": "Sanada\n（Twin brother.\n　That must mean that he's a $kwbWhispered$kwe,\n　just like Captain Testarossa and Chidori.）"
+  },
+  {
+   "i": 345,
+   "speaker": "Тесса",
+   "text": "「Поэтому в нашей дальнейшей войне с Нео-Зеоном\n　разгром их союзницы, «Амальгамы», займёт\n　одно из главных мест в нашей стратегии.」",
+   "orig": "Tessa\n「So in our war with Neo Zeon going forward,\n　toppling their ally Amalgam is going to occupy\n　a prominent position in our strategy.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Тесса",
+   "text": "「А для этого мы ставим\n　его устранение — устранение Леонарда Тестароссы —\n　высшим приоритетом.」",
+   "orig": "Tessa\n「And in order to do that, we're going to make\n　toppling him—toppling Leonard Testarossa—\n　a top priority.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Брайт",
+   "text": "「Вы точно согласны с этим, капитан Тестаросса?」",
+   "orig": "Bright\n「Are you okay with that, Captain Testarossa?」"
+  },
+  {
+   "i": 348,
+   "speaker": "Тесса",
+   "text": "「Да, я смирилась с этим.」",
+   "orig": "Tessa\n「Yes, I've made my peace with the situation.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Тесса",
+   "text": "（Я просто не могу понять, зачем он\n　так охотился за Канамэ.）",
+   "orig": "Tessa\n（I just can't fathom why he went after\n　Kaname like that.）"
+  },
+  {
+   "i": 350,
+   "speaker": "Тесса",
+   "text": "（Никак не могу избавиться от тревоги.\n　Канамэ — особенная даже среди Шептунов.\n　С видением, которое смогло увлечь самого Калинина.）",
+   "orig": "Tessa\n（I can't seem to shake this feeling of uneasiness.\n　Kaname, a special person even among the Whispered.\n　With a vision powerful enough to entice Kalinin.）"
+  },
+  {
+   "i": 351,
+   "speaker": "Тесса",
+   "text": "（Леонард,\n　что же ты всё-таки задумал?）",
+   "orig": "Tessa\n（Leonard,\n　just what exactly are you planning to do?）"
+  },
+  {
+   "i": 352,
+   "speaker": "Тесса",
+   "text": "「Как вы все уже знаете,\n　майор Андрей Сергеевич Калинин\n　передавал сведения «Амальгаме».」",
+   "orig": "Tessa\n「As all of you already know,\n　Major Andrei Sergeivich Kalinin\n　was leaking information to Amalgam.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Курц",
+   "text": "「Хм.」",
+   "orig": "Kurz\n「Hmph.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Мао",
+   "text": "「Хм.」",
+   "orig": "Mao\n「Hmph.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Тесса",
+   "text": "「Он не только сообщил «Амальгаме» местоположение\n　нашей базы на острове Мерида.」",
+   "orig": "Tessa\n「Not only did he tell Amalgam the location\n　of our base, Melida Island.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Тесса",
+   "text": "「Он также выдал, где находятся сержант Сагара\n　и Канамэ Тидори, и в итоге её похитили.」",
+   "orig": "Tessa\n「He also revealed the location of Sergeant Sagara and\n　Kaname Chidori, and as a result, she was kidnapped.」"
+  },
+  {
+   "i": 357,
+   "speaker": "$n",
+   "text": "「А что с Соскэ?」",
+   "orig": "$n\n「And what happened to Sousuke?」"
+  },
+  {
+   "i": 358,
+   "speaker": "Тесса",
+   "text": "「Он в критическом состоянии.\n　Его доставили в медцентр «Мифрила»,\n　где провели экстренную операцию.」",
+   "orig": "Tessa\n「He's in critical condition.\n　He was taken to Mithril's medical facility,\n　where they performed emergency surgery on him.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Тесса",
+   "text": "「А «Арбалест» уничтожен полностью\n　и восстановлению не подлежит.」",
+   "orig": "Tessa\n「Meanwhile, the Arbalest was completely destroyed,\n　and is beyond repair.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Клузо",
+   "text": "「Не верится, что мы потеряли единственную машину\n　«Мифрила» с Лямбда-драйвером.」",
+   "orig": "Clouseau\n「I can't believe we lost Mithril's only\n　Lambda Driver-equipped model.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Джудо",
+   "text": "「Ну, даже если бы «Арбалест» и починили,\n　управлять им может только Соскэ.」",
+   "orig": "Judau\n「Well, even if the Arbalest could be repaired,\n　Sousuke is the only one who can use it.」"
+  },
+  {
+   "i": 362,
+   "speaker": "Пуру",
+   "text": "「Соскэ умрёт?」",
+   "orig": "Ple\n「Is Sousuke going to die?」"
+  },
+  {
+   "i": 363,
+   "speaker": "Пуру Два",
+   "text": "「Не может быть.\n　Ничего подобного не случится.」",
+   "orig": "Ple Two\n「Impossible.\n　There's no way that's gonna happen.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Пуру Два",
+   "text": "「У него всегда было такое серьёзное лицо,\n　но он всё равно всегда с нами играл.」",
+   "orig": "Ple Two\n「That guy, he always had a serious look on his face,\n　but he always played with us.」"
+  },
+  {
+   "i": 365,
+   "speaker": "Пуру",
+   "text": "「Ага.\n　И ещё помогал нам с Канамэ с учёбой.」",
+   "orig": "Ple\n「Yeah.\n　And he used to help me and Kaname with our studies.」"
+  },
+  {
+   "i": 366,
+   "speaker": "Банагер",
+   "text": "「Пуру, Пуру Два,\n　давайте помолимся, чтобы Соскэ выкарабкался.」",
+   "orig": "Banagher\n「Ple, Ple Two,\n　let's pray that Sousuke pulls through this.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Пуру",
+   "text": "「Хорошо.」",
+   "orig": "Ple\n「Okay.」"
+  },
+  {
+   "i": 368,
+   "speaker": "Пуру Два",
+   "text": "「Ладно, Банагер.」",
+   "orig": "Ple Two\n「Alright, Banagher.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Амуро",
+   "text": "「Мы до сих пор не знаем, почему Калинин перешёл к ним.」",
+   "orig": "Amuro\n「What we still don't know is why Kalinin defected.」"
+  },
+  {
+   "i": 370,
+   "speaker": "Дагза",
+   "text": "「Да. В конце концов,\n　боевые неудачи начались у нас далеко не сегодня.」",
+   "orig": "Daguza\n「Yeah. After all,\n　it's not like our bad luck in battle just started today.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Като",
+   "text": "「Может, это тянулось так долго,\n　что в итоге сломило его дух?」",
+   "orig": "Kato\n「Could it be that that's been going on for so long\n　that it finally broke his spirit?」"
+  },
+  {
+   "i": 372,
+   "speaker": "Курц",
+   "text": "「Нет, только не этот старик.\n　Такое просто немыслимо!」",
+   "orig": "Kurz\n「No, not that old man.\n　That's just unthinkable!」"
+  },
+  {
+   "i": 373,
+   "speaker": "Клузо",
+   "text": "「Успокойся, Вебер.\n　Сам факт предательства означает, что он уже\n　не тот Калинин, которого мы знали.」",
+   "orig": "Clouseau\n「Calm down, Weber.\n　Just the fact that he betrayed us means that\n　he's not the same Kalinin that we all knew.」"
+  },
+  {
+   "i": 374,
+   "speaker": "Тесса",
+   "text": "「Придётся это признать. Майор Калинин\n　нанёс ущерб «Туата де Данаан» и перебежал\n　к врагу, прихватив наши сведения.」",
+   "orig": "Tessa\n「We've got to face it. Major Kalinin\n　has caused damage to the Tuatha de Danaan, and has\n　absconded to the enemy, along with our information.」"
+  },
+  {
+   "i": 375,
+   "speaker": "Тесса",
+   "text": "「Мы лишились главного козыря против\n　вражеского Лямбда-драйвера.」",
+   "orig": "Tessa\n「We've lost our biggest trump card against\n　the enemy's Lambda Driver.」"
+  },
+  {
+   "i": 376,
+   "speaker": "Тесса",
+   "text": "「А Канамэ похищена врагом.」",
+   "orig": "Tessa\n「And Kaname has been snatched away by the enemy.」"
+  },
+  {
+   "i": 377,
+   "speaker": "Окита",
+   "text": "「Единственный плюс в том,\n　что нам удалось защитить Мельду Дитц.」",
+   "orig": "Okita\n「The only positive development is that\n　we were able to protect Melda Dietz.」"
+  },
+  {
+   "i": 378,
+   "speaker": "Отто",
+   "text": "「И где же она?」",
+   "orig": "Otto\n「And where is she?」"
+  },
+  {
+   "i": 379,
+   "speaker": "Окита",
+   "text": "「Ей сейчас залечивают раны.\n　Как только закончат, мы собираемся её допросить.」",
+   "orig": "Okita\n「She's being treated for her wounds.\n　When that's done with, we plan to question her.」"
+  },
+  {
+   "i": 380,
+   "speaker": "Санада",
+   "text": "「Будем надеяться, что мы получим от неё\n　какие-нибудь сведения о Гамиласе.」",
+   "orig": "Sanada\n「Hopefully, we'll be able to get some information\n　from her about Gamillas.」"
+  },
+  {
+   "i": 381,
+   "speaker": "Тесса",
+   "text": "「Есть и ещё одна хорошая новость.」",
+   "orig": "Tessa\n「There's one more positive development.」"
+  },
+  {
+   "i": 382,
+   "speaker": "Брайт",
+   "text": "「И какая же?」",
+   "orig": "Bright\n「And what would that be?」"
+  },
+  {
+   "i": 383,
+   "speaker": "Тесса",
+   "text": "「Найден путь к уничтожению «Амальгамы».」",
+   "orig": "Tessa\n「A route for toppling Amalgam has been established.」"
+  },
+  {
+   "i": 384,
+   "speaker": "Тесса",
+   "text": "「По итогам прошлых расследований мы установили, что\n　у «Амальгамы» нет единоличного главы: решения\n　принимаются по согласию нескольких руководителей.」",
+   "orig": "Tessa\n「Based on our investigations in the past, we ascertained\n　that Amalgam doesn't have an absolute top, but rather\n　makes decisions based on agreement by multiple officials.」"
+  },
+  {
+   "i": 385,
+   "speaker": "Хаято",
+   "text": "「Стоит выбыть хотя бы одному из них —\n　и вся организация встаёт.」",
+   "orig": "Hayato\n「If even one of those officials isn't present,\n　the organization is brought to a standstill.」"
+  },
+  {
+   "i": 386,
+   "speaker": "Тесса",
+   "text": "「Именно так.\n　Но теперь Леонард Тестаросса\n　объявил себя единственным главой «Амальгамы».」",
+   "orig": "Tessa\n「That's right.\n　But now Leonard Testarossa has\n　named himself sole leader of Amalgam.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Тесса",
+   "text": "「Мы не знаем, что к этому привело,\n　но, если верить его словам, он, похоже,\n　взял «Амальгаму» под свой контроль.」",
+   "orig": "Tessa\n「We're not sure what led up to this,\n　but taking him at his word, he's apparently\n　taken control over Amalgam.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Рёма",
+   "text": "「Другими словами, у зверя появилась голова, которую\n　можно снести.」",
+   "orig": "Ryoma\n「In other words, now the beast has a head for us to crush.」"
+  },
+  {
+   "i": 389,
+   "speaker": "Тесса",
+   "text": "「Именно. Если мы уберём его,\n　«Амальгама» как организация будет уничтожена.\n　Это открытие — огромный шаг вперёд для нас.」",
+   "orig": "Tessa\n「Exactly. If we take him out,\n　Amalgam as an organization will be destroyed.\n　Finding that out has been a hugely positive development.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Кодзи",
+   "text": "「Но ведь он —」",
+   "orig": "Koji\n「But he's—」"
+  },
+  {
+   "i": 391,
+   "speaker": "Тесса",
+   "text": "「Вы думаете правильно.\n　Он мой брат-близнец.」",
+   "orig": "Tessa\n「It's just like you're thinking.\n　He's my twin brother.」"
+  },
+  {
+   "i": 392,
+   "speaker": "Тесса",
+   "text": "「Я годами не знала, где он находится,\n　а о том, что он в «Амальгаме»,\n　даже я узнала лишь недавно.」",
+   "orig": "Tessa\n「I had no idea where he was for years,\n　and the fact that he was at Amalgam\n　was something even I didn't know until recently.」"
+  },
+  {
+   "i": 393,
+   "speaker": "Санада",
+   "text": "（Брат-близнец.\n　Значит, он тоже $kwbШептун$kwe,\n　как капитан Тестаросса и Тидори.）",
+   "orig": "Sanada\n（Twin brother.\n　That must mean that he's a $kwbWhispered$kwe,\n　just like Captain Testarossa and Chidori.）"
+  },
+  {
+   "i": 394,
+   "speaker": "Тесса",
+   "text": "「Поэтому в нашей дальнейшей войне с Нео-Зеоном\n　разгром их союзницы, «Амальгамы», займёт\n　одно из главных мест в нашей стратегии.」",
+   "orig": "Tessa\n「So in our war with Neo Zeon going forward,\n　toppling their ally Amalgam is going to occupy\n　a prominent position in our strategy.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Тесса",
+   "text": "「А для этого мы ставим\n　его устранение — устранение Леонарда Тестароссы —\n　высшим приоритетом.」",
+   "orig": "Tessa\n「And in order to do that, we're going to make\n　toppling him—toppling Leonard Testarossa—\n　a top priority.」"
+  },
+  {
+   "i": 396,
+   "speaker": "Брайт",
+   "text": "「Вы точно согласны с этим, капитан Тестаросса?」",
+   "orig": "Bright\n「Are you okay with that, Captain Testarossa?」"
+  },
+  {
+   "i": 397,
+   "speaker": "Тесса",
+   "text": "「Да, я смирилась с этим.」",
+   "orig": "Tessa\n「Yes, I've made my peace with the situation.」"
+  },
+  {
+   "i": 398,
+   "speaker": "Тесса",
+   "text": "（Я просто не могу понять, зачем он\n　так охотился за Канамэ.）",
+   "orig": "Tessa\n（I just can't fathom why he went after\n　Kaname like that.）"
+  },
+  {
+   "i": 399,
+   "speaker": "Тесса",
+   "text": "（Никак не могу избавиться от тревоги.\n　Канамэ — особенная даже среди Шептунов.\n　С видением, которое смогло увлечь самого Калинина.）",
+   "orig": "Tessa\n（I can't seem to shake this feeling of uneasiness.\n　Kaname, a special person even among the Whispered.\n　With a vision powerful enough to entice Kalinin.）"
+  },
+  {
+   "i": 400,
+   "speaker": "Тесса",
+   "text": "（Леонард,\n　что же ты всё-таки задумал?）",
+   "orig": "Tessa\n（Leonard,\n　just what exactly are you planning to do?）"
+  },
+  {
+   "i": 401,
+   "speaker": "Тесса",
+   "text": "「Как вы все уже знаете,\n　майор Андрей Сергеевич Калинин\n　передавал сведения «Амальгаме».」",
+   "orig": "Tessa\n「As all of you already know,\n　Major Andrei Sergeivich Kalinin\n　was leaking information to Amalgam.」"
+  },
+  {
+   "i": 402,
+   "speaker": "Курц",
+   "text": "「Хм.」",
+   "orig": "Kurz\n「Hmph.」"
+  },
+  {
+   "i": 403,
+   "speaker": "Мао",
+   "text": "「Хм.」",
+   "orig": "Mao\n「Hmph.」"
+  },
+  {
+   "i": 404,
+   "speaker": "Тесса",
+   "text": "「Он не только сообщил «Амальгаме» местоположение\n　нашей базы на острове Мерида.」",
+   "orig": "Tessa\n「Not only did he tell Amalgam the location\n　of our base, Melida Island.」"
+  },
+  {
+   "i": 405,
+   "speaker": "Тесса",
+   "text": "「Он также выдал, где находятся сержант Сагара\n　и Канамэ Тидори, и в итоге её похитили.」",
+   "orig": "Tessa\n「He also revealed the location of Sergeant Sagara and\n　Kaname Chidori, and as a result, she was kidnapped.」"
+  },
+  {
+   "i": 406,
+   "speaker": "$n",
+   "text": "「А что с Соскэ?」",
+   "orig": "$n\n「And what happened to Sousuke?」"
+  },
+  {
+   "i": 407,
+   "speaker": "Тесса",
+   "text": "「Он в критическом состоянии.\n　Его доставили в медцентр «Мифрила»,\n　где провели экстренную операцию.」",
+   "orig": "Tessa\n「He's in critical condition.\n　He was taken to Mithril's medical facility,\n　where they performed emergency surgery on him.」"
+  },
+  {
+   "i": 408,
+   "speaker": "Тесса",
+   "text": "「А «Арбалест» уничтожен полностью\n　и восстановлению не подлежит.」",
+   "orig": "Tessa\n「Meanwhile, the Arbalest was completely destroyed,\n　and is beyond repair.」"
+  },
+  {
+   "i": 409,
+   "speaker": "Клузо",
+   "text": "「Не верится, что мы потеряли единственную машину\n　«Мифрила» с Лямбда-драйвером.」",
+   "orig": "Clouseau\n「I can't believe we lost Mithril's only\n　Lambda Driver-equipped model.」"
+  },
+  {
+   "i": 410,
+   "speaker": "Джудо",
+   "text": "「Ну, даже если бы «Арбалест» и починили,\n　управлять им может только Соскэ.」",
+   "orig": "Judau\n「Well, even if the Arbalest could be repaired,\n　Sousuke is the only one who can use it.」"
+  },
+  {
+   "i": 411,
+   "speaker": "Пуру",
+   "text": "「Соскэ умрёт?」",
+   "orig": "Ple\n「Is Sousuke going to die?」"
+  },
+  {
+   "i": 412,
+   "speaker": "Пуру Два",
+   "text": "「Не может быть.\n　Ничего подобного не случится.」",
+   "orig": "Ple Two\n「Impossible.\n　There's no way that's gonna happen.」"
+  },
+  {
+   "i": 413,
+   "speaker": "Пуру Два",
+   "text": "「У него всегда было такое серьёзное лицо,\n　но он всё равно всегда с нами играл.」",
+   "orig": "Ple Two\n「That guy, he always had a serious look on his face,\n　but he always played with us.」"
+  },
+  {
+   "i": 414,
+   "speaker": "Пуру",
+   "text": "「Ага.\n　И ещё помогал нам с Канамэ с учёбой.」",
+   "orig": "Ple\n「Yeah.\n　And he used to help me and Kaname with our studies.」"
+  },
+  {
+   "i": 415,
+   "speaker": "Банагер",
+   "text": "「Пуру, Пуру Два,\n　давайте помолимся, чтобы Соскэ выкарабкался.」",
+   "orig": "Banagher\n「Ple, Ple Two,\n　let's pray that Sousuke pulls through this.」"
+  },
+  {
+   "i": 416,
+   "speaker": "Пуру",
+   "text": "「Хорошо.」",
+   "orig": "Ple\n「Okay.」"
+  },
+  {
+   "i": 417,
+   "speaker": "Пуру Два",
+   "text": "「Ладно, Банагер.」",
+   "orig": "Ple Two\n「Alright, Banagher.」"
+  },
+  {
+   "i": 418,
+   "speaker": "Амуро",
+   "text": "「Мы до сих пор не знаем, почему Калинин перешёл к ним.」",
+   "orig": "Amuro\n「What we still don't know is why Kalinin defected.」"
+  },
+  {
+   "i": 419,
+   "speaker": "Дагза",
+   "text": "「Да. В конце концов,\n　боевые неудачи начались у нас далеко не сегодня.」",
+   "orig": "Daguza\n「Yeah. After all,\n　it's not like our bad luck in battle just started today.」"
+  },
+  {
+   "i": 420,
+   "speaker": "Като",
+   "text": "「Может, это тянулось так долго,\n　что в итоге сломило его дух?」",
+   "orig": "Kato\n「Could it be that that's been going on for so long\n　that it finally broke his spirit?」"
+  },
+  {
+   "i": 421,
+   "speaker": "Курц",
+   "text": "「Нет, только не этот старик.\n　Такое просто немыслимо!」",
+   "orig": "Kurz\n「No, not that old man.\n　That's just unthinkable!」"
+  },
+  {
+   "i": 422,
+   "speaker": "Клузо",
+   "text": "「Успокойся, Вебер.\n　Сам факт предательства означает, что он уже\n　не тот Калинин, которого мы знали.」",
+   "orig": "Clouseau\n「Calm down, Weber.\n　Just the fact that he betrayed us means that\n　he's not the same Kalinin that we all knew.」"
+  },
+  {
+   "i": 423,
+   "speaker": "Тесса",
+   "text": "「Придётся это признать. Майор Калинин\n　нанёс ущерб «Туата де Данаан» и перебежал\n　к врагу, прихватив наши сведения.」",
+   "orig": "Tessa\n「We've got to face it. Major Kalinin\n　has caused damage to the Tuatha de Danaan, and has\n　absconded to the enemy, along with our information.」"
+  },
+  {
+   "i": 424,
+   "speaker": "Тесса",
+   "text": "「Мы лишились главного козыря против\n　вражеского Лямбда-драйвера.」",
+   "orig": "Tessa\n「We've lost our biggest trump card against\n　the enemy's Lambda Driver.」"
+  },
+  {
+   "i": 425,
+   "speaker": "Тесса",
+   "text": "「А Канамэ похищена врагом.」",
+   "orig": "Tessa\n「And Kaname has been snatched away by the enemy.」"
+  },
+  {
+   "i": 426,
+   "speaker": "Окита",
+   "text": "「Единственный плюс в том,\n　что нам удалось защитить Мельду Дитц.」",
+   "orig": "Okita\n「The only positive development is that\n　we were able to protect Melda Dietz.」"
+  },
+  {
+   "i": 427,
+   "speaker": "Отто",
+   "text": "「И где же она?」",
+   "orig": "Otto\n「And where is she?」"
+  },
+  {
+   "i": 428,
+   "speaker": "Окита",
+   "text": "「Ей сейчас залечивают раны.\n　Как только закончат, мы собираемся её допросить.」",
+   "orig": "Okita\n「She's being treated for her wounds.\n　When that's done with, we plan to question her.」"
+  },
+  {
+   "i": 429,
+   "speaker": "Санада",
+   "text": "「Будем надеяться, что мы получим от неё\n　какие-нибудь сведения о Гамиласе.」",
+   "orig": "Sanada\n「Hopefully, we'll be able to get some information\n　from her about Gamillas.」"
+  },
+  {
+   "i": 430,
+   "speaker": "Тесса",
+   "text": "「Есть и ещё одна хорошая новость.」",
+   "orig": "Tessa\n「There's one more positive development.」"
+  },
+  {
+   "i": 431,
+   "speaker": "Брайт",
+   "text": "「И какая же?」",
+   "orig": "Bright\n「And what would that be?」"
+  },
+  {
+   "i": 432,
+   "speaker": "Тесса",
+   "text": "「Найден путь к уничтожению «Амальгамы».」",
+   "orig": "Tessa\n「A route for toppling Amalgam has been established.」"
+  },
+  {
+   "i": 433,
+   "speaker": "Тесса",
+   "text": "「По итогам прошлых расследований мы установили, что\n　у «Амальгамы» нет единоличного главы: решения\n　принимаются по согласию нескольких руководителей.」",
+   "orig": "Tessa\n「Based on our investigations in the past, we ascertained\n　that Amalgam doesn't have an absolute top, but rather\n　makes decisions based on agreement by multiple officials.」"
+  },
+  {
+   "i": 434,
+   "speaker": "Хаято",
+   "text": "「Стоит выбыть хотя бы одному из них —\n　и вся организация встаёт.」",
+   "orig": "Hayato\n「If even one of those officials isn't present,\n　the organization is brought to a standstill.」"
+  },
+  {
+   "i": 435,
+   "speaker": "Тесса",
+   "text": "「Именно так.\n　Но теперь Леонард Тестаросса\n　объявил себя единственным главой «Амальгамы».」",
+   "orig": "Tessa\n「That's right.\n　But now Leonard Testarossa has\n　named himself sole leader of Amalgam.」"
+  },
+  {
+   "i": 436,
+   "speaker": "Тесса",
+   "text": "「Мы не знаем, что к этому привело,\n　но, если верить его словам, он, похоже,\n　взял «Амальгаму» под свой контроль.」",
+   "orig": "Tessa\n「We're not sure what led up to this,\n　but taking him at his word, he's apparently\n　taken control over Amalgam.」"
+  },
+  {
+   "i": 437,
+   "speaker": "Рёма",
+   "text": "「Другими словами, у зверя появилась голова, которую\n　можно снести.」",
+   "orig": "Ryoma\n「In other words, now the beast has a head for us to crush.」"
+  },
+  {
+   "i": 438,
+   "speaker": "Тесса",
+   "text": "「Именно. Если мы уберём его,\n　«Амальгама» как организация будет уничтожена.\n　Это открытие — огромный шаг вперёд для нас.」",
+   "orig": "Tessa\n「Exactly. If we take him out,\n　Amalgam as an organization will be destroyed.\n　Finding that out has been a hugely positive development.」"
+  },
+  {
+   "i": 439,
+   "speaker": "Кодзи",
+   "text": "「Но ведь он —」",
+   "orig": "Koji\n「But he's—」"
+  },
+  {
+   "i": 440,
+   "speaker": "Тесса",
+   "text": "「Вы думаете правильно.\n　Он мой брат-близнец.」",
+   "orig": "Tessa\n「It's just like you're thinking.\n　He's my twin brother.」"
+  },
+  {
+   "i": 441,
+   "speaker": "Тесса",
+   "text": "「Я годами не знала, где он находится,\n　а о том, что он в «Амальгаме»,\n　даже я узнала лишь недавно.」",
+   "orig": "Tessa\n「I had no idea where he was for years,\n　and the fact that he was at Amalgam\n　was something even I didn't know until recently.」"
+  },
+  {
+   "i": 442,
+   "speaker": "Санада",
+   "text": "（Брат-близнец.\n　Значит, он тоже $kwbШептун$kwe,\n　как капитан Тестаросса и Тидори.）",
+   "orig": "Sanada\n（Twin brother.\n　That must mean that he's a $kwbWhispered$kwe,\n　just like Captain Testarossa and Chidori.）"
+  },
+  {
+   "i": 443,
+   "speaker": "Тесса",
+   "text": "「Поэтому в нашей дальнейшей войне с Нео-Зеоном\n　разгром их союзницы, «Амальгамы», займёт\n　одно из главных мест в нашей стратегии.」",
+   "orig": "Tessa\n「So in our war with Neo Zeon going forward,\n　toppling their ally Amalgam is going to occupy\n　a prominent position in our strategy.」"
+  },
+  {
+   "i": 444,
+   "speaker": "Тесса",
+   "text": "「А для этого мы ставим\n　его устранение — устранение Леонарда Тестароссы —\n　высшим приоритетом.」",
+   "orig": "Tessa\n「And in order to do that, we're going to make\n　toppling him—toppling Leonard Testarossa—\n　a top priority.」"
+  },
+  {
+   "i": 445,
+   "speaker": "Брайт",
+   "text": "「Вы точно согласны с этим, капитан Тестаросса?」",
+   "orig": "Bright\n「Are you okay with that, Captain Testarossa?」"
+  },
+  {
+   "i": 446,
+   "speaker": "Тесса",
+   "text": "「Да, я смирилась с этим.」",
+   "orig": "Tessa\n「Yes, I've made my peace with the situation.」"
+  },
+  {
+   "i": 447,
+   "speaker": "Тесса",
+   "text": "（Я просто не могу понять, зачем он\n　так охотился за Канамэ.）",
+   "orig": "Tessa\n（I just can't fathom why he went after\n　Kaname like that.）"
+  },
+  {
+   "i": 448,
+   "speaker": "Тесса",
+   "text": "（Никак не могу избавиться от тревоги.\n　Канамэ — особенная даже среди Шептунов.\n　С видением, которое смогло увлечь самого Калинина.）",
+   "orig": "Tessa\n（I can't seem to shake this feeling of uneasiness.\n　Kaname, a special person even among the Whispered.\n　With a vision powerful enough to entice Kalinin.）"
+  },
+  {
+   "i": 449,
+   "speaker": "Тесса",
+   "text": "（Леонард,\n　что же ты всё-таки задумал?）",
+   "orig": "Tessa\n（Leonard,\n　just what exactly are you planning to do?）"
+  },
+  {
+   "i": 453,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Убежище Леонарда Тестароссы-",
+   "orig": "　\n　　\n　　　　　　　-Leonard Testarossa's Hideout-"
+  },
+  {
+   "i": 454,
+   "speaker": "Сабина",
+   "text": "「С возвращением, Леонард.」",
+   "orig": "Sabine\n「Welcome back, Leonard.」"
+  },
+  {
+   "i": 455,
+   "speaker": "Леонард",
+   "text": "「Сабина.\n　Поручаю тебе позаботиться о Канамэ Тидори.」",
+   "orig": "Leonard\n「Sabine.\n　I'm counting on you to take care of Kaname Chidori.」"
+  },
+  {
+   "i": 456,
+   "speaker": "Сабина",
+   "text": "「Если таково твоё желание.」",
+   "orig": "Sabine\n「If that is your wish.」"
+  },
+  {
+   "i": 457,
+   "speaker": "Леонард",
+   "text": "「Сейчас она спит.\n　Она была слишком взвинчена, пришлось дать успокоительное.」",
+   "orig": "Leonard\n「She's sleeping right now.\n　She was overexcited, so I had to give her tranquilizers.」"
+  },
+  {
+   "i": 458,
+   "speaker": "Леонард",
+   "text": "「Для неё наверняка было потрясением\n　узнать о твоём предательстве, мистер К (Калий)...\n　Андрей Сергеевич Калинин.」",
+   "orig": "Leonard\n「It must have been quick a shock for her\n　to learn of your betrayal, Mr. K (Kalium)...\n　Andrei Sergeivich Kalinin.」"
+  },
+  {
+   "i": 459,
+   "speaker": "Калинин",
+   "text": "「Рано или поздно она всё равно бы узнала.\n　Куда важнее другое —」",
+   "orig": "Kalinin\n「She would have found out one way or another.\n　More importantly—」"
+  },
+  {
+   "i": 460,
+   "speaker": "Леонард",
+   "text": "「Знаю, знаю.\n　Ты не разочаруешься.」",
+   "orig": "Leonard\n「I know, I know.\n　You won't be disappointed.」"
+  },
+  {
+   "i": 461,
+   "speaker": "Леонард",
+   "text": "「Направить этот мир в нужную сторону.\n　Для этого нам понадобится её сила.」",
+   "orig": "Leonard\n「Leading this world in the right direction.\n　We're gonna need her powers in order to do that.」"
+  },
+  {
+   "i": 462,
+   "speaker": "Калинин",
+   "text": "「Я тоже пойду отдохну.」",
+   "orig": "Kalinin\n「I'm gonna get some rest too.」"
+  },
+  {
+   "i": 463,
+   "speaker": "Леонард",
+   "text": "「Хорошо.\n　Сабина, проводи мистера К.」",
+   "orig": "Leonard\n「Alright.\n　Sabine, go with Mr. K.」"
+  },
+  {
+   "i": 464,
+   "speaker": "Сабина",
+   "text": "「Слушаюсь.\n　Прошу сюда.」",
+   "orig": "Sabine\n「Yes, sir.\n　This way, please.」"
+  },
+  {
+   "i": 465,
+   "speaker": "Леонард",
+   "text": "「Что ж, похоже, первый этап мы прошли.」",
+   "orig": "Leonard\n「Well, it looks like we've cleared the first stage.」"
+  },
+  {
+   "i": 466,
+   "speaker": "？？？",
+   "text": "「Простите, что беспокою вас на отдыхе.」",
+   "orig": "？？？\n「Sorry to bother you while you're resting.」"
+  },
+  {
+   "i": 467,
+   "speaker": "Леонард",
+   "text": "「Ты ещё кто такой?」",
+   "orig": "Leonard\n「Who the hell are you?」"
+  },
+  {
+   "i": 468,
+   "speaker": "Эмбрио",
+   "text": "「Тише, тише.」",
+   "orig": "Embryo\n「Whoa, take it easy.」"
+  },
+  {
+   "i": 469,
+   "speaker": "Эмбрио",
+   "text": "「Меня зовут Эмбрио.\n　Приятно познакомиться и всё такое.」",
+   "orig": "Embryo\n「My name is Embryo.\n　Nice to meet you and so on.」"
+  },
+  {
+   "i": 470,
+   "speaker": "Леонард",
+   "text": "「Для убийцы ты держишься слишком уж запросто.」",
+   "orig": "Leonard\n「You're a bit overly familiar for an assassin.」"
+  },
+  {
+   "i": 471,
+   "speaker": "Эмбрио",
+   "text": "「Убийцы? Как раз наоборот.\n　Можно даже сказать, что я твой соратник.」",
+   "orig": "Embryo\n「Assassin? I'm quite the opposite.\n　You could even say I'm your comrade.」"
+  },
+  {
+   "i": 472,
+   "speaker": "Леонард",
+   "text": "「Что?」",
+   "orig": "Leonard\n「What?」"
+  },
+  {
+   "i": 473,
+   "speaker": "Эмбрио",
+   "text": "「Ну что скажешь, Леонард Тестаросса?\n　Станешь моим партнёром по исследованиям?」",
+   "orig": "Embryo\n「How about it, Leonard Testarossa?\n　Will you become my research partner?」"
+  },
+  {
+   "i": 474,
+   "speaker": "Леонард",
+   "text": "「А?」",
+   "orig": "Leonard\n「Huh?」"
+  },
+  {
+   "i": 475,
+   "speaker": "Эмбрио",
+   "text": "「До недавних пор у меня был на примете один человек,\n　но он взял и создал эту скучную организацию\n　под названием «Селестиал Бин».」",
+   "orig": "Embryo\n「There was someone I had my eye on until recently,\n　but then he went and created this boring organization\n　called Celestial Being.」"
+  },
+  {
+   "i": 476,
+   "speaker": "Эмбрио",
+   "text": "「Ты совсем не такой, как он. В твоих глазах\n　я вижу огонь, который отражает мою собственную страсть.」",
+   "orig": "Embryo\n「You're nothing like him. I can see a fire\n　your eyes that reflects my own passion.」"
+  },
+  {
+   "i": 477,
+   "speaker": "Эмбрио",
+   "text": "「Прекрасный и правильный мир.\n　Разве это не главное наше общее желание?」",
+   "orig": "Embryo\n「A beautiful, and proper, world.\n　That above all is our common desire, is it not?」"
+  },
+  {
+   "i": 478,
+   "speaker": "Леонард",
+   "text": "「Э-э, ну...」",
+   "orig": "Leonard\n「Uh, well...」"
+  },
+  {
+   "i": 482,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Ангар «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Hangar-"
+  },
+  {
+   "i": 483,
+   "speaker": "Найн",
+   "text": "「Пфф.」",
+   "orig": "Nine\n「Pfff.」"
+  },
+  {
+   "i": 484,
+   "speaker": "Синохара",
+   "text": "「Найн и правда совсем приуныла.」",
+   "orig": "Shinohara\n「Nine really seems depressed.」"
+  },
+  {
+   "i": 485,
+   "speaker": "$n",
+   "text": "「Ну, Аль был ей очень близким другом, сам понимаешь.」",
+   "orig": "$n\n「Well, Al was a really close friend of hers, you know.」"
+  },
+  {
+   "i": 486,
+   "speaker": "$n",
+   "text": "「В таком состоянии она вряд ли сможет\n　взять интервью у аса-пилота.」",
+   "orig": "$n\n「In the state she's in right now,\n　I doubt she'll be able to interview the ace pilot.」"
+  },
+  {
+   "i": 487,
+   "speaker": "Анализатор",
+   "text": "「Я понимаю её чувства.」",
+   "orig": "Analyzer\n「I understand how she feels.」"
+  },
+  {
+   "i": 488,
+   "speaker": "Като",
+   "text": "「Ты? Робот? Понимаешь?」",
+   "orig": "Kato\n「You? A robot? You understand?」"
+  },
+  {
+   "i": 489,
+   "speaker": "Анализатор",
+   "text": "「Найн и Аль — оба ИИ.\n　Ты сомневаешься в их дружбе, Като?」",
+   "orig": "Analyzer\n「Nine and Al are both AIs.\n　Do you question their friendship, Kato?」"
+  },
+  {
+   "i": 490,
+   "speaker": "Като",
+   "text": "「Нет, вовсе нет. Просто —」",
+   "orig": "Kato\n「No, not at all. It's just—」"
+  },
+  {
+   "i": 491,
+   "speaker": "$n",
+   "text": "「Уже нет смысла рассуждать о том,\n　кто тут ИИ, кто человек и всё такое прочее.」",
+   "orig": "$n\n「It doesn't make sense any more to think\n　in terms of who's an AI, who's a human, and so on.」"
+  },
+  {
+   "i": 492,
+   "speaker": "Синохара",
+   "text": "「Тогда, может, пойдём подбодрим Найн?」",
+   "orig": "Shinohara\n「In that case, how about we go cheer Nine up?」"
+  },
+  {
+   "i": 493,
+   "speaker": "$n",
+   "text": "「Давайте сначала дадим ей немного времени.」",
+   "orig": "$n\n「Let's let a little time pass first.」"
+  },
+  {
+   "i": 494,
+   "speaker": "Като",
+   "text": "「А почему?」",
+   "orig": "Kato\n「Why's that?」"
+  },
+  {
+   "i": 495,
+   "speaker": "$n",
+   "text": "「Ну, Найн довольно упрямая.\n　Если лезть к ней с добротой до того, как она сама\n　разберётся в чувствах, выйдет ровно наоборот.」",
+   "orig": "$n\n「Well, Nine's kind of strong-willed.\n　If we're nice to her before she sorts out her feelings,\n　it'll have the exact opposite effect.」"
+  },
+  {
+   "i": 496,
+   "speaker": "Като",
+   "text": "「А ты и правда хорошо её знаешь.」",
+   "orig": "Kato\n「You sure do know her well.」"
+  },
+  {
+   "i": 497,
+   "speaker": "$n",
+   "text": "「Ну, она всё-таки мой напарник.」",
+   "orig": "$n\n「Well, she's my partner, after all.」"
+  },
+  {
+   "i": 498,
+   "speaker": "$n",
+   "text": "（Так что не вешай нос, Найн.\n　В грустные времена нужно заставлять себя улыбаться\n　и делать что угодно, лишь бы поднять себе дух.）",
+   "orig": "$n\n（So cheer up, Nine.\n　In sad times, you need to force yourself to smile\n　and do whatever it takes to lift your spirits.）"
+  },
+  {
+   "i": 499,
+   "speaker": "$n",
+   "text": "（Иначе можно увязнуть в такой тоске,\n　из которой уже не выбраться.）",
+   "orig": "$n\n（Otherwise you could end up in such a funk\n　that you won't be able to get out of it.）"
+  },
+  {
+   "i": 500,
+   "speaker": "Найн",
+   "text": "「Пфф.」",
+   "orig": "Nine\n「Pfff.」"
+  },
+  {
+   "i": 501,
+   "speaker": "Синохара",
+   "text": "「Найн и правда совсем приуныла.」",
+   "orig": "Shinohara\n「Nine really seems depressed.」"
+  },
+  {
+   "i": 502,
+   "speaker": "$n",
+   "text": "「Ну, Аль был ей очень близким другом, сам понимаешь.」",
+   "orig": "$n\n「Well, Al was a really close friend of hers, you know.」"
+  },
+  {
+   "i": 503,
+   "speaker": "$n",
+   "text": "「В таком состоянии она вряд ли сможет\n　взять интервью\n　 у аса-пилота.」",
+   "orig": "$n\n「In the state she's in right now,\n　I doubt she'll be able to interview\n　 the ace pilot.」"
+  },
+  {
+   "i": 504,
+   "speaker": "Анализатор",
+   "text": "「Я понимаю её чувства.」",
+   "orig": "Analyzer\n「I understand how she feels.」"
+  },
+  {
+   "i": 505,
+   "speaker": "Като",
+   "text": "「Ты? Робот? Понимаешь?」",
+   "orig": "Kato\n「You? A robot? You understand?」"
+  },
+  {
+   "i": 506,
+   "speaker": "Анализатор",
+   "text": "「Найн и Аль — оба ИИ.\n　Ты сомневаешься в их дружбе, Като?」",
+   "orig": "Analyzer\n「Nine and Al are both AIs.\n　Do you question their friendship, Kato?」"
+  },
+  {
+   "i": 507,
+   "speaker": "Като",
+   "text": "「Нет, вовсе нет. Просто —」",
+   "orig": "Kato\n「No, not at all. It's just—」"
+  },
+  {
+   "i": 508,
+   "speaker": "$n",
+   "text": "「Когда говоришь с Найн, Алем и остальными,\n　по-моему, нет смысла рассуждать о том,\n　кто тут ИИ, кто человек и всё такое прочее.」",
+   "orig": "$n\n「When you talk to Nine, Al, and the others,\n　I don't think it makes sense to think in terms of\n　who's an AI, who's a human, and so on.」"
+  },
+  {
+   "i": 509,
+   "speaker": "Синохара",
+   "text": "「Тогда, может, пойдём подбодрим Найн?」",
+   "orig": "Shinohara\n「In that case, how about we go cheer Nine up?」"
+  },
+  {
+   "i": 510,
+   "speaker": "$n",
+   "text": "「Собираюсь. Но сперва, думаю,\n　стоит оставить её одну ещё ненадолго.」",
+   "orig": "$n\n「I plan to. But first I think\n　we should leave her alone for a little longer.」"
+  },
+  {
+   "i": 511,
+   "speaker": "Като",
+   "text": "「А почему?」",
+   "orig": "Kato\n「Why's that?」"
+  },
+  {
+   "i": 512,
+   "speaker": "$n",
+   "text": "「По ней не скажешь, но Найн довольно упрямая.\n　Если лезть к ней с добротой до того, как она сама\n　разберётся в чувствах, выйдет ровно наоборот.」",
+   "orig": "$n\n「She may not look it, but Nine's kind of strong-willed.\n　If we're nice to her before she sorts out her feelings,\n　I think it'll have the exact opposite effect.」"
+  },
+  {
+   "i": 513,
+   "speaker": "Като",
+   "text": "「А ты и правда хорошо её знаешь.」",
+   "orig": "Kato\n「You sure do know her well.」"
+  },
+  {
+   "i": 514,
+   "speaker": "$n",
+   "text": "「Ну, она мне почти как сестра.」",
+   "orig": "$n\n「Well, she's practically a sister to me, after all.」"
+  },
+  {
+   "i": 515,
+   "speaker": "$n",
+   "text": "（Держись, Найн.\n　В грустные времена нужно заставлять себя улыбаться.）",
+   "orig": "$n\n（Hang tough, Nine.\n　In sad times, you need to force yourself to smile.）"
+  },
+  {
+   "i": 516,
+   "speaker": "$n",
+   "text": "（Иначе сердце точно не выдержит.）",
+   "orig": "$n\n（Otherwise your heart will surely break.）"
+  }
+ ]
+}

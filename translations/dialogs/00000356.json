@@ -1,0 +1,628 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "Дзё",
+   "text": "「Нет!\n　Пусть Майто Сэмпудзи и лишился «Майтгайна»,\n　но я лишился «Хирю».」",
+   "orig": "Joe\n「No!\n　Maito Senpuji may have lost Mightgaine,\n　but I've lost Hiryu.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Дзё",
+   "text": "「Одна победа, одно поражение. Это недопустимо.」",
+   "orig": "Joe\n「One win, one loss. Unacceptable.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Салли",
+   "text": "「Дзё!」",
+   "orig": "Sally\n「Joe!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Дзё",
+   "text": "「Опять ты.」",
+   "orig": "Joe\n「You again.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Салли",
+   "text": "「Дзё, прошу, подожди.\n　Я подумала, что ты мог пострадать,\n　и принесла аптечку.」",
+   "orig": "Sally\n「Joe, please, wait.\n　I thought perhaps you might be injured,\n　so I brought a first-aid kit.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Дзё",
+   "text": "「И зачем тебе это надо?」",
+   "orig": "Joe\n「Why are you even bothering?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Салли",
+   "text": "「Ты мне помог,\n　и я хочу отплатить тем же.」",
+   "orig": "Sally\n「You helped me, and \n　I want to return the favor.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Дзё",
+   "text": "「Как хочешь.」",
+   "orig": "Joe\n「Whatever.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Салли",
+   "text": "「Зачем ты сражаешься с «Майтгайном»?\n　Отряд Брэйв Экспресс рискует жизнью\n　ради всех нас.」",
+   "orig": "Sally\n「Why are you fighting against Mightgaine?\n　The Brave Express Corps are putting\n　their lives on the line for all of us.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Дзё",
+   "text": "「Потому что я злодей.\n　Злодеям положено сражаться с героями.」",
+   "orig": "Joe\n「Because I'm a villain.\n　It's in the nature of villains to fight heroes.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Салли",
+   "text": "「Я тебе не верю.\n　Будь ты по-настоящему злым,\n　ты бы меня не спас!」",
+   "orig": "Sally\n「I don't believe you.\n　If you were truly evil,\n　you wouldn't have saved me!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Салли",
+   "text": "「Прошу тебя!\n　Прекрати войну с отрядом Брэйв Экспресс,\n　пусть наступит мир!」",
+   "orig": "Sally\n「Please!\n　Put an end to your fight with Brave Express Corps,\n　and let there be peace!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Дзё",
+   "text": "「Ты ничего не понимаешь.」",
+   "orig": "Joe\n「You don't understand a thing.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Салли",
+   "text": "「А что тут понимать?」",
+   "orig": "Sally\n「What's there to understand?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Дзё",
+   "text": "「В чём смысл справедливости?\n　Защищать других? Спасать жизни?」",
+   "orig": "Joe\n「What is the point of justice?\n　Protecting others? Saving lives?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Салли",
+   "text": "「Ну... наверное.」",
+   "orig": "Sally\n「Well...maybe.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Дзё",
+   "text": "「Тогда это всего лишь глупая мечта слабаков.」",
+   "orig": "Joe\n「Then it's just a stupid dream for weak-minded fools.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Салли",
+   "text": "「Я не знаю, что тебе ответить.」",
+   "orig": "Sally\n「I don't know what to tell you.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Дзё",
+   "text": "「Когда я был мальчишкой, мой отец\n　занимался научной работой.」",
+   "orig": "Joe\n「When I was a boy, my father\n　was involved in research.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Салли",
+   "text": "「Правда?」",
+   "orig": "Sally\n「Really?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Дзё",
+   "text": "「В моих детских глазах он был блестящим учёным,\n　и я страшно им гордился.」",
+   "orig": "Joe\n「In my young mind, he was an excellent scientist,\n　and I was extremely proud of him.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Дзё",
+   "text": "「Но злодеи запугали его и вынудили\n　работать на них.\n　А в конце пристрелили, как собаку, прямо на улице.」",
+   "orig": "Joe\n「But threatened by evil men, he was\n　forced to cooperate with them.\n　In the end, they killed him like a dog in the street.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Салли",
+   "text": "「Какой ужас...」",
+   "orig": "Sally\n「That's horrible...」"
+  },
+  {
+   "i": 26,
+   "speaker": "Дзё",
+   "text": "「Тогда-то я и понял, что никакой\n　справедливости в этом мире нет.\n　Либо ты уничтожаешь, либо уничтожают тебя.」",
+   "orig": "Joe\n「That's when I understood that there\n　is no such thing as justice in this world.\n　You either destroy or get destroyed.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Дзё",
+   "text": "「Единственное, во что я верю, — это сила\n　вот в этих руках. Справедливость мне ни к чему.」",
+   "orig": "Joe\n「The only thing I have faith in, is the power\n　here in my hands. I have no use for justice.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Дзё",
+   "text": "「Когда я вижу самодовольную рожу Майто Сэмпудзи,\n　меня мутит и хочется съездить по ней кулаком!」",
+   "orig": "Joe\n「When I see that smug mug of Maito Senpuji's,\n　I feel sick to my stomach and want to smash his face in!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Салли",
+   "text": "「Ты ведь говоришь это не всерьёз.」",
+   "orig": "Sally\n「You can't mean that.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Дзё",
+   "text": "「Ну что, теперь ты понимаешь,\n　что я за человек?」",
+   "orig": "Joe\n「So now you understand\n　what kind of man I am, don't you?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Салли",
+   "text": "「Я...」",
+   "orig": "Sally\n「I...」"
+  },
+  {
+   "i": 32,
+   "speaker": "Дзё",
+   "text": "「Спасибо за заботу.\n　Но прошу — больше не попадайся мне на глаза.」",
+   "orig": "Joe\n「Thank you for caring.\n　But please, I never want to see you again.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Салли",
+   "text": "「Дзё.」",
+   "orig": "Sally\n「Joe.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Салли",
+   "text": "「Что бы ни творилось вокруг, я всегда\n　буду верить в справедливость. И в Майто.」",
+   "orig": "Sally\n「No matter how crazy things become, I'll\n　always believe in justice. And Maito.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Салли",
+   "text": "「И в тебя тоже, Дзё.」",
+   "orig": "Sally\n「And in you, as well, Joe.」"
+  },
+  {
+   "i": 39,
+   "speaker": "　",
+   "text": "　\n　　　-Завод «Сэмпудзи Хэви Индастриз» в Аото-",
+   "orig": "　\n　\n　　　　　-Senpuji Heavy Industries Aoto Factory-"
+  },
+  {
+   "i": 40,
+   "speaker": "Лунна",
+   "text": "「Хамада!」",
+   "orig": "Lunna\n「Hamada!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Хамада",
+   "text": "「Лунна!\n　Ты не ранена?」",
+   "orig": "Hamada\n「Lunna!\n　Are you hurt?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Лунна",
+   "text": "「Я-я была утром в Нувель-Токио-Сити, когда\n　началась эта схватка.」",
+   "orig": "Lunna\n「I-I was in Nouvelle Tokyo City this morning when the\n　fighting broke out.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Лунна",
+   "text": "「Но со мной всё хорошо.\n　Ничего страшного.」",
+   "orig": "Lunna\n「But, I'm alright.\n　It's nothing serious.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Хамада",
+   "text": "「Послушай, Лунна.」",
+   "orig": "Hamada\n「Oh, Lunna.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Лунна",
+   "text": "「Да?」",
+   "orig": "Lunna\n「Yes?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Хамада",
+   "text": "「Пообещай мне кое-что, пожалуйста.\n　Впредь держись подальше от опасных мест.」",
+   "orig": "Hamada\n「I want you to promise me something, please.\n　Stay clear of dangerous situations from now on.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Лунна",
+   "text": "「Обещаю.」",
+   "orig": "Lunna\n「I will.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Хамада",
+   "text": "「Спасибо.\n　Если бы с тобой что-то случилось,\n　я бы себе места не находил от горя.」",
+   "orig": "Hamada\n「Thank you.\n　If something happened to you,\n　I'd be beside myself with grief.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Лунна",
+   "text": "「Спасибо тебе, Хамада.\n　Я сегодня приготовила тебе обед.\n　Может, поедим вместе?」",
+   "orig": "Lunna\n「Thank you, Hamada.\n　I made you lunch today.\n　Shall we eat it together?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Хамада",
+   "text": "「Правда? Вот здорово!\n　Ты умеешь воодушевить человека!」",
+   "orig": "Hamada\n「Really? Alright!\n　You really know how to motivate a guy!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Лунна",
+   "text": "「Хамада?」",
+   "orig": "Lunna\n「Hamada?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Хамада",
+   "text": "「Да?」",
+   "orig": "Hamada\n「Yes?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Лунна",
+   "text": "「Никогда меня не оставляй.」",
+   "orig": "Lunna\n「Never leave me.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Хамада",
+   "text": "「Обещаю.」",
+   "orig": "Hamada\n「I promise.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Майто",
+   "text": "（Везучий ты человек, Хамада.）",
+   "orig": "Maito\n（You're a lucky guy, Hamada.）"
+  },
+  {
+   "i": 56,
+   "speaker": "Акито",
+   "text": "「Майто.」",
+   "orig": "Akito\n「Maito.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Майто",
+   "text": "「Да, Акито?」",
+   "orig": "Maito\n「Yes, Akito?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Акито",
+   "text": "「Ты должен победить.」",
+   "orig": "Akito\n「You have to win.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Майто",
+   "text": "「Обязательно.」",
+   "orig": "Maito\n「I will.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Акито",
+   "text": "「Моя надежда... все наши надежды — на тебя.」",
+   "orig": "Akito\n「My hopes...all of our hopes are riding on you.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Майто",
+   "text": "「Ваши надежды... Я понял.」",
+   "orig": "Maito\n「Your hopes... I understand.」"
+  },
+  {
+   "i": 62,
+   "speaker": "　",
+   "text": "　\n　　　-Завод «Сэмпудзи Хэви Индастриз» в Аото-",
+   "orig": "　\n　\n　　　　　-Senpuji Heavy Industries Aoto Factory-"
+  },
+  {
+   "i": 63,
+   "speaker": "Хамада",
+   "text": "「Слушайте, а Лунна сегодня разве не работает?」",
+   "orig": "Hamada\n「Hey, isn't Lunna working today?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Осака",
+   "text": "「Работает, только я никак\n　не могу до неё дозвониться.」",
+   "orig": "Osaka\n「Yes, but I wasn't\n　able to contact her.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Хамада",
+   "text": "「Думаете, она могла попасть в сегодняшнюю заваруху?」",
+   "orig": "Hamada\n「Do you think she got caught up in today's fighting?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Осака",
+   "text": "「Не переживай за неё, Хамада.\n　С такими девушками ничего плохого не случается.」",
+   "orig": "Osaka\n「Don't worry about her, Hamada.\n　She's the kind of girl nothing bad ever happens to.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Хамада",
+   "text": "「Да, наверное, вы правы.」",
+   "orig": "Hamada\n「Yeah, you're right.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Хамада",
+   "text": "（Лунна...\n　Где же ты?）",
+   "orig": "Hamada\n（Lunna...\n　Where are you?）"
+  },
+  {
+   "i": 69,
+   "speaker": "Майто",
+   "text": "（Хамада.）",
+   "orig": "Maito\n（Hamada.）"
+  },
+  {
+   "i": 70,
+   "speaker": "Акито",
+   "text": "「Майто.」",
+   "orig": "Akito\n「Maito.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Майто",
+   "text": "「Да, Акито?」",
+   "orig": "Maito\n「Yes, Akito?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Акито",
+   "text": "「Ты должен победить.」",
+   "orig": "Akito\n「You have to win.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Майто",
+   "text": "「Обязательно.」",
+   "orig": "Maito\n「I will.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Акито",
+   "text": "「Моя надежда... все наши надежды — на тебя.」",
+   "orig": "Akito\n「My hopes...all of our hopes are riding on you.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Майто",
+   "text": "「Ваши надежды... Я понял.」",
+   "orig": "Maito\n「Your hopes... I understand.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Найн",
+   "text": "（Результаты анализа голоса противницы\n　по имени Котё показывают, что...）",
+   "orig": "Nine\n（The results of my analysis of the voice of the enemy\n　called Kocho reveals that...）"
+  },
+  {
+   "i": 80,
+   "speaker": "Найн",
+   "text": "（...А впрочем, разве это теперь важно?）",
+   "orig": "Nine\n（...Does it really even matter anymore?）"
+  },
+  {
+   "i": 81,
+   "speaker": "Найн",
+   "text": "（Даже когда она сражалась под началом Мифунэ,\n　в её душе царило смятение.）",
+   "orig": "Nine\n（Even when she was fighting under Mifune's command,\n　there was great confusion.）"
+  },
+  {
+   "i": 82,
+   "speaker": "Найн",
+   "text": "（Найдя наконец ответ,\n　мой тактический процессор получил данные,\n　равноценные 100 ТакО.）",
+   "orig": "Nine\n（By finally learning the answer,\n　my tactical processing capacity was able to acquire\n　data equivalent to 100 TAC points.）"
+  },
+  {
+   "i": 83,
+   "speaker": "Найн",
+   "text": "（Жизнь людей полна боли и печали.\n　И всё же, несмотря ни на что, они сияют.）",
+   "orig": "Nine\n（Humans lead such pain-filled, sad lives.\n　And yet through it all, they shine.）"
+  },
+  {
+   "i": 84,
+   "speaker": "Найн",
+   "text": "（Мне есть чему у них поучиться.）",
+   "orig": "Nine\n（I can learn from that.）"
+  },
+  {
+   "i": 88,
+   "speaker": "Найн",
+   "text": "「Блэк,\n　я очень рада, что нам\n　довелось встретиться снова.」",
+   "orig": "Nine\n「Black,\n　I'm really happy that we\n　were able to meet again.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Блэк Гайн",
+   "text": "「И я, Найн.」",
+   "orig": "Black Gaine\n「Me too, Nine.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Лео Бомбер",
+   "text": "「Рассчитываю на тебя, Блэк.\n　Гайн отправляется на передовую.」",
+   "orig": "Leo Bomber\n「I'm counting on you, Black.\n　Gaine is leaving for the front lines.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Файр Дайвер",
+   "text": "「Блэк, ты ведь тоже боец отряда\n　Брэйв Экспресс. Сражайся вместе с нами.」",
+   "orig": "Fire Diver\n「Black, you're a member of the Brave\n　Express Corps, too. Fight alongside us.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Блэк Гайн",
+   "text": "「Спасибо.\n　Буду рад работать со всеми вами.」",
+   "orig": "Black Gaine\n「Thanks.\n　Looking forward to working with you all.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Хорн Бомбер",
+   "text": "「«Блэк Майтгайн» и «Майт Кайзер» вместе!\n　Одной вашей общей мощи хватит, чтобы Дзё\n　и Альянс DG затряслись от страха.」",
+   "orig": "Horn Bomber\n「Black Mightgaine and Might Kaiser together!\n　The combined power of you two alone should be enough\n　to make Joe and the DG Alliance quake in fear.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Найн",
+   "text": "（Но бои будут только ожесточаться.）",
+   "orig": "Nine\n（But the fighting's only going to get worse.）"
+  },
+  {
+   "i": 95,
+   "speaker": "Найн",
+   "text": "（И настанет день, когда\n　Кэпу тоже придётся стать сильнее.\n　Вот тогда я ему и понадоблюсь.）",
+   "orig": "Nine\n（And there will come a day when\n　Cap is going to have to up his game as well.\n　When that time comes, he'll need me.）"
+  },
+  {
+   "i": 96,
+   "speaker": "Найн",
+   "text": "「Блэк,\n　я очень рада, что нам\n　довелось встретиться снова.」",
+   "orig": "Nine\n「Black,\n　I'm really happy that we\n　were able to meet again.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Блэк Гайн",
+   "text": "「И я, Найн.」",
+   "orig": "Black Gaine\n「Me too, Nine.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Лео Бомбер",
+   "text": "「Рассчитываю на тебя, Блэк.\n　Гайн отправляется на передовую.」",
+   "orig": "Leo Bomber\n「I'm counting on you, Black.\n　Gaine is leaving for the front lines.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Файр Дайвер",
+   "text": "「Блэк, ты ведь тоже боец отряда\n　Брэйв Экспресс. Сражайся вместе с нами.」",
+   "orig": "Fire Diver\n「Black, you're a member of the Brave\n　Express Corps, too. Fight alongside us.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Блэк Гайн",
+   "text": "「Спасибо.\n　Буду рад работать со всеми вами.」",
+   "orig": "Black Gaine\n「Thanks.\n　Looking forward to working with you all.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Хорн Бомбер",
+   "text": "「«Блэк Майтгайн» и «Майт Кайзер» вместе!\n　Одной вашей общей мощи хватит, чтобы Дзё\n　и Альянс DG затряслись от страха.」",
+   "orig": "Horn Bomber\n「Black Mightgaine and Might Kaiser together!\n　The combined power of you two alone should be enough\n　to make Joe and the DG Alliance quake in fear.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Найн",
+   "text": "（Но бои будут только ожесточаться.）",
+   "orig": "Nine\n（But the fighting's only going to get worse.）"
+  },
+  {
+   "i": 103,
+   "speaker": "Найн",
+   "text": "（И настанет день, когда\n　сестрёнке тоже придётся стать сильнее.\n　Вот тогда я ей и понадоблюсь.）",
+   "orig": "Nine\n（And there will come a day when\n　Sis is going to have to up her game as well.\n　When that time comes, she'll need me.）"
+  },
+  {
+   "i": 104,
+   "speaker": "Лео Бомбер",
+   "text": "「«Майт Кайзер».\n　Вот на такого робота и правда можно положиться.」",
+   "orig": "Leo Bomber\n「Might Kaiser. \n　Now there's a robot you can really rely on.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Файр Дайвер",
+   "text": "「Супер-ИИ в него не установлен,\n　но когда в кабине Майто, по боевой\n　мощи он ничем не уступает.」",
+   "orig": "Fire Diver\n「He might not have a Super AI installed,\n　but with Maito in the cockpit, he has\n　comparable fighting strength.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Найн",
+   "text": "「И мастерство Майто как пилота заметно выросло.\n　Он наверняка сражается ещё и за Гайна.」",
+   "orig": "Nine\n「Maito's piloting skills have really improved as well.\n　He's no doubt fighting for Gaine as well.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Хорн Бомбер",
+   "text": "「Раз так, можно передать Гайну,\n　чтобы поправлялся спокойно.」",
+   "orig": "Horn Bomber\n「Knowing that, we can inform Gaine\n　that he can convalesce without worry.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Найн",
+   "text": "（Но бои будут только ожесточаться.）",
+   "orig": "Nine\n（But the fighting's only going to get worse.）"
+  },
+  {
+   "i": 109,
+   "speaker": "Найн",
+   "text": "（И настанет день, когда\n　Кэпу тоже придётся стать сильнее.\n　Вот тогда я ему и понадоблюсь.）",
+   "orig": "Nine\n（And there will come a day when\n　Cap is going to have to up his game as well.\n　When that time comes, he'll need me.）"
+  },
+  {
+   "i": 110,
+   "speaker": "Лео Бомбер",
+   "text": "「«Майт Кайзер».\n　Вот на такого робота и правда можно положиться.」",
+   "orig": "Leo Bomber\n「Might Kaiser. \n　Now there's a robot you can really rely on.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Файр Дайвер",
+   "text": "「Супер-ИИ в него не установлен,\n　но когда в кабине Майто, по боевой\n　мощи он ничем не уступает.」",
+   "orig": "Fire Diver\n「He might not have a Super AI installed,\n　but with Maito in the cockpit, he has\n　comperable fighting strength.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Найн",
+   "text": "「И мастерство Майто как пилота заметно выросло.\n　Он наверняка сражается ещё и за Гайна.」",
+   "orig": "Nine\n「Maito's piloting skills have really improved as well.\n　He's no doubt fighting for Gaine as well.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Хорн Бомбер",
+   "text": "「Раз так, можно передать Гайну,\n　чтобы поправлялся спокойно.」",
+   "orig": "Horn Bomber\n「Knowing that, we can inform Gaine\n　that he can convalesce without worry.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Найн",
+   "text": "（Но бои будут только ожесточаться.）",
+   "orig": "Nine\n（But the fighting's only going to get worse.）"
+  },
+  {
+   "i": 115,
+   "speaker": "Найн",
+   "text": "（И настанет день, когда\n　сестрёнке тоже придётся стать сильнее.\n　Вот тогда я ей и понадоблюсь.）",
+   "orig": "Nine\n（And there will come a day when\n　Sis is going to have to up her game as well.\n　When that time comes, she'll need me.）"
+  }
+ ]
+}

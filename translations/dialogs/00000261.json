@@ -1,0 +1,1624 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Михиро",
+   "text": "「Нео-Зеон, мы уходим отсюда!」",
+   "orig": "Mihiro\n「Neo Zeon, we're getting out of here!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Отто",
+   "text": "「Немедленно поднимайте мобильные доспехи!\n　Союзники тоже вышлют свои машины!」",
+   "orig": "Otto\n「Get out the mobile suits right now!\n　Our allies will be sending in units too!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Альберто",
+   "text": "「Банагер Линкс!\n　«Юникорн» твой! Выбора у нас нет!\n　Только не дай себя сбить, что бы ни случилось!」",
+   "orig": "Alberto\n「Banagher Links!\n　We're giving you the Unicorn! We have no choice!\n　Don't get shot down, no matter what!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Банагер",
+   "text": "「Не волнуйтесь, умирать мне тоже не хочется.」",
+   "orig": "Banagher\n「Don't worry, dying isn't on my wish list either.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Ридде",
+   "text": "「Не надо геройствовать, Банагер.\n　Просто сосредоточься\n　на прикрытии «Нахель Аргамы».」",
+   "orig": "Riddhe\n「No need to overdo it, Banagher.\n　Just concentrate on\n　guarding the Nahel Argama.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Банагер",
+   "text": "「Но мичман Ридде—」",
+   "orig": "Banagher\n「But Ensign Riddhe—」"
+  },
+  {
+   "i": 6,
+   "speaker": "Ридде",
+   "text": "「Защищать гражданских — долг солдата.\n　Именно это я и намерен делать.」",
+   "orig": "Riddhe\n「Soldiers have a duty to protect civilians, after all.\n　And that's exactly what I intend to do.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Банагер",
+   "text": "「Спасибо.」",
+   "orig": "Banagher\n「Thank you.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Ридде",
+   "text": "「Идут!\n　Соберись!」",
+   "orig": "Riddhe\n「They're coming!\n　Stay focused!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Банагер",
+   "text": "「Есть!」",
+   "orig": "Banagher\n「Yes, sir!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Циннерман",
+   "text": "「Ракан Дакаран.」",
+   "orig": "Zinnerman\n「Rakan Dahkaran.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Ракан",
+   "text": "「Дальше мы сами, капитан.」",
+   "orig": "Rakan\n「We'll take over from here, Captain.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Циннерман",
+   "text": "「Хорошо.\n　Но тот корабль топить нельзя.」",
+   "orig": "Zinnerman\n「Fine.\n　But that ship is not to be brought down.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Циннерман",
+   "text": "「Есть вероятность, что принцесса на борту.」",
+   "orig": "Zinnerman\n「There's a chance that the princess is on board.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Ракан",
+   "text": "「Понял.」",
+   "orig": "Rakan\n「Roger.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Циннерман",
+   "text": "「Твой приход — огромное для нас подспорье.\n　Одной гвардией тут было бы не справиться.」",
+   "orig": "Zinnerman\n「You coming here is a tremendous help to us.\n　This wouldn't have been possible with the Guard.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Ракан",
+   "text": "「Я и сам в долгу перед Миневой. Однажды я перед ней\n　провинился, но теперь отдам всё, чтобы её спасти.」",
+   "orig": "Rakan\n「I'm in Mineva's debt myself. I wronged her once,\n　but I'll be giving my all to rescue her.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Лиам",
+   "text": "「Разница в огневой мощи подавляющая.」",
+   "orig": "Liam\n「There's an overwhelming difference in firepower.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Отто",
+   "text": "「Так оно всегда и бывает, но в нынешнем состоянии\n　у «Нахель Аргамы» и правда нет шансов.」",
+   "orig": "Otto\n「True, that's always the case, but with\n　the Nahel Argama as it is now, it's really hopeless.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Отто",
+   "text": "「Нам остаётся только уходить!\n　Мобильные доспехи — в охранение!」",
+   "orig": "Otto\n「We've got no choice but to flee!\n　Get the mobile suits to escort us!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Михиро",
+   "text": "「Есть!」",
+   "orig": "Mihiro\n「Roger!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Отто",
+   "text": "「Точка отрыва — вон там!」",
+   "orig": "Otto\n「The breakaway point is that spot there!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Отто",
+   "text": "「Если за четыре минуты не дойдём до точки отрыва,\n　нас сожрут живьём!」",
+   "orig": "Otto\n「If we don't make it to the breakaway point in\n　four minutes, we're gonna be eaten alive!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Ридде",
+   "text": "「Банагер, ты ведь слышал?\n　Не отставай!」",
+   "orig": "Riddhe\n「Banagher, you heard that, right?\n　Don't be late!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Банагер",
+   "text": "「Есть!」",
+   "orig": "Banagher\n「Yes, sir!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Ридде",
+   "text": "「Занимайся только теми, кто лезет прямо под нос!\n　Сейчас важно одно —\n　вывести «Нахель Аргаму» отсюда!」",
+   "orig": "Riddhe\n「Just concentrate on the ones that get right in our face!\n　The only important thing right now is\n　getting the Nahel Argama out of here!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Банагер",
+   "text": "「Понял!」",
+   "orig": "Banagher\n「Understood!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Банагер",
+   "text": "（Одри!\n　Мы защитим тебя во что бы то ни стало!）",
+   "orig": "Banagher\n（Audrey!\n　We'll protect you no matter what!）"
+  },
+  {
+   "i": 28,
+   "speaker": "Лиам",
+   "text": "「Выход в точку отрыва подтверждён!」",
+   "orig": "Liam\n「Arrival at separation point confirmed!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Отто",
+   "text": "「Отзывайте мобильные доспехи!」",
+   "orig": "Otto\n「Call in the mobile suits!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Михиро",
+   "text": "「Есть!\n　Мичман Ридде! Банагер! Возвращайтесь!」",
+   "orig": "Mihiro\n「Roger!\n　Ensign Riddhe! Banagher! Get home!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Марида",
+   "text": "「Хозяин!」",
+   "orig": "Marida\n「Master!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Циннерман",
+   "text": "「Не волнуйся, Марида!\n　«Гаранциер» и не такое выдерживал!」",
+   "orig": "Zinnerman\n「Don't worry, Marida!\n　This is nothing that the Garencieres can't take!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Банагер",
+   "text": "「Эти корабли, похоже, ещё способны драться!」",
+   "orig": "Banagher\n「Those ships, it looks like they can still fight!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Ридде",
+   "text": "「Не беспокойся!\n　Оторвёмся, пока их строй рассыпан!」",
+   "orig": "Riddhe\n「Don't worry!\n　We'll shake them off while their formation is broken!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Ракан",
+   "text": "「Не выйдет!\n　Думаете, этого хватит, чтобы нас свалить?」",
+   "orig": "Rakan\n「Not quite!\n　You think that's enough to take us down?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Банагер",
+   "text": "「Эти ребята, похоже, ещё способны драться!」",
+   "orig": "Banagher\n「Those guys, it looks like they can still fight!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Ридде",
+   "text": "「Не беспокойся!\n　Оторвёмся, пока их строй рассыпан!」",
+   "orig": "Riddhe\n「Don't worry!\n　We'll shake them off while their formation is broken!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Марида",
+   "text": "「Я не могу оплошать,\n　когда на меня смотрит Хозяин!」",
+   "orig": "Marida\n「I can't do anything stupid\n　while Master is watching!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Банагер",
+   "text": "「Эти ребята, похоже, ещё способны драться!」",
+   "orig": "Banagher\n「Those guys, it looks like they can still fight!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Ридде",
+   "text": "「Не беспокойся!\n　Оторвёмся, пока их строй рассыпан!」",
+   "orig": "Riddhe\n「Don't worry!\n　We'll shake them off while their formation is broken!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Отто",
+   "text": "「«Нахель Аргама», полный боевой ход!\n　Так и уходим отсюда!」",
+   "orig": "Otto\n「Nahel Argama, maximum fighting speed!\n　We're getting out of here just like this!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Лиам",
+   "text": "「Капитан!\n　Прямо по курсу — флот!」",
+   "orig": "Liam\n「Captain!\n　A fleet, straight ahead!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Отто",
+   "text": "「Что?」",
+   "orig": "Otto\n「What?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Отто",
+   "text": "「Что это за корабли?\n　Новые образцы Нео-Зеона?」",
+   "orig": "Otto\n「Those ships, what are they?\n　New Neo Zeon models?」"
+  },
+  {
+   "i": 45,
+   "speaker": "Лиам",
+   "text": "「Капитан!\n　Это идёт «Туата де Данаан»!」",
+   "orig": "Liam\n「Captain!\n　The Tuatha de Danaan is coming!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Отто",
+   "text": "「Капитан Тестаросса!\n　Мы слышали, что вы пропали без следа!」",
+   "orig": "Otto\n「Captain Testarossa!\n　We heard that you'd vanished without a trace!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тесса",
+   "text": "「Рада вас видеть, капитан Отто!\n　Подробности расскажу позже.」",
+   "orig": "Tessa\n「Good to see you, Captain Otto!\n　I'll fill you in on the details later.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Лиам",
+   "text": "「А что это за второй корабль?」",
+   "orig": "Liam\n「What about this other ship?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Отто",
+   "text": "「Должно быть, корабль «Мифрила».\n　Если подлодка умеет летать,\n　то и надводному кораблю это по силам.」",
+   "orig": "Otto\n「Must be a Mithril ship.\n　If a submarine can fly, then so can\n　an above-water ship.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Тесса",
+   "text": "「Командующий Окита.」",
+   "orig": "Tessa\n「Commander Okita.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Окита",
+   "text": "「Никаких сомнений.\n　Это корабль Гамиласа.」",
+   "orig": "Okita\n「No question about it.\n　That's a Gamillas ship.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Санада",
+   "text": "「Значит, они объединились с Нео-Зеоном.」",
+   "orig": "Sanada\n「So they've joined forces with Neo Zeon.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Сима",
+   "text": "「Подумать только — пришельцы из другого мира\n　вмешиваются в здешнюю войну!」",
+   "orig": "Shima\n「The idea that aliens from another world\n　would take part in the war here!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Кодай",
+   "text": "「Командующий, это—」",
+   "orig": "Kodai\n「Commander, this is—」"
+  },
+  {
+   "i": 55,
+   "speaker": "Окита",
+   "text": "「Кодай, не выбалтывай всё подряд.」",
+   "orig": "Okita\n「Kodai, don't just blurt out every detail.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Окита",
+   "text": "「Внимание всем!\n　Моей единственной целью была самооборона.\n　Вмешиваться в эту войну я не собирался.」",
+   "orig": "Okita\n「Everyone!\n　My only objective was self-defense.\n　I had no intention of intervening in this war.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Окита",
+   "text": "「Но раз Гамилас примкнул к Нео-Зеону,\n　я считаю нашим долгом их разбить!」",
+   "orig": "Okita\n「However, since Gamillas has joined Neo Zeon,\n　I've deemed it our responsibility to defeat them!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Айхара",
+   "text": "「Пришли ответы от Сумераги\n　и капитана Хосино — обе согласны!」",
+   "orig": "Aihara\n「Responses have come in from Sumeragi and\n　Captain Hoshino saying that they're in agreement!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Окита",
+   "text": "「Вы всё слышали, капитан Тестаросса.\n　Мы вступаем в этот бой.」",
+   "orig": "Okita\n「It's as you just heard, Captain Testarossa.\n　We're going to join the fight here.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Тесса",
+   "text": "「Поняла.\n　Очень признательна вам за помощь.」",
+   "orig": "Tessa\n「Understood.\n　Your cooperation is much appreciated.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Окита",
+   "text": "「Кодай!\n　Выпускай машины!」",
+   "orig": "Okita\n「Kodai!\n　Dispatch the mobile units!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Кодай",
+   "text": "「Есть!\n　Всем машинам — взлёт!」",
+   "orig": "Kodai\n「Roger!\n　All mobile units, take off!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Джудо",
+   "text": "「Капитан Отто!」",
+   "orig": "Judau\n「Captain Otto!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Хатауэй",
+   "text": "「Как же я рад, что вы целы!」",
+   "orig": "Hathaway\n「It's a relief that you're safe, sir!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Отто",
+   "text": "「Джудо!\n　И Хатауэй!」",
+   "orig": "Otto\n「Judau!\n　And Hathaway!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Амуро",
+   "text": "「Рад вас видеть, капитан Отто.」",
+   "orig": "Amuro\n「Good to see you, Captain Otto.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Лиам",
+   "text": "「Капитан!\n　Это же—」",
+   "orig": "Liam\n「Captain!\n　That's—」"
+  },
+  {
+   "i": 68,
+   "speaker": "Отто",
+   "text": "「Амуро Рэй, никаких сомнений!」",
+   "orig": "Otto\n「Amuro Ray, no question about it!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Отто",
+   "text": "「Вот это решает всё!\n　Теперь у нас точно получится!」",
+   "orig": "Otto\n「That's the clincher!\n　Now we can definitely do this!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Отто",
+   "text": "「Если у Нео-Зеона воскресла Красная комета,\n　то у нас воскрес Белый метеор!」",
+   "orig": "Otto\n「If the Red Comet can come back to life for Neo Zeon,\n　the White Meteor can come back to life for us!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Ракан",
+   "text": "「Проклятье!\n　Подкрепление! И среди них неопознанные машины!」",
+   "orig": "Rakan\n「Damn!\n　Reinforcements! Including some unidentified units!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Марида",
+   "text": "「Ладно, сосредоточимся на новом «Гандаме».」",
+   "orig": "Marida\n「Alright, let's just focus on the new Gundam.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Циннерман",
+   "text": "「Марида, не лезь на рожон!」",
+   "orig": "Zinnerman\n「Marida, don't be reckless!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Марида",
+   "text": "「Хозяин, я делаю это прежде всего ради вас!」",
+   "orig": "Marida\n「Master, I'm doing this for you first and foremost!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Банагер",
+   "text": "「Ух!」",
+   "orig": "Banagher\n「Whoa!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Марида",
+   "text": "「«Гандам»!\n　Мы забираем тебя себе!」",
+   "orig": "Marida\n「Gundam!\n　We're taking you into our custody!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Банагер",
+   "text": "「Ух!」",
+   "orig": "Banagher\n「Whoa!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Марида",
+   "text": "「Одним выстрелом!」",
+   "orig": "Marida\n「With this single shot!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Джудо",
+   "text": "「Кх!」",
+   "orig": "Judau\n「Ugh!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Амуро",
+   "text": "「Что это за чувство?」",
+   "orig": "Amuro\n「What's this feeling I'm getting?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Банагер",
+   "text": "「Уааа!」",
+   "orig": "Banagher\n「Whaaaa!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Хатауэй",
+   "text": "「Рог только что раскрылся!」",
+   "orig": "Hathaway\n「The horn just opened!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Амуро",
+   "text": "「Что такое с этим «Гандамом»?」",
+   "orig": "Amuro\n「What's with that Gundam?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Альберто",
+   "text": "「Надо же!\n　Мальчишка снова включил режим Дестроя!」",
+   "orig": "Alberto\n「Wow!\n　That kid just invoked Destroy Mode again!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Марида",
+   "text": "「Опять это?」",
+   "orig": "Marida\n「Again with that?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Банагер",
+   "text": "「Ух!」",
+   "orig": "Banagher\n「Whoa!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Марида",
+   "text": "「Гр-р!」",
+   "orig": "Marida\n「Grrr!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Ракан",
+   "text": "「Назад!\n　«Гандама» я беру на себя!」",
+   "orig": "Rakan\n「Stand down!\n　I'll take on the Gundam myself!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Циннерман",
+   "text": "「Вернись в строй, Марида!」",
+   "orig": "Zinnerman\n「Get back in position, Marida!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Марида",
+   "text": "「Слушаюсь, Хозяин.」",
+   "orig": "Marida\n「Roger that, Master.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Бича",
+   "text": "「Этот новый «Гандам» просто потрясающий!」",
+   "orig": "Beecha\n「That new Gundam, it's amazing!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Элль",
+   "text": "「И они умудрились собрать такую машину,\n　пока нас не было!」",
+   "orig": "Elle\n「They actually built that baby\n　while we were away!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Сэцуна",
+   "text": "「Это—」",
+   "orig": "Setsuna\n「That—」"
+  },
+  {
+   "i": 94,
+   "speaker": "Грэм",
+   "text": "「Что такое, Сэцуна?」",
+   "orig": "Graham\n「What's the matter, Setsuna?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Сэцуна",
+   "text": "「Я не могу это толком объяснить.\n　Просто в этой машине есть что-то такое.」",
+   "orig": "Setsuna\n「I can't quite explain it.\n　There's just something about that mobile unit.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Амуро",
+   "text": "（Сэцуна Ф. Сэйэй.\n　Он тоже почувствовал опасность этого «Гандама».）",
+   "orig": "Amuro\n（Setsuna F. Seiei.\n　He sensed the danger posed by that Gundam too.）"
+  },
+  {
+   "i": 97,
+   "speaker": "Кодай",
+   "text": "「Всем машинам!\n　Мы объединяемся с «Лондо Белл» против Нео-Зеона,\n　который заключил союз с Гамиласом!」",
+   "orig": "Kodai\n「All units!\n　We are now going to unite with Londo Bell in fighting\n　Neo Zeon, which has joined forces with Gamillas!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Кодай",
+   "text": "「Мы обязаны пройти через это,\n　чтобы вернуться каждый в свой мир!」",
+   "orig": "Kodai\n「It's imperative that we make it through this\n　so that we can get back to our respective worlds!」"
+  },
+  {
+   "i": 99,
+   "speaker": "$n",
+   "text": "「Есть! Раз уж до этого дошло,\n　пора доказать делом, а не словами!」",
+   "orig": "$n\n「Roger! Now that it's come to this,\n　it's time to put up or shut up!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Ридде",
+   "text": "「Банагер.」",
+   "orig": "Riddhe\n「Banagher.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Банагер",
+   "text": "「«Юникорн».\n　Такая мощь. И она в моих руках.」",
+   "orig": "Banagher\n「The Unicorn.\n　All this power. In my hands.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Бича",
+   "text": "「Этот новый «Гандам» просто потрясающий!」",
+   "orig": "Beecha\n「That new Gundam, it's amazing!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Элль",
+   "text": "「И они умудрились собрать такую машину,\n　пока нас не было!」",
+   "orig": "Elle\n「They actually built that baby\n　while we were away!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Сэцуна",
+   "text": "「Это—」",
+   "orig": "Setsuna\n「That—」"
+  },
+  {
+   "i": 105,
+   "speaker": "Грэм",
+   "text": "「Что такое, Сэцуна?」",
+   "orig": "Graham\n「What's the matter, Setsuna?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Сэцуна",
+   "text": "「Я не могу это толком объяснить.\n　Просто в этой машине есть что-то такое.」",
+   "orig": "Setsuna\n「I can't quite explain it.\n　There's just something about that mobile unit.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Амуро",
+   "text": "（Сэцуна Ф. Сэйэй.\n　Он тоже почувствовал опасность этого «Гандама».）",
+   "orig": "Amuro\n（Setsuna F. Seiei.\n　He sensed the danger posed by that Gundam too.）"
+  },
+  {
+   "i": 108,
+   "speaker": "Кодай",
+   "text": "「Всем машинам!\n　Мы объединяемся с «Лондо Белл» против Нео-Зеона,\n　который заключил союз с Гамиласом!」",
+   "orig": "Kodai\n「All units!\n　We are now going to unite with Londo Bell in fighting\n　Neo Zeon, which has joined forces with Gamillas!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Кодай",
+   "text": "「Мы обязаны пройти через это,\n　чтобы вернуться каждый в свой мир!」",
+   "orig": "Kodai\n「It's imperative that we make it through this\n　so that we can get back to our respective worlds!」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「Принято!\n　Выложимся до конца и прорвёмся!」",
+   "orig": "$n\n「Roger!\n　We'll give everything we've got to get through this!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Ридде",
+   "text": "「Банагер.」",
+   "orig": "Riddhe\n「Banagher.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Банагер",
+   "text": "「«Юникорн».\n　И вся эта мощь — в моих руках.」",
+   "orig": "Banagher\n「The Unicorn.\n　All this power. In my hands.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Вельт",
+   "text": "「Значит, всё кончено?」",
+   "orig": "Velt\n「So it's over, eh?」"
+  },
+  {
+   "i": 114,
+   "speaker": "Лотти",
+   "text": "「И всё равно не укладывается в голове.\n　Это ж надо — Гамилас и Нео-Зеон\n　объединили силы!」",
+   "orig": "Lottie\n「Still, I just can't believe it.\n　The idea that Gamillas and Neo Zeon\n　would join forces!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Кира",
+   "text": "「Ну, вообще-то мы тоже объединились.\n　Они просто сделали то же самое.」",
+   "orig": "Kira\n「Well, you know, we joined forces too.\n　They basically just did the same thing.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Тиерия",
+   "text": "「Вот только из-за этого здешняя война\n　стала разгораться ещё быстрее.」",
+   "orig": "Tieria\n「But all that did is cause the war here\n　to pick up speed.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Анж",
+   "text": "「Иными словами, обычный сговор негодяев.」",
+   "orig": "Ange\n「In other words, it was just a partnership of evildoers.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Бандзё",
+   "text": "「Если оставить Гамилас в стороне, то конфликт\n　Нео-Зеона и Земной Федерации — вовсе не\n　противостояние добра и зла.」",
+   "orig": "Banjo\n「Leaving aside Gamillas for a minute, the conflict\n　between Neo Zeon and the Earth Federation\n　isn't really a matter of good versus evil.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Соскэ",
+   "text": "「Реальность такова, что при нынешнем раскладе\n　всё станет только хуже.」",
+   "orig": "Sousuke\n「The reality is that, as things stand,\n　this is set to get much worse.」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Раз та сторона позвала помощь со стороны,\n　то и нашей помощи со стороны пора подключиться.」",
+   "orig": "$n\n「Well since the other side called in outside help,\n　the outside help on this side better pitch in too.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Майто",
+   "text": "「То есть нам, да?」",
+   "orig": "Maito\n「And that would be us, right?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Бандзё",
+   "text": "「По крайней мере, мы больше не можем считать\n　себя посторонними зрителями.」",
+   "orig": "Banjo\n「At the very least, we can no longer presume\n　that we're uninterested bystanders.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Джудо",
+   "text": "「Ладно, для начала воссоединимся с «Лондо Белл».\n　«Нахель Аргама» всё-таки наш корабль.」",
+   "orig": "Judau\n「OK, first of all, let's join up with Londo Bell.\n　The Nahel Argama is the ship we were on, after all.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Амуро",
+   "text": "「Верно.\n　Да и мне ещё много что нужно проверить.」",
+   "orig": "Amuro\n「That's true.\n　And there are still a bunch of things I want to confirm.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Банагер",
+   "text": "「Хм.」",
+   "orig": "Banagher\n「Hmph.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Ридде",
+   "text": "「Ты в порядке, Банагер?」",
+   "orig": "Riddhe\n「You OK, Banagher?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Банагер",
+   "text": "「Да, более-менее.」",
+   "orig": "Banagher\n「Yeah, more or less.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Амуро",
+   "text": "（Похоже, тот «Гандам» не идёт у него из головы.）",
+   "orig": "Amuro\n（That Gundam must be weighing on his mind.）"
+  },
+  {
+   "i": 129,
+   "speaker": "Кинкейд",
+   "text": "「Значит, всё кончено?」",
+   "orig": "Kincade\n「So it's over, eh?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Тобиа",
+   "text": "「И всё-таки — Гамилас и Нео-Зеон\n　объединили силы!」",
+   "orig": "Tobia\n「Still, the idea that Gamillas and Neo Zeon\n　would join forces!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Кира",
+   "text": "「Ну, вообще-то мы тоже объединились.\n　Они просто сделали то же самое.」",
+   "orig": "Kira\n「Well, you know, we joined forces too.\n　They basically just did the same thing.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Тиерия",
+   "text": "「Вот только из-за этого здешняя война\n　стала разгораться ещё быстрее.」",
+   "orig": "Tieria\n「But all that did is cause the war here\n　to pick up speed.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Анж",
+   "text": "「Иными словами, обычный сговор негодяев.」",
+   "orig": "Ange\n「In other words, it was just a partnership of evildoers.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Бандзё",
+   "text": "「Если оставить Гамилас в стороне, то конфликт\n　Нео-Зеона и Земной Федерации — вовсе не\n　противостояние добра и зла.」",
+   "orig": "Banjo\n「Leaving aside Gamillas for a minute, the conflict\n　between Neo Zeon and the Earth Federation\n　isn't really a matter of good versus evil.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Соскэ",
+   "text": "「Реальность такова, что при нынешнем раскладе\n　всё станет только хуже.」",
+   "orig": "Sousuke\n「The reality is that, as things stand,\n　this is set to get much worse.」"
+  },
+  {
+   "i": 136,
+   "speaker": "$n",
+   "text": "「Раз та сторона позвала помощь со стороны,\n　то и нашей помощи со стороны пора подключиться.」",
+   "orig": "$n\n「Well since the other side called in outside help,\n　the outside help on this side better pitch in too.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Майто",
+   "text": "「То есть нам, да?」",
+   "orig": "Maito\n「And that would be us, right?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Бандзё",
+   "text": "「По крайней мере, мы больше не можем считать\n　себя посторонними зрителями.」",
+   "orig": "Banjo\n「At the very least, we can no longer presume\n　that we're uninterested bystanders.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Джудо",
+   "text": "「Ладно, для начала воссоединимся с «Лондо Белл».\n　«Нахель Аргама» всё-таки наш корабль.」",
+   "orig": "Judau\n「OK, first of all, let's join up with Londo Bell.\n　The Nahel Argama is the ship we were on, after all.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Амуро",
+   "text": "「Верно.\n　Да и мне ещё много что нужно проверить.」",
+   "orig": "Amuro\n「That's true.\n　And there are still a bunch of things I want to confirm.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Банагер",
+   "text": "「Хм.」",
+   "orig": "Banagher\n「Hmph.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Ридде",
+   "text": "「Ты в порядке, Банагер?」",
+   "orig": "Riddhe\n「You OK, Banagher?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Банагер",
+   "text": "「Да, более-менее.」",
+   "orig": "Banagher\n「Yeah, more or less.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Амуро",
+   "text": "（Похоже, тот «Гандам» не идёт у него из головы.）",
+   "orig": "Amuro\n（That Gundam must be weighing on his mind.）"
+  },
+  {
+   "i": 145,
+   "speaker": "Вельт",
+   "text": "「Значит, всё кончено?」",
+   "orig": "Velt\n「So it's over, eh?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Лотти",
+   "text": "「И всё равно не укладывается в голове.\n　Это ж надо — Гамилас и Нео-Зеон\n　объединили силы!」",
+   "orig": "Lottie\n「Still, I just can't believe it.\n　The idea that Gamillas and Neo Zeon\n　would join forces!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Кира",
+   "text": "「Ну, вообще-то мы тоже объединились.\n　Они просто сделали то же самое.」",
+   "orig": "Kira\n「Well, you know, we joined forces too.\n　They basically just did the same thing.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Тиерия",
+   "text": "「Вот только из-за этого здешняя война\n　стала разгораться ещё быстрее.」",
+   "orig": "Tieria\n「But all that did is cause the war here\n　to pick up speed.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Анж",
+   "text": "「Иными словами, обычный сговор негодяев.」",
+   "orig": "Ange\n「In other words, it was just a partnership of evildoers.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Бандзё",
+   "text": "「Если оставить Гамилас в стороне, то конфликт\n　Нео-Зеона и Земной Федерации — вовсе не\n　противостояние добра и зла.」",
+   "orig": "Banjo\n「Leaving aside Gamillas for a minute, the conflict\n　between Neo Zeon and the Earth Federation\n　isn't really a matter of good versus evil.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Соскэ",
+   "text": "「Реальность такова, что при нынешнем раскладе\n　всё станет только хуже.」",
+   "orig": "Sousuke\n「The reality is that, as things stand,\n　this is set to get much worse.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Тогда вступаем в бой.\n　Гамилас всё равно возьмётся за нас.」",
+   "orig": "$n\n「In that case, let's join the fight.\n　Gamillas is gonna be gunning for us either way.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Майто",
+   "text": "「Похоже, выбора у нас нет.」",
+   "orig": "Maito\n「I guess we've got no choice.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Бандзё",
+   "text": "「По крайней мере, мы больше не можем считать\n　себя посторонними зрителями.」",
+   "orig": "Banjo\n「At the very least, we can no longer presume\n　that we're uninterested bystanders.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Джудо",
+   "text": "「Ладно, для начала воссоединимся с «Лондо Белл».\n　«Нахель Аргама» всё-таки наш корабль.」",
+   "orig": "Judau\n「OK, first of all, let's join up with Londo Bell.\n　The Nahel Argama is the ship we were on, after all.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Амуро",
+   "text": "「Верно.\n　Да и мне ещё много что нужно проверить.」",
+   "orig": "Amuro\n「That's true.\n　And there are still a bunch of things I want to confirm.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Банагер",
+   "text": "「Хм.」",
+   "orig": "Banagher\n「Hmph.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Ридде",
+   "text": "「Ты в порядке, Банагер?」",
+   "orig": "Riddhe\n「You OK, Banagher?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Банагер",
+   "text": "「Да, более-менее.」",
+   "orig": "Banagher\n「Yeah, more or less.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Амуро",
+   "text": "（Похоже, тот «Гандам» не идёт у него из головы.）",
+   "orig": "Amuro\n（That Gundam must be weighing on his mind.）"
+  },
+  {
+   "i": 161,
+   "speaker": "Кинкейд",
+   "text": "「Значит, всё кончено?」",
+   "orig": "Kincade\n「So it's over, eh?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Тобиа",
+   "text": "「И всё-таки — Гамилас и Нео-Зеон\n　объединили силы!」",
+   "orig": "Tobia\n「Still, the idea that Gamillas and Neo Zeon\n　would join forces!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Кира",
+   "text": "「Ну, вообще-то мы тоже объединились.\n　Они просто сделали то же самое.」",
+   "orig": "Kira\n「Well, you know, we joined forces too.\n　They basically just did the same thing.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Тиерия",
+   "text": "「Вот только из-за этого здешняя война\n　стала разгораться ещё быстрее.」",
+   "orig": "Tieria\n「But all that did is cause the war here\n　to pick up speed.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Анж",
+   "text": "「Иными словами, обычный сговор негодяев.」",
+   "orig": "Ange\n「In other words, it was just a partnership of evildoers.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Бандзё",
+   "text": "「Если оставить Гамилас в стороне, то конфликт\n　Нео-Зеона и Земной Федерации — вовсе не\n　противостояние добра и зла.」",
+   "orig": "Banjo\n「Leaving aside Gamillas for a minute, the conflict\n　between Neo Zeon and the Earth Federation\n　isn't really a matter of good versus evil.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Соскэ",
+   "text": "「Реальность такова, что при нынешнем раскладе\n　всё станет только хуже.」",
+   "orig": "Sousuke\n「The reality is that, as things stand,\n　this is set to get much worse.」"
+  },
+  {
+   "i": 168,
+   "speaker": "$n",
+   "text": "「Тогда вступаем в бой.\n　Гамилас всё равно возьмётся за нас.」",
+   "orig": "$n\n「In that case, let's join the fight.\n　Gamillas is gonna be gunning for us either way.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Майто",
+   "text": "「Похоже, выбора у нас нет.」",
+   "orig": "Maito\n「I guess we've got no choice.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Бандзё",
+   "text": "「По крайней мере, мы больше не можем считать\n　себя посторонними зрителями.」",
+   "orig": "Banjo\n「At the very least, we can no longer presume\n　that we're uninterested bystanders.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Джудо",
+   "text": "「Ладно, для начала воссоединимся с «Лондо Белл».\n　«Нахель Аргама» всё-таки наш корабль.」",
+   "orig": "Judau\n「OK, first of all, let's join up with Londo Bell.\n　The Nahel Argama is the ship we were on, after all.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Амуро",
+   "text": "「Верно.\n　Да и мне ещё много что нужно проверить.」",
+   "orig": "Amuro\n「That's true.\n　And there are still a bunch of things I want to confirm.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Банагер",
+   "text": "「Хм.」",
+   "orig": "Banagher\n「Hmph.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Ридде",
+   "text": "「Ты в порядке, Банагер?」",
+   "orig": "Riddhe\n「You OK, Banagher?」"
+  },
+  {
+   "i": 175,
+   "speaker": "Банагер",
+   "text": "「Да, более-менее.」",
+   "orig": "Banagher\n「Yeah, more or less.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Амуро",
+   "text": "（Похоже, тот «Гандам» не идёт у него из головы.）",
+   "orig": "Amuro\n（That Gundam must be weighing on his mind.）"
+  },
+  {
+   "i": 177,
+   "speaker": "Отто",
+   "text": "「Вот так, продолжайте в том же духе!\n　Сосредоточьтесь на тех вражеских машинах,\n　что подходят к «Нахель Аргаме»!」",
+   "orig": "Otto\n「There you go, keep it up!\n　Focus on engaging the enemy units\n　that get close to the Nahel Argama!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Ридде",
+   "text": "「Ну давай, Зеон!\n　Сейчас узнаешь, что свалить «Лондо Белл»,\n　последнюю надежду Земли, не так-то просто!」",
+   "orig": "Riddhe\n「Bring it on, Zeon!\n　You're gonna find out that toppling Londo Bell,\n　the Earth's last hope, won't be a walk in the park!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Лиам",
+   "text": "「Бесполезно, капитан!\n　Нам никак не оторваться от погони противника!」",
+   "orig": "Liam\n「It's no use, Captain!\n　We just can't shake the enemy's pursuit units!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Отто",
+   "text": "「Проклятье!\n　Наш план провалился!」",
+   "orig": "Otto\n「Dammit!\n　Our strategy failed!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Бича",
+   "text": "「«Нахель Аргама» — это мой корабль!\n　Ни за что не дам его потопить!」",
+   "orig": "Beecha\n「The Nahel Argama, this is my my ship!\n　No way am I gonna let it to be taken down!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Отто",
+   "text": "「Э-э, я вообще-то всё слышу, Бича!」",
+   "orig": "Otto\n「Uh, I can hear you, Beecha!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Бича",
+   "text": "「Не волнуйтесь, капитан Отто!\n　Я доверяю вам «Нахель Аргаму»\n　на долгие-долгие годы!」",
+   "orig": "Beecha\n「No need to worry, Captain Otto!\n　I'm entrusting the Nahel Argama to you\n　for a good long time!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Бича",
+   "text": "「Но как первого капитана меня это слегка тревожит.」",
+   "orig": "Beecha\n「Still, as the first captain, it does worry me a bit.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Отто",
+   "text": "「Ррр.\n　Вечно ему надо вставить словечко.」",
+   "orig": "Otto\n「Grrr.\n　Just can't leave well enough alone.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Джудо",
+   "text": "「Ты ещё кто такая?」",
+   "orig": "Judau\n「Who do you think you are?」"
+  },
+  {
+   "i": 187,
+   "speaker": "Марида",
+   "text": "「Ах!\n　Этот тип лезет к нам!」",
+   "orig": "Marida\n「Argh!\n　This guy's trying to horn in on us!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Джудо",
+   "text": "「Э-э, мы разве знакомы?」",
+   "orig": "Judau\n「Uh, do I know you?」"
+  },
+  {
+   "i": 189,
+   "speaker": "Марида",
+   "text": "「Не фамильярничай!\n　Для поля боя ты слишком развязен!」",
+   "orig": "Marida\n「Don't get so familiar!\n　You're way too informal for the battlefield!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Джудо",
+   "text": "「Просто ответь мне!\n　Говорит Джудо Ашта!」",
+   "orig": "Judau\n「Just answer me!\n　This is Judau Ashta!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Марида",
+   "text": "「Джудо!\n　Тот, кто сразил её превосходительство Хаман Карн!」",
+   "orig": "Marida\n「Judau!\n　The one who felled Her Excellency Haman Karn!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Марида",
+   "text": "「Пилоты «Гандамов»!\n　Все они для меня враги!」",
+   "orig": "Marida\n「Gundam pilots!\n　They're all enemies to me!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Циннерман",
+   "text": "「На этом всё!\n　«Гаранциер», отходим!」",
+   "orig": "Zinnerman\n「This is as far as it goes!\n　Garencieres, retreat!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Циннерман",
+   "text": "「Марида!\n　И ты тоже не рвись вперёд!」",
+   "orig": "Zinnerman\n「Marida!\n　Don't overextend yourself either!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Марида",
+   "text": "「Благодарю, господин.\n　Я лишь исполняю свой долг.」",
+   "orig": "Marida\n「Thank you, Master.\n　I'm merely doing my duty.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Циннерман",
+   "text": "「На этом всё!\n　«Гаранциер», отходим!」",
+   "orig": "Zinnerman\n「This is as far as it goes!\n　Garencieres, retreat!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Циннерман",
+   "text": "「И после отхода соединитесь с Маридой!」",
+   "orig": "Zinnerman\n「And join up with Marida after you pull out!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Ракан",
+   "text": "「Джудо Ашта!\n　И «Лондо Белл»!\n　Вы ещё за это поплатитесь!」",
+   "orig": "Rakan\n「Judau Ashta!\n　And Londo Bell!\n　There's gonna be payback for this!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Джудо",
+   "text": "「Вот именно из-за такого настроя\n　эта война и тянется без конца!\n　Почему это так трудно понять?」",
+   "orig": "Judau\n「That's exactly the mindset\n　that causes this conflict to drag on and on!\n　Why is that so hard to understand?」"
+  },
+  {
+   "i": 200,
+   "speaker": "Марида",
+   "text": "「Ах!\n　И это со мной — в таком месте!」",
+   "orig": "Marida\n「Argh!\n　Me, in a place like this!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Джудо",
+   "text": "「Погоди!\n　Да кто ты вообще такая?」",
+   "orig": "Judau\n「Hold on!\n　Just who the hell are you?」"
+  },
+  {
+   "i": 202,
+   "speaker": "Марида",
+   "text": "「Этот тип лезет к нам!」",
+   "orig": "Marida\n「This guy's trying to horn in on us!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Джудо",
+   "text": "「Э-э, мы разве знакомы?」",
+   "orig": "Judau\n「Uh, do I know you?」"
+  },
+  {
+   "i": 204,
+   "speaker": "Марида",
+   "text": "「Не фамильярничай!\n　Для поля боя ты слишком развязен!」",
+   "orig": "Marida\n「Don't get so familiar!\n　You're way too informal for the battlefield!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Джудо",
+   "text": "「Просто ответь мне!\n　Говорит Джудо Ашта!」",
+   "orig": "Judau\n「Just answer me!\n　This is Judau Ashta!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Марида",
+   "text": "「Джудо!\n　Тот, кто сразил её превосходительство Хаман Карн!」",
+   "orig": "Marida\n「Judau!\n　The one who felled Her Excellency Haman Karn!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Марида",
+   "text": "「Пилоты «Гандамов»!\n　Все они для меня враги!」",
+   "orig": "Marida\n「Gundam pilots!\n　They're all enemies to me!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Циннерман",
+   "text": "「Марида, отходи!\n　Дальше мы сами!」",
+   "orig": "Zinnerman\n「Marida, retreat!\n　We'll take it from here!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Марида",
+   "text": "「Но…」",
+   "orig": "Marida\n「But—」"
+  },
+  {
+   "i": 210,
+   "speaker": "Циннерман",
+   "text": "「Это приказ!\n　Я никому не дам погибнуть в таком месте!」",
+   "orig": "Zinnerman\n「That's an order!\n　I'm not letting anybody die in a place like this!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Марида",
+   "text": "「Принято.\n　Марида Круз отходит.」",
+   "orig": "Marida\n「Roger.\n　Marida Cruz, retreating.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Марида",
+   "text": "「Удачи, господин.」",
+   "orig": "Marida\n「Good luck, Master.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Марида",
+   "text": "「Марида Круз отходит!」",
+   "orig": "Marida\n「Marida Cruz, retreating!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Банагер",
+   "text": "（Значит, в том зелёном мобильном доспехе\n　была именно эта Марида.）",
+   "orig": "Banagher\n（It was that Marida who was\n　riding the green mobile suit.）"
+  },
+  {
+   "i": 215,
+   "speaker": "Банагер",
+   "text": "（Всё из-за того, что работает $kwbNT-D$kwe.\n　Кажется, мои чувства стали куда острее.）",
+   "orig": "Banagher\n（So it's because the $kwbNT-D$kwe is operating.\n　I feel like my senses are much sharper.）"
+  },
+  {
+   "i": 216,
+   "speaker": "Банагер",
+   "text": "（Но что это за смутное,\n　неприятное ощущение?）",
+   "orig": "Banagher\n（But what's this,\n　this vaguely uncomfortable feeling?）"
+  },
+  {
+   "i": 217,
+   "speaker": "Банагер",
+   "text": "「Кх!」",
+   "orig": "Banagher\n「Ugh!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Лиам",
+   "text": "「«Юникорн» вернулся в обычное состояние.」",
+   "orig": "Liam\n「The Unicorn has returned to its normal state.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Отто",
+   "text": "「И что это значит, Альберто?」",
+   "orig": "Otto\n「Meaning what, Alberto?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Альберто",
+   "text": "「Режим Разрушения чудовищно нагружает пилота!\n　Его нельзя держать включённым дольше пяти минут!」",
+   "orig": "Alberto\n「Destroy Mode puts a tremendous strain on the pilot!\n　It can be activated for no more than five minutes!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Отто",
+   "text": "「Почему вы скрыли от меня такую важную вещь?」",
+   "orig": "Otto\n「Why did you keep such an important thing from me?」"
+  },
+  {
+   "i": 222,
+   "speaker": "Альберто",
+   "text": "「Да мы и сами до конца не понимаем,\n　как работает эта функция!」",
+   "orig": "Alberto\n「Even we're not completely sure\n　how this feature works!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Альберто",
+   "text": "「Банагер Линкс, ты ведь понимаешь?\n　Ты обязан вернуть «Юникорн» любой ценой!」",
+   "orig": "Alberto\n「Banagher Links, you understand, right?\n　You've got to bring the Unicorn back no matter what!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Банагер",
+   "text": "「Я сделаю всё, что смогу!」",
+   "orig": "Banagher\n「I'll do my very best!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Банагер",
+   "text": "（На «Нахель Аргаме» не только Одри!\n　Там ещё Такуя и Микотт!）",
+   "orig": "Banagher\n（It's not only Audrey\n　who's on the Nahel Argama!\n　Takuya and Micott are on it too!）"
+  },
+  {
+   "i": 226,
+   "speaker": "Банагер",
+   "text": "（Если боем я могу кого-то защитить,\n　я без колебаний сяду в «Юникорн»!）",
+   "orig": "Banagher\n（If there's somebody I can protect by fighting,\n　I won't hesitate to pilot the Unicorn!）"
+  },
+  {
+   "i": 227,
+   "speaker": "Марида",
+   "text": "「«Гандам»!\n　Ты показал своё истинное обличье!」",
+   "orig": "Marida\n「Gundam!\n　You've revealed your true self!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Банагер",
+   "text": "「Эй, в том мобильном доспехе!\n　Тебя ведь называли Маридой, верно?」",
+   "orig": "Banagher\n「You in that mobile suit!\n　You're the one who was called Marida, right?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Марида",
+   "text": "「Что?」",
+   "orig": "Marida\n「What?」"
+  },
+  {
+   "i": 230,
+   "speaker": "Банагер",
+   "text": "「Немедленно прекрати бой!\n　Здесь мирные жители!」",
+   "orig": "Banagher\n「Stop your fighting immediately!\n　We've got civilians in here!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Марида",
+   "text": "「Я солдат! Я лишь выполняю приказ —\n　захватить этот «Гандам»!」",
+   "orig": "Marida\n「I'm a soldier! I'm just following orders\n　to take possession of that Gundam!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Банагер",
+   "text": "「Именно потому, что вы творите такое,\n　эта война и тянется без конца!」",
+   "orig": "Banagher\n「The fact that you keep doing things like this\n　is the reason this conflict keeps dragging on!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Ракан",
+   "text": "「Новый «Гандам»!\n　Вот это будет достойный трофей!」",
+   "orig": "Rakan\n「A new Gundam!\n　That'll make a worthy prize for us!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Банагер",
+   "text": "「Что это такое,\n　что за волна накатывает на меня?」",
+   "orig": "Banagher\n「What is this,\n　this sensation that's surging through me?」"
+  },
+  {
+   "i": 235,
+   "speaker": "Ракан",
+   "text": "「Похоже, пилот там совсем зелёный, раз его так\n　захлёстывает от одного дурного предчувствия!」",
+   "orig": "Rakan\n「Apparently that pilot is pretty much a novice,\n　getting overwhelmed by a foreboding feeling like that!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Ракан",
+   "text": "「Не обижайся на меня.\n　Это просто моя лютая ненависть к «Гандамам»!」",
+   "orig": "Rakan\n「Don't be upset with me.\n　It's just my tremendous hostility toward Gundams!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Ридде",
+   "text": "「В бою на «Индастриал 7»\n　он один чуть не прикончил нас всех!」",
+   "orig": "Riddhe\n「In the fighting on Industrial 7,\n　it was as though he alone did us in!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Марида",
+   "text": "「Твой задор мне по душе!\n　Но только задор, не более!」",
+   "orig": "Marida\n「I welcome your enthusiasm!\n　But that's all I'm gonna welcome!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Ридде",
+   "text": "「Молчать! Пора расплатиться за то,\n　что вы сделали с моим отрядом и товарищами!」",
+   "orig": "Riddhe\n「Shut up! Time to exact revenge on you\n　for what you did to my unit and my comrades!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Ракан",
+   "text": "「Вырядился под «Гандам»!\n　Решил нас позлить?」",
+   "orig": "Rakan\n「Imitating a Gundam like that!\n　Are you trying to provoke us?」"
+  },
+  {
+   "i": 241,
+   "speaker": "Ридде",
+   "text": "「«Гандамы» уничтожат Зеон!\n　И участвовать в этом — моя гордость и мой долг!」",
+   "orig": "Riddhe\n「The Gundams will destroy Zeon!\n　And it's my proud duty to take part in that!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Ракан",
+   "text": "「Гляньте, зелёный юнец строит из себя героя!\n　Я всю жизнь провёл на поле боя — и сейчас\n　покажу тебе, насколько ты жалок!」",
+   "orig": "Rakan\n「Look at this rank amateur trying to talk tough!\n　I've spent my whole life on the battlefield,\n　and now I'm gonna show you how pathetic you are!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Ридде",
+   "text": "（Я добрался до «Нахель Аргамы», чтобы покончить\n　со старыми делами, — а бойня всё не кончается!）",
+   "orig": "Riddhe\n（I come all the way to Nahel Argama to tie up loose ends,\n　only to find that the carnage is still going on!）"
+  },
+  {
+   "i": 244,
+   "speaker": "Ридде",
+   "text": "（Но я доведу дело до конца. Как боец «Лондо Белл»\n　я всыплю Зеону по первое число!）",
+   "orig": "Riddhe\n（But I'm gonna get the job done. As part of Londo Bell,\n　I'm gonna really let Zeon have it!）"
+  },
+  {
+   "i": 245,
+   "speaker": "Отто",
+   "text": "（Что говорить, этот «Юникорн Гандам»\n　и впрямь бьёт со страшной силой.）",
+   "orig": "Otto\n（To be sure, that Unicorn Gundam\n　really does pack a punch.）"
+  },
+  {
+   "i": 246,
+   "speaker": "Отто",
+   "text": "（Но способен ли один мобильный доспех\n　и правда переломить ход войны?）",
+   "orig": "Otto\n（But can a single mobile suit\n　actually change the course of the war?）"
+  },
+  {
+   "i": 247,
+   "speaker": "Амуро",
+   "text": "（Говорят, у Нео-Зеона сейчас больше сил,\n　чем во времена падения Акси.）",
+   "orig": "Amuro\n（I hear that Neo Zeon has more military power\n　than it did during the Axis Drop.）"
+  },
+  {
+   "i": 248,
+   "speaker": "Амуро",
+   "text": "（Чар.\n　Ты всё ещё намерен продолжать эту войну?）",
+   "orig": "Amuro\n（Char.\n　Still intent on continuing to fight, are you?）"
+  },
+  {
+   "i": 249,
+   "speaker": "Хатауэй",
+   "text": "「Объединиться с какими-то пришельцами…\n　Нео-Зеон всерьёз хочет уничтожить Землю!」",
+   "orig": "Hathaway\n「Joining forces with aliens like that.\n　Neo Zeon really intends to destroy the Earth!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Хатауэй",
+   "text": "「И какой вообще смысл\n　раз за разом повторять одну и ту же войну?」",
+   "orig": "Hathaway\n「What meaning could there possibly be\n　in repeating the same conflict over and over again?」"
+  },
+  {
+   "i": 251,
+   "speaker": "Джудо",
+   "text": "「Что это за ощущение?\n　Оно идёт от того пилота?」",
+   "orig": "Judau\n「What is this sensation?\n　Is it coming from that pilot?」"
+  },
+  {
+   "i": 252,
+   "speaker": "Марида",
+   "text": "「Он замер. Видно, сам ищет смерти!」",
+   "orig": "Marida\n「He's stopped cold. The guy must have a death wish!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Джудо",
+   "text": "「Да ну уж нет!\n　Я вернулся сюда не затем, чтобы меня убили!」",
+   "orig": "Judau\n「You're kidding!\n　I didn't come all the way back here to be killed!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Джудо",
+   "text": "「Я ещё столько людей хочу увидеть!\n　Я ещё столько всего хочу сделать!」",
+   "orig": "Judau\n「There are so many people I want to meet!\n　There are so many things I want to do!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Ракан",
+   "text": "「Джудо Ашта!\n　Рад, что мы снова встретились!」",
+   "orig": "Rakan\n「Judau Ashta!\n　I'm glad we could meet again!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Джудо",
+   "text": "「Старый хрыч, который был с $kwbГлеми$kwe!\n　Ну и упрямый же ты!」",
+   "orig": "Judau\n「The old fogie who was with $kwbGlemy$kwe!\n　You sure are a stubborn one!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Ракан",
+   "text": "「Я не отправлюсь на тот свет, пока не смою\n　позор, которым ты меня покрыл!」",
+   "orig": "Rakan\n「There's no way I'm cashing in my chips\n　without undoing the humiliation that you handed me!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Джудо",
+   "text": "「Надо же, и здесь находятся те, кто тащит\n　на поле боя свои старые обиды!」",
+   "orig": "Judau\n「Wow, even here there are people who drag\n　their emotional baggage onto the battlefield!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Джудо",
+   "text": "（Ждите меня, Лейна, Пуру, Пуру Два.\n　Я обязательно вернусь к вам. Обещаю.）",
+   "orig": "Judau\n（Wait for me Leina, Ple, Ple Two.\n　I'm coming to see you. You can count on it.）"
+  },
+  {
+   "i": 260,
+   "speaker": "Джудо",
+   "text": "「Хотя бы поэтому\n　я ни за что не умру в таком месте.」",
+   "orig": "Judau\n「For that reason, too,\n　there's no way I'm dying in a place like this.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Окита",
+   "text": "（Гамиласцы.\n　Не думал, что они вмешаются в эту войну,\n　пусть для них это и вопрос жизни и смерти.）",
+   "orig": "Okita\n（The Gamillans.\n　I never thought they'd intervene in this war,\n　even if it was a matter of life and death.）"
+  },
+  {
+   "i": 262,
+   "speaker": "Окита",
+   "text": "（Что ж, побьём их их же оружием.\n　Хотя бы ради того, чтобы прекратить\n　войну между людьми!）",
+   "orig": "Okita\n（Well, we'll beat 'em at their own game.\n　If only to stop the fighting between human beings!）"
+  },
+  {
+   "i": 263,
+   "speaker": "Тесса",
+   "text": "（Согласно расчётам командующего Окиты,\n　сюда движется флот Гамиласа\n　весьма внушительных размеров.）",
+   "orig": "Tessa\n（According to Commander Okita's predictions,\n　a Gamillas fleet of significant size\n　is heading this way.）"
+  },
+  {
+   "i": 264,
+   "speaker": "Тесса",
+   "text": "（А если добавить сюда этих бесчувственных\n　пришельцев, то тактика Нео-Зеона вполне может\n　стать ещё более радикальной.）",
+   "orig": "Tessa\n（With these emotionless aliens added to the picture,\n　it's very possible that Neo Zeon tactics\n　will head in a more extreme direction.）"
+  },
+  {
+   "i": 265,
+   "speaker": "Кинкейд",
+   "text": "「Осторожнее, Тобиа!\n　Пусть они выглядят как старые модели, но по силе\n　не уступают машинам из нашего мира!」",
+   "orig": "Kincade\n「Be careful, Tobia!\n　They may look like classic models, but they all have\n　the same capabilities as mobile units in our world!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Тобиа",
+   "text": "「Я знаю, Кинкейд! В конце концов,\n　это совершенно другой мир, не наш!」",
+   "orig": "Tobia\n「I'm aware of that, Kincade! After all,\n　this is a completely different world from our own!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Тобиа",
+   "text": "「Но я не стану стоять в стороне, когда против нас\n　те, кому ничего не стоит отнять чужую жизнь!」",
+   "orig": "Tobia\n「But I'm not gonna just sit by when we're facing a group\n　that thinks nothing of taking the lives of others!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Кинкейд",
+   "text": "「Неважно, что это за мир, —\n　такие люди всегда будут нашими врагами!」",
+   "orig": "Kincade\n「It doesn't matter what world it is,\n　anyone like that is an enemy of ours!」"
+  },
+  {
+   "i": 269,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

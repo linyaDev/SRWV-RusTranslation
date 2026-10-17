@@ -1,0 +1,1492 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　—Временный штаб Марсианского преемника—",
+   "orig": "　\n　　\n　　　—Martian Successor Provisional Headquarters—"
+  },
+  {
+   "i": 4,
+   "speaker": "Синдзё",
+   "text": "「И к чему вы пришли?」",
+   "orig": "Shinjo\n「What were your findings?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Ямасаки",
+   "text": "「К сожалению, полностью управлять\n　$kwbВычислительным блоком$kwe одним лишь усилением\n　мыслеволн невозможно.」",
+   "orig": "Yamasaki\n「Unfortunately, it is impossible to completely\n　control the $kwbCalculation Unit$kwe through the\n　amplification of thought waves alone.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Ямасаки",
+   "text": "「То есть без прыгуна класса A точка выхода\n　Бозонного прыжка может оказаться где угодно\n　в радиусе 500 метров от заданной.」",
+   "orig": "Yamasaki\n「This means that without a Class-A Jumper,\n　a Boson Jump terminal point could be anywhere\n　within 500m of the specified position.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Ямасаки",
+   "text": "「Для обычного боя этого, может, и хватит, но...」",
+   "orig": "Yamasaki\n「Which may be suitable in normal combat situations, but...」"
+  },
+  {
+   "i": 8,
+   "speaker": "Синдзё",
+   "text": "「Но не для бескровного переворота против\n　совета Федерации!」",
+   "orig": "Shinjo\n「But not enough for a bloodless coup against\n　the Federation council!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Ямасаки",
+   "text": "「Бозонным прыжком мы разом захватим всех\n　членов совета, что будут на заседании.」",
+   "orig": "Yamasaki\n「We'll use a Boson Jump to capture all\n　attending council members at once.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Ямасаки",
+   "text": "「По правде, если выгорит — блестящий план.」",
+   "orig": "Yamasaki\n「Truth is, if successful, it'll be a thrilling strategy.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Синдзё",
+   "text": "「И это действительно сработает?」",
+   "orig": "Shinjo\n「Is this really going to work?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Ямасаки",
+   "text": "「Другого у нас нет.」",
+   "orig": "Yamasaki\n「This is all we have.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Ямасаки",
+   "text": "「Так что, пожалуй, вам стоило лучше\n　беречь прыгунов класса A.」",
+   "orig": "Yamasaki\n「So, perhaps you should have \n　protected Class-A Jumpers better.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Синдзё",
+   "text": "「Ради того, чтобы власть осталась только у нас,\n　прыгунов класса A перебили великое множество.\n　И теперь они жаждут мести.」",
+   "orig": "Shinjo\n「In order for us to monopolize power, a \n　great number of Class-A Jumpers were killed. \n　And now they are out for revenge.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Кусакабэ",
+   "text": "「Не все прыгуны класса A мертвы.」",
+   "orig": "Kusakabe\n「The Class-A Jumpers are not all dead.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Ямасаки",
+   "text": "「Вы об Акито Тэнкаве.」",
+   "orig": "Yamasaki\n「You're referring to Akito Tenkawa.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Синдзё",
+   "text": "「Предлагаю бросить все оставшиеся силы\n　на «Надэсико» и взять его.」",
+   "orig": "Shinjo\n「I say we launch a full-scale attack against the\n　Nadesico with the forces we have left and take him.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Ямасаки",
+   "text": "「С теми крохами, что у нас остались,\n　вы правда рассчитываете победить?」",
+   "orig": "Yamasaki\n「With the minimal forces we have,\n　do you think we can really win?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Кусакабэ",
+   "text": "「О чём тут спорить?\n　Вы забыли про нашего нового покровителя.」",
+   "orig": "Kusakabe\n「What's to debate?\n　You forget our new benefactor.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Ямасаки",
+   "text": "「Думаете, у мистера Икс припрятан козырь?」",
+   "orig": "Yamasaki\n「Think Mr. X has something special up his sleeve?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Кусакабэ",
+   "text": "「Именно.\n　С его помощью мы выберемся из этого положения.」",
+   "orig": "Kusakabe\n「Correct.\n　With his help, we can overcome our current situation.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кусакабэ",
+   "text": "「Хокусин.\n　Приготовления я оставляю на тебя.」",
+   "orig": "Kusakabe\n「Hokushin.\n　I leave the arrangements to you.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Хокусин",
+   "text": "「Будет исполнено.」",
+   "orig": "Hokushin\n「It shall be as you wish.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Хокусин",
+   "text": "（Мститель в чёрном плаще, Акито Тэнкава...）",
+   "orig": "Hokushin\n（The Black-Cloaked Avenger, Akito Tenkawa...）"
+  },
+  {
+   "i": 25,
+   "speaker": "Хокусин",
+   "text": "（На этот раз клянусь отомстить уже я.\n　Любопытно, кто из нас выйдет победителем?）",
+   "orig": "Hokushin\n（This time, it is I who swears vengeance.\n　Which of us will come out victorious, I wonder?）"
+  },
+  {
+   "i": 29,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　—Командный центр Арзенала—",
+   "orig": "　\n　　\n　　　　　　　　—Arzenal Command Center—"
+  },
+  {
+   "i": 30,
+   "speaker": "Сумераги",
+   "text": "「Вот и всё, что с нами случилось\n　в прежнем измерении, откуда мы пришли.」",
+   "orig": "Sumeragi\n「That's a full account of what we experienced in\n　the previous dimension we came from.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Джилл",
+   "text": "「Измерение Всеобщего столетия, говоришь?\n　И там тоже есть логово Драконов? 」",
+   "orig": "Jill\n「Universal Century dimension, you say?\n　So there's a Dragons' roost there? 」"
+  },
+  {
+   "i": 32,
+   "speaker": "Сумераги",
+   "text": "「Ты командуешь Арзеналом, так что как\n　распорядиться этими сведениями — решать тебе.」",
+   "orig": "Sumeragi\n「As the commander of Arzenal, I leave the handling\n　of the information to you.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Джилл",
+   "text": "「Понятно.\n　Да, чем меньше посвящённых, тем лучше.」",
+   "orig": "Jill\n「I see.\n　Yes, the fewer people who know, the better.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Джилл",
+   "text": "「А почему ты пришла с этим в Арзенал,\n　а не к Государствам-основателям?」",
+   "orig": "Jill\n「And the reason you brought it to Arzenal\n　and not the Founding Nations?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Сумераги",
+   "text": "「Всё просто.\n　«Селестиал Бин» не доверяет\n　Государствам-основателям.」",
+   "orig": "Sumeragi\n「Simple.\n　Celestial Being is mistrustful \n　of the Founding Nations.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Сумераги",
+   "text": "「Пусть они и участвовали в двух войнах\n　на стороне Земли, дружбы между нами\n　всё равно не вышло.」",
+   "orig": "Sumeragi\n「Even though they participated in\n　two wars on the side of Earth, \n　they aren't exactly on friendly terms.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Сумераги",
+   "text": "「А когда речь заходит о Драконах и Арзенале,\n　я чувствую напряжение.」",
+   "orig": "Sumeragi\n「So long as Dragons and Arzenal are involved,\n　I sense strain.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Джилл",
+   "text": "「Может, чутьё тебя и не подводит — мы ведь,\n　по сути, воюем против всего мира.」",
+   "orig": "Jill\n「Your sense may be right, seeing as they've\n　basically been fighting against the entire world.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Сумераги",
+   "text": "「Я не этого ответа ждала, Джилл.」",
+   "orig": "Sumeragi\n「That's not what I want to hear, Jill.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Сумераги",
+   "text": "「Или лучше — Алектра Мария фон Левенхерц?」",
+   "orig": "Sumeragi\n「Or should I say, Alektra Maria von Levenherz?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Джилл",
+   "text": "「Значит, докопалась всё-таки?」",
+   "orig": "Jill\n「So you found out, did you?」"
+  },
+  {
+   "i": 42,
+   "speaker": "Сумераги",
+   "text": "「Да. Собирая через $kwbВеду$kwe данные о нормах,\n　я узнала кое-что о тебе десятилетней.」",
+   "orig": "Sumeragi\n「Yes, while collecting data on the Normas with $kwbVeda$kwe,\n　I learned something about you when you were ten.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Сумераги",
+   "text": "「Первая норма в королевской крови\n　Государств-основателей. Свои же смотрели на тебя\n　как на заразу.」",
+   "orig": "Sumeragi\n「The first Norma from the Founding Nations royal family\n　bloodline. Treated like a disease among your own people.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Джилл",
+   "text": "「Это было очень давно.\n　Вспоминая об этом сейчас,\n　рычага против меня ты не получишь.」",
+   "orig": "Jill\n「That was a long time ago.\n　Bringing it up now gives\n　you no leverage with me.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Сумераги",
+   "text": "「Мне нужна правда и твои истинные намерения.」",
+   "orig": "Sumeragi\n「What I want is the truth, and your true intentions.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Сумераги",
+   "text": "「Если собираешься нас использовать,\n　я хочу знать, ради чего и к чему ты идёшь.」",
+   "orig": "Sumeragi\n「If you're going to use us,\n　I want to know your purpose and goal.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Джилл",
+   "text": "「Уже и до этого додумалась? Опытные\n　тактические прогнозисты — страшные люди.」",
+   "orig": "Jill\n「Figured out that much have you? You veteran\n　tactics forecasters are formidable.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Сумераги",
+   "text": "「Не пытайся меня обмануть, Алектра.」",
+   "orig": "Sumeragi\n「Don't try to deceive me, Alektra.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Джилл",
+   "text": "「Я же сказала:\n　рычага против меня у тебя нет.」",
+   "orig": "Jill\n「I already told you,\n　you have no leverage with me.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Сумераги",
+   "text": "「Хм-хм.」",
+   "orig": "Sumeragi\n「Mm-hmm.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Джилл",
+   "text": "「Вот что: за сведения о Драконах\n　я расскажу тебе кое-что любопытное в ответ.」",
+   "orig": "Jill\n「Tell you what, in return for information on Dragons,\n　I'll tell you something interesting in return.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Джилл",
+   "text": "「Кагалли Юла Атха из Орба и Марина Исмаил\n　из $kwbАзадистана$kwe \n　пропали без вести.」",
+   "orig": "Jill\n「Cagalli Yula Athha of Orb and Marina Ismail of\n　$kwbAzadistan$kwe have \n　gone missing.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Сумераги",
+   "text": "「Что?」",
+   "orig": "Sumeragi\n「What?」"
+  },
+  {
+   "i": 54,
+   "speaker": "Джилл",
+   "text": "「Не делай такое удивлённое лицо.\n　Выходит, Веда их найти не сумела.」",
+   "orig": "Jill\n「No need to act so surprised.\n　So it seems Veda wasn't able to find them.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Сумераги",
+   "text": "「Откуда у тебя\n　эти сведения?」",
+   "orig": "Sumeragi\n「How did you come\n　by this information?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Джилл",
+   "text": "「Просто держу глаза и уши открытыми.\n　Сама я Арзенал покинуть не могу,\n　приходится полагаться на других.」",
+   "orig": "Jill\n「Just kept my eyes and ears open, as it were.\n　As I can't leave Arzenal,\n　I have to depend on others.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Джилл",
+   "text": "「Более того, я знаю, кто похитил этих девушек.」",
+   "orig": "Jill\n「Moreover, I know the culprit who abducted the girls.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Сумераги",
+   "text": "「Говори.」",
+   "orig": "Sumeragi\n「Do tell.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Джилл",
+   "text": "「Тот, кто сидит там, куда не дотягивается\n　надзор Веды. Тот, кого я считаю своим врагом.」",
+   "orig": "Jill\n「Someone in a place where Veda's surveillance \n　doesn't reach. Someone I consider my enemy.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Сумераги",
+   "text": "（План Аэолии Шенберга...\n　Пробуждение новой ступени человечества.）",
+   "orig": "Sumeragi\n（Aeolia Schenberg's plan...\n　Awakening a new phase of humans.）"
+  },
+  {
+   "i": 61,
+   "speaker": "Сумераги",
+   "text": "（И тем самым уничтожить\n　само существование старого мира.）",
+   "orig": "Sumeragi\n（And therein, destroy the \n　existence of the old world.）"
+  },
+  {
+   "i": 62,
+   "speaker": "Сумераги",
+   "text": "（Нечто, куда не дотягивается Веда.\n　Неужели это и есть истинный враг, которого искала Аэолия?）",
+   "orig": "Sumeragi\n（An existence where Veda cannot reach. \n　Is that the true enemy Aeolia sought out?）"
+  },
+  {
+   "i": 66,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　—Побережье Арзенала—",
+   "orig": "　\n　\n　　　　　　　　　　　—Arzenal Coast—"
+  },
+  {
+   "i": 67,
+   "speaker": "Акито",
+   "text": "「Значит, Юрика пропала.」",
+   "orig": "Akito\n「So Yurika's missing.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Рури",
+   "text": "「Боюсь, что так.」",
+   "orig": "Ruri\n「I'm afraid so.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Акито",
+   "text": "「Странно.」",
+   "orig": "Akito\n「Strange.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Рури",
+   "text": "「Что именно?」",
+   "orig": "Ruri\n「What is?」"
+  },
+  {
+   "i": 71,
+   "speaker": "Акито",
+   "text": "「Пока меня не было в этом измерении,\n　мне хотелось только одного — знать,\n　что она в безопасности.」",
+   "orig": "Akito\n「While I was away from this dimension,\n　all I wanted to know was that\n　she was safe.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Акито",
+   "text": "「А теперь, услышав это,\n　я отчаянно хочу увидеть её снова.」",
+   "orig": "Akito\n「But now in the light of this news,\n　I'm desperate to see her again.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Рури",
+   "text": "「Акито...」",
+   "orig": "Ruri\n「Akito...」"
+  },
+  {
+   "i": 74,
+   "speaker": "Акито",
+   "text": "「Хотя тогда, в бою на Марсе, даже сумей я\n　её спасти, показываться ей на глаза\n　я не собирался.」",
+   "orig": "Akito\n「Even though at the battle on Mars, even if\n　I had been able to rescue her, I had no\n　intention of seeing her.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Рури",
+   "text": "「Люди меняются.\n　Пожалуйста, не отрекайся от того, кем ты стал.」",
+   "orig": "Ruri\n「People change.\n　Please don't deny who you've become.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Акито",
+   "text": "「Хм.」",
+   "orig": "Akito\n「Hmm.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Рури",
+   "text": "「Мне пора возвращаться на «Надэсико».」",
+   "orig": "Ruri\n「I should be getting back to the Nadesico.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Акито",
+   "text": "（Спасибо, Рури.\n　Мне и правда нужно побыть одному.）",
+   "orig": "Akito\n（Thank you, Ruri.\n　I do need the time alone.）"
+  },
+  {
+   "i": 79,
+   "speaker": "Акито",
+   "text": "（Я скучаю по тебе,\n　Юрика.）",
+   "orig": "Akito\n（I miss you,\n　Yurika.）"
+  },
+  {
+   "i": 80,
+   "speaker": "Мэй",
+   "text": "「Простите, вы ведь Акито Тэнкава?」",
+   "orig": "Mei\n「Excuse me, are you, Akito Tenkawa?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Акито",
+   "text": "「Ты механик с Арзенала.」",
+   "orig": "Akito\n「You're a mechanic on the Arzenal.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Мэй",
+   "text": "「Мне передали на хранение вот это письмо.」",
+   "orig": "Mei\n「This letter was given to me for safe-keeping.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Акито",
+   "text": "「Письмо?\n　От кого?」",
+   "orig": "Akito\n「Letter?\n　From whom?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Мэй",
+   "text": "「Худой мужчина с цепким взглядом\n　и разными по цвету глазами.」",
+   "orig": "Mei\n「A sharp-eyed, thin man with\n　eyes of different colors.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Акито",
+   "text": "「Где он сейчас?」",
+   "orig": "Akito\n「Where is that man now?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Мэй",
+   "text": "「О-отдал письмо и просто ушёл.」",
+   "orig": "Mei\n「A-after he gave me the letter, he simply left.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Мэй",
+   "text": "「На «Надэсико» почти все такие жизнерадостные,\n　а этот человек был какой-то другой.」",
+   "orig": "Mei\n「Most of the people on the Nadesico are a cheerful sort,\n　but this man was a bit different.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Акито",
+   "text": "（Это был он!\n　Я уверен!）",
+   "orig": "Akito\n（It was him!\n　I'm sure of it!）"
+  },
+  {
+   "i": 89,
+   "speaker": "Мэй",
+   "text": "「Простите, мне пора обратно в ремонтный отсек.」",
+   "orig": "Mei\n「If you'll excuse me, I have to get back to Maintenance.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Акито",
+   "text": "（Хокусин...\n　Ты вечно грозишь смертью тем,\n　кто рядом со мной, когда тебе удобно.）",
+   "orig": "Akito\n（Hokushin...\n　You're always threatening the people \n　around me with death whenever it suits you.）"
+  },
+  {
+   "i": 91,
+   "speaker": "Акито",
+   "text": "（Что такого ты мог\n　написать мне в письме?）",
+   "orig": "Akito\n（What could you possibly have\n　to say to me in a letter?）"
+  },
+  {
+   "i": 95,
+   "speaker": "　",
+   "text": "　　\n　　　—Временный штаб Марсианского преемника—",
+   "orig": "　\n　　\n　　　—Martian Successor Provisional Headquarters—"
+  },
+  {
+   "i": 96,
+   "speaker": "Кусакабэ",
+   "text": "「Что произошло?」",
+   "orig": "Kusakabe\n「What happened?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Ямасаки",
+   "text": "「Похоже, подкрепления нашего загадочного союзника\n　тоже почти полностью выведены из строя.」",
+   "orig": "Yamasaki\n「It seems our mysterious collaborator reinforcements \n　have been rendered mostly powerless as well.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Синдзё",
+   "text": "「Ведьма малолетняя!」",
+   "orig": "Shinjo\n「That little witch!」"
+  },
+  {
+   "i": 99,
+   "speaker": "？？？",
+   "text": "「Не стоит так говорить об Электронной фее,\n　кумире Вооружённых сил Земной Федерации.」",
+   "orig": "？？？\n「That's no way to talk about the Electron Fairy, \n　the idol of the Earth Federation Forces.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Синдзё",
+   "text": "「А ты ещё кто такой?」",
+   "orig": "Shinjo\n「And who the hell are you?」"
+  },
+  {
+   "i": 101,
+   "speaker": "Акацуки",
+   "text": "「Я бывший борец сумо в ранге одзэки по прозвищу\n　Сукэкомаси. Ныне в отставке — глава школы Рокудэнаси.」",
+   "orig": "Akatsuki\n「I am a former Ozeki sumo wrestler called Sukekomashi.\n　Now retired, I go by Stable Master Rokudenashi.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Кусакабэ",
+   "text": "「Председатель «Нергала», Нагарэ Акацуки...」",
+   "orig": "Kusakabe\n「Nergal chairman, Nagare Akatsuki...」"
+  },
+  {
+   "i": 103,
+   "speaker": "Акацуки",
+   "text": "「А теперь дежурный вопрос: «Как вы нас нашли?»」",
+   "orig": "Akatsuki\n「And next, the oft-asked question, \"How'd you find us?\"」"
+  },
+  {
+   "i": 104,
+   "speaker": "Гоут",
+   "text": "「Время поджимает, так что отвечу за вас.\n　Тайная служба «Нергала» приложила немало усилий,\n　чтобы установить ваше местонахождение.」",
+   "orig": "Goat\n「Since we're pressed for time, I'll answer for you.\n　The Nergal Secret Service has made a concerted effort\n　to locate your whereabouts.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Акацуки",
+   "text": "「Именно. Ах да, и в эту самую минуту\n　ваша база полностью окружена.」",
+   "orig": "Akatsuki\n「Precisely. Oh yes, and at this moment,\n　your base is completely surrounded.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Акацуки",
+   "text": "「Бросив почти все силы на поимку Акито,\n　вы крупно просчитались.」",
+   "orig": "Akatsuki\n「Devoting most of your energy to capturing \n　Akito has backfired completely.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Марсианский преемник",
+   "text": "「Подонок!」",
+   "orig": "Martian Successor\n「You scum!」"
+  },
+  {
+   "i": 108,
+   "speaker": "？？？",
+   "text": "「Достаточно.」",
+   "orig": "？？？\n「That's far enough.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Марсианский преемник",
+   "text": "「Ты кто такой?」",
+   "orig": "Martian Successor\n「Who are you?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Цукиоми",
+   "text": "「Цукумо $kwbСиратори$kwe плачет.」",
+   "orig": "Tsukiomi\n「Tsukumo $kwbShiratori$kwe is crying.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Синдзё",
+   "text": "「Командующий Гэнъитиро Цукиоми...」",
+   "orig": "Shinjo\n「Commander Genichiro Tsukiomi...」"
+  },
+  {
+   "i": 112,
+   "speaker": "Цукиоми",
+   "text": "「Теперь я служу в Тайной службе «Нергала».」",
+   "orig": "Tsukiomi\n「I now work for the Nergal Secret Service.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Акацуки",
+   "text": "「Вот вам и мат.\n　Хотя на деле партия была выиграна ещё тогда,\n　когда я передал «Надэсико C» Рури.」",
+   "orig": "Akatsuki\n「So this is checkmate.\n　Actually, the battle was already won by the time\n　I handed the Nadesico C over to Ruri.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Акацуки",
+   "text": "「Вам уже довелось полюбоваться всей огневой\n　мощью, которую «Нергал» вложил в новейший\n　корабль класса «Надэсико» второго поколения?」",
+   "orig": "Akatsuki\n「Have you had the pleasure of seeing the complete\n　range of firepower Nergal invested in the most \n　recent second-generation Nadesico-class ship?」"
+  },
+  {
+   "i": 115,
+   "speaker": "Акацуки",
+   "text": "「А вместе с силой Рури\n　его попросту не остановить.」",
+   "orig": "Akatsuki\n「Combined with Ruri's power,\n　it is utterly unstoppable.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Синдзё",
+   "text": "「Деньги на ветер!」",
+   "orig": "Shinjo\n「What a waste of money!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Акацуки",
+   "text": "「И что в этом плохого?\n　Всяко лучше, чем упиться собственными амбициями\n　настолько, чтобы менять мир силой.」",
+   "orig": "Akatsuki\n「And what's wrong with that?\n　It's better than being so drunk on your own ambitions,\n　that you'd use violence to change the world.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Синдзё",
+   "text": "「Кх-х.」",
+   "orig": "Shinjo\n「Grr.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Акацуки",
+   "text": "「Никогда не недооценивайте богачей.」",
+   "orig": "Akatsuki\n「Never underestimate the rich.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Кусакабэ",
+   "text": "「Я хотел бы обеспечить безопасность своих людей.」",
+   "orig": "Kusakabe\n「I'd like to ensure the safety of my men.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Синдзё",
+   "text": "「Вице-адмирал Кусакабэ!」",
+   "orig": "Shinjo\n「Vice-Admiral Kusakabe!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Кусакабэ",
+   "text": "「Всё кончено... Мы проиграли.」",
+   "orig": "Kusakabe\n「It's over... We've lost.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Эрина",
+   "text": "「Похоже, выход «Надэсико C» сломил\n　и боевой дух Кусакабэ.」",
+   "orig": "Erina\n「It seems the launch of the Nadesico C\n　broke Kusakabe's morale as well.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Проспектор",
+   "text": "「Спасибо данным с $kwbЭвхариса$kwe.\n　И Лапис как следует потрудилась.」",
+   "orig": "Prospector\n「Thanks to the data from the $kwbEucharis$kwe.\n　Lapis worked hard, too.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Лапис",
+   "text": "「Моя роль во всём этом —\n　быть полезной Акито.」",
+   "orig": "Lapis\n「My role in all this is\n　to be an asset to Akito.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Проспектор",
+   "text": "（Ну что ж, Акито,\n　кончится ли всё это счастливо —\n　теперь зависит от тебя.）",
+   "orig": "Prospector\n（Well then, Akito,\n　whether or not this all comes to \n　a happy end depends on you.）"
+  },
+  {
+   "i": 130,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　—Мостик «Надэсико C»—",
+   "orig": "　\n　\n　　　　　　　　　　—Nadesico C Bridge—"
+  },
+  {
+   "i": 131,
+   "speaker": "Акито",
+   "text": "「...」",
+   "orig": "Akito\n「...」"
+  },
+  {
+   "i": 132,
+   "speaker": "Юрика",
+   "text": "「Покажи мне своё лицо, Акито.」",
+   "orig": "Yurika\n「Show me your face, Akito.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Акито",
+   "text": "「Юрика...」",
+   "orig": "Akito\n「Oh, Yurika.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Юрика",
+   "text": "「Забавно, правда?\n　Мне столько всего хочется сказать,\n　а на ум ничего не приходит.」",
+   "orig": "Yurika\n「Funny, isn't it?\n　I have so much to say,\n　and yet, nothing is coming to me.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Акито",
+   "text": "「У нас полно времени.\n　Так что...」",
+   "orig": "Akito\n「We have plenty of time.\n　So...」"
+  },
+  {
+   "i": 136,
+   "speaker": "Юрика",
+   "text": "「И правда.\n　Так давай вместе наверстаем всё упущенное!」",
+   "orig": "Yurika\n「You're right.\n　So let's fill in the time we lost, together!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Рёко",
+   "text": "「Да ну вас, я сейчас расплачусь.」",
+   "orig": "Ryoko\n「Darn it, you're going to make me cry.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Хикару",
+   "text": "「Это просто чудесно.」",
+   "orig": "Hikaru\n「This is truly wonderful.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Идзуми",
+   "text": "「Вот это я называю счастливым концом.\n　Настроение такое праздничное, что хоть хаппи надевай!」",
+   "orig": "Izumi\n「This is what I'd call a happy ending.\n　I'm in such a festive mood, I need a happi coat!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Рури",
+   "text": "「Я рада за вас обоих.」",
+   "orig": "Ruri\n「I'm happy for the both of you.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Акито",
+   "text": "「Спасибо вам всем.\n　Это благодаря вам мы снова вместе.」",
+   "orig": "Akito\n「Thank you, all.\n　It's because of you, we can be together again.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Рёко",
+   "text": "「Ой, ну хватит!」",
+   "orig": "Ryoko\n「Oh, stop it!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Бандзё",
+   "text": "「Достаточно и того,\n　что ты нам доверился.」",
+   "orig": "Banjo\n「That you trusted us\n　is enough.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Акито",
+   "text": "「Да, и ещё, Рури,\n　неловко просить, но...」",
+   "orig": "Akito\n「Oh, and Ruri,\n　I hate to ask, but...」"
+  },
+  {
+   "i": 145,
+   "speaker": "Рури",
+   "text": "「Знаю, знаю.\n　Верну твой рецепт лапши.」",
+   "orig": "Ruri\n「I know, I know.\n　I'll return the recipe for your noodles.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Акито",
+   "text": "「Нет, пусть побудет у тебя ещё немного.\n　Хотя бы пока не кончится война.」",
+   "orig": "Akito\n「No, you can keep that for a while longer.\n　At least, until the fighting's over.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Юрика",
+   "text": "「Он понадобится нам, когда откроем\n　свою лавку рамэна.」",
+   "orig": "Yurika\n「We'll need it to start our own\n　ramen noodle shop.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Рури",
+   "text": "「Договорились.\n　До тех пор буду беречь его как зеницу ока.」",
+   "orig": "Ruri\n「You got it.\n　I'll take good care of it until then.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Акацуки",
+   "text": "「Трагедий хватает и в мире вымысла.\n　Для настоящего мира я предпочитаю такие концовки.」",
+   "orig": "Akatsuki\n「There are enough tragedies in the world of fiction.\n　I prefer endings like this for the real world.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Хикару",
+   "text": "「Ого! Падение дамского угодника.」",
+   "orig": "Hikaru\n「Whoa! The fall of a womanizer.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Идзуми",
+   "text": "「Не повезло! Бва-ха-ха!」",
+   "orig": "Izumi\n「Tough luck! Bwahaha!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Майто",
+   "text": "「Н-но мы ведь победили потому,\n　что ты нас прикрыл, Акацуки!」",
+   "orig": "Maito\n「B-but we won because we \n　had you as backup, Akatsuki!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Акацуки",
+   "text": "「Не бери в голову, Майто.\n　Я привык.」",
+   "orig": "Akatsuki\n「Don't worry about it, Maito.\n　I'm used to it.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Рури",
+   "text": "「На этот раз я искренне впечатлена вашей работой.\n　Вы защитили Юрику, достроили «Надэсико C»\n　да ещё и арестовали Харуки Кусакабэ.」",
+   "orig": "Ruri\n「I am genuinely impressed with your skills this time.\n　You protected Yurika, completed the Nadesico C, \n　and arrested Haruki Kusakabe to boot.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Акацуки",
+   "text": "「Спасибо, Рури. Но почему «на этот раз»?\n　Хотелось бы впечатлять тебя почаще.」",
+   "orig": "Akatsuki\n「Thanks, Ruri. But, just \"this time,\" huh?\n　I'd like to think you're impressed more often.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Акацуки",
+   "text": "「Марсианский преемник, может, и разбит,\n　но впереди у нас ещё немало сражений.\n　Задайте врагу жару на «Надэсико C».」",
+   "orig": "Akatsuki\n「The Martian Successors might be defeated,\n　but we have more battles ahead of us.\n　Give the enemy hell with the Nadesico C.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Акацуки",
+   "text": "「В том числе и ради «Нергала».」",
+   "orig": "Akatsuki\n「For Nergal as well.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Рёко",
+   "text": "「Ты ведь не только за этим сюда явился?」",
+   "orig": "Ryoko\n「You didn't come here just to say that, did you?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Минато",
+   "text": "「Выходит, мы просто ходячая реклама.」",
+   "orig": "Minato\n「So we're just the advertisement billboard, then.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Юкина",
+   "text": "「И что у тебя за вкус в одежде?」",
+   "orig": "Yukina\n「And what's with your taste in clothing?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Майто",
+   "text": "「Э-эй, ну что вы все, в самом деле!」",
+   "orig": "Maito\n「H-hey, everyone, please!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Акацуки",
+   "text": "「Ничего, ничего.\n　Дурная трава, как говорится, в рост идёт.」",
+   "orig": "Akatsuki\n「It's fine, it's fine.\n　Ill weeds grow apace, as they say.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Акито",
+   "text": "「Я признателен тебе за всё, Акацуки.」",
+   "orig": "Akito\n「I appreciate all you've done, Akatsuki.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Акацуки",
+   "text": "「Да брось. Ты и сам как реклама отработал\n　лучше всех — отдача была сторицей.」",
+   "orig": "Akatsuki\n「Oh, no, please. More than anyone, your work\n　as an advertisement paid off in spades, too.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Акацуки",
+   "text": "「А о Лапис позабочусь я.\n　В штате «Нергала» от неё будет много пользы.」",
+   "orig": "Akatsuki\n「Let me worry about Lapis.\n　She can be of great use as a member of Nergal staff.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Акито",
+   "text": "「Спасибо.\n　И никогда больше не пускай Лапис в бой.」",
+   "orig": "Akito\n「Thanks.\n　And don't ever let Lapis fight again.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Акацуки",
+   "text": "「Я, во всяком случае, так и задумал.」",
+   "orig": "Akatsuki\n「That's the idea, anyway.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Рури",
+   "text": "「Скажите, Акацуки, так у Марсианского\n　преемника всё-таки был $kwbВычислительный блок$kwe\n　или нет?」",
+   "orig": "Ruri\n「Say, Akatsuki, did the \n　Martian Successors have the $kwbCalculation Unit$kwe\n　after all?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Акацуки",
+   "text": "「Мы... всё ещё это выясняем.」",
+   "orig": "Akatsuki\n「We're...still investigating that.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Юрика",
+   "text": "「А почему вы сейчас запнулись?」",
+   "orig": "Yurika\n「Why did you pause just now?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Акацуки",
+   "text": "「Так, минуточку.\n　Я бросил все силы «Нергала» на то,\n　чтобы отыскать Вычислительный блок.」",
+   "orig": "Akatsuki\n「Now, hold on just a second.\n　I'm using the collective effort of Nergal\n　to locate the Calculation Unit.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Рёко",
+   "text": "「Вот и займись этим!」",
+   "orig": "Ryoko\n「So get to it then!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Акито",
+   "text": "「Он нужен людям.」",
+   "orig": "Akito\n「There are people in need of it.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Хикару",
+   "text": "「Но рассчитывать особо не на что.\n　У «Нергала» сейчас не лучшие времена.」",
+   "orig": "Hikaru\n「But we can't expect anything.\n　Nergal has fallen on hard times, after all.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Харри",
+   "text": "「Может, стоит обратиться\n　к концерну «Сэмпудзи»?」",
+   "orig": "Harry\n「Shouldn't we ask\n　the Senpuji Concern?」"
+  },
+  {
+   "i": 176,
+   "speaker": "Бандзё",
+   "text": "「Хороший вопрос...\n　Всё-таки есть вещи, которых деньгами не решить.」",
+   "orig": "Banjo\n「Good question... \n　There are some things money can't fix, after all.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Рури",
+   "text": "「Кто бы говорил.」",
+   "orig": "Ruri\n「You're one to talk.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Акацуки",
+   "text": "「Никогда не недооценивайте богачей.」",
+   "orig": "Akatsuki\n「Never underestimate the rich.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Майто",
+   "text": "「А-Акацуки!」",
+   "orig": "Maito\n「A-Akatsuki!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Хикару",
+   "text": "「Так себе прощальная реплика.」",
+   "orig": "Hikaru\n「That was a lame parting shot.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Бандзё",
+   "text": "「Похоже, его окружает какая-то печаль.」",
+   "orig": "Banjo\n「There seems to be a sorrow surrounding him.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Бандзё",
+   "text": "（Акацуки и Цукиоми говорят, что не смогли добыть\n　никаких сведений о последнем завещании\n　Дона Заузера.）",
+   "orig": "Banjo\n（According to Akatsuki and Tsukiomi, they\n　weren't able to obtain any information\n　on Don Zauser's final bequest.）"
+  },
+  {
+   "i": 183,
+   "speaker": "Бандзё",
+   "text": "（Если его не было у Марсианских преемников,\n　то, возможно, всё это было просто выдумкой.）",
+   "orig": "Banjo\n（If the Martian Successors didn't have it,\n　then perhaps it was all just a hoax.）"
+  },
+  {
+   "i": 184,
+   "speaker": "Юрика",
+   "text": "「Как бы там ни было, дело закрыто.\n　И я с нетерпением жду, когда войду в экипаж\n　«Надэсико C».」",
+   "orig": "Yurika\n「At any rate, case closed.\n　And I'm looking forward to becoming a\n　member of the crew aboard the Nadesico C.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Рури",
+   "text": "「Добро пожаловать на борт, Юрика.」",
+   "orig": "Ruri\n「Welcome aboard, Yurika.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Акито",
+   "text": "（Юрика, Рури и вся команда здесь.）",
+   "orig": "Akito\n（Yurika, Ruri, and the whole gang is here.）"
+  },
+  {
+   "i": 187,
+   "speaker": "Акито",
+   "text": "（Похоже, этот чёрный плащ на сердце мне больше\n　не нужен. «Надэсико C» теперь мой дом.）",
+   "orig": "Akito\n（I guess I no longer need this black cloak \n　around my heart. The Nadesico C is my home now.）"
+  },
+  {
+   "i": 191,
+   "speaker": "　",
+   "text": "　　\n　　　　　　—Командный центр Арзенала—",
+   "orig": "　\n　　\n　　　　　　　　—Arzenal Command Center—"
+  },
+  {
+   "i": 192,
+   "speaker": "Салия",
+   "text": "「...」",
+   "orig": "Salia\n「...」"
+  },
+  {
+   "i": 193,
+   "speaker": "Анж",
+   "text": "「...」",
+   "orig": "Ange\n「...」"
+  },
+  {
+   "i": 194,
+   "speaker": "Джилл",
+   "text": "「Ну и ну, кажется, вы двое подружились\n　за время своей месячной отлучки.」",
+   "orig": "Jill\n「Well, you two seem to have become friends\n　after your little month-long absence.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Салия",
+   "text": "「Не совсем.」",
+   "orig": "Salia\n「Not exactly.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Анж",
+   "text": "「Нам обеим интересно,\n　что же такое «Вилькисс» на самом деле.」",
+   "orig": "Ange\n「We're both curious about \n　the true identity of Villkiss.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Джилл",
+   "text": "「А, так вот зачем вы пришли?」",
+   "orig": "Jill\n「Ah, is that why you're here?」"
+  },
+  {
+   "i": 198,
+   "speaker": "Анж",
+   "text": "「Для Пара-Мейла он довольно загадочный,\n　и при этом весьма полезный.」",
+   "orig": "Ange\n「It's a rather enigmatic for a Para-Mail,\n　and yet, quite useful.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Джилл",
+   "text": "「Сумераги сообщила мне, что вам удалось\n　пробудить часть истинной силы «Вилькисса».」",
+   "orig": "Jill\n「Sumeragi informed me that you were\n　able to unlock a portion of Villkiss' true power.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Салия",
+   "text": "「Тот режим — лишь часть его истинной силы?!」",
+   "orig": "Salia\n「That mode is just a portion of its true power?!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Анж",
+   "text": "「Значит, ты всё-таки что-то знаешь.」",
+   "orig": "Ange\n「So you do know something.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Джилл",
+   "text": "「Я собиралась рассказать вам, когда придёт время.」",
+   "orig": "Jill\n「When the time was right, I had planned on telling you.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Салия",
+   "text": "「Вы имеете в виду—」",
+   "orig": "Salia\n「Are you referring to—」"
+  },
+  {
+   "i": 204,
+   "speaker": "Джилл",
+   "text": "「Да. Либертус.」",
+   "orig": "Jill\n「Yes, Libertus.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Анж",
+   "text": "「Либертус?」",
+   "orig": "Ange\n「Libertus?」"
+  },
+  {
+   "i": 206,
+   "speaker": "Джилл",
+   "text": "「Анж, но куда важнее другое —\n　у меня есть новости\n　из Империи Мисуруги.」",
+   "orig": "Jill\n「Ange, even more important\n　than that, I have news\n　from the Misurugi Empire.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Джилл",
+   "text": "「Через три дня Сильвию Икаругу Мисуруги\n　из королевской семьи казнят.」",
+   "orig": "Jill\n「In three days, Sylvia Ikaruga Misurugi \n　of the royal family will be executed.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Анж",
+   "text": "「Что?」",
+   "orig": "Ange\n「What?」"
+  },
+  {
+   "i": 209,
+   "speaker": "Салия",
+   "text": "「Кто такая эта Сильвия?」",
+   "orig": "Salia\n「Who is this Sylvia?」"
+  },
+  {
+   "i": 210,
+   "speaker": "Джилл",
+   "text": "「Сестра Анж.\n　Её казнят за то, что она укрывала\n　свою сестру-норму.」",
+   "orig": "Jill\n「Ange's sister.\n　She is being executed for the crime of\n　harboring her Norma sister.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Анж",
+   "text": "「Казнят из-за меня...」",
+   "orig": "Ange\n「Executed because of me...」"
+  },
+  {
+   "i": 215,
+   "speaker": "Найн",
+   "text": "「Бандзё рвался в бой с Хокусином\n　так, что становилось страшно.」",
+   "orig": "Nine\n「Banjo's eagerness to fight \n　Hokushin was frightening.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Топпо",
+   "text": "「Хотя это можно понять.\n　Бандзё считает, что Хокусин был\n　последним $kwbМеганоидом$kwe.」",
+   "orig": "Toppo\n「That's understandable, though.\n　Banjo believes Hokushin was the \n　last $kwbMeganoid$kwe.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Гаррисон",
+   "text": "「Он твёрдо намерен уничтожить\n　Меганоидов раз и навсегда.」",
+   "orig": "Garrison\n「He's determined to completely destroy\n　the Meganoids once and for all.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Найн",
+   "text": "「И всё же...」",
+   "orig": "Nine\n「But still...」"
+  },
+  {
+   "i": 219,
+   "speaker": "Бьюти",
+   "text": "「Не то чтобы мы не понимали твоих чувств.」",
+   "orig": "Beauty\n「It's not that we don't understand how you feel.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Рэйка",
+   "text": "「Но в той суровости, с какой Бандзё берётся\n　за врагов и за дело, есть своё обаяние.」",
+   "orig": "Reika\n「But there's a charm in the severity to which \n　Banjo approaches his enemies and missions.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Найн",
+   "text": "「Кажется, я понимаю, о чём вы.」",
+   "orig": "Nine\n「I see what you are saying.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Найн",
+   "text": "「Проанализировав сегодняшний бой Бандзё\n　и Хокусина, мой тактический процессор получил\n　загадочные данные на все 100 ТакО.」",
+   "orig": "Nine\n「By analyzing Banjo and Hokushin's battle today, \n　my tactical processing capacity gained mysterious\n　data equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Бьюти",
+   "text": "「От такого у девушки сердце забьётся чаще!」",
+   "orig": "Beauty\n「That'll get a girl's heart throbbing!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Найн",
+   "text": "「Сердце забьётся чаще?」",
+   "orig": "Nine\n「Get a girl's heart throbbing?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Гаррисон",
+   "text": "「Узнаю господина Бандзё — всё так же дерзок.」",
+   "orig": "Garrison\n「That sounds like our Master Banjo, wicked as ever.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Бандзё",
+   "text": "「Вы тут обо мне говорите?」",
+   "orig": "Banjo\n「You guys talking about me?」"
+  },
+  {
+   "i": 227,
+   "speaker": "Рэйка",
+   "text": "「О твоей и Найн наивности.」",
+   "orig": "Reika\n「You and Nine's innocence.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Найн",
+   "text": "「Б-Бандзё, ты сегодня славно сражался.\n　Уничтожив последнего Меганоида, ты закрыл\n　эту главу своей жизни, верно?」",
+   "orig": "Nine\n「B-Banjo, you fought hard today.\n　Destroying the last Meganoid brings an\n　end to that chapter in your life, doesn't it?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Бандзё",
+   "text": "「Не совсем, Найн.\n　Я не успокоюсь, пока не будет уничтожено всё зло.」",
+   "orig": "Banjo\n「Not quite, Nine.\n　I won't rest until all evil is destroyed.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Бандзё",
+   "text": "（И я вовсе не уверен, что Хокусин мёртв.）",
+   "orig": "Banjo\n（And I'm not quite so sure Hokushin is dead.）"
+  },
+  {
+   "i": 234,
+   "speaker": "Урибатакэ",
+   "text": "「Вот уж не ожидал, что вы робот, барышня.」",
+   "orig": "Uribatake\n「I'm surprised that you're a robot, Miss.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Найн",
+   "text": "「Прошу, не смотрите так пристально.」",
+   "orig": "Nine\n「Please, don't stare like that.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Урибатакэ",
+   "text": "「Простите!\n　Похоже, любопытство техника\n　взяло надо мной верх.」",
+   "orig": "Uribatake\n「I'm sorry!\n　I guess my technician's curiosity\n　got the better of me.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Юрика",
+   "text": "「Урибатакэ,\n　а ничего, что мы заняли твою мастерскую?\n　Я слышала, твоя жена беременна.」",
+   "orig": "Yurika\n「Uribatake,\n　Are you sure it's OK to use your factory?\n　I heard your wife's pregnant.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Урибатакэ",
+   "text": "「Не беспокойся. К тому же у меня подрабатывает\n　один из лучших в своём деле.」",
+   "orig": "Uribatake\n「No worries. Besides, I have one \n　of the best part-timers in the business.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Юрика",
+   "text": "「Подрабатывает?」",
+   "orig": "Yurika\n「A part-timer?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Урибатакэ",
+   "text": "「Ты же знаешь бывшего капитана?\n　Парень по имени Садзи, он был в «Селестиал Бин».」",
+   "orig": "Uribatake\n「You know the former captain, right?\n　A guy named Saji who was with Celestial Being.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Сэцуна",
+   "text": "「Что?」",
+   "orig": "Setsuna\n「What?」"
+  },
+  {
+   "i": 242,
+   "speaker": "Урибатакэ",
+   "text": "「Слышал, у него девушка в Нувель-Токио,\n　вот он и ищет там работу.」",
+   "orig": "Uribatake\n「I heard he's got a girlfriend in Nouvelle Tokyo,\n　and he's looking for a job there.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Урибатакэ",
+   "text": "「У парня хорошее чутьё. Если и дальше будет так\n　учиться, станет отличным техником.」",
+   "orig": "Uribatake\n「He's got good sense, that kid. If he continues\n　training like he is, he'll become a great technician.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Сэцуна",
+   "text": "「Ясно.」",
+   "orig": "Setsuna\n「I see.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Найн",
+   "text": "「Ты говоришь это с радостью, Сэцуна.」",
+   "orig": "Nine\n「You sound happy, Setsuna.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Юрика",
+   "text": "「Хм.」",
+   "orig": "Yurika\n「Hm.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Найн",
+   "text": "「Что такое, Юрика?」",
+   "orig": "Nine\n「What's the matter, Yurika?」"
+  },
+  {
+   "i": 248,
+   "speaker": "Юрика",
+   "text": "「Ты напоминаешь мне Рури,\n　какой она была в детстве, Найн.」",
+   "orig": "Yurika\n「You remind me of Ruri when \n　she was younger, Nine.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Найн",
+   "text": "「Рада это слышать.\n　Мне бы очень хотелось быть похожей на капитана Рури.」",
+   "orig": "Nine\n「I'm happy to hear that.\n　I'd very much like to be like Captain Ruri.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Юрика",
+   "text": "「Тогда тебе нужно расширять кругозор.」",
+   "orig": "Yurika\n「Then you'll need to broaden your knowledge.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Юрика",
+   "text": "「Хочешь для начала пожить у нас с Акито,\n　как когда-то Рури?」",
+   "orig": "Yurika\n「Would you like to start by living with\n　Akito and me, like Ruri did?」"
+  },
+  {
+   "i": 252,
+   "speaker": "Найн",
+   "text": "「Звучит заманчиво, но мне лучше избегать\n　слишком сильных впечатлений.」",
+   "orig": "Nine\n「Sounds nice, but I should avoid too much excitement.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Урибатакэ",
+   "text": "「Ну, когда мы встретились во время переполоха с натто,\n　я и подумать не мог, что ты с «Надэсико».」",
+   "orig": "Uribatake\n「Well, I would have never guessed when I met you during\n　the natto fiasco, that you were on the Nadesico.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Найн",
+   "text": "「Прошу, не смотрите так пристально.」",
+   "orig": "Nine\n「Please, don't stare like that.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Урибатакэ",
+   "text": "「Простите!\n　Похоже, любопытство техника\n　взяло надо мной верх.」",
+   "orig": "Uribatake\n「I'm sorry!\n　I guess my technician's curiosity\n　got the better of me.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Юрика",
+   "text": "「Урибатакэ,\n　а ничего, что мы заняли твою мастерскую?\n　Я слышала, твоя жена беременна.」",
+   "orig": "Yurika\n「Uribatake,\n　Are you sure it's OK to use your factory?\n　I heard your wife's pregnant.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Урибатакэ",
+   "text": "「Не беспокойся. К тому же у меня подрабатывает\n　один из лучших в своём деле.」",
+   "orig": "Uribatake\n「No worries. Besides, I have one \n　of the best part-timers in the business.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Юрика",
+   "text": "「Подрабатывает?」",
+   "orig": "Yurika\n「A part-timer?」"
+  },
+  {
+   "i": 259,
+   "speaker": "Урибатакэ",
+   "text": "「Ты же знаешь бывшего капитана?\n　Парень по имени Садзи, он был в «Селестиал Бин».」",
+   "orig": "Uribatake\n「You know the former captain, right?\n　A guy named Saji who was with Celestial Being.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Сэцуна",
+   "text": "「Что?」",
+   "orig": "Setsuna\n「What?」"
+  },
+  {
+   "i": 261,
+   "speaker": "Урибатакэ",
+   "text": "「Слышал, у него девушка в Нувель-Токио,\n　вот он и ищет там работу.」",
+   "orig": "Uribatake\n「I heard he's got a girlfriend in Nouvelle Tokyo,\n　and he's looking for a job there.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Урибатакэ",
+   "text": "「У парня хорошее чутьё. Если и дальше будет так\n　учиться, станет отличным техником.」",
+   "orig": "Uribatake\n「He's got good sense, that kid. If he continues\n　training like he is, he'll become a great technician.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Сэцуна",
+   "text": "「Ясно.」",
+   "orig": "Setsuna\n「I see.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Найн",
+   "text": "「Ты говоришь это с радостью, Сэцуна.」",
+   "orig": "Nine\n「You sound happy, Setsuna.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Юрика",
+   "text": "「Хм.」",
+   "orig": "Yurika\n「Hm.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Найн",
+   "text": "「Что такое, Юрика?」",
+   "orig": "Nine\n「What's the matter, Yurika?」"
+  },
+  {
+   "i": 267,
+   "speaker": "Юрика",
+   "text": "「Ты напоминаешь мне Рури,\n　какой она была в детстве, Найн.」",
+   "orig": "Yurika\n「You remind me of Ruri when \n　she was younger, Nine.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Найн",
+   "text": "「Рада это слышать.\n　Мне бы очень хотелось быть похожей на капитана Рури.」",
+   "orig": "Nine\n「I'm happy to hear that.\n　I'd very much like to be like Captain Ruri.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Юрика",
+   "text": "「Тогда тебе нужно расширять кругозор.」",
+   "orig": "Yurika\n「Then you'll need to broaden your knowledge.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Юрика",
+   "text": "「Хочешь для начала пожить у нас с Акито,\n　как когда-то Рури?」",
+   "orig": "Yurika\n「Would you like to start by living with\n　Akito and me, like Ruri did?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Найн",
+   "text": "「Звучит заманчиво, но мне лучше избегать\n　слишком сильных впечатлений.」",
+   "orig": "Nine\n「Sounds nice, but I should avoid too much excitement.」"
+  }
+ ]
+}

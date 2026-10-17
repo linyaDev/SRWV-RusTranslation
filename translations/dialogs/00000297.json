@@ -1,0 +1,2602 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Калинин",
+   "text": "「Бойцов «Амальгамы», проникших на базу,\n　полностью вытеснили за пределы объекта, но теперь\n　они, судя по всему, разворачивают AS.」",
+   "orig": "Kalinin\n「The Amalgam troops who infiltrated the base\n　have all been driven out of the facility, but now\n　they're apparently deploying AS units.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Мардукас",
+   "text": "「Полагаете, им нужна Тидори?」",
+   "orig": "Mardukas\n「You think they're after Chidori?」"
+  },
+  {
+   "i": 2,
+   "speaker": "Тесса",
+   "text": "「Вполне возможно.」",
+   "orig": "Tessa\n「Could be.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Тесса",
+   "text": "「И для нас серьёзный удар уже то,\n　что они выяснили, где находится остров Мелида.」",
+   "orig": "Tessa\n「And it was a significant blow to us that the fact\n　that they found out where Melida Island is.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Мардукас",
+   "text": "「Мы уже вывозим с базы людей и ресурсы\n　со всей возможной скоростью.」",
+   "orig": "Mardukas\n「We're already moving personnel and resources\n　off the base as quickly as possible.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Тесса",
+   "text": "「Очень жаль,\n　но нам не остаётся ничего, кроме как оставить базу.」",
+   "orig": "Tessa\n「It's really a pity,\n　but we've got no choice but to abandon this base.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Тесса",
+   "text": "「И всё же они вот так прошлись сапогами\n　по нашему дому. Этого мы так не оставим.」",
+   "orig": "Tessa\n「Still, they just ran roughshod through\n　our home like that. We're not taking this lying down.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Мардукас",
+   "text": "「Так точно, мэм.」",
+   "orig": "Mardukas\n「Yes, ma'am.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Банагер",
+   "text": "（Одри...）",
+   "orig": "Banagher\n（Audrey...）"
+  },
+  {
+   "i": 9,
+   "speaker": "Джудо",
+   "text": "「Соберись, Банагер.」",
+   "orig": "Judau\n「Concentrate, Banagher.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Анж",
+   "text": "「С Одри сейчас мичман Ридде,\n　так что волноваться незачем.」",
+   "orig": "Ange\n「Ensign Riddhe is with Audrey,\n　so there's no need to worry.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Тобиа",
+   "text": "「Есть у меня чувство, что если сказать такое Банагеру,\n　то выйдет только хуже.」",
+   "orig": "Tobia\n「I get the feeling that if you say that to Banagher,\n　it just might backfire on you.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Атрун",
+   "text": "「Если ты ждёшь от Анж, что она подумает о других,\n　то это для неё попросту невозможно.」",
+   "orig": "Athrun\n「If you're asking Ange to consider for others,\n　that's just not possible for her.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Анж",
+   "text": "「Эй, я вообще-то всё слышу, Атрун.」",
+   "orig": "Ange\n「Um, I can hear you, Athrun.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Атрун",
+   "text": "「Ой, п-прости!」",
+   "orig": "Athrun\n「Oh, I-I'm sorry!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Анж",
+   "text": "「Да не пугайся ты.\n　Я не злюсь.」",
+   "orig": "Ange\n「No need to be frightened.\n　I'm not upset.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Вивиан",
+   "text": "「Анж, ты вроде в хорошем настроении.」",
+   "orig": "Vivian\n「Ange, you look like you're in a good mood.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Лунамария",
+   "text": "「Случилось что-то хорошее?」",
+   "orig": "Lunamaria\n「Did something good happen?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Анж",
+   "text": "「Ну, вроде того.」",
+   "orig": "Ange\n「Well, kind of.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Клузо",
+   "text": "「Они идут!\n　Всем подразделениям — быть начеку!」",
+   "orig": "Clouseau\n「They're coming!\n　All units, keep your guard up!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Соскэ",
+   "text": "「$kwb«Амальгама»$kwe здесь!」",
+   "orig": "Sousuke\n「$kwbAmalgam$kwe is here!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тиерия",
+   "text": "「«Амальгама»? Что это такое?」",
+   "orig": "Tieria\n「Amalgam? What's that?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Клузо",
+   "text": "「Частная вооружённая организация, как и «Мифрил».\n　И так же, как у нас, у них своя технология разработки\n　AS, и действуют они в тени.」",
+   "orig": "Clouseau\n「It's a private armed organization, like Mithril.\n　And like Mithril, they have their own AS development\n　technology, and they operate in the shadows.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Мао",
+   "text": "「Если мы — тайная организация добра,\n　то они — тайное общество зла.」",
+   "orig": "Mao\n「If we're a secret organization of justice\n　then they're a secret society of evil.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Майто",
+   "text": "「Такие и правда существуют?!」",
+   "orig": "Maito\n「People like that really exist?!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Курц",
+   "text": "「Да вдобавок ко всему\n　они ещё и снюхались с Нео-Зеоном!」",
+   "orig": "Kurz\n「And on top of that,\n　they're collaborating with Neo Zeon as well!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Соскэ",
+   "text": "「Их отряд разгромили в $kwbбитве за Гонконг$kwe,\n　но, похоже, урока они так и не усвоили.」",
+   "orig": "Sousuke\n「Their unit was trounced in the $kwbBattle of Hong Kong$kwe,\n　but I see they still haven't learned their lesson.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Гаурон",
+   "text": "「Сорную траву, как говорится, ничем не вытравишь.」",
+   "orig": "Gauron\n「Ill weeds grow apace, as they say.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Соскэ",
+   "text": "「Гаурон!」",
+   "orig": "Sousuke\n「Gauron!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Гейтс",
+   "text": "「В точку!\n　Повеселимся, болваны из «Мифрила»!」",
+   "orig": "Gates\n「You got it!\n　Let's have some fun, Mithril morons!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Мао",
+   "text": "「Эти чудики на AS из Гонконга тоже тут как тут!」",
+   "orig": "Mao\n「The weird AS guys who fought in Hong Kong are here too!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Курц",
+   "text": "「Вот же гад!\n　Я-то думал, Соскэ с тобой покончил,\n　а ты, оказывается, живёхонек!」",
+   "orig": "Kurz\n「That bastard!\n　Here I thought Sousuke took care of you,\n　and here you are, still alive!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Гейтс",
+   "text": "「Герои бессмертны.\n　Как и мои бакенбарды!」",
+   "orig": "Gates\n「Heroes are immortal.\n　And so are my sideburns!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Гейтс",
+   "text": "「Так, поехали!\n　Фан, Лан, вас это тоже касается!」",
+   "orig": "Gates\n「Okay, here we go!\n　Fan and Lan, that goes for you too!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Ю Фан",
+   "text": "「Хм...」",
+   "orig": "Yu Fan\n「Hmm...」"
+  },
+  {
+   "i": 35,
+   "speaker": "Ю Лан",
+   "text": "「М-м...」",
+   "orig": "Yu Lan\n「Mmm...」"
+  },
+  {
+   "i": 36,
+   "speaker": "Гейтс",
+   "text": "「Что-то вы не больно воодушевлены.\n　Погодите, вы всё ещё злитесь за Гонконг?」",
+   "orig": "Gates\n「You don't seem too enthusiastic.\n　Wait, are you still mad about Hong Kong?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Гейтс",
+   "text": "「Да, мы с мистером Эй-Джи\n　вас, котяток, и правда помучили, но скажите спасибо,\n　что мы вас хотя бы не прикончили.」",
+   "orig": "Gates\n「True, Mr. Ag and I\n　did torture you little kittens, but you should\n　be thankful that at least we didn't kill you.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Гаурон",
+   "text": "「Ты в последний раз лезешь\n　к моим драгоценным ученикам.」",
+   "orig": "Gauron\n「You've interfered with my precious students\n　for the last time.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Гейтс",
+   "text": "「Да-да, как скажете, профессор Гаурон.\n　Меня в любом случае куда больше интересует\n　тот белый AS, чем эти котятки.」",
+   "orig": "Gates\n「Yeah, yeah, whatever you say, Professor Gauron.\n　I am more interested in that white AS\n　than in those kittens anyway.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Гаурон",
+   "text": "「Какая жалость.\n　Меня тоже.」",
+   "orig": "Gauron\n「What a pity.\n　The same goes for me.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Клузо",
+   "text": "「У «Амальгамы» тоже есть машины с Лямбда-драйвером!\n　С ними нужно быть крайне осторожными!」",
+   "orig": "Clouseau\n「Amalgam has Lambda Driver-equipped units too!\n　You have to be careful with those guys!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Синн",
+   "text": "「Та самая система, что стоит\n　на «Арбалесте» Соскэ!」",
+   "orig": "Shinn\n「That system that Sousuke's Arbalest\n　is equipped with!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Анж",
+   "text": "「Не верится, что нам придётся драться против таких!」",
+   "orig": "Ange\n「I can't believe we're fighting against those!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Тесса",
+   "text": "「Всем подразделениям — атаковать «Амальгаму»!\n　Пусть они на себе почувствуют нашу силу\n　и нашу решимость их остановить!」",
+   "orig": "Tessa\n「All units, attack Amalgam!\n　Let's give 'em a taste of our power\n　and our determination to hold them off!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Соскэ",
+   "text": "「Гаурон!\n　Тидори я таким, как ты, нипочём не отдам!」",
+   "orig": "Sousuke\n「Gauron!\n　No way am I giving Chidori to the likes of you!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Отто",
+   "text": "「«Дельта Плюс» мичмана Ридде!」",
+   "orig": "Otto\n「Ensign Riddhe's Delta Plus!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Одри",
+   "text": "「Ридде!」",
+   "orig": "Audrey\n「Riddhe!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Ридде",
+   "text": "「Знаю!」",
+   "orig": "Riddhe\n「I know!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Отто",
+   "text": "「Мичман Ридде, куда это вы собрались?」",
+   "orig": "Otto\n「Ensign Riddhe, where do you think you're going?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Ридде",
+   "text": "「Прошу прощения!\n　Мне пора отсюда убираться!」",
+   "orig": "Riddhe\n「My apologies!\n　It's time I got out of here!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!\n　Какого чёрта—」",
+   "orig": "Banagher\n「Ensign Riddhe!\n　What the hell—」"
+  },
+  {
+   "i": 52,
+   "speaker": "Одри",
+   "text": "「Это я его попросила.」",
+   "orig": "Audrey\n「I asked him to do this.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Джудо",
+   "text": "「Одри тоже там?!」",
+   "orig": "Judau\n「Audrey is there too?!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Хатауэй",
+   "text": "「Зачем ты это делаешь?」",
+   "orig": "Hathaway\n「Why are you doing this?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Одри",
+   "text": "「Сейчас я не могу об этом говорить.」",
+   "orig": "Audrey\n「I can't talk about it right now.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Одри",
+   "text": "「Но я действую ради того,\n　чтобы исполнить свой долг.」",
+   "orig": "Audrey\n「But I'm taking action in order\n　to fulfill my obligation.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Анж",
+   "text": "「Эта девушка... а ведь она, пожалуй—」",
+   "orig": "Ange\n「That girl, she just might be—」"
+  },
+  {
+   "i": 58,
+   "speaker": "Отто",
+   "text": "「Мичман Ридде!\n　Вы что же, позволили гражданской женщине\n　сманить вас в дезертирство под огнём противника?」",
+   "orig": "Otto\n「Ensign Riddhe!\n　Have you actually been enticed by a civilian woman\n　into deserting in the face of enemy fire?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Банагер",
+   "text": "「Одри!\n　Почему ты ничего мне не сказала?」",
+   "orig": "Banagher\n「Audrey!\n　Why didn't you say anything to me?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Одри",
+   "text": "「Времени больше не осталось.」",
+   "orig": "Audrey\n「There's no more time left.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Одри",
+   "text": "「Летите, мичман Ридде.」",
+   "orig": "Audrey\n「Go, Ensign Riddhe.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Ридде",
+   "text": "「Я доставлю тебя к твоему отцу во что бы то ни стало.」",
+   "orig": "Riddhe\n「I'll take you to your father no matter what.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Ридде",
+   "text": "「Хотя бы ради того, чтобы помочь закончить эту войну.」",
+   "orig": "Riddhe\n「If for no other reason than to help end this war.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Михиро",
+   "text": "「Связь с «Дельта Плюс» потеряна!」",
+   "orig": "Mihiro\n「We've lost communication with the Delta Plus!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Отто",
+   "text": "「Как такое возможно?」",
+   "orig": "Otto\n「How could that be?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Банагер",
+   "text": "「Одри...」",
+   "orig": "Banagher\n「Audrey...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Кира",
+   "text": "「Долг, о котором она говорила.」",
+   "orig": "Kira\n「The obligation she mentioned.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Соскэ",
+   "text": "「А мичман ещё упомянул, что хочет закончить войну.」",
+   "orig": "Sousuke\n「And the Ensign also mentioned ending the war.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Амуро",
+   "text": "「Что это за чувство?」",
+   "orig": "Amuro\n「What's this feeling I'm getting?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Рёма",
+   "text": "「Что такое, Амуро?!」",
+   "orig": "Ryoma\n「What is it, Amuro?!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Амуро",
+   "text": "「Всем быть начеку!\n　Что-то приближается!」",
+   "orig": "Amuro\n「Just be careful!\n　Something's coming!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Салия",
+   "text": "「Оно идёт сверху！」",
+   "orig": "Salia\n「It's coming from above！」"
+  },
+  {
+   "i": 73,
+   "speaker": "？？？",
+   "text": "「Хех.\n　Напоминает Джабуро.」",
+   "orig": "？？？\n「Heh.\n　Reminds me of Jaburo.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Амуро",
+   "text": "「Что?!」",
+   "orig": "Amuro\n「What?!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Тобиа",
+   "text": "「Красный мобильный доспех?」",
+   "orig": "Tobia\n「A red mobile suit?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Джудо",
+   "text": "「Это наверняка Чар Азнабль!」",
+   "orig": "Judau\n「It must be Char Aznable!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Альберто",
+   "text": "「Это же «Синанджу»!」",
+   "orig": "Alberto\n「That's a Sinanju!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Отто",
+   "text": "「Альберто, тебе о нём что-то известно?」",
+   "orig": "Otto\n「Alberto, you know about this?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Альберто",
+   "text": "「Это машина с психорамой, которую «Анахайм»\n　разработал ещё до «Юникорна»!」",
+   "orig": "Alberto\n「It's the Psychoframe-equipped unit\n　that Anaheim developed before the Unicorn!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Альберто",
+   "text": "「Похоже, её кое-где доработали, но чтобы её отдали\n　Чару Азнаблю — в это просто не верится!」",
+   "orig": "Alberto\n「It looks like they made some modifications to it,\n　but I can't believe they made it Char Aznable's unit!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Амуро",
+   "text": "「Постойте!」",
+   "orig": "Amuro\n「Hold on!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Амуро",
+   "text": "「За штурвалом этой машины не Чар!」",
+   "orig": "Amuro\n「That's not Char piloting that unit!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Хатауэй",
+   "text": "「Амуро!」",
+   "orig": "Hathaway\n「Amuro!」"
+  },
+  {
+   "i": 84,
+   "speaker": "？？？",
+   "text": "「Так и знал, что тебя не провести.」",
+   "orig": "？？？\n「I knew I couldn't fool you.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Амуро",
+   "text": "「Так кто же ты такой?」",
+   "orig": "Amuro\n「So who exactly are you?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Фронталь",
+   "text": "「Моё имя — Фулл Фронталь.\n　Я командующий Нео-Зеона.」",
+   "orig": "Frontal\n「The name's Full Frontal.\n　I'm the Neo Zeon Commander.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Фронталь",
+   "text": "「Меня зовут Красной кометой.」",
+   "orig": "Frontal\n「They call me the Red Comet.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Банагер",
+   "text": "「Командующий Нео-Зеона? Красная комета?」",
+   "orig": "Banagher\n「Neo Zeon Commander? Red Comet?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Амуро",
+   "text": "「Раз Нео-Зеон лишился Чара, они наверняка\n　подсунули двойника, чтобы нас запутать.」",
+   "orig": "Amuro\n「Now that Neo Zeon has lost Char, I bet they're\n　using a body double to try to confuse us.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Фронталь",
+   "text": "「Если тебе угодно так думать — думай.」",
+   "orig": "Frontal\n「If that's what you want to think, go ahead.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Фронталь",
+   "text": "「Сила, именуемая Красной кометой,\n　воодушевляет союзников и вселяет ужас во врагов.」",
+   "orig": "Frontal\n「The force known as the Red Comet\n　energizes his allies and terrifies his enemies.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Фронталь",
+   "text": "「Эту роль исполняю я. Если угодно, я сосуд,\n　несущий в себе чаяния людей.」",
+   "orig": "Frontal\n「I'm the one who fulfills that role. I'm a vessel\n　that carries people's expectations, if you will.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Фронталь",
+   "text": "「И я убеждён, что у меня есть сила,\n　чтобы это подкрепить.」",
+   "orig": "Frontal\n「And I'm convinced that I have the power\n　to back that up.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Джудо",
+   "text": "「Да ты нам здорово услужил, сам признавшись,\n　что ты подделка!」",
+   "orig": "Judau\n「Well you're doing us a big favor by admitting\n　that you're a fraud!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Фронталь",
+   "text": "「На твоём месте я бы не был так уверен!」",
+   "orig": "Frontal\n「I wouldn't be so sure of that if I were you!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Джудо",
+   "text": "「Что?」",
+   "orig": "Judau\n「What?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Амуро",
+   "text": "「Нео-Зеон отдан под его начало. И теперь, когда он\n　раскрыл, кто он есть, всё это теряет смысл.」",
+   "orig": "Amuro\n「Neo Zeon has been placed under his leadership.\n　It's meaningless now that he revealed his true identity.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Амуро",
+   "text": "「Заходить так далеко в подражании Чару —\n　роковая ошибка!」",
+   "orig": "Amuro\n「Going to this far to imitate Char\n　will prove a fatal mistake!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Фронталь",
+   "text": "「Амуро, если ты о том, что я вышел\n　на передовую, то твоя наивность меня смешит.」",
+   "orig": "Frontal\n「Amuro, if you're talking about me appearing\n　on the front line, I've got to laugh at your naivety.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Амуро",
+   "text": "「Твоя манера говорить\n　уже действует мне на нервы!」",
+   "orig": "Amuro\n「The way you talk,\n　it's really getting on my nerves!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Отто",
+   "text": "「Если командующий сам впереди — он нам же и помог!」",
+   "orig": "Otto\n「If the Commander's out front, he's doing us a favor!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Отто",
+   "text": "「Эти остолопы-вожди Зеона ничему не учатся.\n　Разделаемся с ним, как обычно.」",
+   "orig": "Otto\n「These moronic Zeon leaders never learn.\n　Let's hand this guy a defeat in the usual way.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Джудо",
+   "text": "「Бей по голове — фирменный прорыв «Гандама» в одну точку!\n　Этот приём снова принесёт нам победу!」",
+   "orig": "Judau\n「Attack his head using the Gundam one-point breakthrough!\n　Let's ride this technique to victory once again!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Фронталь",
+   "text": "「Уверен, что справишься?\n　Что ж, попробуй — на мне и моём верном «Синанджу».」",
+   "orig": "Frontal\n「Are you sure you can?\n　Go ahead and try it on me and my trusty Sinanju.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Амуро",
+   "text": "「Хмф...」",
+   "orig": "Amuro\n「Hmph...」"
+  },
+  {
+   "i": 106,
+   "speaker": "Фронталь",
+   "text": "「Новый «Гандам», о котором говорилось в донесении\n　лейтенанта Мариды, тоже здесь.」",
+   "orig": "Frontal\n「The new Gundam that was mentioned in the report\n　from Lieutenant Marida is here too.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Фронталь",
+   "text": "「Что ж, тогда начнём с него.」",
+   "orig": "Frontal\n「Okay then, let's start with that guy.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Амуро",
+   "text": "「Уходи оттуда, Банагер!」",
+   "orig": "Amuro\n「Get out of there, Banagher!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Банагер",
+   "text": "（Одри, почему?）",
+   "orig": "Banagher\n（Audrey, why?）"
+  },
+  {
+   "i": 110,
+   "speaker": "Джудо",
+   "text": "「Банагер!」",
+   "orig": "Judau\n「Banagher!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Банагер",
+   "text": "「А-а!」",
+   "orig": "Banagher\n「Whoa!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Фронталь",
+   "text": "「Слишком поздно!」",
+   "orig": "Frontal\n「It's too late for that!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Банагер",
+   "text": "「А-а-а!」",
+   "orig": "Banagher\n「Waaa!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Сэцуна",
+   "text": "「Дело плохо!」",
+   "orig": "Setsuna\n「This is bad!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Фронталь",
+   "text": "「Это же—」",
+   "orig": "Frontal\n「This is—」"
+  },
+  {
+   "i": 116,
+   "speaker": "Альберто",
+   "text": "「Ого!\n　Режим Дестрой снова активировался!」",
+   "orig": "Alberto\n「Whoa!\n　Destroy Mode has been activated again!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Отто",
+   "text": "「Заставил Красную комету отступить. Впечатляет!」",
+   "orig": "Otto\n「Got the Red Comet to back off. Very impressive!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Сэцуна",
+   "text": "「Нет, нет!」",
+   "orig": "Setsuna\n「No, no!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Канамэ",
+   "text": "「Все!\n　Остановите Банагера! Остановите этот «Юникорн»!」",
+   "orig": "Kaname\n「Everyone!\n　Stop Banagher! Stop that Unicorn!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Соскэ",
+   "text": "「Тидори!」",
+   "orig": "Sousuke\n「Chidori!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Канамэ",
+   "text": "「Псикоммю искажает человеческий разум.」",
+   "orig": "Kaname\n「The Psycommu warps people's minds.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Банагер",
+   "text": "「А-а-а-а!」",
+   "orig": "Banagher\n「Aaahh!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Майто",
+   "text": "「Ты стрелял в Джудо?!」",
+   "orig": "Maito\n「You shot Judau?!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Джудо",
+   "text": "「Что ты творишь, Банагер?!」",
+   "orig": "Judau\n「What are you doing, Banagher?!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Сэцуна",
+   "text": "「Бесполезно!\n　Наши голоса до него не доходят!」",
+   "orig": "Setsuna\n「It's no use!\n　Our voices aren't reaching him!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Кинкейд",
+   "text": "「Что это значит?!」",
+   "orig": "Kincade\n「What does that mean?!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Отто",
+   "text": "「Альберто!」",
+   "orig": "Otto\n「Alberto!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Альберто",
+   "text": "「Этого парня поглотила система NT-D!」",
+   "orig": "Alberto\n「That kid, he's been assimilated into the NT-D System!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Отто",
+   "text": "「Что?!」",
+   "orig": "Otto\n「What?!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Альберто",
+   "text": "「«Юникорн» — опытная машина с психорамой\n　и одновременно средство борьбы с ньютайпами.」",
+   "orig": "Alberto\n「The Unicorn is a Psychoframe experimental unit,\n　and at the same time it's an anti-Newtype machine.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Альберто",
+   "text": "「Система NT-D запускается от психоволн,\n　что излучают ньютайпы и искусственные ньютайпы.」",
+   "orig": "Alberto\n「The NT-D System is activated by the psychowaves\n　emitted by Newtypes and Artificial Newtypes.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Альберто",
+   "text": "「И тогда она сама идёт уничтожать вражеские\n　машины прямо перед собой — то есть ньютайпов.」",
+   "orig": "Alberto\n「I'm gonna take action to eliminate the\n　enemy units right in front of me—the Newtypes.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Амуро",
+   "text": "「Что сейчас с Банагером?」",
+   "orig": "Amuro\n「What's Banagher's status right now?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Альберто",
+   "text": "「Скорее всего, он потерял сознание\n　от обратной связи псикоммю и стал\n　частью системы NT-D.」",
+   "orig": "Alberto\n「Most likely he lost consciousness from the\n　Psycommu feedback, and has become part\n　of the NT-D System.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Альберто",
+   "text": "「Эта штука — машина для убийства ньютайпов.」",
+   "orig": "Alberto\n「This thing is a machine that kills Newtypes.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Ру",
+   "text": "「Погодите-ка!\n　И такое отправили в «Лондо Белл»?」",
+   "orig": "Roux\n「Wait a minute!\n　Something like that was sent to Londo Bell?」"
+  },
+  {
+   "i": 137,
+   "speaker": "Амуро",
+   "text": "「Верхушка сил Федерации\n　презирает ньютайпов.」",
+   "orig": "Amuro\n「The high-ups in the Federation Force\n　despise the Newtypes.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Амуро",
+   "text": "「«Юникорн» — оружие против Нео-Зеона, но, похоже,\n　его настроили так, чтобы при случае он бил\n　и по ньютайпам «Лондо Белл».」",
+   "orig": "Amuro\n「The Unicorn is an anti-Neo Zeon weapon,\n　but it's probably also configured to attack\n　Londo Bell Newtypes in some cases.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Амуро",
+   "text": "「Система включилась, когда\n　душевное состояние Банагера пошатнулось!」",
+   "orig": "Amuro\n「It became activated when\n　Banagher's mental state became unstable!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Фронталь",
+   "text": "「Величайшая боевая сила, что пытается уничтожить себя.\n　Как Федерация может быть настолько глупа?」",
+   "orig": "Frontal\n「The supreme fighting force trying to destroy itself.\n　How could the Federation be this stupid?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Амуро",
+   "text": "「Фулл Фронталь!」",
+   "orig": "Amuro\n「Full Frontal!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Фронталь",
+   "text": "「Схватка «Гандама» с машиной, что истребляет\n　ньютайпов на полной психораме.\n　Кто бы ни победил — мы в выигрыше.」",
+   "orig": "Frontal\n「A clash between a Gundam and a machine\n　that butchers Full Psychoframe Newtypes.\n　Whichever one wins, we come out ahead.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Фронталь",
+   "text": "「Пока отступаем, лейтенант Марида.\n　Задержимся — обоим достанется шальным огнём.」",
+   "orig": "Frontal\n「Let's retreat for now, Lieutenant Marida.\n　If we stick around, we'll both catch stray fire.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Марида",
+   "text": "「Принято.」",
+   "orig": "Marida\n「Roger.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Хатауэй",
+   "text": "「Фулл Фронталь отступает!」",
+   "orig": "Hathaway\n「Full Frontal is retreating!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Амуро",
+   "text": "「Сейчас не до него!\n　Главное — остановить «Юникорн»!」",
+   "orig": "Amuro\n「Don't worry about that!\n　Right now we've got to stop the Unicorn!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Мао",
+   "text": "「Остановить его?」",
+   "orig": "Mao\n「Stop it?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Курц",
+   "text": "「Это чудовище заставило отступить саму Красную комету!」",
+   "orig": "Kurz\n「That monster's gotten even the Red Comet to back off!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Отто",
+   "text": "「Альберто, положение безнадёжное?!」",
+   "orig": "Otto\n「Alberto, is the situation hopeless?!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Альберто",
+   "text": "「Если считать по предельному времени работы режима\n　Дестрой, он должен отключиться через три минуты.」",
+   "orig": "Alberto\n「Considering the maximum operating time of Destroy Mode,\n　it should be shutting off in three minutes.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Альберто",
+   "text": "「Меня больше волнует, не получит ли мозг Банагера Линкса\n　критических повреждений от обратного тока псикоммю.」",
+   "orig": "Alberto\n「I'm mainly wondering if Banagher Links's brain is gonna\n　sustain critical damage from the Psycommu's back current.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Амуро",
+   "text": "「Случится то же, что и с Камием?!」",
+   "orig": "Amuro\n「Will the same thing happen as with Kamille?!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Джудо",
+   "text": "「Мы не можем этого допустить!」",
+   "orig": "Judau\n「We can't let that happen!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Тобиа",
+   "text": "「Джудо!」",
+   "orig": "Tobia\n「Judau!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Джудо",
+   "text": "「Перво-наперво остановим «Юникорн»!」",
+   "orig": "Judau\n「First of all, let's stop the Unicorn!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Каппэй",
+   "text": "「Но Банагер наверняка\n　будет охотиться именно за Джудо!」",
+   "orig": "Kappei\n「But you can bet that Banagher\n　is gonna be gunning for Judau!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Джудо",
+   "text": "「Я буду приманкой и оттяну Банагера на себя!\n　А вы все идите и остановите «Юникорн»!」",
+   "orig": "Judau\n「I'll act as a decoy and draw Banagher in!\n　All of you go and stop the Unicorn!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Тобиа",
+   "text": "「Понял!\n　Будь осторожен, Джудо!」",
+   "orig": "Tobia\n「Got it!\n　Be careful, Judau!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Синн",
+   "text": "「Я ни за что не проиграю машине,\n　что сковывает человеческие души!」",
+   "orig": "Shinn\n「No way am I losing to a machine\n　that ties up men's souls!」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Не цельтесь в кокпит! Сказать потом, что это была\n　ошибка, уже не получится!」",
+   "orig": "$n\n「Don't aim for the cockpit! Just by saying you\n　made a mistake after the fact isn't gonna fly!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Кира",
+   "text": "「Я справлюсь!」",
+   "orig": "Kira\n「I'll get the job done!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Тесса",
+   "text": "「Предел — три минуты!\n　Остановите «Юникорн» до этого срока!」",
+   "orig": "Tessa\n「The time limit is three minutes!\n　Stop the Unicorn before then!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Отто",
+   "text": "「И не забывайте про Нео-Зеон!」",
+   "orig": "Otto\n「And don't forget to engage Neo Zeon!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Хатауэй",
+   "text": "「Банагер, держись!」",
+   "orig": "Hathaway\n「Banagher, hang tough!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Джудо",
+   "text": "「Мы идём тебя спасать!」",
+   "orig": "Judau\n「We're coming to save you!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Хатауэй",
+   "text": "「Фулл Фронталь отступает!」",
+   "orig": "Hathaway\n「Full Frontal is retreating!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Амуро",
+   "text": "「Сейчас не до него!\n　Главное — остановить «Юникорн»!」",
+   "orig": "Amuro\n「Don't worry about that!\n　Right now we've got to stop the Unicorn!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Мао",
+   "text": "「Остановить?」",
+   "orig": "Mao\n「Stop it?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Курц",
+   "text": "「Это чудовище заставило отступить даже Красную комету!」",
+   "orig": "Kurz\n「That monster's gotten even the Red Comet to back off!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Отто",
+   "text": "「Альберто, положение безнадёжное?!」",
+   "orig": "Otto\n「Alberto, is the situation hopeless?!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Альберто",
+   "text": "「Если считать по предельному времени работы\n　режима «Дестрой», он отключится через три минуты.」",
+   "orig": "Alberto\n「Considering the maximum operating time of Destroy Mode,\n　it should be shutting off in three minutes.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Альберто",
+   "text": "「Меня больше волнует, не получит ли мозг Банагера Линкса\n　критических повреждений от обратного тока псикоммю.」",
+   "orig": "Alberto\n「I'm mainly wondering if Banagher Links's brain is gonna\n　sustain critical damage from the Psycommu's back current.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Амуро",
+   "text": "「С ним случится то же, что и с Камием?!」",
+   "orig": "Amuro\n「Will the same thing happen as with Kamille?!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Джудо",
+   "text": "「Мы не можем этого допустить!」",
+   "orig": "Judau\n「We can't let that happen!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Тобиа",
+   "text": "「Джудо!」",
+   "orig": "Tobia\n「Judau!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Джудо",
+   "text": "「Для начала остановим «Юникорн»!」",
+   "orig": "Judau\n「First of all, let's stop the Unicorn!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Каппэй",
+   "text": "「Но будь уверен — Банагер\n　будет охотиться именно за Джудо!」",
+   "orig": "Kappei\n「But you can bet that Banagher\n　is gonna be gunning for Judau!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Джудо",
+   "text": "「Я буду приманкой и отвлеку Банагера!\n　Остальные — остановите «Юникорн»!」",
+   "orig": "Judau\n「I'll act as a decoy and draw Banagher in!\n　All of you go and stop the Unicorn!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Тобиа",
+   "text": "「Понял!\n　Будь осторожен, Джудо!」",
+   "orig": "Tobia\n「Got it!\n　Be careful, Judau!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Синн",
+   "text": "「Я ни за что не проиграю машине,\n　которая сковывает души людей!」",
+   "orig": "Shinn\n「No way am I losing to a machine\n　that ties up men's souls!」"
+  },
+  {
+   "i": 181,
+   "speaker": "$n",
+   "text": "「Не цельтесь в кокпит! Сказать потом, что\n　ошибся, — такое уже не прокатит!」",
+   "orig": "$n\n「Don't aim for the cockpit! Just by saying you\n　made a mistake after the fact isn't gonna fly!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Кира",
+   "text": "「Я справлюсь!」",
+   "orig": "Kira\n「I'll get the job done!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Тесса",
+   "text": "「У нас всего три минуты!\n　Остановите «Юникорн» до этого срока!」",
+   "orig": "Tessa\n「The time limit is three minutes!\n　Stop the Unicorn before then!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Отто",
+   "text": "「И про Нео-Зеон забывать тоже нельзя!」",
+   "orig": "Otto\n「And don't forget to engage Neo Zeon!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Хатауэй",
+   "text": "「Банагер, держись!」",
+   "orig": "Hathaway\n「Banagher, hang tough!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Джудо",
+   "text": "「Мы идём тебя спасать!」",
+   "orig": "Judau\n「We're coming to save you!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Соскэ",
+   "text": "「Мы успели?」",
+   "orig": "Sousuke\n「Did we get here in time?」"
+  },
+  {
+   "i": 188,
+   "speaker": "Кинкейд",
+   "text": "「Остановите «Юникорн», пока не поздно!」",
+   "orig": "Kincade\n「Stop the Unicorn before it's too late!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джудо",
+   "text": "「Иду!\n　Банагер!」",
+   "orig": "Judau\n「I'm going in!\n　Banagher!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Банагер",
+   "text": "「А-а-а!」",
+   "orig": "Banagher\n「Ahhh!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Хатауэй",
+   "text": "「Банагер!」",
+   "orig": "Hathaway\n「Banagher!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Джудо",
+   "text": "「Чёрт!\n　Он всё ещё может двигаться!」",
+   "orig": "Judau\n「Damn it!\n　It can still move!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Ру",
+   "text": "「Осторожно, Джудо!\n　Что-то приближается!」",
+   "orig": "Roux\n「Be careful, Judau!\n　Something's coming!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Тэцуя",
+   "text": "「Красная комета!\n　И «Квад-Винг» здесь же!」",
+   "orig": "Tetsuya\n「The Red Comet!\n　And the Quad-Wing is here too!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Рёма",
+   "text": "「Чёрт!\n　Вернулся в самый неподходящий момент!」",
+   "orig": "Ryoma\n「Damn it!\n　It's back at the worst possible time!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Марида",
+   "text": "「Командир!\n　Этот «Гандам» я беру на себя!」",
+   "orig": "Marida\n「Commander!\n　I'll handle that Gundam!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Фронталь",
+   "text": "「Хорошо, Марида.」",
+   "orig": "Frontal\n「Alright, Marida.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Джудо",
+   "text": "「Давай, покажи, на что способна!」",
+   "orig": "Judau\n「Go ahead, do your worst!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Марида",
+   "text": "「Значит, будешь мне мешать?」",
+   "orig": "Marida\n「Get in my way, will ya?」"
+  },
+  {
+   "i": 200,
+   "speaker": "Тобиа",
+   "text": "「Джудо!」",
+   "orig": "Tobia\n「Judau!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Джудо",
+   "text": "「Столько я выдержу без проблем!\n　Я привык иметь дело с фаннелами!」",
+   "orig": "Judau\n「This much I can take no problem!\n　I'm used to dealing with funnels!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Банагер",
+   "text": "「А-а-а!」",
+   "orig": "Banagher\n「Ahhh!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Джудо",
+   "text": "「Гх!」",
+   "orig": "Judau\n「Ugh!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Элль",
+   "text": "「Чёрт!\n　Банагер, прекрати!」",
+   "orig": "Elle\n「Damn it!\n　Banagher, stop that!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Бича",
+   "text": "「Джудо же пытается тебя спасти!」",
+   "orig": "Beecha\n「Judau is trying to save you!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Амуро",
+   "text": "「Джудо, уходи оттуда!\n　Банагеру уже не помочь!」",
+   "orig": "Amuro\n「Judau, get out of there!\n　Banagher is already done for!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Джудо",
+   "text": "「Я отказываюсь в это верить!」",
+   "orig": "Judau\n「I refuse to accept that!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Джудо",
+   "text": "「Банагер, очнись!\n　Не дай машине, «Гандаму», сломить себя!」",
+   "orig": "Judau\n「Banagher, wake up!\n　Don't let the machine, the Gundam, get the best of you!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Амуро",
+   "text": "「Брось это, Джудо!\n　Если психорама выйдет из-под контроля,\n　неизвестно, чем всё кончится!」",
+   "orig": "Amuro\n「Give it up, Judau!\n　If the Psychoframe runs wild\n　there's no telling what'll happen!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Джудо",
+   "text": "「Чего вы так боитесь, командир Амуро?!」",
+   "orig": "Judau\n「What are you so afraid of, Commander Amuro?!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Амуро",
+   "text": "「Я? Боюсь психорамы?」",
+   "orig": "Amuro\n「Me? Afraid of the Psychoframe?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Джудо",
+   "text": "「Люди, увидевшие тот свет,\n　выложились до конца, чтобы остановить Аксис,\n　и Хатауэй снова стал собой!」",
+   "orig": "Judau\n「The people who saw that light\n　gave their all to stop Axis,\n　and Hathaway regained control of himself!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Джудо",
+   "text": "「Любая сила зависит от того, кто ею пользуется!\n　Поэтому мы не имеем права проигрывать!」",
+   "orig": "Judau\n「All power depends on the person using it!\n　So we can't allow ourselves to be defeated!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Марида",
+   "text": "「Джудо Ашта!\n　Сначала ты!」",
+   "orig": "Marida\n「Judau Ashta!\n　You first!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Джудо",
+   "text": "「Посмотрим, на что ты способна!」",
+   "orig": "Judau\n「Let's see what you've got!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Марида",
+   "text": "「Эта сила… Что это за сила?!」",
+   "orig": "Marida\n「This force— What is this force?!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Фронталь",
+   "text": "「Мариду подавляют?」",
+   "orig": "Frontal\n「Is Marida becoming overwhelmed?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Банагер",
+   "text": "「Гх, а-а-а!」",
+   "orig": "Banagher\n「Ugh, aaahhh!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Хатауэй",
+   "text": "「Джудо!\n　Банагер приближается!」",
+   "orig": "Hathaway\n「Judau!\n　Banagher is coming!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Джудо",
+   "text": "「А теперь я займусь тобой, Банагер!」",
+   "orig": "Judau\n「Now I'll take care of you, Banagher!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Амуро",
+   "text": "「Бесполезно! Даже огневой мощи «Дабл-Зеты»\n　против поля «Юникорна» не хватит—」",
+   "orig": "Amuro\n「It's no use! Even with the firepower\n　of the Double Zeta, the Unicorn's field is—」"
+  },
+  {
+   "i": 222,
+   "speaker": "Джудо",
+   "text": "「Но пока не попробуешь —\n　ничего и не узнаешь!」",
+   "orig": "Judau\n「But you'll never know\n　unless you try!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Канамэ",
+   "text": "「Соскэ!\n　Помоги Джудо!」",
+   "orig": "Kaname\n「Sousuke!\n　Give Judau a hand!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Соскэ",
+   "text": "「Я?!」",
+   "orig": "Sousuke\n「Me?!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Канамэ",
+   "text": "「У тебя получится!\n　Лямбда-драйвер — именно такая система!」",
+   "orig": "Kaname\n「You can do it!\n　That's the kind of system the Lambda Driver is!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Тесса",
+   "text": "「Сержант Сагара!\n　Выполняйте приказ Канамэ!」",
+   "orig": "Tessa\n「Sergeant Sagara!\n　Follow Kaname's orders!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Соскэ",
+   "text": "（Способности Тидори как $kwbШептуньи$kwe\n　не раз выручали нас в прошлом.\n　Выручат и в будущем.）",
+   "orig": "Sousuke\n（Chidori's $kwbWhispered$kwe has been there\n　for us in the past.\n　And it'll be there for us in the future as well.）"
+  },
+  {
+   "i": 228,
+   "speaker": "Соскэ",
+   "text": "「Есть!」",
+   "orig": "Sousuke\n「Roger!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Джудо",
+   "text": "「Соскэ!」",
+   "orig": "Judau\n「Sousuke!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Соскэ",
+   "text": "「Ал!\n　Задействуем Лямбда-драйвер!」",
+   "orig": "Sousuke\n「Al!\n　We'll use the Lambda Driver!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Джудо",
+   "text": "「Что происходит?\n　Мощность «Дабл-Зеты» растёт!」",
+   "orig": "Judau\n「What's going on?\n　The Double Zeta's output is rising!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Амуро",
+   "text": "「Она откликнулась на Лямбда-драйвер?」",
+   "orig": "Amuro\n「Did it respond to the Lambda Driver?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Джудо",
+   "text": "「Ну всё, получай!」",
+   "orig": "Judau\n「That does it!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Пуру Два",
+   "text": "「Давай, Джудо!」",
+   "orig": "Ple Two\n「Go for it, Judau!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Пуру",
+   "text": "「«Дабл-Зету» ты так просто не забудешь!」",
+   "orig": "Ple\n「You won't soon forget the Double Zeta!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Джудо",
+   "text": "「Уоо!」",
+   "orig": "Judau\n「Whoa!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Банагер",
+   "text": "「Гх!」",
+   "orig": "Banagher\n「Ugh!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Джудо",
+   "text": "「Видел, Банагер?\n　Вот она, сила «Гандама»!」",
+   "orig": "Judau\n「Did you see that, Banagher?\n　That's Gundam power!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Джудо",
+   "text": "「Если выкладываешься, «Гандам» отвечает тебе!\n　Так что проигрывать нам нельзя!」",
+   "orig": "Judau\n「If we put in the effort, the Gundam responds!\n　So failure isn't an option!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Хатауэй",
+   "text": "「Банагер, очнись!」",
+   "orig": "Hathaway\n「Banagher, wake up!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Сэцуна",
+   "text": "「«Гандам» откликнется…」",
+   "orig": "Setsuna\n「The Gundam will respond...」"
+  },
+  {
+   "i": 242,
+   "speaker": "Сэцуна",
+   "text": "「Вот оно!\n　Это сила «Гандама», а я и сам — «Гандам»!」",
+   "orig": "Setsuna\n「That's it!\n　That's Gundam power, and I'm a Gundam too!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Тиерия",
+   "text": "「Сэцуна!\n　Самое время призвать силу «Кванты»!」",
+   "orig": "Tieria\n「Setsuna!\n　Now's the time to use the power of the Quanta!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Сэцуна",
+   "text": "「Уоо!」",
+   "orig": "Setsuna\n「Whoa!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Пьерис",
+   "text": "「Это—!」",
+   "orig": "Peries\n「This is—!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Аллилуйя",
+   "text": "「GN-частицы заполняют всё пространство!」",
+   "orig": "Allelujah\n「GN particles are filling the space!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Амуро",
+   "text": "「Это чувство, оно—」",
+   "orig": "Amuro\n「This feeling, it's—」"
+  },
+  {
+   "i": 248,
+   "speaker": "Фронталь",
+   "text": "「Вернись на позицию, Марида!」",
+   "orig": "Frontal\n「Get back in position, Marida!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Марида",
+   "text": "「Е-есть.」",
+   "orig": "Marida\n「Y-yes, sir.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Пуру",
+   "text": "「Мм…」",
+   "orig": "Ple\n「Hmm...」"
+  },
+  {
+   "i": 251,
+   "speaker": "Пуру Два",
+   "text": "「Хм…」",
+   "orig": "Ple Two\n「Hmph...」"
+  },
+  {
+   "i": 252,
+   "speaker": "Ру",
+   "text": "「Пле, Пуру Два, что с вами?」",
+   "orig": "Roux\n「Ple, Ple Two, what's the matter?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Пуру",
+   "text": "「Я и сама не понимаю.」",
+   "orig": "Ple\n「I'm not sure.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Пуру Два",
+   "text": "「Это чувство… что это такое?」",
+   "orig": "Ple Two\n「This feeling, what is it?」"
+  },
+  {
+   "i": 255,
+   "speaker": "Джудо",
+   "text": "（Значит, вы обе тоже\n　что-то почувствовали в этой Мариде?）",
+   "orig": "Judau\n（So the two of you also\n　felt something from that Marida, eh?）"
+  },
+  {
+   "i": 256,
+   "speaker": "Отто",
+   "text": "「Джудо!\n　Веди «Юникорн» сюда!」",
+   "orig": "Otto\n「Judau!\n　Bring in the Unicorn!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Банагер",
+   "text": "「В этом нет нужды.」",
+   "orig": "Banagher\n「That won't be necessary.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Хатауэй",
+   "text": "「Банагер!」",
+   "orig": "Hathaway\n「Banagher!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Джудо",
+   "text": "「Ты научился управлять режимом «Дестрой»!」",
+   "orig": "Judau\n「You figured out how to control Destroy Mode!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Банагер",
+   "text": "「Джудо, Хатауэй, спасибо вам.\n　Вы все напомнили мне о том,\n　что именно я должен делать.」",
+   "orig": "Banagher\n「Judau, Hathaway, thank you.\n　You've all reminded me\n　what it is that I should be doing.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Амуро",
+   "text": "「Учитывая, какую нагрузку это даёт на тело,\n　держать этот режим дольше пяти минут нельзя.\n　Смотри не используй его не к месту.」",
+   "orig": "Amuro\n「Considering the toll that it takes on the body,\n　that mode should be used for no more than five minutes.\n　Be sure not to use it incorrectly.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Банагер",
+   "text": "「Так точно!」",
+   "orig": "Banagher\n「Yes, sir!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Фронталь",
+   "text": "「Ты, кажется, назвался Банагером?」",
+   "orig": "Frontal\n「Did you say your name is Banagher?」"
+  },
+  {
+   "i": 264,
+   "speaker": "Банагер",
+   "text": "「Мм…」",
+   "orig": "Banagher\n「Mmm...」"
+  },
+  {
+   "i": 265,
+   "speaker": "Фронталь",
+   "text": "「Тебя захлестнуло волнами псикоммю,\n　но ты услышал голоса людей и вырвался сам.\n　Недурно.」",
+   "orig": "Frontal\n「Despite being caught up in Psycommu waves,\n　you hear people's voices and snap yourself out of it.\n　Nicely done.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Фронталь",
+   "text": "「Этот проклятый «Гандам».\n　Возможно, ты и правда сумеешь с ним совладать.」",
+   "orig": "Frontal\n「That cursed Gundam.\n　You just might be capable of handling it.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Банагер",
+   "text": "「«Юникорн» — не проклятие.\n　Это дверь к возможностям!」",
+   "orig": "Banagher\n「The Unicorn isn't a curse.\n　It's a door of possibility!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Фронталь",
+   "text": "「Может быть. Но откроешь её не ты.」",
+   "orig": "Frontal\n「Maybe, but you're not the one who'll open it.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Отто",
+   "text": "「Всем подразделениям!\n　Сосредоточить огонь на Фулл Фронтале!」",
+   "orig": "Otto\n「All units!\n　Focus all attacks on Full Frontal!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Отто",
+   "text": "「Ударим по командующему Нео-Зеона\n　и покончим с боем здесь и сейчас!」",
+   "orig": "Otto\n「We'll hit the Commander of Neo Zeon\n　and end the fighting here and now!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Амуро",
+   "text": "「Фулл Фронталь!」",
+   "orig": "Amuro\n「Full Frontal!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Фронталь",
+   "text": "「И ты правда думаешь, что справишься?」",
+   "orig": "Frontal\n「Can you really pull this off?」"
+  },
+  {
+   "i": 273,
+   "speaker": "Фронталь",
+   "text": "「Что ж, здесь наши пути расходятся.\n　Для первого знакомства, пожалуй, довольно.」",
+   "orig": "Frontal\n「So this is where we part company.\n　I guess that was enough for a first greeting.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Джудо",
+   "text": "「Удираешь?」",
+   "orig": "Judau\n「You're running away?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Фронталь",
+   "text": "「В бою я не романтик.\n　Когда расклад не в мою пользу, я забираю фишки.」",
+   "orig": "Frontal\n「I'm not romantic when it comes to combat.\n　When the chips are stacked against me, I cash out.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Фронталь",
+   "text": "「После сегодняшнего боя мне всё стало ясно.\n　Главной помехой для Нео-Зеона\n　окажетесь именно вы.」",
+   "orig": "Frontal\n「From today's fighting it's now clear to me.\n　That the biggest obstacle for Neo Zeon\n　is gonna be you people.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Марида",
+   "text": "「Нам тоже пора отступать.」",
+   "orig": "Marida\n「We've got to retreat too.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Пуру",
+   "text": "「Стой!\n　Мы не дадим тебе уйти!」",
+   "orig": "Ple\n「Stop!\n　We're not gonna let you get away!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Пуру Два",
+   "text": "「Все сюда!\n　В погоню за этой подделкой под $kwbКвин Мансу$kwe!」",
+   "orig": "Ple Two\n「Everyone!\n　Go after that $kwbQueen Mansa$kwe knock-off!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Отто",
+   "text": "「Всем сосредоточить огонь на «Квад-Винге»!」",
+   "orig": "Otto\n「All hands, focus your attack on the Quad-Wing!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Марида",
+   "text": "「Кха!\n　Давление «Дабл-Зеты». Не могу… двинуться!」",
+   "orig": "Marida\n「Argh!\n　That Double Zeta pressure. Can't... move!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Марида",
+   "text": "「Всё кончено!\n　«Кшатрия» больше не выдержит!」",
+   "orig": "Marida\n「It's all over!\n　The Kshatriya can't take any more!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 284,
+   "speaker": "Лиам",
+   "text": "「Судя по всему, пилот катапультировался.」",
+   "orig": "Liam\n「Apparently the pilot has bailed out.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Отто",
+   "text": "「Поднять наземную группу.\n　Задержать пилота!」",
+   "orig": "Otto\n「Get the ground combat troops on it.\n　Apprehend that pilot!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Джудо",
+   "text": "「Капитан Отто!\n　Этот пилот — женщина!」",
+   "orig": "Judau\n「Captain Otto!\n　The pilot in question is a woman!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Отто",
+   "text": "「Мне это прекрасно известно!\n　Лишнюю грубость запрещаю!」",
+   "orig": "Otto\n「I'm well aware of that!\n　Unnecessarily rough treatment is forbidden!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 289,
+   "speaker": "Пуру",
+   "text": "（Что это за чувство?）",
+   "orig": "Ple\n（What is this feeling?）"
+  },
+  {
+   "i": 290,
+   "speaker": "Пуру Два",
+   "text": "（Что-то родное и в то же время омерзительное.）",
+   "orig": "Ple Two\n（Nostalgic, and yet revolting.）"
+  },
+  {
+   "i": 291,
+   "speaker": "Хатауэй",
+   "text": "「Я ни за что не дам тебе уйти!」",
+   "orig": "Hathaway\n「No way am I letting you get away!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Амуро",
+   "text": "「Не увлекайтесь преследованием.\n　Нам нельзя тратить столько боезапаса.」",
+   "orig": "Amuro\n「Don't pursue them too far.\n　We can't afford to use up too much firepower.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Кинкейд",
+   "text": "「Выходит, он и правда вышел просто поздороваться.」",
+   "orig": "Kincade\n「So he really did just come out for a quick hello.」"
+  },
+  {
+   "i": 294,
+   "speaker": "Амуро",
+   "text": "「Зато теперь ясно, кто наш настоящий враг.\n　Пока и этого довольно.」",
+   "orig": "Amuro\n「At least now it's clear who the real enemy is.\n　That's enough for now.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Джудо",
+   "text": "「Мичман Михиро.\n　Где мичман Риддхе?」",
+   "orig": "Judau\n「Ensign Mihiro.\n　Where's Ensign Riddhe?」"
+  },
+  {
+   "i": 296,
+   "speaker": "Михиро",
+   "text": "「Бесполезно!\n　Связь оборвалась.」",
+   "orig": "Mihiro\n「It's no use!\n　Communication has broken down.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Банагер",
+   "text": "（Одри.\n　Где же ты, чёрт возьми?）",
+   "orig": "Banagher\n（Audrey.\n　Where the hell are you?）"
+  },
+  {
+   "i": 298,
+   "speaker": "Банагер",
+   "text": "「Что это за изображение?」",
+   "orig": "Banagher\n「This display, what is it?」"
+  },
+  {
+   "i": 299,
+   "speaker": "Банагер",
+   "text": "「Программа «Лаплас»?」",
+   "orig": "Banagher\n「The Laplace Program?」"
+  },
+  {
+   "i": 300,
+   "speaker": "Лиам",
+   "text": "「Капитан!\n　С запуска режима «Дестрой» прошло две минуты!」",
+   "orig": "Liam\n「Captain!\n　Two minutes since activating Destroy Mode!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Отто",
+   "text": "「Ещё минута — и Банагеру конец!」",
+   "orig": "Otto\n「One more minute and Banagher has had it!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Альберто",
+   "text": "「Что ни делай, всё без толку.\n　Ты правда думаешь, что хоть какой-то мобильный\n　доспех выстоит против «Юникорна» на полной мощи?」",
+   "orig": "Alberto\n「It's hopeless no matter what we do.\n　You think any mobile suit or whatever\n　stands a chance against a full spec Unicorn?」"
+  },
+  {
+   "i": 303,
+   "speaker": "Джудо",
+   "text": "「Помолчи и смотри, дядя!\n　Мы ни за что не сдадимся!」",
+   "orig": "Judau\n「Just shut up and watch, old man!\n　We're not giving up no matter what!」"
+  },
+  {
+   "i": 304,
+   "speaker": "Хатауэй",
+   "text": "「У нас минута, чтобы спасти Банагера!\n　Я больше не позволю знакомым мне людям\n　умирать прямо у меня на глазах!」",
+   "orig": "Hathaway\n「We've got one minute to save Banagher!\n　I refuse to see any more people I know\n　die right in front of me!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Гаурон",
+   "text": "「Вот же рухлядь. Чуть-чуть поднажмёшь —\n　и она тут же перегревается.」",
+   "orig": "Gauron\n「This piece of junk. I push it just a little bit\n　and it immediately overheats.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Соскэ",
+   "text": "「Гаурон!\n　Я с тобой покончу!」",
+   "orig": "Sousuke\n「Gauron!\n　I'm gonna finish you off!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Гаурон",
+   "text": "「Не спеши так, Кашим.\n　Второй акт у нас только начинается.」",
+   "orig": "Gauron\n「Don't be in such a rush, Kashim.\n　Act 2 is just getting started for us.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Гаурон",
+   "text": "「Постараемся получить удовольствие\n　и от следующего приключения!」",
+   "orig": "Gauron\n「Let's make sure we enjoy\n　the next adventure too!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Соскэ",
+   "text": "「Этот гад—」",
+   "orig": "Sousuke\n「That damn guy—」"
+  },
+  {
+   "i": 310,
+   "speaker": "Ал",
+   "text": "「Не похоже на вас — так заводиться на поле боя,\n　сержант.」",
+   "orig": "Al\n「It's not like you to get so excited on the battlefield,\n　Sergeant.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Соскэ",
+   "text": "「Не беспокойся, Ал.\n　Для меня он всего лишь\n　мелкий камешек на дороге.」",
+   "orig": "Sousuke\n「Don't worry, Al.\n　To me he's nothing but\n　a little pebble on the road.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Соскэ",
+   "text": "「Будет мешать — просто отшвырну его.\n　Вот и всё.」",
+   "orig": "Sousuke\n「If it gets in my way, I'll just toss it away.\n　That's all there is to it.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Гейтс",
+   "text": "「Ох, эта духота джунглей и солёный воздух\n　просто губят мои бакенбарды.」",
+   "orig": "Gates\n「Argh, the jungle humidity and the salty air\n　are wreaking havoc on my sideburns.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Гейтс",
+   "text": "「А посему — прощайте!\n　Увидимся снова, и поскорее!」",
+   "orig": "Gates\n「And on that note, farewell!\n　Let's get together again real soon!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Найн",
+   "text": "「И что это вообще за тип?」",
+   "orig": "Nine\n「What's with that guy, anyway?」"
+  },
+  {
+   "i": 316,
+   "speaker": "$n",
+   "text": "「Забудь, Найн.\n　С такими лучше не связываться.」",
+   "orig": "$n\n「Forget it, Nine.\n　You mustn't get involved with that sort.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Найн",
+   "text": "「И что это вообще за тип?」",
+   "orig": "Nine\n「What's with that guy, anyway?」"
+  },
+  {
+   "i": 318,
+   "speaker": "$n",
+   "text": "「Не подходи к нему близко, Найн.\n　На таких даже смотреть опасно.」",
+   "orig": "$n\n「Don't get too close to that one, Nine.\n　Even just looking at that sort is hazardous.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Ю Фан",
+   "text": "「Простите, сэнсэй.\n　Я отступаю.」",
+   "orig": "Yu Fan\n「I'm sorry, Sensei.\n　I'm going to retreat.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Клузо",
+   "text": "「«Амальгама» сумела наладить серийный выпуск\n　машин с Лямбда-драйвером.」",
+   "orig": "Clouseau\n「Amalgam has succeeded in mass producing models\n　equipped with the Lambda Driver.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Мао",
+   "text": "「Для нас это может обернуться бедой.」",
+   "orig": "Mao\n「This could be really bad news for us.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Ю Лан",
+   "text": "「Сэнсэй, сестра,\n　я отступаю.」",
+   "orig": "Yu Lan\n「Sensei, Sis,\n　I'm going to retreat.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Курц",
+   "text": "「Чёрт!\n　Нашему M9 придётся туго против машины\n　с Лямбда-драйвером.」",
+   "orig": "Kurz\n「Damn!\n　Our M9 is gonna have a really hard time\n　taking on a Lambda Driver-equipped model.」"
+  },
+  {
+   "i": 324,
+   "speaker": "Мао",
+   "text": "「Они здорово вырвались вперёд.」",
+   "orig": "Mao\n「They've really opened up a big lead on us.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Марида",
+   "text": "「Кха!\n　Дальше некуда!」",
+   "orig": "Marida\n「Argh!\n　The end of the line!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Марида",
+   "text": "「Всё кончено!\n　«Кшатрия» больше не выдержит!」",
+   "orig": "Marida\n「It's all over!\n　The Kshatriya can't take any more!」"
+  },
+  {
+   "i": 327,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 328,
+   "speaker": "Лиам",
+   "text": "「Судя по всему, пилот катапультировался.」",
+   "orig": "Liam\n「Apparently the pilot has bailed out.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Отто",
+   "text": "「Поднять наземную группу.\n　Задержать пилота!」",
+   "orig": "Otto\n「Get the ground combat troops on it.\n　Apprehend that pilot!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Джудо",
+   "text": "「Капитан Отто!\n　Этот пилот — женщина!」",
+   "orig": "Judau\n「Captain Otto!\n　The pilot in question is a woman!」"
+  },
+  {
+   "i": 331,
+   "speaker": "Отто",
+   "text": "「Мне это прекрасно известно!\n　Лишнюю грубость запрещаю!」",
+   "orig": "Otto\n「I'm well aware of that!\n　Unnecessarily rough treatment is forbidden!」"
+  },
+  {
+   "i": 332,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Пуру",
+   "text": "（Что это за чувство?）",
+   "orig": "Ple\n（What is this feeling?）"
+  },
+  {
+   "i": 334,
+   "speaker": "Пуру Два",
+   "text": "（Что-то родное и в то же время омерзительное.）",
+   "orig": "Ple Two\n（Nostalgic, and yet revolting.）"
+  },
+  {
+   "i": 335,
+   "speaker": "Банагер",
+   "text": "「Гва-а-а!」",
+   "orig": "Banagher\n「Gwaaahh!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Джудо",
+   "text": "「Банагер!」",
+   "orig": "Judau\n「Banagher!」"
+  },
+  {
+   "i": 337,
+   "speaker": "Альберто",
+   "text": "「Поздно…\n　Система NT-D захватила его разум…」",
+   "orig": "Alberto\n「It's too late...\n　The NT-D system has taken over his mind...」"
+  },
+  {
+   "i": 338,
+   "speaker": "Банагер",
+   "text": "（Одри.\n　Я тебя защищу.）",
+   "orig": "Banagher\n（Audrey.\n　I'll protect you.）"
+  },
+  {
+   "i": 339,
+   "speaker": "Банагер",
+   "text": "（Ради тебя я—）",
+   "orig": "Banagher\n（For your sake I'm gonna—）"
+  },
+  {
+   "i": 340,
+   "speaker": "Фронталь",
+   "text": "「Дело даже не в «Гандаме».\n　Мне куда интереснее ты сам,\n　как человек, Банагер Линкс.」",
+   "orig": "Frontal\n「It's not so much the Gundam.\n　I'm actually more interested in you,\n　as a person, Banagher Links.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Банагер",
+   "text": "「О чём вы вообще?」",
+   "orig": "Banagher\n「What are you talking about?」"
+  },
+  {
+   "i": 342,
+   "speaker": "Фронталь",
+   "text": "「Если согласишься подумать —\n　я хочу, чтобы ты перешёл в Нео-Зеон.\n　Награда будет щедрой.」",
+   "orig": "Frontal\n「If you'd consider it,\n　I want you to come over to Neo Zeon.\n　You'll be compensated handsomely.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Банагер",
+   "text": "「Как я могу пойти на это после того, как видел,\n　что ваша шайка устроила в «Индастриал 7»!」",
+   "orig": "Banagher\n「There's no way I could do that after seeing\n　the way you thugs attacked Industrial 7!」"
+  },
+  {
+   "i": 344,
+   "speaker": "Фронталь",
+   "text": "「Значит, лучше умереть вместе с обречённой Федерацией?」",
+   "orig": "Frontal\n「So you'd rather die alongside the doomed Federation?」"
+  },
+  {
+   "i": 345,
+   "speaker": "Банагер",
+   "text": "「Я сражаюсь не за Федерацию!\n　Я сражаюсь, чтобы защитить то, что мне дорого.」",
+   "orig": "Banagher\n「I'm not fighting for the Federation!\n　I'm fighting in order to protect something precious.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Банагер",
+   "text": "「И «Юникорн» даёт мне на это силы!」",
+   "orig": "Banagher\n「And the Unicorn gives me the strength to do that!」"
+  },
+  {
+   "i": 347,
+   "speaker": "Фронталь",
+   "text": "「Впечатляет, Джудо Ашта.\n　Теперь понятно, как ты одолел Хаман Карн.」",
+   "orig": "Frontal\n「Very impressive, Judau Ashta.\n　I can see how you were able to defeat Haman Karn.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Джудо",
+   "text": "「Тогда Хаман поняла,\n　насколько бессмысленна война!\n　А вы, мерзавцы,—」",
+   "orig": "Judau\n「At that time, Haman understood\n　the meaninglessness of war!\n　And yet, you bastards—」"
+  },
+  {
+   "i": 349,
+   "speaker": "Фронталь",
+   "text": "「В отличие от неё, я не тащу свои чувства\n　на поле боя.」",
+   "orig": "Frontal\n「Unlike her, I don't drag my emotional baggage\n　onto the field of battle.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Фронталь",
+   "text": "「Я сражаюсь за тех, кто на меня рассчитывает!\n　И никому не позволю встать у меня на пути!」",
+   "orig": "Frontal\n「I fight for those who depend on me to fight!\n　And I'm not letting anybody get in my way!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Фронталь",
+   "text": "「Пока у меня есть «Синанджу»,\n　победить меня вам не под силу.」",
+   "orig": "Frontal\n「As long as I've got this Sinanju,\n　there's no way you can defeat me.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Амуро",
+   "text": "「Без сомнения!\n　Ты, возможно, даже сильнее Чара!」",
+   "orig": "Amuro\n「Without a doubt!\n　You may be even tougher than Char!」"
+  },
+  {
+   "i": 353,
+   "speaker": "Амуро",
+   "text": "「И всё же ты — не Чар!\n　Вот этот урок я тебе и преподам!」",
+   "orig": "Amuro\n「But even so, you're not actually Char!\n　That's the lesson I'm gonna teach you!」"
+  },
+  {
+   "i": 354,
+   "speaker": "Фронталь",
+   "text": "「Думаешь, получится? Сомневаюсь.」",
+   "orig": "Frontal\n「You think you can? I wonder.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Амуро",
+   "text": "「Сейчас узнаешь!\n　Мне ведь тоже нужно двигаться дальше!」",
+   "orig": "Amuro\n「You'll find out!\n　So that I can keep moving forward as well!」"
+  },
+  {
+   "i": 356,
+   "speaker": "Фронталь",
+   "text": "「Этот «Гандам» не для такого новичка, как ты.」",
+   "orig": "Frontal\n「That Gundam doesn't suit a novice like you.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Хатауэй",
+   "text": "「Полностью согласен!\n　Но это лишь подстёгивает меня стать сильнее!」",
+   "orig": "Hathaway\n「I couldn't agree more!\n　But that only motivates me to become stronger!」"
+  },
+  {
+   "i": 358,
+   "speaker": "Хатауэй",
+   "text": "「Чтобы больше не пережить ту боль, что в тот день,\n　я стану достаточно сильным, чтобы принять другого!」",
+   "orig": "Hathaway\n「To never repeat the regret I felt that day,\n　I'll get strong enough to accept somebody!」"
+  },
+  {
+   "i": 359,
+   "speaker": "Фронталь",
+   "text": "「Значит, ты сражаешься, одержимый призраком.」",
+   "orig": "Frontal\n「So you're fighting while obsessed with a ghost.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Хатауэй",
+   "text": "「Неправда!\n　Я сражаюсь, и дух Квес — рядом со мной!」",
+   "orig": "Hathaway\n「That's not true!\n　I'm fighting with the spirit of Quess by my side!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Фронталь",
+   "text": "「Чувствую, у тебя настоящий талант.\n　Больно смотреть, как ты растрачиваешь его впустую.」",
+   "orig": "Frontal\n「I get the feeling you've got real talent.\n　It's painful to watch you let that go to waste.」"
+  },
+  {
+   "i": 362,
+   "speaker": "Тобиа",
+   "text": "「Ты говоришь совсем как\n　$kwbШериндон$kwe!」",
+   "orig": "Tobia\n「You sound an awful lot like\n　$kwbSherindon$kwe!」"
+  },
+  {
+   "i": 363,
+   "speaker": "Тобиа",
+   "text": "「Как мне жить, я решаю сам!\n　И жалеть меня вам совершенно незачем!」",
+   "orig": "Tobia\n「I'll decide for myself how I live my life!\n　There's no reason for you to feel sorry for me!」"
+  },
+  {
+   "i": 364,
+   "speaker": "Фронталь",
+   "text": "「Боевой, однако.\n　Что ж, придётся заткнуть тебя силой.」",
+   "orig": "Frontal\n「You sure do have spirit.\n　I guess I'll just have to shut you up by force.」"
+  },
+  {
+   "i": 365,
+   "speaker": "Тобиа",
+   "text": "「Тогда и я отвечу тем же!\n　Покажу, как это делается у нас, пиратов!」",
+   "orig": "Tobia\n「Well then, I'll just have to respond in kind!\n　I'll show you how we pirates do things!」"
+  },
+  {
+   "i": 366,
+   "speaker": "Кинкейд",
+   "text": "「Надо же, я дерусь с самой Красной кометой!」",
+   "orig": "Kincade\n「I'm actually fighting a guy called the Red Comet!」"
+  },
+  {
+   "i": 367,
+   "speaker": "Фронталь",
+   "text": "「Похоже, пилот ты талантливый.\n　Заставлю тебя сдаться — и солдаты потянутся ко мне.」",
+   "orig": "Frontal\n「You seem like a pretty talented pilot.\n　Soldiers will flock to me after I make you surrender.」"
+  },
+  {
+   "i": 368,
+   "speaker": "Кинкейд",
+   "text": "（Чувство боя с кем-то нечеловеческим. Оно мне знакомо.）",
+   "orig": "Kincade\n（This feeling of fighting a non-human. I've felt it before.）"
+  },
+  {
+   "i": 369,
+   "speaker": "Кинкейд",
+   "text": "（Точно, то же самое я ощущал,\n　когда дрался с $kwbЖелезной Маской$kwe!）",
+   "orig": "Kincade\n（That's right, it's the same feeling\n　as when I fought $kwbIron Mask$kwe!）"
+  },
+  {
+   "i": 370,
+   "speaker": "Фронталь",
+   "text": "「Почему-то кажется, что этот «Гандам»\n　явился из другого мира.」",
+   "orig": "Frontal\n「Somehow, this Gundam\n　seems like it came from another world.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Кира",
+   "text": "「Я сражаюсь, чтобы прекратить сражения!」",
+   "orig": "Kira\n「I fight in order to stop the fighting!」"
+  },
+  {
+   "i": 372,
+   "speaker": "Кира",
+   "text": "「Если бы твоя смерть положила конец войне,\n　я бы не колебался ни секунды!」",
+   "orig": "Kira\n「If killing you would end war,\n　I'd do it in a second!」"
+  },
+  {
+   "i": 373,
+   "speaker": "Синн",
+   "text": "「Ты правда собираешься уничтожить Землю?」",
+   "orig": "Shinn\n「Do you really intend to annihilate the Earth?」"
+  },
+  {
+   "i": 374,
+   "speaker": "Синн",
+   "text": "「Если Земля будет разорена,\n　эту войну наверняка удастся прекратить!」",
+   "orig": "Shinn\n「If the Earth is in tatters,\n　it should be possible to bring this war to an end!」"
+  },
+  {
+   "i": 375,
+   "speaker": "Фронталь",
+   "text": "「Люди космоса на это не согласятся.\n　Потому я и продолжаю сражаться.」",
+   "orig": "Frontal\n「The people of the universe won't accept that.\n　That's why I'm carrying on with the fight.」"
+  },
+  {
+   "i": 376,
+   "speaker": "Синн",
+   "text": "「Тогда мне придётся тебя остановить!\n　А заодно остановить и эту войну!」",
+   "orig": "Shinn\n「Then I'm gonna have to stop you!\n　And in the process, stop this war as well!」"
+  },
+  {
+   "i": 377,
+   "speaker": "Фронталь",
+   "text": "「Если то пространство создала\n　твоя машина, мне это по-настоящему любопытно.」",
+   "orig": "Frontal\n「If that space was powered\n　by your unit, that's really interesting to me.」"
+  },
+  {
+   "i": 378,
+   "speaker": "Сэцуна",
+   "text": "「Если вы разделили сознание — прекратите\n　сражаться и решите эту войну иначе!」",
+   "orig": "Setsuna\n「If you shared your consciousness, then stop\n　fighting and settle the war in a different way!」"
+  },
+  {
+   "i": 379,
+   "speaker": "Фронталь",
+   "text": "「Взаимопонимание и мир лишь кажутся одним и тем же.\n　Со временем ты и сам это поймёшь.」",
+   "orig": "Frontal\n「Mutual understanding and peace seem alike\n　but they're not. Eventually you'll understand that too.」"
+  },
+  {
+   "i": 380,
+   "speaker": "$n",
+   "text": "「Сперва бой плечом к плечу с Амуро Реем, а теперь\n　схватка с Красной кометой второго поколения?!」",
+   "orig": "$n\n「First, fighting with Amuro Ray, and now we fight\n　against a second-generation Red Comet?!」"
+  },
+  {
+   "i": 381,
+   "speaker": "Найн",
+   "text": "「Он способен управлять такой машиной как следует.\n　Это не рядовой противник.」",
+   "orig": "Nine\n「The capabilities to use that unit properly.\n　This is no ordinary opponent.」"
+  },
+  {
+   "i": 382,
+   "speaker": "$n",
+   "text": "「Что? Между прочим, мне и норовистых коней\n　объезжать доводилось, и неплохо.」",
+   "orig": "$n\n「What? Why I've also been able to ride\n　an unruly horse quite well, thank you.」"
+  },
+  {
+   "i": 383,
+   "speaker": "Найн",
+   "text": "「Я-я себя конём точно не считаю.」",
+   "orig": "Nine\n「I-I certainly don't consider myself a horse.」"
+  },
+  {
+   "i": 384,
+   "speaker": "$n",
+   "text": "「Я про «Вангрэй».」",
+   "orig": "$n\n「I'm talking about the VangRay.」"
+  },
+  {
+   "i": 385,
+   "speaker": "$n",
+   "text": "「Пожалуй, против такого врага болтать\n　не стоит! Вперёд, Найн!」",
+   "orig": "$n\n「I guess we shouldn't be talking while fighting\n　an enemy like this! Off we go, Nine!」"
+  },
+  {
+   "i": 386,
+   "speaker": "Найн",
+   "text": "「Принято, кэп!」",
+   "orig": "Nine\n「Roger, Cap!」"
+  },
+  {
+   "i": 387,
+   "speaker": "$n",
+   "text": "「Красная комета! Пусть и второго поколения,\n　но сила у него под стать имени.」",
+   "orig": "$n\n「The Red Comet! He may be second generation,\n　but his strength is worthy of the name.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Найн",
+   "text": "「В лоб его не одолеть.」",
+   "orig": "Nine\n「He's not someone you can beat head-on.」"
+  },
+  {
+   "i": 389,
+   "speaker": "$n",
+   "text": "「Хочешь сказать, нам стоит отступить?!」",
+   "orig": "$n\n「Are you saying we should withdraw?!」"
+  },
+  {
+   "i": 390,
+   "speaker": "Найн",
+   "text": "「Нет.\n　Я найду способ его победить.」",
+   "orig": "Nine\n「No.\n　I'll find a way to beat him.」"
+  },
+  {
+   "i": 391,
+   "speaker": "$n",
+   "text": "「Рассчитываю на тебя, Найн!\n　А я пока продержусь!」",
+   "orig": "$n\n「I'll be counting on you, Nine!\n　In the meantime, I'll hang tough!」"
+  },
+  {
+   "i": 392,
+   "speaker": "Соскэ",
+   "text": "「Не знаю, насколько он в себе уверен,\n　но выводить на передовую самого командующего —\n　это дилетантская тактика!」",
+   "orig": "Sousuke\n「I don't know how confident this guy is,\n　but for the top leader to come to the front,\n　that's such an amateurish strategy!」"
+  },
+  {
+   "i": 393,
+   "speaker": "Ал",
+   "text": "「Согласен, сэр.」",
+   "orig": "Al\n「I agree, sir.」"
+  },
+  {
+   "i": 394,
+   "speaker": "Соскэ",
+   "text": "「Такой случай упускать нельзя!\n　Мы идём за тобой, Красная комета!」",
+   "orig": "Sousuke\n「We can let this opportunity pass!\n　We're coming for you, Red Comet!」"
+  },
+  {
+   "i": 395,
+   "speaker": "Тэцуя",
+   "text": "「Перед нами Красная комета!\n　Противник более чем достойный!」",
+   "orig": "Tetsuya\n「The enemy is the Red Comet!\n　He's a very worthy opponent!」"
+  },
+  {
+   "i": 396,
+   "speaker": "Тэцуя",
+   "text": "「Люди не должны воевать с людьми!\n　Давайте скорее положим этому бою конец!」",
+   "orig": "Tetsuya\n「Human beings shouldn't fight other human beings!\n　Let's put an end to this fighting post-haste!」"
+  },
+  {
+   "i": 397,
+   "speaker": "Рёма",
+   "text": "「Не знаю, каким человеком был этот\n　Чар Азнабль, но второе поколение\n　обычно хуже первого!」",
+   "orig": "Ryoma\n「I don't know how much of a man this\n　Char Aznable was, but the second generation\n　is usually worse than the first!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Рёма",
+   "text": "「Я как пилот тоже кое-какую славу себе нажил!\n　Посмотрим, на что ты способен, Красная комета!」",
+   "orig": "Ryoma\n「Well as a pilot I've gained a bit of fame myself!\n　Let's find out what you've got, Red Comet!」"
+  },
+  {
+   "i": 399,
+   "speaker": "Банагер",
+   "text": "（Одри.\n　Что же это за долг, который ты несёшь?）",
+   "orig": "Banagher\n（Audrey.\n　This obligation of yours. What is it exactly?）"
+  },
+  {
+   "i": 400,
+   "speaker": "Банагер",
+   "text": "（Нельзя сейчас об этом думать.\n　Сейчас я должен одно —\n　вести «Юникорн» в бой!）",
+   "orig": "Banagher\n（I can't let myself think about things.\n　Right now what I've got to do\n　is take that Unicorn into battle!）"
+  },
+  {
+   "i": 401,
+   "speaker": "Банагер",
+   "text": "（Вот она, сила, нужная мне, чтобы защитить Одри!\n　Смотри, как я справляюсь с «Юникорном»!）",
+   "orig": "Banagher\n（This is the strength I need to protect Audrey!\n　Now watch how well I can handle the Unicorn!）"
+  },
+  {
+   "i": 402,
+   "speaker": "Банагер",
+   "text": "「Прекрати бой, Марида!」",
+   "orig": "Banagher\n「Stop fighting, Marida!」"
+  },
+  {
+   "i": 403,
+   "speaker": "Марида",
+   "text": "「Банагер Линкс, что ты сейчас сказал?\n　Ты рассудок потерял?」",
+   "orig": "Marida\n「Banagher Links, what did you just say?\n　Have you lost your mind?」"
+  },
+  {
+   "i": 404,
+   "speaker": "Банагер",
+   "text": "「Когда наши сознания соприкоснулись в том\n　пространстве, я коснулся самых твоих глубин!」",
+   "orig": "Banagher\n「When we shared consciousness in that space,\n　I was in contact with your innermost thoughts!」"
+  },
+  {
+   "i": 405,
+   "speaker": "Банагер",
+   "text": "「Ты — человек, которому нельзя сражаться!」",
+   "orig": "Banagher\n「You are a person who must not fight!」"
+  },
+  {
+   "i": 406,
+   "speaker": "Марида",
+   "text": "「Да как ты смеешь копаться в моих мыслях!」",
+   "orig": "Marida\n「You've got some nerve mucking around in my thoughts!」"
+  },
+  {
+   "i": 407,
+   "speaker": "Джудо",
+   "text": "「Тебе так не терпится с нами подраться?」",
+   "orig": "Judau\n「You really wanna fight us that badly, do you?」"
+  },
+  {
+   "i": 408,
+   "speaker": "Марида",
+   "text": "「Это моя задача!」",
+   "orig": "Marida\n「That's my mission!」"
+  },
+  {
+   "i": 409,
+   "speaker": "Марида",
+   "text": "「Джудо Ашта!\n　Я здесь, чтобы отомстить за Хаман Карн!」",
+   "orig": "Marida\n「Judau Ashta!\n　I'm here to exact vengeance for Harman Karn!」"
+  },
+  {
+   "i": 410,
+   "speaker": "Джудо",
+   "text": "「Хаман Карн хотела вовсе не этого!」",
+   "orig": "Judau\n「That's not what Harman Karn would have wanted!」"
+  },
+  {
+   "i": 411,
+   "speaker": "Джудо",
+   "text": "「Марида!\n　Если ты не прекратишь бой,\n　мне придётся остановить тебя силой!」",
+   "orig": "Judau\n「Marida!\n　If you refuse to stop fighting,\n　I'll have to stop you by force!」"
+  },
+  {
+   "i": 412,
+   "speaker": "Марида",
+   "text": "「Что это за чувство?!」",
+   "orig": "Marida\n「What is this feeling?!」"
+  },
+  {
+   "i": 413,
+   "speaker": "Пуру",
+   "text": "「Пуру Два!」",
+   "orig": "Ple\n「Ple Two!」"
+  },
+  {
+   "i": 414,
+   "speaker": "Пуру Два",
+   "text": "「Я тоже это чувствую!」",
+   "orig": "Ple Two\n「I feel it too!」"
+  },
+  {
+   "i": 415,
+   "speaker": "Марида",
+   "text": "「Да что с вами такое?!\n　Прекратите лезть мне в голову!」",
+   "orig": "Marida\n「What's with you two?!\n　Stop messing with my head!」"
+  },
+  {
+   "i": 416,
+   "speaker": "Пуру",
+   "text": "「Нет, это что с тобой такое?」",
+   "orig": "Ple\n「No, what's with you?」"
+  },
+  {
+   "i": 417,
+   "speaker": "Пуру Два",
+   "text": "「От тебя прямо жутью веет!」",
+   "orig": "Ple Two\n「You're really creepy!」"
+  },
+  {
+   "i": 418,
+   "speaker": "Гаурон",
+   "text": "「Я так надеялся тебя увидеть, Кашим!」",
+   "orig": "Gauron\n「I was hoping to see you, Kashim!」"
+  },
+  {
+   "i": 419,
+   "speaker": "Соскэ",
+   "text": "「Извини, но на провокации я не поведусь.」",
+   "orig": "Sousuke\n「Sorry but I'm not falling for your provocations.」"
+  },
+  {
+   "i": 420,
+   "speaker": "Гаурон",
+   "text": "「Ого…\n　Похоже, прежняя твоя ярость понемногу вернулась.」",
+   "orig": "Gauron\n「Oh...\n　Sounds like you got back some of your old rage.」"
+  },
+  {
+   "i": 421,
+   "speaker": "Соскэ",
+   "text": "「Только когда дело касается тебя.」",
+   "orig": "Sousuke\n「Only when I'm going up against you.」"
+  },
+  {
+   "i": 422,
+   "speaker": "Гаурон",
+   "text": "「Вот и чудно!\n　Получим удовольствие оба, Кашим!」",
+   "orig": "Gauron\n「That's perfect!\n　Let's both enjoy this, Kashim!」"
+  },
+  {
+   "i": 423,
+   "speaker": "Соскэ",
+   "text": "「Я без промедления устраняю своих врагов!\n　Вот и всё, что тут есть!」",
+   "orig": "Sousuke\n「I promptly dispose of my enemies!\n　It's as simple as that!」"
+  },
+  {
+   "i": 424,
+   "speaker": "Гейтс",
+   "text": "「Я ждал этого, белый!\n　Ждал дня, когда мы снова встретимся!」",
+   "orig": "Gates\n「I've been waiting for this, white one!\n　For the day when we'd meet again!」"
+  },
+  {
+   "i": 425,
+   "speaker": "Ал",
+   "text": "「Сэр, похоже, сегодня вам везёт на личном фронте.」",
+   "orig": "Al\n「Sir, looks like today's your lucky day romance-wise.」"
+  },
+  {
+   "i": 426,
+   "speaker": "Соскэ",
+   "text": "「Мне сейчас не до твоих острот.」",
+   "orig": "Sousuke\n「I don't have time for your witty banter right now.」"
+  },
+  {
+   "i": 427,
+   "speaker": "Соскэ",
+   "text": "「Давай поскорее уберём этого чудака!」",
+   "orig": "Sousuke\n「Let's hurry up and dispose of that weirdo!」"
+  },
+  {
+   "i": 428,
+   "speaker": "Ал",
+   "text": "「Принято.\n　Выдернем ему бакенбарды, которыми он так горд.」",
+   "orig": "Al\n「Roger.\n　Let's pull out those sideburns he's so proud of.」"
+  },
+  {
+   "i": 429,
+   "speaker": "Гейтс",
+   "text": "「Эй-эй!\n　Так ведь и на тот свет отправиться можно,\n　если будешь в том же духе продолжать!」",
+   "orig": "Gates\n「Hey, hey!\n　Even can end up dead and gone\n　if you keep that up!」"
+  },
+  {
+   "i": 430,
+   "speaker": "Соскэ",
+   "text": "「Да закрой ты уже рот!」",
+   "orig": "Sousuke\n「Shut your mouth already!」"
+  },
+  {
+   "i": 431,
+   "speaker": "Гейтс",
+   "text": "「Ты начинаешь меня бесить!\n　Как смеет такое ничтожество, как ты,\n　рот разевать на великого Гейтса!」",
+   "orig": "Gates\n「You're getting on my nerves!\n　How dare a common dreg like you\n　open your mouth to the great Gates!」"
+  },
+  {
+   "i": 432,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

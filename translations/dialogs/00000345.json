@@ -1,0 +1,2464 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Джерид",
+   "text": "「Противник атакует?\n　Как они вообще узнали, где находится эта база?!」",
+   "orig": "Jerid\n「The enemy's attacking?\n　How'd they find out the whereabouts of this base?!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Хороший вопрос.」",
+   "orig": "Ple Twelve\n「Good question.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Джерид",
+   "text": "「Пуру Двенадцать, присоединяйся к отражению атаки.」",
+   "orig": "Jerid\n「Ple Twelve, join in the preparations to repel.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Приказывать мне вправе только господин.」",
+   "orig": "Ple Twelve\n「Only Master has the right to instruct me.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Джерид",
+   "text": "（Она искусственный ньютайп?\n　Я слышал, их изначально создавал Нео-Зеон.）",
+   "orig": "Jerid\n（Is she an Artificial Newtype?\n　I heard they were originally created by Neo Zeon.）"
+  },
+  {
+   "i": 5,
+   "speaker": "Джерид",
+   "text": "（Какой бы скверной ни стала эта война,\n　опускаться до таких методов недопустимо!）",
+   "orig": "Jerid\n（No matter how bad this war gets,\n　resorting to such tactics is unacceptable!）"
+  },
+  {
+   "i": 6,
+   "speaker": "Альберто",
+   "text": "（А, «Лондо Белл» здесь.\n　Остальное — уже их забота.）",
+   "orig": "Alberto\n（Ah, Londo Bell's here.\n　The rest is up to them.）"
+  },
+  {
+   "i": 7,
+   "speaker": "Брайт",
+   "text": "「Говорит командующий Брайт Ноа, «Лондо Белл».\n　Согласно Антарктическому договору я прибыл принять\n　под стражу лейтенанта Нео-Зеона Мариду Круз.」",
+   "orig": "Bright\n「I'm Commander Bright Noa of Londo Bell.\n　Under the Antarctic Treaty, I am here to take custody of\n　Neo Zeon Lieutenant Marida Cruz.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Брайт",
+   "text": "「Кроме того, прошу о встрече с женщиной\n　по имени Одри Бёрн, если она находится здесь.」",
+   "orig": "Bright\n「I would also like to request to meet with a woman\n　by the name of Audrey Burne if she is here.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Джерид",
+   "text": "「Ах вы, мрази из «Лондо Белл»!\n　Откуда у вас эти сведения?」",
+   "orig": "Jerid\n「You Londo Bell scum!\n　Where did you get that information?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Лиам",
+   "text": "「Мы будем рады, если вы примете нашу просьбу.」",
+   "orig": "Liam\n「We would be pleased if you accepted the request.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Отто",
+   "text": "「Пилоты Нео-Зеона — это ещё полбеды,\n　но держать здесь войска Федерации, пока здесь Одри,\n　слишком опасно.」",
+   "orig": "Otto\n「Neo Zeon pilots aside,\n　it's dangerous to station Federation Forces\n　with Audrey here.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Отто",
+   "text": "「Как и следовало ожидать: раз Нео-Зеон ценит её так\n　высоко, важно взять её под охрану прежде, чем это\n　почтение успеют пустить в ход.」",
+   "orig": "Otto\n「As expected, held in such high regard as she is\n　by Neo Zeon, it is important to take her into custody \n　before that regard can be utilized.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Отто",
+   "text": "「«Лондо Белл» может принять её под предлогом\n　защиты гражданских в военное время.」",
+   "orig": "Otto\n「Londo Bell can take her in under the pretext\n　of civilian protection during wartime.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Лиам",
+   "text": "「Проблема в том, что решать ей самой.」",
+   "orig": "Liam\n「The problem is, it's her decision.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Отто",
+   "text": "「Нужно быть начеку!\n　Они тоже пришли в движение!」",
+   "orig": "Otto\n「We have to be careful!\n　They're on the move, too!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Меран",
+   "text": "「Похоже, здесь расквартирован «Джи-Хаунд»!」",
+   "orig": "Meran\n「It seems like G-Hound is stationed here!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Брайт",
+   "text": "「Тогда, полагаю, переговоры отменяются.」",
+   "orig": "Bright\n「I guess talking wouldn't be an option, in that case.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Брайт",
+   "text": "「Ничего не поделаешь.\n　Всем подразделениям приготовиться к вылету！」",
+   "orig": "Bright\n「Nothing else we can do.\n　All units prepare for launch！」"
+  },
+  {
+   "i": 19,
+   "speaker": "Джерид",
+   "text": "「Нападают, пока наши силы рассредоточены?\n　Значит, это всего лишь полумера!」",
+   "orig": "Jerid\n「Attacking us while our units are dispersed?\n　This means this is just a stopgap measure!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Джерид",
+   "text": "「Всем подразделениям — в бой!\n　После Дакара они вымотаны не меньше нашего!」",
+   "orig": "Jerid\n「All units, engage the enemy!\n　They'll be just as exhausted from the battle of Dakar!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Рёма",
+   "text": "「Эти ребята не меняются. Всё те же головорезы!」",
+   "orig": "Ryoma\n「These guys never change. Violent as ever!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Бэнкэй",
+   "text": "「Да что происходит? Мы же пришли помогать людям!」",
+   "orig": "Benkei\n「What's going on? We're just here to help people!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Кинкейд",
+   "text": "「Правда на нашей стороне.」",
+   "orig": "Kincade\n「Justice is on our side.」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「Вроде того!\n　Банагер, Тобиа! Всыпьте им как следует!」",
+   "orig": "$n\n「Something like that!\n　Banagher, Tobia! Hit them hard!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Тобиа",
+   "text": "「Есть!」",
+   "orig": "Tobia\n「Roger!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Рёма",
+   "text": "「Эти ребята не меняются. Всё те же головорезы!」",
+   "orig": "Ryoma\n「These guys never change. Violent as ever!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Бэнкэй",
+   "text": "「Да что происходит? Мы же пришли помогать людям!」",
+   "orig": "Benkei\n「What's going on? We're just here to help people!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Кинкейд",
+   "text": "「Правда на нашей стороне.」",
+   "orig": "Kincade\n「Justice is on our side.」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Вроде того!\n　Банагер, Тобиа! Всыпьте им как следует!」",
+   "orig": "$n\n「Something like that!\n　Banagher, Tobia! Hit them hard!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Тобиа",
+   "text": "「Есть!」",
+   "orig": "Tobia\n「Roger!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Кирю",
+   "text": "「Тобиа! Новое вооружение, которое техотдел «Ямато»\n　собрал по твоей просьбе, и правда\n　меняет дело!」",
+   "orig": "Kiryu\n「Tobia! This new armament the Yamato  \n　Technical Dept. made at your  \n　request is making a real difference!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тобиа",
+   "text": "「Спасибо, Кирю!\n　Сейчас покажу, как быстро я освою\n　этот «Пикок-Смэшер»!」",
+   "orig": "Tobia\n「Thanks, Kiryu!\n　I'll show you how quickly I can\n　master this Peacock Smasher!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Банагер",
+   "text": "「Тобиа, прикроешь меня?」",
+   "orig": "Banagher\n「Tobia, a little back-up, please?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тобиа",
+   "text": "「Положись на меня,\n　я ведь за этим и здесь！」",
+   "orig": "Tobia\n「Leave it to me,\n　that's why I'm here！」"
+  },
+  {
+   "i": 35,
+   "speaker": "Кинкейд",
+   "text": "（Тобиа и правда\n　в своей стихии.）",
+   "orig": "Kincade\n（Tobia is truly\n　in his element.）"
+  },
+  {
+   "i": 36,
+   "speaker": "Тобиа",
+   "text": "「Останови этот чёрный «Юникорн»\n　и бей по базе!」",
+   "orig": "Tobia\n「Stop that black Unicorn\n　and attack the base!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Банагер",
+   "text": "「А потом мы сможем найти Одри！」",
+   "orig": "Banagher\n「And then we can search for Audrey！」"
+  },
+  {
+   "i": 38,
+   "speaker": "$n",
+   "text": "「Эх, снова бы стать молодым.\n　Ребята, вы заставляете меня тосковать по юности!」",
+   "orig": "$n\n「Ahh, to be young again.\n　You guys are really making me long for my youth!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Найн",
+   "text": "「Кэп.\n　У вас в прошлом была девушка, которую хотелось\n　отбить у другого?」",
+   "orig": "Nine\n「Cap.\n　Did you have a girlfriend you wanted to\n　take back from a guy in the past?」"
+  },
+  {
+   "i": 40,
+   "speaker": "$n",
+   "text": "「Иногда жалею, что не было.」",
+   "orig": "$n\n「Sometimes I wish I had.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Найн",
+   "text": "「Тогда ради собственного печального прошлого\n　почему бы не помочь Банагеру и компании?」",
+   "orig": "Nine\n「Then for the sake of your own sad past\n　why don't you try helping Banagher and company?」"
+  },
+  {
+   "i": 42,
+   "speaker": "$n",
+   "text": "「Ну и зануда же ты. Ладно, вперёд!」",
+   "orig": "$n\n「Well you're a wet blanket, aren't you? Let's go!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Джудо",
+   "text": "「Ясно!\n　Цельтесь в чёрный «Юникор»… то есть в «Банши»!」",
+   "orig": "Judau\n「OK!\n　Aim for the black Unicor—I mean, the Banshee!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Пуру",
+   "text": "「Марида!」",
+   "orig": "Ple\n「Marida!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Пуру Два",
+   "text": "「Мы идём тебя спасать!」",
+   "orig": "Ple Two\n「We're coming to save you!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Кирю",
+   "text": "「Тобиа! Новое вооружение, которое техотдел «Ямато»\n　собрал по твоей просьбе, и правда\n　меняет дело!」",
+   "orig": "Kiryu\n「Tobia! This new armament the Yamato  \n　Technical Dept. made at your  \n　request is making a real difference!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тобиа",
+   "text": "「Спасибо, Кирю!\n　Сейчас покажу, как быстро я освою\n　этот «Пикок-Смэшер»!」",
+   "orig": "Tobia\n「Thanks, Kiryu!\n　I'll show you how quickly I can\n　master this Peacock Smasher!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Банагер",
+   "text": "「Тобиа, прикроешь меня?」",
+   "orig": "Banagher\n「Tobia, a little back-up, please?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Тобиа",
+   "text": "「Положись на меня,\n　я ведь за этим и здесь！」",
+   "orig": "Tobia\n「Leave it to me,\n　that's why I'm here！」"
+  },
+  {
+   "i": 50,
+   "speaker": "Кинкейд",
+   "text": "（Тобиа и правда\n　в своей стихии.）",
+   "orig": "Kincade\n（Tobia is truly\n　in his element.）"
+  },
+  {
+   "i": 51,
+   "speaker": "Тобиа",
+   "text": "「Останови этот чёрный «Юникорн»\n　и бей по базе!」",
+   "orig": "Tobia\n「Stop that black Unicorn\n　and attack the base!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Банагер",
+   "text": "「А потом мы сможем найти Одри！」",
+   "orig": "Banagher\n「And then we can search for Audrey！」"
+  },
+  {
+   "i": 53,
+   "speaker": "$n",
+   "text": "「Ох, как же я завидую Одри!」",
+   "orig": "$n\n「Oh, how I envy Audrey!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Найн",
+   "text": "「Банагер, Одри, мичман Ридде и вы…\n　Это что же, любовный квадрат получается?」",
+   "orig": "Nine\n「Banagher, Audrey, Ensign Riddhe and you...\n　Would that make for a love square?」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「Нет, я не о том.\n　Просто давно уже никто не думал обо мне так,\n　как Банагер думает об Одри.」",
+   "orig": "$n\n「No, that's not what I mean.\n　Just saying it's been a while since anyone's\n　thought of me in the same way Banagher thinks of Audrey.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Найн",
+   "text": "「Уверена, вы очень скоро\n　найдёте кого-нибудь хорошего.」",
+   "orig": "Nine\n「I'm sure you'll find \n　someone nice very soon.」"
+  },
+  {
+   "i": 57,
+   "speaker": "$n",
+   "text": "（Пусть даже без взаимности — завидую Акире:\n　у него есть кого любить.）",
+   "orig": "$n\n（Even if unrequited I envy Akira for \n　having someone to be in love with.）"
+  },
+  {
+   "i": 58,
+   "speaker": "Джудо",
+   "text": "「Ясно!\n　Цельтесь в чёрный «Юникор»… то есть в «Банши»!」",
+   "orig": "Judau\n「OK!\n　Aim for the black Unicor—I mean, the Banshee!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Пуру",
+   "text": "「Марида!」",
+   "orig": "Ple\n「Marida!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Пуру Два",
+   "text": "「Мы идём тебя спасать!」",
+   "orig": "Ple Two\n「We're coming to save you!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Банагер",
+   "text": "（Одри! Марида!）",
+   "orig": "Banagher\n（Audrey! Marida!）"
+  },
+  {
+   "i": 62,
+   "speaker": "Тобиа",
+   "text": "「Банагер!\n　Прекрати атаковать!」",
+   "orig": "Tobia\n「Banagher!\n　Lay off the attacks!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Джерид",
+   "text": "「Попался,\n　«Юникорн»!」",
+   "orig": "Jerid\n「Gotcha,\n　Unicorn!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Банагер",
+   "text": "「Нет!」",
+   "orig": "Banagher\n「No!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Джудо",
+   "text": "「Банагер!」",
+   "orig": "Judau\n「Banagher!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Джерид",
+   "text": "「Откуда это взялось?!」",
+   "orig": "Jerid\n「Where'd it come from?!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Амуро",
+   "text": "「Берегись!」",
+   "orig": "Amuro\n「Look out!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Джудо",
+   "text": "「Камий!」",
+   "orig": "Judau\n「Kamille!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Ру",
+   "text": "「Не слишком ли удачно вышло по времени?」",
+   "orig": "Roux\n「Isn't the timing a little too good?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Джудо",
+   "text": "「Да какая разница!\n　Это же здорово!」",
+   "orig": "Judau\n「Who cares!\n　This is fantastic!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Джерид",
+   "text": "「Камий!\n　Ах ты негодяй, ты жив!」",
+   "orig": "Jerid\n「Kamille!\n　You rogue, you're alive!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Камий",
+   "text": "「Джерид, ты ничуть не изменился.」",
+   "orig": "Kamille\n「Jerid, you haven't changed.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Джерид",
+   "text": "「Не путай меня с прежним Джеридом.\n　Если ты с этими мятежниками — срежу в два счёта!」",
+   "orig": "Jerid\n「Don't mistake me for the old Jerid.\n　If you're one of those insurgents, I'll drop you quick!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Камий",
+   "text": "「Иди.」",
+   "orig": "Kamille\n「Go.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Банагер",
+   "text": "「Это вы мне?」",
+   "orig": "Banagher\n「Who me?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Камий",
+   "text": "「Именно.\n　И поживее.」",
+   "orig": "Kamille\n「That's right.\n　And be quick about it.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Банагер",
+   "text": "「П-понял!」",
+   "orig": "Banagher\n「A-alright!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Это тот самый пилот—?!」",
+   "orig": "Ple Twelve\n「It's that pilot—?!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Джудо",
+   "text": "「Камий!」",
+   "orig": "Judau\n「Kamille!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Ру",
+   "text": "「Не слишком ли удачно вышло по времени?」",
+   "orig": "Roux\n「Isn't the timing a little too good?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Джудо",
+   "text": "「Да какая разница!\n　Это же здорово!」",
+   "orig": "Judau\n「Who cares!\n　This is fantastic!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Джерид",
+   "text": "「Камий,\n　ты явился, чтобы устроить мне ад, да?」",
+   "orig": "Jerid\n「Kamille,\n　you're here to give me hell, aren't you?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Камий",
+   "text": "「Джерид!」",
+   "orig": "Kamille\n「Jerid!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Джерид",
+   "text": "「Если ты с этими мятежниками — срежу в два счёта!」",
+   "orig": "Jerid\n「If you're one of those insurgents, I'll drop you quick!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Камий",
+   "text": "「Иди.」",
+   "orig": "Kamille\n「Go.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Банагер",
+   "text": "「Это вы мне?」",
+   "orig": "Banagher\n「Who me?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Камий",
+   "text": "「Именно.\n　И поживее.」",
+   "orig": "Kamille\n「That's right.\n　And be quick about it.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Банагер",
+   "text": "「П-понял!」",
+   "orig": "Banagher\n「A-alright!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Это тот самый пилот—?!」",
+   "orig": "Ple Twelve\n「It's that pilot—?!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тобиа",
+   "text": "「Он снова в режиме разрушения!」",
+   "orig": "Tobia\n「It's in Destroy Mode again!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Джудо",
+   "text": "「Он реагирует на Камия?」",
+   "orig": "Judau\n「Is it reacting to Kamille?」"
+  },
+  {
+   "i": 92,
+   "speaker": "Амуро",
+   "text": "（Даже я чувствую, что способности Камия\n　как ньютайпа выросли.\n　Что же с ним произошло?）",
+   "orig": "Amuro\n（Even I can tell that Kamille's Newtype\n　abilities have increased.\n　What exactly happened to him?）"
+  },
+  {
+   "i": 93,
+   "speaker": "Камий",
+   "text": "「Чёрный «Юникорн»!\n　Он уже готов к настоящему бою?!」",
+   "orig": "Kamille\n「The black Unicorn!\n　Is it ready for real combat?!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Камий",
+   "text": "「Берегись!\n　«Банши» идёт прямо на тебя!」",
+   "orig": "Kamille\n「Look out!\n　The Banshee's out to get you!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Банагер",
+   "text": "「Я остановлю Мариду. Мариду оставьте мне!\n　Я ведь за этим и здесь.」",
+   "orig": "Banagher\n「I'll stop Marida. Leave Marida to me!\n　That's why I'm here.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Банагер",
+   "text": "「«Дельта Плюс»!\n　Это вы, мичман Ридде?」",
+   "orig": "Banagher\n「The Delta Plus!\n　Is that you Ensign Riddhe?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Ридде",
+   "text": "「А если и я?」",
+   "orig": "Riddhe\n「And if it is?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Банагер",
+   "text": "「Одри на этой ба—」",
+   "orig": "Banagher\n「Is Audrey on this bas—」"
+  },
+  {
+   "i": 99,
+   "speaker": "Ридде",
+   "text": "「Замолчи, Банагер!」",
+   "orig": "Riddhe\n「Shut up, Banagher!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хатауэй",
+   "text": "「Что вы творите, мичман Ридде?!」",
+   "orig": "Hathaway\n「What are you doing, Ensign Riddhe?!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Ридде",
+   "text": "「Долг солдата — бить мятежников!」",
+   "orig": "Riddhe\n「It's a soldier's duty to attack insurgents!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Банагер",
+   "text": "「Что?」",
+   "orig": "Banagher\n「Huh?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Курц",
+   "text": "「Ты вообще понимаешь, что говоришь?」",
+   "orig": "Kurz\n「Do you even know what you are saying?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Бича",
+   "text": "「Мичман!\n　Вы же были из «Лондо Белл»!」",
+   "orig": "Beecha\n「Ensign!\n　You were a member of Londo Bell!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Ридде",
+   "text": "「Всё это в прошлом.」",
+   "orig": "Riddhe\n「That's all in the past now.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!」",
+   "orig": "Banagher\n「Ensign Riddhe!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Найджел",
+   "text": "「Банагер, стой! Он и слушать не станет\n　ничего из того, что мы скажем.」",
+   "orig": "Nigel\n「Banagher, wait! He's not interested in\n　listening to anything we have to say.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Дагза",
+   "text": "「Дерись, если не хочешь умереть!」",
+   "orig": "Daguza\n「Fight, if you don't want to die!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Банагер",
+   "text": "「Вы это серьёзно, мичман Ридде?」",
+   "orig": "Banagher\n「Are you serious, Ensign Riddhe?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Ридде",
+   "text": "「Банагер!\n　Если бы не ты, она бы не—!」",
+   "orig": "Riddhe\n「Banagher!\n　If it wasn't for you she wouldn't have—!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Камий",
+   "text": "（В чём же ключ к тому, чтобы вытащить\n　войну из этой трясины?）",
+   "orig": "Kamille\n（What is the key to ending\n　the quagmire of the war?）"
+  },
+  {
+   "i": 112,
+   "speaker": "Пуру Двенадцать",
+   "text": "「А-а-а! Моя голова! Ах!」",
+   "orig": "Ple Twelve\n「Ahhh! My head! Argh!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Я не Марида!\n　Я Пуру Двенадцать!」",
+   "orig": "Ple Twelve\n「I'm not Marida!\n　I'm Ple Twelve!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Пуру",
+   "text": "「Всё хорошо, Двенадцать.\n　Выброси это имя.」",
+   "orig": "Ple\n「It's alright, Twelve.\n　Throw away the name.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Что?!」",
+   "orig": "Ple Twelve\n「What?!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Пуру Два",
+   "text": "「Как и ты, мы родились и выросли\n　только ради войны.」",
+   "orig": "Ple Two\n「Just like you, we were born \n　and raised to fight.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Пуру",
+   "text": "「Мы понимаем, Двенадцать.\n　И вдобавок тебе выпала адская жизнь.」",
+   "orig": "Ple\n「We understand, Twelve.\n　On top of that, you've lived a hellish life.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Пуру Двенадцать",
+   "text": "「У-у… А-ах!」",
+   "orig": "Ple Twelve\n「Uhh... Ahh!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Пуру Два",
+   "text": "「Но тебе дали новое имя.\n　Марида!」",
+   "orig": "Ple Two\n「But you have been given a new name.\n　Marida!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Пуру",
+   "text": "「Так живи как Марида!\n　Забудь всю скорбь и всю боль,\n　через которые ты прошла!」",
+   "orig": "Ple\n「So live as Marida!\n　Forget all the sorrow and \n　pain you've been through!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Марида. Марида Круз.\n　Это имя мне дал—.」",
+   "orig": "Ple Twelve\n「Marida. Marida Cruz.\n　I was given the name by—.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Мой господин, командир Циннерман.」",
+   "orig": "Ple Twelve\n「By my master, Commander Zinnerman.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Джудо",
+   "text": "「К ней вернулась память?!」",
+   "orig": "Judau\n「Has her memory returned?!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Пуру Двенадцать",
+   "text": "「А-а-а-ах!」",
+   "orig": "Ple Twelve\n「Aahhh!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Хатауэй",
+   "text": "「Банагер, в погоню!」",
+   "orig": "Hathaway\n「Banagher, give chase!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Банагер",
+   "text": "「Есть!」",
+   "orig": "Banagher\n「Roger!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Ридде",
+   "text": "「Банагер, я тебя не пущу!」",
+   "orig": "Riddhe\n「Banagher, I'm not letting you go!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Банагер",
+   "text": "「Вы меня пропустите, мичман Ридде!」",
+   "orig": "Banagher\n「You're gonna let me through, Ensign Riddhe!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Ридде",
+   "text": "「Ни за что!」",
+   "orig": "Riddhe\n「No way!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Ридде",
+   "text": "「Банагер!」",
+   "orig": "Riddhe\n「Banagher!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде…」",
+   "orig": "Banagher\n「Ensign Riddhe...」"
+  },
+  {
+   "i": 134,
+   "speaker": "Амуро",
+   "text": "「Ридде ушёл!\n　Вперёд, Банагер!」",
+   "orig": "Amuro\n「Riddhe has escaped!\n　Go, Banagher!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Банагер",
+   "text": "「Есть!」",
+   "orig": "Banagher\n「Roger!」"
+  },
+  {
+   "i": 136,
+   "speaker": "$n",
+   "text": "「Банагер, мы ждём, что к возвращению\n　у тебя на руках будут\n　и Марида, и Одри.」",
+   "orig": "$n\n「Banagher, we expect you to have\n　both Marida and Audrey\n　on your lap when you return.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Найн",
+   "text": "「Банагер не из тех,\n　кто станет изменять женщине.」",
+   "orig": "Nine\n「Banagher is not the kind of person \n　 to cheat on a woman.」"
+  },
+  {
+   "i": 138,
+   "speaker": "$n",
+   "text": "「Я не это имел в виду.」",
+   "orig": "$n\n「That's not what I meant.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Найн",
+   "text": "「Будь там осторожнее.\n　Силы Федерации развёрнуты повсюду.」",
+   "orig": "Nine\n「Take care out there. \n　Federation Forces have been widely deployed.」"
+  },
+  {
+   "i": 140,
+   "speaker": "$n",
+   "text": "「Они тебя ждут,\n　так что верни девушек целыми, Банагер.」",
+   "orig": "$n\n「They're waiting for you,\n　so bring the ladies home safely, Banagher.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Найн",
+   "text": "「Будь там осторожнее.\n　Силы Федерации развёрнуты повсюду.」",
+   "orig": "Nine\n「Take care out there. \n　Federation Forces have been widely deployed.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Брайт",
+   "text": "「Всем подразделениям держать передовую до возвращения Банагера!」",
+   "orig": "Bright\n「All units hold front line position until Banagher returns!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Тобиа",
+   "text": "「Удачи, Банагер!」",
+   "orig": "Tobia\n「Godspeed, Banagher!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Тобиа",
+   "text": "「Ты справился, Банагер.\n　И я рад, что Одри тоже выбралась целой.」",
+   "orig": "Tobia\n「You did it, Banagher.\n　And I'm glad to see Audrey made it out safely, too.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Банагер",
+   "text": "「Ты это видел, Тобиа?」",
+   "orig": "Banagher\n「Did you see that, Tobia?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Тобиа",
+   "text": "「Ты бился изо всех сил. Эта победа заслуженная!」",
+   "orig": "Tobia\n「You fought with all your might. You earned that victory!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Банагер",
+   "text": "「Похоже, тот рассказ о твоих подвигах\n　всё-таки пригодился, Тобиа.」",
+   "orig": "Banagher\n「Maybe that story of your heroics came\n　in handy, after all, Tobia.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Одри",
+   "text": "「Банагер, не теряй\n　сосредоточенности.」",
+   "orig": "Audrey\n「Banagher, don't\n　lose focus.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Пуру Двенадцать",
+   "text": "「«Гандам»!」",
+   "orig": "Ple Twelve\n「Gundam!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Банагер",
+   "text": "「Марида, прекрати это безумие!\n　Твоё имя — Марида Круз.\n　Ты больше не Пуру Двенадцать!」",
+   "orig": "Banagher\n「Marida, stop this insanity!\n　Your name is Marida Cruz.\n　You are no longer Ple Twelve!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Пуру Двенадцать",
+   "text": "「От твоей нескончаемой болтовни у меня болит голова!」",
+   "orig": "Ple Twelve\n「You're incessant babbling is making my head hurt!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Банагер",
+   "text": "「Эта боль — доказательство того, что настоящая ты\n　сопротивляется тому, кто тобой управляет!」",
+   "orig": "Banagher\n「That pain is proof that the real you\n　is resisting the control you're under!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Пуру",
+   "text": "「Марида!」",
+   "orig": "Ple\n「Marida!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Пуру Два",
+   "text": "「Пожалуйста, перестань!」",
+   "orig": "Ple Two\n「Please stop!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Молчать!\n　В-вы враги моего г-господина!」",
+   "orig": "Ple Twelve\n「Silence!\n　Y-you are the enemies of my m-master!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Я Пуру Двенадцать.\n　Мой господин — Альберто Вист!」",
+   "orig": "Ple Twelve\n「I am Ple Twelve.\n　My master is Alberto Vist!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Банагер",
+   "text": "「Это неправда!\n　Ты Марида Круз!」",
+   "orig": "Banagher\n「That's not true!\n　You are Marida Cruz!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Банагер",
+   "text": "「Твой господин вовсе не Альберто Вист.\n　Твой настоящий господин — командир Циннерман\n　с «Гаранциера».」",
+   "orig": "Banagher\n「Your master is not Alberto Vist.\n　Your true master is Cmdr. Zinnerman of the Garencieres.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Замолчи!\n　Я больше не стану это слушать!」",
+   "orig": "Ple Twelve\n「Shut up!\n　I won't hear any more of it!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Банагер",
+   "text": "「Ну прошу, выслушай!」",
+   "orig": "Banagher\n「Won't you please listen?!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Циннерман",
+   "text": "「Марида!」",
+   "orig": "Zinnerman\n「Marida!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Этот голос.」",
+   "orig": "Ple Twelve\n「That voice.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Циннерман",
+   "text": "「Марида, послушай меня!\n　Это я. Циннерман!」",
+   "orig": "Zinnerman\n「Marida, listen to me!\n　It's me. Zinnerman!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Что?!\n　Циннерман? Господин?」",
+   "orig": "Ple Twelve\n「What?!\n　Zinnerman? Master?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Циннерман",
+   "text": "「Марида, вернись.\n　Вернись ко мне!」",
+   "orig": "Zinnerman\n「Marida, come back.\n　Come back to me!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Пуру Двенадцать",
+   "text": "「А-ах!\n　Господин. Мой господин.」",
+   "orig": "Ple Twelve\n「Aagh!\n　Master. My master.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Циннерман",
+   "text": "「Выходи из мобильного доспеха, Марида.」",
+   "orig": "Zinnerman\n「Disembark from the mobile suit, Marida.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Ах!」",
+   "orig": "Ple Twelve\n「Agh!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Э-это что, слёзы?」",
+   "orig": "Ple Twelve\n「A-are these tears?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Циннерман",
+   "text": "「Идём со мной!\n　Не оставляй меня умирать в одиночестве!」",
+   "orig": "Zinnerman\n「Come with me!\n　Don't leave me to die alone!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Марида",
+   "text": "「Господин!」",
+   "orig": "Marida\n「Master!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Банагер",
+   "text": "「Марида!」",
+   "orig": "Banagher\n「Marida!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Одри",
+   "text": "「Банагер!\n　Ты должен поймать Мариду!」",
+   "orig": "Audrey\n「Banagher!\n　You have to catch Marida!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Банагер",
+   "text": "「Знаю!」",
+   "orig": "Banagher\n「I know!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Марида",
+   "text": "「…」",
+   "orig": "Marida\n「...」"
+  },
+  {
+   "i": 176,
+   "speaker": "Пуру",
+   "text": "「Марида!」",
+   "orig": "Ple\n「Marida!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Пуру Два",
+   "text": "「Ты цел, Банагер?」",
+   "orig": "Ple Two\n「Are you alright, Banagher?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Банагер",
+   "text": "「Да.\n　Я успел её поймать.」",
+   "orig": "Banagher\n「Yes.\n　I was able to catch her.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Одри",
+   "text": "「Банагер.\n　Отнеси нас к «Гаранциеру».」",
+   "orig": "Audrey\n「Banagher.\n　Take us to Garencieres.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Банагер",
+   "text": "「Хорошо.」",
+   "orig": "Banagher\n「I will.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Одри",
+   "text": "「Нам придётся ненадолго расстаться, Банагер.」",
+   "orig": "Audrey\n「We have to part ways for a little while, Banagher.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Банагер",
+   "text": "「Одри…」",
+   "orig": "Banagher\n「Audrey...」"
+  },
+  {
+   "i": 183,
+   "speaker": "Одри",
+   "text": "「Я отправлюсь с Маридой.」",
+   "orig": "Audrey\n「I'm going with Marida.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Банагер",
+   "text": "「Мы ещё сможем увидеться?」",
+   "orig": "Banagher\n「Will we be able to meet again?」"
+  },
+  {
+   "i": 185,
+   "speaker": "Одри",
+   "text": "「Когда-нибудь.」",
+   "orig": "Audrey\n「Someday.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Фласт",
+   "text": "「Принимаем на борт Мариду и принцессу!」",
+   "orig": "Flaste\n「Taking Marida and the princess aboard!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Циннерман",
+   "text": "「Ну что ж, уходим.」",
+   "orig": "Zinnerman\n「Alright then, let's go.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Камий",
+   "text": "「Я их прикрою.」",
+   "orig": "Kamille\n「I'll lead.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джудо",
+   "text": "「Камий!」",
+   "orig": "Judau\n「Kamille!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Тобиа",
+   "text": "「Ты точно не против, Банагер?\n　Вот так отпустить Одри с ними?」",
+   "orig": "Tobia\n「Are you OK with this, Banagher?\n　Letting Audrey go with them like that?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Банагер",
+   "text": "「Да. Я в порядке.」",
+   "orig": "Banagher\n「Yeah. I'm alright.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Банагер",
+   "text": "（Когда-нибудь мы встретимся снова.\n　В этом я не сомневаюсь.）",
+   "orig": "Banagher\n（We will meet again someday.\n　Of that, I have no doubt.）"
+  },
+  {
+   "i": 193,
+   "speaker": "$n",
+   "text": "「Найн, смотри.\n　Даже ребята из Федерации, кажется, обомлели.」",
+   "orig": "$n\n「Nine, look.\n　Even the Federation Forces' guys appear dumbfounded.」"
+  },
+  {
+   "i": 194,
+   "speaker": "$n",
+   "text": "「Надеюсь, ты всё это как следует записываешь.\n　Потом выйдет отличная история.」",
+   "orig": "$n\n「I hope you're properly recording all this.\n　It'll make for a great story later on.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Найн",
+   "text": "「По-моему, сейчас не время и не место!」",
+   "orig": "Nine\n「I don't think this is the time or place!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Джудо",
+   "text": "「Камий!」",
+   "orig": "Judau\n「Kamille!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Тобиа",
+   "text": "「Ты точно не против, Банагер?\n　Вот так отпустить Одри с ними?」",
+   "orig": "Tobia\n「Are you OK with this, Banagher?\n　Letting Audrey go with them like that?」"
+  },
+  {
+   "i": 198,
+   "speaker": "Банагер",
+   "text": "「Да. Я в порядке.」",
+   "orig": "Banagher\n「Yeah. I'm alright.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Банагер",
+   "text": "（Когда-нибудь мы встретимся снова.\n　В этом я не сомневаюсь.）",
+   "orig": "Banagher\n（We will meet again someday.\n　Of that, I have no doubt.）"
+  },
+  {
+   "i": 200,
+   "speaker": "$n",
+   "text": "「Найн, смотри.\n　Даже люди Федерации, кажется, обомлели.」",
+   "orig": "$n\n「Nine, look.\n　Even the Federation Forces' people appear dumbfounded.」"
+  },
+  {
+   "i": 201,
+   "speaker": "$n",
+   "text": "「Увидев, как всё это обернулось,\n　они наверняка крепко призадумались.」",
+   "orig": "$n\n「Seeing the situation unfold as they did,\n　no doubt they are caught up in thought.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Найн",
+   "text": "「Береги себя, сестрица!」",
+   "orig": "Nine\n「Be well, Sis!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Окита",
+   "text": "「Что сейчас произошло?!」",
+   "orig": "Okita\n「What just happened?!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Мори",
+   "text": "「Неопознанная группа аппаратов! Дистанция 3000!」",
+   "orig": "Mori\n「Unidentified group of aircraft! Distance, 3000!」"
+  },
+  {
+   "i": 205,
+   "speaker": "$n",
+   "text": "「Это Гардим?」",
+   "orig": "$n\n「Is it Gardim?」"
+  },
+  {
+   "i": 206,
+   "speaker": "Гули",
+   "text": "「Здравствуй, $n.\n　Давно не виделись.」",
+   "orig": "Ghuli\n「Hello, $n.\n　Been a long time.」"
+  },
+  {
+   "i": 207,
+   "speaker": "$n",
+   "text": "「Гули!\n　Ты жив?!」",
+   "orig": "$n\n「Ghuli!\n　You're alive?!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Гули",
+   "text": "「И чему ты так удивляешься?」",
+   "orig": "Ghuli\n「Why are you so surprised?」"
+  },
+  {
+   "i": 209,
+   "speaker": "$n",
+   "text": "「Считалось, что ты погиб на Марсе.」",
+   "orig": "$n\n「You supposedly died on Mars.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Гули",
+   "text": "「Не говори глупостей.\n　Не было ни малейшей причины, чтобы я проиграл\n　бой во Втором мире.」",
+   "orig": "Ghuli\n「Don't be silly.\n　There's no reason I wouldn't have won\n　the battle in the Second World.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Гули",
+   "text": "「А погоня за вами, после того как вы спешно отступили,\n　привела меня, похоже, в Третий мир.」",
+   "orig": "Ghuli\n「And chasing you after you all made a hasty retreat\n　has apparently brought me to the Third World.」"
+  },
+  {
+   "i": 212,
+   "speaker": "$n",
+   "text": "「Да что вообще происходит?」",
+   "orig": "$n\n「Just what's going on?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Рёма",
+   "text": "「Единственное, в чём я уверен, —\n　они не прыгали, а перешли сюда,\n　просто пожелав здесь оказаться.」",
+   "orig": "Ryoma\n「The only thing that I can confirm\n　is that they didn't jump, but rather made the\n　transition by willing themselves here.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Тобиа",
+   "text": "「Сначала отряды, которых мы встретили в разломе\n　измерений, а теперь войска измерения AD!」",
+   "orig": "Tobia\n「So first the troops we encountered in the dimensional\n　rift and now the troops of the AD dimension!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Кинкейд",
+   "text": "「Выходит, это вовсе не было случайностью.」",
+   "orig": "Kincade\n「So in fact, it wasn't an accident.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Брайт",
+   "text": "「Командующий Окита!\n　Кто они такие?」",
+   "orig": "Bright\n「Commander Okita!\n　Who are they?」"
+  },
+  {
+   "i": 217,
+   "speaker": "Окита",
+   "text": "「Они называют себя Гардим.\n　Боюсь, больше нам ничего не известно.」",
+   "orig": "Okita\n「They call themselves the Gardim.\n　We have no further information, I'm afraid.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Окита",
+   "text": "「Более того, они настроены к нам враждебно.」",
+   "orig": "Okita\n「Moreover, they are hostile toward us.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Гули",
+   "text": "「Тогда покончим с этим поскорее.\n　Полный ход!」",
+   "orig": "Ghuli\n「Then let's get this over with.\n　Speed up!」"
+  },
+  {
+   "i": 220,
+   "speaker": "$n",
+   "text": "「Гардим!」",
+   "orig": "$n\n「Gardim!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Гули",
+   "text": "「Здравствуй, $n.\n　Давненько.」",
+   "orig": "Ghuli\n「Hello, $n.\n　Long time.」"
+  },
+  {
+   "i": 222,
+   "speaker": "$n",
+   "text": "「Гули!\n　Ты жив?!」",
+   "orig": "$n\n「Ghuli!\n　You're alive?!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Гули",
+   "text": "「И чему ты так удивляешься?」",
+   "orig": "Ghuli\n「Why are you so surprised?」"
+  },
+  {
+   "i": 224,
+   "speaker": "$n",
+   "text": "「Да потому, что ты\n　погиб в бою на Марсе.」",
+   "orig": "$n\n「Well, because you\n　died at the battle on Mars.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Гули",
+   "text": "「Не говори глупостей.\n　Не было ни малейшей причины, чтобы я проиграл\n　и тот бой во Втором мире.」",
+   "orig": "Ghuli\n「Don't be silly.\n　There's no reason I wouldn't have won\n　the battle in the Second World as well.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Гули",
+   "text": "「А погоня за вами, после того как вы спешно отступили,\n　привела меня, похоже, в Третий мир.」",
+   "orig": "Ghuli\n「And chasing you after you all made a hasty retreat\n　has apparently brought me to the Third World.」"
+  },
+  {
+   "i": 227,
+   "speaker": "$n",
+   "text": "「О чём ты вообще?」",
+   "orig": "$n\n「What are you talking about?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Рёма",
+   "text": "「Единственное, в чём мы уверены, —\n　они не прыгали, а перешли сюда,\n　просто пожелав здесь оказаться.」",
+   "orig": "Ryoma\n「The only thing that we can confirm\n　is that they didn't jump, but rather made the\n　transition by willing themselves here.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Тобиа",
+   "text": "「Сначала отряды, которых мы встретили в разломе\n　измерений, а теперь войска измерения AD!」",
+   "orig": "Tobia\n「So first the troops we encountered in the dimensional\n　rift and now the troops of the AD dimension!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Кинкейд",
+   "text": "「Выходит, это вовсе не было случайностью.」",
+   "orig": "Kincade\n「So in fact, it wasn't an accident.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Брайт",
+   "text": "「Командующий Окита,\n　кто они такие?」",
+   "orig": "Bright\n「Commander Okita,\n　who are they?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Окита",
+   "text": "「Они называют себя Гардим.\n　Боюсь, больше нам ничего не известно.」",
+   "orig": "Okita\n「They call themselves the Gardim.\n　We have no further information, I'm afraid.」"
+  },
+  {
+   "i": 233,
+   "speaker": "Окита",
+   "text": "「Более того, они настроены к нам враждебно.」",
+   "orig": "Okita\n「Moreover, they are hostile toward us.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Гули",
+   "text": "「Тогда покончим с этим поскорее.\n　Полный ход!」",
+   "orig": "Ghuli\n「Then let's get this over with.\n　Speed up!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Джерид",
+   "text": "「Оставить базу!\n　Толку от неё больше никакого.」",
+   "orig": "Jerid\n「Abandon base!\n　It can no longer be of any use to us.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Лиам",
+   "text": "「Всем войскам Федерации на базе — продолжать эвакуацию!」",
+   "orig": "Liam\n「All Federation troops on base, continue the evacuation!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Отто",
+   "text": "「Если их цель — мы,\n　то уйти не выйдет!」",
+   "orig": "Otto\n「If we are their target,\n　there'll be no escape!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Кодзи",
+   "text": "「Значит, выбора нет?」",
+   "orig": "Koji\n「So there's no choice?」"
+  },
+  {
+   "i": 239,
+   "speaker": "Кинкейд",
+   "text": "「Именно.」",
+   "orig": "Kincade\n「Exactly.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Хатауэй",
+   "text": "「Банагер! Тобиа!」",
+   "orig": "Hathaway\n「Banagher! Tobia!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Тобиа",
+   "text": "「Банагер, будь там осторожнее!」",
+   "orig": "Tobia\n「Banagher, take care out there!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Банагер",
+   "text": "「Я обещал Одри, что мы когда-нибудь встретимся.\n　Я не имею права здесь погибнуть!」",
+   "orig": "Banagher\n「I've promised Audrey we'll meet again someday.\n　I can't get myself killed here!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Гули",
+   "text": "「Глупцы, вам не понять величия Гардима!」",
+   "orig": "Ghuli\n「You fools do not understand the greatness of the Gardim!」"
+  },
+  {
+   "i": 244,
+   "speaker": "$n",
+   "text": "「Хватит пропаганды, давай уже!\n　Скорость ведь важнее всего, верно?」",
+   "orig": "$n\n「Enough of the propaganda, bring it!\n　Speed is most important, no?」"
+  },
+  {
+   "i": 245,
+   "speaker": "Гули",
+   "text": "「Так ты понимаешь?\n　Тем больше причин сделать тебя своей целью!」",
+   "orig": "Ghuli\n「So you get it, do you?\n　Even more reason you're my target!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Найн",
+   "text": "「Кэп!」",
+   "orig": "Nine\n「Cap!」"
+  },
+  {
+   "i": 247,
+   "speaker": "$n",
+   "text": "「О да, я понял!\n　Похоже, эти ребята выбрали меня!」",
+   "orig": "$n\n「Oh yeah, I get it!\n　Apparently, these guys have chosen me!」"
+  },
+  {
+   "i": 248,
+   "speaker": "$n",
+   "text": "「Похоже, у нас с Банагером есть кое-что общее!\n　Ни один из нас не согласен умереть, не встретив ту самую!」",
+   "orig": "$n\n「Seems Banagher and I share something in common!\n　Neither of us is willing to die to meet a special lady!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Хатауэй",
+   "text": "「Банагер! Тобиа!」",
+   "orig": "Hathaway\n「Banagher! Tobia!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Тобиа",
+   "text": "「Банагер, будь там осторожнее!」",
+   "orig": "Tobia\n「Banagher, take care out there!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Банагер",
+   "text": "「Я обещал Одри, что мы когда-нибудь встретимся.\n　Я не имею права здесь погибнуть!」",
+   "orig": "Banagher\n「I've promised Audrey we'll meet again someday.\n　I can't get myself killed here!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Гули",
+   "text": "「Глупцы, вам не понять величия Гардима!」",
+   "orig": "Ghuli\n「You fools do not understand the greatness of the Gardim!」"
+  },
+  {
+   "i": 253,
+   "speaker": "$n",
+   "text": "「Хватит бахвалиться. Покончим с этим.\n　Для тебя ведь скорость — это всё, не так ли?」",
+   "orig": "$n\n「Enough blustering. Let's get this over with.\n　Speed is everything to you, isn't it?」"
+  },
+  {
+   "i": 254,
+   "speaker": "Гули",
+   "text": "「Так ты понимаешь?\n　Тем больше причин сделать тебя своей целью!」",
+   "orig": "Ghuli\n「So you get it, do you?\n　Even more reason you're my target!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Найн",
+   "text": "「Сестрица!」",
+   "orig": "Nine\n「Sis!」"
+  },
+  {
+   "i": 256,
+   "speaker": "$n",
+   "text": "「Он идёт за мной!\n　Выбора у меня нет!」",
+   "orig": "$n\n「He's coming after me!\n　I don't have a choice!」"
+  },
+  {
+   "i": 257,
+   "speaker": "$n",
+   "text": "「Что ж, иди сюда, Гули!\n　На этот раз я поднесу тебе то поражение,\n　которого ты так жаждешь!」",
+   "orig": "$n\n「Come then, Ghuli!\n　This time I'll hand you the defeat you so desire!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Бича",
+   "text": "「Э-эй!」",
+   "orig": "Beecha\n「H-hey!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Элль",
+   "text": "「Что это такое?!」",
+   "orig": "Elle\n「What's that?!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Банагер",
+   "text": "「Эй, кто в «Банши»?」",
+   "orig": "Banagher\n「Hey, who's in the Banshee?」"
+  },
+  {
+   "i": 261,
+   "speaker": "Ридде",
+   "text": "「Я, Банагер!」",
+   "orig": "Riddhe\n「Me, Banagher!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!」",
+   "orig": "Banagher\n「Ensign Riddhe!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Тобиа",
+   "text": "「В таком состоянии ты просто не сможешь вести «Банши»!」",
+   "orig": "Tobia\n「You can't possibly pilot the Banshee in this condition!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Ридде",
+   "text": "「Я объявляю тебя своим врагом,\n　Банагер Линкс!」",
+   "orig": "Riddhe\n「I name you my enemy,\n　Banagher Links!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Тобиа",
+   "text": "「Ты!\n　Ты же один из этих пришельцев-захватчиков\n　с планеты Гардим, да?」",
+   "orig": "Tobia\n「You!\n　You're one of those alien invaders\n　from the planet Gardim, aren't you?」"
+  },
+  {
+   "i": 266,
+   "speaker": "Банагер",
+   "text": "「Оставь, Тобиа.\n　Я принимаю чувства мичмана Ридде ко мне.」",
+   "orig": "Banagher\n「Let it go, Tobia.\n　I accept Ensign Riddhe's feelings toward me.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Ридде",
+   "text": "「Банагер!\n　И долго ты ещё собираешься надо мной насмехаться?」",
+   "orig": "Riddhe\n「Banagher!\n　Just how long do you plan to continue mocking me?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Банагер",
+   "text": "「Если это поможет вам примириться с собой,\n　мичман Ридде, я приму ваш вызов.」",
+   "orig": "Banagher\n「If it helps you make peace with yourself,\n　Ensign Riddhe, I'll face you.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Гули",
+   "text": "「Ха! Я чую распрю в ваших рядах?\n　Уровень общественного развития этой планеты\n　просто смехотворен.」",
+   "orig": "Ghuli\n「Ha! Do I sense internal conflict?\n　This planet's sociocultural evolution\n　level is laughable.」"
+  },
+  {
+   "i": 270,
+   "speaker": "$n",
+   "text": "「Тут не поспоришь.」",
+   "orig": "$n\n「Can't disagree to that.」"
+  },
+  {
+   "i": 271,
+   "speaker": "$n",
+   "text": "「Но Банагер и мичман Ридде\n　оба смертельно серьёзны.\n　Ничего смешного тут нет.」",
+   "orig": "$n\n「But Banagher and Ensign Riddhe\n　are both deadly serious.\n　It's hardly laughable.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Гули",
+   "text": "「Ох, неужели я задел за живое?\n　Тогда выходи и встреться со мной лицом к лицу, $n!」",
+   "orig": "Ghuli\n「Aw, did I hurt your feelings?\n　Then come and face me like a man, $n!」"
+  },
+  {
+   "i": 273,
+   "speaker": "$n",
+   "text": "「С удовольствием!」",
+   "orig": "$n\n「With pleasure!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Банагер",
+   "text": "「Эй, кто в «Банши»?」",
+   "orig": "Banagher\n「Hey, who's in the Banshee?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Ридде",
+   "text": "「Я, Банагер!」",
+   "orig": "Riddhe\n「Me, Banagher!」"
+  },
+  {
+   "i": 276,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!」",
+   "orig": "Banagher\n「Ensign Riddhe!」"
+  },
+  {
+   "i": 277,
+   "speaker": "Тобиа",
+   "text": "「В таком состоянии ты просто не сможешь вести «Банши»!」",
+   "orig": "Tobia\n「You can't possibly pilot the Banshee in this condition!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Ридде",
+   "text": "「Я объявляю тебя своим врагом,\n　Банагер Линкс!」",
+   "orig": "Riddhe\n「I name you my enemy,\n　Banagher Links!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Тобиа",
+   "text": "「Ты!\n　Ты же один из этих пришельцев-захватчиков\n　с планеты Гардим, да?」",
+   "orig": "Tobia\n「You!\n　You're one of those alien invaders\n　from the planet Gardim, aren't you?」"
+  },
+  {
+   "i": 280,
+   "speaker": "Банагер",
+   "text": "「Оставь, Тобиа.\n　Я принимаю чувства мичмана Ридде ко мне.」",
+   "orig": "Banagher\n「Let it go, Tobia.\n　I accept Ensign Riddhe's feelings toward me.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Ридде",
+   "text": "「Банагер!\n　И долго ты ещё собираешься надо мной насмехаться?」",
+   "orig": "Riddhe\n「Banagher!\n　Just how long do you plan to continue mocking me?」"
+  },
+  {
+   "i": 282,
+   "speaker": "Банагер",
+   "text": "「Если это поможет вам примириться с собой,\n　мичман Ридде, я приму ваш вызов.」",
+   "orig": "Banagher\n「If helps you make peace with yourself,\n　Ensign Riddhe, I'll face you.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Гули",
+   "text": "「Ха! Я чую распрю в ваших рядах?\n　Уровень общественного развития этой планеты\n　просто смехотворен.」",
+   "orig": "Ghuli\n「Ha! Do I sense internal conflict?\n　This planet's sociocultural evolution\n　level is laughable.」"
+  },
+  {
+   "i": 284,
+   "speaker": "$n",
+   "text": "「Раз мы, земляне, воюем без передышки,\n　в твоих словах, пожалуй, есть правда.」",
+   "orig": "$n\n「As we Earthlings are constantly at war,\n　what you claim might be true.」"
+  },
+  {
+   "i": 285,
+   "speaker": "$n",
+   "text": "「И всё же Банагер и мичман Ридде дошли до этого\n　не по своей воле — так уж сложились обстоятельства.\n　И смеяться над этим я тебе не позволю!」",
+   "orig": "$n\n「That said, due to circumstances beyond their control\n　Banagher and Ensign Riddhe have come to this.\n　And I won't let you make a mockery of it!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Гули",
+   "text": "「Ох, неужели я задел за живое?\n　Тогда выходи и сразись со мной, $n!」",
+   "orig": "Ghuli\n「Aw, did I hurt your feelings?\n　Then come and face me, $n!」"
+  },
+  {
+   "i": 287,
+   "speaker": "$n",
+   "text": "「С превеликим удовольствием!」",
+   "orig": "$n\n「My pleasure!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Гули",
+   "text": "「Хм.\n　Поверить не могу, что ты гнался за мной так долго.」",
+   "orig": "Ghuli\n「Hmph.\n　I can't believe you've chased me this far.」"
+  },
+  {
+   "i": 289,
+   "speaker": "$n",
+   "text": "「И это говорит тот, кто проиграл трижды.」",
+   "orig": "$n\n「Said the three-time loser.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Гули",
+   "text": "「Что ж, пора оборвать твою победную серию!」",
+   "orig": "Ghuli\n「Well then, time to end your winning streak!」"
+  },
+  {
+   "i": 291,
+   "speaker": "$n",
+   "text": "「Попробуй!\n　Покончим с этим раз и навсегда!」",
+   "orig": "$n\n「Bring it on!\n　Let's settle this once and for all!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Гули",
+   "text": "「Ты об этом пожалеешь, $n!」",
+   "orig": "Ghuli\n「You'll regret it, $n!」"
+  },
+  {
+   "i": 293,
+   "speaker": "$n",
+   "text": "「Что?」",
+   "orig": "$n\n「What?」"
+  },
+  {
+   "i": 294,
+   "speaker": "Гули",
+   "text": "「Вас понял.\n　Отхожу.」",
+   "orig": "Ghuli\n「Understood.\n　Retreating.」"
+  },
+  {
+   "i": 295,
+   "speaker": "$n",
+   "text": "「Эй, погоди-ка минутку!」",
+   "orig": "$n\n「Hey now, wait just a minute!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Гули",
+   "text": "「Боюсь, придётся решить это в следующий раз,\n　$n.」",
+   "orig": "Ghuli\n「I'm afraid we'll have to resolve this next time,\n　$n.」"
+  },
+  {
+   "i": 297,
+   "speaker": "$n",
+   "text": "「Да что это сейчас было?」",
+   "orig": "$n\n「What on Earth was that?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Найн",
+   "text": "「Скорее всего, выполняет приказ\n　о возвращении от старшего по званию.」",
+   "orig": "Nine\n「Probably responding to repatriation\n　orders from a high-ranking officer.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Гули",
+   "text": "「Хм.\n　Поверить не могу, что ты гнался за мной так долго.」",
+   "orig": "Ghuli\n「Hmph.\n　I can't believe you've chased me this far.」"
+  },
+  {
+   "i": 300,
+   "speaker": "$n",
+   "text": "「И это говорит тот, кто проиграл трижды.」",
+   "orig": "$n\n「Said the three-time loser.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Гули",
+   "text": "「Что ж, пора оборвать твою победную серию!」",
+   "orig": "Ghuli\n「Well then, time to end your winning streak!」"
+  },
+  {
+   "i": 302,
+   "speaker": "$n",
+   "text": "「Меня это устроит!\n　Мне нужна победа настолько явная, чтобы даже такой\n　тугодум, как ты, не смог отрицать, кто победил!」",
+   "orig": "$n\n「Fine with me!\n　I'd prefer a decisive win so even the dimwitted\n　likes of you could not deny who was victorious!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Гули",
+   "text": "「Ты об этом пожалеешь, $n!」",
+   "orig": "Ghuli\n「You'll regret it, $n!」"
+  },
+  {
+   "i": 304,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Гули",
+   "text": "「Вас понял.\n　Отхожу.」",
+   "orig": "Ghuli\n「Understood.\n　Retreating.」"
+  },
+  {
+   "i": 306,
+   "speaker": "$n",
+   "text": "「Т-ты серьёзно?」",
+   "orig": "$n\n「A-are you serious?」"
+  },
+  {
+   "i": 307,
+   "speaker": "Гули",
+   "text": "「Боюсь, придётся решить это в следующий раз,\n　$n.」",
+   "orig": "Ghuli\n「I'm afraid we'll have to resolve this next time,\n　$n.」"
+  },
+  {
+   "i": 308,
+   "speaker": "$n",
+   "text": "「Да что это сейчас было?」",
+   "orig": "$n\n「What on Earth was that?」"
+  },
+  {
+   "i": 309,
+   "speaker": "Найн",
+   "text": "「Скорее всего, выполняет приказ\n　о возвращении от старшего по званию.」",
+   "orig": "Nine\n「Probably responding to repatriation\n　orders from a high-ranking officer.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Ридде",
+   "text": "「Что ж, вот мы и снова здесь.」",
+   "orig": "Riddhe\n「So here we are again.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!\n　Что вы здесь делаете?」",
+   "orig": "Banagher\n「Ensign Riddhe!\n　What are you doing here?」"
+  },
+  {
+   "i": 312,
+   "speaker": "Ридде",
+   "text": "「Уничтожить тебя — моя единственная цель, Банагер.\n　Никогда об этом не забывай!」",
+   "orig": "Riddhe\n「Destroying you is my sole purpose, Banagher.\n　Never forget it!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде…」",
+   "orig": "Banagher\n「Ensign Riddhe...」"
+  },
+  {
+   "i": 314,
+   "speaker": "Лиам",
+   "text": "「Все силы Гардима отступили.」",
+   "orig": "Liam\n「All the Gradim forces have retreated.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Отто",
+   "text": "「Для гостей у них отвратительнейшие манеры.」",
+   "orig": "Otto\n「As guests, they had the most appalling manners.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Аска",
+   "text": "「Похоже, в итоге ни одна из двух особ,\n　на которых ты нацелился, тебе не досталась.」",
+   "orig": "Asuka\n「Seems that ultimately neither of two persons\n　you had your sights set on were obtainable.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Синдзи",
+   "text": "「Аска!」",
+   "orig": "Shinji\n「Asuka!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Банагер",
+   "text": "「Не переживай, Синдзи.」",
+   "orig": "Banagher\n「Don't worry about it, Shinji.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Синдзи",
+   "text": "「Ты точно в порядке?」",
+   "orig": "Shinji\n「Are you sure?」"
+  },
+  {
+   "i": 320,
+   "speaker": "Банагер",
+   "text": "「У меня такое чувство, что когда-нибудь я снова\n　увижу и Одри, и Мариду.」",
+   "orig": "Banagher\n「I have a feeling I'll see both\n　Audrey and Marida again someday.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Банагер",
+   "text": "「Я должен в это верить.」",
+   "orig": "Banagher\n「I have to believe that.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Банагер",
+   "text": "「Марида, прошу, выслушай меня.」",
+   "orig": "Banagher\n「Marida, please listen to what I have to say.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Меня зовут Пуру Двенадцать!\n　Прекрати звать меня Маридой!」",
+   "orig": "Ple Twelve\n「My name is Ple Twelve!\n　Stop calling me Marida!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Банагер",
+   "text": "「Есть люди, которым ты дорога.\n　Или ты об этом забыла?」",
+   "orig": "Banagher\n「There are people who care about you.\n　Or have you forgotten that?」"
+  },
+  {
+   "i": 325,
+   "speaker": "Банагер",
+   "text": "「«Гаранциер»!\n　Командир Циннерман!\n　Марида, попробуй вспомнить!」",
+   "orig": "Banagher\n「The Garencieres!\n　Commander Zinnerman!\n　Marida, try to remember!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Ты лезешь мне в голову! От тебя она болит!\n　Я тебя уничтожу!」",
+   "orig": "Ple Twelve\n「You're messing with my mind! Making my head hurt!\n　I'm going to destroy you!」"
+  },
+  {
+   "i": 327,
+   "speaker": "Банагер",
+   "text": "「Чёрт! Неужели придётся дойти до того,\n　чтобы вывести её машину из строя?!」",
+   "orig": "Banagher\n「Damn! Is she going to force me \n　to go as far as disabling her unit?!」"
+  },
+  {
+   "i": 328,
+   "speaker": "Джудо",
+   "text": "「Пуру, Пуру Два! Вот ваш шанс!\n　Поговорите с ней. Поговорите с Маридой!」",
+   "orig": "Judau\n「Ple, Ple Two! Now's your chance!\n　Speak to her. Speak to Marida!」"
+  },
+  {
+   "i": 329,
+   "speaker": "Пуру",
+   "text": "「Двенадцать!」",
+   "orig": "Ple\n「Twelve!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Пуру Два",
+   "text": "「Ты должна прекратить драться!\n　В этом нет никакой нужды!」",
+   "orig": "Ple Two\n「You must stop fighting!\n　There's no need for it!」"
+  },
+  {
+   "i": 331,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Кто вы такие?\n　Какое вы имеете право меня останавливать?」",
+   "orig": "Ple Twelve\n「Who are you?\n　What gives you the right to stop me?」"
+  },
+  {
+   "i": 332,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Вы просто хотите меня запутать!\n　Я вас уничтожу! Всех до одного!」",
+   "orig": "Ple Twelve\n「You're just trying to confuse me!\n　I'll destroy you! Destroy you all!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Джудо",
+   "text": "「Признай саму себя, Марида!\n　Потому что ты на самом деле не такая!」",
+   "orig": "Judau\n「Acknowledge your true self, Marida!\n　Because this is not who you really are!」"
+  },
+  {
+   "i": 334,
+   "speaker": "Пуру Два",
+   "text": "「Этот чёрный «Гандам»\n　управляет твоими мыслями и искажает их!」",
+   "orig": "Ple Two\n「That black Gundam is\n　controlling and distorting your thoughts!」"
+  },
+  {
+   "i": 335,
+   "speaker": "Пуру",
+   "text": "「Мы должны уничтожить эту машину!\n　Так что прошу тебя, Двенадцать,\n　очнись!」",
+   "orig": "Ple\n「We've got to destroy that unit! \n　So please, Twelve, \n　you must wake up!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Ридде",
+   "text": "「Какая бессмысленная трата техники!」",
+   "orig": "Riddhe\n「What a waste of machinery!」"
+  },
+  {
+   "i": 337,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде, прекратите это безумие!」",
+   "orig": "Banagher\n「Ensign Riddhe, stop this madness!」"
+  },
+  {
+   "i": 338,
+   "speaker": "Ридде",
+   "text": "「Замолчи, Банагер!\n　Это всё из-за тебя!」",
+   "orig": "Riddhe\n「Shut up, Banagher!\n　This is all your fault!」"
+  },
+  {
+   "i": 339,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде…」",
+   "orig": "Banagher\n「Ensign Riddhe...」"
+  },
+  {
+   "i": 340,
+   "speaker": "Тобиа",
+   "text": "「Да что с ним такое?」",
+   "orig": "Tobia\n「What's the matter with him?」"
+  },
+  {
+   "i": 341,
+   "speaker": "Джерид",
+   "text": "「Камий! «Лондо Белл»!\n　Я не отступлюсь!」",
+   "orig": "Jerid\n「Kamille! Londo Bell!\n　I won't give up!」"
+  },
+  {
+   "i": 342,
+   "speaker": "Джерид",
+   "text": "「Я уничтожу вас,\n　федеративная мразь!」",
+   "orig": "Jerid\n「I'll destroy you \n　Federation scum!」"
+  },
+  {
+   "i": 343,
+   "speaker": "Камий",
+   "text": "「Джерид, ты точно уверен,\n　что настоящий враг — это мы?」",
+   "orig": "Kamille\n「Jerid, are you completely\n　sure that we're the real enemy?」"
+  },
+  {
+   "i": 344,
+   "speaker": "Амуро",
+   "text": "「Камий…」",
+   "orig": "Amuro\n「Kamille...」"
+  },
+  {
+   "i": 345,
+   "speaker": "Ридде",
+   "text": "「Ты в «Гандаме»,\n　так что давай!」",
+   "orig": "Riddhe\n「You're in a Gundam,\n　so come on!」"
+  },
+  {
+   "i": 346,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде,\n　вам вовсе не нужно это делать.」",
+   "orig": "Banagher\n「Ensign Riddhe,\n　you don't have to do this.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Ридде",
+   "text": "「Уничтожить тебя — моя единственная цель, Банагер.\n　Никогда об этом не забывай!」",
+   "orig": "Riddhe\n「Destroying you is my sole purpose, Banagher.\n　Never forget it!」"
+  },
+  {
+   "i": 348,
+   "speaker": "Банагер",
+   "text": "「Но почему, мичман Ридде?」",
+   "orig": "Banagher\n「Why, Ensign Riddhe?」"
+  },
+  {
+   "i": 349,
+   "speaker": "Банагер",
+   "text": "「Марида!\n　Я здесь, чтобы тебя остановить!」",
+   "orig": "Banagher\n「Marida!\n　I'm here to stop you!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Это поле боя!\n　Смерть здесь — дело обычное!」",
+   "orig": "Ple Twelve\n「This this a battlefield!\n　Death is a matter of course!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Банагер",
+   "text": "「Только не сегодня!\n　Я пришёл спасти жизнь… твою!」",
+   "orig": "Banagher\n「Not today!\n　I've come here to save a life... Yours!」"
+  },
+  {
+   "i": 352,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Думаешь, ты такой умный.\n　Но я сражаюсь, чтобы сокрушить врагов господина!」",
+   "orig": "Ple Twelve\n「You think you're being clever.\n　But I fight to destroy the enemies of my master!」"
+  },
+  {
+   "i": 353,
+   "speaker": "Джудо",
+   "text": "「Марида, прошу, постой!\n　Нам нужно остановить твой чёрный «Юникорн»!」",
+   "orig": "Judau\n「Marida, please, wait!\n　We need to stop that black Unicorn of yours!」"
+  },
+  {
+   "i": 354,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Меня зовут Пуру Двенадцать!\n　Прекрати звать меня Маридой!」",
+   "orig": "Ple Twelve\n「My name is Ple Twelve!\n　Stop calling me Marida!」"
+  },
+  {
+   "i": 355,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Этот «Банши» мой господин создал особо для меня.\n　Против меня у вас нет никаких шансов.」",
+   "orig": "Ple Twelve\n「This Banshee was specially made for me by\n　my master. You have no chance against me.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Джудо",
+   "text": "「Тогда так: когда мы докажем, что ты неправа,\n　будь добра выслушать то, что мы хотим сказать.」",
+   "orig": "Judau\n「Well then, after we've proved you wrong, I challenge\n　you to have the grace to listen to what we have to say.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Джудо",
+   "text": "「Тебя зовут Марида Круз.\n　Ты сестра Пуру и Пуру Два!」",
+   "orig": "Judau\n「Your name is Marida Cruz.\n　You're Ple and Ple Two's sister!」"
+  },
+  {
+   "i": 358,
+   "speaker": "Пуру Два",
+   "text": "「Довольно, Двенадцать!」",
+   "orig": "Ple Two\n「That's enough, Twelve!」"
+  },
+  {
+   "i": 359,
+   "speaker": "Пуру",
+   "text": "「Тебе незачем с нами драться,\n　Двенадцать. Перестань!」",
+   "orig": "Ple\n「You don't need to fight us,\n　Twelve. Stop!」"
+  },
+  {
+   "i": 360,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Что вы там лепечете?\n　У меня от вас голова болит!」",
+   "orig": "Ple Twelve\n「What are you prattling about?\n　You're making my head hurt!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Но почему?\n　Дело не только в голове.\n　Боль расходится и в груди!」",
+   "orig": "Ple Twelve\n「But why?\n　It's not just my head.\n　The pain is spreading to my chest as well!」"
+  },
+  {
+   "i": 362,
+   "speaker": "Пуру Два",
+   "text": "「Это настоящая ты рвётся наружу!」",
+   "orig": "Ple Two\n「That's your true self trying to emerge!」"
+  },
+  {
+   "i": 363,
+   "speaker": "Пуру",
+   "text": "「Выходи из машины, Двенадцать.\n　И идём с нами.」",
+   "orig": "Ple\n「Disembark from the unit, Twelve.\n　And come with us.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Не подходите ко мне!\n　Я-я сражаюсь за своего господина!」",
+   "orig": "Ple Twelve\n「Stay away from me!\n　I-I fight for my master!」"
+  },
+  {
+   "i": 365,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Мразь на «Скалл Гандаме»!\n　Ты тоже враг моего господина!」",
+   "orig": "Ple Twelve\n「Skull Gundam scum!\n　You're my master's enemy as well!」"
+  },
+  {
+   "i": 366,
+   "speaker": "Тобиа",
+   "text": "「Ты должна очнуться!\n　Потому что твоего настоящего врага\n　здесь нет!」",
+   "orig": "Tobia\n「You must wake up!\n　Because your true enemy\n　is not here!」"
+  },
+  {
+   "i": 367,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Что?!」",
+   "orig": "Ple Twelve\n「What?!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Тобиа",
+   "text": "「Ты нам не враг.\n　Наш враг — та сила, что стравливает нас друг с другом.\n　Сама война!」",
+   "orig": "Tobia\n「You are not our enemy.\n　Our enemy is the force that pits us against each other.\n　War, itself!」"
+  },
+  {
+   "i": 369,
+   "speaker": "Пуру Двенадцать",
+   "text": "「Ты сумасшедший!\n　Я тебя уничтожу!」",
+   "orig": "Ple Twelve\n「You're crazy!\n　I'll destroy you!」"
+  },
+  {
+   "i": 370,
+   "speaker": "Джерид",
+   "text": "「Камий!\n　Я ждал этого мгновения!」",
+   "orig": "Jerid\n「Kamille!\n　I've been waiting for this moment!」"
+  },
+  {
+   "i": 371,
+   "speaker": "Камий",
+   "text": "「Джерид!\n　Всё ещё таскаешься за мной?」",
+   "orig": "Kamille\n「Jerid!\n　You still following me around?」"
+  },
+  {
+   "i": 372,
+   "speaker": "Джерид",
+   "text": "「Так вот зачем ты явился.\n　Пора пожинать плоды!」",
+   "orig": "Jerid\n「So this is what you've come to do.\n　Time to reap your reward!」"
+  },
+  {
+   "i": 373,
+   "speaker": "Камий",
+   "text": "「Может, оно и так,\n　но остановить меня я тебе не дам!」",
+   "orig": "Kamille\n「While it may be true,\n　I can't let you stop me!」"
+  },
+  {
+   "i": 374,
+   "speaker": "Камий",
+   "text": "「Джерид! Прежде чем мы сойдёмся,\n　тебе надо кое-что понять!」",
+   "orig": "Kamille\n「Jerid! Before we fight\n　there's something you need to understand!」"
+  },
+  {
+   "i": 375,
+   "speaker": "Джерид",
+   "text": "「Хочешь отговориться?」",
+   "orig": "Jerid\n「You trying to talk your way out of this?」"
+  },
+  {
+   "i": 376,
+   "speaker": "Банагер",
+   "text": "「Почему, мичман Ридде?\n　Почему мы должны через это проходить?」",
+   "orig": "Banagher\n「Why, Ensign Riddhe?\n　Why do we have to go through this?」"
+  },
+  {
+   "i": 377,
+   "speaker": "Ридде",
+   "text": "「Я не расположен с тобой разговаривать!」",
+   "orig": "Riddhe\n「I'm in no mood to talk to you!」"
+  },
+  {
+   "i": 378,
+   "speaker": "Ридде",
+   "text": "「Банагер!\n　Как только я наконец уничтожу тебя, я смогу\n　выбраться из этой трясины!」",
+   "orig": "Riddhe\n「Banagher!\n　Once I've finally destroyed you, I can free\n　myself from this quagmire!」"
+  },
+  {
+   "i": 379,
+   "speaker": "Ридде",
+   "text": "「Просто умри уже, Банагер!\n　Ради Миневы и ради меня!」",
+   "orig": "Riddhe\n「Just die already, Banagher!\n　For Mineva's sake and mine!」"
+  },
+  {
+   "i": 380,
+   "speaker": "Банагер",
+   "text": "「О чём вы говорите?\n　При чём тут Одри и моя смерть?」",
+   "orig": "Banagher\n「What are you saying?\n　How does my death have anything to with Audrey?」"
+  },
+  {
+   "i": 381,
+   "speaker": "Ридде",
+   "text": "「Одно твоё существование\n　заставляет её жить во лжи!\n　Вот почему я должен тебя уничтожить.」",
+   "orig": "Riddhe\n「Your very existence\n　has her living a lie!\n　And that's why I have to destroy you.」"
+  },
+  {
+   "i": 382,
+   "speaker": "Банагер",
+   "text": "「Это бессмысленно.\n　Придётся остановить этот чёрный «Юникорн»,\n　чтобы вы наконец меня выслушали!」",
+   "orig": "Banagher\n「This is pointless.\n　I have to stop that black Unicorn\n　in order to get you to listen!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Тобиа",
+   "text": "「Вы поступаете низко, мичман Ридде.」",
+   "orig": "Tobia\n「Your actions are despicable, Ensign Riddhe.」"
+  },
+  {
+   "i": 384,
+   "speaker": "Ридде",
+   "text": "「Что ты сказал?」",
+   "orig": "Riddhe\n「What did you say?」"
+  },
+  {
+   "i": 385,
+   "speaker": "Тобиа",
+   "text": "「Я не знаю, какие у вас на то причины.\n　Но вот так нападать на вчерашних товарищей —\n　это просто трусость!」",
+   "orig": "Tobia\n「I don't know what your reasons are.\n　But attacking your former friends\n　like this is nothing short of cowardly!」"
+  },
+  {
+   "i": 386,
+   "speaker": "Ридде",
+   "text": "「Замолчи, Тобиа!\n　Что ты вообще об этом знаешь?」",
+   "orig": "Riddhe\n「Shut up, Tobia!\n　What do you know about it?」"
+  },
+  {
+   "i": 387,
+   "speaker": "Тобиа",
+   "text": "「Так помогите мне понять —\n　поговорите со мной, а не навязывайте\n　мне свою правоту силой!」",
+   "orig": "Tobia\n「Then help me understand\n　by talking to me instead of\n　forcing your views upon me!」"
+  },
+  {
+   "i": 388,
+   "speaker": "Тобиа",
+   "text": "「Объясните, почему вы так отчаянно\n　стремитесь вывалить всю свою злость\n　и досаду именно на Банагера.」",
+   "orig": "Tobia\n「Tell me why you are so \n　hell-bent upon unloading \n　all your frustration and anger upon Banagher.」"
+  },
+  {
+   "i": 389,
+   "speaker": "Тобиа",
+   "text": "「Напасть на базу Федерации\n　и помочь пленницам сбежать.\n　Звучит ровно так, как поступил бы пират вне закона.」",
+   "orig": "Tobia\n「Attacking the Federation base\n　and helping the captured girls escape.\n　Sounds exactly like something a pirate outlaw would do.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Тобиа",
+   "text": "「Другими словами, план просто идеальный!\n　Я в деле!」",
+   "orig": "Tobia\n「In other words, sounds like the perfect plan!\n　Count me in!」"
+  },
+  {
+   "i": 391,
+   "speaker": "$n",
+   "text": "「Эта машина сильнее, чем в прошлую встречу!」",
+   "orig": "$n\n「That unit is stronger than our last encounter!」"
+  },
+  {
+   "i": 392,
+   "speaker": "Гули",
+   "text": "「Слишком медленно, $n.\n　Твоя скорость заведомо ниже моей.」",
+   "orig": "Ghuli\n「You're too slow, $n.\n　Your speed is decisively slower than mine.」"
+  },
+  {
+   "i": 393,
+   "speaker": "$n",
+   "text": "「Найн!\n　Поднимай мощность!」",
+   "orig": "$n\n「Nine!\n　Increase output!」"
+  },
+  {
+   "i": 394,
+   "speaker": "Найн",
+   "text": "「Но тогда ваше тело останется без защиты!」",
+   "orig": "Nine\n「But, your body will be left unprotected!」"
+  },
+  {
+   "i": 395,
+   "speaker": "$n",
+   "text": "「Если «Вангрэй» сам не справится,\n　остальное я возьму на себя!\n　Это и есть работа пилота!」",
+   "orig": "$n\n「If you can't defeat this VangRay,\n　I'll cover the rest!\n　That's a pilot's job!」"
+  },
+  {
+   "i": 396,
+   "speaker": "Найн",
+   "text": "「Машины и люди.\n　Вместе они создают нечто более сильное.」",
+   "orig": "Nine\n「Machines and humans.\n　Coming together to create something stronger.」"
+  },
+  {
+   "i": 397,
+   "speaker": "Найн",
+   "text": "「Понимаю!\n　Если кэп защищает «Вангрэй»,\n　то я буду защищать кэпа!」",
+   "orig": "Nine\n「I understand!\n　If Cap protects the VangRay,\n　then I'll protect Cap!」"
+  },
+  {
+   "i": 398,
+   "speaker": "$n",
+   "text": "「Рассчитываю на тебя, Найн!\n　И с этим помешанным на скорости тоже разберёмся!」",
+   "orig": "$n\n「I'm counting on you, Nine!\n　As well as taking care of that speed freak!」"
+  },
+  {
+   "i": 399,
+   "speaker": "$n",
+   "text": "「Эта машина сильнее, чем в прошлую встречу!」",
+   "orig": "$n\n「That unit is stronger than our last encounter!」"
+  },
+  {
+   "i": 400,
+   "speaker": "Гули",
+   "text": "「Слишком медленно, $n.\n　Твоя скорость заведомо ниже моей.」",
+   "orig": "Ghuli\n「You're too slow, $n.\n　Your speed is decisively slower than mine.」"
+  },
+  {
+   "i": 401,
+   "speaker": "$n",
+   "text": "「Найн!\n　Поднимай мощность!」",
+   "orig": "$n\n「Nine!\n　Increase output!」"
+  },
+  {
+   "i": 402,
+   "speaker": "Найн",
+   "text": "「Но если я это сделаю—」",
+   "orig": "Nine\n「But if I do that—」"
+  },
+  {
+   "i": 403,
+   "speaker": "$n",
+   "text": "「Если «Вангрэй» сам не справится,\n　остальное я возьму на себя!\n　В этом и роль пилота!」",
+   "orig": "$n\n「If you can't defeat this VangRay,\n　I'll cover the rest!\n　That's a pilot's role!」"
+  },
+  {
+   "i": 404,
+   "speaker": "Найн",
+   "text": "「Машины и люди.\n　Вместе они создают нечто более сильное.」",
+   "orig": "Nine\n「Machines and humans.\n　Coming together to create something stronger.」"
+  },
+  {
+   "i": 405,
+   "speaker": "Найн",
+   "text": "「Понимаю!\n　Раз вы собираетесь защищать «Вангрэй»、\n　то я буду защищать вас!」",
+   "orig": "Nine\n「I understand!\n　If you are going to protect the VangRay、\n　then I'll protect you!」"
+  },
+  {
+   "i": 406,
+   "speaker": "$n",
+   "text": "「Рассчитываю на тебя, Найн!\n　Вместе мы сможем\n　перегнать его по скорости!」",
+   "orig": "$n\n「I'm counting on you, Nine!\n　Working together,\n　we can overtake his speed!」"
+  },
+  {
+   "i": 407,
+   "speaker": "Камий",
+   "text": "（Федерация, Зеон, «Лондо Белл»…\n　и кто ещё?）",
+   "orig": "Kamille\n（The Federation, Zeon, Londo Bell...\n　and who else?）"
+  },
+  {
+   "i": 408,
+   "speaker": "Камий",
+   "text": "（К чему же вообще ведёт эта война?）",
+   "orig": "Kamille\n（Just where is this war headed?）"
+  },
+  {
+   "i": 409,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

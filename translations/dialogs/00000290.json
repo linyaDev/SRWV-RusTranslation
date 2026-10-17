@@ -1,0 +1,2578 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Ангар «Нахель Аргамы»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nahel Argama Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Ридде",
+   "text": "「Командир Амуро, говорить с легендарным пилотом\n　«Гандама» вроде вас — всё равно что сон наяву.」",
+   "orig": "Riddhe\n「Commander Amuro, to be able to talk to a legendary\n　Gundam pilot like you is like a dream come true.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Амуро",
+   "text": "「Для легенды, пожалуй, было бы лучше,\n　останься я пропавшим без вести.」",
+   "orig": "Amuro\n「It might have been better for my legend\n　if I had stayed missing in action.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Ридде",
+   "text": "「И всё же даже среди солдат было немало тех,\n　кто верил, что вы остались живы.」",
+   "orig": "Riddhe\n「Still, even among the soldiers, there were more than\n　a few people who believed that you had survived.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Ридде",
+   "text": "「А на стороне Нео-Зеона, как-никак,\n　снова объявилась Красная комета.」",
+   "orig": "Riddhe\n「And on the Neo Zeon side, the Red Comet\n　has come back onto the scene, after all.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Хатауэй",
+   "text": "「А что вы об этом думаете, командир?」",
+   "orig": "Hathaway\n「What are your feelings about that, Commander?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Амуро",
+   "text": "「Что ж, Нео-Зеон и правда объявил,\n　что Чар выжил, и теперь показывает его\n　на публике при каждом удобном случае.」",
+   "orig": "Amuro\n「Well, it's true that Neo Zeon has announced\n　that Char has survived, and has been parading\n　him around in public.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Ру",
+   "text": "「Вполне возможно, что это двойник.」",
+   "orig": "Roux\n「It's conceivable that they're using a body double.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Амуро",
+   "text": "「Но судя по осанке и тому, что от него веет на записях,\n　это и впрямь настоящий Чар Азнабль.」",
+   "orig": "Amuro\n「But judging by his bearing and aura in the images,\n　he really seems like the real Char Aznable.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Бича",
+   "text": "「Ну вот. Командир Амуро лично подтвердил.」",
+   "orig": "Beecha\n「There it is. Commander Amuro's seal of approval.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Элль",
+   "text": "「Значит, можно не сомневаться — настоящий.」",
+   "orig": "Elle\n「So you can bet that he's the genuine article.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Амуро",
+   "text": "（И всё-таки меня не отпускает смутное беспокойство.\n　В чём же дело?）",
+   "orig": "Amuro\n（Yet I still get this vaguely uncomfortable feeling.\n　What could it be?）"
+  },
+  {
+   "i": 15,
+   "speaker": "Джудо",
+   "text": "「Кстати, мичману Ридде, похоже, крепко досталось\n　после назначения на «Нахель Аргаму».」",
+   "orig": "Judau\n「By the way, Ensign Riddhe really must've had his hands full,\n　being assigned to the Nahel Argama.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Ридде",
+   "text": "「И не говори.\n　В бою у «Индастриал 7» мы потеряли\n　капитана и остальных ребят.」",
+   "orig": "Riddhe\n「No kidding.\n　We lost Captain and the guys\n　during the battle of Industrial 7.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Джудо",
+   "text": "「Прости, я не знал.」",
+   "orig": "Judau\n「I'm sorry about that.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Ридде",
+   "text": "「Тебе не за что извиняться.\n　Виноват во всём этом Зеон.」",
+   "orig": "Riddhe\n「Nothing to concern yourself about.\n　Zeon is to blame for all this.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Ридде",
+   "text": "「К тому же в «Лондо Белл» я пошёл\n　добровольно и ни о чём не жалею.」",
+   "orig": "Riddhe\n「On top of which, I came into Londo Bell\n　voluntarily, and I have no regrets about it.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Хатауэй",
+   "text": "「Отец говорил, что «Лондо Белл» —\n　бельмо на глазу у военных шишек,\n　но добровольцев туда всегда хватает.」",
+   "orig": "Hathaway\n「You know, my dad was saying that Londo Bell\n　is a nuisance to the military muckety-mucks,\n　but there's always a number of volunteers for it.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Ридде",
+   "text": "「Я очень хочу сам свести счёты с Зеоном.\n　И прочие добровольцы думают так же.」",
+   "orig": "Riddhe\n「I really want to go after Zeon with my own hands.\n　Those other volunteers feel the same way.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Ридде",
+   "text": "「Нельзя стоять в стороне и позволять им бесчинствовать.\n　Уж если браться за дело, то делать его как надо.」",
+   "orig": "Riddhe\n「We can't just stand by and let them run wild.\n　If we're gonna do this, we should do it right.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Амуро",
+   "text": "「Понятно.」",
+   "orig": "Amuro\n「I see.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Ру",
+   "text": "「И всё же это очень неожиданно.\n　Что этому бельму на глазу, «Лондо Белл»,\n　достаётся новый «Гандам».」",
+   "orig": "Roux\n「It's really surprising, though.\n　That this nuisance Londo Bell is\n　getting a new Gundam.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Джудо",
+   "text": "「Начальство может сколько угодно ворчать,\n　но нашу силу они знают.」",
+   "orig": "Judau\n「The high-ups may whine and complain,\n　but they know how powerful we are.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Бича",
+   "text": "「Ну так во главе «Лондо Белл» стоит Брайт.\n　Неудивительно, что «Гандамы» к нему и тянутся.」",
+   "orig": "Beecha\n「Well, Londo Bell's leader is Bright, after all.\n　It's only natural that it would attract Gundams.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Хатауэй",
+   "text": "「Отцу такие разговоры вряд ли бы понравились.」",
+   "orig": "Hathaway\n「My dad would probably frown on that kind of talk.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Элль",
+   "text": "「Похоже, его бесит, что пилоты «Гандамов»\n　держат его за старика.」",
+   "orig": "Elle\n「Sounds like he's annoyed at being treated\n　like an old fogie by the Gundam pilots.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Амуро",
+   "text": "（Положение и впрямь неестественное.\n　И меня немного тревожит, что ЭКОАС прислали\n　под предлогом охраны Альберто.）",
+   "orig": "Amuro\n（It certainly is an unnatural situation.\n　And I'm a little concerned that ECOAS was\n　dispatched under the pretext of protecting Alberto.）"
+  },
+  {
+   "i": 30,
+   "speaker": "Амуро",
+   "text": "（Тот «Гандам», который зовут «Юникорном»…\n　Похоже, с ним стоит быть поосторожнее.）",
+   "orig": "Amuro\n（That Gundam they call the Unicorn.\n　Seems like a bit of caution is in order here.）"
+  },
+  {
+   "i": 31,
+   "speaker": "Ридде",
+   "text": "「Но нам всё-таки повезло.\n　Спустились за припасами, а в итоге\n　получили такую прибавку к огневой мощи.」",
+   "orig": "Riddhe\n「We were lucky, though.\n　We come down for supplies and end up\n　getting this massive increase in firepower.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Амуро",
+   "text": "「Нас-то оставим в стороне, но не рассчитывай,\n　что на тех, кто попал сюда из другого мира,\n　можно во всём полагаться.」",
+   "orig": "Amuro\n「Leaving ourselves aside,\n　don't go thinking you can depend on others\n　who've come here from another world.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Амуро",
+   "text": "「Они союзники по доброй воле. Гамилас, может, и в связке\n　с Нео-Зеоном, но главное для них — уцелеть\n　и вернуться в свой мир.」",
+   "orig": "Amuro\n「They are well-intentioned allies. Gamillas may be working\n　with Neo Zeon, but their ultimate priority is self-preservation\n　and to return to their own world.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Бича",
+   "text": "「Кстати, а где все остальные?」",
+   "orig": "Beecha\n「Now that you mention it, where is everybody?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Джудо",
+   "text": "「Сошли на берег.\n　Сказали, что хотят своими глазами осмотреться.」",
+   "orig": "Judau\n「They disembarked.\n　Said they wanted to see the area firsthand.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Такуя",
+   "text": "「Внимание всем!\n　Извините, что отрываю от отдыха,\n　но скоро начинаем подготовку!」",
+   "orig": "Takuya\n「All hands!\n　Sorry to bother you while you're resting,\n　but we're gonna be starting preparations soon!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Ру",
+   "text": "「Э-э, ты ведь гражданский?」",
+   "orig": "Roux\n「Uh, you're a civilian, right?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Такуя",
+   "text": "「Хотите верьте, хотите нет, но я учился в Промышленном\n　колледже «Анахайм Электроникс», с техникой на «ты»\n　и попал на «Нахель Аргаму», чтобы помогать!」",
+   "orig": "Takuya\n「Believe it or not, I studied at Anaheim Electronics\n　Industrial College, and I have basic mechanical skills,\n　and I'm on the Nahel Argama to help out!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Микотт",
+   "text": "「Такуя прямо-таки рвётся в бой.」",
+   "orig": "Micott\n「Takuya's pretty gung-ho.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Банагер",
+   "text": "「А как иначе?\n　Он ведь давно без ума от «Гандамов».」",
+   "orig": "Banagher\n「And why not?\n　He's been a Gundam fan for a long time now.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Джудо",
+   "text": "「С-слушай, Банагер.\n　Насчёт вчерашнего…」",
+   "orig": "Judau\n「H-hey, Banagher.\n　About yesterday—」"
+  },
+  {
+   "i": 42,
+   "speaker": "Банагер",
+   "text": "「Если это про Одри, то всё в порядке.」",
+   "orig": "Banagher\n「If this is about Audrey, I'm fine with it.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Джудо",
+   "text": "「Вот как.\n　Приятно слышать!」",
+   "orig": "Judau\n「I see.\n　Glad to hear it!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Джудо",
+   "text": "「И всё же эта девушка…」",
+   "orig": "Judau\n「Still, that girl—」"
+  },
+  {
+   "i": 45,
+   "speaker": "Банагер",
+   "text": "「Что с ней?」",
+   "orig": "Banagher\n「What is it?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Джудо",
+   "text": "「Толком не объяснить,\n　но есть в ней что-то странное.」",
+   "orig": "Judau\n「I can't really describe it,\n　but there's something strange about her.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Ридде",
+   "text": "「Вот это новость, Джудо.\n　Ты что, тоже на Одри заглядываешься?」",
+   "orig": "Riddhe\n「What's this, Judau?\n　Are you interested in Audrey too?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Бича",
+   "text": "「В смысле «тоже»?」",
+   "orig": "Beecha\n「What do you mean \"too\"?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Элль",
+   "text": "「То есть и вы, мичман Ридде?」",
+   "orig": "Elle\n「You mean Ensign Riddhe too?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Ридде",
+   "text": "「Ну, вроде того.」",
+   "orig": "Riddhe\n「Well, kinda.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Джудо",
+   "text": "「И вам не неловко\n　говорить такое прямо при Банагере?」",
+   "orig": "Judau\n「And you don't mind\n　saying that right in front of Banagher?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Ридде",
+   "text": "「Да понимаешь,\n　я предпочитаю драться в открытую.」",
+   "orig": "Riddhe\n「Well, you know,\n　I prefer to do my fighting right out in the open.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Ридде",
+   "text": "「Так что вот так, Банагер.\n　С сегодняшнего дня ты мой соперник.」",
+   "orig": "Riddhe\n「So that's how it is, Banagher.\n　From today on you're my rival.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Банагер",
+   "text": "「А?」",
+   "orig": "Banagher\n「Huh?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Амуро",
+   "text": "（Ридде Марсенас.\n　Характер у него упрямый,\n　но человек он, похоже, неплохой.）",
+   "orig": "Amuro\n（Riddhe Marcenas.\n　He's a strong-willed sort,\n　but he doesn't seem like a bad guy.）"
+  },
+  {
+   "i": 59,
+   "speaker": "Майто",
+   "text": "「До чего же жуткая картина.」",
+   "orig": "Maito\n「This is a really horrible set of circumstances.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Синн",
+   "text": "「Говорят, в крупных городах по всему миру\n　творится то же самое.」",
+   "orig": "Shinn\n「The major cities all over the world\n　are in the same situation, apparently.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Лунамария",
+   "text": "「Там, откуда мы родом,\n　хватало и войн, и терактов,\n　но города у нас так не разрушали.」",
+   "orig": "Lunamaria\n「Where we come from\n　we've had plenty of wars and terrorist attacks,\n　but our cities never sustained damage like this.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Гайн",
+   "text": "「Вот она, война во всей красе.」",
+   "orig": "Gaine\n「The ravages of war, eh?」"
+  },
+  {
+   "i": 63,
+   "speaker": "Файр Дайвер",
+   "text": "「Мой супер-ИИ, созданный для спасательных работ,\n　говорит, что весь этот район мёртв.」",
+   "orig": "Fire Diver\n「My Super AI built for disaster relief is saying\n　that this whole area is completely dead.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Лео Бомбер",
+   "text": "「Чёрт.\n　От одного вида на душе тяжелеет.」",
+   "orig": "Leo Bomber\n「Damn.\n　Just looking at all this is making me depressed.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Дагза",
+   "text": "「Вот теперь вы понимаете, что здесь творится.」",
+   "orig": "Daguza\n「So now you understand the situation here.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Кира",
+   "text": "「А вы кто?」",
+   "orig": "Kira\n「And you are?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Дагза",
+   "text": "「Командир Дагза Маккл.\n　Исполняю обязанности командира ЭКОАС.」",
+   "orig": "Daguza\n「I'm Commander Daguza Mackle.\n　I'm serving as captain of ECOAS.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Атрун",
+   "text": "「Это тот самый отряд, который прислали\n　вместе с «Юникорном», если я верно понял.」",
+   "orig": "Athrun\n「That's the unit that was dispatched\n　when the Unicorn was received, I hear.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Локон",
+   "text": "「Иначе говоря, вы здесь новички\n　даже по меркам «Лондо Белл».」",
+   "orig": "Lockon\n「In other words you're newbies\n　even for Londo Bell.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Дагза",
+   "text": "「Верно.\n　Формально мы не входим в «Лондо Белл».\n　Так что вскоре покинем «Нахель Аргаму».」",
+   "orig": "Daguza\n「That's right.\n　Technically we're not members of Londo Bell.\n　So we'll be leaving the Nahel Argama shortly.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Салия",
+   "text": "「Вы пришли сюда лишь затем, чтобы попрощаться\n　с нами, пришельцами из другого мира?」",
+   "orig": "Salia\n「Did you come here just to bid farewell\n　to us people from another world?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Вивиан",
+   "text": "「Лицо у вас страшное, но человек вы, похоже, хороший.」",
+   "orig": "Vivian\n「Your face is scary, but you seem like a nice person.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Эрша",
+   "text": "「Вивиан, ну что ты!\n　Разве можно такое говорить!」",
+   "orig": "Ersha\n「Vivian, please!\n　You shouldn't say things like that!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Дагза",
+   "text": "「Пустяки.\n　Это всего лишь следствие того, что я слишком долго\n　делал за Федерацию грязную работу.」",
+   "orig": "Daguza\n「Don't worry about it.\n　It's just the result of having done\n　the Federation's dirty work for so long.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Сэцуна",
+   "text": "「Может, перейдём к делу?」",
+   "orig": "Setsuna\n「Let's get to the point, shall we?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тиерия",
+   "text": "（Сэцуна, ты чуешь какой-то подвох?）",
+   "orig": "Tieria\n（Setsuna, are you sensing some kind of trouble?）"
+  },
+  {
+   "i": 77,
+   "speaker": "Сэцуна",
+   "text": "「Итак?」",
+   "orig": "Setsuna\n「Well?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Дагза",
+   "text": "「Хорошо, скажу прямо.\n　Не хотите ли отправиться с нами?」",
+   "orig": "Daguza\n「Alright, I'll get right to the point.\n　Would you all like to come with us?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Аллилуйя",
+   "text": "「Вы обращаетесь к тем, кто пришёл из другого мира?」",
+   "orig": "Allelujah\n「Are you asking the people who are from another world?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Дагза",
+   "text": "「Именно.\n　Войска Федерации возьмут вас под защиту\n　и помогут вернуться домой.」",
+   "orig": "Daguza\n「That's right.\n　The Federation Force would protect you\n　and help you get back home.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Сэцуна",
+   "text": "「А взамен мы должны будем воевать\n　в составе войск Федерации?」",
+   "orig": "Setsuna\n「And in return, you want us to take part in the war\n　as members of the Federation Force?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Анж",
+   "text": "「А как иначе.\n　Бесплатный сыр, как говорится, бывает только в мышеловке.」",
+   "orig": "Ange\n「Well, that's only natural.\n　There's no such thing as a free lunch, as they say.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Дагза",
+   "text": "「Так что, договорились?」",
+   "orig": "Daguza\n「So do we have a deal?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Майто",
+   "text": "「Хм.」",
+   "orig": "Maito\n「Hmph.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Синн",
+   "text": "「М-да.」",
+   "orig": "Shinn\n「Hmm.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Тиерия",
+   "text": "「Это не тот вопрос, который стоит решать прямо сейчас.」",
+   "orig": "Tieria\n「That's not something we should decide now.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Аллилуйя",
+   "text": "「Вам не кажется, что об этом следует говорить\n　напрямую с командиром Окитой или Сумераги,\n　а не с нами?」",
+   "orig": "Allelujah\n「Don't you think we ought to discuss this\n　directly to Commander Okita or Sumeragi\n　instead of us?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Дагза",
+   "text": "「Мне хотелось услышать ваше личное мнение.」",
+   "orig": "Daguza\n「I wanted to hear your personal opinion.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Кира",
+   "text": "「Я не могу ответить вам прямо сейчас.」",
+   "orig": "Kira\n「I can't answer that right now.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Салия",
+   "text": "「Мы ещё не до конца разобрались\n　в том, что здесь происходит.\n　Нам нужно ещё немного времени.」",
+   "orig": "Salia\n「We don't understand the situation here\n　completely just yet.\n　We're gonna need some more time.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Дагза",
+   "text": "「Понимаю.」",
+   "orig": "Daguza\n「I see.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Дагза",
+   "text": "「Но времени у нас осталось немного.\n　Имейте это в виду.」",
+   "orig": "Daguza\n「But we don't have much time left.\n　You need to keep that in mind.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Вивиан",
+   "text": "「Вот это да.\n　Я уж думала, этот дядька сейчас пушку достанет.」",
+   "orig": "Vivian\n「That was a real shocker.\n　I thought the old guy might pull out his gun.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Момока",
+   "text": "「Да уж, напор у него будь здоров.」",
+   "orig": "Momoka\n「He was pretty intense, that's for sure.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Эрша",
+   "text": "「Похоже, дела у них и правда плохи.」",
+   "orig": "Ersha\n「Looks like they're really in a fix.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Анж",
+   "text": "「С войной между Нео-Зеоном и Федерацией\n　я, кажется, уже более-менее разобралась.」",
+   "orig": "Ange\n「I've got the war between Neo Zeon and\n　the Federation pretty much figured out.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Анж",
+   "text": "「Судя по тому, что я слышала,\n　в этой войне хороших сторон нет вовсе.」",
+   "orig": "Ange\n「From what I hear,\n　neither side in this war is all that great.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Локон",
+   "text": "「Это точно.\n　Тут не спор идеологий и не передел территорий.\n　Похоже, всё держится на столкновении эмоций.」",
+   "orig": "Lockon\n「No doubt about it.\n　It's not an ideological battle or a territorial dispute.\n　It seems like it's all based on a clash of emotions.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Кира",
+   "text": "「Пока они продолжают ненавидеть друг друга,\n　этой войне не будет конца.」",
+   "orig": "Kira\n「As long as this mutual loathing continues,\n　the conflict's not gonna end.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хильда",
+   "text": "「Хватит уже этих красивых слов.\n　Они будут убивать друг друга — вот и всё.」",
+   "orig": "Hilda\n「Cut out all the idealistic talk already.\n　They're gonna be killing each other, and that's it.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Кира",
+   "text": "「И всё-таки…」",
+   "orig": "Kira\n「Even so, it's still—」"
+  },
+  {
+   "i": 102,
+   "speaker": "Хильда",
+   "text": "「Кончай болтать и смотри на мир таким, какой он есть.\n　Мы ведь теперь тоже часть этого мира,\n　где либо ты, либо тебя.」",
+   "orig": "Hilda\n「Stop yacking and see the world as it is.\n　After all, we're also now part of this world\n　where it's kill or be killed.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Синн",
+   "text": "「И всё же, если забыть об идеалах,\n　мир лучше никогда не станет.」",
+   "orig": "Shinn\n「Still, if we forget our ideals,\n　the world is never gonna get better.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Атрун",
+   "text": "「Синн.」",
+   "orig": "Athrun\n「Shinn.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Хильда",
+   "text": "「Ещё один дурак, который не желает видеть мир как есть.」",
+   "orig": "Hilda\n「Another moron who refuses to face the real world.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Синн",
+   "text": "「Да, в этом мире боёв не избежать.\n　Но, по-моему, нельзя забывать о самом главном —\n　об идеалах и убеждениях.」",
+   "orig": "Shinn\n「True, in this world fighting just can't be avoided.\n　But in my opinion, we shouldn't forget the\n　very essence such as ideals and principles.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Кира",
+   "text": "「Спасибо, Синн.\n　И тебе, Хильда, тоже.」",
+   "orig": "Kira\n「Thank you, Shinn.\n　And Hilda as well.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Хильда",
+   "text": "「А?」",
+   "orig": "Hilda\n「Huh?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Кира",
+   "text": "「Ты ведь сказала это\n　потому, что беспокоишься обо мне?」",
+   "orig": "Kira\n「You said what you said\n　out of concern for me, right?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Анж",
+   "text": "「Надо же, Хильда, какая ты добрая!」",
+   "orig": "Ange\n「Wow, Hilda, you're such a nice person!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Хильда",
+   "text": "「Н-не говори ерунды!」",
+   "orig": "Hilda\n「D-don't be ridiculous!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Синн",
+   "text": "「Кира.」",
+   "orig": "Shinn\n「Kira.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Атрун",
+   "text": "「Хорошо подхватил, Синн.\n　Ты здорово выручил Киру.」",
+   "orig": "Athrun\n「Good follow-up, Shinn.\n　You really helped Kira out.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Синн",
+   "text": "「Я просто выпалил то, что думаю, вот и всё.」",
+   "orig": "Shinn\n「I was just blurting out my personal views, that's all.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Окита",
+   "text": "「Нельзя забывать то, что думаешь сам;\n　иначе говоря — свои убеждения.」",
+   "orig": "Okita\n「You mustn't forget your personal views;\n　or, to put it another way, your principles.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Синн",
+   "text": "「Командир Окита!」",
+   "orig": "Shinn\n「Commander Okita!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Окита",
+   "text": "「Не нужно церемоний. Я лишь пришёл\n　своими глазами взглянуть на положение дел.」",
+   "orig": "Okita\n「No need to be so formal. I'm just here\n　to confirm the situation with my own eyes.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Кодай",
+   "text": "「Красные моря, разрушенные города.\n　Это не укладывается в голове.」",
+   "orig": "Kodai\n「Red seas and demolished cities.\n　It's beyond our imagination.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Окита",
+   "text": "「Да, это верно.」",
+   "orig": "Okita\n「Yeah, it sure is.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Анж",
+   "text": "「Насколько я слышала,\n　в вашем мире было примерно то же самое.」",
+   "orig": "Ange\n「From what I hear,\n　you had a similar situation in your world.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Окита",
+   "text": "「Это так.\n　Но видеть, как Землю разрушает война\n　между людьми, — до чего же горько.」",
+   "orig": "Okita\n「That's true.\n　But for the Earth to be destroyed in a war\n　between human beings, it's just so sad.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Атрун",
+   "text": "「То есть вы считаете, что мы должны вмешаться в войну,\n　чтобы этого не допустить?」",
+   "orig": "Athrun\n「So do you think that we should intervene in the war\n　in order to stop that from happening?」"
+  },
+  {
+   "i": 123,
+   "speaker": "Окита",
+   "text": "「Гамиласцы здесь такие же чужаки, как и мы,\n　и я считаю, что мы обязаны помешать им\n　разгонять эту войну и дальше.」",
+   "orig": "Okita\n「The Gamillas are outsiders just like us,\n　and I think we've got to stop them from\n　accelerating the war any further.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Окита",
+   "text": "「Всё, что сверх того, — уже не наша задача и не наш долг.\n　Это вопрос личных убеждений.」",
+   "orig": "Okita\n「It's not our mission or our duty to do anything\n　beyond that. It's a matter of personal principles.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Синн",
+   "text": "「Убеждений…」",
+   "orig": "Shinn\n「Principles...」"
+  },
+  {
+   "i": 126,
+   "speaker": "Окита",
+   "text": "「Остаётся лишь надеяться,\n　что Дагза об этом не забудет.」",
+   "orig": "Okita\n「I just hope that\n　Daguza doesn't forget that.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Кодай",
+   "text": "「Командир, пришёл приказ:\n　всем, кто сошёл на берег, вернуться.」",
+   "orig": "Kodai\n「Commander, we've received instructions\n　for the personnel that landed to come back.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Окита",
+   "text": "「Нападение противника?」",
+   "orig": "Okita\n「An enemy attack?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Кодай",
+   "text": "「Нет, с нами хотят связаться\n　войска Федерации.」",
+   "orig": "Kodai\n「No, the Federation Force\n　is looking to get in contact with us.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Тиерия",
+   "text": "「Полагаю, они идут за командиром Дагузой.」",
+   "orig": "Tieria\n「I expect they're coming to meet Commander Daguza.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Окита",
+   "text": "「Хм.」",
+   "orig": "Okita\n「Hmph.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Кодай",
+   "text": "「Что-то не так, командир?」",
+   "orig": "Kodai\n「What's the matter, Commander?」"
+  },
+  {
+   "i": 133,
+   "speaker": "Окита",
+   "text": "「Кодай,\n　побудь со мной ещё немного.」",
+   "orig": "Okita\n「Kodai,\n　stick with me for a while longer.」"
+  },
+  {
+   "i": 137,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Ангар «Нахель Аргамы»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nahel Argama Hangar-"
+  },
+  {
+   "i": 138,
+   "speaker": "Майто",
+   "text": "「О чём это говорил тот военный?」",
+   "orig": "Maito\n「What was that soldier talking about?」"
+  },
+  {
+   "i": 139,
+   "speaker": "Тобиа",
+   "text": "「Похоже, они собираются включить нас\n　в состав своих вооружённых сил.」",
+   "orig": "Tobia\n「They're apparently planning to incorporate us\n　into their own fighting forces.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Бандзё",
+   "text": "「У «Лондо Белл» есть право действовать самостоятельно.\n　А раз у нас такого права нет, мы и стали мишенью?」",
+   "orig": "Banjo\n「Londo Bell has the right to operate independently.\n　And because we don't, we're being targeted, right?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Кинкейд",
+   "text": "「А эта дорожка ведёт прямиком к войне на истребление,\n　в которую втянут и простых жителей.」",
+   "orig": "Kincade\n「And this path leads directly to a deadly war\n　which involves ordinary citizens as well.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Атрун",
+   "text": "「Участвовать в такой войне я не намерен.」",
+   "orig": "Athrun\n「I have no intention of being part of a war like that.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Анж",
+   "text": "「Я сражаюсь по своей воле.\n　Я не собираюсь убивать людей, будучи чьей-то пешкой.」",
+   "orig": "Ange\n「I fight with my own free will.\n　I'm not about to kill people as somebody's pawn.」"
+  },
+  {
+   "i": 144,
+   "speaker": "$n",
+   "text": "「Согласен.\n　К тому же капитан Отто им отказывает,\n　так что беспокоиться, наверное, не о чем.」",
+   "orig": "$n\n「I agree.\n　Anyway, Captain Otto is rebuffing them,\n　so we probably have nothing to worry about.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Найн",
+   "text": "「Но если так пойдёт и дальше…」",
+   "orig": "Nine\n「But if things keep going like this—」"
+  },
+  {
+   "i": 146,
+   "speaker": "Майто",
+   "text": "「О чём это говорил тот военный?」",
+   "orig": "Maito\n「What was that soldier talking about?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Тобиа",
+   "text": "「Похоже, они собираются включить нас\n　в состав своих вооружённых сил.」",
+   "orig": "Tobia\n「They're apparently planning to incorporate us\n　into their own fighting forces.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Бандзё",
+   "text": "「У «Лондо Белл» есть право действовать самостоятельно.\n　А раз у нас такого права нет, мы и стали мишенью?」",
+   "orig": "Banjo\n「Londo Bell has the right to operate independently.\n　And because we don't, we're being targeted, right?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Кинкейд",
+   "text": "「А эта дорожка ведёт прямиком к войне на истребление,\n　в которую втянут и простых жителей.」",
+   "orig": "Kincade\n「And this path leads directly to a deadly war\n　which involves ordinary citizens as well.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Атрун",
+   "text": "「Участвовать в такой войне я не намерен.」",
+   "orig": "Athrun\n「I have no intention of being part of a war like that.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Анж",
+   "text": "「Я сражаюсь по собственной воле.\n　Я не собираюсь убивать людей, будучи чьей-то пешкой.」",
+   "orig": "Ange\n「I fight of my own free will.\n　I'm not about to kill people as somebody's pawn.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Капитан Отто им отказывает,\n　так что, по-моему, беспокоиться не о чем.」",
+   "orig": "$n\n「Captain Otto is rebuffing them,\n　so I don't think we have anything to worry about.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Найн",
+   "text": "「Но если так пойдёт и дальше…」",
+   "orig": "Nine\n「But if things keep going like this—」"
+  },
+  {
+   "i": 157,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Ангар «Нахель Аргамы»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nahel Argama Hangar-"
+  },
+  {
+   "i": 158,
+   "speaker": "Боец ЭКОАС",
+   "text": "「Хм.」",
+   "orig": "ECOAS Squad Member\n「Hmph.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Боец ЭКОАС",
+   "text": "「Хм.」",
+   "orig": "ECOAS Squad Member\n「Hmph.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Рёко",
+   "text": "「Эй, вы!\n　Что вы, чёрт возьми, задумали?」",
+   "orig": "Ryoko\n「You bastards!\n　What the hell are you planning to do?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Хикару",
+   "text": "「Да вы издеваетесь!\n　У вас что, оружие?」",
+   "orig": "Hikaru\n「You must be kidding!\n　You've got a gun?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Идзуми",
+   "text": "「Значит, решили взять силой?」",
+   "orig": "Izumi\n「So you're resorting to force, eh?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Атрун",
+   "text": "「Командир Дагза!\n　Что всё это значит?」",
+   "orig": "Athrun\n「Commander Daguza!\n　What is this?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Дагза",
+   "text": "「Не держите на меня зла.\n　Я лишь исполняю свой долг.」",
+   "orig": "Daguza\n「Don't think ill of me.\n　I'm just doing my duty.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Каппэй",
+   "text": "「Так эти дядьки\n　поднялись на «Нахель Аргаму»,\n　чтобы шпионить за нами?」",
+   "orig": "Kappei\n「So the old fogies\n　boarded the Nahel Argama\n　to spy on us?」"
+  },
+  {
+   "i": 166,
+   "speaker": "Дагза",
+   "text": "「И чтобы приглядывать за «Юникорном» тоже.」",
+   "orig": "Daguza\n「And to keep tabs on the Unicorn as well.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Дагза",
+   "text": "「Я не хочу применять силу.\n　Нам нужно лишь, чтобы вы подчинились приказу.」",
+   "orig": "Daguza\n「I don't want to get rough.\n　We just want you to follow our orders.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Сэцуна",
+   "text": "「А если мы откажемся?」",
+   "orig": "Setsuna\n「And if we refuse?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Дагза",
+   "text": "「Мы задержим вас\n　и изымем ваши машины.」",
+   "orig": "Daguza\n「We'll restrain you\n　and seize the mobile units.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Бандзё",
+   "text": "「И вы думаете, мы вот так это проглотим?」",
+   "orig": "Banjo\n「You expect us to just go along with such a thing?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Майто",
+   "text": "「Немедленно прекратите!\n　Вы же сами видите, что так поступать нельзя!」",
+   "orig": "Maito\n「Stop this right now!\n　You have to see that this just isn't right!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Дагза",
+   "text": "「Решение принял Генеральный штаб.\n　Мы лишь действуем согласно ему.」",
+   "orig": "Daguza\n「General Headquarters made the decision.\n　We're just acting in accordance with that.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Анж",
+   "text": "「А не взглянуть ли вам сейчас на себя в зеркало?」",
+   "orig": "Ange\n「How about looking at yourself in the mirror right now?」"
+  },
+  {
+   "i": 174,
+   "speaker": "Дагза",
+   "text": "「Что?」",
+   "orig": "Daguza\n「What?」"
+  },
+  {
+   "i": 175,
+   "speaker": "Анж",
+   "text": "「Вы хоть понимаете, какое у вас сейчас\n　выражение лица?」",
+   "orig": "Ange\n「Do you realize what kind of expression\n　you've got on your face?」"
+  },
+  {
+   "i": 176,
+   "speaker": "Анж",
+   "text": "「Солдаты сражаются, чтобы защищать людей.\n　Сможете, не отводя глаз, объяснить тем, кого\n　поклялись защищать, чем вы сейчас заняты?」",
+   "orig": "Ange\n「Soldiers fight to protect citizens.\n　Can you hold your head high and explain what\n　you're doing to the people you're sworn to protect?」"
+  },
+  {
+   "i": 177,
+   "speaker": "Дагза",
+   "text": "「Чтобы положить конец войне,\n　иного пути у нас нет.」",
+   "orig": "Daguza\n「In order to end the war,\n　we've got no choice.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Анж",
+   "text": "「Цель оправдывает средства.\n　Такой ход мыслей мне очень даже понятен.」",
+   "orig": "Ange\n「The end justifies the means.\n　I can definitely understand that sentiment.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Анж",
+   "text": "「И всё же!\n　Стоит однажды сделать то, чего человеку делать нельзя,\n　и человеческого в себе уже не вернёшь.」",
+   "orig": "Ange\n「Even so!\n　Once you do something that a human being\n　mustn't do, you can never get your humanity back.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Дагза",
+   "text": "「Тебе этого не понять.」",
+   "orig": "Daguza\n「There's no way you could understand this.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Анж",
+   "text": "「О нет, я прекрасно понимаю.」",
+   "orig": "Ange\n「Oh, I do understand.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Анж",
+   "text": "「Потому что своего мне уже не вернуть.」",
+   "orig": "Ange\n「Because I can never get mine back.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Момока",
+   "text": "「Анджелиза…」",
+   "orig": "Momoka\n「Angelise—」"
+  },
+  {
+   "i": 184,
+   "speaker": "Дагза",
+   "text": "「Мы солдаты.\n　А солдат обязан исполнять приказ, чего бы это ни стоило!」",
+   "orig": "Daguza\n「We are soldiers.\n　And soldiers have to follow orders no matter what!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Окита",
+   "text": "「А так ли это верно на самом деле?」",
+   "orig": "Okita\n「I wonder if that's the best path to follow after all.」"
+  },
+  {
+   "i": 186,
+   "speaker": "$n",
+   "text": "「Командир Окита!\n　Почему вы здесь?」",
+   "orig": "$n\n「Commander Okita!\n　Why are you here?」"
+  },
+  {
+   "i": 187,
+   "speaker": "Окита",
+   "text": "「Было у меня дурное предчувствие, вот мы с Кодаем\n　и позволили себе подняться на «Нахель Аргаму».」",
+   "orig": "Okita\n「Well, I had this uneasy feeling, so Kodai and I\n　took the liberty of boarding the Nahel Argama.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Кодай",
+   "text": "「Мы и не думали, что предчувствие командира\n　обернётся вот этим.」",
+   "orig": "Kodai\n「We had no idea that the commander's uneasy feeling\n　would end up taking shape like this.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Окита",
+   "text": "「Командир Дагза.」",
+   "orig": "Okita\n「Commander Daguza.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Дагза",
+   "text": "「Хм?」",
+   "orig": "Daguza\n「Hmm?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Окита",
+   "text": "「Вы действуете согласно приказу.\n　Для солдата это естественно. Это правильно.」",
+   "orig": "Okita\n「You're acting in accordance with your orders.\n　As a soldier, that's natural. That's proper.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Окита",
+   "text": "「Но даже солдат\n　порой обязан оставаться просто человеком.」",
+   "orig": "Okita\n「But even a soldier\n　sometimes has to be just another human being.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Дагза",
+   "text": "「Просто человеком…」",
+   "orig": "Daguza\n「Just another human being.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Окита",
+   "text": "「Люди ошибаются.」",
+   "orig": "Okita\n「People make mistakes.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Окита",
+   "text": "「И если вы считаете что-то ошибкой — пусть даже\n　это приказ, — нужно найти в себе мужество\n　поступить по своим убеждениям.」",
+   "orig": "Okita\n「And if you believe that something is a mistake,\n　even if that something is an order, you've got to\n　have the courage to act on your principles.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Кодай",
+   "text": "「Командир.」",
+   "orig": "Kodai\n「Commander.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Окита",
+   "text": "「Так я считаю.」",
+   "orig": "Okita\n「That's what I think.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Дагза",
+   "text": "「И что же нам тогда делать?」",
+   "orig": "Daguza\n「Well then, what should we do?」"
+  },
+  {
+   "i": 199,
+   "speaker": "Окита",
+   "text": "「Ответ уже есть внутри вас самого.」",
+   "orig": "Okita\n「You've already got the answer inside you.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Окита",
+   "text": "「Стоит лишь немного оглядеться вокруг —\n　и вы наверняка поймёте, каков он.」",
+   "orig": "Okita\n「If you just look around yourself a little bit,\n　I'm sure you'll realize what that is.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Банагер",
+   "text": "「Командир Дагза!」",
+   "orig": "Banagher\n「Commander Daguza!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Боец ЭКОАС",
+   "text": "「Эй, ты!\n　Я же велел вам, людям «Лондо Белл»,\n　ждать в своих каютах!」",
+   "orig": "ECOAS Squad Member\n「You!\n　I thought I told you Londo Bell people\n　to wait in your rooms!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Амуро",
+   "text": "「Мы — «Лондо Белл».\n　Мы такие приказы мимо ушей пропускаем.」",
+   "orig": "Amuro\n「We're Londo Bell.\n　We don't pay attention to orders like that.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Ридде",
+   "text": "「И на мостике, полагаю, прямо сейчас\n　вовсю разгулялся отряд СРТ «Мифрила».」",
+   "orig": "Riddhe\n「On the bridge too, right about now\n　I expect that Mithril's SRT is on a rampage.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Джудо",
+   "text": "「И, к слову сказать,\n　капитан Отто дал на это добро.」",
+   "orig": "Judau\n「And I should mention that\n　Captain Otto has given the go-ahead for this.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Дагза",
+   "text": "「Зачем вам так рисковать ради этих «нерегулярных»?」",
+   "orig": "Daguza\n「Why would you go to this far to help the Irregulars?」"
+  },
+  {
+   "i": 207,
+   "speaker": "Джудо",
+   "text": "「Не смейте называть их «нерегулярными»!\n　Они такие же люди, как и мы!」",
+   "orig": "Judau\n「Don't call them Irregulars!\n　They're human beings just like us!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Дагза",
+   "text": "「Хм!」",
+   "orig": "Daguza\n「Hmph!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Амуро",
+   "text": "「Внедриться к нам под видом своих, а при случае\n　прибрать «Лондо Белл» к рукам изнутри.」",
+   "orig": "Amuro\n「Moving among us as a spy and then taking control of\n　Londo Bell from within when the opportunity arises.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Амуро",
+   "text": "「Не думал, что они пойдут на такие грубые меры.」",
+   "orig": "Amuro\n「To think they'd take such a heavy-handed approach.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Дагза",
+   "text": "「Настолько отчаянное положение,\n　в котором оказалась Федерация.」",
+   "orig": "Daguza\n「That's how dire a situation\n　the Federation was placed in.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Джудо",
+   "text": "「И теперь вы ударите по колонистам\n　и снова запустите этот круг ненависти!」",
+   "orig": "Judau\n「So now they're gonna attack the colonists\n　and repeat this cycle of animosity!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Дагза",
+   "text": "「И всё же\n　мы не можем позволить Нео-Зеону\n　творить на Земле что вздумается.」",
+   "orig": "Daguza\n「Just the same,\n　there's no way we can just let Neo Zeon\n　do whatever it pleases on Earth.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Банагер",
+   "text": "「Именно из-за такого образа мыслей война\n　и не кончается, сколько бы лет ни прошло.」",
+   "orig": "Banagher\n「That sort of thinking is the reason that the war\n　never ends no matter how much time passes.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Дагза",
+   "text": "「Единственный способ покончить с этой войной —\n　разбить врага в пух и прах!」",
+   "orig": "Daguza\n「The only way to end this war\n　is by beating the enemy to a pulp!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Банагер",
+   "text": "「Вы правда так считаете?」",
+   "orig": "Banagher\n「Is that what you really think?」"
+  },
+  {
+   "i": 217,
+   "speaker": "Дагза",
+   "text": "「Что?」",
+   "orig": "Daguza\n「What?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Банагер",
+   "text": "「На «Индастриал 7» вы со своими людьми дрались,\n　чтобы защитить нас. Такие люди просто не могут\n　поступать вот так.」",
+   "orig": "Banagher\n「On Industrial 7, you and your people fought\n　to protect us. There's no way people like that\n　could possibly do something like this.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Дагза",
+   "text": "「Защищать мирных жителей — долг солдата.」",
+   "orig": "Daguza\n「Protecting citizens is a soldier's duty.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Банагер",
+   "text": "「Чтобы такой человек, как вы, чьё дело — защищать людей,\n　творил подобное, — это просто не укладывается в голове!」",
+   "orig": "Banagher\n「For someone like you, who's supposed to protect people,\n　to do something like this, it just doesn't make sense!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Дагза",
+   "text": "「Хм.」",
+   "orig": "Daguza\n「Hmph.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Банагер",
+   "text": "「И способ покончить с войной на самом деле есть!」",
+   "orig": "Banagher\n「And there is in fact a way to end the war!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Дагза",
+   "text": "「Что?」",
+   "orig": "Daguza\n「What?」"
+  },
+  {
+   "i": 224,
+   "speaker": "Банагер",
+   "text": "「Командир Дагза, вы ведь тоже видели\n　тот свет над Аксисом?\n　И ничего тогда не почувствовали?」",
+   "orig": "Banagher\n「Commander Daguza, you also saw\n　the light on Axis, didn't you?\n　You didn't feel anything then?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Амуро",
+   "text": "「Банагер.」",
+   "orig": "Amuro\n「Banagher.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Банагер",
+   "text": "「Я слышал, что все, кто был тогда там,\n　пытались остановить падение Аксиса!\n　И федераты, и зеонцы — без разницы!」",
+   "orig": "Banagher\n「From what I hear, the people who were there\n　tried to stop Axis from falling!\n　Federation, Zeon, it didn't matter!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Банагер",
+   "text": "「Это всегда возможно!\n　Понять друг друга!」",
+   "orig": "Banagher\n「It's always possible!\n　To understand one another!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Дагза",
+   "text": "「Федерация не может позволить себе\n　тешиться такими фантазиями.」",
+   "orig": "Daguza\n「The Federation can't afford to be engaging\n　in fantasies like that.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Банагер",
+   "text": "「Я верю в это — в саму возможность.\n　Называйте это фантазией, как хотите.」",
+   "orig": "Banagher\n「I believe in it - in possibility.\n　Call it fantasy, call it what you will.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Дагза",
+   "text": "「Хм.」",
+   "orig": "Daguza\n「Hmph.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Майто",
+   "text": "「И я тоже.」",
+   "orig": "Maito\n「That goes for me too.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Каппэй",
+   "text": "「Я тоже в это верю!\n　В ту возможность, о которой говорит Банагер!」",
+   "orig": "Kappei\n「I believe in it too!\n　In the possibility that Banagher is talking about!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Синн",
+   "text": "「Пусть вам кажется, что это выдумка, —\n　мы можем посвятить себя тому, чтобы она стала явью!」",
+   "orig": "Shinn\n「Even if you think it's a fantasy,\n　we can dedicate ourselves to making it a reality!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Кира",
+   "text": "「Именно так мы — да и весь мир —\n　сможем двигаться дальше!」",
+   "orig": "Kira\n「That's how we - the whole world in fact\n　can keep moving forward!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Банагер",
+   "text": "「Дагза!\n　Вот за что я буду сражаться!」",
+   "orig": "Banagher\n「Daguza!\n　That's what I'm gonna fight for!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Дагза",
+   "text": "「Хм-м-м.」",
+   "orig": "Daguza\n「Hmmm.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Дагза",
+   "text": "「Всем сложить оружие.\n　Мы провалили задание.」",
+   "orig": "Daguza\n「Everyone, lay down your weapons.\n　We've failed our mission.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Банагер",
+   "text": "「Дагза!」",
+   "orig": "Banagher\n「Daguza!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Дагза",
+   "text": "「Я… я оказался никудышным солдатом.」",
+   "orig": "Daguza\n「I-I've failed as a soldier.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Окита",
+   "text": "「Это не так. По крайней мере пока вы не теряете\n　из виду то, что действительно нужно сделать.」",
+   "orig": "Okita\n「That's not so. Not as long as you don't\n　lose sight of what you truly need to do.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Дагза",
+   "text": "「То, что я… то, что мы должны сделать.」",
+   "orig": "Daguza\n「What I- what we need to do.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Дагза",
+   "text": "「И это—」",
+   "orig": "Daguza\n「And that's—」"
+  },
+  {
+   "i": 243,
+   "speaker": "Боец ЭКОАС",
+   "text": "「Хм.」",
+   "orig": "ECOAS Squad Member\n「Hmph.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Боец ЭКОАС",
+   "text": "「Хм.」",
+   "orig": "ECOAS Squad Member\n「Hmph.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Рёко",
+   "text": "「Ах вы сволочи!\n　Что вы, чёрт возьми, задумали?」",
+   "orig": "Ryoko\n「You bastards!\n　What the hell are you planning to do?」"
+  },
+  {
+   "i": 246,
+   "speaker": "Хикару",
+   "text": "「Да вы издеваетесь!\n　У вас что, оружие?」",
+   "orig": "Hikaru\n「You must be kidding!\n　You've got a gun?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Идзуми",
+   "text": "「Значит, решили действовать силой?」",
+   "orig": "Izumi\n「So you're resorting to force, eh?」"
+  },
+  {
+   "i": 248,
+   "speaker": "Атрун",
+   "text": "「Командир Дагза!\n　Что всё это значит?」",
+   "orig": "Athrun\n「Commander Daguza!\n　What's this?」"
+  },
+  {
+   "i": 249,
+   "speaker": "Дагза",
+   "text": "「Не держите на меня зла.\n　Я лишь выполняю свой долг.」",
+   "orig": "Daguza\n「Don't think ill of me.\n　I'm just doing my duty.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Каппэй",
+   "text": "「Выходит, старпёры послали вас\n　на «Нахель Аргаму»,\n　чтобы шпионить за нами?」",
+   "orig": "Kappei\n「So the old fogies\n　boarded the Nahel Argama\n　to spy on us?」"
+  },
+  {
+   "i": 251,
+   "speaker": "Дагза",
+   "text": "「И чтобы приглядывать за «Юникорном» тоже.」",
+   "orig": "Daguza\n「And to keep tabs on the Unicorn as well.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Дагза",
+   "text": "「Мне не хочется применять силу.\n　Нам нужно лишь одно: чтобы вы подчинились приказу.」",
+   "orig": "Daguza\n「I don't want to get rough.\n　We just want you to follow our orders.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Сэцуна",
+   "text": "「А если мы откажемся?」",
+   "orig": "Setsuna\n「And if we refuse?」"
+  },
+  {
+   "i": 254,
+   "speaker": "Дагза",
+   "text": "「Тогда мы вас задержим\n　и заберём боевые машины.」",
+   "orig": "Daguza\n「We'll restrain you\n　and seize the mobile units.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Бандзё",
+   "text": "「И вы всерьёз думаете, что мы на это пойдём?」",
+   "orig": "Banjo\n「You expect us to just go along with such a thing?」"
+  },
+  {
+   "i": 256,
+   "speaker": "Майто",
+   "text": "「Немедленно прекратите!\n　Вы же сами понимаете, что так поступать нельзя!」",
+   "orig": "Maito\n「Stop this right now!\n　You have to see that this just isn't right!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Дагза",
+   "text": "「Решение принял Генеральный штаб.\n　Мы лишь действуем в соответствии с ним.」",
+   "orig": "Daguza\n「General Headquarters made the decision.\n　We're just acting in accordance with that.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Анж",
+   "text": "「А может, посмотрите сейчас на себя в зеркало?」",
+   "orig": "Ange\n「How about looking at yourself in the mirror right now?」"
+  },
+  {
+   "i": 259,
+   "speaker": "Дагза",
+   "text": "「Что?」",
+   "orig": "Daguza\n「What?」"
+  },
+  {
+   "i": 260,
+   "speaker": "Анж",
+   "text": "「Вы вообще понимаете, какое у вас сейчас\n　выражение лица?」",
+   "orig": "Ange\n「Do you realize what kind of expression\n　you've got on your face?」"
+  },
+  {
+   "i": 261,
+   "speaker": "Анж",
+   "text": "「Солдаты сражаются, чтобы защищать людей.\n　Сможете, не пряча глаз, объяснить тем, кого\n　поклялись защищать, чем вы сейчас заняты?」",
+   "orig": "Ange\n「Soldiers fight to protect citizens.\n　Can you hold your head high and explain what\n　you're doing to the people you're sworn to protect?」"
+  },
+  {
+   "i": 262,
+   "speaker": "Дагза",
+   "text": "「Чтобы положить конец войне,\n　у нас нет другого выбора.」",
+   "orig": "Daguza\n「In order to end the war,\n　we've got no choice.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Анж",
+   "text": "「Цель оправдывает средства.\n　Да, такие чувства мне более чем понятны.」",
+   "orig": "Ange\n「The end justifies the means.\n　I can definitely understand that sentiment.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Анж",
+   "text": "「И всё же!\n　Стоит сделать то, чего человеку делать нельзя, —\n　и человечности уже никогда не вернуть.」",
+   "orig": "Ange\n「Even so!\n　Once you do something that a human being\n　mustn't do, you can never get your humanity back.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Дагза",
+   "text": "「Вам этого всё равно не понять.」",
+   "orig": "Daguza\n「There's no way you could understand this.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Анж",
+   "text": "「О нет, я прекрасно понимаю.」",
+   "orig": "Ange\n「Oh, I do understand.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Анж",
+   "text": "「Потому что свою я уже никогда не верну.」",
+   "orig": "Ange\n「Because I can never get mine back.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Момока",
+   "text": "「Анжелиза—」",
+   "orig": "Momoka\n「Angelise—」"
+  },
+  {
+   "i": 269,
+   "speaker": "Дагза",
+   "text": "「Мы солдаты.\n　А солдаты обязаны выполнять приказы, и точка!」",
+   "orig": "Daguza\n「We are soldiers.\n　And soldiers have to follow orders no matter what!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Окита",
+   "text": "「И всё-таки — лучший ли это путь?」",
+   "orig": "Okita\n「I wonder if that's the best path to follow after all.」"
+  },
+  {
+   "i": 271,
+   "speaker": "$n",
+   "text": "「Командир Окита!\n　Почему вы здесь?」",
+   "orig": "$n\n「Commander Okita!\n　Why are you here?」"
+  },
+  {
+   "i": 272,
+   "speaker": "Окита",
+   "text": "「Да вот, было нехорошее предчувствие, и мы с Кодаем\n　самовольно поднялись на борт «Нахель Аргамы».」",
+   "orig": "Okita\n「Well, I had this uneasy feeling, so Kodai and I\n　took the liberty of boarding the Nahel Argama.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Кодай",
+   "text": "「Кто бы мог подумать, что предчувствие командира\n　обернётся вот таким.」",
+   "orig": "Kodai\n「We had no idea that the commander's uneasy feeling\n　would end up taking shape like this.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Окита",
+   "text": "「Командир Дагза.」",
+   "orig": "Okita\n「Commander Daguza.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Дагза",
+   "text": "「Хм?」",
+   "orig": "Daguza\n「Hmm?」"
+  },
+  {
+   "i": 276,
+   "speaker": "Окита",
+   "text": "「Вы действуете согласно приказу.\n　Для солдата это естественно. Это правильно.」",
+   "orig": "Okita\n「You're acting in accordance with your orders.\n　As a soldier, that's natural. That's proper.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Окита",
+   "text": "「Но даже солдат\n　порой должен оставаться просто человеком.」",
+   "orig": "Okita\n「But even a soldier\n　sometimes has to be just another human being.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Дагза",
+   "text": "「Просто человеком…」",
+   "orig": "Daguza\n「Just another human being.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Окита",
+   "text": "「Люди ошибаются.」",
+   "orig": "Okita\n「People make mistakes.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Окита",
+   "text": "「И если вы уверены, что это ошибка, —\n　пусть даже речь о приказе, — нужно найти в себе\n　мужество поступить по совести.」",
+   "orig": "Okita\n「And if you believe that something is a mistake,\n　even if that something is an order, you've got to\n　have the courage to act on your principles.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Кодай",
+   "text": "「Командир.」",
+   "orig": "Kodai\n「Commander.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Окита",
+   "text": "「Так я считаю.」",
+   "orig": "Okita\n「That's what I think.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Дагза",
+   "text": "「И что же нам тогда делать?」",
+   "orig": "Daguza\n「Well then, what should we do?」"
+  },
+  {
+   "i": 284,
+   "speaker": "Окита",
+   "text": "「Ответ уже есть внутри вас самого.」",
+   "orig": "Okita\n「You've already got the answer inside you.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Окита",
+   "text": "「Стоит лишь немного оглядеться вокруг —\n　и вы наверняка его увидите.」",
+   "orig": "Okita\n「If you just look around yourself a little bit,\n　I'm sure you'll realize what it is.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Банагер",
+   "text": "「Командир Дагза!」",
+   "orig": "Banagher\n「Commander Daguza!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Боец ЭКОАС",
+   "text": "「Эй!\n　Я же сказал вам, из «Лондо Белл»,\n　ждать у себя в каютах!」",
+   "orig": "ECOAS Squad Member\n「You!\n　I thought I told you Londo Bell people\n　to wait in your rooms!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Амуро",
+   "text": "「Мы — «Лондо Белл».\n　На такие приказы мы внимания не обращаем.」",
+   "orig": "Amuro\n「We're Londo Bell.\n　We don't pay attention to orders like that.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Ридде",
+   "text": "「И на мостике прямо сейчас, полагаю,\n　вовсю орудует отряд реагирования «Мифрила».」",
+   "orig": "Riddhe\n「On the bridge too, right about now\n　I expect that Mithril's SRT is on a rampage.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Джудо",
+   "text": "「И замечу, что добро на это\n　дал сам капитан Отто.」",
+   "orig": "Judau\n「And I should mention that\n　Captain Otto has given the go-ahead for this.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Дагза",
+   "text": "「Зачем вам заходить так далеко ради иррегуляров?」",
+   "orig": "Daguza\n「Why would you go to this far to help the Irregulars?」"
+  },
+  {
+   "i": 292,
+   "speaker": "Джудо",
+   "text": "「Не смей называть их иррегулярами!\n　Они такие же люди, как и мы!」",
+   "orig": "Judau\n「Don't call them Irregulars!\n　They're human beings just like us!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Дагза",
+   "text": "「Хм!」",
+   "orig": "Daguza\n「Hmph!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Амуро",
+   "text": "「Затесаться к нам шпионами, а потом, улучив момент,\n　взять «Лондо Белл» под контроль изнутри.」",
+   "orig": "Amuro\n「Moving among us as a spy and then taking control of\n　Londo Bell from within when the opportunity arises.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Амуро",
+   "text": "「И не побрезговали такими грубыми методами.」",
+   "orig": "Amuro\n「To think they'd take such a heavy-handed approach.」"
+  },
+  {
+   "i": 296,
+   "speaker": "Дагза",
+   "text": "「Настолько отчаянным оказалось положение,\n　в котором очутилась Федерация.」",
+   "orig": "Daguza\n「That's how dire a situation\n　the Federation was placed in.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Джудо",
+   "text": "「И теперь они ударят по колонистам\n　и запустят новый виток вражды!」",
+   "orig": "Judau\n「So now they're gonna attack the colonists\n　and repeat this cycle of animosity!」"
+  },
+  {
+   "i": 298,
+   "speaker": "Дагза",
+   "text": "「И всё же\n　мы не можем позволить Нео-Зеону\n　творить на Земле всё, что ему вздумается.」",
+   "orig": "Daguza\n「Just the same,\n　there's no way we can just let Neo Zeon\n　do whatever it pleases on Earth.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Банагер",
+   "text": "「Вот из-за такого мышления война и не кончается,\n　сколько бы времени ни прошло.」",
+   "orig": "Banagher\n「That sort of thinking is the reason that the war\n　never ends no matter how much time passes.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Дагза",
+   "text": "「Единственный способ закончить эту войну —\n　разбить врага в пух и прах!」",
+   "orig": "Daguza\n「The only way to end this war\n　is by beating the enemy to a pulp!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Банагер",
+   "text": "「Вы правда так считаете?」",
+   "orig": "Banagher\n「Is that what you really think?」"
+  },
+  {
+   "i": 302,
+   "speaker": "Дагза",
+   "text": "「Что?」",
+   "orig": "Daguza\n「What?」"
+  },
+  {
+   "i": 303,
+   "speaker": "Банагер",
+   "text": "「На «Индастриал 7» вы со своими людьми сражались,\n　чтобы защитить нас. Такие люди просто не способны\n　на то, что вы делаете сейчас.」",
+   "orig": "Banagher\n「On Industrial 7, you and your people fought\n　to protect us. There's no way people like that\n　could possibly do something like this.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Дагза",
+   "text": "「Защищать граждан — долг солдата.」",
+   "orig": "Daguza\n「Protecting citizens is a soldier's duty.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Банагер",
+   "text": "「Вы ведь тот, кто должен защищать людей, —\n　и творите такое? Это же полная бессмыслица!」",
+   "orig": "Banagher\n「For someone like you, who's supposed to protect people,\n　to do something like this, it just doesn't make sense!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Дагза",
+   "text": "「Хм.」",
+   "orig": "Daguza\n「Hmph.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Банагер",
+   "text": "「И способ закончить войну всё-таки есть!」",
+   "orig": "Banagher\n「And there is in fact a way to end the war!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Дагза",
+   "text": "「Что?」",
+   "orig": "Daguza\n「What?」"
+  },
+  {
+   "i": 309,
+   "speaker": "Банагер",
+   "text": "「Командир Дагза, вы ведь тоже\n　видели тот свет над «Аксисом»?\n　И совсем ничего тогда не почувствовали?」",
+   "orig": "Banagher\n「Commander Daguza, you also saw\n　the light on Axis, didn't you?\n　You didn't feel anything then?」"
+  },
+  {
+   "i": 310,
+   "speaker": "Амуро",
+   "text": "「Банагер.」",
+   "orig": "Amuro\n「Banagher.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Банагер",
+   "text": "「Я слышал, что все, кто был там тогда,\n　пытались остановить падение «Аксиса»!\n　И неважно — федераты, зеонцы!」",
+   "orig": "Banagher\n「From what I hear, the people who were there\n　tried to stop Axis from falling!\n　Federation, Zeon, it didn't matter!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Банагер",
+   "text": "「Это всегда возможно!\n　Понять друг друга!」",
+   "orig": "Banagher\n「It's always possible!\n　To understand one another!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Дагза",
+   "text": "「Федерация не может позволить себе\n　предаваться подобным фантазиям.」",
+   "orig": "Daguza\n「The Federation can't afford to be engaging\n　in fantasies like that.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Банагер",
+   "text": "「А я в неё верю — в эту возможность.\n　Называйте это фантазией, называйте как хотите」",
+   "orig": "Banagher\n「I believe in it - in possibility.\n　Call it fantasy, call it what you will」"
+  },
+  {
+   "i": 315,
+   "speaker": "Дагза",
+   "text": "「Хм.」",
+   "orig": "Daguza\n「Hmph.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Майто",
+   "text": "「И я тоже.」",
+   "orig": "Maito\n「That goes for me too.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Каппэй",
+   "text": "「Я тоже в это верю!\n　В ту возможность, о которой говорит Банагер!」",
+   "orig": "Kappei\n「I believe in it too!\n　In the possibility that Banagher is talking about!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Синн",
+   "text": "「Пусть вам кажется, что это выдумка, —\n　мы можем посвятить себя тому, чтобы она стала явью!」",
+   "orig": "Shinn\n「Even if you think it's a fantasy,\n　we can dedicate ourselves to making it a reality!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Кира",
+   "text": "「Именно так мы — да и весь мир —\n　сможем двигаться дальше!」",
+   "orig": "Kira\n「That's how we - the whole world in fact\n　can keep moving forward!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Банагер",
+   "text": "「Дагза!\n　Вот за что я буду сражаться!」",
+   "orig": "Banagher\n「Daguza!\n　That's what I'm gonna fight for!」"
+  },
+  {
+   "i": 321,
+   "speaker": "Дагза",
+   "text": "「Хм-м-м.」",
+   "orig": "Daguza\n「Hmmm.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Дагза",
+   "text": "「Всем сложить оружие.\n　Мы провалили задание.」",
+   "orig": "Daguza\n「Everyone, lay down your weapons.\n　We've failed our mission.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Банагер",
+   "text": "「Дагза!」",
+   "orig": "Banagher\n「Daguza!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Дагза",
+   "text": "「Я… я оказался никудышным солдатом.」",
+   "orig": "Daguza\n「I-I've failed as a soldier.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Окита",
+   "text": "「Это не так. По крайней мере пока вы не теряете\n　из виду то, что действительно нужно сделать.」",
+   "orig": "Okita\n「That's not so. Not as long as you don't\n　lose sight of what you truly need to do.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Дагза",
+   "text": "「То, что я… то, что мы должны сделать.」",
+   "orig": "Daguza\n「What I- what we need to do.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Дагза",
+   "text": "「И это—」",
+   "orig": "Daguza\n「And that's—」"
+  },
+  {
+   "i": 331,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Ангар «Нахель Аргамы»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nahel Argama Hangar-"
+  },
+  {
+   "i": 332,
+   "speaker": "Джудо",
+   "text": "（Камий, ну как же так?）",
+   "orig": "Judau\n（Kamille, how could you?）"
+  },
+  {
+   "i": 333,
+   "speaker": "Джудо",
+   "text": "（Как ты мог взять и уйти, когда мне\n　столько всего ещё хочется тебе сказать?）",
+   "orig": "Judau\n（How could you up and leave when there's\n　so much I still want to say to you?）"
+  },
+  {
+   "i": 334,
+   "speaker": "Пуру",
+   "text": "「Джудо!」",
+   "orig": "Ple\n「Judau!」"
+  },
+  {
+   "i": 335,
+   "speaker": "Пуру Два",
+   "text": "「С возвращением!」",
+   "orig": "Ple Two\n「Welcome back!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Джудо",
+   "text": "「Пуру Два!\n　Да вы обе просто сияете!」",
+   "orig": "Judau\n「Ple Two!\n　You're both looking pretty happy!」"
+  },
+  {
+   "i": 337,
+   "speaker": "Пуру Два",
+   "text": "「Это потому, что—」",
+   "orig": "Ple Two\n「That's because—」"
+  },
+  {
+   "i": 338,
+   "speaker": "Пуру",
+   "text": "「Наши жизни когда-то спас Джудо.\n　Так что мы ни за что не умрём.」",
+   "orig": "Ple\n「We're lives saved by Judau in the past.\n　We're not gonna die no matter what.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Иино",
+   "text": "「Ну, вы обе тоже здорово постарались.」",
+   "orig": "Iino\n「Well, you both put in a lot of effort too.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Мондо",
+   "text": "「Джудо, давай, похвали их.」",
+   "orig": "Mondo\n「Judau, go on and compliment them.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Бича",
+   "text": "「Иино, Мондо, вы тоже были на «Ра Кайлуме»?」",
+   "orig": "Beecha\n「Iino and Mondo, you were on the Ra Cailum too?」"
+  },
+  {
+   "i": 342,
+   "speaker": "Элль",
+   "text": "「Спасибо за поддержку.」",
+   "orig": "Elle\n「Thanks for the back-up.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Банагер",
+   "text": "「Хм-м.」",
+   "orig": "Banagher\n「Hmm.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Хатауэй",
+   "text": "「Что такое, Банагер?」",
+   "orig": "Hathaway\n「What's the matter, Banagher?」"
+  },
+  {
+   "i": 345,
+   "speaker": "Банагер",
+   "text": "「Да вот подумалось: какие же разные\n　люди собрались в «Лондо Белл».」",
+   "orig": "Banagher\n「I was just thinking, there are\n　all kinds of people in Londo Bell.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Банагер",
+   "text": "「Тут и асы вроде командира Амуро,\n　и гражданские добровольцы вроде Джудо,\n　и даже люди из других миров.」",
+   "orig": "Banagher\n「There are ace pilots like Commander Amuro,\n　civilian collaborators like Judau,\n　and even people from other worlds.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Дагза",
+   "text": "「И основной удар, похоже,\n　придётся принять на себя «Лондо Белл».」",
+   "orig": "Daguza\n「It's probably gonna be Londo Bell\n　that has to bear the brunt of this.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Банагер",
+   "text": "「Командир Дагза.」",
+   "orig": "Banagher\n「Commander Daguza.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Дагза",
+   "text": "「Банагер.\n　Твои слова напомнили мне\n　об очень важной вещи.」",
+   "orig": "Daguza\n「Banagher.\n　What you said made me recall\n　something very important.」"
+  },
+  {
+   "i": 350,
+   "speaker": "Дагза",
+   "text": "「Нет смысла ставить жизнь на кон ради того,\n　во что ты сам не веришь.\n　Похоже, я забыл эту простую истину.」",
+   "orig": "Daguza\n「It doesn't make sense to put a life on the line\n　for something that you don't believe in.\n　I seem to have forgotten that very basic fact.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Дагза",
+   "text": "「И дело не только в тебе.\n　Та девушка и командир Окита — тоже.\n　Вы все помогли мне очнуться.」",
+   "orig": "Daguza\n「And it wasn't just you.\n　The girl and Commander Okita too.\n　All of you helped wake me up.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Анж",
+   "text": "「Выходит, не до конца ты ещё прогнил.」",
+   "orig": "Ange\n「So you weren't completely corrupt after all.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Салия",
+   "text": "「Анж!\n　Думай, что говоришь!」",
+   "orig": "Salia\n「Ange!\n　You really need to watch what you say!」"
+  },
+  {
+   "i": 354,
+   "speaker": "Дагза",
+   "text": "「Ничего страшного. В конце концов,\n　вы не солдаты, а мы теперь, похоже, предатели.」",
+   "orig": "Daguza\n「Don't worry about it. After all,\n　you're not soldiers and we're apparently traitors.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Дагза",
+   "text": "「Отныне мы на равных.」",
+   "orig": "Daguza\n「From here on out we're equals.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Банагер",
+   "text": "「Так точно!」",
+   "orig": "Banagher\n「Yes, sir!」"
+  },
+  {
+   "i": 357,
+   "speaker": "Конрой",
+   "text": "「Сколько же лет прошло с тех пор,\n　как я последний раз видел твою улыбку?」",
+   "orig": "Conroy\n「I wonder how many years it's been\n　since I saw you smile like that.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Дагза",
+   "text": "「И не говори.\n　Здесь у меня такое чувство, будто я возвращаю\n　себе то, что потерял очень давно.」",
+   "orig": "Daguza\n「I know.\n　Being here makes me feel like I'm\n　getting back something I lost a long time ago.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Джудо",
+   "text": "「Потерял? А что именно?」",
+   "orig": "Judau\n「Something you lost?」"
+  },
+  {
+   "i": 360,
+   "speaker": "Дагза",
+   "text": "「Надежду.\n　Или, как говорят иные, возможности.」",
+   "orig": "Daguza\n「Hope.\n　Or what some would call possibilities.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Конрой",
+   "text": "「Уже за одно то спасибо, что нам напомнили:\n　может быть и другой выход, кроме как\n　барахтаться в трясине войны.」",
+   "orig": "Conroy\n「It's enough that they reminded us\n　there might be a better solution\n　than slogging through the quagmire of war.」"
+  },
+  {
+   "i": 362,
+   "speaker": "Дагза",
+   "text": "「Потому-то ЭКОАС\n　и решил поставить на «Лондо Белл».\n　И наши жизни — тоже на кону.」",
+   "orig": "Daguza\n「That's why ECOAS\n　decided to bet on Londo Bell.\n　And that goes for all of our lives too.」"
+  },
+  {
+   "i": 363,
+   "speaker": "Банагер",
+   "text": "「Дагза.」",
+   "orig": "Banagher\n「Daguza.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Дагза",
+   "text": "「Банагер, вы с командиром Окитой показали мне,\n　на что человеку стоит тратить свою жизнь.」",
+   "orig": "Daguza\n「Banagher, you and Commander Okita taught me\n　how a person should put his life to use.」"
+  },
+  {
+   "i": 365,
+   "speaker": "Банагер",
+   "text": "「Нет-нет, я ведь совсем не—」",
+   "orig": "Banagher\n「No, no, I really—」"
+  },
+  {
+   "i": 366,
+   "speaker": "Дагза",
+   "text": "「Отныне мы с тобой\n　боевые товарищи.」",
+   "orig": "Daguza\n「You and I will be comrades in arms\n　from now on.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Банагер",
+   "text": "「Непременно.」",
+   "orig": "Banagher\n「Absolutely.」"
+  },
+  {
+   "i": 368,
+   "speaker": "Курц",
+   "text": "「Похоже, работы у нас прибавится.」",
+   "orig": "Kurz\n「It looks like we're about to get real busy.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Мао",
+   "text": "「Раз мы пошли своей дорогой, на поддержку\n　войск Федерации теперь рассчитывать нечего.」",
+   "orig": "Mao\n「Now that we're heading in this other direction, we\n　can't count on support from the Federation Forces.」"
+  },
+  {
+   "i": 370,
+   "speaker": "Найджел",
+   "text": "「Остаётся надеяться только на «Мифрил».」",
+   "orig": "Nigel\n「Now the only group we can count on is Mithril.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Клузо",
+   "text": "「Ага.\n　Похоже, путь наш лежит на остров Мелида.」",
+   "orig": "Clouseau\n「Yep.\n　We just might be headed for Melida Island.」"
+  },
+  {
+   "i": 372,
+   "speaker": "Джудо",
+   "text": "「База «Туата де Данаан», значит?」",
+   "orig": "Judau\n「The Tuatha de Denaan base, eh?」"
+  },
+  {
+   "i": 373,
+   "speaker": "$n",
+   "text": "「С тех пор как мы сюда попали, всё никак не кончится.\n　Хорошо бы хоть ненадолго передохнуть.」",
+   "orig": "$n\n「The whole thing just kept going after we got here.\n　It'd be nice to take a break from all this for a while.」"
+  },
+  {
+   "i": 374,
+   "speaker": "Джудо",
+   "text": "（Камий, ну как же так?）",
+   "orig": "Judau\n（Kamille, how could you?）"
+  },
+  {
+   "i": 375,
+   "speaker": "Джудо",
+   "text": "（Как ты мог взять и уйти, когда мне\n　столько всего ещё хочется тебе сказать?）",
+   "orig": "Judau\n（How could you up and leave when there's\n　so much I still want to say to you?）"
+  },
+  {
+   "i": 376,
+   "speaker": "Пуру",
+   "text": "「Джудо!」",
+   "orig": "Ple\n「Judau!」"
+  },
+  {
+   "i": 377,
+   "speaker": "Пуру Два",
+   "text": "「С возвращением!」",
+   "orig": "Ple Two\n「Welcome back!」"
+  },
+  {
+   "i": 378,
+   "speaker": "Джудо",
+   "text": "「Пуру Два!\n　Да вы обе просто сияете!」",
+   "orig": "Judau\n「Ple Two!\n　You're both looking pretty happy!」"
+  },
+  {
+   "i": 379,
+   "speaker": "Пуру Два",
+   "text": "「Это потому, что—」",
+   "orig": "Ple Two\n「That's because—」"
+  },
+  {
+   "i": 380,
+   "speaker": "Пуру",
+   "text": "「Наши жизни когда-то спас Джудо.\n　так что мы ни за что не умрём.」",
+   "orig": "Ple\n「We're lives saved by Judau in the past.\n　we're not gonna die no matter what.」"
+  },
+  {
+   "i": 381,
+   "speaker": "Иино",
+   "text": "「Ну, вы обе тоже здорово постарались.」",
+   "orig": "Iino\n「Well, you both put in a lot of effort too.」"
+  },
+  {
+   "i": 382,
+   "speaker": "Мондо",
+   "text": "「Джудо, давай, похвали их.」",
+   "orig": "Mondo\n「Judau, go on and compliment them.」"
+  },
+  {
+   "i": 383,
+   "speaker": "Бича",
+   "text": "「Иино, Мондо, вы тоже были на «Ра Кайлуме»?」",
+   "orig": "Beecha\n「Iino and Mondo, you were on the Ra Cailum too?」"
+  },
+  {
+   "i": 384,
+   "speaker": "Элль",
+   "text": "「Спасибо за поддержку.」",
+   "orig": "Elle\n「Thanks for the back-up.」"
+  },
+  {
+   "i": 385,
+   "speaker": "Банагер",
+   "text": "「Хм-м.」",
+   "orig": "Banagher\n「Hmm.」"
+  },
+  {
+   "i": 386,
+   "speaker": "Хатауэй",
+   "text": "「Что такое, Банагер?」",
+   "orig": "Hathaway\n「What's the matter, Banagher?」"
+  },
+  {
+   "i": 387,
+   "speaker": "Банагер",
+   "text": "「Да вот подумалось: какие же разные\n　люди собрались в «Лондо Белл».」",
+   "orig": "Banagher\n「I was just thinking, there are\n　all kinds of people in Londo Bell.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Банагер",
+   "text": "「Тут и асы вроде командира Амуро,\n　и гражданские добровольцы вроде Джудо,\n　и даже люди из других миров.」",
+   "orig": "Banagher\n「There are ace pilots like Commander Amuro,\n　civilian collaborators like Judau,\n　and even people from other worlds.」"
+  },
+  {
+   "i": 389,
+   "speaker": "Дагза",
+   "text": "「И основной удар, похоже,\n　придётся принять на себя «Лондо Белл».」",
+   "orig": "Daguza\n「It's probably gonna be Londo Bell\n　that has to bear the brunt of this.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Банагер",
+   "text": "「Командир Дагза.」",
+   "orig": "Banagher\n「Commander Daguza.」"
+  },
+  {
+   "i": 391,
+   "speaker": "Дагза",
+   "text": "「Банагер.\n　Твои слова напомнили мне\n　об очень важной вещи.」",
+   "orig": "Daguza\n「Banagher.\n　What you said made me recall\n　something very important.」"
+  },
+  {
+   "i": 392,
+   "speaker": "Дагза",
+   "text": "「Нет смысла ставить жизнь на кон ради того,\n　во что ты сам не веришь.\n　Похоже, я забыл эту простую истину.」",
+   "orig": "Daguza\n「It doesn't make sense to put a life on the line\n　for something that you don't believe in.\n　I seem to have forgotten that very basic fact.」"
+  },
+  {
+   "i": 393,
+   "speaker": "Дагза",
+   "text": "「И дело не только в тебе.\n　Та девушка и командир Окита — тоже.\n　Вы все помогли мне очнуться.」",
+   "orig": "Daguza\n「And it wasn't just you.\n　The girl and Commander Okita too.\n　All of you helped wake me up.」"
+  },
+  {
+   "i": 394,
+   "speaker": "Анж",
+   "text": "「Выходит, не до конца ты ещё прогнил.」",
+   "orig": "Ange\n「So you weren't completely corrupt after all.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Салия",
+   "text": "「Анж!\n　Думай, что говоришь!」",
+   "orig": "Salia\n「Ange!\n　You really need to watch what you say!」"
+  },
+  {
+   "i": 396,
+   "speaker": "Дагза",
+   "text": "「Ничего страшного. В конце концов,\n　вы не солдаты, а мы теперь, похоже, предатели.」",
+   "orig": "Daguza\n「Don't worry about it. After all,\n　you're not soldiers, and we're apparently traitors.」"
+  },
+  {
+   "i": 397,
+   "speaker": "Дагза",
+   "text": "「Отныне мы на равных.」",
+   "orig": "Daguza\n「From here on out we're equals.」"
+  },
+  {
+   "i": 398,
+   "speaker": "Банагер",
+   "text": "「Так точно!」",
+   "orig": "Banagher\n「Yes, sir!」"
+  },
+  {
+   "i": 399,
+   "speaker": "Конрой",
+   "text": "「Сколько же лет прошло с тех пор,\n　как я последний раз видел твою улыбку?」",
+   "orig": "Conroy\n「I wonder how many years it's been\n　since I saw you smile like that.」"
+  },
+  {
+   "i": 400,
+   "speaker": "Дагза",
+   "text": "「И не говори.\n　Здесь у меня такое чувство, будто я возвращаю\n　себе то, что потерял очень давно.」",
+   "orig": "Daguza\n「I know.\n　Being here makes me feel like I'm\n　getting back something I lost a long time ago.」"
+  },
+  {
+   "i": 401,
+   "speaker": "Джудо",
+   "text": "「Потерял? А что именно?」",
+   "orig": "Judau\n「Something you lost?」"
+  },
+  {
+   "i": 402,
+   "speaker": "Дагза",
+   "text": "「Надежду.\n　Или, как говорят иные, возможности.」",
+   "orig": "Daguza\n「Hope.\n　Or what some would call possibilities.」"
+  },
+  {
+   "i": 403,
+   "speaker": "Конрой",
+   "text": "「Уже за одно то спасибо, что нам напомнили:\n　может быть и другой выход, кроме как\n　барахтаться в трясине войны.」",
+   "orig": "Conroy\n「It's enough that they reminded us\n　there might be a better solution\n　than slogging through the quagmire of war.」"
+  },
+  {
+   "i": 404,
+   "speaker": "Дагза",
+   "text": "「Потому-то ЭКОАС\n　и решил поставить на «Лондо Белл».\n　И наши жизни — тоже на кону.」",
+   "orig": "Daguza\n「That's why ECOAS\n　decided to bet on Londo Bell.\n　And that goes for all of our lives too.」"
+  },
+  {
+   "i": 405,
+   "speaker": "Банагер",
+   "text": "「Дагза.」",
+   "orig": "Banagher\n「Daguza.」"
+  },
+  {
+   "i": 406,
+   "speaker": "Дагза",
+   "text": "「Банагер, вы с командиром Окитой показали мне,\n　на что человеку стоит тратить свою жизнь.」",
+   "orig": "Daguza\n「Banagher, you and Commander Okita taught me\n　how a person should put his life to use.」"
+  },
+  {
+   "i": 407,
+   "speaker": "Банагер",
+   "text": "「Нет-нет, я ведь совсем не—」",
+   "orig": "Banagher\n「No, no, I really—」"
+  },
+  {
+   "i": 408,
+   "speaker": "Дагза",
+   "text": "「Отныне мы с тобой\n　боевые товарищи.」",
+   "orig": "Daguza\n「You and I will be comrades in arms\n　from now on.」"
+  },
+  {
+   "i": 409,
+   "speaker": "Банагер",
+   "text": "「Непременно.」",
+   "orig": "Banagher\n「Absolutely.」"
+  },
+  {
+   "i": 410,
+   "speaker": "Курц",
+   "text": "「Похоже, работы у нас прибавится.」",
+   "orig": "Kurz\n「It looks like we're about to get real busy.」"
+  },
+  {
+   "i": 411,
+   "speaker": "Мао",
+   "text": "「Раз мы пошли своей дорогой, на поддержку\n　войск Федерации теперь рассчитывать нечего.」",
+   "orig": "Mao\n「Now that we're heading in this other direction, we\n　can't count on support from the Federation Forces.」"
+  },
+  {
+   "i": 412,
+   "speaker": "Найджел",
+   "text": "「Остаётся надеяться только на «Мифрил».」",
+   "orig": "Nigel\n「Now the only group we can count on is Mithril.」"
+  },
+  {
+   "i": 413,
+   "speaker": "Клузо",
+   "text": "「Ага.\n　Похоже, путь наш лежит на остров Мелида.」",
+   "orig": "Clouseau\n「Yep.\n　We just might be headed for Melida Island.」"
+  },
+  {
+   "i": 414,
+   "speaker": "Джудо",
+   "text": "「База «Туата де Данаан», значит?」",
+   "orig": "Judau\n「The Tuatha de Denaan base, eh?」"
+  },
+  {
+   "i": 415,
+   "speaker": "$n",
+   "text": "「С тех пор как мы сюда попали, всё никак не кончится.\n　Хорошо бы хоть ненадолго передохнуть.」",
+   "orig": "$n\n「The whole thing just kept going after we got here.\n　It'd be nice to take a break from all this for a while.」"
+  },
+  {
+   "i": 419,
+   "speaker": "Найн",
+   "text": "「Командир Амуро.」",
+   "orig": "Nine\n「Commander Amuro.」"
+  },
+  {
+   "i": 420,
+   "speaker": "Амуро",
+   "text": "「Что такое, Найн?」",
+   "orig": "Amuro\n「What is it, Nine?」"
+  },
+  {
+   "i": 421,
+   "speaker": "Найн",
+   "text": "「Вы не могли бы рассказать мне\n　о человеке по имени Камий?」",
+   "orig": "Nine\n「Could you possibly tell me\n　about this person named Kamille?」"
+  },
+  {
+   "i": 422,
+   "speaker": "Найн",
+   "text": "「К Джудо сегодня лучше не подходить.」",
+   "orig": "Nine\n「Judau is a little hard to approach today.」"
+  },
+  {
+   "i": 423,
+   "speaker": "Амуро",
+   "text": "「Видишь ли, Джудо очень равняется на Камия.\n　И то, что тот ушёл, не сказав ни слова,\n　стало для него сильным ударом.」",
+   "orig": "Amuro\n「Well, Judau really looks up to Kamille, you know.\n　It must have been quite a shock to him\n　when he took off without saying anything.」"
+  },
+  {
+   "i": 424,
+   "speaker": "Найн",
+   "text": "「Но я слышала, что Камий и Джудо\n　даже ни разу друг с другом не говорили.」",
+   "orig": "Nine\n「But I heard that Kamille and Judau\n　had never spoken to one anther.」"
+  },
+  {
+   "i": 425,
+   "speaker": "Амуро",
+   "text": "「Он человек очень чуткий — и потому\n　война надломила его душу.」",
+   "orig": "Amuro\n「He was a very sensitive sort, and as a result,\n　he had his heart broken in the war.」"
+  },
+  {
+   "i": 426,
+   "speaker": "Найн",
+   "text": "「Надломила душу?」",
+   "orig": "Nine\n「Had his heart broken?」"
+  },
+  {
+   "i": 427,
+   "speaker": "Амуро",
+   "text": "「Я слышал, что в тех боях\n　Камий потерял очень много близких людей.」",
+   "orig": "Amuro\n「I heard that in his battles\n　Kamille lost a lot of people he was close to.」"
+  },
+  {
+   "i": 428,
+   "speaker": "Амуро",
+   "text": "「Друзья, товарищи, любимая девушка —\n　все они погибли в той войне.」",
+   "orig": "Amuro\n「Friends, comrades, the love of his life,\n　they all perished in the conflict.」"
+  },
+  {
+   "i": 429,
+   "speaker": "Найн",
+   "text": "「Может ли быть, что кто-то из тех,\n　кто был тогда, участвовал и в сегодняшнем бою?」",
+   "orig": "Nine\n「Could it be that some of the people\n　from back then were part of the fighting today?」"
+  },
+  {
+   "i": 430,
+   "speaker": "Найн",
+   "text": "「Я заметила, что Камий был крайне взволнован,\n　когда сражался с «Бьярлантом Кастом».」",
+   "orig": "Nine\n「I noticed that Kamille seemed really agitated\n　when he was fighting with the Byarlant Custom.」"
+  },
+  {
+   "i": 431,
+   "speaker": "Амуро",
+   "text": "「Видимо, это всколыхнуло в нём горькие воспоминания.」",
+   "orig": "Amuro\n「That probably brought back some sad memories.」"
+  },
+  {
+   "i": 432,
+   "speaker": "Найн",
+   "text": "「Проанализировав его бой,\n　мой тактический процессор получил данные,\n　эквивалентные 100 ТакО.」",
+   "orig": "Nine\n「By analyzing his combat,\n　my tactical processing capacity was able to acquire\n　data equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 433,
+   "speaker": "Амуро",
+   "text": "「И всё же я верю, что Камий\n　сумеет через это переступить.」",
+   "orig": "Amuro\n「But I still believe that Kamille will be able\n　to get past all this.」"
+  },
+  {
+   "i": 434,
+   "speaker": "Амуро",
+   "text": "「Не будь у него такой решимости,\n　он бы вообще не вернулся в бой.」",
+   "orig": "Amuro\n「If he hadn't resolved to do just that,\n　he never would have returned to battle.」"
+  },
+  {
+   "i": 435,
+   "speaker": "Найн",
+   "text": "「Вы и правда очень в него верите.」",
+   "orig": "Nine\n「You obviously really believe in him.」"
+  },
+  {
+   "i": 436,
+   "speaker": "Амуро",
+   "text": "「В конце концов, надежды на него\n　возлагаю не я один.」",
+   "orig": "Amuro\n「I'm not the only one with high hopes\n　for him, after all.」"
+  },
+  {
+   "i": 440,
+   "speaker": "Найн",
+   "text": "「Дагза, Конрой, с возвращением.」",
+   "orig": "Nine\n「Daguza, Conroy, welcome back.」"
+  },
+  {
+   "i": 441,
+   "speaker": "Конрой",
+   "text": "「В регулярной армии такого\n　уж точно не повидаешь.」",
+   "orig": "Conroy\n「You just can't experience this sort of situation\n　in the regular army.」"
+  },
+  {
+   "i": 442,
+   "speaker": "Дагза",
+   "text": "「И не поспоришь.」",
+   "orig": "Daguza\n「That's for sure.」"
+  },
+  {
+   "i": 443,
+   "speaker": "Найн",
+   "text": "「Вы оба беззаветно следуете приказам.\n　Я полагала, что ваш механизм принятия решений\n　близок к ИИ, и такого поведения не ожидала.」",
+   "orig": "Nine\n「The two of you are devoted to following orders.\n　I thought your output mechanism was AI-like,\n　 so your behavior was quite unexpected.」"
+  },
+  {
+   "i": 444,
+   "speaker": "Конрой",
+   "text": "「Да уж, пожалуй.\n　Мы и сами порядком удивились.」",
+   "orig": "Conroy\n「Yeah, I guess.\n　We were pretty surprised ourselves.」"
+  },
+  {
+   "i": 445,
+   "speaker": "Дагза",
+   "text": "「Ещё одно следствие здешней атмосферы «Лондо Белл».」",
+   "orig": "Daguza\n「Yet another result of the atmosphere in Londo Bell.」"
+  },
+  {
+   "i": 446,
+   "speaker": "Найн",
+   "text": "「Атмосферы?\n　Простите, но это мои сенсоры измерить не могут.」",
+   "orig": "Nine\n「Atmosphere?\n　Sorry, that's something my sensors can't measure.」"
+  },
+  {
+   "i": 447,
+   "speaker": "Дагза",
+   "text": "「Когда одни люди трогают сердца других.\n　Если вкратце — вот это.」",
+   "orig": "Daguza\n「People being moved by other people.\n　That's the gist of it.」"
+  },
+  {
+   "i": 448,
+   "speaker": "Найн",
+   "text": "「Вот это я понимаю.」",
+   "orig": "Nine\n「That I can understand.」"
+  },
+  {
+   "i": 449,
+   "speaker": "Найн",
+   "text": "（Ведь они тронули даже\n　такой ИИ, как я.）",
+   "orig": "Nine\n（Because they even moved\n　an AI like me.）"
+  }
+ ]
+}

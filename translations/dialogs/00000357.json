@@ -1,0 +1,1990 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Рёко",
+   "text": "「О чём они вообще думают?\n　Устраивать бой ранним утром\n　прямо посреди города?」",
+   "orig": "Ryoko\n「What on earth are they thinking?\n　An early-morning battle \n　in the middle of the city?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Идзуми",
+   "text": "「О том, чтобы уничтожить «Майтгайн»\n　на глазах у всего города, вот о чём.」",
+   "orig": "Izumi\n「Destroying Mightgaine in front\n　of the entire city, that's what.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Грэм",
+   "text": "「Хм-м.」",
+   "orig": "Graham\n「Hmm.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Бандзё",
+   "text": "「А что вы думаете о выходке\n　Дзё-Эйса, майор Грэм?」",
+   "orig": "Banjo\n「What do you think of Joe the Ace's\n　actions, Major Graham?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Грэм",
+   "text": "「Спору нет, Дзё всегда\n　любил играть на публику.\n　Но здесь что-то иное.」",
+   "orig": "Graham\n「Without a doubt, Joe has\n　always had a love for grandstanding.\n　But this seems somehow different.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Грэм",
+   "text": "「Он не на задании и действует не по долгу службы.\n　У меня такое чувство, что дело тут личное.\n　Старая обида.」",
+   "orig": "Graham\n「He isn't on a mission, and he's not doing it\n　out of duty. I get the feeling this is personal.\n　A grudge.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Каппэй",
+   "text": "「Хотите сказать, ему просто не нравится Майто?」",
+   "orig": "Kappei\n「Are you saying he doesn't like Maito?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Колясур",
+   "text": "「Злодеям Майто, конечно, как кость в горле,\n　но вообще-то он отличный парень.」",
+   "orig": "Colasour\n「Villains consider Maito a pain in their\n　side, but he's actually quite a nice guy.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Грэм",
+   "text": "「Я и сам в растерянности.」",
+   "orig": "Graham\n「I'm also at a loss.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Грэм",
+   "text": "「И всё же мне с трудом верится,\n　что Дзё изменился.」",
+   "orig": "Graham\n「But that said, I'm having a hard time\n　believing that Joe has changed.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Найн",
+   "text": "「Хм-м.」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 11,
+   "speaker": "$n",
+   "text": "「Не тревожься, Найн.\n　Как любит повторять Майто, справедливость побеждает всегда.」",
+   "orig": "$n\n「Don't worry, Nine.\n　As Maito is fond of saying, Justice always wins.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Найн",
+   "text": "（Не сдавайся, Гайн!）",
+   "orig": "Nine\n（Don't give up, Gaine!）"
+  },
+  {
+   "i": 13,
+   "speaker": "Майтгайн",
+   "text": "「Хм-м.」",
+   "orig": "Mightgaine\n「Hmm.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Майто",
+   "text": "「Волнуешься, Гайн?」",
+   "orig": "Maito\n「Nervous, Gaine?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Майтгайн",
+   "text": "「Всё в порядке, Майто.」",
+   "orig": "Mightgaine\n「I'm alright, Maito.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Майтгайн",
+   "text": "（Рядом с Майто это скверное предчувствие\n　наверняка меня отпустит.）",
+   "orig": "Mightgaine\n（Working with Maito will help rid me\n　of this awful feeling of foreboding.）"
+  },
+  {
+   "i": 17,
+   "speaker": "Майто",
+   "text": "「За дело!」",
+   "orig": "Maito\n「Let's do it!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Рёко",
+   "text": "「О чём они вообще думают?\n　Устраивать бой ранним утром\n　прямо посреди города?」",
+   "orig": "Ryoko\n「What on earth are they thinking?\n　An early-morning battle \n　in the middle of the city?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Идзуми",
+   "text": "「О том, чтобы уничтожить «Майтгайн»\n　на глазах у всего города, вот о чём.」",
+   "orig": "Izumi\n「Destroying Mightgaine in front\n　of the entire city, that's what.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Грэм",
+   "text": "「Хм-м.」",
+   "orig": "Graham\n「Hmm.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Бандзё",
+   "text": "「А что вы думаете о выходке\n　Дзё-Эйса, майор Грэм?」",
+   "orig": "Banjo\n「What do you think of Joe the Ace's\n　actions, Major Graham?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Грэм",
+   "text": "「Спору нет, Дзё всегда\n　любил играть на публику.\n　Но здесь что-то иное.」",
+   "orig": "Graham\n「Without a doubt, Joe has\n　always had a love for grandstanding.\n　But this seems somehow different.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Грэм",
+   "text": "「Он не на задании и действует не по долгу службы.\n　У меня такое чувство, что дело тут личное.\n　Старая обида.」",
+   "orig": "Graham\n「He isn't on a mission, and he's not doing it\n　out of duty. I get the feeling this is personal.\n　A grudge.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Каппэй",
+   "text": "「Хотите сказать, ему просто не нравится Майто?」",
+   "orig": "Kappei\n「Are you saying he doesn't like Maito?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Колясур",
+   "text": "「Злодеям Майто, конечно, как кость в горле,\n　но вообще-то он отличный парень.」",
+   "orig": "Colasour\n「Villains consider Maito a pain in their\n　side, but he's actually quite a nice guy.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Грэм",
+   "text": "「Я и сам в растерянности.」",
+   "orig": "Graham\n「I'm also at a loss.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Грэм",
+   "text": "「И всё же мне с трудом верится,\n　что Дзё изменился.」",
+   "orig": "Graham\n「But that said, I'm having a hard time\n　believing that Joe has changed.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Найн",
+   "text": "「Хм-м.」",
+   "orig": "Nine\n「Hmm.」"
+  },
+  {
+   "i": 29,
+   "speaker": "$n",
+   "text": "「Не тревожься, Найн.\n　Как любит повторять Майто, справедливость побеждает всегда.」",
+   "orig": "$n\n「Don't worry, Nine.\n　As Maito is fond of saying, justice always wins.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Найн",
+   "text": "（Не сдавайся, Гайн!）",
+   "orig": "Nine\n（Don't give up, Gaine!）"
+  },
+  {
+   "i": 31,
+   "speaker": "Майтгайн",
+   "text": "「Хм-м.」",
+   "orig": "Mightgaine\n「Hmm.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Майто",
+   "text": "「Волнуешься, Гайн?」",
+   "orig": "Maito\n「Nervous, Gaine?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Майтгайн",
+   "text": "「Всё в порядке, Майто.」",
+   "orig": "Mightgaine\n「I'm alright, Maito.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Майтгайн",
+   "text": "（Рядом с Майто это скверное предчувствие\n　наверняка меня отпустит.）",
+   "orig": "Mightgaine\n（Working with Maito will help rid me\n　of this awful feeling of foreboding.）"
+  },
+  {
+   "i": 35,
+   "speaker": "Майто",
+   "text": "「За дело!」",
+   "orig": "Maito\n「Let's do it!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Дзё",
+   "text": "「Удивлён, что ты не сбежал, Майто.」",
+   "orig": "Joe\n「I'm surprised you didn't run, Maito.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Майто",
+   "text": "「Помолчи.\n　Сегодня мы раз и навсегда сведём счёты.」",
+   "orig": "Maito\n「Stuff it.\n　Today we settle the score once and for all.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Дзё",
+   "text": "「Как пожелаешь.\n　Готовься, «Майтгайн»!」",
+   "orig": "Joe\n「As you wish.\n　Prepare yourself, Mightgaine!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Майто",
+   "text": "「Что бы ни случилось — никто не вмешивается.」",
+   "orig": "Maito\n「No matter what happens, no one interferes.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Но, Майто...」",
+   "orig": "Battle Bomber\n「But, Maito...」"
+  },
+  {
+   "i": 41,
+   "speaker": "Гард Дайвер",
+   "text": "「А если с тобой...」",
+   "orig": "Guard Diver\n「If you should—」"
+  },
+  {
+   "i": 42,
+   "speaker": "Майто",
+   "text": "「Даже если я паду!\n　Это мой бой, и больше ничей.」",
+   "orig": "Maito\n「Even if I fall!\n　This is my fight and no one else's.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Салли",
+   "text": "「Майто!\n　Дзё!」",
+   "orig": "Sally\n「Maito!\n　Joe!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Майто",
+   "text": "「Справедливость никогда не уступит злу!\n　Покончим с этим, Дзё!」",
+   "orig": "Maito\n「Justice never loses to evil!\n　Let's get this over with, Joe!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Дзё",
+   "text": "「Я готов, Майто!\n　Разделаюсь с тобой ровно за три минуты!」",
+   "orig": "Joe\n「I'm ready for you, Maito!\n　I'll finish you in three minutes flat!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Дзё",
+   "text": "「А-а!」",
+   "orig": "Joe\n「Argh!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Майто",
+   "text": "「Вот и всё, Дзё.\n　Я победил.」",
+   "orig": "Maito\n「There you go, Joe.\n　I've won.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Дзё",
+   "text": "「Ещё не победил!\n　«Хирю» всё ещё может драться!」",
+   "orig": "Joe\n「Not yet you haven't!\n　The Hiryu can still fight!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Майто",
+   "text": "「Ты серьёзно? Почему ты так одержим победой?」",
+   "orig": "Maito\n「Are you serious? Why are you so obsessed with winning?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Дзё",
+   "text": "「Я всё равно одолею тебя, «Майтгайн»!」",
+   "orig": "Joe\n「I'll defeat you yet, Mightgaine!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Дзё",
+   "text": "「Покончим с этим поскорее, «Майтгайн»!」",
+   "orig": "Joe\n「Let's settle this quickly, Mightgaine!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Майто",
+   "text": "「С удовольствием!」",
+   "orig": "Maito\n「With pleasure!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Майто",
+   "text": "「Кх!」",
+   "orig": "Maito\n「Ugh!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Хамада",
+   "text": "「Ох, плохо дело!」",
+   "orig": "Hamada\n「Uh oh!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Ититаро",
+   "text": "「Что такое, Хамада?」",
+   "orig": "Ichitaro\n「What is it, Hamada?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Хамада",
+   "text": "「Майтгайн и Хирю идут вровень, но если Хирю\n　задействует свою способность летать, всё изменится.」",
+   "orig": "Hamada\n「Mightgaine and Hiryu are evenly matched, but if\n　Hiryu utilizes its ability to fly, that could change.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Дзё",
+   "text": "「Майто,\n　покажи, чего ты стоишь на самом деле!」",
+   "orig": "Joe\n「Maito,\n　let's see how good you really are!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Дзё",
+   "text": "「И не жди, что я буду сдерживаться!\n　Я намерен тебя победить!」",
+   "orig": "Joe\n「Don't count on me holding back!\n　I plan on defeating you!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Майто",
+   "text": "「Дзё! Пока ты продолжаешь\n　угрожать миру, пощады от меня не жди!\n　Этим мечом я вершу справедливость!」",
+   "orig": "Maito\n「Joe! As long as you continue to \n　threaten peace, I will show you no mercy!\n　With this sword I will bring justice!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Дзё",
+   "text": "「Довольно!\n　Ты даже не поймёшь, что тебя ударило!」",
+   "orig": "Joe\n「Enough!\n　You won't know what hit you!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Майто",
+   "text": "「Справедливость на моей стороне!」",
+   "orig": "Maito\n「Justice is my ally!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Дзё",
+   "text": "「К чёрту твою справедливость!」",
+   "orig": "Joe\n「To hell with your idea of justice!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Майто",
+   "text": "「А-а-а!」",
+   "orig": "Maito\n「Argh!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Синн",
+   "text": "「Майто!」",
+   "orig": "Shinn\n「Maito!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Бандзё",
+   "text": "「Майтгайн проиграл!」",
+   "orig": "Banjo\n「Mightgaine lost!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Каппэй",
+   "text": "「Н-не может быть! Майто!」",
+   "orig": "Kappei\n「I-I don't believe it! Maito!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Гайн",
+   "text": "「Майто...」",
+   "orig": "Gaine\n「Maito...」"
+  },
+  {
+   "i": 68,
+   "speaker": "Майто",
+   "text": "「Гайн... Отходим.」",
+   "orig": "Maito\n「Gaine... Withdraw.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Дзё",
+   "text": "「И это всё, на что ты способен,\n　Майтгайн... Майто?」",
+   "orig": "Joe\n「Is that all you've got,\n　Mightgaine... Maito?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Дзё",
+   "text": "「Теперь-то ты понял, правда?\n　Чего стоит твоя... справедливость.」",
+   "orig": "Joe\n「Now you see, don't you?\n　The irrelavence of your...justice.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Харри",
+   "text": "「Альянс DG здесь!」",
+   "orig": "Harry\n「The DG Alliance is here!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Мифунэ",
+   "text": "「Отлично сработано, Дзё!\n　Твоя победа над Майтгайном\n　достойна всяческих похвал!」",
+   "orig": "Mifune\n「Well done, Joe!\n　Your defeat of Mightgaine\n　deserves praise!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Мифунэ",
+   "text": "「Пожелаешь — сделаю тебя владетельным князем.\n　А может, ты предпочтёшь награду звонкой монетой.」",
+   "orig": "Mifune\n「If you so desire, I'll make you a lord.\n　Or perhaps you prefer a monetary reward.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Дзё",
+   "text": "「Мне не нужно ни то, ни другое.\n　Я дрался с ним потому, что сам этого желал.」",
+   "orig": "Joe\n「I need neither of those.\n　I fought him because that's what I desired most.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Мифунэ",
+   "text": "「Хмф. Никакой дальновидности.\n　Что ж, будь по-твоему...」",
+   "orig": "Mifune\n「Hmph. No foresight at all.\n　Very well, then...」"
+  },
+  {
+   "i": 76,
+   "speaker": "Мифунэ",
+   "text": "「Мужи дела не тратят слов! Эдо будет моим!」",
+   "orig": "Mifune\n「Men of action don't waste words! Edo shall be mine!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Рури",
+   "text": "「Не так быстро!」",
+   "orig": "Ruri\n「Not so fast!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Каппэй",
+   "text": "「Эдо? О чём это ты вообще?\n　Это Новый Токио-Сити!」",
+   "orig": "Kappei\n「Edo? What are you talking about?\n　This is Nouvelle Tokyo City!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Мифунэ",
+   "text": "「Ого!\n　Так вот ты где, Замбот 3!」",
+   "orig": "Mifune\n「Oh ho!\n　So, there you are, Zambot 3!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Каппэй",
+   "text": "「Ч-чего?」",
+   "orig": "Kappei\n「H-huh?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Мифунэ",
+   "text": "「Мва-ха-ха. Ха-ха-ха!」",
+   "orig": "Mifune\n「Mwhahaha. Hahaha!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Каппэй",
+   "text": "「Я всегда подозревал, что с этим клоуном что-то не так.」",
+   "orig": "Kappei\n「I've always thought this clown was a bit odd.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Бандзё",
+   "text": "「Осторожнее, все.\n　Сёгун Мифунэ, по слухам,\n　весьма искусен в бою.」",
+   "orig": "Banjo\n「Careful, everyone.\n　Shogun Mifune is supposedly\n　quite skilled in combat.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Сабуроута",
+   "text": "「Значит, он всё-таки собрался\n　и явился прибрать Новый Токио-Сити\n　к рукам, да?」",
+   "orig": "Saburouta\n「So he's finally made the effort \n　to come and take Nouvelle Tokyo City\n　for himself, has he?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Рёко",
+   "text": "「Этот чокнутый японофил\n　Шекспира, что ли, не читал?\n　«Вот так свеча и опалила мотылька».」",
+   "orig": "Ryoko\n「Doesn't this wacky weeaboo \n　know his Shakespeare?\n　\"Thus hath the candle singed the moath.\"」"
+  },
+  {
+   "i": 86,
+   "speaker": "Мифунэ",
+   "text": "「Вы и вправду думаете, что способны бросить мне вызов,\n　потеряв Майтгайна?」",
+   "orig": "Mifune\n「Do you think that you can even challenge me,\n　now that you've lost Mightgaine?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Где стояли Майто и Гайн, теперь встанем мы!」",
+   "orig": "Battle Bomber\n「Where Maito and Gaine once stood, now shall we!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Гард Дайвер",
+   "text": "「Держитесь, Майто, Гайн!\n　Мы тут всё подотрём этими типами!」",
+   "orig": "Guard Diver\n「Hang in there, Maito and Gaine!\n　We'll mop the floor with these guys!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Рури",
+   "text": "「«Надэсико» всё ещё на ремонте,\n　взлететь она не сможет. Придётся\n　полагаться на тех, кто здесь.」",
+   "orig": "Ruri\n「With the Nadesico still under repair,\n　she won't be able to lift off. We'll have to \n　rely on the team members we have here.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Анж",
+   "text": "「Принято! Не волнуйся!\n　Мы и пальцем тронуть «Надэсико» им не дадим.」",
+   "orig": "Ange\n「Roger! Don't worry!\n　We won't let them lay a single finger on the Nadesico.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Ититаро",
+   "text": "「Каппэй!\n　Мощность Замбота 3 увеличена,\n　и он оснащён ионной пушкой «Бил»!」",
+   "orig": "Ichitaro\n「Kappei!\n　Zambot 3's output has been increased,\n　and equipped with the Beal Ion Cannon!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Каппэй",
+   "text": "「Спасибо, Ити!\n　Я сотру Мифунэ с лица земли!」",
+   "orig": "Kappei\n「Thanks, Ichi!\n　I'm going to wipe Mifune from the map!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Мифунэ",
+   "text": "「Мва-ха-ха!\n　Похоже, это место станет новой Сэкигахарой —\n　главным переломом в нашей борьбе!」",
+   "orig": "Mifune\n「Mwahaha!\n　So it would seem that this place is Sekigahara reborn;\n　a major turning point in our struggle!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Мифунэ",
+   "text": "「Мужи дела не тратят слов! Этот мир будет моим!」",
+   "orig": "Mifune\n「Men of action don't waste words! This world shall be mine!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Котё",
+   "text": "「Господин.」",
+   "orig": "Kocho\n「Sir.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Теневая армия",
+   "text": "「Котё...\n　Провалив задание, ты не можешь\n　больше служить Мифунэ.」",
+   "orig": "Shadow Army\n「Kocho...\n　You cannot be allowed to serve \n　Mifune after failing in your mission.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Теневая армия",
+   "text": "「Ты ведь понимаешь, да?」",
+   "orig": "Shadow Army\n「You understand, don't you?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Котё",
+   "text": "「Лучше, чем ты думаешь.」",
+   "orig": "Kocho\n「More than you know.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Теневая армия",
+   "text": "「Ради задания мы должны отринуть всё.\n　Такова участь синоби.\n　Не забывай об этом.」",
+   "orig": "Shadow Army\n「We are supposed to forsake all for the mission.\n　That is the fate of shinobi.\n　Do not forget this.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Котё",
+   "text": "（Прости меня, Хамада.）",
+   "orig": "Kocho\n（I'm sorry, Hamada.）"
+  },
+  {
+   "i": 101,
+   "speaker": "Мифунэ",
+   "text": "「Час настал!\n　Это рассвет новой Японии!」",
+   "orig": "Mifune\n「The time has come!\n　This is the dawn of a new Japan!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Мифунэ",
+   "text": "「Гр-р!\n　Если так пойдёт и дальше,\n　день кончится чересчур быстро!」",
+   "orig": "Mifune\n「Grr!\n　If we continue on like this,\n　the day will be over all too soon!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Каппэй",
+   "text": "「Брось эту дурацкую затею и вали туда,\n　откуда пришёл, самурай недоделанный!」",
+   "orig": "Kappei\n「Give up this foolish gambit, and go back to\n　where you came from you wannabe samurai!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Мифунэ",
+   "text": "「Молчать, дерзкий глупец!\n　Меня не остановить...」",
+   "orig": "Mifune\n「Silence, insolent dullard!\n　I will not be denied...」"
+  },
+  {
+   "i": 105,
+   "speaker": "Мифунэ",
+   "text": "「Я заберу Замбот 3!」",
+   "orig": "Mifune\n「I will take the Zambot 3!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Кэйко",
+   "text": "「Что?」",
+   "orig": "Keiko\n「What?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Утюта",
+   "text": "「Ему нужен был не Новый Токио-Сити.\n　Ему нужен Замбот 3!」",
+   "orig": "Uchuta\n「He wasn't after Nouvelle Tokyo City.\n　But rather, Zambot 3!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Каппэй",
+   "text": "「Ч-что ты такое говоришь?」",
+   "orig": "Kappei\n「Wh-what are you saying?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Мифунэ",
+   "text": "「Его отважный герб, его геройский шлем! Его меч и\n　копьё — и простой, безмятежный свет японской луны!」",
+   "orig": "Mifune\n「Its brave heraldry, its heroic helm! Its sword and\n　spear, and the simple, serene Japanese moonlight!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Мифунэ",
+   "text": "「Замбот 3 станет лучшим боевым скакуном\n　великого сёгуна Мифунэ!」",
+   "orig": "Mifune\n「Zambot 3 will be the greatest prized\n　stallion for the great Shogun Mifune!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Кэйко",
+   "text": "「А ведь он прав: в Замботе и правда есть что-то японское.」",
+   "orig": "Keiko\n「He's right: Zambot has a very Japanese feel to it.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Утюта",
+   "text": "「Может быть, но вообще-то его построили биалийцы.」",
+   "orig": "Uchuta\n「Maybe, but it was originally built by the Bealians.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Мифунэ",
+   "text": "「Как только Замбот 3 станет моим, я избавлюсь\n　от безвкусного оружия вроде ионной пушки.」",
+   "orig": "Mifune\n「Once Zambot 3 is mine, I shall dispose of those \n　tasteless weapons like the Ion Cannon.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Каппэй",
+   "text": "「Ни за что!」",
+   "orig": "Kappei\n「Never!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Мифунэ",
+   "text": "「Что такое?」",
+   "orig": "Mifune\n「What's this?」"
+  },
+  {
+   "i": 116,
+   "speaker": "Каппэй",
+   "text": "「Замбот 3 построили мои предки;\n　он сражался вместе с дедом и отцом;\n　на нём учился мой брат Ити.」",
+   "orig": "Kappei\n「Zambot 3 was built by my ancestors;\n　it fought with my grandfather and father;\n　my brother Ichi was trained in it.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Каппэй",
+   "text": "「Он связал всю мою семью воедино!\n　И такому злодею, как ты,\n　я его ни за что не отдам!」",
+   "orig": "Kappei\n「It has bonded my family together!\n　And I'll never let an evil fiend\n　like you have it!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Мифунэ",
+   "text": "「Что ж, хорошо,\n　тогда я возьму его силой!」",
+   "orig": "Mifune\n「Very well then,\n　I'll take it by force!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Мифунэ",
+   "text": "「Ключ к победе — первым ударить\n　по вражеской твердыне!」",
+   "orig": "Mifune\n「The key to victory is hitting\n　the enemy stronghold first!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Атрун",
+   "text": "「У нас беда!\n　Он целится в «Надэсико»!」",
+   "orig": "Athrun\n「We're in trouble!\n　He's targeting the Nadesico!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Котё",
+   "text": "「Господин Мифунэ, примите мои глубочайшие извинения.\n　Но служить вам дальше я не могу.」",
+   "orig": "Kocho\n「Master Mifune, my deepest apologies.\n　But I cannot continue in your service.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Мифунэ",
+   "text": "「Что? Недопустимо!\n　Стой и смотри, как я иду в бой!」",
+   "orig": "Mifune\n「What? Unacceptable!\n　Stand there and watch while I go into battle!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Каппэй",
+   "text": "「Брось эту дурацкую затею и вали туда,\n　откуда пришёл, самурай недоделанный!」",
+   "orig": "Kappei\n「Give up this foolish gambit, and go back to\n　where you came from you wannabe samurai!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Мифунэ",
+   "text": "「Молчать, дерзкий глупец!\n　Меня не остановить...」",
+   "orig": "Mifune\n「Silence, insolent dullard!\n　I will not be denied...」"
+  },
+  {
+   "i": 125,
+   "speaker": "Мифунэ",
+   "text": "「Замбот 3!」",
+   "orig": "Mifune\n「Zambot 3!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Кэйко",
+   "text": "「Что?」",
+   "orig": "Keiko\n「What?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Утюта",
+   "text": "「Ему нужен был не Новый Токио-Сити.\n　Ему нужен Замбот 3!」",
+   "orig": "Uchuta\n「He wasn't after Nouvelle Tokyo City.\n　But rather Zambot 3!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Каппэй",
+   "text": "「Ч-что ты такое говоришь?」",
+   "orig": "Kappei\n「Wh-what are you saying?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Мифунэ",
+   "text": "「Его отважный герб, его геройский шлем! Его меч и\n　копьё — и простой, безмятежный свет японской луны!」",
+   "orig": "Mifune\n「Its brave heraldry, its heroic helm! Its sword and\n　spear, and the simple, serene Japanese moonlight!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Мифунэ",
+   "text": "「Замбот 3 станет лучшим боевым скакуном\n　великого сёгуна Мифунэ!」",
+   "orig": "Mifune\n「Zambot 3 will be the greatest prized\n　stallion for the great Shogun Mifune!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Кэйко",
+   "text": "「Вот тут он прав: в Замботе и правда есть что-то японское.」",
+   "orig": "Keiko\n「He's right there: Zambot has a very Japanese feel to it.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Утюта",
+   "text": "「Может быть, но вообще-то его построили биалийцы.」",
+   "orig": "Uchuta\n「Maybe, but it was originally built by the Bealians.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Мифунэ",
+   "text": "「Как только Замбот 3 станет моим, я избавлюсь\n　от ионной пушки и прочего безвкусного оружия.」",
+   "orig": "Mifune\n「Once Zambot 3 is mine, I shall dispose of \n　the Ion Cannon and other tasteless weapons.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Каппэй",
+   "text": "「Ни за что!」",
+   "orig": "Kappei\n「Never!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Мифунэ",
+   "text": "「Что такое?」",
+   "orig": "Mifune\n「What's this?」"
+  },
+  {
+   "i": 136,
+   "speaker": "Каппэй",
+   "text": "「Замбот 3 построили мои предки;\n　он сражался вместе с дедом и отцом;\n　на нём учился мой брат Ити.」",
+   "orig": "Kappei\n「Zambot 3 was built by my ancestors;\n　it fought with my grandfather and father;\n　my brother Ichi was trained in it.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Каппэй",
+   "text": "「Он связал всю мою семью воедино!\n　И такому злодею, как ты,\n　я его ни за что не отдам!」",
+   "orig": "Kappei\n「It has bonded my family together!\n　And I'll never let an evil fiend\n　like you have it!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Мифунэ",
+   "text": "「Что ж, хорошо,\n　тогда я возьму его силой!」",
+   "orig": "Mifune\n「Very well then,\n　I'll take it by force!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Мифунэ",
+   "text": "「Ключ к победе — первым ударить\n　по вражеской твердыне!」",
+   "orig": "Mifune\n「The key to victory is hitting\n　the enemy stronghold first!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Атрун",
+   "text": "「У нас беда!\n　Он целится в «Надэсико»!」",
+   "orig": "Athrun\n「We're in trouble!\n　He's targeting the Nadesico!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Мифунэ",
+   "text": "「Гр-р!\n　Если так пойдёт и дальше,\n　день кончится чересчур быстро!」",
+   "orig": "Mifune\n「Grr!\n　If we continue on like this,\n　the day will be over all too soon!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Каппэй",
+   "text": "「Брось эту дурацкую затею и вали туда,\n　откуда пришёл, самурай недоделанный!」",
+   "orig": "Kappei\n「Give up this foolish gambit, and go back to\n　where you came from you wannabe samurai!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Мифунэ",
+   "text": "「Молчать, дерзкий глупец!\n　Меня не остановить...」",
+   "orig": "Mifune\n「Silence, insolent dullard!\n　I will not be denied...」"
+  },
+  {
+   "i": 144,
+   "speaker": "Мифунэ",
+   "text": "「Замбот 3!」",
+   "orig": "Mifune\n「Zambot 3!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Кэйко",
+   "text": "「Что?」",
+   "orig": "Keiko\n「What?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Утюта",
+   "text": "「Ему нужен был не Новый Токио-Сити.\n　Ему нужен Замбот 3!」",
+   "orig": "Uchuta\n「He wasn't after Nouvelle Tokyo City.\n　But rather Zambot 3!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Каппэй",
+   "text": "「Ч-что ты такое говоришь?」",
+   "orig": "Kappei\n「Wh-what are you saying?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Мифунэ",
+   "text": "「Его отважный герб, его геройский шлем! Его меч и\n　копьё — и простой, безмятежный свет японской луны!」",
+   "orig": "Mifune\n「Its brave heraldry, its heroic helm! Its sword and\n　spear, and the simple, serene Japanese moonlight!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Мифунэ",
+   "text": "「Замбот 3 станет лучшим боевым скакуном\n　великого сёгуна Мифунэ!」",
+   "orig": "Mifune\n「Zambot 3 will be the greatest prized\n　stallion for the great Shogun Mifune!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Кэйко",
+   "text": "「А ведь он прав: в Замботе и правда есть что-то японское.」",
+   "orig": "Keiko\n「He's right: Zambot has a very Japanese feel to it.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Утюта",
+   "text": "「Может быть, но вообще-то его построили биалийцы.」",
+   "orig": "Uchuta\n「Maybe, but it was originally built by the Bealians.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Мифунэ",
+   "text": "「Как только Замбот 3 станет моим, я избавлюсь\n　от ионной пушки и прочего безвкусного оружия.」",
+   "orig": "Mifune\n「Once Zambot 3 is mine, I shall dispose of \n　the Ion Cannon and other tasteless weapons.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Каппэй",
+   "text": "「Ни за что!」",
+   "orig": "Kappei\n「Never!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Мифунэ",
+   "text": "「Что такое?」",
+   "orig": "Mifune\n「What's this?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Каппэй",
+   "text": "「Замбот 3 построили мои предки;\n　он сражался вместе с дедом и отцом;\n　на нём учился мой брат Ити.」",
+   "orig": "Kappei\n「Zambot 3 was built by my ancestors;\n　it fought with my grandfather and father;\n　my brother Ichi was trained in it.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Каппэй",
+   "text": "「Он связал всю мою семью воедино!\n　И такому злодею, как ты,\n　я его ни за что не отдам!」",
+   "orig": "Kappei\n「It has bonded my family together!\n　And I'll never let an evil fiend\n　like you have it!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Мифунэ",
+   "text": "「Что ж, хорошо,\n　тогда я возьму его силой!」",
+   "orig": "Mifune\n「Very well then,\n　I'll take it by force!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Мифунэ",
+   "text": "「Ключ к победе — первым ударить\n　по вражеской твердыне!」",
+   "orig": "Mifune\n「The key to victory is hitting\n　the enemy stronghold first!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Атрун",
+   "text": "「У нас беда!\n　Он целится в «Надэсико»!」",
+   "orig": "Athrun\n「We're in trouble!\n　He's targeting the Nadesico!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Салия",
+   "text": "「Они прорвались!」",
+   "orig": "Salia\n「They've broken through!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Рури",
+   "text": "「Поле искажения падает!」",
+   "orig": "Ruri\n「The Distortion Field's falling!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Мифунэ",
+   "text": "「Поздно!」",
+   "orig": "Mifune\n「Too late!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Хамада",
+   "text": "「А-а-а!」",
+   "orig": "Hamada\n「Argh!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Котё",
+   "text": "「Хамада!」",
+   "orig": "Kocho\n「Hamada!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Котё",
+   "text": "「А-ах!」",
+   "orig": "Kocho\n「Ahh!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Мифунэ",
+   "text": "「Котё!\n　Почему ты мне мешаешь?」",
+   "orig": "Mifune\n「Kocho!\n　Why are you interfering?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Котё",
+   "text": "「Потому что я больше не Котё!」",
+   "orig": "Kocho\n「Because I am no longer Kocho!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Мифунэ",
+   "text": "「Девка!\n　Провалила задание, а теперь ещё и смеешь\n　скалить клыки на своего господина?」",
+   "orig": "Mifune\n「Wench!\n　You fail in your mission, and now you\n　dare to bare your fangs at your lord and master?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Мифунэ",
+   "text": "「Тогда получай по заслугам!\n　Предателям — только смерть!」",
+   "orig": "Mifune\n「Then reap your just reward!\n　For traitors, there is only death!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Мифунэ",
+   "text": "「Не лезь!\n　Это не твой бой!」",
+   "orig": "Mifune\n「Do not interfere!\n　This is not your fight!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Акито",
+   "text": "「Она больше не твоя подчинённая.」",
+   "orig": "Akito\n「She's no longer your underling.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Котё",
+   "text": "「Акито Тэнкава...」",
+   "orig": "Kocho\n「Akito Tenkawa...」"
+  },
+  {
+   "i": 173,
+   "speaker": "Акито",
+   "text": "「Твой робот и так сильно повреждён.\n　Уходи. Сейчас же.」",
+   "orig": "Akito\n「That robot took enough damage.\n　Go. Now.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Котё",
+   "text": "「Но...」",
+   "orig": "Kocho\n「But...」"
+  },
+  {
+   "i": 175,
+   "speaker": "Акито",
+   "text": "「Не стоит горевать об этом.」",
+   "orig": "Akito\n「Do not grieve for this one.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Котё",
+   "text": "「Спасибо... и прощай.」",
+   "orig": "Kocho\n「Thank you...and goodbye.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Хамада",
+   "text": "（Этот робот-ниндзя\n　защитил «Надэсико»!）",
+   "orig": "Hamada\n（That ninja robot\n　protected the Nadesico!）"
+  },
+  {
+   "i": 178,
+   "speaker": "Мифунэ",
+   "text": "「Глупцы!\n　Теперь вашу базу защищать некому!」",
+   "orig": "Mifune\n「Fools!\n　Now you have no one to protect your base!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Акито",
+   "text": "「Подумай ещё раз.」",
+   "orig": "Akito\n「Think again.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Мифунэ",
+   "text": "「Что?」",
+   "orig": "Mifune\n「What?」"
+  },
+  {
+   "i": 181,
+   "speaker": "Акито",
+   "text": "「Шпионка, которая полюбила и переменилась сердцем.\n　Это было предрешено — но от того не менее красиво.」",
+   "orig": "Akito\n「The spy who fell in love and changed her heart.\n　It was predestined, but no less beautiful.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Акито",
+   "text": "「А значит, теперь должен явиться...」",
+   "orig": "Akito\n「And so, now must come...」"
+  },
+  {
+   "i": 183,
+   "speaker": "Мифунэ",
+   "text": "「Не может быть!」",
+   "orig": "Mifune\n「It can't be!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Акито",
+   "text": "「Герой!」",
+   "orig": "Akito\n「The hero!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Котё",
+   "text": "（Прощай, Хамада.\n　Спасибо за все эти прекрасные сны...）",
+   "orig": "Kocho\n（Goodbye, Hamada.\n　Thank you for all the beautiful dreams...）"
+  },
+  {
+   "i": 186,
+   "speaker": "Хамада",
+   "text": "「Этот робот-ниндзя\n　защитил «Надэсико»!」",
+   "orig": "Hamada\n「That ninja robot\n　protected the Nadesico!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Акито",
+   "text": "「Нет!」",
+   "orig": "Akito\n「No!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Мифунэ",
+   "text": "「Подходящий конец для предательницы!」",
+   "orig": "Mifune\n「A fitting end for a traitor!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Мифунэ",
+   "text": "「Теперь вашу базу защищать некому!」",
+   "orig": "Mifune\n「Now there is no one to protect your base!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Рури",
+   "text": "「Вы в этом совершенно уверены?」",
+   "orig": "Ruri\n「Are you absolutely sure?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Майто",
+   "text": "「Вперёд!」",
+   "orig": "Maito\n「Go!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Мифунэ",
+   "text": "「Гр-р!」",
+   "orig": "Mifune\n「Grr!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Майто",
+   "text": "「Больше я «Надэсико» в обиду не дам!」",
+   "orig": "Maito\n「I won't let the Nadesico take any more damage!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Каппэй",
+   "text": "「Майто, это ты?」",
+   "orig": "Kappei\n「Is that you, Maito?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Кира",
+   "text": "「Откуда взялся этот робот?」",
+   "orig": "Kira\n「Where did that robot come from?」"
+  },
+  {
+   "i": 196,
+   "speaker": "Хамада",
+   "text": "「Это Майт Кайзер!\n　Новейшая разработка Брэйв Экспресс!」",
+   "orig": "Hamada\n「That's Might Kaiser!\n　Brave Express Corps' newest weapon!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Майто",
+   "text": "「И всё это благодаря тебе, Хамада!\n　Твоя работа без продыху весь последний\n　месяц в итоге нас и спасла!」",
+   "orig": "Maito\n「All thanks to you, Hamada!\n　Your hard work over the last\n　month saved us in the end!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Майто",
+   "text": "「С Майт Кайзером мы займём\n　место Гайна на поле боя!」",
+   "orig": "Maito\n「With Might Kaiser, we'll take\n　Gaine's place on the battlefield!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Лотти",
+   "text": "「Майто, какой же ты обаятельный герой!\n　Я сейчас в обморок упаду!」",
+   "orig": "Lottie\n「Maito, you suave hero!\n　I'm going to faint!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Вельт",
+   "text": "「Потрясающе!\n　Безупречный герой до самого конца.」",
+   "orig": "Velt\n「Fantastic!\n　Perfect hero till the end.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Мифунэ",
+   "text": "「Гр-р!」",
+   "orig": "Mifune\n「Grr!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Майто",
+   "text": "「Больше я «Надэсико» в обиду не дам!」",
+   "orig": "Maito\n「I won't let the Nadesico take any more damage!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Каппэй",
+   "text": "「Майто, это ты?」",
+   "orig": "Kappei\n「Is that you, Maito?」"
+  },
+  {
+   "i": 204,
+   "speaker": "Кира",
+   "text": "「Откуда взялся этот робот?」",
+   "orig": "Kira\n「Where did that robot come from?」"
+  },
+  {
+   "i": 205,
+   "speaker": "Хамада",
+   "text": "「Это Майт Кайзер!\n　Новейшая разработка Брэйв Экспресс!」",
+   "orig": "Hamada\n「That's Might Kaiser!\n　Brave Express Corps' newest weapon!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Майто",
+   "text": "「И всё это благодаря тебе, Хамада!\n　Твоя работа без продыху весь последний\n　месяц в итоге нас и спасла!」",
+   "orig": "Maito\n「All thanks to you, Hamada!\n　Your hard work over the last\n　month saved us in the end!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Майто",
+   "text": "「С Майт Кайзером мы займём\n　место Гайна на поле боя!」",
+   "orig": "Maito\n「With Might Kaiser, we'll take\n　Gaine's place on the battlefield!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Мифунэ",
+   "text": "「Ха! Думаешь, один-единственный робот\n　сверх прежних вас спасёт?」",
+   "orig": "Mifune\n「Ha! You think that by adding just one\n　more robot is going to save you?」"
+  },
+  {
+   "i": 209,
+   "speaker": "Майто",
+   "text": "「А кто сказал, что он один?」",
+   "orig": "Maito\n「Who said it's just one?」"
+  },
+  {
+   "i": 210,
+   "speaker": "Мифунэ",
+   "text": "「Что ты хочешь сказать?」",
+   "orig": "Mifune\n「What do you mean?」"
+  },
+  {
+   "i": 211,
+   "speaker": "Мифунэ",
+   "text": "「Блэк Майтгайн!」",
+   "orig": "Mifune\n「Black Mightgaine!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Найн",
+   "text": "「Это ещё что такое?」",
+   "orig": "Nine\n「What's that?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Надежда мчит на серебряных крыльях, зажигая миру\n　зелёный свет! Брэйв Экспресс Блэк Майтгайн,\n　прибыл точно по расписанию!」",
+   "orig": "Black Mightgaine\n「Hope soars on wings of silver, giving peace the green\n　light! Brave Express Black Mightgaine,\n　arriving as expected!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Блэк Майтгайн",
+   "text": "「А вам, мальчишки и девчонки у экранов, задание:\n　скажите пять раз подряд «Токкёкёкакёку»!」",
+   "orig": "Black Mightgaine\n「And for the boys and girls at home,\n　try saying \"Tokkyokyokakyoku\" five times fast!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Найн",
+   "text": "「Блэк Гайн!」",
+   "orig": "Nine\n「Black Gaine!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Давно не виделись, Найн. Как и обещал,\n　я отдам эту жизнь... во имя справедливости!」",
+   "orig": "Black Mightgaine\n「Long time, Nine. As promised,\n　I'll use this life...in the name of justice!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Каппэй",
+   "text": "「Блэк! Ты вернулся!」",
+   "orig": "Kappei\n「Black! You're back!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Майто",
+   "text": "「И снова, Хамада, весь твой труд вместе\n　с господином Осакой не пропал даром.」",
+   "orig": "Maito\n「And again, Hamada, all your hard work with\n　Mr. Osaka has paid off.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Майто",
+   "text": "「Хоть его ещё надо немного доработать,\n　Блэк сам вызвался идти в бой.」",
+   "orig": "Maito\n「Despite still needing a few adjustments,\n　Black volunteered to fight of his own accord.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Я его брат — и я займу место Гайна!」",
+   "orig": "Black Mightgaine\n「As his brother, I'll take Gaine's place!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Майто",
+   "text": "「Добро пожаловать в Брэйв Экспресс!\n　За дело, Блэк!」",
+   "orig": "Maito\n「Welcome to the Brave Express Corps!\n　Let's do it, Black!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Принято, Майто!」",
+   "orig": "Black Mightgaine\n「Roger, Maito!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Дзё",
+   "text": "「Ты упрямый глупец, Майто Сэмпудзи!」",
+   "orig": "Joe\n「You're an obstinate fool, Maito Senpuji!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Майто",
+   "text": "「То же самое можно сказать и о тебе, Дзё.」",
+   "orig": "Maito\n「The same could be said for you, Joe.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Мифунэ",
+   "text": "「Ага! Дзё!\n　Твоя непоколебимая верность мне — пример для всех!」",
+   "orig": "Mifune\n「Ah ha! Joe!\n　Your unwavering loyalty to me is exemplary!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Дзё",
+   "text": "「Что-то не припомню, чтобы я на тебя работал.」",
+   "orig": "Joe\n「I don't remember working for you.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Мифунэ",
+   "text": "「Тогда зачем ты здесь?」",
+   "orig": "Mifune\n「Then why are you here?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Дзё",
+   "text": "「Лишь по одной причине:\n　покончить с Майто Сэмпудзи.」",
+   "orig": "Joe\n「Only one reason:\n　To put an end to Maito Senpuji.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Майто",
+   "text": "「Дзё!」",
+   "orig": "Maito\n「Joe!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Дзё",
+   "text": "「Так это и есть твой новый робот, да?」",
+   "orig": "Joe\n「So that's your new robot, huh?」"
+  },
+  {
+   "i": 231,
+   "speaker": "Майто",
+   "text": "「И что с того?」",
+   "orig": "Maito\n「And what of it?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Майто",
+   "text": "「Великая отвага на крыльях любви вращает колёса\n　справедливости! Брэйв Экспресс Майт Кайзер,\n　прибыл точно по расписанию!」",
+   "orig": "Maito\n「Great courage upon wings of love, turning the wheels of\n　justice! Brave Express Might Kaiser, arriving as expected!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Дзё",
+   "text": "「А я превращу его в груду металлолома!」",
+   "orig": "Joe\n「And I'm going to turn it into so much scrap!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Майто",
+   "text": "「Не выйдет, Дзё!\n　В память о Гайне и, главное, ради справедливости —\n　я тебя одолею!」",
+   "orig": "Maito\n「I don't think so, Joe!\n　In memory of Gaine, and moreover, for justice,\n　I'm going to defeat you!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Дзё",
+   "text": "「Глупец, ты всё ещё не понял?\n　Твоя вера в справедливость бессмысленна!」",
+   "orig": "Joe\n「You fool, don't you get it yet?\n　Your belief in justice is pointless!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Майто",
+   "text": "「Верь во что хочешь!\n　А я докажу, что ты не прав!」",
+   "orig": "Maito\n「You believe what you want!\n　But I plan to prove you wrong!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Сумераги",
+   "text": "「Майт Кайзер в центре,\n　остальные машины — сменить позиции!」",
+   "orig": "Sumeragi\n「With Might Kaiser at the center,\n　each robot change positions!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Рури",
+   "text": "「А теперь, чтобы защитить Новый Токио-Сити,\n　переходим в наступление!」",
+   "orig": "Ruri\n「And now, to protect Nouvelle Tokyo City, \n　we go on the offensive!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Дзё",
+   "text": "「Ну, начнём, Майто Сэмпудзи!\n　На этот раз от смерти тебе не уйти!」",
+   "orig": "Joe\n「Game on, Maito Senpuji!\n　This time there is no escaping death!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Майто",
+   "text": "「Дзё!\n　Гляди-ка сюда:\n　моя коронная фраза №11!」",
+   "orig": "Maito\n「Joe!\n　Check this out: it's\n　my Catchphrase No. 11!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Майто",
+   "text": "「Несокрушимый Майто Сэмпудзи\n　будет вставать снова и снова, чтобы сразить зло!」",
+   "orig": "Maito\n「The indestructible Maito Senpuji,\n　shall rise forevermore to defeat evil!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Харри",
+   "text": "「Все роботы Альянса DG уничтожены.」",
+   "orig": "Harry\n「All DG Alliance robots destroyed.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Рури",
+   "text": "「Хамада, что с Гайном?」",
+   "orig": "Ruri\n「Hamada, what is Gaine's situation?」"
+  },
+  {
+   "i": 244,
+   "speaker": "Хамада",
+   "text": "「По словам господина Осаки,\n　супер-ИИ Гайна в порядке, но корпус сильно повреждён,\n　так что на ремонт уйдёт немало времени.」",
+   "orig": "Hamada\n「According to Mr. Osaka,\n　while Gaine's Super AI is fine, his body was heavily\n　damaged, so repairs will take quite some time.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Майто",
+   "text": "「Не волнуйся, Гайн.\n　Майт Кайзер займёт твоё место на поле боя.」",
+   "orig": "Maito\n「Don't worry, Gaine.\n　Might Kaiser will take your place on the battlefield.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Майто",
+   "text": "（А что до тебя, Дзё...\n　Как бы ты ни отрицал существование справедливости,\n　я никогда не покорюсь злу.）",
+   "orig": "Maito\n（And as for you, Joe...\n　No matter how you deny the existence of justice,\n　I shall never succumb to the likes of evil.）"
+  },
+  {
+   "i": 247,
+   "speaker": "Майто",
+   "text": "（В этом миссия корпуса Брэйв Экспресс...\n　и моя личная битва.）",
+   "orig": "Maito\n（That is the mission of the Brave Express Corps...\n　and my own personal battle.）"
+  },
+  {
+   "i": 248,
+   "speaker": "Мифунэ",
+   "text": "「О нет.\n　Меня так просто не одолеть!」",
+   "orig": "Mifune\n「Oh no.\n　I won't be defeated that easily!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Каппэй",
+   "text": "「Ах ты, упрямый дурень!」",
+   "orig": "Kappei\n「You, stubborn fool!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Бандзё",
+   "text": "「Каппэй, давай сломим его волю к бою\n　подавляющей мощью!」",
+   "orig": "Banjo\n「Kappei, let's crush his will to fight\n　with overwhelming power!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Каппэй",
+   "text": "「Понял, Бандзё!」",
+   "orig": "Kappei\n「You got it, Banjo!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Мифунэ",
+   "text": "「Что вы задумали?」",
+   "orig": "Mifune\n「What are you planning?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Бандзё",
+   "text": "「Сёгун Мифунэ!\n　Мы ни за что не позволим Новому Токио-Сити\n　попасть в твои загребущие руки!」",
+   "orig": "Banjo\n「Shogun Mifune!\n　We will never allow Nouvelle Tokyo City\n　to fall into your selfish hands!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Каппэй",
+   "text": "「И Замботу 3 тоже!」",
+   "orig": "Kappei\n「Nor Zambot 3!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Мифунэ",
+   "text": "「А-а-а!\n　Проклятье, Замбот 3!」",
+   "orig": "Mifune\n「Argh!\n　Darn you, Zambot 3!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Бандзё",
+   "text": "「Отличная связка, Каппэй!」",
+   "orig": "Banjo\n「Nice combo, Kappei!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе. Я дорос до твоего уровня\n　и даже превзошёл его — спасибо спецподготовке.」",
+   "orig": "Kappei\n「Heh, heh. I was able to reach and surpass \n　your level with special training.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Мифунэ",
+   "text": "「Какая наглость!」",
+   "orig": "Mifune\n「Insolance!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Каппэй",
+   "text": "「Эй, сёгун Мифунэ!\n　Когда всё это кончится, завязывал бы ты с косплеем\n　злодеев и нашёл бы себе честную работу!」",
+   "orig": "Kappei\n「Hey, Shogun Mifune!\n　When this is all over, I suggest you stop cosplaying\n　as villains and get an honest job!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Мифунэ",
+   "text": "「Ах ты, сопляк!\n　Однажды я одолею Замбот 3\n　и заставлю тебя подавиться этими словами!」",
+   "orig": "Mifune\n「You little snot!\n　One day soon, I'm going to defeat Zambot 3 \n　and make you eat those words!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Мифунэ",
+   "text": "「Я ещё вернусь!」",
+   "orig": "Mifune\n「I'll be back!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Утюта",
+   "text": "「Для самурая он что-то слишком много болтает.」",
+   "orig": "Uchuta\n「He sure talks a lot for a samurai.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Кэйко",
+   "text": "「Я вообще сомневаюсь, что он настоящий японец.」",
+   "orig": "Keiko\n「I don't even think he's really Japanese.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Каппэй",
+   "text": "「Скорее уж просто самурай недоделанный.\n　Такому чудику я точно не проиграю.」",
+   "orig": "Kappei\n「More like he's just a samurai wannabe.\n　No way I'm going to lose to a weirdo like him.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Мифунэ",
+   "text": "「Ах ты!」",
+   "orig": "Mifune\n「Why you!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Каппэй",
+   "text": "「Эй, сёгун Мифунэ!\n　Когда всё это кончится, завязывал бы ты с косплеем\n　злодеев и нашёл бы себе честную работу!」",
+   "orig": "Kappei\n「Hey, Shogun Mifune!\n　When this is all over, I suggest you stop cosplaying\n　as villains and get an honest job!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Мифунэ",
+   "text": "「Ах ты, сопляк!\n　Однажды я одолею Замбот 3\n　и заставлю тебя подавиться этими словами!」",
+   "orig": "Mifune\n「You little snot!\n　One day soon, I'm going to defeat Zambot 3 \n　and make you eat those words!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Мифунэ",
+   "text": "「Я ещё вернусь!」",
+   "orig": "Mifune\n「I'll be back!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Утюта",
+   "text": "「Для самурая он что-то слишком много болтает.」",
+   "orig": "Uchuta\n「He sure talks a lot for a samurai.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Кэйко",
+   "text": "「Я вообще сомневаюсь, что он настоящий японец.」",
+   "orig": "Keiko\n「I don't even think he's really Japanese.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Каппэй",
+   "text": "「Скорее уж просто самурай недоделанный.\n　Такому чудику я точно не проиграю.」",
+   "orig": "Kappei\n「More like he's just a samurai wannabe.\n　No way I'm going to lose to a weirdo like him.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Бандзё",
+   "text": "「Вот это настрой, Каппэй!\n　Попробуй ту особую связку, о которой мы говорили, —\n　спорим, в этот раз у тебя получится.」",
+   "orig": "Banjo\n「That's the spirit, Kappei!\n　Try that special combination we talked about,\n　I'll bet you could pull it off this time.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Каппэй",
+   "text": "「Ты про Супермощную связку Замбот-Дайтарн?\n　Давай попробуем, Бандзё!」",
+   "orig": "Kappei\n「You mean the Zambot-Daitarn Super Mighty Combo?\n　Let's give it a try, Banjo!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Дзё",
+   "text": "「Да что с тобой, Хирю!\n　Шевелись!」",
+   "orig": "Joe\n「What's the matter, Hiryu!\n　Move!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Майто",
+   "text": "「Всё кончено, Дзё.\n　После всего урона, что нанёс Майтгайн,\n　твоя машина попросту не может больше драться.」",
+   "orig": "Maito\n「It's over, Joe.\n　With all the damage Mightgaine did,\n　it couldn't possibly fight anymore.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Дзё",
+   "text": "「Да что ты вообще знаешь, Майто!\n　Ты и твоя справедливость!」",
+   "orig": "Joe\n「What would you know, Maito!\n　You and your justice!」"
+  },
+  {
+   "i": 277,
+   "speaker": "Майто",
+   "text": "「Возможно, ты в чём-то прав, Дзё.\n　Нельзя утверждать, что справедливость\n　побеждает каждый раз без исключения.」",
+   "orig": "Maito\n「You might be right there, Joe.\n　It's impossible to say that justice\n　will win every single time.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Майто",
+   "text": "「Но я не дам злу расцвести в этом мире.\n　А значит, справедливость в итоге победит всегда!」",
+   "orig": "Maito\n「But I cannot let evil flourish in this world.\n　Thus, justice will always win in the end!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Майто",
+   "text": "「Просто в это я верю\n　и за это буду драться дальше!」",
+   "orig": "Maito\n「It's simply what I believe,\n　and will continue to fight for!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Дзё",
+   "text": "「Гр-р!」",
+   "orig": "Joe\n「Grr!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Грэм",
+   "text": "「Дзё!」",
+   "orig": "Graham\n「Joe!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Бандзё",
+   "text": "「Значит, всё-таки ушёл?\n　Зато теперь ясно, почему его зовут «Асом».」",
+   "orig": "Banjo\n「Escaped then, has he?\n　But I can see now why they call him \"Ace.\"」"
+  },
+  {
+   "i": 283,
+   "speaker": "Синн",
+   "text": "「Выходит, Дзё ещё не раз\n　явится за Майто?」",
+   "orig": "Shinn\n「So does that mean that Joe will\n　come after Maito again in the future?」"
+  },
+  {
+   "i": 284,
+   "speaker": "Майто",
+   "text": "「Сколько бы раз он за мной ни пришёл —\n　проигрывать я не намерен.」",
+   "orig": "Maito\n「Doesn't matter how many times\n　he comes for me. I refuse to lose.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Майто",
+   "text": "（Запомни, Дзё: пока тебе самому не надоест,\n　я буду выходить против тебя столько раз, сколько нужно.）",
+   "orig": "Maito\n（Understand this, Joe: until you grow weary \n　of it, I'll face you as many times as needed.）"
+  },
+  {
+   "i": 286,
+   "speaker": "Майто",
+   "text": "（Или пока ты наконец не поймёшь\n　истинную силу справедливости.）",
+   "orig": "Maito\n（Or until you finally understand\n　the true strength of justice.）"
+  },
+  {
+   "i": 287,
+   "speaker": "Каппэй",
+   "text": "「Хе-хе!\n　Видали, какой сильный стал прокачанный Замбот 3?」",
+   "orig": "Kappei\n「Heheh!\n　Did you see how strong the powered-up Zambot 3 was?」"
+  },
+  {
+   "i": 288,
+   "speaker": "Кэйко",
+   "text": "「Не зазнавайся, Каппэй!」",
+   "orig": "Keiko\n「Don't get cocky, Kappei!」"
+  },
+  {
+   "i": 289,
+   "speaker": "Утюта",
+   "text": "「Хотя в случае Замбота\n　мощности теперь, пожалуй, в самый раз.」",
+   "orig": "Uchuta\n「In Zambot's case though,\n　it might be just the right amount of power.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Каппэй",
+   "text": "「Утюта меня понимает. С такой мощью\n　я им всем как следует наподдам!」",
+   "orig": "Kappei\n「Uchuta knows what I'm talking about. With power\n　like this, I'm going to kick some serious butt!」"
+  },
+  {
+   "i": 291,
+   "speaker": "Каппэй",
+   "text": "「Ого!\n　Вот это было круто!」",
+   "orig": "Kappei\n「Whoa!\n　That was incredible!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Утюта",
+   "text": "「Тебе нельзя проигрывать, Каппэй!」",
+   "orig": "Uchuta\n「You can't lose, Kappei!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Каппэй",
+   "text": "「Ещё бы!\n　Я им покажу, насколько силён\n　прокачанный Замбот 3!」",
+   "orig": "Kappei\n「You know it!\n　I'm going to show them just how strong a\n　powered-up Zambot 3 is!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Дзё",
+   "text": "「Майто Сэмпудзи!\n　Я покажу тебе, как бессильна твоя справедливость!」",
+   "orig": "Joe\n「Maito Senpuji!\n　I'll show you just how powerless your justice is!」"
+  },
+  {
+   "i": 295,
+   "speaker": "Дзё",
+   "text": "「Твоим поражением!」",
+   "orig": "Joe\n「Through your defeat!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Майто",
+   "text": "「Почему ты так одержим этим, Дзё?」",
+   "orig": "Maito\n「Why are you so obsessed, Joe?」"
+  },
+  {
+   "i": 297,
+   "speaker": "Дзё",
+   "text": "「Да разве ты способен понять\n　мой гнев и моё отчаяние?」",
+   "orig": "Joe\n「How could you possibly understand\n　my feelings of anger and despair?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Дзё",
+   "text": "「Майто Сэмпудзи!\n　Ты всё ещё не понял?」",
+   "orig": "Joe\n「Maito Senpuji!\n　Don't you get it yet?」"
+  },
+  {
+   "i": 299,
+   "speaker": "Дзё",
+   "text": "「Я сделаю так, что ты больше никогда не сможешь\n　нести свою чушь о вечной победе справедливости.」",
+   "orig": "Joe\n「I'm going to leave you unable to spew your\n　garbage about justice always winning ever again.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Майто",
+   "text": "「Дзё по прозвищу Ас!\n　Откуда в тебе столько гнева и отчаяния?\n　Хватит уже, остановись!」",
+   "orig": "Maito\n「Joe the Ace!\n　What's driving your feelings of anger and despair?\n　Give it up, already!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Майто",
+   "text": "「Хочешь показать мне бессилие справедливости?\n　Что ж, а я покажу тебе, насколько ты не прав!」",
+   "orig": "Maito\n「You want to show me how powerless justice is?\n　By the same token, I'll show you how wrong you are!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Майто",
+   "text": "「Мы с Майт Кайзером заставим тебя\n　пересмотреть свои взгляды!」",
+   "orig": "Maito\n「Might Kaiser and I are going to force you\n　to rethink your position!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Майто",
+   "text": "（Прости, Гайн.\n　Я позволил злобе Дзё взять надо мной верх.）",
+   "orig": "Maito\n（I'm sorry, Gaine.\n　I let Joe's vindictive feelings overwhelm me.）"
+  },
+  {
+   "i": 304,
+   "speaker": "Майто",
+   "text": "（Но второй раз этого не будет!\n　Справедливость на моей стороне — я доведу дело до конца!）",
+   "orig": "Maito\n（But it won't happen a second time!\n　With justice my ally, I'll finish this!）"
+  },
+  {
+   "i": 305,
+   "speaker": "Майто",
+   "text": "（Я добуду для тебя победу, Гайн.\n　Обещаю!）",
+   "orig": "Maito\n（I'll give you victory, Gaine.\n　I promise!）"
+  },
+  {
+   "i": 306,
+   "speaker": "Мифунэ",
+   "text": "「Иди сюда, мальчишка!\n　Я вытащу тебя из кокпита\n　и заберу Замбот 3 себе!」",
+   "orig": "Mifune\n「Come to me, boy!\n　I'll drag you from that cockpit\n　and make Zambot 3 mine!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Каппэй",
+   "text": "「Когда рак на горе свистнет, старикан!\n　Тебе со мной не тягаться!」",
+   "orig": "Kappei\n「When pigs fly, old man!\n　You're no match for me!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Каппэй",
+   "text": "「Отдать тебе Замбот 3 — всё равно что\n　отдать душу всего рода Дзин.」",
+   "orig": "Kappei\n「Letting you have Zambot 3 would be\n　like giving you the Jin family's soul.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Каппэй",
+   "text": "「А этому не бывать!\n　Готовься, самурай липовый!」",
+   "orig": "Kappei\n「And that's just not going to happen!\n　Be prepared you faux samurai!」"
+  },
+  {
+   "i": 310,
+   "speaker": "Мифунэ",
+   "text": "「Какой смысл упорствовать, Майто Сэмпудзи?\n　Ты уже потерял Майтгайна!」",
+   "orig": "Mifune\n「What's the point of continuing, Maito Senpuji?\n　You've already lost Mightgaine!」"
+  },
+  {
+   "i": 311,
+   "speaker": "Майто",
+   "text": "「Пока во мне есть воля сражаться,\n　я буду подниматься снова и снова!」",
+   "orig": "Maito\n「As long as I have the will to fight,\n　I'll keep getting back up!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Майто",
+   "text": "「Я покажу тебе, чего стоит защищать\n　город, близких... и справедливость!」",
+   "orig": "Maito\n「I'll show you what it takes\n　to defend a city, loved ones...and justice!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Акито",
+   "text": "「Котё.」",
+   "orig": "Akito\n「Kocho.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Котё",
+   "text": "「Акито Тэнкава!」",
+   "orig": "Kocho\n「Akito Tenkawa!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Акито",
+   "text": "「Не делай этого.\n　Узнав свет этого мира,\n　ты не имеешь права возвращаться во тьму.」",
+   "orig": "Akito\n「Don't do it.\n　After knowing the light of the world,\n　you cannot allow yourself to return to the dark.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Акито",
+   "text": "「Вырвись из когтей Мифунэ,\n　пока не поздно!」",
+   "orig": "Akito\n「Free yourself from Mifune's\n　clutches before it's too late!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Котё",
+   "text": "「Но я ниндзя!\n　Я не могу отступить от задания!」",
+   "orig": "Kocho\n「But I'm a ninja!\n　I cannot waver from my mission!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Котё",
+   "text": "「От долга меня может освободить\n　только смерть!」",
+   "orig": "Kocho\n「The only thing that can release\n　me from my duty is death!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Котё",
+   "text": "（Хамада...）",
+   "orig": "Kocho\n（Hamada...）"
+  },
+  {
+   "i": 320,
+   "speaker": "Котё",
+   "text": "（Это прощание...）",
+   "orig": "Kocho\n（This is goodbye...）"
+  },
+  {
+   "i": 321,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Во мне бьётся сердце справедливости Гайна!」",
+   "orig": "Black Mightgaine\n「Within me beats Gaine's heart of justice!」"
+  },
+  {
+   "i": 322,
+   "speaker": "Блэк Майтгайн",
+   "text": "「В нём мои гордость и честь!\n　Я — Блэк Майтгайн из корпуса Брэйв Экспресс!」",
+   "orig": "Black Mightgaine\n「It is my source of pride and honor!\n　I am Brave Express Corps Black Mightgaine!」"
+  },
+  {
+   "i": 323,
+   "speaker": "Грэм",
+   "text": "「Дзё!\n　Я больше не намерен тебя слушать!」",
+   "orig": "Graham\n「Joe!\n　I'm through listening to you!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Дзё",
+   "text": "「Капитан Грэм!」",
+   "orig": "Joe\n「Captain Graham!」"
+  },
+  {
+   "i": 325,
+   "speaker": "Грэм",
+   "text": "「Я положу конец твоему буйству,\n　рождённому гневом и ненавистью!」",
+   "orig": "Graham\n「I'm going to put a stop to your\n　rampage of anger and hatred!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Грэм",
+   "text": "「И освобожусь\n　от собственного прошлого!」",
+   "orig": "Graham\n「And free myself\n　from my past!」"
+  },
+  {
+   "i": 327,
+   "speaker": "Дзё",
+   "text": "「Возможно, мне до вас далеко, капитан.」",
+   "orig": "Joe\n「I might not be a match for you, Captain.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Дзё",
+   "text": "「Но этот путь я выбрал сам!\n　Поворачивать назад уже поздно!」",
+   "orig": "Joe\n「But this is the path I've chosen!\n　It's too late to turn back now!」"
+  },
+  {
+   "i": 329,
+   "speaker": "Грэм",
+   "text": "「Да будет так!\n　Я тебя уничтожу!」",
+   "orig": "Graham\n「So be it!\n　I'm going to destroy you!」"
+  },
+  {
+   "i": 330,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

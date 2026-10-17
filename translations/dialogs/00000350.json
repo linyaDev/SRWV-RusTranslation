@@ -1,0 +1,1390 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　-Ангар базы Брэйв Экспресс «Майт Стейшн»-",
+   "orig": "　\n　\n　　　-Brave Express Corps Base Might Station Hanger-"
+  },
+  {
+   "i": 4,
+   "speaker": "Хамада",
+   "text": "「Майто!」",
+   "orig": "Hamada\n「Maito!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Майто",
+   "text": "「Рад снова тебя видеть, Хамада.\n　Прости, если мы заставили вас волноваться.」",
+   "orig": "Maito\n「Good to see you again, Hamada.\n　Sorry if we caused any worry.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Хамада",
+   "text": "「Да что ты несёшь? Нет на свете такого,\n　что одолело бы несокрушимого Майто Сэмпудзи!」",
+   "orig": "Hamada\n「What're you babbling about? There's no way anyone\n　could do to the indestructible Maito Senpuji!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Хамада",
+   "text": "「Идзуми, Аоки и я — мы все верили,\n　что с вами всё в порядке.」",
+   "orig": "Hamada\n「Izumi, Aoki and I all had faith that\n　you guys were safe.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Идзуми",
+   "text": "「И тем не менее, Хамада, похоже, ты\n　килограммов пять сбросил, пока переживал.」",
+   "orig": "Izumi\n「And yet, looks like you've lost about\n　five kilos worrying over us, Hamada.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Аоки",
+   "text": "「Повезло ещё, что сердце не прихватило.\n　Вот как он изводился.」",
+   "orig": "Aoki\n「He's lucky he didn't go into cardiac arrest.\n　That's how worried he's been.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Хамада",
+   "text": "「Просто дел было много. И только.」",
+   "orig": "Hamada\n「I've been busy is all. Nothing more.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Майто",
+   "text": "「А Альянс DG вёл себя тихо,\n　пока нас не было?」",
+   "orig": "Maito\n「Has the DG Alliance behaved itself\n　while we were gone?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Идзуми",
+   "text": "「В общем, да. За последний месяц\n　никакой активности мы не засекли.」",
+   "orig": "Izumi\n「Pretty much. We haven't observed\n　any activity for the last month. 」"
+  },
+  {
+   "i": 13,
+   "speaker": "Аоки",
+   "text": "「После того как вы разбили марсианских преемников,\n　в мире воцарилось некое подобие покоя.」",
+   "orig": "Aoki\n「After your success at destroying the Martian Successors,\n　the world has become peaceful after a fashion.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Хамада",
+   "text": "「Вот только никогда не угадаешь, когда всё переменится.\n　Поэтому при содействии директора осакского завода\n　мы приняли меры и готовимся к худшему.」",
+   "orig": "Hamada\n「You never know when that's going to change though.\n　So with the cooperation of the Osaka plant manager,\n　we've taken steps to prepare ourselves for the worst.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Хамада",
+   "text": "「К нам присоединился старший брат Каппэя, Ититаро,\n　и помогает нам по самым разным вопросам.\n　Благодаря ему работа идёт полным ходом.」",
+   "orig": "Hamada\n「Kappei's older brother, Ichitaro joined us,\n　and has been helping out in various ways.\n　Thanks to him, the work has progressed well.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Майто",
+   "text": "「Хамада, ты в очередной раз\n　доказал, что ты настоящий друг.」",
+   "orig": "Maito\n「Hamada, once again\n　you prove to be a true friend.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Идзуми",
+   "text": "「Но занят он был\n　не только этим.」",
+   "orig": "Izumi\n「That's not all that's been\n　keeping him busy though.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Хамада",
+   "text": "「И-Идзуми!\n　Не здесь. Не при всех.」",
+   "orig": "Hamada\n「I-Izumi!\n　Not here. Not in public.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Майто",
+   "text": "「А в чём дело, Хамада?」",
+   "orig": "Maito\n「What's the problem, Hamada?」"
+  },
+  {
+   "i": 20,
+   "speaker": "Хамада",
+   "text": "「Р-расскажу вечером, на празднике в вашу честь.\n　Я-я поехал на завод Аото!」",
+   "orig": "Hamada\n「I-I'll tell you at tonight's welcome home party.\n　I-I'm headed to the Aoto Factory!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Хамада",
+   "text": "「Ах да, чуть не забыл! Салли\n　подрабатывает в супермаркете\n　в Нувель-Токио-Сити.」",
+   "orig": "Hamada\n「Oh, by the way! Sally is\n　working a part time job at a\n　supermarket over in Nouvelle Tokyo City.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Хамада",
+   "text": "「Загляни к ней в обеденный перерыв, а?\n　Она за тебя очень переживала.」",
+   "orig": "Hamada\n「Why don't you go see her on her lunch break?\n　She's been pretty worried about you.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Майто",
+   "text": "「А... Спасибо, Хамада.」",
+   "orig": "Maito\n「Uh... Thanks, Hamada.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Идзуми",
+   "text": "「Ну всё, Майто, готовься —\n　вечером будет знатный праздник!」",
+   "orig": "Izumi\n「Alright then, Maito, prepare\n　yourself for a great party tonight!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Аоки",
+   "text": "「Эта вечеринка\n　прогремит на весь город!」",
+   "orig": "Aoki\n「This party's going to\n　go off with a real bang!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Майто",
+   "text": "「Отлично, и весь экипаж\n　«Надэсико» будет с нами.」",
+   "orig": "Maito\n「Sounds great, the entire\n　Nadesico Squad will be there.」"
+  },
+  {
+   "i": 30,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Гостиная в доме Сингудзи-",
+   "orig": "　\n　　\n　　　　　　-Shinguji Residence Living Room-"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「Значит, с тех пор от Титосэ\n　так и не было вестей?」",
+   "orig": "$n\n「So there hasn't been any contact \n　from Chitose since then?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тацу",
+   "text": "「Прости, $n.\n　Я ведь тоже пытался её удержать.」",
+   "orig": "Tatsu\n「I'm sorry, $n.\n　I tried to stop her as well.」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Ты тут ни при чём, Тацу.」",
+   "orig": "$n\n「It's not your fault, Tatsu.」"
+  },
+  {
+   "i": 34,
+   "speaker": "$n",
+   "text": "「Уйти отсюда, чтобы заново\n　разобраться в себе, — это очень\n　в духе Титосэ.」",
+   "orig": "$n\n「Leaving here in order to reevaluate\n　herself is very much something\n　Chitose would do.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Тацу",
+   "text": "「Она сказала, что свяжется, когда всё уляжется.」",
+   "orig": "Tatsu\n「She said she'd make contact once things are settled.」"
+  },
+  {
+   "i": 36,
+   "speaker": "$n",
+   "text": "「Не тревожься, Тацу.\n　Титосэ обрела в этом мире надежду,\n　и можно не сомневаться — она справится.」",
+   "orig": "$n\n「Don't worry about it, Tatsu.\n　Chitose has found hope on this world,\n　you can trust her do her best.」"
+  },
+  {
+   "i": 37,
+   "speaker": "$n",
+   "text": "「К тому же в этом мире теперь мир.\n　Уверен, ничего не случится.」",
+   "orig": "$n\n「Besides, this world is at peace now.\n　I'm sure there's no problem.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Тацу",
+   "text": "「Наверное, ты прав.」",
+   "orig": "Tatsu\n「I guess you're right.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Тацу",
+   "text": "「Хочу сказать спасибо, $n.\n　Это ведь не твой мир, и всё же\n　ты сражаешься за него изо всех сил.」",
+   "orig": "Tatsu\n「I want to thank you, $n. \n　This isn't your world, and yet \n　you are fighting hard for it.」"
+  },
+  {
+   "i": 40,
+   "speaker": "$n",
+   "text": "「Не стоит благодарности. Здесь нас\n　встретили тепло и всегда поддерживали.\n　Так что мы квиты.」",
+   "orig": "$n\n「No thanks needed. Everyone here\n　has been very welcoming and supportive.\n　That makes us even.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Тацу",
+   "text": "「И какие у тебя теперь планы, $n?」",
+   "orig": "Tatsu\n「So what are your plans now, $n?」"
+  },
+  {
+   "i": 42,
+   "speaker": "$n",
+   "text": "「В отличие от Титосэ,\n　мне пока не ясно,\n　что делать дальше.」",
+   "orig": "$n\n「Unlike Chitose,\n　it's not clear to me yet,\n　what I need to do.」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「Осесть в этом мире —\n　или попробовать разыскать «Ямато»\n　в том, другом?」",
+   "orig": "$n\n「Should I settle down in this world, \n　or try to meet up with the Yamato \n　in that other world?」"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「Есть над чем поразмыслить.」",
+   "orig": "$n\n「There's a lot to be considered.」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Значит, с тех пор от Содзи\n　так и не было вестей?」",
+   "orig": "$n\n「So there hasn't been any contact \n　from Soji since then?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Тацу",
+   "text": "「Прости, $n.\n　Я ведь тоже пытался его удержать.」",
+   "orig": "Tatsu\n「I'm sorry, $n.\n　I tried to stop him as well.」"
+  },
+  {
+   "i": 47,
+   "speaker": "$n",
+   "text": "「Ты тут ни при чём, Тацу.」",
+   "orig": "$n\n「It's not your fault, Tatsu.」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Насколько я знаю Содзи,\n　он вовсю наслаждается\n　путешествием по этому миру.」",
+   "orig": "$n\n「If I know Soji,\n　he's enjoying himself\n　exploring this world.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Тацу",
+   "text": "「Он сказал, что свяжется, когда всё уляжется.」",
+   "orig": "Tatsu\n「He said he'd make contact once things are settled.」"
+  },
+  {
+   "i": 50,
+   "speaker": "$n",
+   "text": "「Всё в порядке, Тацу.\n　Содзи порой валяет дурака,\n　но, уверяю тебя, дурак он не больший, чем мы.」",
+   "orig": "$n\n「It's alright, Tatsu.\n　Soji may play the fool at times,\n　but I can assure you, he is not.」"
+  },
+  {
+   "i": 51,
+   "speaker": "$n",
+   "text": "「К тому же в этом мире теперь мир.\n　Уверен, ничего не случится.」",
+   "orig": "$n\n「Besides, this world is at peace now.\n　I'm sure there's no problem.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Тацу",
+   "text": "「Наверное, ты прав.」",
+   "orig": "Tatsu\n「I guess you're right.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Тацу",
+   "text": "「Хочу сказать спасибо, $n.\n　Это ведь не твой мир, и всё же\n　ты сражаешься за него изо всех сил.」",
+   "orig": "Tatsu\n「I want to thank you, $n. \n　This isn't your world, and yet \n　you are fighting hard for it.」"
+  },
+  {
+   "i": 54,
+   "speaker": "$n",
+   "text": "「О чём ты говоришь?\n　Мы для вас совсем чужие, и всё равно\n　вы сделали всё, чтобы нас защитить.」",
+   "orig": "$n\n「What are you saying?\n　We're complete strangers to you all and yet\n　you've gone to great lengths to protect us.」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「Дело вовсе не в долге благодарности —\n　я просто делаю, что могу, чтобы помочь.」",
+   "orig": "$n\n「This isn't about returning any favors,\n　I'm just doing what I can to help out.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тацу",
+   "text": "「И какие у тебя\n　теперь планы, $n?」",
+   "orig": "Tatsu\n「So what are your\n　plans now, $n?」"
+  },
+  {
+   "i": 57,
+   "speaker": "$n",
+   "text": "「По правде, я и сам в растерянности.」",
+   "orig": "$n\n「In truth, I'm lost, too.」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Осесть в этом мире, как Содзи,\n　или попробовать разыскать «Ямато»\n　в том, другом?」",
+   "orig": "$n\n「Should I settle down in this world \n　like Soji, or try to meet up with \n　the Yamato in that other world?」"
+  },
+  {
+   "i": 59,
+   "speaker": "$n",
+   "text": "「Есть над чем поразмыслить.」",
+   "orig": "$n\n「There's a lot to be considered.」"
+  },
+  {
+   "i": 63,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　-Нувель-Токио-Сити-",
+   "orig": "　\n　\n　　　　　　　　　　-Nouvelle Tokyo City-"
+  },
+  {
+   "i": 64,
+   "speaker": "Салли",
+   "text": "「Я так рада видеть,\n　что ты вернулся целым и невредимым.」",
+   "orig": "Sally\n「I'm really happy to see\n　that you've returned safely.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Майто",
+   "text": "「Эй, мы, герои, несокрушимы.」",
+   "orig": "Maito\n「Hey, we heroes are indestructible.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Салли",
+   "text": "「Да, наверное...」",
+   "orig": "Sally\n「Yeah, I guess...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Майто",
+   "text": "「Прости.\n　Ты правда переживала,\n　а я тут шутки шучу.」",
+   "orig": "Maito\n「Sorry.\n　You were honestly worried, \n　and here I am making jokes.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Майто",
+   "text": "「Но ты не забывай: я человек справедливости,\n　и не могу умереть, пока всё зло не повержено.」",
+   "orig": "Maito\n「But you've got to remember, I'm a man of justice,\n　I can't die until I've destroyed all evil.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Салли",
+   "text": "「Я тебе верю.」",
+   "orig": "Sally\n「I believe you.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Майто",
+   "text": "「Слушай... а что там за шум?」",
+   "orig": "Maito\n「Hey... What's all the fuss about?」"
+  },
+  {
+   "i": 71,
+   "speaker": "Салли",
+   "text": "「Говорят, где-то там впереди сам Пёрпл.」",
+   "orig": "Sally\n「Apparently Purple is just up ahead somewhere.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Майто",
+   "text": "「Пёрпл?」",
+   "orig": "Maito\n「Purple?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Салли",
+   "text": "「Рок-звезда, прогремевшая, пока вас не было.\n　Вон, посмотри. Отсюда его как раз видно.」",
+   "orig": "Sally\n「A rock star who made it big while you guys were gone. \n　Look there. You can just see him up ahead.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Пёрпл",
+   "text": "「Давайте, все вместе! Разнесём этот унылый,\n　скучный мир под звуки пурпура!」",
+   "orig": "Purple\n「Come on, everyone! Let's destroy this lame,\n　boring world to the sound of purple!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Пёрпл",
+   "text": "「Пламя разрушения и слёзы печали! Союз красного\n　и синего породит прекрасный пурпурный мир!」",
+   "orig": "Purple\n「Flames of destruction and tears of sadness! The communion \n　of red and blue will form the beautiful world of purple!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Майто",
+   "text": "「Так вот он какой, этот Пёрпл.」",
+   "orig": "Maito\n「So that's Purple, huh?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Салли",
+   "text": "「Такие бешеные выступления сейчас дико популярны.\n　Хотя лично я не очень понимаю, что в них находят.」",
+   "orig": "Sally\n「His extremely wild performances like this are really \n　popular. But I can't really say I see the attraction.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Майто",
+   "text": "（Почему у меня такое странное\n　чувство, что здесь что-то не так?）",
+   "orig": "Maito\n（Why do I get the strange \n　feeling something's not right?）"
+  },
+  {
+   "i": 79,
+   "speaker": "Майто",
+   "text": "（Что-то в нём меня настораживает.\n　Будто мир на эту землю ещё по-настоящему не вернулся.）",
+   "orig": "Maito\n（Something about him makes me uneasy.\n　Like peace truly hasn't returned to this world yet.）"
+  },
+  {
+   "i": 83,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Банкетный зал дома Сэмпудзи-",
+   "orig": "　\n　　\n　　　　　　-The Senpuji Residence Party Room-"
+  },
+  {
+   "i": 84,
+   "speaker": "Юдзиро",
+   "text": "「Поднимем бокалы за благополучное возвращение друзей!\n　Кампай!」",
+   "orig": "Yujiro\n「Let's raise our glasses to the safe return of our friends!\n　Cheers!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Рури",
+   "text": "「Кампай!」",
+   "orig": "Ruri\n「Cheers!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Юдзиро",
+   "text": "「Эх! До чего же я рад, что вы вернулись!\n　И не только тебе, Майто. Признаюсь, мне весьма\n　по душе, когда сакэ наливает такая красавица.」",
+   "orig": "Yujiro\n「Man! I'm so happy you are back!\n　And not just you Maito. I must say, I quite enjoy\n　being served sake by such a beautiful woman.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Сумераги",
+   "text": "「Мне тоже очень приятно познакомиться, Юдзиро.」",
+   "orig": "Sumeragi\n「I'm quite happy to make your acquaintance too, Yujiro.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Юдзиро",
+   "text": "「Жаль только одного.\n　Будь ты лет на десять — нет, на пятнадцать — моложе,\n　из тебя вышла бы идеальная жена для Майто, Сумераги.」",
+   "orig": "Yujiro\n「It's a bit unfortunate though.\n　If you were 10—no, 15 years younger,\n　you'd make the perfect wife for Maito, Sumeragi.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Сумераги",
+   "text": "「С-спасибо...」",
+   "orig": "Sumeragi\n「Th-thank you...」"
+  },
+  {
+   "i": 90,
+   "speaker": "Сумераги",
+   "text": "（...за такой «комплимент».\n　Вовсе я не такая старая.）",
+   "orig": "Sumeragi\n（for the backhanded compliment.\n　I'm not that old.）"
+  },
+  {
+   "i": 91,
+   "speaker": "Розали",
+   "text": "「Ого!\n　Вот это пиршество!」",
+   "orig": "Rosalie\n「Whoa!\n　What an incredible feast!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Крис",
+   "text": "「Я-я никогда не видела такой\n　роскошной $kwbМермейд-Фесты$kwe.」",
+   "orig": "Chris\n「I-I've never seen such a\n　gorgeous $kwbMermaid Festa$kwe.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Хильда",
+   "text": "「Вам не кажется, что чем-то... странно пахнет?」",
+   "orig": "Hilda\n「Do you smell something... funny?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Идзуми",
+   "text": "「А, это натто, любимое блюдо Юдзиро.\n　Попробуй, если хочешь.」",
+   "orig": "Izumi\n「Ah, that's natto, Yujiro's favorite food.\n　Give it a try if you like.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Хильда",
+   "text": "「Э-э, пожалуй, воздержусь.」",
+   "orig": "Hilda\n「Uh, I think I'll pass.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Сэцуна",
+   "text": "「Да уж, в такие минуты накатывают воспоминания.」",
+   "orig": "Setsuna\n「Ahh, times like these bring back memories.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тиерия",
+   "text": "「Какие именно?」",
+   "orig": "Tieria\n「Which one?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Сэцуна",
+   "text": "「Например, как мы заявились на тот приём в поисках\n　$kwbA-Laws$kwe, а ты нарядился женщиной.」",
+   "orig": "Setsuna\n「Like the time we crashed that party looking for\n　$kwbA-Laws$kwe and you dressed up as a woman.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Тиерия",
+   "text": "「Эй!」",
+   "orig": "Tieria\n「Hey!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Лунамария",
+   "text": "「Серьёзно?」",
+   "orig": "Lunamaria\n「Are you serious?」"
+  },
+  {
+   "i": 101,
+   "speaker": "Эрша",
+   "text": "「Расскажите подробнее, пожалуйста.」",
+   "orig": "Ersha\n「Please tell us more.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Локон",
+   "text": "「А может, ты нам лучше просто покажешь?」",
+   "orig": "Lockon\n「Actually, why don't you just show us?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Тиерия",
+   "text": "「Локон!」",
+   "orig": "Tieria\n「Lockon!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Аллилуйя",
+   "text": "「Такое зрелище и впрямь забудешь не скоро.」",
+   "orig": "Allelujah\n「That's definitely not something one would soon forget.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Тиерия",
+   "text": "「Аллилуйя!」",
+   "orig": "Tieria\n「Allelujah!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Салия",
+   "text": "「О-ой...」",
+   "orig": "Salia\n「O-oh my...」"
+  },
+  {
+   "i": 107,
+   "speaker": "Кира",
+   "text": "「Что с тобой, Салия?」",
+   "orig": "Kira\n「What's the matter, Salia?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Анж",
+   "text": "「По-моему, её сразила одна мысль\n　о Тиерии в женском платье.」",
+   "orig": "Ange\n「I think the thought of Tieria dressed \n　as a woman has overwhelmed her.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Салия",
+   "text": "「Н-ничего подобного!」",
+   "orig": "Salia\n「Th-that's not true!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Анж",
+   "text": "「Мне сдаётся, дама уж слишком рьяно отпирается.」",
+   "orig": "Ange\n「The lady doth protest too much, methinks.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Салия",
+   "text": "「Анж!」",
+   "orig": "Salia\n「Ange!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Салия",
+   "text": "（Но на такое и правда стоило бы взглянуть, да?）",
+   "orig": "Salia\n（But that would be something to see, wouldn't it?）"
+  },
+  {
+   "i": 113,
+   "speaker": "Хикару",
+   "text": "「За тот месяц, что нас не было...」",
+   "orig": "Hikaru\n「In the month we were away—」"
+  },
+  {
+   "i": 114,
+   "speaker": "Милейна",
+   "text": "「...самой потрясающей новостью стало...」",
+   "orig": "Mileina\n「The most surprising news has been—」"
+  },
+  {
+   "i": 115,
+   "speaker": "Харри",
+   "text": "「...то, что у Хамады появилась девушка!」",
+   "orig": "Harry\n「The fact that Hamada found himself a girlfriend!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Хамада",
+   "text": "「Хе-хе-хе.」",
+   "orig": "Hamada\n「Heh heh heh.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Лунна",
+   "text": "「Меня зовут Лунна Найто.\n　Очень приятно со всеми познакомиться.」",
+   "orig": "Lunna\n「My name is Lunna Naito.\n　It's a pleasure to meet you all.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Ититаро",
+   "text": "「Лунна работает в «Сэмпудзи Хэви Индастриз» в Аото,\n　и благодаря её солнечному, приветливому нраву\n　её там все очень любят.」",
+   "orig": "Ichitaro\n「Lunna is working at Senpuji Heavy Industries in Aoto,\n　where her sunny, friendly disposition \n　has made her quite popular.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Каппэй",
+   "text": "「Похоже, она и тебе приглянулась, Ити.」",
+   "orig": "Kappei\n「Sounds like she's caught your eye as well, Ichi.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Ититаро",
+   "text": "「Н-не говори глупостей!」",
+   "orig": "Ichitaro\n「D-don't be silly!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Осака",
+   "text": "「О нет. Думаю, у него нет ни единого шанса.\n　Как бы он ни старался.」",
+   "orig": "Osaka\n「Oh, no. I don't think that would even be possible.\n　No matter how hard he tried.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Осака",
+   "text": "「Лунна считай что поселилась у Хамады. Готовит,\n　убирает и не отходит от него ни на минуту.」",
+   "orig": "Osaka\n「Lunna's practically set herself up with Hamada. Cooking,\n　cleaning, and been with him every moment possible.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Бандзё",
+   "text": "「Так надевай уж ей кольцо на палец\n　поскорее, Хамада. Хитрюга ты эдакий.」",
+   "orig": "Banjo\n「Might as well put the ring on her finger\n　ring now, Hamada. You sly dog.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Лунна",
+   "text": "「Я была тебе в тягость, Хамада?」",
+   "orig": "Lunna\n「Have I been a burden, Hamada?」"
+  },
+  {
+   "i": 125,
+   "speaker": "Хамада",
+   "text": "「Вовсе нет, Лунна!」",
+   "orig": "Hamada\n「Not at all, Lunna!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Хамада",
+   "text": "「Поначалу у меня от всего этого голова кружилась,\n　но теперь я по-настоящему счастлив.」",
+   "orig": "Hamada\n「The whole situation was a little dizzying at first,\n　but now I'm quite happy.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Лунна",
+   "text": "「Ах, спасибо. Мне так приятно это слышать.」",
+   "orig": "Lunna\n「Oh, thank you. I'm so happy to hear you say that.」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「На твоём месте я бы не болтал лишнего, Хамада.\n　Если, конечно, не хочешь попасть на допрос к Найн.」",
+   "orig": "$n\n「You may want to refrain from saying too much, Hamada.\n　Lest you wish to submit to Nine's super inquisitive nature.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Найн",
+   "text": "「Кэп!\n　Нельзя говорить такое только потому,\n　что ты завидуешь Хамаде.」",
+   "orig": "Nine\n「Cap!\n　Just because you envy Hamada,\n　you can't say such things.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Майто",
+   "text": "「Ну-ну, вы двое.\n　Вам положено веселиться. Это же праздник.」",
+   "orig": "Maito\n「Alright, you two.\n　You're supposed to enjoy. This is a party.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Майто",
+   "text": "「Лунна, позаботься\n　о Хамаде, хорошо?」",
+   "orig": "Maito\n「Lunna, be good to\n　Hamada, will you?」"
+  },
+  {
+   "i": 132,
+   "speaker": "Лунна",
+   "text": "「Обещаю, Майто.」",
+   "orig": "Lunna\n「I promise, Maito.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Каппэй",
+   "text": "「Эй, слушай, тебе же\n　надо бежать на встречу с Салли, разве нет?\n　Давай-ка поторапливайся.」",
+   "orig": "Kappei\n「Hey c'mon now, you have\n　to get going to meet Sally, don't you?\n　Better hurry and get going.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Найн",
+   "text": "「Кэп, в тебе опять говорит зависть.」",
+   "orig": "Nine\n「Once more you let envy get the better of you, Cap.」"
+  },
+  {
+   "i": 135,
+   "speaker": "$n",
+   "text": "「Ну перестань,\n　незачем так язвить.」",
+   "orig": "$n\n「Come on now, \n　no need to sharp-tongue.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Майто",
+   "text": "「Ха-ха.\n　Ладно, ладно. Иду.」",
+   "orig": "Maito\n「Haha.\n　Alright, alright. I'm going.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Лунна",
+   "text": "「До свидания.」",
+   "orig": "Lunna\n「Good-bye.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Хикару",
+   "text": "「За тот месяц, что нас не было...」",
+   "orig": "Hikaru\n「In the month we were away—」"
+  },
+  {
+   "i": 139,
+   "speaker": "Милейна",
+   "text": "「...самой потрясающей новостью стало...」",
+   "orig": "Mileina\n「The most surprising news has been—」"
+  },
+  {
+   "i": 140,
+   "speaker": "Харри",
+   "text": "「...то, что у Хамады появилась девушка!」",
+   "orig": "Harry\n「The fact that Hamada found himself a girlfriend!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Хамада",
+   "text": "「Хе-хе-хе.」",
+   "orig": "Hamada\n「Heh heh heh.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Лунна",
+   "text": "「Меня зовут Лунна Найто.\n　Очень приятно со всеми познакомиться.」",
+   "orig": "Lunna\n「My name is Lunna Naito.\n　It's a pleasure to meet you all.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Ититаро",
+   "text": "「Лунна работает в «Сэмпудзи Хэви Индастриз» в Аото,\n　и благодаря её солнечному, приветливому нраву\n　её там все очень любят.」",
+   "orig": "Ichitaro\n「Lunna is working at Senpuji Heavy Industries in Aoto,\n　where her sunny, friendly disposition \n　has made her quite popular.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Каппэй",
+   "text": "「Похоже, она и тебе приглянулась, Ити.」",
+   "orig": "Kappei\n「Sounds like she's caught your eye as well, Ichi.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Ититаро",
+   "text": "「Н-не говори глупостей!」",
+   "orig": "Ichitaro\n「D-don't be silly!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Осака",
+   "text": "「О нет. Думаю, у него нет ни единого шанса.\n　Как бы он ни старался.」",
+   "orig": "Osaka\n「Oh, no. I don't think that would even be possible.\n　No matter how hard he tried.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Осака",
+   "text": "「Лунна считай что поселилась у Хамады. Готовит,\n　убирает и не отходит от него ни на минуту.」",
+   "orig": "Osaka\n「Lunna's practically set herself up with Hamada. Cooking,\n　cleaning, and been with him every moment possible.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Бандзё",
+   "text": "「Так надевай уж ей кольцо на палец\n　поскорее, Хамада. Хитрюга ты эдакий.」",
+   "orig": "Banjo\n「Might as well put the ring on her finger\n　ring now, Hamada. You sly dog.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Лунна",
+   "text": "「Я была тебе в тягость, Хамада?」",
+   "orig": "Lunna\n「Have I been a burden, Hamada?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Хамада",
+   "text": "「Вовсе нет, Лунна!」",
+   "orig": "Hamada\n「Not at all, Lunna!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Хамада",
+   "text": "「Поначалу у меня от всего этого голова кружилась,\n　но теперь я по-настоящему счастлив.」",
+   "orig": "Hamada\n「The whole situation was a little dizzying at first,\n　but now I'm quite happy.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Лунна",
+   "text": "「Ах, спасибо. Мне так приятно это слышать.」",
+   "orig": "Lunna\n「Oh, thank you. I'm so happy to hear you say that.」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Правда ведь, из них вышла чудесная пара, Найн?」",
+   "orig": "$n\n「Don't you think they make a fine couple, Nine?」"
+  },
+  {
+   "i": 154,
+   "speaker": "Найн",
+   "text": "「Да, именно так.\n　По данным моего сенсора влюблённых пар,\n　совместимость у них идеальная.」",
+   "orig": "Nine\n「Yes, indeed.\n　According to my Feeling Couple Sensor,\n　their chemistry is perfect.」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「У тебя есть такая функция, Найн?」",
+   "orig": "$n\n「You have that function, Nine?」"
+  },
+  {
+   "i": 156,
+   "speaker": "Найн",
+   "text": "「Я сама её разработала и установила.」",
+   "orig": "Nine\n「I developed and installed it myself.」"
+  },
+  {
+   "i": 157,
+   "speaker": "$n",
+   "text": "「Серьёзно? Поразительно!」",
+   "orig": "$n\n「Are you serious? That's incredible!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Майто",
+   "text": "「Лунна, позаботься\n　о Хамаде, хорошо?」",
+   "orig": "Maito\n「Lunna, be good to\n　Hamada, will you?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Лунна",
+   "text": "「Обещаю, Майто.」",
+   "orig": "Lunna\n「I promise, Maito.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Каппэй",
+   "text": "「Эй, слушай, тебе же\n　надо бежать на встречу с Салли, разве нет?\n　Давай-ка поторапливайся.」",
+   "orig": "Kappei\n「Hey c'mon now, you have\n　to get going to meet Sally, don't you?\n　Better hurry and get going.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Найн",
+   "text": "「Вот только есть одна проблема.\n　Боюсь, всякий раз, когда я нахожу идеальную пару,\n　ты будешь завидовать, сестрёнка.」",
+   "orig": "Nine\n「There's just one problem.\n　Whenever I find a perfect couple\n　I'm afraid you'll become jealous, Sis.」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Смотри не перегрузи свой\n　падкий на сплетни ИИ, Найн.」",
+   "orig": "$n\n「Careful you don't overload your\n　gossip-loving AI, Nine.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Найн",
+   "text": "「Не думаю, что это проблема.」",
+   "orig": "Nine\n「I don't think that's a problem.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Майто",
+   "text": "「Ха-ха.\n　Ладно, ладно. Иду.」",
+   "orig": "Maito\n「Haha.\n　Alright, alright. I'm going.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Лунна",
+   "text": "「До свидания.」",
+   "orig": "Lunna\n「Good-bye.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Акито",
+   "text": "「Хм...」",
+   "orig": "Akito\n「Hmm...」"
+  },
+  {
+   "i": 167,
+   "speaker": "Колясур",
+   "text": "「Ты чего, Акито?\n　Майто тебя чем-то смущает?」",
+   "orig": "Colasour\n「What's the matter, Akito?\n　Maito makes you uneasy?」"
+  },
+  {
+   "i": 168,
+   "speaker": "Акито",
+   "text": "「Дело не в этом.」",
+   "orig": "Akito\n「It's not that.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Грэм",
+   "text": "「Строить из себя скромника тебе совсем не идёт.\n　Так что иди сюда и присоединяйся к нам.」",
+   "orig": "Graham\n「Playing coy doesn't suit you at all.\n　So come on over here and join us.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Колясур",
+   "text": "「Ага, смотри — капитан Хосино тебя уже заждалась.」",
+   "orig": "Colasour\n「Yeah, look, Captain Hoshino is waiting for you.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Акито",
+   "text": "「Да, пожалуй, ты прав.」",
+   "orig": "Akito\n「Yeah, I guess you're right.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Кэйко",
+   "text": "「А почему ты устроился в «Сэмпудзи Хэви Индастриз»?」",
+   "orig": "Keiko\n「Why are you working at Senpuji Heavy Industries?」"
+  },
+  {
+   "i": 173,
+   "speaker": "Ититаро",
+   "text": "「Я хотел выучиться на полноценного инженера.\n　А в итоге стал помощником директора осакского завода.」",
+   "orig": "Ichitaro\n「I wanted to study to become a full-fledged engineer.\n　And ended up as the Osaka plant manager's assistant.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Утюта",
+   "text": "「Чтобы воспроизвести технологии $kwbбиалийцев$kwe,\n　о которых говорили раньше?」",
+   "orig": "Uchuta\n「In an effort to reproduce the $kwbBealians$kwe\n　technology mentioned before?」"
+  },
+  {
+   "i": 175,
+   "speaker": "Ититаро",
+   "text": "「Именно.\n　Сперва мы воссоздадим детали «Биала I»\n　и усилим «Замбот 3».」",
+   "orig": "Ichitaro\n「Exactly.\n　First, we'll reproduce the Beal I parts,\n　and power up the Zambot 3.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Каппэй",
+   "text": "「Ого!\n　Жду не дождусь!」",
+   "orig": "Kappei\n「Whoa!\n　Can't wait!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Лунна",
+   "text": "「«Замбот 3»?\n　Это тот робот с полумесяцем на лбу?」",
+   "orig": "Lunna\n「The Zambot 3?\n　Is that the robot with the crescent on its forehead?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Каппэй",
+   "text": "「Ты про него знаешь?」",
+   "orig": "Kappei\n「Are you familiar with it?」"
+  },
+  {
+   "i": 179,
+   "speaker": "Лунна",
+   "text": "「Хамада очень любит роботов,\n　вот я и начала их изучать.」",
+   "orig": "Lunna\n「Hamada really loves robots,\n　so I studied up on them.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Утюта",
+   "text": "「Вот это девушка!」",
+   "orig": "Uchuta\n「This girl's really something!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Хамада",
+   "text": "「И из всех роботов больше всего ей,\n　похоже, полюбился «Замбот 3».」",
+   "orig": "Hamada\n「And of all the robots, she's apparently\n　especially fond of the Zambot 3.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Каппэй",
+   "text": "「Правда? Ну спасибо!」",
+   "orig": "Kappei\n「Really? Gee, thanks!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Хамада",
+   "text": "「Слушай, Лунна.\n　Подойди-ка сюда, я хочу\n　представить тебя всем остальным.」",
+   "orig": "Hamada\n「Hey Lunna.\n　I'd like you to come over here\n　so I can introduce you to everyone.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Лунна",
+   "text": "「Ах, Хамада...」",
+   "orig": "Lunna\n「Oh, Hamada...」"
+  },
+  {
+   "i": 185,
+   "speaker": "Хамада",
+   "text": "「Что такое?」",
+   "orig": "Hamada\n「What is it?」"
+  },
+  {
+   "i": 186,
+   "speaker": "Лунна",
+   "text": "「Я так счастлива.」",
+   "orig": "Lunna\n「I'm so happy.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Хамада",
+   "text": "「И я тоже.」",
+   "orig": "Hamada\n「Me, too.」"
+  },
+  {
+   "i": 191,
+   "speaker": "　",
+   "text": "　\n　　　　　　-Сад при доме Сэмпудзи-",
+   "orig": "　\n　\n　　　　　　　-Senpuji Residence Garden Area-"
+  },
+  {
+   "i": 192,
+   "speaker": "Майто",
+   "text": "（Ты опаздываешь, Салли. Где же ты?\n　Может, задержали на работе?）",
+   "orig": "Maito\n（You're running late, Sally. Where are you?\n　Caught up at work perhaps?）"
+  },
+  {
+   "i": 193,
+   "speaker": "Майто",
+   "text": "「Кто здесь?」",
+   "orig": "Maito\n「Who's there?」"
+  },
+  {
+   "i": 194,
+   "speaker": "？？？",
+   "text": "「Я боялся, что потерял хватку,\n　но теперь вижу — опасался зря.」",
+   "orig": "？？？\n「Was worried my skills might get rusty,\n　but now I see there was no need to have been.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Майто",
+   "text": "「Кто это?!」",
+   "orig": "Maito\n「Who's that?!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Дзё",
+   "text": "「Давно не виделись, Майто Сэмпудзи.」",
+   "orig": "Joe\n「It's been a while, Maito Senpuji.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Майто",
+   "text": "「Дзё-Эйс!」",
+   "orig": "Maito\n「Joe the Ace!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Дзё",
+   "text": "「Как удачно, что ты улизнул с праздника.」",
+   "orig": "Joe\n「Pretty convenient you slipped out of the party like that.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Дзё",
+   "text": "「Да, там было довольно весело, но нашлись\n　люди, с которыми мне не очень хотелось встречаться.\n　Зато теперь я могу вручить тебе вызов лично.」",
+   "orig": "Joe\n「Yeah, it was getting pretty exciting in there, but there\n　were a few of people I didn't really want to face.\n　Lucky I get to directly give you this letter of challenge.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Майто",
+   "text": "「Вызов?」",
+   "orig": "Maito\n「A letter of challenge?」"
+  },
+  {
+   "i": 201,
+   "speaker": "Дзё",
+   "text": "「О тебе месяц не было ни слуху ни духу.\n　Но день, которого я ждал, наконец настал.」",
+   "orig": "Joe\n「It's been a month since anyone's heard from you.\n　But now the day I've been waiting for has finally come.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Дзё",
+   "text": "「Завтра утром, в восемь ноль-ноль.\n　Я вызываю тебя и твой «Майтгайн»\n　на поединок в Нувель-Токио-Сити.」",
+   "orig": "Joe\n「Tomorrow morning, 8:00 A.M.\n　I'm calling you and your Mightgaine\n　out to a duel in Nouvelle Tokyo City.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Майто",
+   "text": "「Значит, решающий поединок?」",
+   "orig": "Maito\n「A final duel, huh?」"
+  },
+  {
+   "i": 204,
+   "speaker": "Дзё",
+   "text": "「Принимаешь вызов или нет, Майто Сэмпудзи?」",
+   "orig": "Joe\n「Do you accept or not, Maito Senpuji?」"
+  },
+  {
+   "i": 205,
+   "speaker": "Майто",
+   "text": "「Справедливость никогда не отвернётся от зла!」",
+   "orig": "Maito\n「Justice will never turn its back on evil!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Дзё",
+   "text": "「Справедливость? Ну-ну.」",
+   "orig": "Joe\n「Justice? Please.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Дзё",
+   "text": "「Считаю, что вызов принят.\n　Увидимся завтра в восемь утра.」",
+   "orig": "Joe\n「Your acceptance has been noted. \n　I'll see you tomorrow morning at 8:00.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Дзё",
+   "text": "「Что ж, тогда наслаждайся своим...\n　прощальным вечером.」",
+   "orig": "Joe\n「Very well, then I leave you to enjoy your— \n　farewell party.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Майто",
+   "text": "「Дзё...」",
+   "orig": "Maito\n「Joe...」"
+  },
+  {
+   "i": 210,
+   "speaker": "Салли",
+   "text": "「Майто!\n　Кто это сейчас был?」",
+   "orig": "Sally\n「Maito!\n　Who was that just now?」"
+  },
+  {
+   "i": 211,
+   "speaker": "Майто",
+   "text": "「Дзё приходил вызвать меня на поединок.」",
+   "orig": "Maito\n「Joe came to challenge me to duel.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Салли",
+   "text": "「Что?!」",
+   "orig": "Sally\n「What?!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Майто",
+   "text": "「Не тревожься, я не проиграю.\n　Справедливость не уступает злу.」",
+   "orig": "Maito\n「Don't worry, I won't lose.\n　Justice doesn't lose to evil.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Салли",
+   "text": "（Ах, Майто... Дзё...）",
+   "orig": "Sally\n（Oh, Maito... Joe...）"
+  },
+  {
+   "i": 215,
+   "speaker": "Салли",
+   "text": "（Неужели их никак не остановить?）",
+   "orig": "Sally\n（Is there a way to stop them?）"
+  },
+  {
+   "i": 219,
+   "speaker": "　",
+   "text": "　　\n　　　-Ангар базы Брэйв Экспресс «Майт Стейшн»-",
+   "orig": "　\n　　\n　　　　-Brave Express Corps Might Station Hanger-"
+  },
+  {
+   "i": 220,
+   "speaker": "？？？",
+   "text": "（Я слышала, что робота настраивают именно здесь.）",
+   "orig": "？？？\n（I heard the robot was undergoing adjustments here.）"
+  },
+  {
+   "i": 221,
+   "speaker": "？？？",
+   "text": "（Надо выполнить задание, пока все заняты\n　поединком Дзё-Эйса и «Майтгайна».）",
+   "orig": "？？？\n（I've got to fulfill my mission while everyone's attention\n　is on the duel between Joe the Ace and Mightgaine.）"
+  },
+  {
+   "i": 222,
+   "speaker": "？？？",
+   "text": "「Дальше ни шагу.」",
+   "orig": "？？？\n「That's far enough.」"
+  },
+  {
+   "i": 223,
+   "speaker": "？？？",
+   "text": "「А?」",
+   "orig": "？？？\n「Huh?」"
+  },
+  {
+   "i": 224,
+   "speaker": "Акито",
+   "text": "「Я сказал — не двигайся, Лунна Найто.」",
+   "orig": "Akito\n「I said, don't move, Lunna Naito.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Котё",
+   "text": "「Ты ещё кто?」",
+   "orig": "Kocho\n「Who're you?」"
+  },
+  {
+   "i": 226,
+   "speaker": "Акито",
+   "text": "「Можешь не притворяться. Убирайся отсюда, живо.」",
+   "orig": "Akito\n「You can drop the act. Leave this place, now.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Котё",
+   "text": "「Акито Тэнкава.」",
+   "orig": "Kocho\n「Akito Tenkawa.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Акито",
+   "text": "「Значит, моё имя тебе известно.\n　Ты явно хорошо подготовилась.」",
+   "orig": "Akito\n「So you know my name.\n　You've obviously done your homework.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Акито",
+   "text": "「Твой наряд ниндзя подозрительно похож\n　на одеяния прислужников сёгуна Мифунэ.」",
+   "orig": "Akito\n「Your ninja attire bears a sharp resemblance\n　to that of the underlings of Shogun Mifune.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Котё",
+   "text": "「Как ты раскрыл, кто я на самом деле?」",
+   "orig": "Kocho\n「How did you discover my true identity?」"
+  },
+  {
+   "i": 231,
+   "speaker": "Акито",
+   "text": "「По тому, как ты смотришь на Майто.」",
+   "orig": "Akito\n「The way you look at Maito.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Котё",
+   "text": "「Что?!」",
+   "orig": "Kocho\n「What?!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Акито",
+   "text": "「Тот, кто сам живёт в тени, такое замечает.」",
+   "orig": "Akito\n「Those who live in the shadows understand these things.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Акито",
+   "text": "「А главное, шпионкой всегда оказывается\n　та самая загадочная девица, что льнёт к герою.\n　Это все знают.」",
+   "orig": "Akito\n「More to the point, it's always the mysterious girl\n　who cozies up to the hero, who is the spy.\n　Everyone knows that.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Котё",
+   "text": "「Раз ты узнал, кто я, живым тебе не уйти!」",
+   "orig": "Kocho\n「Since you know my true identity, you can't get away!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Акито",
+   "text": "「Зря ты так!」",
+   "orig": "Akito\n「That's a bad move!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Котё",
+   "text": "「Боевое искусство юпитерианцев!」",
+   "orig": "Kocho\n「Jovian Martial Arts!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Акито",
+   "text": "「Я просто выдаю себя за другого, чтобы идти по их следу.」",
+   "orig": "Akito\n「I'm simply disguised like this in order to pursue them.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Котё",
+   "text": "「Убей меня!\n　Ниндзя, провалившая задание, не вправе жить!」",
+   "orig": "Kocho\n「Kill me!\n　A ninja who has failed has no reason to live!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Акито",
+   "text": "「Уходи отсюда. Немедленно!」",
+   "orig": "Akito\n「Leave here. Now!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Котё",
+   "text": "「Что?!」",
+   "orig": "Kocho\n「What?!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Акито",
+   "text": "「Кто ты на самом деле, знаю только я.」",
+   "orig": "Akito\n「I'm the only one who knows your true identity.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Котё",
+   "text": "「Это что, жалость к врагу?」",
+   "orig": "Kocho\n「Is this pity for your enemy?」"
+  },
+  {
+   "i": 244,
+   "speaker": "Акито",
+   "text": "「То, что я делаю, я делаю не ради тебя.\n　Я делаю это ради Хамады.」",
+   "orig": "Akito\n「What I do, I do not do for you.\n　I do it for Hamada.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Котё",
+   "text": "「Хамада...」",
+   "orig": "Kocho\n「Hamada...」"
+  },
+  {
+   "i": 246,
+   "speaker": "Акито",
+   "text": "「Я сохраню тебе жизнь.\n　Но взамен ты пообещаешь, что больше\n　ничем не причинишь Хамаде боли.」",
+   "orig": "Akito\n「I will spare your life.\n　But in return, you will promise not to\n　further sadden Hamada in any way.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Котё",
+   "text": "「Я...」",
+   "orig": "Kocho\n「I...」"
+  },
+  {
+   "i": 248,
+   "speaker": "Акито",
+   "text": "「Лунна Найто...\n　То, что мы потеряли, уже не вернуть.」",
+   "orig": "Akito\n「Lunna Naito... \n　We can never regain the things we've lost.」"
+  }
+ ]
+}

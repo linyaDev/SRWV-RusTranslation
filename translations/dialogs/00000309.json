@@ -1,0 +1,2182 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Рёма",
+   "text": "「Я не гонюсь за тем, кто от меня бежит,\n　и не отказываю тому, кто идёт на меня.\n　Кто хочет драки — тот её получит!」",
+   "orig": "Ryoma\n「I won't chase anyone who runs away from me,\n　and I won't refuse anyone who comes gunning for me.\n　Whoever wants a fight is gonna get a fight!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Кодзи",
+   "text": "「Рёма, да ты прямо горишь!」",
+   "orig": "Koji\n「Ryoma, you're pretty fired up, aren't you!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Рёма",
+   "text": "「Да уж, эта неукротимая язва\n　меня здорово завела.」",
+   "orig": "Ryoma\n「Yeah, well, that untamed shrew\n　really set me off.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Анж",
+   "text": "「От самого Рёмы Нагарэ\n　я приму это за комплимент.」",
+   "orig": "Ange\n「Coming from the likes of Ryoma Nagare,\n　I'm gonna take that as a compliment.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Мисато",
+   "text": "「Готов, Синдзи?\n　Командование беру на себя.」",
+   "orig": "Misato\n「Are you ready, Shinji?\n　Because I'm taking charge.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Синдзи",
+   "text": "「Не верится, что приходится драться не только с Ангелами.」",
+   "orig": "Shinji\n「Can't believe I have to fight others besides the Angels.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Мисато",
+   "text": "「Таково наше положение.\n　Тут уж ничего не поделаешь.」",
+   "orig": "Misato\n「That's the situation we're in.\n　It can't be helped.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Синдзи",
+   "text": "「Мы и правда на войне, да?」",
+   "orig": "Shinji\n「We're really in a war, eh?」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодзи",
+   "text": "「Мы сражаемся, чтобы покончить с ней как можно скорее.」",
+   "orig": "Koji\n「We're fighting to put an end to it as fast as possible.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи,\n　именно поэтому нам нужна твоя помощь.」",
+   "orig": "Hathaway\n「Shinji,\n　we need your help for that very reason.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Синдзи",
+   "text": "「Понял.」",
+   "orig": "Shinji\n「Understood.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Мисато",
+   "text": "「Будь осторожен, Синдзи.\n　EVA очень мощная, но при неверном обращении\n　она может стать по-настоящему опасной.」",
+   "orig": "Misato\n「Be careful, Shinji.\n　That EVA is really powerful, but if you use it wrong\n　it can become really dangerous.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Мисато",
+   "text": "「Если она получит слишком много урона, как в прошлый раз,\n　её станет невозможно контролировать.」",
+   "orig": "Misato\n「If it takes too much damage like it did last time\n　it can become impossible to control.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Синдзи",
+   "text": "「Другими словами, не дать себя подбить, да?」",
+   "orig": "Shinji\n「In other words, don't get shot down, right?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Мисато",
+   "text": "「Именно.\n　Удачи тебе.」",
+   "orig": "Misato\n「Right.\n　Good luck to you.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Найн",
+   "text": "「Приближаются неопознанные машины.」",
+   "orig": "Nine\n「Unknown units closing in.」"
+  },
+  {
+   "i": 16,
+   "speaker": "$n",
+   "text": "「Ну, и что нас ждёт на этот раз?」",
+   "orig": "$n\n「Alright, what's in store for us now?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Найн",
+   "text": "「Приближаются неопознанные машины.」",
+   "orig": "Nine\n「Unknown units closing in.」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Что ещё на нас прёт?」",
+   "orig": "$n\n「What the hell is coming at us?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Курц",
+   "text": "「Механический зверь!\n　Это банда доктора Хелла!」",
+   "orig": "Kurz\n「The Mechanical Beast!\n　It's Dr. Hell's gang!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Мао",
+   "text": "「Явились, стоило Кодзи\n　к нам присоединиться!」",
+   "orig": "Mao\n「They came at us\n　as soon as Koji joined us!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Соскэ",
+   "text": "「Кто ими командует — очевидно.」",
+   "orig": "Sousuke\n「It's obvious who their commander is.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кодзи",
+   "text": "「Рад тебя видеть, Ашура!」",
+   "orig": "Koji\n「Good to see you, Ashura!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Ашура",
+   "text": "「Кодзи! Сегодня тот самый день!\n　Наконец-то мы покончим с этим раз и навсегда!」",
+   "orig": "Ashura\n「Koji! Today's the day!\n　We're gonna finally settle this once and for all!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Кодзи",
+   "text": "「Ради этого ты и прикатил на этом странном звере?」",
+   "orig": "Koji\n「Is that why you rode in on that weird Mechanical Beast?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Ашура",
+   "text": "「Именно! Этого механического зверя наш господин,\n　доктор Хелл, даровал мне, великому барону Ашуре.」",
+   "orig": "Ashura\n「This is it, the Mechanical Beast that our master Dr. Hell\n　has bestowed on me, the great Baron Ashura.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Ашура",
+   "text": "「Он так и зовётся — зверь «Барон Ашура»!」",
+   "orig": "Ashura\n「It's even called the Baron Ashura Mechanical Beast!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Рури",
+   "text": "「На мой взгляд, довольно банально.」",
+   "orig": "Ruri\n「Pretty unoriginal, if you ask me.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Сабуроута",
+   "text": "「Не тратьте слова, капитан.\n　Это не та публика,\n　что понимает по-хорошему.」",
+   "orig": "Saburouta\n「Save your breath, Captain.\n　That thing isn't the type\n　that responds to words.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Ашура",
+   "text": "「Ну что ж, Кодзи Кабуто и компания, я иду!\n　Я сделаю это красное море ещё краснее.\n　Вашей кровью!」",
+   "orig": "Ashura\n「Alright, Koji Kabuto and company, here I come!\n　I'm gonna make this red sea even redder.\n　With your blood!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Рёма",
+   "text": "「Не смей говорить о нас как о свите Кодзи!」",
+   "orig": "Ryoma\n「Don't talk about us like we're just Koji's sidekicks!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Майто",
+   "text": "「Будь это хоть совсем другой мир, я всё равно\n　не пощажу таких, как ты, — тех, кто из одной лишь\n　жадности готов спалить планету дотла!」",
+   "orig": "Maito\n「Even in a different world than this, I'd still\n　show no mercy for people like you, who would\n　engulf the planet in flames out of pure greed!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Анж",
+   "text": "「Против такого отъявленного головореза\n　я без зазрения совести выпущу всю свою ярость!」",
+   "orig": "Ange\n「Against a notorious thug like you,\n　I've got no qualms about unleashing my full fury!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Рури",
+   "text": "「Что ж, боя, похоже, не избежать.\n　Начинаем, все по местам.」",
+   "orig": "Ruri\n「Well, it looks like combat is unavoidable.\n　Here we go, everyone.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Кодзи",
+   "text": "「Я иду за тобой, Ашура!\n　Если не трусишь, сегодня я дам тебе\n　бой до самого конца!」",
+   "orig": "Koji\n「I'm coming for you, Ashura!\n　If you're up for it, today I'm gonna give you\n　a fight to the finish!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Ашура",
+   "text": "「Кх, проклятье!」",
+   "orig": "Ashura\n「Ngh, damn it!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодзи",
+   "text": "「Я не дам тебе уйти, Ашура!\n　Разберёмся до конца, как ты и хотел!」",
+   "orig": "Koji\n「I'm not letting you get away, Ashura!\n　We're gonna settle this, just like you wanted!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Ашура",
+   "text": "「Ну-ну, Кодзи Кабуто, ты и попался!」",
+   "orig": "Ashura\n「Well well, Koji Kabuto, it looks like you fell for it!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Ашура",
+   "text": "「Всё это было лишь уловкой, чтобы заманить тебя сюда!」",
+   "orig": "Ashura\n「This has all been an act to lure you here!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Кодзи",
+   "text": "「Что?」",
+   "orig": "Koji\n「What?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Ашура",
+   "text": "「Умри!」",
+   "orig": "Ashura\n「Die!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Кодзи",
+   "text": "「Гях!」",
+   "orig": "Koji\n「Gyah!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Синдзи",
+   "text": "「Кодзи!」",
+   "orig": "Shinji\n「Koji!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Кодзи",
+   "text": "「Проклятье! Ашура, сегодня ты точно\n　не тот, что прежде!」",
+   "orig": "Koji\n「Damn it! Ashura, you're definitely\n　different today than you were before!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Ашура",
+   "text": "「Этот механический зверь «Барон Ашура» —\n　можно сказать, второе тело,\n　которым одарил меня доктор Хелл!」",
+   "orig": "Ashura\n「This Baron Ashura Mechanical Beast,\n　you might say it's a second body\n　that Dr. Hell has bestowed me with!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Ашура",
+   "text": "「Мой дух в стальном теле!\n　С таким сочетанием ни тебе,\n　ни твоему «Мазингеру Z» меня не одолеть!」",
+   "orig": "Ashura\n「My spirit inside a body of steel!\n　With a combination like that, there's no way\n　you and your Mazinger Z can defeat me!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Кодзи",
+   "text": "「Да ни за что я в это не поверю, приятель!」",
+   "orig": "Koji\n「No way am I buying that, buddy!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Кодзи",
+   "text": "「«Мазингер Z» моего деда\n　никогда не проиграет такому, как ты!」",
+   "orig": "Koji\n「This Mazinger Z of my grandfather's\n　could never lose to the likes of you!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Бандзё",
+   "text": "「Это же...」",
+   "orig": "Banjo\n「That's—」"
+  },
+  {
+   "i": 49,
+   "speaker": "Мисато",
+   "text": "「Точно как тогда, когда мы остановили EVA!」",
+   "orig": "Misato\n「Just like when we stopped the EVA!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Ашура",
+   "text": "「Ч-что это за сила?」",
+   "orig": "Ashura\n「What, what is this power?」"
+  },
+  {
+   "i": 51,
+   "speaker": "Кодзи",
+   "text": "「Ого!\n　Из «Мазингера» показалось... новое оружие?」",
+   "orig": "Koji\n「Whoa!\n　Emerging from the Mazinger...a new weapon?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Кодзи",
+   "text": "「Да!\n　Вперёд!」",
+   "orig": "Koji\n「Yes!\n　Here I go!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Ашура",
+   "text": "「Этого не может быть!」",
+   "orig": "Ashura\n「This can't be happening!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Кодзи",
+   "text": "「Видали?\n　Это «Айрон Каттер» и «Дрилл Миссайл»!」",
+   "orig": "Koji\n「Did you see that?\n　It's the Iron Cutter and Drill Missile!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Мондо",
+   "text": "「Потрясающе!\n　Просто потрясающе!」",
+   "orig": "Mondo\n「Amazing!\n　Just amazing!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Иино",
+   "text": "「Так у «Мазингера Z» было и такое оружие!」",
+   "orig": "Iino\n「So the Mazinger Z even had a weapon like that!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Ашура",
+   "text": "「Невероятный «Мазингер Z»!\n　Невероятный Кодзи Кабуто!」",
+   "orig": "Ashura\n「The incredible Mazinger Z!\n　The incredible Koji Kabuto!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Кодзи",
+   "text": "「Пора кончать с этим, Ашура!\n　Всё закончится здесь и сейчас!」",
+   "orig": "Koji\n「Time to finish this, Ashura!\n　It all ends right here and now!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Кодзи",
+   "text": "「Что?」",
+   "orig": "Koji\n「What?」"
+  },
+  {
+   "i": 60,
+   "speaker": "？？？",
+   "text": "「Дальше я этого не допущу.」",
+   "orig": "？？？\n「That's as far as I'm letting this go.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Кодзи",
+   "text": "「Тэцуя!」",
+   "orig": "Koji\n「Tetsuya!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Тэцуя",
+   "text": "「Прочь с дороги.」",
+   "orig": "Tetsuya\n「Out of my way.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Кодзи",
+   "text": "「Гуааааа!」",
+   "orig": "Koji\n「Guaaahhh!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Рёма",
+   "text": "「Тэцуя, что ты творишь?」",
+   "orig": "Ryoma\n「Tetsuya, what are you doing?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Вельт",
+   "text": "「«Грейт Мазингер» только что атаковал\n　«Мазингер Z»!」",
+   "orig": "Velt\n「The Great Mazinger just attacked\n　the Mazinger Z!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Лотти",
+   "text": "「Да что здесь вообще происходит?」",
+   "orig": "Lottie\n「What the hell is going on here?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тэцуя",
+   "text": "「Хм.」",
+   "orig": "Tetsuya\n「Hmph.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Ашура",
+   "text": "「Ты... неужели ты...」",
+   "orig": "Ashura\n「You, don't tell me you're—」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тэцуя",
+   "text": "「Убирайся отсюда. Немедленно.」",
+   "orig": "Tetsuya\n「Get out of here right now.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Ашура",
+   "text": "「Ррр.」",
+   "orig": "Ashura\n「Grrr.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Кодзи",
+   "text": "「Ваааааа!」",
+   "orig": "Koji\n「Waaaahhhh!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Рёма",
+   "text": "「Тэцуя, что ты творишь?」",
+   "orig": "Ryoma\n「Tetsuya, what are you doing?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Тэцуя",
+   "text": "「Хм.」",
+   "orig": "Tetsuya\n「Hmph.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Ашура",
+   "text": "「Ты... неужели ты...」",
+   "orig": "Ashura\n「You, don't tell me you're—」"
+  },
+  {
+   "i": 75,
+   "speaker": "Тэцуя",
+   "text": "「Убирайся отсюда. Немедленно.」",
+   "orig": "Tetsuya\n「Get out of here right now.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Ашура",
+   "text": "「Ррр.」",
+   "orig": "Ashura\n「Grrr.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Босс",
+   "text": "「Проклятый Ашура!\n　Оставил нам подарочек на прощание, а?」",
+   "orig": "Boss\n「That damned Ashura!\n　He left behind a little parting gift, eh?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Тэцуя",
+   "text": "「Ашура,\n　я не позволю тебя убить.」",
+   "orig": "Tetsuya\n「Ashura,\n　I'm not gonna let you be killed.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Кодзи",
+   "text": "「Тэцуя, ты...」",
+   "orig": "Koji\n「Tetsuya, you—」"
+  },
+  {
+   "i": 80,
+   "speaker": "Тэцуя",
+   "text": "「Кодзи Кабуто,\n　немедленно выходи из «Мазингера Z».」",
+   "orig": "Tetsuya\n「Koji Kabuto,\n　get out of the Mazinger Z right now.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Кодзи",
+   "text": "「Что?」",
+   "orig": "Koji\n「What?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тэцуя",
+   "text": "「Повторяю ещё раз.\n　Выходи из «Мазингера Z».」",
+   "orig": "Tetsuya\n「I'll say it one more time.\n　Get out of the Mazinger Z.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Кодзи",
+   "text": "「Почему?\n　Назови мне причину!」",
+   "orig": "Koji\n「Why?\n　Give me a reason!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Тэцуя",
+   "text": "「Этого я сделать не могу.」",
+   "orig": "Tetsuya\n「That I can't do.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Тэцуя",
+   "text": "「Но это и ради тебя самого.」",
+   "orig": "Tetsuya\n「But it's for your sake as well.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Кодзи",
+   "text": "「И ты правда думаешь, что я просто соглашусь?」",
+   "orig": "Koji\n「Do you really think I'll just go along with that?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Майто",
+   "text": "「Тэцуя!\n　Почему? Какая у тебя может быть причина...」",
+   "orig": "Maito\n「Tetsuya!\n　Why? What possible reason—」"
+  },
+  {
+   "i": 88,
+   "speaker": "Каппэй",
+   "text": "「Что случилось?\n　Что, чёрт возьми, с тобой стряслось, Тэцуя?」",
+   "orig": "Kappei\n「What happened?\n　What the hell happened to you, Tetsuya?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Бандзё",
+   "text": "「Назови причину, Тэцуя.\n　А если нет...」",
+   "orig": "Banjo\n「Give us a reason, Tetsuya.\n　If you don't...」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тэцуя",
+   "text": "「Если после этого я стану вам врагом — пусть так.」",
+   "orig": "Tetsuya\n「If this makes you see me as your enemy, so be it.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Рёма",
+   "text": "「Тэцуя!\n　Ах ты мерзавец!」",
+   "orig": "Ryoma\n「Tetsuya!\n　You bastard!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Тэцуя",
+   "text": "「Рёма.\n　Если ты меня не послушаешь,\n　мне придётся применить силу.」",
+   "orig": "Tetsuya\n「Ryoma.\n　If you don't obey me\n　I'm going to have to use force.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Тэцуя",
+   "text": "「И ты, Кодзи.\n　Если не выйдешь из «Мазингера Z» сам,\n　мне придётся вытащить тебя силой.」",
+   "orig": "Tetsuya\n「And Koji.\n　If you don't get out of the Mazinger Z on your own,\n　I'm gonna have to drag you out.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Кодзи",
+   "text": "「Мне всё равно, кто ты и чего добиваешься.」",
+   "orig": "Koji\n「I don't care who you are or what you're after.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Кодзи",
+   "text": "「Если ты попробуешь отнять у меня «Мазингер Z»,\n　я буду сопротивляться до последней косточки!」",
+   "orig": "Koji\n「If you try to take the Mazinger Z away from me,\n　I'll resist you with every bone in my body!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Тэцуя",
+   "text": "「В таком случае мне придётся преподать тебе урок.」",
+   "orig": "Tetsuya\n「In that case, I'll have to teach you a lesson.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тэцуя",
+   "text": "「Урок о том, что значит быть настоящим пилотом «Мазингера»!」",
+   "orig": "Tetsuya\n「A lesson in what it means to be a real Mazinger pilot!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Синн",
+   "text": "「Что происходит?\n　Почему «Грейт Мазингер» так силён?!」",
+   "orig": "Shinn\n「What's going on?\n　How is it that the Great Mazinger is so strong!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Сэцуна",
+   "text": "「Очевидно, его усилили!」",
+   "orig": "Setsuna\n「Obviously it's been enhanced!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Тэцуя",
+   "text": "「И не думайте, что этот «Грейт Мазингер»\n　такой же, каким он был тогда,\n　когда я сражался плечом к плечу с вами!」",
+   "orig": "Tetsuya\n「Don't get the idea that this Great Mazinger\n　is the same as the one\n　from when I fought alongside all of you!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Рёма",
+   "text": "「Ясно.\n　Ты всё это время лишь притворялся другом.」",
+   "orig": "Ryoma\n「I get it.\n　You were just pretending to be our friend.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Рёма",
+   "text": "「А значит, и твоя амнезия была ложью.」",
+   "orig": "Ryoma\n「Which means your amnesia was a lie as well.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Тэцуя",
+   "text": "「Передайте мои извинения доктору Садо.」",
+   "orig": "Tetsuya\n「Convey my apologies to Doctor Sado.」"
+  },
+  {
+   "i": 104,
+   "speaker": "$n",
+   "text": "「Тэцуя, неужели никак нельзя\n　добиться от тебя объяснений?」",
+   "orig": "$n\n「Tetsuya, is there really no way\n　we can get you to explain what's going on?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Тэцуя",
+   "text": "「Хм.」",
+   "orig": "Tetsuya\n「Hmph.」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「Чувствуем себя полными дураками.\n　Ты правда хочешь сказать, что мы были шутами,\n　раз верили, что ты наш союзник?」",
+   "orig": "$n\n「Don't we feel like perfect fools.\n　You're really telling us that we were buffoons,\n　believing like we did that you were our ally?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Тэцуя",
+   "text": "「Простите.」",
+   "orig": "Tetsuya\n「Sorry.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Рёма",
+   "text": "「Если тебе и правда жаль —\n　возвращайся к нам!」",
+   "orig": "Ryoma\n「If you're really sorry\n　then come back to our side!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Тэцуя",
+   "text": "「Я... я не могу.」",
+   "orig": "Tetsuya\n「I...I can't do that.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рёма",
+   "text": "「Ублюдок!」",
+   "orig": "Ryoma\n「Bastard!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Тэцуя",
+   "text": "「Рёма!\n　Ты станешь моей первой жертвой!」",
+   "orig": "Tetsuya\n「Ryoma!\n　You'll be my first victim!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Рёма",
+   "text": "「Кха!」",
+   "orig": "Ryoma\n「Pfff!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Синн",
+   "text": "「Да что происходит?\n　Почему «Грейт Мазингер» такой сильный?!」",
+   "orig": "Shinn\n「What's going on?\n　How is it that the Great Mazinger is so strong!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Сэцуна",
+   "text": "「Ясно же, что его доработали!」",
+   "orig": "Setsuna\n「Obviously it's been enhanced!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Тэцуя",
+   "text": "「И не думайте, что этот «Грейт Мазингер» —\n　тот же самый, в котором я сражался\n　плечом к плечу с вами!」",
+   "orig": "Tetsuya\n「Don't get the idea that this Great Mazinger\n　is the same as the one\n　from when I fought alongside all of you!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Рёма",
+   "text": "「Понятно.\n　Ты лишь притворялся нашим другом.」",
+   "orig": "Ryoma\n「I get it.\n　You were just pretending to be our friend.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Рёма",
+   "text": "「Значит, и потеря памяти была враньём.」",
+   "orig": "Ryoma\n「Which means your amnesia was a lie as well.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Тэцуя",
+   "text": "「Передайте доктору Садо мои извинения.」",
+   "orig": "Tetsuya\n「Convey my apologies to Doctor Sado.」"
+  },
+  {
+   "i": 119,
+   "speaker": "$n",
+   "text": "「Тэцуя. Ты правда не собираешься\n　объяснить нам, что происходит?」",
+   "orig": "$n\n「Tetsuya. Do you really have\n　no intention of explaining what's going on to us?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Тэцуя",
+   "text": "「Хмф.」",
+   "orig": "Tetsuya\n「Hmph.」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「Разве мы не друзья? Не союзники?\n　Или мы просто обманывали сами себя?」",
+   "orig": "$n\n「Aren't we friends? Aren't we allies?\n　Or were we just kidding ourselves about that?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Тэцуя",
+   "text": "「Простите меня.」",
+   "orig": "Tetsuya\n「I'm sorry.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Рёма",
+   "text": "「Если тебе и правда жаль —\n　возвращайся на нашу сторону!」",
+   "orig": "Ryoma\n「If you're really sorry\n　then come back to our side!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Тэцуя",
+   "text": "「Я… я не могу.」",
+   "orig": "Tetsuya\n「I, I can't do that.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Рёма",
+   "text": "「Ублюдок!」",
+   "orig": "Ryoma\n「Bastard!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тэцуя",
+   "text": "「Рёма!\n　Ты станешь моей первой жертвой!」",
+   "orig": "Tetsuya\n「Ryoma!\n　You'll be my first victim!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Рёма",
+   "text": "「Кха!」",
+   "orig": "Ryoma\n「Pfff!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Кодзи",
+   "text": "「Рёма!」",
+   "orig": "Koji\n「Ryoma!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Рёма",
+   "text": "「Не переживай, Кодзи!\n　Я вобью в него разум кулаками\n　и открою ему глаза!」",
+   "orig": "Ryoma\n「Don't worry, Koji!\n　I'll beat him down\n　and open his eyes for him!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Тэцуя",
+   "text": "「Ну давай!\n　Посмотрим, получится ли у тебя!」",
+   "orig": "Tetsuya\n「Go for it!\n　We'll see if you can!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Кинкейд",
+   "text": "「Рёма!」",
+   "orig": "Kincade\n「Ryoma!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Невозможно!」",
+   "orig": "Battle Bomber\n「Impossible!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Гард Дайвер",
+   "text": "「Рёма повержен?!」",
+   "orig": "Guard Diver\n「Ryoma, defeated?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Рёма",
+   "text": "「Проклятье!」",
+   "orig": "Ryoma\n「Damn it!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Тэцуя",
+   "text": "「Когда я только стал пилотом,\n　ты был для меня почти что богом.」",
+   "orig": "Tetsuya\n「Back when I first became a pilot,\n　You were a god-like figure to me.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Рёма",
+   "text": "「Что?」",
+   "orig": "Ryoma\n「What?」"
+  },
+  {
+   "i": 137,
+   "speaker": "Тэцуя",
+   "text": "「Я мечтал стать таким же сильным, как ты и «Геттеры».\n　Но теперь тебе со мной не тягаться.」",
+   "orig": "Tetsuya\n「I longed to be as strong as you and the Getter Robots.\n　But now you're no match for me.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Тэцуя",
+   "text": "「Я стал пилотом «Мазингера»!\n　И вместе с этим закалил свою решимость!」",
+   "orig": "Tetsuya\n「I became a Mazinger pilot!\n　And I strengthened my resolve at the same time!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Кодзи",
+   "text": "「Решимость пилота «Мазингера»…」",
+   "orig": "Koji\n「The resolve of a Mazinger pilot.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Тэцуя",
+   "text": "「Рёма!\n　Ты пойдёшь со мной.」",
+   "orig": "Tetsuya\n「Ryoma!\n　You're coming with me.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Рёма",
+   "text": "「Цх!」",
+   "orig": "Ryoma\n「Tch!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Тэцуя",
+   "text": "「Что это такое?」",
+   "orig": "Tetsuya\n「What's that?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Го",
+   "text": "「Эй!」",
+   "orig": "Go\n「Whoa!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Тэцуя",
+   "text": "「Гх!」",
+   "orig": "Tetsuya\n「Ngh!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Амуро",
+   "text": "「Это что, «Геттер»?」",
+   "orig": "Amuro\n「Is that a Getter Robot?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Хатауэй",
+   "text": "「Я видел его в бумагах, которые показывал отец!\n　Это «Геттер» времён инцидента\n　с Геттер-излучением!」",
+   "orig": "Hathaway\n「It was in some papers my father showed me!\n　That's a Getter Robot from the time of\n　the Getter Radiation incident!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Рёма",
+   "text": "「«Син Геттер».」",
+   "orig": "Ryoma\n「A Shin Getter.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Го",
+   "text": "「Рёма.」",
+   "orig": "Go\n「Ryoma.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Рёма",
+   "text": "「Ты… Го?」",
+   "orig": "Ryoma\n「You're...Go?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Го",
+   "text": "「Садись в «Син Геттер».」",
+   "orig": "Go\n「Get in the Shin Getter.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Хаято",
+   "text": "「Пошевеливайся.」",
+   "orig": "Hayato\n「Hurry it up.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Бэнкэй",
+   "text": "「«Мазингер» нас заждался.」",
+   "orig": "Benkei\n「The Mazinger is waiting for us.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Рёма",
+   "text": "「Хаято! Бэнкэй!」",
+   "orig": "Ryoma\n「Hayato! Benkei!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Хаято",
+   "text": "「Хех, всё так, как и говорил Го.\n　Ты ни капли не изменился с тех пор.」",
+   "orig": "Hayato\n「Heh, it's just like Go said.\n　You really are just like you were back then.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Бэнкэй",
+   "text": "「Как видишь,\n　мы с тех пор чуток постарели,\n　но из строя выходить пока не собираемся.」",
+   "orig": "Benkei\n「As you can see,\n　we've aged just a little since then,\n　but we're still very much on active duty.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Хаято",
+   "text": "「К тому же только мы\n　способны держать с тобой синхрон.」",
+   "orig": "Hayato\n「Plus, we're the only ones\n　who can stay in sync with you.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Рёма",
+   "text": "「Что ж, придётся проверить это самому!」",
+   "orig": "Ryoma\n「I'm gonna have to confirm that for myself!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Го",
+   "text": "「Дальше справляйтесь сами.」",
+   "orig": "Go\n「I'll let you take it from here.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Рёма",
+   "text": "「Эй! Погоди-ка, Го!」",
+   "orig": "Ryoma\n「Hey! Wait a second, Go!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Хаято",
+   "text": "「Не трать силы.\n　Он всегда таким был.」",
+   "orig": "Hayato\n「Save your breath.\n　That's the sort of guy he is.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Бэнкэй",
+   "text": "「Он и с «Син Геттером» объявился\n　вот так же — как снег на голову.」",
+   "orig": "Benkei\n「After all, when he showed up with the Shin Getter,\n　he did that all of a sudden, too.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Рёма",
+   "text": "「Ладно, чёрт с ним.」",
+   "orig": "Ryoma\n「Fine, whatever.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Рёма",
+   "text": "「Хаято, Бэнкэй, поехали!」",
+   "orig": "Ryoma\n「Hayato, Benkei, here we go!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Кодзи",
+   "text": "「Какая мощь! Неужели это…」",
+   "orig": "Koji\n「What power! Is that...」"
+  },
+  {
+   "i": 165,
+   "speaker": "Рёма",
+   "text": "「Ооооу!!」",
+   "orig": "Ryoma\n「Oooohh!!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Тэцуя",
+   "text": "「«Син Геттер Робо»…\n　Не верится, что он в таком состоянии!」",
+   "orig": "Tetsuya\n「A Shin Getter Robot.\n　I can't believe it's in such good condition!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Рёма",
+   "text": "「И это всё, Тэцуя?\n　Я тут разыгрываю трогательное воссоединение,\n　а ты даже не пытаешься напасть?」",
+   "orig": "Ryoma\n「Tetsuya, that's it?\n　I'm over here playing the emotional reunion bit,\n　and you don't even try to attack?」"
+  },
+  {
+   "i": 168,
+   "speaker": "Тэцуя",
+   "text": "「Пф… У меня новейший «Мазингер»,\n　а у тебя эта потрёпанная рухлядь.\n　Даже время тратить не стоит.」",
+   "orig": "Tetsuya\n「Pff... With me in this state-of-the-art Mazinger,\n　and you in that worn-out piece of junk,\n　it wouldn't even be worth my time.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Тэцуя",
+   "text": "「К тому же мне просто хотелось увидеть своими глазами\n　невероятную мощь трёх сердец,\n　слитых в одном совершенном «Геттере».」",
+   "orig": "Tetsuya\n「Besides, I just wanted to see this for myself:\n　the incredible power of three hearts\n　combined into one ultimate Getter Robot.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Рёма",
+   "text": "「Что ж, тогда позволь лично познакомить тебя…」",
+   "orig": "Ryoma\n「Well then allow me to personally introduce you...」"
+  },
+  {
+   "i": 171,
+   "speaker": "Рёма",
+   "text": "「…с этой чудовищной мощью «Геттера»!」",
+   "orig": "Ryoma\n「...to this fearsome Getter power!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Майто",
+   "text": "「Невероятно!」",
+   "orig": "Maito\n「Incredible!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Каппэй",
+   "text": "「Так его, Рёма!」",
+   "orig": "Kappei\n「Way to go, Ryoma!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Хаято",
+   "text": "「Не обольщайся, малец.」",
+   "orig": "Hayato\n「Don't get the wrong idea, kid.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Бэнкэй",
+   "text": "「«Геттером» управляют трое.」",
+   "orig": "Benkei\n「This is a three-man Getter.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Рёма",
+   "text": "「Похоже, вы совсем не растеряли хватку!」",
+   "orig": "Ryoma\n「Looks like you guys haven't gotten rusty at all!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Хаято",
+   "text": "「Это ты ни на грамм не повзрослел.」",
+   "orig": "Hayato\n「It's you who isn't showing any signs of growth.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Бэнкэй",
+   "text": "「Не говори так, Хаято.\n　Для Рёмы, похоже, с того дня\n　прошло совсем немного времени.」",
+   "orig": "Benkei\n「Don't say that, Hayato.\n　From Ryoma's perspective, not much time\n　has passed since that day, apparently.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Тэцуя",
+   "text": "（«Геттер», выжимающий максимум\n　из Геттер-лучей. Это может быть только…）",
+   "orig": "Tetsuya\n（A Getter Robot that can get maximum power\n　out of Getter Rays. That could only be—）"
+  },
+  {
+   "i": 180,
+   "speaker": "Вивиан",
+   "text": "「Ой!」",
+   "orig": "Vivian\n「Whoa!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Эрша",
+   "text": "「Что такое, Вивиан?」",
+   "orig": "Ersha\n「What's is it, Vivian?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Вивиан",
+   "text": "「Сюда что-то летит!」",
+   "orig": "Vivian\n「Something's coming!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Анж",
+   "text": "「Драконы!」",
+   "orig": "Ange\n「Dragons!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Хильда",
+   "text": "「Да ещё и здоровенные!」",
+   "orig": "Hilda\n「And big ones to boot!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Харри",
+   "text": "「Капитан!」",
+   "orig": "Harry\n「Captain!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Рури",
+   "text": "「Полагаю, одна гипотеза только что подтвердилась.」",
+   "orig": "Ruri\n「I guess this proves one hypothesis.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Анж",
+   "text": "「Вот же гад!」",
+   "orig": "Ange\n「That bastard!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Анж",
+   "text": "「Тот самый, с которым мы столкнулись на Марсе!」",
+   "orig": "Ange\n「The one we encountered on Mars!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Салия",
+   "text": "「Этот Пара-Мэйл заодно с Драконами?」",
+   "orig": "Salia\n「That Para-Mail, is it in league with the Dragons?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Анж",
+   "text": "「Спроси у него сама — и узнаешь.」",
+   "orig": "Ange\n「Ask that yourself and you'll find out.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Тэцуя",
+   "text": "（Так я и думал.\n　Того, кто владеет Геттер-излучением, они не отпустят.）",
+   "orig": "Tetsuya\n（Just like I thought.\n　They can't let someone who can use Getter Radiation go.）"
+  },
+  {
+   "i": 192,
+   "speaker": "Тэцуя",
+   "text": "（Но всё же…）",
+   "orig": "Tetsuya\n（But...）"
+  },
+  {
+   "i": 193,
+   "speaker": "Рёма",
+   "text": "「Тэцуя, не отвлекайся!」",
+   "orig": "Ryoma\n「Tetsuya, don't get distracted!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Кодзи",
+   "text": "「Он прав!」",
+   "orig": "Koji\n「He's right!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Рёма",
+   "text": "「Кодзи, сидел бы молча да смотрел.」",
+   "orig": "Ryoma\n「Koji, you should've just shut up and watched.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Кодзи",
+   "text": "「Нет, всё не так просто.\n　Он ведь охотится за мной.」",
+   "orig": "Koji\n「No, it's not that simple.\n　That guy's gunning for me, after all.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Тэцуя",
+   "text": "「Тогда нападайте все разом!」",
+   "orig": "Tetsuya\n「In that case, just come at me all at once!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Рёма",
+   "text": "「Смотри, как бы не пожалеть о своих словах, Тэцуя!」",
+   "orig": "Ryoma\n「Don't say anything you'll regret later, Tetsuya!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Бандзё",
+   "text": "「Эту заварушку оставим Рёме и Кодзи.\n　А мы тут займёмся Драконами.」",
+   "orig": "Banjo\n「Let Ryoma and Koji deal with that mess over there.\n　We'll deal with the Dragons over here.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Атрун",
+   "text": "「Осторожно, Анж!\n　Похоже, красный Пара-Мэйл идёт на тебя!」",
+   "orig": "Athrun\n「Watch out, Ange!\n　It looks like that red Para-Mail is coming after you!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Анж",
+   "text": "「Отлично, будет весело.」",
+   "orig": "Ange\n「Good, this ought to be fun.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Атрун",
+   "text": "「Что?」",
+   "orig": "Athrun\n「What?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Вивиан",
+   "text": "「Ого!\n　Анж — крепкий орешек!」",
+   "orig": "Vivian\n「Wow!\n　Ange is a tough cookie!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Рёко",
+   "text": "「Видать, бой Рёмы и Кодзи\n　и в ней тоже зажёг огонёк!」",
+   "orig": "Ryoko\n「I guess watching Ryoma and Koji fight\n　ended up lighting a fire under her too!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Анж",
+   "text": "「Да, пожалуй.」",
+   "orig": "Ange\n「Yeah, I guess so.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Рури",
+   "text": "「Что ж, тогда красный Пара-Мэйл\n　целиком твой, Анж.」",
+   "orig": "Ruri\n「Alright then, that red Para-Mail\n　is all yours, Ange.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Рури",
+   "text": "「А мы первым делом схватим Тэцую\n　и выясним, каковы его истинные намерения.」",
+   "orig": "Ruri\n「Now first of all, let's get hold of Tetsuya\n　and interrogate him about his true intentions.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Рёма",
+   "text": "「Вас понял!」",
+   "orig": "Ryoma\n「Roger that!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Кодзи",
+   "text": "「Ну, Тэцуя Цуруги, я иду! И если я тебя одолею,\n　ты в последний раз назовёшься «Грейтом».」",
+   "orig": "Koji\n「Okay, Tetsuya Tsurugi, here I come! And if I beat you,\n　this'll be the last time you use the name \"Great.\"」"
+  },
+  {
+   "i": 210,
+   "speaker": "Кодзи",
+   "text": "「Шах и мат, Тэцуя Цуруги!」",
+   "orig": "Koji\n「That's check and mate, Tetsuya Tsurugi!」"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "「Ты проиграл, Тэцуя.\n　Сдавайся по-хорошему и расскажи нам всё.」",
+   "orig": "$n\n「You lose, Tetsuya.\n　Just come along quietly and tell us everything.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Тэцуя",
+   "text": "「Я… я не могу.」",
+   "orig": "Tetsuya\n「I...I can't do that.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Кодзи",
+   "text": "「Шах и мат, Тэцуя Цуруги!」",
+   "orig": "Koji\n「That's check and mate, Tetsuya Tsurugi!」"
+  },
+  {
+   "i": 214,
+   "speaker": "$n",
+   "text": "「Тэцуя!\n　Признай поражение и расскажи нам всё!」",
+   "orig": "$n\n「Tetsuya!\n　Just admit defeat and tell us everything!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Тэцуя",
+   "text": "「Я… я не могу.」",
+   "orig": "Tetsuya\n「I...I can't do that.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Рёма",
+   "text": "「Тэцуя!」",
+   "orig": "Ryoma\n「Tetsuya!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Тэцуя",
+   "text": "「Я ни за что не сдамся.\n　Нет, я не имею права сдаваться.」",
+   "orig": "Tetsuya\n「There's no way I'm gonna give up.\n　No, I can't ever give up.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Тэцуя",
+   "text": "「Таков удел пилота «Мазингера»!」",
+   "orig": "Tetsuya\n「That's the destiny of a Mazinger pilot!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Рёма",
+   "text": "「Вот же упрямец!」",
+   "orig": "Ryoma\n「That bastard!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Рури",
+   "text": "「Этот человек…\n　Точь-в-точь как Акито когда-то.」",
+   "orig": "Ruri\n「That guy.\n　He's just like Akito used to be.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Акито",
+   "text": "「Хмф.」",
+   "orig": "Akito\n「Hmph.」"
+  },
+  {
+   "i": 222,
+   "speaker": "？？？",
+   "text": "「Похоже, и нам пора закругляться.\n　На сегодня хватит.」",
+   "orig": "？？？\n「It looks like we've reached the end of the line too.\n　Let's call it a day.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Анж",
+   "text": "「Так просто ты не уйдёшь!」",
+   "orig": "Ange\n「You're not getting away that easily!」"
+  },
+  {
+   "i": 224,
+   "speaker": "？？？",
+   "text": "「Вот же упрямая!」",
+   "orig": "？？？\n「So stubborn!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Анж",
+   "text": "「У меня к тебе есть пара вопросов!」",
+   "orig": "Ange\n「I've got some questions for you!」"
+  },
+  {
+   "i": 226,
+   "speaker": "？？？",
+   "text": "「Ну, в таком случае…」",
+   "orig": "？？？\n「Well, in that case—」"
+  },
+  {
+   "i": 227,
+   "speaker": "Вивиан",
+   "text": "「Осторожно, Анж!\n　Они снова идут!」",
+   "orig": "Vivian\n「Watch out, Ange!\n　They're coming again!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Анж",
+   "text": "「Что?!」",
+   "orig": "Ange\n「What?!」"
+  },
+  {
+   "i": 229,
+   "speaker": "？？？",
+   "text": "「«Билкис»?\n　Только не это!」",
+   "orig": "？？？\n「The Bilkis?\n　Anything but that!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Анж",
+   "text": "「Раз уж ты вернулась — прекрасно!\n　У меня к тебе есть пара вопросов!」",
+   "orig": "Ange\n「If you've come back, that's great!\n　I've got some questions for you!」"
+  },
+  {
+   "i": 231,
+   "speaker": "？？？",
+   "text": "「Они здесь!」",
+   "orig": "？？？\n「They're here!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Анж",
+   "text": "「Эта песня мне знакома!」",
+   "orig": "Ange\n「This song sounds familiar!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Атрун",
+   "text": "「Её поёт тот красный Пара-Мэйл.」",
+   "orig": "Athrun\n「That red Para-Mail is singing it.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Кира",
+   "text": "「Похожа на ту, что пел чёрный «Вилкисс»\n　на Марсе.」",
+   "orig": "Kira\n「It sounds like the one that black Villkiss\n　sang on Mars.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Анж",
+   "text": "（Похоже на песню, которой меня учила мама…\n　Да, точно она!）",
+   "orig": "Ange\n（It sounds like the song my mother taught me...\n　Yes, it has to be!）"
+  },
+  {
+   "i": 236,
+   "speaker": "Найн",
+   "text": "「У вражеского Пара-Мэйла те же показания\n　энергии, что и у чёрного «Вилкисса» с Марса!」",
+   "orig": "Nine\n「This enemy Para-Mail is giving off the same\n　energy readings as the black Villkiss from Mars!」"
+  },
+  {
+   "i": 237,
+   "speaker": "$n",
+   "text": "「Анж, уходи оттуда!\n　Эта атака снова ударит по тебе!」",
+   "orig": "$n\n「Ange, get out of there!\n　That attack is gonna come at you again!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Анж",
+   "text": "「Ох!」",
+   "orig": "Ange\n「Whoa!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Анж",
+   "text": "「Эта песня мне знакома!」",
+   "orig": "Ange\n「This song sounds familiar!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Атрун",
+   "text": "「Её поёт тот красный Пара-Мэйл.」",
+   "orig": "Athrun\n「That red Para-Mail is singing it.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Кира",
+   "text": "「Похожа на ту, что пел чёрный «Вилкисс»\n　на Марсе.」",
+   "orig": "Kira\n「It sounds like the one that black Villkiss\n　sang on Mars.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Анж",
+   "text": "（Похоже на песню, которой меня учила мама…\n　Да, точно она!）",
+   "orig": "Ange\n（It sounds like the song my mother taught me...\n　Yes, it has to be!）"
+  },
+  {
+   "i": 243,
+   "speaker": "Найн",
+   "text": "「У вражеского Пара-Мэйла те же показания\n　энергии, что и у чёрного «Вилкисса» с Марса!」",
+   "orig": "Nine\n「This enemy Para-Mail is giving off the same\n　energy readings as the black Villkiss from Mars!」"
+  },
+  {
+   "i": 244,
+   "speaker": "$n",
+   "text": "「Анж, уходи оттуда!\n　Эта атака снова ударит по тебе!」",
+   "orig": "$n\n「Ange, get out of there!\n　That attack is gonna come at you again!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Анж",
+   "text": "「Ох!」",
+   "orig": "Ange\n「Whoa!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Хильда",
+   "text": "「Падшая принцесса исчезла?」",
+   "orig": "Hilda\n「The Fallen Princess disappeared?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Кира",
+   "text": "「Я плохо разглядел,\n　но прямо перед этим «Вилкисс» выглядел странно.」",
+   "orig": "Kira\n「I couldn't really see it too well,\n　but just before that the Villkiss looked weird.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Харри",
+   "text": "「Капитан!\n　Прямо перед исчезновением Анж\n　зафиксирован тот же отклик, что и у «Сингуляра»!」",
+   "orig": "Harry\n「Captain!\n　Just before Ange disappeared,\n　the same response as the Singular was detected!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Рури",
+   "text": "「Не может быть!」",
+   "orig": "Ruri\n「This can't be!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Харри",
+   "text": "「Снова тот же отклик!」",
+   "orig": "Harry\n「The same response again!」"
+  },
+  {
+   "i": 251,
+   "speaker": "？？？",
+   "text": "「Что?」",
+   "orig": "？？？\n「What?」"
+  },
+  {
+   "i": 252,
+   "speaker": "Анж",
+   "text": "「«Вилкисс», вперёд!」",
+   "orig": "Ange\n「Villkiss, here I come!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Вивиан",
+   "text": "「У тебя получилось, Анж!」",
+   "orig": "Vivian\n「You did it, Ange!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Крис",
+   "text": "「«Вилкисс» сменил цвет на красно-синий!」",
+   "orig": "Chris\n「The Villkiss changed color to red and blue!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Розали",
+   "text": "「Я-то думала, этот Пара-Мэйл — просто рухлядь,\n　а он, оказывается, совсем не прост!」",
+   "orig": "Rosalie\n「I thought that Para-Mail was a piece of junk,\n　but it was nothing of the sort!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Салия",
+   "text": "（Вот она, истинная мощь «Вилкисса».\n　Неужели её пробудила Анж?）",
+   "orig": "Salia\n（That was the true power of the Villkiss.\n　Did Ange cause it to awaken?）"
+  },
+  {
+   "i": 257,
+   "speaker": "？？？",
+   "text": "「Ай!\n　Это уже опасно!」",
+   "orig": "？？？\n「Argh!\n　That's dangerous!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Анж",
+   "text": "「Стой!\n　У меня к тебе есть пара вопросов!」",
+   "orig": "Ange\n「Hold on!\n　I've got some questions for you!」"
+  },
+  {
+   "i": 259,
+   "speaker": "？？？",
+   "text": "「Мы ещё непременно встретимся!\n　И вот тогда я расквитаюсь!」",
+   "orig": "？？？\n「I'm sure we'll meet again!\n　And when we do, it'll be payback time!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Харри",
+   "text": "「Противник отступает.」",
+   "orig": "Harry\n「The enemy is retreating.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Рури",
+   "text": "「Преследовать не нужно, Анж.」",
+   "orig": "Ruri\n「No need to pursue them, Ange.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Анж",
+   "text": "「Ты шутишь? Это же наш шанс\n　узнать, кто такие эти Драконы на самом деле!」",
+   "orig": "Ange\n「Are you kidding? This is our big chance\n　to find out the true identity of the Dragons!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Рури",
+   "text": "「Мы узнали кое-что поважнее.」",
+   "orig": "Ruri\n「We've learned something even more important.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Анж",
+   "text": "「Кое-что поважнее?」",
+   "orig": "Ange\n「Something even more important?」"
+  },
+  {
+   "i": 265,
+   "speaker": "Рури",
+   "text": "「Для начала — все молодцы. Нам есть что обсудить,\n　так что возвращайтесь на корабль.」",
+   "orig": "Ruri\n「First of all, good job. We've got things to discuss,\n　so everyone return home.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Акито",
+   "text": "「Ключ от врат.\n　Кто бы мог подумать, что он достанется нам вот так.」",
+   "orig": "Akito\n「The key to the gate.\n　Who'd have thought this is how we'd get it.」"
+  },
+  {
+   "i": 267,
+   "speaker": "？？？",
+   "text": "「Неожиданно сильный противник.\n　Придётся всё пересмотреть.」",
+   "orig": "？？？\n「Unexpected combat strength.\n　We're gonna have to rethink this.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Хильда",
+   "text": "「Чёрт!\n　Ушёл!」",
+   "orig": "Hilda\n「Damn!\n　It got away!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Атрун",
+   "text": "「Пилотом, судя по всему, была женщина.」",
+   "orig": "Athrun\n「The pilot was apparently a woman.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Синн",
+   "text": "「Так это она управляла тем Драконом?」",
+   "orig": "Shinn\n「That's who was piloting that Dragon?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Анж",
+   "text": "（Кто… она такая?）",
+   "orig": "Ange\n（What...is she?）"
+  },
+  {
+   "i": 272,
+   "speaker": "Анж",
+   "text": "（Когда я её вижу… мне почему-то не по себе.）",
+   "orig": "Ange\n（Seeing her...I feel uneasy, somehow.）"
+  },
+  {
+   "i": 273,
+   "speaker": "Кодзи",
+   "text": "「Явиться на передовую по своей воле…\n　Смелости тебе не занимать, Ашура!」",
+   "orig": "Koji\n「Coming to the front of your own free will.\n　You've got guts, Ashura, I'll give you that!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Ашура",
+   "text": "「Я пришла, чтобы наконец покончить\n　с этой давней враждой собственными руками!」",
+   "orig": "Ashura\n「I'm here to finally put this old rivalry to rest\n　with my own bare hands!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Ашура",
+   "text": "「Всё во славу великого доктора Хелла!」",
+   "orig": "Ashura\n「All in the name of the great Dr. Hell!」"
+  },
+  {
+   "i": 276,
+   "speaker": "Кодзи",
+   "text": "「Тогда я своими руками свалю и тебя,\n　и твоего драгоценного доктора Хелла!」",
+   "orig": "Koji\n「In that case, I'll topple you and also\n　your precious Dr. Hell with my bare hands!」"
+  },
+  {
+   "i": 277,
+   "speaker": "Кодзи",
+   "text": "「Всё во имя спасения нашего мира!」",
+   "orig": "Koji\n「All in the name of saving our world!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Кодзи",
+   "text": "「Да кто ты такой, чёрт возьми?\n　Зачем ты хочешь ссадить меня с «Мазингера»?」",
+   "orig": "Koji\n「Just who the hell are you?\n　Why are you trying to get me off of the Mazinger?」"
+  },
+  {
+   "i": 279,
+   "speaker": "Тэцуя",
+   "text": "「Тебе этого знать не положено.」",
+   "orig": "Tetsuya\n「That's not something for you to know.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Кодзи",
+   "text": "「Ты умеешь выводить из себя!\n　Мне уже плевать, кто ты такой!」",
+   "orig": "Koji\n「You really know how to make someone angry!\n　I don't even care who you are any more!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Кодзи",
+   "text": "「Если ты задумал отнять у меня «Мазингер» —\n　я раздавлю тебя мощью этого самого «Мазингера»!」",
+   "orig": "Koji\n「If you try to steal the Mazinger away from me,\n　I'll crush you using the power of that very Mazinger!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Тэцуя",
+   "text": "「Этому не бывать!\n　«Грейт Мазингер» намного превосходит\n　твой «Мазингер Зет»!」",
+   "orig": "Tetsuya\n「That's never gonna happen!\n　This Great Mazinger is far superior\n　to that Mazinger Z of yours!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Кодзи",
+   "text": "「Ладно, хватит болтовни!\n　Пора сойтись лицом к лицу!」",
+   "orig": "Koji\n「Alright, stop thinking so much!\n　It's time for some head-to-head combat!」"
+  },
+  {
+   "i": 284,
+   "speaker": "Тэцуя",
+   "text": "「Рёма тебя вдохновил, что ли?\n　Движения стали резче, чем раньше!」",
+   "orig": "Tetsuya\n「Inspired by Ryoma, were you?\n　Your movements are sharper than they were before!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Кодзи",
+   "text": "「Ты силён, этого не отнять!\n　И «Грейт Мазингер» твой тоже!」",
+   "orig": "Koji\n「You're strong, that's for sure!\n　And so is that Great Mazinger of yours!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Кодзи",
+   "text": "「Но я покажу тебе, что я сильнее!\n　Выжав из «Мазингера» всё до последней капли!」",
+   "orig": "Koji\n「But I'm gonna show you that I'm even stronger!\n　By bringing out every last ounce of Mazinger power!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Рёма",
+   "text": "「Ну давай, Тэцуя!\n　Хочешь по-плохому — будет по-плохому!」",
+   "orig": "Ryoma\n「Bring it, Tetsuya!\n　If you want to do this the hard way then so be it!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Тэцуя",
+   "text": "「С такими, как ты, иначе и не выходит.」",
+   "orig": "Tetsuya\n「There's no other way when it comes to people like you.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Тэцуя",
+   "text": "「Но меня это вполне устраивает!\n　Я не уступлю ни тебе,\n　ни кому бы то ни было ещё!」",
+   "orig": "Tetsuya\n「But that's just fine with me!\n　I won't be bested by you\n　or anybody else!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Тэцуя",
+   "text": "「Таков удел пилота «Мазингера»!」",
+   "orig": "Tetsuya\n「That's the destiny of a Mazinger pilot!」"
+  },
+  {
+   "i": 291,
+   "speaker": "Тэцуя",
+   "text": "「Я одержу верх, когда уничтожу «Геттер», \n　сливающий воедино три души!」",
+   "orig": "Tetsuya\n「I'll prevail once I destroy the Getter \n　Robot that merges three spirits into one!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Рёма",
+   "text": "「Эта твоя дурацкая гордыня\n　однажды тебя погубит, Тэцуя!」",
+   "orig": "Ryoma\n「That lame sense of pride\n　is gonna get you killed, Tetsuya!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Тэцуя",
+   "text": "「А теперь давай по-настоящему, Рёма!\n　Я одолею всё, что ты мне предложишь!」",
+   "orig": "Tetsuya\n「Now really bring it, Ryoma!\n　I'll overcome whatever you've got to offer!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Рёма",
+   "text": "「Ладно, ты сам напросился!\n　Вот она, мощь «Геттера»!」",
+   "orig": "Ryoma\n「Alright, you asked for it!\n　Here comes the power of the Getter!」"
+  },
+  {
+   "i": 295,
+   "speaker": "Тобиа",
+   "text": "「Тэцуя!\n　О чём ты только думаешь?」",
+   "orig": "Tobia\n「Tetsuya!\n　What are you thinking?」"
+  },
+  {
+   "i": 296,
+   "speaker": "Тэцуя",
+   "text": "「Всё именно так, как выглядит, Тобиа.\n　И если встанешь на пути — станешь моим врагом.」",
+   "orig": "Tetsuya\n「The situation is just what it looks like, Tobia.\n　And if you get in my way, you'll all become my enemies.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Тобиа",
+   "text": "「Ну конечно, делай что хочешь и когда хочешь.」",
+   "orig": "Tobia\n「Sure, just do whatever you please whenever you please.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Тобиа",
+   "text": "「И ты правда думаешь, что я это так оставлю?」",
+   "orig": "Tobia\n「Do you really expect me to go along with all this?」"
+  },
+  {
+   "i": 299,
+   "speaker": "Кинкейд",
+   "text": "「Только став врагами, я по-настоящему понял,\n　насколько ты страшный человек.」",
+   "orig": "Kincade\n「I can really see it now that we've become enemies.\n　How terrifying a person you are, that is.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Тэцуя",
+   "text": "「У меня то же чувство.」",
+   "orig": "Tetsuya\n「I feel the same way.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Кинкейд",
+   "text": "「В бою с тобой я сдерживаться не стану!\n　Надеюсь, ты не сочтёшь это за обиду, Тэцуя!」",
+   "orig": "Kincade\n「I won't hold back when it comes to fighting you!\n　I hope you won't think any less of me, Tetsuya!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Тэцуя",
+   "text": "「Кинкейд!\n　Я собирался сказать тебе ровно то же самое!」",
+   "orig": "Tetsuya\n「Kincade!\n　I was gonna say the exact same thing to you!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Майто",
+   "text": "「Тэцуя, но почему?」",
+   "orig": "Maito\n「Tetsuya, why?」"
+  },
+  {
+   "i": 304,
+   "speaker": "Тэцуя",
+   "text": "「Прочь с дороги, Майто.\n　Сейчас тебе со мной не справиться.」",
+   "orig": "Tetsuya\n「Out of my way, Maito.\n　Right now there's no way you can take me on.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Майто",
+   "text": "「Возможно, так оно и есть.」",
+   "orig": "Maito\n「That may be true.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Майто",
+   "text": "「Но отступить я всё равно не могу!\n　Стоять за друзей и за справедливость — вот мой долг!」",
+   "orig": "Maito\n「But there's no way I can gonna take off!\n　Standing up for allies—for justice—is my mission!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Тэцуя",
+   "text": "「Вот это Майто, которого я знаю!\n　А теперь проверим, усвоил ли ты\n　всё, чему я тебя учил!」",
+   "orig": "Tetsuya\n「That's the Maito that I know!\n　Now let's find out if you really learned\n　everything that I taught you!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Каппэй",
+   "text": "「Прекрати это, Тэцуя!\n　Когда свои дерутся со своими — это неправильно!」",
+   "orig": "Kappei\n「Stop all this, Tetsuya!\n　Allies fighting each other like this just isn't right!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Тэцуя",
+   "text": "「Что ж, раз уж мы сражаемся друг с другом,\n　своими нас больше не назовёшь.」",
+   "orig": "Tetsuya\n「Well, now that we're fighting each other,\n　we can no longer call ourselves allies.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Каппэй",
+   "text": "「Хватит играть словами, веди себя как взрослый!」",
+   "orig": "Kappei\n「Stop playing word games and act like an adult!」"
+  },
+  {
+   "i": 311,
+   "speaker": "Каппэй",
+   "text": "「Готовься!\n　Похоже, мне придётся\n　вбить в тебя немного здравого смысла!」",
+   "orig": "Kappei\n「Prepare yourself!\n　It looks like I'm gonna have to\n　knock some sense into you!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Тэцуя",
+   "text": "「Извини, Каппэй, но проигрывать таким,\n　как ты, я не собираюсь.」",
+   "orig": "Tetsuya\n「Sorry, Kappei, but I've no intention\n　of being defeated by the likes of you.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Бандзё",
+   "text": "「Если человек твоего склада принял решение,\n　никакие слова со стороны его не изменят.」",
+   "orig": "Banjo\n「If a man of your caliber made this decision,\n　nothing any outsider says is gonna change it.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Тэцуя",
+   "text": "「Раз так — уйди с дороги, Бандзё.\n　Я ведь перед тобой в долгу.」",
+   "orig": "Tetsuya\n「If that's how you feel then get out of my way, Banjo.\n　I'm in your debt, after all.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Бандзё",
+   "text": "「Вижу, чувство долга в тебе ещё живо.」",
+   "orig": "Banjo\n「You still have a sense of loyalty, I see.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Бандзё",
+   "text": "「Тогда уж кому, как не тебе, знать:\n　бессмысленному насилию я не уступлю никогда!」",
+   "orig": "Banjo\n「Then you of all people should know\n　that I'd never give in to irrational violence!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Тэцуя",
+   "text": "「А тебе уж кому, как не тебе, знать:\n　приняв решение, я иду до конца во что бы то ни стало!」",
+   "orig": "Tetsuya\n「You of all people should know\n　that once I make a decision, I stick to it no matter what!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Бандзё",
+   "text": "「Что ж, Тэцуя, бой начался! И если ты не боишься\n　солнечного света, если тебе нечего прятать\n　в тени — тогда нападай!」",
+   "orig": "Banjo\n「Alright then, Tetsuya, the battle is joined! So if you're\n　not afraid of a little sunlight, If you've got nothing hiding\n　something in the shadows, then bring it on!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Тэцуя",
+   "text": "「Прочь с дороги, Анж!\n　Это дело между мной и Кодзи Кабуто!」",
+   "orig": "Tetsuya\n「Out of my way, Ange!\n　This is between Koji Kabuto and me!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Анж",
+   "text": "「Мужские склоки меня не интересуют.」",
+   "orig": "Ange\n「I have no interest in quarrels among men.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Анж",
+   "text": "「Но когда появляется противник вроде тебя,\n　кровь у меня и правда закипает!」",
+   "orig": "Ange\n「But when an opponent the likes of you shows up,\n　it actually does get my blood running!」"
+  },
+  {
+   "i": 322,
+   "speaker": "Тэцуя",
+   "text": "「Похоже, ты куда больше похожа на нас с Рёмой!」",
+   "orig": "Tetsuya\n「Guess you're more like me and Ryoma than I thought!」"
+  },
+  {
+   "i": 323,
+   "speaker": "Джудо",
+   "text": "「Тэцуя, какого чёрта ты творишь?\n　Неужели ты настолько ненавидишь\n　«Мазингер Зет»?」",
+   "orig": "Judau\n「Tetsuya, what the hell are you doing?\n　Do you really hate the Mazinger Z\n　this much?」"
+  },
+  {
+   "i": 324,
+   "speaker": "Тэцуя",
+   "text": "「Да, именно так.」",
+   "orig": "Tetsuya\n「Yes, I do.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Джудо",
+   "text": "「«Грейт» и «Зет» — всё равно что братья!\n　И ты хочешь стравить их друг с другом?」",
+   "orig": "Judau\n「The Great and the Z are like brothers!\n　And yet you're gonna make them fight each other?」"
+  },
+  {
+   "i": 326,
+   "speaker": "Джудо",
+   "text": "「Я положу конец этой дурацкой братской грызне!\n　А заодно вправлю тебе твою упрямую башку!」",
+   "orig": "Judau\n「I'm gonna put a stop to this ridiculous sibling rivalry!\n　And I'll bash in that thick skull of yours in the process!」"
+  },
+  {
+   "i": 327,
+   "speaker": "Найн",
+   "text": "「Кэп.」",
+   "orig": "Nine\n「Cap.」"
+  },
+  {
+   "i": 328,
+   "speaker": "$n",
+   "text": "「Молчи, Найн.\n　Я с этим разберусь.」",
+   "orig": "$n\n「Don't say anything, Nine.\n　I'll take care of this.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Тэцуя",
+   "text": "「Боевое настроение, $n?」",
+   "orig": "Tetsuya\n「In a fighting mood, $n?」"
+  },
+  {
+   "i": 330,
+   "speaker": "$n",
+   "text": "「Нет, вовсе нет.\n　Просто мне не хватает красноречия,\n　чтобы остановить такого, как ты, одними словами.」",
+   "orig": "$n\n「No, not at all.\n　It's just that I don't have the verbal skills\n　to stop a guy like you with just words.」"
+  },
+  {
+   "i": 331,
+   "speaker": "Тэцуя",
+   "text": "「У меня с этим примерно так же.」",
+   "orig": "Tetsuya\n「I'm kinda the same way myself.」"
+  },
+  {
+   "i": 332,
+   "speaker": "$n",
+   "text": "「Тогда закончим быстро!\n　И если я одержу верх, ты расскажешь, кто ты такой,\n　и всё остальное, что мы хотим знать!」",
+   "orig": "$n\n「Then I'll make this quick!\n　And if I win, you're gonna tell us your true identity\n　and everything else we want to know!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Тэцуя",
+   "text": "「Что ж, раз ты идёшь на меня всерьёз,\n　мне остаётся ответить тем же!\n　Начнём, $n!」",
+   "orig": "Tetsuya\n「Well, if you're gonna come at me hard,\n　I've got no choice but to respond in kind!\n　Let's do this, $n!」"
+  },
+  {
+   "i": 334,
+   "speaker": "Найн",
+   "text": "「Сестрёнка!」",
+   "orig": "Nine\n「Sis!」"
+  },
+  {
+   "i": 335,
+   "speaker": "$n",
+   "text": "「Молчи, Найн.\n　Я улажу это собственными руками.」",
+   "orig": "$n\n「Don't say anything, Nine.\n　I'm gonna settle this with my own two hands.」"
+  },
+  {
+   "i": 336,
+   "speaker": "Тэцуя",
+   "text": "「Прочь с дороги, $n.\n　Этот бой тебя не касается.」",
+   "orig": "Tetsuya\n「Get out of my way, $n.\n　This fight is none of your business.」"
+  },
+  {
+   "i": 337,
+   "speaker": "$n",
+   "text": "「Ещё как касается!\n　Кодзи — мой боевой товарищ!」",
+   "orig": "$n\n「It is my business!\n　Koji is my comrade!」"
+  },
+  {
+   "i": 338,
+   "speaker": "$n",
+   "text": "「И ты, Тэцуя,\n　тоже!」",
+   "orig": "$n\n「And Tetsuya,\n　you are too!」"
+  },
+  {
+   "i": 339,
+   "speaker": "Тэцуя",
+   "text": "「Прости меня.」",
+   "orig": "Tetsuya\n「I'm sorry.」"
+  },
+  {
+   "i": 340,
+   "speaker": "$n",
+   "text": "「Если тебе и правда жаль — возвращайся к нам!\n　И заодно расскажи, что вообще происходит!」",
+   "orig": "$n\n「If you're really sorry then come back to our side!\n　And tell us what's going on while you're at it!」"
+  },
+  {
+   "i": 341,
+   "speaker": "Тэцуя",
+   "text": "「Я не могу.」",
+   "orig": "Tetsuya\n「I can't do that.」"
+  },
+  {
+   "i": 342,
+   "speaker": "$n",
+   "text": "「Упрямая твоя голова!\n　Такого себялюбца, как ты,\n　надо как следует проучить!」",
+   "orig": "$n\n「You blockhead!\n　Anyone as selfish as you are\n　needs to be taught a lesson!」"
+  },
+  {
+   "i": 343,
+   "speaker": "Тэцуя",
+   "text": "（Командир Окита, я прорываюсь!）",
+   "orig": "Tetsuya\n（Commander Okita, I'm coming through!）"
+  },
+  {
+   "i": 344,
+   "speaker": "Кодай",
+   "text": "「Капитан!\n　«Грейт Мазингер» —」",
+   "orig": "Kodai\n「Captain!\n　The Great Mazinger is—」"
+  },
+  {
+   "i": 345,
+   "speaker": "Окита",
+   "text": "「Не отвлекайся!\n　Сейчас думай только о том, как его остановить!」",
+   "orig": "Okita\n「Don't get distracted!\n　Right now just focus on stopping that thing!」"
+  },
+  {
+   "i": 346,
+   "speaker": "Кодай",
+   "text": "「Так точно!」",
+   "orig": "Kodai\n「Yes, sir!」"
+  },
+  {
+   "i": 347,
+   "speaker": "Окита",
+   "text": "（Цуруги…\n　только не загуби свою жизнь.）",
+   "orig": "Okita\n（Tsurugi,\n　just don't throw your life away.）"
+  },
+  {
+   "i": 348,
+   "speaker": "Анж",
+   "text": "「Ох!」",
+   "orig": "Ange\n「Whoa!」"
+  },
+  {
+   "i": 349,
+   "speaker": "？？？",
+   "text": "「Эй!」",
+   "orig": "？？？\n「Hey!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Анж",
+   "text": "「Что это за странное чувство?\n　Оно будто выше времени, пространства\n　и даже самой жизни.」",
+   "orig": "Ange\n「This strange feeling, what is it?\n　It's something that transcends time, space,\n　and even life itself.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Анж",
+   "text": "「Оно исходит от пилота красного Пара-Мэйла?」",
+   "orig": "Ange\n「Is it from the pilot of that red Para-Mail?」"
+  },
+  {
+   "i": 352,
+   "speaker": "？？？",
+   "text": "「Похоже, нас с тобой связывает нечто,\n　уходящее в далёкое-далёкое прошлое.」",
+   "orig": "？？？\n「It seems like we have some sort of connection\n　that goes back to a time long, long ago.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Анж",
+   "text": "「Да кто же ты такая?」",
+   "orig": "Ange\n「Who exactly are you?」"
+  },
+  {
+   "i": 354,
+   "speaker": "？？？",
+   "text": "「У обречённых нет имён.」",
+   "orig": "？？？\n「The doomed don't have names.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Анж",
+   "text": "「Да ты издеваешься.\n　Ладно, тогда я выбью из тебя ответ!」",
+   "orig": "Ange\n「You've got to be kidding.\n　Fine, then I'll just have to beat it out of you!」"
+  },
+  {
+   "i": 356,
+   "speaker": "？？？",
+   "text": "「Ты правда думаешь, что сможешь?」",
+   "orig": "？？？\n「Do you really think you can?」"
+  },
+  {
+   "i": 357,
+   "speaker": "Рёма",
+   "text": "「Не верится, что я снова решился\n　сесть за штурвал «Син Геттера».」",
+   "orig": "Ryoma\n「I can't believe I got it in my head\n　to pilot this Shin Getter again.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Хаято",
+   "text": "「Понимаю, о чём ты.」",
+   "orig": "Hayato\n「I know what you mean.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Бэнкэй",
+   "text": "「Да ещё и вместе с тобой, Рёма!」",
+   "orig": "Benkei\n「And, Ryoma, for it to be with you to boot!」"
+  },
+  {
+   "i": 360,
+   "speaker": "Рёма",
+   "text": "「Хаято, Бэнкэй, за дело!\n　«Геттер» снова в строю!」",
+   "orig": "Ryoma\n「Hayato, Benkei, let's do this!\n　The Getter is back in business!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Рёма",
+   "text": "「И он сметёт любого,\n　кто посмеет встать у него на пути!」",
+   "orig": "Ryoma\n「And it's gonna crush anybody\n　who dares get in its way!」"
+  },
+  {
+   "i": 362,
+   "speaker": "$n",
+   "text": "「Агх!」",
+   "orig": "$n\n「Agh!」"
+  }
+ ]
+}

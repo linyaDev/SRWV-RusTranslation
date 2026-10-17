@@ -1,0 +1,1450 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　-Центр управления Института фотонной энергии-",
+   "orig": "　\n　　\n　　-Photonic Power Research Institute Command Center-"
+  },
+  {
+   "i": 4,
+   "speaker": "Юми",
+   "text": "「Прости, Саяка.\n　Прости, что ничем не могу помочь.」",
+   "orig": "Yumi\n「I'm sorry, Sayaka.\n　I'm sorry I can't help.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Саяка",
+   "text": "「Ничего страшного, папа.\n　Кто такие «Грейт Мазингер» и Тэцуя Цуруги,\n　мы выясним сами.」",
+   "orig": "Sayaka\n「It's alright, Father.\n　We'll find out the identity of the Great Mazinger\n　and Tetsuya Tsurugi ourselves.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Хаято",
+   "text": "「Значит, и доктор Юми ничего не знает.」",
+   "orig": "Hayato\n「So Dr. Yumi doesn't know either.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Амуро",
+   "text": "「«Грейт Мазингер».\n　Воистину «Мазингер»-загадка.」",
+   "orig": "Amuro\n「The Great Mazinger.\n　It's truly a Mazinger of mystery.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Моримори",
+   "text": "「Учёных, способных построить такого робота,\n　можно по пальцам пересчитать.」",
+   "orig": "Morimori\n「Precious few scientists are capable\n　of building a robot like that.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Носсори",
+   "text": "「Тем более теперь, когда и Дзюдзо, и $kwbдоктор Штрогейм$kwe\n　уже отправились на тот свет.」",
+   "orig": "Nossori\n「Especially now that Juzo and $kwbDr. Schtroheim$kwe\n　have both kicked the bucket.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Сэваси",
+   "text": "「Я не знаю ни одного живого человека,\n　который сумел бы создать робота,\n　равного «Мазингеру Z».」",
+   "orig": "Sewashi\n「I don't know of a single person who's still alive\n　who can create a robot that's a match for\n　the Mazinger Z.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Юми",
+   "text": "「Учёный, равный доктору Дзюдзо...」",
+   "orig": "Yumi\n「A scientist who's on par with Dr. Juzo...」"
+  },
+  {
+   "i": 12,
+   "speaker": "Юми",
+   "text": "（С «Грейт Мазингером» та же история, но меня\n　куда больше занимают доработки «Мазингера Z».）",
+   "orig": "Yumi\n（Same goes for the Great Mazinger, but I'm really\n　curious about the modifications to the Mazinger Z.）"
+  },
+  {
+   "i": 13,
+   "speaker": "Юми",
+   "text": "（Когда «Мазингера Z» настраивали в Институте\n　фотонной энергии, у него не было ни «Айрон Каттера»,\n　ни «Дрилл-Миссайла».）",
+   "orig": "Yumi\n（When they tuned the Mazinger Z at the Photonic Power\n　Research Institute, it didn't have that Iron Cutter\n　or the Drill Missile.）"
+  },
+  {
+   "i": 14,
+   "speaker": "Юми",
+   "text": "（А значит, «Мазингер» выдал это\n　прямо посреди боя.）",
+   "orig": "Yumi\n（Which means that the Mazinger must have\n　brought it out in the middle of combat.）"
+  },
+  {
+   "i": 18,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Ангар «Ра Кайлума»-",
+   "orig": "　\n　　\n　　　　　　　　　　-Ra Cailum Hangar-"
+  },
+  {
+   "i": 19,
+   "speaker": "Рёма",
+   "text": "「Ну всё, на сегодня тренировка окончена.」",
+   "orig": "Ryoma\n「Alright, that'll do it for today's training.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Банагер",
+   "text": "「Спасибо, Рёма.」",
+   "orig": "Banagher\n「Thank you, Ryoma.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Рёма",
+   "text": "「Я в душ.\n　А вы тут приберитесь.」",
+   "orig": "Ryoma\n「I'm gonna hit the showers.\n　You guys get this place cleaned up.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Банагер",
+   "text": "「Наконец-то закончилось.」",
+   "orig": "Banagher\n「It's finally over.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Хатауэй",
+   "text": "「Опять было тяжко,\n　но мы наконец начинаем вытягивать\n　тренировки Рёмы.」",
+   "orig": "Hathaway\n「That was another tough one,\n　but we're finally managing to keep up\n　with Ryoma's training regimen.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Синдзи",
+   "text": "「Хм-м.」",
+   "orig": "Shinji\n「Hmm.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Банагер",
+   "text": "「Что такое, Синдзи?」",
+   "orig": "Banagher\n「What's the matter, Shinji?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Синдзи",
+   "text": "「А вам обоим от нынешнего положения дел\n　не становится тревожно?」",
+   "orig": "Shinji\n「Doesn't the current situation\n　make either of you nervous?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Синдзи",
+   "text": "「Нам приходится драться с Нео-Зеоном, и при этом\n　за нами гонятся войска Федерации.」",
+   "orig": "Shinji\n「We have to fight Neo Zeon, and meanwhile\n　we're being pursued by the Federation Forces.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Банагер",
+   "text": "「И всё же есть и те, кто одобряет\n　и поддерживает то, что мы делаем.」",
+   "orig": "Banagher\n「Even so, there are also people\n　who approve of and support what we're doing.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Хатауэй",
+   "text": "「Институт фотонной энергии, группа поддержки\n　«Мифрила», да и NERV, во главе которого\n　стоит твой отец.」",
+   "orig": "Hathaway\n「The Photonic Power Research Institute and the\n　Mithril support group, not to mention NERV,\n　which is headed up by your father.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Хатауэй",
+   "text": "「Поддержка у нас есть, скоро будет и всё нужное\n　снабжение. Тогда и перейдём в наступление.」",
+   "orig": "Hathaway\n「So we've got support, and soon we'll have all the\n　necessary supplies. Then we can go on the offensive.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Мисато",
+   "text": "「На NERV, говорят, здорово давят за то, что он\n　помогает «Лондо Беллу» — беглецам, как-никак.」",
+   "orig": "Misato\n「NERV is apparently facing some serious pressure\n　for helping Londo Bell, being a fugitive group and all.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Синдзи",
+   "text": "「Мисато...」",
+   "orig": "Shinji\n「Misato...」"
+  },
+  {
+   "i": 33,
+   "speaker": "Мисато",
+   "text": "「Ну, сам понимаешь, у NERV огромный бюджет\n　и почти полная свобода действий, так что в штабе\n　на нас и без того косо смотрят.」",
+   "orig": "Misato\n「Well, you know, NERV has a huge budget\n　and can do pretty much whatever it pleases,\n　so general headquarters is already pretty critical of it.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Хатауэй",
+   "text": "「Ого, а я и не знал.」",
+   "orig": "Hathaway\n「Wow, I had no idea.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Мисато",
+   "text": "「Но у нас была веская причина — не допустить\n　Третьего удара. Так что возразить им было нечего.」",
+   "orig": "Misato\n「Still, we had a good reason: preventing the Third\n　Impact. So they really couldn't say much about it.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Мисато",
+   "text": "「Командующий Икари мастер таких переговоров.\n　Штаб всякий раз идёт на попятную.」",
+   "orig": "Misato\n「Commander Ikari is really good at negotiating this stuff.\n　General headquarters always seems to roll over.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Синдзи",
+   "text": "「Отец и правда удивительный человек, да?」",
+   "orig": "Shinji\n「Father really is amazing, isn't he?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Мисато",
+   "text": "「Ну, с твоей колокольни бывает непросто понять,\n　что у него на уме, но то, что он на нашей стороне, —\n　это хорошо.」",
+   "orig": "Misato\n「Well, from your perspective, there must be times\n　when it's hard to understand what he's thinking,\n　but it's good to have him on our side.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Мисато",
+   "text": "「Наверное, поэтому Рэй к нему так и привязалась.」",
+   "orig": "Misato\n「That's probably why Rei's become so attached to him.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Банагер",
+   "text": "「Это Рэй из Нулевого?」",
+   "orig": "Banagher\n「You mean Rei from Unit-00?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Хатауэй",
+   "text": "「Чтобы эта девочка к кому-то привязалась? Не верится.」",
+   "orig": "Hathaway\n「That girl getting attached to someone. I can't imagine it.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Мисато",
+   "text": "「Да, понимаю, почему так кажется.」",
+   "orig": "Misato\n「Yeah, I can understand how you'd feel that way.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Бернадетт",
+   "text": "「Синдзи, ребята,\n　хорошо потрудились на тренировке.」",
+   "orig": "Bernadette\n「Shinji, everybody,\n　good job in the training session.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Пуру",
+   "text": "「А я принесла особый гостинец в награду!」",
+   "orig": "Ple\n「I brought a special gift as a reward!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Пуру Два",
+   "text": "「Мороженое домашнего приготовления. Даже такие\n　уставшие, как сейчас, вы его одолеете.」",
+   "orig": "Ple Two\n「It's homemade ice cream. Even as fatigued\n　as you are right now, you ought to be able to eat this.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Банагер",
+   "text": "「Пле, Пуру Два, спасибо.\n　Давайте налетать.」",
+   "orig": "Banagher\n「Ple, Ple Two, thanks.\n　Let's dig right in.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Хатауэй",
+   "text": "「Это вы вдвоём приготовили?」",
+   "orig": "Hathaway\n「The two of you made this?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Пуру Два",
+   "text": "「Бернадетт нас научила.」",
+   "orig": "Ple Two\n「Bernadette showed us how.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Пуру",
+   "text": "「Мы хотели позвать на помощь ещё и Мельду,\n　но она только снимает пробу с товара,\n　так что прибавки в огневой мощи от неё никакой.」",
+   "orig": "Ple\n「We planned to have Melda help out too,\n　but all she does is sample the merchandise,\n　so we get no boost in firepower from her.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Мисато",
+   "text": "「Значит, слухи про её любовь к земной еде\n　и про сладкоежество — чистая правда.」",
+   "orig": "Misato\n「So the rumor about her taste for Earth food,\n　and her sweet tooth, is actually true.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Бернадетт",
+   "text": "「Зато к нам прибилась другая помощница.」",
+   "orig": "Bernadette\n「But another helper did come along.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Рэй",
+   "text": "「...」",
+   "orig": "Rei\n「...」"
+  },
+  {
+   "i": 53,
+   "speaker": "Синдзи",
+   "text": "「Аянами.」",
+   "orig": "Shinji\n「Ayanami.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Пуру",
+   "text": "「У Рэй, похоже, было свободное время,\n　вот мы её и позвали.」",
+   "orig": "Ple\n「Rei looked like she had some time on her hands,\n　so we approached her.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Пуру Два",
+   "text": "「И она здорово нам помогла.」",
+   "orig": "Ple Two\n「And she was a big help.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Рэй",
+   "text": "「Просто я услышала, что это для Икари...」",
+   "orig": "Rei\n「Well, I heard it was for Ikari, so...」"
+  },
+  {
+   "i": 57,
+   "speaker": "Банагер",
+   "text": "（Неужто она к Синдзи неравнодушна?）",
+   "orig": "Banagher\n（Don't tell me she has a thing for Shinji.）"
+  },
+  {
+   "i": 58,
+   "speaker": "Хатауэй",
+   "text": "（Кто её знает.\n　По такому непроницаемому лицу ничего не прочтёшь.）",
+   "orig": "Hathaway\n（Who knows.\n　That poker face of hers is impossible to read.）"
+  },
+  {
+   "i": 59,
+   "speaker": "Синдзи",
+   "text": "「Спасибо, Аянами.\n　Было очень вкусно.」",
+   "orig": "Shinji\n「Thanks, Ayanami.\n　That was delicious.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Рэй",
+   "text": "「Давай сюда тарелку.」",
+   "orig": "Rei\n「Let me have your plate.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Синдзи",
+   "text": "「А, да, конечно.」",
+   "orig": "Shinji\n「Uh, sure.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Рэй",
+   "text": "「Что ж, мне надо прибраться. До встречи.」",
+   "orig": "Rei\n「Well, I've got some cleaning up to do. See you later.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Пуру",
+   "text": "「Эй, Рэй, погоди минутку!」",
+   "orig": "Ple\n「Uh, Rei, wait a minute!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Пуру Два",
+   "text": "「Там и на нас хватает.\n　Осталась бы да поела вместе с нами.」",
+   "orig": "Ple Two\n「There's enough for us, too.\n　I wish she would've stuck around and ate with us.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Банагер",
+   "text": "「Она всегда такая.」",
+   "orig": "Banagher\n「She's always like that.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи, ты хоть раз видел, как она улыбается?」",
+   "orig": "Hathaway\n「Shinji, have you ever seen her smile?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Синдзи",
+   "text": "「Нет.\n　Хотя я и говорил-то с ней немного.」",
+   "orig": "Shinji\n「No.\n　But then I haven't talked to her much.」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「По сравнению с ней даже Найн\n　со всеми куда приветливее.」",
+   "orig": "$n\n「Compared to her,\n　even Nine is more amiable to everybody.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Синдзи",
+   "text": "「$n.」",
+   "orig": "Shinji\n「$n.」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Если мороженое осталось, я тоже не откажусь.」",
+   "orig": "$n\n「If you've got some ice cream left, I'll have some.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Пуру",
+   "text": "「Не положено!\n　Это только для тех, кто тренировался.」",
+   "orig": "Ple\n「No can do!\n　It's only for the people who did training.」"
+  },
+  {
+   "i": 72,
+   "speaker": "$n",
+   "text": "「Завтра обязательно потренируюсь. Ну пожалуйста!\n　Перед мороженым мне не устоять.」",
+   "orig": "$n\n「I'll train tomorrow. Please!\n　I've got a weakness for ice cream.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Пуру Два",
+   "text": "「А вчера в столовой кто говорил, что перед раменом\n　тоже устоять не может?」",
+   "orig": "Ple Two\n「When we were in the mess hall yesterday, didn't you\n　 also say that you had a weakness for ramen?」"
+  },
+  {
+   "i": 74,
+   "speaker": "Мисато",
+   "text": "「А я слышала, что не устоять ещё\n　и перед жареной курицей.」",
+   "orig": "Misato\n「I heard he had a weakness\n　for fried chicken.」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「Да, я всё это обожаю.」",
+   "orig": "$n\n「Yes, I love all of those things.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Хатауэй",
+   "text": "「Вот что скажу: когда я впервые встретил Найн,\n　от неё веяло ровно тем же, что и от этой девочки.」",
+   "orig": "Hathaway\n「I'll tell you, when I first met Nine, she did have\n　the same air about her as that girl.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Синдзи",
+   "text": "「Правда?」",
+   "orig": "Shinji\n「Is that so?」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Да, примерно так.\n　Она и правда андроид, но даже с учётом этого\n　та черта её характера была уж слишком резкой.」",
+   "orig": "$n\n「Yeah, pretty much.\n　It's true that she's an android, but even so,\n　that aspect of her personality was really extreme.」"
+  },
+  {
+   "i": 79,
+   "speaker": "$n",
+   "text": "「Вечно хмурилась, а открывала рот только затем,\n　чтобы поворчать или сказать какую-нибудь колкость.」",
+   "orig": "$n\n「She always had a scowl on her face, and if she opened\n　her mouth, it was to complain or make a sarcastic remark.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Мисато",
+   "text": "「Это, наверное, потому, что напарником был $n.」",
+   "orig": "Misato\n「That's probably because $n was her partner.」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Кхм.」",
+   "orig": "$n\n「Urgh.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Банагер",
+   "text": "「А сейчас она улыбается довольно часто.」",
+   "orig": "Banagher\n「But now she smiles quite a bit.」"
+  },
+  {
+   "i": 83,
+   "speaker": "$n",
+   "text": "「Это правда?」",
+   "orig": "$n\n「Is that true?」"
+  },
+  {
+   "i": 84,
+   "speaker": "Банагер",
+   "text": "「Ты что, ни разу не видел её улыбки?」",
+   "orig": "Banagher\n「You've never seen her smile?」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Нет. А мне-то казалось, что лёд между нами растаял.\n　И в мыслях не было, что с другими она вся в улыбках.」",
+   "orig": "$n\n「No. And here I thought I'd broken the ice with her.\n　I had no idea she was all smiles around other people.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Синдзи",
+   "text": "「Ты же, э-э, её напарник, верно?」",
+   "orig": "Shinji\n「You're, uh, her partner, right?」"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「Ну, уверенности у меня слегка поубавилось, но да.」",
+   "orig": "$n\n「Well, I just lost a little confidence, but yeah.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Хатауэй",
+   "text": "「И всё же, $n, я уверен: улыбаться\n　и держаться с людьми она умеет именно потому,\n　что ты её всему этому научил.」",
+   "orig": "Hathaway\n「Still, $n, I bet the reason she\n　can smile and be sociable like that is because of all\n　the things that you taught her.」"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「Вот именно!\n　Как раз это я и собираюсь сказать!」",
+   "orig": "$n\n「That's right!\n　That's what I was gonna say!」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Вот видишь, Синдзи.\n　Если Рэй не улыбается,\n　возьми да и научи её.」",
+   "orig": "$n\n「There you have it, Shinji.\n　If Rei doesn't smile,\n　you should teach her how.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Синдзи",
+   "text": "「Мне — научить?」",
+   "orig": "Shinji\n「I should?」"
+  },
+  {
+   "i": 92,
+   "speaker": "Мисато",
+   "text": "「Я тоже так думаю.\n　Вы же вместе управляете «Евами» — считай,\n　вы с ней самые настоящие напарники.」",
+   "orig": "Misato\n「I agree.\n　After all, operating an EVA together and all,\n　you might even say that you're partners.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Синдзи",
+   "text": "「Хм-м.」",
+   "orig": "Shinji\n「Hmm.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Мисато",
+   "text": "「Сигнал тревоги?」",
+   "orig": "Misato\n「A warning alarm?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Чан",
+   "text": "「Командующая Кацураги! К штаб-квартире NERV,\n　судя по всему, приближается отряд Федерации!」",
+   "orig": "Chan\n「Commander Katsuragi! A Federation squad\n　is apparently approaching the NERV headquarters!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Мисато",
+   "text": "「Застали нас врасплох!\n　Генштаб решил подмять NERV силой!」",
+   "orig": "Misato\n「They caught us napping!\n　GHQ is trying to suppress NERV by force!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Синдзи",
+   "text": "（Отец...）",
+   "orig": "Shinji\n（Father...）"
+  },
+  {
+   "i": 98,
+   "speaker": "Пуру",
+   "text": "「Эй, Рэй, погоди минутку!」",
+   "orig": "Ple\n「Uh, Rei, wait a minute!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Пуру Два",
+   "text": "「Там и на нас хватает.\n　Осталась бы да поела вместе с нами.」",
+   "orig": "Ple Two\n「There's enough for us, too.\n　I wish she would've stuck around and ate with us.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Банагер",
+   "text": "「Она всегда такая.」",
+   "orig": "Banagher\n「She's always like that.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи, ты хоть раз видел, как она улыбается?」",
+   "orig": "Hathaway\n「Shinji, have you ever seen her smile?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Синдзи",
+   "text": "「Нет.\n　Хотя я и говорил-то с ней немного.」",
+   "orig": "Shinji\n「No.\n　But then I haven't talked to her much.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「По сравнению с ней даже Найн\n　со всеми куда приветливее.」",
+   "orig": "$n\n「Compared to her,\n　even Nine is more amiable to everybody.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Синдзи",
+   "text": "「$n...」",
+   "orig": "Shinji\n「$n...」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「А мне мороженого можно?」",
+   "orig": "$n\n「Can I have some ice cream?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Пуру",
+   "text": "「Не положено, $n!\n　Это только для тех, кто тренировался.」",
+   "orig": "Ple\n「No can do, $n!\n　It's only for the people who did training.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Ну пожалуйста!\n　Поем — и сразу на тренировку!」",
+   "orig": "$n\n「Please!\n　I'll train after I have some of this!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Пуру Два",
+   "text": "「Странно, правда?\n　$n — та ещё сладкоежка.」",
+   "orig": "Ple Two\n「Strange, isn't it?\n　$n has a real sweet tooth.」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Девчонки все такие, сколько бы лет им ни было.」",
+   "orig": "$n\n「Girls are like that, no matter how old they get.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Синдзи",
+   "text": "「Это правда, Мисато?」",
+   "orig": "Shinji\n「Is that true, Misato?」"
+  },
+  {
+   "i": 111,
+   "speaker": "Мисато",
+   "text": "「Лично я больше по горькому.」",
+   "orig": "Misato\n「I'm partial to bitter flavors myself.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Синдзи",
+   "text": "「То есть по пиву, да?」",
+   "orig": "Shinji\n「In other words, beer, right?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Хатауэй",
+   "text": "「Вот что скажу: когда я впервые встретил Найн,\n　от неё веяло ровно тем же, что и от этой девочки.」",
+   "orig": "Hathaway\n「I'll tell you, when I first met Nine, she did have\n　the same air about her as that girl.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Синдзи",
+   "text": "「Правда?」",
+   "orig": "Shinji\n「Is that so?」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「И не говори.\n　Она ведь ИИ, так что ей, похоже,\n　нелегко даётся выражать чувства.」",
+   "orig": "$n\n「I agree.\n　After all, she's an AI, so she has a\n　hard time showing emotions, apparently.」"
+  },
+  {
+   "i": 116,
+   "speaker": "$n",
+   "text": "「Вечно хмурилась, а открывала рот только затем,\n　чтобы поворчать или сказать какую-нибудь колкость.」",
+   "orig": "$n\n「She always had a scowl on her face, and if she opened\n　her mouth, it was to complain or make a sarcastic remark.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Мисато",
+   "text": "「Это потому, что напарником был $n.」",
+   "orig": "Misato\n「That's because $n was her partner.」"
+  },
+  {
+   "i": 118,
+   "speaker": "$n",
+   "text": "「Неужели я кажусь настолько ужасным человеком?」",
+   "orig": "$n\n「Do I really seem like that horrible a person?」"
+  },
+  {
+   "i": 119,
+   "speaker": "Мисато",
+   "text": "「Да нет, вовсе нет. Хе-хе,\n　такие вещи, наверное, не понять,\n　пока не наберёшься побольше жизненного опыта.」",
+   "orig": "Misato\n「No, not at all. Heh heh,\n　you probably won't be able to understand this feeling\n　until you accumulate a little more life experience.」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Неожиданно глубокомысленно... вот она, взрослая женщина.」",
+   "orig": "$n\n「Surprisingly profound, eh, the adult woman...」"
+  },
+  {
+   "i": 121,
+   "speaker": "Банагер",
+   "text": "「Но Найн... в последнее время она часто улыбается.」",
+   "orig": "Banagher\n「But Nine...she smiles quite a bit nowadays.」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「А вот мне такое видеть доводится нечасто.\n　Я ведь её напарник, и то наберётся всего\n　пара-тройка раз, когда она улыбалась.」",
+   "orig": "$n\n「I don't get to see that very often, though.\n　I'm her partner, and even I\n　haven't seen her smile more than a handful of times.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Хатауэй",
+   "text": "「И всё же, $n, я уверен: улыбаться\n　и держаться с людьми она умеет именно потому,\n　что ты её всему этому научил.」",
+   "orig": "Hathaway\n「Still, $n, I bet the reason she\n　can smile and be sociable like that is because of all\n　the things that you taught her.」"
+  },
+  {
+   "i": 124,
+   "speaker": "$n",
+   "text": "「Приятно это слышать.」",
+   "orig": "$n\n「I'm happy to hear that.」"
+  },
+  {
+   "i": 125,
+   "speaker": "$n",
+   "text": "「Вот видишь, Синдзи.\n　Если Рэй не улыбается,\n　может, тебе её и научить?」",
+   "orig": "$n\n「There you have it, Shinji.\n　If Rei doesn't smile,\n　you should teach her how, don't you think?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Синдзи",
+   "text": "「Мне — научить?」",
+   "orig": "Shinji\n「I should?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Мисато",
+   "text": "「Я тоже так думаю.\n　Вы же вместе управляете «Евами» — считай,\n　вы с ней самые настоящие напарники.」",
+   "orig": "Misato\n「I agree.\n　After all, operating an EVA together and all,\n　you might even say that you're partners.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Синдзи",
+   "text": "「Хм-м.」",
+   "orig": "Shinji\n「Hmm.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Мисато",
+   "text": "「Сигнал тревоги?」",
+   "orig": "Misato\n「A warning alarm?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Чан",
+   "text": "「Командующая Кацураги! К штаб-квартире NERV,\n　судя по всему, приближается отряд Федерации!」",
+   "orig": "Chan\n「Commander Katsuragi! A Federation squad\n　is apparently approaching the NERV headquarters!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Мисато",
+   "text": "「Мы отнеслись к этому слишком благодушно!\n　Генштаб решил подмять NERV силой!」",
+   "orig": "Misato\n「We were way too optimistic!\n　GHQ is trying to suppress NERV by force!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Синдзи",
+   "text": "（Отец...）",
+   "orig": "Shinji\n（Father...）"
+  },
+  {
+   "i": 136,
+   "speaker": "Синдзи",
+   "text": "「Аянами!\n　Аянами, ты цела? Аянами!」",
+   "orig": "Shinji\n「Ayanami!\n　Ayanami, are you OK? Ayanami!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Рэй",
+   "text": "「М-м...」",
+   "orig": "Rei\n「Urgh.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Синдзи",
+   "text": "「Какое облегчение.\n　Я уж не знал, очнёшься ты вообще или нет.」",
+   "orig": "Shinji\n「What a relief.\n　I didn't know if you were ever gonna wake up.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Рэй",
+   "text": "「М-м.」",
+   "orig": "Rei\n「Mmm.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Синдзи",
+   "text": "「Не прощайся вот так. Это слишком грустно.」",
+   "orig": "Shinji\n「Don't say goodbye like that. It's just too sad.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Синдзи",
+   "text": "「Может, мы с тобой чем-то похожи.」",
+   "orig": "Shinji\n「We just might be alike, you and I.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Рэй",
+   "text": "「Почему... ты плачешь?」",
+   "orig": "Rei\n「Why...are you crying?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Синдзи",
+   "text": "「Гх...」",
+   "orig": "Shinji\n「Guh—」"
+  },
+  {
+   "i": 144,
+   "speaker": "Рэй",
+   "text": "「Прости.\n　Я никогда не знаю, какое лицо нужно делать\n　в такие минуты.」",
+   "orig": "Rei\n「I'm sorry.\n　I never know what look I should have on my face\n　at times like this.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Синдзи",
+   "text": "「...」",
+   "orig": "Shinji\n「...」"
+  },
+  {
+   "i": 146,
+   "speaker": "Синдзи",
+   "text": "「По-моему, тебе стоит улыбнуться.」",
+   "orig": "Shinji\n「I, I think you should smile.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Рэй",
+   "text": "「...」",
+   "orig": "Rei\n「...」"
+  },
+  {
+   "i": 148,
+   "speaker": "Рэй",
+   "text": "「...」",
+   "orig": "Rei\n「...」"
+  },
+  {
+   "i": 149,
+   "speaker": "Синдзи",
+   "text": "「Спасибо, Аянами.\n　Благодаря тебе я остался жив,\n　и операция удалась.」",
+   "orig": "Shinji\n「Thanks, Ayanami.\n　Because of you, I didn't end up dying,\n　and the strategy worked.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Рэй",
+   "text": "「Спасибо?」",
+   "orig": "Rei\n「Thanks?」"
+  },
+  {
+   "i": 151,
+   "speaker": "Синдзи",
+   "text": "「Я сказал что-то смешное?」",
+   "orig": "Shinji\n「Did I say something funny?」"
+  },
+  {
+   "i": 152,
+   "speaker": "Рэй",
+   "text": "「Нет-нет.」",
+   "orig": "Rei\n「No, no.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Аска",
+   "text": "「Я бы как раз сейчас представилась. Можно?」",
+   "orig": "Asuka\n「I'd like to introduce myself right about now. May I?」"
+  },
+  {
+   "i": 154,
+   "speaker": "Синдзи",
+   "text": "「Да... а ты кто?」",
+   "orig": "Shinji\n「Yeah, who are you?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Аска",
+   "text": "「Аска Лэнгли Сикинами,\n　пилот Второго.」",
+   "orig": "Asuka\n「I'm Asuka Langley Shikinami,\n　pilot of Unit-02.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Аска",
+   "text": "「Прости, что влезла в вашу любовную сцену.」",
+   "orig": "Asuka\n「Sorry to intrude on your little love scene.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Синдзи",
+   "text": "「Л-любовную сцену?」",
+   "orig": "Shinji\n「L-love scene?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Аска",
+   "text": "「А вы и правда отличная парочка.\n　Папенькин сынок и любимица командующего.」",
+   "orig": "Asuka\n「But you do make a good couple.\n　Daddy's Boy and Commander's Pet.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Синдзи",
+   "text": "「Это ещё что такое?」",
+   "orig": "Shinji\n「What the heck is that?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Аска",
+   "text": "「Сын командующего Икари и его любимая ученица.\n　Оба стали пилотами «Ев» по знакомству.\n　Вы просто созданы друг для друга.」",
+   "orig": "Asuka\n「Commander Ikari's son and his favorite student.\n　You both became EVA pilots based on your connections.\n　It's like you were made for each other.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Рэй",
+   "text": "「Ты завидуешь?」",
+   "orig": "Rei\n「Are you jealous?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Аска",
+   "text": "「Т-ты дура, что ли?\n　Как ты из моих слов такое вывела?」",
+   "orig": "Asuka\n「A-are you stupid?\n　How do you get that from what I just said?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Мисато",
+   "text": "「Похоже, вы втроём уже успели подружиться.」",
+   "orig": "Misato\n「Looks like the three of you have become close friends.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Аска",
+   "text": "「А вот и ещё одно странное толкование, прошу любить!」",
+   "orig": "Asuka\n「And in this corner, yet another strange interpretation!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Мисато",
+   "text": "「Аска.\n　Командующий Икари отдал приказ\n　передать тебя «Лондо Беллу».」",
+   "orig": "Misato\n「Asuka.\n　Commander Ikari has issued an order\n　that you be lent to Londo Bell.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Аска",
+   "text": "「Если мы со Вторым сможем показать, на что способны,\n　меня это вполне устраивает.」",
+   "orig": "Asuka\n「As long as me and Unit-02 can demonstrate our skills,\n　that suits me just fine.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Синдзи",
+   "text": "「Вот это уверенность в себе.」",
+   "orig": "Shinji\n「That's some amazing self-confidence.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Аска",
+   "text": "「В моём случае она подкреплена умением.\n　Не ровняй меня с теми, кто горазд только болтать.」",
+   "orig": "Asuka\n「In my case, it's accompanied by actual ability.\n　Don't lump me in with the all-talk types over there.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Аска",
+   "text": "「Из-за неполадок со снаряжением\n　я сегодня уступила вам все лавры,\n　но в следующий раз этого не повторится.」",
+   "orig": "Asuka\n「Due to equipment-related issues,\n　I let you have the spotlight today,\n　but that's not gonna happen again next time.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Мисато",
+   "text": "「Ну хватит, Аска.\n　Все же собрались, чтобы поздравить\n　сегодняшних героев — Синдзи и Рэй.」",
+   "orig": "Misato\n「That's enough, Asuka.\n　Because everybody's come around to\n　celebrate today's heroes, Shinji and Rei.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи!」",
+   "orig": "Hathaway\n「Shinji!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Джудо",
+   "text": "「Я так и знал, что в решающий момент ты не подведёшь!」",
+   "orig": "Judau\n「I knew you'd come through when the chips were down!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Рёма",
+   "text": "「Мои тренировки ты выдержал до конца не случайно.」",
+   "orig": "Ryoma\n「Making it all the way through my training was no fluke.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Синдзи",
+   "text": "「Спасибо!」",
+   "orig": "Shinji\n「Thank you!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Пуру",
+   "text": "「И ты, Рэй, тоже молодец!」",
+   "orig": "Ple\n「And Rei, you did a great job too!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Элль",
+   "text": "「Скажу честно, у меня все нервы сдали,\n　когда ты приняла на себя весь огонь Ангела,\n　чтобы прикрыть Синдзи.」",
+   "orig": "Elle\n「I'll tell you, that was really nerve-wracking,\n　the way you took all that fire from the Angel\n　in order to cover Shinji.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Рэй",
+   "text": "「Что ж, это ведь мой долг.」",
+   "orig": "Rei\n「Well, that's my duty, after all.」"
+  },
+  {
+   "i": 179,
+   "speaker": "$n",
+   "text": "「И всё-таки это было потрясающе.\n　Уж не та ли это самая сила любви?」",
+   "orig": "$n\n「Just the same, that was an amazing performance.\n　Was that the proverbial power of love, perhaps?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Синдзи",
+   "text": "「Э-эй, погоди-ка, $n!」",
+   "orig": "Shinji\n「H-hey, wait a second, $n!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Аска",
+   "text": "「Что за кисель тут у вас вместо настроения?\n　Терпеть не могу такое.」",
+   "orig": "Asuka\n「What's with the lukewarm mood around here?\n　I really can't stand this sort of thing.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Хатауэй",
+   "text": "「Ты тоже отлично справилась.」",
+   "orig": "Hathaway\n「You did a great job too.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Аска",
+   "text": "「Ч-чего?\n　Не лезь ко мне в друзья!」",
+   "orig": "Asuka\n「W-what?\n　Don't get so buddy-buddy with me!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Хатауэй",
+   "text": "「Да брось, мы теперь товарищи по оружию.\n　Рассчитываю и на тебя, и на Второго.」",
+   "orig": "Hathaway\n「Hey, we're gonna be comrades from now on.\n　I'm gonna be counting on you and Unit-02 both.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Аска",
+   "text": "「Пока ты как следует уважаешь мои способности,\n　мы с тобой прекрасно поладим.」",
+   "orig": "Asuka\n「As long as you show proper respect\n　for my abilities, we'll get along just fine.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Синдзи",
+   "text": "（Потрясающе, Хатауэй!\n　Ты вмиг расположил к себе Сикинами.）",
+   "orig": "Shinji\n（Amazing, Hathaway!\n　You won Shikinami over in no time.）"
+  },
+  {
+   "i": 187,
+   "speaker": "Хатауэй",
+   "text": "（У меня с такими девчонками особая связь.）",
+   "orig": "Hathaway\n（I've got a strange connection with girls like her.）"
+  },
+  {
+   "i": 188,
+   "speaker": "Хатауэй",
+   "text": "（Тут есть один приём. Рассказать какой?）",
+   "orig": "Hathaway\n（There's a trick to it. Wanna hear what it is?）"
+  },
+  {
+   "i": 189,
+   "speaker": "Синдзи",
+   "text": "「Я, я, пожалуй, воздержусь.」",
+   "orig": "Shinji\n「I, I'll pass.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Аска",
+   "text": "「Эй, папенькин сынок!\n　О чём это вы там шепчетесь?」",
+   "orig": "Asuka\n「Hey, Daddy's Boy!\n　What are you whispering about over there?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Синдзи",
+   "text": "「И почему она цепляется именно ко мне?」",
+   "orig": "Shinji\n「Why's she singling me out to pick on?」"
+  },
+  {
+   "i": 192,
+   "speaker": "Хатауэй",
+   "text": "「Синдзи!」",
+   "orig": "Hathaway\n「Shinji!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Джудо",
+   "text": "「Я так и знал, что в решающий момент ты не подведёшь!」",
+   "orig": "Judau\n「I knew you'd come through when the chips were down!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Рёма",
+   "text": "「Мои тренировки ты выдержал до конца не случайно.」",
+   "orig": "Ryoma\n「Making it all the way through my training was no fluke.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Синдзи",
+   "text": "「Спасибо!」",
+   "orig": "Shinji\n「Thank you!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Пуру",
+   "text": "「И ты, Рэй, тоже молодец!」",
+   "orig": "Ple\n「And Rei, you did a great job too!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Элль",
+   "text": "「Скажу честно, у меня все нервы сдали,\n　когда ты приняла на себя весь огонь Ангела,\n　чтобы прикрыть Синдзи.」",
+   "orig": "Elle\n「I'll tell you, that was really nerve-wracking,\n　the way you took all that fire from the Angel\n　in order to cover Shinji.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Рэй",
+   "text": "「Что ж, это ведь мой долг.」",
+   "orig": "Rei\n「Well, that's my duty, after all.」"
+  },
+  {
+   "i": 199,
+   "speaker": "$n",
+   "text": "「И всё-таки это было потрясающе.\n　Уж не та ли это самая сила любви?」",
+   "orig": "$n\n「Just the same, that was an amazing performance.\n　Was that the proverbial power of love, perhaps?」"
+  },
+  {
+   "i": 200,
+   "speaker": "Синдзи",
+   "text": "「Э-эй, погоди-ка, $n!」",
+   "orig": "Shinji\n「H-hey, wait a second, $n!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Аска",
+   "text": "「Что за кисель тут у вас вместо настроения?\n　Терпеть не могу такое.」",
+   "orig": "Asuka\n「What's with the lukewarm mood around here?\n　I really can't stand this sort of thing.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Хатауэй",
+   "text": "「Ты тоже отлично справилась.」",
+   "orig": "Hathaway\n「You did a great job too.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Аска",
+   "text": "「Ч-чего?\n　Не лезь ко мне в друзья!」",
+   "orig": "Asuka\n「W-what?\n　Don't get so buddy-buddy with me!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Хатауэй",
+   "text": "「Да брось, мы теперь товарищи по оружию.\n　Рассчитываю и на тебя, и на Второго.」",
+   "orig": "Hathaway\n「Hey, we're gonna be comrades from now on.\n　I'm gonna be counting on you and Unit-02 both.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Аска",
+   "text": "「Пока ты как следует уважаешь мои способности,\n　мы с тобой прекрасно поладим.」",
+   "orig": "Asuka\n「As long as you show proper respect\n　for my abilities, we'll get along just fine.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Синдзи",
+   "text": "（Потрясающе, Хатауэй!\n　Ты вмиг расположил к себе Сикинами.）",
+   "orig": "Shinji\n（Amazing, Hathaway!\n　You won Shikinami over in no time.）"
+  },
+  {
+   "i": 207,
+   "speaker": "Хатауэй",
+   "text": "（У меня с такими девчонками особая связь.）",
+   "orig": "Hathaway\n（I've got a strange connection with girls like her.）"
+  },
+  {
+   "i": 208,
+   "speaker": "Хатауэй",
+   "text": "（Тут есть один приём. Рассказать какой?）",
+   "orig": "Hathaway\n（There's a trick to it. Wanna hear what it is?）"
+  },
+  {
+   "i": 209,
+   "speaker": "Синдзи",
+   "text": "「Я, я, пожалуй, воздержусь.」",
+   "orig": "Shinji\n「I, I'll pass.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Аска",
+   "text": "「Эй, папенькин сынок!\n　О чём это вы там шепчетесь?」",
+   "orig": "Asuka\n「Hey, Daddy's Boy!\n　What are you whispering about over there?」"
+  },
+  {
+   "i": 211,
+   "speaker": "Синдзи",
+   "text": "「И почему она цепляется именно ко мне?」",
+   "orig": "Shinji\n「Why's she singling me out to pick on?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Амуро",
+   "text": "（Хатауэй.\n　Значит, эта девочка напоминает ему Квес.）",
+   "orig": "Amuro\n（Hathaway.\n　So that girl reminds him of Quess.）"
+  },
+  {
+   "i": 213,
+   "speaker": "Амуро",
+   "text": "（То, что он теперь время от времени может\n　улыбаться, — признак взросления.）",
+   "orig": "Amuro\n（It's a sign of growth that he's able to\n　show a smile from time to time now.）"
+  },
+  {
+   "i": 214,
+   "speaker": "Банагер",
+   "text": "「У вас какой-то довольный вид, командующий Амуро.」",
+   "orig": "Banagher\n「You're looking vaguely happy, Commander Amuro.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Амуро",
+   "text": "「Это потому, что в сегодняшнем бою\n　я понял: надежда всё-таки ещё есть.」",
+   "orig": "Amuro\n「That's because in today's fighting\n　I realized that there's still hope after all.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Джудо",
+   "text": "「Ага!\n　В том, что мы можем объединить силы\n　с Федерацией и Нео-Зеоном!」",
+   "orig": "Judau\n「Aha!\n　That we can actually join forces with the likes of\n　the Federation and Neo Zeon!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Амуро",
+   "text": "「Пусть даже только перед общим врагом или бедой —\n　это значит, что человечество ещё не опустилось на дно.」",
+   "orig": "Amuro\n「Even if it's only to face a common enemy or crisis,\n　it shows that mankind still hasn't hit rock-bottom.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Банагер",
+   "text": "「Я почувствовал то же самое.」",
+   "orig": "Banagher\n「I felt the same way.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Мао",
+   "text": "「Командующий Амуро.\n　Пришло сообщение от командующего Брайта:\n　вам надлежит немедленно вернуться на «Ра Кайлум».」",
+   "orig": "Mao\n「Commander Amuro.\n　We got a message from Commander Bright\n　that you're to return to the Ra Cailum immediately.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Амуро",
+   "text": "「Что-то случилось?」",
+   "orig": "Amuro\n「Did something happen?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Мао",
+   "text": "「С ними связался агент «Мифрила»\n　и передал сведения о крупной\n　операции Нео-Зеона.」",
+   "orig": "Mao\n「They heard from a Mithril agent,\n　and were given information about\n　Neo Zeon's large-scale strategy.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Джудо",
+   "text": "「Что?」",
+   "orig": "Judau\n「What?」"
+  },
+  {
+   "i": 223,
+   "speaker": "Мао",
+   "text": "「Их следующая цель — Дакар.」",
+   "orig": "Mao\n「Their next attack target is Dakar.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Банагер",
+   "text": "「Дакар.」",
+   "orig": "Banagher\n「Dakar.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Амуро",
+   "text": "「Значит, они метят в Совет Федерации.」",
+   "orig": "Amuro\n「They must be targeting the Federation Council.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Найн",
+   "text": "「Хатауэй.」",
+   "orig": "Nine\n「Hathaway.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Хатауэй",
+   "text": "「Что такое, Найн?」",
+   "orig": "Hathaway\n「What is it, Nine?」"
+  },
+  {
+   "i": 231,
+   "speaker": "Найн",
+   "text": "「Данные по мобильной машине «Пенелопа».\n　Хочешь взглянуть?」",
+   "orig": "Nine\n「The data on the Penelope mobile unit.\n　Would you like to see it?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Хатауэй",
+   "text": "「А?」",
+   "orig": "Hathaway\n「Huh?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Найн",
+   "text": "「Пилот той машины, Лэйн Эйм,\n　считает «Кси Гандам» своим соперником.」",
+   "orig": "Nine\n「The pilot of that unit, Lane Aime,\n　sees the Ξ Gundam as a rival.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Найн",
+   "text": "「Так что если ты выйдешь на поле боя на «Кси Гандаме»,\n　скорее всего, схватки с ним тебе не избежать.」",
+   "orig": "Nine\n「So if you show up on the battlefield in the Ξ Gundam,\n　chances are you'll end up in a skirmish with him.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Хатауэй",
+   "text": "「Спасибо.\n　Посмотрю данные позже.」",
+   "orig": "Hathaway\n「Thanks.\n　I'll take a look at the data later.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Найн",
+   "text": "「Что-то ты не слишком заинтересован.」",
+   "orig": "Nine\n「You don't seem very interested.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Хатауэй",
+   "text": "「Не люблю тащить в бой личные чувства.\n　Если он нападёт, придётся дать отпор,\n　но превращать это во вражду я не хочу.」",
+   "orig": "Hathaway\n「I don't like to take personal emotions into battle.\n　If he starts something, I'll have to fight back,\n　but I don't want to turn this into some kind of feud.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Найн",
+   "text": "「Поняла.」",
+   "orig": "Nine\n「Understood.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Найн",
+   "text": "「И всё же, отбросив ту машину всего один раз,\n　мой тактический процессор сумел получить данные,\n　эквивалентные 100 ТакО.」",
+   "orig": "Nine\n「Still, by driving back that mobile unit just once,\n　my tactical processing capacity was able to acquire\n　data equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Хатауэй",
+   "text": "（Лейтенант Лэйн Эйм, значит?）",
+   "orig": "Hathaway\n（Lieutenant Lane Aime, huh?）"
+  },
+  {
+   "i": 241,
+   "speaker": "Хатауэй",
+   "text": "（Что бы я там Найн ни говорил,\n　если Лэйн так на меня зуб точит,\n　повод для беспокойства определённо есть.）",
+   "orig": "Hathaway\n（Despite what I said to Nine,\n　if Lane has that much of a chip on his shoulder,\n　it's definitely a cause for concern.）"
+  },
+  {
+   "i": 245,
+   "speaker": "Найн",
+   "text": "「Рэй.」",
+   "orig": "Nine\n「Rei.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Рэй",
+   "text": "「Что такое?」",
+   "orig": "Rei\n「What is it?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Найн",
+   "text": "「У меня зрение и слух куда острее человеческих.」",
+   "orig": "Nine\n「I've got much better sight and hearing than humans.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Найн",
+   "text": "「Я вовсе не подглядывала, но не могла не заметить,\n　что на твоём лице была улыбка.」",
+   "orig": "Nine\n「And I didn't mean to be a voyeur or anything, but I\n　couldn't help noticing that you had a smile on her face.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Рэй",
+   "text": "「Вот как?」",
+   "orig": "Rei\n「Is that so?」"
+  },
+  {
+   "i": 250,
+   "speaker": "Аска",
+   "text": "「Андроид и чопорная кукла.\n　Отличная из нас парочка.」",
+   "orig": "Asuka\n「An android and a prim and proper puppet.\n　What a perfect combo we make.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Найн",
+   "text": "「Злые слова прямо из ниоткуда. Может быть,\n　ты защищаешь себя, набрасываясь на других?」",
+   "orig": "Nine\n「Malicious remarks from out of nowhere. Could it be\n　that you're protecting yourself by lashing out at others?」"
+  },
+  {
+   "i": 252,
+   "speaker": "Аска",
+   "text": "「Сказано как настоящим ИИ тактического анализа.\n　Только я не в настроении выслушивать классификации\n　от кого-то с такой самодовольной рожей.」",
+   "orig": "Asuka\n「Spoken like a true tactical analysis AI.\n　But I'm in no mood to hear the categorizations\n　of someone with such a smug look on their face.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Найн",
+   "text": "「Тогда покажи мне себя настоящую, Аска.\n　Мне правда искренне интересно.」",
+   "orig": "Nine\n「Well then, show me your true self, Asuka.\n　I really am sincerely interested in you.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Аска",
+   "text": "「Ч-чего тебе надо?\n　Слишком ты любопытная для куклы.」",
+   "orig": "Asuka\n「W-what's with you?\n　You're being pretty nosy for a puppet.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Найн",
+   "text": "「Ну, понимаешь, я ведь тоже, как и ты,\n　многому здесь научилась.」",
+   "orig": "Nine\n「Well, you know, just like you,\n　I've learned all sorts of things here.」"
+  }
+ ]
+}
