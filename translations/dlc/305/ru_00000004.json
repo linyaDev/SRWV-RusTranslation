@@ -1,0 +1,952 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Харри",
+   "text": "「Аматэрасу уже почти в зоне видимости.」",
+   "orig": "Harry\n「The Amaterasu is almost in sight.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Сабуроута",
+   "text": "「Кто-то тут в приподнятом настроении.」",
+   "orig": "Saburouta\n「Somebody's in high spirits.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Харри",
+   "text": "「Займите своё место,\n　коммандер Такасуги.」",
+   "orig": "Harry\n「Please take your seat,\n　Commander Takasugi.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Харри",
+   "text": "「И обращайтесь ко мне\n　«мичман Макиби».」",
+   "orig": "Harry\n「And please refer to me\n　as Ensign Makibi.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Сабуроута",
+   "text": "「Ты серьёзно?\n　В штабе ты сам говорил,\n　что можно звать тебя просто Харри.」",
+   "orig": "Saburouta\n「Are you serious?\n　You said we could call you\n　Harry back at Headquarters.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Харри",
+   "text": "「Я говорил, что капитан может звать меня Харри.」",
+   "orig": "Harry\n「I said the captain could call me Harry.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Сабуроута",
+   "text": "「Ага. Хм...\n　По-моему, это двойные стандарты.」",
+   "orig": "Saburouta\n「Oh. Hrm...\n　Sounds like a double-standard to me.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Харри",
+   "text": "「О-она мой командир,\n　вот почему!」",
+   "orig": "Harry\n「Sh-she's my superior,\n　that's why!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Сабуроута",
+   "text": "「А я, значит, не старпом?」",
+   "orig": "Saburouta\n「And I'm not Executive Officer?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Харри",
+   "text": "「Н-ну, старпом, но—」",
+   "orig": "Harry\n「W-well you are, but—」"
+  },
+  {
+   "i": 10,
+   "speaker": "Рури",
+   "text": "「Довольно, вы оба.\n　«Надэсико B» в зоне повышенной готовности.」",
+   "orig": "Ruri\n「That will be enough, you two.\n　The Nadesico B is in a high alert zone.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Сабуроута",
+   "text": "「Простите, капитан.」",
+   "orig": "Saburouta\n「Sorry, Captain.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Рури",
+   "text": "「Позвольте напомнить нашу задачу.」",
+   "orig": "Ruri\n「Allow me to review our mission.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Рури",
+   "text": "「«Надэсико B» ведёт наблюдение за объектами плана «Хисаго»,\n　чтобы отвлечь и подавить продолжающийся террор\n　со стороны «ястребов» бывшей Юпитерианской федерации.」",
+   "orig": "Ruri\n「The Nadesico B is to monitor Hisago Plan facilities in\n　hopes of diverting and suppressing the continued terrorism\n　on the part of the former Jovian Federation's war hawks.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Харри",
+   "text": "「А что вы думаете об этих событиях, коммандер?」",
+   "orig": "Harry\n「And what do you think about these events, Commander?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Сабуроута",
+   "text": "「Думаю, обидно,\n　что такое случилось после того,\n　как бывшие юпитерианцы помирились с Федерацией Земли.」",
+   "orig": "Saburouta\n「I think it's a shame\n　that this would happen after these former Jovians\n　made up with the Earth Federation.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Сабуроута",
+   "text": "「Ну, с учётом того, как смазанно кончилась Война с ящерами,\n　мы знали, что найдутся группы,\n　которых перемирие не слишком обрадовало.」",
+   "orig": "Saburouta\n「Well, with the way the Lizard War petered out,\n　we knew there were groups out there\n　who weren't too pleased with the cease-fire.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Рури",
+   "text": "「И именно они стоят за этими терактами.\n　Считаете ли вы эти разрозненные атаки попыткой\n　дестабилизировать Федерацию Земли?」",
+   "orig": "Ruri\n「And those are the ones behind these acts of terrorism.\n　Would you consider these sporadic attacks an attempt\n　at destabilizing the Earth Federation?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Сабуроута",
+   "text": "「Ну, дураками их не назовёшь.\n　Наверняка они делают это неспроста,\n　вот только я не знаю зачем...」",
+   "orig": "Saburouta\n「Well they're not stupid.\n　They have to be doing this for a reason,\n　not that I know what it is...」"
+  },
+  {
+   "i": 19,
+   "speaker": "Харри",
+   "text": "（Стоит появиться капитану —\n　и он тут же сама\n　галантность...）",
+   "orig": "Harry\n（The captain shows up\n　and all of a sudden he's\n　the perfect gentleman...）"
+  },
+  {
+   "i": 20,
+   "speaker": "Рури",
+   "text": "「Нам придётся как следует поработать приманкой.」",
+   "orig": "Ruri\n「We'll have to do our best to serve as a decoy.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Харри",
+   "text": "「Что?!」",
+   "orig": "Harry\n「What?!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Рури",
+   "text": "「Это корабль класса «Надэсико».」",
+   "orig": "Ruri\n「This is a Nadesico-class ship.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Рури",
+   "text": "「И раз он преемник «Надэсико A»,\n　он непременно привлечёт внимание\n　этих радикалов.」",
+   "orig": "Ruri\n「And, being the successor to the Nadesico A,\n　it's bound to come to the attention\n　of these hardliners.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Сабуроута",
+   "text": "「Ну, пожалуй, война не столько смазанно кончилась,\n　сколько «Надэсико A»\n　положила ей конец.」",
+   "orig": "Saburouta\n「Well, I guess it was less petering out\n　than the Nadesico A putting an end\n　to the Lizard War.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Сабуроута",
+   "text": "「Одно существование «Надэсико B»,\n　наверное, уже выводит их из себя.」",
+   "orig": "Saburouta\n「The Nadesico B even existing\n　is probably enough to rustle their jimmies.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Харри",
+   "text": "「То есть мы не стали делать Бозонный прыжок\n　от Сирахимэ к Аматэрасу потому, что—」",
+   "orig": "Harry\n「So you're saying the reason we didn't Boson Jump\n　from Shirahime to Amaterasu was because—」"
+  },
+  {
+   "i": 27,
+   "speaker": "Рури",
+   "text": "「Именно.\n　Мы показываем им, что «Надэсико B» здесь.」",
+   "orig": "Ruri\n「Exactly.\n　We're showing them that the Nadesico B is here.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Рури",
+   "text": "「А заодно и сами\n　наберёмся немного опыта.」",
+   "orig": "Ruri\n「In addition to giving us all\n　a bit more experience.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Сабуроута",
+   "text": "（Капитан вернулась к гражданской жизни,\n　а её пытались похитить ради её таланта оператора.）",
+   "orig": "Saburouta\n（The captain had gone back to civilian life,\n　and they tried to kidnap her for her skill as an operator.）"
+  },
+  {
+   "i": 30,
+   "speaker": "Сабуроута",
+   "text": "（Она столько пережила,\n　а теперь ещё и в приманки...）",
+   "orig": "Saburouta\n（She's been through so much,\n　and now she's going to play decoy...）"
+  },
+  {
+   "i": 31,
+   "speaker": "Сабуроута",
+   "text": "（Невероятно...）",
+   "orig": "Saburouta\n（I can't believe this...）"
+  },
+  {
+   "i": 32,
+   "speaker": "Харри",
+   "text": "「Капитан!\n　К нам приближаются неопознанные машины!」",
+   "orig": "Harry\n「Captain!\n　We have unknown units closing in!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Рури",
+   "text": "「Похоже, они клюнули.」",
+   "orig": "Ruri\n「It would seem they've taken the bait.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Рури",
+   "text": "「Вот и они. Уцелевшие юпитерианские радикалы.」",
+   "orig": "Ruri\n「There they are. The hardline Jovian survivors.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Харри",
+   "text": "「«Супер Эстивалис» коммандера Такасуги стартовал!」",
+   "orig": "Harry\n「Commander Takasugi's Super Auestivalis has launched!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Харри",
+   "text": "「Дальше нельзя, коммандер!」",
+   "orig": "Harry\n「That's far enough, Commander!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Сабуроута",
+   "text": "「Отвлекать врага на передовой — моя работа!」",
+   "orig": "Saburouta\n「Frontline diversions are my job!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Сабуроута",
+   "text": "「Теперь всё на тебе, Харри!\n　Позаботься о капитане\n　и о «Надэсико B»!」",
+   "orig": "Saburouta\n「It's up to you, Harry!\n　Take care of the Captain\n　and the Nadesico B!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Харри",
+   "text": "「Е-есть!」",
+   "orig": "Harry\n「Y-yes, sir!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Рури",
+   "text": "「Эти «Дзин», судя по всему, охотятся за «Надэсико B».\n　Выманим их и контратакуем.」",
+   "orig": "Ruri\n「These Jin Series are apparently after the Nadesico B.\n　We'll lure them out and counterattack.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Харри",
+   "text": "「Так точно!」",
+   "orig": "Harry\n「Yes, ma'am!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Рури",
+   "text": "「Начать атаку.\n　Откроем боевой путь «Надэсико B» победой.」",
+   "orig": "Ruri\n「Begin the attack.\n　We'll start the Nadesico B's campaign with a victory.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Рури",
+   "text": "（Сабуроута старается изо всех сил,\n　но сил у противника слишком много.）",
+   "orig": "Ruri\n（Saburouta's trying his best,\n　but the enemy forces are just too overwhelming.）"
+  },
+  {
+   "i": 44,
+   "speaker": "Рури",
+   "text": "（Будем считать, что данные о враге собраны,\n　и отойдём при первой же возможности.）",
+   "orig": "Ruri\n（We can consider this intel gathered on the enemy\n　and withdraw once we get the opportunity.）"
+  },
+  {
+   "i": 45,
+   "speaker": "Харри",
+   "text": "「Капитан!\n　Нам по связи предлагают помощь!」",
+   "orig": "Harry\n「Captain!\n　We've received a communication offering help!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Рури",
+   "text": "「От кого?」",
+   "orig": "Ruri\n「From who?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Харри",
+   "text": "「Это «Селестиал Бин»!」",
+   "orig": "Harry\n「It's from Celestial Being!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Фелдт",
+   "text": "「Этот белый корабль.\n　Похоже, новый корабль класса «Надэсико».」",
+   "orig": "Feldt\n「That white ship.\n　It looks to be a new Nadesico-class.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Лассе",
+   "text": "「Юпитерианцы такое\n　просто так не оставят.」",
+   "orig": "Lasse\n「No way the Jovians'll\n　leave it be.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Сумераги",
+   "text": "「Мы не можем их бросить.\n　Действуй, Локон.」",
+   "orig": "Sumeragi\n「We can't leave them here.\n　You're on it, Lockon.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Локон",
+   "text": "「Сэцуна занят починкой QAN[T].\n　Устрою им столько шума, что хватит и ему,\n　и Аллилуйе, и Тиерии.」",
+   "orig": "Lockon\n「Setsuna's busy fixing up the QAN[T].\n　I'll be sure to stir up enough trouble for him,\n　Allelujah, and Tieria.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Харри",
+   "text": "「Бесполезно, капитан.\n　«Селестиал Бин» не отвечает\n　на наши сообщения.」",
+   "orig": "Harry\n「It's no good, Captain.\n　Celestial Being isn't responding\n　to our messages.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Рури",
+   "text": "「Это в их духе.\n　Они предложили помощь, и они нам не враги.\n　Можно их не трогать.」",
+   "orig": "Ruri\n「That's their modus operandi.\n　They've offered their help and they're not our enemy.\n　We can ignore them.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Харри",
+   "text": "「Но, капитан—」",
+   "orig": "Harry\n「But Captain—」"
+  },
+  {
+   "i": 55,
+   "speaker": "Сабуроута",
+   "text": "「Не волнуйся, Харри.\n　Капитан не раз сражалась\n　бок о бок с «Селестиал Бин».」",
+   "orig": "Saburouta\n「Don't worry, Harry.\n　The captain's shared the battlefield with\n　Celestial Being plenty of times.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Харри",
+   "text": "「Правда?」",
+   "orig": "Harry\n「You have?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рури",
+   "text": "「Тогда я была оператором.」",
+   "orig": "Ruri\n「I was an operator at the time.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Рури",
+   "text": "「Теперь мы с ними на равных.\n　Пора ударить и собрать данные.」",
+   "orig": "Ruri\n「We're on a level playing field now.\n　Time to hit them and gather intel.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Сабуроута",
+   "text": "「Рад вас видеть, «Селестиал Бин».\n　Юпитерианцы нас уже крепко потрепали,\n　так что сегодня надеюсь на вас.」",
+   "orig": "Saburouta\n「Good to see you, Celestial Being.\n　We got hit hard by the Jovians before,\n　but I hope we can count on you today.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Милейна",
+   "text": "「В сектор на большой скорости входят машины!」",
+   "orig": "Mileina\n「We've got units approaching this sector fast!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Лассе",
+   "text": "「Это подкрепление?!」",
+   "orig": "Lasse\n「Are they reinforcements?!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Харри",
+   "text": "「У нас нет по ним никаких данных!」",
+   "orig": "Harry\n「We don't have any data on them!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Сабуроута",
+   "text": "「Это новые модели.\n　Значит, это не просто уцелевшие!」",
+   "orig": "Saburouta\n「They're new models.\n　Which means they're not just survivors!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Локон",
+   "text": "「Чутьё мне подсказывает,\n　что пилоты красных машин совсем не обычные.」",
+   "orig": "Lockon\n「I'm gonna go with my gut here and say\n　the red pilots aren't exactly normal.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Локон",
+   "text": "（Дурно пахнет.\n　Прямо как от Али Аль-Саахеза.）",
+   "orig": "Lockon\n（This stinks.\n　Smells a lot like Ali Al-Saachez to me.）"
+  },
+  {
+   "i": 66,
+   "speaker": "Хокусин",
+   "text": "「Надо же. Не ожидал такого\n　на испытаниях «Ятэнко».」",
+   "orig": "Hokushin\n「Well, well. Wasn't expecting this on\n　the Yatenko's test run.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Хокусин",
+   "text": "「Вы доставили нам достаточно хлопот.\n　Пора прощаться.」",
+   "orig": "Hokushin\n「You've caused us enough trouble.\n　Time to say goodbye.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Фелдт",
+   "text": "「К нам приближаются ещё машины!」",
+   "orig": "Feldt\n「We've got more units approaching!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Сумераги",
+   "text": "「Ещё подкрепление противника?!」",
+   "orig": "Sumeragi\n「More enemy reinforcements?!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Фелдт",
+   "text": "「Нет!\n　У них сигналы Федерации Земли!」",
+   "orig": "Feldt\n「No!\n　They've got Earth Federation signals!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Сумераги",
+   "text": "「Это новые GN-X!」",
+   "orig": "Sumeragi\n「They're new GN-Xs!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Колясур",
+   "text": "「А ну постой, красный!\n　Ты тут моих подчинённых обижаешь!」",
+   "orig": "Colasour\n「Hold up just a minute, red one!\n　You've been picking on my underlings!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Хокусин",
+   "text": "「О. Так ты, значит, у них главный.\n　Я думал оставить тебя в живых — рассказывать об этом,\n　но ты, похоже, жаждешь смерти.」",
+   "orig": "Hokushin\n「Ah. And you must be the leader.\n　I'd hoped to leave you alive to tell the tale,\n　but it seems you've a hankering for death.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Колясур",
+   "text": "「Да заткнись ты!\n　Ты сорвал испытания GN-XIV,\n　и за это ты мне ответишь!」",
+   "orig": "Colasour\n「Would you shut up?!\n　You screwed with the GN-XIV test run\n　and you're gonna pay for that!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Локон",
+   "text": "（Что бы там у них ни было,\n　он идёт на красного.）",
+   "orig": "Lockon\n（Whatever just happened,\n　he's going after the red one.）"
+  },
+  {
+   "i": 76,
+   "speaker": "Сумераги",
+   "text": "「Сосредоточься на противнике.\n　Твоя цель — красная машина.」",
+   "orig": "Sumeragi\n「Focus on the enemy.\n　Your target is the red one.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Хокусин",
+   "text": "「«Надэсико» и «Селестиал Бин».\n　И те, и другие стоят у нас на пути...」",
+   "orig": "Hokushin\n「Nadesico and Celestial Being.\n　Both stand in our way...」"
+  },
+  {
+   "i": 78,
+   "speaker": "Хокусин",
+   "text": "「Вы достойны лишь уничтожения...\n　Тьма «Ятэнко» поглотит вас.」",
+   "orig": "Hokushin\n「All you're worthy of is destruction...\n　Swallowed by the darkness of Yatenko.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Хокусин",
+   "text": "「Этого и близко не хватит, чтобы остановить эту машину.」",
+   "orig": "Hokushin\n「That's not nearly enough to stop this machine.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Сабуроута",
+   "text": "「Да вы издеваетесь...\n　Оно всё ещё движется!」",
+   "orig": "Saburouta\n「You gotta be kidding me...\n　It's still moving!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Хокусин",
+   "text": "「Недурно.\n　Впрочем, меньшего я и не ждал.」",
+   "orig": "Hokushin\n「You've done well.\n　Of course, I'd expect no less.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Локон",
+   "text": "「Проклятье!\n　«Забанья» этого не вытянет!\n　Он на пределе!」",
+   "orig": "Lockon\n「Damn it all!\n　The Zabanya isn't up for this!\n　It's at its limit!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Хокусин",
+   "text": "「Пожалуй, на сегодня довольно.\n　Но хотелось бы прихватить сувенир.」",
+   "orig": "Hokushin\n「I believe that's enough for today.\n　But I would so love a souvenir.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Сабуроута",
+   "text": "「Капитан!\n　Уклоняйтесь!」",
+   "orig": "Saburouta\n「Captain!\n　Take evasive maneuvers!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Хокусин",
+   "text": "「Слишком медленно!」",
+   "orig": "Hokushin\n「You're too slow!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Хокусин",
+   "text": "「Прощай,\n　белый корабль!」",
+   "orig": "Hokushin\n「Say goodbye,\n　white ship!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Колясур",
+   "text": "「Ну уж нет, не выйдет!」",
+   "orig": "Colasour\n「Oh, like that's gonna work!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Колясур",
+   "text": "「Попался!\n　Никуда ты не денешься, приятель!」",
+   "orig": "Colasour\n「Gotcha!\n　You're not going anywhere, buddy!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Хокусин",
+   "text": "「Гх!」",
+   "orig": "Hokushin\n「Gah!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Колясур",
+   "text": "「Я кое-чему научился в бою с тобой!\n　Чтобы пробить твоё поле,\n　надо сцепиться с тобой вплотную!」",
+   "orig": "Colasour\n「I learned a little something fighting you!\n　I gotta grapple with you if I wanna break\n　through that field of yours!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Хокусин",
+   "text": "「Глупец!」",
+   "orig": "Hokushin\n「You're a fool!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Колясур",
+   "text": "「А-а-а-а-а!」",
+   "orig": "Colasour\n「Aaaaaaah!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Хокусин",
+   "text": "「Какая глупость...\n　Да проклянёт меня Аид за беспечность.」",
+   "orig": "Hokushin\n「How stupid...\n　Hades curse me for my carelessness.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Хокусин",
+   "text": "「Зато теперь они знают, какой тяжкой ошибкой\n　было бы меня недооценить.」",
+   "orig": "Hokushin\n「But now they know what a grave error it\n　would be to underestimate me.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Хокусин",
+   "text": "「«Надэсико» и «Селестиал Бин».\n　Надеюсь, мысль о новой встрече со мной вас ужасает.」",
+   "orig": "Hokushin\n「Nadesico and Celestial Being.\n　I do hope the prospect of meeting me again terrifies you.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Локон",
+   "text": "「Проклятье!\n　Ему всего-то и надо было пустить нам кровь!」",
+   "orig": "Lockon\n「Damn it all!\n　All he wanted to do was draw blood!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Сабуроута",
+   "text": "「Погодите-ка. Он вполне может быть из отряда\n　убийц командира Кусакабэ.」",
+   "orig": "Saburouta\n「Wait a second. He might be with Commander\n　Kusakabe's assassination squad.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Харри",
+   "text": "「Кто бы ни сидел в том GN-X,\n　он защищал «Надэсико»...」",
+   "orig": "Harry\n「Whoever it was in the GN-X,\n　he was protecting the Nadesico...」"
+  },
+  {
+   "i": 99,
+   "speaker": "Рури",
+   "text": "「Хм...」",
+   "orig": "Ruri\n「Hmm...」"
+  },
+  {
+   "i": 100,
+   "speaker": "Фелдт",
+   "text": "「Сумераги!\n　Кто бы он ни был, он жив!」",
+   "orig": "Feldt\n「Sumeragi!\n　Whoever he is, he's still alive!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Сумераги",
+   "text": "「Что?!」",
+   "orig": "Sumeragi\n「What?!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Фелдт",
+   "text": "「С обломков идёт\n　сигнал SOS!」",
+   "orig": "Feldt\n「We're receiving an SOS\n　from the wreckage!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Милейна",
+   "text": "「Да как вообще\n　можно было такое пережить?!」",
+   "orig": "Mileina\n「How in the heck\n　could anybody survive that?!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Лассе",
+   "text": "「Он что, бессмертный?!」",
+   "orig": "Lasse\n「He has to be immortal!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Сумераги",
+   "text": "（Я уже такое слышала.\n　Пилот Федерации Земли, чьё имя стало\n　синонимом бессмертия...）",
+   "orig": "Sumeragi\n（I've heard this before.\n　An Earth Federation pilot whose name is synonymous\n　with immortality...）"
+  },
+  {
+   "i": 106,
+   "speaker": "Сумераги",
+   "text": "（Значит, это...）",
+   "orig": "Sumeragi\n（Which means he must be—）"
+  },
+  {
+   "i": 107,
+   "speaker": "Харри",
+   "text": "「Коммандер Такасуги подтверждает: выживший один.」",
+   "orig": "Harry\n「Commander Takasugi has confirmed one survivor.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Харри",
+   "text": "「Его группа сообщает,\n　что немедленно доставит его к нам.」",
+   "orig": "Harry\n「His team has messaged us\n　saying they'll be over immediately.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Рури",
+   "text": "「Какое облегчение...」",
+   "orig": "Ruri\n「Thank goodness...」"
+  },
+  {
+   "i": 110,
+   "speaker": "Харри",
+   "text": "「Капитан...」",
+   "orig": "Harry\n「Captain...」"
+  },
+  {
+   "i": 111,
+   "speaker": "Рури",
+   "text": "「Я должна извиниться.\n　Если бы не тот пилот,\n　мы бы лишились жизни.」",
+   "orig": "Ruri\n「I have to apologize.\n　We'd have lost our lives if it\n　weren't for that pilot.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Рури",
+   "text": "「Как капитан этого корабля, я беру вину на себя.」",
+   "orig": "Ruri\n「I take responsibility as captain of this ship.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Сабуроута",
+   "text": "「Нет... Виноват только я.\n　Я должен был защищать вас\n　куда лучше.」",
+   "orig": "Saburouta\n「No... The fault is all mine.\n　I should've done a better job\n　protecting you guys.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Рури",
+   "text": "「Но если бы ты погиб,\n　Сабуроута...\n　я бы правда заплакала.」",
+   "orig": "Ruri\n「But if you'd lost\n　your life, Saburouta...\n　I honestly would have cried.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Сабуроута",
+   "text": "「Капитан...」",
+   "orig": "Saburouta\n「Captain...」"
+  },
+  {
+   "i": 116,
+   "speaker": "Рури",
+   "text": "「И не только из-за тебя. То же самое\n　с любым на этом корабле.\n　Я бы правда заплакала.」",
+   "orig": "Ruri\n「But not just for you. I'd do the same if\n　anyone on this ship had.\n　I honestly would have cried.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Рури",
+   "text": "「Мне нужно, чтобы вы все остались живы.\n　И я сделаю для этого всё, что в моих силах.」",
+   "orig": "Ruri\n「I'm going to need all of you to stay alive.\n　And I'm going to do my best to make sure that happens.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Рури",
+   "text": "「Мы должны держаться вместе и сражаться на «Надэсико B».」",
+   "orig": "Ruri\n「We all need to stand together and fight with the Nadesico B.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Сабуроута",
+   "text": "「Слышал, Харри?\n　Будем стоять и сражаться, верно?」",
+   "orig": "Saburouta\n「You heard her, Harry.\n　We're gonna stand and fight, aren't we?」"
+  },
+  {
+   "i": 120,
+   "speaker": "Харри",
+   "text": "「Будем, Сабуроута.\n　Защитим этот корабль и нашего капитана.」",
+   "orig": "Harry\n「We are, Saburouta.\n　We'll protect this ship and our captain.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Сумераги",
+   "text": "（Новая «Надэсико»...\n　И капитан у неё, похоже, достойный.）",
+   "orig": "Sumeragi\n（The new Nadesico...\n　Run by a worthy captain, it seems.）"
+  },
+  {
+   "i": 122,
+   "speaker": "Сумераги",
+   "text": "（Мы наверняка ещё окажемся на одном поле боя.\n　Перспектива не самая радостная...）",
+   "orig": "Sumeragi\n（We'll definitely be sharing the battlefield again.\n　Not exactly a happy prospect...）"
+  },
+  {
+   "i": 123,
+   "speaker": "Харри",
+   "text": "「«Селестиал Бин» отходит.」",
+   "orig": "Harry\n「Celestial Being is retreating.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Сабуроута",
+   "text": "「Раз уж и они здесь,\n　значит, та публика и правда зашевелилась.」",
+   "orig": "Saburouta\n「Them being out here\n　means the bad guys really are on the move.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Рури",
+   "text": "「И нам нельзя отставать. Нам и «Надэсико B».」",
+   "orig": "Ruri\n「And we'll need to keep up. We and the Nadesico B.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Рури",
+   "text": "（Акито. Юрика.\n　Они — наши новые товарищи.）",
+   "orig": "Ruri\n（Akito. Yurika.\n　They are our new comrades.）"
+  },
+  {
+   "i": 127,
+   "speaker": "Рури",
+   "text": "（И я буду стараться изо всех сил.\n　Вы меня этому научили...）",
+   "orig": "Ruri\n（And I'll do my best.\n　You've taught me that much...）"
+  },
+  {
+   "i": 128,
+   "speaker": "Хокусин",
+   "text": "「Этот корабль слишком долго стоял у нас на пути!\n　Пора прощаться!」",
+   "orig": "Hokushin\n「That ship has stood in our way long enough!\n　Time to say goodbye!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Рури",
+   "text": "「Нужно быть осторожнее.\n　С этой новой моделью что-то не так.」",
+   "orig": "Ruri\n「We need to be careful.\n　There's something strange about that new model.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Рури",
+   "text": "（А раз она здесь, значит,\n　теракты были не более\n　чем отвлекающим манёвром.）",
+   "orig": "Ruri\n（And it being here means the\n　terrorist attacks were little\n　more than a diversion.）"
+  },
+  {
+   "i": 131,
+   "speaker": "Сабуроута",
+   "text": "（Эти движения мне знакомы!\n　Неужели это отряд убийц?!\n　Такие машины как раз по их части!）",
+   "orig": "Saburouta\n（I know these movements!\n　Are they the assassination squad?!\n　They're supposed to pilot these!）"
+  },
+  {
+   "i": 132,
+   "speaker": "Сабуроута",
+   "text": "（А если так, то я знаю, кто за этим стоит!）",
+   "orig": "Saburouta\n（And if that's true, then I know who's behind this!）"
+  },
+  {
+   "i": 133,
+   "speaker": "Хокусин",
+   "text": "（А, «Селестиал Бин».\n　Вы здорово нам мешали на той войне.）",
+   "orig": "Hokushin\n（Ah, Celestial Being.\n　You tripped us up quite a bit in the war.）"
+  },
+  {
+   "i": 134,
+   "speaker": "Хокусин",
+   "text": "「Мы намерены продолжить дело Аэолии Шенберга.\n　И вы поймёте, какой глупостью было\n　встать на сторону Федерации!」",
+   "orig": "Hokushin\n「We aim to continue Aeolia Schenberg's legacy.\n　And you'll learn the folly\n　of siding with the Federation!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Локон",
+   "text": "（Так и знал!\n　Он точно такой же,\n　как Аль-Саахез!）",
+   "orig": "Lockon\n（I knew it!\n　He's just like\n　Al-Saachez!）"
+  },
+  {
+   "i": 136,
+   "speaker": "Локон",
+   "text": "（Ты убиваешь не по необходимости,\n　а потому что тебе это в радость.\n　Я покончу с тобой прямо здесь!）",
+   "orig": "Lockon\n（You kill because you enjoy it,\n　not because you have to.\n　I'm ending you right here!）"
+  },
+  {
+   "i": 137,
+   "speaker": "Харри",
+   "text": "「К-капитан!\n　Противник приближается!」",
+   "orig": "Harry\n「C-Captain!\n　Enemy incoming!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Рури",
+   "text": "「Успокойся, Харри.」",
+   "orig": "Ruri\n「Calm yourself, Harry.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Харри",
+   "text": "「Е-есть, капитан!」",
+   "orig": "Harry\n「Y-yes, ma'am!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Рури",
+   "text": "「В первый раз страшно всем.\n　Но этот страх нужно побороть.」",
+   "orig": "Ruri\n「Everyone is scared their first time.\n　But you have to conquer that fear.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Харри",
+   "text": "「П-понял, капитан!」",
+   "orig": "Harry\n「I-I hear you, ma'am!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Рури",
+   "text": "（Капитан защищает свой корабль.）",
+   "orig": "Ruri\n（A captain defends their ship.）"
+  },
+  {
+   "i": 143,
+   "speaker": "Рури",
+   "text": "（Я должна защитить «Надэсико B»\n　и её экипаж.）",
+   "orig": "Ruri\n（I must protect the Nadesico B\n　and its crew.）"
+  },
+  {
+   "i": 144,
+   "speaker": "Сабуроута",
+   "text": "（Много времени прошло с тех пор,\n　как меня приставили охранять капитана.）",
+   "orig": "Saburouta\n（It's been a long time since\n　I was assigned to protect the captain.）"
+  },
+  {
+   "i": 145,
+   "speaker": "Сабуроута",
+   "text": "（Она потеряла семью Тэнкава.\n　Из-за этого и оказалась в городе Оисо.）",
+   "orig": "Saburouta\n（She'd lost the Tenkawas.\n　Ended up in Oiso City because of that.）"
+  },
+  {
+   "i": 146,
+   "speaker": "Сабуроута",
+   "text": "（Я старался быть нормальным телохранителем.\n　Держаться спокойно, не высовываться.\n　А потом она мне понравилась...）",
+   "orig": "Saburouta\n（I tried to be a proper bodyguard.\n　Play it cool, melt into the background.\n　But then I started to like her...）"
+  },
+  {
+   "i": 147,
+   "speaker": "Сабуроута",
+   "text": "（И с тех пор ни черта не изменилось!\n　Я тебя защищу, капитан Рури!）",
+   "orig": "Saburouta\n（And not a damn thing has changed!\n　You're under my protection, Captain Ruri!）"
+  },
+  {
+   "i": 148,
+   "speaker": "Сумераги",
+   "text": "（Аэолия Шенберг\n　поддерживал Юпитерианскую федерацию.\n　Их почти можно считать роднёй...）",
+   "orig": "Sumeragi\n（Aeolia Schenberg\n　supported the Jovian Federation.\n　We could almost consider them family...）"
+  },
+  {
+   "i": 149,
+   "speaker": "Сумераги",
+   "text": "（Тем больше у нас причин их остановить!\n　Этот мир заслуживает покоя!）",
+   "orig": "Sumeragi\n（Which gives us all the more reason to stop them!\n　This world deserves peace!）"
+  },
+  {
+   "i": 150,
+   "speaker": "Локон",
+   "text": "「Я единственный действующий Мейстер,\n　а «Забанья» и создавался для боя\n　сразу против многих!」",
+   "orig": "Lockon\n「I'm the only active Meister,\n　and the Zabanya was designed to\n　take on multiple opponents!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Локон",
+   "text": "「Ну, давайте!\n　Один вы или сотня — уложу всех!」",
+   "orig": "Lockon\n「Bring it on!\n　One or a hundred, I'm taking you all down!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Хокусин",
+   "text": "「Гонишься за мной?\n　Видно, тоскуешь по сладким объятиям Аида!」",
+   "orig": "Hokushin\n「Chase me, will you?\n　You must yearn for the sweet embrace of Hades!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Колясур",
+   "text": "「Угрожай сколько влезет!\n　Сегодня ты кое-что обо мне узнаешь!」",
+   "orig": "Colasour\n「Threaten me all you want!\n　You're gonna learn something about me today!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Колясур",
+   "text": "「Да, меня зовут Сладким Колясуром,\n　но до того звали Бессмертным Колясуром!\n　Аид? Ну так покажи, чего стоят твои слова!」",
+   "orig": "Colasour\n「Sure, people call me Colasour the Sweet, \n　but before that they called me Colasour the Immortal!\n　Hades? Time to put your money where your mouth is!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Колясур",
+   "text": "「Скажу лишь, что сегодня я здорово зол!」",
+   "orig": "Colasour\n「I'll just tell you I'm pretty ticked off today!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Колясур",
+   "text": "「Красного я беру на себя!\n　Можете на меня положиться!」",
+   "orig": "Colasour\n「I'm taking out the red one myself!\n　You can count on that!」"
+  },
+  {
+   "i": 157,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

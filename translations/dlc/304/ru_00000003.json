@@ -1,0 +1,598 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "Найн",
+   "text": "「Запись № 01101...\n　Загрузка данных...」",
+   "orig": "Nine\n「Record No. 01101...\n　Loading data...」"
+  },
+  {
+   "i": 4,
+   "speaker": "Найн",
+   "text": "「Эти данные относятся ко времени, когда Тобиа прошёл\n　сквозь разлом и попал под опеку «Селестиал Бин».」",
+   "orig": "Nine\n「This data is from when Tobia had traversed the rift\n　and found himself in the care of Celestial Being.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Найн",
+   "text": "「Лотти и Вельта тогда\n　ещё и в помине не было.」",
+   "orig": "Nine\n「Lottie and Velt were not yet\n　in the picture.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Найн",
+   "text": "「Запись № 01101...\n　Загрузка данных...」",
+   "orig": "Nine\n「Record No. 01101...\n　Loading data...」"
+  },
+  {
+   "i": 7,
+   "speaker": "Найн",
+   "text": "「Эти данные относятся ко времени, когда Тобиа прошёл\n　сквозь межпространственный разлом и попал под опеку\n　«Селестиал Бин».」",
+   "orig": "Nine\n「This data is from when Tobia had traversed the\n　dimensional rift and found himself in the care of\n　Celestial Being.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Найн",
+   "text": "「Запись № 01101...\n　Загрузка данных...」",
+   "orig": "Nine\n「Record No. 01101...\n　Loading data...」"
+  },
+  {
+   "i": 12,
+   "speaker": "Найн",
+   "text": "「Эти данные относятся ко времени, когда Тобиа прошёл\n　сквозь разлом и попал под опеку «Селестиал Бин».」",
+   "orig": "Nine\n「This data is from when Tobia had traversed the rift\n　and found himself in the care of Celestial Being.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Найн",
+   "text": "「Лотти и Вельта тогда\n　ещё и в помине не было.」",
+   "orig": "Nine\n「Lottie and Velt were not yet\n　in the picture.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Найн",
+   "text": "「Запись № 01101...\n　Загрузка данных...」",
+   "orig": "Nine\n「Record No. 01101...\n　Loading data...」"
+  },
+  {
+   "i": 15,
+   "speaker": "Найн",
+   "text": "「Эти данные относятся ко времени, когда Тобиа прошёл\n　сквозь межпространственный разлом и попал под опеку\n　«Селестиал Бин».」",
+   "orig": "Nine\n「This data is from when Tobia had traversed the\n　dimensional rift and found himself in the care of\n　Celestial Being.」"
+  },
+  {
+   "i": 19,
+   "speaker": "　",
+   "text": "　　\n　　　　　　-Ангар «Птолемея 2 Кастом»-",
+   "orig": "　\n　　\n　　　　　　　-Ptolemaios 2 Custom Hangar-"
+  },
+  {
+   "i": 20,
+   "speaker": "Иан",
+   "text": "「Эй, Тобиа.\n　Твой «Гандам» починили, как новенький.」",
+   "orig": "Ian\n「Yo, Tobia.\n　Your Gundam's all fixed up.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тобиа",
+   "text": "「Огромное спасибо, Иан.\n　Как-то нечестно, что вся работа тут на тебе.」",
+   "orig": "Tobia\n「I really appreciate it, Ian.\n　It's hardly fair that you're doing so much around here.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Иан",
+   "text": "「Да брось.\n　Это моя благодарность Сэцуне и Тиерии\n　за то, что они меня к себе взяли.」",
+   "orig": "Ian\n「Don't sweat it.\n　My way of saying thanks to Setsuna and Tieria\n　for taking me under their wing.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Локон",
+   "text": "「И всё же. Непонятно, любит тебя удача\n　или терпеть не может.」",
+   "orig": "Lockon\n「Still, though. No idea if lady luck loves you\n　or hates you.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Тобиа",
+   "text": "「Э-э...」",
+   "orig": "Tobia\n「Er...」"
+  },
+  {
+   "i": 25,
+   "speaker": "Локон",
+   "text": "「Я про то, что подобрали тебя именно мы.」",
+   "orig": "Lockon\n「By that I mean us picking you up.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Иан",
+   "text": "「Ну и зачем ты так, Локон?\n　Всяко лучше, чем застрять в мире,\n　где нет ни единой души и ничего вообще.」",
+   "orig": "Ian\n「Why d'you have to be like that, Lockon?\n　It's a damn sight better than being\n　stuck in a world without anyone or anything.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Тобиа",
+   "text": "「Да уж...」",
+   "orig": "Tobia\n「Oh well...」"
+  },
+  {
+   "i": 28,
+   "speaker": "Локон",
+   "text": "「Но раз твой «Гандам» уже на ходу,\n　тебе самому решать, что делать дальше.」",
+   "orig": "Lockon\n「But since your Gundam's fixed now,\n　it's up to you to figure out what to do next.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Локон",
+   "text": "「Да и у госпожи Сумераги наверняка\n　найдётся пара слов для тебя.」",
+   "orig": "Lockon\n「And Ms. Sumeragi probably\n　has some words for you.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Иан",
+   "text": "「Только не гони лошадей.\n　Хотя и сказать, что времени вагон, не могу.」",
+   "orig": "Ian\n「You shouldn't rush it, though.\n　Not that I can say time isn't a factor.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Тобиа",
+   "text": "「Ну...」",
+   "orig": "Tobia\n「Well...」"
+  },
+  {
+   "i": 32,
+   "speaker": "Локон",
+   "text": "「Мы как раз собирались перекусить. Пойдёшь с нами?」",
+   "orig": "Lockon\n「We were gonna grab a bite. Wanna join us?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Тобиа",
+   "text": "「Я поем попозже.\n　Мне надо привести мысли в порядок.」",
+   "orig": "Tobia\n「I'll get something later.\n　I need to get my head together.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Иан",
+   "text": "「Тогда до скорого.」",
+   "orig": "Ian\n「Check you later, then.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Локон",
+   "text": "「Будут вопросы — спрашивай.\n　Хотя ответить на все мы вряд ли сможем.」",
+   "orig": "Lockon\n「You have any questions, just ask.\n　Not that we'll be able to answer all of them.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Тобиа",
+   "text": "「Понятно...」",
+   "orig": "Tobia\n「I see...」"
+  },
+  {
+   "i": 37,
+   "speaker": "Тобиа",
+   "text": "（«Селестиал Бин»... Они точно\n　что-то скрывают...）",
+   "orig": "Tobia\n（Celestial Being... They're definitely\n　hiding something...）"
+  },
+  {
+   "i": 38,
+   "speaker": "Тобиа",
+   "text": "（Частная организация с такой-то техникой.\n　Да ещё и вынуждена держаться в тени, пока занимается\n　своим так называемым миротворчеством.）",
+   "orig": "Tobia\n（A private organization with this much gear.\n　Plus they have to stay under the radar while\n　they do their so-called peacekeeping.）"
+  },
+  {
+   "i": 39,
+   "speaker": "Тобиа",
+   "text": "（А значит...）",
+   "orig": "Tobia\n（Which means...）"
+  },
+  {
+   "i": 40,
+   "speaker": "Аллилуйя",
+   "text": "「Привет, а я тебя знаю...」",
+   "orig": "Allelujah\n「Hey, I know you...」"
+  },
+  {
+   "i": 41,
+   "speaker": "Тобиа",
+   "text": "「Погодите. Вы же те самые,\n　кто поднялся на борт вчера.」",
+   "orig": "Tobia\n「Wait. You're the ones\n　who came on board yesterday.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Мари",
+   "text": "「Верно подмечено.」",
+   "orig": "Marie\n「You got it.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Аллилуйя",
+   "text": "「Мы давно хотели поздороваться.\n　Я Аллилуйя Хаптизм.\n　А это Мари Парфаси.」",
+   "orig": "Allelujah\n「We've been meaning to say hello.\n　I'm Allelujah Haptism.\n　And she's Marie Parfacy.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Мари",
+   "text": "「Очень приятно.」",
+   "orig": "Marie\n「A pleasure.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Тобиа",
+   "text": "「Меня зовут Тобиа Арронакс.\n　Я попал сюда три дня назад, так уж вышло.」",
+   "orig": "Tobia\n「My name is Tobia Arronax.\n　Circumstances led me here three days ago.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Аллилуйя",
+   "text": "「Госпожа Сумераги нам почти всё рассказала.\n　Тебе тоже изрядно досталось.」",
+   "orig": "Allelujah\n「We've heard most of it from Ms. Sumeragi.\n　You've had quite a time of it, too.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тобиа",
+   "text": "「Я только хотел спросить. Вы с Мари —\n　члены «Селестиал Бин»?」",
+   "orig": "Tobia\n「I just want to ask. Are you and Marie\n　members of Celestial Being?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Мари",
+   "text": "「Да...\n　Когда-то мы сражались вместе с ними.」",
+   "orig": "Marie\n「Yeah...\n　We used to fight together with them.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Аллилуйя",
+   "text": "「Но после прошлой войны\n　мы отправились в путь, чтобы\n　разобраться в себе.」",
+   "orig": "Allelujah\n「But, after the last war,\n　we set out to do a bit\n　of soul searching.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Аллилуйя",
+   "text": "「И всё равно вернулись сюда, конечно же.」",
+   "orig": "Allelujah\n「But of course we ended up back here.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Тобиа",
+   "text": "「Простите, Аллилуйя,\n　но не расскажете, почему\n　вы вернулись?」",
+   "orig": "Tobia\n「Excuse me Allelujah,\n　but would you mind telling me why\n　you did?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Аллилуйя",
+   "text": "「Ну. Похоже, дело идёт к войне.\n　К тому же мы слышали, что Сэцуна и Тиерия\n　оба пропали без вести.」",
+   "orig": "Allelujah\n「Well. War seems to be on the horizon.\n　That and we'd heard that both Setsuna and Tieria\n　had gone missing.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Аллилуйя",
+   "text": "「Правда, они успели вернуться\n　раньше, чем я вышел на связь.」",
+   "orig": "Allelujah\n「Though they managed to come back\n　before I made contact.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тобиа",
+   "text": "「Мне хочется понять, почему вы\n　всё-таки с «Селестиал Бин».」",
+   "orig": "Tobia\n「What I want to know is why you're\n　with Celestial Being.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Аллилуйя",
+   "text": "「Хм-м...」",
+   "orig": "Allelujah\n「Hmm...」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тобиа",
+   "text": "「У этого мира есть собственные вооружённые силы.\n　За что тогда сражается «Селестиал Бин»?」",
+   "orig": "Tobia\n「This world has its own armed forces.\n　What is Celestial Being fighting for?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Тобиа",
+   "text": "「И это ещё не всё.\n　Вы однажды уже вырвались из всего этого.\n　Зачем снова возвращаться на войну?」",
+   "orig": "Tobia\n「And that's not the only thing.\n　You escaped all of this once.\n　Why would you join the fighting again?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Тобиа",
+   "text": "「Я к тому, что Тиерия и Сэцуна\n　вернулись, так зачем вам—」",
+   "orig": "Tobia\n「I mean, Tieria and Setsuna\n　are back, so why would you—」"
+  },
+  {
+   "i": 59,
+   "speaker": "Мари",
+   "text": "「Нас никто не заставлял, если ты об этом.」",
+   "orig": "Marie\n「No one forced us to, if that's what you're asking.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Аллилуйя",
+   "text": "「Перед уходом мы попросили\n　госпожу Сумераги связаться с нами,\n　если что-нибудь случится.」",
+   "orig": "Allelujah\n「Before we left we asked\n　Ms. Sumeragi to get in touch\n　with us if anything happened.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Тобиа",
+   "text": "「Но почему?」",
+   "orig": "Tobia\n「But why?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Аллилуйя",
+   "text": "「Это место.\n　Оно для нас как дом.」",
+   "orig": "Allelujah\n「This place.\n　It's like home to us.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Аллилуйя",
+   "text": "「Какой бы путь мы ни выбрали,\n　нам важно их мнение.」",
+   "orig": "Allelujah\n「Whatever path we choose,\n　we want their input.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Тобиа",
+   "text": "「Как дом...」",
+   "orig": "Tobia\n「Your home...」"
+  },
+  {
+   "i": 65,
+   "speaker": "Мари",
+   "text": "「Что происходит?!」",
+   "orig": "Marie\n「What's happening?!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тиерия",
+   "text": "「Аллилуйя. Мари.\n　Я знаю, вы только вернулись, но, похоже,\n　у вас уже есть задание.」",
+   "orig": "Tieria\n「Allelujah. Marie.\n　I know you've just returned, but it\n　looks like you've got a mission.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Аллилуйя",
+   "text": "「Как скажешь, но что всё-таки стряслось?」",
+   "orig": "Allelujah\n「Whatever you say, but what's going on?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Локон",
+   "text": "「Они здесь.」",
+   "orig": "Lockon\n「They're here.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Аллилуйя",
+   "text": "「...Ясно, тогда вперёд.\n　А что с моим «Гандамом»?」",
+   "orig": "Allelujah\n「...Alright, then.\n　What about my Gundam?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Иан",
+   "text": "「Сюда, пожалуйста.\n　Ты тоже, Мари.」",
+   "orig": "Ian\n「Right this way.\n　You too, Marie.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Мари",
+   "text": "「Хорошо!」",
+   "orig": "Marie\n「Okay!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Тобиа",
+   "text": "（Кто такие «они»?\n　Может, кто-то охотится\n　за «Селестиал Бин»?）",
+   "orig": "Tobia\n（Who's \"they\"?\n　Maybe someone's after\n　Celestial Being?）"
+  },
+  {
+   "i": 73,
+   "speaker": "Сэцуна",
+   "text": "「Тобиа...\n　Тебе надо уйти в безопасное место.」",
+   "orig": "Setsuna\n「Tobia...\n　You need to get somewhere safe.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Тобиа",
+   "text": "「Понимаю, в это вы меня посвящать не станете.」",
+   "orig": "Tobia\n「I take it you're playing this one close.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Сэцуна",
+   "text": "「Прости.」",
+   "orig": "Setsuna\n「Sorry.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тобиа",
+   "text": "「Ничего.\n　У вас наверняка есть на то причины.」",
+   "orig": "Tobia\n「It's fine.\n　You must have your reasons.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Тобиа",
+   "text": "（И всё же—）",
+   "orig": "Tobia\n（But—）"
+  },
+  {
+   "i": 81,
+   "speaker": "　",
+   "text": "　　\n　　　　　　-Ангар «Птолемея 2 Кастом»-",
+   "orig": "　\n　　\n　　　　　　　-Ptolemaios 2 Custom Hangar-"
+  },
+  {
+   "i": 82,
+   "speaker": "Тиерия",
+   "text": "「Я должен ещё раз поблагодарить тебя, Тобиа.」",
+   "orig": "Tieria\n「I have to thank you again, Tobia.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Тобиа",
+   "text": "「Да не за что.\n　Я просто сделал то, что считал нужным.」",
+   "orig": "Tobia\n「It's no problem at all.\n　I did what I felt I had to do.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Локон",
+   "text": "「Но ты пойми...\n　Под солнцем тебе больше ходить не придётся.」",
+   "orig": "Lockon\n「But you know...\n　You aren't gonna walk in the light anymore.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Тобиа",
+   "text": "「Меня это не смущает.\n　В своём мире я под ним тоже особо не ходил.」",
+   "orig": "Tobia\n「I don't mind.\n　I wasn't exactly doing that in my own world.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Аллилуйя",
+   "text": "「Частная армия, воюющая против всего мира,\n　и космические пираты. Разница невелика.」",
+   "orig": "Allelujah\n「A private military fighting against the world,\n　and space pirates. Pretty much the same thing.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Тобиа",
+   "text": "「Против всего мира?!」",
+   "orig": "Tobia\n「Did you say the world?!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Сэцуна",
+   "text": "「Именно так.\n　Этим и занимается «Селестиал Бин».」",
+   "orig": "Setsuna\n「He did.\n　That's what Celestial Being does.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Сумераги",
+   "text": "「Это твой последний шанс передумать, Тобиа.」",
+   "orig": "Sumeragi\n「This is your last chance to change your mind, Tobia.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Тобиа",
+   "text": "「Понятно...」",
+   "orig": "Tobia\n「I see...」"
+  },
+  {
+   "i": 91,
+   "speaker": "Сумераги",
+   "text": "「Ты стоишь на распутье.」",
+   "orig": "Sumeragi\n「You're standing at a crossroads.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Сумераги",
+   "text": "「Забыть о нас, так и не узнав, что за этим стоит,\n　и жить дальше в этом мире—」",
+   "orig": "Sumeragi\n「Forget about us without hearing the stories behind it,\n　and go on living on this world—」"
+  },
+  {
+   "i": 93,
+   "speaker": "Сумераги",
+   "text": "「В этом случае мы высадим тебя\n　вместе с «Гандамом» в подходящем месте.」",
+   "orig": "Sumeragi\n「In which case we'll drop you\n　and your Gundam off somewhere.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Тобиа",
+   "text": "「Хм-м...」",
+   "orig": "Tobia\n「Hmm...」"
+  },
+  {
+   "i": 95,
+   "speaker": "Сумераги",
+   "text": "「Или...\n　Ты пойдёшь с нами на поиски истины.」",
+   "orig": "Sumeragi\n「Or...\n　You can join us in the search for truth.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Тобиа",
+   "text": "「Истины?」",
+   "orig": "Tobia\n「The truth?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Сумераги",
+   "text": "「Звучит странно?」",
+   "orig": "Sumeragi\n「Does that sound strange?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Тобиа",
+   "text": "「Вовсе нет.\n　Просто мне это кое-кого напомнило.」",
+   "orig": "Tobia\n「Not at all.\n　It just reminds me of someone.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Тобиа",
+   "text": "「Мне говорили почти\n　то же самое...」",
+   "orig": "Tobia\n「They told me something\n　very similar...」"
+  },
+  {
+   "i": 100,
+   "speaker": "Тобиа",
+   "text": "「Моя битва тоже началась с того,\n　что я пошёл с ними на поиски истины.」",
+   "orig": "Tobia\n「My fight started\n　when I joined them in search of the truth, too.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Сумераги",
+   "text": "「Что ж, тогда...」",
+   "orig": "Sumeragi\n「Well, then...」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тобиа",
+   "text": "「И с тех пор ничего не изменилось.\n　За истину стоит сражаться.」",
+   "orig": "Tobia\n「And nothing's changed.\n　Truth is something worth fighting for.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Сумераги",
+   "text": "「Хорошо сказано, Тобиа.\n　Я расскажу тебе о нас всё.\n　И хорошее, и плохое.」",
+   "orig": "Sumeragi\n「Well said, Tobia.\n　I'll tell you everything about us.\n　The good and the bad.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Сумераги",
+   "text": "「Кто-нибудь против?」",
+   "orig": "Sumeragi\n「Does anyone object?」"
+  },
+  {
+   "i": 105,
+   "speaker": "Сэцуна",
+   "text": "「Ну—」",
+   "orig": "Setsuna\n「Well—」"
+  },
+  {
+   "i": 106,
+   "speaker": "Аллилуйя",
+   "text": "「Тобиа сделал свой выбор.\n　Мы должны его уважать.」",
+   "orig": "Allelujah\n「Tobia made his choice.\n　We need to respect that.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Сумераги",
+   "text": "「Рассказ может затянуться надолго.」",
+   "orig": "Sumeragi\n「It might take a while to tell it all.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Тобиа",
+   "text": "「Я хочу услышать всё.\n　Я остаюсь с вами.」",
+   "orig": "Tobia\n「I want to hear everything.\n　I'm here to stay.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Тобиа",
+   "text": "（Жди меня, Бернадетт...\n　Где бы я ни оказался,\n　я иду туда, куда велит сердце.）",
+   "orig": "Tobia\n（Just you wait, Bernadette...\n　I'm following my gut,\n　no matter where I am.）"
+  },
+  {
+   "i": 110,
+   "speaker": "Тобиа",
+   "text": "（И я буду сражаться до тех пор,\n　пока снова не увижу тебя...）",
+   "orig": "Tobia\n（And I'm going to keep fighting\n　until I see you again...）"
+  }
+ ]
+}

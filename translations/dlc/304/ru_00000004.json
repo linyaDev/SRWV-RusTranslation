@@ -1,0 +1,544 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Фелдт",
+   "text": "「«Гандамы» идут на вылет.」",
+   "orig": "Feldt\n「Gundams are moving out.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Аллилуйя",
+   "text": "「Похоже, ты всё-таки доделал 00 QAN[T].」",
+   "orig": "Allelujah\n「Looks like you've finished the 00 QAN[T].」"
+  },
+  {
+   "i": 2,
+   "speaker": "Сэцуна",
+   "text": "「Нет, ещё не до конца.」",
+   "orig": "Setsuna\n「No, not quite.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Тиерия",
+   "text": "「Как ведёт себя «Харуте», Аллилуйя?」",
+   "orig": "Tieria\n「How's the Harute doing, Allelujah?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Аллилуйя",
+   "text": "「Никаких проблем.」",
+   "orig": "Allelujah\n「No problems here.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Пьерис",
+   "text": "「В кокпите два места.\n　Это для меня и Аллилуйи?」",
+   "orig": "Peries\n「The cockpit has two seats.\n　Is this for me and Allelujah?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Сэцуна",
+   "text": "「Ну, мы думали, что рано или поздно ты вернёшься.」",
+   "orig": "Setsuna\n「Well, we thought you'd be back sooner or later.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Локон",
+   "text": "「И заметь, вовсе не потому,\n　что мы ждали новых боёв.」",
+   "orig": "Lockon\n「Let me just add that\n　it wasn't because we thought there'd be fighting.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Аллилуйя",
+   "text": "「Я понял.」",
+   "orig": "Allelujah\n「I get it.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Тиерия",
+   "text": "「Но поводов для оптимизма немного.\n　Нас кто-то преследует, это мы знаем точно.」",
+   "orig": "Tieria\n「But there's not much room for optimism.\n　We know there's something chasing us.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Тиерия",
+   "text": "「Даже Веда не может понять, что они такое и как движутся.\n　Потому я и присоединился к вам в новом теле\n　и с «Рафаэлем».」",
+   "orig": "Tieria\n「Even Veda can't pin down what they are or how they move.\n　Which is why I joined you with this new form\n　and Raphael.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Локон",
+   "text": "「Мы спешно достраивали QAN[T],\n　но ты исчез раньше, чем мы успели\n　решить, что делать.」",
+   "orig": "Lockon\n「And we'd rushed the QAN[T],\n　but you were already gone\n　before we'd figured out what to do.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Сэцуна",
+   "text": "「А по словам старпома Санады, опыты\n　с квантовым прыжком повредили\n　пространственно-временной континуум.」",
+   "orig": "Setsuna\n「And according to Exec. Officer Sanada,\n　the experiments with the quantum jump have\n　done some damage to the space-time continuum.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Локон",
+   "text": "「Да ладно, неважно.\n　Главное, что ты вернулся.」",
+   "orig": "Lockon\n「It's whatever, though.\n　You're back now. That's what counts.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Лассе",
+   "text": "「Так какой у нас план, госпожа Сумераги?\n　Сэцуна притащил этого пирата...」",
+   "orig": "Lasse\n「So what's the plan, Ms. Sumeragi?\n　Setsuna brought back the pirate...」"
+  },
+  {
+   "i": 15,
+   "speaker": "Сумераги",
+   "text": "「Я уже решила, как с ним быть.\n　И тащить его с собой\n　мы не станем.」",
+   "orig": "Sumeragi\n「I know what we're going to do with him.\n　And it doesn't include making him\n　come with us.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Фелдт",
+   "text": "「Верно.」",
+   "orig": "Feldt\n「Right.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Милейна",
+   "text": "「Мы ведь действуем в тени.」",
+   "orig": "Mileina\n「We operate in the shadows, after all.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Сумераги",
+   "text": "「Сначала встретим преследователей\n　и соберём всё, что сможем, о них.」",
+   "orig": "Sumeragi\n「First we meet our pursuers\n　and gather whatever intel we can.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Сумераги",
+   "text": "（И если мы с Тиерией не ошиблись,\n　этот бой станет для нас\n　последним...）",
+   "orig": "Sumeragi\n（And if my and Tieria's guess is correct,\n　our fight with them is going\n　to be our last...）"
+  },
+  {
+   "i": 20,
+   "speaker": "Фелдт",
+   "text": "「Они идут.」",
+   "orig": "Feldt\n「They're coming.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Локон",
+   "text": "「Машины Федерации.」",
+   "orig": "Lockon\n「Federation machines.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Тиерия",
+   "text": "「И они беспилотные. Под управлением ИИ.」",
+   "orig": "Tieria\n「And they're unmanned. AI controlled.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Локон",
+   "text": "「Значит, ничего нового мы не увидим.」",
+   "orig": "Lockon\n「Which means they're nothing we haven't faced.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Аллилуйя",
+   "text": "「Вот только из беспилотной машины\n　особо сведений не вытянешь.」",
+   "orig": "Allelujah\n「But you can't exactly extract intel\n　from an unmanned machine.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Сэцуна",
+   "text": "「Сначала примем бой.」",
+   "orig": "Setsuna\n「First we face them.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Сумераги",
+   "text": "「Каждая машина прикрывает «Птолемей», пока мы атакуем.\n　И надо спешить, пока не подошла вторая волна.」",
+   "orig": "Sumeragi\n「So each unit defends the Ptolemy while we attack.\n　And we have to hurry before a second wave can come.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Сэцуна",
+   "text": "（Останавливаться ещё рано.）",
+   "orig": "Setsuna\n（We can't stop yet.）"
+  },
+  {
+   "i": 28,
+   "speaker": "Сэцуна",
+   "text": "（В этом мире есть тьма, которую надо вскрыть.\n　И истина, которую надо найти.）",
+   "orig": "Setsuna\n（There's darkness to be exposed in this world.\n　And truth to be found.）"
+  },
+  {
+   "i": 29,
+   "speaker": "Фелдт",
+   "text": "「К нам идут новые неопознанные!」",
+   "orig": "Feldt\n「We've got more unknowns incoming!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Лассе",
+   "text": "「Подкрепление!」",
+   "orig": "Lasse\n「Reinforcements!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Милейна",
+   "text": "「Это новые GN-X!」",
+   "orig": "Mileina\n「They're new GN-Xs!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Лассе",
+   "text": "「Такие дают только\n　элитным пилотам!」",
+   "orig": "Lasse\n「They only send those out\n　with elite pilots!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Сумераги",
+   "text": "（Так я и знала, что это они...）",
+   "orig": "Sumeragi\n（I knew it was them...）"
+  },
+  {
+   "i": 34,
+   "speaker": "Лассе",
+   "text": "「Да чтоб вас!\n　Они идут на «Птолемей»!」",
+   "orig": "Lasse\n「Damn it all!\n　They're after the Ptolemy!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Фелдт",
+   "text": "「Стойте!\n　Люк ангара!」",
+   "orig": "Feldt\n「Wait!\n　The hangar hatch!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Сумераги",
+   "text": "「Если его повредило,\n　пусть Иан чинит в аварийном порядке!」",
+   "orig": "Sumeragi\n「If it's taken damage,\n　have Ian make emergency repairs!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Милейна",
+   "text": "「Он не повреждён, Нориега!\n　Это папа его открыл!」",
+   "orig": "Mileina\n「It's not damaged, Noriega!\n　Daddy opened it!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Сумераги",
+   "text": "「Что?!」",
+   "orig": "Sumeragi\n「What?!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Милейна",
+   "text": "「Пиратский «Гандам» уходит!」",
+   "orig": "Mileina\n「The pirate Gundam's leaving!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Лассе",
+   "text": "「Вот же—Он что, сбегает?!」",
+   "orig": "Lasse\n「That little—Is he running?!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Сумераги",
+   "text": "「Возьми себя в руки, Тобиа!\n　«Птолемей» ещё держится!」",
+   "orig": "Sumeragi\n「Get a grip, Tobia!\n　The Ptolemy hasn't fallen yet!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Тобиа",
+   "text": "「Я не сбегаю,\n　Сумераги.」",
+   "orig": "Tobia\n「I'm not running away,\n　Sumeragi.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Тобиа",
+   "text": "「Иан открыл люк,\n　чтобы я мог вступить в бой.」",
+   "orig": "Tobia\n「Ian opened the hatch\n　so I could join the fight.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Сумераги",
+   "text": "「Но—」",
+   "orig": "Sumeragi\n「But—」"
+  },
+  {
+   "i": 45,
+   "speaker": "Тобиа",
+   "text": "「Я всё ещё не скажу,\n　что понимаю, кто вы такие...」",
+   "orig": "Tobia\n「I still can't say I know\n　who you guys are...」"
+  },
+  {
+   "i": 46,
+   "speaker": "Тобиа",
+   "text": "「Но я видел, как дерётся Сэцуна,\n　и слышал, что сказал Аллилуйя.\n　Думаю, вам можно доверять.」",
+   "orig": "Tobia\n「But seeing Setsuna fight,\n　and hearing what Allelujah had to say,\n　I think I can trust you.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Сэцуна",
+   "text": "「Ты уверен, Тобиа?」",
+   "orig": "Setsuna\n「You sure, Tobia?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Тобиа",
+   "text": "「Иан починил мне X1.\n　Да и Сэцуне я ещё не отплатил\n　за спасение «Ямато».」",
+   "orig": "Tobia\n「Ian fixed up the X1 for me.\n　And I haven't even paid Setsuna back for\n　saving the Yamato.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Сэцуна",
+   "text": "「Спасибо за помощь.」",
+   "orig": "Setsuna\n「I appreciate the help.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Тобиа",
+   "text": "「И эти ребята явно не настроены\n　разговаривать — так чего сдерживаться?\n　Я вступаю в бой!」",
+   "orig": "Tobia\n「And these guys don't seem interested in\n　talking, so why hold back?\n　I'm joining in the fight!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Локон",
+   "text": "「Ну надо же. А парень мне нравится.」",
+   "orig": "Lockon\n「Oh, man. I like this one.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Тиерия",
+   "text": "「Сэцуна говорит, что он достоин «Гандама».\n　Я за то, чтобы дать ему шанс.」",
+   "orig": "Tieria\n「Setsuna says he's worthy of a Gundam.\n　I say we give him a shot.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Аллилуйя",
+   "text": "「Тобиа...」",
+   "orig": "Allelujah\n「Tobia...」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тобиа",
+   "text": "「Вперёд, Аллилуйя!\n　Нам есть за что драться — за твой дом!」",
+   "orig": "Tobia\n「Let's do this, Allelujah!\n　We've got your home to fight for!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Аллилуйя",
+   "text": "「Понял!\n　Похоже, мне понадобится помощь!」",
+   "orig": "Allelujah\n「Got it!\n　I think I'm going to need a hand!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Тобиа",
+   "text": "「Без проблем!」",
+   "orig": "Tobia\n「Sure thing!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Тиерия",
+   "text": "「Силы противника уничтожены.」",
+   "orig": "Tieria\n「Enemy force destroyed.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Пьерис",
+   "text": "「Кажется, это были все.」",
+   "orig": "Peries\n「That seems to be all of them.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Локон",
+   "text": "「Спасибо, Тобиа.\n　Без тебя мы бы не справились.」",
+   "orig": "Lockon\n「Thanks, Tobia.\n　Couldn't have done it without you.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Аллилуйя",
+   "text": "「Да. Если бы ты не вмешался,\n　мы могли потерять «Птолемей».」",
+   "orig": "Allelujah\n「Yeah. We might've lost the Ptolemy\n　if you hadn't jumped in.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Тобиа",
+   "text": "「Ну так это же ваш дом.\n　Кто-то должен его защищать.」",
+   "orig": "Tobia\n「I mean, it's your home.\n　Someone needs to protect it.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Аллилуйя",
+   "text": "「Поэтому ты и дрался?」",
+   "orig": "Allelujah\n「Is that why you fought?」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тобиа",
+   "text": "「...Просто вы напоминаете мне моих.\n　У «Селестиал Бин» много общего\n　с Кроссбоун-Вангардом.」",
+   "orig": "Tobia\n「...You just remind me of my group.\n　Celestial Being has a lot in common\n　with the Crossbone Vanguard.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Милейна",
+   "text": "「Мы напоминаем шайку космических пиратов?!」",
+   "orig": "Mileina\n「We remind you of a bunch of space pirates?!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Лассе",
+   "text": "「Ну, мы ведь тоже вне закона...」",
+   "orig": "Lasse\n「I mean, we're outlaws, too...」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тобиа",
+   "text": "「Э-э... Я не только про то,\n　что и те и другие работают в тени.」",
+   "orig": "Tobia\n「Er... I wasn't just thinking of us\n　both working in the shadows.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тобиа",
+   "text": "「Дело в чувстве товарищества.」",
+   "orig": "Tobia\n「It's the feeling of camaraderie.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Сэцуна",
+   "text": "「Понятно.」",
+   "orig": "Setsuna\n「I see.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тиерия",
+   "text": "「Думаю, Сэцуна его понимает.」",
+   "orig": "Tieria\n「I think Setsuna gets it.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Сумераги",
+   "text": "「Все на корабль. Нам надо уходить отсюда,\n　если мы хотим оторваться от погони.」",
+   "orig": "Sumeragi\n「Back to the ship, everyone. We'll need to get out\n　of here if we're going to cut off their pursuit.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Тобиа",
+   "text": "「А, и ещё, Сумераги—」",
+   "orig": "Tobia\n「Oh. And Sumeragi—」"
+  },
+  {
+   "i": 72,
+   "speaker": "Сумераги",
+   "text": "「Знаю, Тобиа.\n　Я расскажу тебе всё, что ты хочешь знать.」",
+   "orig": "Sumeragi\n「I know, Tobia.\n　I'll tell you what you want to know.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Сумераги",
+   "text": "「Расскажу и о нас,\n　и о том, что на самом деле творится в этом мире.」",
+   "orig": "Sumeragi\n「I'll tell you about us,\n　and what's really going on in this world.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Сэцуна",
+   "text": "（Бои далеко не закончены.）",
+   "orig": "Setsuna\n（The fighting's far from over.）"
+  },
+  {
+   "i": 75,
+   "speaker": "Сэцуна",
+   "text": "（Значит, надо идти дальше,\n　если мы хотим увидеть конец всех войн!）",
+   "orig": "Setsuna\n（Which means we need to keep going\n　if we want to see an end to all war!）"
+  },
+  {
+   "i": 76,
+   "speaker": "Локон",
+   "text": "「Им не по нраву быть мышью,\n　когда привыкли быть кошкой!」",
+   "orig": "Lockon\n「They don't like it when they're playing\n　the mouse and not the cat!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Локон",
+   "text": "「Вот так!\n　Ударим как следует и выясним,\n　кто тут дёргает за ниточки!」",
+   "orig": "Lockon\n「That's it!\n　We hit them hard and find\n　out who's pulling the strings here!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Аллилуйя",
+   "text": "「«Харуте».\n　Они готовили его для нас.」",
+   "orig": "Allelujah\n「The Harute.\n　They prepared it for us.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Пьерис",
+   "text": "「На нём мы можем выложиться полностью.」",
+   "orig": "Peries\n「We can go all out in this one.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Аллилуйя",
+   "text": "「Мы дома. Мы правда дома.」",
+   "orig": "Allelujah\n「We're home. We're really home.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Пьерис",
+   "text": "「Да...」",
+   "orig": "Peries\n「Yeah...」"
+  },
+  {
+   "i": 82,
+   "speaker": "Аллилуйя",
+   "text": "「Вперёд, Мари!\n　Вот то, что мы должны делать!\n　Теперь я знаю точно!」",
+   "orig": "Allelujah\n「Let's do it, Marie!\n　This is what we need to do!\n　I know for sure now!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Тиерия",
+   "text": "（Сперва я думал, что это они — остатки наследия\n　Риббонса, те, кто так нас ненавидел.\n　Но, похоже, я ошибался.）",
+   "orig": "Tieria\n（First, I thought it was them—remnants of Ribbons'\n　legacy, who had so much hatred against us.\n　But maybe it seems that idea is wrong.）"
+  },
+  {
+   "i": 84,
+   "speaker": "Тиерия",
+   "text": "（Может, конец «Эй-Лоуз» и «Логоса»\n　выманил кого-то из укрытия...）",
+   "orig": "Tieria\n（Maybe the end of A-Laws and Logos\n　brought someone out of hiding...）"
+  },
+  {
+   "i": 85,
+   "speaker": "Сумераги",
+   "text": "（Аллилуйя. Мари.\n　Мы так рады, что вы наконец вернулись.）",
+   "orig": "Sumeragi\n（Allelujah. Marie.\n　We're so glad you're finally back.）"
+  },
+  {
+   "i": 86,
+   "speaker": "Сумераги",
+   "text": "（И если я не ошибаюсь, «Селестиал Бин» придётся\n　бросить против следующего врага\n　всё, что у нас есть.）",
+   "orig": "Sumeragi\n（And if I'm guessing correctly,\n　Celestial Being needs to throw everything they have\n　against the next enemy.）"
+  },
+  {
+   "i": 87,
+   "speaker": "Тобиа",
+   "text": "（И Сэцуна, и Аллилуйя\n　с гордостью сражаются\n　за «Селестиал Бин»...）",
+   "orig": "Tobia\n（Both Setsuna and Allelujah\n　are proud to fight for\n　Celestial Being...）"
+  },
+  {
+   "i": 88,
+   "speaker": "Тобиа",
+   "text": "（А раз так, то в этот бой я могу поверить!\n　И плевать на прошлое!）",
+   "orig": "Tobia\n（And if they are, then it's a fight I can believe in!\n　Who cares about the past!）"
+  },
+  {
+   "i": 89,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}
