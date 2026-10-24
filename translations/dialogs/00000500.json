@@ -1,0 +1,2128 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "Акацуки",
+   "text": "「Рад, что вы целы, доктор Инес.」",
+   "orig": "Akatsuki\n「I'm glad you're safe, Dr. Inez.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Инес",
+   "text": "「Почему-то мне кажется, что Вычислительный блок\n　волновал вас куда больше, чем я сама.」",
+   "orig": "Inez\n「Somehow I have a feeling you were more concerned\n　about the Calculation Unit than you were about me.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Акацуки",
+   "text": "「Возможно. Но я всё же рассчитываю на капельку\n　признательности — я пересёк границу измерений\n　только ради того, чтобы вас поддержать.」",
+   "orig": "Akatsuki\n「Perhaps, but I'd still like a little recognition for\n　traveling across dimensions just so I could be\n　here to cheer you on.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Рури",
+   "text": "「Всё это прекрасно, но неужели вы явились\n　на встречу с Нанай вот в этом?」",
+   "orig": "Ruri\n「That's all well and good, but did you actually\n　meet up with Nanai dressed like that?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Акацуки",
+   "text": "「Ну что вы! Разумеется, нет!\n　Я умею подать себя, когда того требует случай.」",
+   "orig": "Akatsuki\n「Oh, please! Of course not!\n　I know how to present myself when the time calls for it.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Акацуки",
+   "text": "「В любом случае, Вычислительный блок я пока решил\n　оставить на Аксисе — чтобы он не попал\n　не в те руки.」",
+   "orig": "Akatsuki\n「Anyway, for the time being I've decided to keep the\n　Calculation Unit in Axis to keep it from falling into\n　the wrong hands.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Инес",
+   "text": "「А мне поручено за ним там присматривать.\n　В худшем случае мы готовы уйти оттуда\n　Бозонным прыжком вместе с блоком.」",
+   "orig": "Inez\n「And I'm in charge of watching over it while it's there.\n　Worst case scenario, we're prepared to Boson Jump out of\n　there with the Calculation Unit if we need to.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Рури",
+   "text": "「Когда вы говорите «не в те руки», полагаю,\n　это касается и «Нергала» тоже?」",
+   "orig": "Ruri\n「When you say \"the wrong hands,\" I assume that means\n　it will be off-limits to Nergal too, no?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Акацуки",
+   "text": "「Послушайте, я всего лишь делаю то, что считаю\n　правильным, хотя, похоже, выглядит это иначе.」",
+   "orig": "Akatsuki\n「Look, I'm just trying to do what I feel is right here,\n　though it seems like I'm not coming across as such.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Акито",
+   "text": "「Если хочешь знать, что «правильно» для всех,\n　почему бы просто не брать пример с Майто?」",
+   "orig": "Akito\n「If you want to know what is \"right\" for everyone, then\n　why don't you just follow Maito's lead?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Акацуки",
+   "text": "「Нет уж, благодарю.\n　Я не стремлюсь изображать из себя героя.」",
+   "orig": "Akatsuki\n「No thanks.\n　I'm not trying to be some kind of a hero here.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Юрика",
+   "text": "「Но ты ведь догадался надеть что-нибудь приличное,\n　когда собирался к нам, верно?」",
+   "orig": "Yurika\n「But, at least you had the proper sense to put on\n　some decent clothes when you came to see us,\n　am I right?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Рури",
+   "text": "「Если это можно назвать приличным...」",
+   "orig": "Ruri\n「If you can call those nice...」"
+  },
+  {
+   "i": 16,
+   "speaker": "Акито",
+   "text": "「Да, я тоже не понимаю.」",
+   "orig": "Akito\n「Yeah, I don't get it.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Акацуки",
+   "text": "「Что ж, хотя бы бывший капитан меня понимает.\n　В этом моё единственное утешение.」",
+   "orig": "Akatsuki\n「Well, at least the former captain here understands\n　where I'm coming from. That's my only consolation.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Акито",
+   "text": "「Ты вообще в том положении, чтобы такое говорить?」",
+   "orig": "Akito\n「Do you really think you're in any position to say that?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Акацуки",
+   "text": "「Пока я знаю одно: горизонт измерений, ведущий\n　в этот мир над Священной империей Мисуруги,\n　выглядит сейчас хуже некуда.」",
+   "orig": "Akatsuki\n「For now, all I know is that the dimensional horizon\n　connecting to this world above the Holy Misurugi Empire\n　is not looking good at all right now.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Акацуки",
+   "text": "「Жителям объявили о стихийном бедствии и начали\n　эвакуацию. Они знают, что миру грозит опасность,\n　но об Эмбрионе мы намеренно умолчали.」",
+   "orig": "Akatsuki\n「We've told the citizens there has been a natural disaster\n　to evacuate them. They know the world is in danger, but\n　we've intentionally kept things vague about Embryo.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Акацуки",
+   "text": "「Зато так у вас будут ресурсы и люди,\n　которые понадобятся в Искандаре,\n　куда вы все направляетесь.」",
+   "orig": "Akatsuki\n「At least this way you'll have the resources\n　and manpower you'll need in Iscandar where you all\n　are headed to.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Инес",
+   "text": "「Пожалуй, в этом есть смысл.\n　Ведь дело касается измерений и Универсального века,\n　и нашей эры.」",
+   "orig": "Inez\n「I suppose it all makes sense.\n　After all, this concerns both the Universal Century\n　and the AD dimensions.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Инес",
+   "text": "「Однако пока у нас нет ни людей, ни технологий,\n　чтобы отправить большой флот, придётся обойтись\n　«Лондо Беллом» и «Надэсико».」",
+   "orig": "Inez\n「However, until we have the manpower and the tech to send\n　in a sizable fleet, Londo Bell and the Nadesico will\n　have to suffice.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Акацуки",
+   "text": "「Искандар оставляю на вас.\n　А я выясню, где скрывается Эмбрио\n　и что за личность этот Эксев.」",
+   "orig": "Akatsuki\n「I'll leave you all to handle Iscandar.\n　I'm going to find out where Embryo is and what this\n　Exev person is all about.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Рури",
+   "text": "「Так точно.」",
+   "orig": "Ruri\n「Yes, sir.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Акацуки",
+   "text": "「И ещё, передайте Бандзё\n　мои извинения.」",
+   "orig": "Akatsuki\n「Also, give Banjo\n　my apologies.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Рури",
+   "text": "「Извинения? Как на вас не похоже.」",
+   "orig": "Ruri\n「Apologies? How out of character.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Акацуки",
+   "text": "「Даже «Нергал» не нашёл того, что искали,\n　так что, пожалуй, извиниться стоит.」",
+   "orig": "Akatsuki\n「Even Nergal couldn't find what they were looking for,\n　so I feel like I probably should.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Юрика",
+   "text": "「Не переживайте об этом.\n　Не думаю, что он всерьёз на это рассчитывал.」",
+   "orig": "Yurika\n「Don't worry about that.\n　I don't think he really expected you to pull it off.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Акито",
+   "text": "「Юрика, ну хватит.」",
+   "orig": "Akito\n「Come on Yurika, cut it out.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Акацуки",
+   "text": "「Узнаю бывшего капитана.\n　Спасибо за горькое, но действенное ободрение.」",
+   "orig": "Akatsuki\n「Leave it to the former captain, eh?\n　Thanks for the bitter, yet effective, encouragement.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Акацуки",
+   "text": "「Ну что ж, удачи вам там.\n　Если завтра мир ещё будет стоять, «Нергал» готов\n　расширять дело на параллельные измерения.」",
+   "orig": "Akatsuki\n「All right, good luck out there.\n　If the world still exists tomorrow, Nergal's ready to\n　start expanding its business into parallel dimensions.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Рури",
+   "text": "「У вас всё всегда сводится к делам.」",
+   "orig": "Ruri\n「It always comes down to business.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Инес",
+   "text": "「Это не обязательно плохо.\n　Когда дойдёт до этого, я буду рядом и помогу.」",
+   "orig": "Inez\n「It's not necessarily a bad thing.\n　I'll be here to help out when it happens.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Акацуки",
+   "text": "「В качестве стартового капитала для этой затеи\n　я с радостью оплачу вашу дорогу до Искандара.」",
+   "orig": "Akatsuki\n「As a little seed money for that venture, I'm happy to\n　contribute the funds for your journey to Iscandar.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Акацуки",
+   "text": "「Всего 500 000, но на первое время хватит.」",
+   "orig": "Akatsuki\n「It's only 500,000, but it should get you started.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Хикару",
+   "text": "「Что?! Мир на краю гибели,\n　а нам выделяют вот это?」",
+   "orig": "Hikaru\n「What?! The world is on the brink of destruction here\n　and this is all we have to work with?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Рёко",
+   "text": "「Ну и жмот же вы!\n　На такое дело надо отдать все активы «Нергала»!」",
+   "orig": "Ryoko\n「How stingy can you possibly be?\n　We should be getting ALL of Nergal's assets for this!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Акацуки",
+   "text": "「Так, давайте без безумных идей.\n　Вы меня разорить хотите?」",
+   "orig": "Akatsuki\n「Hey now, let's not start talking crazy.\n　Are you trying to bankrupt me?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Акацуки",
+   "text": "「Я ведь рассчитываю, что вы вернётесь из Искандара\n　целыми и невредимыми. Пока мир не погиб,\n　мне приходится думать о будущем.」",
+   "orig": "Akatsuki\n「I'm counting on you guys to come back from Iscandar\n　in one piece, after all. As long as the world doesn't\n　end, I have to plan for the future, you know.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Идзуми",
+   "text": "「Что ни говори, а он прав.」",
+   "orig": "Izumi\n「Say what you will, but he has a point.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Рури",
+   "text": "「Не беспокойтесь, мы вас не подведём.」",
+   "orig": "Ruri\n「Don't worry, we won't let you down.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Акито",
+   "text": "「Верно!」",
+   "orig": "Akito\n「That's right!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Юрика",
+   "text": "「Мы должны защитить тех, для кого эти два —\n　нет, уже три измерения — родной дом.」",
+   "orig": "Yurika\n「We have to protect the people who call these two—\n　or rather, three, dimensions home.」"
+  },
+  {
+   "i": 51,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　-Ангар «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Hangar-"
+  },
+  {
+   "i": 52,
+   "speaker": "Майто",
+   "text": "「Спасибо, что приехал, Мицухико!」",
+   "orig": "Maito\n「Thanks for coming, Mitsuhiko!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Хамада",
+   "text": "「Да разве я мог такое пропустить!\n　Я ведь как-никак боец отряда «Брэйв Экспресс».」",
+   "orig": "Hamada\n「I wouldn't miss this for the world!\n　I'm a member of the Brave Express Corps, after all.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Хамада",
+   "text": "「И ещё, мне передали Юдзиро, Идзуми и Кэйитиро. \n　Они подержат концерн Сэмпудзи, пока тебя нет,\n　так что занимайся спокойно своим делом.」",
+   "orig": "Hamada\n「I also have word from Yujiro, Izumi, and Keiichiro. \n　They said they would hold down the Senpuji Concern while\n　you are away, so just focus on what you need to do.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Майто",
+   "text": "「Понял. Мы обязаны довести этот план\n　до конца — ради всех.」",
+   "orig": "Maito\n「Understood. We have to make this plan\n　a success, for everyone's sake.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Хамада",
+   "text": "「Кстати, из Нового Токио-Сити приехал не только я.」",
+   "orig": "Hamada\n「By the way, I'm not the only one coming from\n　Nouvelle Tokyo City.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Салли",
+   "text": "「Привет, Майто.」",
+   "orig": "Sally\n「Hey, Maito.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Майто",
+   "text": "「Салли!\n　Ты-то что здесь делаешь?」",
+   "orig": "Maito\n「Sally!\n　What are you doing here?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Салли",
+   "text": "「Я тоже хочу помочь спасти мир, вот и устроилась\n　в «Нергал» на подработку.」",
+   "orig": "Sally\n「I wanted to help save the world, so I applied for the\n　part-time position at Nergal.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Майто",
+   "text": "「Но Искандар — это далеко-далеко за пределами\n　галактики. Кто знает, что нас там ждёт?\n　Я не могу взять тебя на такое задание!」",
+   "orig": "Maito\n「But Iscandar is far, far beyond the galaxy.\n　Who knows what dangers we'll face? I can't take you\n　along on a mission like this!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Салли",
+   "text": "「Я лечу. Я хочу помочь людям этого мира —\n　тем, кто мне дорог. И больше всего\n　я хочу помочь тебе, Майто.」",
+   "orig": "Sally\n「I'm going. I want to help the people of the world—\n　the people close to me. And more than anything I want\n　to help you, Maito.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Майто",
+   "text": "「Салли, ты это серьёзно?」",
+   "orig": "Maito\n「Sally, you can't be serious.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Лунна",
+   "text": "「Мы с Салли будем помогать Мицухико\n　и возьмём на себя бытовые хлопоты.」",
+   "orig": "Lunna\n「Sally and I will act as assistants to Mitsuhiko and\n　help out with the daily living tasks.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Хамада",
+   "text": "「Мы с Юдзиро снова и снова объясняли ей,\n　насколько опасным будет этот поход,\n　но она сказала, что решения не изменит.」",
+   "orig": "Hamada\n「Both Yujiro and I tried to explain to her just how\n　dangerous this mission will be over and over again,\n　but she said nothing is going to change her mind.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Салли",
+   "text": "「Я должна это сделать.」",
+   "orig": "Sally\n「I have to do this.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Майто",
+   "text": "「Спасибо, Салли.\n　Ты приняла решение, и я его принимаю.」",
+   "orig": "Maito\n「Thank you, Sally.\n　You've made your decision, and I accept that.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Майто",
+   "text": "「Обещаю тебе одно: я сделаю всё, что потребуется,\n　чтобы защитить мир и тебя. Чего бы это ни стоило.」",
+   "orig": "Maito\n「I can promise you this: I will do whatever it takes\n　to protect the world and you, no matter what.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Салли",
+   "text": "「Спасибо, Майто.」",
+   "orig": "Sally\n「Thank you, Maito.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Майто",
+   "text": "「Дзё, а тебе разве нечего сказать\n　Салли?」",
+   "orig": "Maito\n「Joe, don't you have something to say to Sally\n　as well?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Салли",
+   "text": "「Ты ведь тоже поможешь Майто довести\n　это дело до конца, правда?」",
+   "orig": "Sally\n「You're going to help Maito to make this mission a\n　success too, won't you?」"
+  },
+  {
+   "i": 71,
+   "speaker": "Дзё",
+   "text": "「По крайней мере, похоже на то.」",
+   "orig": "Joe\n「It at least seems that way, yes.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Салли",
+   "text": "「Ты выглядишь куда довольнее тем,\n　как идут дела, чем в прошлый раз,\n　когда мы виделись.」",
+   "orig": "Sally\n「You look like you're a lot more\n　satisfied with how things are going now\n　than you were the last time I saw you.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Дзё",
+   "text": "「Да. Теперь мы знаем, кто наш враг.」",
+   "orig": "Joe\n「Yeah. Now we know who our enemy is.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Майто",
+   "text": "「Только помни, Дзё:\n　мы здесь не затем, чтобы просто одолеть Эксева.\n　Мы здесь, чтобы спасти мир.」",
+   "orig": "Maito\n「Just remember, Joe:\n　we're not here just to defeat Exev.\n　We're here to save the world.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Дзё",
+   "text": "「Это одно и то же. Одно и то же.」",
+   "orig": "Joe\n「One and the same. One and the same.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Майто",
+   "text": "「А?」",
+   "orig": "Maito\n「Huh?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Дзё",
+   "text": "「Эксев хочет уничтожить этот мир.\n　А мы не станем стоять и смотреть.」",
+   "orig": "Joe\n「Exev wants to destroy the world.\n　We're not going to just stand by and let him.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Майто",
+   "text": "「Думаешь, он попробует не пустить нас в Искандар?」",
+   "orig": "Maito\n「Will he try to stop us from reaching Iscandar?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Майто",
+   "text": "「Спасибо, что приехал, Мицухико!」",
+   "orig": "Maito\n「Thanks for coming, Mitsuhiko!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Хамада",
+   "text": "「Да разве я мог такое пропустить!\n　Я ведь как-никак боец отряда «Брэйв Экспресс».」",
+   "orig": "Hamada\n「I wouldn't miss this for the world!\n　I'm a member of the Brave Express Corps, after all.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Хамада",
+   "text": "「И ещё, мне передали Юдзиро, Идзуми и Кэйитиро. \n　Они подержат концерн Сэмпудзи, пока тебя нет,\n　так что занимайся спокойно своим делом.」",
+   "orig": "Hamada\n「I also have word from Yujiro, Izumi, and Keiichiro. \n　They said they would hold down the Senpuji Concern while\n　you are away, so just focus on what you need to do.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Майто",
+   "text": "「Понял. Мы обязаны довести этот план\n　до конца — ради всех.」",
+   "orig": "Maito\n「Understood. We have to make this plan\n　a success, for everyone's sake.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Хамада",
+   "text": "「Кстати, из Нового Токио-Сити приехал не только я.」",
+   "orig": "Hamada\n「By the way, I'm not the only one coming from\n　Nouvelle Tokyo City.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Салли",
+   "text": "「Привет, Майто.」",
+   "orig": "Sally\n「Hey, Maito.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Майто",
+   "text": "「Салли!\n　Ты-то что здесь делаешь?」",
+   "orig": "Maito\n「Sally!\n　What are you doing here?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Салли",
+   "text": "「Я тоже хочу помочь спасти мир, вот и устроилась\n　в «Нергал» на подработку.」",
+   "orig": "Sally\n「I wanted to help save the world, so I applied for the\n　part-time position at Nergal.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Майто",
+   "text": "「Но Искандар — это далеко-далеко за пределами\n　галактики. Кто знает, что нас там ждёт?\n　Я не могу взять тебя на такое задание!」",
+   "orig": "Maito\n「But Iscandar is far, far beyond the galaxy.\n　Who knows what dangers we'll face? I can't take you\n　along on a mission like this!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Салли",
+   "text": "「Я лечу. Я хочу помочь людям этого мира —\n　тем, кто мне дорог. И больше всего\n　я хочу помочь тебе, Майто.」",
+   "orig": "Sally\n「I'm going. I want to help the people of the world—\n　the people close to me. And more than anything I want\n　to help you, Maito.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Майто",
+   "text": "「Салли, ты это серьёзно?」",
+   "orig": "Maito\n「Sally, you can't be serious.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Хамада",
+   "text": "「Мы с Салли будем помогать Мицухико\n　и возьмём на себя бытовые хлопоты.」",
+   "orig": "Hamada\n「Sally and I will act as assistants to Mitsuhiko and\n　help out with the daily living tasks.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Хамада",
+   "text": "「Мы с Юдзиро снова и снова объясняли ей,\n　насколько опасным будет этот поход,\n　но она сказала, что решения не изменит.」",
+   "orig": "Hamada\n「Both Yujiro and I tried to explain to her just how\n　dangerous this mission will be over and over again,\n　but she said nothing is going to change her mind.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Салли",
+   "text": "「Я должна это сделать.」",
+   "orig": "Sally\n「I have to do this.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Майто",
+   "text": "「Спасибо, Салли.\n　Ты приняла решение, и я его принимаю.」",
+   "orig": "Maito\n「Thank you, Sally.\n　You've made your decision, and I accept that.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Майто",
+   "text": "「Обещаю тебе одно: я сделаю всё, что потребуется,\n　чтобы защитить мир и тебя. Чего бы это ни стоило.」",
+   "orig": "Maito\n「I can promise you this: I will do whatever it takes\n　to protect the world and you, no matter what.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Салли",
+   "text": "「Спасибо, Майто.」",
+   "orig": "Sally\n「Thank you, Maito.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Майто",
+   "text": "「Дзё, а тебе разве нечего сказать\n　Салли?」",
+   "orig": "Maito\n「Joe, don't you have something to say to Sally\n　as well?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Салли",
+   "text": "「Ты ведь тоже поможешь Майто довести\n　это дело до конца, правда?」",
+   "orig": "Sally\n「You're going to help Maito to make this mission a\n　success too, won't you?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Дзё",
+   "text": "「По крайней мере, похоже на то.」",
+   "orig": "Joe\n「It at least seems that way, yes.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Салли",
+   "text": "「Ты выглядишь куда довольнее тем,\n　как идут дела, чем в прошлый раз,\n　когда мы виделись.」",
+   "orig": "Sally\n「You look like you're a lot more\n　satisfied with how things are going now\n　than you were the last time I saw you.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Дзё",
+   "text": "「Да. Теперь мы знаем, кто наш враг.」",
+   "orig": "Joe\n「Yeah. Now we know who our enemy is.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Майто",
+   "text": "「Только помни, Дзё:\n　мы здесь не затем, чтобы просто одолеть Эксева.\n　Мы здесь, чтобы спасти мир.」",
+   "orig": "Maito\n「Just remember, Joe:\n　we're not here just to defeat Exev.\n　We're here to save the world.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Дзё",
+   "text": "「Это одно и то же. Одно и то же.」",
+   "orig": "Joe\n「One and the same. One and the same.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Майто",
+   "text": "「А?」",
+   "orig": "Maito\n「Huh?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Дзё",
+   "text": "「Эксев хочет уничтожить этот мир.\n　А мы не станем стоять и смотреть.」",
+   "orig": "Joe\n「Exev wants to destroy the world.\n　We're not going to just stand by and let him.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Майто",
+   "text": "「Думаешь, он попробует не пустить нас в Искандар?」",
+   "orig": "Maito\n「Will he try to stop us from reaching Iscandar?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Амуро",
+   "text": "「Ты что здесь делаешь?!」",
+   "orig": "Amuro\n「What are you doing here?!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Фронталь",
+   "text": "「Прошу прощения, что помешал.」",
+   "orig": "Frontal\n「Sorry to interrupt.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Ридде",
+   "text": "「Фулл Фронталь!」",
+   "orig": "Riddhe\n「Full Frontal!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Фронталь",
+   "text": "「Успокойтесь.\n　Я прибыл с Миневой, чтобы поддержать вас.」",
+   "orig": "Frontal\n「Calm down, now.\n　I'm here with Mineva to provide some moral support.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Камий",
+   "text": "「Как-то странно вот так стоять\n　и говорить с тобой, да ещё и с улыбкой.\n　Не думал, что доживу до такого дня.」",
+   "orig": "Kamille\n「It feels so strange to be here talking\n　with you like this with smiles on our\n　faces. I never thought this day would come.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Фронталь",
+   "text": "「Превращать невозможное в действительность —\n　похоже, это дар, присущий человечеству.」",
+   "orig": "Frontal\n「The ability to make the impossible into reality\n　appears to be a skill of humanity.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Амуро",
+   "text": "「Вижу, ты перестал носить маску.」",
+   "orig": "Amuro\n「I see you've quit wearing your mask.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Фронталь",
+   "text": "「Она мне больше не нужна.」",
+   "orig": "Frontal\n「I no longer need it.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Фронталь",
+   "text": "「Я — тот, кто я есть. И я здесь, чтобы поддержать\n　Миневу и подумать о будущем Земли и космоса.」",
+   "orig": "Frontal\n「I am who I am, and I am here to support Mineva\n　and to ponder the future of Earth and of the universe.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Джудо",
+   "text": "「А ты и правда малость выправился.」",
+   "orig": "Judau\n「Well you've certainly straightened out a bit.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Фронталь",
+   "text": "「Я хотел бы увидеть и Банагера. Где он сейчас?」",
+   "orig": "Frontal\n「I'd also like to see Banagher. Where might he be?」"
+  },
+  {
+   "i": 117,
+   "speaker": "Камий",
+   "text": "「А, он в соседней комнате.」",
+   "orig": "Kamille\n「Oh, he's over in the other room.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Фронталь",
+   "text": "「Что ж.\n　Не хотелось бы показаться невежливым.」",
+   "orig": "Frontal\n「Very well.\n　I would not want to be rude.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Минева",
+   "text": "「Банагер, рада тебя видеть.」",
+   "orig": "Mineva\n「Banagher, it's nice to see you.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Банагер",
+   "text": "「Давно не виделись, Одри.」",
+   "orig": "Banagher\n「Long time no see, Audrey.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Банагер",
+   "text": "「Или мне больше не стоит тебя так называть?」",
+   "orig": "Banagher\n「Oh, should I not call you by that name anymore?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Минева",
+   "text": "「Нет, пожалуйста, называй.\n　Позволь мне быть Одри Бёрн, а не Миневой Заби —\n　хотя бы рядом с тобой.」",
+   "orig": "Mineva\n「No, please, by all means.\n　Let me be Audrey Burne instead of Mineva Zabi,\n　at least when I am with you.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Банагер",
+   "text": "「Знаю, с Нео-Зеоном сейчас непростые времена.」",
+   "orig": "Banagher\n「Times are difficult with Neo Zeon, I know.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Минева",
+   "text": "「Да, но есть и большие радости.\n　Хотя бы то, что между Землёй и космосом\n　наконец наступил мир.」",
+   "orig": "Mineva\n「Yes, but there are greater joys.\n　We have finally achieved peace between Earth\n　and space, for one.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Минева",
+   "text": "「Многим до сих пор невыносима сама мысль о мире\n　с Землёй, но со временем они всё поймут.」",
+   "orig": "Mineva\n「There are still many who cannot bear the thought of\n　living in peace with Earth, but they will come around.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Банагер",
+   "text": "「Именно поэтому мы должны спасти этот мир.」",
+   "orig": "Banagher\n「That's why we must save the world.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Минева",
+   "text": "「Банагер...\n　Я верю, что ты это сделаешь.」",
+   "orig": "Mineva\n「Banagher...\n　I'm trusting you to do just that.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Банагер",
+   "text": "「За этим я и отправляюсь.\n　Обещаю, я вернусь.」",
+   "orig": "Banagher\n「And that's what I am setting off to do.\n　I promise, I'll be back.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Банагер",
+   "text": "「Я спасу этот мир и воплощу твою надежду.」",
+   "orig": "Banagher\n「I will save this world and bring your hope to fruition.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Лэйн",
+   "text": "「Эй. Так это ты тот самый пилот «Ξ Гандама»,\n　о котором я столько слышал?」",
+   "orig": "Lane\n「Hey. So are you the Ξ Gundam pilot\n　I've been hearing about?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Хатауэй",
+   "text": "「Д-да, это я.」",
+   "orig": "Hathaway\n「Y-yeah, that's me.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Лэйн",
+   "text": "「Лейтенант Лэйн Эйм.\n　С сегодняшнего дня я официально в «Лондо Белл»\n　вместе с «Пенелопой».」",
+   "orig": "Lane\n「Lieutenant Lane Aime.\n　As of today, I'm officially a member of\n　Londo Bell along with Penelope.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Хатауэй",
+   "text": "「Серьёзно?」",
+   "orig": "Hathaway\n「Really?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Лэйн",
+   "text": "「А что тут такого удивительного?\n　Обвинения с «Лондо Белл» сняли, и нас вернули\n　в состав Федеральных сил.」",
+   "orig": "Lane\n「It's not that surprising, is it?\n　The charges against Londo Bell were dropped and\n　we've been integrated back into the Federation Forces.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Лэйн",
+   "text": "「Или дело в том, что Ридде вернуться можно,\n　он ведь бывший товарищ,\n　а вот мне одному нельзя?」",
+   "orig": "Lane\n「Or is it that Riddhe is OK to\n　come back as he is a former comrade,\n　but only I am not allowed?」"
+  },
+  {
+   "i": 136,
+   "speaker": "Хатауэй",
+   "text": "「Н-нет, дело не в этом.」",
+   "orig": "Hathaway\n「N-no it's not that.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Лэйн",
+   "text": "「Тогда с сегодняшнего дня мы сослуживцы.\n　Моя «Пенелопа» и твой «Ξ Гандам» —\n　вместе за дело!」",
+   "orig": "Lane\n「Well then, starting today, we are colleagues.\n　Let's team up with my Penelope and your\n　Ξ Gundam and get to work!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Хатауэй",
+   "text": "「Хм...」",
+   "orig": "Hathaway\n「Hmm...」"
+  },
+  {
+   "i": 139,
+   "speaker": "Лэйн",
+   "text": "「Ну что ещё?」",
+   "orig": "Lane\n「What now?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Хатауэй",
+   "text": "「Да вспомнил тот бой в Токио-3.\n　Похоже, ты не такой злодей, каким я тебя считал.」",
+   "orig": "Hathaway\n「I was just thinking of the battle back at Tokyo-3.\n　I guess you're not the bad guy I thought you were.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Лэйн",
+   "text": "「Да брось ты!\n　Я просто солдат.」",
+   "orig": "Lane\n「Gimme a break!\n　I'm just a soldier.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Лэйн",
+   "text": "「Солдат делает то, что положено солдату.\n　Я просто сражаюсь, чтобы защитить людей.」",
+   "orig": "Lane\n「A soldier does what a soldier does.\n　I just fight to protect the people.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Хатауэй",
+   "text": "「Это всё, что мне нужно было знать.」",
+   "orig": "Hathaway\n「That's all I needed to know.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Хатауэй",
+   "text": "「Меня зовут Хатауэй Ноа.\n　Приятно познакомиться.」",
+   "orig": "Hathaway\n「The name's Hathaway Noa.\n　It's a pleasure to meet you.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Лэйн",
+   "text": "「Взаимно, Хатауэй.」",
+   "orig": "Lane\n「The pleasure's all mine, Hathaway.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Джерид",
+   "text": "「Значит, вот он какой, ангар «Ямато».」",
+   "orig": "Jerid\n「So this is the Yamato's hangar, huh.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Язан",
+   "text": "「Кто бы мог подумать, что мы окажемся внутри\n　корабля, против которого когда-то дрались.」",
+   "orig": "Yazan\n「Who would've thought we'd ever see the inside\n　of the ship we once fought against.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Джудо",
+   "text": "「Ничего себе, это же вы, господин Язан?!」",
+   "orig": "Judau\n「My goodness, is that you Mr. Yazan?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Бича",
+   "text": "「Ч-что за чёрт?!\n　Вы что, мстить явились?」",
+   "orig": "Beecha\n「W-what the?!\n　Are you here for revenge or something?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Элль",
+   "text": "「О чём вообще думает наша охрана,\n　пуская вас на «Ямато»?!」",
+   "orig": "Elle\n「What the hell is our security doing\n　letting you onboard the Yamato?」"
+  },
+  {
+   "i": 151,
+   "speaker": "Джерид",
+   "text": "「Успокойтесь.」",
+   "orig": "Jerid\n「Calm down.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Язан",
+   "text": "「С сегодняшнего дня мы тоже в «Лондо Белл».」",
+   "orig": "Yazan\n「As of today, we're members of Londo Bell, too.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Иино",
+   "text": "「Да ладно!」",
+   "orig": "Iino\n「No way!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Мондо",
+   "text": "「Вы серьёзно?!」",
+   "orig": "Mondo\n「Are you serious?!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Язан",
+   "text": "「Поход в Искандар потребует,\n　чтобы мы все действовали сообща.」",
+   "orig": "Yazan\n「This mission to Iscandar is going to\n　require the cooperation of all of us.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Джерид",
+   "text": "「Раз грызня между своими кончилась,\n　следующая наша задача — защитить этот мир.」",
+   "orig": "Jerid\n「Since the fighting among ourselves has ended,\n　our next mission is to protect this world.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Джудо",
+   "text": "「Тут не поспоришь.」",
+   "orig": "Judau\n「You have a point there.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Ру",
+   "text": "「И правда. Сейчас не время для склок.\n　Наш мир стоит на краю гибели.」",
+   "orig": "Roux\n「You're right. This is no time for bickering.\n　The world as we know it is on the verge of destruction.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Язан",
+   "text": "「Вот именно.\n　Рассчитываю на совместную работу.」",
+   "orig": "Yazan\n「That's right.\n　I'm looking forward to working with you all.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Бича",
+   "text": "「И мы на вас.\n　Только помните: здесь всем заправляем мы.」",
+   "orig": "Beecha\n「Right back at you.\n　Just remember, we're in charge around here.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Мондо",
+   "text": "「Ага, это вам не Шангри-Ла, где вы ворвались\n　и вели себя как хозяева.」",
+   "orig": "Mondo\n「Yeah, this isn't like at Shangri-La when you\n　just swooped in like you ran the place.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Язан",
+   "text": "「Хм? Что-что?」",
+   "orig": "Yazan\n「Hm? What's that?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Мондо",
+   "text": "「А, н-ничего!」",
+   "orig": "Mondo\n「Ah, n-nothing!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Бича",
+   "text": "「Давайте покажу вам корабль.」",
+   "orig": "Beecha\n「Let me show you around the ship.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Язан",
+   "text": "「Буду признателен.」",
+   "orig": "Yazan\n「Looking forward to it.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Язан",
+   "text": "「Эй, Джерид.\n　Тебе бы тоже не мешало представиться.」",
+   "orig": "Yazan\n「Hey, Jerid.\n　You should probably introduce yourself, too.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Джерид",
+   "text": "「Ох, ненавижу все эти знакомства.」",
+   "orig": "Jerid\n「Ugh, I hate introductions.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Камий",
+   "text": "「И почему я не удивлён?」",
+   "orig": "Kamille\n「How am I not surprised?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Джерид",
+   "text": "「Просто я и подумать не мог, что это случится.」",
+   "orig": "Jerid\n「I just never thought this would actually happen.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Камий",
+   "text": "「Я тоже.」",
+   "orig": "Kamille\n「You and me both.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Камий",
+   "text": "「Но Фулл Фронталь теперь совсем другой человек.\n　А мы здесь, чтобы сделать всё, что в наших силах.」",
+   "orig": "Kamille\n「But Full Frontal is a completely different person now.\n　We're here to do what we can.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Джерид",
+   "text": "「То есть ты предлагаешь мне забыть прошлое?」",
+   "orig": "Jerid\n「So you just want me to forget the past?」"
+  },
+  {
+   "i": 173,
+   "speaker": "Камий",
+   "text": "「Шла война.」",
+   "orig": "Kamille\n「We were at war.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Джерид",
+   "text": "「Как будто это что-то меняет.」",
+   "orig": "Jerid\n「As if that makes any difference.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Камий",
+   "text": "「На той войне мы оба отняли\n　бесчисленное множество жизней.」",
+   "orig": "Kamille\n「We both took countless lives in\n　battle during that war.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Камий",
+   "text": "「Я убил многих, кто был тебе дорог. Но и ты убил\n　мою мать, Фоу и лейтенанта Аполли.」",
+   "orig": "Kamille\n「I killed many you loved. But you killed\n　my mother, Four, and Lieutenant Apolly.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Джерид",
+   "text": "「И что, от этого легче простить?」",
+   "orig": "Jerid\n「Do you think that makes it any easier to forgive?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Камий",
+   "text": "「Я не говорю, что я невиновен.\n　Я говорю лишь о том, что шла война.」",
+   "orig": "Kamille\n「I'm not saying I'm innocent.\n　I'm simply saying we were in a time of war.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Камий",
+   "text": "「И именно поэтому теперь, в мирное время,\n　я хочу раз и навсегда перестать ненавидеть.」",
+   "orig": "Kamille\n「That's why now, in this time of peace,\n　I want to stop hating once and for all.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Джерид",
+   "text": "「Камий, я...」",
+   "orig": "Jerid\n「Kamille, I...」"
+  },
+  {
+   "i": 181,
+   "speaker": "Камий",
+   "text": "「Иначе ничто никогда не изменится.」",
+   "orig": "Kamille\n「Otherwise, nothing will ever change.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Джерид",
+   "text": "「Я понимаю.\n　По правде, я понял это уже давно.」",
+   "orig": "Jerid\n「I understand.\n　I've actually understood for some time now.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Джерид",
+   "text": "「Просто мне казалось, что пока я тебя не убью\n　и не отомщу, мне не двинуться дальше.\n　Вот и всё.」",
+   "orig": "Jerid\n「I just thought if I didn't kill you and\n　get my revenge that I could never move on.\n　That's all.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Камий",
+   "text": "「Но теперь мы все здесь, вместе,\n　и сражаемся за одно дело.」",
+   "orig": "Kamille\n「But now we are all here together,\n　fighting for the same cause.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Джерид",
+   "text": "「Я и сам уже не знаю, как мне теперь жить.\n　Не знаю даже, как мне смотреть тебе в глаза.」",
+   "orig": "Jerid\n「I don't even know how to live my life anymore.\n　I don't know how I'm supposed to even face you.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Джерид",
+   "text": "「Просто выбрось всё лишнее из головы,\n　и давай займёмся тем, что нам предстоит.」",
+   "orig": "Jerid\n「Just try to clear your mind of any thoughts,\n　and let's focus on the task at hand.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Камий",
+   "text": "「Не уверен, что это возможно.」",
+   "orig": "Kamille\n「I'm not sure if that's possible.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Джерид",
+   "text": "「Я не собираюсь извиняться\n　ни за что из того, что совершил.」",
+   "orig": "Jerid\n「I do not plan on apologizing for\n　any of the things I have done.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джерид",
+   "text": "「Но вот что я скажу, Камий.\n　Прости, что я тогда потешался над твоим именем.」",
+   "orig": "Jerid\n「But Kamille, I will say this.\n　I'm sorry for making fun of your name back then.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Джерид",
+   "text": "「За это я извинюсь.」",
+   "orig": "Jerid\n「That I will apologize for.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Камий",
+   "text": "「Лейтенант...」",
+   "orig": "Kamille\n「Lieutenant...」"
+  },
+  {
+   "i": 192,
+   "speaker": "Камий",
+   "text": "「А я прошу прощения, что тогда вас ударил.」",
+   "orig": "Kamille\n「I'm also sorry for hitting you then.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Соскэ",
+   "text": "「Канамэ...\n　Ты ведь можешь просто подождать на Земле.」",
+   "orig": "Sousuke\n「Kaname...\n　You know you can just wait on Earth.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Канамэ",
+   "text": "「Я до сих пор не понимаю, зачем Леонард\n　хочет уничтожить этот мир.」",
+   "orig": "Kaname\n「I still can't understand why Leonard is trying to\n　destroy the world.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Канамэ",
+   "text": "「Единственное, что приходит в голову, —\n　его ненависть к миру и к собственному прошлому.」",
+   "orig": "Kaname\n「The only thing I can think of is his hatred for\n　the world and for his past.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Соскэ",
+   "text": "「А что с его прошлым?」",
+   "orig": "Sousuke\n「What of his past?」"
+  },
+  {
+   "i": 197,
+   "speaker": "Канамэ",
+   "text": "「$kwbПредательство матери$kwe оставило\n　в его сердце дыру, которая уже не затянется.」",
+   "orig": "Kaname\n「His $kwbMother's Betrayal$kwe has\n　left a permanent hole in his heart that will not mend.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Канамэ",
+   "text": "「Но если он намерен использовать ради этого\n　Шептунов, я обязана сделать всё, чтобы помешать.」",
+   "orig": "Kaname\n「But if he wishes to use the Whispered for such a\n　purpose, I have to do whatever I can to stop it.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Соскэ",
+   "text": "「Канамэ, это не твоя ответственность.」",
+   "orig": "Sousuke\n「Kaname, this isn't your responsibility.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Канамэ",
+   "text": "「Я ничего не знаю об этой $kwbСофии$kwe,\n　о которой говорила Тесса.」",
+   "orig": "Kaname\n「I don't know anything about this $kwbSophia$kwe\n　that Tessa was talking about.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Канамэ",
+   "text": "「Но я уверена: она не по своей воле принесла себя\n　в жертву ради какого-то эксперимента.」",
+   "orig": "Kaname\n「But I know she didn't sacrifice herself for some\n　experiment of her own free will.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Канамэ",
+   "text": "「Я хочу, чтобы этот бесконечный круг горя\n　из-за Шептунов наконец оборвался.」",
+   "orig": "Kaname\n「I want this endless cycle of sadness caused by the\n　Whispered to end once and for all.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Канамэ",
+   "text": "「Я возьмусь за что угодно — помогать с тактикой,\n　с бытом, с техниками, за что угодно.\n　Я твёрдо знаю одно: я лечу в Искандар.」",
+   "orig": "Kaname\n「I'll do anything I can—helping with battle tactics,\n　doing chores, helping the mechanics—anything.\n　All I know is that I am going to Iscandar.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Канамэ",
+   "text": "「Я хочу сказать Леонарду в лицо, что всё,\n　чего он добивался, в конце концов напрасно.」",
+   "orig": "Kaname\n「I want to tell Leonard to his face that all he has\n　tried to accomplish is ultimately for nothing.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Соскэ",
+   "text": "「Понял.\n　Вряд ли я смогу тебя переубедить.」",
+   "orig": "Sousuke\n「I understand.\n　I don't think I can convince you otherwise.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Соскэ",
+   "text": "「Тогда я буду и дальше сражаться, чтобы защитить\n　тебя, — как делал всегда.」",
+   "orig": "Sousuke\n「I will continue to fight to protect you then,\n　as I have always done.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Канамэ",
+   "text": "「Спасибо.」",
+   "orig": "Kaname\n「Thank you.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Канамэ",
+   "text": "「А когда вернёмся, наконец исполним обещание.」",
+   "orig": "Kaname\n「When we get back, let's finally fulfill our promise.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Соскэ",
+   "text": "「Обещание? Какое обещание?」",
+   "orig": "Sousuke\n「Promise? What promise?」"
+  },
+  {
+   "i": 210,
+   "speaker": "Канамэ",
+   "text": "「Н-ничего! Забудь!」",
+   "orig": "Kaname\n「N-nothing! Nevermind!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Канамэ",
+   "text": "（Соскэ...\n　Быть рядом с тобой — вот что сейчас\n　для меня важнее всего.）",
+   "orig": "Kaname\n（Sousuke...\n　Being together with you is the most important\n　thing to me right now.）"
+  },
+  {
+   "i": 212,
+   "speaker": "Канамэ",
+   "text": "（И даже путь в 336 000 световых лет через звёзды\n　не страшен, пока я вместе с тобой.）",
+   "orig": "Kaname\n（Even a 336,000 light-year journey through the stars\n　is not scary as long as I am with you.）"
+  },
+  {
+   "i": 213,
+   "speaker": "Соскэ",
+   "text": "「Канамэ...\n　Ты ведь можешь просто подождать на Земле.」",
+   "orig": "Sousuke\n「Kaname...\n　You know you can just wait on Earth.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Канамэ",
+   "text": "「Я до сих пор не понимаю, зачем Леонард\n　хочет уничтожить этот мир.」",
+   "orig": "Kaname\n「I still can't understand why Leonard is trying to\n　destroy the world.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Канамэ",
+   "text": "「Единственное, что приходит в голову, —\n　его ненависть к миру и к собственному прошлому.」",
+   "orig": "Kaname\n「The only thing I can think of is his hatred for\n　the world and for his past.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Соскэ",
+   "text": "「А что с его прошлым?」",
+   "orig": "Sousuke\n「What of his past?」"
+  },
+  {
+   "i": 217,
+   "speaker": "Канамэ",
+   "text": "「$kwbПредательство матери$kwe оставило\n　в его сердце дыру, которая уже не затянется.」",
+   "orig": "Kaname\n「His $kwbMother's Betrayal$kwe has\n　left a permanent hole in his heart that will not mend.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Канамэ",
+   "text": "「Но если он намерен использовать ради этого\n　Шептунов, я обязана сделать всё, чтобы помешать.」",
+   "orig": "Kaname\n「But if he wishes to use the Whispered for such a\n　purpose, I have to do whatever I can to stop it.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Соскэ",
+   "text": "「Канамэ, это не твоя ответственность.」",
+   "orig": "Sousuke\n「Kaname, this isn't your responsibility.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Канамэ",
+   "text": "「Я ничего не знаю об этой $kwbСофии$kwe,\n　о которой говорила Тесса.」",
+   "orig": "Kaname\n「I don't know anything about this $kwbSophia$kwe\n　that Tessa was talking about.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Канамэ",
+   "text": "「Но я уверена: она не по своей воле принесла себя\n　в жертву ради какого-то эксперимента.」",
+   "orig": "Kaname\n「But I know she didn't sacrifice herself for some\n　experiment of her own free will.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Канамэ",
+   "text": "「Я хочу, чтобы этот бесконечный круг горя\n　из-за Шептунов наконец оборвался.」",
+   "orig": "Kaname\n「I want this endless cycle of sadness caused by the\n　Whispered to end once and for all.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Канамэ",
+   "text": "「Я возьмусь за что угодно — помогать с тактикой,\n　с бытом, с техниками, за что угодно.\n　Я твёрдо знаю одно: я лечу в Искандар.」",
+   "orig": "Kaname\n「I'll do anything I can—helping with battle tactics,\n　doing chores, helping the mechanics—anything.\n　All I know is that I am going to Iscandar.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Канамэ",
+   "text": "「Я хочу сказать Леонарду в лицо, что всё,\n　чего он добивался, в конце концов напрасно.」",
+   "orig": "Kaname\n「I want to tell Leonard to his face that all he has\n　tried to accomplish is ultimately for nothing.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Соскэ",
+   "text": "「Понял.\n　Вряд ли я смогу тебя переубедить.」",
+   "orig": "Sousuke\n「I understand.\n　I don't think I can convince you otherwise.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Соскэ",
+   "text": "「Тогда я буду и дальше сражаться, чтобы защитить\n　тебя, — как делал всегда.」",
+   "orig": "Sousuke\n「I will continue to fight to protect you then,\n　as I have always done.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Канамэ",
+   "text": "「Спасибо.」",
+   "orig": "Kaname\n「Thank you.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Канамэ",
+   "text": "「А когда вернёмся, наконец исполним обещание.」",
+   "orig": "Kaname\n「When we get back, let's finally fulfill our promise.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Соскэ",
+   "text": "「Обещание? Какое обещание?」",
+   "orig": "Sousuke\n「Promise? What promise?」"
+  },
+  {
+   "i": 230,
+   "speaker": "Канамэ",
+   "text": "「Н-ничего! Забудь!」",
+   "orig": "Kaname\n「N-nothing! Nevermind!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Канамэ",
+   "text": "「И вообще, что это ты там такое\n　мастеришь?」",
+   "orig": "Kaname\n「More importantly, what is that you've been working\n　on over there?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Соскэ",
+   "text": "「Разве не видно? Это же Бонта-кун!」",
+   "orig": "Sousuke\n「You can't tell? It's Bonta-kun!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Канамэ",
+   "text": "「Да это-то я и так вижу!」",
+   "orig": "Kaname\n「Well I know that much!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Соскэ",
+   "text": "「Это не просто костюм. Я полностью выпотрошил\n　его изнутри и превратил в миниатюрный AS.」",
+   "orig": "Sousuke\n「This is no simple costume. I've completely\n　gutted the inside and transformed it into a\n　miniature AS.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Соскэ",
+   "text": "「К сожалению, он почему-то наглухо вырубается,\n　стоит только выключить изменитель голоса.」",
+   "orig": "Sousuke\n「Unfortunately, it completely shuts down if you ever\n　turn the voice changer off, for some reason.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Канамэ",
+   "text": "「И какое это имеет отношение к Искандару?」",
+   "orig": "Kaname\n「Does that have anything to do with Iscandar?」"
+  },
+  {
+   "i": 237,
+   "speaker": "Соскэ",
+   "text": "「В этом походе нас могут ждать совершенно\n　немыслимые условия. Чувствую, этот малый\n　нам там очень пригодится.」",
+   "orig": "Sousuke\n「This mission may take us into unimaginable\n　environments. I have a feeling this guy\n　might come in handy while we're there.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Канамэ",
+   "text": "「По мне, твои безумные идеи куда немыслимее.」",
+   "orig": "Kaname\n「Your crazy ideas are more unimaginable, to me.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Канамэ",
+   "text": "（И всё же, Соскэ...\n　Быть рядом с тобой — вот что сейчас\n　для меня важнее всего.）",
+   "orig": "Kaname\n（But Sousuke...\n　Being together with you is the most important\n　thing to me right now.）"
+  },
+  {
+   "i": 240,
+   "speaker": "Канамэ",
+   "text": "（И даже путь в 336 000 световых лет через звёзды\n　не страшен, пока я вместе с тобой.）",
+   "orig": "Kaname\n（Even a 336,000 light-year journey through the stars\n　is not scary as long as I am with you.）"
+  },
+  {
+   "i": 241,
+   "speaker": "Кира",
+   "text": "「С чего начнём?」",
+   "orig": "Kira\n「Where do we begin?」"
+  },
+  {
+   "i": 242,
+   "speaker": "Гоат",
+   "text": "「Сухопутные силы Орба и секретная служба «Нергала»\n　вывезли представителя Атху и принцессу Марину,\n　пока вы проникали в империю Мисуруги.」",
+   "orig": "Goat\n「The Orb Land Forces and Nergal Secret Service executed\n　the extraction of Representative Athha and Princess\n　Marina with your infiltration into the Misurugi Empire.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Цукиоми",
+   "text": "「Прошу прощения.\n　Двоих, которых удерживает Эмбрио,\n　мы отыскать не смогли.」",
+   "orig": "Tsukiomi\n「I am sorry.\n　We were unable to find the two who are being held captive\n　by Embryo.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Атрун",
+   "text": "「Их могло затянуть искажением горизонта измерений?」",
+   "orig": "Athrun\n「Were they caught up in the dimensional horizon distortion?」"
+  },
+  {
+   "i": 245,
+   "speaker": "Гоат",
+   "text": "「Мы считаем это крайне маловероятным.」",
+   "orig": "Goat\n「We believe that to be highly unlikely.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Тиерия",
+   "text": "「Тогда где же они?」",
+   "orig": "Tieria\n「Well then, where are they?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Сэцуна",
+   "text": "「Возможно, они всё ещё при Эмбрионе?」",
+   "orig": "Setsuna\n「Perhaps they're still together with Embryo?」"
+  },
+  {
+   "i": 248,
+   "speaker": "Цукиоми",
+   "text": "「Мы продолжим их поиски.」",
+   "orig": "Tsukiomi\n「We will continue our search for them.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Атрун",
+   "text": "「Хорошо. Действуйте.」",
+   "orig": "Athrun\n「Very well. Please proceed.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Розали",
+   "text": "「Фу, этот Эмбрио. Думаете, у него какой-то\n　пунктик насчёт принцесс?」",
+   "orig": "Rosalie\n「Ugh, that Embryo. Do you think he has a thing for\n　princesses or something?」"
+  },
+  {
+   "i": 251,
+   "speaker": "Салия",
+   "text": "「Вот и я о том же.」",
+   "orig": "Salia\n「I know, right?」"
+  },
+  {
+   "i": 252,
+   "speaker": "Анж",
+   "text": "「Наша схватка с ним ещё не окончена.\n　Придёт время — и мы спасём обеих.」",
+   "orig": "Ange\n「Our fight with him continues.\n　We will save those two when the time comes.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Хильда",
+   "text": "「Хм.」",
+   "orig": "Hilda\n「Hmm.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Анж",
+   "text": "「Что такое, Хильда?」",
+   "orig": "Ange\n「What's the matter, Hilda?」"
+  },
+  {
+   "i": 255,
+   "speaker": "Хильда",
+   "text": "「Кажется, я наконец немного понимаю Салию.」",
+   "orig": "Hilda\n「I finally understand how Salia feels a little.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Салия",
+   "text": "「Хильда...」",
+   "orig": "Salia\n「Hilda...」"
+  },
+  {
+   "i": 257,
+   "speaker": "Хильда",
+   "text": "「Анж, те двое у Эмбриона, Принцесса Драконов...\n　Все они принцессы.」",
+   "orig": "Hilda\n「Ange, the two being held by Embryo, the Dragon\n　Princess... They're all princesses.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Крис",
+   "text": "（Принцесса Драконов?）",
+   "orig": "Chris\n（The Dragon Princess?）"
+  },
+  {
+   "i": 259,
+   "speaker": "Эрша",
+   "text": "（Хм, она наверняка говорит\n　о Саламандинай.）",
+   "orig": "Ersha\n（Hmm, she must be talking\n　about Salamandinay.）"
+  },
+  {
+   "i": 260,
+   "speaker": "Анж",
+   "text": "「И чего ты, собственно, дуешься?」",
+   "orig": "Ange\n「What exactly are you sulking about?」"
+  },
+  {
+   "i": 261,
+   "speaker": "Хильда",
+   "text": "「Я не дуюсь!」",
+   "orig": "Hilda\n「I'm not sulking!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Анж",
+   "text": "「Если есть что сказать — говори прямо.」",
+   "orig": "Ange\n「If you have something to say, just say it.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Хильда",
+   "text": "「Скажу — и ты меня возненавидишь.」",
+   "orig": "Hilda\n「If I say it, you'll hate me.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Анж",
+   "text": "「Что? Да ну брось.」",
+   "orig": "Ange\n「What? Come on.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Хильда",
+   "text": "「Анж...\n　Ты мой принц.」",
+   "orig": "Hilda\n「Ange...\n　You are my prince.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Анж",
+   "text": "「Ты это о чём вообще?!」",
+   "orig": "Ange\n「What are you talking about?!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Хильда",
+   "text": "「Но ты знаешь столько настоящих принцесс,\n　да ещё и мужчин в придачу.」",
+   "orig": "Hilda\n「But you know so many actual princesses and\n　not just that, but men too.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Таск",
+   "text": "（Это она про меня?）",
+   "orig": "Tusk\n（Is she talking about me?）"
+  },
+  {
+   "i": 269,
+   "speaker": "Сэцуна",
+   "text": "（Помолчи, Таск.）",
+   "orig": "Setsuna\n（Just shut it, Tusk.）"
+  },
+  {
+   "i": 270,
+   "speaker": "Анж",
+   "text": "「Хильда, я и не догадывалась.」",
+   "orig": "Ange\n「Hilda, I had no idea.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Хильда",
+   "text": "「Понимаю. Странно же, когда две женщины\n　вместе, да?」",
+   "orig": "Hilda\n「I know. It's strange for two women\n　to be together, isn't it?」"
+  },
+  {
+   "i": 272,
+   "speaker": "Анж",
+   "text": "「Ничего странного в этом нет.」",
+   "orig": "Ange\n「It's not strange at all.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Анж",
+   "text": "「Разве не за это мы всё время и сражались?\n　Чтобы сломать предрассудки, нелепые правила,\n　то, что зовут нормой вопреки здравому смыслу?」",
+   "orig": "Ange\n「Isn't that what we have been fighting for all along?\n　To break down those stereotypes, those nonsensical rules,\n　what society says is normal even if it makes no sense?」"
+  },
+  {
+   "i": 274,
+   "speaker": "Анж",
+   "text": "「Но больше всего я не хочу, чтобы слияние\n　пространства-времени уничтожило весь наш мир.」",
+   "orig": "Ange\n「But most of all, I don't want the space-time fusion\n　to destroy the entire world as we know it.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Хильда",
+   "text": "「Анж, прости меня.」",
+   "orig": "Hilda\n「Ange, I'm sorry.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Анж",
+   "text": "「Будем сражаться дальше, Хильда, —\n　за мир, в котором мы сможем жить.」",
+   "orig": "Ange\n「Let's keep fighting, Hilda,\n　for a world we can live in.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Анж",
+   "text": "「И я хочу, чтобы ты была в этом мире рядом со мной.」",
+   "orig": "Ange\n「I want you to be in that world with me.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Хильда",
+   "text": "「Буду.」",
+   "orig": "Hilda\n「I will be.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Таск",
+   "text": "「Эм, а как же я?」",
+   "orig": "Tusk\n「Umm, so, what about me?」"
+  },
+  {
+   "i": 280,
+   "speaker": "Сэцуна",
+   "text": "「Вот это и есть главный вопрос.」",
+   "orig": "Setsuna\n「That's the real question.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Атрун",
+   "text": "「Уверен, Анж позаботится\n　и о тебе, и о Хильде!」",
+   "orig": "Athrun\n「I'm certain Ange will look after\n　both you and Hilda!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Таск",
+   "text": "「Очень на это надеюсь.」",
+   "orig": "Tusk\n「I sure hope so.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Таск",
+   "text": "（Потому я и клянусь защищать тебя,\n　Анж, чего бы это ни стоило.）",
+   "orig": "Tusk\n（That's why I vow to protect you,\n　Ange, no matter what.）"
+  },
+  {
+   "i": 284,
+   "speaker": "Мари",
+   "text": "「Эх.\n　Вечно что-нибудь случается прямо перед вылетом.」",
+   "orig": "Mari\n「Ugh.\n　Things always love to happen just before heading out.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Аска",
+   "text": "「Э-эй! Это ты без спроса угнала мою\n　«Еву-02» покататься!」",
+   "orig": "Asuka\n「H-hey! You're the one who took my\n　Unit-02 for a joy-ride without asking!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Мари",
+   "text": "「Ня-ха-ха! Виновата, виновата!\n　Это была экстренная ситуация, честное слово!」",
+   "orig": "Mari\n「Nyahaha! My bad, my bad!\n　It was an emergency, I swear!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Аска",
+   "text": "「И вообще, что ты тут делаешь?」",
+   "orig": "Asuka\n「So why are you even here, anyway?」"
+  },
+  {
+   "i": 288,
+   "speaker": "Мари",
+   "text": "「Отличный вопрос!\n　Я, великая Мари Иллюстриус Макинами,\n　отправляюсь с вами в поход.」",
+   "orig": "Mari\n「Good question!\n　I, the great Mari Illustrious Makinami,\n　am here to join you on your mission.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Мари",
+   "text": "「То есть я и мой «Евангелион» Ева-08.」",
+   "orig": "Mari\n「That is, me and my Evangelion Unit-08.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Синдзи",
+   "text": "「А что это за «Евангелион» такой?」",
+   "orig": "Shinji\n「What kind of Evangelion is that?」"
+  },
+  {
+   "i": 291,
+   "speaker": "Мари",
+   "text": "「Да всего лишь новейшая и лучшая модель, щеночек.」",
+   "orig": "Mari\n「Only the latest and greatest model, puppy boy.」"
+  },
+  {
+   "i": 292,
+   "speaker": "Синдзи",
+   "text": "「Щеночек? Это ты меня так называешь?」",
+   "orig": "Shinji\n「Puppy boy? Is that what you're calling me?」"
+  },
+  {
+   "i": 293,
+   "speaker": "Мари",
+   "text": "「Ну а что, ты милый и преданный, прямо щенок!」",
+   "orig": "Mari\n「Well, you're cute and devoted like a little puppy!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Мари",
+   "text": "「Моя Ева-08 заточена под снайперскую стрельбу\n　на дальних дистанциях, так что прикрою вас с тыла.」",
+   "orig": "Mari\n「My Unit-08 is designed for long-range sniping,\n　so I'll be supporting you from the rear.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Аска",
+   "text": "「Не строй из себя командира, Очкастая!」",
+   "orig": "Asuka\n「Don't act like you're the leader here, Specs!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Мари",
+   "text": "「Остынь, Принцесса.\n　Я только пришла, а ты уже обзываешься?」",
+   "orig": "Mari\n「Chill out, Princess.\n　I just got here, and already with the name-calling?」"
+  },
+  {
+   "i": 297,
+   "speaker": "Аска",
+   "text": "「А сама-то? «Принцесса», значит?」",
+   "orig": "Asuka\n「Well what about you calling me \"Princess,\" then?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Мари",
+   "text": "「Просто Синдзи вылитый щенок, вот я и решила, что\n　и тебе прозвище нужно. Это же комплимент!」",
+   "orig": "Mari\n「I just thought Shinji was fit to be called a puppy,\n　and thought you needed a name, too. It's a compliment!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Аска",
+   "text": "「Да ну тебя.\n　Хотя ты помогла нам отыскать у «Евы-02» пару\n　скрытых возможностей, так что спасибо за это.」",
+   "orig": "Asuka\n「Ugh, whatever.\n　You helped us find some hidden features of\n　Unit-02 anyways, so thanks for that.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Мари",
+   "text": "「Погоди, ты правда собираешься ими пользоваться?!」",
+   "orig": "Mari\n「Wait, you're really gonna use those?!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Аска",
+   "text": "「Ах вот как, ТЕБЕ можно,\n　а мне нельзя? Издеваешься?!」",
+   "orig": "Asuka\n「Oh, so YOU can use them,\n　but I can't? Give me a break!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Мари",
+   "text": "「Ладно, успокойся, Принцесса.\n　Как скажешь.」",
+   "orig": "Mari\n「OK, calm down, Princess.\n　Whatever you say.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Синдзи",
+   "text": "（Я готов, отец.）",
+   "orig": "Shinji\n（I'm ready, Father.）"
+  },
+  {
+   "i": 304,
+   "speaker": "Синдзи",
+   "text": "（Этот мир — наш дом, каким бы он ни был.\n　И именно его я хочу защитить.）",
+   "orig": "Shinji\n（This world is our home, no matter its faults.\n　That is something I want to protect.）"
+  },
+  {
+   "i": 308,
+   "speaker": "　",
+   "text": "　\n　　　-Истинная научная крепость-лаборатория: штаб-",
+   "orig": "　\n　\n　　　-True Science Fortress Laboratory Command Center-"
+  },
+  {
+   "i": 309,
+   "speaker": "Санада",
+   "text": "「Повторим порядок действий ещё раз.」",
+   "orig": "Sanada\n「Let's review the final procedures.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Окита",
+   "text": "「...」",
+   "orig": "Okita\n「...」"
+  },
+  {
+   "i": 311,
+   "speaker": "Брайт",
+   "text": "「...」",
+   "orig": "Bright\n「...」"
+  },
+  {
+   "i": 312,
+   "speaker": "Санада",
+   "text": "「Сначала Объединённый флот\n　выходит в космос.」",
+   "orig": "Sanada\n「First, the Allied Fleet will launch\n　into space.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Санада",
+   "text": "「Затем «Ямато» бьёт из волновой пушки, пробивая\n　брешь в пространственном горизонте, и совершает\n　параллельный бозонный прыжок в измерение NCC.」",
+   "orig": "Sanada\n「Then, the Yamato will fire its wave motion gun to\n　create a rift in the dimensional horizon and execute\n　a Parallel Boson Jump to the NCC dimension.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Сумераги",
+   "text": "「А как мы убедимся, что курс проложен именно\n　в измерение Нового Истинного столетия?」",
+   "orig": "Sumeragi\n「And how do we expect to ensure our course is set to\n　the New Correct Century dimension?」"
+  },
+  {
+   "i": 315,
+   "speaker": "Санада",
+   "text": "「Тем же способом, каким выходим на Вычислительный\n　блок. Соберём нашу волю в Геттер-лучи и сольёмся\n　с нужным параллельным измерением.」",
+   "orig": "Sanada\n「We will use the same method that we use to access the\n　Calculation Unit. We'll assemble our will into Getter\n　Rays to fuse with the target parallel dimension.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Отто",
+   "text": "「Геттер-лучи? И как это сработает?」",
+   "orig": "Otto\n「Getter Rays? How will that work?」"
+  },
+  {
+   "i": 317,
+   "speaker": "Инес",
+   "text": "「Позвольте объяснить.\n　Как вы уже видели сами, Геттер-лучи способны\n　управлять пространством и временем.」",
+   "orig": "Inez\n「Allow me to explain. \n　As you have already observed, Getter Rays are capable\n　of spatiotemporal control.」"
+  },
+  {
+   "i": 318,
+   "speaker": "Инес",
+   "text": "「Мы используем наше желание вернуть экипаж «Ямато»\n　домой, чтобы направить Геттер-лучи и открыть портал.」",
+   "orig": "Inez\n「We'll utilize our desire for the Yamato crew to make it\n　back home to control the Getter Rays and open a portal.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Окита",
+   "text": "「И это в самом деле возможно?」",
+   "orig": "Okita\n「Is that really possible?」"
+  },
+  {
+   "i": 320,
+   "speaker": "Найн",
+   "text": "「Это развитие автонавигации «Ямато».」",
+   "orig": "Nine\n「It's an application of the Yamato's auto-navigation.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Окита",
+   "text": "「Любопытно. Пожалуй, система автоматической\n　навигации и сама по себе — механизм, указывающий,\n　куда устремлены мысли человека.」",
+   "orig": "Okita\n「Interesting. I suppose the automatic navigation system\n　itself is a mechanism of showing the destination of\n　one's thoughts, depending on how you think of it.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Тесса",
+   "text": "（Куда устремлены мысли?）",
+   "orig": "Tessa\n（The destination of one's thoughts?）"
+  },
+  {
+   "i": 323,
+   "speaker": "Инес",
+   "text": "（Интересный взгляд на вещи.）",
+   "orig": "Inez\n（That's an interesting way of looking at it.）"
+  },
+  {
+   "i": 324,
+   "speaker": "Хаято",
+   "text": "「Межпространственный портал будет открывать\n　«Син Геттер»?」",
+   "orig": "Hayato\n「Will a Shin Getter be in charge of opening\n　the interdimensional portal?」"
+  },
+  {
+   "i": 325,
+   "speaker": "Кэндзо",
+   "text": "「Нет, для этой задачи у меня\n　припасено кое-что особенное.」",
+   "orig": "Kenzo\n「No, I've got something special\n　prepared for that task.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Кэндзо",
+   "text": "「Последний недостающий кусок нашего флота.」",
+   "orig": "Kenzo\n「The final piece to the Allied Fleet's puzzle.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Хаято",
+   "text": "「Вы ведь тоже изучали Геттер-лучи, доктор Кабуто?」",
+   "orig": "Hayato\n「You studied Getter Rays too, right Dr. Kabuto?」"
+  },
+  {
+   "i": 328,
+   "speaker": "Кэндзо",
+   "text": "「Да, мы кое-что делали вместе с доктором Саотомэ.\n　Я взял его материалы и данные себе для справки —\n　на случай, если они нам понадобятся.」",
+   "orig": "Kenzo\n「Yes, I performed some work with Dr. Saotome.\n　I've taken in his research materials and data for\n　reference, just in case we might need it.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Хаято",
+   "text": "（На случай, значит.）",
+   "orig": "Hayato\n（Just in case, huh.）"
+  },
+  {
+   "i": 330,
+   "speaker": "Кэндзо",
+   "text": "「Во время одного опыта случилась авария, и Тэцую\n　забросило в измерение NCC, но именно она привела\n　нас к созданию этой системы телепортации.」",
+   "orig": "Kenzo\n「There was an accident during one experiment that sent\n　Tetsuya to the NCC dimension, but that accident\n　led to the development of this teleportation system.」"
+  },
+  {
+   "i": 331,
+   "speaker": "Кэндзо",
+   "text": "「И теперь это наша единственная настоящая надежда.」",
+   "orig": "Kenzo\n「That now is our one true hope.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Рури",
+   "text": "「Что именно вы имеете в виду?」",
+   "orig": "Ruri\n「What exactly are you referring to?」"
+  },
+  {
+   "i": 333,
+   "speaker": "Кэндзо",
+   "text": "「Простите. Придётся вам потерпеть: я буду держать\n　это в тайне до самой последней минуты.」",
+   "orig": "Kenzo\n「Sorry. You'll have to excuse me but I'm going to be\n　keeping that under wraps until the last minute.」"
+  },
+  {
+   "i": 334,
+   "speaker": "Кэндзо",
+   "text": "「Неподалёку есть враги, которые охотятся\n　за этим, и допустить их к нему нельзя.」",
+   "orig": "Kenzo\n「There are enemies around who are after\n　it, and we can't let them get to it.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Окита",
+   "text": "「Понятно.\n　Что ж, будем ждать, когда эта «последняя надежда»\n　будет готова. И пусть это случится скорее.」",
+   "orig": "Okita\n「Understood.\n　We are looking forward to the completion\n　of this \"final hope\" then. May it be soon.」"
+  },
+  {
+   "i": 336,
+   "speaker": "Кэндзо",
+   "text": "「Осталось лишь усилить собранные Геттер-лучи\n　до нужного значения — и всё будет готово.\n　Это уже вопрос времени.」",
+   "orig": "Kenzo\n「If we can just amplify the Getter Rays we have gathered\n　thus far to the required value, it will be finished.\n　It's only a matter of time now.」"
+  },
+  {
+   "i": 337,
+   "speaker": "",
+   "text": "ヤマト　通路（自動航法システム付近）",
+   "orig": "ヤマト　通路（自動航法システム付近）"
+  },
+  {
+   "i": 338,
+   "speaker": "",
+   "text": "ヤマト　通路（自動航法システム付近）",
+   "orig": "ヤマト　通路（自動航法システム付近）"
+  },
+  {
+   "i": 339,
+   "speaker": "",
+   "text": "ヤマト　通路（自動航法システム付近）",
+   "orig": "ヤマト　通路（自動航法システム付近）"
+  },
+  {
+   "i": 340,
+   "speaker": "　",
+   "text": "　\n　　　　-«Ямато»: у системы автоматической навигации-",
+   "orig": "　\n　\n　　　　-Near the Yamato Automatic Navigation System-"
+  },
+  {
+   "i": 341,
+   "speaker": "Ниими",
+   "text": "「Кажется, я просила меня не беспокоить.」",
+   "orig": "Niimi\n「I thought I told you not to bother me.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Ито",
+   "text": "「Эй, ну что такое!\n　Я думал, мы с тобой соратники.」",
+   "orig": "Ito\n「Hey, come on!\n　I thought we were comrades.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Ниими",
+   "text": "「Я выхожу из плана «Идзумо».」",
+   "orig": "Niimi\n「I'm withdrawing from the Izumo Plan.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Ито",
+   "text": "「После всего, что мы прошли?」",
+   "orig": "Ito\n「After all we've been through?」"
+  },
+  {
+   "i": 345,
+   "speaker": "Ниими",
+   "text": "「Хм.」",
+   "orig": "Niimi\n「Hmph.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Ито",
+   "text": "「За этим походом в Искандар стоял наш тайный\n　замысел: исследовать дальний космос, чтобы\n　открыть дорогу к переселению на другие планеты.」",
+   "orig": "Ito\n「Behind the scenes of this mission to Iscandar was our\n　secret plan to research outer space to facilitate the\n　immigration to other planets.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Ито",
+   "text": "「И, смотря по обстоятельствам,\n　мы готовы были даже поднять мятеж,\n　чтобы захватить «Ямато».」",
+   "orig": "Ito\n「Depending on how things unfolded, we\n　were even considering inciting a coup d'etat\n　in an attempt to seize the Yamato.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Ито",
+   "text": "「Вот уж не ждал, что меня предаст тот, кто занимал\n　в этом замысле самое важное место.」",
+   "orig": "Ito\n「I never expected to be betrayed by the one in the\n　most vital position for the execution of this plan.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Ниими",
+   "text": "「Но ведь план всё ещё идёт своим чередом, не так ли?」",
+   "orig": "Niimi\n「It appears the plan is still underway, no?」"
+  },
+  {
+   "i": 350,
+   "speaker": "Ито",
+   "text": "「Моя должность в службе безопасности — пропуск\n　практически куда угодно.」",
+   "orig": "Ito\n「I can use my Security position as a free pass to\n　basically anywhere I want.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Ито",
+   "text": "「Благодаря ей я и добыл нужные нам сведения\n　о последней надежде Земли — о ключе к переходу\n　между измерениями.」",
+   "orig": "Ito\n「Thus I was able to obtain the information we needed\n　regarding Earth's final hope, the key to crossing\n　between dimensions.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Ниими",
+   "text": "「Вам стоило понимать, что покой\n　не достанется легко — даже на Земле\n　из другого измерения.」",
+   "orig": "Niimi\n「You should have known that peace\n　would be difficult to obtain, even\n　with an alternate dimension Earth.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Ниими",
+   "text": "「Если бежать больше некуда,\n　остаётся только идти вперёд.」",
+   "orig": "Niimi\n「If we have nowhere else to run,\n　all we can do is move forward.」"
+  },
+  {
+   "i": 354,
+   "speaker": "Ито",
+   "text": "「Да ты, я смотрю, заметно повеселела.」",
+   "orig": "Ito\n「You've sure taken a positive attitude about things.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Ниими",
+   "text": "「Это то, чему меня научил наш путь.」",
+   "orig": "Niimi\n「That's just what I've learned on this journey so far.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Ниими",
+   "text": "「Теперь, когда возвращение в измерение NCC уже\n　близко, я сделаю всё, что должна как член экипажа.」",
+   "orig": "Niimi\n「Now that our goal of returning to the NCC dimension is\n　in sight, I'll do all I can as a Yamato crew member.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Ито",
+   "text": "「Что ж, отказ вышел исчерпывающий.」",
+   "orig": "Ito\n「Well that was an utterly total rejection.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Ито",
+   "text": "「И что теперь?」",
+   "orig": "Ito\n「Now what?」"
+  },
+  {
+   "i": 359,
+   "speaker": "？？？",
+   "text": "「Мне нужна твоя помощь.」",
+   "orig": "？？？\n「I require your assistance.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Ито",
+   "text": "「Какого?.. Ты что здесь делаешь?!」",
+   "orig": "Ito\n「What the? What are you doing here?!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Эмбрио",
+   "text": "「Обычно я не трачу время на мужчин, но не суть.」",
+   "orig": "Embryo\n「I normally don't bother with men, but I digress.」"
+  },
+  {
+   "i": 362,
+   "speaker": "Эмбрио",
+   "text": "「Тьме, что живёт в твоём сердце, не остаётся\n　ничего иного, кроме как впустить меня.」",
+   "orig": "Embryo\n「The darkness you hold in your heart has no choice\n　but to let me in.」"
+  },
+  {
+   "i": 363,
+   "speaker": "Ито",
+   "text": "「Гр-рх!」",
+   "orig": "Ito\n「Urgh!」"
+  },
+  {
+   "i": 364,
+   "speaker": "Эмбрио",
+   "text": "「А теперь расскажи мне — и ему —\n　всё до мельчайшей подробности.」",
+   "orig": "Embryo\n「Now, how about you tell me, and him,\n　every single detail that you know.」"
+  },
+  {
+   "i": 365,
+   "speaker": "？？？",
+   "text": "「...」",
+   "orig": "？？？\n「...」"
+  }
+ ]
+}

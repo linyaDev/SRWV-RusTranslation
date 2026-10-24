@@ -1,0 +1,2632 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Кодай",
+   "text": "「Что это такое?!」",
+   "orig": "Kodai\n「What is that?!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Санада",
+   "text": "「Колоссальный всплеск энергии!」",
+   "orig": "Sanada\n「There's a massive energy surge!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Окита",
+   "text": "「Всем доложить обстановку!」",
+   "orig": "Okita\n「Everyone, report your status!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Мори",
+   "text": "「У нас сбоят\n　радар и сенсоры!」",
+   "orig": "Mori\n「We're having trouble\n　with our radar and sensors!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Кодай",
+   "text": "「Все машины на борту.」",
+   "orig": "Kodai\n「All mobile units are on board.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Окита",
+   "text": "「Снова выпустить все машины.」",
+   "orig": "Okita\n「Dispatch all units again.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Кодай",
+   "text": "「Что?!」",
+   "orig": "Kodai\n「What?!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Окита",
+   "text": "「Здесь что-то происходит...\n　Быстрее!」",
+   "orig": "Okita\n「Something's happening here...\n　Hurry!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодай",
+   "text": "「Так точно!」",
+   "orig": "Kodai\n「Yes sir!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Каппэй",
+   "text": "「Да что здесь творится?!」",
+   "orig": "Kappei\n「What's going on here?!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Рёма",
+   "text": "「Это и есть тот обряд, о котором говорила Ашура?」",
+   "orig": "Ryoma\n「Is this part of that ritual Ashura mentioned?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Тэцуя",
+   "text": "「Должно быть, да.」",
+   "orig": "Tetsuya\n「It must be.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Бандзё",
+   "text": "「Ты что-то об этом знаешь, Тэцуя?」",
+   "orig": "Banjo\n「Do you know anything about this, Tetsuya?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Тэцуя",
+   "text": "「Там, наверху!」",
+   "orig": "Tetsuya\n「Up there!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Кодзи",
+   "text": "「Что-то спускается!」",
+   "orig": "Koji\n「Something's coming down!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Аид",
+   "text": "「Давно мы не ступали по этому миру.」",
+   "orig": "Hades\n「It has been long since we walked this world.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Микенский бог",
+   "text": "「Воистину, владыка Аид.」",
+   "orig": "Mycenae God\n「Indeed, Lord Hades.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Микенский бог",
+   "text": "「Это наверняка дело рук Тристана и Изольды.」",
+   "orig": "Mycenae God\n「This must be the work of Tristan and Isolde.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Микенский бог",
+   "text": "「Должно быть, они принесли свои жизни в жертву\n　в обряде, что вернул нас в мир бодрствующих.」",
+   "orig": "Mycenae God\n「They must have given up their lives in sacrifice\n　in the ritual to restore us to the waking world.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Аид",
+   "text": "「Хм...\n　Тогда я вознагражу их деяние.」",
+   "orig": "Hades\n「Hmm...\n　Then I shall reward their deed.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Аид",
+   "text": "「Именем Аида, владыки мёртвых, повелеваю!\n　Да вернутся Тристан и Изольда\n　в свои земные тела!」",
+   "orig": "Hades\n「In the name of Hades, King of the Dead, I command!\n　Let Tristan and Isolde be restored to\n　their earthly bodies!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Ашура",
+   "text": "「Ааах!\n　Владыка Аид, воистину давно мы не виделись.」",
+   "orig": "Ashura\n「Aaah!\n　Lord Hades, it has been long indeed.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Ашура",
+   "text": "「Благодарю вас за то, что вновь\n　позволили нам вернуться в мир смертных\n　и возвратили нам наше тело!」",
+   "orig": "Ashura\n「I offer you my thanks for once again\n　allowing us to return to the mortal realm,\n　and restoring our body to us!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Аид",
+   "text": "「Тристан? Изольда?\n　Неужто вам по душе этот неприглядный облик?」",
+   "orig": "Hades\n「Tristan? And Isolde?\n　Are you indeed happy in that unsightly form?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Микенский бог",
+   "text": "「Воистину, владыка Аид прав!」",
+   "orig": "Mycenae God\n「Indeed, Lord Hades is right!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Микенский бог",
+   "text": "「Пожелай вы — и обрели бы\n　бессмертное тело, подобное тем,\n　какими ныне владеем мы, боги!」",
+   "orig": "Mycenae God\n「If you wish, you could have\n　an immortal body such as \n　we gods now possess!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Ашура",
+   "text": "「Отложим это до той поры,\n　пока мы, боги Олимпа, не завладеем\n　этим миром — нет, всей галактикой!」",
+   "orig": "Ashura\n「Let us leave that until\n　we gods of Olympus have taken\n　this world—No, the galaxy, as our own!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Ашура",
+   "text": "「Это тело служит мне напоминанием о причине\n　той ярости, что пылает внутри меня!」",
+   "orig": "Ashura\n「This body serves as a reminder\n　of the cause of this rage that burns inside me!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Аид",
+   "text": "「Твоя преданность достойна похвалы.\n　Прими же моё одобрение!」",
+   "orig": "Hades\n「Your dedication is laudable.\n　Please, accept my praise!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Ашура",
+   "text": "「Я недостойна вашей похвалы.\n　И потому, доколе не настанет день моего\n　торжества, зовите меня именем Ашура.」",
+   "orig": "Ashura\n「I am unworthy of your praise.\n　And so, until the day of my satisfaction\n　comes, I ask you to call me by the name Ashura.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Аид",
+   "text": "「Великолепно. Покуда наши желания не исполнятся,\n　ты сохранишь своё механическое тело.」",
+   "orig": "Hades\n「Magnificent. Until our wishes see fulfillment,\n　you shall keep your mechanical body.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Кодзи",
+   "text": "「Не спешите радоваться,\n　вы забыли про нас!」",
+   "orig": "Koji\n「Don't be so fast to get your hopes up,\n　you're forgetting about us!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Ашура",
+   "text": "「Молчать!」",
+   "orig": "Ashura\n「Silence!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Кодзи",
+   "text": "「Агх!」",
+   "orig": "Koji\n「Agh!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Ашура",
+   "text": "「Не смей так говорить с владыкой Аидом,\n　одним из трёх великих владык Олимпа!」",
+   "orig": "Ashura\n「You will not speak like that to Lord Hades,\n　one of the three great lords of Olympus!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодзи",
+   "text": "「Да как это возможно?!\n　Мы с $kwbЗевсом$kwe разбили Аида\n　в $kwbМире прошлого$kwe — по крайней мере, я так думал!」",
+   "orig": "Koji\n「And how is that possible?!\n　$kwbZeus$kwe and I defeated Hades\n　in $kwbThe World of the Past$kwe, or so I thought!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Гарадабла",
+   "text": "「Гррраа!!\n　Он даже обликом схож с Зевсом!」",
+   "orig": "Garadabla\n「Graaah!!\n　It even has the appearance of Zeus!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Аид",
+   "text": "「Я помню тебя, малыш.\n　Вы с Зевсом вместе пошли против меня.」",
+   "orig": "Hades\n「I remember, tiny one.\n　You and Zeus turned on me together.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Аид",
+   "text": "「Однако, как видишь, меня\n　воскресил обряд Тристана и Изольды —\n　нет, обряд Ашуры!」",
+   "orig": "Hades\n「However, as you can see, I was \n　revived by Tristan and Isolde's—\n　No, by Ashura's ritual!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Аид",
+   "text": "「А ныне, когда Зевс канул в разлом\n　пространства-времени, спасти вас некому!」",
+   "orig": "Hades\n「And now, as Zeus has fallen into the \n　gap in space-time, there is no one to save you!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Аид",
+   "text": "「Пришла пора очистить этот мир\n　и завладеть силой Геттер-излучения!」",
+   "orig": "Hades\n「So it is time to wipe this world clean\n　and grasp the power of Getter Radiation!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Рёма",
+   "text": "「Вот чудовища!\n　Им и правда нужно Геттер-излучение!」",
+   "orig": "Ryoma\n「Those monsters!\n　They're really after Getter Radiation!」"
+  },
+  {
+   "i": 43,
+   "speaker": "？？？",
+   "text": "「Да, похоже на то.」",
+   "orig": "？？？\n「Indeed, it would appear so.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Эмбрио",
+   "text": "「Даже спустя тысячи лет\n　вы всё так же жалки, боги Микены.」",
+   "orig": "Embryo\n「Even after all these thousands of years,\n　you are wretched as ever, Gods of Mycenae.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Эмбрио",
+   "text": "「Или правильнее сказать — демоны?」",
+   "orig": "Embryo\n「Or should I say devils?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Майто",
+   "text": "「Эмбрио!」",
+   "orig": "Maito\n「Embryo!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Каппэй",
+   "text": "「Ты явился сюда из измерения AD?」",
+   "orig": "Kappei\n「You came here from the AD dimension?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Аид",
+   "text": "「Это ты, Эмбрио.\n　Ты всё ещё жив.」",
+   "orig": "Hades\n「It is you, Embryo.\n　You still live.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Аид",
+   "text": "「Что ж, иди сюда со своим Рагна-Мейлом!\n　Продолжим нашу битву! Начнём\n　Рагнарёк здесь и сейчас!」",
+   "orig": "Hades\n「Come then, with your Ragna-Mail!\n　Let us continue our battle! Let\n　us begin Ragnarok here and now!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Майто",
+   "text": "「Я был прав! Демоны, с которыми Эмбрио\n　сражался в этом измерении, и есть\n　боги Микены!」",
+   "orig": "Maito\n「I was right! The devils that Embryo\n　fought in this dimension were\n　the Gods of Mycenae!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Эмбрио",
+   "text": "「Они не заслуживают имени «боги».\n　Единственное имя, подобающее столь надменным\n　существам, жаждущим разрушения, — «демоны».」",
+   "orig": "Embryo\n「They don't deserve the name \"gods.\"\n　The only name fitting to such arrogant beings, \n　filled with lust for destruction, is \"devils.\"」"
+  },
+  {
+   "i": 52,
+   "speaker": "Аид",
+   "text": "「Подумать только, слышать такое от тебя!\n　От того, кто уничтожил целую вселенную!」",
+   "orig": "Hades\n「To imagine hearing such words from a man like you!\n　You, who destroyed an entire universe!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Эмбрио",
+   "text": "「Разрушение и возрождение — две стороны\n　одной монеты. К тому же тогда драгуний\n　оказывал неуправляемое воздействие.」",
+   "orig": "Embryo\n「Destruction and rebirth are two \n　sides of the same coin. Also, at the time \n　Dragunium was having an uncontrollable effect.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Эмбрио",
+   "text": "「Как бы то ни было, всё это\n　не имеет к нам отношения.」",
+   "orig": "Embryo\n「At any rate, all this\n　has nothing to do with us.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Аид",
+   "text": "「Снова бежишь, Эмбрио?」",
+   "orig": "Hades\n「Are you running away again, Embryo?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Эмбрио",
+   "text": "「Делай с этим миром что пожелаешь.\n　Сожги его дотла, истреби человечество —\n　воля твоя.」",
+   "orig": "Embryo\n「Do what you want with this world.\n　Burn it to embers, annihilate humanity,\n　you're free to do as you see fit.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Бандзё",
+   "text": "「Стой, Эмбрио!」",
+   "orig": "Banjo\n「Wait, Embryo!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Эмбрио",
+   "text": "「У меня есть собственные дела.\n　Да и нет у вас ничего, что мне нужно.」",
+   "orig": "Embryo\n「I have my own work to do.\n　You have nothing that I want, anyway.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Гарадабла",
+   "text": "「Он сбежал!」",
+   "orig": "Garadabla\n「He escaped!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Аид",
+   "text": "「Что ж, тогда поступим, как он советует.」",
+   "orig": "Hades\n「Very well then, let us do as he suggests.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Ашура",
+   "text": "「То есть?」",
+   "orig": "Ashura\n「Meaning?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Аид",
+   "text": "「Сперва сотрём человечество с лица земли,\n　а затем превратим этот мир в своё игрище!」",
+   "orig": "Hades\n「First we will wipe out humanity,\n　then turn this world into our playground!」"
+  },
+  {
+   "i": 63,
+   "speaker": "$n",
+   "text": "「А языком-то молоть ты горазд!」",
+   "orig": "$n\n「You sure do talk big!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Рёма",
+   "text": "「Думаешь, можно вот так стоять\n　и говорить такое прямо нам в лицо?!」",
+   "orig": "Ryoma\n「Do you think you can stand there\n　and say that stuff right in front of us?!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Кодзи",
+   "text": "「Аид!\n　Мы тебе этого не позволим!」",
+   "orig": "Koji\n「Hades!\n　We're not going to let you do this!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Гарадабла",
+   "text": "「Не горячитесь, людишки.」",
+   "orig": "Garadabla\n「Don't get overexcited, humans.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Кодзи",
+   "text": "「Кого я вижу — самозваный Герой Гарадабла!\n　Мы же тебя однажды уже прикончили, разве нет?」",
+   "orig": "Koji\n「Well if it isn't the self-proclaimed Hero\n　Garadabla! Didn't we take you out once already?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Аид",
+   "text": "「Похоже, вы не понимаете, люди.\n　Ранить нас тогда вы смогли лишь потому,\n　что вам покровительствовал Зевс.」",
+   "orig": "Hades\n「It appears you don't understand, humans.\n　The only reason you could injure us before\n　was due to Zeus' divine protection.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Кодзи",
+   "text": "「Ч-что?!」",
+   "orig": "Koji\n「W-what?!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Аид",
+   "text": "「Впрочем, неважно.\n　Совершенно всё равно,\n　понимаете вы или нет.」",
+   "orig": "Hades\n「Oh, never mind.\n　It's not important whether\n　you understand or not.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Аид",
+   "text": "「Вы решили свою судьбу в тот миг, когда\n　посмели так дерзко говорить с богами!」",
+   "orig": "Hades\n「You sealed your fates the moment you\n　spoke to the gods with such insolence!」"
+  },
+  {
+   "i": 72,
+   "speaker": "Гарадабла",
+   "text": "「Он сбежал!」",
+   "orig": "Garadabla\n「He escaped!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Аид",
+   "text": "「Что ж, тогда поступим, как он советует.」",
+   "orig": "Hades\n「Very well then, let us do as he suggests.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Ашура",
+   "text": "「То есть?」",
+   "orig": "Ashura\n「Meaning?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Аид",
+   "text": "「Сперва сотрём человечество с лица земли,\n　а затем превратим этот мир в своё игрище!」",
+   "orig": "Hades\n「First we will wipe out humanity,\n　then turn this world into our playground!」"
+  },
+  {
+   "i": 76,
+   "speaker": "$n",
+   "text": "「Только не пока мы здесь, чтобы вас остановить!」",
+   "orig": "$n\n「Not as long as we're around to stop you!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Рёма",
+   "text": "「Думаешь, можно вот так стоять\n　и говорить такое прямо нам в лицо?!」",
+   "orig": "Ryoma\n「Do you think you can stand there\n　and say that stuff right in front of us?!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Кодзи",
+   "text": "「Аид!\n　Мы тебе этого не позволим!」",
+   "orig": "Koji\n「Hades!\n　We're not going to let you do this!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Гарадабла",
+   "text": "「Не горячитесь, людишки.」",
+   "orig": "Garadabla\n「Don't get overexcited, humans.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Кодзи",
+   "text": "「Кого я вижу — самозваный Герой Гарадабла!\n　Мы же тебя однажды уже прикончили, разве нет?」",
+   "orig": "Koji\n「Well if it isn't the self-proclaimed Hero\n　Garadabla! Didn't we take you out once already?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Аид",
+   "text": "「Похоже, вы не понимаете, люди.\n　Ранить нас тогда вы смогли лишь потому,\n　что вам покровительствовал Зевс.」",
+   "orig": "Hades\n「It appears you don't understand, humans.\n　The only reason you could injure us before\n　was due to Zeus' divine protection.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Кодзи",
+   "text": "「Ч-что?!」",
+   "orig": "Koji\n「W-what?!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Аид",
+   "text": "「Впрочем, неважно.\n　Совершенно всё равно,\n　понимаете вы или нет.」",
+   "orig": "Hades\n「Oh, never mind.\n　It's not important whether\n　you understand or not.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Аид",
+   "text": "「Вы решили свою судьбу в тот миг, когда\n　посмели так дерзко говорить с богами!」",
+   "orig": "Hades\n「You sealed your fates the moment you\n　spoke to the gods with such insolence!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Боже мой, да насколько же они сильны?!」",
+   "orig": "Battle Bomber\n「Oh my god, how strong are they?!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Гард Дайвер",
+   "text": "「Мой супер-ИИ всерьёз порывается удрать!」",
+   "orig": "Guard Diver\n「My Super AI is actually trying to run away!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Так вот что такое страх...」",
+   "orig": "Black Mightgaine\n「So this is what fear feels like...」"
+  },
+  {
+   "i": 88,
+   "speaker": "Синдзи",
+   "text": "「Как нам их одолеть?」",
+   "orig": "Shinji\n「How can we beat them?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Тэцуя",
+   "text": "「Все, кто не может драться, — уходите отсюда.」",
+   "orig": "Tetsuya\n「Everyone who can't fight, get out of here.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Майто",
+   "text": "「Тэцуя!」",
+   "orig": "Maito\n「Tetsuya!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Аска",
+   "text": "「Ты кем себя возомнил, раз командуешь нами\n　сразу после того, как сам на нас напал?!」",
+   "orig": "Asuka\n「Who do you think you are, bossing us around\n　after you just attacked us?!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Каппэй",
+   "text": "「Теперь ты будешь драться на нашей стороне?」",
+   "orig": "Kappei\n「Are you going to fight with us now?」"
+  },
+  {
+   "i": 93,
+   "speaker": "Тэцуя",
+   "text": "「Я не могу сидеть сложа руки и смотреть, как они творят что\n　хотят.」",
+   "orig": "Tetsuya\n「I can't just sit back and let them do what they want.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Рёма",
+   "text": "「Так я и думал.\n　Ты ведь знал о них раньше, верно?」",
+   "orig": "Ryoma\n「I thought so.\n　You already knew about them, didn't you?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тэцуя",
+   "text": "「Хм.」",
+   "orig": "Tetsuya\n「Hm.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Аид",
+   "text": "「Как вы собрались противостоять мне, владыке \n　подземного мира, с такими слабыми сердцами?」",
+   "orig": "Hades\n「How can you possibly stand up to me, the \n　King of the Underworld, with such weak hearts?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Микенский бог",
+   "text": "「Владыка Аид, не пустить ли\n　нам в ход наше особое оружие?」",
+   "orig": "Mycenae God\n「Lord Hades, shall\n　we use our special weapon?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Боже мой, да насколько же они сильны?!」",
+   "orig": "Battle Bomber\n「Oh my god, how strong are they?!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Гард Дайвер",
+   "text": "「Мой супер-ИИ всерьёз порывается удрать!」",
+   "orig": "Guard Diver\n「My Super AI is actually trying to run away!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Грейт Майтгайн",
+   "text": "「Так вот что такое страх...」",
+   "orig": "Great Mightgaine\n「So this is what fear feels like...」"
+  },
+  {
+   "i": 101,
+   "speaker": "Синдзи",
+   "text": "「Как нам их одолеть?」",
+   "orig": "Shinji\n「How can we beat them?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Тэцуя",
+   "text": "「Все, кто не может драться, — уходите отсюда.」",
+   "orig": "Tetsuya\n「Everyone who can't fight, get out of here.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Майто",
+   "text": "「Тэцуя!」",
+   "orig": "Maito\n「Tetsuya!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Аска",
+   "text": "「Ты кем себя возомнил, раз командуешь нами\n　сразу после того, как сам на нас напал?!」",
+   "orig": "Asuka\n「Who do you think you are, bossing us around\n　after you just attacked us?!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Каппэй",
+   "text": "「Теперь ты будешь драться на нашей стороне?」",
+   "orig": "Kappei\n「Are you going to fight with us now?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Тэцуя",
+   "text": "「Я не могу сидеть сложа руки и смотреть, как они творят что\n　хотят.」",
+   "orig": "Tetsuya\n「I can't just sit back and let them do what they want.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Рёма",
+   "text": "「Так я и думал.\n　Ты ведь знал о них раньше, верно?」",
+   "orig": "Ryoma\n「I thought so.\n　You already knew about them, didn't you?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Тэцуя",
+   "text": "「Хм...」",
+   "orig": "Tetsuya\n「Hm...」"
+  },
+  {
+   "i": 109,
+   "speaker": "Аид",
+   "text": "「Как вы собрались противостоять мне, владыке \n　подземного мира, с такими слабыми сердцами?」",
+   "orig": "Hades\n「How can you possibly stand up to me, the \n　King of the Underworld, with such weak hearts?」"
+  },
+  {
+   "i": 110,
+   "speaker": "Микенский бог",
+   "text": "「Владыка Аид, не призвать ли\n　нам наше особое оружие?」",
+   "orig": "Mycenae God\n「Lord Hades, shall we call\n　upon our special weapons?」"
+  },
+  {
+   "i": 111,
+   "speaker": "Босс",
+   "text": "「Что это за твари?!」",
+   "orig": "Boss\n「What are they?!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Тэцуя",
+   "text": "「Кедора.\n　Бойцы, которых микенцы создали,\n　чтобы уничтожать другие цивилизации.」",
+   "orig": "Tetsuya\n「Kedora.\n　They're fighters that Mycenae\n　created to destroy other civilizations.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Кодзи",
+   "text": "「Те, что я видел раньше, были с человека ростом.\n　Я и не знал, что бывают ещё и гиганты!」",
+   "orig": "Koji\n「The ones I saw before were all human-sized.\n　I had no idea there were giants ones too!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Окита",
+   "text": "「Айхара, что\n　с лабораторией?」",
+   "orig": "Okita\n「Aihara, what's\n　the status of the laboratory?」"
+  },
+  {
+   "i": 115,
+   "speaker": "Айхара",
+   "text": "「Эвакуацию персонала уже начали,\n　но на неё уйдёт ещё минут пять.」",
+   "orig": "Aihara\n「We've already started evacuating the staff, but\n　it's going to take five more minutes.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Окита",
+   "text": "「Внимание всем подразделениям!\n　Мы должны сдерживать их пять минут!」",
+   "orig": "Okita\n「Alert all units!\n　We must hold them back for five minutes!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Кодай",
+   "text": "「Есть! Всем подразделениям приказ —\n　держать оборону пять минут.」",
+   "orig": "Kodai\n「Roger! All units, orders\n　are to hold the line for five minutes.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Лотти",
+   "text": "「Пять минут, значит?」",
+   "orig": "Lottie\n「Five minutes, huh?」"
+  },
+  {
+   "i": 119,
+   "speaker": "Вельт",
+   "text": "「Похоже, это будут очень долгие пять минут.」",
+   "orig": "Velt\n「It looks like it's going to be a long five minutes.」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Да...」",
+   "orig": "$n\n「Yeah...」"
+  },
+  {
+   "i": 121,
+   "speaker": "Найн",
+   "text": "「Кэп...」",
+   "orig": "Nine\n「Cap...」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「Похоже, пора выложиться по полной.」",
+   "orig": "$n\n「It looks like it's time to give it all.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Тэцуя",
+   "text": "「Именно.\n　Это будет такой бой, какого человечество\n　ещё никогда не видело!」",
+   "orig": "Tetsuya\n「Exactly.\n　This is going to be a fight like nothing\n　humanity has ever seen before!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Кодзи",
+   "text": "「Ну держись, Аид, мы идём за тобой!\n　Мы покажем тебе настоящую силу\n　человечества — и «Мазингера Зет»!」",
+   "orig": "Koji\n「OK Hades, we're coming for you!\n　We're going to show you\n　the real power of humanity—and of Mazinger Z!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Босс",
+   "text": "「Что это за твари?!」",
+   "orig": "Boss\n「What are they?!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тэцуя",
+   "text": "「Кедора.\n　Бойцы, которых микенцы создали,\n　чтобы уничтожать другие цивилизации.」",
+   "orig": "Tetsuya\n「Kedora.\n　They're fighters that the Mycenae\n　created to destroy other civilizations.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Кодзи",
+   "text": "「Те, что я видел раньше, были с человека ростом.\n　Я и не знал, что бывают ещё и гиганты!」",
+   "orig": "Koji\n「The ones I saw before were all human-sized.\n　I had no idea there were giants ones too!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Окита",
+   "text": "「Айхара, что\n　с лабораторией?」",
+   "orig": "Okita\n「Aihara, what's\n　the status of the laboratory?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Айхара",
+   "text": "「Эвакуацию персонала уже начали,\n　но на неё уйдёт ещё минут пять.」",
+   "orig": "Aihara\n「We've already started evacuating the staff, but\n　it's going to take five more minutes.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Окита",
+   "text": "「Внимание всем подразделениям!\n　Мы должны сдерживать их пять минут!」",
+   "orig": "Okita\n「Alert all units!\n　We must hold them back for five minutes!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Кодай",
+   "text": "「Есть! Всем подразделениям приказ —\n　держать оборону пять минут.」",
+   "orig": "Kodai\n「Roger! All units, orders\n　are to hold the line for five minutes.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Рэй",
+   "text": "「Пять минут...」",
+   "orig": "Rei\n「Five minutes...」"
+  },
+  {
+   "i": 133,
+   "speaker": "Мисато",
+   "text": "「Похоже, это будут очень долгие пять минут.」",
+   "orig": "Misato\n「It looks like it's going to be a long five minutes.」"
+  },
+  {
+   "i": 134,
+   "speaker": "$n",
+   "text": "「Да...」",
+   "orig": "$n\n「Yeah...」"
+  },
+  {
+   "i": 135,
+   "speaker": "Найн",
+   "text": "「Кэп...」",
+   "orig": "Nine\n「Cap...」"
+  },
+  {
+   "i": 136,
+   "speaker": "$n",
+   "text": "「Похоже, пора выложиться по полной.」",
+   "orig": "$n\n「It looks like it's time to give it all.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Тэцуя",
+   "text": "「Именно.\n　Это будет такой бой, какого человечество\n　ещё никогда не видело!」",
+   "orig": "Tetsuya\n「Exactly.\n　This is going to be a fight like nothing\n　humanity has ever seen before!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Кодзи",
+   "text": "「Ну держись, Аид, мы идём за тобой!\n　Мы покажем тебе настоящую силу\n　человечества — и «Мазингера Зет»!」",
+   "orig": "Koji\n「OK Hades, we're coming for you!\n　We're going to show you\n　the real power of humanity—and of Mazinger Z!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Босс",
+   "text": "「Что это за твари?!」",
+   "orig": "Boss\n「What are they?!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Тэцуя",
+   "text": "「Кедора.\n　Бойцы, которых микенцы создали,\n　чтобы уничтожать другие цивилизации.」",
+   "orig": "Tetsuya\n「Kedora.\n　They're fighters that the Mycenae\n　created to destroy other civilizations.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Кодзи",
+   "text": "「Те, что я видел раньше, были с человека ростом.\n　Я и не знал, что бывают ещё и гиганты!」",
+   "orig": "Koji\n「The ones I saw before were all human-sized.\n　I had no idea there were giants ones too!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Окита",
+   "text": "「Айхара, что\n　с лабораторией?」",
+   "orig": "Okita\n「Aihara, what's\n　the status of the laboratory?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Айхара",
+   "text": "「Эвакуацию персонала уже начали,\n　но на неё уйдёт ещё минут пять.」",
+   "orig": "Aihara\n「We've already started evacuating the staff, but\n　it's going to take five more minutes.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Окита",
+   "text": "「Внимание всем подразделениям!\n　Мы должны сдерживать их пять минут!」",
+   "orig": "Okita\n「Alert all units!\n　We must hold them back for five minutes!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Кодай",
+   "text": "「Есть! Всем подразделениям приказ —\n　держать оборону пять минут.」",
+   "orig": "Kodai\n「Roger! All units, orders\n　are to hold the line for five minutes.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Лотти",
+   "text": "「Пять минут, значит?」",
+   "orig": "Lottie\n「Five minutes, huh?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Вельт",
+   "text": "「Похоже, это будут очень долгие пять минут.」",
+   "orig": "Velt\n「It looks like it's going to be a long five minutes.」"
+  },
+  {
+   "i": 148,
+   "speaker": "$n",
+   "text": "「Да...」",
+   "orig": "$n\n「Yeah...」"
+  },
+  {
+   "i": 149,
+   "speaker": "Найн",
+   "text": "「Сестрица...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 150,
+   "speaker": "$n",
+   "text": "「На этот раз на кону жизни всех нас, Найн.」",
+   "orig": "$n\n「This time all our lives are on the line, Nine.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Тэцуя",
+   "text": "「Именно.\n　Это будет такой бой, какого человечество\n　ещё никогда не видело!」",
+   "orig": "Tetsuya\n「Exactly.\n　This is going to be a fight like nothing\n　humanity has ever seen before!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Кодзи",
+   "text": "「Ну держись, Аид, мы идём за тобой!\n　Мы покажем тебе настоящую силу\n　человечества — и «Мазингера Зет»!」",
+   "orig": "Koji\n「OK Hades, we're coming for you!\n　We're going to show you\n　the real power of humanity—and of Mazinger Z!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Босс",
+   "text": "「Что это за твари?!」",
+   "orig": "Boss\n「What are they?!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Тэцуя",
+   "text": "「Кедора.\n　Бойцы, которых микенцы создали,\n　чтобы уничтожать другие цивилизации.」",
+   "orig": "Tetsuya\n「Kedora.\n　They're fighters that the Mycenae\n　created to destroy other civilizations.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Кодзи",
+   "text": "「Те, что я видел раньше, были с человека ростом.\n　Я и не знал, что бывают ещё и гиганты!」",
+   "orig": "Koji\n「The ones I saw before were all human-sized.\n　I had no idea there were giants ones too!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Окита",
+   "text": "「Айхара, что\n　с лабораторией?」",
+   "orig": "Okita\n「Aihara, what's\n　the status of the laboratory?」"
+  },
+  {
+   "i": 157,
+   "speaker": "Айхара",
+   "text": "「Эвакуацию персонала уже начали,\n　но на неё уйдёт ещё минут пять.」",
+   "orig": "Aihara\n「We've already started evacuating the staff, but\n　it's going to take five more minutes.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Окита",
+   "text": "「Внимание всем подразделениям!\n　Мы должны сдерживать их пять минут!」",
+   "orig": "Okita\n「Alert all units!\n　We must hold them back for five minutes!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Кодай",
+   "text": "「Есть! Всем подразделениям приказ —\n　держать оборону пять минут.」",
+   "orig": "Kodai\n「Roger! All units, orders\n　are to hold the line for five minutes.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Рэй",
+   "text": "「Пять минут...」",
+   "orig": "Rei\n「Five minutes...」"
+  },
+  {
+   "i": 161,
+   "speaker": "Мисато",
+   "text": "「Похоже, это будут очень долгие пять минут.」",
+   "orig": "Misato\n「It looks like it's going to be a long five minutes.」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Да...」",
+   "orig": "$n\n「Yeah...」"
+  },
+  {
+   "i": 163,
+   "speaker": "Найн",
+   "text": "「Сестрица...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 164,
+   "speaker": "$n",
+   "text": "「На этот раз на кону жизни всех нас, Найн.」",
+   "orig": "$n\n「This time all our lives are on the line, Nine.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Тэцуя",
+   "text": "「Именно.\n　Это будет такой бой, какого человечество\n　ещё никогда не видело!」",
+   "orig": "Tetsuya\n「Exactly.\n　This is going to be a fight like nothing\n　humanity has ever seen before!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Кодзи",
+   "text": "「Ну держись, Аид, мы идём за тобой!\n　Мы покажем тебе настоящую силу\n　человечества — и «Мазингера Зет»!」",
+   "orig": "Koji\n「OK Hades, we're coming for you!\n　We're going to show you\n　the real power of humanity—and of Mazinger Z!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Ота",
+   "text": "「Обнаружено искажение межпространственных барьеров!」",
+   "orig": "Ota\n「We've found a distortion in the dimensional barriers!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Окита",
+   "text": "「Бозонный прыжок?!」",
+   "orig": "Okita\n「Is it a Boson Jump?!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Ота",
+   "text": "「Никак нет! Ни следа бозонов,\n　ни сингулярной реакции.」",
+   "orig": "Ota\n「No sir! There's no trace \n　of bosons or Singular reaction.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Кодай",
+   "text": "「Что к нам идёт?!」",
+   "orig": "Kodai\n「What's coming?!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Майто",
+   "text": "「Эй, это же те роботы!\n　Те, что защищали барона Асуру!」",
+   "orig": "Maito\n「Hey, it's those robots!\n　The ones that protected Baron Ashura!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Грейт Майтгайн",
+   "text": "「Неужели Эмбрио\n　и их сюда отправил?」",
+   "orig": "Great Mightgaine\n「Did Embryo send \n　them here, too?」"
+  },
+  {
+   "i": 173,
+   "speaker": "Бандзё",
+   "text": "「Но ведь сингулярной реакции не было.」",
+   "orig": "Banjo\n「But, there wasn't any Singular reaction.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Аид",
+   "text": "「Так-так.\n　А вот и некто с весьма любопытной силой.」",
+   "orig": "Hades\n「Well well.\n　Here's someone with a rather interesting power.」"
+  },
+  {
+   "i": 175,
+   "speaker": "？？？",
+   "text": "「Да это же тот, кто зовёт себя владыкой\n　подземного мира! Из него выйдет\n　неплохой партнёр для пары-тройки песен.」",
+   "orig": "？？？\n「It's the one who calls himself King of the Underworld!\n　He might be a good partner for a song or two.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Каппэй",
+   "text": "「Вот же гады!\n　Они собираются спеться с микенцами!」",
+   "orig": "Kappei\n「Those bastards!\n　They're planning on joining the Mycenae!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Бандзё",
+   "text": "「Они из Альянса DG.\n　Думаю, они там едва ли не на самом верху.」",
+   "orig": "Banjo\n「They're part of the DG Alliance.\n　I think they might even be at the top.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Майто",
+   "text": "「Кто ты такой?!」",
+   "orig": "Maito\n「Who are you?!」"
+  },
+  {
+   "i": 179,
+   "speaker": "？？？",
+   "text": "「Хе-хе. Даже в самую тёмную ночь густой пурпур\n　не теряет своей красоты. Таков же и я —」",
+   "orig": "？？？\n「Hehe. Even in the darkest night, deep purple\n　never loses its beauty. I am the same—」"
+  },
+  {
+   "i": 180,
+   "speaker": "？？？",
+   "text": "「Что за?!」",
+   "orig": "？？？\n「What the—?!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Дзё",
+   "text": "「Соваться на передовую, решив, что ты уже победил, —\n　вот это и станет твоей последней ошибкой.」",
+   "orig": "Joe\n「Wandering into the front line believing you won\n　is going to be your last mistake.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Пёрпл",
+   "text": "「Ты!」",
+   "orig": "Purple\n「You!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Дзё",
+   "text": "「Наконец-то я до тебя добрался, урод!」",
+   "orig": "Joe\n「I finally got you, you freak!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Майто",
+   "text": "「Дзё!\n　Это же Дзё Эйс!」",
+   "orig": "Maito\n「Joe!\n　It's Joe the Ace!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Дзё",
+   "text": "「Хо, рад снова тебя видеть, Майто Сэмпудзи!」",
+   "orig": "Joe\n「Hey, good to see you again Maito Senpuji!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Каппэй",
+   "text": "「Похоже, он так и не добрался домой,\n　в измерение AD!」",
+   "orig": "Kappei\n「So it looks like he didn't make it home\n　to the AD dimension after all!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Рёма",
+   "text": "「Ты пришёл сюда за Майто?!」",
+   "orig": "Ryoma\n「Did you come here after Maito?!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Дзё",
+   "text": "「Вовсе нет.」",
+   "orig": "Joe\n「Not at all.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Майто",
+   "text": "「Что?」",
+   "orig": "Maito\n「What?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Пёрпл",
+   "text": "「Дзё!\n　Ты что, предаёшь нас?」",
+   "orig": "Purple\n「Joe!\n　Are you turning on us?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Дзё",
+   "text": "「Ты всего лишь посыльный Мистера Икс, Пёрпл.\n　Я примкнул к вам только затем,\n　чтобы добраться до настоящей цели.」",
+   "orig": "Joe\n「You're just Mr. X's messenger, Purple.\n　Joining you was only a way\n　to get to my real target.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Дзё",
+   "text": "「А теперь, когда Горю у меня в руках,\n　нет нужды и дальше с вами возиться!」",
+   "orig": "Joe\n「And now that I've got my hands on this Goryu,\n　there's no need to hang around you all!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Майто",
+   "text": "「Пёрпл?!\n　Этот рокер Пёрпл\n　состоит в Альянсе DG?!」",
+   "orig": "Maito\n「Purple?!\n　That rocker Purple\n　is part of the DG Alliance?!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Дзё",
+   "text": "「Не-а, Вольфганг и его шайка — мелкая сошка,\n　мне нужен их хозяин.」",
+   "orig": "Joe\n「Nah, Wolfgang and his bunch are small fry, \n　I'm looking for their master.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Дзё",
+   "text": "「Мистер Икс, Великое Зло, —\n　вот кто дёргает за ниточки!」",
+   "orig": "Joe\n「Mr. X, the Great Evil,\n　is the one pulling their strings!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Майто",
+   "text": "「В каком смысле — Великое Зло?」",
+   "orig": "Maito\n「What do you mean, the Great Evil?」"
+  },
+  {
+   "i": 197,
+   "speaker": "Дзё",
+   "text": "「Да в самом прямом!\n　Это он стоит за всеми бедами,\n　что свалились на вас в последнее время.」",
+   "orig": "Joe\n「Exactly that!\n　He's the one behind all of the\n　trouble you've been having lately.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Пёрпл",
+   "text": "「Теперь-то я понял, Дзё!\n　Ты рыскал по владениям Эксева, чтобы найти\n　способ отомстить убийцам своего отца!」",
+   "orig": "Purple\n「Now I get it, Joe!\n　You've been poking around Exev's domain\n　trying to find a way to avenge your father's murders!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Бандзё",
+   "text": "「Эксев!\n　Так зовут Мистера Икс?!」",
+   "orig": "Banjo\n「Exev!\n　Is that Mr. X's name?!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Пёрпл",
+   "text": "「Да какая разница, знаете вы или нет?\n　Вы всё равно здесь все подохнете!」",
+   "orig": "Purple\n「Who cares if you know it?\n　You all are going to die here anyway!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Пёрпл",
+   "text": "「Адьос, отряд «Брейв Экспресс»!\n　Я доложу господину Эксеву, что герой справедливости\n　трагически пал в бою в чужом измерении!」",
+   "orig": "Purple\n「Adios, Brave Express Corps!\n　I'll let Master Exev know the hero of justice \n　died a tragic death in battle in another dimension!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Каппэй",
+   "text": "「И после всех этих громких слов\n　он просто удирает?」",
+   "orig": "Kappei\n「So he just runs away\n　after all that tough talk?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Найн",
+   "text": "「Этот линкор... Он пересёк время и пространство\n　способом, не похожим ни на Драконов,\n　ни на бозонный прыжок.」",
+   "orig": "Nine\n「That battleship... It traveled across\n　time and space using a method unlike that of \n　the Dragons or Boson Jumping.」"
+  },
+  {
+   "i": 204,
+   "speaker": "$n",
+   "text": "「Этот Эксев\n　и правда не шутит.」",
+   "orig": "$n\n「That Exev guy\n　really doesn't mess around.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Тэцуя",
+   "text": "「И, похоже, он как-то сотрудничает\n　с микенцами.」",
+   "orig": "Tetsuya\n「And it looks like he's cooperating\n　with Mycenae somehow.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Дзё",
+   "text": "「Значит, придётся просто вынести их всех!」",
+   "orig": "Joe\n「So I guess we'll just have to take them all out!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Майто",
+   "text": "「Дзё.\n　Выходит, ты на нашей стороне?」",
+   "orig": "Maito\n「Joe.\n　Does that mean you're on our side?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Дзё",
+   "text": "「Не пойми меня неправильно, Майто.\n　В справедливость и прочее я по-прежнему не верю.」",
+   "orig": "Joe\n「Don't get me wrong, Maito.\n　I'm still not a big believer in justice or anything.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Дзё",
+   "text": "「Просто этих уродов я ненавижу сильнее, чем тебя.」",
+   "orig": "Joe\n「I just hate those freaks more than you, is all.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Майто",
+   "text": "「Сейчас этого достаточно.」",
+   "orig": "Maito\n「Right now, that's enough.」"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "「И всё-таки странные у тебя увлечения — лезть\n　прямо в пекло вместе с нами.」",
+   "orig": "$n\n「But you sure have weird hobbies, jumping right\n　into the fire here with us.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Бандзё",
+   "text": "「Рисковать жизнью ради своей цели...\n　Мне это по душе.」",
+   "orig": "Banjo\n「Risking your life to reach your goals...\n　I like that.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Тэцуя",
+   "text": "「По мне, так это не слишком-то честно.」",
+   "orig": "Tetsuya\n「I'd say it's kind of dishonest.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Рёма",
+   "text": "「Кто бы говорил.」",
+   "orig": "Ryoma\n「You're one to talk.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Аид",
+   "text": "「Не смешите меня, люди!\n　Радуетесь одному-единственному новому союзнику!」",
+   "orig": "Hades\n「Don't make me laugh, humans!\n　You're celebrating over a single new ally!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Майто",
+   "text": "「Уверен, тебе этого не понять.\n　Вчерашний враг стал союзником — это немало!」",
+   "orig": "Maito\n「I'm sure it's nothing you'd understand.\n　A former enemy is now an ally, that's something!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Майто",
+   "text": "「Вот в чём истинное величие человека!\n　Перед лицом настоящего зла\n　мы берёмся за руки и сражаемся вместе!」",
+   "orig": "Maito\n「That's the true greatness in humans!\n　When we are faced with true evil\n　we join hands and fight together!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Дзё",
+   "text": "「Владыка подземного мира!\n　Если это спутает планы Эксева,\n　я уложу тебя здесь и сейчас!」",
+   "orig": "Joe\n「King of the Underworld!\n　If it throws a wrench into Exev's plans,\n　I'm taking you down here and now!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Аид",
+   "text": "「Попробуй!\n　Посмотрим, выйдет ли у тебя!」",
+   "orig": "Hades\n「Try it!\n　We'll see if you can!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Кодзи",
+   "text": "（Аид будто стал куда сильнее, чем раньше.）",
+   "orig": "Koji\n（Hades seems so much stronger than he did before.）"
+  },
+  {
+   "i": 221,
+   "speaker": "Кодзи",
+   "text": "（Но «Мазингер Зет» не может проиграть.\n　Не может. Никак!）",
+   "orig": "Koji\n（But, Mazinger Z can't lose.\n　It can't. There's no way!）"
+  },
+  {
+   "i": 222,
+   "speaker": "Кодзи",
+   "text": "（«Мазингер Зет» — сильнейший Мазин!）",
+   "orig": "Koji\n（Mazinger Z is the strongest Mazin!）"
+  },
+  {
+   "i": 223,
+   "speaker": "Каппэй",
+   "text": "「И после всех этих громких слов\n　он просто удирает?」",
+   "orig": "Kappei\n「So he just runs away\n　after all that tough talk?」"
+  },
+  {
+   "i": 224,
+   "speaker": "Найн",
+   "text": "「Этот линкор... Он пересёк время и пространство\n　способом, не похожим ни на Драконов,\n　ни на бозонный прыжок.」",
+   "orig": "Nine\n「That battleship... It traveled across\n　time and space using a method unlike that of \n　the Dragons or Boson Jumping.」"
+  },
+  {
+   "i": 225,
+   "speaker": "$n",
+   "text": "「Да какой же силой\n　обладает этот Эксев?」",
+   "orig": "$n\n「Just how much power does\n　this Exev have?」"
+  },
+  {
+   "i": 226,
+   "speaker": "Тэцуя",
+   "text": "「И, похоже, он как-то сотрудничает\n　с микенцами.」",
+   "orig": "Tetsuya\n「And it looks like he's cooperating\n　with Mycenae somehow.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Дзё",
+   "text": "「Значит, придётся просто вынести их всех!」",
+   "orig": "Joe\n「So I guess we'll just have to take them all out!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Майто",
+   "text": "「Дзё.\n　Выходит, ты на нашей стороне?」",
+   "orig": "Maito\n「Joe.\n　Does that mean you're on our side?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Дзё",
+   "text": "「Не пойми меня неправильно, Майто.\n　В справедливость и прочее я по-прежнему не верю.」",
+   "orig": "Joe\n「Don't get me wrong, Maito.\n　I'm still not a big believer in justice or anything.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Дзё",
+   "text": "「Просто этих уродов я ненавижу сильнее, чем тебя.」",
+   "orig": "Joe\n「I just hate those freaks more than you, is all.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Майто",
+   "text": "「Сейчас этого достаточно.」",
+   "orig": "Maito\n「Right now, that's enough.」"
+  },
+  {
+   "i": 232,
+   "speaker": "$n",
+   "text": "「Мы правда благодарны, что ты пришёл\n　нам на помощь — особенно сейчас!」",
+   "orig": "$n\n「We're really grateful you came\n　to help us out, especially now!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Бандзё",
+   "text": "「Рисковать жизнью ради своей цели...\n　Мне это по душе.」",
+   "orig": "Banjo\n「Risking your life to reach your goals...\n　I like that.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Тэцуя",
+   "text": "「По мне, так это не слишком-то честно.」",
+   "orig": "Tetsuya\n「I'd say it's kind of dishonest.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Рёма",
+   "text": "「Кто бы говорил.」",
+   "orig": "Ryoma\n「You're one to talk.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Аид",
+   "text": "「Не смешите меня, люди!\n　Радуетесь одному-единственному новому союзнику!」",
+   "orig": "Hades\n「Don't make me laugh, humans!\n　You're celebrating over a single new ally!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Майто",
+   "text": "「Уверен, тебе этого не понять.\n　Вчерашний враг стал союзником — это немало!」",
+   "orig": "Maito\n「I'm sure it's nothing you'd understand.\n　A former enemy is now an ally, that's something!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Майто",
+   "text": "「Вот в чём истинное величие человека!\n　Перед лицом настоящего зла\n　мы берёмся за руки и сражаемся вместе!」",
+   "orig": "Maito\n「That's the true greatness in humans!\n　When we are faced with true evil\n　we join hands and fight together!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Дзё",
+   "text": "「Владыка подземного мира!\n　Если это спутает планы Эксева,\n　я уложу тебя здесь и сейчас!」",
+   "orig": "Joe\n「King of the Underworld!\n　If it throws a wrench into Exev's plans,\n　I'm taking you down here and now!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Аид",
+   "text": "「Попробуй!\n　Посмотрим, выйдет ли у тебя!」",
+   "orig": "Hades\n「Try it!\n　We'll see if you can!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Кодзи",
+   "text": "（Аид будто стал куда сильнее, чем раньше.）",
+   "orig": "Koji\n（Hades seems so much stronger than he did before.）"
+  },
+  {
+   "i": 242,
+   "speaker": "Кодзи",
+   "text": "（Но «Мазингер Зет» не может проиграть.\n　Не может. Никак!）",
+   "orig": "Koji\n（But, Mazinger Z can't lose.\n　It can't. There's no way!）"
+  },
+  {
+   "i": 243,
+   "speaker": "Кодзи",
+   "text": "（«Мазингер Зет» — сильнейший Мазин!）",
+   "orig": "Koji\n（Mazinger Z is the strongest Mazin!）"
+  },
+  {
+   "i": 244,
+   "speaker": "Аид",
+   "text": "「Людишки!\n　Это заткнёт вас всех навсегда!」",
+   "orig": "Hades\n「Human scum!\n　This should shut you all up for good!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Аид",
+   "text": "「А вы неплохо держитесь, люди.」",
+   "orig": "Hades\n「You do put up a fight, humans.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Аид",
+   "text": "「Я впечатлён — вы развлекаете\n　меня уже так долго!」",
+   "orig": "Hades\n「I'm impressed you've kept\n　me entertained this long!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Бэнкэй",
+   "text": "「Он исцеляется от всего урона, что мы наносим!」",
+   "orig": "Benkei\n「He's recovering from all the damage we do!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Хаято",
+   "text": "「Так вот она какая, сила микенских богов?!」",
+   "orig": "Hayato\n「This is the power of the Gods of Mycenae?!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Аид",
+   "text": "「Ха-ха-ха!\n　Оставьте надежду, люди!」",
+   "orig": "Hades\n「Hahahah!\n　Abandon hope, humans!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Тэцуя",
+   "text": "「Вот же тварь...\n　Он просто издевается над нами!」",
+   "orig": "Tetsuya\n「That bastard...\n　He's just taunting us!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Кодзи",
+   "text": "「Кх!」",
+   "orig": "Koji\n「Ungh!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Саяка",
+   "text": "「Кодзи?」",
+   "orig": "Sayaka\n「Koji?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Айхара",
+   "text": "「Доклад от профессора Юми.\n　Весь персонал благополучно эвакуирован!」",
+   "orig": "Aihara\n「We've had a report from Professor Yumi.\n　All staff have safely evacuated!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Окита",
+   "text": "「Прикажите всем отходить, Кодай!\n　К сожалению, лабораторию придётся оставить!」",
+   "orig": "Okita\n「Order all units to withdraw, Kodai!\n　Unfortunately, we must abandon the Laboratory!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Кодай",
+   "text": "「Всем подразделениям — отход!\n　Точка сбора —」",
+   "orig": "Kodai\n「All units, fall back!\n　Our rendezvous point is—」"
+  },
+  {
+   "i": 256,
+   "speaker": "Кодзи",
+   "text": "「Я не могу выполнить этот приказ!」",
+   "orig": "Koji\n「I can't follow that order!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Кодзи",
+   "text": "「Вот и всё, Аид!」",
+   "orig": "Koji\n「This is it, Hades!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Кодзи",
+   "text": "「Узри!\n　Истинная мощь «Мазингера Зет» — Мазин-Пауэр!」",
+   "orig": "Koji\n「Behold!\n　Mazinger Z's true power, Mazin Power!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Аид",
+   "text": "「Не глупи, человек!\n　Без покровительства Зевса\n　ты ничто!」",
+   "orig": "Hades\n「Don't be foolish, human!\n　You are nothing without\n　Zeus' divine protection!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Кодзи",
+   "text": "「А-а-а-а!」",
+   "orig": "Koji\n「Graaah!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Аид",
+   "text": "「Признай, мальчишка, ты бессилен!\n　А теперь склонись перед Аидом!」",
+   "orig": "Hades\n「Admit it, boy, you are powerless!\n　Now come and kneel before Hades!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Кодзи",
+   "text": "「Бессилен, говоришь?!」",
+   "orig": "Koji\n「Powerless, you say?!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Кодзи",
+   "text": "「«Мазингер Зет»!\n　Этот робот, созданный моим дедом, —\n　сильнейший Мазин из всех, что были!」",
+   "orig": "Koji\n「Mazinger Z!\n　This robot that my grandfather made\n　is the strongest Mazin ever existed!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Кодзи",
+   "text": "「И неважно, насколько ты огромен, —\n　«Мазингер Зет» не проиграет!」",
+   "orig": "Koji\n「It doesn't matter how big you are,\n　Mazinger Z can't lose!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Тэцуя",
+   "text": "「Нет, стой!」",
+   "orig": "Tetsuya\n「No, stop!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Аид",
+   "text": "「Что?!」",
+   "orig": "Hades\n「What?!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Босс",
+   "text": "「Что он творит?!」",
+   "orig": "Boss\n「What is it doing?!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Рёма",
+   "text": "「«Мазингер Зет» трансформируется!」",
+   "orig": "Ryoma\n「Mazinger Z is transforming!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Саяка",
+   "text": "「Кодзи!」",
+   "orig": "Sayaka\n「Koji!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Кодзи",
+   "text": "「А-а-а-а!」",
+   "orig": "Koji\n「Graaah!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Аид",
+   "text": "「Б-безумие!」",
+   "orig": "Hades\n「M-madness!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Ашура",
+   "text": "「Владыка Аид!」",
+   "orig": "Ashura\n「Lord Hades!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Гарадабла",
+   "text": "「Поверить не могу!\n　Владыка Аид проиграл человеку!」",
+   "orig": "Garadabla\n「I can't believe it!\n　Lord Hades lost to a human!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Владыка Аид!\n　Неужели это случилось из-за моего опоздания?」",
+   "orig": "Great General of Darkness\n「Lord Hades!\n　Did this happen because I was delayed?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Тэцуя",
+   "text": "「Это один из микенских генералов.」",
+   "orig": "Tetsuya\n「That's one of the Mycenae generals.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Я — Великий генерал тьмы!\n　Отвечайте, кто одолел владыку Аида!」",
+   "orig": "Great General of Darkness\n「I am the Great General of Darkness!\n　Tell me, who defeated Lord Hades!」"
+  },
+  {
+   "i": 277,
+   "speaker": "Кодзи",
+   "text": "「Это был Мазингер —」",
+   "orig": "Koji\n「It was Mazinger—」"
+  },
+  {
+   "i": 278,
+   "speaker": "Кодзи",
+   "text": "「«Мазингер Зеро»!」",
+   "orig": "Koji\n「Mazinger Zero!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Майто",
+   "text": "「«Мазингер Зеро»?」",
+   "orig": "Maito\n「Mazinger Zero?」"
+  },
+  {
+   "i": 280,
+   "speaker": "$n",
+   "text": "「Так вот она, следующая форма «Мазингера»...」",
+   "orig": "$n\n「So that's Mazinger's next form...」"
+  },
+  {
+   "i": 281,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Я запомню это имя, «Мазингер Зеро»!\n　За это я заберу твою голову!」",
+   "orig": "Great General of Darkness\n「I will remember that name, Mazinger Zero!\n　I will have your head for this!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Мы, войско Олимпа, правим\n　этим миром и всей его галактикой!」",
+   "orig": "Great General of Darkness\n「We, the army of Olympus, control\n　this world and its galaxy!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Владыка Аид!\n　Неужели это случилось из-за моего опоздания?」",
+   "orig": "Great General of Darkness\n「Lord Hades!\n　Did this happen because I was delayed?」"
+  },
+  {
+   "i": 284,
+   "speaker": "Тэцуя",
+   "text": "「Это один из микенских генералов.」",
+   "orig": "Tetsuya\n「That's one of the Mycenae generals.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Я — Великий генерал тьмы!\n　Отвечайте, кто одолел владыку Аида!」",
+   "orig": "Great General of Darkness\n「I am the Great General of Darkness!\n　Tell me, who defeated Lord Hades!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Кодзи",
+   "text": "「Это был Мазингер —」",
+   "orig": "Koji\n「It was Mazinger—」"
+  },
+  {
+   "i": 287,
+   "speaker": "Кодзи",
+   "text": "「«Мазингер Зеро»!」",
+   "orig": "Koji\n「Mazinger Zero!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Майто",
+   "text": "「«Мазингер Зеро»?」",
+   "orig": "Maito\n「Mazinger Zero?」"
+  },
+  {
+   "i": 289,
+   "speaker": "$n",
+   "text": "「Так вот она, следующая форма «Мазингера»...」",
+   "orig": "$n\n「So that's Mazinger's next form...」"
+  },
+  {
+   "i": 290,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Я запомню это имя, «Мазингер Зеро»!\n　За это я заберу твою голову!」",
+   "orig": "Great General of Darkness\n「I will remember that name, Mazinger Zero!\n　I will have your head for this!」"
+  },
+  {
+   "i": 291,
+   "speaker": "Великий генерал тьмы",
+   "text": "「Мы, войско Олимпа, правим\n　этим миром и всей его галактикой!」",
+   "orig": "Great General of Darkness\n「We, the army of Olympus, control\n　this world and its galaxy!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Ашура",
+   "text": "「Кодзи Кабуто... нет, «Мазингер Зеро»!\n　Я уничтожу тебя!」",
+   "orig": "Ashura\n「Koji Kabuto—No, Mazinger Zero!\n　I will destroy you!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Мори",
+   "text": "「Микенцы отступают!」",
+   "orig": "Mori\n「Mycenae is retreating!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Окита",
+   "text": "「Это победа лишь на мгновение.」",
+   "orig": "Okita\n「A momentary victory only.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Сима",
+   "text": "「Я уж было засомневался, чем всё кончится,\n　но, похоже, всё обошлось!」",
+   "orig": "Shima\n「For a minute there I wasn't sure how it would go,\n　but it looks like things worked out!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Кодай",
+   "text": "「Не расслабляйся.\n　Сомневаюсь, что на этом боевая мощь\n　микенцев закончилась.」",
+   "orig": "Kodai\n「Don't get too relaxed.\n　I doubt that's the end of Mycenae's\n　fighting power.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Кодай",
+   "text": "「И всё же мы свалили вражеского вождя — это немало!」",
+   "orig": "Kodai\n「But still, we took out the enemy leader, that's huge!」"
+  },
+  {
+   "i": 298,
+   "speaker": "Каппэй",
+   "text": "「Отличная работа, Кодзи!」",
+   "orig": "Kappei\n「Good job, Koji!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Майто",
+   "text": "「«Мазингер Зеро»...」",
+   "orig": "Maito\n「Mazinger Zero...」"
+  },
+  {
+   "i": 300,
+   "speaker": "Дзё",
+   "text": "「И правда, поразительно.」",
+   "orig": "Joe\n「It really is amazing.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Босс",
+   "text": "「Похоже, мрачное пророчество\n　Куроганэ Файв здорово промахнулось!」",
+   "orig": "Boss\n「The Kurogane Five's nasty prediction \n　was way off, it looks like!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Кросс",
+   "text": "「Что ж, возможно.」",
+   "orig": "Cross\n「Well, maybe.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Ясу",
+   "text": "「Остаётся только надеяться.」",
+   "orig": "Yasu\n「We can only hope so.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Тэцуя",
+   "text": "「Кодзи...」",
+   "orig": "Tetsuya\n「Koji...」"
+  },
+  {
+   "i": 305,
+   "speaker": "Доктор Хелл",
+   "text": "「Отлично сработано, Кодзи Кабуто.」",
+   "orig": "Dr. Hell\n「Well done, Koji Kabuto.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Бэнкэй",
+   "text": "「Доктор Хелл!」",
+   "orig": "Benkei\n「Dr. Hell!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Хаято",
+   "text": "「Ты ещё жив!」",
+   "orig": "Hayato\n「You're still alive!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Доктор Хелл",
+   "text": "「Каково это, Кодзи?」",
+   "orig": "Dr. Hell\n「How does it feel, Koji?」"
+  },
+  {
+   "i": 309,
+   "speaker": "Доктор Хелл",
+   "text": "「Нравится быть всего лишь деталью «Мазингера»?」",
+   "orig": "Dr. Hell\n「Do you enjoy being just another part of Mazinger?」"
+  },
+  {
+   "i": 310,
+   "speaker": "Кодзи",
+   "text": "「Что?!」",
+   "orig": "Koji\n「What?!」"
+  },
+  {
+   "i": 311,
+   "speaker": "Тэцуя",
+   "text": "「Кодзи!\n　Не слушай его!」",
+   "orig": "Tetsuya\n「Koji!\n　Don't listen to him!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Кодзи",
+   "text": "「Я всего лишь деталь «Мазингера»?」",
+   "orig": "Koji\n「I'm just a part of Mazinger?」"
+  },
+  {
+   "i": 313,
+   "speaker": "Доктор Хелл",
+   "text": "「Ха-ха-ха!\n　Сомневаюсь, что ты мне поверишь, — я ведь знаю,\n　как сильно ты любишь своего деда.」",
+   "orig": "Dr. Hell\n「Hahahah!\n　I doubt you'll believe me, I know how\n　much you love your grandfather.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Доктор Хелл",
+   "text": "「Но он был чудовищем, продавшим душу науке.\n　И ради того, чтобы завершить дело всей жизни,\n　он использовал даже собственного внука!」",
+   "orig": "Dr. Hell\n「But he was a monster, who sold his soul for science.\n　And in order to complete his life's work,\n　he even used his own grandson!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Кодзи",
+   "text": "「Д-дед...」",
+   "orig": "Koji\n「G-grandfather...」"
+  },
+  {
+   "i": 316,
+   "speaker": "Доктор Хелл",
+   "text": "「Это безнадёжно!\n　В тот миг, когда твоя воля дрогнет,\n　«Мазингер» поглотит твою душу!」",
+   "orig": "Dr. Hell\n「It's hopeless!\n　The moment your will falters,\n　your soul will be devoured by that Mazinger!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Доктор Хелл",
+   "text": "「И последние врата отворятся передо мной,\n　доктором Хеллом, а не перед моим дорогим\n　другом, доктором Дзюдзо!」",
+   "orig": "Dr. Hell\n「And the final gate will be opened for me, \n　Dr. Hell, instead for my dear friend Dr. Juzo!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Доктор Хелл",
+   "text": "「Кодзи Кабуто!\n　Принеси Мазину в жертву тело и душу!\n　В этом твоя роль — живая деталь «Мазингера»!」",
+   "orig": "Dr. Hell\n「Koji Kabuto!\n　Sacrifice your body and soul to the Mazin!\n　That is your one role, an organic part of the Mazinger!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Кодзи",
+   "text": "「Нет!」",
+   "orig": "Koji\n「No!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Доктор Хелл",
+   "text": "「Му-ха-ха-ха!\n　Ну что, Кодзи, ты уже пал?」",
+   "orig": "Dr. Hell\n「Mwahahah!\n　Have you fallen yet, Koji?」"
+  },
+  {
+   "i": 321,
+   "speaker": "Тэцуя",
+   "text": "「Хелл!」",
+   "orig": "Tetsuya\n「Hell!」"
+  },
+  {
+   "i": 322,
+   "speaker": "Кодзи",
+   "text": "「А-а-а-а-а!」",
+   "orig": "Koji\n「Aaaargh!」"
+  },
+  {
+   "i": 323,
+   "speaker": "Саяка",
+   "text": "「Нет! Кодзи!」",
+   "orig": "Sayaka\n「No! Koji!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Доктор Хелл",
+   "text": "「Вот оно!\n　Превосходно, Кодзи!\n　Или теперь мне звать тебя «Мазингер Зеро»?」",
+   "orig": "Dr. Hell\n「That's it!\n　That's perfect, Koji!\n　Or should I say, Mazinger Zero?」"
+  },
+  {
+   "i": 325,
+   "speaker": "Доктор Хелл",
+   "text": "「Если мне суждено покинуть этот мир, мне уже всё равно!\n　Используй эту мощь до конца, стань сильнейшим\n　и темнейшим Мазином в истории!」",
+   "orig": "Dr. Hell\n「If I'm to leave this world, I wouldn't care of it!\n　Use that power to the end, become\n　the strongest and darkest Mazin in history!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Кодзи",
+   "text": "「Гя-а-а-а!」",
+   "orig": "Koji\n「Gyaaah!」"
+  },
+  {
+   "i": 327,
+   "speaker": "Тэцуя",
+   "text": "「Успокойся, Кодзи!\n　Приди в себя!」",
+   "orig": "Tetsuya\n「Settle down, Koji!\n　Come back to your senses!」"
+  },
+  {
+   "i": 328,
+   "speaker": "Кодзи",
+   "text": "「Дед... Он использовал меня!\n　Использовал, чтобы завершить «Мазингера»!」",
+   "orig": "Koji\n「Grandfather... He used me!\n　Used me to complete the Mazinger!」"
+  },
+  {
+   "i": 329,
+   "speaker": "Кодзи",
+   "text": "「Я... я... Гя-а-а-а!!」",
+   "orig": "Koji\n「I-I'm... Gyaaah!!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Саяка",
+   "text": "「Кодзи!\n　Кодзи, нет!」",
+   "orig": "Sayaka\n「Koji!\n　Koji, no!」"
+  },
+  {
+   "i": 331,
+   "speaker": "Анкокудзи",
+   "text": "「Шаг вперёд, два шага назад, значит.」",
+   "orig": "Ankokuji\n「One step forward, two steps back, huh.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Тэцуя",
+   "text": "「Нет.\n　По-моему, всё куда хуже.」",
+   "orig": "Tetsuya\n「No.\n　I think this is much worse than that.」"
+  },
+  {
+   "i": 333,
+   "speaker": "？？？",
+   "text": "「Я знал, что до этого дойдёт.」",
+   "orig": "？？？\n「I knew it would come to this.」"
+  },
+  {
+   "i": 334,
+   "speaker": "？？？",
+   "text": "「Этому миру не избежать своей гибели.」",
+   "orig": "？？？\n「This world can not escape its doom.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Аид",
+   "text": "「Что такое, Гарадабла?\n　Ты же у нас Великий герой? Неужели тысячи лет\n　сна ослабили твою руку?」",
+   "orig": "Hades\n「What's wrong, Garadabla?\n　I thought you were the Great Hero? Did thousands\n　of years of sleep cause your arm to grow weak?」"
+  },
+  {
+   "i": 336,
+   "speaker": "Гарадабла",
+   "text": "「Прошу прощения, владыка Аид,\n　за столь жалкое зрелище.」",
+   "orig": "Garadabla\n「I apologize, Lord Hades, for\n　showing such a pitiful performance.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Аид",
+   "text": "「Хе-хе. Не слишком увлекайся игрой,\n　Гарадабла. Но в следующий раз —」",
+   "orig": "Hades\n「Heheh. Don't get carried away with your play,\n　Garadabla. However, next time—」"
+  },
+  {
+   "i": 338,
+   "speaker": "Гарадабла",
+   "text": "「Понимаю. В следующую нашу встречу\n　я разорву этих глупцов и их железных кукол в клочья\n　и поднесу вам их души, владыка Аид.」",
+   "orig": "Garadabla\n「Understood. The next time we meet,\n　I will rip these fools and their iron dolls to shreds\n　and offer their souls to you, Lord Hades.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Гарадабла",
+   "text": "「Вот только будет ли у них ещё один шанс?」",
+   "orig": "Garadabla\n「But I wonder if they will have another chance.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Каппэй",
+   "text": "「Не смешите!\n　Слишком громкие речи для проигравших.」",
+   "orig": "Kappei\n「Don't be idiots!\n　You sure talk big for losers.」"
+  },
+  {
+   "i": 341,
+   "speaker": "Аид",
+   "text": "「Проигравших, вот как?\n　Вы и вправду думаете, что это\n　был истинный предел мощи Олимпа?」",
+   "orig": "Hades\n「Losers, is it?\n　Do you honestly believe that was \n　the true limit of Olympus' power?」"
+  },
+  {
+   "i": 342,
+   "speaker": "Аид",
+   "text": "「А, неважно.\n　Наслаждайтесь отпущенным вам временем, люди!\n　Этот пир ещё продолжается!」",
+   "orig": "Hades\n「Ah, what of it.\n　Enjoy the short time left to you, humans!\n　This feast still continues!」"
+  },
+  {
+   "i": 343,
+   "speaker": "Ашура",
+   "text": "「П-простите меня, владыка Аид!\n　В следующий раз я непременно —」",
+   "orig": "Ashura\n「F-forgive me, Lord Hades!\n　Next time, I will surely—」"
+  },
+  {
+   "i": 344,
+   "speaker": "Аид",
+   "text": "「Ха-ха-ха, Ашура!\n　Тебе ещё расти и расти, как я погляжу!」",
+   "orig": "Hades\n「Hahahah, Ashura!\n　You still have far to go, I see!」"
+  },
+  {
+   "i": 345,
+   "speaker": "Аид",
+   "text": "「Но ты всё же из богов Олимпа.\n　Твоя сила ещё понадобится нам впереди.\n　Лучше отступи пока.」",
+   "orig": "Hades\n「However, you are still of the gods of Olympus.\n　We will need your strength in the future.\n　It is best you retreat for now.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Ашура",
+   "text": "「Я недостоин ваших слов!\n　Смиренно благодарю вас, владыка Аид.」",
+   "orig": "Ashura\n「I am unworthy of your words!\n　I offer my humble gratitude, Lord Hades.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Кодзи",
+   "text": "「А ну стой, Ашура!\n　Это из-за тебя вернулись эти чудовища,\n　я тебя не отпущу!」",
+   "orig": "Koji\n「Wait right there, Ashura!\n　It's your fault these monsters have returned,\n　I'm not letting you go!」"
+  },
+  {
+   "i": 348,
+   "speaker": "Ашура",
+   "text": "「Кодзи Кабуто.\n　Мы больше никогда не встретимся.」",
+   "orig": "Ashura\n「Koji Kabuto.\n　We shall never meet again.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Кодзи",
+   "text": "「Что?!」",
+   "orig": "Koji\n「What?!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Ашура",
+   "text": "「Если ты думаешь, что выйдешь против самого\n　владыки Аида и уцелеешь, ты жестоко ошибаешься!\n　Ты умрёшь, оплакивая собственное бессилие!」",
+   "orig": "Ashura\n「If you believe you can face Lord Hades himself\n　and survive, you are sorely mistaken!\n　You will die lamenting your own powerlessness!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Ашура",
+   "text": "「Прощай, Кодзи Кабуто!\n　Ты сгоришь в адском пламени вместе с доктором Хеллом!」",
+   "orig": "Ashura\n「Goodbye, Koji Kabuto!\n　You will burn in the fires below with Dr. Hell!」"
+  },
+  {
+   "i": 352,
+   "speaker": "Кодзи",
+   "text": "「Он исчез!」",
+   "orig": "Koji\n「He's gone!」"
+  },
+  {
+   "i": 353,
+   "speaker": "Тэцуя",
+   "text": "（Это моя вина, что я не прервал его ритуал.）",
+   "orig": "Tetsuya\n（It's my fault for not ending his ritual.）"
+  },
+  {
+   "i": 354,
+   "speaker": "Тэцуя",
+   "text": "（Раз уж до этого дошло, пока «Грейт» способен\n　двигаться, я обязан попытаться свалить Аида!）",
+   "orig": "Tetsuya\n（Now that it's come so far, as long as Great\n　is able to move, I must try to take down Hades!）"
+  },
+  {
+   "i": 355,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Что это за робот!\n　Он куда сильнее всего, что Альянс DG\n　выставлял против нас раньше!」",
+   "orig": "Battle Bomber\n「What is this robot!\n　It's far stronger than anything\n　the DG Alliance has thrown at us before!」"
+  },
+  {
+   "i": 356,
+   "speaker": "Гард Дайвер",
+   "text": "「Но выглядит он как серийная версия Горю.」",
+   "orig": "Guard Diver\n「But it looks like a mass-production model of Goryu.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Дзё",
+   "text": "「Это «Атлас Mk-II». Первоначальный проект\n　сделал Вольфганг, но в серию его запустил\n　Мистер Икс — то есть Эксев.」",
+   "orig": "Joe\n「It's the Atlas Mk-II, Wolfgang\n　made the initial design, but \n　Mr. X—or Exev put it into production.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Дзё",
+   "text": "「Мало того, он ещё и внёс\n　несколько собственных доработок.」",
+   "orig": "Joe\n「But more than that, he also\n　added a few modifications of his own.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Майто",
+   "text": "「Что бы это ни было, мы должны его одолеть!\n　Нельзя позволить им нести войну в другие измерения!」",
+   "orig": "Maito\n「But whatever it is, we have to beat it!\n　They can't bring their war to other dimensions!」"
+  },
+  {
+   "i": 360,
+   "speaker": "Дзё",
+   "text": "「Мне глубоко плевать на все эти «во имя справедливости»,\n　но надрать им зад я полностью одобряю.」",
+   "orig": "Joe\n「I couldn't care less about all the \"For great justice!\"\n　stuff, but I fully approve of kicking their butts.」"
+  },
+  {
+   "i": 361,
+   "speaker": "Майто",
+   "text": "「За дело, Дзё!\n　Сокрушим злодеев, что хотят править\n　миром из-под покрова тьмы!」",
+   "orig": "Maito\n「Let's do this, Joe!\n　Let's destroy those villains who would\n　control the world from cover of darkness!」"
+  },
+  {
+   "i": 362,
+   "speaker": "Ашура",
+   "text": "「Кабуто Кодзи!\n　Не воображай, будто твоя сила равна нашей —\n　силе воскресших богов Олимпа!」",
+   "orig": "Ashura\n「Kabuto Koji!\n　Don't imagine that your power is equal \n　to ours, the resurrected gods of Olympus!」"
+  },
+  {
+   "i": 363,
+   "speaker": "Кодзи",
+   "text": "「Ты и впрямь куда сильнее, чем был\n　Механическим зверем, барон Ашура!」",
+   "orig": "Koji\n「You're certainly a lot stronger than you were as \n　the Mechanical Beast, Baron Ashura!」"
+  },
+  {
+   "i": 364,
+   "speaker": "Кодзи",
+   "text": "「Но я всё равно тебе не проиграю!\n　«Мазингер Зет» — сильнейший суперробот на свете!」",
+   "orig": "Koji\n「But I still won't lose to you!\n　Mazinger Z is the strongest super robot there is!」"
+  },
+  {
+   "i": 365,
+   "speaker": "Ашура",
+   "text": "「Эта мощь... мощь Мазина!」",
+   "orig": "Ashura\n「This power, the power of the Mazin!」"
+  },
+  {
+   "i": 366,
+   "speaker": "Кодзи",
+   "text": "「Я иду за тобой, Ашура!\n　Против истинной мощи «Мазингера Зет»\n　тебе совсем нечего противопоставить!」",
+   "orig": "Koji\n「I'm coming for you, Ashura!\n　You're no match at all\n　for Mazinger Z's true power!」"
+  },
+  {
+   "i": 367,
+   "speaker": "Аид",
+   "text": "「Одолеть тебя без покровительства Зевса\n　будет проще, чем отнять конфету у младенца!」",
+   "orig": "Hades\n「Beating you without Zeus' divine protection\n　will be like taking candy from a baby!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Кодзи",
+   "text": "「Заткнись, Аид!\n　«Мазингер Зет» унаследовал саму силу Зевса —\n　Мазин-Пауэр, и нас ничем не одолеть!」",
+   "orig": "Koji\n「Shut it, Hades!\n　The Mazinger Z has inherited Zeus' own power,\n　the Mazin Power, and nothing can beat us!」"
+  },
+  {
+   "i": 369,
+   "speaker": "Аид",
+   "text": "「Почему?!\n　Почему эти глупцы не трепещут\n　от страха перед моей мощью?!」",
+   "orig": "Hades\n「Why?!\n　Why do these fools not tremble\n　in fear before my might?!」"
+  },
+  {
+   "i": 370,
+   "speaker": "Кодзи",
+   "text": "「Когда рядом нарастает великая сила,\n　мощь «Мазингера Зет» растёт\n　соразмерно ей.」",
+   "orig": "Koji\n「When it feels great power growing near,\n　the Mazinger Z's strength grows \n　proportionally to it.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Кодзи",
+   "text": "「Аид!\n　Эта сила сомнёт тебя.\n　Вот что такое «Мазингер Зет»!」",
+   "orig": "Koji\n「Hades!\n　This strength is going to overwhelm you.\n　This is the Mazinger Z!」"
+  },
+  {
+   "i": 372,
+   "speaker": "Ашура",
+   "text": "「Какая незадача, Тэцуя!」",
+   "orig": "Ashura\n「How unfortunate, Tetsuya!」"
+  },
+  {
+   "i": 373,
+   "speaker": "Тэцуя",
+   "text": "「Хмпф.」",
+   "orig": "Tetsuya\n「Hmph.」"
+  },
+  {
+   "i": 374,
+   "speaker": "Ашура",
+   "text": "「Ты знал о существовании богов,\n　но всё равно не сумел помешать их возвращению!\n　Эти разрушения — на твоих руках!」",
+   "orig": "Ashura\n「You knew about the existence of the gods,\n　yet you still could not prevent their return!\n　This destruction is on your hands!」"
+  },
+  {
+   "i": 375,
+   "speaker": "Тэцуя",
+   "text": "「Не тебе об этом говорить, Ашура!\n　Я позабочусь о том, чтобы ты\n　заплатил за это жизнью!」",
+   "orig": "Tetsuya\n「You have no room to talk, Ashura!\n　I will see to it that you\n　pay for this with your life!」"
+  },
+  {
+   "i": 376,
+   "speaker": "Тэцуя",
+   "text": "「Покончим с этим, Ашура!\n　Ты мне за всё ответишь!」",
+   "orig": "Tetsuya\n「Let's settle it, Ashura!\n　I'll make you pay for this!」"
+  },
+  {
+   "i": 377,
+   "speaker": "Аид",
+   "text": "「А ты и вправду силён.\n　Будь он здесь, он был бы рад с тобой встретиться.」",
+   "orig": "Hades\n「You certainly are a strong one.\n　If he was here, he'd be happy to meet you.」"
+  },
+  {
+   "i": 378,
+   "speaker": "Тэцуя",
+   "text": "「В смысле — «он»?」",
+   "orig": "Tetsuya\n「What do you mean, \"he?\"」"
+  },
+  {
+   "i": 379,
+   "speaker": "Аид",
+   "text": "「Великий предводитель войск Олимпа!\n　Моя правая рука!」",
+   "orig": "Hades\n「The great leader of the armies of Olympus!\n　My own right hand!」"
+  },
+  {
+   "i": 380,
+   "speaker": "Аид",
+   "text": "「Увы, встретиться с ним тебе не доведётся.\n　Ибо я обрушу на тебя пылающий огонь преисподней\n　и обращу тебя в пепел — здесь и сейчас!」",
+   "orig": "Hades\n「Sadly, you will be unable to meet him.\n　For I will bring the blazing fires of Hell to \n　burn you to ash, right here and now!」"
+  },
+  {
+   "i": 381,
+   "speaker": "Тэцуя",
+   "text": "「Как бы не так!\n　Я оплошал, не остановив ваше возвращение.」",
+   "orig": "Tetsuya\n「As if!\n　I messed up by not stopping your return.」"
+  },
+  {
+   "i": 382,
+   "speaker": "Тэцуя",
+   "text": "「Значит, мне и отвечать за то, чтобы вас остановить!\n　Я не успокоюсь, пока вы все не будете уничтожены!」",
+   "orig": "Tetsuya\n「So it's my responsibility to stop you now!\n　I won't rest until you're all destroyed!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Аид",
+   "text": "「Людишки!\n　Похоже, пока мы спали долгие века,\n　они научились владеть Геттер-лучами!」",
+   "orig": "Hades\n「Human scum!\n　It looks like they learned to wield Getter Rays\n　while we slept those long centuries!」"
+  },
+  {
+   "i": 384,
+   "speaker": "Рёма",
+   "text": "「Откуда этим чудовищам знать\n　о геттер-излучении?」",
+   "orig": "Ryoma\n「What do these monsters know about\n　Getter Radiation?」"
+  },
+  {
+   "i": 385,
+   "speaker": "Аид",
+   "text": "「Этой силой должны владеть мы!\n　Ей не место в руках людей!」",
+   "orig": "Hades\n「That power should be ours to use!\n　It should never be in the hands of humans!」"
+  },
+  {
+   "i": 386,
+   "speaker": "Рёма",
+   "text": "「Вот как?\n　Что ж, ею-то мы тебя и свалим!」",
+   "orig": "Ryoma\n「Is that so?\n　Well, we're going to use it to take you down!」"
+  },
+  {
+   "i": 387,
+   "speaker": "Рёма",
+   "text": "「И ты крепко усвоишь, что люди\n　далеко не так слабы, как тебе кажется!」",
+   "orig": "Ryoma\n「And you will know well, that humans\n　aren't nearly as weak as you think!」"
+  },
+  {
+   "i": 388,
+   "speaker": "Каппэй",
+   "text": "「Чёрт!\n　Эти ребята что, и правда боги?」",
+   "orig": "Kappei\n「Crap!\n　Are these guys really gods?」"
+  },
+  {
+   "i": 389,
+   "speaker": "Аид",
+   "text": "「Уж поверь, дитя!\n　Как бы ты ни барахтался,\n　против самих богов тебе не устоять!」",
+   "orig": "Hades\n「Believe it, child!\n　No matter how you flail about,\n　you can never resist the gods themselves!」"
+  },
+  {
+   "i": 390,
+   "speaker": "Каппэй",
+   "text": "「Ну ладно, тогда если мы тебя побьём,\n　придётся тебе сдать своё божественное звание!」",
+   "orig": "Kappei\n「OK then, if we beat you I guess that means \n　you'll have to give up your god cards!」"
+  },
+  {
+   "i": 391,
+   "speaker": "Каппэй",
+   "text": "「Значит, надо их уложить!\n　Мы ни за что не позволим вам, тварям,\n　творить с миром что вздумается!」",
+   "orig": "Kappei\n「So I guess we'd better take them down!\n　There's no way we can let you beasts have your\n　way with the world!」"
+  },
+  {
+   "i": 392,
+   "speaker": "Аид",
+   "text": "「Му-ха-ха, как забавно!\n　До чего же вы, дети, глупы!」",
+   "orig": "Hades\n「Mwahahah, how amusing!\n　You children really are foolish!」"
+  },
+  {
+   "i": 393,
+   "speaker": "Бандзё",
+   "text": "「В нём столько тьмы!\n　Он и впрямь достоин имени Аид.」",
+   "orig": "Banjo\n「He holds such darkness!\n　He really deserves the name Hades.」"
+  },
+  {
+   "i": 394,
+   "speaker": "Аид",
+   "text": "「Наконец-то признал моё величие?\n　Значит, толика мудрости в тебе всё же есть.」",
+   "orig": "Hades\n「Have you finally recognized my greatness?\n　You do have a touch of wisdom, then.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Бандзё",
+   "text": "「А во мне — свет, что рассечёт\n　твою тьму, словно солнце!」",
+   "orig": "Banjo\n「And I hold the light that will cut\n　through your darkness like the Sun!」"
+  },
+  {
+   "i": 396,
+   "speaker": "Аид",
+   "text": "「Беру свои слова обратно!\n　Ты всего лишь ещё один глупец этого мира,\n　не ведающий о мощи богов!」",
+   "orig": "Hades\n「I take back what I said!\n　You are just another one of this world's fools,\n　ignorant of the power of the gods!」"
+  },
+  {
+   "i": 397,
+   "speaker": "Бандзё",
+   "text": "「Говори что хочешь!\n　Этот бой мы всё равно выиграем!」",
+   "orig": "Banjo\n「Say what you want!\n　We're still going to win this fight!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Майто",
+   "text": "「Эта тьма и эта жестокость подавляют...\n　Ты и есть настоящее зло.」",
+   "orig": "Maito\n「This darkness and violence are overwhelming...\n　You truly are evil.」"
+  },
+  {
+   "i": 399,
+   "speaker": "Аид",
+   "text": "「Боги пребывают по ту сторону добра и зла.\n　Всё, что творится на этой Земле, — наша воля.」",
+   "orig": "Hades\n「The gods reside beyond good and evil.\n　Everything that happens on this Earth is our will.」"
+  },
+  {
+   "i": 400,
+   "speaker": "Майто",
+   "text": "「Как я могу с этим смириться?\n　Мы уничтожим всякое зло, что посягает\n　на мир и счастье человечества!」",
+   "orig": "Maito\n「How can I accept that?\n　We will destroy all evil that disrupts \n　the peace and happiness of humanity!」"
+  },
+  {
+   "i": 401,
+   "speaker": "Аид",
+   "text": "「Да что ты такое?!\n　Неужели в тебе нет ни капли сомнения?」",
+   "orig": "Hades\n「What are you?!\n　Do you not possess a speck of self-doubt?」"
+  },
+  {
+   "i": 402,
+   "speaker": "Майто",
+   "text": "「Мы — защитники справедливости!\n　Тебе конец, Аид, владыка подземного мира!」",
+   "orig": "Maito\n「We are the defenders of justice!\n　It's over, Hades, Lord of the Underworld!」"
+  },
+  {
+   "i": 403,
+   "speaker": "Аид",
+   "text": "「Хе-хе, как забавно.」",
+   "orig": "Hades\n「Heheh, how amusing.」"
+  },
+  {
+   "i": 404,
+   "speaker": "Дзё",
+   "text": "「Выходит, передо мной сам Аид.\n　Что ж, скучать точно не придётся.」",
+   "orig": "Joe\n「So now it looks like I'm facing Hades himself.\n　Well, this should keep me entertained.」"
+  },
+  {
+   "i": 405,
+   "speaker": "Аид",
+   "text": "「Могу сказать то же самое!\n　Скоро ты склонишься перед моей мощью!」",
+   "orig": "Hades\n「I could say the same!\n　Soon you will bow before my might!」"
+  },
+  {
+   "i": 406,
+   "speaker": "Дзё",
+   "text": "「Все, кто заставляет других кланяться,\n　друг на друга похожи, знаешь ли.」",
+   "orig": "Joe\n「People who try to force others to \n　bow are all alike, you know.」"
+  },
+  {
+   "i": 407,
+   "speaker": "Аид",
+   "text": "「Что?」",
+   "orig": "Hades\n「What?」"
+  },
+  {
+   "i": 408,
+   "speaker": "Дзё",
+   "text": "「Я не остановлюсь, пока не получу своё.\n　Даже если на пути встанут сами боги!」",
+   "orig": "Joe\n「I won't stop until I get what I'm after.\n　Even if the gods themselves stand in my way!」"
+  },
+  {
+   "i": 409,
+   "speaker": "Аид",
+   "text": "「Гха!」",
+   "orig": "Hades\n「Gah!」"
+  },
+  {
+   "i": 410,
+   "speaker": "Синдзи",
+   "text": "「Ч-что?!」",
+   "orig": "Shinji\n「W-what?!」"
+  },
+  {
+   "i": 411,
+   "speaker": "Аид",
+   "text": "「Людишки! Пока мы не смотрели,\n　вы влезли в запретное!」",
+   "orig": "Hades\n「Human scum! You've meddled in the\n　forbidden while we weren't looking!」"
+  },
+  {
+   "i": 412,
+   "speaker": "Синдзи",
+   "text": "「Вы про Еву?」",
+   "orig": "Shinji\n「Are you talking about EVA?」"
+  },
+  {
+   "i": 413,
+   "speaker": "Аид",
+   "text": "「Само ваше существование опасно! Я покончу с вами,\n　прежде чем вы нарушите сами законы природы!」",
+   "orig": "Hades\n「Your very existence is dangerous! I will end you\n　before you disrupt the very laws of nature!」"
+  },
+  {
+   "i": 414,
+   "speaker": "Найн",
+   "text": "「Ох...」",
+   "orig": "Nine\n「Oh...」"
+  },
+  {
+   "i": 415,
+   "speaker": "$n",
+   "text": "「Что такое, Найн?\n　Сейчас не время колебаться\n　только потому, что враг силён!」",
+   "orig": "$n\n「What's wrong, Nine?\n　There's no time to hesitate\n　just because our enemies are powerful!」"
+  },
+  {
+   "i": 416,
+   "speaker": "Найн",
+   "text": "「Д-да!」",
+   "orig": "Nine\n「R-right!」"
+  },
+  {
+   "i": 417,
+   "speaker": "Аид",
+   "text": "「В твоих словах слышна власть.\n　Такие, как ты, встречаются всегда.」",
+   "orig": "Hades\n「You speak with authority.\n　There are always people like you.」"
+  },
+  {
+   "i": 418,
+   "speaker": "$n",
+   "text": "「Какая честь — похвала от самозваного бога.」",
+   "orig": "$n\n「I am honored by your praise, self-proclaimed god.」"
+  },
+  {
+   "i": 419,
+   "speaker": "$n",
+   "text": "「Но запомни вот что:\n　не стоит слишком уж недооценивать людей,\n　а то неприятно удивишься!」",
+   "orig": "$n\n「But remember this, \n　don't underestimate humans too much\n　or you'll get a nasty surprise!」"
+  },
+  {
+   "i": 420,
+   "speaker": "$n",
+   "text": "（И всё же этот тип\n　на голову выше всех, с кем мы сталкивались!）",
+   "orig": "$n\n（Having said that, this guy\n　is way beyond anyone we've faced before!）"
+  },
+  {
+   "i": 421,
+   "speaker": "Найн",
+   "text": "「Ох...」",
+   "orig": "Nine\n「Oh...」"
+  },
+  {
+   "i": 422,
+   "speaker": "$n",
+   "text": "「Держись, Найн!\n　Если сдадимся сейчас, потеряем\n　не только лабораторию!」",
+   "orig": "$n\n「Hang in there, Nine!\n　If we give up now, we might lose\n　more than just the lab!」"
+  },
+  {
+   "i": 423,
+   "speaker": "Найн",
+   "text": "「Д-да!」",
+   "orig": "Nine\n「R-right!」"
+  },
+  {
+   "i": 424,
+   "speaker": "Аид",
+   "text": "「Вот так люди всегда восстают против богов,\n　движимые одними лишь своими страстями.\n　Но это бессмысленно! Вас ждёт поражение!」",
+   "orig": "Hades\n「And so humans always turn on the gods,\n　moved by their passions alone.\n　But it is pointless! You will fail!」"
+  },
+  {
+   "i": 425,
+   "speaker": "$n",
+   "text": "「И всё же надо попробовать — иначе не узнаем!」",
+   "orig": "$n\n「We must try, though, or we'll never know!」"
+  },
+  {
+   "i": 426,
+   "speaker": "Аид",
+   "text": "「Что ж, тогда подходи!\n　Испытай мою мощь на себе!」",
+   "orig": "Hades\n「Very well then, come!\n　Experience my might for yourself!」"
+  },
+  {
+   "i": 427,
+   "speaker": "$n",
+   "text": "（Это нужно сделать!\n　Просто нужно!\n　И неважно, кто встанет на пути!）",
+   "orig": "$n\n（I've got to do this!\n　I've got to!\n　It doesn't matter who is in the way!）"
+  },
+  {
+   "i": 428,
+   "speaker": "Окита",
+   "text": "「Весь огонь — по вражескому командиру!\n　Пробьём брешь — и перелом будет за нами!」",
+   "orig": "Okita\n「Focus all firepower on the enemy commander!\n　If we create an opening, it could turn the tide!」"
+  },
+  {
+   "i": 429,
+   "speaker": "Кодай",
+   "text": "「Есть!」",
+   "orig": "Kodai\n「Roger!」"
+  },
+  {
+   "i": 430,
+   "speaker": "Аид",
+   "text": "「Этот корабль... В нём мощь, способная пересечь галактику?」",
+   "orig": "Hades\n「This ship... It holds the power to cross the galaxy?」"
+  },
+  {
+   "i": 431,
+   "speaker": "Аид",
+   "text": "「Любопытно!\n　Чья же это была задумка?」",
+   "orig": "Hades\n「How interesting!\n　I wonder whose idea it was?」"
+  },
+  {
+   "i": 432,
+   "speaker": "Тэцуя",
+   "text": "（Это я должен был помешать\n　микенским богам вернуться.）",
+   "orig": "Tetsuya\n（It was my job to stop the\n　Gods of Mycenae from returning.）"
+  },
+  {
+   "i": 433,
+   "speaker": "Тэцуя",
+   "text": "（«Мазингер Зет» придётся оставить на потом!\n　Сейчас я обязан остановить этих тварей.）",
+   "orig": "Tetsuya\n（I've got to leave Mazinger Z for later!\n　Right now I have to stop these bastards.）"
+  },
+  {
+   "i": 434,
+   "speaker": "Дзё",
+   "text": "（Вот до чего дошло: сражаюсь бок о бок\n　с Майто Сэмпудзи после скитаний бродячим псом.）",
+   "orig": "Joe\n（So it's come to this, fighting alongside\n　Maito Senpuji after wandering like a stray dog.）"
+  },
+  {
+   "i": 435,
+   "speaker": "Дзё",
+   "text": "（Шаг ли это вперёд — не знаю.\n　Чтобы добраться до настоящего врага, мне нужен он.）",
+   "orig": "Joe\n（I wonder if this is progress.\n　To get to my real enemy, I need his help.）"
+  },
+  {
+   "i": 436,
+   "speaker": "Дзё",
+   "text": "（Признавать не хочется, но\n　ощущение не такое уж паршивое!）",
+   "orig": "Joe\n（I don't want to admit it, but\n　it doesn't feel too bad!）"
+  },
+  {
+   "i": 437,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Argh!」"
+  }
+ ]
+}

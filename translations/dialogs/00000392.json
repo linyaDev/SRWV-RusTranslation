@@ -1,0 +1,3562 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　—Коридор «Ямато»—",
+   "orig": "　\n　　\n　　　　　　　　　　—Yamato Walkway—"
+  },
+  {
+   "i": 4,
+   "speaker": "$n",
+   "text": "「Куда направляешься, Найн?」",
+   "orig": "$n\n「Where are you off to, Nine?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Найн",
+   "text": "「Хотела заглянуть в ангар — там как раз \n　рассказывают об обстановке в этом мире.」",
+   "orig": "Nine\n「I thought I'd join the world information \n　debriefing taking place in the hangar.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Найн",
+   "text": "「Не хотите пойти со мной, кэп?」",
+   "orig": "Nine\n「Would you like to join me, Cap?」"
+  },
+  {
+   "i": 7,
+   "speaker": "$n",
+   "text": "「Хм, посмотрим...」",
+   "orig": "$n\n「Hmm, let's see...」"
+  },
+  {
+   "i": 8,
+   "speaker": "$n",
+   "text": "「...Пойти с ней и повидать всех.」\n「...Зайти туда попозже.」",
+   "orig": "$n\n「...Go with you to see everyone.」\n「...Go there later.」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "「Конечно, идём. Я почти месяц\n　не видел(а) никого из них.」",
+   "orig": "$n\n「Of course, I'll go. It's been nearly\n　a month since I've seen everyone's faces.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Найн",
+   "text": "「Вы хотели сказать — её, верно?」",
+   "orig": "Nine\n「You mean her face, right?」"
+  },
+  {
+   "i": 11,
+   "speaker": "$n",
+   "text": "「Найн!」",
+   "orig": "$n\n「Nine!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Найн",
+   "text": "「Да, кэп?」",
+   "orig": "Nine\n「Yes, Cap?」"
+  },
+  {
+   "i": 13,
+   "speaker": "$n",
+   "text": "「По-моему, сейчас совсем не время\n　для таких замечаний.」",
+   "orig": "$n\n「I really don't think this is\n　the time for a comment like that.」"
+  },
+  {
+   "i": 17,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　—Ангар «Ямато»—",
+   "orig": "　\n　\n　　　　　　　　　　　—Yamato Hangar—"
+  },
+  {
+   "i": 18,
+   "speaker": "Джудо",
+   "text": "「А что с Гайном?」",
+   "orig": "Judau\n「And what about Gaine?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Майто",
+   "text": "「«Майтгайн» сильно пострадал из-за моего \n　поражения от Дзё Аса.\n　Сейчас Гайн на ремонте в «Сэмпудзи Хэви Индастриз».」",
+   "orig": "Maito\n「Mightgaine was heavily damaged as \n　a result of my loss to Joe the Ace.\n　Gaine is now at Senpuji Heavy Industries for repair.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Хатауэй",
+   "text": "「Теперь ты воюешь на «Майт Винге»?」",
+   "orig": "Hathaway\n「Are you fighting in Might Wing now?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Майто",
+   "text": "「Нет, пока летаю на «Дрилл Экспрессе»,\n　он же «Майт Кайзер».」",
+   "orig": "Maito\n「No, I'm using Drill Express\n　aka Might Kaiser for now.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Майто",
+   "text": "「В «Майт Кайзере» нет Супер-ИИ, но благодаря умению \n　летать он не уступает «Майтгайну» в бою — именно это \n　и позволило мне наконец одолеть Дзё.」",
+   "orig": "Maito\n「Might Kaiser doesn't have a Super AI installed, but with\n　its flight capability, its battle prowess matches that \n　of Mightgaine, which allowed me to finally defeat Joe.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Майто",
+   "text": "「А ещё к нам присоединился Блэк — у отряда \n　«Брэйв Экспресс» теперь новый боец.」",
+   "orig": "Maito\n「Also, now that Black has joined us, we've \n　gained a new member of the Brave Express Corps.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Джудо",
+   "text": "「Брат Гайна, значит?」",
+   "orig": "Judau\n「Gaine's brother, huh?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Хатауэй",
+   "text": "「С ним куда спокойнее.」",
+   "orig": "Hathaway\n「It's encouraging to have him.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Каппэй",
+   "text": "「А «Замбот-3» усилили ионной пушкой\n　с «Биала I».」",
+   "orig": "Kappei\n「And Zambot 3 got powered up with\n　Beal I's Ion Cannon, too.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Бандзё",
+   "text": "「«Дайтарн 3» и «Замбот-3» сумели провести \n　совместную атаку. Покажем её в следующем бою.」",
+   "orig": "Banjo\n「Daitarn 3 and Zambot 3 were successful in using a \n　combination attack. We'll show it to you next battle.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тобиа",
+   "text": "「Но больше всего меня \n　удивил новый «Надэсико».」",
+   "orig": "Tobia\n「The biggest surprise for \n　me is the new Nadesico.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Акито",
+   "text": "「Мы зовём его «Надэсико C». Он позволяет\n　задействовать хакерские таланты Рури,\n　так что мы можем перехватывать системы врага.」",
+   "orig": "Akito\n「We call it the Nadesico C. It allows us\n　to utilize Ruri's cracking abilities, so\n　we can take over enemy computer systems.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Джудо",
+   "text": "「А ты немного изменился, Акито, да?」",
+   "orig": "Judau\n「You've changed a little, haven't you, Akito?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Акито",
+   "text": "「Разве?」",
+   "orig": "Akito\n「Have I?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Юрика",
+   "text": "「Думаю, это во многом моя заслуга.」",
+   "orig": "Yurika\n「I think that's largely in part to my help.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Юрика",
+   "text": "「Тем, с кем мы ещё не знакомы: очень приятно.\n　Я Юрика, жена Акито и \n　боевой советник «Надэсико C».」",
+   "orig": "Yurika\n「To those whom I have not met: I'm pleased to meet you.\n　I'm Yurika, Akito's wife, and the \n　battle advisor for the Nadesico C.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Акито",
+   "text": "「Перестань, Юрика.\n　Не надо так ко мне липнуть.」",
+   "orig": "Akito\n「Stop it, Yurika.\n　You don't need to be so clingy.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Юрика",
+   "text": "「Но мы же молодожёны. Надо навёрстывать\n　всё то время, что мы были порознь.」",
+   "orig": "Yurika\n「But we're newlyweds. We need to be\n　making up for the lost time we were apart.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Акито",
+   "text": "「Сейчас не время и не место.\n　Оглянись вокруг.」",
+   "orig": "Akito\n「But this is neither the time nor the place.\n　Just look around you.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Тобиа",
+   "text": "「Эм-м...」",
+   "orig": "Tobia\n「Umm...」"
+  },
+  {
+   "i": 38,
+   "speaker": "Банагер",
+   "text": "「Э-э...」",
+   "orig": "Banagher\n「Err...」"
+  },
+  {
+   "i": 39,
+   "speaker": "Акито",
+   "text": "「Прошу прощения.\n　Это было бестактно с моей стороны.」",
+   "orig": "Akito\n「My apologies.\n　That was thoughtless of me.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Банагер",
+   "text": "「Н-ничего страшного.」",
+   "orig": "Banagher\n「I-it's not a problem.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Джудо",
+   "text": "「Беру свои слова назад. Ты изменился \n　не немного, Акито, а весьма сильно.」",
+   "orig": "Judau\n「I stand corrected. You haven't changed \n　just a little Akito, but rather, quite a bit.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Бандзё",
+   "text": "「Кстати, вы все знаете его только \n　как Акито-мстителя.」",
+   "orig": "Banjo\n「Speaking of which, you all only \n　know him as Akito the Avenger.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Каппэй",
+   "text": "「А вот этот, что воркует с женой, — \n　и есть настоящий Акито.」",
+   "orig": "Kappei\n「The guy cuddling with his \n　wife here is the real Akito.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Хатауэй",
+   "text": "「Как же здорово, что вы\n　снова вместе.」",
+   "orig": "Hathaway\n「It's great that you're\n　back together again.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Акито",
+   "text": "「Спасибо.」",
+   "orig": "Akito\n「Thank you.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Юрика",
+   "text": "「Будем рады поработать\n　со всеми вами.」",
+   "orig": "Yurika\n「We look forward to\n　working with you all.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Джудо",
+   "text": "「А что с Гайном?」",
+   "orig": "Judau\n「And what about Gaine?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Майто",
+   "text": "「«Майтгайн» сильно пострадал из-за моего \n　поражения от Дзё Аса.\n　Сейчас Гайн на ремонте в «Сэмпудзи Хэви Индастриз».」",
+   "orig": "Maito\n「Mightgaine was heavily damaged as \n　a result of my loss to Joe the Ace.\n　Gaine is now at Senpuji Heavy Industries for repair.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Хатауэй",
+   "text": "「Теперь ты воюешь на «Майт Винге»?」",
+   "orig": "Hathaway\n「Are you fighting in Might Wing now?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Майто",
+   "text": "「Нет, пока летаю на «Дрилл Экспрессе»,\n　он же «Майт Кайзер».」",
+   "orig": "Maito\n「No, I'm using Drill Express\n　aka Might Kaiser for now.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Майто",
+   "text": "「В «Майт Кайзере» нет Супер-ИИ, но благодаря умению \n　летать он не уступает «Майтгайну» в бою — именно это \n　и позволило мне наконец одолеть Дзё.」",
+   "orig": "Maito\n「Might Kaiser doesn't have a Super AI installed, but with\n　its flight capability, its battle prowess matches that \n　of Mightgaine, which allowed me to finally defeat Joe.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Каппэй",
+   "text": "「А «Замбот-3» усилили ионной пушкой\n　с «Биала I».」",
+   "orig": "Kappei\n「And Zambot 3 got powered up with\n　Beal I's Ion Cannon, too.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Бандзё",
+   "text": "「«Дайтарн 3» и «Замбот-3» сумели провести \n　совместную атаку. Покажем её в следующем бою.」",
+   "orig": "Banjo\n「Daitarn 3 and Zambot 3 were successful in using a \n　combination attack. We'll show it to you next battle.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Тобиа",
+   "text": "「Но больше всего меня \n　удивил новый «Надэсико».」",
+   "orig": "Tobia\n「The biggest surprise for \n　me is the new Nadesico.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Акито",
+   "text": "「Мы зовём его «Надэсико C». Он позволяет\n　задействовать хакерские таланты Рури,\n　так что мы можем перехватывать системы врага.」",
+   "orig": "Akito\n「We call it the Nadesico C. It allows us\n　to utilize Ruri's cracking abilities, so\n　we can take over enemy computer systems.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Джудо",
+   "text": "「А ты немного изменился, Акито, да?」",
+   "orig": "Judau\n「You've changed a little, haven't you, Akito?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Акито",
+   "text": "「Разве?」",
+   "orig": "Akito\n「Have I?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Юрика",
+   "text": "「Думаю, это во многом моя заслуга.」",
+   "orig": "Yurika\n「I think that's largely in part to my help.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Юрика",
+   "text": "「Тем, с кем мы ещё не знакомы: очень приятно.\n　Я Юрика, жена Акито и \n　боевой советник «Надэсико C».」",
+   "orig": "Yurika\n「To those whom I have not met: I'm pleased to meet you.\n　I'm Yurika, Akito's wife, and the \n　battle advisor for the Nadesico C.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Акито",
+   "text": "「Перестань, Юрика.\n　Не надо так ко мне липнуть.」",
+   "orig": "Akito\n「Stop it, Yurika.\n　You don't need to be so clingy.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Юрика",
+   "text": "「Но мы же молодожёны. Надо навёрстывать\n　всё то время, что мы были порознь.」",
+   "orig": "Yurika\n「But we're newlyweds. We need to be\n　making up for the lost time we were apart.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Акито",
+   "text": "「Сейчас не время и не место.\n　Оглянись вокруг.」",
+   "orig": "Akito\n「But this is neither the time nor the place.\n　Just look around you.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тобиа",
+   "text": "「Эм-м...」",
+   "orig": "Tobia\n「Umm...」"
+  },
+  {
+   "i": 64,
+   "speaker": "Банагер",
+   "text": "「Э-э...」",
+   "orig": "Banagher\n「Err...」"
+  },
+  {
+   "i": 65,
+   "speaker": "Акито",
+   "text": "「Прошу прощения.\n　Это было бестактно с моей стороны.」",
+   "orig": "Akito\n「My apologies.\n　That was thoughtless of me.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Банагер",
+   "text": "「Н-ничего страшного.」",
+   "orig": "Banagher\n「I-it's not a problem.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Джудо",
+   "text": "「Беру свои слова назад. Ты изменился \n　не немного, Акито, а весьма сильно.」",
+   "orig": "Judau\n「I stand corrected. You haven't changed \n　just a little Akito, but rather, quite a bit.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Бандзё",
+   "text": "「Кстати, вы все знаете его только \n　как Акито-мстителя.」",
+   "orig": "Banjo\n「Speaking of which, you all only \n　know him as Akito the Avenger.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Каппэй",
+   "text": "「А вот этот, что воркует с женой, — \n　и есть настоящий Акито.」",
+   "orig": "Kappei\n「The guy cuddling with his \n　wife here is the real Akito.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Хатауэй",
+   "text": "「Как же здорово, что вы\n　снова вместе.」",
+   "orig": "Hathaway\n「It's great that you're\n　back together again.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Акито",
+   "text": "「Спасибо.」",
+   "orig": "Akito\n「Thank you.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Юрика",
+   "text": "「Будем рады поработать\n　со всеми вами.」",
+   "orig": "Yurika\n「We look forward to\n　working with you all.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Кира",
+   "text": "「Акито и Юрика, похоже, прекрасно ладят.」",
+   "orig": "Kira\n「Akito and Yurika seem to be getting along quite well.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Синн",
+   "text": "「Прямо как вы с Лакус,\n　когда только сошлись.」",
+   "orig": "Shinn\n「Not unlike you and Lacus\n　when you got together.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Кира",
+   "text": "「П-правда?」",
+   "orig": "Kira\n「R-really?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Синн",
+   "text": "「Шучу.」",
+   "orig": "Shinn\n「Just kidding.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Синн",
+   "text": "「Хотя, если честно... вы двое и правда показали нам,\n　насколько крепкой может быть связь между людьми.」",
+   "orig": "Shinn\n「Well, you have to admit... you two really did show us\n　a real strength in your bond with each other.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Амуро",
+   "text": "「Похоже, Кира и Синн наконец научились уступать.」",
+   "orig": "Amuro\n「Seems Kira and Shinn have finally learned to compromise.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Сэцуна",
+   "text": "「Да, верно подмечено.」",
+   "orig": "Setsuna\n「Yeah, you're right.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Атрун",
+   "text": "「Синн справился со своим прошлым —\n　и благодаря этому стал намного сильнее.」",
+   "orig": "Athrun\n「Overcoming his past, has helped\n　Shinn grow much stronger.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Лунамария",
+   "text": "「Наша с ним совместная атака вышла безупречной.」",
+   "orig": "Lunamaria\n「He and I were dead-on with our combination attack.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Атрун",
+   "text": "「А возможность пользоваться «Метеором», \n　установленным на «Этернале», здорово усилила \n　мой «Джастис» и «Фридом» Киры.」",
+   "orig": "Athrun\n「Being able to use the Meteor \n　outfitted on the Eternal has made \n　my Justice and Kira's Freedom much stronger.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Локон",
+   "text": "「Наши «Гандамы»\n　тоже прошли модернизацию.」",
+   "orig": "Lockon\n「Our Gundams have\n　been upgraded as well.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Тиерия",
+   "text": "「«Забанье» и «Харуте» поставили новые детали,\n　а моему «Рафаэлю» и «QAN[T]» \n　подняли мощность реакторов.」",
+   "orig": "Tieria\n「The Zabanya and Harute were upgraded with parts,\n　and my Raphael and QAN[T] both \n　received power output upgrades.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Коласур",
+   "text": "「Погоди-ка, Тиерия.\n　Не забывай про наши с Грэмом машины.」",
+   "orig": "Colasour\n「Hold on just a second, Tieria.\n　Don't forget about Graham's and my machines.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Грэм",
+   "text": "「С ТРАНС-АМом наши мобильные доспехи\n　стали заметно сильнее.」",
+   "orig": "Graham\n「Our mobile suits are significantly\n　stronger now with the TRANS-AM.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Амуро",
+   "text": "「Одной только этой силы хватит,\n　чтобы одолеть кого угодно.」",
+   "orig": "Amuro\n「With just the power of that alone,\n　there isn't anyone we cannot defeat.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Сэцуна",
+   "text": "「Эмбрио...\n　злой гений измерения A.D...」",
+   "orig": "Setsuna\n「Embryo...\n　the evil mastermind in the AD dimension...」"
+  },
+  {
+   "i": 89,
+   "speaker": "Сэцуна",
+   "text": "「Он и есть то искажение измерений, \n　с которым должна сражаться «Селестиал Бин».」",
+   "orig": "Setsuna\n「He is the dimensional distortion that \n　Celestial Being must fight.」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Ясно.\n　Значит, Титосэ ушла из дома Тацу.」",
+   "orig": "$n\n「I see.\n　So Chitose left Tatsu's home.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Майто",
+   "text": "「Да.」",
+   "orig": "Maito\n「Yes.」"
+  },
+  {
+   "i": 92,
+   "speaker": "$n",
+   "text": "「Но раз она не связалась с Тацу, значит,\n　наверняка отправилась куда-то на поиски приключений.」",
+   "orig": "$n\n「But, she hasn't contacted Tatsu, which means\n　she's probably off on an adventure somewhere.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Майто",
+   "text": "「Волнуетесь за неё?」",
+   "orig": "Maito\n「Are you worried about her?」"
+  },
+  {
+   "i": 94,
+   "speaker": "$n",
+   "text": "「Конечно.\n　Но Титосэ идёт по пути, который выбрала сама.\n　Я обязан(а) уважать её выбор.」",
+   "orig": "$n\n「Of course.\n　But Chitose is walking a path of her own choosing.\n　I have to respect her choice.」"
+  },
+  {
+   "i": 95,
+   "speaker": "$n",
+   "text": "「К тому же отсутствие новостей — хорошая новость,\n　и я уверен(а), что она объявится \n　совершенно неожиданно, когда война кончится.」",
+   "orig": "$n\n「No news is good news, though,\n　and I'm sure that she'll pop up \n　unexpectedly when the fighting's over.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Локон",
+   "text": "「Поверить не могу. Выходит,\n　майор Калинин — шпион «Амальгамы».」",
+   "orig": "Lockon\n「I can't believe it. That means\n　Major Kalinin is an Amalgam spy.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Клузо",
+   "text": "「Но таково положение дел.」",
+   "orig": "Clouseau\n「But that's the reality of the situation.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Соскэ",
+   "text": "「Более того, именно майор\n　позволил главе «Амальгамы»\n　Леонарду Тестароссе похитить Тидори.」",
+   "orig": "Sousuke\n「Moreover, it was Major\n　who made it possible for Amalgam's\n　leader Leonard Testarossa to kidnap Chidori.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Аллилуйя",
+   "text": "「Погоди, «Тестаросса»?」",
+   "orig": "Allelujah\n「Wait, \"Testarossa\"?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Мао",
+   "text": "「Да.\n　Он старший брат-близнец Тессы.」",
+   "orig": "Mao\n「Yeah.\n　He's Tessa's older twin brother.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Тиерия",
+   "text": "「Насколько я понимаю, без него во главе \n　«Амальгама» была бы куда живучее  \n　и гибче.」",
+   "orig": "Tieria\n「From what I understand, Amalgam would \n　have been far more viable and flexible  \n　without him at the top.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Мао",
+   "text": "「Не знаю, при каких обстоятельствах, но\n　после перестройки организации \n　Леонард Тестаросса оказался на самом верху.」",
+   "orig": "Mao\n「I do not know what the circumstances are, but\n　through organizational restructuring, \n　Leonard Testarossa ended up at the top.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Курц",
+   "text": "「Как бы там ни было, \n　нам это даёт шанс.」",
+   "orig": "Kurz\n「In any case, what it does \n　is gives us a chance.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Локон",
+   "text": "「Верно, раз теперь он главный,\n　то, свалив его, мы тем самым\n　разобьём «Амальгаму».」",
+   "orig": "Lockon\n「Yes, if he's now the leader,\n　taking him down means\n　we've defeated Amalgam.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Курц",
+   "text": "「Именно. Вот только сейчас неизвестно,\n　жив он вообще или мёртв.」",
+   "orig": "Kurz\n「That's right. However, currently, it is\n　unknown whether he's even dead or alive.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Клузо",
+   "text": "「Без поддержки «Амальгамы» Нео-Зеону придётся\n　на время приостановить вторжение на Землю.」",
+   "orig": "Clouseau\n「With Amalgam unable to provide support, Neo Zeon will\n　have to halt its invasion of Earth for a short while.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Мао",
+   "text": "「Благодаря тому, что к нам примкнула мичман Мельда \n　Дитц, мы в общих чертах выяснили, насколько тесно \n　гамиласцы и Нео-Зеон работают вместе.」",
+   "orig": "Mao\n「Thanks to Ensign Melda Dietz joining us, we've \n　been able to establish to some extent to which the \n　Gamillans and Neo Zeon are working together.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Тиерия",
+   "text": "「Та самая посланница, что явилась на «Ямато» из разлома?」",
+   "orig": "Tieria\n「The emissary who came to Yamato from dimensional rift?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Мао",
+   "text": "「Я слышала, её не устраивали методы командующего \n　флотом, которого она притащила с собой.」",
+   "orig": "Mao\n「I heard she was dissatisfied with the methods of \n　the fleet commander she forced to come with her.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Клузо",
+   "text": "「Гамиласцы намерены пробить волновой пушкой\n　«Ямато» брешь в межпространственном барьере,\n　чтобы вернуться в своё измерение.」",
+   "orig": "Clouseau\n「The Gamillans are planning to use the Yamato's\n　wave motion gun to rip a hole in the dimensional\n　barrier in order to get back to their own dimension.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Локон",
+   "text": "「Если это правда, то они будут\n　охотиться за самим «Ямато».」",
+   "orig": "Lockon\n「If that's true, then they'll be\n　looking to capture the Yamato.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Аллилуйя",
+   "text": "「А если ещё и Параллельный бозонный прыжок удастся,\n　ребята из Нового Истинного века смогут вернуться домой.」",
+   "orig": "Allelujah\n「Matched with a successful Parallel Boson Jump, the New\n　Correct Century folks could be looking at possible repatriation.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Клузо",
+   "text": "「Теперь, когда Леонард Тестаросса покинул фронт,\n　у нас есть шанс перейти в наступление.」",
+   "orig": "Clouseau\n「Now that Leonard Testarossa has left the front,\n　this is our chance to go on the offensive.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Соскэ",
+   "text": "（Пусть Тидори и зря выстрелила в Леонарда,\n　упускать такую возможность я не собираюсь.）",
+   "orig": "Sousuke\n（While Chidori's shooting of Leonard was a mistake,\n　I'm not going to let this opportunity slip away.）"
+  },
+  {
+   "i": 115,
+   "speaker": "Сэцуна",
+   "text": "「Тебе ведь тоже нелегко пришлось, да, Соскэ?」",
+   "orig": "Setsuna\n「Things have been rough for you, too, huh, Sousuke?」"
+  },
+  {
+   "i": 116,
+   "speaker": "Соскэ",
+   "text": "「Когда AS Леонарда разбил меня, я разом лишился \n　и Тидори, и Ала, и своего «Арбалеста».」",
+   "orig": "Sousuke\n「When I was beaten by Leonard's AS, I lost \n　Chidori, Al, and my Arbalest all at the same time.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Соскэ",
+   "text": "「Но Ал вернулся к жизни в преемнике \n　«Арбалеста» — «Лаэватайне».」",
+   "orig": "Sousuke\n「But Al was resurrected with the \n　Arbalest's successor, the Laevatein.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Аллилуйя",
+   "text": "「Иан был поражён.\n　Говорит, что даже на вид\n　«Лаэватайн» — далеко не обычный AS.」",
+   "orig": "Allelujah\n「Ian was surprised.\n　He said that even to look at it,\n　the Laevatein is no ordinary AS.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Соскэ",
+   "text": "「Это моё средство вернуть Тидори.」",
+   "orig": "Sousuke\n「It's my means of getting Chidori back.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Мао",
+   "text": "「Она наверняка тебя ждёт.\n　Удачи, Соскэ.」",
+   "orig": "Mao\n「No doubt she's waiting for you.\n　Good luck, Sousuke.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Соскэ",
+   "text": "「Спасибо.\n　Я верну её. Она и глазом моргнуть не успеет,\n　как снова будет ходить в школу Дзиндай.」",
+   "orig": "Sousuke\n「Thanks.\n　I'll get her back. She'll be attending\n　Jindai High School again in no time.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Каппэй",
+   "text": "「Эй, Рёма, я слышал, что\n　«Син Геттер» тоже усилили.」",
+   "orig": "Kappei\n「Hey Ryoma, I heard the news that\n　Shin Getter received an upgrade, too.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Рёма",
+   "text": "「Этот приём — результат той силы,\n　что мы втроём вытянули из своих «Геттеров».」",
+   "orig": "Ryoma\n「That technique is the result of the power that\n　we were able to draw from our three Getters.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Бэнкэй",
+   "text": "「Он зовётся «Стонер Саншайн»,\n　и это настоящая мощь.」",
+   "orig": "Benkei\n「It's called Stoner Sunshine,\n　and it's genuine power.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Хаято",
+   "text": "（Меня беспокоит способность Драконов \n　подавлять Геттер-лучи.）",
+   "orig": "Hayato\n（What has me worried is the Dragons' \n　ability to suppress Getter Rays.）"
+  },
+  {
+   "i": 126,
+   "speaker": "Хаято",
+   "text": "（Позже вроде бы будет важное сообщение\n　о природе Драконов.\n　Хорошо бы узнать хоть что-то.）",
+   "orig": "Hayato\n（There's supposed to be an important announcement\n　concerning the Dragon ecology later on.\n　It would be helpful if we could learn something.）"
+  },
+  {
+   "i": 127,
+   "speaker": "Майто",
+   "text": "「А с Тэцуей после того всё было в порядке?」",
+   "orig": "Maito\n「Was there anything wrong with Tetsuya after that?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Рёма",
+   "text": "「Пока что да, так что он нам подсобил.」",
+   "orig": "Ryoma\n「In the short term, no, so he lent us a hand.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Каппэй",
+   "text": "「Серьёзно?!」",
+   "orig": "Kappei\n「Seriously!?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Синдзи",
+   "text": "「Когда в Токио-3 появились сразу два Ангела,\n　он помог нам в бою.」",
+   "orig": "Shinji\n「When two Angels appeared in Tokyo-3\n　he helped us in the fight.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Бэнкэй",
+   "text": "「Вот это было зрелище.\n　И не только Тэцуя — в бой вступили\n　«Джи-Хаунд», а под конец и Зеон.」",
+   "orig": "Benkei\n「That was really something.\n　And not just Tetsuya; G-Hound\n　and finally Zeon joined the fight.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Аска",
+   "text": "「Да какая разница, пока я рядом.\n　Я любое количество Ангелов уложу.」",
+   "orig": "Asuka\n「Well, with me around, doesn't really matter.\n　I can defeat any number of Angels.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Майто",
+   "text": "「А ты, собственно, кто?」",
+   "orig": "Maito\n「And you would be?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Аска",
+   "text": "「Аска Лэнгли Сикинами,\n　пилот ЕВЫ-02.」",
+   "orig": "Asuka\n「Asuka Langley Shikinami;\n　the pilot of EVA Unit-02.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Синдзи",
+   "text": "「Аска прибыла в Японию вместе\n　с ЕВОЙ, созданной в Европе.」",
+   "orig": "Shinji\n「Asuka came to Japan with\n　the EVA developed in Europe.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Аска",
+   "text": "「Я вам не папенькин сынок командующего Икари\n　и не вон та любимица начальства.\n　Я покажу, как дерётся настоящий пилот ЕВЫ.」",
+   "orig": "Asuka\n「I'm not like Commander Ikari's little daddy's boy here,\n　or the favorite over there, Commander's pet.\n　I'll show you how a real EVA pilot fights.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Каппэй",
+   "text": "「Ну и язва же ты, а?」",
+   "orig": "Kappei\n「Well, aren't you the cheeky one?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Рёма",
+   "text": "「И всё же ожесточённому бою в Токио-3 \n　положил конец именно Синдзи.」",
+   "orig": "Ryoma\n「But it was Shinji who put an end \n　to the fierce fighting in Tokyo-3.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Рёма",
+   "text": "「Одним выстрелом из позитронной пушки вынести ядро\n　Ангела — вот это было настоящее представление.」",
+   "orig": "Ryoma\n「I wanted to give you guys a show by using the positron\n　cannon to blow an Angel core out in a single shot.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Синдзи",
+   "text": "「Это Аянами тогда прикрыла меня.」",
+   "orig": "Shinji\n「That was Ayanami stepping into save me.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Рэй",
+   "text": "「Твоя смелость придала\n　мне сил сражаться.」",
+   "orig": "Rei\n「Your courage inspired\n　me to fight harder.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Синдзи",
+   "text": "「Спасибо, Аянами.」",
+   "orig": "Shinji\n「Thanks, Ayanami.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Майто",
+   "text": "（Похоже, эти двое заметно сблизились.）",
+   "orig": "Maito\n（Seems these two have grown somewhat closer.）"
+  },
+  {
+   "i": 144,
+   "speaker": "Атрун",
+   "text": "「Значит, Нео-Зеон послал войска \n　штурмовать парламент Земной Федерации.」",
+   "orig": "Athrun\n「So Neo Zeon sent troops to attack \n　the Earth Federation parliament.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Банагер",
+   "text": "（Тогда мы с Хатауэем и встретили\n　пилота Нео-Зеона, Лони.）",
+   "orig": "Banagher\n（That's how Hathaway and I\n　met the Neo Zeon pilot Loni.）"
+  },
+  {
+   "i": 146,
+   "speaker": "Банагер",
+   "text": "（Я не смог уберечь её от обратной волны псикоммю \n　той огромной мобильной брони, когда она сорвалась.）",
+   "orig": "Banagher\n（I wasn't able to save her from the back current of the \n　giant mobile armor's Psycommu when she lost control.）"
+  },
+  {
+   "i": 147,
+   "speaker": "Банагер",
+   "text": "（Но она выжила. Очень надеюсь и молюсь,\n　чтобы нам не пришлось снова встретиться в бою.）",
+   "orig": "Banagher\n（But she wasn't killed. I really hope and pray\n　we don't have to meet on the battlefield again.）"
+  },
+  {
+   "i": 148,
+   "speaker": "Кира",
+   "text": "「Банагер, я слышал о твоём\n　бое с пилотом Нео-Зеона,\n　лейтенантом Маридой.」",
+   "orig": "Kira\n「Banagher, I heard about your\n　battle with Neo Zeon pilot\n　Lieutenant Marida.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Банагер",
+   "text": "「Да.\n　Мариду контролировали и заставили\n　сесть за штурвал чёрного «Юникорна».」",
+   "orig": "Banagher\n「Yeah.\n　Marida was being controlled and\n　was forced to pilot the black Unicorn.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Атрун",
+   "text": "「Значит, он существует...\n　этот чёрный «Юникорн».」",
+   "orig": "Athrun\n「So it exists then...\n　this black Unicorn.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Джудо",
+   "text": "「А по-настоящему огорошило то,\n　кто такая Марида на самом деле —\n　Пуру Двенадцатая.」",
+   "orig": "Judau\n「The real shocker was\n　Marida's true identity\n　as Ple Twelve.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Кира",
+   "text": "「Двенадцатая Пуру...」",
+   "orig": "Kira\n「The 12th Ple...」"
+  },
+  {
+   "i": 153,
+   "speaker": "Синн",
+   "text": "「То есть?」",
+   "orig": "Shinn\n「You mean?」"
+  },
+  {
+   "i": 154,
+   "speaker": "Джудо",
+   "text": "「Именно.\n　Марида — младшая сестра всех Пуру.」",
+   "orig": "Judau\n「You got it.\n　Marida is a younger sister of the Ples.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Синн",
+   "text": "「Но выглядит она куда старше их!」",
+   "orig": "Shinn\n「But she looks much older than they do!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Джудо",
+   "text": "「Ну, тут я ничего объяснить не могу, \n　но Пуру и Пуру Вторая её опознали.」",
+   "orig": "Judau\n「Well, I don't know anything about that, \n　but Ple and Ple Two confirmed her identity.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Атрун",
+   "text": "「И что с ней стало?」",
+   "orig": "Athrun\n「What happened to her?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Банагер",
+   "text": "「Мариду \n　спас её наставник,\n　Циннерман из Нео-Зеона.」",
+   "orig": "Banagher\n「Marida was \n　saved by her master,\n　Neo Zeon's Zinnerman.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Хатауэй",
+   "text": "「Чего мы не знаем, так это действовали \n　ли та горстка солдат Нео-Зеона\n　и Камий заодно или нет.」",
+   "orig": "Hathaway\n「What we don't know is whether \n　or not the band of Neo Zeon soldiers\n　and Kamille acted together or not.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Синн",
+   "text": "「Камий — твой друг, Джудо?」",
+   "orig": "Shinn\n「Is Kamille a friend of yours, Judau?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Джудо",
+   "text": "「Да какая разница.\n　Чувствую, мы ещё встретимся.\n　Вот тогда и спросим.」",
+   "orig": "Judau\n「Either way, doesn't matter.\n　I have a feeling we'll meet again.\n　We can ask him then.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Хатауэй",
+   "text": "「Или Камий был единственным,\n　кто ушёл с Маридой.」",
+   "orig": "Hathaway\n「Or if Kamille was the only one\n　who went with Marida.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Банагер",
+   "text": "「С ними ещё и Одри.」",
+   "orig": "Banagher\n「Audrey's acting with them.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Синн",
+   "text": "「И мы до сих пор не знаем, кто она и чего добивается?」",
+   "orig": "Shinn\n「So do we know who she is and what her purpose is yet?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Банагер",
+   "text": "「Нет.」",
+   "orig": "Banagher\n「No.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Банагер",
+   "text": "（Мичман Ридде назвал Одри «Миневой».）",
+   "orig": "Banagher\n（Ensign Riddhe called Audrey \"Mineva.\"）"
+  },
+  {
+   "i": 167,
+   "speaker": "Банагер",
+   "text": "（Минева Лао Заби.\n　Рождённая после смерти отца наследница Зеона.）",
+   "orig": "Banagher\n（Mineva Lao Zabi.\n　Born after her father's death, she was Zeon's hair.）"
+  },
+  {
+   "i": 168,
+   "speaker": "Банагер",
+   "text": "（Но пока я не услышу это от неё самой,\n　я не скажу об этом ни одной живой душе.）",
+   "orig": "Banagher\n（But until I've heard it directly from her I\n　refuse to reveal that information to another soul.）"
+  },
+  {
+   "i": 169,
+   "speaker": "Атрун",
+   "text": "「А что с мичманом Ридде?」",
+   "orig": "Athrun\n「What's up with Ensign Riddhe?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Банагер",
+   "text": "「Хороший вопрос.」",
+   "orig": "Banagher\n「Good question.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Кира",
+   "text": "「Банагер?」",
+   "orig": "Kira\n「Banagher?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Джудо",
+   "text": "「Мы не до конца понимаем почему,\n　но мичман Ридде охотится за Банагером.」",
+   "orig": "Judau\n「We're not sure exactly why,\n　but Ensign Riddhe is after Banagher.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Синн",
+   "text": "「Может, ревность из-за того, что Одри\n　не отвечает ему взаимностью?」",
+   "orig": "Shinn\n「Could it be jealousy over Audrey\n　not returning his affections?」"
+  },
+  {
+   "i": 174,
+   "speaker": "Банагер",
+   "text": "「Не знаю.」",
+   "orig": "Banagher\n「Not sure.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Банагер",
+   "text": "「Но я готов принять его чувства, \n　если это поможет понять его\n　хоть самую малость.」",
+   "orig": "Banagher\n「But, I can acknowledge his feelings \n　if it helps to understand him\n　even in the smallest way.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Кира",
+   "text": "「Здесь, как видно, тоже пришлось несладко.」",
+   "orig": "Kira\n「Things have obviously been tough over here, too.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Атрун",
+   "text": "「А Драконы и Эмбрио... связывают миры воедино.」",
+   "orig": "Athrun\n「And Dragons and Embryo... tying the worlds together.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Синн",
+   "text": "「Кстати, как раз скоро начнётся \n　совещание на эту тему.」",
+   "orig": "Shinn\n「Speaking of which, it's about time for \n　the meeting concerning that to begin.」"
+  },
+  {
+   "i": 179,
+   "speaker": "$n",
+   "text": "「Подойду, как закончу тренировку.」",
+   "orig": "$n\n「I'll go after I've finished training.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Найн",
+   "text": "「Кэп.」",
+   "orig": "Nine\n「Cap.」"
+  },
+  {
+   "i": 181,
+   "speaker": "$n",
+   "text": "「Не волнуйся, Найн.\n　Если я сумею выжать из «Вангрэя» больше,\n　с Гули справиться будет несложно.」",
+   "orig": "$n\n「Don't worry, Nine.\n　If I can draw more power from the VangRay,\n　taking on Ghuli won't be a problem.」"
+  },
+  {
+   "i": 182,
+   "speaker": "$n",
+   "text": "「На важное совещание в 14:00 я приду, а пока \n　послушай за меня, что расскажут остальные, хорошо?」",
+   "orig": "$n\n「I'll be there for the important meeting at 1400, listen\n　in on everyone's story until then for me, will you?」"
+  },
+  {
+   "i": 183,
+   "speaker": "Найн",
+   "text": "「Хорошо. Я поняла.」",
+   "orig": "Nine\n「Very well. I understand.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Найн",
+   "text": "（Пожалуй, стоит поторопиться.）",
+   "orig": "Nine\n（I might need to hurry.）"
+  },
+  {
+   "i": 185,
+   "speaker": "$n",
+   "text": "「Куда направляешься, Найн?」",
+   "orig": "$n\n「Where are you headed, Nine?」"
+  },
+  {
+   "i": 186,
+   "speaker": "Найн",
+   "text": "「Хотела заглянуть в ангар — там как раз \n　рассказывают об обстановке в этом мире.」",
+   "orig": "Nine\n「I thought I'd join the world information \n　debriefing taking place in the hanger.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Найн",
+   "text": "「Пойдёте со мной, сестрица?」",
+   "orig": "Nine\n「Will you join me, Sis?」"
+  },
+  {
+   "i": 188,
+   "speaker": "$n",
+   "text": "「Хм.」",
+   "orig": "$n\n「Hmm.」"
+  },
+  {
+   "i": 189,
+   "speaker": "$n",
+   "text": "「...пойти с ней и повидать всех.」\n「...зайти туда попозже.」",
+   "orig": "$n\n「...go with you to see everyone.」\n「...go there later.」"
+  },
+  {
+   "i": 190,
+   "speaker": "$n",
+   "text": "「Конечно, идём.\n　Я почти месяц никого из них не видела.」",
+   "orig": "$n\n「Sure, I'll join you.\n　It's been about a month since I've seen everyone.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Найн",
+   "text": "「Но...」",
+   "orig": "Nine\n「But...」"
+  },
+  {
+   "i": 192,
+   "speaker": "$n",
+   "text": "「Не беспокойся, я понимаю.\n　Это тебе не дружеские посиделки.」",
+   "orig": "$n\n「Don't worry, I get it.\n　This isn't exactly a party.」"
+  },
+  {
+   "i": 193,
+   "speaker": "$n",
+   "text": "「Просто теперь, когда мы все вместе,\n　мы можем всё изменить. Я обязана в это верить.」",
+   "orig": "$n\n「It's just that now with all of us banding together,\n　we can change things. I have to believe that.」"
+  },
+  {
+   "i": 197,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　—Ангар «Ямато»—",
+   "orig": "　\n　\n　　　　　　　　　　　—Yamato Hangar—"
+  },
+  {
+   "i": 198,
+   "speaker": "Джудо",
+   "text": "「А что с Гайном?」",
+   "orig": "Judau\n「And what about Gaine?」"
+  },
+  {
+   "i": 199,
+   "speaker": "Майто",
+   "text": "「«Майтгайн» сильно пострадал из-за моего \n　поражения от Дзё Аса.\n　Сейчас Гайн на ремонте в «Сэмпудзи Хэви Индастриз».」",
+   "orig": "Maito\n「Mightgaine was heavily damaged as \n　a result of my loss to Joe the Ace.\n　Gaine is now at Senpuji Heavy Industries for repair.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Хатауэй",
+   "text": "「Теперь ты воюешь на «Майт Винге»?」",
+   "orig": "Hathaway\n「Are you fighting in Might Wing now?」"
+  },
+  {
+   "i": 201,
+   "speaker": "Майто",
+   "text": "「Нет, пока летаю на «Дрилл Экспрессе»,\n　он же «Майт Кайзер».」",
+   "orig": "Maito\n「No, I'm using Drill Express\n　aka Might Kaiser for now.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Майто",
+   "text": "「В «Майт Кайзере» нет Супер-ИИ, но благодаря умению \n　летать он не уступает «Майтгайну» в бою — именно это \n　и позволило мне наконец одолеть Дзё.」",
+   "orig": "Maito\n「Might Kaiser doesn't have a Super AI installed, but with\n　its flight capability, its battle prowess matches that \n　of Mightgaine which allowed me to finally defeat Joe.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Майто",
+   "text": "「А ещё к нам присоединился Блэк — у отряда \n　«Брэйв Экспресс» теперь новый боец.」",
+   "orig": "Maito\n「Also, now that Black has joined us, we've \n　gained a new member of the Brave Express Corps.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Джудо",
+   "text": "「Брат Гайна, значит?」",
+   "orig": "Judau\n「Gaine's brother, huh?」"
+  },
+  {
+   "i": 205,
+   "speaker": "Хатауэй",
+   "text": "「С ним куда спокойнее.」",
+   "orig": "Hathaway\n「It's encouraging to have him.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Каппэй",
+   "text": "「А «Замбот-3» усилили ионной пушкой\n　с «Биала I».」",
+   "orig": "Kappei\n「And Zambot 3 got powered up with\n　Beal I's Ion Cannon, too.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Бандзё",
+   "text": "「«Дайтарн 3» и «Замбот-3» сумели провести \n　совместную атаку. Покажем её в следующем бою.」",
+   "orig": "Banjo\n「Daitarn 3 and Zambot 3 were successful in using a \n　combination attack. We'll show it to you next battle.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Тобиа",
+   "text": "「Но больше всего меня \n　удивил новый «Надэсико».」",
+   "orig": "Tobia\n「The biggest surprise for \n　me is the new Nadesico.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Акито",
+   "text": "「Мы зовём его «Надэсико C». Он позволяет\n　задействовать хакерские таланты Рури,\n　так что мы можем перехватывать системы врага.」",
+   "orig": "Akito\n「We call it the Nadesico C. It allows us\n　to utilize Ruri's cracking abilities, so\n　we can take over enemy computer systems.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Джудо",
+   "text": "「А ты немного изменился, Акито, да?」",
+   "orig": "Judau\n「You've changed a little, haven't you, Akito?」"
+  },
+  {
+   "i": 211,
+   "speaker": "Акито",
+   "text": "「Разве?」",
+   "orig": "Akito\n「Have I?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Юрика",
+   "text": "「Думаю, это во многом моя заслуга.」",
+   "orig": "Yurika\n「I think that's largely in part to my help.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Юрика",
+   "text": "「Тем, с кем мы ещё не знакомы: очень приятно.\n　Я Юрика, жена Акито и \n　боевой советник «Надэсико C».」",
+   "orig": "Yurika\n「To those whom I have not met: I'm pleased to meet you.\n　I'm Yurika, Akito's wife, and the \n　battle advisor for the Nadesico C.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Акито",
+   "text": "「Перестань, Юрика.\n　Не надо так ко мне липнуть.」",
+   "orig": "Akito\n「Stop it, Yurika.\n　You don't need to be so clingy.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Юрика",
+   "text": "「Но мы же молодожёны. Надо навёрстывать\n　всё то время, что мы были порознь.」",
+   "orig": "Yurika\n「But we're newlyweds. We need to be\n　making up for the lost time we were apart.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Акито",
+   "text": "「Сейчас не время и не место.\n　Оглянись вокруг.」",
+   "orig": "Akito\n「But this is neither the time nor place.\n　Just look around you.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Тобиа",
+   "text": "「Эм-м...」",
+   "orig": "Tobia\n「Umm...」"
+  },
+  {
+   "i": 218,
+   "speaker": "Банагер",
+   "text": "「Э-э...」",
+   "orig": "Banagher\n「Err...」"
+  },
+  {
+   "i": 219,
+   "speaker": "Акито",
+   "text": "「Прошу прощения.\n　Это было бестактно с моей стороны.」",
+   "orig": "Akito\n「My apologies.\n　That was thoughtless of me.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Банагер",
+   "text": "「Н-ничего страшного.」",
+   "orig": "Banagher\n「I-it's not a problem.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Джудо",
+   "text": "「Беру свои слова назад. Ты изменился \n　не немного, Акито, а весьма сильно.」",
+   "orig": "Judau\n「I stand corrected. You haven't changed \n　just a little Akito, but rather, quite a bit.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Бандзё",
+   "text": "「Кстати, вы все знаете его только \n　как Акито-мстителя.」",
+   "orig": "Banjo\n「Speaking of which, you all only \n　know him as Akito the Avenger.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Каппэй",
+   "text": "「А вот этот, что воркует с женой, — \n　и есть настоящий Акито.」",
+   "orig": "Kappei\n「The guy cuddling with his \n　wife here is the real Akito.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Хатауэй",
+   "text": "「Как же здорово, что вы\n　снова вместе.」",
+   "orig": "Hathaway\n「It's great that you're\n　back together again.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Акито",
+   "text": "「Спасибо.」",
+   "orig": "Akito\n「Thank you.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Юрика",
+   "text": "「Будем рады поработать\n　со всеми вами.」",
+   "orig": "Yurika\n「We look forward to\n　working with you all.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Джудо",
+   "text": "「А что с Гайном?」",
+   "orig": "Judau\n「And what about Gaine?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Майто",
+   "text": "「«Майтгайн» сильно пострадал из-за моего \n　поражения от Дзё Аса.\n　Сейчас Гайн на ремонте в «Сэмпудзи Хэви Индастриз».」",
+   "orig": "Maito\n「Mightgaine was heavily damaged as \n　a result of my loss to Joe the Ace.\n　Gaine is now at Senpuji Heavy Industries for repair.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Хатауэй",
+   "text": "「Теперь ты воюешь на «Майт Винге»?」",
+   "orig": "Hathaway\n「Are you fighting in Might Wing now?」"
+  },
+  {
+   "i": 230,
+   "speaker": "Майто",
+   "text": "「Нет, пока летаю на «Дрилл Экспрессе»,\n　он же «Майт Кайзер».」",
+   "orig": "Maito\n「No, I'm using Drill Express\n　aka Might Kaiser for now.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Майто",
+   "text": "「В «Майт Кайзере» нет Супер-ИИ, но благодаря умению \n　летать он не уступает «Майтгайну» в бою — именно это \n　и позволило мне наконец одолеть Дзё.」",
+   "orig": "Maito\n「Might Kaiser doesn't have a Super AI installed, but with\n　its flight capability, its battle prowess matches that \n　of Mightgaine, which allowed me to finally defeat Joe.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Каппэй",
+   "text": "「А «Замбот-3» усилили ионной пушкой\n　с «Биала I».」",
+   "orig": "Kappei\n「And Zambot 3 got powered up with\n　Beal I's Ion Cannon, too.」"
+  },
+  {
+   "i": 233,
+   "speaker": "Бандзё",
+   "text": "「«Дайтарн 3» и «Замбот-3» сумели провести \n　совместную атаку. Покажем её в следующем бою.」",
+   "orig": "Banjo\n「Daitarn 3 and Zambot 3 were successful in using a \n　combination attack. We'll show it to you next battle.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Тобиа",
+   "text": "「Но больше всего меня \n　удивил новый «Надэсико».」",
+   "orig": "Tobia\n「The biggest surprise for \n　me is the new Nadesico.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Акито",
+   "text": "「Мы зовём его «Надэсико C». Он позволяет\n　задействовать хакерские таланты Рури,\n　так что мы можем перехватывать системы врага.」",
+   "orig": "Akito\n「We call it the Nadesico C. It allows us\n　to utilize Ruri's cracking abilities, so\n　we can take over enemy computer systems.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Джудо",
+   "text": "「А ты немного изменился, Акито, да?」",
+   "orig": "Judau\n「You've changed a little, haven't you, Akito?」"
+  },
+  {
+   "i": 237,
+   "speaker": "Акито",
+   "text": "「Разве?」",
+   "orig": "Akito\n「Have I?」"
+  },
+  {
+   "i": 238,
+   "speaker": "Юрика",
+   "text": "「Думаю, это во многом моя заслуга.」",
+   "orig": "Yurika\n「I think that's largely in part to my help.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Юрика",
+   "text": "「Тем, с кем мы ещё не знакомы: очень приятно.\n　Я Юрика, жена Акито и \n　боевой советник «Надэсико C».」",
+   "orig": "Yurika\n「To those whom I have not met: I'm pleased to meet you.\n　I'm Yurika, Akito's wife, and the \n　battle advisor for the Nadesico C.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Акито",
+   "text": "「Перестань, Юрика.\n　Не надо так ко мне липнуть.」",
+   "orig": "Akito\n「Stop it, Yurika.\n　You don't need to be so clingy.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Юрика",
+   "text": "「Но мы же молодожёны. Надо навёрстывать\n　всё то время, что мы были порознь.」",
+   "orig": "Yurika\n「But we're newlyweds. We need to be\n　making up for the lost time we were apart.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Акито",
+   "text": "「Сейчас не время и не место.\n　Оглянись вокруг.」",
+   "orig": "Akito\n「But this is neither the time nor place.\n　Just look around you.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Тобиа",
+   "text": "「Эм-м...」",
+   "orig": "Tobia\n「Umm...」"
+  },
+  {
+   "i": 244,
+   "speaker": "Банагер",
+   "text": "「Э-э...」",
+   "orig": "Banagher\n「Err...」"
+  },
+  {
+   "i": 245,
+   "speaker": "Акито",
+   "text": "「Прошу прощения.\n　Это было бестактно с моей стороны.」",
+   "orig": "Akito\n「My apologies.\n　That was thoughtless of me.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Банагер",
+   "text": "「Н-ничего страшного.」",
+   "orig": "Banagher\n「I-it's not a problem.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Джудо",
+   "text": "「Беру свои слова назад. Ты изменился \n　не немного, Акито, а весьма сильно.」",
+   "orig": "Judau\n「I stand corrected. You haven't changed \n　just a little Akito, but rather, quite a bit.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Бандзё",
+   "text": "「Кстати, вы все знаете его только \n　как Акито-мстителя.」",
+   "orig": "Banjo\n「Speaking of which, you all only \n　know him as Akito the Avenger.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Каппэй",
+   "text": "「А вот этот, что воркует с женой, — \n　и есть настоящий Акито.」",
+   "orig": "Kappei\n「The guy cuddling with his \n　wife here is the real Akito.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Хатауэй",
+   "text": "「Как же здорово, что вы\n　снова вместе.」",
+   "orig": "Hathaway\n「It's great that you're\n　back together again.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Акито",
+   "text": "「Спасибо.」",
+   "orig": "Akito\n「Thank you.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Юрика",
+   "text": "「Будем рады поработать\n　со всеми вами.」",
+   "orig": "Yurika\n「We look forward to\n　working with you all.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Кира",
+   "text": "「Акито и Юрика, похоже, прекрасно ладят.」",
+   "orig": "Kira\n「Akito and Yurika seem to be getting along quite well.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Синн",
+   "text": "「Прямо как вы с Лакус,\n　когда только сошлись.」",
+   "orig": "Shinn\n「Not unlike you and Lacus\n　when you got together.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Кира",
+   "text": "「П-правда?」",
+   "orig": "Kira\n「R-really?」"
+  },
+  {
+   "i": 256,
+   "speaker": "Синн",
+   "text": "「Шучу.」",
+   "orig": "Shinn\n「Just kidding.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Синн",
+   "text": "「Хотя, если честно... вы двое и правда показали нам,\n　насколько крепкой может быть связь между людьми.」",
+   "orig": "Shinn\n「Well, you have to admit... you two really did show us\n　a real strength in your bond with each other.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Амуро",
+   "text": "「Похоже, Кира и Синн наконец научились уступать.」",
+   "orig": "Amuro\n「Seems Kira and Shinn have finally learned to compromise.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Сэцуна",
+   "text": "「Да, верно подмечено.」",
+   "orig": "Setsuna\n「Yeah, you're right.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Атрун",
+   "text": "「Синн справился со своим прошлым —\n　и благодаря этому стал намного сильнее.」",
+   "orig": "Athrun\n「Overcoming his past, has helped\n　Shinn grow much stronger.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Лунамария",
+   "text": "「Наша с ним совместная атака вышла безупречной.」",
+   "orig": "Lunamaria\n「He and I were dead-on with our combination attack.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Атрун",
+   "text": "「А возможность пользоваться «Метеором», \n　установленным на «Этернале», здорово усилила \n　мой «Джастис» и «Фридом» Киры.」",
+   "orig": "Athrun\n「Being able to use the Meteor \n　outfitted on the Eternal has made \n　my Justice and Kira's Freedom much stronger.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Локон",
+   "text": "「Наши «Гандамы»\n　тоже прошли модернизацию.」",
+   "orig": "Lockon\n「Our Gundams have\n　been upgraded as well.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Тиерия",
+   "text": "「«Забанье» и «Харуте» поставили новые детали,\n　а моему «Рафаэлю» и «QAN[T]» \n　подняли мощность реакторов.」",
+   "orig": "Tieria\n「The Zabanya and Harute were upgraded with parts,\n　and my Raphael and QAN[T] both \n　received power output upgrades.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Коласур",
+   "text": "「Погоди-ка, Тиерия.\n　Не забывай про наши с Грэмом машины.」",
+   "orig": "Colasour\n「Hold on just a second, Tieria.\n　Don't forget about Graham's and my machines.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Грэм",
+   "text": "「С ТРАНС-АМом наши мобильные доспехи\n　стали заметно сильнее.」",
+   "orig": "Graham\n「Our mobile suits are significantly\n　stronger now with the TRANS-AM.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Амуро",
+   "text": "「Одной только этой силы хватит,\n　чтобы одолеть кого угодно.」",
+   "orig": "Amuro\n「With just the power of that alone,\n　there isn't anyone we cannot defeat.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Сэцуна",
+   "text": "「Эмбрио...\n　злой гений измерения A.D.」",
+   "orig": "Setsuna\n「Embryo...\n　the evil mastermind in the AD dimension.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Сэцуна",
+   "text": "「«Селестиал Бин» обязана покарать его\n　за чудовищное искажение мира.」",
+   "orig": "Setsuna\n「Celestial Being must avenge his\n　monstrous distortion of the world.」"
+  },
+  {
+   "i": 270,
+   "speaker": "$n",
+   "text": "「Значит, Содзи ушёл из дома Тацу.」",
+   "orig": "$n\n「So Soji left Tatsu's home.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Майто",
+   "text": "「Да.」",
+   "orig": "Maito\n「Yes.」"
+  },
+  {
+   "i": 272,
+   "speaker": "$n",
+   "text": "「И с тех пор никому не дал о себе знать. \n　Весь в своём репертуаре. Беспечный, как всегда!」",
+   "orig": "$n\n「And hasn't contacted anyone since. \n　That sounds like Soji. Careless as ever!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Майто",
+   "text": "「Волнуетесь за него?」",
+   "orig": "Maito\n「Are you worried about him?」"
+  },
+  {
+   "i": 274,
+   "speaker": "$n",
+   "text": "「Конечно.\n　Содзи может валять дурака, но на самом \n　деле он парень весьма смекалистый.」",
+   "orig": "$n\n「Of course.\n　Soji may act like he does, but in \n　fact, he's is a pretty shrew character.」"
+  },
+  {
+   "i": 275,
+   "speaker": "$n",
+   "text": "「Уверен(а), у него всё хорошо, \n　и думаю, он объявится, \n　когда война закончится.」",
+   "orig": "$n\n「I'm sure he's doing well, \n　and I expect he'll show up \n　when the fighting's over.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Локон",
+   "text": "「Поверить не могу. Выходит,\n　майор Калинин — шпион «Амальгамы».」",
+   "orig": "Lockon\n「I can't believe it. That means\n　Major Kalinin is an Amalgam spy.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Клузо",
+   "text": "「Но таково положение дел.」",
+   "orig": "Clouseau\n「But that's the reality of the situation.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Соскэ",
+   "text": "「Более того, именно майор\n　позволил главе «Амальгамы»\n　Леонарду Тестароссе похитить Тидори.」",
+   "orig": "Sousuke\n「Moreover, it was Major\n　who made it possible for Amalgam's\n　leader Leonard Testarossa to kidnap Chidori.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Аллилуйя",
+   "text": "「Погоди, «Тестаросса»?」",
+   "orig": "Allelujah\n「Wait, \"Testarossa\"?」"
+  },
+  {
+   "i": 280,
+   "speaker": "Мао",
+   "text": "「Да.\n　Он старший брат-близнец Тессы.」",
+   "orig": "Mao\n「Yeah.\n　He's Tessa's older twin brother.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Тиерия",
+   "text": "「Насколько я понимаю, без него во главе \n　«Амальгама» была бы куда живучее  \n　и гибче.」",
+   "orig": "Tieria\n「From what I understand, Amalgam would \n　have been far more viable and flexible  \n　without him at the top.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Мао",
+   "text": "「Не знаю, при каких обстоятельствах, но\n　после перестройки организации \n　Леонард Тестаросса оказался на самом верху.」",
+   "orig": "Mao\n「I do not know what the circumstances are, but\n　through organizational restructuring, \n　Leonard Testarossa ended up at the top.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Курц",
+   "text": "「Как бы там ни было, \n　нам это даёт шанс.」",
+   "orig": "Kurz\n「In any case, what it does \n　is gives us a chance.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Локон",
+   "text": "「Верно, раз теперь он главный,\n　то, свалив его, мы тем самым\n　разобьём «Амальгаму».」",
+   "orig": "Lockon\n「Yes, if he's now the leader,\n　taking him down means\n　we've defeated Amalgam.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Курц",
+   "text": "「Именно. Вот только сейчас неизвестно,\n　жив он или мёртв.」",
+   "orig": "Kurz\n「That's right. However, currently, it is\n　unknown whether he is dead or alive.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Клузо",
+   "text": "「Без поддержки «Амальгамы» Нео-Зеону придётся\n　на время приостановить вторжение на Землю.」",
+   "orig": "Clouseau\n「With Amalgam unable to provide support, Neo Zeon will\n　have to halt its invasion of Earth for short while.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Мао",
+   "text": "「Благодаря тому, что к нам примкнула мичман Мельда \n　Дитц, мы в общих чертах выяснили, насколько тесно \n　гамиласцы и Нео-Зеон работают вместе.」",
+   "orig": "Mao\n「Thanks to Ensign Melda Dietz joining us, we've \n　been able to establish to some extent to which the \n　Gamillans and Neo Zeon are working together.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Тиерия",
+   "text": "「Та самая посланница, что явилась на «Ямато» из разлома?」",
+   "orig": "Tieria\n「The emissary who came to Yamato from dimensional rift?」"
+  },
+  {
+   "i": 289,
+   "speaker": "Мао",
+   "text": "「Я слышала, её не устраивали методы командующего \n　флотом, которого она притащила с собой.」",
+   "orig": "Mao\n「I heard she was dissatisfied with the methods of \n　the fleet commander she forced to come with her.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Клузо",
+   "text": "「Гамиласцы намерены пробить волновой пушкой\n　«Ямато» брешь в межпространственном барьере,\n　чтобы вернуться в своё измерение.」",
+   "orig": "Clouseau\n「The Gamillans are planning to use the Yamato's\n　wave motion gun to rip a hole in the dimensional\n　barrier in order to get back to their own dimension.」"
+  },
+  {
+   "i": 291,
+   "speaker": "Локон",
+   "text": "「Если это правда, то они будут\n　охотиться за самим «Ямато».」",
+   "orig": "Lockon\n「If that's true, then they'll be\n　looking to capture the Yamato.」"
+  },
+  {
+   "i": 292,
+   "speaker": "Аллилуйя",
+   "text": "「А если ещё и Параллельный бозонный прыжок удастся,\n　ребята из Нового Истинного века смогут вернуться домой.」",
+   "orig": "Allelujah\n「Matched with a successful Parallel Boson Jump, the New\n　Correct Century folks could be looking at possible repatriation.」"
+  },
+  {
+   "i": 293,
+   "speaker": "Клузо",
+   "text": "「Теперь, когда Леонард Тестаросса покинул фронт,\n　у нас есть шанс перейти в наступление.」",
+   "orig": "Clouseau\n「Now that Leonard Testarossa has left the front,\n　this is our chance to go on the offensive.」"
+  },
+  {
+   "i": 294,
+   "speaker": "Соскэ",
+   "text": "（Пусть Тидори и зря выстрелила в Леонарда,\n　упускать такую возможность я не собираюсь.）",
+   "orig": "Sousuke\n（While Chidori's shooting of Leonard was a mistake,\n　I'm not going to let this opportunity slip away.）"
+  },
+  {
+   "i": 295,
+   "speaker": "Сэцуна",
+   "text": "「Тебе ведь тоже нелегко пришлось, да, Соскэ?」",
+   "orig": "Setsuna\n「Things have been rough for you, too, huh, Sousuke?」"
+  },
+  {
+   "i": 296,
+   "speaker": "Соскэ",
+   "text": "「Когда AS Леонарда разбил меня, я разом лишился \n　и Тидори, и Ала, и своего «Арбалеста».」",
+   "orig": "Sousuke\n「When I was beaten by Leonard's AS, I lost \n　Chidori, Al, and my Arbalest all at the same time.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Соскэ",
+   "text": "「Но Ал вернулся к жизни в преемнике \n　«Арбалеста» — «Лаэватайне».」",
+   "orig": "Sousuke\n「But Al was resurrected with the \n　Arbalest's successor, the Laevatein.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Аллилуйя",
+   "text": "「Иан был поражён.\n　Говорит, что даже на вид\n　«Лаэватайн» — далеко не обычный AS.」",
+   "orig": "Allelujah\n「Ian was surprised.\n　He said that even to look at it,\n　the Laevatein is no ordinary AS.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Соскэ",
+   "text": "「Это моё средство вернуть Тидори.」",
+   "orig": "Sousuke\n「It's my means of getting Chidori back.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Мао",
+   "text": "「Она наверняка тебя ждёт.\n　Удачи, Соскэ.」",
+   "orig": "Mao\n「No doubt she's waiting for you.\n　Good luck, Sousuke.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Соскэ",
+   "text": "「Спасибо.\n　Я верну её. Она и глазом моргнуть не успеет,\n　как снова будет ходить в школу Дзиндай.」",
+   "orig": "Sousuke\n「Thanks.\n　I'll get her back. She'll be attending\n　Jindai High School again in no time.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Каппэй",
+   "text": "「Эй, Рёма, я слышал, что\n　«Син Геттер» тоже усилили.」",
+   "orig": "Kappei\n「Hey Ryoma, I heard the news that\n　Shin Getter received an upgrade, too.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Рёма",
+   "text": "「Этот приём — результат той силы,\n　что мы втроём вытянули из своих «Геттеров».」",
+   "orig": "Ryoma\n「That technique is the result of the power that\n　we were able to draw from our three Getters.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Бэнкэй",
+   "text": "「Он зовётся «Стонер Саншайн»,\n　и это настоящая мощь.」",
+   "orig": "Benkei\n「It's called Stoner Sunshine,\n　and it's genuine power.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Хаято",
+   "text": "（Меня беспокоит способность Драконов \n　подавлять Геттер-лучи.）",
+   "orig": "Hayato\n（What has me worried is the Dragons' \n　ability to suppress Getter Rays.）"
+  },
+  {
+   "i": 306,
+   "speaker": "Хаято",
+   "text": "（Позже вроде бы будет важное сообщение\n　о природе Драконов.\n　Хорошо бы узнать хоть что-то.）",
+   "orig": "Hayato\n（There's supposed to be an important announcement\n　concerning the Dragon ecology later on.\n　It would be helpful if we could learn something.）"
+  },
+  {
+   "i": 307,
+   "speaker": "Майто",
+   "text": "「А с Тэцуей после того всё было в порядке?」",
+   "orig": "Maito\n「Was there anything wrong with Tetsuya after that?」"
+  },
+  {
+   "i": 308,
+   "speaker": "Рёма",
+   "text": "「Пока что да, так что он нам подсобил.」",
+   "orig": "Ryoma\n「In the short term, no, so he lent us a hand.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Каппэй",
+   "text": "「Серьёзно?!」",
+   "orig": "Kappei\n「Seriously!?」"
+  },
+  {
+   "i": 310,
+   "speaker": "Синдзи",
+   "text": "「Когда в Токио-3 появились сразу два Ангела,\n　он помог нам в бою.」",
+   "orig": "Shinji\n「When two Angels appeared in Tokyo-3\n　he helped us in the fight.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Бэнкэй",
+   "text": "「Вот это было зрелище.\n　И не только Тэцуя — в бой вступили\n　«Джи-Хаунд», а под конец и Зеон.」",
+   "orig": "Benkei\n「That was really something.\n　And not just Tetsuya; G-Hound\n　and finally Zeon joined the fight.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Аска",
+   "text": "「Да какая разница, пока я рядом.\n　Я любое количество Ангелов уложу.」",
+   "orig": "Asuka\n「Well, with me around, doesn't really matter.\n　I can defeat any number of Angels.」"
+  },
+  {
+   "i": 313,
+   "speaker": "Майто",
+   "text": "「А ты, собственно, кто?」",
+   "orig": "Maito\n「And you would be?」"
+  },
+  {
+   "i": 314,
+   "speaker": "Аска",
+   "text": "「Аска Лэнгли Сикинами,\n　пилот ЕВЫ-02.」",
+   "orig": "Asuka\n「Asuka Langley Shikinami;\n　the pilot of EVA Unit-02.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Синдзи",
+   "text": "「Аска прибыла в Японию вместе\n　с ЕВОЙ, созданной в Европе.」",
+   "orig": "Shinji\n「Asuka came to Japan with\n　the EVA developed in Europe.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Аска",
+   "text": "「Я вам не папенькин сынок командующего Икари\n　и не вон та любимица начальства,\n　я покажу, как дерётся настоящий пилот ЕВЫ.」",
+   "orig": "Asuka\n「I'm not like Commander Ikari's little daddy's boy here,\n　or the favorite over there, Commander's pet,\n　I'll show you how a real EVA pilot fights.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Каппэй",
+   "text": "「Ну и язва же ты, а?」",
+   "orig": "Kappei\n「Well, aren't you the cheeky one?」"
+  },
+  {
+   "i": 318,
+   "speaker": "Рёма",
+   "text": "「И всё же ожесточённому бою в Токио-3 \n　положил конец именно Синдзи.」",
+   "orig": "Ryoma\n「But it was Shinji who put an end \n　to the fierce fighting in Tokyo-3.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Рёма",
+   "text": "「Одним выстрелом из позитронной пушки вынести ядро\n　Ангела — вот это было настоящее представление.」",
+   "orig": "Ryoma\n「I wanted to give you guys a show by using the positron\n　cannon to blow an Angel core out in a single shot.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Синдзи",
+   "text": "「Это Аянами тогда прикрыла меня.」",
+   "orig": "Shinji\n「That was Ayanami stepping into save me.」"
+  },
+  {
+   "i": 321,
+   "speaker": "Рэй",
+   "text": "「Твоя смелость придала\n　мне сил сражаться.」",
+   "orig": "Rei\n「Your courage inspired\n　me to fight harder.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Синдзи",
+   "text": "「Спасибо, Аянами.」",
+   "orig": "Shinji\n「Thanks, Ayanami.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Майто",
+   "text": "（Похоже, эти двое заметно сблизились.）",
+   "orig": "Maito\n（Seems these two have grown somewhat closer.）"
+  },
+  {
+   "i": 324,
+   "speaker": "Атрун",
+   "text": "「Значит, Нео-Зеон послал войска \n　штурмовать парламент Земной Федерации.」",
+   "orig": "Athrun\n「So Neo Zeon sent troops to attack \n　the Earth Federation parliament.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Банагер",
+   "text": "（Тогда мы с Хатауэем и встретили\n　пилота Нео-Зеона, Лони.）",
+   "orig": "Banagher\n（That's how Hathaway and I\n　met the Neo Zeon pilot Loni.）"
+  },
+  {
+   "i": 326,
+   "speaker": "Банагер",
+   "text": "（Я не смог уберечь её от обратной волны псикоммю \n　той огромной мобильной брони, когда она сорвалась.）",
+   "orig": "Banagher\n（I wasn't able to save her from the back current of the \n　giant mobile armor's Psycommu when she lost control.）"
+  },
+  {
+   "i": 327,
+   "speaker": "Банагер",
+   "text": "（Но она выжила. Очень надеюсь и молюсь,\n　чтобы нам не пришлось снова встретиться в бою.）",
+   "orig": "Banagher\n（But she wasn't killed. I really hope and pray\n　we don't have to meet on the battlefield again.）"
+  },
+  {
+   "i": 328,
+   "speaker": "Кира",
+   "text": "「Банагер, я слышал о твоём\n　бое с пилотом Нео-Зеона,\n　лейтенантом Маридой.」",
+   "orig": "Kira\n「Banagher, I heard about your\n　battle with Neo Zeon pilot\n　Lieutenant Marida.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Банагер",
+   "text": "「Да.\n　Мариду контролировали и заставили\n　сесть за штурвал чёрного «Юникорна».」",
+   "orig": "Banagher\n「Yeah.\n　Marida was being controlled and\n　was forced to pilot the black Unicorn.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Атрун",
+   "text": "「Значит, он существует...\n　этот чёрный «Юникорн».」",
+   "orig": "Athrun\n「So it exists then...\n　this black Unicorn.」"
+  },
+  {
+   "i": 331,
+   "speaker": "Джудо",
+   "text": "「А по-настоящему огорошило то,\n　кто такая Марида на самом деле —\n　Пуру Двенадцатая.」",
+   "orig": "Judau\n「The real shocker was\n　Marida's true identity\n　as Ple Twelve.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Кира",
+   "text": "「Двенадцатая Пуру...」",
+   "orig": "Kira\n「The 12th Ple...」"
+  },
+  {
+   "i": 333,
+   "speaker": "Синн",
+   "text": "「То есть?」",
+   "orig": "Shinn\n「You mean?」"
+  },
+  {
+   "i": 334,
+   "speaker": "Джудо",
+   "text": "「Именно.\n　Марида — младшая сестра всех Пуру.」",
+   "orig": "Judau\n「You got it.\n　Marida is a younger sister of the Ples.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Синн",
+   "text": "「Но выглядит она куда старше их!」",
+   "orig": "Shinn\n「But she looks much older than they do!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Джудо",
+   "text": "「Ну, тут я ничего объяснить не могу, \n　но Пуру и Пуру Вторая её опознали.」",
+   "orig": "Judau\n「Well, I don't know anything about that, \n　but Ple and Ple Two confirmed her identity.」"
+  },
+  {
+   "i": 337,
+   "speaker": "Атрун",
+   "text": "「И что с ней стало?」",
+   "orig": "Athrun\n「What happened to her?」"
+  },
+  {
+   "i": 338,
+   "speaker": "Банагер",
+   "text": "「Мариду \n　спас её наставник,\n　Циннерман из Нео-Зеона.」",
+   "orig": "Banagher\n「Marida was \n　saved by her master,\n　Neo Zeon's Zinnerman.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Хатауэй",
+   "text": "「Чего мы не знаем, так это действовали \n　ли та горстка солдат Нео-Зеона\n　и Камий заодно или нет.」",
+   "orig": "Hathaway\n「What we don't know is whether \n　or not the band of Neo Zeon soldiers\n　and Kamille acted together or not.」"
+  },
+  {
+   "i": 340,
+   "speaker": "Синн",
+   "text": "「Камий ведь твой старый друг, Джудо?」",
+   "orig": "Shinn\n「Isn't Kamille an old friend of yours, Judau?」"
+  },
+  {
+   "i": 341,
+   "speaker": "Джудо",
+   "text": "「Да какая разница.\n　Чувствую, мы ещё встретимся.\n　Вот тогда и спросим.」",
+   "orig": "Judau\n「Either way, doesn't matter.\n　I have a feeling we'll meet again.\n　We can ask him then.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Хатауэй",
+   "text": "「Или Камий был единственным,\n　кто ушёл с Маридой.」",
+   "orig": "Hathaway\n「Or if Kamille was the only one\n　who went with Marida.」"
+  },
+  {
+   "i": 343,
+   "speaker": "Банагер",
+   "text": "「С ними ещё и Одри.」",
+   "orig": "Banagher\n「Audrey's acting with them.」"
+  },
+  {
+   "i": 344,
+   "speaker": "Синн",
+   "text": "「И мы до сих пор не знаем, кто она и чего добивается?」",
+   "orig": "Shinn\n「So do we know who she is and what her purpose is yet?」"
+  },
+  {
+   "i": 345,
+   "speaker": "Банагер",
+   "text": "「Нет.」",
+   "orig": "Banagher\n「No.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Банагер",
+   "text": "（Мичман Ридде назвал Одри «Миневой».）",
+   "orig": "Banagher\n（Ensign Riddhe called Audrey \"Mineva.\"）"
+  },
+  {
+   "i": 347,
+   "speaker": "Банагер",
+   "text": "（Минева Лао Заби.\n　Рождённая после смерти отца наследница Зеона.）",
+   "orig": "Banagher\n（Mineva Lao Zabi.\n　Born after her father's death, she was Zeon's hair.）"
+  },
+  {
+   "i": 348,
+   "speaker": "Банагер",
+   "text": "（Но пока я не услышу это от неё самой,\n　я не скажу об этом ни одной живой душе.）",
+   "orig": "Banagher\n（But until I've heard it directly from her I\n　refuse to reveal that information to another soul.）"
+  },
+  {
+   "i": 349,
+   "speaker": "Атрун",
+   "text": "「А что с мичманом Ридде?」",
+   "orig": "Athrun\n「What's up with Ensign Riddhe?」"
+  },
+  {
+   "i": 350,
+   "speaker": "Банагер",
+   "text": "「Хороший вопрос.」",
+   "orig": "Banagher\n「Good question.」"
+  },
+  {
+   "i": 351,
+   "speaker": "Кира",
+   "text": "「Банагер?」",
+   "orig": "Kira\n「Banagher?」"
+  },
+  {
+   "i": 352,
+   "speaker": "Джудо",
+   "text": "「Мы не до конца понимаем почему,\n　но мичман Ридде охотится за Банагером.」",
+   "orig": "Judau\n「We're not sure exactly why,\n　but Ensign Riddhe is after Banagher.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Синн",
+   "text": "「Может, ревность из-за того, что Одри\n　не отвечает ему взаимностью?」",
+   "orig": "Shinn\n「Could it be jealousy over Audrey\n　not returning his affections?」"
+  },
+  {
+   "i": 354,
+   "speaker": "Банагер",
+   "text": "「Не знаю.」",
+   "orig": "Banagher\n「Not sure.」"
+  },
+  {
+   "i": 355,
+   "speaker": "Банагер",
+   "text": "「Но я готов принять его чувства, \n　если это поможет понять его\n　хоть самую малость.」",
+   "orig": "Banagher\n「But, I can acknowledge his feelings \n　if it helps to understand him\n　even in the smallest way.」"
+  },
+  {
+   "i": 356,
+   "speaker": "Кира",
+   "text": "「Здесь, как видно, тоже пришлось несладко.」",
+   "orig": "Kira\n「Things have obviously been tough over here, too.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Атрун",
+   "text": "「А Драконы и Эмбрио... связывают миры воедино.」",
+   "orig": "Athrun\n「And Dragons and Embryo... tying the worlds together.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Синн",
+   "text": "「Кстати, как раз скоро начнётся \n　совещание на эту тему.」",
+   "orig": "Shinn\n「Speaking of which, it's about time for \n　the meeting concerning that to begin.」"
+  },
+  {
+   "i": 359,
+   "speaker": "$n",
+   "text": "「Подойду, как закончу тренировку.」",
+   "orig": "$n\n「I'll go after I've finished training.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Найн",
+   "text": "「Сестрица...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 361,
+   "speaker": "$n",
+   "text": "「Прости, Найн.\n　Если я сумею выжать из «Вангрэя» больше,\n　всем нам будет легче в бою.」",
+   "orig": "$n\n「Sorry, Nine.\n　If I can draw more power from the VangRay,\n　we won't have to fight so hard.」"
+  },
+  {
+   "i": 362,
+   "speaker": "$n",
+   "text": "「На важное совещание в 14:00 я приду, а пока\n　послушай за меня, что расскажут остальные, хорошо?」",
+   "orig": "$n\n「I'll be there for the important meeting at 1400,\n　listen in on everyone's story until then for me, will you?」"
+  },
+  {
+   "i": 363,
+   "speaker": "Найн",
+   "text": "「Хорошо. Я поняла.」",
+   "orig": "Nine\n「Very well. I understand.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Найн",
+   "text": "（Пожалуй, стоит поторопиться.）",
+   "orig": "Nine\n（I might need to hurry.）"
+  },
+  {
+   "i": 368,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　—Брифинг-зал авиагруппы «Ямато»—",
+   "orig": "　\n　　\n　　　　　　—Yamato Air Corps Briefing Room—"
+  },
+  {
+   "i": 369,
+   "speaker": "Сумераги",
+   "text": "「Итак, для начала, не могли бы вы представиться.」",
+   "orig": "Sumeragi\n「Alright, first, would you please introduce yourself.」"
+  },
+  {
+   "i": 370,
+   "speaker": "Саламандинай",
+   "text": "「Я потомок Ауры и принцесса Фрейи,\n　вице-адмирал императорской гвардии, Саламандинай.」",
+   "orig": "Salamandinay\n「I'm a descendant of Aura and Princess of the Freyja,\n　vice-admiral of the Imperial Guard, Salamandinay.」"
+  },
+  {
+   "i": 371,
+   "speaker": "Саламандинай",
+   "text": "「На вашем языке — Дракон,\n　человек этого мира.」",
+   "orig": "Salamandinay\n「In your language, a Dragon,\n　a person of this world.」"
+  },
+  {
+   "i": 372,
+   "speaker": "Брайт",
+   "text": "「Дракон...」",
+   "orig": "Bright\n「A Dragon...」"
+  },
+  {
+   "i": 373,
+   "speaker": "Отто",
+   "text": "「Значит, легенды не врут —\n　вы и правда жили в нашем мире!」",
+   "orig": "Otto\n「So the legends are true then;\n　you did exist in our world!」"
+  },
+  {
+   "i": 374,
+   "speaker": "Анж",
+   "text": "「Тот красный псевдо-Пара-Мейл, с которым \n　мы бились без счёта раз, — это Салы.」",
+   "orig": "Ange\n「The red pseudo-Para-Mail that we \n　fought countless times is Sala's.」"
+  },
+  {
+   "i": 375,
+   "speaker": "Саламандинай",
+   "text": "「Он называется «Энрюго».\n　И перестань, пожалуйста, говорить \n　«Пара-Мейл», Анж, — это так грубо.」",
+   "orig": "Salamandinay\n「It's called the \"Enryugo.\"\n　Please stop using that word \n　\"Para-Mail,\" Ange; it's so inelegant.」"
+  },
+  {
+   "i": 376,
+   "speaker": "Анж",
+   "text": "「Да только у ваших машин\n　названия не запомнить.」",
+   "orig": "Ange\n「But, your machine names\n　are too difficult to remember.」"
+  },
+  {
+   "i": 377,
+   "speaker": "Амуро",
+   "text": "（Похоже, эти двое всё-таки \n　подружились.）",
+   "orig": "Amuro\n（Well, seems like these two \n　have become friends.）"
+  },
+  {
+   "i": 378,
+   "speaker": "Саламандинай",
+   "text": "「Мы возвели барьер и отгородились от всех, \n　решив жить так несколько тысяч лет.」",
+   "orig": "Salamandinay\n「We erected a barrier and isolated ourselves, \n　choosing to live as such for several thousand years.」"
+  },
+  {
+   "i": 379,
+   "speaker": "Соскэ",
+   "text": "「Несколько тысяч?」",
+   "orig": "Sousuke\n「Several thousand?」"
+  },
+  {
+   "i": 380,
+   "speaker": "Саламандинай",
+   "text": "「Верно.\n　С тех пор, как все цивилизации этой планеты пали.」",
+   "orig": "Salamandinay\n「Correct.\n　Since this planet's civilizations were all destroyed.」"
+  },
+  {
+   "i": 381,
+   "speaker": "Хатауэй",
+   "text": "「Пали?」",
+   "orig": "Hathaway\n「Destroyed?」"
+  },
+  {
+   "i": 382,
+   "speaker": "Хаято",
+   "text": "「Предполагалось, что когда-то здесь были\n　развитые цивилизации, но доказать это\n　так и не удалось.」",
+   "orig": "Hayato\n「It has been speculated that there were once\n　advanced civilizations, but it has never\n　been demonstrated.」"
+  },
+  {
+   "i": 383,
+   "speaker": "Бэнкэй",
+   "text": "「Выходит, мы всё это время жили бок о бок \n　с Драконами и даже не догадывались?」",
+   "orig": "Benkei\n「So we've been unknowingly living \n　alongside Dragons this whole time?」"
+  },
+  {
+   "i": 384,
+   "speaker": "Саламандинай",
+   "text": "「И неудивительно. Проникнуть за барьер невозможно,\n　а выходя наружу, мы сами скрывались\n　за барьером невидимости.」",
+   "orig": "Salamandinay\n「It was only natural you didn't know. It's impossible to\n　infiltrate the barrier, and we ourselves employed an\n　invisibility barrier to hide ourselves when venturing out.」"
+  },
+  {
+   "i": 385,
+   "speaker": "Найджел",
+   "text": "「Иными словами, продвинутая маскировка.」",
+   "orig": "Nigel\n「In other words, advanced stealth capabilities.」"
+  },
+  {
+   "i": 386,
+   "speaker": "Кодзи",
+   "text": "「Ты называешь себя Драконом,\n　но по мне так ты вполне себе человек.」",
+   "orig": "Koji\n「You call yourself a Dragon,\n　but you look completely human to me.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Саламандинай",
+   "text": "「Пусть объяснит вот эта юная особа.」",
+   "orig": "Salamandinay\n「I'll let this young lady explain.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Вивиан",
+   "text": "「Вопрос на засыпку!\n　Кто я такая?」",
+   "orig": "Vivian\n「Question time!\n　What am I?」"
+  },
+  {
+   "i": 389,
+   "speaker": "Тобиа",
+   "text": "「Ты... Вивиан, разве нет?」",
+   "orig": "Tobia\n「You...are Vivian, no?」"
+  },
+  {
+   "i": 390,
+   "speaker": "Вивиан",
+   "text": "「Верно!\n　Но ещё я Дракон.」",
+   "orig": "Vivian\n「Correct!\n　But I'm also a Dragon.」"
+  },
+  {
+   "i": 391,
+   "speaker": "Ру",
+   "text": "「Что?」",
+   "orig": "Roux\n「What?」"
+  },
+  {
+   "i": 392,
+   "speaker": "Элль",
+   "text": "「Ч-что, прости?」",
+   "orig": "Elle\n「E-excuse me?」"
+  },
+  {
+   "i": 393,
+   "speaker": "Анж",
+   "text": "「В это трудно поверить, но так и есть.\n　Вивиан — Дракон.」",
+   "orig": "Ange\n「Might be difficult to swallow, but it's the truth.\n　Vivian is a Dragon.」"
+  },
+  {
+   "i": 394,
+   "speaker": "Саламандинай",
+   "text": "「Она и впрямь из рода Драконов.\n　Она потеряла память при несчастном случае\n　и в итоге жила в вашем измерении A.D.」",
+   "orig": "Salamandinay\n「She is indeed of the Dragon clan.\n　She lost her memory in an accident,\n　in which she ended up living in your AD dimension.」"
+  },
+  {
+   "i": 395,
+   "speaker": "Саламандинай",
+   "text": "「К тому же женщины нашего народа\n　способны менять облик по желанию.」",
+   "orig": "Salamandinay\n「Moreover, women of our kind\n　can change form at will.」"
+  },
+  {
+   "i": 396,
+   "speaker": "Анж",
+   "text": "「Из Драконов, с которыми мы дрались, мелкие\n　были женщинами, а крупные — мужчинами.」",
+   "orig": "Ange\n「Of the Dragons we've fought, the smaller forms\n　were women, and the larger ones were men.」"
+  },
+  {
+   "i": 397,
+   "speaker": "Синдзи",
+   "text": "「Драконы могут превращаться в людей?」",
+   "orig": "Shinji\n「Dragons can change into humans?」"
+  },
+  {
+   "i": 398,
+   "speaker": "Брайт",
+   "text": "「Откуда у вас такая способность?」",
+   "orig": "Bright\n「How did you obtain this ability?」"
+  },
+  {
+   "i": 399,
+   "speaker": "Саламандинай",
+   "text": "「Когда-то мы, как и вы, не умели меняться. Превращение\n　пришло к нам тысячи лет назад, во время войны.」",
+   "orig": "Salamandinay\n「Long ago, we, like you, were unable to change. Our\n　transformation came thousands of years ago during a war.」"
+  },
+  {
+   "i": 400,
+   "speaker": "Амуро",
+   "text": "「С кем?」",
+   "orig": "Amuro\n「With?」"
+  },
+  {
+   "i": 401,
+   "speaker": "Саламандинай",
+   "text": "「Человек против человека.\n　И человек против зла.」",
+   "orig": "Salamandinay\n「Man versus man.\n　And man versus evil.」"
+  },
+  {
+   "i": 402,
+   "speaker": "Саламандинай",
+   "text": "「Та война отравила мир,\n　и человечество оказалось на грани вымирания.」",
+   "orig": "Salamandinay\n「The world was polluted by that war,\n　and humanity was on the brink of extinction.」"
+  },
+  {
+   "i": 403,
+   "speaker": "Саламандинай",
+   "text": "「Драгуний...\n　В незапамятные времена он очищал особые\n　космические лучи и кристаллизовал суперчастицы.」",
+   "orig": "Salamandinay\n「Dragunium...\n　In the distant past, it purified the special cosmic\n　rays, and the crystalized supersymmetric particles.」"
+  },
+  {
+   "i": 404,
+   "speaker": "Рёма",
+   "text": "「Что?」",
+   "orig": "Ryoma\n「What?」"
+  },
+  {
+   "i": 405,
+   "speaker": "Саламандинай",
+   "text": "「...он должен был принести миру эпоху просвещения. \n　Но вскоре после его открытия вспыхнула война.」",
+   "orig": "Salamandinay\n「...were supposed to bring the world an enlightened \n　age. War broke out soon after its discovery, instead.」"
+  },
+  {
+   "i": 406,
+   "speaker": "Саламандинай",
+   "text": "「Его обратили против врагов человечества, но \n　в последней битве той войны драгуний\n　вышел из-под контроля и уничтожил мир.」",
+   "orig": "Salamandinay\n「It was used against the enemies of humanity, but in \n　the final battle of the war, the Dragunium\n　went out of control and destroyed the world.」"
+  },
+  {
+   "i": 407,
+   "speaker": "Таск",
+   "text": "「...А уцелевшие люди\n　бросили ту Землю и отправились\n　искать новую.」",
+   "orig": "Tusk\n「...And the surviving humans\n　abandoned that Earth, and travelled\n　in search of a new land.」"
+  },
+  {
+   "i": 408,
+   "speaker": "Таск",
+   "text": "「На нашей параллельной Земле\n　это были мои предки.」",
+   "orig": "Tusk\n「On our parallel Earth,\n　those were my ancestors.」"
+  },
+  {
+   "i": 409,
+   "speaker": "Кинкейд",
+   "text": "「Ты кто такой?」",
+   "orig": "Kincade\n「Who are you?」"
+  },
+  {
+   "i": 410,
+   "speaker": "Таск",
+   "text": "「Меня зовут Таск.\n　Я последний из Древнего народа.」",
+   "orig": "Tusk\n「My name is Tusk.\n　I'm the last of the Ancient People.」"
+  },
+  {
+   "i": 411,
+   "speaker": "Тобиа",
+   "text": "「Древнего народа?」",
+   "orig": "Tobia\n「The Ancient People?」"
+  },
+  {
+   "i": 412,
+   "speaker": "Сумераги",
+   "text": "「По словам командира Джилл из Арзенала, люди, бежавшие \n　от заражения в измерении Вселенского века,\n　попали в измерение A.D. около 500 лет назад.」",
+   "orig": "Sumeragi\n「According to Commander Jill of Arzenal, the humans who \n　escaped the pollution of the Universal Century dimension\n　came to the AD dimension about 500 years ago.」"
+  },
+  {
+   "i": 413,
+   "speaker": "Сумераги",
+   "text": "「Силой ворвавшись в то измерение,\n　они попытались создать идеальное\n　общество и идеальную человеческую расу.」",
+   "orig": "Sumeragi\n「After forcibly entering that dimension,\n　they tried to create an ideal\n　society and race of humans.」"
+  },
+  {
+   "i": 414,
+   "speaker": "Таск",
+   "text": "「Державы-основательницы —\n　люди, владеющие Маной.」",
+   "orig": "Tusk\n「The Founding Nations,\n　humans who could use Mana.」"
+  },
+  {
+   "i": 415,
+   "speaker": "Таск",
+   "text": "「Добравшись до измерения A.D.,\n　они столкнулись с тем, что само их\n　существование отрицали. Так и вышел «Древний народ».」",
+   "orig": "Tusk\n「After reaching the AD dimension,\n　their very existence was denied.\n　They became the \"Ancient People.\"」"
+  },
+  {
+   "i": 416,
+   "speaker": "Джудо",
+   "text": "「Идеальный мир? Это вы называете идеальным\n　мир, где тех, кто родился без Маны,\n　за это же и травят?」",
+   "orig": "Judau\n「Ideal world? You call a world where those\n　who were born unable to use Mana and\n　thus discriminated against, \"ideal\"?」"
+  },
+  {
+   "i": 417,
+   "speaker": "Таск",
+   "text": "「Рождение Норм было просчётом. Но он использует\n　травлю против них, чтобы сохранять порядок вещей,\n　а заодно бросает их наперехват Драконам.」",
+   "orig": "Tusk\n「The Norma births were a miscalculation. But he uses\n　discrimination toward them to maintain the status quo,\n　furthermore, using them to intercept the Dragons.」"
+  },
+  {
+   "i": 418,
+   "speaker": "Хатауэй",
+   "text": "「Кто такой «он»?」",
+   "orig": "Hathaway\n「Who is \"he\"?」"
+  },
+  {
+   "i": 419,
+   "speaker": "Таск",
+   "text": "「Человек по имени Эмбрио.」",
+   "orig": "Tusk\n「A man named Embryo.」"
+  },
+  {
+   "i": 420,
+   "speaker": "Таск",
+   "text": "「Тот, кто пришёл в измерение A.D.,\n　создал Державы-основательницы и этой же\n　силой правит миром из тени.」",
+   "orig": "Tusk\n「The man who entered the AD dimension,\n　created the Founding Nations, and through that\n　power, has controlled this world from the shadows.」"
+  },
+  {
+   "i": 421,
+   "speaker": "Банагер",
+   "text": "「Правит миром?」",
+   "orig": "Banagher\n「Controlled the world?」"
+  },
+  {
+   "i": 422,
+   "speaker": "Сумераги",
+   "text": "「Джилл называла Эмбрио богом.」",
+   "orig": "Sumeragi\n「Jill has described Embryo as a god.」"
+  },
+  {
+   "i": 423,
+   "speaker": "Сумераги",
+   "text": "「А всю историю измерения A.D.\n　можно назвать войной против Эмбрио.」",
+   "orig": "Sumeragi\n「And the history of the AD dimension\n　can be described as a war against Embryo.」"
+  },
+  {
+   "i": 424,
+   "speaker": "Лакус",
+   "text": "「В противовес владеющим Маной Древний народ \n　стал рождать детей с изменёнными генами.\n　Координаторы — лишь одна из таких разновидностей.」",
+   "orig": "Lacus\n「As a countermeasure against Mana-users, the Ancient \n　People gave birth to children with modified genes.\n　Of which the Coordinators are just one type.」"
+  },
+  {
+   "i": 425,
+   "speaker": "Лакус",
+   "text": "「Меня зовут Лакус Клайн, я из ПЛАНТа.\n　Тайну появления координаторов \n　мне открыл отец.」",
+   "orig": "Lacus\n「My name is Lacus Clyne. I'm with PLANT.\n　The secret of Coordinator births was \n　told to me by my father.」"
+  },
+  {
+   "i": 426,
+   "speaker": "Сумераги",
+   "text": "「К тому же основатель «Селестиал Бин», \n　Аэолия Шенберг, связан с Древним народом.」",
+   "orig": "Sumeragi\n「Also, Celestial Being founder, \n　Aeolia Schenberg, is related to the Ancient People.」"
+  },
+  {
+   "i": 427,
+   "speaker": "Сумераги",
+   "text": "「Считается, что «Селестиал Бин»\n　отчасти для того и создавалась —\n　выследить и низвергнуть Эмбрио.」",
+   "orig": "Sumeragi\n「It is believed that Celestial Being\n　was in part organized to chase\n　down and overthrow Embryo.」"
+  },
+  {
+   "i": 428,
+   "speaker": "Саламандинай",
+   "text": "「Эмбрио же стоит за созданием \n　Рагна-Мейлов — абсолютного оружия, \n　которым в прошлом и был уничтожен мир.」",
+   "orig": "Salamandinay\n「Embryo is also the man behind the \n　development of the Ragna-Mails, the ultimate \n　weapons used to destroy the world in the past.」"
+  },
+  {
+   "i": 429,
+   "speaker": "Сумераги",
+   "text": "「Тот чёрный Пара-Мейл, что появился на Марсе \n　в последнем бою, тоже был Рагна-Мейлом.」",
+   "orig": "Sumeragi\n「The black Para-Mail that appeared on Mars \n　during the final battle was also a Ragna-Mail.」"
+  },
+  {
+   "i": 430,
+   "speaker": "Окита",
+   "text": "「Абсолютное оружие, уничтожившее мир.\n　Вот какая сила в руках у Эмбрио?」",
+   "orig": "Okita\n「The ultimate weapon that destroyed the world.\n　That is the kind of power Embryo wields?」"
+  },
+  {
+   "i": 431,
+   "speaker": "Сумераги",
+   "text": "「Эмбрио наслаждается властью над измерением A.D.\n　Он делает это ради удовольствия и из любопытства.\n　Вот что делает его чудовищем.」",
+   "orig": "Sumeragi\n「Embryo enjoys controlling the AD dimension.\n　He does it for pleasure and out of his own interest.\n　This is what makes him a monster.」"
+  },
+  {
+   "i": 432,
+   "speaker": "Сумераги",
+   "text": "「Все эти бесчисленные войны\n　в нашем мире — его рук дело.」",
+   "orig": "Sumeragi\n「The many wars in our\n　world are his doing.」"
+  },
+  {
+   "i": 433,
+   "speaker": "Таск",
+   "text": "「Древний народ объединился с Нормами,\n　чтобы свергнуть тиранию Эмбрио.」",
+   "orig": "Tusk\n「The Ancient People joined with the Norma\n　to overthrow Embryo's tyranny.」"
+  },
+  {
+   "i": 434,
+   "speaker": "Таск",
+   "text": "「И несколько десятилетий назад\n　нам удалось выкрасть один из его Рагна-Мейлов.」",
+   "orig": "Tusk\n「And several decades ago,\n　we were able to steal one of his Ragna-Mail.」"
+  },
+  {
+   "i": 435,
+   "speaker": "Таск",
+   "text": "「«Вилькисс» Анж.」",
+   "orig": "Tusk\n「Ange's Villkiss.」"
+  },
+  {
+   "i": 436,
+   "speaker": "Сумераги",
+   "text": "「Чтобы раскрыть истинную мощь\n　машины, нужно отвечать определённым\n　условиям — и Анж им отвечает.」",
+   "orig": "Sumeragi\n「In order to bring out the machine's\n　true power, certain criteria have to\n　be met, and Ange meets them.」"
+  },
+  {
+   "i": 437,
+   "speaker": "Сумераги",
+   "text": "「По сути, командир Джилл ковала из неё оружие\n　для своего контрнаступления — $kwbЛибертуса$kwe.」",
+   "orig": "Sumeragi\n「In fact, Commander Jill has been forging Jill into a weapon\n　for her counter-offensive, $kwbLibertus$kwe.」"
+  },
+  {
+   "i": 438,
+   "speaker": "Джудо",
+   "text": "「Да тут и слепому ясно, что этот\n　Эмбрио — редкостная сволочь.」",
+   "orig": "Judau\n「It's quite obvious this Embryo\n　character is evil as all get out.」"
+  },
+  {
+   "i": 439,
+   "speaker": "Соскэ",
+   "text": "「Значит, вы, Драконы, вторгаетесь в измерение A.D.,\n　чтобы отомстить тому, кто погубил ваш мир?」",
+   "orig": "Sousuke\n「So you Dragons are out for revenge against the man who\n　destroyed your world, by invading the AD dimension?」"
+  },
+  {
+   "i": 440,
+   "speaker": "Кинкейд",
+   "text": "「Прежде чем ответишь, я хочу знать, почему жители\n　этого мира умеют обращаться в Драконов.」",
+   "orig": "Kincade\n「Before you answer that, I want to know why the people of\n　this world have the ability to change into Dragons.」"
+  },
+  {
+   "i": 441,
+   "speaker": "Саламандинай",
+   "text": "「Оба вопроса связаны с нашей богиней-праматерью Аурой.」",
+   "orig": "Salamandinay\n「Both those questions are related to our god-ancestor Aura.」"
+  },
+  {
+   "i": 442,
+   "speaker": "Саламандинай",
+   "text": "「Чтобы жить в том отравленном мире, мои\n　предки приняли судьбоносное решение.」",
+   "orig": "Salamandinay\n「In order to live in that polluted world, my\n　ancestors made a profound decision.」"
+  },
+  {
+   "i": 443,
+   "speaker": "Саламандинай",
+   "text": "「Силой драгуния мы переделали\n　свои тела, чтобы приспособиться к среде.」",
+   "orig": "Salamandinay\n「By utilizing the power of the Dragunium, we remade\n　our bodies, so as to adapt to the environment.」"
+  },
+  {
+   "i": 444,
+   "speaker": "Бэнкэй",
+   "text": "「Переделали?」",
+   "orig": "Benkei\n「Remade?」"
+  },
+  {
+   "i": 445,
+   "speaker": "Саламандинай",
+   "text": "「Именно.\n　Так родилась Аура.」",
+   "orig": "Salamandinay\n「Correct.\n　That was the birth of Aura.」"
+  },
+  {
+   "i": 446,
+   "speaker": "Саламандинай",
+   "text": "「Наша богиня-праматерь Аура.\n　Великая основательница, перекроившая плоть\n　собственного тела, чтобы выжить в отравленном мире.」",
+   "orig": "Salamandinay\n「Our god-ancestor, Aura.\n　The great founder who reshaped the flesh\n　of her own body to live in that polluted environment.」"
+  },
+  {
+   "i": 447,
+   "speaker": "Саламандинай",
+   "text": "「На языке вашего народа —\n　первый Дракон.」",
+   "orig": "Salamandinay\n「In the words of your people,\n　the first Dragon.」"
+  },
+  {
+   "i": 448,
+   "speaker": "Хаято",
+   "text": "「Драконы... это люди, переделавшие сами себя.」",
+   "orig": "Hayato\n「Dragons... are humans who remade themselves.」"
+  },
+  {
+   "i": 449,
+   "speaker": "Саламандинай",
+   "text": "「Мои предки взяли на себя ответственность за свои грехи\n　и решили жить в искуплении и очищении.\n　Бок о бок с Аурой.」",
+   "orig": "Salamandinay\n「My ancestors took responsibility for their sins, and\n　decided to live a life of atonement and purification.\n　Side by side with Aura.」"
+  },
+  {
+   "i": 450,
+   "speaker": "Саламандинай",
+   "text": "「Мужчины обращались в исполинских Драконов и отдавали\n　свои тела делу очищения мира.」",
+   "orig": "Salamandinay\n「The men transmogrified into gigantic Dragons, their\n　bodies dedicated to the purification of the world.」"
+  },
+  {
+   "i": 451,
+   "speaker": "Рёма",
+   "text": "「Невероятно.」",
+   "orig": "Ryoma\n「Incredible.」"
+  },
+  {
+   "i": 452,
+   "speaker": "Саламандинай",
+   "text": "「Принимая в своё тело драгуний, отравивший Землю, \n　они обращают его в устойчивые кристаллы.」",
+   "orig": "Salamandinay\n「Taking the Dragunium that polluted the Earth into \n　their bodies, they change it into stabilized crystals.」"
+  },
+  {
+   "i": 453,
+   "speaker": "Саламандинай",
+   "text": "「Бывает, что женщины обращаются и работают наравне\n　с мужчинами, а бывает — рожают и растят детей.」",
+   "orig": "Salamandinay\n「There are times when women change and work with the\n　men, and times when they birth and raise children.」"
+  },
+  {
+   "i": 454,
+   "speaker": "Саламандинай",
+   "text": "「Чтобы никогда больше не повторить той ошибки, наши\n　предки решили отказаться от промышленности\n　и ограничиться жизнью в согласии с природой.」",
+   "orig": "Salamandinay\n「In an effort to never make the same mistake again, our\n　ancestors decided to part ways with industrialization\n　and limit ourselves to living in harmony with nature.」"
+  },
+  {
+   "i": 455,
+   "speaker": "Хатауэй",
+   "text": "「Этот Дракон по имени Аура — ваша предводительница,\n　которая и велела вторгнуться в измерение A.D.?」",
+   "orig": "Hathaway\n「This Dragon named Aura is a leader of yours\n　ordering you to invade the AD dimension?」"
+  },
+  {
+   "i": 456,
+   "speaker": "Саламандинай",
+   "text": "「Боюсь, это не так.」",
+   "orig": "Salamandinay\n「That's incorrect, I'm afraid.」"
+  },
+  {
+   "i": 457,
+   "speaker": "Саламандинай",
+   "text": "「Наша богиня-праматерь Аура \n　сейчас находится в мире Анж.」",
+   "orig": "Salamandinay\n「Our god-ancestor Aura \n　is currently in Ange's world.」"
+  },
+  {
+   "i": 458,
+   "speaker": "Кодзи",
+   "text": "「Что-то я не улавливаю.」",
+   "orig": "Koji\n「I'm not sure I follow.」"
+  },
+  {
+   "i": 459,
+   "speaker": "Саламандинай",
+   "text": "「Её увели туда против её воли.」",
+   "orig": "Salamandinay\n「She was taken there against her will.」"
+  },
+  {
+   "i": 460,
+   "speaker": "Саламандинай",
+   "text": "「В давние времена был открыт драгуний,\n　созданы Рагна-Мейлы, мир был уничтожен\n　и брошен. И за всем этим стоял Эмбрио.」",
+   "orig": "Salamandinay\n「In the distant past Dragunium was discovered,\n　Ragna-Mail was produced, the world was destroyed\n　and abandoned. And behind it all was Embryo.」"
+  },
+  {
+   "i": 461,
+   "speaker": "Тобиа",
+   "text": "「Опять этот Эмбрио!」",
+   "orig": "Tobia\n「Again with this Embryo guy!」"
+  },
+  {
+   "i": 462,
+   "speaker": "Саламандинай",
+   "text": "「А знаете ли вы, откуда берётся сила, \n　которую в том мире зовут Маной?」",
+   "orig": "Salamandinay\n「Do you know where the power that \n　that world calls Mana is derived from?」"
+  },
+  {
+   "i": 463,
+   "speaker": "Джудо",
+   "text": "「Ты же не хочешь сказать то, о чём я подумал!」",
+   "orig": "Judau\n「You can't be saying what I think you are!」"
+  },
+  {
+   "i": 464,
+   "speaker": "Саламандинай",
+   "text": "「Свет Маны, утопия, мир волшебства —\n　в основе всего этого лежит энергия драгуния,\n　что внутри Ауры.」",
+   "orig": "Salamandinay\n「The Light of Mana, utopia, the world of magic;\n　underpinning all of it is the energy from Aura's\n　Dragunium.」"
+  },
+  {
+   "i": 465,
+   "speaker": "Саламандинай",
+   "text": "「Но однажды она иссякнет.\n　И её придётся восполнять.」",
+   "orig": "Salamandinay\n「But someday it'll be exhausted.\n　And will need to be replenished.」"
+  },
+  {
+   "i": 466,
+   "speaker": "Саламандинай",
+   "text": "「Драконов убивают, кристаллы драгуния извлекают \n　и скармливают Ауре, чтобы «подзарядить» её.」",
+   "orig": "Salamandinay\n「Dragons are killed, the crystalized Dragunium \n　extracted, and is given to Aura to \"recharge\" her.」"
+  },
+  {
+   "i": 467,
+   "speaker": "Банагер",
+   "text": "「Вот оно что... 」",
+   "orig": "Banagher\n「I see... 」"
+  },
+  {
+   "i": 468,
+   "speaker": "Саламандинай",
+   "text": "「Вот ради чего на самом деле Нормы \n　раз за разом рискуют жизнью.」",
+   "orig": "Salamandinay\n「That's the truth of what Norma have \n　been putting their lives on the line for.」"
+  },
+  {
+   "i": 469,
+   "speaker": "Саламандинай",
+   "text": "「В ходе нашей войны мы узнали, что \n　Ауру держат на родине предков Анж — \n　в Империи Мисуруги.」",
+   "orig": "Salamandinay\n「During our fight, we have learned that \n　Aura is being held in Ange's ancestral \n　homeland, the Misurugi Empire.」"
+  },
+  {
+   "i": 470,
+   "speaker": "Анж",
+   "text": "「Я больше не считаю эту страну своим домом.」",
+   "orig": "Ange\n「I no longer consider that country my home.」"
+  },
+  {
+   "i": 471,
+   "speaker": "Тобиа",
+   "text": "「Анж.」",
+   "orig": "Tobia\n「Ange.」"
+  },
+  {
+   "i": 472,
+   "speaker": "Кинкейд",
+   "text": "（По словам Сэцуны, брат с сестрой\n　не просто презирают Анж — они ещё и\n　готовили её публичную казнь.）",
+   "orig": "Kincade\n（According to Setsuna, Ange is not\n　only despised by her brother and sister,\n　but that they planned a public execution of her.）"
+  },
+  {
+   "i": 473,
+   "speaker": "Кинкейд",
+   "text": "（Она права. У неё больше нет ни дома, ни семьи.）",
+   "orig": "Kincade\n（She's right. She no longer has a home or family.）"
+  },
+  {
+   "i": 474,
+   "speaker": "Кодзи",
+   "text": "「Ну так давайте уже разделаемся с Эмбрио\n　и освободим Ауру! Чего мы ждём?」",
+   "orig": "Koji\n「Well then, let's get right to defeating Embryo\n　and freeing Aura! What are we waiting for?」"
+  },
+  {
+   "i": 475,
+   "speaker": "Джудо",
+   "text": "「Закончим войну в измерении A.D. — и вы нам поможете.\n　А там и подружимся с народом Драконов.」",
+   "orig": "Judau\n「With the war in the AD dimension finished, you can help us.\n　And then we can become friends with the Dragon people.」"
+  },
+  {
+   "i": 476,
+   "speaker": "Таск",
+   "text": "「Не стоит недооценивать Эмбрио.」",
+   "orig": "Tusk\n「You must not underestimate Embryo.」"
+  },
+  {
+   "i": 477,
+   "speaker": "Саламандинай",
+   "text": "「Таск прав.\n　Рагна-Мейлы, что у него в руках, \n　обладают немыслимой мощью.」",
+   "orig": "Salamandinay\n「Tusk is correct.\n　The Ragna-Mails in his possession \n　possess unimaginable strength.」"
+  },
+  {
+   "i": 478,
+   "speaker": "Анж",
+   "text": "「Он уничтожил Арзенал в бою, \n　в котором пропали без вести \n　Салия, Эрша и Крис.」",
+   "orig": "Ange\n「He destroyed Arzenal in a \n　battle in which Salia, Ersha \n　and Chris all went missing.」"
+  },
+  {
+   "i": 479,
+   "speaker": "Тобиа",
+   "text": "「Салия...」",
+   "orig": "Tobia\n「Salia...」"
+  },
+  {
+   "i": 480,
+   "speaker": "Брайт",
+   "text": "「Значит, Рагна-Мейлы — машины,\n　способные уничтожить мир?」",
+   "orig": "Bright\n「Ragna-Mail are machines with the\n　power to destroy the world, huh?」"
+  },
+  {
+   "i": 481,
+   "speaker": "Кинкейд",
+   "text": "「Но неужели он и правда способен погубить мир\n　всего парой таких машин?」",
+   "orig": "Kincade\n「But can he really destroy the world\n　with just a couple of machines like that?」"
+  },
+  {
+   "i": 482,
+   "speaker": "Саламандинай",
+   "text": "「В этом и сила их межпространственного резонатора.」",
+   "orig": "Salamandinay\n「That's the power of their Dimensional Resonance Weapons.」"
+  },
+  {
+   "i": 483,
+   "speaker": "Саламандинай",
+   "text": "「Я надеялась повторить эту мощь пространственно-  \n　временной сводящей пушкой своего «Энрюго», но  \n　Рагна-Мейлы разрушают и само пространство-время.」",
+   "orig": "Salamandinay\n「I hoped to replicate that power with the Space-Time  \n　Convergence Cannon on my Enryugo, but the Ragna-Mails  \n　have the power to destroy space-time as well.」"
+  },
+  {
+   "i": 484,
+   "speaker": "Банагер",
+   "text": "「Разрушают пространство-время! Вы серьёзно?」",
+   "orig": "Banagher\n「Destroy space-time! Are you serious?」"
+  },
+  {
+   "i": 485,
+   "speaker": "Саламандинай",
+   "text": "「Такова сила драгуния.」",
+   "orig": "Salamandinay\n「That is the power of Dragunium.」"
+  },
+  {
+   "i": 486,
+   "speaker": "Джудо",
+   "text": "「Сила, что порождает Ману и рушит\n　пространство-время, — и грозная, и жуткая.」",
+   "orig": "Judau\n「A power that can creates Mana and destroy\n　space-time, is both fearsome and horrible.」"
+  },
+  {
+   "i": 487,
+   "speaker": "Рёма",
+   "text": "「Хотя это та же сила, которой пользуемся и мы.」",
+   "orig": "Ryoma\n「It's the same power we use though.」"
+  },
+  {
+   "i": 488,
+   "speaker": "Кодзи",
+   "text": "「Рёма?」",
+   "orig": "Koji\n「Ryoma?」"
+  },
+  {
+   "i": 489,
+   "speaker": "Рёма",
+   "text": "「Теперь всё сходится.」",
+   "orig": "Ryoma\n「It's all clear now.」"
+  },
+  {
+   "i": 490,
+   "speaker": "Рёма",
+   "text": "「Драгуний и Геттер-лучи — одно и то же.」",
+   "orig": "Ryoma\n「Dragunium and Getter Rays are one and the same.」"
+  },
+  {
+   "i": 491,
+   "speaker": "Саламандинай",
+   "text": "「Верно.」",
+   "orig": "Salamandinay\n「Correct.」"
+  },
+  {
+   "i": 492,
+   "speaker": "Кодзи",
+   "text": "「Что?」",
+   "orig": "Koji\n「What?」"
+  },
+  {
+   "i": 493,
+   "speaker": "Хаято",
+   "text": "「Драконы существуют, чтобы очищать драгуний.\n　И та же способность позволяет им \n　подавлять Геттер-лучи.」",
+   "orig": "Hayato\n「Dragons exist to purify Dragunium.\n　And that ability allows them \n　to suppress Getter Rays.」"
+  },
+  {
+   "i": 494,
+   "speaker": "Рёма",
+   "text": "「Похоже, вы уже немало знали о Драконах, \n　доктор Саотомэ.」",
+   "orig": "Ryoma\n「It sounds like you know a lot about the \n　existence of Dragons already, Dr. Saotome.」"
+  },
+  {
+   "i": 495,
+   "speaker": "Бэнкэй",
+   "text": "「Ничего себе. Существа, что и впрямь поглощают лучи.」",
+   "orig": "Benkei\n「Wow. Organisms that actually absorb Getter Rays.」"
+  },
+  {
+   "i": 496,
+   "speaker": "Рёма",
+   "text": "「Ну тогда немудрено, что новый\n　«Син Геттер» вы прозвали «Драконом».」",
+   "orig": "Ryoma\n「Well then, I guess it's no wonder you\n　dubbed the new Shin Getter, \"Dragon.\"」"
+  },
+  {
+   "i": 497,
+   "speaker": "Брайт",
+   "text": "「То есть вы хотите сказать, что остаточное\n　заражение Геттер-лучами пятнадцатилетней давности \n　рассеялось быстрее срока из-за Драконов?」",
+   "orig": "Bright\n「So what you are saying is that the residual\n　Getter Ray pollution from 15 years ago \n　dissipated faster than expected because of Dragons?」"
+  },
+  {
+   "i": 498,
+   "speaker": "Саламандинай",
+   "text": "「По велению нашей предводительницы, Верховной жрицы,\n　наши братья и сёстры были отправлены\n　помогать очищению.」",
+   "orig": "Salamandinay\n「Under the direction of our leader the High Priestess,\n　our friends and fellows have been dispatched to\n　aide in the purification.」"
+  },
+  {
+   "i": 499,
+   "speaker": "Хатауэй",
+   "text": "「Значит, наш мир... спасли Драконы.」",
+   "orig": "Hathaway\n「So our world was...saved by Dragons.」"
+  },
+  {
+   "i": 500,
+   "speaker": "Саламандинай",
+   "text": "「Боясь повторить ошибки предков,\n　мы оборвали всякую связь с внешним миром.」",
+   "orig": "Salamandinay\n「Afraid of making the same mistakes as our ancestors,\n　we cut off contact with the outside world.」"
+  },
+  {
+   "i": 501,
+   "speaker": "Саламандинай",
+   "text": "「Но гибели этого мира мы не желаем.\n　Эта планета нам очень дорога.」",
+   "orig": "Salamandinay\n「But we do not wish for the destruction of the world.\n　This planet is very dear to us.」"
+  },
+  {
+   "i": 502,
+   "speaker": "Джудо",
+   "text": "「Если вы и правда так думаете,\n　то я уверен — мы можем стать друзьями и союзниками.」",
+   "orig": "Judau\n「If you truly believe that,\n　then I am positive we can be friends and allies.」"
+  },
+  {
+   "i": 503,
+   "speaker": "Амуро",
+   "text": "「Как и Анж с остальными Нормами,\n　мы по незнанию обстоятельств\n　были вашими врагами.」",
+   "orig": "Amuro\n「Like Ange and the other Norma,\n　in our ignorance of the situation,\n　we were your enemies.」"
+  },
+  {
+   "i": 504,
+   "speaker": "Саламандинай",
+   "text": "「Это крайне прискорбно.」",
+   "orig": "Salamandinay\n「It is most unfortunate.」"
+  },
+  {
+   "i": 505,
+   "speaker": "Амуро",
+   "text": "「Но теперь, когда все мы знаем правду,\n　разве мы не можем найти общий язык?」",
+   "orig": "Amuro\n「But now that we all know the truth,\n　how can we not come to a compromise?」"
+  },
+  {
+   "i": 506,
+   "speaker": "Саламандинай",
+   "text": "「Ещё совсем недавно\n　я бы наотрез отвергла ваше предложение.」",
+   "orig": "Salamandinay\n「Until just a little while ago,\n　I would have flatly rejected your offer.」"
+  },
+  {
+   "i": 507,
+   "speaker": "Саламандинай",
+   "text": "「Однако теперь, понимая, насколько узко \n　я мыслила, я с радостью приму ваше предложение.」",
+   "orig": "Salamandinay\n「However, now in light of how narrow-minded I \n　have been, I am delighted to accept your offer.」"
+  },
+  {
+   "i": 508,
+   "speaker": "Анж",
+   "text": "「Сала...」",
+   "orig": "Ange\n「Sala...」"
+  },
+  {
+   "i": 509,
+   "speaker": "Саламандинай",
+   "text": "「Анж.\n　Это ты заставила меня передумать.\n　И потому я с радостью встану с тобой плечом к плечу.」",
+   "orig": "Salamandinay\n「Ange.\n　You were the one who changed my mind.\n　And so I will gladly fight side by side with you.」"
+  },
+  {
+   "i": 510,
+   "speaker": "Таск",
+   "text": "「Я тоже, Анж.\n　Только теперь я буду драться рядом с тобой не как \n　Рыцарь «Вилькисса», а как Рыцарь Анж.」",
+   "orig": "Tusk\n「Me too, Ange.\n　But I will no longer fight by your side as a \n　Knight of Villkiss, but rather, as a Knight of Ange.」"
+  },
+  {
+   "i": 511,
+   "speaker": "Анж",
+   "text": "「Спасибо, Таск.」",
+   "orig": "Ange\n「Thank you, Tusk.」"
+  },
+  {
+   "i": 512,
+   "speaker": "Сумераги",
+   "text": "「Эмбрио охотится за Анж.\n　А значит, защищать её — наша общая задача.」",
+   "orig": "Sumeragi\n「Ange is Embryo's target.\n　And so it falls to all of us to protect her.」"
+  },
+  {
+   "i": 513,
+   "speaker": "Отто",
+   "text": "「Потому что хочет вернуть украденный Рагна-Мейл?」",
+   "orig": "Otto\n「Because he wants to recover the stolen Ragna-Mail?」"
+  },
+  {
+   "i": 514,
+   "speaker": "Сумераги",
+   "text": "「Дело куда более личное.\n　По сути, ему нужна \n　сама Анж.」",
+   "orig": "Sumeragi\n「It's more personal than that.\n　In essence, he wants to \n　obtain Ange herself.」"
+  },
+  {
+   "i": 515,
+   "speaker": "Анж",
+   "text": "「Прекрати.\n　От одной мысли о том, как он на меня\n　смотрит, мурашки по коже.」",
+   "orig": "Ange\n「Stop it.\n　The very thought of the way he\n　looks at me is giving me the creeps.」"
+  },
+  {
+   "i": 516,
+   "speaker": "Кодзи",
+   "text": "「Но ты же теперь в этом мире. \n　Никак он не сможет \n　выследить тебя здесь.」",
+   "orig": "Koji\n「But now you are here in this world. \n　There's no way he \n　can track you to here.」"
+  },
+  {
+   "i": 517,
+   "speaker": "Таск",
+   "text": "「Тут ты ошибаешься.」",
+   "orig": "Tusk\n「You would be mistaken.」"
+  },
+  {
+   "i": 518,
+   "speaker": "Хаято",
+   "text": "「Ты что, забыл, Кодзи?\n　Эмбрио родом как раз из этого мира.」",
+   "orig": "Hayato\n「Have you forgotten, Koji?\n　Embryo is originally from this world.」"
+  },
+  {
+   "i": 519,
+   "speaker": "Кодзи",
+   "text": "「Ох.」",
+   "orig": "Koji\n「Ugh.」"
+  },
+  {
+   "i": 520,
+   "speaker": "Таск",
+   "text": "「Силой драгуния он способен \n　управлять пространством и временем.」",
+   "orig": "Tusk\n「He can manipulate time and space \n　through the power of Dragunium.」"
+  },
+  {
+   "i": 521,
+   "speaker": "Саламандинай",
+   "text": "「Он сумел проникнуть \n　даже за наш Драконий барьер.」",
+   "orig": "Salamandinay\n「He was even able to \n　infiltrate our Dragon Barrier.」"
+  },
+  {
+   "i": 522,
+   "speaker": "Нага",
+   "text": "「Принцесса Саламандинай!\n　У нас чрезвычайное положение!」",
+   "orig": "Naga\n「Princess Salamandinay!\n　We have an emergency!」"
+  },
+  {
+   "i": 523,
+   "speaker": "Саламандинай",
+   "text": "「Что случилось?」",
+   "orig": "Salamandinay\n「What is it?」"
+  },
+  {
+   "i": 524,
+   "speaker": "Канамэ",
+   "text": "「Верховная жрица говорит: здесь нечто, рушащее порядок.」",
+   "orig": "Kaname\n「The High Priestess says something is here to destroy order.」"
+  },
+  {
+   "i": 525,
+   "speaker": "Саламандинай",
+   "text": "「Что?」",
+   "orig": "Salamandinay\n「What?」"
+  },
+  {
+   "i": 526,
+   "speaker": "Сумераги",
+   "text": "「Рушащее порядок?」",
+   "orig": "Sumeragi\n「Destroy order?」"
+  },
+  {
+   "i": 527,
+   "speaker": "Мисато",
+   "text": "「Срочное сообщение из штаба NERV!\n　К Токио-3 приближается Ангел!」",
+   "orig": "Misato\n「Incoming communique from NERV HQ!\n　There's an Angel on approach to Tokyo-3!」"
+  },
+  {
+   "i": 528,
+   "speaker": "Отто",
+   "text": "「Что?」",
+   "orig": "Otto\n「What?」"
+  },
+  {
+   "i": 529,
+   "speaker": "Окита",
+   "text": "（Неужели командующая Икари предвидела это, \n　когда вызывала нас на помощь?）",
+   "orig": "Okita\n（Did Commander Ikari anticipate this \n　situation when she called us in to help?）"
+  },
+  {
+   "i": 530,
+   "speaker": "Брайт",
+   "text": "「То «нечто», что рушит порядок, о котором говорит\n　род Драконов... Неужели это Ангел?」",
+   "orig": "Bright\n「That \"something\" here to destroy order, as the\n　Dragon clan says... Could it be the Angel?」"
+  },
+  {
+   "i": 531,
+   "speaker": "Саламандинай",
+   "text": "「Похоже, на этом его силы не исчерпываются.」",
+   "orig": "Salamandinay\n「That's not all it seems it can do.」"
+  },
+  {
+   "i": 532,
+   "speaker": "Саламандинай",
+   "text": "「Тех, кто нарушает мир и согласие, следует\n　считать врагами этого мира, а значит, нам стоит\n　работать сообща ради их общего поражения.」",
+   "orig": "Salamandinay\n「Those who disturb peace and harmony should\n　be considered enemies of the world, and thus we\n　should work toward the common goal of defeating them.」"
+  },
+  {
+   "i": 533,
+   "speaker": "Анж",
+   "text": "「Мне достаточно знать, куда стрелять!\n　Все по машинам!」",
+   "orig": "Ange\n「All I need to know is, where to shoot!\n　Everyone to your machines!」"
+  },
+  {
+   "i": 534,
+   "speaker": "Мисато",
+   "text": "「Анж, погоди.\n　Ангел будет здесь ещё не скоро.」",
+   "orig": "Misato\n「Ange, wait.\n　It'll be some time before the Angel arrives.」"
+  },
+  {
+   "i": 535,
+   "speaker": "Анж",
+   "text": "「Значит, перехватим его на подлёте.」",
+   "orig": "Ange\n「We should intercept it before it gets here.」"
+  },
+  {
+   "i": 536,
+   "speaker": "Мисато",
+   "text": "「Это невозможно.」",
+   "orig": "Misato\n「That won't be possible.」"
+  },
+  {
+   "i": 537,
+   "speaker": "Мисато",
+   "text": "「Восьмой Ангел спускается из космоса.」",
+   "orig": "Misato\n「The Eighth Angel is descending from space.」"
+  },
+  {
+   "i": 538,
+   "speaker": "Брайт",
+   "text": "「Что?」",
+   "orig": "Bright\n「What?」"
+  },
+  {
+   "i": 539,
+   "speaker": "Сумераги",
+   "text": "「Вот и всё, но сведения командира Джилл и Саламандинай\n　вместе складываются в цельную историю измерения A.D.」",
+   "orig": "Sumeragi\n「That's it, but the info from Commander Jill and Salamandinay\n　creates a comprehensive history of the AD dimension.」"
+  },
+  {
+   "i": 540,
+   "speaker": "Брайт",
+   "text": "「Возможно, но принять такую связь между  \n　нашими двумя мирами всё-таки непросто.」",
+   "orig": "Bright\n「It might be, but it's a little hard to take  \n　in this connection between our two worlds.」"
+  },
+  {
+   "i": 541,
+   "speaker": "Хаято",
+   "text": "「В общих чертах с Драконами, Эмбрио и Рагна-Мейлами \n　ясно, но кое о чём я всё же хотел бы спросить.」",
+   "orig": "Hayato\n「I understand the overall gist of the Dragons, Embryo, and \n　the Ragna-Mail, but there's still something I'd like to ask.」"
+  },
+  {
+   "i": 542,
+   "speaker": "Саламандинай",
+   "text": "「И о чём же?」",
+   "orig": "Salamandinay\n「And what is that?」"
+  },
+  {
+   "i": 543,
+   "speaker": "Рёма",
+   "text": "「Мы — пилоты «Геттер-роботов».」",
+   "orig": "Ryoma\n「We're the Getter Robot pilots.」"
+  },
+  {
+   "i": 544,
+   "speaker": "Саламандинай",
+   "text": "「Да, я знаю.」",
+   "orig": "Salamandinay\n「Yes, I know.」"
+  },
+  {
+   "i": 545,
+   "speaker": "Анж",
+   "text": "「Сала, ты знаешь пилотов «Геттера»?」",
+   "orig": "Ange\n「Sala, you know the Getter pilots?」"
+  },
+  {
+   "i": 546,
+   "speaker": "Бэнкэй",
+   "text": "「Ещё бы не знать. \n　Драконы считают Геттер-лучи враждебными.」",
+   "orig": "Benkei\n「Sure, she does. \n　The Dragons see the Getter Rays as hostile.」"
+  },
+  {
+   "i": 547,
+   "speaker": "Саламандинай",
+   "text": "「«Враждебные» — пожалуй, \n　не то слово.」",
+   "orig": "Salamandinay\n「\"Hostile\" might not be \n　the correct term.」"
+  },
+  {
+   "i": 548,
+   "speaker": "Рёма",
+   "text": "「В смысле — потому что «Геттеры» и Драконы схожи?」",
+   "orig": "Ryoma\n「You mean, because the Getter Robots and Dragons are alike?」"
+  },
+  {
+   "i": 549,
+   "speaker": "Саламандинай",
+   "text": "「Именно так.」",
+   "orig": "Salamandinay\n「That would be correct.」"
+  },
+  {
+   "i": 550,
+   "speaker": "Тиерия",
+   "text": "「В каком смысле?」",
+   "orig": "Tieria\n「What do you mean?」"
+  },
+  {
+   "i": 551,
+   "speaker": "Синн",
+   "text": "「Я что-то не улавливаю, к чему всё идёт.」",
+   "orig": "Shinn\n「I'm not seeing where this is going.」"
+  },
+  {
+   "i": 552,
+   "speaker": "Рёма",
+   "text": "「Короче говоря, принцесса хочет сказать, \n　что драгуний — это и есть Геттер-лучи.」",
+   "orig": "Ryoma\n「In short, what the princess is saying is \n　that Dragunium is Getter Rays.」"
+  },
+  {
+   "i": 553,
+   "speaker": "Кодзи",
+   "text": "「Что?」",
+   "orig": "Koji\n「What?」"
+  },
+  {
+   "i": 554,
+   "speaker": "Амуро",
+   "text": "「Да, говорят, что драгуний — разновидность космических \n　лучей, но это, по-моему, уже перебор.」",
+   "orig": "Amuro\n「True, it's said that Dragunium is a type of cosmic ray, \n　but I think that might be going too far.」"
+  },
+  {
+   "i": 555,
+   "speaker": "Хаято",
+   "text": "「Драконы существуют, чтобы кристаллизовать драгуний.\n　Иначе говоря — чтобы поглощать Геттер-лучи.」",
+   "orig": "Hayato\n「Dragons exist to crystallize Dragunium.\n　Or in other words, exist to absorb Getter Rays.」"
+  },
+  {
+   "i": 556,
+   "speaker": "Рёма",
+   "text": "「Способность подавлять\n　Геттер-лучи.」",
+   "orig": "Ryoma\n「The ability to inhibit\n　Getter Rays.」"
+  },
+  {
+   "i": 557,
+   "speaker": "Рёма",
+   "text": "「Вот только истинной силе, что мы можем пробудить\n　в «Син Геттер Роботах», ей не противостоять.」",
+   "orig": "Ryoma\n「However, that is no match for the true power we\n　can awaken in the Shin Getter Robots.」"
+  },
+  {
+   "i": 558,
+   "speaker": "Саламандинай",
+   "text": "「Хорошо сказано, воин драгуния.\n　Чутьё тебя не подводит.」",
+   "orig": "Salamandinay\n「Well spoken, Dragunium Warrior.\n　Your intuition serves you well.」"
+  },
+  {
+   "i": 559,
+   "speaker": "Хаято",
+   "text": "「Мы с этим работаем уже давно.」",
+   "orig": "Hayato\n「We've been working with it a long time.」"
+  },
+  {
+   "i": 560,
+   "speaker": "Рёма",
+   "text": "「Похоже, вы уже немало знали о Драконах, \n　доктор Саотомэ.」",
+   "orig": "Ryoma\n「It sounds like you know a lot about the \n　existence of Dragons already, Dr. Saotome.」"
+  },
+  {
+   "i": 561,
+   "speaker": "Бэнкэй",
+   "text": "「Ничего себе. Существа, что и впрямь поглощают лучи.」",
+   "orig": "Benkei\n「Wow. Organisms that actually absorb Getter Rays.」"
+  },
+  {
+   "i": 562,
+   "speaker": "Рёма",
+   "text": "「Ну тогда немудрено, что новый\n　«Син Геттер» вы прозвали «Драконом».」",
+   "orig": "Ryoma\n「Well then, I guess it's no wonder you\n　dubbed the new Shin Getter, \"Dragon.\"」"
+  },
+  {
+   "i": 563,
+   "speaker": "Брайт",
+   "text": "「То есть вы хотите сказать, что остаточное\n　заражение Геттер-лучами пятнадцатилетней давности \n　рассеялось быстрее срока из-за Драконов?」",
+   "orig": "Bright\n「So what you are saying is that the residual\n　Getter Ray pollution from 15 years ago \n　dissipated faster than expected because of Dragons?」"
+  },
+  {
+   "i": 564,
+   "speaker": "Саламандинай",
+   "text": "「По велению нашей предводительницы, Верховной жрицы,\n　наши братья и сёстры были отправлены\n　помогать очищению.」",
+   "orig": "Salamandinay\n「Under the direction of our leader the High Priestess\n　our friends and fellows have been dispatched to\n　aide in the purification.」"
+  },
+  {
+   "i": 565,
+   "speaker": "Хатауэй",
+   "text": "「Значит, наш мир... спасли Драконы.」",
+   "orig": "Hathaway\n「So our world was...saved by Dragons.」"
+  },
+  {
+   "i": 566,
+   "speaker": "Саламандинай",
+   "text": "「Боясь повторить ошибки предков,\n　мы оборвали всякую связь с внешним миром.」",
+   "orig": "Salamandinay\n「Afraid of making the same mistakes as our ancestors,\n　we cut off contact with the outside world.」"
+  },
+  {
+   "i": 567,
+   "speaker": "Саламандинай",
+   "text": "「Но гибели этого мира мы не желаем.\n　Эта планета нам очень дорога.」",
+   "orig": "Salamandinay\n「But we do not wish the destruction of the world.\n　This planet is very dear to us.」"
+  },
+  {
+   "i": 568,
+   "speaker": "Джудо",
+   "text": "「Если вы и правда так думаете,\n　то я уверен — мы можем стать друзьями и союзниками.」",
+   "orig": "Judau\n「If you truly believe that,\n　then I am positive we can be friends and allies.」"
+  },
+  {
+   "i": 569,
+   "speaker": "Амуро",
+   "text": "「Как и Анж с остальными Нормами,\n　мы по незнанию обстоятельств\n　были вашими врагами.」",
+   "orig": "Amuro\n「Like Ange and the other Normas,\n　in our ignorance of the situation,\n　we were your enemies.」"
+  },
+  {
+   "i": 570,
+   "speaker": "Саламандинай",
+   "text": "「Это крайне прискорбно.」",
+   "orig": "Salamandinay\n「It is most unfortunate.」"
+  },
+  {
+   "i": 571,
+   "speaker": "Амуро",
+   "text": "「Но теперь, когда все мы знаем правду,\n　разве мы не можем найти общий язык?」",
+   "orig": "Amuro\n「But now that we all know the truth,\n　how can we not come to a compromise?」"
+  },
+  {
+   "i": 572,
+   "speaker": "Саламандинай",
+   "text": "「Ещё совсем недавно\n　я бы наотрез отвергла ваше предложение.」",
+   "orig": "Salamandinay\n「Until just a little while ago,\n　I would have flatly rejected your offer.」"
+  },
+  {
+   "i": 573,
+   "speaker": "Саламандинай",
+   "text": "「Однако теперь, понимая, насколько узко \n　я мыслила, я с радостью приму ваше предложение.」",
+   "orig": "Salamandinay\n「However, now in light of how narrow-minded I \n　have been, I am delighted to accept your offer.」"
+  },
+  {
+   "i": 574,
+   "speaker": "Анж",
+   "text": "「Сала.」",
+   "orig": "Ange\n「Sala.」"
+  },
+  {
+   "i": 575,
+   "speaker": "Саламандинай",
+   "text": "「Анж.\n　Это ты заставила меня передумать.\n　И потому я с радостью встану с тобой плечом к плечу.」",
+   "orig": "Salamandinay\n「Ange.\n　You were the one who changed my mind.\n　And so I will gladly fight side by side with you.」"
+  },
+  {
+   "i": 576,
+   "speaker": "Таск",
+   "text": "「Я тоже, Анж.\n　Только теперь я буду драться рядом с тобой не как \n　Рыцарь «Вилькисса», а как Рыцарь Анж.」",
+   "orig": "Tusk\n「Me too, Ange.\n　But I will no longer fight by your side as a \n　Knight of Villkiss, but rather, as a Knight of Ange.」"
+  },
+  {
+   "i": 577,
+   "speaker": "Анж",
+   "text": "「Спасибо, Таск.」",
+   "orig": "Ange\n「Thank you, Tusk.」"
+  },
+  {
+   "i": 578,
+   "speaker": "Сумераги",
+   "text": "「Эмбрио охотится за Анж.\n　А значит, защищать её — наша общая задача.」",
+   "orig": "Sumeragi\n「Ange is Embryo's target.\n　And so it falls to all of us to protect her.」"
+  },
+  {
+   "i": 579,
+   "speaker": "Отто",
+   "text": "「Потому что хочет вернуть украденный Рагна-Мейл?」",
+   "orig": "Otto\n「Because he wants to recover the stolen Ragna-Mail?」"
+  },
+  {
+   "i": 580,
+   "speaker": "Сумераги",
+   "text": "「Дело куда более личное.\n　По сути, ему нужна \n　сама Анж.」",
+   "orig": "Sumeragi\n「It's more personal than that.\n　In essence, he wants to \n　obtain Ange herself.」"
+  },
+  {
+   "i": 581,
+   "speaker": "Анж",
+   "text": "「Прекрати.\n　От одной мысли о том, как он на меня\n　смотрит, мурашки по коже.」",
+   "orig": "Ange\n「Stop it.\n　The very thought of the way he\n　looks at me is giving me the creeps.」"
+  },
+  {
+   "i": 582,
+   "speaker": "Кодзи",
+   "text": "「Но ты же теперь в этом мире. \n　Никак он не сможет \n　выследить тебя здесь.」",
+   "orig": "Koji\n「But now you are here in this world. \n　There's no way he \n　can track you to here.」"
+  },
+  {
+   "i": 583,
+   "speaker": "Таск",
+   "text": "「Тут ты ошибаешься.」",
+   "orig": "Tusk\n「You would be mistaken.」"
+  },
+  {
+   "i": 584,
+   "speaker": "Хаято",
+   "text": "「Ты что, забыл, Кодзи?\n　Эмбрио родом как раз из этого мира.」",
+   "orig": "Hayato\n「Have you forgotten, Koji?\n　Embryo is originally from this world.」"
+  },
+  {
+   "i": 585,
+   "speaker": "Кодзи",
+   "text": "「Ох.」",
+   "orig": "Koji\n「Ugh.」"
+  },
+  {
+   "i": 586,
+   "speaker": "Таск",
+   "text": "「Силой драгуния он способен \n　управлять пространством и временем.」",
+   "orig": "Tusk\n「He can manipulate time and space \n　through the power of Dragunium.」"
+  },
+  {
+   "i": 587,
+   "speaker": "Саламандинай",
+   "text": "「Он сумел проникнуть \n　даже за наш Драконий барьер.」",
+   "orig": "Salamandinay\n「He was even able to \n　infiltrate our Dragon Barrier.」"
+  },
+  {
+   "i": 588,
+   "speaker": "Нага",
+   "text": "「Принцесса Саламандинай!\n　У нас чрезвычайное положение!」",
+   "orig": "Naga\n「Princess Salamandinay!\n　We have an emergency!」"
+  },
+  {
+   "i": 589,
+   "speaker": "Саламандинай",
+   "text": "「Что случилось?」",
+   "orig": "Salamandinay\n「What is it?」"
+  },
+  {
+   "i": 590,
+   "speaker": "Канамэ",
+   "text": "「Верховная жрица говорит: здесь нечто, рушащее порядок!」",
+   "orig": "Kaname\n「The High Priestess says something is here to order!」"
+  },
+  {
+   "i": 591,
+   "speaker": "Саламандинай",
+   "text": "「Что?」",
+   "orig": "Salamandinay\n「What?」"
+  },
+  {
+   "i": 592,
+   "speaker": "Сумераги",
+   "text": "「Рушащее порядок?」",
+   "orig": "Sumeragi\n「Destroy order?」"
+  },
+  {
+   "i": 593,
+   "speaker": "Мисато",
+   "text": "「Срочное сообщение из штаба NERV!\n　К Токио-3 приближается Ангел!」",
+   "orig": "Misato\n「Incoming communique from NERV HQ!\n　There's an Angel on approach to Tokyo-3!」"
+  },
+  {
+   "i": 594,
+   "speaker": "Отто",
+   "text": "「Что?」",
+   "orig": "Otto\n「What?」"
+  },
+  {
+   "i": 595,
+   "speaker": "Окита",
+   "text": "（Неужели командующая Икари предвидела это, \n　когда вызывала нас на помощь?）",
+   "orig": "Okita\n（Did Commander Ikari anticipate this \n　situation when she called us in to help?）"
+  },
+  {
+   "i": 596,
+   "speaker": "Брайт",
+   "text": "「То «нечто», что рушит порядок, о котором говорит\n　род Драконов... Неужели это Ангел?」",
+   "orig": "Bright\n「That \"something\" here to destroy order, as the\n　Dragon clan says... Could it be the Angel?」"
+  },
+  {
+   "i": 597,
+   "speaker": "Саламандинай",
+   "text": "「Похоже, на этом его силы не исчерпываются.」",
+   "orig": "Salamandinay\n「That's not all it seems it can do.」"
+  },
+  {
+   "i": 598,
+   "speaker": "Саламандинай",
+   "text": "「Тех, кто нарушает мир и согласие, следует\n　считать врагами этого мира, а значит, нам стоит\n　работать сообща ради их общего поражения.」",
+   "orig": "Salamandinay\n「Those who disturb peace and harmony should\n　be considered enemies of the world, and thus we\n　should work toward the common goal of defeating them.」"
+  },
+  {
+   "i": 599,
+   "speaker": "Анж",
+   "text": "「Мне достаточно знать, куда стрелять!\n　Все по машинам!」",
+   "orig": "Ange\n「All I need to know is, where to shoot!\n　Everyone to your machines!」"
+  },
+  {
+   "i": 600,
+   "speaker": "Мисато",
+   "text": "「Анж, погоди.\n　Ангел будет здесь ещё не скоро.」",
+   "orig": "Misato\n「Ange, wait.\n　It'll be some time before the Angel arrives.」"
+  },
+  {
+   "i": 601,
+   "speaker": "Анж",
+   "text": "「Тогда ударим по нему первыми.」",
+   "orig": "Ange\n「Then we should attack it before it does.」"
+  },
+  {
+   "i": 602,
+   "speaker": "Мисато",
+   "text": "「Это невозможно.」",
+   "orig": "Misato\n「That won't be impossible.」"
+  },
+  {
+   "i": 603,
+   "speaker": "Мисато",
+   "text": "「Восьмой Ангел спускается из космоса.」",
+   "orig": "Misato\n「The Eighth Angel is descending from space.」"
+  },
+  {
+   "i": 604,
+   "speaker": "Брайт",
+   "text": "「Что?」",
+   "orig": "Bright\n「What?」"
+  }
+ ]
+}

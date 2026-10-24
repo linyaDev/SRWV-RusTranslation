@@ -1,0 +1,1618 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Хикару",
+   "text": "「Силы противника на подходе! Скоро будут здесь!」",
+   "orig": "Hikaru\n「Enemy forces on approach! Arriving soon!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Эмма",
+   "text": "「Почему…\n　Почему они так поступают?」",
+   "orig": "Emma\n「Why—\n　Why are they doing this?」"
+  },
+  {
+   "i": 2,
+   "speaker": "Джилл",
+   "text": "「Не опускайте руки, генеральный инспектор.\n　Какие бы предлоги они ни искали,\n　оставить Арзенал в покое они не могут.」",
+   "orig": "Jill\n「Don't give up, Inspector General.\n　No matter what kind of excuse they try to make\n　they really can't just leave Arzenal be.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Эмма",
+   "text": "「Но сюда идут войска\n　Стран-основателей.」",
+   "orig": "Emma\n「But those are troops of the \n　Founding Nations headed this way.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Рури",
+   "text": "「К сожалению, они вне юрисдикции\n　Сил Земной Федерации.\n　Остановить их мы не в силах.」",
+   "orig": "Ruri\n「Unfortunately, they are outside the \n　jurisdiction of the Earth Federation Forces.\n　There is nothing we can do to stop them.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Лакус",
+   "text": "「И всё же нельзя позволить им\n　и дальше творить произвол.」",
+   "orig": "Lacus\n「That said, we can't let them continue  \n　their reign of tyranny any further.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Рури",
+   "text": "「Мы будем сражаться, защищая себя\n　и жизни наших товарищей.」",
+   "orig": "Ruri\n「We will fight to defend ourselves,\n　and to protect the lives of our allies.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Сумераги",
+   "text": "「Но учтите, Джилл.\n　Мы делаем это не по вашему плану.」",
+   "orig": "Sumeragi\n「But know this, Jill.\n　We aren't doing this in accordance to your plans.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Сумераги",
+   "text": "「За эти две недели мы шли\n　той дорогой, которую выбрали сами.」",
+   "orig": "Sumeragi\n「During the last two weeks\n　we have followed a path of our own choosing.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Джилл",
+   "text": "「Пусть так.」",
+   "orig": "Jill\n「So be it.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Грэм",
+   "text": "（В Силах Земной Федерации есть те, кто сомневается\n　в Странах-основателях и потому помогает нам.）",
+   "orig": "Graham\n（There are those in the EFF who have doubts over\n　the Founding Nations, and so supporting us as well.）"
+  },
+  {
+   "i": 11,
+   "speaker": "Коласур",
+   "text": "（Спасибо, командир… то есть бригадный генерал.）",
+   "orig": "Colasour\n（Thank you, Commander— I mean Brigadier General.）"
+  },
+  {
+   "i": 12,
+   "speaker": "Иан",
+   "text": "「Майор Грэм, командир Маннекин!\n　Ваши машины доработаны\n　под использование TRANS-AM!」",
+   "orig": "Ian\n「Major Graham, Commander Mannequin!\n　Your machines have been \n　modified to use TRANS-AM!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Коласур",
+   "text": "「Принял!\n　Значит, TRANS-AM больше не привилегия\n　одних только «Гандамов»!」",
+   "orig": "Colasour\n「Roger!\n　TRANS-AM tech isn't limited\n　to just the Gundams anymore!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Грэм",
+   "text": "（Билли Катагири, друг мой.\n　Говорят, это плод твоих исследований.\n　Почту за честь применить его в бою.）",
+   "orig": "Graham\n（Billy Katagiri, my friend.\n　I heard this was the result of your research.\n　It shall be my honor to use it in battle.）"
+  },
+  {
+   "i": 15,
+   "speaker": "Тиерия",
+   "text": "「Мощность моего «Рафаэля» тоже подняли —\n　он сильнее, чем когда-либо.」",
+   "orig": "Tieria\n「It has also strengthened the output of my Raphael,\n　making it more powerful than ever.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Иан",
+   "text": "「Локон, Аллилуйя!\n　На ваши «Гандамы» поставили дополнительные модули!\n　Проблем с ними возникнуть не должно!」",
+   "orig": "Ian\n「Lockon, Allelujah!\n　Your Gundams have been equipped with additional parts!\n　You should be able to use them without a problem!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Иан",
+   "text": "「Сэцуна!\n　Твин-драйв QAN[T] перенастроили\n　на работу в полную мощность!」",
+   "orig": "Ian\n「Setsuna!\n　The QAN[T]'s Twin Drive has been readjusted\n　to operate at full-output capacity!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Сэцуна",
+   "text": "（Не в этом истинная суть QAN[T],\n　но в нынешнем бою и это пригодится.）",
+   "orig": "Setsuna\n（That's not the true nature of the QAN[T]\n　but it might be of good use in this battle.）"
+  },
+  {
+   "i": 19,
+   "speaker": "Фельдт",
+   "text": "「Силы противника быстро приближаются!」",
+   "orig": "Feldt\n「Enemy forces closing fast!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Розали",
+   "text": "「Да сколько же их там, чёрт возьми?」",
+   "orig": "Rosalie\n「Good grief, how many of them are there?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Крис",
+   "text": "「Э-это же мобильные доспехи\n　из измерения Вселенского века!」",
+   "orig": "Chris\n「Th-those are Universal Century Dimension mobile suits!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Синн",
+   "text": "「Откуда у них машины\n　из другого измерения?!」",
+   "orig": "Shinn\n「How did they get ahold of \n　machines from another dimension?!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Майто",
+   "text": "「Не иначе Альянс DG или Марсианские преемники.」",
+   "orig": "Maito\n「No doubt the DG Alliance or Martian Successors.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Бандзё",
+   "text": "「Странам-основателям такое точно не по зубам.」",
+   "orig": "Banjo\n「That tech is definitely beyond the Founding Nations.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Джулио",
+   "text": "「Слышите меня, нормы и их союзники?\n　Я — Джулио I, император Святой империи Мисуруги.」",
+   "orig": "Julio\n「Can you hear me, Normas and allies?\n　This is Emperor Julio I of the Holy Misurugi Empire.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Каппэй",
+   "text": "「Это тот самый дурак-император, что был тогда!」",
+   "orig": "Kappei\n「It's that fool emperor we encountered earlier!」"
+  },
+  {
+   "i": 27,
+   "speaker": "$n",
+   "text": "「Сам повёл войска.\n　А он не из робких, да?」",
+   "orig": "$n\n「Leading his own forces.\n　Kinda ballsy, isn't he?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Джулио",
+   "text": "「Вы не только, прикрываясь правами автономной силы,\n　вторглись в пределы Святой империи, но и повинны\n　в укрывательстве преступницы Анжелиз.」",
+   "orig": "Julio\n「You have not only used your authority as an autonomous\n　force to trespass into the Holy Empire, but committed the \n　crime of harboring and shielding the criminal Angelise.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Рури",
+   "text": "「Как вы и сказали, мы\n　сознательно воспользовались своим правом.」",
+   "orig": "Ruri\n「As you have pointed out, we \n　have willingly exercised our rights.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Джулио",
+   "text": "「Я не оставлю подобное безнаказанным!」",
+   "orig": "Julio\n「I cannot allow those actions to go unpunished!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Джулио",
+   "text": "「А посему именем Стран-основателей\n　вы будете уничтожены!」",
+   "orig": "Julio\n「Therefore, in the name of the Founding\n　Nations, you will be destroyed!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Рури",
+   "text": "「Что ж.\n　Вас занимает месть — око за око.」",
+   "orig": "Ruri\n「Very well.\n　You are interested in an eye for an eye revenge.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Лакус",
+   "text": "「Ваши личные обиды нас не касаются.」",
+   "orig": "Lacus\n「Your personal grudges don't interest us.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Сумераги",
+   "text": "「Всем подразделениям — на вылет!\n　Защитить Арзенал любой ценой!」",
+   "orig": "Sumeragi\n「All forces, launch!\n　Protect Arzenal at all cost!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Розали",
+   "text": "「Да сколько же их там, чёрт возьми?」",
+   "orig": "Rosalie\n「Good grief, how many of them are there?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Крис",
+   "text": "「Э-это же мобильные доспехи\n　из измерения Вселенского века!」",
+   "orig": "Chris\n「Th-those are Universal Century Dimension mobile suits!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Синн",
+   "text": "「Откуда у них машины\n　из другого измерения?!」",
+   "orig": "Shinn\n「How did they get ahold of \n　machines from another dimension?!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Майто",
+   "text": "「Не иначе Альянс DG или Марсианские преемники.」",
+   "orig": "Maito\n「No doubt the DG Alliance or Martian Successors.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Бандзё",
+   "text": "「Странам-основателям такое точно не по зубам.」",
+   "orig": "Banjo\n「That tech is definitely beyond the Founding Nations.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Джулио",
+   "text": "「Слышите меня, нормы и их союзники?\n　Я — Джулио I, император Святой империи Мисуруги.」",
+   "orig": "Julio\n「Can you hear me, Normas and allies?\n　This is Emperor Julio I of the Holy Misurugi Empire.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Каппэй",
+   "text": "「Это тот самый дурак-император, что был тогда!」",
+   "orig": "Kappei\n「It's that fool emperor we encountered earlier!」"
+  },
+  {
+   "i": 42,
+   "speaker": "$n",
+   "text": "「Сам повёл войска.\n　А он не из робких, да?」",
+   "orig": "$n\n「Leading his own forces.\n　Kinda ballsy, isn't he?」"
+  },
+  {
+   "i": 43,
+   "speaker": "Джулио",
+   "text": "「Вы не только, прикрываясь правами автономной силы,\n　вторглись в пределы Святой империи, но и повинны\n　в укрывательстве преступницы Анжелиз.」",
+   "orig": "Julio\n「You have not only used your authority as an autonomous\n　force to trespass into the Holy Empire, but committed the \n　crime of harboring and shielding the criminal Angelise.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Рури",
+   "text": "「Как вы и сказали, мы\n　сознательно воспользовались своим правом.」",
+   "orig": "Ruri\n「As you have pointed out, we \n　have willingly exercised our rights.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Джулио",
+   "text": "「Я не оставлю подобное безнаказанным!」",
+   "orig": "Julio\n「I cannot allow those actions to go unpunished!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Джулио",
+   "text": "「А посему именем Стран-основателей\n　вы будете уничтожены!」",
+   "orig": "Julio\n「Therefore, in the name of the Founding\n　Nations, you will be destroyed!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Рури",
+   "text": "「Что ж.\n　Вас занимает месть — око за око.」",
+   "orig": "Ruri\n「Very well.\n　You are interested in an eye for an eye revenge.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Лакус",
+   "text": "「Ваши личные обиды нас не касаются.」",
+   "orig": "Lacus\n「Your personal grudges don't interest us.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Сумераги",
+   "text": "「Всем подразделениям — на вылет!\n　Защитить Арзенал любой ценой!」",
+   "orig": "Sumeragi\n「All forces, launch!\n　Protect Arzenal at all cost!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Джулио",
+   "text": "「Что?\n　Похоже, Анжелиз здесь нет!」",
+   "orig": "Julio\n「What?\n　Angelise does not appear to be here!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Каппэй",
+   "text": "「Если ты ищешь Анж,\n　то где она — сейчас никто не знает.」",
+   "orig": "Kappei\n「If you are looking for Ange,\n　her whereabouts are currently unknown.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Джулио",
+   "text": "「Быть не может!」",
+   "orig": "Julio\n「That can't be!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Хильда",
+   "text": "「И что с того?」",
+   "orig": "Hilda\n「So what of it?」"
+  },
+  {
+   "i": 54,
+   "speaker": "Джулио",
+   "text": "「Я пришёл увидеть её слёзы страха и боли!\n　Иначе в этом нападении нет никакого смысла!」",
+   "orig": "Julio\n「I came here to witness her tears of fear and pain!\n　This attack has no meaning otherwise!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Джулио",
+   "text": "「Я возвращаюсь в Мисуруги!\n　Остальные — делайте что хотите!」",
+   "orig": "Julio\n「I'm returning to Misurugi!\n　The rest of you do as you like!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Лунамария",
+   "text": "「Это ещё что такое?」",
+   "orig": "Lunamaria\n「What was that?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Бандзё",
+   "text": "「У этого парня явно нелады в семье.」",
+   "orig": "Banjo\n「That guy definitely has some family issues.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Салия",
+   "text": "「Похоже, на Анж зуб у всех подряд.」",
+   "orig": "Salia\n「Seems everyone has it in for Ange.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Эрша",
+   "text": "「Салия?」",
+   "orig": "Ersha\n「Salia?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Салия",
+   "text": "「Арзенал защищу я!\n　Вот увидите!」",
+   "orig": "Salia\n「I'm going to be the one to defend Arzenal!\n　Just watch!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Джилл",
+   "text": "「Памела.\n　Отзывай все силы.」",
+   "orig": "Jill\n「Pamela.\n　Recall all forces.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Памела",
+   "text": "「Е-есть!」",
+   "orig": "Pamela\n「R-roger!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Джилл",
+   "text": "「Сумераги, если продержитесь\n　ещё четыре минуты,\n　мы успеем отойти.」",
+   "orig": "Jill\n「Sumeragi, if you can hold your\n　position for the next four minutes,\n　we can use that time to withdraw.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Милейна",
+   "text": "「Ч-что?」",
+   "orig": "Mileina\n「Wh-what?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Сумераги",
+   "text": "「Даже если сегодня мы победим,\n　защищать Арзенал от Стран-основателей\n　и дальше мы не сможем.」",
+   "orig": "Sumeragi\n「Even if victorious today,\n　we can't continue to defend Arzenal\n　from the Founding Nations.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Сумераги",
+   "text": "「Вам нужно эвакуироваться!」",
+   "orig": "Sumeragi\n「You need to evacuate!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Розали",
+   "text": "「Б-бросить Арзенал, что ли?」",
+   "orig": "Rosalie\n「Y-you mean abandon Arzenal?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Крис",
+   "text": "「Да и ладно.\n　Добрых воспоминаний у меня тут всё равно нет.」",
+   "orig": "Chris\n「Fine by me.\n　Not like I have fond memories of this place anyway.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Хильда",
+   "text": "「Крис…」",
+   "orig": "Hilda\n「Chris...」"
+  },
+  {
+   "i": 70,
+   "speaker": "Рури",
+   "text": "「Всем пилотам — подтвердите приказ.\n　Держите фронт четыре минуты\n　и дайте нам время на эвакуацию.」",
+   "orig": "Ruri\n「All pilots, confirm that order.\n　Hold the front for the next four \n　minutes to buy us time to evacuate.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Эрша",
+   "text": "（Прощайте, малыши из детского отделения.\n　Берегите себя.）",
+   "orig": "Ersha\n（So long, little ones of the Infant Section.\n　Be safe.）"
+  },
+  {
+   "i": 72,
+   "speaker": "Салия",
+   "text": "「Эвакуацию возглавит\n　3-й отряд Пара-Мейлов.」",
+   "orig": "Salia\n「Evacuation will be led by \n　the 3rd Para-Mail Squad.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Хильда",
+   "text": "「Это Таня и Ирма.\n　Доверим им — они справятся.」",
+   "orig": "Hilda\n「That's Tanya and Irma.\n　Leave it to them. They can handle it.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Салия",
+   "text": "「А наше дело —\n　разделаться с врагом!」",
+   "orig": "Salia\n「And our job is to\n　take the enemy down!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Сумераги",
+   "text": "「Всем пилотам — в атаку!\n　Сократите их число как можно быстрее!」",
+   "orig": "Sumeragi\n「All pilots, attack!\n　Work to reduce their numbers as quickly as possible!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Харри",
+   "text": "「Засекаю необычную реакцию!」",
+   "orig": "Harry\n「Singular reaction detected!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Юрика",
+   "text": "「Да вы шутите!\n　Драконов нам сейчас только и не хватало!」",
+   "orig": "Yurika\n「You gotta be kidding!\n　Dragons are the last thing we need now!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Салия",
+   "text": "「«Вилькисс»!」",
+   "orig": "Salia\n「The Villkiss!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Момока",
+   "text": "「Анжелиз, это вы?!」",
+   "orig": "Momoka\n「Is that you Angelise?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Анж",
+   "text": "「Именно!\n　И «Вилькисс», и Таска я притащила с собой.」",
+   "orig": "Ange\n「That's right!\n　I've brought the Villkiss and Tusk along with me.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Таск",
+   "text": "「Я тут иду в нагрузку.」",
+   "orig": "Tusk\n「I'm the added bonus.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Анж",
+   "text": "「Хмф. Разве тебе не было бы\n　приятнее остаться там\n　на уроках полового просвещения?」",
+   "orig": "Ange\n「Hmph. Wouldn't you have\n　been happier if you had stayed\n　behind to be taught sexual education?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Таск",
+   "text": "「Ну брось. Я изо всех сил возвращаю твоё доверие.」",
+   "orig": "Tusk\n「C'mon. I'm trying hard to earn back your lost trust.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Синн",
+   "text": "「Половое просвещение? Ох уж эти мужики!」",
+   "orig": "Shinn\n「Sexual education? Typical of a man!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Атрун",
+   "text": "「Похоже, нелегко тебе пришлось эти две недели, Таск.」",
+   "orig": "Athrun\n「Sounds like you had it hard these last two weeks Tusk.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Анж",
+   "text": "「Вивиан, ты точно\n　хочешь лететь с нами?」",
+   "orig": "Ange\n「Vivian, are you \n　okay coming with us?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Вивиан",
+   "text": "「Эти две недели с ней были мне в радость,\n　но что я чувствую к маме — я так и не поняла.」",
+   "orig": "Vivian\n「Though I was happy to spend the two weeks with her,\n　I'm still not sure how I feel about my mother.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Вивиан",
+   "text": "「А когда я узнала, что Арзеналу туго,\n　я не смогла бросить друзей, которым нужна.」",
+   "orig": "Vivian\n「Especially after hearing Arzenal is in a pinch.\n　I couldn't just ignore the fact my friends need me.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Эрша",
+   "text": "「Вивиан!」",
+   "orig": "Ersha\n「Vivian!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Розали",
+   "text": "「А кто там в красной машине?」",
+   "orig": "Rosalie\n「So, who's in the red machine?」"
+  },
+  {
+   "i": 91,
+   "speaker": "Саламандинай",
+   "text": "「Меня зовут Саламандинай.\n　Я прибыла, чтобы помочь.」",
+   "orig": "Salamandinay\n「My name is Salamandinay.\n　I've come to be of assistance.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Хильда",
+   "text": "「Анж!\n　Как и с чего ты вообще\n　сдружилась с главой драконов?!」",
+   "orig": "Hilda\n「Ange!\n　How and why have you \n　befriended that Dragon leader?!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Анж",
+   "text": "「Объясню позже.\n　Сейчас нам пригодится любая помощь!」",
+   "orig": "Ange\n「I'll explain later.\n　Right now, we need all the help we can get!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Саламандинай",
+   "text": "「Анж, ты открыла мне глаза\n　на куда больший мир.」",
+   "orig": "Salamandinay\n「Ange, you have opened \n　my eyes to a larger world.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Анж",
+   "text": "「Тем, что объяснила, чем на деле был игровой зал?」",
+   "orig": "Ange\n「By revealing to you what the video arcade really was?」"
+  },
+  {
+   "i": 96,
+   "speaker": "Саламандинай",
+   "text": "「Э-это было ровно то лекарство, что мне требовалось.」",
+   "orig": "Salamandinay\n「I-it was a clearly the dose of medicine I needed.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Таск",
+   "text": "（Иначе говоря, её это здорово подкосило.）",
+   "orig": "Tusk\n（In other words, it was a real shock.）"
+  },
+  {
+   "i": 98,
+   "speaker": "Саламандинай",
+   "text": "「Прими мою благодарность.\n　А вместе с ней — и оружие моего Энрюго.」",
+   "orig": "Salamandinay\n「I offer you my gratitude.\n　I also offer you the weapons of my Enryugo.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Анж",
+   "text": "「Спасибо.\n　Мы с радостью принимаем.」",
+   "orig": "Ange\n「Thank you.\n　We accept your generous offer.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Нага",
+   "text": "「Принцесса Саламандинай!」",
+   "orig": "Naga\n「Princess Salamandinay!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Канамэ",
+   "text": "「Мы с Нагой прикроем вас на Сорюго\n　и Хэкирюго, принцесса!」",
+   "orig": "Kaname\n「Naga and I will assist you in the \n　Soryugo and Hekiryugo, Princess!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Саламандинай",
+   "text": "「Канамэ, Нага, ваша верность, как всегда, бесценна.」",
+   "orig": "Salamandinay\n「Kaname, Naga, your loyalty, as ever, is appreciated.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Анж",
+   "text": "「Вперёд!\n　За Арзенал!」",
+   "orig": "Ange\n「Let's do this!\n　For Arzenal!」"
+  },
+  {
+   "i": 104,
+   "speaker": "？？？",
+   "text": "「Рад видеть тебя здесь, Анж.」",
+   "orig": "？？？\n「Good to see you here, Ange.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Кира",
+   "text": "「Чёрный Пара-Мейл!」",
+   "orig": "Kira\n「Black Para-Mail!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Лакус",
+   "text": "「Это не Пара-Мейл.」",
+   "orig": "Lacus\n「That's not Para-Mail.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Джилл",
+   "text": "「Это Рагна-Мейл.」",
+   "orig": "Jill\n「It's Ragna-Mail.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Сэцуна",
+   "text": "「Оружие, созданное богом, чтобы уничтожить мир!」",
+   "orig": "Setsuna\n「The weapon God created to destroy the world!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Эмбрио",
+   "text": "「Совершенно верно.」",
+   "orig": "Embryo\n「That's right.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Эмбрио",
+   "text": "「Спасибо, что пришла, Анж.\n　Теперь можно и начинать.」",
+   "orig": "Embryo\n「Thanks for coming, Ange.\n　Now we can begin.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Хильда",
+   "text": "「Анж,\n　что это за тип?」",
+   "orig": "Hilda\n「Ange,\n　who's that guy?」"
+  },
+  {
+   "i": 113,
+   "speaker": "Анж",
+   "text": "「Тот, кто создал и Ману, и норм.\n　Тот, кто заставляет нас биться с драконами.\n　Словом, наш враг — тот, кто искажает этот мир!」",
+   "orig": "Ange\n「The one who created both Mana and Norma.\n　He who forces us to fight Dragons.\n　In short, our enemy, the man who distorts the world!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Бандзё",
+   "text": "「Это и есть бог командира Джилл?」",
+   "orig": "Banjo\n「That's Commander Jill's god?」"
+  },
+  {
+   "i": 115,
+   "speaker": "Эмбрио",
+   "text": "「Это прозвище мне не по душе.」",
+   "orig": "Embryo\n「I don't really like that name.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Эмбрио",
+   "text": "「Что ж…\n　зовите меня Настройщиком.」",
+   "orig": "Embryo\n「Yes, well...\n　call me the Tuner.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Синн",
+   "text": "「Да ты издеваешься!\n　Так это ты дёргал за ниточки всей этой войны!」",
+   "orig": "Shinn\n「You've gotta be joking!\n　You've been manipulating this war from the shadows!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Сэцуна",
+   "text": "「Значит, это наш шанс!」",
+   "orig": "Setsuna\n「This is our chance then!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Майто",
+   "text": "「Страны-основатели слишком долго коверкали этот мир.\n　Если уничтожить кукловода, что ими управляет,\n　мы оборвём войну здесь и сейчас!」",
+   "orig": "Maito\n「The Founding Nations have distorted this world for far\n　too long. If we can destroy the puppet master\n　controlling them, we can end this war here and now!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Эмбрио",
+   "text": "「Если сумеете, разумеется.」",
+   "orig": "Embryo\n「If you think you can.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Анж",
+   "text": "「Да плевать мне, что станет с миром,\n　лишь бы его прикончить.」",
+   "orig": "Ange\n「I don't care what happens to the world,\n　as long as we can destroy him.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Анж",
+   "text": "「От твоей самодовольной рожи\n　меня тошнит!」",
+   "orig": "Ange\n「You're smug mug\n　makes me want to vomit!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Эмбрио",
+   "text": "「А твоя разъярённая красота всё так же свежа.」",
+   "orig": "Embryo\n「And your fuming beauty is as refreshing as ever.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Таск",
+   "text": "「Эмбрио!」",
+   "orig": "Tusk\n「Embryo!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Саламандинай",
+   "text": "「Посмотрим, долго ли ты удержишь\n　это своё самоуверенное лицо!」",
+   "orig": "Salamandinay\n「Let's just see how much longer you can\n　maintain that overconfident expression of yours!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Анж",
+   "text": "「Ты со мной, Саламандо?\n　Прикончим его здесь и сейчас!」",
+   "orig": "Ange\n「Are you with me, Salamando?\n　Let's destroy him here and now!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Милейна",
+   "text": "「С начала боя прошло четыре минуты!」",
+   "orig": "Mileina\n「Four minutes have passed since the battle began!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Сумераги",
+   "text": "「Как идёт эвакуация Арзенала?」",
+   "orig": "Sumeragi\n「How's the evacuation situation on Arzenal?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Фельдт",
+   "text": "「Ещё не завершена! Им нужно время!」",
+   "orig": "Feldt\n「Not yet complete! They need more time!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Эмбрио",
+   "text": "「Надо же.\n　Я впечатлён.」",
+   "orig": "Embryo\n「Oh, my.\n　I'm impressed.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Милейна",
+   "text": "「Кольцо окружения противника прорвано!」",
+   "orig": "Mileina\n「The enemy encirclement has collapsed!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Сумераги",
+   "text": "「Как идёт эвакуация Арзенала?」",
+   "orig": "Sumeragi\n「How's the evacuation situation on Arzenal?」"
+  },
+  {
+   "i": 133,
+   "speaker": "Фельдт",
+   "text": "「Ещё не завершена! Им нужно время!」",
+   "orig": "Feldt\n「Not yet complete! They need more time!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Джулио",
+   "text": "「Анжелиз!\n　Какая удача, что ты здесь!」",
+   "orig": "Julio\n「Angelise!\n　How fortunate you are here!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Анж",
+   "text": "「Что это такое?」",
+   "orig": "Ange\n「What is that?」"
+  },
+  {
+   "i": 136,
+   "speaker": "Джулио",
+   "text": "「Я сотру Арзенал подчистую,\n　не оставив от него и следа!」",
+   "orig": "Julio\n「I'm going to obliterate Arzenal completely, \n　leaving not a single trace!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Салия",
+   "text": "「Алектра!」",
+   "orig": "Salia\n「Alektra!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Крис",
+   "text": "「Н-не может быть!\n　Арзенала больше нет!」",
+   "orig": "Chris\n「I-it can't be!\n　Arzenal's gone!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Эрша",
+   "text": "「Дети из детского отделения!」",
+   "orig": "Ersha\n「The children in the Infant Section!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Анж",
+   "text": "「Нет!」",
+   "orig": "Ange\n「No!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Джулио",
+   "text": "「Да!\n　Вот это лицо я и хотел увидеть!」",
+   "orig": "Julio\n「Yes!\n　That's the face I wanted to see!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Анж",
+   "text": "「Чудовище!」",
+   "orig": "Ange\n「You monster!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Джулио",
+   "text": "「Летят на огонь, как мотыльки!\n　Сбить их!」",
+   "orig": "Julio\n「Like moths to the flame!\n　Shoot them down!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Анж",
+   "text": "「Заткнись!」",
+   "orig": "Ange\n「Shut up!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Джулио",
+   "text": "「Гха!」",
+   "orig": "Julio\n「Argh!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Анж",
+   "text": "「А теперь я тебя—」",
+   "orig": "Ange\n「Now I'm going to—」"
+  },
+  {
+   "i": 147,
+   "speaker": "Джулио",
+   "text": "「С-стой! Не горячись!\n　Я сделаю всё, что скажешь!」",
+   "orig": "Julio\n「W-wait! Don't be so hasty!\n　I'll do whatever you say!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Джулио",
+   "text": "「Придумал! Я верну тебя в императорскую семью!\n　Ну как, Анжелиз?\n　Заманчиво ведь, правда?」",
+   "orig": "Julio\n「I know! I'll reinstate you to the imperial family!\n　How about it, Angelise?\n　Sounds good, doesn't it?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Джулио",
+   "text": "「Только, прошу, не убивай меня!」",
+   "orig": "Julio\n「Just please don't kill me!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Анж",
+   "text": "「Сдохни!\n　Ничтожество!」",
+   "orig": "Ange\n「Die!\n　Worthless scum!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Эмбрио",
+   "text": "「Этого я тебе позволить не могу, Анж.」",
+   "orig": "Embryo\n「Can't allow you to do that, Ange.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Анж",
+   "text": "「Не лезь!」",
+   "orig": "Ange\n「Don't interfere!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Джулио",
+   "text": "「Г-господин Эмбрио!\n　Уничтожьте её! У-уничтожьте Анжелиз!\n　Скорее!」",
+   "orig": "Julio\n「M-Master Embryo!\n　Destroy her! D-destroy Angelise!\n　Quickly!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Эмбрио",
+   "text": "「Анж.\n　Как же ты прекрасна.」",
+   "orig": "Embryo\n「Ange.\n　You are so beautiful.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Анж",
+   "text": "「Что?」",
+   "orig": "Ange\n「What?」"
+  },
+  {
+   "i": 156,
+   "speaker": "Эмбрио",
+   "text": "「Твой гнев чист и жарче солнца.\n　Спорить с ним бессмысленно и нелепо. Благородное,\n　прекрасное пламя, что обращает всё в пепел.」",
+   "orig": "Embryo\n「Your anger is pure, and hotter than the sun.\n　Unreasonable and absurd to confront. A nobly\n　beautiful flame that can reduce all to ash.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Эмбрио",
+   "text": "「Не пятнай это пламя тем, что его недостойно.\n　Позволь мне сделать это за тебя.」",
+   "orig": "Embryo\n「Do not pollute that flame by setting afire anything\n　less than worthy of it. Let me do it instead.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Анж",
+   "text": "「О чём ты вообще?」",
+   "orig": "Ange\n「What are you talking about?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Эмбрио",
+   "text": "「Позволь мне взять твою ношу.」",
+   "orig": "Embryo\n「Let me bear your burden.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Саламандинай",
+   "text": "「Эта песня!」",
+   "orig": "Salamandinay\n「That song!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Анж",
+   "text": "「Это Eternal Story!」",
+   "orig": "Ange\n「It's the Eternal Story!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Джулио",
+   "text": "「А-а-а!」",
+   "orig": "Julio\n「Aarrgh!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Момока",
+   "text": "「Господин Джулио!」",
+   "orig": "Momoka\n「Master Julio!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Анж",
+   "text": "「Кто ты такой?\n　Да кто ты, чёрт возьми, такой?」",
+   "orig": "Ange\n「What are you?\n　What on Earth are you?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Эмбрио",
+   "text": "「Хе-хе-хе…」",
+   "orig": "Embryo\n「Hehehe...」"
+  },
+  {
+   "i": 166,
+   "speaker": "Вивиан",
+   "text": "「Эрша!」",
+   "orig": "Vivian\n「Ersha!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Хильда",
+   "text": "「Уходи, Крис!\n　Ты в опасности!」",
+   "orig": "Hilda\n「Run, Chris!\n　You're in danger!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Эмбрио",
+   "text": "「Хе-хе-хе…」",
+   "orig": "Embryo\n「Hehehe...」"
+  },
+  {
+   "i": 169,
+   "speaker": "Крис",
+   "text": "「Розали, Хильда…」",
+   "orig": "Chris\n「Rosalie, Hilda... 」"
+  },
+  {
+   "i": 170,
+   "speaker": "Эрша",
+   "text": "「Простите меня.」",
+   "orig": "Ersha\n「Forgive me.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Эмбрио",
+   "text": "「Я хочу исцелить все скорби, что вы изведали.」",
+   "orig": "Embryo\n「I want to heal the sorrows you have all suffered.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Розали",
+   "text": "「Крис!」",
+   "orig": "Rosalie\n「Chris!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Вивиан",
+   "text": "「Н-не может быть.\n　Эрша…」",
+   "orig": "Vivian\n「I-I don't believe it.\n　Ersha...」"
+  },
+  {
+   "i": 174,
+   "speaker": "Салия",
+   "text": "「Эрша, Крис…」",
+   "orig": "Salia\n「Ersha, Chris...」"
+  },
+  {
+   "i": 175,
+   "speaker": "Эмбрио",
+   "text": "「А следующий—」",
+   "orig": "Embryo\n「And next—」"
+  },
+  {
+   "i": 176,
+   "speaker": "Анж",
+   "text": "「Нет! Хватит! Я тебе не позволю!」",
+   "orig": "Ange\n「No! No more! I won't let you!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Анж",
+   "text": "「Отступи, Салия!」",
+   "orig": "Ange\n「Back down, Salia!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Салия",
+   "text": "「Прочь с дороги, Анж!\n　Это приказ!」",
+   "orig": "Salia\n「Outta my way, Ange!\n　I order you!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Анж",
+   "text": "「Ты не понимаешь!\n　Одолеть его можно только «Вилькиссом»!」",
+   "orig": "Ange\n「You don't understand!\n　The only way to defeat him is the Villkiss!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Салия",
+   "text": "「Тогда отдай «Вилькисс» мне!」",
+   "orig": "Salia\n「Then give me the Villkiss!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Анж",
+   "text": "「Что ты несёшь?」",
+   "orig": "Ange\n「What are you saying?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Салия",
+   "text": "「Я одолею его сама!\n　Ради Алектры!」",
+   "orig": "Salia\n「I'm going to be the one to defeat him!\n　For Alektra!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Синн",
+   "text": "「Салия, успокойся!\n　К такому бою надо подходить осторожнее!」",
+   "orig": "Shinn\n「Salia, calm down!\n　You need to approach this fight more carefully!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Салия",
+   "text": "「Алектра,\n　я уничтожу Эмбрио сама. Ради вас.」",
+   "orig": "Salia\n「Alektra,\n　I will destroy Embryo myself. For you.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Анж",
+   "text": "「Салия! Прошу! Очнись!」",
+   "orig": "Ange\n「Salia! Please! Wake up!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Салия",
+   "text": "「А…」",
+   "orig": "Salia\n「Ah...」"
+  },
+  {
+   "i": 187,
+   "speaker": "Анж",
+   "text": "「Аркебуз больше не способен драться!\n　Назад! Отходи!」",
+   "orig": "Ange\n「The Arquebus is no longer capable of fighting!\n　Pull back! Retreat!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Салия",
+   "text": "「Анж… Анж!\n　Я этого не допущу! Ни за что!」",
+   "orig": "Salia\n「Ange... Ange!\n　I cannot allow this! I simply cannot!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Салия",
+   "text": "「Ах ты корова, Анж!」",
+   "orig": "Salia\n「You fat cow, Ange!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Анж",
+   "text": "「Салия…\n　Подумай, что сейчас произошло…」",
+   "orig": "Ange\n「Salia...\n　Think about what just happened...」"
+  },
+  {
+   "i": 191,
+   "speaker": "Эмбрио",
+   "text": "「Анж…\n　Такая красивая, сильная и добрая.」",
+   "orig": "Embryo\n「Ange...\n　So beautiful, strong, and gentle.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Анж",
+   "text": "「И это всё, что ты скажешь, когда\n　жить тебе осталось всего ничего?」",
+   "orig": "Ange\n「Is that really all you have to say when\n　you have so little time left to live?」"
+  },
+  {
+   "i": 193,
+   "speaker": "Эмбрио",
+   "text": "「А теперь я покажу вам предел своей силы.」",
+   "orig": "Embryo\n「Now I shall show you the limits of my power.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Таск",
+   "text": "「Рагна-Мейл правда на такое способен?」",
+   "orig": "Tusk\n「Can the Ragna-Mail really do that?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Акито",
+   "text": "「Дело плохо!\n　Всё кончится так же, как тогда на Марсе!」",
+   "orig": "Akito\n「This isn't good!\n　This'll end the same way Mars did!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Эмбрио",
+   "text": "「Что ж, Анж…\n　Споём последнюю песню.」",
+   "orig": "Embryo\n「Now, Ange...\n　Let's sing the final song.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Таск",
+   "text": "「Уходи оттуда, Анж!」",
+   "orig": "Tusk\n「Get outta there, Ange!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Анж",
+   "text": "「Я любила Арзенал.」",
+   "orig": "Ange\n「I loved Arzenal.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Хильда",
+   "text": "「Анж…」",
+   "orig": "Hilda\n「Ange...」"
+  },
+  {
+   "i": 200,
+   "speaker": "Анж",
+   "text": "「Дыра дырой, ничего путного там не было,\n　а кормёжка вообще была дрянь.」",
+   "orig": "Ange\n「It was the worst, it had nothing to offer,\n　and the food was absolute crap.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Анж",
+   "text": "「Но именно там я поняла,\n　на что я по-настоящему\n　способна как человек!」",
+   "orig": "Ange\n「But living there,\n　I found my true potential \n　as a human being!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Саламандинай",
+   "text": "「Теперь я понимаю тебя, Анж.\n　Понимаю, каково это — желать что-то защитить.」",
+   "orig": "Salamandinay\n「I understand now, Ange.\n　Your feelings of wanting to protect something.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Анж",
+   "text": "「Саламанман!」",
+   "orig": "Ange\n「Salamanman!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Саламандинай",
+   "text": "「У этого Рагна-Мейла нет души.\n　А значит, вместе мы с тобой сможем\n　оборвать его песню смерти.」",
+   "orig": "Salamandinay\n「That Ragna-Mail has no soul.\n　And therefore, you and I together should be\n　able to stop its song of death.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Анж",
+   "text": "「Тогда вперёд!」",
+   "orig": "Ange\n「Let's do it then!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Таск",
+   "text": "「Анж!\n　Ремонт «Вилькисса» ещё не закончен!」",
+   "orig": "Tusk\n「Ange!\n　Repairs to the Villkiss aren't complete yet!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Анж",
+   "text": "「Неважно.」",
+   "orig": "Ange\n「It doesn't matter.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Анж",
+   "text": "「«Вилькисс»,\n　если ты и впрямь губитель миров…」",
+   "orig": "Ange\n「Villkiss, \n　if you're truly a world-destroyer...」"
+  },
+  {
+   "i": 209,
+   "speaker": "Анж",
+   "text": "「то этот бой для тебя\n　вообще не должен быть проблемой!\n　Отдай мне всё, что у тебя есть!」",
+   "orig": "Ange\n「then this next battle shouldn't be\n　a problem for you at all!\n　Give me everything you've got!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Саламандинай",
+   "text": "「Хорошо!」",
+   "orig": "Salamandinay\n「Alright!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Анж",
+   "text": "「Погнали, Саламандиндин!\n　Ударим слитно, как одно целое!」",
+   "orig": "Ange\n「Let's do it, Salamandindin!\n　Let's synchronize our attacks as one!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Саламандинай",
+   "text": "「Что происходит?」",
+   "orig": "Salamandinay\n「What's happening?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Харри",
+   "text": "「Горизонт измерений искажается!」",
+   "orig": "Harry\n「The dimensional horizon is distorting!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Акито",
+   "text": "「Юрика! Рури!」",
+   "orig": "Akito\n「Yurika! Ruri!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Юрика",
+   "text": "「Акито!」",
+   "orig": "Yurika\n「Akito!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Эмбрио",
+   "text": "「Исчезли.」",
+   "orig": "Embryo\n「They're gone.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Эмбрио",
+   "text": "「Какое-то время было скучновато, но уже нет.」",
+   "orig": "Embryo\n「Things were pretty boring for a while, but no longer.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Эмбрио",
+   "text": "「Но ещё не всё потеряно.\n　Конец уже близок…」",
+   "orig": "Embryo\n「But all is not lost.\n　The end is nigh...」"
+  },
+  {
+   "i": 219,
+   "speaker": "Эмбрио",
+   "text": "「И есть ещё ты, Анж.\n　Когда ты станешь моей, мы откроем новый мир.」",
+   "orig": "Embryo\n「And then there's you, Ange.\n　Once I have you, we can usher in a new world.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Эмбрио",
+   "text": "「Надо же.\n　Я впечатлён.」",
+   "orig": "Embryo\n「Oh, my.\n　I'm impressed.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Анж",
+   "text": "「Выход у тебя громкий,\n　да только это всё понты, приятель.」",
+   "orig": "Ange\n「You make a big entrance,\n　but it's all bluster, buddy.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Таск",
+   "text": "「Э-э…」",
+   "orig": "Tusk\n「Errr...」"
+  },
+  {
+   "i": 223,
+   "speaker": "Анж",
+   "text": "「Ты чего, Таск?」",
+   "orig": "Ange\n「Whet's the matter, Tusk?」"
+  },
+  {
+   "i": 224,
+   "speaker": "Таск",
+   "text": "「Это была не настоящая его сила, Анж.」",
+   "orig": "Tusk\n「That wasn't a show of his true power, Ange.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Саламандинай",
+   "text": "「Таск говорит правду.\n　Расслабляться ещё рано.」",
+   "orig": "Salamandinay\n「Tusk is telling the truth.\n　Don't let your guard down just yet.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Анж",
+   "text": "「Ясно.」",
+   "orig": "Ange\n「Alright.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Анж",
+   "text": "「Даже будь ты и вправду богом,\n　в такого, как ты, я бы ни за что не поверила.」",
+   "orig": "Ange\n「Even if you were really a god,\n　I could never believe in one like you.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Эмбрио",
+   "text": "「В этом твоё очарование, Анж.\n　В умении сопротивляться.」",
+   "orig": "Embryo\n「That's your charm, Ange.\n　Your ability to resist.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Анж",
+   "text": "「Устала я от твоих пустых речей.」",
+   "orig": "Ange\n「I tire of your flippant remarks.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Таск",
+   "text": "「Так тебе нужен «Вилькисс», Эмбрио?」",
+   "orig": "Tusk\n「So it's the Villkiss you want, eh, Embryo?」"
+  },
+  {
+   "i": 231,
+   "speaker": "Эмбрио",
+   "text": "「По правде, меня куда больше\n　занимает его наездница.」",
+   "orig": "Embryo\n「Actually, I'm also very\n　interested in the rider.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Таск",
+   "text": "「Тем больше причин покончить с тобой прямо здесь!\n　Анж ты получишь только через мой труп!」",
+   "orig": "Tusk\n「All the more reason to defeat you here and now!\n　You'll take Ange over my dead body!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Эмбрио",
+   "text": "「Хм, игрушка, что выдаёт себя за Рагна-Мейл.\n　Недурно.」",
+   "orig": "Embryo\n「Hmm, a toy trying to pass itself off as a Ragna-Mail.\n　Not bad.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Саламандинай",
+   "text": "「Ты смеешь ставить под сомнение мощь Энрюго —\n　машины, что обеспечит наше будущее?」",
+   "orig": "Salamandinay\n「You dare to call into question the power of the\n　Enryugo, the machine that will ensure our future?」"
+  },
+  {
+   "i": 235,
+   "speaker": "Саламандинай",
+   "text": "「Какая наглость!\n　Само твоё существование оскорбительно!」",
+   "orig": "Salamandinay\n「Such arrogance!\n　Your very existence is offensive!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Вивиан",
+   "text": "（Когда я сказала, что хочу спасти друзей,\n　она меня отпустила.）",
+   "orig": "Vivian\n（When I told her I wanted to help save my friends,\n　she let me go.）"
+  },
+  {
+   "i": 237,
+   "speaker": "Вивиан",
+   "text": "（Вопрос!\n　Что я вообще должна к ней чувствовать —\n　радость, грусть, тоску?）",
+   "orig": "Vivian\n（Question time!\n　How exactly should I feel about her,\n　happy, sad, nostalgic?）"
+  },
+  {
+   "i": 238,
+   "speaker": "Вивиан",
+   "text": "（Думаю, ответ я найду,\n　когда вернусь и увижу её снова!）",
+   "orig": "Vivian\n（I think the answer lies in my\n　returning to see her again!）"
+  },
+  {
+   "i": 239,
+   "speaker": "Салия",
+   "text": "（Алектра, почему вы не замечаете,\n　как я стараюсь ради вас?）",
+   "orig": "Salia\n（Alektra, why don't you\n　recognize my efforts to help you?）"
+  },
+  {
+   "i": 240,
+   "speaker": "Салия",
+   "text": "（Вы выбрали Анж.\n　А кто тогда для вас я?）",
+   "orig": "Salia\n（What does your choice \n　of Ange say about me?）"
+  },
+  {
+   "i": 241,
+   "speaker": "Эрша",
+   "text": "（Дети из детского отделения\n　ещё не покинули Арзенал.）",
+   "orig": "Ersha\n（The children of the Infant Section\n　have not yet evacuated from Arzenal yet.）"
+  },
+  {
+   "i": 242,
+   "speaker": "Эрша",
+   "text": "（Я защищу их\n　ценой собственной жизни!）",
+   "orig": "Ersha\n（With my life,\n　I will protect them!）"
+  },
+  {
+   "i": 243,
+   "speaker": "Крис",
+   "text": "（Розали, дура беспамятная и простодушная,\n　как ты могла так легко простить Хильду?）",
+   "orig": "Chris\n（Rosalie, you simple‐minded, forgetful idiot,\n　How can you forgive Hilda so easily?）"
+  },
+  {
+   "i": 244,
+   "speaker": "Крис",
+   "text": "（Хильда, эгоистка, дура, предательница,\n　тебя я не прощу никогда.）",
+   "orig": "Chris\n（Hilda, you selfish, idiotic traitor\n　I'll never forgive you.）"
+  },
+  {
+   "i": 245,
+   "speaker": "Крис",
+   "text": "（Я всё это время была одна.\n　С самого первого дня в Арзенале.）",
+   "orig": "Chris\n（I've been alone all along.\n　Since that very first day I came to Arzenal.）"
+  },
+  {
+   "i": 246,
+   "speaker": "Найн",
+   "text": "「Хм…」",
+   "orig": "Nine\n「Hmm...」"
+  },
+  {
+   "i": 247,
+   "speaker": "$n",
+   "text": "「Найн, ты чего?\n　Срочно нужен анализ той машины!」",
+   "orig": "$n\n「Nine, what are you doing?\n　I need an analysis on that machine, stat!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Найн",
+   "text": "「А— Ой, прости! Сейчас!」",
+   "orig": "Nine\n「Uh— Oh, sorry! On it!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Найн",
+   "text": "（Эта чёрная машина мне знакома.）",
+   "orig": "Nine\n（That black machine is familiar.）"
+  },
+  {
+   "i": 250,
+   "speaker": "Найн",
+   "text": "「Хм…」",
+   "orig": "Nine\n「Hmm...」"
+  },
+  {
+   "i": 251,
+   "speaker": "$n",
+   "text": "「Найн, ты чего?\n　Срочно нужен анализ той машины!」",
+   "orig": "$n\n「Nine, what are you doing?\n　I need an analysis on that machine, stat!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Найн",
+   "text": "「А— Ой, прости! Сейчас!」",
+   "orig": "Nine\n「Uh— Oh, sorry! On it!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Найн",
+   "text": "（Эта чёрная машина мне знакома.）",
+   "orig": "Nine\n（That black machine is familiar.）"
+  },
+  {
+   "i": 254,
+   "speaker": "Локон",
+   "text": "「Спасибо, старина Иан!\n　Дополнительное вооружение — как раз то,\n　что нужно против такой оравы.」",
+   "orig": "Lockon\n「Thanks, old man Ian!\n　The additional weapons is just what we need\n　in this fight against the numbers we're against.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Локон",
+   "text": "「Поехали, «Забанья»!\n　Зададим врагу хорошую трёпку!」",
+   "orig": "Lockon\n「Let's do it, Zabanya!\n　Let's give the enemy a real pounding!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Аллилуйя",
+   "text": "「Чтобы раскрыть всю мощь обновлённого «Харуте»,\n　нам тоже придётся выложиться без остатка!」",
+   "orig": "Allelujah\n「To bring out the full potential of the revamped Harute\n　we are going to have to give our all as well!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Пирис",
+   "text": "「И от тебя, Халлилуйя, я жду того же!」",
+   "orig": "Peries\n「I'm going to need all you can give, too, Hallelujah!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Халлилуйя",
+   "text": "（Слияние мысли и рефлекса!\n　Покажем им истинную мощь суперсолдата!）",
+   "orig": "Hallelujah\n（Fusion of thought and reflection!\n　We'll show them the true power of a Super Soldier!）"
+  },
+  {
+   "i": 259,
+   "speaker": "Тиерия",
+   "text": "（В пространстве GN-частиц, созданном Сэцуной и QAN[T],\n　мы можем говорить с драконами и иными расами.）",
+   "orig": "Tieria\n（In the GN particle space created by Setsuna and the QAN[T] \n　we can now communicate with Dragons and other species.）"
+  },
+  {
+   "i": 260,
+   "speaker": "Тиерия",
+   "text": "（Я с тобой, Сэцуна!\n　Этими самыми руками я вместе с тобой\n　воплощу план Аэолии до конца.）",
+   "orig": "Tieria\n（I'm with you, Setsuna!\n　With these two hands, I'll join you to\n　realize the Aeolia Plan in full.）"
+  },
+  {
+   "i": 261,
+   "speaker": "Саламандинай",
+   "text": "「Странно, правда?\n　Ещё недавно мы рвались убить друг друга.\n　А теперь сражаемся плечом к плечу.」",
+   "orig": "Salamandinay\n「Strange, isn't it?\n　We were dead set on killing each other just the other\n　day. And now here we are fighting side-by-side.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Нага",
+   "text": "「Принцесса Саламандинай.」",
+   "orig": "Naga\n「Princess Salamandinay.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Канамэ",
+   "text": "「Мы с вами, принцесса.」",
+   "orig": "Kaname\n「We are behind you, Princess.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Саламандинай",
+   "text": "「Спасибо, Канамэ. Спасибо, Нага.」",
+   "orig": "Salamandinay\n「Thank you, Kaname. Thank you, Naga.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Саламандинай",
+   "text": "「Будем сражаться за лучшее будущее!\n　Если оно ждёт нас по ту сторону ненависти,\n　то поспешим же к нему!」",
+   "orig": "Salamandinay\n「Let's fight for a better future! \n　If that is what is awaiting us beyond hate,\n　then we should make all haste to get there!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Сэцуна",
+   "text": "（Райзер-Сворд.\n　В моих руках новое оружие QAN[T]…）",
+   "orig": "Setsuna\n（The Raiser Sword.\n　I hold the QAN[T]'s new weapon...）"
+  },
+  {
+   "i": 267,
+   "speaker": "Сэцуна",
+   "text": "（Но не этому мечу\n　суждено закончить эту войну…）",
+   "orig": "Setsuna\n（But it isn't this sword\n　that will end this war...）"
+  },
+  {
+   "i": 268,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

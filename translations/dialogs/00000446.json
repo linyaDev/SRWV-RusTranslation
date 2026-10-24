@@ -1,0 +1,1360 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　-Ангар «Ра Кайлума»-",
+   "orig": "　\n　　\n　　　　　　　　　　-Ra Cailum Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Хатауэй",
+   "text": "「Чан.\n　Это снаряжение для «Кси Гандама»?」",
+   "orig": "Hathaway\n「Chan.\n　Is this equipment for the Ξ Gundam?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Чан",
+   "text": "「Это внешние ракетные блоки.\n　Мы ставим ещё и отдельный двигатель,\n　так что манёвренность не пострадает.」",
+   "orig": "Chan\n「They're external missile pods.\n　We're also adding an independent thruster so\n　there shouldn't be any loss to maneuverability.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Чан",
+   "text": "「Я соревновалась с Такуей и его\n　«Фулл Армор Юникорном»,\n　но он, похоже, уже всё закончил.」",
+   "orig": "Chan\n「I've been in a race against Takuya \n　and his Full Armor Unicorn,\n　but it looks like he's already finished.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Хатауэй",
+   "text": "「И всё-таки хорошо, что вы успели.\n　Похоже, в следующем бою нас будет меньше.」",
+   "orig": "Hathaway\n「But, I'm glad you got it done.\n　It looks like we'll be outnumbered in this next one.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Чан",
+   "text": "「И, судя по тому, как ты вырос,\n　ты выжмешь из всего этого максимум.\n　Удачи, Хатауэй.」",
+   "orig": "Chan\n「And I think the way you've improved,\n　you should be able to get the most out of all this.\n　Give it your best, Hathaway.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Хатауэй",
+   "text": "「Сделаю всё, что смогу.」",
+   "orig": "Hathaway\n「I'll do everything I can.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Чан",
+   "text": "（Решающий бой с Нео-Зеоном. Просить его\n　не рваться вперёд всё равно бесполезно.）",
+   "orig": "Chan\n（Final battle with Neo Zeon. It won't do any good\n　to tell him not to be too eager.）"
+  },
+  {
+   "i": 11,
+   "speaker": "Чан",
+   "text": "（И всё же, Хатауэй.\n　Такое облегчение видеть, что ты\n　держишь себя в руках.）",
+   "orig": "Chan\n（But, still, Hathaway.\n　It's such a relief to see you\n　keep yourself focused like this.）"
+  },
+  {
+   "i": 12,
+   "speaker": "Чан",
+   "text": "（Впрочем, ты ведь всегда\n　таким и был.）",
+   "orig": "Chan\n（But you must know that, \n　it's how you always are.）"
+  },
+  {
+   "i": 13,
+   "speaker": "Кинкейд",
+   "text": "「Тобиа.\n　Одолжишь мне свой X1 на этот бой?」",
+   "orig": "Kincade\n「Tobia.\n　Would you lend me your X1 for this next fight?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Тобиа",
+   "text": "「Просишь вернуть его тебе?」",
+   "orig": "Tobia\n「You're asking me to give it back to you?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Кинкейд",
+   "text": "「Я больше не пират.\n　Просто взять что захочу я уже не могу —\n　вот и прошу об одолжении.」",
+   "orig": "Kincade\n「I'm no pirate anymore.\n　I can't just take what I want now,\n　so I'm asking you a favor?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Тобиа",
+   "text": "「А зачем он тебе, если точнее?」",
+   "orig": "Tobia\n「Why do you want it, exactly?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Кинкейд",
+   "text": "「Скорее всего, объявится Забине.」",
+   "orig": "Kincade\n「Well, Zabine is probably going to show up.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Тобиа",
+   "text": "「Ясно. Даже при всём, что творится,\n　он вполне может пойти за тобой.」",
+   "orig": "Tobia\n「I see. Even with all this going on, \n　I can see him going after you.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Кинкейд",
+   "text": "「Раз я иду против его X2, мне нужно нечто\n　не слабее. То есть X1.」",
+   "orig": "Kincade\n「If I'm going up against his X2, I'll need\n　something that's just as strong. Which is the X1.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Кинкейд",
+   "text": "「Бой будет на равных,\n　так что я пойду на него в полную силу.」",
+   "orig": "Kincade\n「It'll be a close fight, \n　so I'm going after him with all I've got.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Тобиа",
+   "text": "「Ну хорошо.\n　Тогда я, видимо, вылечу на F91.」",
+   "orig": "Tobia\n「Alright then.\n　I guess I'll go out in the F91.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Кинкейд",
+   "text": "「А вот и нет, для тебя есть кое-что другое.」",
+   "orig": "Kincade\n「No you won't, I've got something else for you.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Тобиа",
+   "text": "「Другая машина?」",
+   "orig": "Tobia\n「Another suit?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Кинкейд",
+   "text": "「За основу взял запчасти от X1\n　и подмешал местных технологий.\n　Вышло вполне недурно.」",
+   "orig": "Kincade\n「I used the X1's spare parts as a platform,\n　and mixed in some tech from this universe.\n　It's not too shabby.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Банагер",
+   "text": "「Кх.」",
+   "orig": "Banagher\n「Ugh.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Амуро",
+   "text": "「Похоже, флагман Нео-Зеона\n　тоже идёт к «Индастриал 7».」",
+   "orig": "Amuro\n「It looks like the Neo Zeon flagship\n　is also headed for Industrial 7.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Банагер",
+   "text": "「Командир Амуро.」",
+   "orig": "Banagher\n「Commander Amuro.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Амуро",
+   "text": "「Выходит, Фулл Фронталь не блефовал,\n　когда говорил, что знает всё\n　о Ящике Лапласа.」",
+   "orig": "Amuro\n「Full Frontal wasn't bluffing \n　when he said he knew all about \n　Laplace's Box, I guess.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Банагер",
+   "text": "「Кто же он такой на самом деле?」",
+   "orig": "Banagher\n「I wonder who he really is.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Амуро",
+   "text": "「Перерождение Чара Азнабля, Красной кометы.\n　Сосуд, в который сливаются надежды людей.」",
+   "orig": "Amuro\n「The reincarnation of Char Aznable, the Red Comet.\n　A vessel to gather the hopes of humanity.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Банагер",
+   "text": "「Зачем такому человеку звать меня к себе?」",
+   "orig": "Banagher\n「Why would someone like that want me to join him?」"
+  },
+  {
+   "i": 32,
+   "speaker": "Амуро",
+   "text": "「Видимо, он разглядел в тебе потенциал.」",
+   "orig": "Amuro\n「He must have seen potential inside you.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Банагер",
+   "text": "「Потенциал?\n　И что он мог во мне увидеть?」",
+   "orig": "Banagher\n「Potential?\n　What could he see?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Амуро",
+   "text": "「Я не могу понять, откуда он взялся —\n　с лицом и голосом\n　самого Чара.」",
+   "orig": "Amuro\n「I can't understand where\n　he could have come from, with\n　Char's face and voice.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Амуро",
+   "text": "「Скорее всего, пластическая операция.\n　Или же он клон.」",
+   "orig": "Amuro\n「It must be some kind of plastic surgery.\n　Or he could be a clone.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Банагер",
+   "text": "「Но его возраст...」",
+   "orig": "Banagher\n「But his age...」"
+  },
+  {
+   "i": 37,
+   "speaker": "Амуро",
+   "text": "「Нанай говорила, что в технологиях\n　клонирования Нео-Зеона есть\n　ускоренное взросление.」",
+   "orig": "Amuro\n「Nanai said that Neo Zeon's \n　cloning technology includes\n　growth acceleration.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Амуро",
+   "text": "「Как бы там ни было, он изо всех сил\n　выставляет себя Красной кометой.」",
+   "orig": "Amuro\n「Whatever the case, he's trying to\n　make himself out to be the Red Comet.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Банагер",
+   "text": "「То есть, по-вашему, он играет роль?」",
+   "orig": "Banagher\n「So he's playing a part, you think?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Амуро",
+   "text": "「Как бы то ни было, он не Чар.\n　Потому мы и должны его остановить.」",
+   "orig": "Amuro\n「Well, he's not Char.\n　That's why we have to stop him.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Банагер",
+   "text": "「Командир Амуро.」",
+   "orig": "Banagher\n「Commander Amuro.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Амуро",
+   "text": "（Фулл Фронталь, что должно случиться,\n　чтобы ты признал: ты не Чар?）",
+   "orig": "Amuro\n（Full Frontal, what will it take to get you to\n　accept that you're not Char?）"
+  },
+  {
+   "i": 46,
+   "speaker": "Банагер",
+   "text": "「Ч-что я вижу?」",
+   "orig": "Banagher\n「Wh-what am I looking at?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Банагер",
+   "text": "「Это «Лаплас».\n　Резиденция премьер-министра, взорванная\n　в день начала Вселенского века.」",
+   "orig": "Banagher\n「That's Laplace.\n　The Prime Minister's residence, the one that blew up\n　the day that the Universal Century started.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Фронталь",
+   "text": "「Именно.\n　Это и положило начало войнам,\n　что правят всем Вселенским веком.」",
+   "orig": "Frontal\n「Exactly.\n　That's what set off the wars\n　that have dominated Universal Century.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Банагер",
+   "text": "「Фулл Фронталь!」",
+   "orig": "Banagher\n「Full Frontal!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Фронталь",
+   "text": "「Оглашение Хартии Вселенского века\n　должно было открыть людям новую эпоху.」",
+   "orig": "Frontal\n「The announcement of the UC Charter\n　should have ushered in a new age of humanity.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Банагер",
+   "text": "「Но террористы уничтожили\n　космическую станцию «Лаплас».」",
+   "orig": "Banagher\n「But terrorists destroyed\n　the space station Laplace.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Фронталь",
+   "text": "「А в ответ на это правительство\n　Федерации начало жестоко давить\n　любое сопротивление.」",
+   "orig": "Frontal\n「And in response to that, \n　the Federation government began\n　its harsh crackdown on resistance movements.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Фронталь",
+   "text": "「И, как ты знаешь, это привело\n　к угнетению спейсноидов\n　и рождению Княжества Зеон.」",
+   "orig": "Frontal\n「And you know well, that led to the \n　oppression of Spacenoids,\n　and the birth of the Principality of Zeon.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Банагер",
+   "text": "「К-как и почему я это вижу?」",
+   "orig": "Banagher\n「H-how and why am I seeing this?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Фронталь",
+   "text": "「Потому что ты избран,\n　как избран и я.」",
+   "orig": "Frontal\n「Because you have been chosen,\n　as I have been.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Фронталь",
+   "text": "「Идём же со мной, Банагер,\n　к самому концу времени и пространства!」",
+   "orig": "Frontal\n「Come with me, now,\n　to the very end of time of space, Banagher!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Банагер",
+   "text": "「Я-я вижу...」",
+   "orig": "Banagher\n「I-I see—」"
+  },
+  {
+   "i": 61,
+   "speaker": "Банагер",
+   "text": "「Где это мы?」",
+   "orig": "Banagher\n「Where are we?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Фронталь",
+   "text": "「Там, где нет ни времени, ни света.\n　Вот что ждёт в конце времён. Ничто.」",
+   "orig": "Frontal\n「Where concept of both time and light don't exist.\n　This is what comes at the end of time. Nothing.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Фронталь",
+   "text": "「Как бы люди ни старались, ждёт их только это.」",
+   "orig": "Frontal\n「No matter how humanity tries, only this awaits.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Банагер",
+   "text": "「Нет!」",
+   "orig": "Banagher\n「No!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Фронталь",
+   "text": "「Пора бы уже понять.\n　Надежда, возможности — всё ведёт сюда.\n　Это бесплодная иллюзия.」",
+   "orig": "Frontal\n「You should understand by now.\n　Hope and potential, they all lead here.\n　They are comfortless illusion.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Фронталь",
+   "text": "「Они лишь сбивают людей с пути и рождают распри.\n　Истину способны видеть только ньютайпы.」",
+   "orig": "Frontal\n「They only lead people astray, cause conflict.\n　The only ones who can see the truth are Newtypes.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Банагер",
+   "text": "「Но даже если так...」",
+   "orig": "Banagher\n「But even then—」"
+  },
+  {
+   "i": 68,
+   "speaker": "Фронталь",
+   "text": "「Мы просто существуем, а затем исчезаем в ничто.\n　От надежды нет никакого проку.」",
+   "orig": "Frontal\n「We merely exist, then fade to nothing.\n　There is no use in hope.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Банагер",
+   "text": "「И всё равно!」",
+   "orig": "Banagher\n「But even then!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Банагер",
+   "text": "「И всё равно людям нужна надежда!」",
+   "orig": "Banagher\n「But even then, people need hope!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Фронталь",
+   "text": "「Что это за свет?\n　Разве это не царство пустоты?」",
+   "orig": "Frontal\n「What is this light?\n　Isn't this a realm of nothingness?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Фронталь",
+   "text": "「Тепло... этот тёплый свет.\n　Но даже с ним ничего не меняется!」",
+   "orig": "Frontal\n「Warmth...this warm light.\n　But even with this light, nothing changes!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Фронталь",
+   "text": "「Ничего!」",
+   "orig": "Frontal\n「Nothing!」"
+  },
+  {
+   "i": 77,
+   "speaker": "？？？",
+   "text": "「Этот свет способен согреть вселенную.」",
+   "orig": "？？？\n「This light can warm the universe.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Фронталь",
+   "text": "「А...」",
+   "orig": "Frontal\n「Ah...」"
+  },
+  {
+   "i": 79,
+   "speaker": "Амуро",
+   "text": "「Это правда, Фронталь.\n　Даже ты чувствуешь это тепло.」",
+   "orig": "Amuro\n「It's true, Frontal.\n　Even you can feel the warmth.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Фронталь",
+   "text": "「Амуро!」",
+   "orig": "Frontal\n「Amuro!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Амуро",
+   "text": "「Фулл Фронталь,\n　ты не Чар.」",
+   "orig": "Amuro\n「Full Frontal,\n　you are not Char.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Фронталь",
+   "text": "「Почему ты всё время это повторяешь!」",
+   "orig": "Frontal\n「Why do you keep saying that!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Амуро",
+   "text": "「Ты — это ты.\n　Сбрось с себя проклятие Чара.」",
+   "orig": "Amuro\n「You are your own man.\n　Throw off Char's curse.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Фронталь",
+   "text": "「Нет!」",
+   "orig": "Frontal\n「No!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Амуро",
+   "text": "「Ты чувствуешь его внутри себя —\n　Чара, отчаявшегося в человечестве.」",
+   "orig": "Amuro\n「You can feel him inside you,\n　the Char who despaired for humanity.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Амуро",
+   "text": "「Да, ты сосуд.\n　Тебя создали как его копию —\n　и его отчаяние перелилось в тебя.」",
+   "orig": "Amuro\n「It's true, you are a vessel.\n　You were made to copy him,\n　and so his despair flowed into you.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Фронталь",
+   "text": "「Нет!\n　Я...」",
+   "orig": "Frontal\n「No!\n　I am—」"
+  },
+  {
+   "i": 88,
+   "speaker": "Амуро",
+   "text": "「Ты — это ты.\n　Свет и тепло, что ты сейчас чувствуешь, настоящие.\n　Твоя собственная жизнь тому доказательство.」",
+   "orig": "Amuro\n「You are your own man.\n　That light and warmth you feel now, they are real.\n　Your own life proves that.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Банагер",
+   "text": "「Именно!\n　Ты жив!」",
+   "orig": "Banagher\n「Exactly!\n　You're alive!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Фронталь",
+   "text": "「Банагер Линкс.」",
+   "orig": "Frontal\n「Banagher Links.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Банагер",
+   "text": "「Следуй своим желаниям, не Чара\n　и не чьим-то ещё. Слушай своё\n　сердце — здесь и сейчас.」",
+   "orig": "Banagher\n「Follow your own desires, not Char's,\n　not anyone else's. Listen to your\n　heart, here and now.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Банагер",
+   "text": "「Именно надежды и желания живых\n　и создают будущее!」",
+   "orig": "Banagher\n「The hopes and desires of the living\n　are what will shape the future!」"
+  },
+  {
+   "i": 93,
+   "speaker": "？？？",
+   "text": "「Вот и пора.」",
+   "orig": "？？？\n「Now's the time.」"
+  },
+  {
+   "i": 94,
+   "speaker": "？？？",
+   "text": "「Надеюсь, командир сумел\n　как следует поделиться былыми надеждами.」",
+   "orig": "？？？\n「I hope the Commander was able\n　to share his past hopes well enough.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Амуро",
+   "text": "「Всё кончено?」",
+   "orig": "Amuro\n「Is it finished?」"
+  },
+  {
+   "i": 96,
+   "speaker": "？？？",
+   "text": "「Волноваться не о чем.\n　Теперь ему нужно лишь прожить свою жизнь.\n　Он не кончит как Сирокко.」",
+   "orig": "？？？\n「There's no need to worry.\n　Now he just needs to live his own life.\n　He won't end up like Scirocco.」"
+  },
+  {
+   "i": 97,
+   "speaker": "？？？",
+   "text": "「Остальное я оставляю вам —\n　тем, кто прокладывает дорогу в будущее.」",
+   "orig": "？？？\n「I'll leave the rest to you all,\n　who are leading the way to the future.」"
+  },
+  {
+   "i": 98,
+   "speaker": "？？？",
+   "text": "「Хе-хе-хе.\n　Ещё свидимся, Амуро.」",
+   "orig": "？？？\n「Heheheh.\n　Let's meet again some day, Amuro.」"
+  },
+  {
+   "i": 102,
+   "speaker": "　",
+   "text": "　\n　　　-Особняк Вистов «Мегаланика»-",
+   "orig": "　\n　\n　　　　　　　　　-Megalanica Vist Manor-"
+  },
+  {
+   "i": 103,
+   "speaker": "Банагер",
+   "text": "「И вот я снова здесь.」",
+   "orig": "Banagher\n「And here I am again.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Минева",
+   "text": "「Совсем как в день нашей первой встречи.」",
+   "orig": "Mineva\n「It's like the first time we met.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Фронталь",
+   "text": "「Не думал, что буду действовать с вами заодно.」",
+   "orig": "Frontal\n「Never thought I would be cooperating with you.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Минева",
+   "text": "「Фулл Фронталь.」",
+   "orig": "Mineva\n「Full Frontal.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Фронталь",
+   "text": "「Не поймите превратно, принцесса.\n　Сдаваться я не намерен.」",
+   "orig": "Frontal\n「Make no misunderstanging, Princess.\n　I have no intention of giving up.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Фронталь",
+   "text": "「Как человек, отвечающий за Нео-Зеон,\n　я предпочёл бы, если получится,\n　обеспечить лучшее будущее. Только и всего.」",
+   "orig": "Frontal\n「As the one who's in charge of Neo Zeon,\n　I would rather try to ensure a better future,\n　if I can. That is all.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Фронталь",
+   "text": "「Нечто лучшее, чем то отчаяние, что я ощутил.」",
+   "orig": "Frontal\n「Something better than the despair I felt.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Банагер",
+   "text": "「Вы открыли в себе\n　дверь возможностей.」",
+   "orig": "Banagher\n「You have opened the door of possibility\n　within yourself.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Фронталь",
+   "text": "「Если так на это смотреть —\n　пожалуй, ты прав, Банагер.」",
+   "orig": "Frontal\n「When you put it that way,\n　perhaps you're right, Banagher.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Фронталь",
+   "text": "「Принцесса, Марида Круз, Циннерман.\n　Ты и правда умеешь менять людей.」",
+   "orig": "Frontal\n「Princess, Marida Cruz, and Zinnerman.\n　You certainly do have a way of changing people.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Банагер",
+   "text": "「Э...」",
+   "orig": "Banagher\n「Uh...」"
+  },
+  {
+   "i": 114,
+   "speaker": "Фронталь",
+   "text": "「По-моему, ты из тех, кто принимает чужие надежды\n　и возвращает их обратно ещё сильнее.」",
+   "orig": "Frontal\n「I think you are someone who takes on people's hopes\n　and sends them back again, stronger than before.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Фронталь",
+   "text": "「Что ж, идём.\n　Посмотрим, что нас ждёт на самом деле.」",
+   "orig": "Frontal\n「Well then, let's go.\n　Let us see what really awaits us.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Банагер",
+   "text": "「Да.」",
+   "orig": "Banagher\n「Yeah.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Банагер",
+   "text": "「Что это?」",
+   "orig": "Banagher\n「What's this?」"
+  },
+  {
+   "i": 118,
+   "speaker": "？？？",
+   "text": "「Я ждал.\n　Мне нужно сказать вам одну вещь.」",
+   "orig": "？？？\n「I've been waiting.\n　I've been wanting to tell you one thing.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Минева",
+   "text": "「Чей это голос?」",
+   "orig": "Mineva\n「Whose voice is this?」"
+  },
+  {
+   "i": 120,
+   "speaker": "？？？",
+   "text": "「Наследница нашего рода, принцесса Зеона\n　и преемница Красной кометы.」",
+   "orig": "？？？\n「Scion of our family, Princess of Zeon,\n　and heir to the Red Comet.」"
+  },
+  {
+   "i": 121,
+   "speaker": "？？？",
+   "text": "「Лучших рук, которым я мог бы доверить\n　Ящик Лапласа, не найти.」",
+   "orig": "？？？\n「There is no one better to whom I\n　could entrust Laplace's Box.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Банагер",
+   "text": "「Вы из Фонда Вистов?」",
+   "orig": "Banagher\n「Are you from the Vist Foundation?」"
+  },
+  {
+   "i": 123,
+   "speaker": "？？？",
+   "text": "「Жизни понадобились тысячелетия, чтобы выйти\n　из моря на сушу. А потом, через провалы и удачи,\n　ещё тысячелетия, чтобы стать человеком.」",
+   "orig": "？？？\n「It took millennia for life to leave the sea for land.\n　And then, through failures and successes, it\n　took millennia more to become human.」"
+  },
+  {
+   "i": 124,
+   "speaker": "？？？",
+   "text": "「Так и работает эволюция. Её невозможно\n　ощутить за одну человеческую жизнь.」",
+   "orig": "？？？\n「That is how evolution works. It's nothing that\n　can be sensed by an individual life span.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Банагер",
+   "text": "「Эволюция?」",
+   "orig": "Banagher\n「Evolution?」"
+  },
+  {
+   "i": 126,
+   "speaker": "？？？",
+   "text": "「Однако у ньютайпов иные чувства.\n　Сознание каждого из них расширено.」",
+   "orig": "？？？\n「However, Newtypes have different senses.\n　Each one's consciousness has been expanded.」"
+  },
+  {
+   "i": 127,
+   "speaker": "？？？",
+   "text": "「Эта перемена была вплетена в последний миг\n　старой эры — в тот самый миг,\n　когда родился Вселенский век.」",
+   "orig": "？？？\n「That change was woven in the last instant\n　of the common era, in the instant that \n　the Universal Century was born.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Банагер",
+   "text": "「Вы о том видении, что мне явилось.」",
+   "orig": "Banagher\n「You're talking about the vision I had earlier.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Минева",
+   "text": "「Теракт на космической станции, где находился\n　премьер-министр. Инцидент «Лаплас».」",
+   "orig": "Mineva\n「The terrorist attack that happened at the space station \n　housing the Prime Minister. The Laplace Incident.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Минева",
+   "text": "「Ровно тогда, когда должны были объявить\n　о новой эре — Вселенском веке, —\n　кто-то уничтожил станцию.」",
+   "orig": "Mineva\n「Just when the announcement of a new era,\n　the Universal Century, was supposed to take place,\n　someone destroyed the station.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Минева",
+   "text": "「Погибли первый премьер-министр Рикардо Марсенас\n　и множество представителей стран-участниц,\n　а следом начались гонения на оппозицию.」",
+   "orig": "Mineva\n「The first Prime Minister, Ricardo Marcenas,\n　and countless representatives from member nations\n　died, leading to repression of anti-government forces.」"
+  },
+  {
+   "i": 132,
+   "speaker": "？？？",
+   "text": "「С этого события и начался нынешний\n　залитый кровью Вселенский век.」",
+   "orig": "？？？\n「And that event marks the beginning of this\n　blood drenched Universal Century.」"
+  },
+  {
+   "i": 133,
+   "speaker": "？？？",
+   "text": "「Но изначально люди молились\n　о совсем другом начале.」",
+   "orig": "？？？\n「But originally people had prayed for\n　the start of something very different.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Фронталь",
+   "text": "「Молились, значит?」",
+   "orig": "Frontal\n「Prayed, huh?」"
+  },
+  {
+   "i": 135,
+   "speaker": "？？？",
+   "text": "「Скоро вы сами увидите.\n　Проходите.」",
+   "orig": "？？？\n「You will soon see.\n　Proceed.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Минева",
+   "text": "「Банагер.」",
+   "orig": "Mineva\n「Banagher.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Банагер",
+   "text": "「Идём, Одри.\n　Увидим всё своими глазами.」",
+   "orig": "Banagher\n「Let's go, Audrey.\n　We'll see it all with our own eyes.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Минева",
+   "text": "「Что это?」",
+   "orig": "Mineva\n「What is this?」"
+  },
+  {
+   "i": 142,
+   "speaker": "Банагер",
+   "text": "「Я видел это в учебниках.\n　Это монумент с Хартией Вселенского века.」",
+   "orig": "Banagher\n「I've seen it in textbooks.\n　It's a monument to the Charter of the Universal Century.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Фронталь",
+   "text": "「Нет, не он!」",
+   "orig": "Frontal\n「No, it's not!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Банагер",
+   "text": "「Что?」",
+   "orig": "Banagher\n「What?」"
+  },
+  {
+   "i": 145,
+   "speaker": "Минева",
+   "text": "「Текст отличается от известного нам.\n　Здесь есть лишняя статья!」",
+   "orig": "Mineva\n「It's different from the one we know.\n　It has an extra provision!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Банагер",
+   "text": "「О чём вы?」",
+   "orig": "Banagher\n「What are you talking about?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Минева",
+   "text": "「«Когда в будущем явятся существа нового рода,\n　им надлежит даровать особое право править».」",
+   "orig": "Mineva\n「When new forms of beings arise in the future, \n　those new forms shall be given special rights to govern.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Банагер",
+   "text": "「Эту статью вычеркнули\n　из Хартии Вселенского века?!」",
+   "orig": "Banagher\n「This provision was erased\n　from the UC Charter?!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Фронталь",
+   "text": "「Существа нового рода?」",
+   "orig": "Frontal\n「New forms of beings?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Банагер",
+   "text": "「Значит, и ньютайпы тоже?」",
+   "orig": "Banagher\n「Does that include Newtypes?」"
+  },
+  {
+   "i": 151,
+   "speaker": "？？？",
+   "text": "「Это и есть Ящик Лапласа.」",
+   "orig": "？？？\n「That's Laplace's Box.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Банагер",
+   "text": "「Кха!」",
+   "orig": "Banagher\n「Agh!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Сиам",
+   "text": "「Вот проклятие, что столько лет держало нас в войне.\n　И вместе с тем — наша молитва.」",
+   "orig": "Syam\n「This is the curse that trapped us in war these long years.\n　And it is also our prayer.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Банагер",
+   "text": "「Кто вы?」",
+   "orig": "Banagher\n「Who are you?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Гаэль",
+   "text": "「Это Сиам Вист.\n　Основатель Фонда Вистов —\n　и ваш прадед, господин Банагер.」",
+   "orig": "Gael\n「This is Syam Vist.\n　He is the founder of the Vist Foundation, \n　and, Master Banagher, he is your great-grandfather.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Сиам",
+   "text": "「Здравствуй.」",
+   "orig": "Syam\n「Hello.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Фронталь",
+   "text": "「Сиам Вист.」",
+   "orig": "Frontal\n「Syam Vist.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Фронталь",
+   "text": "「Вы — вернее, род Вистов —\n　использовали своё влияние в Федерации,\n　чтобы сохранить этот текст Хартии, не так ли?」",
+   "orig": "Frontal\n「You, or should I say, the Vist family\n　used your influence with the Federation\n　to preserve this copy of the charter, yes?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Сиам",
+   "text": "「Именно так, преемник Красной кометы.」",
+   "orig": "Syam\n「Just so, heir to the Red Comet.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Гаэль",
+   "text": "「Те, кто устроил инцидент «Лаплас», —\n　те, кто был против новой эпохи, о которой\n　говорил премьер-министр Рикардо Марсенас...」",
+   "orig": "Gael\n「So the ones who caused the Laplace Incident,\n　the ones who opposed this new age that Prime Minister\n　Ricardo Marcenas was advocating...」"
+  },
+  {
+   "i": 161,
+   "speaker": "Гаэль",
+   "text": "「Взорвав станцию, они переписали Хартию,\n　видя в ней корень будущего зла.」",
+   "orig": "Gael\n「When they blew up the space station, they rewrote \n　the charter, which they saw as the root of future evil.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Гаэль",
+   "text": "「Более того, они воспользовались этим\n　как поводом раздавить своих противников.」",
+   "orig": "Gael\n「And what's more, they used the incident\n　as an excuse to crack down on their opposition.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Фронталь",
+   "text": "「Вот как.\n　Выходит, у вас в руках доказательство\n　величайшего греха Федерации.」",
+   "orig": "Frontal\n「I see.\n　You hold the proof of the \n　Federation's greatest sin, it appears.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Фронталь",
+   "text": "「И всё же вы были готовы отдать Чару\n　подлинную Хартию — Ящик Лапласа.」",
+   "orig": "Frontal\n「And yet, you were prepared to hand\n　this true UC Charter, Laplace's Box, over to Char.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Сиам",
+   "text": "「Верно.」",
+   "orig": "Syam\n「Indeed.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Фронталь",
+   "text": "「Понятно, почему Чар Азнабль\n　мог от этого отказаться.」",
+   "orig": "Frontal\n「It is understandable that\n　Char Aznable might have refused that.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Фронталь",
+   "text": "「Федерация с самого начала душила права\n　жителей космоса, и это лишь доказывает,\n　что так было задумано изначально.」",
+   "orig": "Frontal\n「From its beginning, the Federation strangled\n　the rights of space dwellers, and \n　this only proves it was planned from the start.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Фронталь",
+   "text": "「Если это станет известно всем,\n　ярость спейсноидов захлестнёт их,\n　и удержать их будет уже нечем.」",
+   "orig": "Frontal\n「If this were to become public,\n　the Spacenoids' fury would overwhelm them, and \n　nothing would be able to hold them back.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Банагер",
+   "text": "「А так ли это?」",
+   "orig": "Banagher\n「I wonder if that's true.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Минева",
+   "text": "「Банагер.」",
+   "orig": "Mineva\n「Banagher.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Банагер",
+   "text": "「Мне от этого радостно.」",
+   "orig": "Banagher\n「This makes me happy.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Банагер",
+   "text": "「Пусть бессердечные глупцы задушили это в колыбели,\n　но ведь изначально, если бы всё пошло правильно,\n　Вселенский век оправдал бы все наши надежды.」",
+   "orig": "Banagher\n「It was strangled in the crib by heartless fools,\n　but from the beginning, if it had gone right,\n　the UC would have fulfilled all our hopes.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Банагер",
+   "text": "「Когда-нибудь космос и Земля подадут друг другу руки.\n　Люди, чьи имена высечены на этом монументе,\n　верили, что так и будет.」",
+   "orig": "Banagher\n「Someday, Space and Earth could join hands.\n　The people whose names are on this monument\n　believed that could happen.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Фронталь",
+   "text": "「Банагер.」",
+   "orig": "Frontal\n「Banagher.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Сиам",
+   "text": "「Вы двое смотрите на одно и то же,\n　но относитесь к этому совершенно противоположно.」",
+   "orig": "Syam\n「You two are seeing exactly the same thing,\n　but your attitudes are completely opposite.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Сиам",
+   "text": "「Да, в этой вещи заключены и великая опасность,\n　и великая надежда для всех нас.」",
+   "orig": "Syam\n「Indeed, this object holds both deep danger\n　and great hope for us all.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Сиам",
+   "text": "「Потому я и желаю передать её дальше.\n　Тем, кого называют ньютайпами.」",
+   "orig": "Syam\n「And so, that's why I wish to pass it on.\n　To those people called Newtypes.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Минева",
+   "text": "「Чар был одним из них.」",
+   "orig": "Mineva\n「Char was one.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Сиам",
+   "text": "「Однако он потерял всякую надежду на людей\n　Земли и потому не смог принять правду.」",
+   "orig": "Syam\n「However, as he had lost all hope for the people \n　of Earth, he was unable to accept the truth.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Сиам",
+   "text": "「И в то же время он отказался использовать её,\n　чтобы раздуть войну против Земли.」",
+   "orig": "Syam\n「At the same time, he also refused to use it\n　to further the cause of war against Earth.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Минева",
+   "text": "「Таким он был человеком.」",
+   "orig": "Mineva\n「That's the type of man he was.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Минева",
+   "text": "「Он хотел, чтобы люди сами строили своё будущее,\n　а не вязли в столетней истории.」",
+   "orig": "Mineva\n「He wanted people to carve their own futures,\n　not get trapped in 100 year old history.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Сиам",
+   "text": "「Пожалуй, так и есть.」",
+   "orig": "Syam\n「I suppose that is true.」"
+  },
+  {
+   "i": 184,
+   "speaker": "Банагер",
+   "text": "「Почему вы хотите отдать\n　Ящик Лапласа ньютайпам?」",
+   "orig": "Banagher\n「Why do you want to\n　give Laplace's Box to Newtypes?」"
+  },
+  {
+   "i": 185,
+   "speaker": "Сиам",
+   "text": "「Потому что я верю: именно они\n　способны указать человечеству путь\n　к следующей ступени его развития.」",
+   "orig": "Syam\n「Because I believe they are the ones\n　who can show humanity the way to \n　the next step in human evolution.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Гаэль",
+   "text": "「Кардеас Вист начал искать, кому ещё\n　можно доверить Ящик Лапласа,\n　после того как Чар Азнабль от него отказался.」",
+   "orig": "Gael\n「Cardeas Vist started searching for someone\n　else to entrust Laplace's Box to\n　after Char Aznable refused it.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Гаэль",
+   "text": "「Программа «Лаплас» была создана,\n　чтобы безошибочно распознать истинных ньютайпов.」",
+   "orig": "Gael\n「The Laplace Program was devised\n　to clearly distinguish true Newtypes.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Банагер",
+   "text": "「Это же система управления «Юникорна»!」",
+   "orig": "Banagher\n「That's the Unicorn's control system!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Гаэль",
+   "text": "「Уровень психоволн истинных ньютайпов\n　намного выше, чем у искусственных.」",
+   "orig": "Gael\n「The Psychowave levels of true Newtypes are\n　far greater than those of artificial Newtypes.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Гаэль",
+   "text": "「«Юникорн Гандам» — ключ, который приведёт\n　к Ящику истинного ньютайпа, кем бы тот ни был.」",
+   "orig": "Gael\n「The Unicorn Gundam is the key to finding\n　the box for a true Newtype, whoever it may be.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Гаэль",
+   "text": "「Таков был замысел Кардеаса Виста.\n　Уверен, он и представить не мог,\n　что за штурвалом окажетесь вы.」",
+   "orig": "Gael\n「This was all Cardeas Vist's plan.\n　I'm sure he never dreamed that you would be\n　the one piloting it.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Гаэль",
+   "text": "「И всё же вот мы здесь.」",
+   "orig": "Gael\n「And yet, here we are.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Сиам",
+   "text": "「Вы все приблизили тот миг,\n　которого мы так долго ждали.」",
+   "orig": "Syam\n「You all have ushered in \n　the moment we have all been waiting for.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Банагер",
+   "text": "「Как-то это нереально.」",
+   "orig": "Banagher\n「This is unreal.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Минева",
+   "text": "「Верится с трудом, но сомнений у меня нет.」",
+   "orig": "Mineva\n「Hard to believe but I have no doubt.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Фронталь",
+   "text": "「Согласен.」",
+   "orig": "Frontal\n「Indeed.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Сиам",
+   "text": "「Как хранитель Ящика,\n　за все эти долгие годы\n　я питал лишь одну надежду.」",
+   "orig": "Syam\n「As the protector of the box,\n　after all these long years,\n　I have had but one hope.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Сиам",
+   "text": "「Что если ньютайпы и вправду существуют,\n　я сумею передать Ящик им.」",
+   "orig": "Syam\n「If Newtypes truly did exist, \n　that I could pass the Box to them.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Сиам",
+   "text": "「Они распорядились бы им верно\n　и привели бы всех нас к лучшему будущему.」",
+   "orig": "Syam\n「They could use it properly,\n　to bring about the best future for us all.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Сиам",
+   "text": "「И наконец довели бы до совершенства технологию,\n　что позволяет сердцам соприкасаться.」",
+   "orig": "Syam\n「And they could finally perfect the technology\n　to allow us to touch each other's minds.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Банагер",
+   "text": "「Психорама.」",
+   "orig": "Banagher\n「The Psychoframe.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Сиам",
+   "text": "「Вот моя надежда.\n　Моя единственная надежда — и судьба человечества.」",
+   "orig": "Syam\n「That has been my hope.\n　My one hope, and now humanity's destiny.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Сиам",
+   "text": "「Если скажете, что этого не примете, —\n　можете прикончить старого глупца.」",
+   "orig": "Syam\n「If you say that you won't accept that,\n　then you can strike this old fool dead.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Сиам",
+   "text": "「Закопайте Ящик нераскрытым,\n　уничтожьте его — мне всё равно.」",
+   "orig": "Syam\n「Bury the box unopened,\n　destroy it, it doesn't matter.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Банагер",
+   "text": "「Нет.」",
+   "orig": "Banagher\n「No.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Сиам",
+   "text": "「На что надеешься ты?\n　Чего желает твоё сердце?」",
+   "orig": "Syam\n「What is it you hope for?\n　What is your heart's desire?」"
+  },
+  {
+   "i": 207,
+   "speaker": "Банагер",
+   "text": "「Если ньютайпы и правда новый вид людей,\n　то, по-моему, мир ещё не готов это понять.」",
+   "orig": "Banagher\n「If Newtypes really are a new kind of human,\n　I don't think people are ready to understand.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Банагер",
+   "text": "「И я не уверен, что в нас есть то,\n　что вы ищете, и не знаю,\n　как будет правильнее всего поступить.」",
+   "orig": "Banagher\n「And so, I'm not sure we have what you \n　are looking for, and I don't know\n　what really is the best thing to do.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Банагер",
+   "text": "「Но...\n　И всё же...」",
+   "orig": "Banagher\n「But—\n　Even then...」"
+  },
+  {
+   "i": 210,
+   "speaker": "Банагер",
+   "text": "「Несмотря ни на что, просто как человек,\n　я хочу верить —\n　верить в людей и в их возможности!」",
+   "orig": "Banagher\n「Beyond all that, as just a person,\n　I want to believe—\n　I want to believe in people, in their potential!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Фронталь",
+   "text": "「Ты всё тот же, Банагер.」",
+   "orig": "Frontal\n「The same as always, Banagher.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Минева",
+   "text": "「Фулл Фронталь, теперь, зная правду,\n　что вы намерены делать?」",
+   "orig": "Mineva\n「Full Frontal, now that you know the truth,\n　what do you intend to do?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Фронталь",
+   "text": "「Я не Чар Азнабль.」",
+   "orig": "Frontal\n「I am not Char Aznable.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Фронталь",
+   "text": "「Но причины его отказа мне понятны.」",
+   "orig": "Frontal\n「However, I can understand his reasons for refusing.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Банагер",
+   "text": "「Понимаю.」",
+   "orig": "Banagher\n「I see.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Фронталь",
+   "text": "「Быть скованным столетней историей\n　и загнанным в битву насмерть.\n　От такого нелепого конца я отказываюсь.」",
+   "orig": "Frontal\n「To be bound by 100 years of history,\n　trapped in a fight to the death.\n　I refuse such a foolish end.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Фронталь",
+   "text": "「Если война Земли и космоса и закончится,\n　то лишь на надеждах живых.」",
+   "orig": "Frontal\n「If we are going to end the war between Earth and Space,\n　then it must happen based on the hopes of the living.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Банагер",
+   "text": "「Вы хотите, чтобы она кончилась?」",
+   "orig": "Banagher\n「Do you want it to end?」"
+  },
+  {
+   "i": 219,
+   "speaker": "Фронталь",
+   "text": "「В конце этого пути нас ждёт лишь\n　та самая абсолютная пустота на исходе времён.」",
+   "orig": "Frontal\n「The only thing waiting for us at the end of it\n　is that total nothingness at the end of time.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Фронталь",
+   "text": "「Я такого не хочу.\n　И не хочу, чтобы это стало\n　будущим Нео-Зеона.」",
+   "orig": "Frontal\n「I do not want that.\n　And I do not want that to\n　be Neo Zeon's future.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Минева",
+   "text": "「Фронталь.」",
+   "orig": "Mineva\n「Frontal.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Фронталь",
+   "text": "「В миг своей смерти Чар познал\n　и надежду, и отчаяние.\n　Меня сковало его отчаяние.」",
+   "orig": "Frontal\n「Char tasted both hope and despair\n　at the moment of his death.\n　I was bound by the despair he felt.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Фронталь",
+   "text": "「Но в будущем, что показала психорама,\n　я нашёл свет человеческих чувств.」",
+   "orig": "Frontal\n「However, in the future shown by the Psychoframe, \n　I found the light of human feeling.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Фронталь",
+   "text": "「Это тепло дал мне не Чар Азнабль.\n　Я взял его сам.」",
+   "orig": "Frontal\n「That warmth was not given to me by Char Aznable.\n　It is something I took for myself.」"
+  },
+  {
+   "i": 225,
+   "speaker": "Фронталь",
+   "text": "「Вот в это я и хочу верить.」",
+   "orig": "Frontal\n「So I want to believe in that.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Банагер",
+   "text": "「Значит, вы нашли надежду и возможности.」",
+   "orig": "Banagher\n「So you've found hope and possibility.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Фронталь",
+   "text": "「Когда в Нео-Зеоне об этом узнают, у многих\n　ненависть к Федерации только возрастёт.」",
+   "orig": "Frontal\n「When they hear about this, there will be many in \n　Neo Zeon whose hate for the Federation will grow.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Фронталь",
+   "text": "「Я хочу, чтобы они поняли эту надежду —\n　и бессмысленность плена прошлого.」",
+   "orig": "Frontal\n「I want them to understand this hope, and also\n　the futility of being bound by the past.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Фронталь",
+   "text": "「Впрочем, удержаться наверху так же прочно,\n　как прежде, у меня, возможно, не выйдет.」",
+   "orig": "Frontal\n「However, I may not be able to remain at the\n　top as firmly as I have up to now.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Минева",
+   "text": "「Благодарю вас, Фулл Фронталь.\n　Теперь я смогу исполнить свой долг.」",
+   "orig": "Mineva\n「Thank you, Full Frontal.\n　I will be able to fulfill my duty.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Банагер",
+   "text": "「Одри.」",
+   "orig": "Banagher\n「Audrey.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Сиам",
+   "text": "「Итак, принцесса Минева,\n　как вы поступите с Ящиком?」",
+   "orig": "Syam\n「And so, Princess Mineva,\n　what would you do with the Box?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Минева",
+   "text": "「Я думаю так же, как и они.」",
+   "orig": "Mineva\n「I feel the same as they do.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Минева",
+   "text": "「Война окончена.\n　Ящик Лапласа, прошлое —\n　всё это больше не нужно.」",
+   "orig": "Mineva\n「The war is over.\n　Laplace's Box, the past, \n　are no longer necessary.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Минева",
+   "text": "「Теперь нам нужно только будущее.」",
+   "orig": "Mineva\n「All that we need now is the future.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Сиам",
+   "text": "「Понимаю.\n　Тогда правда останется между нами\n　и теми, кто ждёт вас снаружи.」",
+   "orig": "Syam\n「I see.\n　Then the truth will remain between us and\n　those awaiting you outside.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Сиам",
+   "text": "「А эта вещь канет в историю\n　вместе со стариком.」",
+   "orig": "Syam\n「And that thing will fade into history,\n　along with this old man.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Сиам",
+   "text": "「Но, быть может, придёт день.\n　День, когда все люди станут такими, как вы, —\n　и тогда, надеюсь, вы вспомните это начало.」",
+   "orig": "Syam\n「However, there may come a day.\n　A day when all people may become like you, \n　and on that day I hope you will remember this beginning.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Сиам",
+   "text": "「Вспомните, что мы хотели, чтобы новая эпоха\n　родилась с молитвой о будущем, а не с проклятием.」",
+   "orig": "Syam\n「Remember that we wanted the new age to be born\n　with a prayer for the future, not a curse.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Найн",
+   "text": "「Идёт анализ данных.」",
+   "orig": "Nine\n「Currently analyzing data.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Найн",
+   "text": "「Задействую все средства для проверки обстановки на суше.」",
+   "orig": "Nine\n「Deploying all facilities to check status on land.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Найн",
+   "text": "（Когда я слышу имя «Микена»,\n　внутри будто срабатывает предупреждение.）",
+   "orig": "Nine\n（When I hear the name Mycenae,\n　I feel some kind of warning inside.）"
+  },
+  {
+   "i": 246,
+   "speaker": "Найн",
+   "text": "（Эта тревога.\n　Такая же, как была с Гардимом.）",
+   "orig": "Nine\n（This uneasiness.\n　It's the same as I felt with Gardim.）"
+  }
+ ]
+}

@@ -1,0 +1,862 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　-Кабинет верховного лидера Гамиласа-",
+   "orig": "　\n　　\n　　　　　　-Gamillas Supreme Leader's Office-"
+  },
+  {
+   "i": 4,
+   "speaker": "Цёллик",
+   "text": "「...」",
+   "orig": "Zoellik\n「...」"
+  },
+  {
+   "i": 5,
+   "speaker": "Домель",
+   "text": "「Я в этот самый момент вёл бой с терронским флотом!\n　Что за фарс — вызывать меня сюда и вынуждать\n　отступить прямо из сражения?!」",
+   "orig": "Domel\n「I was literally in combat with the Terron fleet!\n　What kind of farce is this, calling me here and forcing\n　our retreat from battle like that?!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Цёллик",
+   "text": "「Какая дерзость, генерал-адмирал Домель.\n　Или, пожалуй, вернее будет просто «Домель».」",
+   "orig": "Zoellik\n「How insolent of you, General Admiral Domel.\n　Or perhaps, simply Domel would be more appropriate.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Домель",
+   "text": "「Прошу прощения, ваше превосходительство.」",
+   "orig": "Domel\n「I apologize, Your Excellency.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Хисс",
+   "text": "「Корабль, на борту которого находился верховный лидер,\n　уничтожен неизвестным. Верховный лидер Деслер мёртв.\n　Убит.」",
+   "orig": "Hiss\n「The ship that was harboring the Supreme Leader was\n　destroyed by an unknown agent. Supreme Leader Dessler\n　is dead, assassinated.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Домель",
+   "text": "「Что?!」",
+   "orig": "Domel\n「What?!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Гимлей",
+   "text": "「Он отбыл с инспекцией на Балун, но об этом и о курсе\n　знали лишь двое старших офицеров.」",
+   "orig": "Gimleh\n「He had dispatched to Balun for an inspection, but this fact\n　and their course were known only by two senior officers.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Гимлей",
+   "text": "「Один — командующий космическим флотом адмирал Дитц.\n　Второй — вы.」",
+   "orig": "Gimleh\n「One of those was Space Fleet Commander, Admiral Dietz.\n　The other, was you.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Домель",
+   "text": "「На что вы намекаете?」",
+   "orig": "Domel\n「What are you trying to say?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Гимлей",
+   "text": "「Я говорю, что вас обвиняют в том, что вы — вдохновитель\n　заговора с целью убийства верховного лидера.」",
+   "orig": "Gimleh\n「I am saying that you are accused of being the mastermind\n　behind this plot to assassinate the Supreme Leader.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Домель",
+   "text": "「Э-это абсурд!」",
+   "orig": "Domel\n「T-that's absurd!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Гимлей",
+   "text": "「Вы вступили в сговор с адмиралом Дитцем и вместе\n　подготовили убийство верховного лидера, чтобы\n　захватить власть над Империей. Разве не так?」",
+   "orig": "Gimleh\n「You colluded with Admiral Dietz and together formulated\n　a plot to assassinate the Supreme Leader, taking control\n　of the Empire for yourselves, did you not?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Домель",
+   "text": "「Я отказываюсь отвечать на столь нелепые обвинения!」",
+   "orig": "Domel\n「I refuse to respond to such ludicrous accusations!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Гимлей",
+   "text": "「Нелепые обвинения? Позволю себе не согласиться. Ведь\n　ваша любимая супруга уже тоже задержана.」",
+   "orig": "Gimleh\n「Ludicrous accusations? I beg to differ. After all,\n　your loving wife has already been apprehended as well.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Домель",
+   "text": "「Элиза?!\n　Что она могла сделать? Это же безумие!」",
+   "orig": "Domel\n「Elisa?!\n　What has she ever done? This is madness!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Гимлей",
+   "text": "「О, вы не знали? Она состояла в сговоре с известным\n　антиправительственным движением.」",
+   "orig": "Gimleh\n「Oh, you didn't know? She was conspiring with a known\n　anti-government movement.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Домель",
+   "text": "「Тут какая-то ошибка!」",
+   "orig": "Domel\n「This must be some mistake!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Гимлей",
+   "text": "「Спросите любого здесь. Таковы факты.」",
+   "orig": "Gimleh\n「Anyone here can tell you. These are the facts.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Домель",
+   "text": "「Н-не может быть!」",
+   "orig": "Domel\n「I-it can't be!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Гимлей",
+   "text": "「Это государство держится на законе и порядке.\n　И этот порядок должно защищать.」",
+   "orig": "Gimleh\n「This nation functions under the order of law.\n　That order must be protected.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Гимлей",
+   "text": "「Всякий, кто нарушает порядок, должен быть наказан.\n　Таков закон!」",
+   "orig": "Gimleh\n「Any who disrupt that order must be punished.\n　That is the law!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Домель",
+   "text": "「Гимлей!」",
+   "orig": "Domel\n「Gimleh!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Цёллик",
+   "text": "「Вы мне омерзительны, Домель!\n　Ответьте за свои поступки как мужчина!」",
+   "orig": "Zoellik\n「You disgust me, Domel!\n　Take responsibility for your actions like a man!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Домель",
+   "text": "「Как же так вышло...」",
+   "orig": "Domel\n「How did this happen...」"
+  },
+  {
+   "i": 31,
+   "speaker": "　",
+   "text": "　\n　　　　　　-Зал инструктажа авиагруппы «Ямато»-",
+   "orig": "　\n　\n　　　　　　-Yamato Aircraft Squad Briefing Room-"
+  },
+  {
+   "i": 32,
+   "speaker": "Камий",
+   "text": "「Значит, если пройти через подпространственные врата,\n　мы прыгнем в систему Балун, так?」",
+   "orig": "Kamille\n「So, if we go through the subspace gate we should \n　jump to the Balun System, right?」"
+  },
+  {
+   "i": 33,
+   "speaker": "Сима",
+   "text": "「Верно. Система Балун лежит между нашей галактикой\n　и Большим Магеллановым Облаком. Можно сказать,\n　это что-то вроде космического маяка.」",
+   "orig": "Shima\n「That's right. The Balun System is located between\n　our galaxy and the Large Magellanic Cloud. I guess\n　you could say it's a kind of space lighthouse.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Амуро",
+   "text": "「То есть это середина нашего пути к Искандару.」",
+   "orig": "Amuro\n「So it's the midway point for our journey to Iscandar.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Кодай",
+   "text": "「Ещё я слышал, что Балун служит узловой\n　станцией варп-сети.」",
+   "orig": "Kodai\n「Balun also acts as a hub station for the warp\n　network, from what I've heard.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Каппэй",
+   "text": "「Варп-сети?」",
+   "orig": "Kappei\n「Warp network?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Джудо",
+   "text": "「Узловая станция? Я не понял.」",
+   "orig": "Judau\n「Hub station? I'm lost.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодай",
+   "text": "「Гамилас расставил подпространственные врата\n　в Большом Магеллановом Облаке и на Балуне, чтобы\n　свободно прыгать между этими областями.」",
+   "orig": "Kodai\n「Gamillas has placed subspace gates in the Large\n　Magellanic Cloud and in Balun so that they can\n　easily warp to and from those two areas.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Кодай",
+   "text": "「Считается, что на Балуне есть врата\n　и в другие галактики.」",
+   "orig": "Kodai\n「It is also believed that Balun is home to gates\n　to other galaxies as well.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Тобиа",
+   "text": "「То есть это их варп-база, если угодно.」",
+   "orig": "Tobia\n「So that is their warp base station, as it were.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Сэцуна",
+   "text": "「Значит, нам нужно лишь добраться до Балуна.」",
+   "orig": "Setsuna\n「So all we need is to make it to Balun then.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Сима",
+   "text": "「Именно. Если повезёт, воспользуемся тамошними\n　вратами и прыгнем прямо в Большое Магелланово\n　Облако.」",
+   "orig": "Shima\n「Exactly. We can hopefully use the gates\n　located there to warp directly to the Large\n　Magellanic Cloud.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Синн",
+   "text": "「Это здорово сократит наш график!」",
+   "orig": "Shinn\n「That'll cut down our schedule considerably!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Анж",
+   "text": "「Хорошо бы теперь перестать бояться, что не успеем.」",
+   "orig": "Ange\n「Hopefully now we can forget worrying about being late.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Кодай",
+   "text": "「Позвольте представить вам ту, кто передал нам\n　эти бесценные сведения.」",
+   "orig": "Kodai\n「Allow me to introduce you to the person who gave\n　us this invaluable information.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Юриша",
+   "text": "「...」",
+   "orig": "Yurisha\n「...」"
+  },
+  {
+   "i": 47,
+   "speaker": "Ридде",
+   "text": "「Какая красавица.」",
+   "orig": "Riddhe\n「She's so beautiful.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Банагер",
+   "text": "「Она похожа на офицера оперативной службы Мори.」",
+   "orig": "Banagher\n「She looks like Operations Officer Mori.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Мори",
+   "text": "「Её зовут Юриша.\n　Она посланница с Искандара.」",
+   "orig": "Mori\n「Her name is Yurisha.\n　She is a messenger from Iscandar.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Юриша",
+   "text": "「...」",
+   "orig": "Yurisha\n「...」"
+  },
+  {
+   "i": 51,
+   "speaker": "Кинкейд",
+   "text": "「Это посланница Искандара, что протянула Земле руку\n　помощи из Большого Магелланова Облака.」",
+   "orig": "Kincade\n「She's the Iscandarian envoy who lent her aid from the\n　Large Magellanic Cloud to save the Earth.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Синдзи",
+   "text": "「Я и про Мельду так подумал: внешне она\n　совсем не отличается от землянки.」",
+   "orig": "Shinji\n「I thought the same thing with Melda, but she\n　doesn't really look any different from an Earthling.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Аска",
+   "text": "「Да, она красивая, но хватит уже пускать слюни.」",
+   "orig": "Asuka\n「I know she's pretty, but stop fawning over her please.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Санада",
+   "text": "「Она была без сознания внутри системы\n　автоматической навигации «Ямато».」",
+   "orig": "Sanada\n「She was unconscious within the Yamato's automatic\n　navigation system.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Санада",
+   "text": "「Но, судя по всему, её пробудила психическая\n　атака противника в прошлом бою.」",
+   "orig": "Sanada\n「However, it appears she has been awakened by our enemy's\n　psychological attack during that last battle.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Хосина",
+   "text": "「И это пробудившееся сознание приняла в себя\n　Юриа?」",
+   "orig": "Hoshina\n「And her newly awakened consciousness has been taken\n　in by Yuria?」"
+  },
+  {
+   "i": 57,
+   "speaker": "Мисаки",
+   "text": "「Похоже, дело не в том, что я что-то сделала, —\n　просто выбрали именно меня.」",
+   "orig": "Misaki\n「It seems as though I was chosen, rather than\n　anything I actually did myself.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Санада",
+   "text": "「С её помощью нам удалось\n　запустить систему управления\n　вратами.」",
+   "orig": "Sanada\n「With her assistance, we were able to\n　successfully operate the gate control\n　system.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Юриша",
+   "text": "「...」",
+   "orig": "Yurisha\n「...」"
+  },
+  {
+   "i": 60,
+   "speaker": "Окита",
+   "text": "「Благодарю вас за помощь.」",
+   "orig": "Okita\n「Thank you for all your help.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Юриша",
+   "text": "「Я предпочитаю благодарность делом, а не словом.」",
+   "orig": "Yurisha\n「I prefer gratitude through actions rather than words.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Окита",
+   "text": "「Я тоже. Так и будет.」",
+   "orig": "Okita\n「As do I, and we will make it so.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Мори",
+   "text": "「Юриша, идёмте, я покажу вам\n　корабль.」",
+   "orig": "Mori\n「Now Yurisha, let me show you\n　around the ship.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Юриша",
+   "text": "「Спасибо, Юки.」",
+   "orig": "Yurisha\n「Thank you, Yuki.」"
+  },
+  {
+   "i": 65,
+   "speaker": "$n",
+   "text": "「Юриша... она будто не та, что была\n　в теле Мисаки.」",
+   "orig": "$n\n「Yurisha, she seems different from when she\n　was in Misaki's body.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Найн",
+   "text": "「Согласна.」",
+   "orig": "Nine\n「I agree.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Бандзё",
+   "text": "「В чём же?」",
+   "orig": "Banjo\n「How so?」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Хм, как бы объяснить? Раньше она была отстранённее.\n　Вроде открытая, а толком до неё не достучаться.」",
+   "orig": "$n\n「Hmm, how do I explain it? Before she was more aloof.\n　Approachable, but hard to really get at, you know?」"
+  },
+  {
+   "i": 69,
+   "speaker": "Найн",
+   "text": "「То есть милая загадочная особа?」",
+   "orig": "Nine\n「So kind of a cute, mysterious type then?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Кодай",
+   "text": "「Уверен, она просто держится как подобает, когда\n　исполняет долг посланницы Искандара.」",
+   "orig": "Kodai\n「I'm sure she just acts in an appropriate manner when\n　conducting her duties as a messenger of Iscandar.」"
+  },
+  {
+   "i": 71,
+   "speaker": "$n",
+   "text": "「Да мне и утончённая благородная дама нравится,\n　и милая растеряша — так что лично для меня\n　разницы особой нет.」",
+   "orig": "$n\n「Yeah well, I like her both as a refined, elegant\n　lady and as a cute, ditzy type so it really\n　doesn't matter much to me.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Найн",
+   "text": "「А разъярённый андроид?」",
+   "orig": "Nine\n「How about a furiously angry android?」"
+  },
+  {
+   "i": 73,
+   "speaker": "$n",
+   "text": "「Даже у меня есть предел, Найн.」",
+   "orig": "$n\n「Even I have my limits, Nine.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Найн",
+   "text": "「Эх...」",
+   "orig": "Nine\n「Sigh...」"
+  },
+  {
+   "i": 75,
+   "speaker": "Бандзё",
+   "text": "「Похоже, сегодня победа за $n, а?」",
+   "orig": "Banjo\n「Looks like today is a victory for $n, eh?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тэцуя",
+   "text": "「Уже отпустило после Титосэ?」",
+   "orig": "Tetsuya\n「Gotten over Chitose already?」"
+  },
+  {
+   "i": 77,
+   "speaker": "$n",
+   "text": "「Не совсем.\n　Я уже несколько дней не могу уснуть.」",
+   "orig": "$n\n「Not exactly.\n　I haven't been able to sleep for days.」"
+  },
+  {
+   "i": 78,
+   "speaker": "$n",
+   "text": "「Пока мы с Найн решили только одно.\n　Проигрывать мы не собираемся, но и уничтожать\n　Титосэ тоже не собираемся.」",
+   "orig": "$n\n「For now, Nine and I have decided on one thing.\n　We're not planning on losing, but at the same time\n　we're not planning to take out Chitose either.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Кодай",
+   "text": "「И как же вы тогда поступите?」",
+   "orig": "Kodai\n「So, what are you going to do then?」"
+  },
+  {
+   "i": 80,
+   "speaker": "$n",
+   "text": "「Вот об этом сейчас лучше не спрашивай.」",
+   "orig": "$n\n「Don't ask me that right now, please.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Рёма",
+   "text": "「Ясно. То есть плана у тебя нет.」",
+   "orig": "Ryoma\n「I see. So basically you don't have a plan.」"
+  },
+  {
+   "i": 82,
+   "speaker": "$n",
+   "text": "「Ну, будем действовать по ходу дела!」",
+   "orig": "$n\n「Well, we're just gonna wing it!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Найн",
+   "text": "「Не уверена, что это лучший план, кэп.」",
+   "orig": "Nine\n「Not sure if that's the best plan, Cap.」"
+  },
+  {
+   "i": 84,
+   "speaker": "$n",
+   "text": "「Ладно, Найн, слышу тебя.\n　Будем решать по обстановке.」",
+   "orig": "$n\n「OK, I hear you Nine.\n　Let's just take things as they come.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Сима",
+   "text": "「Сперва о главном — план по Балуну.」",
+   "orig": "Shima\n「First thing's first, the Balun plan.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Кодай",
+   "text": "「По данным, снятым с разведывательного дрона,\n　там собрано больше десяти тысяч кораблей.」",
+   "orig": "Kodai\n「According to the data we retrieved from our recon\n　drone, over 10,000 ships have been amassed.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Бэнкэй",
+   "text": "「Флот в десять тысяч кораблей?!」",
+   "orig": "Benkei\n「A fleet of 10,000 ships?!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Хаято",
+   "text": "「Это слишком много даже для охраны базы!」",
+   "orig": "Hayato\n「That's too many, even for defending a base!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Кодай",
+   "text": "「Командующий Окита изучил данные и пришёл к выводу,\n　что они собрались там ради какой-то церемонии.」",
+   "orig": "Kodai\n「Commanding Officer Okita reviewed the data and came\n　to the conclusion that they must be amassing there as\n　part of some kind of ceremony.」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Хм, может, смотр флота?」",
+   "orig": "$n\n「Hmm, maybe a naval review?」"
+  },
+  {
+   "i": 91,
+   "speaker": "Тэцуя",
+   "text": "「Эти десять тысяч кораблей — это, пожалуй,\n　почти весь флот Гамиласа.」",
+   "orig": "Tetsuya\n「Those 10,000 ships may actually be nearly the\n　entire Gamillan fleet.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Бэнкэй",
+   "text": "「Вопрос в том, зачем им проводить такое\n　именно сейчас?」",
+   "orig": "Benkei\n「The question is, why would they be holding such\n　an event now?」"
+  },
+  {
+   "i": 93,
+   "speaker": "Сима",
+   "text": "「Вот именно в этом и вопрос.」",
+   "orig": "Shima\n「That is indeed the question.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Кодай",
+   "text": "「Командующий Окита считает, что это может быть наш шанс.」",
+   "orig": "Kodai\n「Commanding Officer Okita thinks this could be our chance.」"
+  },
+  {
+   "i": 95,
+   "speaker": "$n",
+   "text": "「Наш шанс? В каком смысле?」",
+   "orig": "$n\n「Our chance? How so?」"
+  },
+  {
+   "i": 96,
+   "speaker": "$n",
+   "text": "「Юриша... она будто не та, что была\n　в теле Мисаки.」",
+   "orig": "$n\n「Yurisha, she seems different from when she\n　was in Misaki's body.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Найн",
+   "text": "「Согласна.」",
+   "orig": "Nine\n「I agree.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Бандзё",
+   "text": "「В чём же?」",
+   "orig": "Banjo\n「How so?」"
+  },
+  {
+   "i": 99,
+   "speaker": "$n",
+   "text": "「Хм, как бы объяснить? Раньше она была отстранённее.\n　Вроде открытая, а толком до неё не достучаться.」",
+   "orig": "$n\n「Hmm, how do I explain it? Before she was more aloof.\n　Approachable, but hard to really get at, you know?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Найн",
+   "text": "「То есть милая загадочная особа?」",
+   "orig": "Nine\n「So kind of a cute, mysterious type then?」"
+  },
+  {
+   "i": 101,
+   "speaker": "Кодай",
+   "text": "「Уверен, она просто держится как подобает, когда\n　исполняет долг посланницы Искандара.」",
+   "orig": "Kodai\n「I'm sure she just acts in an appropriate manner when\n　conducting her duties as a messenger of Iscandar.」"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「Пожалуй, ты прав.」",
+   "orig": "$n\n「I suppose you're right.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Настоящая проблема — Содзи.\n　С тех пор как он примкнул к Гардиму, он вдруг\n　всерьёз взялся на нас нападать.」",
+   "orig": "$n\n「The real problem is Soji.\n　Since he joined up with Gardim, he seems to actually\n　be serious about attacking us all of a sudden.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Найн",
+   "text": "「Согласна.」",
+   "orig": "Nine\n「I agree.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Тэцуя",
+   "text": "「Звучит так, будто ты уже смирился\n　с его выбором. Или я ослышался?」",
+   "orig": "Tetsuya\n「Sounds like you've made your peace\n　with his decision, or am I hearing you wrong?」"
+  },
+  {
+   "i": 106,
+   "speaker": "$n",
+   "text": "「Не сказал бы. Меня это всё ещё сильно гложет.\n　Я уже несколько дней не сплю.」",
+   "orig": "$n\n「Not necessarily. It still bothers me a great deal.\n　I haven't slept in days.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Но мы с Найн решили так: стоять и давать ему\n　себя одолеть мы не станем, но и калечить его,\n　если получится, не хотим.」",
+   "orig": "$n\n「But, Nine and I decided that while we won't just\n　stand by and let him defeat us, we also want to\n　avoid actually hurting him if we can.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Кодай",
+   "text": "「И как же вы тогда поступите?」",
+   "orig": "Kodai\n「So, what are you going to do then?」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Вот над этим я ещё думаю.」",
+   "orig": "$n\n「As for that, I'm still thinking about it.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Рёма",
+   "text": "「Ясно. То есть плана у тебя нет.」",
+   "orig": "Ryoma\n「I see. So basically you don't have a plan.」"
+  },
+  {
+   "i": 111,
+   "speaker": "$n",
+   "text": "「Сделаем то, что должны.」",
+   "orig": "$n\n「We'll do what we have to do.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Найн",
+   "text": "「Точного плана действий у нас нет, но мы готовы\n　сделать всё, что потребуется.」",
+   "orig": "Nine\n「We are not sure of an exact plan of action, but we\n　are prepared to do what it takes.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Бандзё",
+   "text": "「Принято. Как я и обещал, мы будем рядом\n　и поддержим, чем только сможем.」",
+   "orig": "Banjo\n「Roger that. Just like I promised you, we'll\n　be here to support you in any way we can.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Тэцуя",
+   "text": "「Только не забывай:\n　Гардим — не единственный наш враг.」",
+   "orig": "Tetsuya\n「Just don't forget this:\n　Gardim is not our only enemy.」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Ясно.」",
+   "orig": "$n\n「Understood.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Сима",
+   "text": "「Сперва о главном — план по Балуну.」",
+   "orig": "Shima\n「First thing's first, the Balun plan.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Кодай",
+   "text": "「По данным, снятым с разведывательного дрона,\n　там собрано больше десяти тысяч кораблей.」",
+   "orig": "Kodai\n「According to the data we retrieved from our recon\n　drone, over 10,000 ships have been amassed.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Бэнкэй",
+   "text": "「Флот в десять тысяч кораблей?!」",
+   "orig": "Benkei\n「A fleet of 10,000 ships?!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Хаято",
+   "text": "「Это слишком много даже для охраны базы!」",
+   "orig": "Hayato\n「That's too many, even for defending a base!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Кодай",
+   "text": "「Командующий Окита изучил данные и пришёл к выводу,\n　что они собрались там ради какой-то церемонии.」",
+   "orig": "Kodai\n「Commanding Officer Okita reviewed the data and came\n　to the conclusion that they must be amassing there as\n　part of some kind of ceremony.」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「Хм, может, смотр флота?」",
+   "orig": "$n\n「Hmm, maybe a naval review?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Тэцуя",
+   "text": "「Эти десять тысяч кораблей — это, пожалуй,\n　почти весь флот Гамиласа.」",
+   "orig": "Tetsuya\n「Those 10,000 ships may actually be nearly the\n　entire Gamillan fleet.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Бэнкэй",
+   "text": "「Вопрос в том, зачем им проводить такое\n　именно сейчас?」",
+   "orig": "Benkei\n「The question is, why would they be holding such\n　an event now?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Сима",
+   "text": "「Вот именно в этом и вопрос.」",
+   "orig": "Shima\n「That is indeed the question.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Кодай",
+   "text": "「Командующий Окита считает, что это может быть наш шанс.」",
+   "orig": "Kodai\n「Commanding Officer Okita thinks this could be our chance.」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「Наш шанс? В каком смысле?」",
+   "orig": "$n\n「Our chance? How so?」"
+  },
+  {
+   "i": 130,
+   "speaker": "　",
+   "text": "　　\n　　　　　　-Мостик «Зельгута II»-",
+   "orig": "　\n　　\n　　　　　　　　　-Zoelguut II Bridge-"
+  },
+  {
+   "i": 131,
+   "speaker": "Деслер",
+   "text": "「Приветствую, Цёллик. Хорошо выглядишь.」",
+   "orig": "Dessler\n「Greetings, Zoellik. You look well.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Цёллик",
+   "text": "「Как это возможно?!」",
+   "orig": "Zoellik\n「How can it be—?!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Деслер",
+   "text": "「Должен сказать, твоя недавняя речь меня впечатлила.」",
+   "orig": "Dessler\n「I have to say, I was impressed by your speech earlier.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Гоэр",
+   "text": "「В-ваше превосходительство!\n　Вы живы!」",
+   "orig": "Goer\n「Y-Your Excellency!\n　You are alive!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Цёллик",
+   "text": "「Это невозможно!\n　Я своими глазами видел, как ваш корабль взорвался!」",
+   "orig": "Zoellik\n「That's impossible!\n　I saw your ship explode myself!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Деслер",
+   "text": "「Умом ты никогда не блистал.\n　Ты и правда решил, что я был на борту корабля,\n　который ты уничтожил?」",
+   "orig": "Dessler\n「You never were very smart.\n　Do you really think I was on board the ship that\n　you destroyed?」"
+  },
+  {
+   "i": 137,
+   "speaker": "Цёллик",
+   "text": "「Проклятье, двойник!」",
+   "orig": "Zoellik\n「Damn, a body double!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Деслер",
+   "text": "「Селестелла знала о твоём замысле с самого начала.\n　Домелю, увы, пришлось стать козлом отпущения, но\n　скучать ты мне не дал — этого не отнять.」",
+   "orig": "Dessler\n「Celestella already knew about your little plan.\n　Unfortunately Domel had to take the fall, but you\n　certainly kept me from boredom, I'll give you that.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Цёллик",
+   "text": "「Кхм!」",
+   "orig": "Zoellik\n「Hmph!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Деслер",
+   "text": "「Теперь, когда твоя вина раскрыта, есть ли\n　последнее слово, Цёллик?」",
+   "orig": "Dessler\n「Now that your guilt has been exposed, do you have\n　any last words, Zoellik?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Цёллик",
+   "text": "「А-а-а-а!\n　Молчать! Молчать! Молчать!」",
+   "orig": "Zoellik\n「Arghhhhh!\n　Shut up! Shut up! Shut up!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Цёллик",
+   "text": "「Слушайте меня, доблестные воины!\n　Наши поступки, рождённые верностью империи, объявили\n　изменой! Но мы никогд—」",
+   "orig": "Zoellik\n「Listen to me, my valiant soldiers!\n　Our acts of patriotism, born of loyalty to our empire,\n　have made us labeled as traitors! But we will ne—」"
+  },
+  {
+   "i": 143,
+   "speaker": "Гоэр",
+   "text": "「Молчать!」",
+   "orig": "Goer\n「Silence!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Цёллик",
+   "text": "「Гоэр, да как ты смеешь!」",
+   "orig": "Zoellik\n「Goer, how dare you!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Гоэр",
+   "text": "「Предатель! Я сражу тебя\n　именем верховного лидера!」",
+   "orig": "Goer\n「You traitor! I will strike you down\n　in the name of the Supreme Leader!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Цёллик",
+   "text": "「Гоэр, глупец...」",
+   "orig": "Zoellik\n「Goer, you fool...」"
+  },
+  {
+   "i": 147,
+   "speaker": "Гоэр",
+   "text": "「В-вы видели, солдаты! Это я, Гремдт Гоэр,\n　сразил этого предателя!」",
+   "orig": "Goer\n「D-did you see that, my soldiers! I, Gremdt Goer,\n　was the one who struck down this traitor!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Капитан Гамиласа",
+   "text": "「Контр-адмирал Гоэр!」",
+   "orig": "Gamillas Captain\n「Rear-Admiral Goer!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Гоэр",
+   "text": "「В чём дело?」",
+   "orig": "Goer\n「What is it?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Капитан Гамиласа",
+   "text": "「Над Балуном замечен неизвестный объект!」",
+   "orig": "Gamillas Captain\n「An object was spotted floating over Balun!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Гоэр",
+   "text": "「Что?!」",
+   "orig": "Goer\n「What?!」"
+  }
+ ]
+}

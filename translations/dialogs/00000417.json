@@ -1,0 +1,2560 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Меран",
+   "text": "「Колонию вот-вот затянет\n　в гравитационное поле Земли!」",
+   "orig": "Meran\n「The colony will soon be caught\n　in Earth's gravitational field!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Брайт",
+   "text": "「Если дойдёт до этого,\n　остановить её мы уже не сможем!」",
+   "orig": "Bright\n「If it gets that far,\n　we'll never be able to stop!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Окита",
+   "text": "「Санада!\n　Сколько у нас времени?」",
+   "orig": "Okita\n「Sanada!\n　How long do we have?」"
+  },
+  {
+   "i": 3,
+   "speaker": "Санада",
+   "text": "「Шесть минут!」",
+   "orig": "Sanada\n「Six more minutes!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Кодай",
+   "text": "「И надо же волновой пушке выйти из строя именно сейчас!」",
+   "orig": "Kodai\n「Of all the times for the wave motion gun to be down!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Тесса",
+   "text": "「Теперь нам остаётся только зацепиться за колонию\n　и разрушить её изнутри!」",
+   "orig": "Tessa\n「Now all we can do is hook on to the colony\n　and destroy it from within!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Сакс",
+   "text": "「Сагара, Ал, приём.\n　Сделано на скорую руку, но мы навесили\n　на «Лаэватейн» аварийные ускорители.」",
+   "orig": "Sacks\n「Sagara, Al, come in.\n　It's a rush job, but we've attached\n　emergency boosters to Laevatein.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Сакс",
+   "text": "「Гонок на них не выиграть, но для рывка сойдёт.\n　Если получишь по ним и они встанут —\n　сбрасывай сразу же, не раздумывая!」",
+   "orig": "Sacks\n「You won't win any races, but it'll do for an attack.\n　If it takes a hit and goes dead,\n　cut it loose right then and there!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Соскэ",
+   "text": "「Принято.」",
+   "orig": "Sousuke\n「Roger.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Ал",
+   "text": "「Благодарю, лейтенант Сакс.」",
+   "orig": "Al\n「I appreciate it, Lieutenant Sacks.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Рури",
+   "text": "「Итак, все:\n　готовимся к штурму.」",
+   "orig": "Ruri\n「OK everyone,\n　prepare for assault.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Харри",
+   "text": "「Погодите!\n　Сюда идёт Нео-Зеон!」",
+   "orig": "Harry\n「Hold on!\n　Neo Zeon is coming!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Лотти",
+   "text": "「И Гамилас вместе с ними!」",
+   "orig": "Lottie\n「Gamillas is with them!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Мельда",
+   "text": "「«Гёргамеч»!\n　Гремдт Гоэр тоже здесь!」",
+   "orig": "Melda\n「Goergametsch!\n　Gremdt Goer is here too!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Окита",
+   "text": "「Это тот, кто застрелил командира Ланга! Значит, он\n　и командует флотом Гамиласа, прыгнувшим в это измерение!」",
+   "orig": "Okita\n「That's the man who shot Commander Lang! So he's in charge\n　of the Gamillas fleet that jumped to this dimension!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Кинкейд",
+   "text": "「Они выбрали на редкость неудачный момент.」",
+   "orig": "Kincade\n「They chose a really bad time to show up.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Рёма",
+   "text": "「Они точь-в-точь как Нео-Зеон — \n　им плевать, что станет с Землёй!」",
+   "orig": "Ryoma\n「They're just like Neo Zeon; \n　they don't care what happens to Earth!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Гоэр",
+   "text": "「Муа-ха-ха!\n　Мы шли лишь примкнуть к чужой победе, \n　а похоже, нам достанется ещё и «Ямато»!」",
+   "orig": "Goer\n「Mwahahah!\n　We only attacked to join in the victory, \n　but it looks like we get the Yamato, too!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Гоэр",
+   "text": "「Всем машинам — атаковать «Ямато»!\n　На этот раз он наш!」",
+   "orig": "Goer\n「All units, attack the Yamato!\n　This time they're ours!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Ракан",
+   "text": "「Проклятые гамиласцы!\n　Вам полагалось выполнять приказы!」",
+   "orig": "Rakan\n「You stinking Gamillans!\n　You were supposed to follow orders!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Ракан",
+   "text": "「Ну и ладно. Полагаю, против «Лондо Белл» \n　это нам всё равно на руку.」",
+   "orig": "Rakan\n「Very well then. I suppose it \n　will still help in our efforts against Londo Bell.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Джудо",
+   "text": "「Ты!\n　Опять хочешь уронить колонию на Землю?!」",
+   "orig": "Judau\n「You!\n　You want to drop a colony onto Earth again?!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Ракан",
+   "text": "「Только потому, что вы продолжаете сопротивляться!」",
+   "orig": "Rakan\n「Only because you continue to resist!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Джудо",
+   "text": "「Это не повод для такого безумия!」",
+   "orig": "Judau\n「That's no reason for this madness!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Амуро",
+   "text": "「Оставь, Джудо.」",
+   "orig": "Amuro\n「Leave it, Judau.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Банагер",
+   "text": "「Сейчас главное — разобраться с колонией.」",
+   "orig": "Banagher\n「Right now we've got to take care of the colony.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Брайт",
+   "text": "「Всем машинам — в атаку!\n　Сносим Нео-Зеон и их союзников\n　и цепляемся за колонию!」",
+   "orig": "Bright\n「All units, attack!\n　Take out Neo Zeon and their allies,\n　and lets grab onto that colony!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Джудо",
+   "text": "「Будь ты проклят!\n　Мы вам этого не позволим!」",
+   "orig": "Judau\n「Damn you!\n　We won't let you do this!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Тобиа",
+   "text": "「И Гамилас вместе с ними!」",
+   "orig": "Tobia\n「Gamillas is with them!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Мельда",
+   "text": "「«Гёргамеч»!\n　Гремдт Гоэр тоже здесь!」",
+   "orig": "Melda\n「Goergametsch!\n　Gremdt Goer is here too!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Окита",
+   "text": "「Это тот, кто застрелил командира Ланга! Значит, он\n　и командует флотом Гамиласа, прыгнувшим в это измерение!」",
+   "orig": "Okita\n「That's the man who shot Commander Lang! So he's in charge\n　of the Gamillas Fleet that jumped to this dimension!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Кинкейд",
+   "text": "「Они выбрали на редкость неудачный момент.」",
+   "orig": "Kincade\n「They chose a really bad time to show up.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Рёма",
+   "text": "「Они точь-в-точь как Нео-Зеон — \n　им плевать, что станет с Землёй!」",
+   "orig": "Ryoma\n「They're just like Neo Zeon, \n　they don't care what happens to Earth!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Гоэр",
+   "text": "「Муа-ха-ха!\n　Мы шли лишь примкнуть к чужой победе, \n　а похоже, нам достанется ещё и «Ямато»!」",
+   "orig": "Goer\n「Mwahahah!\n　We only atacked to join in the victory, \n　but it looks like we get the Yamato, too!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Гоэр",
+   "text": "「Всем машинам — атаковать «Ямато»!\n　На этот раз он наш!」",
+   "orig": "Goer\n「All units, attack the Yamato!\n　This time they're ours!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Ракан",
+   "text": "「Проклятые гамиласцы!\n　Вам полагалось выполнять приказы!」",
+   "orig": "Rakan\n「You stinking Gamillans!\n　You were supposed to follow orders!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Ракан",
+   "text": "「Ну и ладно. Полагаю, против «Лондо Белл» \n　это нам всё равно на руку.」",
+   "orig": "Rakan\n「Very well then. I suppose it \n　will still help in our efforts against Londo Bell.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Джудо",
+   "text": "「Ты!\n　Опять хочешь уронить колонию на Землю?!」",
+   "orig": "Judau\n「You!\n　You want to drop a colony onto Earth again?!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Ракан",
+   "text": "「Только потому, что вы продолжаете сопротивляться!」",
+   "orig": "Rakan\n「Only because you continue to resist!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Джудо",
+   "text": "「Это не повод для такого безумия!」",
+   "orig": "Judau\n「That's no reason for this madness!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Амуро",
+   "text": "「Оставь, Джудо.」",
+   "orig": "Amuro\n「Leave it, Judau.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Банагер",
+   "text": "「Сейчас главное — разобраться с колонией.」",
+   "orig": "Banagher\n「Right now we've got to take care of the colony.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Брайт",
+   "text": "「Всем машинам — в атаку!\n　Сносим Нео-Зеон и их союзников\n　и цепляемся за колонию!」",
+   "orig": "Bright\n「All units, attack!\n　Take out Neo Zeon and their allies,\n　and lets grab onto that colony!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Джудо",
+   "text": "「Будь ты проклят!\n　Мы вам этого не позволим!」",
+   "orig": "Judau\n「Damn you!\n　We won't let you do this!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Харри",
+   "text": "「Зафиксирован отклик сингулярности!\n　Открываются межпространственные врата!」",
+   "orig": "Harry\n「Singularity response confirmed!\n　Dimensional doors opening!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Анж",
+   "text": "「Сала! Это ты\n　вызвала подкрепление?」",
+   "orig": "Ange\n「Sala! Did you\n　call for reinforcements?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Саламандинай",
+   "text": "「Нет, не я!」",
+   "orig": "Salamandinay\n「No, I didn't!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Таск",
+   "text": "「Тогда кто?」",
+   "orig": "Tusk\n「Then who did?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Эмбрио",
+   "text": "「Как приятно вновь тебя видеть, Анж.」",
+   "orig": "Embryo\n「So nice to see you again, Ange.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Анж",
+   "text": "「Мне сейчас не до тебя.」",
+   "orig": "Ange\n「I don't have time to deal with you right now.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Эмбрио",
+   "text": "「А и не нужно: я привёл своих милых\n　рыцарей и помощников, чтобы поиграть с тобой.」",
+   "orig": "Embryo\n「There's no need, I've brought my sweet little\n　knights and helpers to play with you.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Таск",
+   "text": "「Шесть «Рагна-Мейлов»!」",
+   "orig": "Tusk\n「Six Ragna-Mail suits!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Акито",
+   "text": "「Почему Марсианские преемники\n　заодно с ним?!」",
+   "orig": "Akito\n「Why are the Martian Successors\n　working with him?!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Эмбрио",
+   "text": "「Они заблудились в собственном гневе, и им\n　некуда было податься. А теперь нас объединяет\n　общее желание — уничтожить этот мир!」",
+   "orig": "Embryo\n「They were lost in their anger, with no\n　other place to go. And now we are united\n　in our desire to destroy the world!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Бандзё",
+   "text": "「Уничтожить этот мир?!」",
+   "orig": "Banjo\n「Destroy the world?!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Эмбрио",
+   "text": "「А теперь позвольте представить моего коллегу.」",
+   "orig": "Embryo\n「Now, let me introduce my fellow researcher.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Леонард",
+   "text": "「Ты и правда слишком много болтаешь, Эмбрио.」",
+   "orig": "Leonard\n「You really do talk a lot, Embryo.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Соскэ",
+   "text": "「Леонард Тестаросса!」",
+   "orig": "Sousuke\n「Leonard Testarossa!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Леонард",
+   "text": "「Досадно, не так ли, Соскэ Сагара?\n　Как видишь, я всё ещё жив.」",
+   "orig": "Leonard\n「Disappointing, isn't it, Sousuke Sagara?\n　As you can see, I'm still alive.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Леонард",
+   "text": "「Умри я тогда, у твоей ненаглядной\n　руки были бы в крови, как и у тебя.\n　Одним выстрелом двух зайцев, так сказать.」",
+   "orig": "Leonard\n「If only I had died back then, your beloved\n　girlfriend would have the same bloodied hands\n　as you. Two birds with one stone, as it were.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Курц",
+   "text": "「Он тебе не кажется каким-то другим?」",
+   "orig": "Kurz\n「Does he seem different to you?」"
+  },
+  {
+   "i": 62,
+   "speaker": "Мао",
+   "text": "「Встреча со Старухой с косой\n　кого угодно изменит!」",
+   "orig": "Mao\n「Having a run-in with the Reaper\n　must change a person!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тесса",
+   "text": "「Леонард...\n　Ты правда объединился с Эмбрио?」",
+   "orig": "Tessa\n「Leonard...\n　Have you really joined forces with Embryo?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Леонард",
+   "text": "「У нас с ним схожие цели.\n　А его исследования и впрямь весьма занимательны.」",
+   "orig": "Leonard\n「He and I have similar goals.\n　And his research is really quite stimulating.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Леонард",
+   "text": "「Если хочешь, присоединяйся к нам, Телета.」",
+   "orig": "Leonard\n「If you'd like, you can join us, Teletha.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Тесса",
+   "text": "「Не говори глупостей!」",
+   "orig": "Tessa\n「Don't be stupid!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Канамэ",
+   "text": "「Я же говорила, Леонард.\n　Тесса нас никогда не примет.」",
+   "orig": "Kaname\n「I told you, Leonard.\n　Tessa will never accept us.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Соскэ",
+   "text": "「Нет!」",
+   "orig": "Sousuke\n「No!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Канамэ",
+   "text": "「Давай скорее поможем Нео-Зеону,\n　чтобы они обрушили эту колонию.」",
+   "orig": "Kaname\n「Let's hurry up and help Neo Zeon\n　so they can bring down that colony.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Леонард",
+   "text": "「Понял.」",
+   "orig": "Leonard\n「Understood.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Соскэ",
+   "text": "「Это правда ты, Тидори?」",
+   "orig": "Sousuke\n「Is that really you, Chidori?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Канамэ",
+   "text": "「Именно так, Соскэ.」",
+   "orig": "Kaname\n「Indeed, Sousuke.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Соскэ",
+   "text": "「Что ты сейчас имела в виду?\n　Ты тоже хочешь обрушить колонию?!」",
+   "orig": "Sousuke\n「What did you mean by that just now?\n　You want to bring down the colony, too?!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Канамэ",
+   "text": "「Разумеется!\n　Этот прогнивший мир заслуживает уничтожения.」",
+   "orig": "Kaname\n「But of course!\n　This depraved world deserves destruction.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Джудо",
+   "text": "「Канамэ, не может быть...」",
+   "orig": "Judau\n「Kaname, no...」"
+  },
+  {
+   "i": 76,
+   "speaker": "Кодзи",
+   "text": "「Ты о чём вообще?!」",
+   "orig": "Koji\n「What are you talking about?!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Канамэ",
+   "text": "「Обсуждать это с вами\n　совершенно бессмысленно.」",
+   "orig": "Kaname\n「There's really no point\n　discussing it with you all.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Леонард",
+   "text": "「Вот именно.\n　Эмбрио, предоставь это мне.」",
+   "orig": "Leonard\n「Exactly.\n　Embryo, leave this to me.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Эмбрио",
+   "text": "「Благодарю, Леонард.」",
+   "orig": "Embryo\n「Thank you, Leonard.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Саламандинай",
+   "text": "「Стой на месте, Эмбрио!」",
+   "orig": "Salamandinay\n「Wait right there, Embryo!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Эмбрио",
+   "text": "「Я отверг этот мир...\n　Я отрицал само его существование, \n　Принцесса драконов.」",
+   "orig": "Embryo\n「I threw away the world...\n　I denied its very existence, \n　Princess of Dragons.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Эмбрио",
+   "text": "「Благодарю, что до сего дня\n　закрывала на это глаза.」",
+   "orig": "Embryo\n「I thank you for letting that go\n　until today.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Анж",
+   "text": "「Мразь!」",
+   "orig": "Ange\n「You filth!」"
+  },
+  {
+   "i": 84,
+   "speaker": "？？？",
+   "text": "「Не смей оскорблять господина Эмбрио!」",
+   "orig": "？？？\n「Don't insult Lord Embryo!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Анж",
+   "text": "「Этот голос!」",
+   "orig": "Ange\n「That voice!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Салия",
+   "text": "「Да, Анж.\n　Это я.」",
+   "orig": "Salia\n「Yes, Ange.\n　It is I.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Анж",
+   "text": "「Салия!」",
+   "orig": "Ange\n「Salia!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Эмбрио",
+   "text": "「Что ж, оставляю это на вас, мои милые рыцари.」",
+   "orig": "Embryo\n「Well then, I'll leave this to you, my darling knights.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Эрша",
+   "text": "「Гнаться за ним бессмысленно, \n　Анж.」",
+   "orig": "Ersha\n「There's no point in pursuing him, \n　Ange.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Крис",
+   "text": "「Мы защитим Эмбрио!」",
+   "orig": "Chris\n「We will protect Embryo!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Вивиан",
+   "text": "「Ч-что?!」",
+   "orig": "Vivian\n「W-what?!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Розали",
+   "text": "「Крис!\n　И Эрша тоже?!」",
+   "orig": "Rosalie\n「Chris!\n　And Ersha too?!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Хильда",
+   "text": "「Что здесь вообще творится?」",
+   "orig": "Hilda\n「What's going on here?」"
+  },
+  {
+   "i": 95,
+   "speaker": "Салия",
+   "text": "「Мы — рыцари господина Эмбрио!\n　Нас зовут Рыцарями Алмазной розы!」",
+   "orig": "Salia\n「We are Lord Embryo's knights!\n　They call us the Diamond Rose Knights!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Анж",
+   "text": "「Алмазной розы?」",
+   "orig": "Ange\n「Diamond Rose?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Таня",
+   "text": "「В тот день, когда пал Арзенал,\n　господин Эмбрио спас каждую из нас.」",
+   "orig": "Tanya\n「On the day that Arzenal fell,\n　Lord Embryo saved each of our lives.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Ирма",
+   "text": "「Он спас не только наши жизни.\n　Он спас сами наши души.」",
+   "orig": "Irma\n「It wasn't just our lives he saved.\n　It was our very souls.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Хильда",
+   "text": "「Таня и Ирма из третьей эскадрильи!」",
+   "orig": "Hilda\n「Tanya and Irma, from the 3rd Squadron!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Салия",
+   "text": "「Мы всем обязаны господину Эмбрио!\n　И не позволим никому ему помешать!」",
+   "orig": "Salia\n「We owe everything to Lord Embryo!\n　We won't allow anyone to interfere with him!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Синн",
+   "text": "「Нет, Салия!\n　Не думай так! Не сражайся за него!」",
+   "orig": "Shinn\n「No, Salia!\n　Don't think like that! Don't fight for him!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Синн",
+   "text": "「Думай сама! Сражайся за себя!」",
+   "orig": "Shinn\n「Think for yourself! Fight for yourself!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Салия",
+   "text": "「Замолчи! Ты ничего обо мне не знаешь, Синн!」",
+   "orig": "Salia\n「Shut up! You know nothing about me, Shinn!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Анж",
+   "text": "「Значит, рыцари этой самой Алмазной чего-то там.\n　Что за кошмарное название.」",
+   "orig": "Ange\n「So these are the Diamond whatever knights.\n　What a terrible name.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Анж",
+   "text": "「Всё, что вы сделали, — потерялись на улице\n　и прибились к новому хозяину, как собачонки!」",
+   "orig": "Ange\n「All you did was get lost in the street\n　and latch on to a new master, like dogs!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Салия",
+   "text": "「Молчи, Анж!\n　Мы нашли того, кого и правда стоит защищать!」",
+   "orig": "Salia\n「Silence, Ange!\n　We have found the one we should truly defend!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Анж",
+   "text": "「И вы просто выполняете приказы этого чудовища,\n　и вам плевать на бесчисленные жизни,\n　которые из-за этого оборвутся?」",
+   "orig": "Ange\n「And you're just following that monster's orders,\n　you don't care about the countless lives that\n　will be lost because of it?」"
+  },
+  {
+   "i": 108,
+   "speaker": "Анж",
+   "text": "「Если вы и правда такие, \n　то я сдерживаться не стану!」",
+   "orig": "Ange\n「I won't hold back if \n　that's what you're really like!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Эрша",
+   "text": "「Прости, Анж.\n　И всё же мы должны сражаться \n　за господина Эмбрио.」",
+   "orig": "Ersha\n「I'm sorry, Ange.\n　Even so, we must fight \n　for Lord Embryo.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Вивиан",
+   "text": "「Эрша...」",
+   "orig": "Vivian\n「Ersha...」"
+  },
+  {
+   "i": 111,
+   "speaker": "Хильда",
+   "text": "「Открой глаза, Крис!\n　Он же тебя обманывает!」",
+   "orig": "Hilda\n「Open your eyes, Chris!\n　He's deceiving you!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Крис",
+   "text": "「Не делай вид, будто ты мне подруга!\n　Единственный мой друг — Эмбрио!」",
+   "orig": "Chris\n「Don't try to act like you're my friend!\n　The only friend I have is Embryo!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Розали",
+   "text": "「Ох, Крис...」",
+   "orig": "Rosalie\n「Oh Chris...」"
+  },
+  {
+   "i": 114,
+   "speaker": "Леонард",
+   "text": "「Женщины меняют своё мнение — какой шок.\n　Ну же, пора с этим кончать.」",
+   "orig": "Leonard\n「Women having a change of heart, how shocking.\n　Come on, let's wrap this up.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Соскэ",
+   "text": "「Замолчи...」",
+   "orig": "Sousuke\n「Shut up...」"
+  },
+  {
+   "i": 116,
+   "speaker": "Леонард",
+   "text": "「О, в твоём голосе прозвучала ненависть, Сагара!\n　Что, полагаю, чистая правда.」",
+   "orig": "Leonard\n「Oh, that sounded like hatred in your voice, Sagara!\n　Which, I suppose, is only the truth.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Леонард",
+   "text": "「Эти дамы-рыцари и Канамэ Тидори...\n　Они уже никогда к вам не вернутся.」",
+   "orig": "Leonard\n「These lady knights, and Kaname Chidori...\n　They'll never go back to your side.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Соскэ",
+   "text": "「Замолчи!!」",
+   "orig": "Sousuke\n「Shut up!!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Тесса",
+   "text": "「Сагара, нам некогда с ним разговаривать!\n　Сейчас надо остановить колонию!」",
+   "orig": "Tessa\n「Sagara, we can't sit here talking to him!\n　Right now we have to stop the colony!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Соскэ",
+   "text": "「Вы правы.」",
+   "orig": "Sousuke\n「You're right.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Таск",
+   "text": "「Пять «Рагна-Мейлов».\n　И на этот раз с пилотами.」",
+   "orig": "Tusk\n「Five suits of Ragna Mail.\n　And this time they're manned.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Анж",
+   "text": "「Салия, Эрша, Крис...」",
+   "orig": "Ange\n「Salia, Ersha, Chris...」"
+  },
+  {
+   "i": 123,
+   "speaker": "Хильда",
+   "text": "「Придётся драться!」",
+   "orig": "Hilda\n「We've got to do it!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Розали",
+   "text": "「Проклятье!\n　Как до такого дошло?!」",
+   "orig": "Rosalie\n「Dammit!\n　How did it come to this?!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Брайт",
+   "text": "「Сколько у нас осталось времени?」",
+   "orig": "Bright\n「How much time do we have left?」"
+  },
+  {
+   "i": 126,
+   "speaker": "Меран",
+   "text": "「Шесть минут!」",
+   "orig": "Meran\n「Six minutes!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Сэцуна",
+   "text": "「Справимся ли мы?\n　Их слишком много!」",
+   "orig": "Setsuna\n「Can we do it?\n　There are so many of them!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Майто",
+   "text": "「А выбора у нас всё равно нет!」",
+   "orig": "Maito\n「We've got no other choice!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Амуро",
+   "text": "「Вот так и продолжается круг ненависти!\n　Неужели ты этого не видишь, Фулл Фронталь?!」",
+   "orig": "Amuro\n「This is how the cycle of hatred continues!\n　Don't you see that, Full Frontal?!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Брайт",
+   "text": "「Сколько у нас осталось времени?」",
+   "orig": "Bright\n「How much time do we have left?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Меран",
+   "text": "「Пять минут!」",
+   "orig": "Meran\n「Five minutes!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Сэцуна",
+   "text": "「Справимся ли мы?\n　Их слишком много!」",
+   "orig": "Setsuna\n「Can we do it?\n　There are so many of them!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Майто",
+   "text": "「А выбора у нас всё равно нет!」",
+   "orig": "Maito\n「We've got no other choice!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Амуро",
+   "text": "「Вот так и продолжается круг ненависти!\n　Неужели ты этого не видишь, Фулл Фронталь?!」",
+   "orig": "Amuro\n「This is how the cycle of hatred continues!\n　Don't you see that, Full Frontal?!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Найджел",
+   "text": "「Чёрт!\n　Они слишком сильны!」",
+   "orig": "Nigel\n「Damn!\n　They're too strong!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Пуру",
+   "text": "「Нет... Нет!\n　Если ничего не сделать, нам конец!」",
+   "orig": "Ple\n「No... No!\n　If we don't do something, it's over!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Пуру Два",
+   "text": "「Но что мы можем сделать?」",
+   "orig": "Ple Two\n「But what can we do?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Джудо",
+   "text": "「Что теперь...」",
+   "orig": "Judau\n「What now...」"
+  },
+  {
+   "i": 139,
+   "speaker": "Джудо",
+   "text": "「Это чувство...」",
+   "orig": "Judau\n「This feeling...」"
+  },
+  {
+   "i": 140,
+   "speaker": "Джудо",
+   "text": "「Камий, это ты?」",
+   "orig": "Judau\n「Is that you, Kamille?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Камий",
+   "text": "「А то кто же!」",
+   "orig": "Kamille\n「It sure is!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Банагер",
+   "text": "「И Марида!\n　Марида тоже здесь!」",
+   "orig": "Banagher\n「And Marida!\n　Marida's here too!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Пуру",
+   "text": "「Марида!」",
+   "orig": "Ple\n「Marida!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Пуру Два",
+   "text": "「Ты пришла сражаться вместе с нами?」",
+   "orig": "Ple Two\n「Are you here to help fight?」"
+  },
+  {
+   "i": 145,
+   "speaker": "Марида",
+   "text": "「Надеюсь, смогу быть хоть чем-то полезна.」",
+   "orig": "Marida\n「I hope to be of some service, yes.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Бича",
+   "text": "「И всё же!\n　Даже с вами это \n　капля в море...」",
+   "orig": "Beecha\n「But still!\n　Even with you guys here, \n　it's just a drop in the bucket...」"
+  },
+  {
+   "i": 147,
+   "speaker": "Банагер",
+   "text": "「Да мы не одни!」",
+   "orig": "Banagher\n「It's not just us!」"
+  },
+  {
+   "i": 148,
+   "speaker": "？？？",
+   "text": "「Вы слышите меня, воины Нео-Зеона?」",
+   "orig": "？？？\n「Can you hear me, warriors of Neo Zeon?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Хатауэй",
+   "text": "「Этот голос...」",
+   "orig": "Hathaway\n「That voice...」"
+  },
+  {
+   "i": 150,
+   "speaker": "Тобиа",
+   "text": "「Это Одри!」",
+   "orig": "Tobia\n「It's Audrey!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Минева",
+   "text": "「Я — Минева Лао Заби.」",
+   "orig": "Mineva\n「I am Mineva Lao Zabi.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Джудо",
+   "text": "「Что?!」",
+   "orig": "Judau\n「What the?!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Дагуза",
+   "text": "「Минева Лао Заби?\n　Последняя наследница рода Заби?!」",
+   "orig": "Daguza\n「Mineva Lao Zabi?\n　The last heir of the Zabi family?!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Конрой",
+   "text": "「Открыто выступить она не могла, но\n　наверняка это её влияние\n　склонило «Лондо Белл» на нашу сторону!」",
+   "orig": "Conroy\n「She couldn't appear in public, but\n　it must have been her influence\n　that won over Londo Bell!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Минева",
+   "text": "「Воины, я молю вас.\n　Прекратите этот бой и помогите нам\n　не дать колонии упасть ниже.」",
+   "orig": "Mineva\n「Warriors, I implore you.\n　End this fighting, and help us\n　to stop the colony from falling any further.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Минева",
+   "text": "「Это не приказ рода Заби,\n　а просьба такого же человека, как и вы.\n　Прошу, откройте сердца моим словам.」",
+   "orig": "Mineva\n「This is not an order from the Zabi family,\n　but a request from a fellow human being.\n　Please, open your hearts to what I say.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Ракан",
+   "text": "「Капитан!\n　Что происходит?」",
+   "orig": "Rakan\n「Captain!\n　What's going on?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Циннерман",
+   "text": "「Ты же слышал, что она сказала.\n　Принцесса не хочет, чтобы мы сражались.」",
+   "orig": "Zinnerman\n「You heard what she said.\n　The princess doesn't want us to fight.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Ракан",
+   "text": "「Это безумие!\n　Она забыла, на что надеялся весь Зеон?」",
+   "orig": "Rakan\n「That's madness!\n　Has she forgotten all of Zeon's hopes?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Минева",
+   "text": "「Неужели вы и правда хотите продолжать этот бой\n　и дойти до того, чтобы ранить нашу мать —\n　планету Земля, что внизу?」",
+   "orig": "Mineva\n「Do you truly wish to continue this fight,\n　to go so far as to harm our mother,\n　the planet Earth below?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Минева",
+   "text": "「Неужели вы забыли тот свет,\n　что остановил падение метеорита Чара?」",
+   "orig": "Mineva\n「Have you forgotten the light\n　that stopped Char's Meteorite Drop?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Минева",
+   "text": "「У войны есть и другой конец,\n　кроме как разгром врага.\n　Именно его мы и ищем.」",
+   "orig": "Mineva\n「There is an end to war\n　apart from defeating your enemy.\n　That is what we search for.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Гоэр",
+   "text": "「О-о... Какая скука.\n　Кто такая эта принцесса Зеона, как её там,\n　и что она там лепечет?」",
+   "orig": "Goer\n「Oooh...How boring.\n　Who is this Zeon princess whatever-her-name-is,\n　and what is she blathering on about?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Гоэр",
+   "text": "「Не забывайте: наши враги — предатели, это \n　всего лишь очередная их уловка! Заткните её!」",
+   "orig": "Goer\n「Don't forget: our enemies are traitors, this is \n　just another one of their tricks! Shut her up!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Фласте",
+   "text": "「Бесполезно, капитан!\n　Они открывают огонь!」",
+   "orig": "Flaste\n「It's no good, Captain!\n　They're opening fire!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Циннерман",
+   "text": "「Как принцесса и предвидела.\n　Нам надо защитить «Гаранциер»!」",
+   "orig": "Zinnerman\n「Just as the princess expected.\n　We have to protect the Garencieres!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Циннерман",
+   "text": "「Принцесса!\n　Предоставьте это нам. Продолжайте!」",
+   "orig": "Zinnerman\n「Princess!\n　Leave this to us. Keep going!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Минева",
+   "text": "「Спасибо, Циннерман.」",
+   "orig": "Mineva\n「Thank you, Zinnerman.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Банагер",
+   "text": "「Одри...」",
+   "orig": "Banagher\n「Audrey...」"
+  },
+  {
+   "i": 170,
+   "speaker": "Камий",
+   "text": "「У нас своя работа!\n　Всё готово, Марида?」",
+   "orig": "Kamille\n「We've got our own jobs to do!\n　Is everything ready, Marida?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Марида",
+   "text": "「Готово.\n　Я буду драться, пусть врагами стали бывшие товарищи.」",
+   "orig": "Marida\n「Good to go.\n　I'll fight, even if my enemies were once comrades.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Джудо",
+   "text": "「Хоть бы получилось...」",
+   "orig": "Judau\n「I hope this works...」"
+  },
+  {
+   "i": 173,
+   "speaker": "Фа",
+   "text": "「Даже в Нео-Зеоне есть\n　люди, которые хотят прекратить войну.」",
+   "orig": "Fa\n「Even in Neo Zeon, there\n　are people who want to end the fighting.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Марида",
+   "text": "「И капитан, и весь экипаж «Гаранциера» — \n　все они устали от круга ненависти.」",
+   "orig": "Marida\n「The captain, everyone on the Garencieres, \n　they're all tired of the cycle of hatred.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Камий",
+   "text": "「Поэтому мы обязаны остановить падение колонии!\n　Иначе круг так и не разорвётся!」",
+   "orig": "Kamille\n「So we have to stop the colony from dropping!\n　It will just continue the cycle!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Джудо",
+   "text": "「Гья-а!」",
+   "orig": "Judau\n「Gyaah!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Банагер",
+   "text": "「Мы должны её остановить!」",
+   "orig": "Banagher\n「We have to stop it!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Рури",
+   "text": "「Харри, сколько ещё до входа в поле тяготения?」",
+   "orig": "Ruri\n「Harry, how much longer until it hits the gravity field?」"
+  },
+  {
+   "i": 179,
+   "speaker": "Харри",
+   "text": "「Шесть минут!」",
+   "orig": "Harry\n「Six more minutes!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Амуро",
+   "text": "「Всего шесть минут...\n　Сделаем всё, что в наших силах!」",
+   "orig": "Amuro\n「Just six minutes...\n　Let's do all we can!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Тобиа",
+   "text": "「Надежда ещё есть!\n　Сдаваться нельзя!」",
+   "orig": "Tobia\n「There's still hope!\n　We can't give up!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Банагер",
+   "text": "（Одри...\n　Я тоже буду сражаться.）",
+   "orig": "Banagher\n（Audrey...\n　I'll fight too.）"
+  },
+  {
+   "i": 183,
+   "speaker": "Банагер",
+   "text": "（Я буду и дальше пытаться открыть\n　двери возможностей!）",
+   "orig": "Banagher\n（I'll keep trying to open\n　the doors of possibility!）"
+  },
+  {
+   "i": 184,
+   "speaker": "Рури",
+   "text": "「Харри, сколько ещё до входа в поле тяготения?」",
+   "orig": "Ruri\n「Harry, how much longer until it hits the gravity field?」"
+  },
+  {
+   "i": 185,
+   "speaker": "Харри",
+   "text": "「Пять минут!」",
+   "orig": "Harry\n「Five more minutes!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Амуро",
+   "text": "「Всего пять минут...\n　Сделаем всё, что в наших силах!」",
+   "orig": "Amuro\n「Just five minutes...\n　Let's do all we can!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Тобиа",
+   "text": "「Надежда ещё есть!\n　Сдаваться нельзя!」",
+   "orig": "Tobia\n「There's still hope!\n　We can't give up!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Банагер",
+   "text": "（Одри...\n　Я тоже буду сражаться.）",
+   "orig": "Banagher\n（Audrey...\n　I'll fight too.）"
+  },
+  {
+   "i": 189,
+   "speaker": "Банагер",
+   "text": "（Я буду и дальше пытаться открыть\n　двери возможностей!）",
+   "orig": "Banagher\n（I'll keep trying to open\n　the doors of possibility!）"
+  },
+  {
+   "i": 190,
+   "speaker": "Рури",
+   "text": "「Харри, сколько ещё до входа в поле тяготения?」",
+   "orig": "Ruri\n「Harry, how much longer until it hits the gravity field?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Харри",
+   "text": "「Четыре минуты!」",
+   "orig": "Harry\n「Four more minutes!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Амуро",
+   "text": "「Всего четыре минуты...\n　Сделаем всё, что в наших силах!」",
+   "orig": "Amuro\n「Just four minutes...\n　Let's do all we can!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Тобиа",
+   "text": "「Надежда ещё есть!\n　Сдаваться нельзя!」",
+   "orig": "Tobia\n「There's still hope!\n　We can't give up!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Банагер",
+   "text": "（Одри...\n　Я тоже буду сражаться.）",
+   "orig": "Banagher\n（Audrey...\n　I'll fight too.）"
+  },
+  {
+   "i": 195,
+   "speaker": "Банагер",
+   "text": "（Я буду и дальше пытаться открыть\n　двери возможностей!）",
+   "orig": "Banagher\n（I'll keep trying to open\n　the doors of possibility!）"
+  },
+  {
+   "i": 196,
+   "speaker": "Меран",
+   "text": "「Подтверждаю: все вражеские машины уничтожены!」",
+   "orig": "Meran\n「Confirmed, all enemy units destroyed!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Брайт",
+   "text": "「Всем машинам — к колонии!\n　Мы должны разнести её изнутри!」",
+   "orig": "Bright\n「All units, head to the colony!\n　We have to obliterate it from within!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Рури",
+   "text": "「Постойте, что это?」",
+   "orig": "Ruri\n「Wait, what's this?」"
+  },
+  {
+   "i": 199,
+   "speaker": "Рури",
+   "text": "「Снижение колонии...\n　Она падает быстрее, чем должна!」",
+   "orig": "Ruri\n「The colony's descent...\n　It's falling faster than it should be!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Эмбрио",
+   "text": "「Обстановка может измениться в одно мгновение.\n　Такие вещи непременно надо учитывать!」",
+   "orig": "Embryo\n「The situation can change in an instant.\n　You really must take such things into account!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Таск",
+   "text": "「Эмбрио!」",
+   "orig": "Tusk\n「Embryo!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Анж",
+   "text": "「Это ты разгоняешь падение колонии?」",
+   "orig": "Ange\n「Are you accelerating the colony's descent?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Эмбрио",
+   "text": "「Даже когда я не стою перед твоим милым личиком,\n　у меня остаются дела!」",
+   "orig": "Embryo\n「Even when I'm not in front of your darling little face,\n　I still have work to do!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Эмбрио",
+   "text": "「Прощай, Анж.\n　Твоё лицо прекрасно, даже искажённое отчаянием.」",
+   "orig": "Embryo\n「Goodbye, Ange.\n　Your face is beautiful even when warped by despair.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Анж",
+   "text": "「Вот же мразь!」",
+   "orig": "Ange\n「That bastard!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Акито",
+   "text": "「Сначала разберёмся с колонией!」",
+   "orig": "Akito\n「First let's take care of the colony!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Амуро",
+   "text": "「Всем машинам — быстрее!」",
+   "orig": "Amuro\n「All units, hurry!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Меран",
+   "text": "「Она вошла в поле тяготения.」",
+   "orig": "Meran\n「It's reached the gravity field.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Брайт",
+   "text": "「Мы опоздали.」",
+   "orig": "Bright\n「We were too late.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Хатауэй",
+   "text": "「Чёрт!\n　Нео-Зеон уже считает, что победил...」",
+   "orig": "Hathaway\n「Damn!\n　Neo Zeon thinks they've won...」"
+  },
+  {
+   "i": 211,
+   "speaker": "Кинкейд",
+   "text": "「Не сдавайтесь!\n　Кое-что мы ещё можем сделать!」",
+   "orig": "Kincade\n「Don't give up!\n　There's still something we can do!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Амуро",
+   "text": "「Всем машинам — быстрее!」",
+   "orig": "Amuro\n「All units, hurry!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Атрун",
+   "text": "「Но если не выйдет, \n　обломки всё равно вспорют Землю!」",
+   "orig": "Athrun\n「But if this doesn't go well, \n　the fragments will still rip into Earth!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Синн",
+   "text": "「Значит, разнесём её полностью!」",
+   "orig": "Shinn\n「So we completely destroy it!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Аска",
+   "text": "「Легко сказать, ты посмотри на неё!」",
+   "orig": "Asuka\n「That's easy to say, but look at this!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Синдзи",
+   "text": "「Другого выхода нет!\n　Мы уже зашли так далеко.」",
+   "orig": "Shinji\n「It's our only choice!\n　We've already come this far.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Камий",
+   "text": "「Если бы только замедлить её,\n　хотя бы совсем немного...」",
+   "orig": "Kamille\n「If only we could slow it down,\n　even just a little bit...」"
+  },
+  {
+   "i": 218,
+   "speaker": "Джудо",
+   "text": "「У тебя есть идея, Камий?」",
+   "orig": "Judau\n「Do you have an idea, Kamille?」"
+  },
+  {
+   "i": 219,
+   "speaker": "Камий",
+   "text": "「Возможно...」",
+   "orig": "Kamille\n「Maybe...」"
+  },
+  {
+   "i": 220,
+   "speaker": "Минева",
+   "text": "「Мы можем ударить по ней\n　Колониальным лазером!」",
+   "orig": "Mineva\n「We could shoot it with the\n　Colony Laser!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Амуро",
+   "text": "「Вы серьёзно?」",
+   "orig": "Amuro\n「Are you serious?」"
+  },
+  {
+   "i": 222,
+   "speaker": "Брайт",
+   "text": "「Безумие!\n　Он же был уничтожен в\n　$kwbКонфликте Грипса$kwe!」",
+   "orig": "Bright\n「Madness!\n　It was destroyed in the\n　$kwbGryps Conflict$kwe!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Минева",
+   "text": "「О подробностях поговорим позже.\n　Сейчас у нас есть заботы поважнее.」",
+   "orig": "Mineva\n「We'll talk about the details later.\n　Right now we have more important things to worry about.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Кодзи",
+   "text": "「То есть мы придерживаем колонию,\n　а вы бьёте по ней Колониальным лазером!」",
+   "orig": "Koji\n「So basically, we hold the colony back\n　so you can hit it with the Colony Laser!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Ал",
+   "text": "「Что ж, мощности Колониального лазера \n　на то, чтобы испарить колонию, точно хватит.」",
+   "orig": "Al\n「Well, the Colony Laser certainly has enough \n　power to obliterate the colony.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Ал",
+   "text": "「Но это значит, что те, кто будет держать\n　колонию, тоже окажутся на линии огня!」",
+   "orig": "Al\n「But that means those of us holding the colony\n　back will be in the line of fire, too!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Соскэ",
+   "text": "「А что нам ещё остаётся?」",
+   "orig": "Sousuke\n「What else can we do?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Рури",
+   "text": "「«Надэсико», полный вперёд!」",
+   "orig": "Ruri\n「Nadesico, full speed ahead!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Харри",
+   "text": "「Есть!」",
+   "orig": "Harry\n「Aye aye!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Рури",
+   "text": "「Теперь заводим «Надэсико» снизу\n　и помогаем удерживать колонию!」",
+   "orig": "Ruri\n「Now take the Nadesico underneath\n　and help hold the colony back!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Акито",
+   "text": "「Юрика, Рури!」",
+   "orig": "Akito\n「Yurika, Ruri!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Юрика",
+   "text": "「Всё будет хорошо!\n　На «Надэсико» мы успеем совершить бозонный прыжок\n　прямо перед ударом и уйдём целыми!」",
+   "orig": "Yurika\n「We'll be fine!\n　With the Nadesico, we can take a Boson Jump just\n　before it hits and be free and clear!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Санада",
+   "text": "「Не выйдет!\n　У «Надэсико C» не хватит тяги!」",
+   "orig": "Sanada\n「It's no good!\n　The Nadesico C doesn't have enough thrust!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Акито",
+   "text": "「Тогда ладно...」",
+   "orig": "Akito\n「OK then...」"
+  },
+  {
+   "i": 235,
+   "speaker": "Камий",
+   "text": "「Другого пути нет.」",
+   "orig": "Kamille\n「It's the only way.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Джудо",
+   "text": "「Все! Нам надо удержать колонию на месте!」",
+   "orig": "Judau\n「Everyone, we have to hold the colony still!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Тобиа",
+   "text": "「А в последнюю минуту садимся на «Надэсико C»\n　и уходим бозонным прыжком.」",
+   "orig": "Tobia\n「Then we board the Nadesico C at the last\n　minute and Boson Jump away.」"
+  },
+  {
+   "i": 238,
+   "speaker": "$n",
+   "text": "「Найн!\n　Помоги нам с таймингом!」",
+   "orig": "$n\n「Nine!\n　Help us with the timing!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Найн",
+   "text": "「Положись на меня!」",
+   "orig": "Nine\n「Leave it to me!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Джудо",
+   "text": "「Все! Нам надо удержать колонию на месте!」",
+   "orig": "Judau\n「Everyone, we have to hold the colony still!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Тобиа",
+   "text": "「А в последнюю минуту садимся на «Надэсико C»\n　и уходим бозонным прыжком.」",
+   "orig": "Tobia\n「Then we board the Nadesico C at the last\n　minute and Boson Jump away.」"
+  },
+  {
+   "i": 242,
+   "speaker": "$n",
+   "text": "「Найн!\n　Помоги нам с таймингом!」",
+   "orig": "$n\n「Nine!\n　Help us with the timing!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Найн",
+   "text": "「Положись на меня!」",
+   "orig": "Nine\n「Leave it to me!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Мори",
+   "text": "「Все машины и «Надэсико»\n　заняли позиции под колонией!」",
+   "orig": "Mori\n「All units and the Nadesico\n　have taken position beneath the colony!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Ниими",
+   "text": "「Не получится!」",
+   "orig": "Niimi\n「It's no good!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Кодай",
+   "text": "「Шеф?」",
+   "orig": "Kodai\n「Chief?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Ниими",
+   "text": "「Времени не хватит, чтобы \n　принять все машины на борт и прыгнуть.」",
+   "orig": "Niimi\n「There's not enough time to \n　get all the units on board and jump.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Банагер",
+   "text": "「И всё равно мы идём.」",
+   "orig": "Banagher\n「We're still going.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Минева",
+   "text": "「Банагер...」",
+   "orig": "Mineva\n「Banagher...」"
+  },
+  {
+   "i": 250,
+   "speaker": "Банагер",
+   "text": "「Пусть шанс один на миллион,\n　но он не нулевой.」",
+   "orig": "Banagher\n「It might be a one-in-a-million chance,\n　but it's not zero.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Банагер",
+   "text": "「До встречи, Одри.」",
+   "orig": "Banagher\n「See you later, Audrey.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Минева",
+   "text": "「Постой, Банагер!\n　Мне надо тебе кое-что сказать!」",
+   "orig": "Mineva\n「Wait, Banagher!\n　I've got something to tell you!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Банагер",
+   "text": "「А?」",
+   "orig": "Banagher\n「Huh?」"
+  },
+  {
+   "i": 254,
+   "speaker": "Банагер",
+   "text": "「Я попробую!」",
+   "orig": "Banagher\n「I'll try it!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Банагер",
+   "text": "「«Юникорн»!\n　Одолжи мне свою силу!」",
+   "orig": "Banagher\n「Unicorn!\n　Lend me your power!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Циннерман",
+   "text": "「Принцесса, что здесь происходит?」",
+   "orig": "Zinnerman\n「Princess, what's happening here?」"
+  },
+  {
+   "i": 257,
+   "speaker": "Минева",
+   "text": "「Поверьте в них.」",
+   "orig": "Mineva\n「Have faith in them.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Минева",
+   "text": "（Банагер...）",
+   "orig": "Mineva\n（Banagher...）"
+  },
+  {
+   "i": 259,
+   "speaker": "Банагер",
+   "text": "「«Юникорн»!\n　Вбери в себя все их надежды и желания!」",
+   "orig": "Banagher\n「Unicorn!\n　Absorb all their hopes and desires!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Банагер",
+   "text": "「Мы спасём их всех!」",
+   "orig": "Banagher\n「We are going to save them all!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Мардукас",
+   "text": "「«Юникорн» меняет цвет!」",
+   "orig": "Mardukas\n「The Unicorn is changing colors!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Тесса",
+   "text": "「Должно быть, это и есть истинная сила того «Гандама»!」",
+   "orig": "Tessa\n「This must be that Gundam's true power!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Минева",
+   "text": "「Банагер!」",
+   "orig": "Mineva\n「Banagher!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Банагер",
+   "text": "「Если слить сознания всех в одно\n　существо, в одну материю...\n　мы сможем прыгнуть вместе с «Надэсико»!」",
+   "orig": "Banagher\n「If we can unite everyone's consciousness\n　into one existence, one substance...\n　we can successfully Boson Jump with the Nadesico!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Банагер",
+   "text": "「Единственное, что способно вместить и соединить\n　надежды и желания всех, —\n　это психорама «Юникорна»!」",
+   "orig": "Banagher\n「The only thing that can carry and unite\n　everyone's hopes and desires\n　is this Unicorn's Psychoframe!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Мори",
+   "text": "「Колониальный лазер готов!」",
+   "orig": "Mori\n「The Colony Laser is ready!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Минева",
+   "text": "「Банагер!\n　Используй свою силу!」",
+   "orig": "Mineva\n「Banagher!\n　Use your power!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Банагер",
+   "text": "「Гра-а-а-а-а!!」",
+   "orig": "Banagher\n「Graaaaaah!!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Камий",
+   "text": "「Это чувство!」",
+   "orig": "Kamille\n「This feeling!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Сэцуна",
+   "text": "「Я чувствую их всех!」",
+   "orig": "Setsuna\n「I can sense them all!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Банагер",
+   "text": "「Давайте, капитан Рури!」",
+   "orig": "Banagher\n「Now, Captain Ruri!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Рури",
+   "text": "「Прыжок!」",
+   "orig": "Ruri\n「Jump!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Харри",
+   "text": "「Бозонный прыжок завершён!\n　Все машины на месте, потерь нет!」",
+   "orig": "Harry\n「Boson Jump complete!\n　All units present and accounted for!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Рури",
+   "text": "「А колония?」",
+   "orig": "Ruri\n「And the colony?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Харри",
+   "text": "「Колониальный лазер уничтожил её полностью, \n　оставшиеся обломки угрозы не представляют.」",
+   "orig": "Harry\n「It was completely destroyed by the Colony Laser, \n　the remaining fragments pose no threat.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Юрика",
+   "text": "「У нас получилось!!」",
+   "orig": "Yurika\n「We did it!!」"
+  },
+  {
+   "i": 277,
+   "speaker": "Рури",
+   "text": "「Отличная работа, все!」",
+   "orig": "Ruri\n「Well done, everyone!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Юрика",
+   "text": "「Кстати...\n　Курс я задавала под влиянием «Юникорна»,\n　так что сама толком не знаю, где мы... 」",
+   "orig": "Yurika\n「By the way...\n　I set our heading when I was under the Unicorn's\n　influence, so I'm not really sure where... 」"
+  },
+  {
+   "i": 279,
+   "speaker": "Амуро",
+   "text": "「Постойте, это же...」",
+   "orig": "Amuro\n「Wait, that's...」"
+  },
+  {
+   "i": 280,
+   "speaker": "Амуро",
+   "text": "「Аксис?」",
+   "orig": "Amuro\n「Axis?」"
+  },
+  {
+   "i": 281,
+   "speaker": "Джудо",
+   "text": "「Это обломок Аксиса, который оттолкнул командир Амуро.」",
+   "orig": "Judau\n「This is the Axis piece that Commander Amuro pushed away.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Минева",
+   "text": "「Добро пожаловать, «Лондо Белл».\n　«Лаплас» приветствует вас.」",
+   "orig": "Mineva\n「Welcome, Londo Bell.\n　Laplace welcomes you.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Джудо",
+   "text": "「«Лаплас»?」",
+   "orig": "Judau\n「Laplace?」"
+  },
+  {
+   "i": 284,
+   "speaker": "Банагер",
+   "text": "（Так же зовут управляющую программу «Юникорна».）",
+   "orig": "Banagher\n（That's the same name as the Unicorn's control program.）"
+  },
+  {
+   "i": 285,
+   "speaker": "Брайт",
+   "text": "「Что такое «Лаплас»?」",
+   "orig": "Bright\n「What is Laplace?」"
+  },
+  {
+   "i": 286,
+   "speaker": "Минева",
+   "text": "「Так называется наша организация.\n　И это же — всё, что осталось от наших надежд.」",
+   "orig": "Mineva\n「That's what we call our organization.\n　It's also what remains of our hopes.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Юрика",
+   "text": "「Я-я вообще не понимаю, что здесь происходит.」",
+   "orig": "Yurika\n「I-I don't really get what's going on here.」"
+  },
+  {
+   "i": 288,
+   "speaker": "？？？",
+   "text": "「Что ж, позвольте мне объяснить.」",
+   "orig": "？？？\n「Very well then, let me explain.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Рури",
+   "text": "「Эта фраза...\n　Так и знала, это вы!」",
+   "orig": "Ruri\n「That phrase...\n　I knew it, it's you!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Инес",
+   "text": "「А тут немало знакомых лиц!」",
+   "orig": "Inez\n「There are some familiar faces here!」"
+  },
+  {
+   "i": 291,
+   "speaker": "Юрика",
+   "text": "「Не может быть!」",
+   "orig": "Yurika\n「No way!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Акито",
+   "text": "「Инес!」",
+   "orig": "Akito\n「Inez!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Инес",
+   "text": "「Хи-хи...」",
+   "orig": "Inez\n「Heehee...」"
+  },
+  {
+   "i": 294,
+   "speaker": "Гоэр",
+   "text": "「Если я сложу голову в этаком месте,\n　Гамилас уже никогда не оправится от такой потери!」",
+   "orig": "Goer\n「If I were to lose my life in a place like this,\n　Gamillas would neve recover from the loss!」"
+  },
+  {
+   "i": 295,
+   "speaker": "Гоэр",
+   "text": "「Отступаем!\n　Нам незачем и дальше лезть\n　в мелкую свару этих терронцев!」",
+   "orig": "Goer\n「Retreat!\n　We have no reason to continue\n　our involvement in these Terrons' little spat!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Мори",
+   "text": "「Флагман гамиласцев отходит.」",
+   "orig": "Mori\n「The Gamillan flagship is withdrawing.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Сима",
+   "text": "「Говорят, отход с умом — уже сам по себе победа.」",
+   "orig": "Shima\n「They say a strategic retreat is itself a victory.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Окита",
+   "text": "「Как сказал бы мичман Дитц, вражеский\n　командир — трусливый самовлюблённый тип.」",
+   "orig": "Okita\n「As Ensign Dietz would put it, the enemy\n　commander is a cowardly narcissist.」"
+  },
+  {
+   "i": 299,
+   "speaker": "Ракан",
+   "text": "「Ничего не выйдет, «Лондо Белл»! Если это всё,\n　на что вы способны, колония упадёт!」",
+   "orig": "Rakan\n「It's no good, Londo Bell! If that's all\n　you can do, the colony will fall!」"
+  },
+  {
+   "i": 300,
+   "speaker": "Ракан",
+   "text": "「Это конец Земли!\n　Чаяния всех жителей космоса наконец сбудутся!」",
+   "orig": "Rakan\n「This is the end of Earth!\n　The hopes of all space dwellers will come true!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Джудо",
+   "text": "「Не думай, что все в космосе\n　ненавидят людей Земли!」",
+   "orig": "Judau\n「Don't believe that everyone in space\n　hates the people of Earth!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Джудо",
+   "text": "「Если ты так рассуждаешь, \n　то такие поджигатели войны, как ты, \n　уйдут первыми!」",
+   "orig": "Judau\n「If that's the way you think, \n　warmongers like you will be \n　the first to go!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Салия",
+   "text": "「Ах, я всё ещё не освоилась с «Клеопатрой»!」",
+   "orig": "Salia\n「Gah, I'm still not used to Cleopatra!」"
+  },
+  {
+   "i": 304,
+   "speaker": "Анж",
+   "text": "「Возьми себя в руки, Салия!\n　Если у тебя есть ко мне счёты,\n　решим их в честном поединке, а не так!」",
+   "orig": "Ange\n「Get a hold of yourself, Salia!\n　If you've got a bone to pick with me,\n　let's settle it in a fair duel, not like this!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Салия",
+   "text": "「Мы всем обязаны господину Эмбрио!」",
+   "orig": "Salia\n「We owe everything to Lord Embryo!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Салия",
+   "text": "「Анж! В следующую нашу встречу\n　ты покоришься! Я покажу тебе, что значит\n　быть одной из Алмазной розы!」",
+   "orig": "Salia\n「Ange! The next time we meet\n　you will submit! I'll show you what\n　it means to be a member of Diamond Rose!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Вивиан",
+   "text": "「Салия...」",
+   "orig": "Vivian\n「Salia...」"
+  },
+  {
+   "i": 308,
+   "speaker": "Анж",
+   "text": "「Почему, после всего, что было,\n　ты позволяешь этому человеку себя обманывать?」",
+   "orig": "Ange\n「Why, after everything, can\n　you let that man deceive you?」"
+  },
+  {
+   "i": 309,
+   "speaker": "Эрша",
+   "text": "「Мне надо возвращаться — те девочки\n　и Эмбрио ждут меня!」",
+   "orig": "Ersha\n「I have to go back, those girls\n　and Embryo are waiting for me!」"
+  },
+  {
+   "i": 310,
+   "speaker": "Вивиан",
+   "text": "「Постой, Эрша!」",
+   "orig": "Vivian\n「Wait, Ersha!」"
+  },
+  {
+   "i": 311,
+   "speaker": "Анж",
+   "text": "「Должно быть, Эмбрио и впрямь страшный человек, \n　раз держит Эршу вот так в руках...」",
+   "orig": "Ange\n「Embryo must be a truly terrifying man to \n　keep Ersha under control like that...」"
+  },
+  {
+   "i": 312,
+   "speaker": "Крис",
+   "text": "「Прости меня, Эмбрио!\n　Я вынуждена отступить!」",
+   "orig": "Chris\n「I'm sorry, Embryo!\n　I must withdraw!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Розали",
+   "text": "「Стой, Крис!\n　Крис!!」",
+   "orig": "Rosalie\n「Wait, Chris!\n　Chris!!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Хильда",
+   "text": "「Да кто тебе этот Эмбрио?!\n　Ты с ума сошла?」",
+   "orig": "Hilda\n「What is Embryo to you?!\n　Have you gone crazy?」"
+  },
+  {
+   "i": 315,
+   "speaker": "Анж",
+   "text": "「Эмбрио...\n　Как же он ими управляет?」",
+   "orig": "Ange\n「Embryo...\n　How in the world is he controlling them?」"
+  },
+  {
+   "i": 316,
+   "speaker": "Таня",
+   "text": "「Я не могу потерять «Викторию»!\n　Надо отходить!」",
+   "orig": "Tanya\n「I can't lose Victoria!\n　I must retreat!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Вивиан",
+   "text": "「А ведь Таня всегда так вкусно готовила...」",
+   "orig": "Vivian\n「But Tanya always made such delicious food...」"
+  },
+  {
+   "i": 318,
+   "speaker": "Розали",
+   "text": "「Проклятье!\n　Да что вообще происходит?」",
+   "orig": "Rosalie\n「Dammit!\n　What is going on?」"
+  },
+  {
+   "i": 319,
+   "speaker": "Ирма",
+   "text": "「Господин Эмбрио, простите,\n　я не смогла выжать из «Эйрене» больше!」",
+   "orig": "Irma\n「Lord Embryo, I am sorry\n　I was unable to bring more out of Eirene!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Хильда",
+   "text": "「Ирма...\n　И ты тоже. Как до этого дошло?」",
+   "orig": "Hilda\n「Irma...\n　Even you. How did this happen?」"
+  },
+  {
+   "i": 321,
+   "speaker": "Леонард",
+   "text": "「Что ж, на сегодня, пожалуй, довольно!」",
+   "orig": "Leonard\n「So I guess this is it for today!」"
+  },
+  {
+   "i": 322,
+   "speaker": "Соскэ",
+   "text": "「Я не дам тебе уйти, Леонард.」",
+   "orig": "Sousuke\n「I won't let you escape, Leonard.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Леонард",
+   "text": "「Если ты думаешь, что, победив меня, \n　спасёшь свою девушку, — ты глубоко ошибаешься.」",
+   "orig": "Leonard\n「If you're thinking that defeating me will \n　save your girlfriend, you're sadly mistaken.」"
+  },
+  {
+   "i": 324,
+   "speaker": "Леонард",
+   "text": "「Сейчас мы с ней мыслим одинаково.\n　Слова такого, как ты,\n　уже никак не изменят её сердце!」",
+   "orig": "Leonard\n「Right now, she is of the same mind as I.\n　The words of one such as you\n　couldn't possibly change her heart now!」"
+  },
+  {
+   "i": 325,
+   "speaker": "Соскэ",
+   "text": "「Нет...」",
+   "orig": "Sousuke\n「No...」"
+  },
+  {
+   "i": 326,
+   "speaker": "Ал",
+   "text": "「Сержант...」",
+   "orig": "Al\n「Sergeant...」"
+  },
+  {
+   "i": 327,
+   "speaker": "Соскэ",
+   "text": "「Молчи, Ал.\n　Сейчас надо сосредоточиться на колонии.」",
+   "orig": "Sousuke\n「Don't say anything, Al.\n　Right now we have to focus on stopping that colony.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Фаулер",
+   "text": "「Минимальной цели мы достигли.\n　Пора отходить.」",
+   "orig": "Fowler\n「We've achieved our minimum target.\n　It is time to withdraw.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Фаулер",
+   "text": "「Мир будет рождён заново.\n　Но прежде этот извращённый мир должен страдать!」",
+   "orig": "Fowler\n「The world will be reborn.\n　But before that, this warped world must suffer!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Каспер",
+   "text": "「Самое время...\n　Отходим!」",
+   "orig": "Casper\n「Now's the time...\n　Retreat!」"
+  },
+  {
+   "i": 331,
+   "speaker": "Курц",
+   "text": "「Как всегда. Ему плевать, сколько ни в чём не повинных людей\n　погибнет, лишь бы получить своё!」",
+   "orig": "Kurz\n「Typical. He doesn't care how many innocent bystanders \n　die, as long as he gets what he wants!」"
+  },
+  {
+   "i": 332,
+   "speaker": "Курц",
+   "text": "「Как всегда. Ему плевать, сколько ни в чём не повинных людей\n　погибнет, лишь бы получить своё!」",
+   "orig": "Kurz\n「Typical. He doesn't care how many innocent bystanders \n　die, as long as he gets what he wants!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Локон",
+   "text": "「Ты знаешь, кто за штурвалом того красного Арм Слейва?」",
+   "orig": "Lockon\n「Do you know who's piloting that red Arm Slave?」"
+  },
+  {
+   "i": 334,
+   "speaker": "Курц",
+   "text": "「Его зовут Вильгельм Каспер.\n　Это он научил меня снайперскому делу.」",
+   "orig": "Kurz\n「His name is Wilhelm Casper.\n　He taught me to be a sniper.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Курц",
+   "text": "「В своё время он был потрясающим снайпером,\n　но идти по его стопам я точно не собираюсь!」",
+   "orig": "Kurz\n「He was an incredible sniper back in the day,\n　but there's no way I'm following in his footsteps!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Меран",
+   "text": "「Колония войдёт в гравитационный колодец Земли\n　через минуту!」",
+   "orig": "Meran\n「The colony will enter Earth's gravity well\n　in one minute!」"
+  },
+  {
+   "i": 337,
+   "speaker": "Брайт",
+   "text": "「У нас минута, чтобы уничтожить противника\n　и остановить колонию! Всем подразделениям — в атаку!」",
+   "orig": "Bright\n「We have one minute to eliminate our enemies\n　and stop the colony! All units, attack!」"
+  },
+  {
+   "i": 338,
+   "speaker": "Гоэр",
+   "text": "「«Ямато»!\n　Я заполучу машину Гешу Там\n　и вернусь на родину!」",
+   "orig": "Goer\n「Yamato!\n　I will get that Geshu Tam machine\n　and return to my home world!」"
+  },
+  {
+   "i": 339,
+   "speaker": "Гоэр",
+   "text": "「Все орудия — огонь!\n　Целься в главный мостик «Ямато»!」",
+   "orig": "Goer\n「All guns, fire!\n　Aim for the Yamato's main bridge!」"
+  },
+  {
+   "i": 340,
+   "speaker": "Мельда",
+   "text": "「Гремдт Гоэр!\n　Я никогда не прощу тебе того,\n　что ты сделал с командиром Лангом!」",
+   "orig": "Melda\n「Gremdt Goer!\n　I'll never forgive what \n　you did to Commander Lang!」"
+  },
+  {
+   "i": 341,
+   "speaker": "Мельда",
+   "text": "「Я вернусь на родину\n　и расскажу всем о твоих делах!」",
+   "orig": "Melda\n「I will return to our home world\n　and reveal your actions to everyone!」"
+  },
+  {
+   "i": 342,
+   "speaker": "Джудо",
+   "text": "「С дороги!\n　Мне некогда с тобой возиться!」",
+   "orig": "Judau\n「Move!\n　I don't have time to deal with you!」"
+  },
+  {
+   "i": 343,
+   "speaker": "Ракан",
+   "text": "「Как бы не так!\n　Мы сбросим эту колонию на Землю\n　и сотрём Федеральные силы в порошок!」",
+   "orig": "Rakan\n「Not a chance!\n　We're going to drop this colony on Earth\n　and wipe out the Federation Forces!」"
+  },
+  {
+   "i": 344,
+   "speaker": "Джудо",
+   "text": "「Земля и так уже в руинах!\n　Ты правда хочешь отнять последнюю надежду\n　у всех, кто ещё пытается там выжить?」",
+   "orig": "Judau\n「Earth is already a mess!\n　Do you really want to take away the last hope\n　of everyone still struggling to survive down there?」"
+  },
+  {
+   "i": 345,
+   "speaker": "Анж",
+   "text": "「Ты что, не понимаешь, Салия?\n　Если колония упадёт на Землю, будет катастрофа!」",
+   "orig": "Ange\n「Don't you see, Salia?\n　If that colony hits Earth, it will be a catastrophe!」"
+  },
+  {
+   "i": 346,
+   "speaker": "Салия",
+   "text": "「Таково желание господина Эмбрио.」",
+   "orig": "Salia\n「That is what Lord Embryo wishes.」"
+  },
+  {
+   "i": 347,
+   "speaker": "Анж",
+   "text": "「Ну и вкус у тебя — дать такому типу\n　вот так себя охмурить!」",
+   "orig": "Ange\n「You have the worst taste, letting\n　a man like that seduce you like this!」"
+  },
+  {
+   "i": 348,
+   "speaker": "Салия",
+   "text": "「Рыцари Алмазной Розы уничтожат любого,\n　кто насмехается над господином Эмбрио!」",
+   "orig": "Salia\n「The Diamond Rose Knights will destroy any\n　who mock lord Embryo!」"
+  },
+  {
+   "i": 349,
+   "speaker": "Анж",
+   "text": "「А ещё он совершенно не умеет придумывать названия!」",
+   "orig": "Ange\n「And he's terrible at choosing names, too!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Салия",
+   "text": "「Молчи, Анж!\n　Теперь, с моим Рагна-Мейлом,\n　я не могу проиграть!」",
+   "orig": "Salia\n「Be silent, Ange!\n　Now, with my Ragna-Mail, \n　I can't lose!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Салия",
+   "text": "「Я докажу, чего стою,\n　победив тебя и «Вилькисс»!」",
+   "orig": "Salia\n「I'll prove my worth by \n　defeating you and Villkiss!」"
+  },
+  {
+   "i": 352,
+   "speaker": "Анж",
+   "text": "「Ох!\n　Мне сейчас не до этого!」",
+   "orig": "Ange\n「Argh!\n　I don't have time for this!」"
+  },
+  {
+   "i": 353,
+   "speaker": "Вивиан",
+   "text": "「Салия!」",
+   "orig": "Vivian\n「Salia!」"
+  },
+  {
+   "i": 354,
+   "speaker": "Розали",
+   "text": "「Что с тобой стало?」",
+   "orig": "Rosalie\n「What's happened to you?」"
+  },
+  {
+   "i": 355,
+   "speaker": "Салия",
+   "text": "「Ничего со мной не стало!\n　Я всегда такой и была!」",
+   "orig": "Salia\n「Nothing's happened to me!\n　This is who I am!」"
+  },
+  {
+   "i": 356,
+   "speaker": "Хильда",
+   "text": "「Ты это серьёзно?」",
+   "orig": "Hilda\n「Are you serious?」"
+  },
+  {
+   "i": 357,
+   "speaker": "Салия",
+   "text": "「Серьёзно.」",
+   "orig": "Salia\n「I am.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Хильда",
+   "text": "「Раз так, то и мы сдерживаться не станем.」",
+   "orig": "Hilda\n「If that's so, then we won't hold back.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Розали",
+   "text": "「П-погоди, Хильда!」",
+   "orig": "Rosalie\n「W-wait, Hilda!」"
+  },
+  {
+   "i": 360,
+   "speaker": "Хильда",
+   "text": "「Она не из тех, кто блефует!\n　Придётся драться!」",
+   "orig": "Hilda\n「She's not the type to bluff!\n　We have to do this!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Вивиан",
+   "text": "「У-у-у! Салия!\n　Только не умирай!」",
+   "orig": "Vivian\n「Oooh! Salia!\n　Don't die!」"
+  },
+  {
+   "i": 362,
+   "speaker": "Вивиан",
+   "text": "「Да что с тобой такое, Эрша?」",
+   "orig": "Vivian\n「What's the matter with you, Ersha?」"
+  },
+  {
+   "i": 363,
+   "speaker": "Эрша",
+   "text": "「Прости, Вивиан.\n　Но я выбрала этот путь.」",
+   "orig": "Ersha\n「I am sorry, Vivian.\n　But this is the path I've chosen.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Вивиан",
+   "text": "「Нет!\n　Я не хочу жить\n　без твоей стряпни!」",
+   "orig": "Vivian\n「No!\n　I don't want to live\n　without your cooking!」"
+  },
+  {
+   "i": 365,
+   "speaker": "Вивиан",
+   "text": "「Прости, Эрша.\n　Я не дам тебе идти дальше, даже\n　если придётся с тобой сражаться!」",
+   "orig": "Vivian\n「I'm sorry, Ersha.\n　I can't let you go on, even\n　if I have to fight you!」"
+  },
+  {
+   "i": 366,
+   "speaker": "Анж",
+   "text": "「Что всё это значит, Эрша?」",
+   "orig": "Ange\n「What's the meaning of this, Ersha?」"
+  },
+  {
+   "i": 367,
+   "speaker": "Эрша",
+   "text": "「Теперь я из Рыцарей Алмазной Розы.\n　Я твой враг.」",
+   "orig": "Ersha\n「I'm a member of the Diamond Rose Knights now.\n　I'm your enemy.」"
+  },
+  {
+   "i": 368,
+   "speaker": "Розали",
+   "text": "「Т-ты шутишь, да?\n　Салия всегда была чокнутой, но ты-то?」",
+   "orig": "Rosalie\n「Y-you're joking, right?\n　Salia's always been nuts, but you?」"
+  },
+  {
+   "i": 369,
+   "speaker": "Хильда",
+   "text": "「Это уже ни в какие ворота.\n　Эрша теперь правда наш враг?!」",
+   "orig": "Hilda\n「This is unbelievably bad.\n　Ersha's actually our enemy now?!」"
+  },
+  {
+   "i": 370,
+   "speaker": "Эрша",
+   "text": "「Мне тоже не хочется драться,\n　так, может, вы просто отступите?」",
+   "orig": "Ersha\n「I don't want to fight, either,\n　so why don't you just withdraw?」"
+  },
+  {
+   "i": 371,
+   "speaker": "Розали",
+   "text": "「Прекрати, Крис!\n　Хватит!」",
+   "orig": "Rosalie\n「Quit this, Chris!\n　Stop!」"
+  },
+  {
+   "i": 372,
+   "speaker": "Хильда",
+   "text": "「Брось этот идиотизм.\n　Мы можем прекратить этот бой!」",
+   "orig": "Hilda\n「Give up this idiocy.\n　We can end this fight!」"
+  },
+  {
+   "i": 373,
+   "speaker": "Крис",
+   "text": "「Это вы идиотки!\n　Вы вообще понимаете, насколько всё серьёзно?」",
+   "orig": "Chris\n「You're the idiots!\n　Can you not see how serious this is?」"
+  },
+  {
+   "i": 374,
+   "speaker": "Розали",
+   "text": "「Крис...」",
+   "orig": "Rosalie\n「Chris...」"
+  },
+  {
+   "i": 375,
+   "speaker": "Хильда",
+   "text": "「Ты правда готова драться со всеми нами?」",
+   "orig": "Hilda\n「Do you really want to fight us all?」"
+  },
+  {
+   "i": 376,
+   "speaker": "Розали",
+   "text": "「Но почему?!\n　Разве мы тебе не подруги?」",
+   "orig": "Rosalie\n「Why?!\n　Aren't we your friends?」"
+  },
+  {
+   "i": 377,
+   "speaker": "Крис",
+   "text": "「Не надо мне тут про подруг.」",
+   "orig": "Chris\n「Don't pull that friend crap with me.」"
+  },
+  {
+   "i": 378,
+   "speaker": "Розали",
+   "text": "「Крис!」",
+   "orig": "Rosalie\n「Chris!」"
+  },
+  {
+   "i": 379,
+   "speaker": "Крис",
+   "text": "「Я никогда не считала вас подругами!\n　Ни тогда, ни когда-либо ещё!」",
+   "orig": "Chris\n「I never thought of you all as friends!\n　Not then, not ever!」"
+  },
+  {
+   "i": 380,
+   "speaker": "Крис",
+   "text": "「Единственный, кто хоть раз попытался\n　меня понять, — это Эмбрио!」",
+   "orig": "Chris\n「The only person who's ever tried\n　to understand me is Embryo!」"
+  },
+  {
+   "i": 381,
+   "speaker": "Анж",
+   "text": "「Что ты творишь, Крис?」",
+   "orig": "Ange\n「What are you doing, Chris?」"
+  },
+  {
+   "i": 382,
+   "speaker": "Крис",
+   "text": "「Замолчи!\n　Тебе этого никогда не понять!」",
+   "orig": "Chris\n「Be quiet!\n　You could never understand!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Вивиан",
+   "text": "「Гья-а-а!\n　Она не шутит!」",
+   "orig": "Vivian\n「Gyaaah!\n　She's for real!」"
+  },
+  {
+   "i": 384,
+   "speaker": "Крис",
+   "text": "「Я — рыцарь Алмазной Розы!\n　Враги Эмбрио — мои враги!」",
+   "orig": "Chris\n「I am a member of the Diamond Rose Knights!\n　Embryo's enemies are my enemies!」"
+  },
+  {
+   "i": 385,
+   "speaker": "Таня",
+   "text": "「Враги господина Эмбрио!\n　Готовьтесь!」",
+   "orig": "Tanya\n「Enemies of Lord Embryo!\n　Prepare yourselves!」"
+  },
+  {
+   "i": 386,
+   "speaker": "Вивиан",
+   "text": "「Таня... из третьей эскадрильи.」",
+   "orig": "Vivian\n「Tanya...from the 3rd Squadron.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Розали",
+   "text": "「Я слышала, она пропала\n　после боя в Арзенале.」",
+   "orig": "Rosalie\n「I heard she'd disappeared \n　after the battle at Arzenal.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Хильда",
+   "text": "「Но я и подумать не могла, что она станет\n　одной из прихвостней Эмбрио!」",
+   "orig": "Hilda\n「But I never thought she'd become\n　one of Embryo's underlings!」"
+  },
+  {
+   "i": 389,
+   "speaker": "Анж",
+   "text": "「Вот же мерзавец!\n　Как ему удалось обвести вокруг пальца\n　столько людей?」",
+   "orig": "Ange\n「That jerk!\n　How has he managed to trick so \n　many people into following him?」"
+  },
+  {
+   "i": 390,
+   "speaker": "Ирма",
+   "text": "「Мы разгромим всех\n　врагов господина Эмбрио!！」",
+   "orig": "Irma\n「We will defeat all\n　of Lord Embryo's enemies!！」"
+  },
+  {
+   "i": 391,
+   "speaker": "Хильда",
+   "text": "「Это же Ирма из третьей эскадрильи!」",
+   "orig": "Hilda\n「It's Irma, from the 3rd Squadron!」"
+  },
+  {
+   "i": 392,
+   "speaker": "Розали",
+   "text": "「Я слышала, она пропала без вести.\n　Что она тут делает?」",
+   "orig": "Rosalie\n「I heard she'd disappeared.\n　What is she doing here?」"
+  },
+  {
+   "i": 393,
+   "speaker": "Вивиан",
+   "text": "「Неужели Эмбрио\n　обманул вообще всех?」",
+   "orig": "Vivian\n「Has Embryo \n　deceived everybody?」"
+  },
+  {
+   "i": 394,
+   "speaker": "Анж",
+   "text": "「Не знаю!\n　Но если мы их вышибем, всё это закончится!」",
+   "orig": "Ange\n「I don't know!\n　But if we take them out, we can end this!」"
+  },
+  {
+   "i": 395,
+   "speaker": "Леонард",
+   "text": "「Ты всё-таки добрался, Сагара!\n　Но ты правда думаешь, что на этом меня одолеешь?」",
+   "orig": "Leonard\n「You made it, Sagara!\n　But do you really think you can beat me in that?」"
+  },
+  {
+   "i": 396,
+   "speaker": "Соскэ",
+   "text": "「Этот человек точно\n　тот самый Леонард, которого я знал?」",
+   "orig": "Sousuke\n「Is this guy really\n　the Leonard I knew?」"
+  },
+  {
+   "i": 397,
+   "speaker": "Леонард",
+   "text": "「Я — это я!」",
+   "orig": "Leonard\n「I am who I am!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Леонард",
+   "text": "「И вместе с Канамэ Тидори\n　я уничтожу этот растленный мир!」",
+   "orig": "Leonard\n「And along with Kaname Chidori, \n　I will destroy this depraved world!」"
+  },
+  {
+   "i": 399,
+   "speaker": "Соскэ",
+   "text": "「Мне сейчас не до твоих речей.\n　Сначала я остановлю колонию!」",
+   "orig": "Sousuke\n「I'm in no mood to listen to you.\n　Right now I'm going to stop the colony!」"
+  },
+  {
+   "i": 400,
+   "speaker": "Соскэ",
+   "text": "（Тидори...\n　Неужели ты помогаешь творить это зверство?）",
+   "orig": "Sousuke\n（Chidori...\n　Are you helping with this atrocity?）"
+  },
+  {
+   "i": 401,
+   "speaker": "Курц",
+   "text": "「Каспер!\n　Окажу тебе честь и сам\n　провожу тебя в последний путь!」",
+   "orig": "Kurz\n「Casper!\n　I'll accept the honor of giving you\n　your last rites!」"
+  },
+  {
+   "i": 402,
+   "speaker": "Каспер",
+   "text": "「Брось, Вебер, у тебя нет шансов.\n　Снайперы не из тех, кто играет в азартные игры.」",
+   "orig": "Casper\n「Give it up, Weber, you've got no chance.\n　Snipers aren't the type to gamble.」"
+  },
+  {
+   "i": 403,
+   "speaker": "Курц",
+   "text": "「Лично против тебя я ничего не имею, Каспер,\n　но раз ты с ними, я уберу тебя первым.\n　Иначе потом точно пожалею.」",
+   "orig": "Kurz\n「I don't have anything against you, Casper, \n　but if you're in with them I'll take you out first.\n　I know I'll regret it later if I don't.」"
+  },
+  {
+   "i": 404,
+   "speaker": "Каспер",
+   "text": "「Хладнокровен, как и прежде, Вебер.\n　Ладно, не бери в голову.」",
+   "orig": "Casper\n「Cool as ever, Weber.\n　Whatever, don't worry about it.」"
+  },
+  {
+   "i": 405,
+   "speaker": "Каспер",
+   "text": "「Жалеть будут твои дружки,\n　когда станут оплакивать твоё тело!」",
+   "orig": "Casper\n「It'll be your friends who'll regret this, \n　when they're mourning over your body!」"
+  },
+  {
+   "i": 406,
+   "speaker": "Найн",
+   "text": "「Если так пойдёт дальше...」",
+   "orig": "Nine\n「If it goes on like this...」"
+  },
+  {
+   "i": 407,
+   "speaker": "$n",
+   "text": "「Можешь не продолжать.\n　Я и сам всё вижу.」",
+   "orig": "$n\n「You don't need to say anything.\n　I can see for myself.」"
+  },
+  {
+   "i": 408,
+   "speaker": "$n",
+   "text": "「Рассчитай кратчайший маршрут до колонии!\n　И веди нас туда на полном ходу.」",
+   "orig": "$n\n「Calculate the fastest route to the colony!\n　Then take us there at full speed.」"
+  },
+  {
+   "i": 409,
+   "speaker": "Найн",
+   "text": "「Принято!」",
+   "orig": "Nine\n「Roger!」"
+  },
+  {
+   "i": 410,
+   "speaker": "$n",
+   "text": "「Мерзавцы!\n　Даже дураку ясно, чем обернётся\n　падение этой махины на Землю!」",
+   "orig": "$n\n「Bastards!\n　Any idiot could see how dropping that thing\n　on Earth would turn out!」"
+  },
+  {
+   "i": 411,
+   "speaker": "Найн",
+   "text": "「Если так пойдёт дальше...」",
+   "orig": "Nine\n「If it goes on like this...」"
+  },
+  {
+   "i": 412,
+   "speaker": "$n",
+   "text": "「Не говори этого, Найн!\n　Скажешь — и мы просто потеряем надежду.」",
+   "orig": "$n\n「Don't say it, Nine!\n　If you say it, we'll only lose hope.」"
+  },
+  {
+   "i": 413,
+   "speaker": "Найн",
+   "text": "「Д-да!」",
+   "orig": "Nine\n「Y-yes!」"
+  },
+  {
+   "i": 414,
+   "speaker": "$n",
+   "text": "「Просканируй расстановку противника вокруг колонии.\n　Ударим там, где у них тонко.」",
+   "orig": "$n\n「Scan the deployment of enemies defending the colony.\n　We'll attack where they're spread thin.」"
+  },
+  {
+   "i": 415,
+   "speaker": "Найн",
+   "text": "「Принято!」",
+   "orig": "Nine\n「Roger!」"
+  },
+  {
+   "i": 416,
+   "speaker": "$n",
+   "text": "「Я не сдамся!\n　Я не позволю этой Земле кончить так же,\n　как наша!」",
+   "orig": "$n\n「I won't give up!\n　I won't let this Earth end up\n　like the one we know!」"
+  },
+  {
+   "i": 417,
+   "speaker": "Камий",
+   "text": "（Нео-Зеон забыл, чем всё обернулось\n　в прошлый раз, когда они попробовали это провернуть.）",
+   "orig": "Kamille\n（Neo Zeon has forgotten about what \n　happened the last time they tried this.）"
+  },
+  {
+   "i": 418,
+   "speaker": "Камий",
+   "text": "（Ещё чуть-чуть!\n　Если бы только замедлить падение колонии\n　хотя бы немного!）",
+   "orig": "Kamille\n（Just a little!\n　If we can just slow the colony's descent\n　even a little bit!）"
+  },
+  {
+   "i": 419,
+   "speaker": "Фа",
+   "text": "（Я верю в Камия!\n　Надежда ещё есть!）",
+   "orig": "Fa\n（I believe in Kamille!\n　There's still hope!）"
+  },
+  {
+   "i": 420,
+   "speaker": "Фа",
+   "text": "（А значит, мы должны драться\n　плечом к плечу с Камием.）",
+   "orig": "Fa\n（So we have to fight,\n　right there with Kamille.）"
+  },
+  {
+   "i": 421,
+   "speaker": "Марида",
+   "text": "「История зверств повторяется...\n　Если мы это не остановим, война никогда не кончится!」",
+   "orig": "Marida\n「Repeating the history of atrocity...\n　If we don't stop this, the fighting will never end!」"
+  },
+  {
+   "i": 422,
+   "speaker": "Марида",
+   "text": "「Покажем им.\n　Мы не позволим, чтобы ещё чьи-то дети\n　рождались в таком же горе, как мы!」",
+   "orig": "Marida\n「Let's show them.\n　We won't allow any more children to \n　be born into misery like we were!」"
+  },
+  {
+   "i": 423,
+   "speaker": "Циннерман",
+   "text": "（Довольно, все вы...\n　Прошу, поймите.）",
+   "orig": "Zinnerman\n（Enough, everyone...\n　Please, understand.）"
+  },
+  {
+   "i": 424,
+   "speaker": "Циннерман",
+   "text": "（Что потеряно однажды, уже не вернуть.\n　Если дать гневу и ненависти вот так разрастись,\n　вы лишитесь и того, что у вас ещё осталось.）",
+   "orig": "Zinnerman\n（Once something's lost, it can never be brought back.\n　If you let your anger and hatred spread like this, \n　you'll only lose what you still have.）"
+  },
+  {
+   "i": 425,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

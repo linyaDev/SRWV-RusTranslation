@@ -1,0 +1,1756 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Сима",
+   "text": "「Варп завершён!」",
+   "orig": "Shima\n「Warp complete!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Ота",
+   "text": "「Прямо по курсу какое-то сооружение!」",
+   "orig": "Ota\n「There is some kind of structure just ahead!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Кодай",
+   "text": "「Что это такое?」",
+   "orig": "Kodai\n「What is that?」"
+  },
+  {
+   "i": 3,
+   "speaker": "Санада",
+   "text": "「Система, позволяющая совершать дальние варпы—」",
+   "orig": "Sanada\n「The system that could enable long-distance warping—」"
+  },
+  {
+   "i": 4,
+   "speaker": "Окита",
+   "text": "「Подпространственные врата.」",
+   "orig": "Okita\n「A subspace gate.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Мисаки",
+   "text": "「«Космо Сигал» стартовал.\n　Курс на спутник системы.」",
+   "orig": "Misaki\n「Cosmo Seagull has launched.\n　Heading towards the system satellite.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Сима",
+   "text": "「Теперь остаётся только ждать вестей от Кодая.」",
+   "orig": "Shima\n「Now we just have to wait to hear from Kodai.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Намбу",
+   "text": "「Сидеть и ждать — всегда хуже всего.」",
+   "orig": "Nanbu\n「Sitting around waiting is always the worst.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Окита",
+   "text": "（Почему меня вдруг так разморило?）",
+   "orig": "Okita\n（Why do I feel so tired all of a sudden?）"
+  },
+  {
+   "i": 9,
+   "speaker": "Окита",
+   "text": "（Словно разум уходит на дно океана.）",
+   "orig": "Okita\n（It's like my mind is sinking deep into the ocean.）"
+  },
+  {
+   "i": 10,
+   "speaker": "Окита",
+   "text": "「Что с нами произошло?」",
+   "orig": "Okita\n「What happened to us?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Кодай",
+   "text": "「Похоже, экипаж впал в беспамятство\n　из-за пси-атаки противника.」",
+   "orig": "Kodai\n「It seems as though the crew fell into a comatose\n　state caused by a psychic attack from our enemy.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Санада",
+   "text": "「Мори, где Мисаки?」",
+   "orig": "Sanada\n「Mori, where's Misaki?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Мори",
+   "text": "「Она потеряла сознание, сейчас в лазарете.」",
+   "orig": "Mori\n「She fell unconscious so she is in the med bay.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Окита",
+   "text": "「Всем быть начеку. Если это и правда была атака\n　врага, то, узнав о провале замысла, они\n　наверняка попробуют снова.」",
+   "orig": "Okita\n「Stay alert. If that was indeed an enemy attack,\n　there will probably be more to come once they\n　find out their plan failed.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Мори",
+   "text": "「Гамиласцы заходят на двенадцать часов,\n　дистанция 10 000 и сокращается!」",
+   "orig": "Mori\n「Gamillans approaching from our 12 o'clock\n　at a distance of 10,000 and closing!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Домель",
+   "text": "「Кто бы мог подумать, что здесь подпространственные врата?」",
+   "orig": "Domel\n「Who would've thought there'd be a subspace gate here?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Селестелла",
+   "text": "「Это забытый сектор космоса.」",
+   "orig": "Celestella\n「This is a forgotten quadrant of space.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Селестелла",
+   "text": "（Мы — потомки зирелиан.\n　Это руины Аквариуса.）",
+   "orig": "Celestella\n（We are descendants of Zirelians.\n　These are the ruins of Aquarius.）"
+  },
+  {
+   "i": 19,
+   "speaker": "Селестелла",
+   "text": "（Миренель, теперь, когда тебя не стало,\n　я осталась последней уцелевшей\n　зирелианкой.）",
+   "orig": "Celestella\n（Mirenel, with you now gone\n　I have become the only remaining\n　Zirelian survivor.）"
+  },
+  {
+   "i": 20,
+   "speaker": "Домель",
+   "text": "「Министр информации Селестелла, раз уж ваш\n　замысел, похоже, провалился, предоставьте\n　остальное мне.」",
+   "orig": "Domel\n「Public Information Minister Celestella, since your\n　plan seems to have failed, please just leave the\n　rest up to me.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Селестелла",
+   "text": "「Поняла.\n　С нетерпением жду, на что способен тот,\n　кого зовут Космическим Волком.」",
+   "orig": "Celestella\n「Understood.\n　I look forward to seeing what the one who they\n　call the Space Wolf is capable of.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Хайдерн",
+   "text": "「Командор Домель!\n　Появились силы терронцев!」",
+   "orig": "Heidern\n「Commander Domel!\n　Terron forces have appeared!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Домель",
+   "text": "「Должно быть, это человекоподобное оружие Террона.」",
+   "orig": "Domel\n「That must be Terron's humanoid weapon unit.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Хайдерн",
+   "text": "「Контр-адмирал Гоэр, впрочем, уверяет,\n　что это не более чем беспилотники.」",
+   "orig": "Heidern\n「Rear-Admiral Goer claims that they\n　are nothing more than drones, though.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Домель",
+   "text": "「Он склонен недооценивать противника.\n　А мне кажется, с ними шутки плохи.」",
+   "orig": "Domel\n「He has a tendency to underestimate the enemy.\n　I have a feeling we shouldn't make light of them.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Хайдерн",
+   "text": "「Досадно, что при столь внезапном развёртывании\n　не удалось поднять армию Домеля.」",
+   "orig": "Heidern\n「It must have been rough that the Domel army\n　couldn't be called on for such a sudden deployment.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Домель",
+   "text": "「Однако их противник действует по воле\n　верховного лидера Деслера. Мы обязаны показать,\n　что умеем драться.」",
+   "orig": "Domel\n「However, their opponent acts under the will of\n　Supreme Leader Dessler. We have to show them that\n　we can put up a fight.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Домель",
+   "text": "「Покажем им бой, которым командующий операциями\n　в галактическом секторе смог бы гордиться.」",
+   "orig": "Domel\n「We'll show them a fight that the Galaxy Region\n　Operational Commander can definitely be proud of.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Окита",
+   "text": "「Все! В этом походе нам неизбежно придётся\n　вступить в бой с гамиласцами.」",
+   "orig": "Okita\n「Everyone! On this journey, we will be forced to\n　engage against the Gamillans.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Окита",
+   "text": "「Но мы обязаны это преодолеть и дойти\n　до Искандара! Деритесь стойко\n　и деритесь честно!」",
+   "orig": "Okita\n「However, we must overcome this and make our\n　way to Iscandar! May everyone fight\n　strong and fight well!」"
+  },
+  {
+   "i": 31,
+   "speaker": "$n",
+   "text": "「Давно мы не слышали особого напутствия\n　от Дзюдзо Окиты! Я завёлся!」",
+   "orig": "$n\n「It's been a while since we've gotten a special\n　Juzo Okita pep talk! I'm pumped!」"
+  },
+  {
+   "i": 32,
+   "speaker": "$n",
+   "text": "「Вперёд, Найн!\n　Разберёмся с этим, пока остальные\n　ещё приходят в себя!」",
+   "orig": "$n\n「Let's go, Nine!\n　We'll take care of this while everyone else is\n　still waking up!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Найн",
+   "text": "「Принято, кэп!」",
+   "orig": "Nine\n「Roger that, Cap!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Окита",
+   "text": "「Бить по флагману противника, чтобы покончить\n　с этим как можно быстрее.」",
+   "orig": "Okita\n「Target the enemy flagship so we can end this\n　as quickly as possible.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Хайдерн",
+   "text": "「Похоже, флот терронцев нацелился\n　на этот корабль.」",
+   "orig": "Heidern\n「It looks like the Terron fleet is going to be\n　aiming for this ship.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Домель",
+   "text": "「Верное решение, на мой взгляд. Но стоит им\n　допустить хоть одну ошибку — и это станет\n　не более чем самоубийством.」",
+   "orig": "Domel\n「A proper judgment I believe. But if they\n　make any mistakes, that will be nothing more\n　than a suicide mission.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Домель",
+   "text": "「Что ж, выясним, хватит ли их командиру духу\n　драться с гамиласцами, или он струсит\n　и побежит, как я и думаю!」",
+   "orig": "Domel\n「Let's find out if their commander is man\n　enough to fight against Gamillans or if he will\n　run scared like I think he will!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Домель",
+   "text": "「Всем подразделениям — в атаку! Ваша цель —\n　корабль терронцев, «Ямато»!」",
+   "orig": "Domel\n「All units, begin your attack! Your target is\n　the Terron ship, the Yamato!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Домель",
+   "text": "「Должно быть, это человекоподобное оружие Террона.」",
+   "orig": "Domel\n「That must be Terron's humanoid weapon unit.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Хайдерн",
+   "text": "「Контр-адмирал Гоэр, впрочем, уверяет,\n　что это не более чем беспилотники.」",
+   "orig": "Heidern\n「Rear-Admiral Goer claims that they\n　are nothing more than drones, though.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Домель",
+   "text": "「Он склонен недооценивать противника.\n　А мне кажется, с ними шутки плохи.」",
+   "orig": "Domel\n「He has a tendency to underestimate the enemy.\n　I have a feeling we shouldn't make light of them.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Хайдерн",
+   "text": "「Досадно, что при столь внезапном развёртывании\n　не удалось поднять армию Домеля.」",
+   "orig": "Heidern\n「It must have been rough that the Domel army\n　couldn't be called on for such a sudden deployment.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Домель",
+   "text": "「Однако их противник действует по воле\n　верховного лидера Деслера. Мы обязаны показать,\n　что умеем драться.」",
+   "orig": "Domel\n「However, their opponent acts under the will of\n　Supreme Leader Dessler. We have to show them that\n　we can put up a fight.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Домель",
+   "text": "「Покажем им бой, которым командующий операциями\n　в галактическом секторе смог бы гордиться.」",
+   "orig": "Domel\n「We'll show them a fight that the Galaxy Region\n　Operational Commander can definitely be proud of.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Окита",
+   "text": "「Все! В этом походе нам неизбежно придётся\n　вступить в бой с гамиласцами.」",
+   "orig": "Okita\n「Everyone! On this journey, we will be forced to\n　engage against the Gamillans.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Окита",
+   "text": "「Но мы обязаны это преодолеть и дойти\n　до Искандара! Деритесь стойко\n　и деритесь честно!」",
+   "orig": "Okita\n「However, we must overcome this and make our\n　way to Iscandar! May everyone fight\n　strong and fight well!」"
+  },
+  {
+   "i": 47,
+   "speaker": "$n",
+   "text": "「Ради нашей миссии мы будем драться,\n　какой бы враг перед нами ни стоял!」",
+   "orig": "$n\n「We have to fight for our the sake of our mission,\n　no matter what enemy we face!」"
+  },
+  {
+   "i": 48,
+   "speaker": "$n",
+   "text": "「Вперёд, Найн!\n　Разберёмся с этим, пока остальные\n　ещё приходят в себя!」",
+   "orig": "$n\n「Let's go, Nine!\n　We'll take care of this while everyone else is\n　still waking up!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Найн",
+   "text": "「Принято!」",
+   "orig": "Nine\n「Roger that!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Окита",
+   "text": "「Бить по флагману противника, чтобы покончить\n　с этим как можно быстрее.」",
+   "orig": "Okita\n「Target the enemy flagship so we can end this\n　as quickly as possible.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Хайдерн",
+   "text": "「Похоже, флот терронцев нацелился\n　на этот корабль.」",
+   "orig": "Heidern\n「It looks like the Terron fleet is going to be\n　aiming for this ship.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Домель",
+   "text": "「Верное решение, на мой взгляд. Но стоит им\n　допустить хоть одну ошибку — и это станет\n　не более чем самоубийством.」",
+   "orig": "Domel\n「A proper judgment I believe. But if they\n　make any mistakes, that will be nothing more\n　than a suicide mission.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Домель",
+   "text": "「Что ж, выясним, хватит ли их командиру духу\n　драться с гамиласцами, или он струсит\n　и побежит, как я и думаю!」",
+   "orig": "Domel\n「Let's find out if their commander is man\n　enough to fight against Gamillans or if he will\n　run scared like I think he will!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Домель",
+   "text": "「Всем подразделениям — в атаку! Ваша цель —\n　корабль терронцев, «Ямато»!」",
+   "orig": "Domel\n「All units, begin your attack! Your target is\n　the Terron ship, the Yamato!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Хайдерн",
+   "text": "「А они и впрямь дают отпор.」",
+   "orig": "Heidern\n「They're sure putting up a fight.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Домель",
+   "text": "「Наш противник куда опаснее,\n　чем мы полагали.」",
+   "orig": "Domel\n「Our enemy is a lot more dangerous\n　than we thought.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Домель",
+   "text": "「И всё же победа будет\n　за нами, гамиласцами!」",
+   "orig": "Domel\n「However, we Gamillans will\n　emerge victorious!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Селестелла",
+   "text": "「Генерал-адмирал Домель, вести с Гамиласа.」",
+   "orig": "Celestella\n「General Admiral Domel, we have word from Gamillas.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Домель",
+   "text": "「Не сейчас!」",
+   "orig": "Domel\n「Not now!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Селестелла",
+   "text": "「Связь Игсен первого класса — от верховного лидера.」",
+   "orig": "Celestella\n「It's first-class Igsen comms from the Supreme Leader.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Домель",
+   "text": "「Что? От верховного лидера?!」",
+   "orig": "Domel\n「What? From the Supreme Leader?!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Селестелла",
+   "text": "「Отвести корабли и вернуться на Гамилас.\n　Это приказ, не подлежащий обсуждению.」",
+   "orig": "Celestella\n「Retreat your vessels and return to Gamillas.\n　This is an absolute order.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Домель",
+   "text": "「Н-но мы ведь только вступили в бой!」",
+   "orig": "Domel\n「B-but we were just starting to fight!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Сима",
+   "text": "「Вражеский флот прекратил атаку!」",
+   "orig": "Shima\n「The enemy fleet has stopped attacking!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Кодай",
+   "text": "「Вот наш шанс!\n　Бьём по ним всем, что есть!」",
+   "orig": "Kodai\n「This is our chance!\n　Hit them with everything we've got!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Мори",
+   "text": "「Гардим приближается, дистанция\n　9000 и сокращается!」",
+   "orig": "Mori\n「Gardim approaching at a distance\n　of 9,000 and closing!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Кодай",
+   "text": "「Что?!」",
+   "orig": "Kodai\n「What?!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Намбу",
+   "text": "「После таких повреждений они и двигаться-то\n　не должны!」",
+   "orig": "Nanbu\n「After taking this much damage they shouldn't\n　be able to even move!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Окита",
+   "text": "「Это ещё не конец!」",
+   "orig": "Okita\n「It's not over yet!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Хайдерн",
+   "text": "「Они живучее, чем мы ожидали.」",
+   "orig": "Heidern\n「They're more resilient than we expected.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Домель",
+   "text": "「Похоже, они опаснее,\n　чем мы предполагали.」",
+   "orig": "Domel\n「It seems as they are more dangerous\n　than we thought they would be.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Домель",
+   "text": "「И всё же победа будет\n　за нами, гамиласцами!」",
+   "orig": "Domel\n「However, we Gamillans will\n　emerge victorious!」"
+  },
+  {
+   "i": 73,
+   "speaker": "Селестелла",
+   "text": "「Генерал-адмирал Домель, вести с Гамиласа.」",
+   "orig": "Celestella\n「General Admiral Domel, we have word from Gamillas.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Домель",
+   "text": "「Не сейчас!」",
+   "orig": "Domel\n「Not now!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Селестелла",
+   "text": "「Связь Игсен первого класса — от верховного лидера.」",
+   "orig": "Celestella\n「It's first-class Igsen comms from the Supreme Leader.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Домель",
+   "text": "「Что? От верховного лидера?!」",
+   "orig": "Domel\n「What? From the Supreme Leader?!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Селестелла",
+   "text": "「Отвести корабли и вернуться на Гамилас.\n　Это приказ, не подлежащий обсуждению.」",
+   "orig": "Celestella\n「Retreat your vessels and return to Gamillas.\n　This is an absolute order.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Домель",
+   "text": "「Н-но мы ведь только вступили в бой!」",
+   "orig": "Domel\n「B-but we were just starting to fight!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Сима",
+   "text": "「Вражеский флот прекратил атаку!」",
+   "orig": "Shima\n「The enemy fleet has stopped attacking!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Кодай",
+   "text": "「Вот наш шанс!\n　Бьём по ним всем, что есть!」",
+   "orig": "Kodai\n「This is our chance!\n　Hit them with everything we've got!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Мори",
+   "text": "「Гардим приближается, дистанция\n　9000 и сокращается!」",
+   "orig": "Mori\n「Gardim approaching at a distance\n　of 9,000 and closing!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Кодай",
+   "text": "「Что?!」",
+   "orig": "Kodai\n「What?!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Бандзё",
+   "text": "「Гардим!」",
+   "orig": "Banjo\n「Gardim!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Акито",
+   "text": "「Они гнались за нами в такую даль?」",
+   "orig": "Akito\n「They've chased us down all the way out here?」"
+  },
+  {
+   "i": 85,
+   "speaker": "Сэцуна",
+   "text": "「Видимо, настолько сильно им хочется прибрать\n　к рукам «Ямато» и Найн.」",
+   "orig": "Setsuna\n「I guess that's just how badly they want to get\n　their hands on the Yamato and Nine.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Селестелла",
+   "text": "「Генерал-адмирал Домель!」",
+   "orig": "Celestella\n「General Admiral Domel!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Домель",
+   "text": "「Что ж, теперь у нас есть славный подарок для\n　верховного лидера. Вот и настоящий повод вернуться.」",
+   "orig": "Domel\n「Now we have a nice souvenir for the Supreme Leader.\n　This gives us a real reason to return home.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Домель",
+   "text": "「Всем подразделениям — отход!\n　Возвращаемся на Гамилас!」",
+   "orig": "Domel\n「All units, retreat!\n　Let us return to Gamillas!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Найн",
+   "text": "「Гамиласцы отступают.」",
+   "orig": "Nine\n「The Gamillans are retreating.」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Ха! Не повезло, Джейми! Видно, ты хотел\n　прикончить нас в этой суматохе, да только\n　твой замысел провалился!」",
+   "orig": "$n\n「Hah! Too bad, Jamie! I guess you wanted\n　to try and take us out in the middle of all the\n　confusion but your little plan failed!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Джейми",
+   "text": "「Э-э, прошу прощения, но я бы никогда не стал\n　прибегать к столь подлым приёмам.」",
+   "orig": "Jamie\n「Umm, excuse me, but I would never use such\n　underhanded tactics.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Джейми",
+   "text": "「К тому же сегодня тебе предстоит драться\n　вовсе не со мной.」",
+   "orig": "Jamie\n「And besides, today you're not going to be\n　fighting me.」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「Тогда с кем же?」",
+   "orig": "$n\n「Well then, who?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Титосэ",
+   "text": "「Привет, $n.」",
+   "orig": "Chitose\n「Hey there, $n.」"
+  },
+  {
+   "i": 95,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Тобиа",
+   "text": "「Это же Титосэ?」",
+   "orig": "Tobia\n「Isn't that Chitose?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Тэцуя",
+   "text": "「Почему она сражается за Гардим?!」",
+   "orig": "Tetsuya\n「What's she doing fighting for Gardim?!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Кинкейд",
+   "text": "「Её разумом управляют, чтобы сбить нас\n　с толку и получить преимущество!」",
+   "orig": "Kincade\n「Her mind is being controlled to mess\n　with our heads and give them the advantage!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Титосэ",
+   "text": "「$n...\n　Я должна победить тебя, чтобы\n　завладеть «Ямато».」",
+   "orig": "Chitose\n「$n...\n　I have to defeat you so that I may take\n　over the Yamato.」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Похоже, это не шутки...」",
+   "orig": "$n\n「It seems like it's no joke...」"
+  },
+  {
+   "i": 101,
+   "speaker": "Титосэ",
+   "text": "「Прости! Я не хочу,\n　но я должна!」",
+   "orig": "Chitose\n「Sorry! I don't want to,\n　but I have to!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Джейми",
+   "text": "「Сцена готова! Надеюсь, вы вдоволь\n　насладитесь, убивая друг друга.」",
+   "orig": "Jamie\n「So the stage is set! I hope you\n　thoroughly enjoy killing each other.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Джейми",
+   "text": "「Этот «Мадивиа Дегг» построен особым образом,\n　чтобы в бою иметь перед тобой все преимущества.」",
+   "orig": "Jamie\n「That Madivia Degg has been specially constructed\n　to give it all the advantages over you in battle.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Джейми",
+   "text": "「А теперь, с вашего позволения, я откинусь\n　в кресле и насладюсь представлением!」",
+   "orig": "Jamie\n「Now, if you don't mind, I'd like to sit back\n　and enjoy the show!」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「Вот же мразь!」",
+   "orig": "$n\n「That creep!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Найн",
+   "text": "「Кэп, что будем делать?!」",
+   "orig": "Nine\n「Cap, what's the plan?!」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Она и правда будет драться.\n　Нам остаётся только отбиваться.」",
+   "orig": "$n\n「She's really going to fight.\n　There's nothing we can do but fight back.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Найн",
+   "text": "「Нет, нельзя!」",
+   "orig": "Nine\n「No, we can't!」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Думаешь, я этого хочу? Но не можем же мы\n　просто сидеть сложа руки и погибнуть здесь!」",
+   "orig": "$n\n「It's not like I want to. But we can't just\n　do nothing and die here!」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「К тому же я обещал всегда тебя защищать.」",
+   "orig": "$n\n「Plus, I promised to always protect you.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Найн",
+   "text": "「Кэп, спасибо.」",
+   "orig": "Nine\n「Cap, thank you.」"
+  },
+  {
+   "i": 112,
+   "speaker": "$n",
+   "text": "「Гардим точит на тебя зуб. Не знаю почему,\n　но ты — последняя надежда Земли, и я не дам\n　им коснуться тебя и пальцем!」",
+   "orig": "$n\n「Gardim has it out for you. I don't know why,\n　but you are Earth's last hope, so I won't let\n　them ever lay a finger on you!」"
+  },
+  {
+   "i": 113,
+   "speaker": "$n",
+   "text": "「Слышишь, Титосэ? Я не собираюсь просто сидеть\n　и ждать, пока ты меня прикончишь!」",
+   "orig": "$n\n「You hear that, Chitose? I'm not going to just\n　sit here and let you kill me!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Титосэ",
+   "text": "「$n, прости меня!」",
+   "orig": "Chitose\n「$n, I'm sorry!」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Если правда жалеешь — не дерись! Я вытащу тебя\n　из этой машины и вправлю тебе мозги!」",
+   "orig": "$n\n「If you're really sorry, don't fight! I'm gonna\n　drag you out of that thing and teach you a lesson!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Найн",
+   "text": "「Гамиласцы отступают.」",
+   "orig": "Nine\n「The Gamillans are retreating.」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「Не повезло, Джейми! Видно, ты хотел застать нас\n　врасплох в этой суматохе, да только\n　замысел твой провалился!」",
+   "orig": "$n\n「Too bad, Jamie! I guess you wanted to catch us\n　off-guard in the middle of all the confusion\n　but I guess your plan failed!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Джейми",
+   "text": "「Э-э, прошу прощения, но я бы никогда не стал\n　прибегать к столь подлым приёмам.」",
+   "orig": "Jamie\n「Umm, excuse me, but I would never use such\n　underhanded tactics.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Джейми",
+   "text": "「К тому же сегодня тебе предстоит драться\n　вовсе не со мной.」",
+   "orig": "Jamie\n「And besides, today you're not going to be\n　fighting me.」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Мне придётся драться с ним?」",
+   "orig": "$n\n「I have to fight him?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Содзи",
+   "text": "「$n, это я.」",
+   "orig": "Soji\n「$n, it's me.」"
+  },
+  {
+   "i": 122,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Тобиа",
+   "text": "「Содзи, это ты?」",
+   "orig": "Tobia\n「Soji, is that you?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Тэцуя",
+   "text": "「Почему он сражается за Гардим?」",
+   "orig": "Tetsuya\n「Why is he fighting for Gardim?」"
+  },
+  {
+   "i": 125,
+   "speaker": "Кинкейд",
+   "text": "「Его разумом управляют, чтобы сбить нас\n　с толку и получить преимущество!」",
+   "orig": "Kincade\n「His mind is being controlled to mess\n　with our heads and give them the advantage!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Содзи",
+   "text": "「Простите все, но я должен победить\n　$n и захватить\n　«Ямато».」",
+   "orig": "Soji\n「Sorry, everyone, but I have to defeat\n　$n and take over the\n　Yamato.」"
+  },
+  {
+   "i": 127,
+   "speaker": "$n",
+   "text": "「Ради чего?!」",
+   "orig": "$n\n「For what?!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Содзи",
+   "text": "「Просто должен, и всё.」",
+   "orig": "Soji\n「I just have to.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Джейми",
+   "text": "「Сцена готова! Надеюсь, вы вдоволь\n　насладитесь, убивая друг друга.」",
+   "orig": "Jamie\n「So the stage is set! I hope you\n　thoroughly enjoy killing each other.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Джейми",
+   "text": "「Этот «Мадивиа Дегг» построен особым образом,\n　чтобы в бою иметь перед тобой все преимущества.」",
+   "orig": "Jamie\n「That Madivia Degg has been specially constructed\n　to give it all the advantages over you in battle.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Джейми",
+   "text": "「А теперь, с вашего позволения, я откинусь\n　в кресле и насладюсь представлением!」",
+   "orig": "Jamie\n「Now, if you don't mind, I'd like to sit back\n　and enjoy the show!」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Джейми, ты чудовище!」",
+   "orig": "$n\n「Jamie you monster!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Найн",
+   "text": "「Что будем делать, сестрёнка?!」",
+   "orig": "Nine\n「What do we do, Sis?!」"
+  },
+  {
+   "i": 134,
+   "speaker": "$n",
+   "text": "「Придётся драться.」",
+   "orig": "$n\n「We have to fight.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Найн",
+   "text": "「Нет, нельзя!」",
+   "orig": "Nine\n「No, we can't!」"
+  },
+  {
+   "i": 136,
+   "speaker": "$n",
+   "text": "「Думаешь, мне хочется с ним драться? Но выбора\n　у нас, похоже, особо нет.」",
+   "orig": "$n\n「It's not like I want to fight him, but\n　I don't think we have much of a choice.」"
+  },
+  {
+   "i": 137,
+   "speaker": "$n",
+   "text": "「Ведь ты здесь, вместе со мной.」",
+   "orig": "$n\n「After all, you're in here with me.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Найн",
+   "text": "「Мне это не нравится.」",
+   "orig": "Nine\n「I do not like this.」"
+  },
+  {
+   "i": 139,
+   "speaker": "$n",
+   "text": "「Гардим точит на тебя зуб. Не знаю почему,\n　но ты — последняя надежда Земли, и я не дам\n　им коснуться тебя и пальцем!」",
+   "orig": "$n\n「Gardim has it out for you. I don't know why,\n　but you are Earth's last hope, so I won't let\n　them ever lay a finger on you!」"
+  },
+  {
+   "i": 140,
+   "speaker": "$n",
+   "text": "「Эй, Содзи!\n　Если надо — буду драться с тобой!」",
+   "orig": "$n\n「Hey Soji!\n　I'll fight you if I have to!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Содзи",
+   "text": "「Разумеется! Иного я и не ждал.\n　Мне нравится эта твоя серьёзность.」",
+   "orig": "Soji\n「Of course! I expected nothing less.\n　I like that serious side of you.」"
+  },
+  {
+   "i": 142,
+   "speaker": "$n",
+   "text": "「Так и знай: я не проиграю!\n　Мне нельзя проиграть. Просто нельзя.」",
+   "orig": "$n\n「Just so you know, I won't lose!\n　I can't lose. I just can't.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Титосэ",
+   "text": "「А-а-а!」",
+   "orig": "Chitose\n「Ahhhh!」"
+  },
+  {
+   "i": 144,
+   "speaker": "$n",
+   "text": "「Титосэ!」",
+   "orig": "$n\n「Chitose!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Титосэ",
+   "text": "「Не подходи!」",
+   "orig": "Chitose\n「Stay away!」"
+  },
+  {
+   "i": 146,
+   "speaker": "$n",
+   "text": "「П-постой!\n　Куда ты?」",
+   "orig": "$n\n「W-wait!\n　Where are you going?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Титосэ",
+   "text": "「Прости, $n.\n　Мне пора.」",
+   "orig": "Chitose\n「I'm sorry, $n.\n　I have to go now.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Титосэ",
+   "text": "「Я должна спасти Землю.」",
+   "orig": "Chitose\n「I have to save the Earth.」"
+  },
+  {
+   "i": 149,
+   "speaker": "$n",
+   "text": "「Да что тут вообще происходит?」",
+   "orig": "$n\n「What the heck is going on here?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Найн",
+   "text": "「Успокойся, кэп.」",
+   "orig": "Nine\n「Calm down, Cap.」"
+  },
+  {
+   "i": 151,
+   "speaker": "Джудо",
+   "text": "「Это та девушка, что поднялась на «Ямато»\n　вместе с $n?」",
+   "orig": "Judau\n「Is that the girl who boarded the Yamato\n　with $n?」"
+  },
+  {
+   "i": 152,
+   "speaker": "Майто",
+   "text": "「Она решила остаться в измерении AD,\n　чтобы жить дальше своими силами.」",
+   "orig": "Maito\n「She decided to stay back in the AD dimension\n　so that she could survive on her own.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Синдзи",
+   "text": "「Так она на самом деле хотела\n　примкнуть к Гардиму?」",
+   "orig": "Shinji\n「Was what she wanted to do actually to\n　ally with Gardim?」"
+  },
+  {
+   "i": 154,
+   "speaker": "Синдзи",
+   "text": "「Так она на самом деле хотела\n　примкнуть к Гардиму?」",
+   "orig": "Shinji\n「Was what she wanted to do actually to\n　ally with Gardim?」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「Да ни за что она бы так не поступила!」",
+   "orig": "$n\n「There's no way she'd do that!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Синдзи",
+   "text": "「Прости, $n.」",
+   "orig": "Shinji\n「I'm sorry $n.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Синдзи",
+   "text": "「Прости, $n.」",
+   "orig": "Shinji\n「I'm sorry $n.」"
+  },
+  {
+   "i": 158,
+   "speaker": "$n",
+   "text": "「Нет-нет, всё нормально. Я понимаю,\n　почему тебе захотелось такое сказать.」",
+   "orig": "$n\n「No, no, it's fine. I understand why\n　you'd want to say something like that.」"
+  },
+  {
+   "i": 159,
+   "speaker": "$n",
+   "text": "「Я почти уверен, что Гардим ещё явится\n　за нами, — вот тогда я и получу\n　ответы на свои вопросы.」",
+   "orig": "$n\n「I'm pretty sure Gardim is going\n　to be coming after us again, so I'll get the\n　answers to my questions then.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Хатауэй",
+   "text": "「$n, мы с тобой.」",
+   "orig": "Hathaway\n「$n, we're here for you.」"
+  },
+  {
+   "i": 161,
+   "speaker": "$n",
+   "text": "「Спасибо. Надеюсь, смогу рассчитывать\n　на вашу помощь.」",
+   "orig": "$n\n「I appreciate it. I hope I can count on all of\n　you to help.」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Для нас с Найн она всё равно что\n　родная.」",
+   "orig": "$n\n「To me and Nine here, she is like\n　family.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Банагер",
+   "text": "「Понимаю.\n　Мы с тобой до конца.」",
+   "orig": "Banagher\n「I understand.\n　We're behind you all the way.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Рёма",
+   "text": "「Она нам всем здорово помогла.\n　Нельзя оставлять её вот так.」",
+   "orig": "Ryoma\n「She did help us all out a lot.\n　We can't just leave her like this.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Кодай",
+   "text": "「Спасибо вам всем.」",
+   "orig": "Kodai\n「Thank you, everyone.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Окита",
+   "text": "「Санада, как продвигается управление\n　системным спутником?」",
+   "orig": "Okita\n「Sanada, what's the status on the system satellite\n　controls?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Санада",
+   "text": "「В общих чертах разобрался. Ещё немного\n　времени — и мы сможем им управлять.」",
+   "orig": "Sanada\n「I've got the gist of it. With a little more\n　time, we should be able to control it.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Окита",
+   "text": "「Хорошо. Продолжай.\n　Какие бы испытания нас ни ждали и кто бы ни шёл\n　по нашим следам, нам остаётся только идти вперёд.」",
+   "orig": "Okita\n「Sounds good. Keep at it.\n　No matter what challenges await us or who comes\n　after us, we just have to keep moving forward.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Санада",
+   "text": "「Слушай, Кодай, раз Мори занята этой историей\n　с Мисаки, может, в этот раз сходим вдвоём?」",
+   "orig": "Sanada\n「Hey Kodai, since Mori is dealing with this whole\n　Misaki thing, maybe just the two of us should\n　go this time.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Кодай",
+   "text": "「Принято.」",
+   "orig": "Kodai\n「Roger that.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Содзи",
+   "text": "「Гхх!」",
+   "orig": "Soji\n「Urgh!」"
+  },
+  {
+   "i": 172,
+   "speaker": "$n",
+   "text": "「Содзи!」",
+   "orig": "$n\n「Soji!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Содзи",
+   "text": "「Похоже, это конец!」",
+   "orig": "Soji\n「I guess this is the end!」"
+  },
+  {
+   "i": 174,
+   "speaker": "$n",
+   "text": "「Содзи, стой!」",
+   "orig": "$n\n「Soji, wait!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Содзи",
+   "text": "「Прости, $n.\n　Мне пора.」",
+   "orig": "Soji\n「Sorry, $n.\n　I've gotta go now.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Содзи",
+   "text": "「Мне нужно спасти мир.」",
+   "orig": "Soji\n「I've gotta save the world.」"
+  },
+  {
+   "i": 177,
+   "speaker": "$n",
+   "text": "「Что вообще происходит?!」",
+   "orig": "$n\n「What is happening?!」"
+  },
+  {
+   "i": 178,
+   "speaker": "Найн",
+   "text": "「$n, прошу, сохраняй спокойствие.」",
+   "orig": "Nine\n「$n, please stay calm.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Джудо",
+   "text": "「Видимо, это тот, кто поднялся на «Ямато»\n　вместе с $n.」",
+   "orig": "Judau\n「That must be who boarded the Yamato\n　together with $n.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Майто",
+   "text": "「Содзи остался в измерении AD,\n　чтобы найти своё истинное предназначение.」",
+   "orig": "Maito\n「Soji stayed behind in the AD dimension\n　to try and find his true calling in life.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Синдзи",
+   "text": "「Хочешь сказать, он хотел работать\n　на Гардим?」",
+   "orig": "Shinji\n「Do you mean he wanted to work\n　for Gardim?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Синдзи",
+   "text": "「Хочешь сказать, он хотел работать\n　на Гардим?」",
+   "orig": "Shinji\n「Do you mean he wanted to work\n　for Gardim?」"
+  },
+  {
+   "i": 183,
+   "speaker": "$n",
+   "text": "「Он бы ни за что так не поступил!」",
+   "orig": "$n\n「Surely he would never do that!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Синдзи",
+   "text": "「П-прости, $n, я не это имел в виду.」",
+   "orig": "Shinji\n「S-sorry, $n, I didn't mean it like that.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Синдзи",
+   "text": "「П-прости, $n, я не это имел в виду.」",
+   "orig": "Shinji\n「S-sorry, $n, I didn't mean it like that.」"
+  },
+  {
+   "i": 186,
+   "speaker": "$n",
+   "text": "「Не надо извиняться. Это он виноват, что\n　не сказал мне, чем занимается.」",
+   "orig": "$n\n「You don't have to apologize. It's his\n　fault for not telling me what he's doing.」"
+  },
+  {
+   "i": 187,
+   "speaker": "$n",
+   "text": "「Всё, решено.\n　Я заставлю Содзи рассказать, что у него на уме,\n　даже если придётся вытягивать силой!」",
+   "orig": "$n\n「That's it, I've decided.\n　I'm going to get Soji to tell me exactly\n　what he's thinking, even if I have to force it out!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Хатауэй",
+   "text": "「$n, ты точно этого хочешь?」",
+   "orig": "Hathaway\n「$n, are you sure about that?」"
+  },
+  {
+   "i": 189,
+   "speaker": "$n",
+   "text": "「Но без вашей помощи\n　мне не справиться.」",
+   "orig": "$n\n「I'll need everyone's help\n　for this, though.」"
+  },
+  {
+   "i": 190,
+   "speaker": "$n",
+   "text": "「Ведь Содзи для нас с Найн —\n　всё равно что семья.」",
+   "orig": "$n\n「After all, Soji is like\n　family to Nine and me.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Банагер",
+   "text": "「Понимаю.\n　Мы с тобой до самого конца.」",
+   "orig": "Banagher\n「I understand.\n　We're behind you all the way.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Рёма",
+   "text": "「Он нам здорово помогал.\n　Нельзя бросать его в таком состоянии.」",
+   "orig": "Ryoma\n「He did help us all out a lot.\n　We can't just leave him like this.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Кодай",
+   "text": "「Спасибо вам всем.」",
+   "orig": "Kodai\n「Thank you, everyone.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Окита",
+   "text": "「Санада, как продвигается управление\n　системным спутником?」",
+   "orig": "Okita\n「Sanada, what's the status on the system satellite\n　controls?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Санада",
+   "text": "「В общих чертах разобрался. Ещё немного\n　времени — и мы сможем им управлять.」",
+   "orig": "Sanada\n「I've got the gist of it. With a little more\n　time, we should be able to control it.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Окита",
+   "text": "「Хорошо. Продолжай.\n　Какие бы испытания нас ни ждали и кто бы ни шёл\n　по нашим следам, нам остаётся только идти вперёд.」",
+   "orig": "Okita\n「Sounds good. Keep at it.\n　No matter what challenges await us or who comes\n　after us, we just have to keep moving forward.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Санада",
+   "text": "「Слушай, Кодай, раз Мори занята этой историей\n　с Мисаки, может, в этот раз сходим вдвоём?」",
+   "orig": "Sanada\n「Hey Kodai, since Mori is dealing with this whole\n　Misaki thing, maybe just the two of us should\n　go this time.」"
+  },
+  {
+   "i": 198,
+   "speaker": "Кодай",
+   "text": "「Принято.」",
+   "orig": "Kodai\n「Roger that.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Найн",
+   "text": "「Она сильна!」",
+   "orig": "Nine\n「She's strong!」"
+  },
+  {
+   "i": 200,
+   "speaker": "$n",
+   "text": "「Не знаю, её ли это мастерство или\n　инженеры Гардима постарались, но это\n　просто невероятно!」",
+   "orig": "$n\n「I don't know if it's her skill or\n　Gardim's mech engineering, but this\n　is unreal!」"
+  },
+  {
+   "i": 201,
+   "speaker": "Найн",
+   "text": "「Эта «Мадивия Дегг» мощнее\n　даже машины Джейми.」",
+   "orig": "Nine\n「That Madivia Degg is more powerful than\n　even Jamie's unit.」"
+  },
+  {
+   "i": 202,
+   "speaker": "$n",
+   "text": "「Её и правда создавали специально\n　для боя против $r!」",
+   "orig": "$n\n「It must really have been designed specifically\n　for combat against the $r!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Найн",
+   "text": "「Не хочется признавать, но их характеристики\n　намного превосходят наши.」",
+   "orig": "Nine\n「As much as I hate to say it, their specs\n　far exceed our own.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Титосэ",
+   "text": "「Я... должна победить.」",
+   "orig": "Chitose\n「I... have to win.」"
+  },
+  {
+   "i": 205,
+   "speaker": "$n",
+   "text": "「Вижу, ты всё такая же серьёзная!」",
+   "orig": "$n\n「I see you're just as serious as ever!」"
+  },
+  {
+   "i": 206,
+   "speaker": "$n",
+   "text": "「Но спустить тебе это с рук я не могу.\n　Я собью тебя — прямо здесь,\n　в этом самом бою!」",
+   "orig": "$n\n「I can't just let you get away with\n　this you know. I'm going to shoot you down\n　and in this fight right now!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Найн",
+   "text": "「Он силён!」",
+   "orig": "Nine\n「He's strong!」"
+  },
+  {
+   "i": 208,
+   "speaker": "$n",
+   "text": "「К его собственному мастерству добавились\n　высокие характеристики машины Гардима.」",
+   "orig": "$n\n「He does have the superior capabilities of\n　Gardim's mech on top of his own skills.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Найн",
+   "text": "「Эта «Мадивия Дегг» мощнее\n　даже машины Джейми.」",
+   "orig": "Nine\n「That Madivia Degg is more powerful than\n　even Jamie's unit.」"
+  },
+  {
+   "i": 210,
+   "speaker": "$n",
+   "text": "「Её и правда создавали специально\n　для боя против $r!」",
+   "orig": "$n\n「It must really have been designed specifically\n　for combat against the $r!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Найн",
+   "text": "「Не хочется признавать, но их характеристики\n　намного превосходят наши.」",
+   "orig": "Nine\n「As much as I hate to say it, their specs\n　far exceed our own.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Содзи",
+   "text": "「Именно так, $n.\n　Сдавайся, пока ещё можешь.」",
+   "orig": "Soji\n「That's exactly right, $n.\n　Just give up while you still can.」"
+  },
+  {
+   "i": 213,
+   "speaker": "$n",
+   "text": "「Ни за что. Знаешь, мы с Найн\n　здорово выросли.」",
+   "orig": "$n\n「No way. You see, both Nine and I\n　have really grown a lot.」"
+  },
+  {
+   "i": 214,
+   "speaker": "$n",
+   "text": "「Так что проигрывать я не собираюсь.\n　У тебя есть причина не отступать — и у меня\n　есть свои причины не уступать тебе!」",
+   "orig": "$n\n「So there's no way I'm going to lose.\n　Just like you have a reason for not backing down,\n　I also have my reasons for not giving in to you!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Домель",
+   "text": "（Посмотрим, на что способен капитан «Ямато»,\n　человек, одолевший Вальке Шульца.）",
+   "orig": "Domel\n（Let's see what Yamato's commander, the man who\n　defeated Walke Shultz, can really do.）"
+  },
+  {
+   "i": 216,
+   "speaker": "Окита",
+   "text": "（Крайне рискованная тактика для такого хладнокровного\n　человека. Передо мной одарённый командир.）",
+   "orig": "Okita\n（These are some extreme tactics for someone so calm and\n　collected. This is a gifted commander I'm dealing with.）"
+  },
+  {
+   "i": 217,
+   "speaker": "Окита",
+   "text": "（Но если я не одолею его, нам не добраться\n　до Искандара. Отступать и сдаваться нельзя —\n　мы обязаны победить!）",
+   "orig": "Okita\n（But if I can't defeat him, we won't be able to\n　make it to Iscandar. We cannot retreat or surrender,\n　we have to win!）"
+  },
+  {
+   "i": 218,
+   "speaker": "Домель",
+   "text": "（Дело не только в капитане «Ямато». Флотом терронцев\n　командует немало одарённых людей.）",
+   "orig": "Domel\n（It's not only the Yamato's commander. The Terron fleet\n　is guided by many gifted commanders.）"
+  },
+  {
+   "i": 219,
+   "speaker": "Брайт",
+   "text": "「Хм.」",
+   "orig": "Bright\n「Hmm.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Меран",
+   "text": "「Капитан?」",
+   "orig": "Meran\n「Commander?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Брайт",
+   "text": "「В нашем мире редко выпадает случай\n　участвовать в таком крупном космическом сражении.」",
+   "orig": "Bright\n「In our world we rarely have the chance to\n　fight in large-scale space battles like this.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Брайт",
+   "text": "「Похоже, для первого боя в этом океане космоса\n　нам достался весьма сильный противник.」",
+   "orig": "Bright\n「It seems as though we have chosen a strong enemy\n　for our first battle in this sea of space.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Отто",
+   "text": "「Проклятье! Гамиласцы отлично вышколены для таких\n　космических боёв. В лобовой схватке мы всегда\n　будем в проигрыше!」",
+   "orig": "Otto\n「Argh! The Gamillans are well-trained in space\n　battles like this. We're always going to be at a\n　disadvantage if we take them head on!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Лиам",
+   "text": "「Держать дистанцию, капитан?」",
+   "orig": "Liam\n「Shall I keep our distance, Captain?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Отто",
+   "text": "「Бесполезно! Отойдём — они просто\n　пойдут следом! Остаётся только\n　держать позицию!」",
+   "orig": "Otto\n「It's no use! Even if we fall back they'll\n　just advance on us! We just have to try\n　and hold our ground!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Домель",
+   "text": "（Похоже, у них есть корабли, заточенные\n　под разные задачи.）",
+   "orig": "Domel\n（It seems they have specialized vessels\n　for different strategies.）"
+  },
+  {
+   "i": 227,
+   "speaker": "Юрика",
+   "text": "「Вражеский флагман невероятно силён!」",
+   "orig": "Yurika\n「The enemy flagship is extremely powerful!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Рури",
+   "text": "「Роль «Надэсико» — не артиллерийские дуэли.\n　По обстановке можем и отступить.」",
+   "orig": "Ruri\n「The Nadesico's role is not for gun battles.\n　We may retreat depending on the situation.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Харри",
+   "text": "「Принято!」",
+   "orig": "Harry\n「Roger that!」"
+  },
+  {
+   "i": 230,
+   "speaker": "$n",
+   "text": "「Ты это серьёзно, Титосэ?」",
+   "orig": "$n\n「Are you serious about this, Chitose?」"
+  },
+  {
+   "i": 231,
+   "speaker": "Титосэ",
+   "text": "「Хм.」",
+   "orig": "Chitose\n「Hmm.」"
+  },
+  {
+   "i": 232,
+   "speaker": "$n",
+   "text": "「Могла бы хоть что-нибудь сказать — от Найн ответа\n　не дождёшься! Что у тебя на уме, в конце концов?」",
+   "orig": "$n\n「You could at least say something since I know Nine\n　isn't going to talk! What's going through your head?」"
+  },
+  {
+   "i": 233,
+   "speaker": "Титосэ",
+   "text": "「Эту «Мадивию Дегг» не победить —\n　даже $n это не под силу.」",
+   "orig": "Chitose\n「This Madivia Degg cannot be defeated,\n　even by $n.」"
+  },
+  {
+   "i": 234,
+   "speaker": "$n",
+   "text": "「Ну, это мы ещё посмотрим!\n　Я прямо сейчас с этим покончу!」",
+   "orig": "$n\n「Yeah well we'll see about that!\n　I'm about to end this right now!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Титосэ",
+   "text": "（Прошу, не дай себя обмануть, $n.\n　Не забывай про Искандар.）",
+   "orig": "Chitose\n（Please don't be fooled, $n.\n　Don't forget about Iscandar.）"
+  },
+  {
+   "i": 236,
+   "speaker": "Тобиа",
+   "text": "「Титосэ, тебя что,\n　взяли под контроль?!」",
+   "orig": "Tobia\n「Chitose, are you\n　being controlled by them?!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Титосэ",
+   "text": "「Я...」",
+   "orig": "Chitose\n「I'm...」"
+  },
+  {
+   "i": 238,
+   "speaker": "Тобиа",
+   "text": "「Не можешь говорить — и ладно!\n　Но сперва мы остановим эту машину!」",
+   "orig": "Tobia\n「If you can't talk about it, that's fine!\n　But first, we're stopping that mech!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Кинкейд",
+   "text": "「Титосэ, прекрати! Есть хоть какая-то\n　причина, по которой тебе нужно драться?」",
+   "orig": "Kincade\n「Chitose, stop it! Is there\n　some reason why you have to fight?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Титосэ",
+   "text": "「Прости меня, Кинкейд!」",
+   "orig": "Chitose\n「I'm sorry, Kincade!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Кинкейд",
+   "text": "「Чёрт! Похоже, она и правда\n　действует по своей воле!」",
+   "orig": "Kincade\n「Damn! It seems like she actually\n　is acting on her own will!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Рёма",
+   "text": "「Ты ведь знаешь, что в бою я поблажек\n　не даю, Титосэ?」",
+   "orig": "Ryoma\n「You know I'm not the type to go easy\n　in a fight, don't you Chitose?」"
+  },
+  {
+   "i": 243,
+   "speaker": "Титосэ",
+   "text": "「З-знаю!」",
+   "orig": "Chitose\n「I-I know!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Рёма",
+   "text": "「Думаешь, я проиграю тому, у кого голос дрожит\n　от страха? Я вытащу тебя из этой кабины\n　и приведу в чувство!」",
+   "orig": "Ryoma\n「You think I'm going to lose to someone who sounds\n　as scared as you do? I'm gonna drag you out of that\n　cockpit and bring you to your senses!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Тэцуя",
+   "text": "「Что именно ты скрываешь?」",
+   "orig": "Tetsuya\n「What exactly are you hiding?」"
+  },
+  {
+   "i": 246,
+   "speaker": "Титосэ",
+   "text": "「Я ничего не скрываю!」",
+   "orig": "Chitose\n「I'm not hiding anything!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Тэцуя",
+   "text": "「Я и сам знаю, каково это — что-то скрывать.\n　И вижу, когда то же самое делает другой.」",
+   "orig": "Tetsuya\n「I know what it's like to hide things.\n　I can tell when someone's doing the same.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Титосэ",
+   "text": "「Нет, я...」",
+   "orig": "Chitose\n「No, I...」"
+  },
+  {
+   "i": 249,
+   "speaker": "Тэцуя",
+   "text": "「Если не можешь сказать сама, придётся\n　вытянуть это из тебя силой!」",
+   "orig": "Tetsuya\n「If you can't talk about it then I'll just have to\n　force it out of you!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Вельт",
+   "text": "「Титосэ, просто скажи, зачем ты это\n　делаешь. У меня есть свои догадки,\n　но я хочу услышать от тебя.」",
+   "orig": "Velt\n「Chitose, just tell me why you're\n　doing this. I have my own ideas, but I just\n　want to hear it from you.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Титосэ",
+   "text": "「Мне нечего тебе сказать, Вельт.」",
+   "orig": "Chitose\n「I have nothing to say to you, Velt.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Вельт",
+   "text": "「Что ж, очень жаль.\n　При всём моём уважении к тебе\n　теперь ты для меня просто враг.」",
+   "orig": "Velt\n「Well then that's too bad.\n　As much respect as I have for you,\n　now you are simply my enemy.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Лотти",
+   "text": "「Титосэ, ты что творишь?\n　Это вообще не круто, знаешь ли!」",
+   "orig": "Lottie\n「What are you doing Chitose?\n　This is very not cool, you know!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Титосэ",
+   "text": "「Я здесь не в игры играю.」",
+   "orig": "Chitose\n「I'm not playing around here.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Лотти",
+   "text": "「Ладно, тогда готовься к бою!\n　Если я выиграю, ты расскажешь мне всё\n　как есть — зачем ты это делаешь!」",
+   "orig": "Lottie\n「Fine, then prepare yourself for a fight!\n　If I win, you have to tell me exactly\n　why you're doing this!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Кодай",
+   "text": "「Хм.」",
+   "orig": "Kodai\n「Hmm.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Окита",
+   "text": "「Не упускай из виду свою задачу.\n　Сейчас твоё дело — защищать «Ямато».」",
+   "orig": "Okita\n「Don't lose sight of the task at hand.\n　Your only job now is to protect the Yamato.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Кодай",
+   "text": "「Есть.」",
+   "orig": "Kodai\n「Roger.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Окита",
+   "text": "（Кисараги,\n　что же с тобой случилось?）",
+   "orig": "Okita\n（Kisaragi,\n　what's happened to you?）"
+  },
+  {
+   "i": 260,
+   "speaker": "$n",
+   "text": "「Ты правда серьёзно?\n　Это уже слишком, даже\n　для твоих выходок!」",
+   "orig": "$n\n「Are you really serious?\n　This has gone too far, even\n　for one of your pranks!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Содзи",
+   "text": "「Я серьёзно.」",
+   "orig": "Soji\n「I'm serious.」"
+  },
+  {
+   "i": 262,
+   "speaker": "$n",
+   "text": "「Вижу, говорить ты по-прежнему не хочешь.\n　Что ж, тогда у меня есть своя мысль!」",
+   "orig": "$n\n「I see you still don't want to talk about it.\n　Well then, I have my own idea!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Содзи",
+   "text": "「Зря тратишь время, $n.\n　Эта «Мадивия Дегг» намного\n　превосходит твою машину.」",
+   "orig": "Soji\n「You're wasting your time, $n.\n　This Madivia Degg is far superior\n　to your unit.」"
+  },
+  {
+   "i": 264,
+   "speaker": "$n",
+   "text": "「Это ещё ничего не значит!\n　Если я выиграю, ты расскажешь мне всё\n　как есть — что ты задумал!」",
+   "orig": "$n\n「That doesn't mean anything!\n　If I win, you are going to tell me\n　exactly what you're up to!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Содзи",
+   "text": "「Стоит тебе на чём-то зациклиться — и ни о чём\n　другом уже думать не можешь. Как всегда.」",
+   "orig": "Soji\n「Once you set your mind to something you can't\n　think about anything else, as usual.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Содзи",
+   "text": "（Не дай себя обмануть, $n.\n　Не забывай про Искандар.）",
+   "orig": "Soji\n（Don't be fooled, $n.\n　Don't forget about Iscandar.）"
+  },
+  {
+   "i": 267,
+   "speaker": "Тобиа",
+   "text": "「Содзи,\n　тебя что, взяли под контроль?」",
+   "orig": "Tobia\n「Soji,\n　are you being controlled by the enemy?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Содзи",
+   "text": "「Если тебе так удобнее думать — думай.」",
+   "orig": "Soji\n「If that's what you want to think, be my guest.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Тобиа",
+   "text": "「Думаешь, я просто спущу тебе это с рук?\n　Для начала я остановлю этого робота!」",
+   "orig": "Tobia\n「You really think I'm just going to let you get away\n　with this? First I'm going to shut down that robot!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Кинкейд",
+   "text": "「Содзи, прекрати!\n　Есть хоть какая-то причина драться с нами?」",
+   "orig": "Kincade\n「Soji, stop this!\n　Is there some reason why you have to fight us?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Содзи",
+   "text": "「Есть.」",
+   "orig": "Soji\n「Yes.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Кинкейд",
+   "text": "「Чёрт! Похоже, он и правда\n　действует по своей воле!」",
+   "orig": "Kincade\n「Damn! It seems like he actually\n　is acting on his own will!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Рёма",
+   "text": "「Ты ведь знаешь, что в бою я поблажек\n　не даю, Содзи?」",
+   "orig": "Ryoma\n「You know I'm not the type to go easy\n　in a fight, don't you Soji?」"
+  },
+  {
+   "i": 274,
+   "speaker": "Содзи",
+   "text": "「Если думаешь, что меня и эту «Мадивию Дегг»\n　так легко одолеть, тебя ждёт сюрприз.」",
+   "orig": "Soji\n「If you think I and this Madivia Degg can be\n　defeated that easily, you're in for a surprise.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Рёма",
+   "text": "「Тогда будет весело! Я одолею и тебя, и эту\n　игрушку, которой ты так гордишься, а потом\n　своими руками вытащу тебя из кабины!」",
+   "orig": "Ryoma\n「This should be fun, then! I'll defeat you and\n　that little toy of yours that you're so proud of\n　and drag you out of the cockpit myself!」"
+  },
+  {
+   "i": 276,
+   "speaker": "Тэцуя",
+   "text": "「Что ты скрываешь, Содзи?」",
+   "orig": "Tetsuya\n「What are you hiding, Soji?」"
+  },
+  {
+   "i": 277,
+   "speaker": "Содзи",
+   "text": "「Ничего.」",
+   "orig": "Soji\n「Nothing.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Тэцуя",
+   "text": "「Я и сам знаю, каково это — что-то скрывать.\n　И вижу, когда то же самое делает другой.」",
+   "orig": "Tetsuya\n「I know what it's like to hide things.\n　I can tell when someone's doing the same.」"
+  },
+  {
+   "i": 279,
+   "speaker": "Содзи",
+   "text": "「Мне нечего тебе сказать.」",
+   "orig": "Soji\n「I have nothing to say to you.」"
+  },
+  {
+   "i": 280,
+   "speaker": "Тэцуя",
+   "text": "「Не хочешь говорить — придётся\n　вытянуть это из тебя силой!」",
+   "orig": "Tetsuya\n「If you won't talk about it then I'll just have to\n　force it out of you!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Вельт",
+   "text": "「Прошу, просто скажи, зачем ты это делаешь.\n　У меня есть свои догадки,\n　но я хочу услышать от тебя.」",
+   "orig": "Velt\n「Please, just tell me why you're doing this.\n　I have my own ideas, but I just\n　want to hear it from you.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Содзи",
+   "text": "「Прости, Вельт. Есть причина,\n　по которой я не могу об этом говорить.」",
+   "orig": "Soji\n「Sorry, Velt. There's a reason\n　why I can't talk about it.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Вельт",
+   "text": "「Что ж, очень жаль.\n　При всём моём уважении к тебе\n　теперь ты для меня просто враг.」",
+   "orig": "Velt\n「Well then that's too bad.\n　As much respect as I have for you,\n　now you are simply my enemy.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Лотти",
+   "text": "「Содзи, ты что творишь?\n　Это вообще не круто, знаешь ли!」",
+   "orig": "Lottie\n「What are you doing, Soji?\n　This is very not cool, you know!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Содзи",
+   "text": "「Извини, но я делаю это вовсе не затем,\n　чтобы выглядеть круто.」",
+   "orig": "Soji\n「Sorry, but I'm not exactly doing this to\n　be cool.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Лотти",
+   "text": "「Ладно, тогда готовься к бою!\n　Если я выиграю, ты расскажешь мне всё\n　как есть — зачем ты это делаешь!」",
+   "orig": "Lottie\n「Fine, then prepare yourself for a fight!\n　If I win, you have to tell me exactly\n　why you're doing this!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Кодай",
+   "text": "「Хм.」",
+   "orig": "Kodai\n「Hmm.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Окита",
+   "text": "「Не упускай из виду свою задачу.\n　Сейчас твоё дело — защищать «Ямато».」",
+   "orig": "Okita\n「Don't lose sight of the task at hand.\n　Your only job now is to protect the Yamato.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Кодай",
+   "text": "「Есть.」",
+   "orig": "Kodai\n「Roger.」"
+  },
+  {
+   "i": 290,
+   "speaker": "Окита",
+   "text": "（Муракумо,\n　что же с тобой случилось?）",
+   "orig": "Okita\n（Murakumo,\n　what's happened to you?）"
+  },
+  {
+   "i": 291,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Agh!」"
+  }
+ ]
+}

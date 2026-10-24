@@ -1,0 +1,1882 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Аналитический отсек «Ямато»-",
+   "orig": "　\n　　\n　　　　　　-Yamato Technical Analysis Room-"
+  },
+  {
+   "i": 4,
+   "speaker": "Анализатор",
+   "text": "「Анализ данных по андроиду, проникшему\n　в двигательный отсек «Ямато», завершён.」",
+   "orig": "Analyzer\n「Analysis of the data on the android which\n　infiltrated Yamato Engine is complete.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Санада",
+   "text": "「По устройству он очень похож на гамилоидов.」",
+   "orig": "Sanada\n「Its design is really similar to the Gamiloids'.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Кирю",
+   "text": "「Думаете, Гамилас прислал его сюда,\n　чтобы украсть волновой двигатель?」",
+   "orig": "Kiryu\n「Do you think Gamillas sent it here to \n　steal the wave motion engine?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Санада",
+   "text": "「Исключать нельзя, но никаких сведений\n　об активности Гамиласа в этом районе у нас нет.」",
+   "orig": "Sanada\n「It's not out of the question, but we haven't\n　had any news of Gamillas activity in the area.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Ниими",
+   "text": "「Инженер Токугава и Найн говорят,\n　что этот андроид знал про\n　волновой двигатель.」",
+   "orig": "Niimi\n「Engineering Officer Tokugawa and Nine said\n　this android knew about the \n　wave motion engine.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Санада",
+   "text": "「Значит, если это не Гамилас, то\n　на двигатель — и на нас —\n　положил глаз кто-то ещё.」",
+   "orig": "Sanada\n「So if it isn't Gamillas, then that means\n　someone else has their eye on it,\n　and on us.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Санада",
+   "text": "「В каком состоянии сейчас волновой двигатель?」",
+   "orig": "Sanada\n「What's the status of the wave motion engine now?」"
+  },
+  {
+   "i": 11,
+   "speaker": "Анализатор",
+   "text": "「До восстановления мощности пройдёт ещё время.」",
+   "orig": "Analyzer\n「It will be some time before it regains power.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Ниими",
+   "text": "「Найн говорит, что вражеский андроид\n　влез в управляющую программу двигателя —\n　из-за этого он и потерял мощность.」",
+   "orig": "Niimi\n「Nine says that the enemy android\n　hacked into the engine's control program,\n　and that's what caused it to lose power.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Санада",
+   "text": "「Ясно.」",
+   "orig": "Sanada\n「I see.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Санада",
+   "text": "（Найн и этот андроид...\n　мне кажется, между ними есть какая-то связь.）",
+   "orig": "Sanada\n（Nine and this android,\n　I feel like they're connected, somehow.）"
+  },
+  {
+   "i": 15,
+   "speaker": "Санада",
+   "text": "（Технологии разные, да и внешне\n　ничего общего, но что-то в них наводит на мысль,\n　что выросли они из одной идеи.）",
+   "orig": "Sanada\n（They don't use the same technology, or even \n　look the same, but something about them feels like\n　they come from the same idea.）"
+  },
+  {
+   "i": 16,
+   "speaker": "Санада",
+   "text": "（Найн мыслит свободно, впитывает новые идеи\n　и даже способна создавать новое.）",
+   "orig": "Sanada\n（Nine can think so freely, and absorb new ideas, \n　and she's even able to create new things.）"
+  },
+  {
+   "i": 17,
+   "speaker": "Санада",
+   "text": "（Кто же она такая на самом деле?）",
+   "orig": "Sanada\n（What is she, really?）"
+  },
+  {
+   "i": 21,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　-Ангар «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Hangar-"
+  },
+  {
+   "i": 22,
+   "speaker": "Найн",
+   "text": "「Хм-м...」",
+   "orig": "Nine\n「Hmm...」"
+  },
+  {
+   "i": 23,
+   "speaker": "$n",
+   "text": "「О, Найн!\n　Мы все собираемся пить чай.\n　Давай с нами!」",
+   "orig": "$n\n「Oh, Nine!\n　We're all going to have tea.\n　Why don't you come!」"
+  },
+  {
+   "i": 24,
+   "speaker": "$n",
+   "text": "「Там одни девчонки, а я ведь знаю,\n　как ты любишь девичьи разговоры!」",
+   "orig": "$n\n「It's just us girls, and I know\n　how much you like girl talk!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Найн",
+   "text": "「Прости.\n　Мне сейчас нужно кое-что сделать.」",
+   "orig": "Nine\n「I'm sorry.\n　There's something I need to do right now.」"
+  },
+  {
+   "i": 26,
+   "speaker": "$n",
+   "text": "「Найн?」",
+   "orig": "$n\n「Nine?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Анж",
+   "text": "「Похоже, твоя шуточка не сработала...」",
+   "orig": "Ange\n「It looks like all your little joke misfired...」"
+  },
+  {
+   "i": 28,
+   "speaker": "$n",
+   "text": "「В последнее время Найн словно не в духе.\n　Вот я и думаю: может, получится её подбодрить.」",
+   "orig": "$n\n「Lately Nine hasn't seemed very happy.\n　I thought maybe I could cheer her up.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Розали",
+   "text": "「А знаешь, она и правда\n　последнее время сама не своя.」",
+   "orig": "Rosalie\n「You know, she has been\n　a little off lately.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Хильда",
+   "text": "「Она всё смотрит на данные «Вангрэя»\n　с тех самых пор, как вы вернулись с того боя.」",
+   "orig": "Hilda\n「She's been staring at the VangRay's data \n　ever since you got back from that last fight.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Момока",
+   "text": "「Найн слишком много работает!\n　После боя она тут же снова помогает в ангаре.」",
+   "orig": "Momoka\n「Nine works too hard!\n　After a fight she goes right back to helping out here.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Анж",
+   "text": "「А в прошлом бою\n　$n и вовсе не давал ей передышки.」",
+   "orig": "Ange\n「And in that last battle \n　$n kept her really busy.」"
+  },
+  {
+   "i": 33,
+   "speaker": "$n",
+   "text": "「Мне из-за этого неловко.」",
+   "orig": "$n\n「I feel bad about that.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Анж",
+   "text": "「А чего, собственно, неловко?」",
+   "orig": "Ange\n「But, why should you?」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「А?」",
+   "orig": "$n\n「Huh?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Момока",
+   "text": "「Вот именно.\n　Найн, похоже, только рада\n　о тебе заботиться, $n.」",
+   "orig": "Momoka\n「That's right.\n　Nine seems happy to look\n　after you, $n.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Хильда",
+   "text": "「Прямо как Момока заботится об Анж.\n　Обе такие довольные!」",
+   "orig": "Hilda\n「It's like how Momoka takes care of Ange.\n　They seem so happy!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Момока",
+   "text": "「Если вам угодно, может быть,\n　вы тоже поможете ухаживать за леди Анжелизой?」",
+   "orig": "Momoka\n「If it pleases you, perhaps\n　you would also like to help care for Lady Angelise?」"
+  },
+  {
+   "i": 39,
+   "speaker": "Хильда",
+   "text": "「П-почему я?!」",
+   "orig": "Hilda\n「W-why me?!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Розали",
+   "text": "「Хильда, у тебя всё лицо\n　красное. У тебя жар?」",
+   "orig": "Rosalie\n「Hilda, your face\n　is all red. Do you have a fever?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Хильда",
+   "text": "「Я в порядке! Не обращай внимания!」",
+   "orig": "Hilda\n「I'm fine! Don't mind me!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Мао",
+   "text": "（Девичьи разговоры — это ладно, но вся эта\n　чепуха только сбила бы Найн с толку.）",
+   "orig": "Mao\n（Girl's talk is one thing, all of this\n　nonsense would only have confused Nine.）"
+  },
+  {
+   "i": 43,
+   "speaker": "Хикару",
+   "text": "（Ох, батюшки. Цветы запретной любви в полном цвету!）",
+   "orig": "Hikaru\n（Oh my. The flowers of forbidden love are in full bloom!）"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「Так из-за чего, по-вашему, Найн переживает?」",
+   "orig": "$n\n「So, what do you think Nine's worried about?」"
+  },
+  {
+   "i": 45,
+   "speaker": "Рёко",
+   "text": "「Может, из-за «Вангрэя»?\n　Он ведь совсем плох, да?」",
+   "orig": "Ryoko\n「Could it be because of VangRay?\n　It's in pretty bad shape, right?」"
+  },
+  {
+   "i": 46,
+   "speaker": "Розали",
+   "text": "「А что с ним не так, $n?」",
+   "orig": "Rosalie\n「What's wrong with it, $n?」"
+  },
+  {
+   "i": 47,
+   "speaker": "$n",
+   "text": "「Ну, «Вангрэй» ведь всего лишь прототип,\n　толком испытаний он так и не прошёл.\n　Кое-где он уже начинает сдавать.」",
+   "orig": "$n\n「Well, I think VangRay was just a prototype, \n　and it never really got enough testing.\n　It's starting to wear out in a few places.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Хикару",
+   "text": "「А тебе не кажется, что ты\n　слишком его загоняешь, $n?」",
+   "orig": "Hikaru\n「And don't you think you push it \n　a little too hard, $n?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Идзуми",
+   "text": "「Раз это прототип, слабые места неизбежны.」",
+   "orig": "Izumi\n「If it's a prototype, it's bound to have weak spots.」"
+  },
+  {
+   "i": 50,
+   "speaker": "$n",
+   "text": "「Наверное, стоит быть поосторожнее.」",
+   "orig": "$n\n「I guess I should be more careful.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Элль",
+   "text": "「Как-то на тебя не похоже —\n　так себя накручивать, $n.」",
+   "orig": "Elle\n「It's not really like you to get so\n　down on yourself, $n.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Ру",
+   "text": "「Вот именно!\n　Ты ведь вроде бы собирался\n　подбодрить Найн, $n?」",
+   "orig": "Roux\n「That's right!\n　Aren't you supposed to be\n　cheering Nine up, $n?」"
+  },
+  {
+   "i": 53,
+   "speaker": "$n",
+   "text": "「И правда!\n　Сейчас не время грустить.」",
+   "orig": "$n\n「That's right!\n　This is no time to be sad.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Вивиан",
+   "text": "「Тогда — викторина!\n　Куда подевалась Найн?」",
+   "orig": "Vivian\n「OK then, quiz time!\n　Where has Nine gone to?」"
+  },
+  {
+   "i": 55,
+   "speaker": "$n",
+   "text": "「О, расскажи нам, Вивиан!」",
+   "orig": "$n\n「Oh, tell us, Vivian!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Вивиан",
+   "text": "「Неверный ответ!\n　Я и сама не знаю.」",
+   "orig": "Vivian\n「Wrong answer!\n　I don't know, either.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Лунамария",
+   "text": "「Ну, в последнее время я часто вижу,\n　как Найн подолгу разговаривает\n　с Иэном и Чаном.」",
+   "orig": "Lunamaria\n「OK, well, lately I see \n　Nine talking to Ian\n　and Chan a lot.」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "「Она помогает им с обслуживанием?」",
+   "orig": "$n\n「Has she been helping them out with maintenance?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Лунамария",
+   "text": "「Вот этого уже не знаю.」",
+   "orig": "Lunamaria\n「That much I don't know.」"
+  },
+  {
+   "i": 60,
+   "speaker": "$n",
+   "text": "「Похоже, я знаю Найн\n　не так хорошо, как мне казалось...」",
+   "orig": "$n\n「I guess I don't know\n　Nine as well as I thought...」"
+  },
+  {
+   "i": 61,
+   "speaker": "Ямамото",
+   "text": "「У тебя есть дело, прежде чем снова вешать нос.」",
+   "orig": "Yamamoto\n「You've got a job to do before you get all down again.」"
+  },
+  {
+   "i": 62,
+   "speaker": "$n",
+   "text": "「Точно.\n　Ладно, пойду!」",
+   "orig": "$n\n「Right.\n　OK, I'd better go!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Мельда",
+   "text": "「Я тоже за неё переживаю.\n　Помогу тебе.」",
+   "orig": "Melda\n「I'm worried about her, too.\n　I'll give you a hand.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Ямамото",
+   "text": "「Да это, вообще-то, касается всех нас!」",
+   "orig": "Yamamoto\n「Well, the same goes for all of us!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Мари",
+   "text": "「Хотя вопросы она иногда задаёт непростые.」",
+   "orig": "Marie\n「Although she does ask some tough questions, sometimes.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Бернадетт",
+   "text": "「Мы ведь все хотим снова увидеть Найн\n　весёлой, правда?」",
+   "orig": "Bernadette\n「Of course we all want to see Nine happy\n　again, don't we?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Рури",
+   "text": "「Мы на тебя рассчитываем, $n!\n　Это крайне важное задание!」",
+   "orig": "Ruri\n「We're counting on you, $n!\n　This a vital mission!」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Так точно!\n　Ещё увидимся.」",
+   "orig": "$n\n「Yes Ma'am!\n　See you all later.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Пуру",
+   "text": "「Удачи, $n!」",
+   "orig": "Ple\n「Good luck, $n!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Пуру Два",
+   "text": "「Очень надеюсь, что Найн удастся подбодрить.」",
+   "orig": "Ple Two\n「I sure hope she can help Nine cheer up.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Саламандинай",
+   "text": "「Хм-м-м...」",
+   "orig": "Salamandinay\n「Hmmm...」"
+  },
+  {
+   "i": 72,
+   "speaker": "Анж",
+   "text": "「Что такое, Сала?」",
+   "orig": "Ange\n「What's wrong, Sala?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Саламандинай",
+   "text": "「Мы зовём Найн девушкой, но ведь она машина.」",
+   "orig": "Salamandinay\n「So, we call Nine a girl, but she is a machine.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Хильда",
+   "text": "「И к чему ты клонишь?」",
+   "orig": "Hilda\n「What are you trying to say?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Нага",
+   "text": "「Значит, и принцессу берут сомнения...」",
+   "orig": "Naga\n「So the princess also has her doubts...」"
+  },
+  {
+   "i": 76,
+   "speaker": "Канамэ",
+   "text": "「Живя в этом отряде, мы все\n　как-то забываем об этом факте.」",
+   "orig": "Kaname\n「We all seem to forget that \n　fact, being part of this unit.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Саламандинай",
+   "text": "「Машины созданы служить людям.\n　Разве не естественно, что она\n　так много работает?」",
+   "orig": "Salamandinay\n「Machines are supposed to serve humans.\n　It's only natural for her to be\n　working hard, right?」"
+  },
+  {
+   "i": 78,
+   "speaker": "Мельда",
+   "text": "「Я поначалу тоже так думала.」",
+   "orig": "Melda\n「I thought so too, at first.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Мельда",
+   "text": "「Но такое разделение, такая вот сортировка\n　здесь попросту не работает.」",
+   "orig": "Melda\n「But that kind of separation, that discrimination,\n　it doesn't really work here.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Ямамото",
+   "text": "「Верно.\n　С Мельдой мы все обращаемся\n　как со всеми остальными.」",
+   "orig": "Yamamoto\n「Right.\n　We all treat Melda like\n　everyone else.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Анж",
+   "text": "「Да и у вас, Сала, у всех хвосты,\n　но всем на это плевать, разве нет?」",
+   "orig": "Ange\n「And Sala, you guys all have tails\n　but no one cares about that, right?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Момока",
+   "text": "「И Найн тут не единственная машина.\n　Отряд «Брейв Экспресс» и Ал — тоже наши друзья!」",
+   "orig": "Momoka\n「Nine isn't the only machine around, either.\n　The Brave Express Corps and Al are our friends too!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Саламандинай",
+   "text": "「Пожалуй, в этом есть смысл.」",
+   "orig": "Salamandinay\n「I guess you have a point.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Анж",
+   "text": "「Да и вообще, недавно ты\n　прекрасно ладила с Найн, Сала.」",
+   "orig": "Ange\n「And you know, earlier you were\n　getting along just fine with Nine, Sala.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Саламандинай",
+   "text": "「Хе-хе.」",
+   "orig": "Salamandinay\n「Hehe.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Анж",
+   "text": "「И что тут смешного?」",
+   "orig": "Ange\n「What's so funny?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Саламандинай",
+   "text": "「По правде, она очаровала меня,\n　и теперь я одна из её сообщниц!」",
+   "orig": "Salamandinay\n「Actually, she won me over with her charms,\n　and now I'm one of her collaborators!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Анж",
+   "text": "「Сообщниц?」",
+   "orig": "Ange\n「Collaborator?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Саламандинай",
+   "text": "「Больше я ничего сказать не могу.」",
+   "orig": "Salamandinay\n「I can't really say anything more about it.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Ямамото",
+   "text": "「Похоже, принцесса драконов\n　такая же, как и все мы!」",
+   "orig": "Yamamoto\n「So it looks like the dragon princess\n　is just like the rest of us!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Хильда",
+   "text": "「Здесь неважно, человек ты,\n　Норма, инопланетянин или машина.」",
+   "orig": "Hilda\n「When you're here, it doesn't matter if you're human,\n　Norma, Extra Terrestrial, or machine.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Анж",
+   "text": "「И это к лучшему.\n　Так и должно быть!」",
+   "orig": "Ange\n「And that's best.\n　It's only natural!」"
+  },
+  {
+   "i": 96,
+   "speaker": "　",
+   "text": "　　\n　　　　　-Близ Института фотонной энергии-",
+   "orig": "　\n　　\n　　　-Near the Photonic Power Research Institute-"
+  },
+  {
+   "i": 97,
+   "speaker": "Найн",
+   "text": "「Хм-м-м...」",
+   "orig": "Nine\n「Hmmm...」"
+  },
+  {
+   "i": 98,
+   "speaker": "$n",
+   "text": "「Вот ты где!」",
+   "orig": "$n\n「There you are!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Найн",
+   "text": "「Сестрица.」",
+   "orig": "Nine\n「Sis.」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Пока я тебя искала, мне все наперебой\n　рассказывали, как усердно ты работаешь.\n　Я была поражена!」",
+   "orig": "$n\n「While I was looking for you, people kept \n　telling me how hard you were working.\n　It was so surprising!」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「Инженер Токугава, старпом Санада, Астонейдж,\n　даже мастер Урибатакэ и тот парень, Иэн.\n　Все от тебя в полном восторге.」",
+   "orig": "$n\n「Engineering Officer Tokugawa, XO Sanada, Astonage,\n　even Master Uribatake and that guy Ian.\n　Everyone is really impressed with you.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Найн",
+   "text": "「Я андроид.\n　Я существую, чтобы служить людям.」",
+   "orig": "Nine\n「I am an android.\n　I exist to serve humans.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Здесь никто так не думает, Найн.」",
+   "orig": "$n\n「No one here thinks that, Nine.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Найн",
+   "text": "「Хм-м...」",
+   "orig": "Nine\n「Hmm...」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「Найн, с тобой всё в порядке?」",
+   "orig": "$n\n「Nine, are you OK?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Найн",
+   "text": "「Мне кажется... может быть, я не заслуживаю,\n　чтобы со мной все так хорошо обращались.」",
+   "orig": "Nine\n「I think—Maybe I don't deserve\n　to be treated so nicely by everyone.」"
+  },
+  {
+   "i": 107,
+   "speaker": "$n",
+   "text": "「Да что ты такое говоришь?!」",
+   "orig": "$n\n「What are you talking about?!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Найн",
+   "text": "「На самом деле я гожусь только на то, чтобы\n　разбирать данные и помогать в бою.」",
+   "orig": "Nine\n「Really, I'm only good for analyzing\n　data and for aiding in battle.」"
+  },
+  {
+   "i": 109,
+   "speaker": "$n",
+   "text": "「Ты меня злишь, Найн!」",
+   "orig": "$n\n「You're making me mad, Nine!」"
+  },
+  {
+   "i": 110,
+   "speaker": "$n",
+   "text": "「С каких пор ты стала так думать?」",
+   "orig": "$n\n「When did you start thinking this way?」"
+  },
+  {
+   "i": 111,
+   "speaker": "Найн",
+   "text": "「Ты ведь держишь меня при себе, сестрица,\n　только потому, что я — ОС «Вангрэя», верно?」",
+   "orig": "Nine\n「The only reason you use me, Sis,\n　is because I'm the VangRay's OS, right?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Найн",
+   "text": "「Или я просто замена $kwbЮ$kwe?」",
+   "orig": "Nine\n「Or am I just a replacement for $kwbYu$kwe?」"
+  },
+  {
+   "i": 113,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Найн",
+   "text": "「Э-э...」",
+   "orig": "Nine\n「Uh...」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Найн.\n　Я не знаю, что с тобой творится,\n　но скажу лишь то, что думаю сама.」",
+   "orig": "$n\n「Nine.\n　I don't know what's going on with you,\n　but I can only say what I think.」"
+  },
+  {
+   "i": 116,
+   "speaker": "$n",
+   "text": "「Я хочу видеть тебя своей напарницей\n　за то, какая ты есть. Ты — Найн.」",
+   "orig": "$n\n「I want you as my partner\n　because of who you are. You are Nine.」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「Ты и правда очень похожа на Ю, упокой её душу.\n　И мне приятно, когда ты иногда\n　зовёшь меня сестрицей.」",
+   "orig": "$n\n「You are a lot like Yu, may she rest in peace.\n　And it does make me happy when you call me \"Sis\"\n　sometimes.」"
+  },
+  {
+   "i": 118,
+   "speaker": "$n",
+   "text": "「Но эти чувства и то, что я чувствую к тебе\n　как к напарнице, — совершенно разные вещи!」",
+   "orig": "$n\n「But those feelings and the way I feel about you\n　as a partner are totally different!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Найн",
+   "text": "「Сестрица...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Ты ведь мне веришь?\n　Я тебе не вру!」",
+   "orig": "$n\n「You believe me, don't you?\n　I'm not lying to you!」"
+  },
+  {
+   "i": 121,
+   "speaker": "$n",
+   "text": "「Или ты мне больше совсем не доверяешь?」",
+   "orig": "$n\n「Or do you not trust me at all anymore?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Найн",
+   "text": "「Прости.」",
+   "orig": "Nine\n「I'm sorry.」"
+  },
+  {
+   "i": 123,
+   "speaker": "$n",
+   "text": "「Главное, что ты поняла, Найн.\n　Давай возвращаться к остальным.」",
+   "orig": "$n\n「As long as you understand, Nine.\n　So let's get back to the others.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Найн",
+   "text": "「П-прости, прости меня!」",
+   "orig": "Nine\n「I-I'm sorry, I'm so sorry!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Найн",
+   "text": "「Н-не избавляйся от меня, пожалуйста.」",
+   "orig": "Nine\n「D-don't get rid of me, please.」"
+  },
+  {
+   "i": 126,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Найн",
+   "text": "「П-пожалуйста, не начинай меня ненавидеть.」",
+   "orig": "Nine\n「P-please don't hate me.」"
+  },
+  {
+   "i": 128,
+   "speaker": "$n",
+   "text": "「Найн!」",
+   "orig": "$n\n「Nine!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Найн",
+   "text": "「Я лгунья, и эгоистка,\n　и злюка, и бестолочь...」",
+   "orig": "Nine\n「I'm a liar, and selfish,\n　and mean, and thoughtless—」"
+  },
+  {
+   "i": 130,
+   "speaker": "$n",
+   "text": "「Успокойся, Найн!」",
+   "orig": "$n\n「Settle down, Nine!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Найн",
+   "text": "「Ох...」",
+   "orig": "Nine\n「Oh...」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Что с тобой случилось?」",
+   "orig": "$n\n「What happened to you?」"
+  },
+  {
+   "i": 133,
+   "speaker": "Найн",
+   "text": "「Прости.」",
+   "orig": "Nine\n「I'm sorry.」"
+  },
+  {
+   "i": 134,
+   "speaker": "$n",
+   "text": "「Расскажи мне.」",
+   "orig": "$n\n「Tell me.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Найн",
+   "text": "「Это приказ?」",
+   "orig": "Nine\n「Is that an order?」"
+  },
+  {
+   "i": 136,
+   "speaker": "$n",
+   "text": "「Это не приказ!\n　Ты ведь уже должна знать, Найн,\n　что мне такого не нужно.」",
+   "orig": "$n\n「It's not an order!\n　You should know by now, Nine,\n　that's not what I want.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Найн",
+   "text": "「Знаю.」",
+   "orig": "Nine\n「I know.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Найн",
+   "text": "「У меня такое чувство...\n　будто я знаю того андроида.」",
+   "orig": "Nine\n「I have a feeling—\n　that I know that android.」"
+  },
+  {
+   "i": 139,
+   "speaker": "$n",
+   "text": "「Того андроида — ты о...」",
+   "orig": "$n\n「That android, you mean—」"
+  },
+  {
+   "i": 140,
+   "speaker": "Найн",
+   "text": "「О том, что проник на «Ямато».」",
+   "orig": "Nine\n「That android that infiltrated the Yamato.」"
+  },
+  {
+   "i": 141,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Найн",
+   "text": "「Я понимаю, это странно — чтобы у ИИ вроде меня\n　были такие смутные воспоминания.」",
+   "orig": "Nine\n「It's really strange for an AI like me\n　to have such fuzzy memories, I know.」"
+  },
+  {
+   "i": 143,
+   "speaker": "$n",
+   "text": "「Ну, не бери в голову.」",
+   "orig": "$n\n「Well, don't worry about it.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Найн",
+   "text": "「Сестрица...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 145,
+   "speaker": "$n",
+   "text": "「Может, это и безответственно, но\n　что толку себя этим изводить?」",
+   "orig": "$n\n「It may be irresponsible, but\n　what good will obsessing over it do?」"
+  },
+  {
+   "i": 146,
+   "speaker": "$n",
+   "text": "「Если я его не знаю, а ты знаешь, значит,\n　речь о времени до нашего знакомства —\n　то есть до того, как достроили «Вангрэй», верно?」",
+   "orig": "$n\n「If I don't know it, but you do, then that must\n　mean it's about the time before we even met, \n　meaning before the VangRay was finished, right?」"
+  },
+  {
+   "i": 147,
+   "speaker": "$n",
+   "text": "「Выходит, это со времён твоего создания.\n　А значит, твоей вины тут нет никакой.」",
+   "orig": "$n\n「Then it must be from when you were made.\n　And so it's none of your responsibility.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Найн",
+   "text": "「Да, но...」",
+   "orig": "Nine\n「Yes, but—」"
+  },
+  {
+   "i": 149,
+   "speaker": "$n",
+   "text": "「Нельзя ходить по кругу, Найн.\n　Если прошлое держит нас, будущего нам не увидеть.」",
+   "orig": "$n\n「We can't keep going in circles, Nine.\n　If the past holds us back, we'll never see the future.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Найн",
+   "text": "「Ты всегда так живёшь?」",
+   "orig": "Nine\n「Is that how you always live your life?」"
+  },
+  {
+   "i": 151,
+   "speaker": "$n",
+   "text": "「Выходит не всегда, и порой я не могу\n　не возвращаться к грустным воспоминаниям.」",
+   "orig": "$n\n「It doesn't always work, and sometimes\n　I can't help dwelling on sad memories.」"
+  },
+  {
+   "i": 152,
+   "speaker": "$n",
+   "text": "「Но жить — значит идти вперёд.\n　И я хочу смотреть в будущее, насколько это возможно.」",
+   "orig": "$n\n「But living means moving forward.\n　I want to look ahead to the future as much as I can.」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Хотя, может, это и слегка идеалистично.」",
+   "orig": "$n\n「It might be a bit idealistic, though.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Найн",
+   "text": "「Я так не думаю.」",
+   "orig": "Nine\n「I don't think so.」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「Хорошо, когда ты улыбаешься.\n　Так ты гораздо\n　милее.」",
+   "orig": "$n\n「It's good to see you smile.\n　You're much cuter\n　that way.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Найн",
+   "text": "「Вот как?」",
+   "orig": "Nine\n「Is that so?」"
+  },
+  {
+   "i": 157,
+   "speaker": "$n",
+   "text": "「Знаешь, это и раньше бросалось в глаза:\n　ты очень легко краснеешь, Найн.」",
+   "orig": "$n\n「You know, I've noticed this before but\n　you blush really easily, Nine.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Найн",
+   "text": "「Ч-что это значит?!」",
+   "orig": "Nine\n「Wh-what's that supposed to mean?!」"
+  },
+  {
+   "i": 159,
+   "speaker": "$n",
+   "text": "「Прости, прости!\n　Я просто так сказала!」",
+   "orig": "$n\n「Sorry, sorry!\n　I was just saying!」"
+  },
+  {
+   "i": 160,
+   "speaker": "$n",
+   "text": "「Да и какая разница?\n　Тут же только мы.」",
+   "orig": "$n\n「But who cares?\n　It's just us.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Найн",
+   "text": "「Ах да, сестрица! Я хотела спросить.\n　Что, по-твоему, важнее для боевой машины —\n　скорость или мощь?」",
+   "orig": "Nine\n「Oh, Sis! I wanted to ask you something.\n　What do you think is more important for\n　mobile arms, speed or power?」"
+  },
+  {
+   "i": 162,
+   "speaker": "$n",
+   "text": "「Что?\n　Ты что, пытаешься сменить тему?」",
+   "orig": "$n\n「What?\n　Are you trying to change the subject?」"
+  },
+  {
+   "i": 163,
+   "speaker": "Найн",
+   "text": "「Что бы ты выбрала:\n　скорость, как у «Блэк Серены» и «Ξ Гандама»,\n　или мощь, как у «Грейт Майтгайна» и «Геттер Робота»?」",
+   "orig": "Nine\n「Which would you choose, \n　speed like Black Serena and Ξ Gundam have,\n　or power like Great Mightgaine and Getter Robot?」"
+  },
+  {
+   "i": 164,
+   "speaker": "$n",
+   "text": "「Скорость или мощь, значит.」",
+   "orig": "$n\n「Speed or power, huh.」"
+  },
+  {
+   "i": 165,
+   "speaker": "$n",
+   "text": "「Скорость важнее.」\n「Мощь важнее.」",
+   "orig": "$n\n「Speed is more important.」\n「Power is more important.」"
+  },
+  {
+   "i": 166,
+   "speaker": "$n",
+   "text": "「Пожалуй, скорость.\n　Мой стиль — внезапно налететь издалека\n　и снести противника.」",
+   "orig": "$n\n「Speed, I guess.\n　My style is to suddenly swoop in from\n　a distance and take my enemies out.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Найн",
+   "text": "「Так я и думала. Поняла.」",
+   "orig": "Nine\n「I thought you would say that. Understood.」"
+  },
+  {
+   "i": 168,
+   "speaker": "$n",
+   "text": "「Ну и странный же способ скрывать смущение.」",
+   "orig": "$n\n「That's a really weird way to hide your embarrassment.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Найн",
+   "text": "「Что?!」",
+   "orig": "Nine\n「What's that?!」"
+  },
+  {
+   "i": 170,
+   "speaker": "$n",
+   "text": "「Пожалуй, мощь.\n　Пилот из меня не самый уверенный,\n　так что лучше решать всё одним ударом.」",
+   "orig": "$n\n「Power, I guess.\n　I don't have a lot of confidence in my piloting, \n　so I think settling things in one shot is best.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Найн",
+   "text": "「Так я и думала. Поняла.」",
+   "orig": "Nine\n「I thought you would say that. Understood.」"
+  },
+  {
+   "i": 172,
+   "speaker": "$n",
+   "text": "「Ну и странный же способ скрывать смущение.」",
+   "orig": "$n\n「That's a really weird way to hide your embarrassment.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Найн",
+   "text": "「Что?!」",
+   "orig": "Nine\n「What's that?!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Агент",
+   "text": "「...」",
+   "orig": "Agent\n「...」"
+  },
+  {
+   "i": 175,
+   "speaker": "Агент",
+   "text": "「...」",
+   "orig": "Agent\n「...」"
+  },
+  {
+   "i": 176,
+   "speaker": "$n",
+   "text": "「Что это за типы?!」",
+   "orig": "$n\n「What are these guys?!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Найн",
+   "text": "「Это те самые андроиды, что ворвались на «Ямато»!」",
+   "orig": "Nine\n「They are the androids that broke into the Yamato!」"
+  },
+  {
+   "i": 178,
+   "speaker": "$n",
+   "text": "「Им наверняка нужен волновой двигатель!」",
+   "orig": "$n\n「They must be after the wave motion engine!」"
+  },
+  {
+   "i": 179,
+   "speaker": "？？？",
+   "text": "「Оставь это на потом.」",
+   "orig": "？？？\n「Leave that for later.」"
+  },
+  {
+   "i": 180,
+   "speaker": "$n",
+   "text": "「Ты!」",
+   "orig": "$n\n「You!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Гули",
+   "text": "「Рад снова тебя видеть, $n.」",
+   "orig": "Ghuli\n「How nice to see you again, $n.」"
+  },
+  {
+   "i": 182,
+   "speaker": "$n",
+   "text": "「Это голос Гули!」",
+   "orig": "$n\n「That's Ghuli's voice! 」"
+  },
+  {
+   "i": 183,
+   "speaker": "Гули",
+   "text": "「Тобой я займусь позже, не переживай.\n　А сперва мы заберём этот ИИ.」",
+   "orig": "Ghuli\n「I'll give you all the attention you need later.\n　First, though, we'll be taking that AI.」"
+  },
+  {
+   "i": 184,
+   "speaker": "$n",
+   "text": "「Ты про Найн?!」",
+   "orig": "$n\n「You mean Nine?!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Гули",
+   "text": "「ИИ — он и есть ИИ.\n　Имена меня не занимают.」",
+   "orig": "Ghuli\n「An AI is an AI.\n　I have no concern for names.」"
+  },
+  {
+   "i": 186,
+   "speaker": "$n",
+   "text": "「Я тебе её не отдам!」",
+   "orig": "$n\n「I won't give her to you!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Гули",
+   "text": "「Ты хоть понимаешь, в каком ты положении?」",
+   "orig": "Ghuli\n「Do you have any idea what your situation is?」"
+  },
+  {
+   "i": 188,
+   "speaker": "Агент",
+   "text": "「...」",
+   "orig": "Agent\n「...」"
+  },
+  {
+   "i": 189,
+   "speaker": "Агент",
+   "text": "「...」",
+   "orig": "Agent\n「...」"
+  },
+  {
+   "i": 190,
+   "speaker": "$n",
+   "text": "「И всё равно не отдам!」",
+   "orig": "$n\n「I still won't give her up!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Гули",
+   "text": "「Говоришь смело, а ноги-то дрожат.」",
+   "orig": "Ghuli\n「You're talking big, but your legs are shaking.」"
+  },
+  {
+   "i": 192,
+   "speaker": "$n",
+   "text": "「И всё равно!」",
+   "orig": "$n\n「Even so!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Гули",
+   "text": "「Что ж, тогда сперва покончим с тобой.」",
+   "orig": "Ghuli\n「Very well then, we'll take you out first.」"
+  },
+  {
+   "i": 194,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Гули",
+   "text": "「Я не намерен тратить на тебя больше времени.\n　Умри, $n!」",
+   "orig": "Ghuli\n「I have no intention of wasting more time on you.\n　Die, $n!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Найн",
+   "text": "「Сестрица!」",
+   "orig": "Nine\n「Sis!」"
+  },
+  {
+   "i": 200,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　-Кают-компания «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　-Yamato Reception Room-"
+  },
+  {
+   "i": 201,
+   "speaker": "$n",
+   "text": "「Тактический офицер Кодай сказал, что нам лучше\n　побыть вдвоём, и выделил эту комнату отдыха.」",
+   "orig": "$n\n「Tactical Officer Kodai said it would be better\n　for us to be alone together, so he set up this R&R room.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Найн",
+   "text": "「Ох...」",
+   "orig": "Nine\n「Oh...」"
+  },
+  {
+   "i": 203,
+   "speaker": "$n",
+   "text": "「Расскажи мне всё, Найн.\n　И о себе, и о $r.」",
+   "orig": "$n\n「Tell me about everything, Nine.\n　About you, and about $r.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Найн",
+   "text": "「Прости...」",
+   "orig": "Nine\n「Sorry...」"
+  },
+  {
+   "i": 205,
+   "speaker": "$n",
+   "text": "「Найн?」",
+   "orig": "$n\n「Nine?」"
+  },
+  {
+   "i": 206,
+   "speaker": "Найн",
+   "text": "「Ты идёшь в бой на разваливающемся\n　«Вангрэе» ради того, чтобы меня защитить.」",
+   "orig": "Nine\n「You went to fight in that crumbling\n　VangRay to protect me.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Найн",
+   "text": "「Хотя это мой долг — защищать тебя, защищать людей,\n　вышло наоборот: защита досталась мне.」",
+   "orig": "Nine\n「Even though it's my duty to protect you, protect people, \n　you protected me instead.」"
+  },
+  {
+   "i": 208,
+   "speaker": "$n",
+   "text": "「Перестань, Найн.\n　Не нужно так говорить.」",
+   "orig": "$n\n「Stop, Nine.\n　You don't need to say that.」"
+  },
+  {
+   "i": 209,
+   "speaker": "$n",
+   "text": "「Дело не в том, кто кого защищает.\n　Мы с тобой либо живём вместе, либо вместе погибаем.」",
+   "orig": "$n\n「It's not about protecting or being protected.\n　You and I, we live together or we die together.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Найн",
+   "text": "「Сестрица...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "「Так что слушай:\n　если тебе грустно, тревожно или больно —\n　позволь мне разделить это с тобой.」",
+   "orig": "$n\n「So, listen—\n　If you're sad, worried, or suffering,\n　let me share that with you.」"
+  },
+  {
+   "i": 212,
+   "speaker": "$n",
+   "text": "「И это не обмен, но\n　ты тоже мне помогай, Найн.」",
+   "orig": "$n\n「And it's not an exchange, but\n　you help me too, Nine.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Найн",
+   "text": "「Буду!」",
+   "orig": "Nine\n「I will!」"
+  },
+  {
+   "i": 214,
+   "speaker": "$n",
+   "text": "「Можно кое-что спросить?\n　Почему ты всё время\n　держишься за меня?」",
+   "orig": "$n\n「Can I ask you something?\n　Why do you keep\n　sticking with me?」"
+  },
+  {
+   "i": 215,
+   "speaker": "$n",
+   "text": "「Я ведь знаю: кто-то другой — Тобиа\n　или Кинкейд — мог бы пилотировать «Вангрэй»\n　и выжать из него куда больше.」",
+   "orig": "$n\n「I know that someone else, like Tobia\n　or Kincade, could pilot VangRay\n　and pull so much more out of it.」"
+  },
+  {
+   "i": 216,
+   "speaker": "Найн",
+   "text": "「Потому что это от тебя я столько узнала о людях.」",
+   "orig": "Nine\n「Because you taught me so much about people.」"
+  },
+  {
+   "i": 217,
+   "speaker": "$n",
+   "text": "「Разве?」",
+   "orig": "$n\n「Did I?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Найн",
+   "text": "「Когда я прибыла с Луны на Землю и меня\n　устанавливали в НИИ специальной\n　тактики, у нас с тобой завязался разговор.」",
+   "orig": "Nine\n「When I got to Earth from the Moon, and they were\n　setting me up in the Special Tactics \n　Research Institute, you talked to me.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Найн",
+   "text": "「Ты рассказала о том, что отняла у тебя война,\n　и о том, что надежды и мечты у тебя всё равно остались.」",
+   "orig": "Nine\n「You told me about what you lost in the war,\n　and yet how you still have hopes and dreams.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Найн",
+   "text": "「И именно эти рассказы\n　пробудили во мне интерес к людям —\n　мне захотелось узнать о них больше.」",
+   "orig": "Nine\n「And you telling me about all of that\n　made me interested in people, \n　I wanted to learn more.」"
+  },
+  {
+   "i": 221,
+   "speaker": "$n",
+   "text": "「Погоди-ка!\n　Разве мы познакомились не в день\n　моего первого вылета на «Вангрэе»?」",
+   "orig": "$n\n「Wait a minute!\n　Wasn't the first time we met \n　when I boarded the VangRay?」"
+  },
+  {
+   "i": 222,
+   "speaker": "$n",
+   "text": "「И ты сказала, что прибыла с Луны.」",
+   "orig": "$n\n「And you said you came from the Moon.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Найн",
+   "text": "「Я Найн. Система 99.」",
+   "orig": "Nine\n「I'm Nine. System 99.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Найн",
+   "text": "「В Лунной спецтактической лаборатории\n　меня называли $kwbERS-100$kwe —\n　Система возрождения Земли 100.」",
+   "orig": "Nine\n「At the Lunar Special Tactical Lab, \n　they called me $kwbERS-100$kwe,\n　or Earth Regeneration System 100.」"
+  },
+  {
+   "i": 225,
+   "speaker": "$n",
+   "text": "「Та самая разработка для восстановления Земли?」",
+   "orig": "$n\n「That tech they made to restore Earth?」"
+  },
+  {
+   "i": 226,
+   "speaker": "$n",
+   "text": "「Всё то оборудование, что Содзи вёз с Луны, —\n　это была ты?」",
+   "orig": "$n\n「All the equipment that Soji carried from the Moon,\n　that was all you?」"
+  },
+  {
+   "i": 227,
+   "speaker": "Найн",
+   "text": "「Я создала «Вангрэй» потому, что\n　хотела больше узнать о людях, о тебе…\n　и хотела тебя защитить. Защитить нас обеих.」",
+   "orig": "Nine\n「I made the VangRay because I\n　wanted to know more about people, about you…\n　so I wanted to protect you. To protect us both.」"
+  },
+  {
+   "i": 228,
+   "speaker": "$n",
+   "text": "「Ты создала «Вангрэй»?!\n　Его спроектировала не Третья лаборатория?」",
+   "orig": "$n\n「You made VangRay?!\n　It's not something the Third Lab designed?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Найн",
+   "text": "「Да.\n　Третья спецтактическая лаборатория\n　выдала мне материалы, чтобы замерить мои возможности.」",
+   "orig": "Nine\n「Yes.\n　The Third Special Tactical Lab\n　gave me the materials, to help measure my abilities.」"
+  },
+  {
+   "i": 230,
+   "speaker": "$n",
+   "text": "「Значит, ты не просто ОС машины, а\n　самая настоящая универсальная самообучающаяся\n　производственная система!」",
+   "orig": "$n\n「So you're not just the unit's OS, you're\n　actually some kind of all-purpose self-learning\n　manufacturing system!」"
+  },
+  {
+   "i": 231,
+   "speaker": "$n",
+   "text": "「Держу пари, ты и правда могла бы собрать систему\n　восстановления Земли — будь у тебя\n　все нужные материалы.」",
+   "orig": "$n\n「I bet you really could create a system\n　to restore Earth, if you had all the \n　raw materials.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Найн",
+   "text": "「Но сейчас люди Земли\n　просто ждут конца.\n　Вот почему я и...」",
+   "orig": "Nine\n「However, right now the people of Earth\n　are just waiting for the end.\n　And that's why I—」"
+  },
+  {
+   "i": 233,
+   "speaker": "$n",
+   "text": "「Ты влезла в системы «Ямато» и состряпала\n　фальшивый приказ о том, что ты, я и\n　Содзи должны подняться на борт.」",
+   "orig": "$n\n「You broke into the Yamato and created\n　false orders that you, me and\n　Soji were to come on board.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Найн",
+   "text": "「Пока он вёз меня с Луны на Землю,\n　он тоже многому меня научил.」",
+   "orig": "Nine\n「While he was carrying me from the Moon \n　to Earth, he taught me a lot, too.」"
+  },
+  {
+   "i": 235,
+   "speaker": "$n",
+   "text": "「Ты просто потрясающая, Найн!\n　Даже после всего ты не перестаёшь удивлять!」",
+   "orig": "$n\n「You're amazing, Nine!\n　Even after everything, you're still full of surprises!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Найн",
+   "text": "「Я незавершённая.\n　Недаром меня зовут не «100».」",
+   "orig": "Nine\n「I am incomplete.\n　There's a reason I'm not called \"100\".」"
+  },
+  {
+   "i": 237,
+   "speaker": "$n",
+   "text": "「А, то есть у тебя отняли один процент\n　и назвали просто 99, да?」",
+   "orig": "$n\n「Oh, so they took away one percent\n　and just called you 99, huh?」"
+  },
+  {
+   "i": 238,
+   "speaker": "$n",
+   "text": "「Погоди-ка!\n　Выходит, и $r тоже сделала ты?!」",
+   "orig": "$n\n「Wait a minute!\n　So, it was you who made the $r, too?!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Найн",
+   "text": "「Да, я.」",
+   "orig": "Nine\n「It was.」"
+  },
+  {
+   "i": 240,
+   "speaker": "$n",
+   "text": "「Невероятно!」",
+   "orig": "$n\n「Incredible!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Найн",
+   "text": "「Я создала «Вангрэй», когда ещё мало\n　понимала в людях. И тогда почти не думала\n　о пилоте, которому предстоит в нём летать.」",
+   "orig": "Nine\n「I made the VangRay before I understood \n　very much about humans. When I made it, \n　I didn't really think of the pilot who would ride it.」"
+  },
+  {
+   "i": 242,
+   "speaker": "$n",
+   "text": "「Да, это чувствуется.」",
+   "orig": "$n\n「Yeah, I can see that.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Найн",
+   "text": "「А вот $r — совсем другое дело.\n　Я собирала машину под твои особенности\n　и применила технологии трёх разных измерений.」",
+   "orig": "Nine\n「But the $r is different.\n　I made it to fit your particular characteristics, \n　and used the technology of three different dimensions.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Найн",
+   "text": "「А раз я лечу вместе с тобой, я могу\n　управлять напрямую и куда быстрее реагировать\n　на перемены обстановки.」",
+   "orig": "Nine\n「And since I can ride with you, I can\n　navigate it more directly, and respond better\n　to changes in the situation.」"
+  },
+  {
+   "i": 245,
+   "speaker": "$n",
+   "text": "「Похоже, ты вполне\n　уверена в $r.」",
+   "orig": "$n\n「You seem to be pretty \n　confident in the $r.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Найн",
+   "text": "「Не совсем так.\n　В бою машина пока не дотягивает до моих ожиданий\n　из-за нехватки мощности.」",
+   "orig": "Nine\n「That's not quite true.\n　It still isn't fighting up to my expectations\n　due to a lack of power output.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Найн",
+   "text": "「Зато во всём остальном показатели\n　вполне удовлетворительные, так что\n　беспокоиться не о чем.」",
+   "orig": "Nine\n「However, in all other areas it is\n　performing quite satisfactorily, so\n　there's no need to worry.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Найн",
+   "text": "「$r — шаг вперёд\n　по сравнению с «Вангрэем» во всех отношениях.」",
+   "orig": "Nine\n「The $r is an\n　advancement in every way from the VangRay.」"
+  },
+  {
+   "i": 249,
+   "speaker": "$n",
+   "text": "「И всё же «Вангрэй» мне по-прежнему очень дорог.」",
+   "orig": "$n\n「But the VangRay is still really important to me.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Найн",
+   "text": "「Вот как?」",
+   "orig": "Nine\n「Is that so?」"
+  },
+  {
+   "i": 251,
+   "speaker": "$n",
+   "text": "「С ним связано слишком многое.\n　Пусть у него и хватает недостатков,\n　он всё равно мне дорог.」",
+   "orig": "$n\n「It has a lot of sentimental value.\n　Even if it does have some problems,\n　it's still important to me.」"
+  },
+  {
+   "i": 252,
+   "speaker": "$n",
+   "text": "「Понимаешь,\n　если мы от него избавимся,\n　то потеряем то, чего уже никогда не вернуть.」",
+   "orig": "$n\n「You know,\n　if we get rid of it, \n　we'll lose something we can never get back.」"
+  },
+  {
+   "i": 253,
+   "speaker": "$n",
+   "text": "「Не забывай об этом, Найн.」",
+   "orig": "$n\n「Don't forget that, Nine.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Найн",
+   "text": "「Я поняла.」",
+   "orig": "Nine\n「I understand.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Найн",
+   "text": "「И это — ещё один твой урок для меня, сестрица.」",
+   "orig": "Nine\n「And with that, you've taught me another thing, Sis.」"
+  },
+  {
+   "i": 256,
+   "speaker": "$n",
+   "text": "「П-прекрати!」",
+   "orig": "$n\n「Q-quit it!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Найн",
+   "text": "「Что такое?」",
+   "orig": "Nine\n「What's wrong?」"
+  },
+  {
+   "i": 258,
+   "speaker": "$n",
+   "text": "「Ты всё время меня нахваливаешь!\n　Мне как-то неловко.」",
+   "orig": "$n\n「You keep complimenting me!\n　It's kind of embarrassing.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Найн",
+   "text": "「Сестрица, у тебя лицо красное!」",
+   "orig": "Nine\n「Sis, you're face is red!」"
+  },
+  {
+   "i": 260,
+   "speaker": "$n",
+   "text": "「Кто бы говорил!」",
+   "orig": "$n\n「You're one to talk!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Анж",
+   "text": "「Что ж, одним вопросом меньше.」",
+   "orig": "Ange\n「Well, that settles one question.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Лотти",
+   "text": "「Но вот это сюрприз!\n　Найн и правда нечто!」",
+   "orig": "Lottie\n「But what a surprise!\n　Nine is really something!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Кодай",
+   "text": "「Гардим наверняка что-то знает о её\n　возможностях — потому за ней и охотятся.」",
+   "orig": "Kodai\n「Gardim must know something about her \n　abilities, and that's why they're after her.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Вельт",
+   "text": "「Поверить не могу, что она\n　так быстро закончила $r!」",
+   "orig": "Velt\n「I can't believe she \n　finished the $r so fast!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Саламандинай",
+   "text": "「И не говори.\n　Она ведь совсем недавно просила у меня совета —\n　и вот уже всё готово!」",
+   "orig": "Salamandinay\n「I know.\n　It's been no time at all since she asked me for advice\n　and now it's already finished!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Чан",
+   "text": "「Рада, что детали и материалы,\n　которые мы собрали, пригодились!」",
+   "orig": "Chan\n「I'm glad the parts and materials\n　we gathered were of use!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Урибатакэ",
+   "text": "「Найн — невероятный механик! Такую бы\n　в каждый дом. Нет, каждому по штуке!」",
+   "orig": "Uribatake\n「Nine is an incredible mechanic! There should be\n　one in each house. No, one for each person!」"
+  },
+  {
+   "i": 268,
+   "speaker": "$n",
+   "text": "「Эй, вы все!\n　Вы что, подслушивали?」",
+   "orig": "$n\n「Hey you guys!\n　Were you eavesdropping?」"
+  },
+  {
+   "i": 269,
+   "speaker": "Рури",
+   "text": "「Ну да. Прости...」",
+   "orig": "Ruri\n「Well, yeah. Sorry...」"
+  },
+  {
+   "i": 270,
+   "speaker": "Акито",
+   "text": "「Мы просто все\n　волновались за тебя и за Найн!」",
+   "orig": "Akito\n「We were all just \n　worried about you and Nine!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Юрика",
+   "text": "「Найн...\n　Было видно, что она правда переживала в последнее время.」",
+   "orig": "Yurika\n「Nine...\n　It looked like she really has been worried lately.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Банагер",
+   "text": "「Вот мы и подумали, что у вас двоих какие-то нелады.」",
+   "orig": "Banagher\n「So, well, we thought maybe you two had some problems.」"
+  },
+  {
+   "i": 273,
+   "speaker": "$n",
+   "text": "「Пожалуй, сердиться тут не на что.」",
+   "orig": "$n\n「I guess I can't be angry.」"
+  },
+  {
+   "i": 274,
+   "speaker": "$n",
+   "text": "「Простите, что заставили вас волноваться, но\n　вы сами слышали: у нас теперь всё хорошо!」",
+   "orig": "$n\n「We're sorry to have worried you, but\n　as you heard, everything is fine between us now!」"
+  },
+  {
+   "i": 275,
+   "speaker": "$n",
+   "text": "「Так что отныне мы с Найн и, конечно же,\n　$r — одна команда!」",
+   "orig": "$n\n「So from now on Nine and I, and of course\n　$r, are a team!」"
+  },
+  {
+   "i": 276,
+   "speaker": "Найн",
+   "text": "「Спасибо вам всем.」",
+   "orig": "Nine\n「Thank you all.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Бандзё",
+   "text": "「Как же приятно видеть вас обеих\n　вот так, с улыбками на лицах!」",
+   "orig": "Banjo\n「You two standing there and smiling like that\n　is such a relief to see!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Каппэй",
+   "text": "「Но этот $r\n　и правда что-то с чем-то, да?」",
+   "orig": "Kappei\n「But that $r\n　really is something, isn't it?」"
+  },
+  {
+   "i": 279,
+   "speaker": "$n",
+   "text": "「А как же иначе!\n　Это ведь шедевр нашей милой Найн!」",
+   "orig": "$n\n「Of course it is!\n　It's sweet little Nine's masterpiece!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Найн",
+   "text": "「Сестрица!\n　Ну это уже слишком.」",
+   "orig": "Nine\n「Sis!\n　You're too much.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Соскэ",
+   "text": "「Ты краснеешь, Найн!」",
+   "orig": "Sousuke\n「You're blushing, Nine!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Майто",
+   "text": "「Это в тебе и хорошо — твои\n　чувства всегда видно без слов!」",
+   "orig": "Maito\n「That's nice about you, your\n　feelings are always plain to see!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Найн",
+   "text": "「Пожалуйста, не смотрите на меня так!」",
+   "orig": "Nine\n「Please stop staring!」"
+  },
+  {
+   "i": 284,
+   "speaker": "$n",
+   "text": "「Ладно, хватит уже.\n　Ну что, пойдёмте ещё разок\n　взглянем на $r!」",
+   "orig": "$n\n「Alright, that's enough.\n　OK then, let's go take another\n　look at $r!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Анж",
+   "text": "「Что ж, одним вопросом меньше.」",
+   "orig": "Ange\n「Well, that settles one question.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Хатауэй",
+   "text": "「Но вот это сюрприз!\n　Найн и правда нечто!」",
+   "orig": "Hathaway\n「But what a surprise!\n　Nine is really something!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Кодай",
+   "text": "「Гардим наверняка что-то знает о её \n　способностях — потому они за ней и охотятся.」",
+   "orig": "Kodai\n「Gardim must know something about her \n　abilities, and that's why they're after her.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Амуро",
+   "text": "「Поверить не могу, что она так быстро \n　закончила $r!」",
+   "orig": "Amuro\n「I can't believe she \n　finished the $r so fast!」"
+  },
+  {
+   "i": 289,
+   "speaker": "Саламандинай",
+   "text": "「И не говори.\n　Она же совсем недавно спрашивала у меня совета —\n　и вот уже всё готово!」",
+   "orig": "Salamandinay\n「I know.\n　It's been no time at all since she asked me for advice\n　and now it's already finished!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Чан",
+   "text": "「Как же хорошо, что детали и материалы,\n　которые мы собрали, пригодились!」",
+   "orig": "Chan\n「I'm glad the parts and materials\n　we gathered were of use!」"
+  },
+  {
+   "i": 291,
+   "speaker": "Урибатакэ",
+   "text": "「Найн — потрясающий механик! Такую бы в каждый дом.\n　Нет, каждому человеку по такой!」",
+   "orig": "Uribatake\n「Nine is an incredible mechanic! There should be\n　one in each house. No, one for each person!」"
+  },
+  {
+   "i": 292,
+   "speaker": "$n",
+   "text": "「Эй, вы чего!\n　Вы что, подслушивали?」",
+   "orig": "$n\n「Hey you guys!\n　Were you eavesdropping?」"
+  },
+  {
+   "i": 293,
+   "speaker": "Рури",
+   "text": "「Ну... да. Простите...」",
+   "orig": "Ruri\n「Well, yeah. Sorry...」"
+  },
+  {
+   "i": 294,
+   "speaker": "Акито",
+   "text": "「Мы просто все \n　волновались за тебя и Найн!」",
+   "orig": "Akito\n「We were all just \n　worried about you and Nine!」"
+  },
+  {
+   "i": 295,
+   "speaker": "Юрика",
+   "text": "「Найн...\n　Похоже, её и правда что-то тревожило в последние дни.」",
+   "orig": "Yurika\n「Nine...\n　It looked like she really has been worried lately.」"
+  },
+  {
+   "i": 296,
+   "speaker": "Банагер",
+   "text": "「Вот мы и подумали, что у вас двоих какие-то проблемы.」",
+   "orig": "Banagher\n「So, well, we thought maybe you two had some problems.」"
+  },
+  {
+   "i": 297,
+   "speaker": "$n",
+   "text": "「Пожалуй, злиться тут не на что.」",
+   "orig": "$n\n「I guess I can't be angry.」"
+  },
+  {
+   "i": 298,
+   "speaker": "$n",
+   "text": "「Простите, что заставили волноваться, но,\n　как вы слышали, у нас теперь всё хорошо!」",
+   "orig": "$n\n「We're sorry to have worried you, but\n　as you heard, everything is fine between us now!」"
+  },
+  {
+   "i": 299,
+   "speaker": "$n",
+   "text": "「Так что отныне мы с Найн и, конечно же,\n　$r — одна команда!」",
+   "orig": "$n\n「So from now on Nine and I, and of course\n　$r, are a team!」"
+  },
+  {
+   "i": 300,
+   "speaker": "Найн",
+   "text": "「Спасибо вам всем.」",
+   "orig": "Nine\n「Thank you all.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Бандзё",
+   "text": "「Видеть, как вы двое стоите тут и улыбаетесь, —\n　это прямо камень с души!」",
+   "orig": "Banjo\n「You two standing there and smiling like that\n　is such a relief to see!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Каппэй",
+   "text": "「А этот $r\n　и правда что-то с чем-то, да?」",
+   "orig": "Kappei\n「But that $r\n　really is something, isn't it?」"
+  },
+  {
+   "i": 303,
+   "speaker": "$n",
+   "text": "「Ещё бы!\n　Это же шедевр нашей милой малышки Найн!」",
+   "orig": "$n\n「Of course it is!\n　It's sweet little Nine's masterpiece!」"
+  },
+  {
+   "i": 304,
+   "speaker": "Найн",
+   "text": "「Сестрёнка!\n　Ну что ты такое говоришь.」",
+   "orig": "Nine\n「Sis!\n　You're too much.」"
+  },
+  {
+   "i": 305,
+   "speaker": "Соскэ",
+   "text": "「Найн, ты покраснела!」",
+   "orig": "Sousuke\n「You're blushing, Nine!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Майто",
+   "text": "「Вот что в тебе здорово — твои чувства\n　всегда написаны на лице!」",
+   "orig": "Maito\n「That's nice about you, your\n　feelings are always plain to see!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Найн",
+   "text": "「Перестаньте на меня так смотреть!」",
+   "orig": "Nine\n「Please stop staring!」"
+  },
+  {
+   "i": 308,
+   "speaker": "$n",
+   "text": "「Ладно, хватит уже.\n　Что ж, пойдёмте ещё разок\n　взглянем на $r!」",
+   "orig": "$n\n「Alright, that's enough.\n　OK then, let's go take another\n　look at $r!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Като",
+   "text": "「Вы чего тут прохлаждаетесь?」",
+   "orig": "Kato\n「What are you doing laying around?」"
+  },
+  {
+   "i": 310,
+   "speaker": "$n",
+   "text": "「О, капитан Като. Простите,\n　вы тоже за нас волновались?」",
+   "orig": "$n\n「Oh, Captain Kato. I'm sorry,\n　were you worried about us too?」"
+  },
+  {
+   "i": 311,
+   "speaker": "Като",
+   "text": "「Сейчас не время для болтовни!」",
+   "orig": "Kato\n「This is no time for chitchat!」"
+  },
+  {
+   "i": 312,
+   "speaker": "$n",
+   "text": "「Что случилось?」",
+   "orig": "$n\n「What happened?」"
+  },
+  {
+   "i": 313,
+   "speaker": "Синохара",
+   "text": "「Эти мерзавцы из Нео-Зеона. Мы-то думали, они \n　угомонились, а они взяли и устроили такое!」",
+   "orig": "Shinohara\n「Those Neo Zeon bastards. We thought they'd \n　settled down, but they went and did it!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Ямамото",
+   "text": "「Они пытаются сбросить колонию на Землю!」",
+   "orig": "Yamamoto\n「They're trying to drop a colony on Earth!」"
+  },
+  {
+   "i": 315,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Найн",
+   "text": "（Спасибо тебе за всё, «Вангрэй».）",
+   "orig": "Nine\n（Thank you for everything, VangRay.）"
+  },
+  {
+   "i": 320,
+   "speaker": "Найн",
+   "text": "（Вспоминая те дни, что я сражалась рядом с тобой, \n　мой тактический вычислитель получил прирост,\n　равный 200 ТакО.）",
+   "orig": "Nine\n（Thinking back on those days fighting with you, \n　my tactical processing capacity gained an\n　equivalent data of 200 TAC points.）"
+  },
+  {
+   "i": 321,
+   "speaker": "Найн",
+   "text": "（«Вангрэй».\n　Если у тебя есть душа, я хочу, чтобы она\n　перешла к $r.）",
+   "orig": "Nine\n（VangRay.\n　If you have a soul, I hope it comes\n　over to the $r.）"
+  },
+  {
+   "i": 322,
+   "speaker": "Найн",
+   "text": "（Утраченного не вернуть.\n　Потому мы с сестрёнкой и сражаемся вместе —\n　чтобы защитить то будущее, что у нас ещё есть.）",
+   "orig": "Nine\n（You can't get back what was lost.\n　That's why Sis and I are fighting together,\n　To protect whatever future we may have.）"
+  },
+  {
+   "i": 323,
+   "speaker": "Найн",
+   "text": "（Вместе с твоей душой...）",
+   "orig": "Nine\n（Along with your soul...）"
+  },
+  {
+   "i": 324,
+   "speaker": "Найн",
+   "text": "（Спасибо тебе за всё, «Вангрэй».）",
+   "orig": "Nine\n（Thank you for everything, VangRay.）"
+  },
+  {
+   "i": 325,
+   "speaker": "Найн",
+   "text": "（Если у тебя есть душа, я хочу, чтобы она\n　перешла к $r.）",
+   "orig": "Nine\n（If you have a soul, I hope it comes\n　over to the $r.）"
+  },
+  {
+   "i": 326,
+   "speaker": "Найн",
+   "text": "（Утраченного не вернуть.\n　Потому мы с сестрёнкой и сражаемся вместе —\n　чтобы защитить то будущее, что у нас ещё есть.）",
+   "orig": "Nine\n（You can't get back what was lost.\n　That's why Sis and I are fighting together,\n　To protect whatever future we may have.）"
+  },
+  {
+   "i": 327,
+   "speaker": "Найн",
+   "text": "（Вместе с твоей душой...）",
+   "orig": "Nine\n（Along with your soul...）"
+  }
+ ]
+}

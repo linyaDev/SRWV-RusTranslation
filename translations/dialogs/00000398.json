@@ -1,0 +1,598 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　—Инженерный отсек «Ямато»—",
+   "orig": "　\n　\n　　　　　　　—Yamato Engineering Department—"
+  },
+  {
+   "i": 4,
+   "speaker": "Агент",
+   "text": "「Как и предполагалось — волновой двигатель.」",
+   "orig": "Agent\n「As suspected, a wave motion engine.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Агент",
+   "text": "「Любопытно.\n　Значит, этот корабль как-то связан с—」",
+   "orig": "Agent\n「Interesting.\n　So this ship is somehow connected t—」"
+  },
+  {
+   "i": 6,
+   "speaker": "Ито",
+   "text": "「Не двигаться!」",
+   "orig": "Ito\n「Don't move!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Хосина",
+   "text": "「Вы полностью окружены!\n　Сдавайтесь по-хорошему!」",
+   "orig": "Hoshina\n「You're completely surrounded!\n　Give up quietly!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Агент",
+   "text": "「Поздно.」",
+   "orig": "Agent\n「Too late.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Ито",
+   "text": "「Разрешаю открыть огонь!」",
+   "orig": "Ito\n「Permission to shoot, granted!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Агент",
+   "text": "「Моё задание уже выполнено.」",
+   "orig": "Agent\n「My mission is already complete.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Хосина",
+   "text": "「Это ещё что такое?」",
+   "orig": "Hoshina\n「What's this?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Ито",
+   "text": "「Она была... андроидом!」",
+   "orig": "Ito\n「She was...an android!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Токугава",
+   "text": "「Что происходит?」",
+   "orig": "Tokugawa\n「What's the situation?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Ябу",
+   "text": "「Прости, батя!\n　Мы не можем поднять мощность волнового двигателя!」",
+   "orig": "Yabu\n「Sorry, Pops!\n　We can't increase power to the wave motion engine!」"
+  },
+  {
+   "i": 15,
+   "speaker": "Токугава",
+   "text": "「Этот андроид что-то с ним сделал?」",
+   "orig": "Tokugawa\n「Did that android do something to it?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Найн",
+   "text": "「Анализ невозможен.\n　Мне нужно время, чтобы выяснить причину.」",
+   "orig": "Nine\n「Analysis impossible.\n　I need time to investigate the cause.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Ямадзаки",
+   "text": "「Чёрт побери!\n　И надо же было случиться именно сейчас!」",
+   "orig": "Yamazaki\n「Dammit!\n　Of all the rotten timing!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Синдзи",
+   "text": "「Поверить не могу.」",
+   "orig": "Shinji\n「I can't believe it.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Аска",
+   "text": "「Быть такого не может.」",
+   "orig": "Asuka\n「It can't be.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Майто",
+   "text": "「Гайн, Майт Ганнер!\n　Вот оно!」",
+   "orig": "Maito\n「Gaine, Might Gunner!\n　This is it!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Майто",
+   "text": "「Синдзи!」",
+   "orig": "Maito\n「Shinji!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Синдзи",
+   "text": "「Майто!」",
+   "orig": "Shinji\n「Maito!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Майто",
+   "text": "「У нас получилось!」",
+   "orig": "Maito\n「We did it!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Синдзи",
+   "text": "「И всё благодаря тебе, Майто!」",
+   "orig": "Shinji\n「All thanks to you, Maito!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Аска",
+   "text": "「Дурак Синдзи.\n　Роль героя тебе совсем не идёт.」",
+   "orig": "Asuka\n「Stupid Shinji.\n　Playing the hero doesn't suit you at all.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Майто",
+   "text": "「Вот тут ты не права, Аска.\n　Герой — всякий, кто встаёт и идёт в бой.」",
+   "orig": "Maito\n「That's where you're wrong, Asuka.\n　Anyone who stands up and fights is a hero.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Аска",
+   "text": "「Я не про дурацкие улыбочки \n　и красивые лозунги!」",
+   "orig": "Asuka\n「I'm not talking about \n　stupid smiles and catchphrases!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Аска",
+   "text": "「Идём, дурак Синдзи.\n　Останешься тут — заговоришь, как этот балбес!」",
+   "orig": "Asuka\n「Come on, Stupid Shinji.\n　Stay here and you'll be talking like this schmuck!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Синдзи",
+   "text": "「Э-э...」",
+   "orig": "Shinji\n「Uhh...」"
+  },
+  {
+   "i": 36,
+   "speaker": "Аска",
+   "text": "「Ну что ещё с тобой не так?」",
+   "orig": "Asuka\n「What's the matter with you now?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Синдзи",
+   "text": "「Ты не назвала меня «папенькиным сынком».」",
+   "orig": "Shinji\n「You didn't call me \"Daddy's Boy.\"」"
+  },
+  {
+   "i": 38,
+   "speaker": "Аска",
+   "text": "「Это тебе в отместку... за то, что ты звал меня \n　по имени прямо посреди боя! \n　Совсем не по-японски!」",
+   "orig": "Asuka\n「Payback for...for calling me by \n　my first name on the battlefield! \n　That's not very Japanese at all!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Майто",
+   "text": "「А звать его дураком — это, значит, в порядке вещей?」",
+   "orig": "Maito\n「And calling him \"Stupid\" isn't a bit out of line?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Аска",
+   "text": "「Молчи!\n　Просто молчи!」",
+   "orig": "Asuka\n「Shut up!\n　Just shut up!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Аска",
+   "text": "「Пошли, дурак Синдзи!」",
+   "orig": "Asuka\n「C'mon, Stupid Shinji!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Синдзи",
+   "text": "「Ладно, Аска.\n　До встречи, Майто!」",
+   "orig": "Shinji\n「Alright, Asuka.\n　Catch you later, Maito!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Майто",
+   "text": "「Странная они всё-таки парочка.」",
+   "orig": "Maito\n「Those two make a strange pair.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Гайн",
+   "text": "「Майто.」",
+   "orig": "Gaine\n「Maito.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Майто",
+   "text": "「С возвращением, Гайн.」",
+   "orig": "Maito\n「Welcome back, Gaine.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Гайн",
+   "text": "「Снова сражаться плечом к плечу с тобой — я будто ожил.」",
+   "orig": "Gaine\n「Fighting alongside you once more made me feel alive again.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Майто",
+   "text": "「И я тоже.」",
+   "orig": "Maito\n「Me, too.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Майто",
+   "text": "「Идём.\n　Бомберы и Дайверы\n　давно тебя ждут.」",
+   "orig": "Maito\n「Let's go.\n　The Bombers and Divers\n　are all waiting for you.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Гайн",
+   "text": "「Принято.」",
+   "orig": "Gaine\n「Roger.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Майто",
+   "text": "（Дзё ушёл, не сказав ни слова.\n　Нет сомнений — мы ещё встретимся на поле боя.）",
+   "orig": "Maito\n（Joe left without saying anything.\n　No doubt we will meet on the field of battle again.）"
+  },
+  {
+   "i": 51,
+   "speaker": "Майто",
+   "text": "（Бои становятся всё тяжелее, а враги — всё сильнее.）",
+   "orig": "Maito\n（Our battles grow more difficult, our enemies stronger.）"
+  },
+  {
+   "i": 52,
+   "speaker": "Майто",
+   "text": "（Но мы не имеем права проиграть.\n　Мы должны объединить силы с нашими \n　союзниками и защитить наши миры.）",
+   "orig": "Maito\n（But we must not lose.\n　We must join forces with our \n　allies and protect our worlds.）"
+  },
+  {
+   "i": 56,
+   "speaker": "Нага",
+   "text": "「Принцесса Саламандинай!」",
+   "orig": "Naga\n「Princess Salamandinay!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Саламандинай",
+   "text": "「Вам обеим не о чем беспокоиться.」",
+   "orig": "Salamandinay\n「There's no need to worry, you two.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Саламандинай",
+   "text": "「Только эти трое способны управлять  \n　Геттер-роботами. Тревожиться незачем.  \n　Они не позволят Геттер-лучам взять над собой верх.」",
+   "orig": "Salamandinay\n「Those three are the only people who can  \n　pilot the Getter Robots. No need to worry.  \n　They won't allow the Getter Rays to affect them.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Канамэ",
+   "text": "「Как будет угодно.\n　Мы с Нагой понимаем и принимаем ваше\n　решение, принцесса.」",
+   "orig": "Kaname\n「As you wish.\n　Naga and I understand and accept your\n　judgment in this situation, Princess.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Саламандинай",
+   "text": "「Возможно, но, похоже, Наге есть что сказать.」",
+   "orig": "Salamandinay\n「That may be, but it seems Naga has something to say.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Канамэ",
+   "text": "「Да, вообще-то есть.」",
+   "orig": "Kaname\n「Yes, actually.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Нага",
+   "text": "「Трое пилотов Геттер-робота соединяют\n　сердца и мысли и бьются как одно целое!」",
+   "orig": "Naga\n「The three Getter Robot pilots come\n　together in heart and mind to fight as one!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Нага",
+   "text": "「Чтобы перенять их силу, нам тоже стоит\n　научиться объединять наши Рю-Син-Ки!」",
+   "orig": "Naga\n「In order to emulate their strength, I think we\n　should learn to combine our Ryuu-Shin-Ki as well!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Саламандинай",
+   "text": "「Н-ну, не уверена, что нам нужно заходить так далеко.」",
+   "orig": "Salamandinay\n「W-well, I'm not so sure we need to go that far.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Найн",
+   "text": "「Если желаете, я могу предоставить вам\n　рабочие данные Геттер-робота.」",
+   "orig": "Nine\n「If you would like, I can provide you with\n　the Getter Robot operational data.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Найн",
+   "text": "「По итогам анализа сегодняшнего боя\n　мой тактический процессор получил данные,\n　эквивалентные 100 ТакО.」",
+   "orig": "Nine\n「Through analyzation of their battle today,\n　my tactical processing capacity acquired data\n　equivalent to 100 TAC points.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Нага",
+   "text": "「Что скажете, принцесса Саламандинай?」",
+   "orig": "Naga\n「What do you say, Princess Salamandinay?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Канамэ",
+   "text": "「Вполне может получиться.\n　С вами во главе мы закрыли бы\n　и скорость, и мощь.」",
+   "orig": "Kaname\n「It's quite possible it'll work.\n　With you as leader, we could\n　cover speed and power.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Саламандинай",
+   "text": "（Хм, эти двое и правда быстро \n　освоились во внешнем мире.）",
+   "orig": "Salamandinay\n（Hmm, these two certainly seem to \n　have adapted to the outside world quickly.）"
+  },
+  {
+   "i": 73,
+   "speaker": "Ал",
+   "text": "「Сколько лет, Гайн.」",
+   "orig": "Al\n「Long time, Gaine.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Гайн",
+   "text": "「Надеюсь, я не заставил тебя волноваться, Ал.\n　Так это твоё новое тело?」",
+   "orig": "Gaine\n「Hope I didn't worry you, Al.\n　So that's your new body?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Ал",
+   "text": "「Поражение, которое мы пережили,\n　сделало нас обоих куда сильнее.」",
+   "orig": "Al\n「Overcoming defeat has made\n　us both much stronger.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Блэк Гайн",
+   "text": "「И эту силу надо обратить на дело справедливости.」",
+   "orig": "Black Gaine\n「We have to use that power for justice.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Гайн",
+   "text": "「Верно, Блэк.」",
+   "orig": "Gaine\n「That's right, Black.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Гайн",
+   "text": "「Кстати, а где Найн?」",
+   "orig": "Gaine\n「By the way, where's Nine?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Файр Дайвер",
+   "text": "「Говорят, она в последнее время страшно занята.」",
+   "orig": "Fire Diver\n「She's apparently very busy lately?」"
+  },
+  {
+   "i": 80,
+   "speaker": "Майт Ганнер",
+   "text": "「Вот досада!\n　А я так хотел увидеть новую звёздочку «Брэйв Экспресса»!」",
+   "orig": "Might Gunner\n「Darn!\n　I wanted to meet the new Brave Express Corps' idol!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Полис Дайвер",
+   "text": "「Не ной, Майт Ганнер.」",
+   "orig": "Police Diver\n「Don't complain, Might Gunner.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Лео Бомбер",
+   "text": "「Найн сейчас выясняет, почему у «Ямато» \n　упала выходная мощность.」",
+   "orig": "Leo Bomber\n「Nine is currently investigating the \n　reduction the Yamato's power output.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Хорн Бомбер",
+   "text": "「И всё же она передала сообщение для Гайна.」",
+   "orig": "Horn Bomber\n「That said, she did give us a message addressed to Gaine.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Джет Дайвер",
+   "text": "「Оно гласит: «С возвращением, Гайн».」",
+   "orig": "Jet Diver\n「It says, \"Welcome back, Gaine.\"」"
+  },
+  {
+   "i": 85,
+   "speaker": "Гайн",
+   "text": "「Вот как.」",
+   "orig": "Gaine\n「I see.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Дрилл Дайвер",
+   "text": "「Не сказать чтобы захватывающее послание.」",
+   "orig": "Drill Diver\n「Not a terribly exciting message.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Гайн",
+   "text": "「Не соглашусь.\n　К тому же я скоро снова её увижу.」",
+   "orig": "Gaine\n「I disagree.\n　Besides, I'll be able to see her again, soon.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Гайн",
+   "text": "「Честно говоря, заменить её было бы почти невозможно,\n　так что я рад поддержать её всем, чем сумею.」",
+   "orig": "Gaine\n「Quite honestly, as it would be very hard replace her,\n　I'm quite comfortable supporting her in any way I can.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Дино Бомбер",
+   "text": "「Полностью согласен.」",
+   "orig": "Dino Bomber\n「I concur.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Бёрд Бомбер",
+   "text": "「Я считаю её нашей младшей сестрёнкой.」",
+   "orig": "Bird Bomber\n「I think of her as our little sister.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Ал",
+   "text": "「Тогда, может, подменим её \n　на проходной завода и поможем?」",
+   "orig": "Al\n「Alright then, why don't we take her \n　place at factory reception to help out?」"
+  },
+  {
+   "i": 92,
+   "speaker": "Блэк Гайн",
+   "text": "「О!\n　Лучшего места для моих скороговорок и не придумать!」",
+   "orig": "Black Gaine\n「Hey!\n　The perfect place for me to use my tongue twisters!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Гайн",
+   "text": "（Я вернулся, чтобы\n　продолжить бой, Найн.）",
+   "orig": "Gaine\n（I'm back to\n　continue the fight, Nine.）"
+  },
+  {
+   "i": 94,
+   "speaker": "Гайн",
+   "text": "（А ты делай то, что должна.）",
+   "orig": "Gaine\n（So you do what you need to do.）"
+  },
+  {
+   "i": 95,
+   "speaker": "Ал",
+   "text": "「Сколько лет, Гайн.」",
+   "orig": "Al\n「Long time, Gaine.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Гайн",
+   "text": "「Надеюсь, я не заставил тебя волноваться, Ал.\n　Так это твоё новое тело?」",
+   "orig": "Gaine\n「Hope I didn't worry you, Al.\n　So that's your new body?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Ал",
+   "text": "「Поражение, которое мы пережили,\n　сделало нас обоих куда сильнее.」",
+   "orig": "Al\n「Overcoming defeat has made\n　us both much stronger.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Гайн",
+   "text": "「Кстати, а где Найн?」",
+   "orig": "Gaine\n「By the way, where's Nine?」"
+  },
+  {
+   "i": 99,
+   "speaker": "Файр Дайвер",
+   "text": "「Говорят, она в последнее время страшно занята.」",
+   "orig": "Fire Diver\n「She's apparently very busy lately?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Майт Ганнер",
+   "text": "「Вот досада!\n　А я так хотел увидеть новую звёздочку «Брэйв Экспресса»!」",
+   "orig": "Might Gunner\n「Darn!\n　I wanted to meet the new Brave Express Corps' idol!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Полис Дайвер",
+   "text": "「Не ной, Майт Ганнер.」",
+   "orig": "Police Diver\n「Don't complain, Might Gunner.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Лео Бомбер",
+   "text": "「Найн сейчас выясняет, почему у «Ямато» \n　упала выходная мощность.」",
+   "orig": "Leo Bomber\n「Nine is currently investigating the \n　reduction the Yamato's power output.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Хорн Бомбер",
+   "text": "「И всё же она передала сообщение для Гайна.」",
+   "orig": "Horn Bomber\n「That said, she did give us a message addressed to Gaine.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Джет Дайвер",
+   "text": "「Оно гласит: «С возвращением, Гайн».」",
+   "orig": "Jet Diver\n「It says, \"Welcome back, Gaine.\"」"
+  },
+  {
+   "i": 105,
+   "speaker": "Гайн",
+   "text": "「Вот как.」",
+   "orig": "Gaine\n「I see.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Дрилл Дайвер",
+   "text": "「Не сказать чтобы захватывающее послание.」",
+   "orig": "Drill Diver\n「Not a terribly exciting message.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Гайн",
+   "text": "「Не соглашусь.\n　К тому же я скоро снова её увижу.」",
+   "orig": "Gaine\n「I disagree.\n　Besides, I'll be able to see her again, soon.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Гайн",
+   "text": "「Честно говоря, заменить её было бы почти невозможно,\n　так что я рад поддержать её всем, чем сумею.」",
+   "orig": "Gaine\n「Quite honestly, as it would be very hard replace her,\n　I'm quite comfortable supporting her in any way I can.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Дино Бомбер",
+   "text": "「Полностью согласен.」",
+   "orig": "Dino Bomber\n「I concur.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Бёрд Бомбер",
+   "text": "「Я считаю её нашей младшей сестрёнкой.」",
+   "orig": "Bird Bomber\n「I think of her as our little sister.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Ал",
+   "text": "「Тогда, может, подменим её \n　на проходной завода и поможем?」",
+   "orig": "Al\n「Alright then, why don't we take her \n　place at factory reception to help out?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Гайн",
+   "text": "（Я вернулся, чтобы\n　продолжить бой, Найн.）",
+   "orig": "Gaine\n（I'm back to\n　continue the fight, Nine.）"
+  },
+  {
+   "i": 113,
+   "speaker": "Гайн",
+   "text": "（А ты делай то, что должна.）",
+   "orig": "Gaine\n（So you do what you need to do.）"
+  }
+ ]
+}

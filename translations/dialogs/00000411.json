@@ -1,0 +1,1360 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Гули",
+   "text": "「Я не намерен больше тратить на тебя время.\n　Умри, $n!」",
+   "orig": "Ghuli\n「I have no intention of wasting more time on you.\n　Die, $n!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Найн",
+   "text": "「Сестрёнка!」",
+   "orig": "Nine\n「Sis!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Агент",
+   "text": "「А?」",
+   "orig": "Agent\n「Huh?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Гули",
+   "text": "「Гья!\n　Ты вызвала свои машины?」",
+   "orig": "Ghuli\n「Gyah!\n　You called your units?」"
+  },
+  {
+   "i": 5,
+   "speaker": "$n",
+   "text": "「Спасибо, Найн!\n　«Вангрэй» подоспел как раз вовремя!」",
+   "orig": "$n\n「Thank you, Nine!\n　VangRay showed up just in time!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Найн",
+   "text": "「Сестрёнка!\n　Скорее забирайся внутрь!」",
+   "orig": "Nine\n「Sis!\n　Hurry up and climb in!」"
+  },
+  {
+   "i": 7,
+   "speaker": "$n",
+   "text": "「Найн!\n　Держись крепче!」",
+   "orig": "$n\n「Nine!\n　Hold on tight!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Найн",
+   "text": "「Уклоняйся, сестрёнка!」",
+   "orig": "Nine\n「Evade, Sis!」"
+  },
+  {
+   "i": 9,
+   "speaker": "$n",
+   "text": "「А-а!」",
+   "orig": "$n\n「Argh!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Найн",
+   "text": "「Сестрёнка!」",
+   "orig": "Nine\n「Sis!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Джейми",
+   "text": "「Немедленно возвращайся, Гули.\n　Раз ты провалил задание,\n　нам придётся действовать иначе.」",
+   "orig": "Jamie\n「Return at once, Ghuli.\n　Since you've failed your mission,\n　we will have to try another approach.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Гули",
+   "text": "「Понял.」",
+   "orig": "Ghuli\n「Understood.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Кодай",
+   "text": "「Возвращайтесь в ангар, $l!」",
+   "orig": "Kodai\n「Return to the Hangar, $l!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Найн",
+   "text": "「Сестрёнка!\n　Отвези меня обратно на «Ямато»!」",
+   "orig": "Nine\n「Sis!\n　Take me back to the Yamato!」"
+  },
+  {
+   "i": 15,
+   "speaker": "$n",
+   "text": "「Принято!」",
+   "orig": "$n\n「Understood!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Лотти",
+   "text": "「$n, ты как?!」",
+   "orig": "Lottie\n「Are you OK, $n?!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Вельт",
+   "text": "「Похоже, «Вангрэй» получил повреждения.」",
+   "orig": "Velt\n「It looks like the VangRay took some damage.」"
+  },
+  {
+   "i": 18,
+   "speaker": "$n",
+   "text": "「Но бой ещё впереди!」",
+   "orig": "$n\n「But we still have a fight ahead!」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тобиа",
+   "text": "「$n, ты как?!」",
+   "orig": "Tobia\n「Are you OK, $n?1」"
+  },
+  {
+   "i": 20,
+   "speaker": "Кинкейд",
+   "text": "「Похоже, «Вангрэй» получил повреждения.」",
+   "orig": "Kincade\n「It looks like the VangRay took some damage.」"
+  },
+  {
+   "i": 21,
+   "speaker": "$n",
+   "text": "「Но бой ещё впереди!」",
+   "orig": "$n\n「But we still have a fight ahead!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Гули",
+   "text": "「$n!\n　Я пришёл покончить с этим!」",
+   "orig": "Ghuli\n「$n!\n　I've come to settle this!」"
+  },
+  {
+   "i": 23,
+   "speaker": "$n",
+   "text": "「Опять ты, Гули?」",
+   "orig": "$n\n「You again, Ghuli?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Хатауэй",
+   "text": "「Пилот того ведущего аппарата.\n　Это тот самый, который вечно куда-то спешит.」",
+   "orig": "Hathaway\n「The pilot in that lead unit.\n　It's the one who's always in such a rush.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Тобиа",
+   "text": "「Тот злющий тип с дырявой памятью?\n　Да он просто не умеет сдаваться!」",
+   "orig": "Tobia\n「That really angry, forgetful guy?\n　He just doesn't give up!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Кинкейд",
+   "text": "「И впрямь. Хотя, с тем, как они раз за разом\n　проигрывают, они уже, наверное, в отчаянии.」",
+   "orig": "Kincade\n「Indeed. Though, the way they keep losing,\n　they're probably getting desperate.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Джудо",
+   "text": "「Хотя, знаете, они как-то не слишком \n　хорошо помнят эти свои поражения.」",
+   "orig": "Judau\n「But you know, they don't seem to remember \n　those losses very well.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Бандзё",
+   "text": "「Скажем так: они смотрят на жизнь с оптимизмом.\n　Но проблема не в нём, а вон в той махине!」",
+   "orig": "Banjo\n「Let's just say they've got a positive outlook.\n　But our problem isn't him, it's over there!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Джейми",
+   "text": "「Хе-хе, похоже, «Мадивия» и правда слегка выделяется.」",
+   "orig": "Jamie\n「Hehe, I guess Madivia does stand out a little.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Рёма",
+   "text": "「Ты кто такая?」",
+   "orig": "Ryoma\n「Who are you?」"
+  },
+  {
+   "i": 31,
+   "speaker": "Джейми",
+   "text": "「Я — Джейми Рита Слаушель.\n　Командующая силами Гардима.」",
+   "orig": "Jamie\n「I am Jamie Reeta Slaushel.\n　Commander of the Gardim forces.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Соскэ",
+   "text": "「Прежний капитан, видно, наделал слишком много ошибок,\n　раз теперь сюда явилась сама командующая!」",
+   "orig": "Sousuke\n「The last captain must have made too many mistakes,\n　so now the commander is here!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Кодзи",
+   "text": "「Вот и отлично!\n　Выбьем из неё настоящую цель Гардима!」",
+   "orig": "Koji\n「That's perfect!\n　We can squeeze Gardim's real goal out of her!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Джейми",
+   "text": "「Какое уродство...」",
+   "orig": "Jamie\n「How ugly...」"
+  },
+  {
+   "i": 35,
+   "speaker": "$n",
+   "text": "「Что?」",
+   "orig": "$n\n「What?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Джейми",
+   "text": "「Вы и впрямь низший вид.\n　Речью владеете, а чувства прекрасного — ни капли!」",
+   "orig": "Jamie\n「You truly are an inferior species.\n　You may use language, but you have no esthetic sense!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Джейми",
+   "text": "「Гули,\n　ты провалил свой долг потому,\n　что раз за разом проигрываешь этой женщине.」",
+   "orig": "Jamie\n「Ghuli,\n　your failure in your duty is a result of\n　your continuing losses to this woman.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Гули",
+   "text": "「Я понял.」",
+   "orig": "Ghuli\n「I understand.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Джейми",
+   "text": "「В Гардиме ошибок не прощают!\n　Тебе ясно?」",
+   "orig": "Jamie\n「There is no forgiveness for mistakes in Gardim!\n　Do you understand?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Гули",
+   "text": "「Я исполню свой долг!」",
+   "orig": "Ghuli\n「I will fulfill my duty!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Джейми",
+   "text": "「Что ж, тогда вперёд.\n　Командование этими силами теперь за мной.」",
+   "orig": "Jamie\n「Very well then, go ahead.\n　I have command of this force now.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Гули",
+   "text": "「Я иду, $n!\n　Пора покончить с этим!」",
+   "orig": "Ghuli\n「I'm coming, $n!\n　It's time to settle this!」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「Ты повторяешь одно и то же.\n　Прямо как сломанный автомат!」",
+   "orig": "$n\n「You're repeating that same line.\n　You're like a broken machine!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Гули",
+   "text": "「Молчать!\n　Я двигаюсь быстрее, чем говорю!」",
+   "orig": "Ghuli\n「Shush!\n　I move faster than words!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Джейми",
+   "text": "「Он и правда глупец.」",
+   "orig": "Jamie\n「He really is a fool.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Найн",
+   "text": "「Сестрёнка,\n　«Вангрэй» сильно повреждён.」",
+   "orig": "Nine\n「Sis,\n　VangRay is badly damaged.」"
+  },
+  {
+   "i": 47,
+   "speaker": "$n",
+   "text": "「У меня нет выбора.\n　Раз он идёт за мной, \n　я смогу увести его подальше от остальных!」",
+   "orig": "$n\n「I don't have any choice.\n　Since he's coming for me, \n　I can draw him away from the others!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Найн",
+   "text": "「Понимаю.\n　Если иначе никак.」",
+   "orig": "Nine\n「I understand.\n　If that's what you must do.」"
+  },
+  {
+   "i": 49,
+   "speaker": "$n",
+   "text": "「А?\n　Найн?!」",
+   "orig": "$n\n「Huh?\n　Nine?!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Амуро",
+   "text": "「Ведущий доспех идёт за $n,\n　а все остальные целятся в «Ямато».」",
+   "orig": "Amuro\n「The lead suit is going after $n,\n　but all the others are targeting Yamato.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Майто",
+   "text": "「Похоже, того андроида послали,\n　чтобы расчистить им дорогу.」",
+   "orig": "Maito\n「They must have sent that android\n　to prepare the way.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Окита",
+   "text": "「«Ямато» не может уйти —\n　волновой двигатель не работает!\n　Всем машинам: уничтожать всех, кто подойдёт близко.」",
+   "orig": "Okita\n「The Yamato can't get away because\n　the wave motion engine is down!\n　All units, eliminate any enemies that get too near.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Окита",
+   "text": "「Не отрывайтесь от нас слишком далеко.\n　Нам нужно держать оборону!」",
+   "orig": "Okita\n「Don't stray too far ahead of us.\n　We have to maintain our defenses!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Кодай",
+   "text": "「Что скажете?」",
+   "orig": "Kodai\n「What do you think?」"
+  },
+  {
+   "i": 55,
+   "speaker": "Окита",
+   "text": "「Этот бой не таков, каким кажется.」",
+   "orig": "Okita\n「This battle is not what it seems to be.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Анж",
+   "text": "「В любом случае, разберитесь с этим шустряком!」",
+   "orig": "Ange\n「Anyway, make sure you take out the fast guy!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Рёма",
+   "text": "「Снимем командующую — и всему конец!\n　Не теряй хватки, $n!」",
+   "orig": "Ryoma\n「If we take out the commander, it's all over!\n　Don't lose your edge, $n!」"
+  },
+  {
+   "i": 58,
+   "speaker": "$n",
+   "text": "（Найн...\n　Ну хоть «Вангрэем» она всё ещё управляет.）",
+   "orig": "$n\n（Nine...\n　At least she's still operating the VangRay, I guess.）"
+  },
+  {
+   "i": 59,
+   "speaker": "$n",
+   "text": "（Она на что-то злится?\n　Так не похоже на неё — вот так обрывать связь!）",
+   "orig": "$n\n（Is she mad about something?\n　It's so unusual for her to cut off comms like that!）"
+  },
+  {
+   "i": 60,
+   "speaker": "Гули",
+   "text": "「$n!\n　Моя скорость сметёт твою жизнь!」",
+   "orig": "Ghuli\n「$n!\n　My speed is going to blow your life away!」"
+  },
+  {
+   "i": 61,
+   "speaker": "$n",
+   "text": "「Давай, Гули!\n　Покончим с этим быстро, как ты и хотел!」",
+   "orig": "$n\n「Bring it on, Ghuli!\n　We'll end this quick, just like you want!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Лунамария",
+   "text": "「У них тут было подкрепление!」",
+   "orig": "Lunamaria\n「They had reinforcements in place!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Синн",
+   "text": "「Похоже, командует эта Джейми.」",
+   "orig": "Shinn\n「That Jamie must be in command.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Окита",
+   "text": "「Всем машинам!\n　Противник сосредоточил атаки — он пытается\n　пробить нашу оборону!」",
+   "orig": "Okita\n「All units!\n　The enemy is focusing its attacks, they're\n　trying to break through our defenses!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Окита",
+   "text": "「Постройте оборонительный периметр вокруг «Ямато»\n　и поддержите $l!」",
+   "orig": "Okita\n「Form a defensive perimeter around the Yamato,\n　and support $l!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Кодзи",
+   "text": "「Опять они лезут!」",
+   "orig": "Koji\n「Here they come again!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Каппэй",
+   "text": "「Ну и упорная же эта их начальница.」",
+   "orig": "Kappei\n「That lady in charge sure is persistent.」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "（Надо спешить.\n　«Вангрэю» уже почти конец.）",
+   "orig": "$n\n（I have to hurry.\n　VangRay is almost done for.）"
+  },
+  {
+   "i": 69,
+   "speaker": "Гули",
+   "text": "「Что такое, $n?\n　Ты сбавляешь ход!」",
+   "orig": "Ghuli\n「What's wrong, $n?\n　You're slowing down!」"
+  },
+  {
+   "i": 70,
+   "speaker": "$n",
+   "text": "「Опять ты про скорость?\n　В жизни есть кое-что и кроме скорости, знаешь ли!」",
+   "orig": "$n\n「Still talking about speed?\n　There's more to life than speed, you know!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Гули",
+   "text": "「Замолчи!\n　Скорость — вот моя жизнь!」",
+   "orig": "Ghuli\n「Shut up!\n　Speed is my life!」"
+  },
+  {
+   "i": 72,
+   "speaker": "$n",
+   "text": "「Всё кончено, Гули!」",
+   "orig": "$n\n「It's over, Ghuli!」"
+  },
+  {
+   "i": 73,
+   "speaker": "？？？",
+   "text": "「Проклятье!\n　Почему я не могу тебя одолеть?!」",
+   "orig": "？？？\n「Curses!\n　Why can't I beat you?!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Гули",
+   "text": "「Разве я недостаточно быстр?」",
+   "orig": "Ghuli\n「Aren't I fast enough?」"
+  },
+  {
+   "i": 75,
+   "speaker": "$n",
+   "text": "「Что за—?!」",
+   "orig": "$n\n「What the—?!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Соскэ",
+   "text": "「Механическое тело...」",
+   "orig": "Sousuke\n「It's a mechanical body...」"
+  },
+  {
+   "i": 77,
+   "speaker": "Сэцуна",
+   "text": "「Он андроид?!」",
+   "orig": "Setsuna\n「He's an android?!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Гули",
+   "text": "「Я — машина?!」",
+   "orig": "Ghuli\n「I'm a machine?!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Гули",
+   "text": "「Чушь! Я —\n　Гули Тарта Галбрас！\n　Я воин Гардима!」",
+   "orig": "Ghuli\n「Nonsense! I am\n　Ghuli Tarta Galbras！\n　I am a warrior of Gardim!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Гули",
+   "text": "「Я... я —」",
+   "orig": "Ghuli\n「I... I am—」"
+  },
+  {
+   "i": 81,
+   "speaker": "$n",
+   "text": "「Гули!」",
+   "orig": "$n\n「Ghuli!」"
+  },
+  {
+   "i": 82,
+   "speaker": "$n",
+   "text": "「Держись!\n　Куда подевалась вся \n　твоя уверенность?」",
+   "orig": "$n\n「Hang in there!\n　Where did all of that \n　confidence go?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Гули",
+   "text": "「$n...」",
+   "orig": "Ghuli\n「$n...」"
+  },
+  {
+   "i": 84,
+   "speaker": "$n",
+   "text": "「Неважно, машина ты или человек —\n　твоя скорость никуда не делась!」",
+   "orig": "$n\n「It doesn't matter if you're a machine\n　or a man, your speed is still there!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Гули",
+   "text": "「Никуда не делась...」",
+   "orig": "Ghuli\n「It's still there...」"
+  },
+  {
+   "i": 86,
+   "speaker": "$n",
+   "text": "「Ты же сам это сказал!\n　Скорость — это жизнь!」",
+   "orig": "$n\n「Well, you said it yourself!\n　Speed is life!」"
+  },
+  {
+   "i": 87,
+   "speaker": "$n",
+   "text": "「А значит, даже будучи машиной,\n　ты всё равно живой!」",
+   "orig": "$n\n「And so, even if you're a machine,\n　you're still alive!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Гули",
+   "text": "「Верно...」",
+   "orig": "Ghuli\n「That's right...」"
+  },
+  {
+   "i": 89,
+   "speaker": "Джейми",
+   "text": "「Этот фарс окончен!」",
+   "orig": "Jamie\n「This farce is over!」"
+  },
+  {
+   "i": 90,
+   "speaker": "$n",
+   "text": "「Что?!」",
+   "orig": "$n\n「What?!」"
+  },
+  {
+   "i": 91,
+   "speaker": "$n",
+   "text": "「Гья!」",
+   "orig": "$n\n「Gyah!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Джудо",
+   "text": "「$n!」",
+   "orig": "Judau\n「$n!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Джейми",
+   "text": "「Какое упрямство!\n　После такого удара — и всё ещё в строю?」",
+   "orig": "Jamie\n「How obstinate!\n　You're still alive after that attack?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Джейми",
+   "text": "「Что ж, покончим с этим.」",
+   "orig": "Jamie\n「Well then, let's end it.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Джейми",
+   "text": "「Отступай, Гули.\n　Ты всё ещё намерен нарушать приказы — после того,\n　как уже упустил нашу цель?」",
+   "orig": "Jamie\n「Withdraw, Ghuli.\n　Do you still intend to disobey orders, even after\n　failing to obtain our target once already?」"
+  },
+  {
+   "i": 96,
+   "speaker": "Джейми",
+   "text": "「Возможно, дело в сбое твоей управляющей программы,\n　но на этот счёт у меня своё мнение.」",
+   "orig": "Jamie\n「It could well be a bug in your control program,\n　but I have my own opinions about that.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Гули",
+   "text": "「Что бы это ни было, позволь мне хотя бы \n　расправиться с этой женщиной своими руками!」",
+   "orig": "Ghuli\n「Whatever it may be, at least \n　allow me to take down that woman with my own hands!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Джейми",
+   "text": "「Последняя просьба, значит?\n　Что ж, хорошо, разрешаю.」",
+   "orig": "Jamie\n「Your last request, eh?\n　Very well then, I give you permission.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Гули",
+   "text": "「Благодарю!」",
+   "orig": "Ghuli\n「Thank you!」"
+  },
+  {
+   "i": 100,
+   "speaker": "$n",
+   "text": "「Гули...」",
+   "orig": "$n\n「Ghuli...」"
+  },
+  {
+   "i": 101,
+   "speaker": "Гули",
+   "text": "「Спасибо тебе, $n.」",
+   "orig": "Ghuli\n「Thank you, $n.」"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「За что?」",
+   "orig": "$n\n「Why?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Гули",
+   "text": "「Что бы ни случилось, меня сотрут.\n　Машине, провалившей свой долг,\n　нет места в Гардиме.」",
+   "orig": "Ghuli\n「Whatever happens, they're deleting me.\n　A machine that fails in its duty\n　has no place in Gardim.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Гули",
+   "text": "「Но благодаря тебе я смог\n　перед самым концом наконец узнать,\n　кто я на самом деле.」",
+   "orig": "Ghuli\n「But thanks to you, I could\n　finally come to know my real self\n　before the end.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Гули",
+   "text": "「Поэтому я не отдам тебя Джейми.\n　Я прикончу тебя сам!」",
+   "orig": "Ghuli\n「So, I'm not handing you over to Jamie.\n　I'm taking you down myself!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Банагер",
+   "text": "「$n!」",
+   "orig": "Banagher\n「$n!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Акито",
+   "text": "「Мы идём!」",
+   "orig": "Akito\n「We're coming!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Джейми",
+   "text": "「О нет, не выйдет!」",
+   "orig": "Jamie\n「Oh, no you won't!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Кира",
+   "text": "「Нам не подобраться!」",
+   "orig": "Kira\n「We can't get close!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Кодай",
+   "text": "「Иначе $l конец!」",
+   "orig": "Kodai\n「If not then $l's done for!」"
+  },
+  {
+   "i": 111,
+   "speaker": "？？？",
+   "text": "「Я иду!」",
+   "orig": "？？？\n「I'll go!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Гули",
+   "text": "「Какая скорость!」",
+   "orig": "Ghuli\n「So fast!」"
+  },
+  {
+   "i": 113,
+   "speaker": "$n",
+   "text": "「Найн, это ты?」",
+   "orig": "$n\n「Is that Nine?」"
+  },
+  {
+   "i": 114,
+   "speaker": "Найн",
+   "text": "「Да!」",
+   "orig": "Nine\n「It is!」"
+  },
+  {
+   "i": 115,
+   "speaker": "$n",
+   "text": "「Что это за машина?」",
+   "orig": "$n\n「What's this unit?」"
+  },
+  {
+   "i": 116,
+   "speaker": "Найн",
+   "text": "「Он называется «ВангНекс».\n　Это улучшенная версия «Вангрэя».」",
+   "orig": "Nine\n「It's called the VangNex.\n　It's an upgraded version of the VangRay.」"
+  },
+  {
+   "i": 117,
+   "speaker": "$n",
+   "text": "「Когда ты успела его построить?!」",
+   "orig": "$n\n「When did was this built?!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Найн",
+   "text": "「Скорее забирайся, сестрёнка!」",
+   "orig": "Nine\n「Hurry and get in, Sis!」"
+  },
+  {
+   "i": 119,
+   "speaker": "$n",
+   "text": "「Поняла!」",
+   "orig": "$n\n「Right!」"
+  },
+  {
+   "i": 120,
+   "speaker": "$n",
+   "text": "「Найн, ты тоже на борту?」",
+   "orig": "$n\n「Are you on board too, Nine?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Найн",
+   "text": "「Чтобы управлять «ВангНексом», \n　мне нужен более прямой контроль.」",
+   "orig": "Nine\n「In order to operate the VangNex, \n　I have to take a bit more direct control.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Найн",
+   "text": "「Испытания ещё не закончены, но давай попробуем?」",
+   "orig": "Nine\n「It's not fully tested yet, but shall we give it a try?」"
+  },
+  {
+   "i": 123,
+   "speaker": "$n",
+   "text": "「С «Вангрэем» было так же, мне не привыкать!」",
+   "orig": "$n\n「Neither was the VangRay, so I'm used to that!」"
+  },
+  {
+   "i": 124,
+   "speaker": "Гули",
+   "text": "「$n!」",
+   "orig": "Ghuli\n「$n!」"
+  },
+  {
+   "i": 125,
+   "speaker": "$n",
+   "text": "「Ну что ж, Гули, покончим с этим, как ты и хотел!」",
+   "orig": "$n\n「OK then, Ghuli, let's settle this like you wanted!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Гули",
+   "text": "「Эй...」",
+   "orig": "Ghuli\n「Hey...」"
+  },
+  {
+   "i": 127,
+   "speaker": "$n",
+   "text": "「Что?」",
+   "orig": "$n\n「What?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Гули",
+   "text": "「Назови мне имя этой машины\n　ещё раз.」",
+   "orig": "Ghuli\n「Let me hear that unit's\n　name one more time.」"
+  },
+  {
+   "i": 129,
+   "speaker": "$n",
+   "text": "「Это «ВангНекс».」",
+   "orig": "$n\n「It's VangNex.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Гули",
+   "text": "「Мне нравится его скорость...\n　Прощай, $n.」",
+   "orig": "Ghuli\n「I like the speed of it...\n　Farewell, $n.」"
+  },
+  {
+   "i": 131,
+   "speaker": "Гули",
+   "text": "「Что это такое?」",
+   "orig": "Ghuli\n「What is that?」"
+  },
+  {
+   "i": 132,
+   "speaker": "$n",
+   "text": "「Найн, это ты?」",
+   "orig": "$n\n「Nine, is that you?」"
+  },
+  {
+   "i": 133,
+   "speaker": "Найн",
+   "text": "「Да!」",
+   "orig": "Nine\n「Yes!」"
+  },
+  {
+   "i": 134,
+   "speaker": "$n",
+   "text": "「Что это за машина?」",
+   "orig": "$n\n「What's this unit?」"
+  },
+  {
+   "i": 135,
+   "speaker": "Найн",
+   "text": "「Он называется «ГранВанг».\n　Это улучшенная версия «Вангрэя».」",
+   "orig": "Nine\n「It's called GranVang.\n　It's an upgraded version of the VangRay.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Найн",
+   "text": "「Правда, я переработала саму базовую концепцию,\n　так что теперь его, пожалуй, смело можно \n　назвать супер-роботом.」",
+   "orig": "Nine\n「But having said that, I redesigned the basic concept\n　and now I think it's safe to call this \n　a super robot.」"
+  },
+  {
+   "i": 137,
+   "speaker": "$n",
+   "text": "「Когда ты успела его построить?!」",
+   "orig": "$n\n「When did was this built?!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Найн",
+   "text": "「Скорее забирайся, сестрёнка!」",
+   "orig": "Nine\n「Hurry and get in, Sis!」"
+  },
+  {
+   "i": 139,
+   "speaker": "$n",
+   "text": "「Поняла!」",
+   "orig": "$n\n「Right!」"
+  },
+  {
+   "i": 140,
+   "speaker": "$n",
+   "text": "「Найн, ты тоже на борту?」",
+   "orig": "$n\n「Are you on board too, Nine?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Найн",
+   "text": "「Чтобы управлять «ГранВангом», \n　мне нужен более прямой контроль.」",
+   "orig": "Nine\n「In order to operate the GranVang, \n　I have to take a bit more direct control.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Найн",
+   "text": "「Испытания ещё не закончены, но давай попробуем?」",
+   "orig": "Nine\n「It's not fully tested yet, but shall we give it a try?」"
+  },
+  {
+   "i": 143,
+   "speaker": "$n",
+   "text": "「С «Вангрэем» было так же, мне не привыкать!」",
+   "orig": "$n\n「Neither was the VangRay, so I'm used to that!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Гули",
+   "text": "「$n!」",
+   "orig": "Ghuli\n「$n!」"
+  },
+  {
+   "i": 145,
+   "speaker": "$n",
+   "text": "「Ну что ж, Гули, покончим с этим, как ты и хотел!」",
+   "orig": "$n\n「OK then, Ghuli, let's settle this like you wanted!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Гули",
+   "text": "「Эй...」",
+   "orig": "Ghuli\n「Hey...」"
+  },
+  {
+   "i": 147,
+   "speaker": "$n",
+   "text": "「Что?」",
+   "orig": "$n\n「What?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Гули",
+   "text": "「Назови мне имя этой машины\n　ещё раз.」",
+   "orig": "Ghuli\n「Let me hear that unit's\n　name one more time.」"
+  },
+  {
+   "i": 149,
+   "speaker": "$n",
+   "text": "「Это «ГранВанг».」",
+   "orig": "$n\n「It's GranVang.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Гули",
+   "text": "「Мне нравится его скорость...\n　Прощай, $n.」",
+   "orig": "Ghuli\n「I like the speed of it...\n　Farewell, $n.」"
+  },
+  {
+   "i": 151,
+   "speaker": "$n",
+   "text": "「Прощай, Гули.\n　Тебе больше некуда спешить.」",
+   "orig": "$n\n「Goodbye, Ghuli.\n　You don't need to rush any more.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Хатауэй",
+   "text": "「У тебя получилось, $n!」",
+   "orig": "Hathaway\n「You did it, $n!」"
+  },
+  {
+   "i": 153,
+   "speaker": "$n",
+   "text": "「Это не моя заслуга.\n　Всё благодаря $r и Найн.」",
+   "orig": "$n\n「That wasn't me out there.\n　That was all thanks to $r and Nine.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Майто",
+   "text": "「Но откуда взялась эта новая машина?」",
+   "orig": "Maito\n「But where did that new unit come from?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Джудо",
+   "text": "「Кто её собрал?\n　Санада? Или, может, Иан?」",
+   "orig": "Judau\n「Who made it?\n　Was it Sanada? Or maybe Ian?」"
+  },
+  {
+   "i": 156,
+   "speaker": "Найн",
+   "text": "「Вообще-то, это—」",
+   "orig": "Nine\n「Well, actually—」"
+  },
+  {
+   "i": 157,
+   "speaker": "Джейми",
+   "text": "「Что ты творишь, Гули?!\n　Мог бы хотя бы покончить с ней до того,\n　как они сменили машину!」",
+   "orig": "Jamie\n「What are you doing, Ghuli?!\n　You could at least have taken care of her\n　before they switched units!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Джейми",
+   "text": "「Впрочем, чего ещё ждать\n　от одноразовых солдат.」",
+   "orig": "Jamie\n「Ah well, what can you expect from\n　disposable soldiers like that.」"
+  },
+  {
+   "i": 159,
+   "speaker": "Кодзи",
+   "text": "「Что это за женщина?」",
+   "orig": "Koji\n「Who is that woman?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Соскэ",
+   "text": "「Какой бы она ни была командующей, как\n　человек она третьесортна.」",
+   "orig": "Sousuke\n「Whatever kind of commander she is, as\n　a human being she's third-rate.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Джейми",
+   "text": "「Ты пытаешься меня спровоцировать?\n　Я не в настроении!」",
+   "orig": "Jamie\n「Are you trying to provoke me?\n　I am not in the mood!」"
+  },
+  {
+   "i": 162,
+   "speaker": "Джейми",
+   "text": "「А сейчас я хотела бы, чтобы вы \n　тихо и мирно передали мне ИИ,\n　что сидит в этой новой машине. Договорились?」",
+   "orig": "Jamie\n「Right now, I would like you to \n　quietly hand over the AI currently\n　riding in that new unit. Alright?」"
+  },
+  {
+   "i": 163,
+   "speaker": "$n",
+   "text": "「Я не отдам вам Найн!」",
+   "orig": "$n\n「I won't give you Nine!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Джейми",
+   "text": "「Так я и думала.\n　Ни капли красоты.」",
+   "orig": "Jamie\n「Just as I expected.\n　Not an ounce of beauty.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Джейми",
+   "text": "「Что ж, тогда я просто лишу эту машину сил.」",
+   "orig": "Jamie\n「Very well then, I shall render that unit powerless.」"
+  },
+  {
+   "i": 166,
+   "speaker": "$n",
+   "text": "「Я не дам тебе тронуть ни Найн, \n　ни $r!」",
+   "orig": "$n\n「I won't let you touch Nine \n　or the $r!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Найн",
+   "text": "「Сестрёнка!」",
+   "orig": "Nine\n「Sis!」"
+  },
+  {
+   "i": 168,
+   "speaker": "$n",
+   "text": "「Вперёд, Найн!\n　Снесём её вместе с $r!」",
+   "orig": "$n\n「Let's do it, Nine!\n　Let's take her out with $r!」"
+  },
+  {
+   "i": 169,
+   "speaker": "$n",
+   "text": "「А потом заставим её всё объяснить — \n　что им нужно и зачем им ты!」",
+   "orig": "$n\n「And then we'll make her explain everything, \n　what they're after, and why they want you!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Джейми",
+   "text": "「Все данные, что я собрала до сих пор,\n　никуда не годятся!」",
+   "orig": "Jamie\n「None of the data I've gathered so far\n　is of any use!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Джейми",
+   "text": "「Придётся повторить попытку позже.」",
+   "orig": "Jamie\n「I will have to try again later.」"
+  },
+  {
+   "i": 172,
+   "speaker": "$n",
+   "text": "「Стой!」",
+   "orig": "$n\n「Wait!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Джейми",
+   "text": "「Не волнуйтесь, я буду возвращаться столько раз, \n　сколько понадобится, чтобы выполнить задание!」",
+   "orig": "Jamie\n「Don't worry, I'll be back as many times \n　as it takes to succeed in my mission!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Окита",
+   "text": "「Они отступили.」",
+   "orig": "Okita\n「They've retreated.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Санада",
+   "text": "「Что ж, хоть какое-то представление о их целях — \n　до сих пор о планах Гардима мы не знали ничего.」",
+   "orig": "Sanada\n「Well, at least we got some idea about what they're after, \n　up to now we've not had any clue about Gardim's goals.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Окита",
+   "text": "「Им нужен «Ямато».\n　И Найн.」",
+   "orig": "Okita\n「They want the Yamato.\n　And Nine.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Кодай",
+   "text": "「С «Ямато» понятно — волновой двигатель. Но\n　зачем им Найн?」",
+   "orig": "Kodai\n「So the Yamato has the wave motion engine, but\n　why would they want Nine?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Санада",
+   "text": "「Давайте спросим у неё самой.」",
+   "orig": "Sanada\n「Let's ask her ourselves.」"
+  },
+  {
+   "i": 179,
+   "speaker": "$n",
+   "text": "「Найн.」",
+   "orig": "$n\n「Nine.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Найн",
+   "text": "「Да?」",
+   "orig": "Nine\n「Yes?」"
+  },
+  {
+   "i": 181,
+   "speaker": "$n",
+   "text": "「Расскажешь им?\n　Объясни всё, что знаешь.」",
+   "orig": "$n\n「Will you tell them?\n　Explain everything you know.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Найн",
+   "text": "「Хорошо.」",
+   "orig": "Nine\n「Yes.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Сима",
+   "text": "「Чёрт!\n　Пока мы не можем двигаться, мы просто мишень!」",
+   "orig": "Shima\n「Damn!\n　As long as we can't move, we're sitting ducks!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Ниими",
+   "text": "「Волновой барьер на пределе!\n　Долго мы такого не выдержим!」",
+   "orig": "Niimi\n「The wave motion barrier is at its limit!\n　We can't take much more of this!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Окита",
+   "text": "「Возвращайся к обороне, Кодай!\n　Снимай всех, кто подойдёт к «Ямато»!」",
+   "orig": "Okita\n「Get back to the defenses, Kodai!\n　Take out any enemies that get close to the Yamato!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Кодай",
+   "text": "「Есть!」",
+   "orig": "Kodai\n「Roger!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Джейми",
+   "text": "「Похоже, мне придётся пересмотреть свой план.」",
+   "orig": "Jamie\n「It appears that I'll have to rethink my plan.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Мори",
+   "text": "「Машина вражеского командира отходит!」",
+   "orig": "Mori\n「The enemy commander unit is retreating!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Окита",
+   "text": "「Скорее всего, они вернутся.\n　Бдительности терять нельзя.」",
+   "orig": "Okita\n「They'll likely be back.\n　We can't drop our guard.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Гули",
+   "text": "「Летать с тобой — одно удовольствие,\n　$n!」",
+   "orig": "Ghuli\n「Flying with you is fun,\n　$n!」"
+  },
+  {
+   "i": 191,
+   "speaker": "$n",
+   "text": "「Вот уж совсем не соглашусь!」",
+   "orig": "$n\n「I don't agree at all!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Гули",
+   "text": "「Мне тебя жаль — тебе не дано\n　ощутить истинную радость боя и скорости!」",
+   "orig": "Ghuli\n「I feel sorry for you, you can't\n　feel the real joy of battle, and speed!」"
+  },
+  {
+   "i": 193,
+   "speaker": "$n",
+   "text": "「И не надо!」",
+   "orig": "$n\n「I don't need to!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Гули",
+   "text": "「Вот как?\n　Что ж, я воин, я рождён для битвы!」",
+   "orig": "Ghuli\n「Is that so?\n　Well, I'm a warrior, I was born to fight!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Гули",
+   "text": "「Бой — вот моя жизнь!\n　А жажда скорости — \n　вот что придаёт мне смысл!」",
+   "orig": "Ghuli\n「Fighting is my life!\n　And the need for speed is \n　what gives me meaning!」"
+  },
+  {
+   "i": 196,
+   "speaker": "$n",
+   "text": "「Ох, Гули.\n　Вот теперь мне тебя впервые жаль.」",
+   "orig": "$n\n「Oh dear, Ghuli.\n　For the first time, I pity you.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Гули",
+   "text": "「Что?!」",
+   "orig": "Ghuli\n「What?!」"
+  },
+  {
+   "i": 198,
+   "speaker": "$n",
+   "text": "「В жизни есть куда больше, чем\n　бой и скорость!」",
+   "orig": "$n\n「There is so much more to life than\n　fighting and speed!」"
+  },
+  {
+   "i": 199,
+   "speaker": "$n",
+   "text": "「Такому, как ты, кто не знает цены мирной жизни,\n　я никогда не проиграю!」",
+   "orig": "$n\n「I'll never lose to someone like you,\n　who doesn't know the value of a peaceful life!」"
+  },
+  {
+   "i": 200,
+   "speaker": "$n",
+   "text": "「Гули же был твоим солдатом, разве нет?\n　Как ты можешь говорить такие жуткие вещи?」",
+   "orig": "$n\n「Ghuli was your solider, wasn't he?\n　How can you say such terrible things?」"
+  },
+  {
+   "i": 201,
+   "speaker": "Джейми",
+   "text": "「Моим солдатом?\n　Разве я не избавилась всего лишь от машины,\n　которая отслужила своё?」",
+   "orig": "Jamie\n「My soldier?\n　Wasn't I just disposing a machine\n　that had served its purpose?」"
+  },
+  {
+   "i": 202,
+   "speaker": "Найн",
+   "text": "「Похоже, солдат Гули был устроен так,\n　чтобы восстанавливаться после уничтожения —\n　теряя при этом все свои воспоминания.」",
+   "orig": "Nine\n「It appears that the soldier Ghuli\n　was designed to recover after being shot down, and\n　lose all its memories in the process.」"
+  },
+  {
+   "i": 203,
+   "speaker": "$n",
+   "text": "「И всё равно!」",
+   "orig": "$n\n「But even so!」"
+  },
+  {
+   "i": 204,
+   "speaker": "Джейми",
+   "text": "「Для победы нужны жертвы.\n　Кто думает о таком, тот никогда не поведёт за собой.」",
+   "orig": "Jamie\n「Sacrifices are necessary for victory.\n　If you worry about such things, you can never lead.」"
+  },
+  {
+   "i": 205,
+   "speaker": "$n",
+   "text": "「Я не приемлю такой образ мыслей!」",
+   "orig": "$n\n「I can't accept that way of thinking!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Джейми",
+   "text": "「Я не намерена выслушивать простую пешку.\n　Долг командира — обеспечить победу\n　с как можно меньшими потерями.」",
+   "orig": "Jamie\n「I have no intention to listen to a mere grunt.\n　As a commander, it is my duty to ensure victory\n　with as few losses as possible.」"
+  },
+  {
+   "i": 207,
+   "speaker": "$n",
+   "text": "「Ты такая же, как Гули!\n　Нет, ты хуже него — тебе плевать\n　даже на жизни своих собственных бойцов!」",
+   "orig": "$n\n「You're the same as Ghuli!\n　No, you're worse than him, you\n　don't even care about the lives of your own side!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Джейми",
+   "text": "「Я же сказала:\n　тот солдат не был живым!」",
+   "orig": "Jamie\n「And as I said,\n　that soldier was not alive!」"
+  },
+  {
+   "i": 209,
+   "speaker": "$n",
+   "text": "「Тебе никогда не понять, о чём я говорю.」",
+   "orig": "$n\n「You'll never understand what I'm trying to say.」"
+  },
+  {
+   "i": 210,
+   "speaker": "$n",
+   "text": "「Но так просто я тебе этого не спущу!」",
+   "orig": "$n\n「But I still won't let you get away with this!」"
+  },
+  {
+   "i": 211,
+   "speaker": "$n",
+   "text": "「Найн, ты что, \n　до самой последней минуты\n　настраивала $r?」",
+   "orig": "$n\n「Nine, were you \n　still adjusting the $r\n　until just now?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yes.」"
+  },
+  {
+   "i": 213,
+   "speaker": "$n",
+   "text": "「Приятно говорить с тобой в бою\n　напрямую, а не через монитор.」",
+   "orig": "$n\n「It feels nice to talk to you in battle\n　directly instead of through a monitor.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yes.」"
+  },
+  {
+   "i": 215,
+   "speaker": "$n",
+   "text": "「Волнуешься?」",
+   "orig": "$n\n「Are you nervous?」"
+  },
+  {
+   "i": 216,
+   "speaker": "Найн",
+   "text": "「А тебе не страшно, сестрёнка?」",
+   "orig": "Nine\n「Aren't you scared, Sis?」"
+  },
+  {
+   "i": 217,
+   "speaker": "$n",
+   "text": "「Конечно, страшно.\n　Потому и приходится каждый раз биться изо всех сил.」",
+   "orig": "$n\n「Of course I am.\n　That's why I always have to fight so hard.」"
+  },
+  {
+   "i": 218,
+   "speaker": "$n",
+   "text": "「Мне нужна твоя помощь, Найн.\n　Чтобы мы это пережили.」",
+   "orig": "$n\n「I need your help, Nine.\n　So that we can survive this.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Найн",
+   "text": "「Сестрёнка...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 220,
+   "speaker": "$n",
+   "text": "「Давай поскорее закончим этот бой,\n　чтобы как следует поблагодарить того,\n　кто создал $r!」",
+   "orig": "$n\n「Let's hurry and finish this fight\n　so we can properly thank whoever it is\n　that made the $r!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Найн",
+   "text": "「Ну что вы, что вы, я лишь исполняла свой долг.」",
+   "orig": "Nine\n「No, no, I was only doing my duty.」"
+  },
+  {
+   "i": 222,
+   "speaker": "$n",
+   "text": "「А?」",
+   "orig": "$n\n「Huh?」"
+  },
+  {
+   "i": 223,
+   "speaker": "Найн",
+   "text": "「Противник прямо по курсу!\n　Не теряй сосредоточенности!」",
+   "orig": "Nine\n「Enemy units straight ahead!\n　Don't lose your focus!」"
+  },
+  {
+   "i": 224,
+   "speaker": "$n",
+   "text": "「Принято!\n　Вперёд, Найн!」",
+   "orig": "$n\n「Roger!\n　Let's go, Nine!」"
+  },
+  {
+   "i": 225,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

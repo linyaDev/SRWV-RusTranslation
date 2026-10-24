@@ -1,0 +1,454 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　-Ангар «Ямато»-",
+   "orig": "　\n　\n　　　　　　　　　　　-Yamato Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Мельда",
+   "text": "「Похоже, это прощание, Акира.」",
+   "orig": "Melda\n「I guess this is goodbye, Akira.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Ямамото",
+   "text": "「Похоже на то.」",
+   "orig": "Yamamoto\n「I guess it is.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Мельда",
+   "text": "「Мы уже на территории Гамиласа. Если я подам\n　сигнал бедствия, за мной прилетят.」",
+   "orig": "Melda\n「We are in Gamillas territory now. If I send out a\n　distress signal they'll come pick me up.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Мельда",
+   "text": "「Вам всем лучше убраться отсюда\n　до того, как это случится.」",
+   "orig": "Melda\n「You all should probably get out of here\n　before that happens.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Кодай",
+   "text": "「Мы так и собираемся.」",
+   "orig": "Kodai\n「We're planning on it.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Мельда",
+   "text": "「Спасибо за всё, лейтенант.\n　Я никогда не забуду дни, проведённые на этом\n　корабле в составе $c.」",
+   "orig": "Melda\n「Thanks for everything, Lieutenant.\n　I'll never forget the days I spent on this ship\n　as a part of $c.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Мельда",
+   "text": "「Я доложу о том, что натворил командор Гоэр,\n　чтобы защитить честь командора Ланга.」",
+   "orig": "Melda\n「I plan on reporting what happened with Commander\n　Goer to protect Commander Lang's honor.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Ямамото",
+   "text": "「А потом?」",
+   "orig": "Yamamoto\n「And then?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Мельда",
+   "text": "「А потом — обратно в строй.」",
+   "orig": "Melda\n「Back to the military for me.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Мельда",
+   "text": "「И если мы встретимся на поле боя, мне придётся\n　исполнить свой долг солдата Гамиласа.」",
+   "orig": "Melda\n「If I meet any of you on the battlefield, I will\n　have to fulfill my duty as a Gamillan soldier.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Кодай",
+   "text": "「Мельда...」",
+   "orig": "Kodai\n「Melda...」"
+  },
+  {
+   "i": 15,
+   "speaker": "Мельда",
+   "text": "「Надеюсь, этот день не настанет.」",
+   "orig": "Melda\n「I hope that day never comes.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Кодай",
+   "text": "「Мы тоже.」",
+   "orig": "Kodai\n「As do we.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Пуру",
+   "text": "「Мельда, как думаешь, мы когда-нибудь встретимся\n　снова как подруги, а не как враги?」",
+   "orig": "Ple\n「Melda, do you think we could ever meet again\n　as friends instead of enemies?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Пуру Два",
+   "text": "「Давай как-нибудь снова сходим за мороженым.」",
+   "orig": "Ple Two\n「Let's go out for ice cream again together someday.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Мельда",
+   "text": "「Честно говоря, не знаю, выйдет ли.」",
+   "orig": "Melda\n「I'm really not sure if that will be possible.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Марида",
+   "text": "「Не стоит сводить себя к одному лишь долгу.」",
+   "orig": "Marida\n「You shouldn't limit yourself to your duties.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Марида",
+   "text": "「Иногда мне кажется, что деление на друзей\n　и врагов — всего лишь иллюзия.」",
+   "orig": "Marida\n「Sometimes I think the concept of friends and\n　enemies is all just an illusion.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Мельда",
+   "text": "「Постараюсь это запомнить.」",
+   "orig": "Melda\n「I'll try to remember that.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Ямамото",
+   "text": "「Знаю, странно слышать такое от меня\n　солдату Гамиласа, но всё же—」",
+   "orig": "Yamamoto\n「I know this might be a strange thing for me to be\n　saying to a Gamillan soldier, but—」"
+  },
+  {
+   "i": 24,
+   "speaker": "Ямамото",
+   "text": "「Береги себя там, Мельда.」",
+   "orig": "Yamamoto\n「Stay safe out there Melda.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Мельда",
+   "text": "「И ты тоже, Акира.」",
+   "orig": "Melda\n「You too, Akira.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Мельда",
+   "text": "「Похоже, это прощание, Акира.」",
+   "orig": "Melda\n「I guess this is goodbye, Akira.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Ямамото",
+   "text": "「Я починил «Цварке».\n　Теперь он снова готов к полёту.」",
+   "orig": "Yamamoto\n「I repaired the Czvarke.\n　It should be good to fly now.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Мельда",
+   "text": "「Мы уже на территории Гамиласа. Если я подам\n　сигнал бедствия, за мной прилетят.」",
+   "orig": "Melda\n「We are in Gamillas territory now. If I send out a\n　distress signal they'll come pick me up.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Мельда",
+   "text": "「Вам всем лучше убраться отсюда\n　до того, как это случится.」",
+   "orig": "Melda\n「You all should probably get out of here\n　before that happens.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Кодай",
+   "text": "「Мы так и собираемся.」",
+   "orig": "Kodai\n「We're planning on it.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Мельда",
+   "text": "「Спасибо за всё, лейтенант.\n　Я никогда не забуду дни, проведённые на этом\n　корабле в составе $c.」",
+   "orig": "Melda\n「Thanks for everything, Lieutenant.\n　I'll never forget the days I spent on this ship\n　as a part of $c.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Мельда",
+   "text": "「Я доложу о том, что натворил командор Гоэр,\n　чтобы защитить честь командора Ланга.」",
+   "orig": "Melda\n「I plan on reporting what happened with Commander\n　Goer to protect Commander Lang's honor.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Ямамото",
+   "text": "「А потом?」",
+   "orig": "Yamamoto\n「And then?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Мельда",
+   "text": "「А потом — обратно в строй.」",
+   "orig": "Melda\n「Back to the military for me.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Мельда",
+   "text": "「И если мы встретимся на поле боя, мне придётся\n　исполнить свой долг солдата Гамиласа.」",
+   "orig": "Melda\n「If I meet any of you on the battlefield, I will\n　have to fulfill my duty as a Gamillan soldier.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодай",
+   "text": "「Мельда...」",
+   "orig": "Kodai\n「Melda...」"
+  },
+  {
+   "i": 37,
+   "speaker": "Мельда",
+   "text": "「Надеюсь, этот день не настанет.」",
+   "orig": "Melda\n「I hope that day never comes.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодай",
+   "text": "「Мы тоже.」",
+   "orig": "Kodai\n「As do we.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Пуру",
+   "text": "「Мельда, как думаешь, мы когда-нибудь встретимся\n　снова как подруги, а не как враги?」",
+   "orig": "Ple\n「Melda, do you think we could ever meet again\n　as friends instead of enemies?」"
+  },
+  {
+   "i": 40,
+   "speaker": "Пуру Два",
+   "text": "「Давай как-нибудь снова сходим за мороженым.」",
+   "orig": "Ple Two\n「Let's go out for ice cream again together someday.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Мельда",
+   "text": "「Честно говоря, не знаю, выйдет ли.」",
+   "orig": "Melda\n「I'm really not sure if that will be possible.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Марида",
+   "text": "「Не стоит сводить себя к одному лишь долгу.」",
+   "orig": "Marida\n「You shouldn't limit yourself to your duties.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Марида",
+   "text": "「Иногда мне кажется, что деление на друзей\n　и врагов — всего лишь иллюзия.」",
+   "orig": "Marida\n「Sometimes I think the concept of friends and\n　enemies is all just an illusion.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Мельда",
+   "text": "「Постараюсь это запомнить.」",
+   "orig": "Melda\n「I'll try to remember that.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Ямамото",
+   "text": "「Знаю, странно слышать такое от меня\n　солдату Гамиласа, но всё же—」",
+   "orig": "Yamamoto\n「I know this might be a strange thing for me to be\n　saying to a Gamillan soldier, but—」"
+  },
+  {
+   "i": 46,
+   "speaker": "Ямамото",
+   "text": "「Береги себя там, Мельда.」",
+   "orig": "Yamamoto\n「Stay safe out there Melda.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Мельда",
+   "text": "「И ты тоже, Акира.」",
+   "orig": "Melda\n「You too, Akira.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Ямамото",
+   "text": "「Хм.」",
+   "orig": "Yamamoto\n「Hmm.」"
+  },
+  {
+   "i": 49,
+   "speaker": "$n",
+   "text": "「Ты в порядке, Акира?\n　Хотелось бы поговорить подольше?」",
+   "orig": "$n\n「You okay, Akira?\n　Did you want to talk longer?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Ямамото",
+   "text": "「Мы наперегонки со временем.\n　Сейчас нам такая роскошь не по карману.」",
+   "orig": "Yamamoto\n「We're in a race against time.\n　We don't have that luxury right now.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Като",
+   "text": "「Да, твоя правда.\n　Нам нужно добраться до Искандара, чтобы\n　спасти все три измерения.」",
+   "orig": "Kato\n「Yeah, you're right.\n　We have to get to Iscandar so that we can\n　save the three dimensions.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Найн",
+   "text": "「Даже если мы туда доберёмся, неизвестно,\n　что нас там будет ждать.」",
+   "orig": "Nine\n「Even if we manage to get there, we don't know\n　what will be waiting for us.」"
+  },
+  {
+   "i": 53,
+   "speaker": "$n",
+   "text": "「Другого пути нет. Остаётся отбросить осторожность\n　и сделать всё возможное, чтобы идти вперёд.」",
+   "orig": "$n\n「It's all we can do. We just have to throw caution\n　to the wind and do whatever we can to move forward.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Найн",
+   "text": "「Это нелогичный и опрометчивый образ мыслей.」",
+   "orig": "Nine\n「That is an illogical and rash way of thinking.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Найн",
+   "text": "「Но, полагаю, сейчас он необходим.」",
+   "orig": "Nine\n「But, I suppose it is necessary.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Ямамото",
+   "text": "「Похоже, ты привыкаешь к нашему складу ума.」",
+   "orig": "Yamamoto\n「Looks like you're getting used to how we think.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Синохара",
+   "text": "「Вот только такое отставание от графика —\n　штука довольно серьёзная.」",
+   "orig": "Shinohara\n「Being so far behind schedule is a pretty\n　serious problem, though.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Кодай",
+   "text": "「Похоже, система автоматической навигации\n　уже нашла для нас решение.」",
+   "orig": "Kodai\n「The automatic navigation system seems to\n　have given us a solution for that.」"
+  },
+  {
+   "i": 59,
+   "speaker": "$n",
+   "text": "「Есть вообще что-то, чего эта система не умеет?」",
+   "orig": "$n\n「Is there anything that system can't do?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Кодай",
+   "text": "「Она и правда опора всего нашего похода —\n　довести «Ямато» до Искандара.」",
+   "orig": "Kodai\n「It really is the backbone of this whole journey\n　of getting the Yamato to Iscandar.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Найн",
+   "text": "（Система автоматической навигации, значит?）",
+   "orig": "Nine\n（The automatic navigation system, huh?）"
+  },
+  {
+   "i": 62,
+   "speaker": "Найн",
+   "text": "（Что же она такое на самом деле?）",
+   "orig": "Nine\n（Just what is that system all about?）"
+  },
+  {
+   "i": 63,
+   "speaker": "Ямамото",
+   "text": "「Хм.」",
+   "orig": "Yamamoto\n「Hmm.」"
+  },
+  {
+   "i": 64,
+   "speaker": "$n",
+   "text": "「Ты в порядке, Акира?\n　Хотелось бы поговорить подольше?」",
+   "orig": "$n\n「You okay, Akira?\n　Did you want to talk longer?」"
+  },
+  {
+   "i": 65,
+   "speaker": "Ямамото",
+   "text": "「Мы наперегонки со временем.\n　Сейчас нам такая роскошь не по карману.」",
+   "orig": "Yamamoto\n「We're in a race against time.\n　We don't have that luxury right now.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Като",
+   "text": "「Да, твоя правда.\n　Нам нужно добраться до Искандара, чтобы\n　спасти все три измерения.」",
+   "orig": "Kato\n「Yeah, you're right.\n　We have to get to Iscandar so that we can\n　save the three dimensions.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Найн",
+   "text": "「Даже если мы туда доберёмся, неизвестно,\n　что нас там будет ждать.」",
+   "orig": "Nine\n「Even if we manage to get there, we don't know\n　what will be waiting for us.」"
+  },
+  {
+   "i": 68,
+   "speaker": "$n",
+   "text": "「Другого пути нет. Остаётся отбросить осторожность\n　и сделать всё возможное, чтобы идти вперёд.」",
+   "orig": "$n\n「It's all we can do. We just have to throw caution\n　to the wind and do whatever we can to move forward.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Найн",
+   "text": "「Это нелогичный и опрометчивый образ мыслей.」",
+   "orig": "Nine\n「That is an illogical and rash way of thinking.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Найн",
+   "text": "「Но, полагаю, сейчас он необходим.」",
+   "orig": "Nine\n「But, I suppose it is necessary.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Ямамото",
+   "text": "「Похоже, ты привыкаешь к нашему складу ума.」",
+   "orig": "Yamamoto\n「Looks like you're getting used to how we think.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Синохара",
+   "text": "「Вот только такое отставание от графика —\n　штука довольно серьёзная.」",
+   "orig": "Shinohara\n「Being so far behind schedule is a pretty\n　serious problem, though.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Кодай",
+   "text": "「Похоже, система автоматической навигации\n　уже нашла для нас решение.」",
+   "orig": "Kodai\n「The automatic navigation system seems to\n　have given us a solution for that.」"
+  },
+  {
+   "i": 74,
+   "speaker": "$n",
+   "text": "「Есть вообще что-то, чего эта система не умеет?」",
+   "orig": "$n\n「Is there anything that system can't do?」"
+  },
+  {
+   "i": 75,
+   "speaker": "Кодай",
+   "text": "「Она и правда опора всего нашего похода —\n　довести «Ямато» до Искандара.」",
+   "orig": "Kodai\n「It really is the backbone of this whole journey\n　of getting the Yamato to Iscandar.」"
+  },
+  {
+   "i": 76,
+   "speaker": "Найн",
+   "text": "（Система автоматической навигации, значит?）",
+   "orig": "Nine\n（The automatic navigation system, huh?）"
+  },
+  {
+   "i": 77,
+   "speaker": "Найн",
+   "text": "（Что же она такое на самом деле?）",
+   "orig": "Nine\n（Just what is that system all about?）"
+  }
+ ]
+}

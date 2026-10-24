@@ -1,0 +1,1672 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Астонейдж",
+   "text": "「Джудо!\n　С навешенными блоками Фулл Армора\n　«Дабл-Зета» не сможет трансформироваться!」",
+   "orig": "Astonage\n「Judau!\n　When you equip the Full Armor components,\n　the ZZ can't transform!」"
+  },
+  {
+   "i": 1,
+   "speaker": "Астонейдж",
+   "text": "「Если крепко схлопочешь или выйдет боезапас —\n　сбрасывай их прямо в бою!」",
+   "orig": "Astonage\n「If you're badly hit or out of ammo,\n　purge in the battlefield!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Джудо",
+   "text": "「Понял, Астонейдж!\n　Спасибо тебе!」",
+   "orig": "Judau\n「Roger, Astonage!\n　I appreciate it!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Камий",
+   "text": "「Ох, ну надо же.」",
+   "orig": "Kamille\n「Oh, man.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Ру",
+   "text": "「Ну как, Камий?\n　Каково снова оказаться в «Зете»?」",
+   "orig": "Roux\n「Well, Kamille?\n　How's it feel, being back in a Zeta?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Камий",
+   "text": "「Впервые с $kwbтого случая в Конфликте Грипса$kwe.」",
+   "orig": "Kamille\n「My first time since $kwbThat Time During the Gryps Conflict$kwe.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Фа",
+   "text": "「Камий, ты как, в порядке?」",
+   "orig": "Fa\n「Kamille, are you OK?」"
+  },
+  {
+   "i": 7,
+   "speaker": "Амуро",
+   "text": "（В том бою\n　$kwbПаптимус Сирокко$kwe\n　сломал ему разум.）",
+   "orig": "Amuro\n（In that battle, \n　$kwbPaptimus Scirocco$kwe\n　shattered his mind.）"
+  },
+  {
+   "i": 8,
+   "speaker": "Амуро",
+   "text": "（Я не знаю точно, насколько сильным ньютайпом был Сирокко,\n　но у него никак не могло хватить сил\n　вот так разбить чужой разум.）",
+   "orig": "Amuro\n（I don't know exactly how strong a Newtype Scirocco was,\n　but there's no way he had the power\n　to shatter another person's mind like that.）"
+  },
+  {
+   "i": 9,
+   "speaker": "Амуро",
+   "text": "（А если так — не «Зета» ли тому причиной?）",
+   "orig": "Amuro\n（And if that's so, then could it have been the Zeta?）"
+  },
+  {
+   "i": 10,
+   "speaker": "Лиам",
+   "text": "「Приближаются неопознанные машины!」",
+   "orig": "Liam\n「Unidentified units incoming!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Отто",
+   "text": "「Мы не имеем права проиграть здесь, если хотим\n　отыскать дорогу к миру!」",
+   "orig": "Otto\n「We must not lose here, if we hope\n　to find the road to peace!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Камий",
+   "text": "「Ох, ну надо же.」",
+   "orig": "Kamille\n「Oh, man.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Ру",
+   "text": "「Ну как, Камий?\n　Каково снова оказаться в «Зете»?」",
+   "orig": "Roux\n「Well, Kamille?\n　How's it feel, being back in a Zeta?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Камий",
+   "text": "「Впервые с $kwbтого случая в Конфликте Грипса$kwe.」",
+   "orig": "Kamille\n「My first time since $kwbThat Time During the Gryps Conflict$kwe.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Фа",
+   "text": "「Камий, ты как, в порядке?」",
+   "orig": "Fa\n「Kamille, are you OK?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Амуро",
+   "text": "（В том бою\n　$kwbПаптимус Сирокко$kwe\n　сломал ему разум.）",
+   "orig": "Amuro\n（In that battle, \n　$kwbPaptimus Scirocco$kwe\n　shattered his mind.）"
+  },
+  {
+   "i": 17,
+   "speaker": "Амуро",
+   "text": "（Я не знаю точно, насколько сильным ньютайпом был Сирокко,\n　но у него никак не могло хватить сил\n　вот так разбить чужой разум.）",
+   "orig": "Amuro\n（I don't know exactly how strong a Newtype Scirocco was,\n　but there's no way he had the power\n　to shatter another person's mind like that.）"
+  },
+  {
+   "i": 18,
+   "speaker": "Амуро",
+   "text": "（А если так — не «Зета» ли тому причиной?）",
+   "orig": "Amuro\n（And if that's so, then could it have been the Zeta?）"
+  },
+  {
+   "i": 19,
+   "speaker": "Лиам",
+   "text": "「Приближаются неопознанные машины!」",
+   "orig": "Liam\n「Unidentified units incoming!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Отто",
+   "text": "「Мы не имеем права проиграть здесь, если хотим\n　отыскать дорогу к миру!」",
+   "orig": "Otto\n「We must not lose here, if we hope\n　to find the road to peace!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Брайт",
+   "text": "「Это Федеральные силы!\n　Нет, постойте, это машины «Джи-Хаунда»!」",
+   "orig": "Bright\n「It's the Federation Forces!\n　Wait, no, those are G-Hound units!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Дагуза",
+   "text": "「Они отправили в космос части\n　прямого подчинения штаба?!」",
+   "orig": "Daguza\n「They sent the headquarters'\n　direct command units into space?!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Отто",
+   "text": "「Эти дураки вообще бросили защищать Землю?」",
+   "orig": "Otto\n「The fools have given up on protecting Earth?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Хатауэй",
+   "text": "「Банагер!\n　Это то, что я думаю?」",
+   "orig": "Hathaway\n「Banagher!\n　Is that what I think it is?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Банагер",
+   "text": "「Это Чёрный Юникорн!\n　«Банши»!」",
+   "orig": "Banagher\n「It's the Black Unicorn!\n　The Banshee!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Ридде",
+   "text": "「Банагер!\n　Ты там?」",
+   "orig": "Riddhe\n「Banagher!\n　Are you there?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!\n　Так за штурвалом «Банши» вы?」",
+   "orig": "Banagher\n「Ensign Riddhe!\n　Are you piloting the Banshee?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Ридде",
+   "text": "「Мерзавцы!\n　Вы что, и правда переметнулись к Нео-Зеону?」",
+   "orig": "Riddhe\n「You bastards!\n　You've actually joined Neo Zeon?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Джудо",
+   "text": "「Нет, Ридде! Всё совсем не так!\n　Тут другое.」",
+   "orig": "Judau\n「No, Riddhe! That's not it at all!\n　This is something else.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Джерид",
+   "text": "「Я знал, что это лишь вопрос времени.\n　Все они из «Лондо Белл»,\n　а значит, повязаны с АЕУГ!」",
+   "orig": "Jerid\n「I knew it was only a matter of time.\n　All those Londo Bell members \n　are connected to AEUG!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Камий",
+   "text": "「Джерид!」",
+   "orig": "Kamille\n「Jerid!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Джерид",
+   "text": "「Ты снова в «Зете»!\n　Ну что ж, тогда начнём!」",
+   "orig": "Jerid\n「You're back in a Zeta!\n　OK then, let's do this!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Камий",
+   "text": "「Ты всё ещё за мной охотишься?」",
+   "orig": "Kamille\n「You're still gunning for me?」"
+  },
+  {
+   "i": 34,
+   "speaker": "Джерид",
+   "text": "「Я всего лишь выбиваю врагов Федерации.\n　А раз и ты здесь — это просто шанс\n　наконец-то поквитаться!」",
+   "orig": "Jerid\n「I'm just taking out enemies of the Federation.\n　If you're here too, it just gives me a chance\n　to finally get my revenge!」"
+  },
+  {
+   "i": 35,
+   "speaker": "Брайт",
+   "text": "「Что-то не так в движениях «Джи-Хаунда»...\n　Смотрите, не упустите ни одной бреши!」",
+   "orig": "Bright\n「There's something about G-Hound's movement...\n　Make sure you don't miss any openings!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Отто",
+   "text": "「Ваши цели — машина командира и Чёрный Юникорн!\n　Весь огонь по ним!」",
+   "orig": "Otto\n「Your targets are the leader unit and the Black Unicorn!\n　Focus all attacks on them!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Лиам",
+   "text": "「Но там же мичман Ридде...」",
+   "orig": "Liam\n「But Ensign Riddhe is in there...」"
+  },
+  {
+   "i": 38,
+   "speaker": "Отто",
+   "text": "「Пока они видят в нас врагов,\n　выбора у нас нет!」",
+   "orig": "Otto\n「As long as they view us as enemies,\n　it's our only choice!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Михиро",
+   "text": "（Ридде!）",
+   "orig": "Mihiro\n（Riddhe!）"
+  },
+  {
+   "i": 40,
+   "speaker": "Ридде",
+   "text": "「«Лондо Белл»!\n　К предателям вроде вас у нас нет жалости!」",
+   "orig": "Riddhe\n「Londo Bell!\n　We have no mercy for traitors like you!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Ридде",
+   "text": "「А ты, Банагер!\n　Ты обманул Миневу —\n　я сшибу тебя и освобожу её!」",
+   "orig": "Riddhe\n「And you, Banagher!\n　You've duped Mineva,\n　I'll take you out and free her!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Банагер",
+   "text": "「Ридде!\n　О чём вы вообще говорите?」",
+   "orig": "Banagher\n「Riddhe!\n　What are you talking about?」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「Ну вот, теперь «Джи-Хаунд» слегка поутихнет.」",
+   "orig": "$n\n「Well, that should settle G-Hound down a bit.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Найн",
+   "text": "「Да, но к ним идёт подкрепление!」",
+   "orig": "Nine\n「Yeah, but here come some more!」"
+  },
+  {
+   "i": 45,
+   "speaker": "$n",
+   "text": "「Хорошо бы это слегка утихомирило «Джи-Хаунд».」",
+   "orig": "$n\n「It would be nice if that settled G-Hound down a bit.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Найн",
+   "text": "「Да, но к ним идёт подкрепление!」",
+   "orig": "Nine\n「Yeah, but here come some more!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Тобиа",
+   "text": "「Это Нео-Зеон!」",
+   "orig": "Tobia\n「It's Neo Zeon!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Амуро",
+   "text": "「И Фулл Фронталь с ними!」",
+   "orig": "Amuro\n「And Full Frontal is with them!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Фронталь",
+   "text": "「Прежде чем мы начнём...」",
+   "orig": "Frontal\n「Before we begin...」"
+  },
+  {
+   "i": 50,
+   "speaker": "Хатауэй",
+   "text": "「Это «Джи-Хаунд»!」",
+   "orig": "Hathaway\n「It's G-Hound!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Фронталь",
+   "text": "「Вот теперь мы можем обстоятельно побеседовать.」",
+   "orig": "Frontal\n「Now we can have a nice long chat.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Камий",
+   "text": "「Побеседовать?」",
+   "orig": "Kamille\n「A chat?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Тобиа",
+   "text": "「Это Нео-Зеон!」",
+   "orig": "Tobia\n「It's Neo Zeon!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Амуро",
+   "text": "「И Фулл Фронталь с ними!」",
+   "orig": "Amuro\n「And Full Frontal is with them!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Фронталь",
+   "text": "「Так с Федеральными силами уже покончено?\n　Отличная работа, «Лондо Белл»!」",
+   "orig": "Frontal\n「So the Federation Forces are already taken care of?\n　Well done, Londo Bell!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Фронталь",
+   "text": "「Вот теперь мы можем обстоятельно побеседовать.」",
+   "orig": "Frontal\n「Now we can have a nice long chat.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Камий",
+   "text": "「Побеседовать?」",
+   "orig": "Kamille\n「A chat?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Фронталь",
+   "text": "「Принцесса Минева, директор Нанай...\n　Вы меня слышите?」",
+   "orig": "Frontal\n「Princess Mineva, Director Nanai...\n　Can you hear me?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Минева",
+   "text": "「Слышим, Фулл Фронталь.」",
+   "orig": "Mineva\n「We hear you, Full Frontal.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Фронталь",
+   "text": "「Прежде всего позвольте поздравить вас с тем,\n　что вы сумели собрать столь крепкую организацию —\n　вплоть до союза с «Лондо Белл».」",
+   "orig": "Frontal\n「First of all, let me offer my congratulations\n　on your ability to arrange such a strong organization, \n　going so far as to gain the cooperation of Londo Bell.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Минева",
+   "text": "「Ближе к делу.」",
+   "orig": "Mineva\n「Get to the point.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Фронталь",
+   "text": "「Что ж, извольте.」",
+   "orig": "Frontal\n「Very well then, I shall.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Фронталь",
+   "text": "「Вы передадите Колониальный лазер\n　Нео-Зеону.」",
+   "orig": "Frontal\n「You will hand the Colony Laser \n　over to Neo Zeon.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Фронталь",
+   "text": "「Что бы ни думала Хаман, лазер всегда был\n　в ведении Нео-Зеона.\n　Вы обязаны вернуть его нам.」",
+   "orig": "Frontal\n「Despite what Haman felt, the laser was always\n　Neo Zeon's to control.\n　You must return it to us.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Минева",
+   "text": "「И как вы намерены им распорядиться?」",
+   "orig": "Mineva\n「And how do you intend to use it?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Фронталь",
+   "text": "「Назовём это мерой предосторожности.\n　Люди Земли живут в великом страхе\n　перед падением колонии.」",
+   "orig": "Frontal\n「Let's call it a precautionary measure.\n　The people of Earth live in great fear\n　of the Colony Drop.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Фронталь",
+   "text": "「И потому одного лишь раскрытия факта, что лазер есть,\n　хватит, чтобы правительство Федерации капитулировало.」",
+   "orig": "Frontal\n「And so, merely revealing the Colony Laser's existence\n　will force the Federation government to surrender.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Нанай",
+   "text": "「Значит, ради капитуляции, а не ради истребления.」",
+   "orig": "Nanai\n「So you would use it for surrender, and not annihilation.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Фронталь",
+   "text": "「Я прекрасно понимаю\n　чувства вашей организации —\n　да и моих собственных солдат.」",
+   "orig": "Frontal\n「I do understand the\n　feelings of your group, \n　and of my own soldiers.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Фронталь",
+   "text": "「Обида, что копилась у жителей космоса\n　под гнётом Федерации,\n　вылилась в Однолетнюю войну.」",
+   "orig": "Frontal\n「The resentment the people of space felt after\n　having suffered the Federation's oppression \n　found shape in the One Year War.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Фронталь",
+   "text": "「Но бои рождают лишь новую обиду,\n　а она ведёт лишь к новым боям.\n　Этот круг может кончиться только гибелью человечества.」",
+   "orig": "Frontal\n「However, fighting only gives rise to new resentment,\n　which will only lead to more fighting.\n　That cycle can only lead to humanity's ruin.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Фронталь",
+   "text": "「Мы не можем позволить человечеству пасть ещё ниже.」",
+   "orig": "Frontal\n「We can't allow humanity to fall any further.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Минева",
+   "text": "「А после победы Нео-Зеона вы заставите людей Земли\n　переселиться в космос, как сделал бы Чар?」",
+   "orig": "Mineva\n「And after Neo Zeon wins, will you force the people of\n　Earth to migrate to space, as Char would have done?」"
+  },
+  {
+   "i": 74,
+   "speaker": "Фронталь",
+   "text": "「В этом не будет нужды.\n　Пусть все они гниют на Земле.」",
+   "orig": "Frontal\n「There will be no need.\n　They will all rot on Earth.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Брайт",
+   "text": "「Что?」",
+   "orig": "Bright\n「What?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Отто",
+   "text": "「Что вы такое говорите?」",
+   "orig": "Otto\n「What are you saying?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Фронталь",
+   "text": "「Вместе с войной мы прекратим и всякое сообщение.\n　Пусть дальше воюют с доктором Хеллом и ему подобными\n　и медленно умирают вместе со своей жалкой планетой.」",
+   "orig": "Frontal\n「Along with ending war, we will end all exchange.\n　They can all continue fighting with Dr. Hell and his ilk, \n　and slowly die along with their miserable planet.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Фронталь",
+   "text": "「Мы оставим Землю и всех, кто так упрямо\n　за неё цепляется,\n　и откроем рубежи дальнего космоса.」",
+   "orig": "Frontal\n「We will abandon Earth and all who \n　so stubbornly cling to it, \n　and open up the frontiers of outer space.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Кинкейд",
+   "text": "「Теперь ясно.\n　Вот зачем они спелись с Гамиласом.」",
+   "orig": "Kincade\n「I see now.\n　So that's why they joined forces with Gamillas.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Фронталь",
+   "text": "「Что скажете, принцесса Минева?\n　Разве это не лучший выбор,\n　чем драка обеих сторон до последнего?」",
+   "orig": "Frontal\n「What do you think, Princess Mineva?\n　Is that not a better choice\n　than both sides fighting to the death?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Минева",
+   "text": "「Я так и знала: вы не Чар.」",
+   "orig": "Mineva\n「I knew it, you're not Char.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Амуро",
+   "text": "「Минева, о чём ты?」",
+   "orig": "Amuro\n「Mineva, what do you mean?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Минева",
+   "text": "「Вы говорите об угасающей Земле, но\n　то, что вы предлагаете, лишь ускорит\n　падение человечества.」",
+   "orig": "Mineva\n「You speak of the declining Earth, but\n　what you propose would only\n　hasten the fall of humanity.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Минева",
+   "text": "「Оставим в стороне, прав ваш выбор или нет, —\n　в вас нет и капли того горения Чара,\n　что толкало его вести человечество вперёд.」",
+   "orig": "Mineva\n「Setting aside the right or wrong of your choice,\n　you have none of Char's passion for \n　furthering the development of the human race.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Фронталь",
+   "text": "「Что ж, принцесса Минева,\n　значит, вы желаете, чтобы мы дрались,\n　пока с Земли не сотрут последнего землянина?」",
+   "orig": "Frontal\n「Very well then, Princess Mineva,\n　so do you wish us to fight until \n　the very last Earthling is wiped off of Earth?」"
+  },
+  {
+   "i": 86,
+   "speaker": "Фронталь",
+   "text": "「Спейсноидам и эрсноидам вовек не сойтись.\n　Если бы это было возможно, разве их общение\n　не стало бы уже куда более плодотворным?」",
+   "orig": "Frontal\n「Spacenoids and Earthnoids can never come together.\n　If they could, wouldn't their contact \n　have become more constructive already?」"
+  },
+  {
+   "i": 87,
+   "speaker": "Банагер",
+   "text": "「Вы говорите не то чтобы неправду, нет...\n　Но... но...」",
+   "orig": "Banagher\n「What you say isn't wrong, no...\n　But...but...」"
+  },
+  {
+   "i": 88,
+   "speaker": "Фронталь",
+   "text": "「Пилот «Юникорна».\n　Банагер Линкс, если не ошибаюсь?」",
+   "orig": "Frontal\n「The Unicorn pilot.\n　Banagher Links, I believe it was?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Фронталь",
+   "text": "「У вас есть что мне возразить?」",
+   "orig": "Frontal\n「Do you have some objection you'd like to voice?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Банагер",
+   "text": "「То, что вы затеяли,\n　просто уничтожит потенциал человечества!」",
+   "orig": "Banagher\n「What you are trying to do\n　will only destroy humanity's potential!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Банагер",
+   "text": "「Да, войну нужно прекратить.\n　Но в вашем способе нет будущего!」",
+   "orig": "Banagher\n「It's true, we must end the fighting.\n　But there's no future in your method!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Фронталь",
+   "text": "「Возможно, для живущих на Земле.\n　Но не для Нео-Зеона и не для спейсноидов!」",
+   "orig": "Frontal\n「That might be so for those living on Earth.\n　But not for Neo Zeon, not for Spacenoids!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Тобиа",
+   "text": "「Да как вы можете?\n　Люди, способные вот так бросить родную Землю,\n　не заслужили свободно уйти в космос!」",
+   "orig": "Tobia\n「How could you?\n　Humans who can just abandon their mother Earth\n　don't deserve to go free into space!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Бандзё",
+   "text": "「Те, кто воюет с себе подобными на Земле,\n　просто растянут поле боя до самого космоса.」",
+   "orig": "Banjo\n「Those who fight against their fellow humans on Earth\n　will just spread the battlefield out into space.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Сэцуна",
+   "text": "「Нельзя так просто отказаться от надежды, что люди\n　смогут понять друг друга. Именно преодолев это,\n　человечество вообще когда-то и вышло в космос!」",
+   "orig": "Setsuna\n「You can't just abandon hope that people can\n　come together. It was overcoming just that problem\n　that allowed humanity to go into space in the first place!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Фронталь",
+   "text": "「У меня нет желания выслушивать этот идеализм.\n　Я всего лишь сосуд, в котором\n　собираются и воплощаются желания людей.」",
+   "orig": "Frontal\n「I have no desire to listen to this idealism.\n　I am merely a vessel in which human\n　desires are gathered and made real.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Фронталь",
+   "text": "「Принцесса Минева.\n　Этот план — ответ и для вас,\n　так устали вы от войны.」",
+   "orig": "Frontal\n「Princess Mineva.\n　This plan is an answer for you all, as well, \n　tired as you are of fighting.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Камий",
+   "text": "「Нет!」",
+   "orig": "Kamille\n「No!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Фронталь",
+   "text": "「Камий.\n　Тебе, кого захлестнули чужие желания,\n　такого, как я, не понять никогда.」",
+   "orig": "Frontal\n「Kamille.\n　You, who were overwhelmed by the desires of others,\n　may never understand someone like me.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Джудо",
+   "text": "「Так вот что разбило разум Камия.」",
+   "orig": "Judau\n「So that's what shattered Kamille's mind.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Камий",
+   "text": "「Гха!」",
+   "orig": "Kamille\n「Gah!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Фронталь",
+   "text": "「Я знаю о тебе, о том, кто взялся строить\n　будущее этой вселенной, и о том, каковы они —\n　те, кто, как говорят, наследует звёзды.」",
+   "orig": "Frontal\n「I know about you, who would build\n　this universe's future, and about the state \n　of those who, as they say, inherit the stars.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Фронталь",
+   "text": "「Вобрать в себя желания всех и из них найти ответ.\n　Это единственный верный способ решить эту задачу.」",
+   "orig": "Frontal\n「Absorb the desires of all, and from there find an answer.\n　That is the one and only right way to solve this problem.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Камий",
+   "text": "「Ты прав, я и правда принял в себя\n　желания погибших и желания Сирокко —\n　и потерял из-за этого самого себя.」",
+   "orig": "Kamille\n「You're right, I did take on \n　the desires of those who died, and of Scirocco, \n　and lost myself because of it.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Камий",
+   "text": "「И именно тогда я понял!\n　Никому не нужно становиться таким!」",
+   "orig": "Kamille\n「And it was then that I understood!\n　There's no need for anyone to become like that!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Фронталь",
+   "text": "「Пытаешься найти оправдание тому,\n　что не сумел толком распорядиться силой ньютайпа?」",
+   "orig": "Frontal\n「Are you trying to make excuses for \n　your inability to properly use your Newtype abilities?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Камий",
+   "text": "「Нет, не пытаюсь!\n　Люди должны оставаться людьми!」",
+   "orig": "Kamille\n「No, I'm not!\n　Humans should remain human!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Камий",
+   "text": "「А когда возникает спор — о нём говорят,\n　приходят к пониманию и вместе ищут ответ!」",
+   "orig": "Kamille\n「And when there's conflict, you talk about it,\n　come to an understanding, and find your answer together!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Камий",
+   "text": "「Какой-то способ собирать воедино людские желания —\n　это дело далёкого будущего!\n　Сейчас человечеству он не нужен!」",
+   "orig": "Kamille\n「Some way to concentrate human desires, \n　that's still way in the future!\n　Right now, humanity has no need of it!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Фронталь",
+   "text": "「Как печально.\n　Ты мог бы стать моей правой рукой —\n　ведь тебе доступна истинная мощь «Зеты».」",
+   "orig": "Frontal\n「How sad.\n　You could have been my right arm,\n　capable as you are of using the Zeta's true power.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Фронталь",
+   "text": "「Что ж, тогда я возьму эту силу сам.」",
+   "orig": "Frontal\n「And so, I will take the power myself.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Банагер",
+   "text": "「Нет!」",
+   "orig": "Banagher\n「No!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Фронталь",
+   "text": "「Не Камий, не Амуро и не Джудо...\n　Ты, Банагер Линкс.\n　Ты станешь сосудом, как и я.」",
+   "orig": "Frontal\n「Not Kamille, nor Amuro or Judau...\n　You, Banagher Links.\n　You will become a vessel, like me.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Фронталь",
+   "text": "「Отдай мне свою силу.\n　И принеси мне желание принцессы Миневы.」",
+   "orig": "Frontal\n「Give me your strength.\n　Bring me Princess Mineva's desire as well.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Банагер",
+   "text": "「Я... я просто я.\n　И если я берусь воплощать чьи-то желания,\n　чьи-то мечты, то лишь потому, что сам так решил.」",
+   "orig": "Banagher\n「I'm...I'm just me.\n　If I'm going to realize someone's desires, \n　their wishes, then it's because I decide to.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Банагер",
+   "text": "「С людьми надо говорить, приходить к пониманию\n　и самому решать, каким будет ответ!」",
+   "orig": "Banagher\n「You talk to those people, come to an understanding,\n　and decide yourself what the answer will be!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Фронталь",
+   "text": "「Продолжать этот разговор бессмысленно.」",
+   "orig": "Frontal\n「It is futile to speak of this anymore.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Анджело",
+   "text": "「Всем подразделениям — в атаку!\n　Уничтожить «Лондо Белл» и захватить Аксис!」",
+   "orig": "Angelo\n「All units, begin your attack!\n　Eliminate Londo Bell, and take control of Axis!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Минева",
+   "text": "「Фулл Фронталь!」",
+   "orig": "Mineva\n「Full Frontal!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Фронталь",
+   "text": "「Эта война идёт потому, что вы не приняли мою волю.\n　Так что поймите: мы сражаемся\n　потому, что этого хотите вы.」",
+   "orig": "Frontal\n「This war goes on because you would not accept my will.\n　So you must understand, we fight\n　because it is your wish.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Минева",
+   "text": "「Не пытайтесь водить меня за нос.\n　И я, и «Лондо Белл» желаем мира.\n　Но это не значит, что мы не станем драться!」",
+   "orig": "Mineva\n「Don't try those tricks on me.\n　I, and Londo Bell as well, hope for peace.\n　But that does not mean we won't fight!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Фронталь",
+   "text": "「Что ж, тогда решим дело здесь.\n　Сила — самый простой способ проверки.」",
+   "orig": "Frontal\n「Very well then, let's settle this.\n　Power is the simplest test, after all.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Амуро",
+   "text": "「Фулл Фронталь!\n　Это весь твой ответ?」",
+   "orig": "Amuro\n「Full Frontal!\n　Is that your only answer?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Фронталь",
+   "text": "「Бой здесь, на Аксисе.\n　Встретим же конец там, где всё началось!」",
+   "orig": "Frontal\n「A battle here on Axis.\n　Let us greet the end in the place it all began!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Фронталь",
+   "text": "「Я недооценил «Лондо Белл»!」",
+   "orig": "Frontal\n「I underestimated Londo Bell!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Амуро",
+   "text": "「Фронталь!」",
+   "orig": "Amuro\n「Frontal!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Амуро",
+   "text": "「Ты — это ТЫ!\n　Не Чар!」",
+   "orig": "Amuro\n「You are YOU!\n　Not Char!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Фронталь",
+   "text": "「Ты что же, отрицаешь саму\n　мою личность, Амуро?」",
+   "orig": "Frontal\n「Are you trying to deny my very \n　identity, Amuro?」"
+  },
+  {
+   "i": 129,
+   "speaker": "Амуро",
+   "text": "「Если по-хорошему слушать не хочешь,\n　придётся заставить!」",
+   "orig": "Amuro\n「If you don't want to listen to me,\n　then I'll just have to make you!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Амуро",
+   "text": "「Это мой долг!」",
+   "orig": "Amuro\n「It's my duty!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Фронталь",
+   "text": "「Так вот каков Амуро Рэй!」",
+   "orig": "Frontal\n「So this is Amuro Ray!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Амуро",
+   "text": "「Повторяю, Фронталь!\n　Ты не Чар!」",
+   "orig": "Amuro\n「I'll say it again, Frontal!\n　You are not Char!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Амуро",
+   "text": "「А значит...」",
+   "orig": "Amuro\n「And so...」"
+  },
+  {
+   "i": 134,
+   "speaker": "Фронталь",
+   "text": "「«Лондо Белл»... и «Лаплас».\n　Раз уж до этого дошло, я должен разбить все ваши надежды!」",
+   "orig": "Frontal\n「Londo Bell...and Laplace.\n　Since it's come to this, I must crush all your hopes!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Минева",
+   "text": "「Что?」",
+   "orig": "Mineva\n「What?」"
+  },
+  {
+   "i": 136,
+   "speaker": "Фронталь",
+   "text": "「«Лаплас»...\n　ты всерьёз думала, что я не знаю,\n　что означает это имя, Минева?」",
+   "orig": "Frontal\n「Laplace...\n　did you honestly think I didn't know the meaning \n　of that name, Mineva?」"
+  },
+  {
+   "i": 137,
+   "speaker": "Фронталь",
+   "text": "「И что я понятия не имею, где это?」",
+   "orig": "Frontal\n「And that I had no idea where it was?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Минева",
+   "text": "「Стойте, Фронталь!」",
+   "orig": "Mineva\n「Wait, Frontal!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Фронталь",
+   "text": "「Этот бой будет идти, пока я не получу своё!\n　Нео-Зеон победит!」",
+   "orig": "Frontal\n「This battle will continue until I get what I want!\n　Neo Zeon will win!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Фронталь",
+   "text": "「Я недооценил «Лондо Белл»!」",
+   "orig": "Frontal\n「I underestimated Londo Bell!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Амуро",
+   "text": "「Ты — это ТЫ!\n　Не Чар!」",
+   "orig": "Amuro\n「You are YOU!\n　Not Char!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Фронталь",
+   "text": "「Ты что же, отрицаешь саму\n　мою личность, Амуро?」",
+   "orig": "Frontal\n「Are you trying to deny my very \n　identity, Amuro?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Амуро",
+   "text": "「Повторяю, Фронталь!\n　Ты не Чар!」",
+   "orig": "Amuro\n「I'll say it again, Frontal!\n　You are not Char!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Амуро",
+   "text": "「А значит...」",
+   "orig": "Amuro\n「And so...」"
+  },
+  {
+   "i": 145,
+   "speaker": "Фронталь",
+   "text": "「«Лондо Белл»... и «Лаплас».\n　Раз уж до этого дошло, я должен разбить все ваши надежды!」",
+   "orig": "Frontal\n「Londo Bell...and Laplace.\n　Since it's come to this, I must crush all your hopes!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Минева",
+   "text": "「Что?」",
+   "orig": "Mineva\n「What?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Фронталь",
+   "text": "「«Лаплас»...\n　ты всерьёз думала, что я не знаю,\n　что означает это имя, Минева?」",
+   "orig": "Frontal\n「Laplace...\n　did you honestly think I didn't know the meaning \n　of that name, Mineva?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Фронталь",
+   "text": "「И что я понятия не имею, где это?」",
+   "orig": "Frontal\n「And that I had no idea where it was?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Минева",
+   "text": "「Стойте, Фронталь!」",
+   "orig": "Mineva\n「Wait, Frontal!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Фронталь",
+   "text": "「Этот бой будет идти, пока я не получу своё!\n　Нео-Зеон победит!」",
+   "orig": "Frontal\n「This battle will continue until I get what I want!\n　Neo Zeon will win!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Лиам",
+   "text": "「Фулл Фронталь и Нео-Зеон отходят.」",
+   "orig": "Liam\n「Full Frontal and Neo Zeon are retreating.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Отто",
+   "text": "「Он там под конец наговорил странного...」",
+   "orig": "Otto\n「He said some strange things there at the end...」"
+  },
+  {
+   "i": 153,
+   "speaker": "Брайт",
+   "text": "「«Лаплас»... Неужели это как-то связано\n　Неужели это как-то связано с тем самым $kwbинцидентом «Лаплас»$kwe?」",
+   "orig": "Bright\n「Laplace... Could it have something to do\n　Could it have something to do with that $kwbThe Laplace Incident$kwe?」"
+  },
+  {
+   "i": 154,
+   "speaker": "Банагер",
+   "text": "「Одри?」",
+   "orig": "Banagher\n「Audrey?」"
+  },
+  {
+   "i": 155,
+   "speaker": "Минева",
+   "text": "「Спейсноиды и эрсноиды...\n　Говорят, то, что способно закончить эту войну,\n　где-то в этой вселенной.」",
+   "orig": "Mineva\n「Spacenoids and Earthnoids...\n　They say the thing that can end this war\n　is somewhere in this universe.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Джудо",
+   "text": "「В смысле?」",
+   "orig": "Judau\n「What do you mean?」"
+  },
+  {
+   "i": 157,
+   "speaker": "Минева",
+   "text": "「Сведения у нас были такие шаткие,\n　что я никому о них не говорила, но, похоже,\n　Фронталь всё-таки вышел на след.」",
+   "orig": "Mineva\n「The information we had was so unreliable\n　that I never told anyone about it, but it looks\n　like Frontal has tracked it down.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Амуро",
+   "text": "「И что же это такое?」",
+   "orig": "Amuro\n「What could it be?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Минева",
+   "text": "「От него и пошло название нашей организации.\n　Это «Ящик Лапласа».」",
+   "orig": "Mineva\n「It's the basis of the name of our group.\n　It's called \"Laplace's Box.\"」"
+  },
+  {
+   "i": 160,
+   "speaker": "Банагер",
+   "text": "「«Ящик Лапласа»?」",
+   "orig": "Banagher\n「Laplace's Box?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Лиам",
+   "text": "「Фулл Фронталь и Нео-Зеон отходят.」",
+   "orig": "Liam\n「Full Frontal and Neo Zeon are retreating.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Отто",
+   "text": "「Он там под конец наговорил странного...」",
+   "orig": "Otto\n「He said some strange things there at the end...」"
+  },
+  {
+   "i": 163,
+   "speaker": "Брайт",
+   "text": "「«Лаплас»...\n　Неужели это как-то связано с тем самым $kwbинцидентом «Лаплас»$kwe?」",
+   "orig": "Bright\n「Laplace...\n　Could it have something to do with that $kwbThe Laplace Incident$kwe?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Банагер",
+   "text": "「Одри?」",
+   "orig": "Banagher\n「Audrey?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Минева",
+   "text": "「Спейсноиды и эрсноиды...\n　Говорят, то, что способно закончить эту войну,\n　где-то в этой вселенной.」",
+   "orig": "Mineva\n「Spacenoids and Earthnoids...\n　They say the thing that can end this war\n　is somewhere in this universe.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Джудо",
+   "text": "「В смысле?」",
+   "orig": "Judau\n「What do you mean?」"
+  },
+  {
+   "i": 167,
+   "speaker": "Минева",
+   "text": "「Сведения у нас были такие шаткие,\n　что я никому о них не говорила, но, похоже,\n　Фронталь всё-таки вышел на след.」",
+   "orig": "Mineva\n「The information we had was so unreliable\n　that I never told anyone about it, but it looks\n　like Frontal has tracked it down.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Амуро",
+   "text": "「И что же это такое?」",
+   "orig": "Amuro\n「What could it be?」"
+  },
+  {
+   "i": 169,
+   "speaker": "Минева",
+   "text": "「От него и пошло название нашей организации.\n　Это «Ящик Лапласа».」",
+   "orig": "Mineva\n「It's the basis of the name of our group.\n　It's called \"Laplace's Box.\"」"
+  },
+  {
+   "i": 170,
+   "speaker": "Банагер",
+   "text": "「«Ящик Лапласа»?」",
+   "orig": "Banagher\n「Laplace's Box?」"
+  },
+  {
+   "i": 171,
+   "speaker": "Циннерман",
+   "text": "「Принцесса!\n　Донесение от гарнизона Колониального лазера!」",
+   "orig": "Zinnerman\n「Princess!\n　We have a report from the Colony Laser garrison!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Циннерман",
+   "text": "「Федеральные силы ударили внезапно —\n　похоже, Колониальный лазер уже у них!」",
+   "orig": "Zinnerman\n「Federation Forces sprung a surprise attack,\n　it appears they've taken the Colony Laser!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Минева",
+   "text": "「Только не это!」",
+   "orig": "Mineva\n「Oh no!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Брайт",
+   "text": "「Так «Джи-Хаунд» охотился за Колониальным лазером?」",
+   "orig": "Bright\n「G-Hound was after the Colony Laser?」"
+  },
+  {
+   "i": 175,
+   "speaker": "Отто",
+   "text": "「Но как они развернулись так быстро?」",
+   "orig": "Otto\n「But how did they get deployed so fast?」"
+  },
+  {
+   "i": 176,
+   "speaker": "Брайт",
+   "text": "「Да они наверняка знали о нём\n　с самого начала!」",
+   "orig": "Bright\n「Those guys must have known about\n　it from the start!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Нанай",
+   "text": "「Мало того, похоже, доктор Хелл\n　начал большое наступление на Земле.」",
+   "orig": "Nanai\n「What's more, it looks like Dr. Hell\n　has launched a major offensive on Earth.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Нанай",
+   "text": "「Он явно воспользовался брешью, что открылась,\n　когда Федеральные силы ушли за Колониальным лазером.」",
+   "orig": "Nanai\n「He must have used the opening left when \n　Federation Forces moved to take the Colony Laser.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Кодзи",
+   "text": "「Проклятый доктор Хелл!\n　Он делает свой последний ход.」",
+   "orig": "Koji\n「Damn that Dr. Hell!\n　He's making his final move.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Амуро",
+   "text": "「«Ящик Лапласа», способный закончить войну...\n　И Колониальный лазер.」",
+   "orig": "Amuro\n「Laplace's Box can end the war...\n　And the Colony Laser.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Камий",
+   "text": "「Чем же всё это обернётся?」",
+   "orig": "Kamille\n「How is the battle going to go?」"
+  },
+  {
+   "i": 182,
+   "speaker": "Джерид",
+   "text": "「Почему!\n　Почему я не могу победить?」",
+   "orig": "Jerid\n「Why!\n　Why can't I win?」"
+  },
+  {
+   "i": 183,
+   "speaker": "Камий",
+   "text": "「Давай покончим с этим, Джерид.\n　Разве с нами тебе нужно драться?」",
+   "orig": "Kamille\n「Let's end this, Jerid.\n　Are we really the ones you need to be fighting?」"
+  },
+  {
+   "i": 184,
+   "speaker": "Джерид",
+   "text": "「Замолчи, Камий!\n　Я разобью вас, потом разобью Нео-Зеон —\n　и спасу Землю!」",
+   "orig": "Jerid\n「Shut up, Kamille!\n　I'm going to beat you all, then I'll beat Neo Zeon,\n　and I'll save Earth!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Камий",
+   "text": "「И просто продолжишь круг ненависти!」",
+   "orig": "Kamille\n「And you'll just continue the cycle of hatred!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Камий",
+   "text": "「Я больше не боюсь «Зеты».」",
+   "orig": "Kamille\n「I'm not afraid of the Zeta any more.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Джудо",
+   "text": "「Камий!」",
+   "orig": "Judau\n「Kamille!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Камий",
+   "text": "「Сейчас я покажу истинную мощь «Зеты»!\n　Попробуй выстоять против силы, что течёт во мне!」",
+   "orig": "Kamille\n「Now let me show you the Zeta's true power!\n　Try facing the power running through me now!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джерид",
+   "text": "「Блефуешь!」",
+   "orig": "Jerid\n「You're bluffing!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Камий",
+   "text": "「Неужели ты не слышишь, Джерид?\n　Не слышишь голосов погибших?」",
+   "orig": "Kamille\n「Can't you hear it, Jerid?\n　Can't you hear the voices of the dead?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Джерид",
+   "text": "「Ты убил всех, кто был мне дорог!」",
+   "orig": "Jerid\n「You killed everyone I ever cared for!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Камий",
+   "text": "「Я никогда этого не хотел!\n　Это была война!」",
+   "orig": "Kamille\n「I never wanted to!\n　It was war!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Камий",
+   "text": "「Это из-за войны погибла $kwbФоу$kwe!」",
+   "orig": "Kamille\n「War is the reason $kwbFour$kwe died!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Джерид",
+   "text": "「Ты про то, что случилось у Килиманджаро.」",
+   "orig": "Jerid\n「You're talking about what happened at Kilimanjaro.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Камий",
+   "text": "「Ты должен понять, Джерид!\n　Мы обязаны прекратить всю эту резню!」",
+   "orig": "Kamille\n「You have to understand, Jerid!\n　We have to end all this fighting!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Джерид",
+   "text": "「Камий!\n　Мерзавец!」",
+   "orig": "Jerid\n「Kamille!\n　You bastard!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Банагер",
+   "text": "「Что это такое?」",
+   "orig": "Banagher\n「What is that?」"
+  },
+  {
+   "i": 198,
+   "speaker": "Ру",
+   "text": "「Я об этом слышала. «Зета» —\n　машина, которая откликается на чувства людей.」",
+   "orig": "Roux\n「I've heard about this. The Zeta\n　is a machine that reacts to human emotion.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Джудо",
+   "text": "「Знаю.\n　Так Камий и пострадал.」",
+   "orig": "Judau\n「I know.\n　That's how Kamille was hurt.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Амуро",
+   "text": "「Он впитал желания огромного множества людей —\n　и потому потерял себя.」",
+   "orig": "Amuro\n「He absorbed the desires of an enormous number of \n　people, and so he lost grip on his own identity.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Камий",
+   "text": "「Ох.」",
+   "orig": "Kamille\n「Ugh.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Фа",
+   "text": "「Камий!」",
+   "orig": "Fa\n「Kamille!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Камий",
+   "text": "「Я в порядке, Фа.」",
+   "orig": "Kamille\n「I'm OK, Fa.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Камий",
+   "text": "「Моё тело и мой разум — они здесь, со мной.」",
+   "orig": "Kamille\n「My body and mind, they're right here.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Джудо",
+   "text": "「Камий!」",
+   "orig": "Judau\n「Kamille!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Камий",
+   "text": "「Я — это я.\n　Я не просто сосуд\n　для чужих желаний!」",
+   "orig": "Kamille\n「I am me.\n　I'm not just a vessel\n　for the desires of others!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Камий",
+   "text": "「И теперь, когда я это понял,\n　чужие желания меня больше не раздавят.」",
+   "orig": "Kamille\n「Now that I know that,\n　I will never be crushed by others' desires again.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Сэцуна",
+   "text": "「Понимать друг друга и слиться воедино — разные вещи.」",
+   "orig": "Setsuna\n「Understanding each other and becoming one are different.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Амуро",
+   "text": "「Верно.\n　Поэтому каждая жизнь должна оставаться собой.\n　В этом и есть человеческое.」",
+   "orig": "Amuro\n「That's right.\n　So every life must remain its own.\n　That's part of being human.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Амуро",
+   "text": "（Чар.\n　Камий снова стал сильным.）",
+   "orig": "Amuro\n（Char.\n　Kamille has grown strong again.）"
+  },
+  {
+   "i": 211,
+   "speaker": "Ридде",
+   "text": "「Проклятье!\n　Если бы только сорвать печать с «Банши»!」",
+   "orig": "Riddhe\n「Damn!\n　If I could just crack the Banshee's seal!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Банагер",
+   "text": "「Остановитесь, мичман Ридде!\n　Зачем вы это делаете?」",
+   "orig": "Banagher\n「Stop, Ensign Riddhe!\n　Why are you doing this?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Ридде",
+   "text": "「Банагер!\n　Это всё из-за тебя!」",
+   "orig": "Riddhe\n「Banagher!\n　This is all your fault!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Банагер",
+   "text": "「Что — из-за меня?」",
+   "orig": "Banagher\n「What is?」"
+  },
+  {
+   "i": 215,
+   "speaker": "Ридде",
+   "text": "「Ты обманул Миневу!\n　Не появись ты, она ни за что не отреклась бы\n　от своей семьи и могла бы быть моей!」",
+   "orig": "Riddhe\n「You duped Mineva!\n　If you hadn't come along, she never would have \n　abandoned her family, and could have been mine!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Банагер",
+   "text": "「О чём вы вообще говорите?」",
+   "orig": "Banagher\n「What are you talking about?」"
+  },
+  {
+   "i": 217,
+   "speaker": "Ридде",
+   "text": "「Ты... ты...」",
+   "orig": "Riddhe\n「You...you...」"
+  },
+  {
+   "i": 218,
+   "speaker": "Ридде",
+   "text": "「Гья-а-а-а!」",
+   "orig": "Riddhe\n「Gyaaaah!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!」",
+   "orig": "Banagher\n「Ensign Riddhe!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Минева",
+   "text": "（Мичман Ридде...\n　Пытаясь спасти меня, вы заодно надеетесь спасти\n　и себя — ведь вы так скованы своей семьёй.）",
+   "orig": "Mineva\n（Ensign Riddhe...\n　In trying to rescue me, at the same time you hope\n　to rescue yourself, bound as you are to your family.）"
+  },
+  {
+   "i": 221,
+   "speaker": "Минева",
+   "text": "（Но ничего не изменится, пока ваши безнадёжные\n　желания снова и снова разбиваются о Банагера.）",
+   "orig": "Mineva\n（But nothing will change, as your hopeless \n　desires come up against Banagher yet again.）"
+  },
+  {
+   "i": 222,
+   "speaker": "Анджело",
+   "text": "「Гра-а!\n　Я всё ещё не привык к «Розен Зулу»!」",
+   "orig": "Angelo\n「Grah!\n　I'm still not used to piloting Rozen Zulu!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Фронталь",
+   "text": "「Не перенапрягайся, Анджело.\n　Предоставь это мне.」",
+   "orig": "Frontal\n「Don't push yourself overmuch, Angelo.\n　Leave this to me.」"
+  },
+  {
+   "i": 224,
+   "speaker": "Анджело",
+   "text": "「Но, командир, я справлюсь!」",
+   "orig": "Angelo\n「But Commander, I can do it!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Фронталь",
+   "text": "「Война не кончится от одного разгрома «Лондо Белл».\n　Твои силы ещё понадобятся.」",
+   "orig": "Frontal\n「The war will not end by merely defeating Londo Bell.\n　Your efforts will still be needed.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Анджело",
+   "text": "「Понял.\n　Анджело Саупер отходит.」",
+   "orig": "Angelo\n「Understood.\n　Angelo Sauper, withdrawing.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Амуро",
+   "text": "「Этот пилот...\n　Похоже, Фронталь ему по-настоящему дорог.」",
+   "orig": "Amuro\n「That pilot...\n　It looks like he really cares about Frontal.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Дагуза",
+   "text": "「Иначе телохранитель из него был бы никудышный.」",
+   "orig": "Daguza\n「If he didn't, he wouldn't be much of a guard.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Амуро",
+   "text": "（Даже среди потомственных вождей Зеона\n　мало кто держал при себе телохранителей.）",
+   "orig": "Amuro\n（Even among Zeon's hereditary leaders,\n　there haven't been many who kept guards.）"
+  },
+  {
+   "i": 230,
+   "speaker": "Амуро",
+   "text": "（Фулл Фронталь...\n　Если не поостеречься, он окажется хуже Чара.）",
+   "orig": "Amuro\n（Full Frontal...\n　If we aren't careful, he could be worse than Char.）"
+  },
+  {
+   "i": 231,
+   "speaker": "Джерид",
+   "text": "「Никуда не годится, Камий!\n　Ты боишься драться!」",
+   "orig": "Jerid\n「It's no good, Kamille!\n　You're scared to fight!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Камий",
+   "text": "「Ха!」",
+   "orig": "Kamille\n「Huh!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Джерид",
+   "text": "「Я уж позабочусь проводить тебя в последний путь!\n　Скажи спасибо!」",
+   "orig": "Jerid\n「I'll be sure to give you your last rites!\n　You should be grateful!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Камий",
+   "text": "「Странно.\n　Похоже, ты чувствуешь мою волю!」",
+   "orig": "Kamille\n「That's odd.\n　It's like you can feel my will!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Джерид",
+   "text": "「Что?」",
+   "orig": "Jerid\n「What?」"
+  },
+  {
+   "i": 236,
+   "speaker": "Камий",
+   "text": "「Даже мы двое, что без конца пытаемся убить друг друга,\n　может быть, сумеем примириться!\n　Я обязан пытаться дальше!」",
+   "orig": "Kamille\n「Even we two, who keep trying to kill each other, \n　might be able to find reconciliation!\n　I have to keep trying!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Камий",
+   "text": "「Вместе с этой «Зетой»!」",
+   "orig": "Kamille\n「With this Zeta!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Банагер",
+   "text": "「Мичман Ридде!\n　Мне больше незачем вас уговаривать.」",
+   "orig": "Banagher\n「Ensign Riddhe!\n　I don't need to talk to you anymore.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Ридде",
+   "text": "「Что?」",
+   "orig": "Riddhe\n「What?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Банагер",
+   "text": "「Я покажу вам, как делиться чувствами даже в бою!\n　У нас должно получиться —\n　через наши «Юникорны»!」",
+   "orig": "Banagher\n「I can show you how to share emotions, even in battle!\n　We should be able to do it\n　using our Unicorns!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Ридде",
+   "text": "「Не делай из меня такого же урода, как вы!」",
+   "orig": "Riddhe\n「Don't make me like you freaks!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Банагер",
+   "text": "「Но, Ридде!\n　Вы такой же, как я!」",
+   "orig": "Banagher\n「But Riddhe!\n　You are like me!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Ридде",
+   "text": "「Молчи, Банагер!\n　Единственное, что нас связывает, — этот бой!」",
+   "orig": "Riddhe\n「Silence, Banagher!\n　The only connection between us is this fight!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Марида",
+   "text": "「Не дай «Банши» взять над тобой верх!」",
+   "orig": "Marida\n「Don't get overwhelmed by the Banshee!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Ридде",
+   "text": "「Что?」",
+   "orig": "Riddhe\n「What?」"
+  },
+  {
+   "i": 246,
+   "speaker": "Марида",
+   "text": "「Если раскроешь его целиком, он станет верным\n　союзником, но если он подомнёт тебя — это твоя смерть!」",
+   "orig": "Marida\n「If you use it to its full potential, it can be a\n　great ally, but if it overwhelms you, it'll be your death!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Ридде",
+   "text": "「Молчать, уроды!\n　Какой-то машине я не проиграю!」",
+   "orig": "Riddhe\n「Quiet, you freaks!\n　I won't lose to some machine!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Ридде",
+   "text": "「С этим «Банши» я сшибу их всех...\n　«Лондо Белл», Нео-Зеон, всех своих врагов!」",
+   "orig": "Riddhe\n「With this Banshee, I can take them all down...\n　Londo Bell, Neo Zeon, all my enemies!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Марида",
+   "text": "「Эта замкнутость и значит, что машина берёт верх!\n　Ты должен открыть сердце!」",
+   "orig": "Marida\n「That closed mindedness shows the machine is \n　taking over! You must open your heart!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Анджело",
+   "text": "「Это Камий Бидан.\n　На него положил глаз сам Чар Азнабль!」",
+   "orig": "Angelo\n「That's Kamille Bidan.\n　Char Aznable had his eye on him!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Камий",
+   "text": "「Что это за пилот?\n　Берегись!」",
+   "orig": "Kamille\n「Who's this pilot?\n　Watch out!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Анджело",
+   "text": "「Похоже, ты признал мою силу.\n　Но уже поздно!」",
+   "orig": "Angelo\n「It looks like you've recognized my strength.\n　But you're too late!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Камий",
+   "text": "「Да не о том речь!\n　Я говорю: берегись! Твоё преклонение\n　перед Фронталом тебя погубит.」",
+   "orig": "Kamille\n「Not that!\n　I'm saying, you have to watch out! Your admiration\n　for Frontal could destroy you.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Камий",
+   "text": "「А если так случится,\n　ты перестанешь быть человеком.\n　Станешь просто ещё одной военной машиной!」",
+   "orig": "Kamille\n「If that happens, you won't\n　be human any longer.\n　You'll become just another war machine!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Анджело",
+   "text": "「«Юникорн»!\n　Мой «Розен Зулу» потягается\n　даже с тобой!」",
+   "orig": "Angelo\n「Unicorn!\n　My Rozen Zulu is a match\n　for even you!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Банагер",
+   "text": "「От этой лиловой машины так и веет злобой...\n　Неужели «Юникорн» её чувствует?」",
+   "orig": "Banagher\n「That purple suit is radiating so much ill will...\n　Does the Unicorn sense it?」"
+  },
+  {
+   "i": 257,
+   "speaker": "Фронталь",
+   "text": "「Поистине прискорбно, Камий,\n　что нам с тобой приходится драться.」",
+   "orig": "Frontal\n「It's truly unfortunate, Kamille,\n　that you and I must fight.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Камий",
+   "text": "「Тебе незачем ему подражать.\n　Раз дерёшься со мной — дай услышать твой настоящий голос!」",
+   "orig": "Kamille\n「You don't have to mimic him.\n　If you're going to fight me, let me hear your real voice!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Фронталь",
+   "text": "「Это и есть настоящий я.\n　Я — сосуд для желаний всех.」",
+   "orig": "Frontal\n「This is the real me.\n　I am the vessel for the desires of all.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Камий",
+   "text": "「В этом нет никакой нужды, Фулл Фронталь!\n　Мир прекрасно обходится и так —\n　когда у каждого человека свои желания!」",
+   "orig": "Kamille\n「There's no need for such a thing, Full Frontal!\n　This world works fine as it is,\n　with every person having their own desires!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Камий",
+   "text": "「Поэтому я тебя отвергаю!\n　Человечество ещё не доросло до такого!」",
+   "orig": "Kamille\n「So I deny you!\n　Humanity hasn't reached that stage yet!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Амуро",
+   "text": "「Фулл Фронталь,\n　послушай Камия!」",
+   "orig": "Amuro\n「Full Frontal,\n　Listen to Kamille!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Фронталь",
+   "text": "「Значит, и ты меня отвергаешь, Амуро?」",
+   "orig": "Frontal\n「And you deny me as well, Amuro?」"
+  },
+  {
+   "i": 264,
+   "speaker": "Амуро",
+   "text": "「Нет, Фронталь, всё не обязано быть так.\n　У тебя есть собственная судьба!\n　Тебе незачем жить ради других!」",
+   "orig": "Amuro\n「No, Frontal, it doesn't have to be like this.\n　You have your own destiny!\n　You don't need to live for others!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Фронталь",
+   "text": "「Это отрицание самой моей сути!\n　И я буду сопротивляться ему всеми силами!」",
+   "orig": "Frontal\n「That is a denial of my identity!\n　I will resist it with all my strength!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Амуро",
+   "text": "「Он не слышит...」",
+   "orig": "Amuro\n「He won't listen...」"
+  },
+  {
+   "i": 267,
+   "speaker": "Амуро",
+   "text": "（Чар!\n　Вот к чему привела твоя ненависть?）",
+   "orig": "Amuro\n（Char!\n　Is this what your hate has brought?）"
+  },
+  {
+   "i": 268,
+   "speaker": "Фронталь",
+   "text": "「Уж кто-кто, а ты должен понимать,\n　о чём я говорю.」",
+   "orig": "Frontal\n「You of all people should understand \n　what I am saying.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Банагер",
+   "text": "「Я не мастер складно говорить,\n　но я правда не верю, что человечеству нужен\n　сосуд, собирающий желания всех.」",
+   "orig": "Banagher\n「I'm not very good at saying what I think, \n　but I really don't believe that humanity needs\n　a vessel to collect everyone's desires.」"
+  },
+  {
+   "i": 270,
+   "speaker": "Фронталь",
+   "text": "「Как жаль.\n　Ты такой же, как все остальные.」",
+   "orig": "Frontal\n「That's too bad.\n　You are like all the others.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Банагер",
+   "text": "「И я, как и они, буду сражаться\n　за мир без войны!」",
+   "orig": "Banagher\n「And I'm going to fight for \n　a world without war, just like they do!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Фронталь",
+   "text": "「Тогда я — ключ к надеждам твоим и твоих товарищей.\n　Я служу тому, кто\n　движет всем этим миром.」",
+   "orig": "Frontal\n「Then I am the key to the hopes of you and your comrades.\n　I work for the one who\n　moves the entire world.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Камий",
+   "text": "（Кресло пилота «Зеты».\n　Стоит сюда сесть, и я невольно\n　вспоминаю бой с Сирокко.）",
+   "orig": "Kamille\n（The Zeta's pilot seat.\n　When I sit here, I can't help but\n　think on my battle with Scirocco.）"
+  },
+  {
+   "i": 274,
+   "speaker": "Камий",
+   "text": "（Всё это время я бежал от этого,\n　но, похоже, теперь\n　придётся посмотреть правде в глаза.）",
+   "orig": "Kamille\n（I've tried to avoid it all this time,\n　but it looks like now \n　I'll have to face it.）"
+  },
+  {
+   "i": 275,
+   "speaker": "Джудо",
+   "text": "（С Камием что-то не так.）",
+   "orig": "Judau\n（There's something wrong with Kamille.）"
+  },
+  {
+   "i": 276,
+   "speaker": "Джудо",
+   "text": "（Это всё из-за того, что он в «Зете».）",
+   "orig": "Judau\n（It must be because he's in the Zeta.）"
+  },
+  {
+   "i": 277,
+   "speaker": "$n",
+   "text": "「Гах!」",
+   "orig": "$n\n「Gah!」"
+  }
+ ]
+}

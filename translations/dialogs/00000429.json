@@ -1,0 +1,2356 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Брокен",
+   "text": "「Ха-ха-ха, федеральные свиньи!\n　Вы всё ещё сопротивляетесь?」",
+   "orig": "Brocken\n「Hahahah, you Federation pigs!\n　Do you still resist us?」"
+  },
+  {
+   "i": 1,
+   "speaker": "Буран",
+   "text": "「Агх!\n　Нас растянули в нитку с тех пор, как основные силы\n　бросили на захват колониального лазера!」",
+   "orig": "Buran\n「Agh!\n　We're spread too thin ever since they sent\n　our main forces to take the Colony Laser!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Брокен",
+   "text": "「И всё же вы неплохо держитесь!\n　Я впечатлён — так долго выстоять против меня!」",
+   "orig": "Brocken\n「Even so, you are fighting well!\n　I'm impressed you've held so long against me!」"
+  },
+  {
+   "i": 3,
+   "speaker": "Брокен",
+   "text": "「Но сопротивление бесполезно.\n　Институт фотонной энергии уже наш!」",
+   "orig": "Brocken\n「But resistance is futile.\n　The Photonic Power Research Institute is already ours!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Буран",
+   "text": "「Что?!」",
+   "orig": "Buran\n「What?!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Брокен",
+   "text": "「Проклятье, Пигман!\n　Я расчистил тебе дорогу, а ты всё равно\n　провалился?! Ты позор нашего отряда!」",
+   "orig": "Brocken\n「Curses, Pygman!\n　After I cleared the way for you, you\n　still failed?! You're a disgrace to this team!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Брокен",
+   "text": "「Что ж, до этого дошло. Придётся их разбомбить!」",
+   "orig": "Brocken\n「So it's come to this. I'll have to bomb them!」"
+  },
+  {
+   "i": 7,
+   "speaker": "Брокен",
+   "text": "「Ч-что за—」",
+   "orig": "Brocken\n「W-what the—」"
+  },
+  {
+   "i": 8,
+   "speaker": "Буран",
+   "text": "「Что это?」",
+   "orig": "Buran\n「What's that?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Кодзи",
+   "text": "「Дальше ни шагу, Брокен!\n　Теперь тебе придётся иметь дело с нами!」",
+   "orig": "Koji\n「That's far enough, Brocken!\n　You'll have to deal with us, now!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Брокен",
+   "text": "「Значит, ты всё-таки явился, Кодзи Кабуто!」",
+   "orig": "Brocken\n「So you've shown up after all, Koji Kabuto!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Окита",
+   "text": "「Говорит командир «Ямато» Окита.\n　Предоставьте это нам, «Джи-Хаунд». Можете отходить.」",
+   "orig": "Okita\n「This is Commanding Officer Okita of the Yamato.\n　Leave this to us, G-Hound. You may withdraw.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Буран",
+   "text": "「Вас понял.\n　Надеюсь, вы справитесь!」",
+   "orig": "Buran\n「Roger.\n　I hope you all can handle it!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Каппэй",
+   "text": "「А эти ребята молодцы — удержали лабораторию,\n　пока мы не подоспели, верно?」",
+   "orig": "Kappei\n「Those guys did a good job keeping the lab safe\n　until we showed up, didn't they?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Найн",
+   "text": "「Они тоже сила, что стоит за мир.」",
+   "orig": "Nine\n「They are also a force for peace.」"
+  },
+  {
+   "i": 15,
+   "speaker": "$n",
+   "text": "「Вот в этом и состоит долг солдата.」",
+   "orig": "$n\n「That's what being a soldier is supposed to be all about.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Бандзё",
+   "text": "「Что ж, нельзя дать их трудам пропасть даром.\n　Разделаемся с этими типами!」",
+   "orig": "Banjo\n「Well, we can't let all their efforts go to waste.\n　Let's beat these guys!」"
+  },
+  {
+   "i": 17,
+   "speaker": "Майто",
+   "text": "「Всем быть начеку!\n　Сюда что-то стремительно приближается!」",
+   "orig": "Maito\n「Everyone, be careful!\n　Something's coming this way, fast!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Каппэй",
+   "text": "「А эти ребята молодцы — удержали лабораторию,\n　пока мы не подоспели, верно?」",
+   "orig": "Kappei\n「Those guys did a good job keeping the lab safe\n　until we showed up, didn't they?」"
+  },
+  {
+   "i": 19,
+   "speaker": "Найн",
+   "text": "「Они тоже сила, что стоит за мир.」",
+   "orig": "Nine\n「They are also a force for peace.」"
+  },
+  {
+   "i": 20,
+   "speaker": "$n",
+   "text": "「Вот в этом и состоит долг солдата.」",
+   "orig": "$n\n「That's what being a soldier is supposed to be all about.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Бандзё",
+   "text": "「Что ж, нельзя дать их трудам пропасть даром.\n　Разделаемся с этими типами!」",
+   "orig": "Banjo\n「Well, we can't let all their efforts go to waste.\n　Let's beat these guys!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Майто",
+   "text": "「Всем быть начеку!\n　Сюда что-то стремительно приближается!」",
+   "orig": "Maito\n「Everyone, be careful!\n　Something's coming this way, fast!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Кодзи",
+   "text": "「Ты тоже пожаловала, Ашура!」",
+   "orig": "Koji\n「You've come too, Ashura!」"
+  },
+  {
+   "i": 24,
+   "speaker": "Ашура",
+   "text": "「Именно так, Кодзи Кабуто!\n　Мы явились покончить с тобой раз и навсегда!」",
+   "orig": "Ashura\n「Indeed, Koji Kabuto!\n　We are here to take care of you for good!」"
+  },
+  {
+   "i": 25,
+   "speaker": "Брокен",
+   "text": "「Ашура?\n　Ты что, пренебрегла приказом доктора Хелла\n　и явилась сюда без разрешения?!」",
+   "orig": "Brocken\n「Ashura?\n　Did you actually ignore Dr. Hell's orders and\n　come without permission?!」"
+  },
+  {
+   "i": 26,
+   "speaker": "Ашура",
+   "text": "「Я пришла выиграть эту битву!\n　Доктор Хелл непременно меня за это простит.」",
+   "orig": "Ashura\n「I came to win this battle!\n　Dr. Hell will surely forgive me for this.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Брокен",
+   "text": "「Мерзавка…\n　Ты и правда готова поставить всё на один бой?」",
+   "orig": "Brocken\n「You scum…\n　Will you really risk so much on this one battle? 」"
+  },
+  {
+   "i": 28,
+   "speaker": "Ашура",
+   "text": "「За дело, Брокен!\n　Мы разобьём Кодзи Кабуто с его дружками\n　и заберём всю фотонную энергию до прихода доктора!」",
+   "orig": "Ashura\n「Let us do this, Brocken!\n　We shall defeat Koji Kabuto and his allies, \n　and take all the photonic power before Dr. Hell arrives!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Кодзи",
+   "text": "「Мы этого ни за что не допустим!\n　Ну давайте, Брокен, Ашура!」",
+   "orig": "Koji\n「We'll never let that happen!\n　Come on, Brocken and Ashura!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Кодзи",
+   "text": "「Я покончу с этим здесь и сейчас!」",
+   "orig": "Koji\n「I'm going to end this battle here and now!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Анкокудзи",
+   "text": "「Началось, Блейд!」",
+   "orig": "Ankokuji\n「It's started, Blade!」"
+  },
+  {
+   "i": 32,
+   "speaker": "Тэцуя",
+   "text": "「Анкокудзи.\n　Присмотри за доктором Юми и лабораторией.」",
+   "orig": "Tetsuya\n「Ankokuji.\n　Look after Dr. Yumi and the laboratory.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Юми",
+   "text": "「Тэцуя, что ты задумал?!」",
+   "orig": "Yumi\n「Tetsuya, what are you planning to do?!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Тэцуя",
+   "text": "「То, что должен, чтобы защитить этот мир.」",
+   "orig": "Tetsuya\n「What I must, to protect this world.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Ашура",
+   "text": "「Б-безумие!\n　Мы, барон Ашура, сильнейший из повелителей\n　механических зверей, — и проигрываем?!」",
+   "orig": "Ashura\n「M-madness!\n　We, Baron Ashura, strongest of the \n　Mechanical Beasts, are losing?!」"
+  },
+  {
+   "i": 36,
+   "speaker": "Рёма",
+   "text": "「Именно так, Ашура!\n　Пора взглянуть правде в глаза!」",
+   "orig": "Ryoma\n「That's right, Ashura!\n　Time to face reality!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Ашура",
+   "text": "「Н-невозможно!\n　Всё это невозможно...」",
+   "orig": "Ashura\n「I-impossible!\n　This is all impossible...」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодзи",
+   "text": "「Пора с этим кончать, Ашура!」",
+   "orig": "Koji\n「Time to finish this, Ashura!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Доктор Хелл",
+   "text": "「Стой!」",
+   "orig": "Dr. Hell\n「Wait!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Синдзи",
+   "text": "「Что это такое?!」",
+   "orig": "Shinji\n「What is that?!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Аска",
+   "text": "「Он огромный...\n　Это что, робот?!」",
+   "orig": "Asuka\n「It's enormous...\n　Is it a robot?!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Доктор Хелл",
+   "text": "「Трепещите!\n　Это Хелл Кинг Гордон!」",
+   "orig": "Dr. Hell\n「Tremble with fear!\n　This is Hell King Gordon!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Майто",
+   "text": "「Он сказал «Хелл Кинг»?!」",
+   "orig": "Maito\n「Did he just say Hell King?!」"
+  },
+  {
+   "i": 44,
+   "speaker": "Рёма",
+   "text": "「Аргх!\n　Название нелепое, но, похоже, вполне заслуженное!」",
+   "orig": "Ryoma\n「Argh!\n　The name may be ridiculous, but I don't think it's wrong!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Доктор Хелл",
+   "text": "「Ашура.」",
+   "orig": "Dr. Hell\n「Ashura.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Ашура",
+   "text": "「Д-да, повелитель?」",
+   "orig": "Ashura\n「Y-yes, master?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Доктор Хелл",
+   "text": "「За непослушание я накажу тебя позже.\n　А сейчас — покинь это место.」",
+   "orig": "Dr. Hell\n「I will punish your disobedience later.\n　Now, you will leave this place.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Кодзи",
+   "text": "「Никуда они не уйдут!」",
+   "orig": "Koji\n「They're not going anywhere!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Доктор Хелл",
+   "text": "「Ашуру вы не получите!」",
+   "orig": "Dr. Hell\n「You will not take Ashura!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Саяка",
+   "text": "「Ааааа!」",
+   "orig": "Sayaka\n「Aaaagh!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Босс",
+   "text": "「Он слишком силён!」",
+   "orig": "Boss\n「It's too powerful!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Доктор Хелл",
+   "text": "「Уходи немедленно, Ашура!」",
+   "orig": "Dr. Hell\n「Go now, Ashura!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Ашура",
+   "text": "「Благодарю вас, доктор Хелл!\n　Я никогда не забуду вашей милости!」",
+   "orig": "Ashura\n「Thank you, Dr. Hell!\n　I will never forget your mercy!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Доктор Хелл",
+   "text": "「Ашура.\n　Я не могу позволить тебе умереть.」",
+   "orig": "Dr. Hell\n「Ashura.\n　I cannot allow you to die.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Кодзи",
+   "text": "「Как же вы печётесь о своих подручных, доктор Хелл!」",
+   "orig": "Koji\n「You're awfully considerate of your subordinates, Dr. Hell!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Доктор Хелл",
+   "text": "「Кодзи Кабуто.」",
+   "orig": "Dr. Hell\n「Koji Kabuto.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Кодзи",
+   "text": "「Чего?」",
+   "orig": "Koji\n「What?」"
+  },
+  {
+   "i": 58,
+   "speaker": "Доктор Хелл",
+   "text": "「Отдай мне своего «Мазингера Зет».」",
+   "orig": "Dr. Hell\n「Hand over your Mazinger Z.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Кодзи",
+   "text": "「Ты это серьёзно?!\n　Ты правда ждёшь, что я сдамся?」",
+   "orig": "Koji\n「What are you talking about?!\n　Do you actually expect me to surrender?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Доктор Хелл",
+   "text": "「Отвечай!\n　Отдашь ты его мне или нет?」",
+   "orig": "Dr. Hell\n「Answer me!\n　Will you give it to me, or no?」"
+  },
+  {
+   "i": 61,
+   "speaker": "Кодзи",
+   "text": "「Об этом и речи быть не может!」",
+   "orig": "Koji\n「It's out of the question!」"
+  },
+  {
+   "i": 62,
+   "speaker": "Кодзи",
+   "text": "「«Мазингера Зет» создал мой дед!\n　Я его никому не отдам!」",
+   "orig": "Koji\n「My grandfather made Mazinger Z!\n　I'm not giving it to anyone!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тэцуя",
+   "text": "「Что ж, тогда мне просто придётся его уничтожить!」",
+   "orig": "Tetsuya\n「Very well then, I will simply have to destroy it!」"
+  },
+  {
+   "i": 64,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Koji\n「Great Mazinger!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Майто",
+   "text": "「Остановись, Тэцуя!\n　Ты что, не видишь, что там творится?」",
+   "orig": "Maito\n「Stop, Tetsuya!\n　Don't you see what's happening out there?」"
+  },
+  {
+   "i": 66,
+   "speaker": "$n",
+   "text": "「Совсем с ума сошёл — лезть на Кодзи\n　в такой момент!」",
+   "orig": "$n\n「You're crazy if you're thinking\n　of going after Koji at a time like this!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тэцуя",
+   "text": "「Аргх!」",
+   "orig": "Tetsuya\n「Argh!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Рёма",
+   "text": "「Почему ты не хочешь с нами говорить?」",
+   "orig": "Ryoma\n「Why won't you talk to us?」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тэцуя",
+   "text": "「Слова тут ни к чему.\n　Между нами осталась лишь битва!」",
+   "orig": "Tetsuya\n「There's no need for words.\n　The only thing left between us is battle!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Доктор Хелл",
+   "text": "「Рад снова видеть тебя, Тэцуя Цуруги!\n　Признаться, я удивлён, что ты\n　всё ещё жив!」",
+   "orig": "Dr. Hell\n「Good to see you again, Tetsuya Tsurugi!\n　I'm surprised to see you \n　still live!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Доктор Хелл",
+   "text": "「Это он тебе подсказал?\n　Если так, мне стоит его поблагодарить.」",
+   "orig": "Dr. Hell\n「Did he suggest this?\n　If so, I'll have to thank him.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Тэцуя",
+   "text": "「Не мели чепухи, доктор Хелл.\n　Или ты и со мной сразиться хочешь?」",
+   "orig": "Tetsuya\n「Don't talk nonsense, Dr. Hell.\n　Or do you want to fight me, as well?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Доктор Хелл",
+   "text": "「Сражаться со мной бессмысленно:\n　даже если у вас два «Мазингера»,\n　меня не одолеть!」",
+   "orig": "Dr. Hell\n「It's pointless to fight me, \n　even if you have two Mazingers,\n　I am unbeatable!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Тэцуя",
+   "text": "「С тобой я разберусь позже,\n　сейчас у меня другое дело.」",
+   "orig": "Tetsuya\n「I'll settle things with you later, \n　right now I have other business.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Кодзи",
+   "text": "「Ну так давай, «Грейт Мазингер»!\n　И ты тоже, доктор Хелл!」",
+   "orig": "Koji\n「Come on then, Great Mazinger!\n　You too, Dr. Hell!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тэцуя",
+   "text": "「Прости меня, Кодзи!\n　Но я должен это сделать!」",
+   "orig": "Tetsuya\n「Forgive me, Koji!\n　But I must do this!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Доктор Хелл",
+   "text": "「Чтобы захватить этот мир —\n　и чтобы его защитить!」",
+   "orig": "Dr. Hell\n「To take over this world, \n　and to protect it!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Кодзи",
+   "text": "「Замолчи, замолчи, замолчи!\n　Кто бы ты ни был,\n　я никому не отдам своего «Мазингера»!」",
+   "orig": "Koji\n「Shut up, shut up, shut up!\n　I don't care who it is, \n　I'll never let anyone take my Mazinger!」"
+  },
+  {
+   "i": 79,
+   "speaker": "Саяка",
+   "text": "「Кодзи...」",
+   "orig": "Sayaka\n「Koji...」"
+  },
+  {
+   "i": 80,
+   "speaker": "Кодзи",
+   "text": "「Вперёд, «Мазингер Зет»!\n　Нам нечего бояться ни «Грейт Мазингера»,\n　ни Хелл Кинга!」",
+   "orig": "Koji\n「Come on, Mazinger Z!\n　We've nothing to fear from Great Mazinger\n　and the Hell King!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Кодзи",
+   "text": "「Ты сильнейший в истории!\n　Абсолютный супер-робот!」",
+   "orig": "Koji\n「You're the strongest in history!\n　The ultimate super robot!」"
+  },
+  {
+   "i": 82,
+   "speaker": "Тэцуя",
+   "text": "「Что ж, тогда мне просто придётся его уничтожить!」",
+   "orig": "Tetsuya\n「Very well then, I will simply have to destroy it!」"
+  },
+  {
+   "i": 83,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер»!」",
+   "orig": "Koji\n「Great Mazinger!」"
+  },
+  {
+   "i": 84,
+   "speaker": "Майто",
+   "text": "「Остановись, Тэцуя!\n　Ты что, не видишь, что там творится?」",
+   "orig": "Maito\n「Stop, Tetsuya!\n　Don't you see what's happening out there?」"
+  },
+  {
+   "i": 85,
+   "speaker": "$n",
+   "text": "「Совсем с ума сошёл — лезть на Кодзи\n　в такой момент!」",
+   "orig": "$n\n「You're crazy if you're thinking\n　of going after Koji at a time like this!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Тэцуя",
+   "text": "「Аргх!」",
+   "orig": "Tetsuya\n「Argh!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Рёма",
+   "text": "「Почему ты не хочешь с нами говорить?」",
+   "orig": "Ryoma\n「Why won't you talk to us?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Тэцуя",
+   "text": "「Слова тут ни к чему.\n　Между нами осталась лишь битва!」",
+   "orig": "Tetsuya\n「There's no need for words.\n　The only thing left between us is battle!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Доктор Хелл",
+   "text": "「Рад снова видеть тебя, Тэцуя Цуруги!\n　Признаться, я удивлён, что ты\n　всё ещё жив!」",
+   "orig": "Dr. Hell\n「Good to see you again, Tetsuya Tsurugi!\n　I'm surprised to see you \n　still live!」"
+  },
+  {
+   "i": 90,
+   "speaker": "Доктор Хелл",
+   "text": "「Это он тебе подсказал?\n　Если так, мне стоит его поблагодарить.」",
+   "orig": "Dr. Hell\n「Did he suggest this?\n　If so, I'll have to thank him.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Тэцуя",
+   "text": "「Не мели чепухи, доктор Хелл.\n　Или ты и со мной сразиться хочешь?」",
+   "orig": "Tetsuya\n「Don't talk nonsense, Dr. Hell.\n　Or do you want to fight me, as well?」"
+  },
+  {
+   "i": 92,
+   "speaker": "Доктор Хелл",
+   "text": "「Сражаться со мной бессмысленно:\n　даже если у вас два «Мазингера»,\n　меня не одолеть!」",
+   "orig": "Dr. Hell\n「It's pointless to fight me, \n　even if you have two Mazingers,\n　I am unbeatable!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Тэцуя",
+   "text": "「С тобой я разберусь позже,\n　сейчас у меня другое дело.」",
+   "orig": "Tetsuya\n「I'll settle things with you later, \n　right now I have other business.」"
+  },
+  {
+   "i": 94,
+   "speaker": "Кодзи",
+   "text": "「Ну так давай, «Грейт Мазингер»!\n　И ты тоже, доктор Хелл!」",
+   "orig": "Koji\n「Come on then, Great Mazinger!\n　You too, Dr. Hell!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тэцуя",
+   "text": "「Прости меня, Кодзи!\n　Но я должен это сделать!」",
+   "orig": "Tetsuya\n「Forgive me, Koji!\n　But I must do this!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Доктор Хелл",
+   "text": "「Чтобы захватить этот мир —\n　и чтобы его защитить!」",
+   "orig": "Dr. Hell\n「To take over this world, \n　and to protect it!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Кодзи",
+   "text": "「Замолчи, замолчи, замолчи!\n　Кто бы ты ни был,\n　я никому не отдам своего «Мазингера»!」",
+   "orig": "Koji\n「Shut up, shut up, shut up!\n　I don't care who it is, \n　I'll never let anyone take my Mazinger!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Саяка",
+   "text": "「Кодзи...」",
+   "orig": "Sayaka\n「Koji...」"
+  },
+  {
+   "i": 99,
+   "speaker": "Кодзи",
+   "text": "「Вперёд, «Мазингер Зет»!\n　Нам нечего бояться ни «Грейт Мазингера»,\n　ни Хелл Кинга!」",
+   "orig": "Koji\n「Come on, Mazinger Z!\n　We've nothing to fear from Great Mazinger\n　and the Hell King!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Кодзи",
+   "text": "「Ты сильнейший в истории!\n　Абсолютный супер-робот!」",
+   "orig": "Koji\n「You're the strongest in history!\n　The ultimate super robot!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Аска",
+   "text": "「Они всё никак не угомонятся! Мало Хелл Кинга,\n　так ещё и «Грейт Мазингер»,\n　и армия механических зверей!」",
+   "orig": "Asuka\n「They just don't quit! It's not just\n　the Hell King, but also Great Mazinger\n　and the Mechanical Beasts Army!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Синдзи",
+   "text": "「Нельзя сдаваться, Аска!\n　Если перестанем верить в себя — мы уже проиграли!」",
+   "orig": "Shinji\n「We can't give up, Asuka!\n　If we lose faith in ourselves, we've lost already!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Рэй",
+   "text": "「Синдзи...」",
+   "orig": "Rei\n「Shinji...」"
+  },
+  {
+   "i": 104,
+   "speaker": "Синдзи",
+   "text": "「Меня этому научили Кодзи\n　и «Мазингер Зет»!」",
+   "orig": "Shinji\n「They taught me that, Koji \n　and Mazinger Z!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Кодзи",
+   "text": "「Верно, Синдзи!\n　Пока во мне есть воля, «Мазингера Зет» не одолеть!」",
+   "orig": "Koji\n「That's right, Shinji!\n　As long as I have the will, Mazinger Z is unbeatable!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Кодзи",
+   "text": "「Превыше богов и демонов —\n　превыше пространства, времени и самих измерений,\n　вот он, предельный Мазин, «Мазингер Зет»!」",
+   "orig": "Koji\n「Beyond gods and devils—\n　Beyond space and time and even dimensions, this is\n　the ultimate Mazin, Mazinger Z!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Юми",
+   "text": "「Именно так, Кодзи Кабуто!\n　Твоя воля способна пробудить истинную\n　мощь «Мазингера Зет»!」",
+   "orig": "Yumi\n「That's right, Koji Kabuto!\n　Your will can unleash Mazinger Z's \n　true power!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Кодзи",
+   "text": "「Истинную мощь?」",
+   "orig": "Koji\n「True power?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Юми",
+   "text": "「Силу творить нечто из ничего.\n　Это и есть Мазин-Пауэр, к которой стремился доктор Дзюдзо.」",
+   "orig": "Yumi\n「The power to create something from nothing.\n　That is the Mazin power that Dr. Juzo pursued.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Кодзи",
+   "text": "「Мазин-Пауэр!」",
+   "orig": "Koji\n「Mazin Power!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Доктор Хелл",
+   "text": "「Юми!\n　Ты сказал достаточно!」",
+   "orig": "Dr. Hell\n「Yumi!\n　You've said enough!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Тэцуя",
+   "text": "「Дело плохо!」",
+   "orig": "Tetsuya\n「This isn't going well!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Каппэй",
+   "text": "「Это ещё пустяки, Тэцуя!」",
+   "orig": "Kappei\n「This is nothing, Tetsuya!」"
+  },
+  {
+   "i": 114,
+   "speaker": "Майто",
+   "text": "「Не думай, что нам конец, ты же знаешь —\n　мы сильнее! Ты сам нас натаскивал!」",
+   "orig": "Maito\n「Don't think we're done for, you know\n　we're stronger than this! You helped train us!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Доктор Хелл",
+   "text": "「Довольно пустой бравады!\n　«Грейт Мазингер» — не единственный ваш враг!」",
+   "orig": "Dr. Hell\n「Enough with the grandstanding!\n　Great Mazinger isn't your only enemy!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Аска",
+   "text": "「И правда, он придержал козырь в рукаве!」",
+   "orig": "Asuka\n「It's true, he's kept his ringer in reserves!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Синдзи",
+   "text": "「Нельзя сдаваться, Аска!\n　Если перестанем верить в себя — мы уже проиграли!」",
+   "orig": "Shinji\n「We can't give up, Asuka!\n　If we lose faith in ourselves, we've lost already!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Рэй",
+   "text": "「Синдзи...」",
+   "orig": "Rei\n「Shinji...」"
+  },
+  {
+   "i": 119,
+   "speaker": "Синдзи",
+   "text": "「Меня этому научили Кодзи\n　и «Мазингер Зет»!」",
+   "orig": "Shinji\n「They taught me that, Koji \n　and Mazinger Z!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Кодзи",
+   "text": "「Верно, Синдзи!\n　Пока во мне есть воля, «Мазингера Зет» не одолеть!」",
+   "orig": "Koji\n「That's right, Shinji!\n　As long as I have the will, Mazinger Z's is unbeatable!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Кодзи",
+   "text": "「Превыше богов и демонов —\n　превыше пространства, времени и самих измерений,\n　вот он, предельный Мазин, «Мазингер Зет»!」",
+   "orig": "Koji\n「Beyond gods or devils—\n　Beyond space and time and even dimensions, this is\n　the ultimate Mazin, Mazinger Z!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Юми",
+   "text": "「Именно так, Кодзи Кабуто!\n　Твоя воля способна пробудить истинную\n　мощь «Мазингера Зет»!」",
+   "orig": "Yumi\n「That's right, Koji Kabuto!\n　Your will can unleash Mazinger Z's \n　true power!」"
+  },
+  {
+   "i": 123,
+   "speaker": "Кодзи",
+   "text": "「Истинную мощь?」",
+   "orig": "Koji\n「True power?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Юми",
+   "text": "「Силу творить из небытия.\n　Это и есть Мазин-Пауэр, к которой стремился доктор Дзюдзо.」",
+   "orig": "Yumi\n「The power to create from nothingness.\n　That is the Mazin power that Dr. Juzo pursued.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Кодзи",
+   "text": "「Мазин-Пауэр!」",
+   "orig": "Koji\n「Mazin Power!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Доктор Хелл",
+   "text": "「Юми!\n　Ты сказал достаточно!」",
+   "orig": "Dr. Hell\n「Yumi!\n　You've said enough!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Доктор Хелл",
+   "text": "「И это всё, на что ты способен?」",
+   "orig": "Dr. Hell\n「That's all you've got?」"
+  },
+  {
+   "i": 128,
+   "speaker": "Кодзи",
+   "text": "「Что?!」",
+   "orig": "Koji\n「What?!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Доктор Хелл",
+   "text": "「И этим ты думаешь защитить мир?! Ха!」",
+   "orig": "Dr. Hell\n「You think you can protect the world with that?! Hah!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Каппэй",
+   "text": "「Вот негодяй!\n　Он и не думает сбавлять обороты!」",
+   "orig": "Kappei\n「That bastard!\n　He's not slowing down!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Аска",
+   "text": "「Да ещё и армия механических зверей\n　с «Грейт Мазингером» — мы влипли!」",
+   "orig": "Asuka\n「Not to mention that with the Mechanical Beast Army\n　and Great Mazinger, we're in trouble!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Синдзи",
+   "text": "「Нельзя сдаваться, Аска!\n　Если перестанем верить в себя — мы уже проиграли!」",
+   "orig": "Shinji\n「We can't give up, Asuka!\n　If we lose faith in ourselves, we've lost already!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Рэй",
+   "text": "「Синдзи...」",
+   "orig": "Rei\n「Shinji...」"
+  },
+  {
+   "i": 134,
+   "speaker": "Синдзи",
+   "text": "「Меня этому научили Кодзи\n　и «Мазингер Зет»!」",
+   "orig": "Shinji\n「They taught me that, Koji \n　and Mazinger Z!」"
+  },
+  {
+   "i": 135,
+   "speaker": "Кодзи",
+   "text": "「Верно, Синдзи!\n　Пока во мне есть воля, «Мазингера Зет» не одолеть!」",
+   "orig": "Koji\n「That's right, Shinji!\n　As long as I have the will, Mazinger Z's is unbeatable!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Кодзи",
+   "text": "「Превыше богов и демонов —\n　превыше пространства, времени и самих измерений,\n　вот он, предельный Мазин, «Мазингер Зет»!」",
+   "orig": "Koji\n「Beyond gods or devils—\n　Beyond space and time and even dimensions, this is\n　the ultimate Mazin, Mazinger Z!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Юми",
+   "text": "「Именно так, Кодзи Кабуто!\n　Твоя воля способна пробудить истинную\n　мощь «Мазингера Зет»!」",
+   "orig": "Yumi\n「That's right, Koji Kabuto!\n　Your will can unleash Mazinger Z's \n　true power!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Кодзи",
+   "text": "「Истинную мощь?」",
+   "orig": "Koji\n「True power?」"
+  },
+  {
+   "i": 139,
+   "speaker": "Юми",
+   "text": "「Силу творить из небытия.\n　Это и есть Мазин-Пауэр, к которой стремился доктор Дзюдзо.」",
+   "orig": "Yumi\n「The power to create from nothingness.\n　That is the Mazin power that Dr. Juzo pursued.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Кодзи",
+   "text": "「Мазин-Пауэр!」",
+   "orig": "Koji\n「Mazin Power!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Доктор Хелл",
+   "text": "「Юми!\n　Ты сказал достаточно!」",
+   "orig": "Dr. Hell\n「Yumi!\n　You've said enough!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Хаято",
+   "text": "「Они прорвались!」",
+   "orig": "Hayato\n「They've broken through!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Бэнкэй",
+   "text": "「Они рвутся к Институту фотонной энергии!」",
+   "orig": "Benkei\n「They're after the Photonic Power Research Institute!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Доктор Хелл",
+   "text": "「Эта пустая коробка нам ни к чему.\n　Если доберёмся до япониевой руды, что спрятана\n　внизу, — полдела будет сделано!」",
+   "orig": "Dr. Hell\n「We have no need for that empty bucket.\n　If we can get the Japanium Ore still hidden\n　below, we will be halfway to our goal!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Саяка",
+   "text": "「Отец!」",
+   "orig": "Sayaka\n「Father!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Рёма",
+   "text": "「Что ты натворил, Хелл!」",
+   "orig": "Ryoma\n「What have you done, Hell!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Доктор Хелл",
+   "text": "「Невеждам вроде вас никогда не постичь\n　гениальности моих замыслов!」",
+   "orig": "Dr. Hell\n「Ignorant fools like you could never\n　understand the genius of my plans!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Доктор Хелл",
+   "text": "「А фотонная энергия в этой руде мне поможет!\n　И тогда я уничтожу «Мазингера»!」",
+   "orig": "Dr. Hell\n「And gaining the photonic power in that ore will help me!\n　Then, I will destroy the Mazinger!」"
+  },
+  {
+   "i": 149,
+   "speaker": "？？？",
+   "text": "「Будто безумцу вроде тебя это под силу!\n　Я не допущу, чтобы фотонная энергия попала\n　в руки того, кто обращает науку во зло!」",
+   "orig": "？？？\n「As if a madman like you ever could!\n　I can never allow the photonic power to fall into\n　the hands of someone who perverts science to evil!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Саяка",
+   "text": "「Этот голос!\n　Отец?!」",
+   "orig": "Sayaka\n「That voice!\n　Father?!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Юми",
+   "text": "「Настал час снять печать, что доверил мне доктор Дзюдзо!」",
+   "orig": "Yumi\n「Now is the time to open the seal given to me by Dr. Juzo!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Доктор Хелл",
+   "text": "「Что?!」",
+   "orig": "Dr. Hell\n「What?!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Бэнкэй",
+   "text": "「Институт фотонной энергии отъехал в сторону,\n　и из-под земли поднялось новое здание!」",
+   "orig": "Benkei\n「The Photonic Power Research Institute moved aside\n　and a new building emerged from the ground!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Юми",
+   "text": "「Узрите нашу громадную крепость, созданную для боя!」",
+   "orig": "Yumi\n「Behold our massive fortress, built for battle!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Моримори",
+   "text": "「Её защищают орудия, работающие\n　на истинной мощи фотонной энергии!」",
+   "orig": "Morimori\n「It's defended by armaments using\n　the true power of photonic power energy!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Носсори",
+   "text": "「С воздуха, с моря и с суши — все подходы перекрыты!」",
+   "orig": "Nossori\n「Air, sea, and land, they defend against all approaches!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Сэваси",
+   "text": "「Больше того, япониевая руда\n　укрыта в самой глубине, недосягаемая для врага!」",
+   "orig": "Sewashi\n「And what's more, the Japanium Ore\n　is hidden deep inside, protected from enemies!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Юми",
+   "text": "「Это Научная крепость-лаборатория, и единственное её\n　назначение — защищать фотонную энергию!」",
+   "orig": "Yumi\n「It is a Science Fortress Laboratory with a sole purpose\n　to defend the photonic power!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Босс",
+   "text": "「Научная крепость-лаборатория!」",
+   "orig": "Boss\n「A Science Fortress Laboratory!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Нукэ",
+   "text": "「С-серьёзно?」",
+   "orig": "Nuke\n「S-seriously?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Муча",
+   "text": "「Вот это я понимаю — туз в рукаве.」",
+   "orig": "Mucha\n「Now that's what I call an ace in the hole.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Саяка",
+   "text": "「Отец!\n　Так вот почему вы трое целы!」",
+   "orig": "Sayaka\n「Father!\n　That's why you three are still safe!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Юми",
+   "text": "「Я не хотел её раскрывать.\n　Фотонная энергия — сила, что служит миру!\n　Она должна была освещать нам путь в будущее!」",
+   "orig": "Yumi\n「I didn't want to unveil it.\n　Photonic power is a force for peace!\n　It is supposed to light our way to the future!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Юми",
+   "text": "「Вот для чего она\n　предназначалась!」",
+   "orig": "Yumi\n「That's what it was\n　supposed to be for!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Кодзи",
+   "text": "「Доктор!\n　Направьте фотонную энергию Научной\n　крепости-лаборатории в «Мазингера Зет»!」",
+   "orig": "Koji\n「Doctor!\n　Channel the Science Fortress Laboratory's\n　photonic power energy into the Mazinger Z!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Юми",
+   "text": "「Кодзи...」",
+   "orig": "Yumi\n「Koji...」"
+  },
+  {
+   "i": 167,
+   "speaker": "Кодзи",
+   "text": "「Я это чувствую!\n　В лаборатории ещё полно фотонной энергии!」",
+   "orig": "Koji\n「I can feel it!\n　That lab still contains so much photonic power!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Юми",
+   "text": "「Что ж, хорошо!\n　Подача фотонной энергии!」",
+   "orig": "Yumi\n「Alright then!\n　Photonic power energy on!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Тэцуя",
+   "text": "「Гях!」",
+   "orig": "Tetsuya\n「Gyah!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Кодзи",
+   "text": "「За дело, «Мазингер Зет»!」",
+   "orig": "Koji\n「Let's do this, Mazinger Z!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Доктор Хелл",
+   "text": "「Откуда такая мощь!」",
+   "orig": "Dr. Hell\n「All of that strength!」"
+  },
+  {
+   "i": 172,
+   "speaker": "Кодзи",
+   "text": "「Вот истинная сила «Мазингера Зет»!\n　Мазин-Пауэр!」",
+   "orig": "Koji\n「This is the true power of Mazinger Z!\n　Mazin Power!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Кодзи",
+   "text": "「Видел, доктор Хелл?\n　Вот она, предельная мощь Мазина!」",
+   "orig": "Koji\n「Did you see, Dr. Hell?\n　This is the ultimate strength of Mazin!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Доктор Хелл",
+   "text": "「Гях, Дзюдзо!\n　Ты оставил в той лаборатории механизм\n　усиления «Мазингера Зет»!」",
+   "orig": "Dr. Hell\n「Gyah, Juzo!\n　You left the boost function for Mazinger Z\n　in that laboratory!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Каппэй",
+   "text": "「Потрясающе!\n　Это было потрясающе, Кодзи!」",
+   "orig": "Kappei\n「Amazing!\n　That was amazing, Koji!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Синдзи",
+   "text": "「«Мазингер Зет» — это что-то невероятное!」",
+   "orig": "Shinji\n「Mazinger Z is something else!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Найн",
+   "text": "「Анализ невозможен!\n　Откуда вообще взялся этот\n　Ракетный удар?!」",
+   "orig": "Nine\n「Unable to analyze!\n　Where did that Rocket Punch\n　come from?!」"
+  },
+  {
+   "i": 178,
+   "speaker": "$n",
+   "text": "「Не скажу, что я всё понял,\n　но, похоже, это и была сила «Мазингера Зет».」",
+   "orig": "$n\n「I'm not sure I really get it, \n　but apparently that was Mazinger Z's power.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Бандзё",
+   "text": "「Он просто взял и материализовался!」",
+   "orig": "Banjo\n「It just materialized like that!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Тэцуя",
+   "text": "「Мазин-Пауэр...」",
+   "orig": "Tetsuya\n「Mazin Power...」"
+  },
+  {
+   "i": 181,
+   "speaker": "Доктор Хелл",
+   "text": "「Больше тянуть нельзя.\n　Мы обязаны уничтожить «Мазингера Зет»!」",
+   "orig": "Dr. Hell\n「It cannot be delayed any longer.\n　We must destroy Mazinger Z!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Кодзи",
+   "text": "「Попробуй!\n　Ты всерьёз думаешь, что теперь сможешь меня остановить?」",
+   "orig": "Koji\n「See if you can!\n　Do you honestly think you can stop me now?」"
+  },
+  {
+   "i": 183,
+   "speaker": "Кодзи",
+   "text": "「У тебя получилось, дед!\n　Я — нет, «Мазингер Зет» покажет\n　всему миру: наши враги падут!」",
+   "orig": "Koji\n「You did it, Grandfather!\n　I—no, Mazinger Z will show\n　the world, all our enemies will fall!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Кодзи",
+   "text": "「Видел, доктор Хелл?\n　Вот она, предельная мощь Мазина!」",
+   "orig": "Koji\n「Did you see, Dr. Hell?\n　That is the ultimate strength of Mazin!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Доктор Хелл",
+   "text": "「Гях, Дзюдзо!\n　Ты оставил в той лаборатории механизм\n　усиления «Мазингера Зет»!」",
+   "orig": "Dr. Hell\n「Gyah, Juzo!\n　You left the boost function for Mazinger Z\n　in that laboratory!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Каппэй",
+   "text": "「Потрясающе!\n　Это было потрясающе, Кодзи!」",
+   "orig": "Kappei\n「Amazing!\n　That was amazing, Koji!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Синдзи",
+   "text": "「«Мазингер Зет» — это что-то невероятное!」",
+   "orig": "Shinji\n「Mazinger Z is something else!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Найн",
+   "text": "「Анализ невозможен!\n　Откуда вообще взялся этот\n　Ракетный удар?」",
+   "orig": "Nine\n「Unable to analyze!\n　Where did that Rocket Punch\n　come from?」"
+  },
+  {
+   "i": 189,
+   "speaker": "$n",
+   "text": "「Не скажу, что я всё понял,\n　но, похоже, это и была сила «Мазингера Зет».」",
+   "orig": "$n\n「I'm not sure I really get it, \n　but apparently that was Mazinger Z's power.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Бандзё",
+   "text": "「Он просто взял и материализовался!」",
+   "orig": "Banjo\n「It just materialized like that!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Тэцуя",
+   "text": "「Мазин-Пауэр...」",
+   "orig": "Tetsuya\n「Mazin power...」"
+  },
+  {
+   "i": 192,
+   "speaker": "Доктор Хелл",
+   "text": "「Больше тянуть нельзя.\n　Мы обязаны уничтожить «Мазингера Зет»!」",
+   "orig": "Dr. Hell\n「It cannot be delayed any longer.\n　We must destroy Mazinger Z!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Кодзи",
+   "text": "「Попробуй!\n　Ты всерьёз думаешь, что теперь сможешь меня остановить?」",
+   "orig": "Koji\n「See if you can!\n　Do you honestly think you can stop me now?」"
+  },
+  {
+   "i": 194,
+   "speaker": "Кодзи",
+   "text": "「У тебя получилось, дед!\n　Я — нет, «Мазингер Зет» покажет\n　всему миру: наши враги падут!」",
+   "orig": "Koji\n「You did it, Grandfather!\n　I—no, Mazinger Z will show\n　the world, all our enemies will fall!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Кодзи",
+   "text": "「Всё кончено, доктор Хелл!」",
+   "orig": "Koji\n「It's over, Dr. Hell!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Доктор Хелл",
+   "text": "「Э-этого не может быть!\n　Как Гордон мог так проиграть?」",
+   "orig": "Dr. Hell\n「Th-this can't be!\n　How can Gordon lose like this?」"
+  },
+  {
+   "i": 197,
+   "speaker": "Доктор Хелл",
+   "text": "「Нужно отступить и готовить следующий удар.」",
+   "orig": "Dr. Hell\n「We must retreat, and prepare our next attack.」"
+  },
+  {
+   "i": 198,
+   "speaker": "？？？",
+   "text": "「Как бы не так, доктор Хелл!」",
+   "orig": "？？？\n「I don't think so, Dr. Hell!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Ашура",
+   "text": "「Подумать только — такой глупец\n　возомнил, что захватит мир!」",
+   "orig": "Ashura\n「To imagine, a fool like you\n　trying to take over the world!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Доктор Хелл",
+   "text": "「Зачем ты вернулась, Ашура?\n　И почему ты так со мной говоришь?」",
+   "orig": "Dr. Hell\n「Why have you returned, Ashura?\n　And why are you talking like that?」"
+  },
+  {
+   "i": 201,
+   "speaker": "Ашура",
+   "text": "「Молчать!\n　Твоё время на вершине вышло!」",
+   "orig": "Ashura\n「Silence!\n　Your time at the top is over!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Доктор Хелл",
+   "text": "「Неужели? Ты всё вспомнила!」",
+   "orig": "Dr. Hell\n「Could it be? You've remembered!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Ашура",
+   "text": "「Именно! Твоя власть\n　над моим разумом рассеялась.」",
+   "orig": "Ashura\n「Precisely! Your control\n　over my mind has dissolved.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Ашура",
+   "text": "「Да, всё это было игрой —\n　с того мига, как я притворилась сражённой!」",
+   "orig": "Ashura\n「Indeed, all of this was an act, \n　from when I pretended to fall to that attack!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Доктор Хелл",
+   "text": "「Н-нет!\n　Значит—」",
+   "orig": "Dr. Hell\n「N-no!\n　This means—」"
+  },
+  {
+   "i": 206,
+   "speaker": "Ашура",
+   "text": "「Доктор Хелл!\n　Готовься принять мой — нет, гнев всех\n　богов Микены!」",
+   "orig": "Ashura\n「Dr. Hell!\n　Prepare to receive my—no, all the Gods of \n　Mycenae's wrath!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Рёма",
+   "text": "「Что здесь вообще происходит?」",
+   "orig": "Ryoma\n「What is going on here?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Кодзи",
+   "text": "「Ашура?」",
+   "orig": "Koji\n「Ashura?」"
+  },
+  {
+   "i": 209,
+   "speaker": "Ашура",
+   "text": "「Ко мне вернулась вся моя память.」",
+   "orig": "Ashura\n「I have regained all of my memories.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Кодзи",
+   "text": "「Память?!\n　Ты вспомнила, что ты $kwbпроводник Микены$kwe?」",
+   "orig": "Koji\n「Your memory?!\n　You remember that you're a $kwbConduit of the Mycenae$kwe?」"
+  },
+  {
+   "i": 211,
+   "speaker": "Ашура",
+   "text": "「Да!\n　И как доктор Хелл пробудил меня\n　в руинах острова Бардос!」",
+   "orig": "Ashura\n「Yes!\n　And how Dr. Hell caused me to wake\n　in the ruins of Bardos Island!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Юми",
+   "text": "「Из наполовину разрушенных мумий мужчины\n　и женщины. Я слышал, доктор Хелл создал барона Ашуру,\n　сплавив уцелевшие половины воедино.」",
+   "orig": "Yumi\n「Made from the half destroyed mummies of a man\n　and woman. I heard that Dr. Hell made Baron Ashura\n　by fusing the two remaining halves together.」"
+  },
+  {
+   "i": 213,
+   "speaker": "Ашура",
+   "text": "「Это ложь!」",
+   "orig": "Ashura\n「That is a lie!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Ашура",
+   "text": "「Это доктор Хелл уничтожил половины наших тел,\n　пока мы спали сном без сновидений!」",
+   "orig": "Ashura\n「It was Dr. Hell who destroyed half of our bodies\n　as we slept our dreamless sleep!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Кодзи",
+   "text": "「Что?!」",
+   "orig": "Koji\n「What?!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Ашура",
+   "text": "「А затем он призвал Цубасу Нисикиори,\n　чтобы та создала барона Ашуру!」",
+   "orig": "Ashura\n「And then he had Tsubasa Nishikiori\n　come and create this Baron Ashura!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Ашура",
+   "text": "「Чтобы сделать меня покорнее,\n　он вживил мне ложные воспоминания о себе.」",
+   "orig": "Ashura\n「In order to make me more obedient, \n　he had artificial memories of him implanted in me.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Хаято",
+   "text": "「И всё ради того, чтобы завладеть силой Микены.\n　А Ашура его к ней вела!」",
+   "orig": "Hayato\n「All so he could make the power of Mycenae his own.\n　And Ashura guided him to it!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Ашура",
+   "text": "「Моя ярость пылает, Хелл!」",
+   "orig": "Ashura\n「My rage burns, Hell!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Ашура",
+   "text": "「Моя возлюбленная жена Изольда!\n　Мой возлюбленный муж Тристан!」",
+   "orig": "Ashura\n「My beloved wife Isolde!\n　My beloved husband Tristan!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Ашура",
+   "text": "「И вся Микена! Ты отнял их у нас,\n　доктор Хелл. Наша ярость к тебе пылает!」",
+   "orig": "Ashura\n「And all of Mycenae! You took them from us,\n　Dr. Hell. Our rage for you burns!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Доктор Хелл",
+   "text": "「П-прекрати, Ашура!」",
+   "orig": "Dr. Hell\n「S-stop this, Ashura!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Ашура",
+   "text": "「Доктор Хелл!\n　Вкуси пламя нашей ярости!」",
+   "orig": "Ashura\n「Dr. Hell!\n　Feel the fires of our rage!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Доктор Хелл",
+   "text": "「Гяаа!」",
+   "orig": "Dr. Hell\n「Gyaaah!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Брокен",
+   "text": "「Доктор Хелл!」",
+   "orig": "Brocken\n「Dr. Hell!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Ашура",
+   "text": "「Не тревожься, Брокен.\n　До тебя я доберусь позже.」",
+   "orig": "Ashura\n「Have no worries, Brocken.\n　I will see to you later.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Брокен",
+   "text": "「И-ииик!」",
+   "orig": "Brocken\n「Eeeep!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Брокен",
+   "text": "「Это безумие!」",
+   "orig": "Brocken\n「This is madness!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Кодзи",
+   "text": "「Ашура...」",
+   "orig": "Koji\n「Ashura...」"
+  },
+  {
+   "i": 230,
+   "speaker": "Ашура",
+   "text": "「Мне следует поблагодарить тебя, Кодзи.」",
+   "orig": "Ashura\n「I should thank you, Koji.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Кодзи",
+   "text": "「С чего бы?」",
+   "orig": "Koji\n「Why?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Ашура",
+   "text": "「Благодаря вам Тристан и Изольда из Микены\n　наконец смогут исполнить своё исконное предназначение!」",
+   "orig": "Ashura\n「Thanks to you all, Tristan and Isolde of the Mycenae \n　can finally fulfill their original duty!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Ашура",
+   "text": "「В награду я открою вам правду.\n　Истинным врагом доктора Хелла\n　были вовсе не вы.」",
+   "orig": "Ashura\n「As a reward, I'll tell you the truth.\n　Dr. Hell's true enemy\n　was not you all.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Кодзи",
+   "text": "「О чём ты говоришь?!」",
+   "orig": "Koji\n「What are you talking about?!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Ашура",
+   "text": "「Фотонная энергия нужна была ему,\n　чтобы однажды сразиться с империей Микены!」",
+   "orig": "Ashura\n「He wanted the photonic power\n　to some day fight against the Mycenae Empire!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Ашура",
+   "text": "「Именно!\n　Единственное, что способно противостоять\n　нам, — сила самого света Зевса!」",
+   "orig": "Ashura\n「Indeed!\n　The one thing that can oppose\n　us, the power of Zeus' own light!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Ашура",
+   "text": "「Соедини он фотонную энергию со своим Хелл Кинг Гордоном —\n　и обрёл бы наконец силу сокрушить Микену.」",
+   "orig": "Ashura\n「If the photonic power had joined to his Hell King Gordon,\n　he would have finally had the power to defeat Mycenae.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Майто",
+   "text": "「Что всё это значит?!」",
+   "orig": "Maito\n「What is all this?!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Бандзё",
+   "text": "「Понятия не имею!\n　Но, кажется, мы влипли.」",
+   "orig": "Banjo\n「I don't know!\n　But I think we're in trouble.」"
+  },
+  {
+   "i": 240,
+   "speaker": "Тэцуя",
+   "text": "「Ашура!」",
+   "orig": "Tetsuya\n「Ashura!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Ашура",
+   "text": "「Идёшь за мной, Тэцуя?」",
+   "orig": "Ashura\n「Are you coming for me, Tetsuya?」"
+  },
+  {
+   "i": 242,
+   "speaker": "Ашура",
+   "text": "「Кедора убил тебя однажды, Тэцуя, так что ужас\n　империи Микены тебе хорошо знаком!」",
+   "orig": "Ashura\n「Kedora killed you once, Tetsuya, so you\n　know well the terror of the Mycenae Empire!」"
+  },
+  {
+   "i": 243,
+   "speaker": "Тэцуя",
+   "text": "「Я тебе этого не позволю!」",
+   "orig": "Tetsuya\n「I won't let you do this!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Рёма",
+   "text": "「Тэцуя!」",
+   "orig": "Ryoma\n「Tetsuya!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Тэцуя",
+   "text": "「Ашура!」",
+   "orig": "Tetsuya\n「Ashura!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Ашура",
+   "text": "「Вернулся, Тэцуя?」",
+   "orig": "Ashura\n「You're back, Tetsuya?」"
+  },
+  {
+   "i": 247,
+   "speaker": "Ашура",
+   "text": "「Кедора убил тебя однажды, Тэцуя, так что ужас\n　империи Микены тебе хорошо знаком!」",
+   "orig": "Ashura\n「Kedora killed you once, Tetsuya, so you\n　know well the terror of the Mycenae Empire!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Тэцуя",
+   "text": "「Я тебе этого не позволю!」",
+   "orig": "Tetsuya\n「I won't let you do this!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Грейт Майтгайн",
+   "text": "「Что это за робот?\n　Он взялся из ниоткуда!」",
+   "orig": "Great Mightgaine\n「What robot is that?\n　It came out of nowhere!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Майто",
+   "text": "「Очень похож на Горю!\n　Наверняка он из Альянса DG!」",
+   "orig": "Maito\n「It looks a lot like Goryu!\n　It must be part of the DG Alliance!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Ашура",
+   "text": "「Не знаю, кто это и что это,\n　но явился он как нельзя вовремя!」",
+   "orig": "Ashura\n「I don't know who or what it is, \n　but it's just in time!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Тэцуя",
+   "text": "「Проклятье!」",
+   "orig": "Tetsuya\n「Damn!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Ашура",
+   "text": "「За двумя зайцами погонишься — ни одного не поймаешь!\n　Слишком много на себя берёшь, если думаешь разом\n　одолеть и «Мазингера», и Микену!」",
+   "orig": "Ashura\n「If you run after two hares you will catch neither!\n　You're overreaching if you think you can take on\n　Mazinger and Mycenae at the same time!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Ашура",
+   "text": "「Обряд уже начался!\n　Теперь его никому не остановить!」",
+   "orig": "Ashura\n「The ritual has already begun!\n　No one can stop it now!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Рёма",
+   "text": "「Обряд?!」",
+   "orig": "Ryoma\n「Ritual?!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Кодзи",
+   "text": "「Что ты задумала, Ашура?」",
+   "orig": "Koji\n「What's your plan, Ashura?」"
+  },
+  {
+   "i": 257,
+   "speaker": "Ашура",
+   "text": "「Тысячи лет назад боги Микены\n　погрузились в сон после долгой войны,\n　где в ход шли драгуний и Геттер-лучи.」",
+   "orig": "Ashura\n「Thousands of years ago, the Gods of Mycenae\n　fell into slumber after prolonged battle\n　using Dragunium and Getter Rays.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Кодзи",
+   "text": "「Что?!」",
+   "orig": "Koji\n「What?!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Майто",
+   "text": "「Выходит, то, что говорил Эмбрио,\n　про войну богов с демоном—」",
+   "orig": "Maito\n「So that means, what Embryo said,\n　about the gods fighting against a demon—」"
+  },
+  {
+   "i": 260,
+   "speaker": "Бандзё",
+   "text": "「Он наверняка имел в виду тех самых богов\n　Микены, о которых говорит барон Ашура!」",
+   "orig": "Banjo\n「He must have meant the Gods\n　of Mycenae that Baron Ashura is talking about!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Ашура",
+   "text": "「И боги вверили силу, способную их\n　пробудить, Тристану и Изольде.」",
+   "orig": "Ashura\n「And the Gods entrusted the power to\n　awaken them to Tristan and Isolde.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Ашура",
+   "text": "「Доктор Хелл стирал мне память не только ради того,\n　чтобы присвоить тайны Микены.」",
+   "orig": "Ashura\n「Dr. Hell didn't try to erase my mind just to get\n　the secrets of Mycenae for himself.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Ашура",
+   "text": "「Нет, это была мелочь.\n　На деле он страшился моего истинного предназначения.」",
+   "orig": "Ashura\n「Indeed, that was nothing.\n　In truth, he feared my real purpose.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Кодзи",
+   "text": "「Ашура!\n　Ты не можешь этого сделать!」",
+   "orig": "Koji\n「Ashura! \n　You can't do this!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Ашура",
+   "text": "「Кодзи Кабуто!\n　Это вы победили доктора Хелла\n　и подарили мне свободу!」",
+   "orig": "Ashura\n「Koji Kabuto!\n　You all defeated Dr. Hell, \n　and gave me freedom!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Ашура",
+   "text": "「Благодарю тебя, Кодзи, и всех твоих соратников!\n　Теперь для обряда готово всё!」",
+   "orig": "Ashura\n「I offer my gratitude, Koji, to you and your allies!\n　And now, all I need for my ritual is ready!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Ашура",
+   "text": "「И ныне я приношу вам в дар свою жизнь!\n　Восстаньте, боги древней Микены!!」",
+   "orig": "Ashura\n「And now, I offer up my life to you!\n　Arise, Gods of ancient Mycenae!!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Кодзи",
+   "text": "「Ашура!」",
+   "orig": "Koji\n「Ashura!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Рёма",
+   "text": "「Они—\n　Они отдали собственные жизни!」",
+   "orig": "Ryoma\n「They—\n　They gave up their own lives!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Окита",
+   "text": "「А что же обряд?!\n　Что сейчас произойдёт?」",
+   "orig": "Okita\n「And what of the ritual?!\n　What's going to happen?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Мори",
+   "text": "「Что это?」",
+   "orig": "Mori\n「What's that?」"
+  },
+  {
+   "i": 272,
+   "speaker": "Сима",
+   "text": "「Что происходит?!」",
+   "orig": "Shima\n「What's happening?!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Окита",
+   "text": "「Кодай!\n　Отзывай все машины!」",
+   "orig": "Okita\n「Kodai!\n　Recall all units!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Кодай",
+   "text": "「Есть!」",
+   "orig": "Kodai\n「Roger!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Ясу",
+   "text": "「Ух...」",
+   "orig": "Yasu\n「Woah...」"
+  },
+  {
+   "i": 276,
+   "speaker": "Босс",
+   "text": "「Что с тобой, Ясу?」",
+   "orig": "Boss\n「What's wrong, Yasu?」"
+  },
+  {
+   "i": 277,
+   "speaker": "Ясу",
+   "text": "「У меня очень дурное предчувствие.」",
+   "orig": "Yasu\n「I have a really bad feeling about this.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Окику",
+   "text": "「По-моему, нам всем конец...」",
+   "orig": "Okiku\n「I think we're all done for...」"
+  },
+  {
+   "i": 279,
+   "speaker": "Найн",
+   "text": "「Дело плохо...」",
+   "orig": "Nine\n「It's no good...」"
+  },
+  {
+   "i": 280,
+   "speaker": "$n",
+   "text": "「Это что, конец света?」",
+   "orig": "$n\n「Is this the end of the world?」"
+  },
+  {
+   "i": 281,
+   "speaker": "Кодзи",
+   "text": "「Гяаа!」",
+   "orig": "Koji\n「Gyaaah!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Сима",
+   "text": "「Что происходит?!」",
+   "orig": "Shima\n「What's happening?!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Окита",
+   "text": "「Кодай!\n　Отзывай все машины!」",
+   "orig": "Okita\n「Kodai!\n　Recall all units!」"
+  },
+  {
+   "i": 284,
+   "speaker": "Кодай",
+   "text": "「Есть!」",
+   "orig": "Kodai\n「Roger!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Ясу",
+   "text": "「Ух...」",
+   "orig": "Yasu\n「Woah...」"
+  },
+  {
+   "i": 286,
+   "speaker": "Босс",
+   "text": "「Что с тобой, Ясу?」",
+   "orig": "Boss\n「What's wrong, Yasu?」"
+  },
+  {
+   "i": 287,
+   "speaker": "Ясу",
+   "text": "「У меня очень дурное предчувствие.」",
+   "orig": "Yasu\n「I have a really bad feeling about this.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Окику",
+   "text": "「По-моему, нам всем конец...」",
+   "orig": "Okiku\n「I think we're all done for...」"
+  },
+  {
+   "i": 289,
+   "speaker": "Найн",
+   "text": "「Дело плохо...」",
+   "orig": "Nine\n「It's no good...」"
+  },
+  {
+   "i": 290,
+   "speaker": "$n",
+   "text": "「Это что, конец света?」",
+   "orig": "$n\n「Is this the end of the world?」"
+  },
+  {
+   "i": 291,
+   "speaker": "Кодзи",
+   "text": "「Гяаа!」",
+   "orig": "Koji\n「Gyaaah!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Брокен",
+   "text": "「Доктор Хелл!\n　Простите меня!」",
+   "orig": "Brocken\n「Dr. Hell!\n　Forgive me!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Ашура",
+   "text": "「Верен до самого конца, Брокен.」",
+   "orig": "Ashura\n「Loyal to the end, Brocken.」"
+  },
+  {
+   "i": 294,
+   "speaker": "Ашура",
+   "text": "「Что ж, это достойно похвалы.」",
+   "orig": "Ashura\n「That is indeed laudable.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Кодзи",
+   "text": "「Ашура!\n　Теперь твой черёд!」",
+   "orig": "Koji\n「Ashura!\n　You're next!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Ашура",
+   "text": "「Думаешь, тебе под силу меня одолеть, Кодзи?\n　Что ж, иди сюда и постарайся как следует!」",
+   "orig": "Ashura\n「Do you think you can defeat me, Koji?\n　Come, then, do your best!」"
+  },
+  {
+   "i": 297,
+   "speaker": "Доктор Хелл",
+   "text": "「Брокен...\n　Он так и не научился доводить дело до конца.」",
+   "orig": "Dr. Hell\n「Brocken...\n　He never could get the job done.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Рёма",
+   "text": "「А вот с Ашурой ты был\n　не так суров, доктор Хелл!」",
+   "orig": "Ryoma\n「You weren't so harsh\n　with Ashura, were you Dr. Hell!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Доктор Хелл",
+   "text": "「Глупцам вроде вас никогда\n　не постичь хода моих мыслей.」",
+   "orig": "Dr. Hell\n「Fools like you could never\n　understand my way of thinking.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Кодзи",
+   "text": "「Кому охота понимать такого безумца, как ты?」",
+   "orig": "Koji\n「Who'd want to understand a madman like you?」"
+  },
+  {
+   "i": 301,
+   "speaker": "Кодзи",
+   "text": "「Я жду, доктор Хелл!\n　«Мазингер Зет» разнесёт твоего\n　драгоценного Хелл Кинга в щепки!」",
+   "orig": "Koji\n「I'm waiting, Dr. Hell!\n　Mazinger Z is going to blow your\n　beloved Hell King to smithereens!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Тэцуя",
+   "text": "「Ты ещё можешь, «Грейт»!\n　Ты ещё можешь сражаться!」",
+   "orig": "Tetsuya\n「You can still do it, Great!\n　You can still fight!」"
+  },
+  {
+   "i": 303,
+   "speaker": "Майто",
+   "text": "「Тэцуя!」",
+   "orig": "Maito\n「Tetsuya!」"
+  },
+  {
+   "i": 304,
+   "speaker": "Бандзё",
+   "text": "「Уходи оттуда, Тэцуя!\n　«Грейту» конец!」",
+   "orig": "Banjo\n「Get out of there, Tetsuya!\n　Great is done for!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Тэцуя",
+   "text": "「Неважно!\n　Я всё равно должен сражаться!」",
+   "orig": "Tetsuya\n「It doesn't matter!\n　I still have to fight!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Рёма",
+   "text": "「Тэцуя...\n　Откуда в тебе такое упорство?」",
+   "orig": "Ryoma\n「Tetsuya...\n　Why are you so determined?」"
+  },
+  {
+   "i": 307,
+   "speaker": "Тэцуя",
+   "text": "「Я должен защитить этот мир!」",
+   "orig": "Tetsuya\n「I have to protect this world!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Кодзи",
+   "text": "「Ургх!」",
+   "orig": "Koji\n「Urgh!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Бандзё",
+   "text": "「Ни о чём больше не думай, Кодзи.\n　Сосредоточься на докторе Хелле!」",
+   "orig": "Banjo\n「Don't worry about anything else, Koji.\n　Just concentrate on Dr. Hell!」"
+  },
+  {
+   "i": 310,
+   "speaker": "Кодзи",
+   "text": "「Х-хорошо.」",
+   "orig": "Koji\n「R-right.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Кодзи",
+   "text": "（Тэцуя...\n　Да что с тобой такое?）",
+   "orig": "Koji\n（Tetsuya...\n　What's wrong with you?）"
+  },
+  {
+   "i": 312,
+   "speaker": "Ашура",
+   "text": "「Кодзи Кабуто!\n　Пришло время с тобой покончить!」",
+   "orig": "Ashura\n「Koji Kabuto!\n　It's time to put an end to you!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Кодзи",
+   "text": "「Надоело слушать это от тебя, Ашура.\n　В итоге ты опять просто сбежишь!」",
+   "orig": "Koji\n「I'm tired of hearing that from you, Ashura.\n　In the end, you'll just run away again!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Ашура",
+   "text": "「Ха!」",
+   "orig": "Ashura\n「Hah!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Кодзи",
+   "text": "「Что это за смех?」",
+   "orig": "Koji\n「What was that laugh?」"
+  },
+  {
+   "i": 316,
+   "speaker": "Ашура",
+   "text": "「Я иду, Кодзи Кабуто!\n　Мы с тобой будем драться\n　до самого конца!」",
+   "orig": "Ashura\n「I'm coming, Koji Kabuto!\n　You and I will fight \n　to the very end!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Ашура",
+   "text": "「Ибо вот он, этот миг!\n　Это моя последняя битва!」",
+   "orig": "Ashura\n「Because this is it!\n　This is my final battle!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Ашура",
+   "text": "「Благодарю вас, Геттер-роботы!\n　Геттер-лучи указали мне путь вперёд!」",
+   "orig": "Ashura\n「Thank you, Getter Robots!\n　Getter Rays have shown me the way forward!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Рёма",
+   "text": "「Мне не нужна\n　благодарность злодеев.」",
+   "orig": "Ryoma\n「I have no desire\n　for the gratitude of villains.」"
+  },
+  {
+   "i": 320,
+   "speaker": "Рёма",
+   "text": "「Но раз уж ты настаиваешь —\n　в ответ я вытрясу из тебя душу!」",
+   "orig": "Ryoma\n「But since you insist—\n　To return the favor, I'll choke the life out of you!」"
+  },
+  {
+   "i": 321,
+   "speaker": "Ашура",
+   "text": "「Что ж, попробуй, если считаешь, что сможешь.\n　Думаю, убить меня окажется куда\n　труднее, чем тебе кажется!」",
+   "orig": "Ashura\n「If you think you can, do so.\n　I think you'll find it more difficult \n　than you think to kill me!」"
+  },
+  {
+   "i": 322,
+   "speaker": "Брокен",
+   "text": "「Ха-ха, Кодзи!\n　Пора с тобой кончать!」",
+   "orig": "Brocken\n「Hahah, Koji!\n　Now it's time to end you!」"
+  },
+  {
+   "i": 323,
+   "speaker": "Кодзи",
+   "text": "「Ты всё твердишь одно и то же,\n　Брокен, это уже скучно!\n　На сей раз ты не улизнёшь!」",
+   "orig": "Koji\n「You keep saying the same thing,\n　Brocken, it's boring!\n　This time you won't get away!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Брокен",
+   "text": "「Никак не замолчишь, да?\n　Может, новый, улучшенный Гуль тебя утихомирит!」",
+   "orig": "Brocken\n「You never shut up, do you?\n　Maybe this new, improved Ghoul will silence you!」"
+  },
+  {
+   "i": 325,
+   "speaker": "Кодзи",
+   "text": "「Твоей самоуверенности скоро конец, Брокен.\n　Я прикончу тебя здесь и сейчас!」",
+   "orig": "Koji\n「That confidence will soon end, Brocken.\n　I'm finishing you off here and now!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Брокен",
+   "text": "「Одно разочарование за другим...\n　Будь у меня армия механических зверей,\n　я забрал бы тебя с собой!」",
+   "orig": "Brocken\n「Disappointment after disappointment...\n　If I'd had an army of Mechanical Beasts,\n　I could have taken you home with me!」"
+  },
+  {
+   "i": 327,
+   "speaker": "Саяка",
+   "text": "「Молчи, Брокен!\n　Не позволю тебе пялиться на мою «Венеру А»\n　этими жуткими глазищами!」",
+   "orig": "Sayaka\n「Silence, Brocken!\n　I won't have you looking at my Venus A\n　with those creepy eyes!」"
+  },
+  {
+   "i": 328,
+   "speaker": "Брокен",
+   "text": "「Хе-хе, затыкать рот дерзким женщинам —\n　ещё одно моё увлечение.」",
+   "orig": "Brocken\n「Heheh, silencing strong women is another \n　of my hobbies.」"
+  },
+  {
+   "i": 329,
+   "speaker": "Саяка",
+   "text": "「Довольно!\n　Я собственными руками истреблю всех врагов\n　женщин и всего этого мира!」",
+   "orig": "Sayaka\n「Enough!\n　I'll exterminate all enemies of\n　of women and the world with my own two hands!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Доктор Хелл",
+   "text": "「Кодзи Кабуто!\n　Даже сейчас ещё не поздно!\n　Ты ещё можешь примкнуть к нам!」",
+   "orig": "Dr. Hell\n「Koji Kabuto!\n　It's not too late, even now!\n　You can still join us!」"
+  },
+  {
+   "i": 331,
+   "speaker": "Кодзи",
+   "text": "「Замолчи, доктор Хелл!\n　Я ни за что не отдам «Мазингера Зет»\n　такому, как ты!」",
+   "orig": "Koji\n「Be quiet, Dr. Hell!\n　I would never hand over the Mazinger Z\n　to a man like you!」"
+  },
+  {
+   "i": 332,
+   "speaker": "Доктор Хелл",
+   "text": "「Это последнее предупреждение.\n　Отдай мне «Мазингера Зет»!」",
+   "orig": "Dr. Hell\n「This is your last warning.\n　Give me the Mazinger Z!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Кодзи",
+   "text": "「Ты никак не уймёшься, да?」",
+   "orig": "Koji\n「You don't give up, do you?」"
+  },
+  {
+   "i": 334,
+   "speaker": "Доктор Хелл",
+   "text": "「Что ж, тогда умри!\n　Только так и можно защитить этот мир!！」",
+   "orig": "Dr. Hell\n「Very well then, die!\n　That's the only way to protect the world!！」"
+  },
+  {
+   "i": 335,
+   "speaker": "Кодзи",
+   "text": "「Ни за что!\n　Я одолею тебя и сокрушу всякого, кто посягнёт\n　на этот мир. В этом долг мой и «Мазингера Зет»!」",
+   "orig": "Koji\n「Not a chance!\n　I will defeat you, and destroy anyone who attacks \n　this world. That is me and Mazinger Z's, duty!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Кодзи",
+   "text": "「За дело, «Мазингер Зет»!\n　Покажи мне свою истинную мощь!」",
+   "orig": "Koji\n「Let's do it, Mazinger Z!\n　Show me your true power!」"
+  },
+  {
+   "i": 337,
+   "speaker": "Кодзи",
+   "text": "「Сожги их всех дотла!\n　Ты сильнейший супер-робот в истории!」",
+   "orig": "Koji\n「Burn them all away!\n　You are the strongest super robot in history!」"
+  },
+  {
+   "i": 338,
+   "speaker": "Доктор Хелл",
+   "text": "「Геттер-роботы!\n　Я думал, вы все исчезли вместе\n　со смертью Саотомэ, а вы всё ещё здесь!」",
+   "orig": "Dr. Hell\n「Getter Robots!\n　I thought that you had all disappeared with \n　the death of Saotome, but you remain!」"
+  },
+  {
+   "i": 339,
+   "speaker": "Хаято",
+   "text": "「Судя по его словам...\n　У него что, свои счёты с Геттер-лучами?」",
+   "orig": "Hayato\n「The way he's talking...\n　Does he have a history with Getter Rays?」"
+  },
+  {
+   "i": 340,
+   "speaker": "Бэнкэй",
+   "text": "「Тебя что, тоже задело Геттер-излучением?」",
+   "orig": "Benkei\n「Weren't you contaminated with Getter Radiation, too?」"
+  },
+  {
+   "i": 341,
+   "speaker": "Доктор Хелл",
+   "text": "「Впрочем, неважно, вы мне не помеха!」",
+   "orig": "Dr. Hell\n「But no mind, you're nothing to worry about!」"
+  },
+  {
+   "i": 342,
+   "speaker": "Рёма",
+   "text": "「О чём бормочет этот старик?」",
+   "orig": "Ryoma\n「What's this old man talking about?」"
+  },
+  {
+   "i": 343,
+   "speaker": "Доктор Хелл",
+   "text": "「С меня довольно разговоров!\n　Геттер-роботы, ваш час пробил!」",
+   "orig": "Dr. Hell\n「I've no intention of talking any more!\n　Getter Robots, your time has come!」"
+  },
+  {
+   "i": 344,
+   "speaker": "Доктор Хелл",
+   "text": "「Я не могу допустить даже\n　возможности, что вы обратите\n　эту энергию против меня!」",
+   "orig": "Dr. Hell\n「I cannot allow\n　the possibility of you\n　using that energy against me!」"
+  },
+  {
+   "i": 345,
+   "speaker": "Каппэй",
+   "text": "「Чёрт!\n　Эта громадина просто огромна!」",
+   "orig": "Kappei\n「Dammit!\n　That thing is enormous!」"
+  },
+  {
+   "i": 346,
+   "speaker": "Доктор Хелл",
+   "text": "「Трепещите!\n　Чтобы спасти этот мир, нужна\n　именно такая мощь!」",
+   "orig": "Dr. Hell\n「Tremble in fear!\n　To save the world, this\n　is the strength we need!」"
+  },
+  {
+   "i": 347,
+   "speaker": "Каппэй",
+   "text": "「Замолчи!\n　Мы не проиграем силе, которой пользуются\n　лишь для того, чтобы захватить мир.」",
+   "orig": "Kappei\n「Shut up!\n　We won't lose to power that's only\n　used to take over the world.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Каппэй",
+   "text": "「Вперёд, Утюта, Кэйко!\n　Свалим эту громадину и покончим с боем!」",
+   "orig": "Kappei\n「Let's go Uchuta and Keiko!\n　Let's take out the big guy and end this battle!」"
+  },
+  {
+   "i": 349,
+   "speaker": "Бандзё",
+   "text": "「Вот уж не думал, что столкнусь с чем-то\n　настолько крупнее «Дайтарна 3»!」",
+   "orig": "Banjo\n「I never imagined I'd come up against something so\n　much bigger than the Daitarn 3!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Доктор Хелл",
+   "text": "「Вам осталось лишь отчаяние!\n　Падите ниц перед Хелл Кинг Гордоном!」",
+   "orig": "Dr. Hell\n「All that remains is despair!\n　Come and surrender before Hell King Gordon!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Бандзё",
+   "text": "「Благодарю, нет. Сдайся я —\n　и имя Бандзё Харана все тут же забудут!」",
+   "orig": "Banjo\n「No thanks. If I surrendered, \n　everyone would forget the name Banjo Haran!」"
+  },
+  {
+   "i": 352,
+   "speaker": "Бандзё",
+   "text": "「Раз осталось одно отчаяние, я сам создам надежду!\n　Потому «Дайтарн 3» и Бандзё Харан будут драться!」",
+   "orig": "Banjo\n「If only despair remains, I'll have to make some hope!\n　And so Daitarn 3 and Banjo Haran will fight!」"
+  },
+  {
+   "i": 353,
+   "speaker": "Доктор Хелл",
+   "text": "「Дерзкий человечишка!\n　Позволь преподать тебе урок реальности!」",
+   "orig": "Dr. Hell\n「Insolent little man!\n　Let me teach you about reality!」"
+  },
+  {
+   "i": 354,
+   "speaker": "Бандзё",
+   "text": "「Думаешь, получится, доктор Хелл?\n　Я покажу тебе, что последним смеётся тот,\n　кто не забыл о надежде!」",
+   "orig": "Banjo\n「Do you think you can, Dr. Hell?\n　I'll show you that the ones who laugh last\n　are the ones who never forgot hope!」"
+  },
+  {
+   "i": 355,
+   "speaker": "Майто",
+   "text": "「Это и впрямь абсолютное оружие зла!\n　Никому с ним не сравниться!」",
+   "orig": "Maito\n「It really is evil's ultimate weapon!\n　No one's a match for it!」"
+  },
+  {
+   "i": 356,
+   "speaker": "Доктор Хелл",
+   "text": "「Щенок!\n　Неужто тебя не сковал ужас\n　перед Хелл Кинг Гордоном?」",
+   "orig": "Dr. Hell\n「You runt!\n　Are you not overcome by terror\n　in the presence of Hell King Gordon?」"
+  },
+  {
+   "i": 357,
+   "speaker": "Майто",
+   "text": "「Будь у меня на это время, я лучше потратил бы\n　его на то, чтобы поскорее тебя свалить\n　и вернуть этому миру покой!」",
+   "orig": "Maito\n「If I had spare time for that, I'd use\n　it to take you out all the more quickly, \n　and help bring peace back to the world!」"
+  },
+  {
+   "i": 358,
+   "speaker": "Майто",
+   "text": "「Таков мой долг!」",
+   "orig": "Maito\n「That is my duty!」"
+  },
+  {
+   "i": 359,
+   "speaker": "Доктор Хелл",
+   "text": "「Что ж, я преподам тебе урок реальности!\n　В этом мире есть враги,\n　которых таким, как ты, не одолеть никогда」",
+   "orig": "Dr. Hell\n「Very well then, I will teach you about reality!\n　In this world there are enemies \n　you and your like can never defeat」"
+  },
+  {
+   "i": 360,
+   "speaker": "Майто",
+   "text": "「И всё же я тоже кое-чему тебя научу.\n　Те, кто всё равно не сдаётся, —\n　и есть истинные защитники справедливости!」",
+   "orig": "Maito\n「Even so, I'll teach you something, too.\n　Those who will still never surrender\n　are the true protectors of justice!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Доктор Хелл",
+   "text": "「«Евангелион»!\n　Его нужно устранить как можно скорее.」",
+   "orig": "Dr. Hell\n「Evangelion!\n　I have to eliminate him quickly.」"
+  },
+  {
+   "i": 362,
+   "speaker": "Синдзи",
+   "text": "「Ч-что?」",
+   "orig": "Shinji\n「W-what?」"
+  },
+  {
+   "i": 363,
+   "speaker": "Доктор Хелл",
+   "text": "「Если его истинная сила пробудится,\n　он может свести на нет всё!」",
+   "orig": "Dr. Hell\n「If his true power awakens,\n　he could undo everything!」"
+  },
+  {
+   "i": 364,
+   "speaker": "Синдзи",
+   "text": "「Я не понимаю, о чём ты говоришь,\n　но я всё равно буду с тобой драться!」",
+   "orig": "Shinji\n「I don't know what you're talking about,\n　but I'll fight you no matter what!」"
+  },
+  {
+   "i": 365,
+   "speaker": "Синдзи",
+   "text": "「Я смогу!\n　Я сражаюсь, чтобы защитить\n　этот мир, — совсем как Кодзи!」",
+   "orig": "Shinji\n「I can do it!\n　I'm fighting to protect\n　the world, just like Koji!」"
+  },
+  {
+   "i": 366,
+   "speaker": "Найн",
+   "text": "「Сила, огневая мощь, броня...\n　Он превосходит любого встреченного нами врага\n　по всем статьям, причём с большим отрывом.」",
+   "orig": "Nine\n「Strength, firepower, armor...\n　He's stronger than any enemy we've faced\n　in every way, by a wide margin.」"
+  },
+  {
+   "i": 367,
+   "speaker": "Доктор Хелл",
+   "text": "「Превосходный анализ.\n　Значит, ты видишь: шансов победить меня\n　у вас нет ни одного на миллион!」",
+   "orig": "Dr. Hell\n「An excellent analysis.\n　And so you must see you don't have\n　one chance in a million of beating me!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Найн",
+   "text": "「И всё же Кэп справится!」",
+   "orig": "Nine\n「Even so, Cap can do it!」"
+  },
+  {
+   "i": 369,
+   "speaker": "$n",
+   "text": "「Ты в своём уме?」",
+   "orig": "$n\n「Are you nuts?」"
+  },
+  {
+   "i": 370,
+   "speaker": "$n",
+   "text": "「Хотя все на меня надеются,\n　так что надо что-то делать!」",
+   "orig": "$n\n「Oh, but everyone's counting on me,\n　I've got to do something!」"
+  },
+  {
+   "i": 371,
+   "speaker": "Доктор Хелл",
+   "text": "「Ещё один глупец, неспособный принять реальность!」",
+   "orig": "Dr. Hell\n「Yet another fool who can't accept reality!」"
+  },
+  {
+   "i": 372,
+   "speaker": "$n",
+   "text": "「Пусть я и глупец,\n　но всё же получше такого чудовища, как ты!」",
+   "orig": "$n\n「I may be a fool,\n　but I'm still better than a monster like you!」"
+  },
+  {
+   "i": 373,
+   "speaker": "$n",
+   "text": "「Ну, громила, начнём!\n　Или пан, или пропал!」",
+   "orig": "$n\n「Let's go, big bad!\n　It's do or die time!」"
+  },
+  {
+   "i": 374,
+   "speaker": "Найн",
+   "text": "「Сила, огневая мощь, броня...\n　Он превосходит любого встреченного нами врага\n　по всем статьям, причём с большим отрывом.」",
+   "orig": "Nine\n「Strength, firepower, armor...\n　He's stronger than any enemy we've faced\n　in every way, by a wide margin.」"
+  },
+  {
+   "i": 375,
+   "speaker": "Доктор Хелл",
+   "text": "「Превосходный анализ.\n　Значит, ты видишь: шансов победить меня\n　у вас нет ни одного на миллион!」",
+   "orig": "Dr. Hell\n「An excellent analysis.\n　And so you must see you don't have\n　one chance in a million of beating me!」"
+  },
+  {
+   "i": 376,
+   "speaker": "Найн",
+   "text": "「Это не—」",
+   "orig": "Nine\n「That's not—」"
+  },
+  {
+   "i": 377,
+   "speaker": "$n",
+   "text": "「Может, в одиночку оно и так,\n　но все вместе мы справимся!」",
+   "orig": "$n\n「Maybe that's true for me alone,\n　but if we all work together we can do it!」"
+  },
+  {
+   "i": 378,
+   "speaker": "Найн",
+   "text": "「Сестра...」",
+   "orig": "Nine\n「Sis...」"
+  },
+  {
+   "i": 379,
+   "speaker": "Доктор Хелл",
+   "text": "「Полагаться на других!\n　Последнее прибежище слабых.」",
+   "orig": "Dr. Hell\n「Depending on others!\n　The last resort of the weak.」"
+  },
+  {
+   "i": 380,
+   "speaker": "$n",
+   "text": "「И что в этом плохого?\n　Тебе просто этого не понять, ведь ты хочешь,\n　чтобы весь мир принадлежал тебе одному.」",
+   "orig": "$n\n「What's wrong with that?\n　You just can't understand it because you want\n　the whole world to belong to you alone.」"
+  },
+  {
+   "i": 381,
+   "speaker": "$n",
+   "text": "「Я тебе покажу!\n　Когда все объединяют силы,\n　мощь выходит невероятная!」",
+   "orig": "$n\n「I'll show you!\n　When everyone joins forces,\n　their strength can be incredible!」"
+  },
+  {
+   "i": 382,
+   "speaker": "Окита",
+   "text": "（Этот исполинский робот.\n　Он свидетельство силы воли доктора Хелла.）",
+   "orig": "Okita\n（That enormous robot.\n　It's a testament to Dr. Hell's willpower.）"
+  },
+  {
+   "i": 383,
+   "speaker": "Окита",
+   "text": "（Но что его так гонит вперёд?\n　Ради чего всё это сражение?）",
+   "orig": "Okita\n（But what's driving him on like this?\n　What is the goal of all this fighting?）"
+  },
+  {
+   "i": 384,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер»!\n　Давай решим этот спор прямо сейчас!」",
+   "orig": "Koji\n「Great Mazinger!\n　Let's settle this fight now!」"
+  },
+  {
+   "i": 385,
+   "speaker": "Тэцуя",
+   "text": "（Это чувство.\n　Оно больше не ждёт!）",
+   "orig": "Tetsuya\n（This feeling.\n　It can't wait any longer!）"
+  },
+  {
+   "i": 386,
+   "speaker": "Тэцуя",
+   "text": "（Даже если это будет стоить мне жизни,\n　я должен одолеть «Мазингера Зет»!）",
+   "orig": "Tetsuya\n（Even if it takes my life,\n　I must defeat Mazinger Z!）"
+  },
+  {
+   "i": 387,
+   "speaker": "Рёма",
+   "text": "「Довольно, Тэцуя.」",
+   "orig": "Ryoma\n「That's enough, Tetsuya.」"
+  },
+  {
+   "i": 388,
+   "speaker": "Тэцуя",
+   "text": "「Похоже, час настал.」",
+   "orig": "Tetsuya\n「It looks like the time has come.」"
+  },
+  {
+   "i": 389,
+   "speaker": "Рёма",
+   "text": "「Раз так — поблажек не жди!\n　Я с этим покончу, Тэцуя!」",
+   "orig": "Ryoma\n「If we do this, I won't hold back!\n　I will end it, Tetsuya!」"
+  },
+  {
+   "i": 390,
+   "speaker": "Тэцуя",
+   "text": "「Что ж, давай, Рёма.\n　Я должен это сделать, кто бы ни встал у меня на пути.」",
+   "orig": "Tetsuya\n「Come, then, Ryoma.\n　I have to do this, no matter who's in my way.」"
+  },
+  {
+   "i": 391,
+   "speaker": "$n",
+   "text": "「Аргх!」",
+   "orig": "$n\n「Argh!」"
+  }
+ ]
+}

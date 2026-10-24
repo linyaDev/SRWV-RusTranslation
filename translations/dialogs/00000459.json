@@ -1,0 +1,3046 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Забине",
+   "text": "「А вот и они.」",
+   "orig": "Sabine\n「Here they come.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Харри",
+   "text": "「Столп Зари в зоне видимости!」",
+   "orig": "Harry\n「The Pillar of Dawn is in sight!」"
+  },
+  {
+   "i": 2,
+   "speaker": "Юрика",
+   "text": "「Ох, непросто было добраться сюда\n　без бозонного прыжка.」",
+   "orig": "Yurika\n「Man, it was really hard getting here without\n　Boson Jumping.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Рури",
+   "text": "「Горизонт измерений здесь\n　нестабилен. Прыгнем — и неизвестно,\n　что может случиться!」",
+   "orig": "Ruri\n「The dimensional horizon around here\n　are unstable. If we jump, there's no telling\n　what might happen!」"
+  },
+  {
+   "i": 4,
+   "speaker": "Сумераги",
+   "text": "「Саламандинэй говорит, что причина —\n　Аура, запертая\n　в Столпе Зари…」",
+   "orig": "Sumeragi\n「Salamandinay says that Aura, who is\n　trapped in the Pillar of Dawn,\n　is the source...」"
+  },
+  {
+   "i": 5,
+   "speaker": "Лакус",
+   "text": "「«Туата де Данаан» отвлекает их\n　у входа в порт.\n　Поспешим!」",
+   "orig": "Lacus\n「The Tuatha de Danaan is \n　creating a diversion at the port entrance.\n　Let's hurry!」"
+  },
+  {
+   "i": 6,
+   "speaker": "Вальтфельд",
+   "text": "「Наземные силы Орба и спецслужба «Нергала»\n　направляются ко дворцу.\n　Спасение представителя Атха оставим им.」",
+   "orig": "Waltfeld\n「Orb's ground forces and Nergal's Secret Service\n　are headed for the palace.\n　Let's leave Representative Athha's rescue to them.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам — на вылет!\n　Вернём Анж и покончим с Эмбрио!」",
+   "orig": "Sumeragi\n「All units, launch!\n　Let's get Ange back and take down Embryo!」"
+  },
+  {
+   "i": 8,
+   "speaker": "Крис",
+   "text": "「Розали, Хильда, вы здесь!」",
+   "orig": "Chris\n「Rosalie, Hilda, you're here!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Розали",
+   "text": "「Хильда,\n　Крис оставь мне.\n　А ты ищи Анж!」",
+   "orig": "Rosalie\n「Hilda,\n　leave Chris to me.\n　You look for Ange!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Хильда",
+   "text": "「Розали…」",
+   "orig": "Hilda\n「Rosalie...」"
+  },
+  {
+   "i": 11,
+   "speaker": "Розали",
+   "text": "「Я же знаю, что ты в него втрескалась!」",
+   "orig": "Rosalie\n「I know you've fallen for him!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Хильда",
+   "text": "「Скажи спасибо, что я не обиделась, Розали!」",
+   "orig": "Hilda\n「You should be grateful, Rosalie!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Хильда",
+   "text": "「Но поговорим об этом после того, как отлупим Крис!」",
+   "orig": "Hilda\n「But let's talk about that after we pound Chris to a pulp!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Крис",
+   "text": "「Значит, за Анж вы примчались?\n　А меня взяли и бросили…」",
+   "orig": "Chris\n「So you've come to save Ange?\n　After you went and abandoned me...」"
+  },
+  {
+   "i": 15,
+   "speaker": "Вивиан",
+   "text": "「Ты что, ревнуешь?!」",
+   "orig": "Vivian\n「You're jealous?!」"
+  },
+  {
+   "i": 16,
+   "speaker": "Эрша",
+   "text": "「Послушай, Крис!\n　Розали и остальные просто…」",
+   "orig": "Ersha\n「Listen, Chris!\n　Rosalie and the rest just—」"
+  },
+  {
+   "i": 17,
+   "speaker": "Крис",
+   "text": "「Молчи, предательница!」",
+   "orig": "Chris\n「Shut up, backstabber!」"
+  },
+  {
+   "i": 18,
+   "speaker": "Розали",
+   "text": "「Всё в порядке, Эрша.\n　Мы сами с ней разберёмся.」",
+   "orig": "Rosalie\n「It's OK, Ersha.\n　We'll take care of her.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Розали",
+   "text": "「Сперва переломаем игрушки, что ей дал этот гад, —\n　тогда и слушать начнёт!」",
+   "orig": "Rosalie\n「First we'll bust up the toys that bastard gave her,\n　then she'll have to listen!」"
+  },
+  {
+   "i": 20,
+   "speaker": "Крис",
+   "text": "「Вы ещё пожалеете, что оскорбили\n　меня и мою «Теодру»!」",
+   "orig": "Chris\n「I'm going to make you regret insulting\n　me and my Theodra!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Каспер",
+   "text": "「Похоже, у барышни на кого-то зуб.」",
+   "orig": "Casper\n「It sounds like the little lady has a grudge.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Забине",
+   "text": "「Прямо как у нас!」",
+   "orig": "Sabine\n「Just like we do!」"
+  },
+  {
+   "i": 23,
+   "speaker": "Каспер",
+   "text": "「Не знаю, как ты, а для меня это просто работа.」",
+   "orig": "Casper\n「I don't know about you, but I am all business here.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Фаулер",
+   "text": "「Не сидите сложа руки, вы двое.\n　Эти ребята до сих пор неплохо\n　держались против Эмбрио.」",
+   "orig": "Fowler\n「Don't just sit there, you two.\n　Those guys have done a good job\n　standing up to Embryo so far.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Фаулер",
+   "text": "「Хотя люди всегда дерутся отчаяннее всего,\n　когда понимают, что вот-вот сдохнут.」",
+   "orig": "Fowler\n「Meh, people always fight the hardest\n　when they know they're about to die.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Клузо",
+   "text": "「Силы «Амальгама» тоже здесь.」",
+   "orig": "Clouseau\n「Amalgam forces are here, too.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Курц",
+   "text": "「Отлично!\n　Наконец-то разделаюсь с Каспером окончательно!」",
+   "orig": "Kurz\n「Perfect!\n　I'll finally be able to take Casper out for good!」"
+  },
+  {
+   "i": 28,
+   "speaker": "Джибрил",
+   "text": "「Вперёд, солдаты!\n　Покараем этих болванов, вообразивших,\n　что они справятся с господином Эмбрио!」",
+   "orig": "Djibril\n「OK, soldiers!\n　Let's get out there and punish these\n　morons who think they can take on Lord Embryo!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Крис",
+   "text": "「Заткнись, идиот.」",
+   "orig": "Chris\n「Shut up, idiot.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Джибрил",
+   "text": "「Что ты сказала?!\n　Командовать этим боем мне поручил\n　сам господин Эмбрио!」",
+   "orig": "Djibril\n「What was that?!\n　I have been charged with leading this battle\n　by Lord Embryo himself!」"
+  },
+  {
+   "i": 31,
+   "speaker": "Крис",
+   "text": "「Делай что хочешь.\n　Я-то делаю именно так.」",
+   "orig": "Chris\n「Do what you like.\n　Because that's what I'm doing.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Синн",
+   "text": "「Этот тип!\n　Это же лорд Джибрил из «Логоса»!」",
+   "orig": "Shinn\n「That guy!\n　That's Lord Djibril of Logos!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Лунамария",
+   "text": "「Мало того что выжил —\n　так ещё и к Эмбрио переметнулся!」",
+   "orig": "Lunamaria\n「He didn't just survive,\n　he's joined Embryo!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Лакус",
+   "text": "「Выходит, сам «Логос»\n　всё это время был под властью Эмбрио?」",
+   "orig": "Lacus\n「So I wonder if this means that \n　Logos itself was under Embryo's control?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Атрун",
+   "text": "「И потому они пытались\n　истребить координаторов?」",
+   "orig": "Athrun\n「And if that's why they tried to\n　wipe out the Coordinators?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Сумераги",
+   "text": "「Всем машинам — в атаку!\n　Первая цель — командир передовой, Крис!」",
+   "orig": "Sumeragi\n「All units, commence attack!\n　Your initial target is the frontline commander, Chris!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Розали",
+   "text": "「Начнём, Крис!\n　Даю на всё три минуты!」",
+   "orig": "Rosalie\n「Let's do this, Chris!\n　I give it three minutes!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Крис",
+   "text": "「Ах!」",
+   "orig": "Chris\n「Agh!」"
+  },
+  {
+   "i": 39,
+   "speaker": "Хильда",
+   "text": "「Мы победили, Крис!」",
+   "orig": "Hilda\n「We win, Chris!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Крис",
+   "text": "「Вы ничуть не меняетесь!\n　Вы всегда считали меня жалкой,\n　никчёмной марионеткой, да?」",
+   "orig": "Chris\n「You all never change!\n　You always thought of me as some kind of\n　pathetic, useless puppet, didn't you?」"
+  },
+  {
+   "i": 41,
+   "speaker": "Розали",
+   "text": "「Крис, постой!\n　С чего ты вообще решила,\n　что должна нас убить?!」",
+   "orig": "Rosalie\n「Chris, wait!\n　Why do you think you\n　have to kill us?!」"
+  },
+  {
+   "i": 42,
+   "speaker": "Крис",
+   "text": "「Вы просто бросили меня умирать!」",
+   "orig": "Chris\n「You just left me to die!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Розали",
+   "text": "「Мы хотели прийти к тебе на помощь,\n　но не смогли.」",
+   "orig": "Rosalie\n「We wanted to go to help you,\n　but we couldn't.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Крис",
+   "text": "「Потому что меня не стоило спасать, да?\n　Вы всегда такие!\n　И ничего не меняется!」",
+   "orig": "Chris\n「Because I wasn't worth saving, right?\n　You guys are always like that!\n　It never changes!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Крис",
+   "text": "「Семь лет назад было точно так же.」",
+   "orig": "Chris\n「Seven years ago, it was the same.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Хильда",
+   "text": "「Семь лет назад?」",
+   "orig": "Hilda\n「Seven years ago?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Крис",
+   "text": "「Если я быстро не разделаюсь с врагами,\n　Эмбрио от меня откажется!」",
+   "orig": "Chris\n「If I don't finish my enemies off quickly,\n　Embryo will abandon me!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Розали",
+   "text": "「Тогда тебе не повезло — враги это мы!」",
+   "orig": "Rosalie\n「Then it's too bad we're your enemies!」"
+  },
+  {
+   "i": 49,
+   "speaker": "Хильда",
+   "text": "「Заканчиваем, Крис!\n　Пора всё решить!」",
+   "orig": "Hilda\n「Let's finish it, Chris!\n　It's time to settle things!」"
+  },
+  {
+   "i": 50,
+   "speaker": "Крис",
+   "text": "「Н-нет!」",
+   "orig": "Chris\n「N-no!」"
+  },
+  {
+   "i": 51,
+   "speaker": "Хильда",
+   "text": "「Мы победили, Крис!」",
+   "orig": "Hilda\n「We win, Chris!」"
+  },
+  {
+   "i": 52,
+   "speaker": "Крис",
+   "text": "「Вы ничуть не меняетесь!\n　Вы всегда считали меня жалкой,\n　никчёмной марионеткой, да?」",
+   "orig": "Chris\n「You all never change!\n　You always thought of me as some kind of\n　pathetic, useless puppet, didn't you?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Розали",
+   "text": "「Крис, постой!\n　С чего ты вообще решила,\n　что должна нас убить?!」",
+   "orig": "Rosalie\n「Chris, wait!\n　Why do you think you\n　have to kill us?!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Крис",
+   "text": "「Вы просто бросили меня умирать!」",
+   "orig": "Chris\n「You just left me to die!」"
+  },
+  {
+   "i": 55,
+   "speaker": "Розали",
+   "text": "「Мы хотели прийти к тебе на помощь,\n　но не смогли.」",
+   "orig": "Rosalie\n「We wanted to go to help you,\n　but we couldn't.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Крис",
+   "text": "「Потому что меня не стоило спасать, да?\n　Вы всегда такие!\n　И ничего не меняется!」",
+   "orig": "Chris\n「Because I wasn't worth saving, right?\n　You guys are always like that!\n　It never changes!」"
+  },
+  {
+   "i": 57,
+   "speaker": "Крис",
+   "text": "「Семь лет назад было точно так же.」",
+   "orig": "Chris\n「Seven years ago, it was the same.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Хильда",
+   "text": "「Семь лет назад?」",
+   "orig": "Hilda\n「Seven years ago?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Крис",
+   "text": "「Ну конечно, вы даже не помните!」",
+   "orig": "Chris\n「It figures, you don't even remember!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Крис",
+   "text": "「Мы тогда обменивались подарками, и вы подарили мне\n　ОДНУ заколку… Хотя я всегда ношу\n　ДВА хвостика!」",
+   "orig": "Chris\n「There was a present exchange and you gave me\n　one barrette... Even though I always wear my\n　hair in TWO pigtails!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Розали",
+   "text": "「А ведь и правда, что-то такое припоминаю…」",
+   "orig": "Rosalie\n「Now that you mention it, I sort of remember that...」"
+  },
+  {
+   "i": 62,
+   "speaker": "Крис",
+   "text": "「Хильда!\n　А помнишь, что ты тогда сказала?!」",
+   "orig": "Chris\n「Hilda! \n　Do you remember what you said then?!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Хильда",
+   "text": "「А?」",
+   "orig": "Hilda\n「Huh?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Крис",
+   "text": "「Что с двумя хвостиками я тебе подражаю\n　и мне лучше сделать один хвост!\n　А ведь мне нравилось именно так!」",
+   "orig": "Chris\n「You said that I was copying you with two pigtails,\n　so I should switch to a ponytail!\n　Even though I liked that style!」"
+  },
+  {
+   "i": 65,
+   "speaker": "Крис",
+   "text": "「И с тех пор я ношу\n　один хвост,\n　хотя мне это совсем не нравится!」",
+   "orig": "Chris\n「Ever since then I wore my hair\n　in a ponytail,\n　even though I don't like it!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Хильда",
+   "text": "「И… какое это имеет отношение ко всему этому?」",
+   "orig": "Hilda\n「And...what does that have to do with all this?」"
+  },
+  {
+   "i": 67,
+   "speaker": "Крис",
+   "text": "「Да дело не только в этом!\n　Я всегда, ВСЕГДА молчала.\n　Всегда уступала вам…」",
+   "orig": "Chris\n「It's not just that!\n　I always, ALWAYS bit my tongue.\n　I always went along with you all...」"
+  },
+  {
+   "i": 68,
+   "speaker": "Крис",
+   "text": "「Делала, как вы хотите, держала всё в себе…\n　Потому что считала вас подругами.」",
+   "orig": "Chris\n「I did what you wanted, I held myself back...\n　Because I thought you were my friends.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Крис",
+   "text": "「Почему вы не понимаете моих чувств?\n　Вы вообще не умеете понимать чужие чувства.」",
+   "orig": "Chris\n「Why can't you understand my feelings?\n　You can't understand people's feelings.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Хильда",
+   "text": "「Чего?!」",
+   "orig": "Hilda\n「What?!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Крис",
+   "text": "「И ты слишком тупая, чтобы это понять.」",
+   "orig": "Chris\n「And you're too dumb to get it at all.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Розали",
+   "text": "「Я…」",
+   "orig": "Rosalie\n「I...」"
+  },
+  {
+   "i": 73,
+   "speaker": "Крис",
+   "text": "「А вот Эмбрио другой!\n　Эмбрио — мой настоящий друг!」",
+   "orig": "Chris\n「But Embryo is different!\n　Embryo is my real friend!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Крис",
+   "text": "「И это он дал мне «Теодру»!\n　Он в меня верит…」",
+   "orig": "Chris\n「And he gave me this Theodra!\n　He has faith in me...」"
+  },
+  {
+   "i": 75,
+   "speaker": "Кира",
+   "text": "「Но дружба совсем не в этом!」",
+   "orig": "Kira\n「But that's not what friendship is!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Атрун",
+   "text": "「Открой глаза, Крис!\n　Разве друг станет толкать тебя\n　в опасность и заставлять драться за себя?」",
+   "orig": "Athrun\n「Open your eyes, Chris!\n　Why would a friend push you\n　into danger, and make you fight for him?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Атрун",
+   "text": "「А когда тебе было плохо,\n　он хоть раз появился?\n　Никакой он тебе не друг!」",
+   "orig": "Athrun\n「When you were in trouble,\n　did he show up?\n　He's no friend of yours!」"
+  },
+  {
+   "i": 78,
+   "speaker": "Крис",
+   "text": "「Заткнись, Атрун!\n　С чего мне тебя слушать?」",
+   "orig": "Chris\n「Shut up, Athrun!\n　Why should I listen to you?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Атрун",
+   "text": "「Не заткнусь!\n　Я не стану смотреть, как друзья бьются друг с другом.」",
+   "orig": "Athrun\n「I won't shut up!\n　I won't sit back and let friends fight each other.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Атрун",
+   "text": "「Я знаю, какую боль это приносит!」",
+   "orig": "Athrun\n「I know the pain that can cause!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Крис",
+   "text": "「Атрун…」",
+   "orig": "Chris\n「Athrun...」"
+  },
+  {
+   "i": 82,
+   "speaker": "Атрун",
+   "text": "「Хильда и Розали рискуют жизнью, чтобы спасти тебя,\n　а Эмбрио нигде не видно.\n　Как думаешь, кому ты на самом деле дорога?」",
+   "orig": "Athrun\n「Hilda and Rosalie are risking their lives to save you,\n　and Embryo is nowhere to be seen.\n　Which side do you think cares about you?」"
+  },
+  {
+   "i": 83,
+   "speaker": "Крис",
+   "text": "「Но… Розали и Хильда…」",
+   "orig": "Chris\n「But...Rosalie and Hilda—」"
+  },
+  {
+   "i": 84,
+   "speaker": "Кира",
+   "text": "「Они подруги, но читать твои мысли не умеют.」",
+   "orig": "Kira\n「They're friends, but they can't always read your mind.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Кира",
+   "text": "「Ты ничего им не говорила, но всё равно\n　ждала, что они поймут, —\n　ведь ты в них верила.」",
+   "orig": "Kira\n「You didn't talk about it, but you\n　still expected them to understand\n　because you had faith in them.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Крис",
+   "text": "「Это…」",
+   "orig": "Chris\n「That's...」"
+  },
+  {
+   "i": 87,
+   "speaker": "Крис",
+   "text": "「Помоги мне, Эмбрио!\n　Скажи, что мне делать!」",
+   "orig": "Chris\n「Help me, Embryo!\n　Tell me what I should do!」"
+  },
+  {
+   "i": 88,
+   "speaker": "Эрша",
+   "text": "「Бесполезно, Крис.\n　Он просто говорил то, что мы хотели услышать,\n　чтобы пользоваться нами как инструментами.」",
+   "orig": "Ersha\n「It's no good, Chris.\n　He just told us what we wanted to hear\n　so he could use us as tools.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Эрша",
+   "text": "「Стоило тебе проиграть — и он отвернулся.\n　Ты ведь и сама это знала? Потому и дралась\n　так отчаянно.」",
+   "orig": "Ersha\n「He turned his face from you when you lost.\n　You knew that would happen, didn't you? That's why\n　you fought so hard.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Крис",
+   "text": "「Они… они же врут, правда, Эмбрио?!」",
+   "orig": "Chris\n「They're...they're lying, aren't they Embryo?!」"
+  },
+  {
+   "i": 91,
+   "speaker": "Крис",
+   "text": "「Меня снова бросили?!\n　Снова предали?!」",
+   "orig": "Chris\n「Have I been abandoned again?!\n　Betrayed again?!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Хильда",
+   "text": "「Жалкое зрелище!」",
+   "orig": "Hilda\n「Pathetic!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Крис",
+   "text": "「Что?!」",
+   "orig": "Chris\n「What?!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Хильда",
+   "text": "「Если кто-то называет себя другом,\n　это ещё не значит, что он друг!\n　А ты купилась, дурёха.」",
+   "orig": "Hilda\n「Just because someone calls themselves a friend,\n　doesn't mean they actually are a friend!\n　You fell for it, dummy.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Крис",
+   "text": "「Но вы же все меня бросили!」",
+   "orig": "Chris\n「But you guys all left me behind!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Крис",
+   "text": "「Вы всем скопом надо мной потешались!\n　Мне было так горько, так больно!\n　Почему вы не понимаете?」",
+   "orig": "Chris\n「You all ganged up on me and made fun of me!\n　I was so miserable, in so much pain!\n　Why don't you understand?」"
+  },
+  {
+   "i": 97,
+   "speaker": "Хильда",
+   "text": "「Ох, да хватит ныть!\n　Возьми себя в руки, кислая ты физиономия!」",
+   "orig": "Hilda\n「Ugh, quit your whining!\n　Get ahold of yourself, you gloomy Gus!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Розали",
+   "text": "「А-а-а!\n　Крис!」",
+   "orig": "Rosalie\n「Gyaaah!\n　Chris!」"
+  },
+  {
+   "i": 99,
+   "speaker": "Крис",
+   "text": "「Розали!」",
+   "orig": "Chris\n「Rosalie!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Розали",
+   "text": "「Вот именно!\n　Пока не скажешь, я не пойму!\n　Я же дура!」",
+   "orig": "Rosalie\n「That's right!\n　You have to say it, or I won't get it!\n　I'm so stupid!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Крис",
+   "text": "「О-отпусти меня!\n　Мы же обе сорвёмся!」",
+   "orig": "Chris\n「L-let go of me!\n　We're both going to fall!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Розали",
+   "text": "「И пусть!\n　Значит, погибнем вместе!\n　Всё равно мне без тебя не жить!」",
+   "orig": "Rosalie\n「Good!\n　Then we'll die together!\n　I can't live without you, anyway!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Крис",
+   "text": "「Розали?」",
+   "orig": "Chris\n「Rosalie?」"
+  },
+  {
+   "i": 104,
+   "speaker": "Розали",
+   "text": "「Я люблю тебя, Крис!」",
+   "orig": "Rosalie\n「I love you, Chris!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Крис",
+   "text": "「Говоришь так, а сама бросила меня умирать!」",
+   "orig": "Chris\n「You say that, but you left me to die!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Розали",
+   "text": "「Поверь мне, я бы ни за что\n　так с тобой не поступила, Крис!」",
+   "orig": "Rosalie\n「Please believe me, there's no way\n　I would ever do that, Chris!」"
+  },
+  {
+   "i": 107,
+   "speaker": "Розали",
+   "text": "「Разве не мы одни всегда знали о тебе всё?\n　Размер груди, все твои слабости,\n　где ты прячешь свои сбережения…」",
+   "orig": "Rosalie\n「Hasn't it always been just us\n　who know everything about you? Your bust size,\n　your weaknesses, where you keep your money stashed...」"
+  },
+  {
+   "i": 108,
+   "speaker": "Крис",
+   "text": "「Розали…」",
+   "orig": "Chris\n「Rosalie...」"
+  },
+  {
+   "i": 109,
+   "speaker": "Розали",
+   "text": "「Дай мне ещё один шанс!\n　Давай снова будем подругами, Крис!」",
+   "orig": "Rosalie\n「Give me one more chance!\n　Be my friend again, Chris!」"
+  },
+  {
+   "i": 110,
+   "speaker": "Атрун",
+   "text": "「Плохо дело!\n　Они падают!」",
+   "orig": "Athrun\n「It's no good!\n　They're going down!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Хильда",
+   "text": "「А-а-а!」",
+   "orig": "Hilda\n「Graaah!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Розали",
+   "text": "「Отличная работа, Хильда!」",
+   "orig": "Rosalie\n「Nice work, Hilda!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Хильда",
+   "text": "「Вот только из-за лишнего веса\n　двух машин «Аркебузу» неслабо\n　досталось…」",
+   "orig": "Hilda\n「Well, taking on the extra weight of\n　two other suits messed Arquebus up\n　pretty bad, though...」"
+  },
+  {
+   "i": 114,
+   "speaker": "Крис",
+   "text": "「…」",
+   "orig": "Chris\n「...」"
+  },
+  {
+   "i": 115,
+   "speaker": "Розали",
+   "text": "「Прости…\n　Прости меня, Крис!」",
+   "orig": "Rosalie\n「Sorry... \n　I'm so sorry, Chris!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Крис",
+   "text": "「Не прощу…\n　Пока не купишь мне новую заколку.」",
+   "orig": "Chris\n「I can't forgive you...\n　Not until you buy me a new barrette.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Розали",
+   "text": "「К-куплю самую лучшую, какая есть!」",
+   "orig": "Rosalie\n「I-I'll buy the best one there is!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Крис",
+   "text": "「И перестанешь жульничать в играх?」",
+   "orig": "Chris\n「And you'll stop cheating when we play games?」"
+  },
+  {
+   "i": 119,
+   "speaker": "Розали",
+   "text": "「Обещаю!」",
+   "orig": "Rosalie\n「I promise!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Крис",
+   "text": "「И будешь пускать меня в ванную первой?」",
+   "orig": "Chris\n「And you'll let me use the bathroom first?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Розали",
+   "text": "「Да!」",
+   "orig": "Rosalie\n「Yes!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Крис",
+   "text": "「Какие же мы дуры. Мы вроде как бились\n　насмерть — и что это такое?」",
+   "orig": "Chris\n「We're so stupid. We were supposed to be \n　fighting to the death, what is this?」"
+  },
+  {
+   "i": 123,
+   "speaker": "Хильда",
+   "text": "「Вы что, миритесь?」",
+   "orig": "Hilda\n「You're making up, aren't you?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Розали",
+   "text": "「Эй! Это моя реплика!」",
+   "orig": "Rosalie\n「Hey! That's my line!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Крис",
+   "text": "「Розали!」",
+   "orig": "Chris\n「Rosalie!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Крис",
+   "text": "「Прости меня… прости!」",
+   "orig": "Chris\n「I'm sorry... I'm so sorry!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Розали",
+   "text": "「И ты меня.」",
+   "orig": "Rosalie\n「So am I.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Хильда",
+   "text": "「Это Салия!」",
+   "orig": "Hilda\n「It's Salia!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Салия",
+   "text": "「Крис…\n　Значит, и ты предала господина Эмбрио?」",
+   "orig": "Salia\n「Chris...\n　So you have betrayed Lord Embryo as well?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Крис",
+   "text": "「П-предала?..\n　Но он ведь мне ничего и не…」",
+   "orig": "Chris\n「B-betrayed...?\n　But, he never gave—」"
+  },
+  {
+   "i": 131,
+   "speaker": "Салия",
+   "text": "「Как низко — вечно ждать награды!」",
+   "orig": "Salia\n「How shameful, always expecting to be rewarded!」"
+  },
+  {
+   "i": 132,
+   "speaker": "Салия",
+   "text": "「Мы — Рыцари Алмазной Розы!\n　Мы отдали господину Эмбрио жизни и души!」",
+   "orig": "Salia\n「We are Diamond Rose Knights!\n　We have given our lives, our souls, to Lord Embryo!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Хильда",
+   "text": "「Ты!!\n　Как ты докатилась до такого?」",
+   "orig": "Hilda\n「You!!\n　How did you sink so far?」"
+  },
+  {
+   "i": 134,
+   "speaker": "Салия",
+   "text": "「Хильда…\n　В память о нашей дружбе убью тебя первой.」",
+   "orig": "Salia\n「Hilda...\n　In light of your friendship, I'll kill you first.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Крис",
+   "text": "「Беги, Хильда!」",
+   "orig": "Chris\n「Run, Hilda!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Хильда",
+   "text": "「Не могу!\n　«Аркебуз» не слушается!」",
+   "orig": "Hilda\n「I can't!\n　Arquebus won't move!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Салия",
+   "text": "「Прощай…」",
+   "orig": "Salia\n「Goodbye...」"
+  },
+  {
+   "i": 138,
+   "speaker": "Салия",
+   "text": "「«Разия»!\n　Кто за штурвалом?」",
+   "orig": "Salia\n「Raziya!\n　Who's piloting it?」"
+  },
+  {
+   "i": 139,
+   "speaker": "Джилл",
+   "text": "「Я, Салия!」",
+   "orig": "Jill\n「I am, Salia!」"
+  },
+  {
+   "i": 140,
+   "speaker": "Джилл",
+   "text": "「Хильда, Розали…\n　Забирайте Крис и уходите отсюда!」",
+   "orig": "Jill\n「Hilda, Rosalie...\n　Take Chris and get out of here!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Хильда",
+   "text": "「Легко сказать, я же не могу двинуться!」",
+   "orig": "Hilda\n「Easy for you to say, I can't move!」"
+  },
+  {
+   "i": 142,
+   "speaker": "Крис",
+   "text": "「Хильда, возьми\n　«Теодру»!」",
+   "orig": "Chris\n「Hilda, you can use\n　Theodra!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Хильда",
+   "text": "「Ну, не совсем в моём вкусе,\n　но сейчас не время привередничать.」",
+   "orig": "Hilda\n「Well, it's not really what I'm\n　into, but now's not the time to complain.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Джилл",
+   "text": "「Хех. Похоже, я наконец-то сделала\n　что-то достойное командира.」",
+   "orig": "Jill\n「Heh. It looks like I've finally\n　done something worthy of a commander.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Салия",
+   "text": "「Алектра!」",
+   "orig": "Salia\n「Alektra!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Джилл",
+   "text": "「Давно не виделись, Салия.\n　Мне было любопытно, до чего тебя доведёт эта\n　чушь про «рыцарей Эмбрио». Ты меня разочаровала.」",
+   "orig": "Jill\n「It's been a while, Salia.\n　I was wondering just how far you'd fallen for this\n　\"Knights of Embryo\" nonsense. You disappoint me.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Салия",
+   "text": "「Что ты здесь делаешь?!」",
+   "orig": "Salia\n「What are you doing here?!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Джилл",
+   "text": "「Приехала повидать бывшего возлюбленного!」",
+   "orig": "Jill\n「I came to see my old boyfriend!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Салия",
+   "text": "「Ч-что?!」",
+   "orig": "Salia\n「W-what?!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Джилл",
+   "text": "「Что, он тебе не рассказывал?\n　Мы с Эмбрио когда-то были любовниками!」",
+   "orig": "Jill\n「What, didn't he tell you?\n　Embryo and I used to be lovers!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Салия",
+   "text": "「Нет!」",
+   "orig": "Salia\n「No!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Джилл",
+   "text": "「Вообще-то я рассчитывала на тайное свидание,\n　но ты такая жалкая, что я решила\n　поменять план.」",
+   "orig": "Jill\n「Actually, I was hoping to have a little secret,\n　rendezvous, but you really are so pathetic that\n　I decided to change my plan.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Джилл",
+   "text": "「Ну так что, уйдёшь с дороги?」",
+   "orig": "Jill\n「Well then, are you going to get out of the way?」"
+  },
+  {
+   "i": 154,
+   "speaker": "Салия",
+   "text": "「Я не верю ни единому твоему слову!」",
+   "orig": "Salia\n「I don't believe anything you say!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Салия",
+   "text": "「Я — рыцарь господина Эмбрио!\n　Я Салия, глава Рыцарей Алмазной Розы!」",
+   "orig": "Salia\n「I am Lord Embryo's Knight!\n　I am Salia, leader of the Diamond Rose Knights!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Салия",
+   "text": "「Я не подпущу тебя к нему!」",
+   "orig": "Salia\n「I will not let you near him!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Хильда",
+   "text": "「Салия!\n　Довольно!」",
+   "orig": "Hilda\n「Salia!\n　That's enough!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Салия",
+   "text": "「Вылезай оттуда, Хильда!\n　Рагна-Мейл — только для рыцарей господина Эмбрио!」",
+   "orig": "Salia\n「Get out of there, Hilda!\n　Ragna-Mail is only for Lord Embryo's Knights!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Хильда",
+   "text": "「Какая жалость, вот только\n　Пара-Мейла для меня тут нет!」",
+   "orig": "Hilda\n「Well that's too bad, 'cause\n　there's no Para-Mail for me!」"
+  },
+  {
+   "i": 160,
+   "speaker": "Крис",
+   "text": "「Розали…\n　Что это за «Хаузер»?」",
+   "orig": "Chris\n「Rosalie...\n　What's this Hauser?」"
+  },
+  {
+   "i": 161,
+   "speaker": "Розали",
+   "text": "「Мы готовили его к твоему возвращению.」",
+   "orig": "Rosalie\n「We got it ready for when you came home.」"
+  },
+  {
+   "i": 162,
+   "speaker": "Крис",
+   "text": "「Ну раз так, могли бы снарядить\n　его и получше…」",
+   "orig": "Chris\n「Well if that's the case, you could have \n　outfitted it a little better...」"
+  },
+  {
+   "i": 163,
+   "speaker": "Розали",
+   "text": "「Ты что-то сказала?」",
+   "orig": "Rosalie\n「Did you say something?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Крис",
+   "text": "「Ничего…」",
+   "orig": "Chris\n「Nothing...」"
+  },
+  {
+   "i": 165,
+   "speaker": "Хильда",
+   "text": "「Ну всё, пожалуй, хватит.\n　Явилась долгожданная Салия, владычица рыцарей!」",
+   "orig": "Hilda\n「Well, I think that's enough.\n　The long-awaited Salia, mistress of knights, is here!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Салия",
+   "text": "「Глупцы…」",
+   "orig": "Salia\n「You fools...」"
+  },
+  {
+   "i": 167,
+   "speaker": "Джилл",
+   "text": "「Не волнуйся, Салия.\n　Теперь тебе стоит беспокоиться только обо мне.」",
+   "orig": "Jill\n「Don't worry, Salia.\n　I'm the only one you have to worry about now.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Джилл",
+   "text": "「Этот бой займёт\n　от силы две минуты.」",
+   "orig": "Jill\n「This fight'll take\n　two minutes, max.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Салия",
+   "text": "「Алектра!」",
+   "orig": "Salia\n「Alektra!」"
+  },
+  {
+   "i": 170,
+   "speaker": "Синн",
+   "text": "「Салия…\n　Это же…」",
+   "orig": "Shinn\n「Salia...\n　That's...」"
+  },
+  {
+   "i": 171,
+   "speaker": "Джилл",
+   "text": "「Бывшая против нынешней!\n　Уверена, он бы с удовольствием на это посмотрел.」",
+   "orig": "Jill\n「The old girlfriend versus the new!\n　I bet he'd love to see this.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Джилл",
+   "text": "（Быстрее…）",
+   "orig": "Jill\n（Hurry...）"
+  },
+  {
+   "i": 173,
+   "speaker": "Салия",
+   "text": "「Что такое, «Клеопатра»?\n　Отзовись!」",
+   "orig": "Salia\n「What's wrong, Cleopatra?\n　Respond!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Джилл",
+   "text": "「Ты решила, что и правда стала\n　сильнее — лишь потому, что получила Рагна-Мейл?」",
+   "orig": "Jill\n「Did you think you'd really grown\n　so strong, just by getting a Ragna-Mail?」"
+  },
+  {
+   "i": 175,
+   "speaker": "Салия",
+   "text": "「Молчи, Алектра!」",
+   "orig": "Salia\n「Silence, Alektra!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Синн",
+   "text": "「Салия, прекрати это безобразие!」",
+   "orig": "Shinn\n「Salia, quit messing around!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Салия",
+   "text": "「Не лезь, Синн!\n　Кто дал тебе право вмешиваться в этот бой?」",
+   "orig": "Salia\n「Stay back, Shinn!\n　What gives you the right to intrude on this fight?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Синн",
+   "text": "「Потому что ты — точь-в-точь\n　такой, каким был я!」",
+   "orig": "Shinn\n「Because you are exactly\n　like how I used be!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Салия",
+   "text": "「Ч-что?」",
+   "orig": "Salia\n「Wh-what?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Синн",
+   "text": "「Когда-то я… мы с товарищами\n　едва не потеряли себя, гоняясь за чужой\n　справедливостью и чужой судьбой.」",
+   "orig": "Shinn\n「Before, I...my comrades and I\n　all but lost ourselves in the pursuit of someone else's\n　version of justice, someone else's destiny.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Атрун",
+   "text": "（Он про советника Дюрандаля и Рэя…）",
+   "orig": "Athrun\n（He must mean Councilman Durandal, and Rey...）"
+  },
+  {
+   "i": 182,
+   "speaker": "Синн",
+   "text": "「Но теперь я понимаю лучше!\n　Решать, как мне жить, могу только я сам!\n　И никто другой!」",
+   "orig": "Shinn\n「But I understand better now!\n　The only person who can decide how\n　I live my life is me! No one else!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Салия",
+   "text": "「Синн…」",
+   "orig": "Salia\n「Shinn...」"
+  },
+  {
+   "i": 184,
+   "speaker": "Синн",
+   "text": "「Так что послушай, Салия.\n　Забудь Джилл, забудь Эмбрио, забудь всех!\n　Не живи ради кого-то. Живи ради себя!」",
+   "orig": "Shinn\n「So, listen, Salia.\n　Forget Jill; forget Embryo; forget everyone!\n　Don't live for someone else. Live for yourself!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Салия",
+   "text": "「Но… я…」",
+   "orig": "Salia\n「But...I...」"
+  },
+  {
+   "i": 186,
+   "speaker": "Синн",
+   "text": "「Салия, прошу тебя!」",
+   "orig": "Shinn\n「Salia, please!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Салия",
+   "text": "「Господин Эмбрио дал мне всё!\n　Силу, любовь — всё!」",
+   "orig": "Salia\n「Lord Embryo gave me everything!\n　Strength, love, everything!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Джилл",
+   "text": "「Любовь, говоришь?」",
+   "orig": "Jill\n「Did you say love?」"
+  },
+  {
+   "i": 189,
+   "speaker": "Джилл",
+   "text": "「Этот человек никого не любит! Он просто даёт то,\n　чего ты якобы хочешь, чтобы ты слушалась!」",
+   "orig": "Jill\n「That man doesn't love anyone! He just gives you what \n　you think you want so you'll obey!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Салия",
+   "text": "「Нет!」",
+   "orig": "Salia\n「No!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Джилл",
+   "text": "「Он так же играл со мной, и я потеряла всё!\n　Открой глаза, Салия!」",
+   "orig": "Jill\n「He toyed with me the same way, and I lost everything!\n　Open your eyes, Salia!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Салия",
+   "text": "「Я уже сказала:\n　я не верю ни единому твоему слову.\n　Использовала меня только ты!」",
+   "orig": "Salia\n「I already told you,\n　I don't believe a word you say.\n　The only one who used me is you!」"
+  },
+  {
+   "i": 193,
+   "speaker": "Салия",
+   "text": "「Даже на «Клеопатре» мне тебя не одолеть?!」",
+   "orig": "Salia\n「I can't even take you down with Cleopatra?!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Джилл",
+   "text": "「Ты решила, что и правда стала\n　сильнее — лишь потому, что получила Рагна-Мейл?」",
+   "orig": "Jill\n「Did you think you'd really grown\n　so strong, just by getting a Ragna-Mail?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Салия",
+   "text": "「Молчи, Алектра!」",
+   "orig": "Salia\n「Silence, Alektra!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Синн",
+   "text": "「Салия, прекрати это безобразие!」",
+   "orig": "Shinn\n「Salia, quit messing around!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Салия",
+   "text": "「Не лезь, Синн!\n　Кто дал тебе право вмешиваться в этот бой?」",
+   "orig": "Salia\n「Stay back, Shinn!\n　What gives you the right to intrude on this fight?」"
+  },
+  {
+   "i": 198,
+   "speaker": "Синн",
+   "text": "「Потому что ты — точь-в-точь\n　такой, каким был я!」",
+   "orig": "Shinn\n「Because you are exactly\n　like how I used be!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Салия",
+   "text": "「Ч-что?」",
+   "orig": "Salia\n「Wh-what?」"
+  },
+  {
+   "i": 200,
+   "speaker": "Синн",
+   "text": "「Когда-то я… мы с товарищами\n　едва не потеряли себя, гоняясь за чужой\n　справедливостью и чужой судьбой.」",
+   "orig": "Shinn\n「Before, I...my comrades and I\n　all but lost ourselves in the pursuit of someone else's\n　version of justice, someone else's destiny.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Атрун",
+   "text": "（Он про советника Дюрандаля и Рэя…）",
+   "orig": "Athrun\n（He must mean Councilman Durandal, and Rey...）"
+  },
+  {
+   "i": 202,
+   "speaker": "Синн",
+   "text": "「Но теперь я понимаю лучше!\n　Решать, как мне жить, могу только я сам!\n　И никто другой!」",
+   "orig": "Shinn\n「But I understand better now!\n　The only person who can decide how\n　I live my life is me! No one else!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Салия",
+   "text": "「Синн…」",
+   "orig": "Salia\n「Shinn...」"
+  },
+  {
+   "i": 204,
+   "speaker": "Синн",
+   "text": "「Так что послушай, Салия.\n　Забудь Джилл, забудь Эмбрио, забудь всех!\n　Не живи ради кого-то. Живи ради себя!」",
+   "orig": "Shinn\n「So, listen, Salia.\n　Forget Jill; forget Embryo; forget everyone!\n　Don't live for someone else. Live for yourself!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Салия",
+   "text": "「Но… я…」",
+   "orig": "Salia\n「But...I...」"
+  },
+  {
+   "i": 206,
+   "speaker": "Синн",
+   "text": "「Салия, прошу тебя!」",
+   "orig": "Shinn\n「Salia, please!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Салия",
+   "text": "「Господин Эмбрио дал мне всё!\n　Силу, любовь — всё!」",
+   "orig": "Salia\n「Lord Embryo gave me everything!\n　Strength, love, everything!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Джилл",
+   "text": "「Любовь, говоришь?」",
+   "orig": "Jill\n「Did you say love?」"
+  },
+  {
+   "i": 209,
+   "speaker": "Джилл",
+   "text": "「Этот человек никого не любит! Он просто даёт то,\n　чего ты якобы хочешь, чтобы ты слушалась!」",
+   "orig": "Jill\n「That man doesn't love anyone! He just gives you what \n　you think you want so you'll obey!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Салия",
+   "text": "「Нет!」",
+   "orig": "Salia\n「No!」"
+  },
+  {
+   "i": 211,
+   "speaker": "Джилл",
+   "text": "「Он так же играл со мной, и я потеряла всё!\n　Открой глаза, Салия!」",
+   "orig": "Jill\n「He toyed with me the same way, and I lost everything!\n　Open your eyes, Salia!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Салия",
+   "text": "「Я уже сказала:\n　я не верю ни единому твоему слову.\n　Использовала меня только ты!」",
+   "orig": "Salia\n「I already told you,\n　I don't believe a word you say.\n　The only one who used me is you!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Салия",
+   "text": "「У меня ничего не было.」",
+   "orig": "Salia\n「I didn't have anything.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Салия",
+   "text": "「Я не принцесса! Я не знала той песни!\n　Что бы я ни делала, меня отвергали…\n　и «Вилькисс», и ты!」",
+   "orig": "Salia\n「I wasn't a princess! I didn't know the song!\n　No matter what I did, I was rejected...\n　by Villkiss, and by you!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Салия",
+   "text": "「И всё же господин Эмбрио выбрал меня!\n　Вот почему, Алектра…\n　ты нам больше не нужна!」",
+   "orig": "Salia\n「But even then, Lord Embryo chose me!\n　And that's the reason, Alektra...\n　We don't need you anymore!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Харри",
+   "text": "「Есть вести от сержанта Сагары!\n　Ему удалось вызволить\n　и Анж, и Канамэ!」",
+   "orig": "Harry\n「We've had word from Sergeant Sagara!\n　He's succeeded in freeing both\n　Ange and Kaname!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Юрика",
+   "text": "「Вот видите, любовь и правда побеждает всё!」",
+   "orig": "Yurika\n「And love truly conquers all!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Рури",
+   "text": "「Значит, осталось только\n　победить Эмбрио и вернуть Ауру.」",
+   "orig": "Ruri\n「Then all that's left to finish up is\n　to defeat Embryo and recapture the Aura.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Анж",
+   "text": "「Похоже, от погони мы оторвались.」",
+   "orig": "Ange\n「It appears we've lost our pursuers.」"
+  },
+  {
+   "i": 220,
+   "speaker": "Момока",
+   "text": "「Ещё рано, госпожа Анжелиза!」",
+   "orig": "Momoka\n「Not yet, Lady Angelise!」"
+  },
+  {
+   "i": 221,
+   "speaker": "Мирный житель",
+   "text": "「А-Анжелиза!」",
+   "orig": "Civilian\n「A-Angelise!」"
+  },
+  {
+   "i": 222,
+   "speaker": "Мирный житель",
+   "text": "「Это ты!\n　С тех пор как мы узнали, что ты выродок,\n　страна покатилась ко всем чертям!」",
+   "orig": "Civilian\n「It's you!\n　Ever since we found out you were a freak,\n　this country has gone to hell!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Мирный житель",
+   "text": "「Это всё из-за тебя!\n　Если бы не ты!」",
+   "orig": "Civilian\n「It's your fault!\n　If it hadn't been for you!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Момока",
+   "text": "「О чём вы вообще говорите?」",
+   "orig": "Momoka\n「What are you all talking about?」"
+  },
+  {
+   "i": 225,
+   "speaker": "Анж",
+   "text": "「Что им ни скажи, Момока, всё без толку.\n　Это свиньи, которые отреклись\n　от разума и здравого смысла.」",
+   "orig": "Ange\n「It doesn't matter what you say, Momoka.\n　They're pigs who've abandoned\n　all reason and rationality.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Мирный житель",
+   "text": "「Это мы-то свиньи?!」",
+   "orig": "Civilian\n「Pigs, are we?!」"
+  },
+  {
+   "i": 227,
+   "speaker": "Анж",
+   "text": "「Вы мне мешаете.」",
+   "orig": "Ange\n「You're in my way.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Мирный житель",
+   "text": "「И-ик!」",
+   "orig": "Civilian\n「Eep!」"
+  },
+  {
+   "i": 229,
+   "speaker": "Анж",
+   "text": "「Пистолет чужой, вот я и промахнулась.\n　В следующий раз не промажу.」",
+   "orig": "Ange\n「This isn't my gun, so my aim was off.\n　Next time, I won't miss.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Мирный житель",
+   "text": "「Т-ты... ты что, правда...」",
+   "orig": "Civilian\n「Y-you...you just...」"
+  },
+  {
+   "i": 231,
+   "speaker": "Анж",
+   "text": "「Я никому не позволю стоять у меня на пути.」",
+   "orig": "Ange\n「I don't let anyone stand in my way.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Анж",
+   "text": "「Если до ваших тупых голов это дошло —\n　убирайтесь отсюда ко всем чертям!」",
+   "orig": "Ange\n「If you can get that through your big fat head,\n　then get the hell out of here!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Мирный житель",
+   "text": "「Гья-а-а-а-а!」",
+   "orig": "Civilian\n「Gyaaaaaah!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Анж",
+   "text": "「Да чтоб вас...\n　Такие же мерзкие, как и всегда.」",
+   "orig": "Ange\n「For Pete's sake...\n　They're as terrible as ever.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Момока",
+   "text": "「Это было великолепно, госпожа Анжелиза!」",
+   "orig": "Momoka\n「That was wonderful, Lady Angelise!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Анж",
+   "text": "「Спасибо, Момока.」",
+   "orig": "Ange\n「Thank you, Momoka.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Анж",
+   "text": "「Присмотри за Канамэ, хорошо?」",
+   "orig": "Ange\n「Take care of Kaname, OK?」"
+  },
+  {
+   "i": 238,
+   "speaker": "Момока",
+   "text": "「Госпожа Анжелиза, что вы делаете?」",
+   "orig": "Momoka\n「Lady Angelise, what are you doing?」"
+  },
+  {
+   "i": 239,
+   "speaker": "Анж",
+   "text": "「Зову «Вилькисс»!」",
+   "orig": "Ange\n「I'm calling Villkiss!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Момока",
+   "text": "「Н-но ведь «Вилькисс» лежит\n　на дне моря!」",
+   "orig": "Momoka\n「B-but Villkiss sank\n　to the bottom of the sea!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Анж",
+   "text": "「Если он не является, когда хозяйка в беде,\n　то ему прямая дорога на свалку!」",
+   "orig": "Ange\n「If it won't show up when its master's in trouble, \n　then it's time for the garbage heap!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Анж",
+   "text": "「Вот ты где, «Вилькисс»!\n　Умница...」",
+   "orig": "Ange\n「There you are, Villkiss!\n　Good girl...」"
+  },
+  {
+   "i": 243,
+   "speaker": "Соскэ",
+   "text": "「Берегись, Анж!\n　Салия идёт на тебя!」",
+   "orig": "Sousuke\n「Watch out, Ange!\n　Salia's coming!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Салия",
+   "text": "「Анж!」",
+   "orig": "Salia\n「Ange!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Анж",
+   "text": "「Ты!」",
+   "orig": "Ange\n「You!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Салия",
+   "text": "「Гах!」",
+   "orig": "Salia\n「Gah!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Анж",
+   "text": "「В благодарность за то, что ты меня отпустила,\n　убивать тебя я пока не стану.」",
+   "orig": "Ange\n「As thanks for letting me go, \n　I'll refrain from killing you now.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Таск",
+   "text": "「Анж, что это за костюм?」",
+   "orig": "Tusk\n「Ange, what's that suit?」"
+  },
+  {
+   "i": 249,
+   "speaker": "Анж",
+   "text": "「Похоже, «Вилькисс» сам его сделал!」",
+   "orig": "Ange\n「It looks like Villkiss had it made!」"
+  },
+  {
+   "i": 250,
+   "speaker": "Ал",
+   "text": "「Вот это полезный робот...」",
+   "orig": "Al\n「Now that's a handy robot...」"
+  },
+  {
+   "i": 251,
+   "speaker": "Соскэ",
+   "text": "「Тебе бы у него поучиться...」",
+   "orig": "Sousuke\n「You could learn a thing or two...」"
+  },
+  {
+   "i": 252,
+   "speaker": "Салия",
+   "text": "「Анж!」",
+   "orig": "Salia\n「Ange!」"
+  },
+  {
+   "i": 253,
+   "speaker": "Салия",
+   "text": "「Аргх!」",
+   "orig": "Salia\n「Argh!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Анж",
+   "text": "「Вот ты где!」",
+   "orig": "Ange\n「There you are!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 256,
+   "speaker": "Эмбрио",
+   "text": "「Похоже, пока меня не было,\n　дела приняли совсем иной оборот!」",
+   "orig": "Embryo\n「It looks like things have \n　really taken a turn while I was away!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Салия",
+   "text": "「Господин Эмбрио!\n　Почему вы ударили и по мне тоже?」",
+   "orig": "Salia\n「Lord Embryo!\n　Why did you attack me, as well?」"
+  },
+  {
+   "i": 258,
+   "speaker": "Эмбрио",
+   "text": "「Почему? Я всего лишь покарал рыцаря,\n　не справившегося со своей задачей!」",
+   "orig": "Embryo\n「Why? I was merely punishing \n　a knight who failed her mission!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Салия",
+   "text": "「Вы бросаете меня?!」",
+   "orig": "Salia\n「Are you abandoning me?!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Эмбрио",
+   "text": "「Ты не сумела как должно распорядиться данной мной силой.\n　Такой мусор мне ни к чему.」",
+   "orig": "Embryo\n「You were unable to properly wield the power I gave you.\n　I have no use for such trash.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Салия",
+   "text": "「Как вы могли...」",
+   "orig": "Salia\n「How could you...」"
+  },
+  {
+   "i": 262,
+   "speaker": "Джибрил",
+   "text": "「Господин Эмбрио!\n　Покарайте этих глупцов!」",
+   "orig": "Djibril\n「Lord Embryo!\n　Punish these fools!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Джибрил",
+   "text": "「А вместе с ними — и весь этот мир!\n　Пересоздайте его чистым и справедливым!」",
+   "orig": "Djibril\n「And this whole world with them!\n　Remake it into a pure, just place!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Синн",
+   "text": "「Господин Джибрил!」",
+   "orig": "Shinn\n「Lord Djibril!」"
+  },
+  {
+   "i": 265,
+   "speaker": "Эмбрио",
+   "text": "「Что ж, хорошо, Джибрил.\n　Я покараю глупцов, как ты и просишь.」",
+   "orig": "Embryo\n「Very well then, Djibril.\n　I will punish the fools, as you ask.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Джибрил",
+   "text": "「Ч-что это такое?!」",
+   "orig": "Djibril\n「W-what is this?!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Эмбрио",
+   "text": "「Я избавляюсь от слабых и глупых!」",
+   "orig": "Embryo\n「I am eliminating the weak and foolish!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Джибрил",
+   "text": "「Э-этого не может быть!!」",
+   "orig": "Djibril\n「Th-this can't be!!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Лакус",
+   "text": "「До самого конца он так и не понял,\n　что был всего лишь марионеткой...」",
+   "orig": "Lacus\n「To the very end he never realized\n　he was nothing but a puppet...」"
+  },
+  {
+   "i": 270,
+   "speaker": "Джилл",
+   "text": "「Теперь ты видишь, Салия?\n　Вот истинное лицо Эмбрио!」",
+   "orig": "Jill\n「Do you see now, Salia?\n　That is Embryo's true face!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Эмбрио",
+   "text": "「Хе-хе. Алектра, похоже, ты всплыла\n　из бездны отчаяния!」",
+   "orig": "Embryo\n「Heheh. Alektra, it looks like you have\n　resurfaced from the abyss of despair!」"
+  },
+  {
+   "i": 272,
+   "speaker": "Джилл",
+   "text": "「Проиграть было бы несравнимо хуже,\n　чем сгинуть в отчаянии.」",
+   "orig": "Jill\n「To end up losing would be far and away\n　worse than fading into despair.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Джилл",
+   "text": "「Салия...\n　Это последнее, что я тебе скажу.」",
+   "orig": "Jill\n「Salia...\n　This is the last thing I will say.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Джилл",
+   "text": "「Сражайся!\n　И живи!」",
+   "orig": "Jill\n「Fight!\n　And live!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Салия",
+   "text": "「Жить?」",
+   "orig": "Salia\n「Live?」"
+  },
+  {
+   "i": 276,
+   "speaker": "Эмбрио",
+   "text": "「Алектра!\n　Бывшие подружки мне ни к чему.」",
+   "orig": "Embryo\n「Alektra!\n　I have no use for old girlfriends.」"
+  },
+  {
+   "i": 277,
+   "speaker": "Салия",
+   "text": "「Алектра!」",
+   "orig": "Salia\n「Alektra!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Джилл",
+   "text": "「Салия!」",
+   "orig": "Jill\n「Salia!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Салия",
+   "text": "「Я цела!\n　«Клеопатра» крепкая машина!」",
+   "orig": "Salia\n「I'm OK!\n　Cleopatra is tough!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Хильда",
+   "text": "「Вы только поглядите!」",
+   "orig": "Hilda\n「Look at that!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Салия",
+   "text": "「Спасибо тебе, «Клеопатра».\n　Ты придала моим чувствам форму...」",
+   "orig": "Salia\n「Thank you, Cleopatra.\n　You put a shape to my feelings...」"
+  },
+  {
+   "i": 282,
+   "speaker": "Анж",
+   "text": "「Поздравляю, Салия! Наконец-то ты получила\n　трансформацию, о которой всегда мечтала!」",
+   "orig": "Ange\n「Good for you, Salia! You finally got \n　the transformation you've always wanted!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Салия",
+   "text": "「Замолчи, Анж!」",
+   "orig": "Salia\n「Shut up, Ange!」"
+  },
+  {
+   "i": 284,
+   "speaker": "Салия",
+   "text": "「Но... ты права.」",
+   "orig": "Salia\n「But...you are right.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Синн",
+   "text": "「Салия!」",
+   "orig": "Shinn\n「Salia!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Салия",
+   "text": "「Тебе я тоже обязана, Синн.\n　Так что спасибо.」",
+   "orig": "Salia\n「I owe you thanks, too, Shinn.\n　So, thank you.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Эмбрио",
+   "text": "「Салия!\n　Ты всё же пробудила истинную мощь «Клеопатры»!」",
+   "orig": "Embryo\n「Salia!\n　You finally called up Cleopatra's true power!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Хильда",
+   "text": "「Вперёд, «Теодора»!\n　Не дадим Салии нас затмить!」",
+   "orig": "Hilda\n「Let's go, Theodra!\n　We can't let Salia show us up!」"
+  },
+  {
+   "i": 289,
+   "speaker": "Хильда",
+   "text": "「О, а ты мне нравишься!\n　Так послушно отзываешься!」",
+   "orig": "Hilda\n「Oh, I think I like you!\n　You're responding so well!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Крис",
+   "text": "「Но ведь... это был мой «Рагна-Мэйл»!」",
+   "orig": "Chris\n「But...that was my Ragna-Mail!」"
+  },
+  {
+   "i": 291,
+   "speaker": "Розали",
+   "text": "「Так ты же сама отдала его Хильде, разве нет?」",
+   "orig": "Rosalie\n「But you gave it to Hilda, didn't you?」"
+  },
+  {
+   "i": 292,
+   "speaker": "Эмбрио",
+   "text": "「Теперь и «Теодора» обратилась против меня?!」",
+   "orig": "Embryo\n「Now even Theodra is turning on me?!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Соскэ",
+   "text": "「И не только они.」",
+   "orig": "Sousuke\n「And not only them.」"
+  },
+  {
+   "i": 294,
+   "speaker": "Синн",
+   "text": "「Мы больше не позволим такому человеку,\n　как ты, творить всё, что вздумается.」",
+   "orig": "Shinn\n「There's no way we could let a man like you\n　just do what he wants anymore.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Сэцуна",
+   "text": "「Ты хочешь править вселенной из тени!」",
+   "orig": "Setsuna\n「You want to control the universe from the shadows!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Акито",
+   "text": "「Чудовище! Пришло время\n　покончить с твоими планами навсегда!」",
+   "orig": "Akito\n「You monster! It's time\n　to end your plans for good!」"
+  },
+  {
+   "i": 297,
+   "speaker": "Эмбрио",
+   "text": "「Мои собственные слуги?」",
+   "orig": "Embryo\n「My own servants?」"
+  },
+  {
+   "i": 298,
+   "speaker": "Анж",
+   "text": "「Тебя прикончат те самые люди,\n　что когда-то клялись тебе служить!」",
+   "orig": "Ange\n「You're going to be done in by people\n　who once swore to serve you!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Саламандинай",
+   "text": "「Будем сражаться, Анж!\n　Чтобы спасти мир!」",
+   "orig": "Salamandinay\n「Let's fight, Ange!\n　To save the world!」"
+  },
+  {
+   "i": 300,
+   "speaker": "Анж",
+   "text": "「Нет, Сала, я просто\n　не могу стерпеть, когда этот извращенец\n　делает с людьми что хочет. Вот за что я дерусь!」",
+   "orig": "Ange\n「No, Sala, I just can't\n　stand to let that pervert\n　do what he wants to people. That's why I'm fighting!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Эмбрио",
+   "text": "「Анж...\n　Даже для тебя это уже слишком.」",
+   "orig": "Embryo\n「Ange...\n　You've gone too far, even for you.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Анж",
+   "text": "「Довольно, Эмбрио!\n　Мы разрушим все твои планы\n　прежде, чем ты навредишь этой вселенной.」",
+   "orig": "Ange\n「Enough, Embryo!\n　We're going to destroy all your plans\n　before you can harm this universe.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Анж",
+   "text": "「Ты не будешь творить что вздумается —\n　ни с этим миром, ни со мной!」",
+   "orig": "Ange\n「You can't just do what you want,\n　not with the world, and not with me!」"
+  },
+  {
+   "i": 304,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Эмбрио",
+   "text": "「Похоже, пока меня не было,\n　дела приняли совсем иной оборот!」",
+   "orig": "Embryo\n「It looks like things have \n　really taken a turn while I was away!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Салия",
+   "text": "「Господин Эмбрио!\n　Почему вы ударили и по мне тоже?」",
+   "orig": "Salia\n「Lord Embryo!\n　Why did you attack me, as well?」"
+  },
+  {
+   "i": 307,
+   "speaker": "Эмбрио",
+   "text": "「Почему? Я всего лишь покарал рыцаря,\n　не справившегося со своей задачей!」",
+   "orig": "Embryo\n「Why? I was merely punishing \n　a knight who failed her mission!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Салия",
+   "text": "「Вы бросаете меня?!」",
+   "orig": "Salia\n「Are you abandoning me?!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Эмбрио",
+   "text": "「Ты не сумела как должно распорядиться данной мной силой.\n　Такой мусор мне ни к чему.」",
+   "orig": "Embryo\n「You were unable to properly wield the power I gave you.\n　I have no use for such trash.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Салия",
+   "text": "「Как вы могли...」",
+   "orig": "Salia\n「How could you...」"
+  },
+  {
+   "i": 311,
+   "speaker": "Джибрил",
+   "text": "「Господин Эмбрио!\n　Покарайте этих глупцов!」",
+   "orig": "Djibril\n「Lord Embryo!\n　Punish these fools!」"
+  },
+  {
+   "i": 312,
+   "speaker": "Джибрил",
+   "text": "「А вместе с ними — и весь этот мир!\n　Пересоздайте его чистым и справедливым!」",
+   "orig": "Djibril\n「And this whole world with them!\n　Remake it into a pure, just place!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Синн",
+   "text": "「Господин Джибрил!」",
+   "orig": "Shinn\n「Lord Djibril!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Эмбрио",
+   "text": "「Что ж, хорошо, Джибрил.\n　Я покараю глупцов, как ты и просишь.」",
+   "orig": "Embryo\n「Very well then, Djibril.\n　I will punish the fools, as you ask.」"
+  },
+  {
+   "i": 315,
+   "speaker": "Джибрил",
+   "text": "「Ч-что это такое?!」",
+   "orig": "Djibril\n「W-what is this?!」"
+  },
+  {
+   "i": 316,
+   "speaker": "Эмбрио",
+   "text": "「Я избавляюсь от слабых и глупых!」",
+   "orig": "Embryo\n「I am eliminating the weak and foolish!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Джибрил",
+   "text": "「Э-этого не может быть!!」",
+   "orig": "Djibril\n「Th-this can't be!!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Лакус",
+   "text": "「До самого конца он так и не понял,\n　что был всего лишь марионеткой...」",
+   "orig": "Lacus\n「To the very end he never realized\n　he was nothing but a puppet...」"
+  },
+  {
+   "i": 319,
+   "speaker": "Джилл",
+   "text": "「Теперь ты видишь, Салия?\n　Вот истинное лицо Эмбрио!」",
+   "orig": "Jill\n「Do you see now, Salia?\n　That is Embryo's true face!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Эмбрио",
+   "text": "「Хе-хе. Алектра, похоже, ты всплыла\n　из бездны отчаяния!」",
+   "orig": "Embryo\n「Heheh. Alektra, it looks like you have\n　resurfaced from the abyss of despair!」"
+  },
+  {
+   "i": 321,
+   "speaker": "Джилл",
+   "text": "「Проиграть было бы несравнимо хуже,\n　чем сгинуть в отчаянии.」",
+   "orig": "Jill\n「To end up losing would be far and away\n　worse than fading into despair.」"
+  },
+  {
+   "i": 322,
+   "speaker": "Эмбрио",
+   "text": "「Тогда я причиню тебе высшую боль.」",
+   "orig": "Embryo\n「Then I will give you the ultimate pain.」"
+  },
+  {
+   "i": 323,
+   "speaker": "Эмбрио",
+   "text": "「Я убью твою драгоценную солдатку!」",
+   "orig": "Embryo\n「I will kill your darling soldier!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Джилл",
+   "text": "「Нет!」",
+   "orig": "Jill\n「No!」"
+  },
+  {
+   "i": 325,
+   "speaker": "Салия",
+   "text": "「Алектра!」",
+   "orig": "Salia\n「Alektra!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Джилл",
+   "text": "「Ты цела... Салия... Хорошо...」",
+   "orig": "Jill\n「You're fine...Salia... Good...」"
+  },
+  {
+   "i": 327,
+   "speaker": "Салия",
+   "text": "「Ты спасла меня...」",
+   "orig": "Salia\n「You saved me...」"
+  },
+  {
+   "i": 328,
+   "speaker": "Джилл",
+   "text": "「Похоже... хоть что-то доброе я всё же сделала...」",
+   "orig": "Jill\n「It looks like...I finally did some good...」"
+  },
+  {
+   "i": 329,
+   "speaker": "Салия",
+   "text": "「Прости меня, Алектра...」",
+   "orig": "Salia\n「I'm so sorry, Alektra...」"
+  },
+  {
+   "i": 330,
+   "speaker": "Джилл",
+   "text": "「Мы... и правда... похожи...\n　Мы... могли бы быть сёстрами...」",
+   "orig": "Jill\n「We...really are...alike...\n　We...could be sisters...」"
+  },
+  {
+   "i": 331,
+   "speaker": "Джилл",
+   "text": "「Обе слишком стараемся... слишком плачем... слишком думаем...\n　Даже вкус на мужчин у нас одинаково дурной.」",
+   "orig": "Jill\n「We both try too hard...cry too much...think too much...\n　We even have the same bad taste in men.」"
+  },
+  {
+   "i": 332,
+   "speaker": "Джилл",
+   "text": "「Потому я и не хотела втягивать тебя в это.\n　Прости... что тебе пришлось страдать...」",
+   "orig": "Jill\n「That's why I didn't want you to get caught up in this.\n　I'm sorry...you had to suffer...」"
+  },
+  {
+   "i": 333,
+   "speaker": "Салия",
+   "text": "「Алектра!」",
+   "orig": "Salia\n「Alektra!」"
+  },
+  {
+   "i": 334,
+   "speaker": "Джилл",
+   "text": "「Салия...\n　Это последнее, что я тебе скажу.」",
+   "orig": "Jill\n「Salia...\n　This is the last thing I will say.」"
+  },
+  {
+   "i": 335,
+   "speaker": "Джилл",
+   "text": "「Сражайся!\n　И живи!」",
+   "orig": "Jill\n「Fight!\n　And live!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Салия",
+   "text": "「Жить...」",
+   "orig": "Salia\n「Live...」"
+  },
+  {
+   "i": 337,
+   "speaker": "Джилл",
+   "text": "「Не сдавайся, Салия.」",
+   "orig": "Jill\n「Don't give up, Salia.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Сумераги",
+   "text": "「Джилл!」",
+   "orig": "Sumeragi\n「Jill!」"
+  },
+  {
+   "i": 339,
+   "speaker": "Вивиан",
+   "text": "「Командир... не может быть...」",
+   "orig": "Vivian\n「Commander...it can't be...」"
+  },
+  {
+   "i": 340,
+   "speaker": "Салия",
+   "text": "「Алектра!!」",
+   "orig": "Salia\n「Alektra!!」"
+  },
+  {
+   "i": 341,
+   "speaker": "Эмбрио",
+   "text": "「Тебе, должно быть, так горько, Салия.\n　Позволь мне тебя утешить.」",
+   "orig": "Embryo\n「You must be so sad, Salia.\n　Let me comfort you.」"
+  },
+  {
+   "i": 342,
+   "speaker": "Эмбрио",
+   "text": "「Я спасу твою душу...」",
+   "orig": "Embryo\n「I will save your soul...」"
+  },
+  {
+   "i": 343,
+   "speaker": "Салия",
+   "text": "「Замолчи, Эмбрио!!」",
+   "orig": "Salia\n「Be quiet, Embryo!!」"
+  },
+  {
+   "i": 344,
+   "speaker": "Хильда",
+   "text": "「Вы только поглядите!」",
+   "orig": "Hilda\n「Look at that!」"
+  },
+  {
+   "i": 345,
+   "speaker": "Салия",
+   "text": "「Спасибо тебе, «Клеопатра».\n　Ты придала моим чувствам форму...」",
+   "orig": "Salia\n「Thank you, Cleopatra.\n　You put a shape to my feelings...」"
+  },
+  {
+   "i": 346,
+   "speaker": "Салия",
+   "text": "「Одолжи мне свою силу!\n　Чтобы мы исполнили последнюю волю Алектры...」",
+   "orig": "Salia\n「Lend me your strength!\n　So that we can fulfill Alektra's dying wish...」"
+  },
+  {
+   "i": 347,
+   "speaker": "Анж",
+   "text": "「Салия...」",
+   "orig": "Ange\n「Salia...」"
+  },
+  {
+   "i": 348,
+   "speaker": "Синн",
+   "text": "「Вперёд, Салия!\n　За Джилл и за себя!」",
+   "orig": "Shinn\n「Let's go, Salia!\n　For Jill, and for you!」"
+  },
+  {
+   "i": 349,
+   "speaker": "Салия",
+   "text": "「Теперь я понимаю, Синн!\n　Больше я не дрогну!」",
+   "orig": "Salia\n「I understand now, Shinn!\n　I won't waver anymore!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Эмбрио",
+   "text": "「Салия!\n　Ты всё же пробудила истинную мощь «Клеопатры»!」",
+   "orig": "Embryo\n「Salia!\n　You finally called up Cleopatra's true power!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Хильда",
+   "text": "「Вперёд, «Теодора»!\n　Не дадим Салии нас затмить!」",
+   "orig": "Hilda\n「Let's go, Theodra!\n　We can't let Salia show us up!」"
+  },
+  {
+   "i": 352,
+   "speaker": "Хильда",
+   "text": "「О, а ты мне нравишься!\n　Так послушно отзываешься!」",
+   "orig": "Hilda\n「Oh, I think I like you!\n　You're responding so well!」"
+  },
+  {
+   "i": 353,
+   "speaker": "Крис",
+   "text": "「Но ведь... это был мой «Рагна-Мэйл»!」",
+   "orig": "Chris\n「But...that was my Ragna-Mail!」"
+  },
+  {
+   "i": 354,
+   "speaker": "Розали",
+   "text": "「Так ты же сама отдала его Хильде, разве нет?」",
+   "orig": "Rosalie\n「But you gave it to Hilda, didn't you?」"
+  },
+  {
+   "i": 355,
+   "speaker": "Эмбрио",
+   "text": "「Теперь и «Теодора» обратилась против меня?!」",
+   "orig": "Embryo\n「Now even Theodra is turning on me?!」"
+  },
+  {
+   "i": 356,
+   "speaker": "Соскэ",
+   "text": "「И не только они.」",
+   "orig": "Sousuke\n「And not only them.」"
+  },
+  {
+   "i": 357,
+   "speaker": "Синн",
+   "text": "「Мы больше не позволим такому человеку,\n　как ты, творить всё, что вздумается.」",
+   "orig": "Shinn\n「There's no way we could let a man like you\n　just do what he wants anymore.」"
+  },
+  {
+   "i": 358,
+   "speaker": "Сэцуна",
+   "text": "「Ты хочешь править вселенной из тени!」",
+   "orig": "Setsuna\n「You want to control the universe from the shadows!」"
+  },
+  {
+   "i": 359,
+   "speaker": "Акито",
+   "text": "「Чудовище! Пришло время\n　покончить с твоими планами навсегда!」",
+   "orig": "Akito\n「You monster! It's time\n　to end your plans for good!」"
+  },
+  {
+   "i": 360,
+   "speaker": "Эмбрио",
+   "text": "「Мои собственные слуги?」",
+   "orig": "Embryo\n「My own servants?」"
+  },
+  {
+   "i": 361,
+   "speaker": "Анж",
+   "text": "「Тебя прикончат те самые люди,\n　что когда-то клялись тебе служить!」",
+   "orig": "Ange\n「You're going to be done in by people\n　who once swore to serve you!」"
+  },
+  {
+   "i": 362,
+   "speaker": "Саламандинай",
+   "text": "「Будем сражаться, Анж!\n　Чтобы спасти мир!」",
+   "orig": "Salamandinay\n「Let's fight, Ange!\n　To save the world!」"
+  },
+  {
+   "i": 363,
+   "speaker": "Анж",
+   "text": "「Нет, Сала, я дерусь потому,\n　что просто не могу стерпеть, когда\n　этот извращенец делает с людьми что хочет.」",
+   "orig": "Ange\n「No, Sala, I'm fighting because I\n　just can't stand to let that pervert\n　do what he wants to people.」"
+  },
+  {
+   "i": 364,
+   "speaker": "Эмбрио",
+   "text": "「Анж...\n　Даже для тебя это уже слишком.」",
+   "orig": "Embryo\n「Ange...\n　You've gone too far, even for you.」"
+  },
+  {
+   "i": 365,
+   "speaker": "Анж",
+   "text": "「Довольно, Эмбрио!\n　Мы разрушим все твои планы\n　прежде, чем ты навредишь этой вселенной.」",
+   "orig": "Ange\n「Enough, Embryo!\n　We're going to destroy all your plans\n　before you can harm this universe.」"
+  },
+  {
+   "i": 366,
+   "speaker": "Анж",
+   "text": "「Ты не будешь творить что вздумается —\n　ни с этим миром, ни со мной!」",
+   "orig": "Ange\n「You can't just do what you want,\n　not with the world, and not with me!」"
+  },
+  {
+   "i": 367,
+   "speaker": "Эмбрио",
+   "text": "「Этого... не может быть...」",
+   "orig": "Embryo\n「This...can't be...」"
+  },
+  {
+   "i": 368,
+   "speaker": "Анж",
+   "text": "「Тебе конец, Эмбрио.」",
+   "orig": "Ange\n「You're done for, Embryo.」"
+  },
+  {
+   "i": 369,
+   "speaker": "Эмбрио",
+   "text": "「Ничто... не остановит мой замысел...!」",
+   "orig": "Embryo\n「Nothing...can stop my plan...!」"
+  },
+  {
+   "i": 370,
+   "speaker": "Таск",
+   "text": "「У тебя получилось, Анж!」",
+   "orig": "Tusk\n「You did it, Ange!」"
+  },
+  {
+   "i": 371,
+   "speaker": "Анж",
+   "text": "「Эмбрио...\n　Я не стану такой, как ты предрекал.」",
+   "orig": "Ange\n「Embryo...\n　I won't become like you said.」"
+  },
+  {
+   "i": 372,
+   "speaker": "Сумераги",
+   "text": "「И теперь мир свободен!」",
+   "orig": "Sumeragi\n「And now the world is free!」"
+  },
+  {
+   "i": 373,
+   "speaker": "Тиерия",
+   "text": "「И мы на шаг ближе к миру,\n　каким его видел Аэолия Шенберг!」",
+   "orig": "Tieria\n「And we come one step closer \n　to the world Aeolia Schenberg envisioned!」"
+  },
+  {
+   "i": 374,
+   "speaker": "Рури",
+   "text": "「Хм-м...」",
+   "orig": "Ruri\n「Hmmm...」"
+  },
+  {
+   "i": 375,
+   "speaker": "Юрика",
+   "text": "「Что такое, Рури?」",
+   "orig": "Yurika\n「What's wrong, Ruri?」"
+  },
+  {
+   "i": 376,
+   "speaker": "Рури",
+   "text": "「Почему при всём его могуществе\n　власть Эмбрио над миром была\n　такой... неполной?」",
+   "orig": "Ruri\n「Why, with all of that power,\n　was Embryo's control over\n　the world so...incomplete?」"
+  },
+  {
+   "i": 377,
+   "speaker": "Харри",
+   "text": "「А ведь и правда странно...\n　Будь у него полная власть над миром,\n　он мог бы оставить Арзенал совсем беспомощным.」",
+   "orig": "Harry\n「Now that you mention it, that is odd...\n　If he had complete control over the world,\n　he could have made Arzenal totally helpless.」"
+  },
+  {
+   "i": 378,
+   "speaker": "Юрика",
+   "text": "「Может, ему нравилось щекотать нервы?\n　Говорят, все злые гении такие.」",
+   "orig": "Yurika\n「Maybe he enjoyed the thrill?\n　You know, they say evil masterminds are like that.」"
+  },
+  {
+   "i": 379,
+   "speaker": "Рури",
+   "text": "「Может, и так...」",
+   "orig": "Ruri\n「Maybe that's it...」"
+  },
+  {
+   "i": 380,
+   "speaker": "Леонард",
+   "text": "「Так вот чего ты добивался, Эмбрио?」",
+   "orig": "Leonard\n「Is that what you were after, Embryo?」"
+  },
+  {
+   "i": 381,
+   "speaker": "Леонард",
+   "text": "「Но...」",
+   "orig": "Leonard\n「But...」"
+  },
+  {
+   "i": 382,
+   "speaker": "Анж",
+   "text": "「Что происходит?!」",
+   "orig": "Ange\n「What's going on?!」"
+  },
+  {
+   "i": 383,
+   "speaker": "Найн",
+   "text": "「Мерный горизонт искривляется у Столпа Рассвета!」",
+   "orig": "Nine\n「The dimensional horizon is bending at the Pillar of Dawn!」"
+  },
+  {
+   "i": 384,
+   "speaker": "$n",
+   "text": "「Эмбрио, сволочь, это что,\n　твой прощальный подарок?」",
+   "orig": "$n\n「Embryo, you bastard, is this\n　your idea of a parting gift?」"
+  },
+  {
+   "i": 385,
+   "speaker": "Таск",
+   "text": "「Мир... будет уничтожен...」",
+   "orig": "Tusk\n「The world...will be destroyed...」"
+  },
+  {
+   "i": 386,
+   "speaker": "Акито",
+   "text": "「Неужели мы совсем ничего не можем сделать?」",
+   "orig": "Akito\n「Isn't there anything we can do?」"
+  },
+  {
+   "i": 387,
+   "speaker": "Анж",
+   "text": "「Эмбрио говорил, что собирается силой Ауры\n　слить все измерения в одно...」",
+   "orig": "Ange\n「Embryo said we was going to use the \n　power of Aura to unite the dimensions into one...」"
+  },
+  {
+   "i": 388,
+   "speaker": "Саламандинай",
+   "text": "「Нельзя использовать силу Ауры\n　ради чего-то подобного!」",
+   "orig": "Salamandinay\n「We mustn't use the power\n　of Aura for something like that!」"
+  },
+  {
+   "i": 389,
+   "speaker": "Анж",
+   "text": "「Это наш единственный шанс!」",
+   "orig": "Ange\n「It's our only chance!」"
+  },
+  {
+   "i": 390,
+   "speaker": "Анж",
+   "text": "「Что происходит?!」",
+   "orig": "Ange\n「What's going on?!」"
+  },
+  {
+   "i": 391,
+   "speaker": "Найн",
+   "text": "「Мерная стена искривляется у Столпа Рассвета!」",
+   "orig": "Nine\n「The dimensional wall is bending at the Pillar of Dawn!」"
+  },
+  {
+   "i": 392,
+   "speaker": "$n",
+   "text": "「Эмбрио всё ещё сражается с нами?」",
+   "orig": "$n\n「Is Embryo still fighting us?」"
+  },
+  {
+   "i": 393,
+   "speaker": "Таск",
+   "text": "「Мир... будет уничтожен...」",
+   "orig": "Tusk\n「The world...will be destroyed...」"
+  },
+  {
+   "i": 394,
+   "speaker": "Синн",
+   "text": "「Неужели мы совсем ничего не можем сделать?」",
+   "orig": "Shinn\n「Isn't there anything we can do?」"
+  },
+  {
+   "i": 395,
+   "speaker": "Анж",
+   "text": "「Эмбрио говорил, что собирается силой Ауры\n　слить все вселенные в одну...」",
+   "orig": "Ange\n「Embryo said we was going to use the \n　power of Aura to unite the universes into one...」"
+  },
+  {
+   "i": 396,
+   "speaker": "Саламандинай",
+   "text": "「Нельзя использовать силу Ауры\n　ради чего-то подобного!」",
+   "orig": "Salamandinay\n「We mustn't use the power\n　of Aura for something like that!」"
+  },
+  {
+   "i": 397,
+   "speaker": "Анж",
+   "text": "「Это наш единственный шанс!」",
+   "orig": "Ange\n「It's our only chance!」"
+  },
+  {
+   "i": 398,
+   "speaker": "Анж",
+   "text": "「Ты слышишь нас, Аура?\n　Мы тебя освободим!」",
+   "orig": "Ange\n「Can you hear us, Aura?\n　We are going to free you!」"
+  },
+  {
+   "i": 399,
+   "speaker": "Анж",
+   "text": "「Продержись ещё немного!」",
+   "orig": "Ange\n「Just hold on a little longer!」"
+  },
+  {
+   "i": 400,
+   "speaker": "Анж",
+   "text": "「Это что...?」",
+   "orig": "Ange\n「Is that...?」"
+  },
+  {
+   "i": 401,
+   "speaker": "Саламандинай",
+   "text": "「Аура!」",
+   "orig": "Salamandinay\n「Aura!」"
+  },
+  {
+   "i": 402,
+   "speaker": "Забине",
+   "text": "「Говорит Забине, отхожу.」",
+   "orig": "Sabine\n「This is Sabine, withdrawing.」"
+  },
+  {
+   "i": 403,
+   "speaker": "Рёко",
+   "text": "「Ну и быстро же он смылся!」",
+   "orig": "Ryoko\n「She sure ran off fast!」"
+  },
+  {
+   "i": 404,
+   "speaker": "Мао",
+   "text": "「Не нравится он мне...\n　Такой невозмутимый в такую минуту!」",
+   "orig": "Mao\n「I don't like her much...\n　So calm at a time like this!」"
+  },
+  {
+   "i": 405,
+   "speaker": "Каспер",
+   "text": "「Нам надо отступать!」",
+   "orig": "Casper\n「We've got to retreat!」"
+  },
+  {
+   "i": 406,
+   "speaker": "Сабуроута",
+   "text": "「Пойдёшь за ним, Курц?」",
+   "orig": "Saburouta\n「Are you going after him, Kurz?」"
+  },
+  {
+   "i": 407,
+   "speaker": "Курц",
+   "text": "「Бесполезно.\n　Если он отходит, значит, так и задумано.」",
+   "orig": "Kurz\n「It'd be no use.\n　Whenever he retreats, he most assuredly means to.」"
+  },
+  {
+   "i": 408,
+   "speaker": "Курц",
+   "text": "「К тому же, раз он так легко отступил, значит,\n　всерьёз он за это и не брался.」",
+   "orig": "Kurz\n「Besides, pulling back that easily means\n　he was never really up for it in the first place.」"
+  },
+  {
+   "i": 409,
+   "speaker": "Фаулер",
+   "text": "「Что ж, пора.\n　Нам лучше уходить.」",
+   "orig": "Fowler\n「Oh well, it's time.\n　We'd better be leaving.」"
+  },
+  {
+   "i": 410,
+   "speaker": "Клузо",
+   "text": "「И глазом не моргнул...」",
+   "orig": "Clouseau\n「He sure stayed cool...」"
+  },
+  {
+   "i": 411,
+   "speaker": "Грэм",
+   "text": "「Если даже такой человек показывает спину и бежит,\n　значит, «Амальгама» никогда и не была серьёзна.」",
+   "orig": "Graham\n「If someone like that just turns tail\n　and runs, Amalgam must never have been too serious.」"
+  },
+  {
+   "i": 412,
+   "speaker": "Хильда",
+   "text": "「Крис!」",
+   "orig": "Hilda\n「Chris!」"
+  },
+  {
+   "i": 413,
+   "speaker": "Розали",
+   "text": "「Пора покончить с этим!」",
+   "orig": "Rosalie\n「It's time to settle things!」"
+  },
+  {
+   "i": 414,
+   "speaker": "Крис",
+   "text": "「Не думайте, что так легко\n　меня одолеете, вы двое!」",
+   "orig": "Chris\n「Don't think you can win\n　so easily, you two!」"
+  },
+  {
+   "i": 415,
+   "speaker": "Хильда",
+   "text": "「Ты не понимаешь!」",
+   "orig": "Hilda\n「You don't understand!」"
+  },
+  {
+   "i": 416,
+   "speaker": "Розали",
+   "text": "「Какие могут быть победители и проигравшие между подругами?\n　Мы решили: заберём тебя домой,\n　чего бы это ни стоило!」",
+   "orig": "Rosalie\n「How can there be winners or losers when friends fight?\n　We've decided, we are taking you\n　home, no matter what!」"
+  },
+  {
+   "i": 417,
+   "speaker": "Крис",
+   "text": "「Не надо теперь строить из себя моих подруг!」",
+   "orig": "Chris\n「Don't act like you're my friends, not now!」"
+  },
+  {
+   "i": 418,
+   "speaker": "Розали",
+   "text": "「Да помолчи ты!\n　Мы всегда были твоими подругами!」",
+   "orig": "Rosalie\n「Oh, be quiet!\n　We've always been your friends!」"
+  },
+  {
+   "i": 419,
+   "speaker": "Хильда",
+   "text": "「Крис! Для начала\n　мы вытащим тебя\n　из этого «Рагна-Мэйла»!」",
+   "orig": "Hilda\n「Chris! First things first, \n　we're going to get you out of\n　that Ragna-Mail!」"
+  },
+  {
+   "i": 420,
+   "speaker": "Крис",
+   "text": "「Эрша!\n　Ты заплатишь за то,\n　что предала Эмбрио!」",
+   "orig": "Chris\n「Ersha!\n　You're going to pay for\n　betraying Embryo!」"
+  },
+  {
+   "i": 421,
+   "speaker": "Эрша",
+   "text": "「Открой же глаза, Крис!\n　Мы ему совершенно безразличны!」",
+   "orig": "Ersha\n「Open your eyes, Chris!\n　He doesn't care about us at all!」"
+  },
+  {
+   "i": 422,
+   "speaker": "Эрша",
+   "text": "「Вернись к нам, пока не натворила\n　того, чего уже не исправить!」",
+   "orig": "Ersha\n「Come back to us before you do\n　something you can't take back!」"
+  },
+  {
+   "i": 423,
+   "speaker": "Крис",
+   "text": "「Замолчи!\n　Единственное, куда я вернусь, — это к Эмбрио.」",
+   "orig": "Chris\n「Be quiet!\n　The only place I'm going back to is Embryo's side.」"
+  },
+  {
+   "i": 424,
+   "speaker": "Атрун",
+   "text": "「Прекрати, Крис!\n　Мы друзья, нам незачем драться!」",
+   "orig": "Athrun\n「Quit it, Chris!\n　We're friends, we don't need to fight!」"
+  },
+  {
+   "i": 425,
+   "speaker": "Крис",
+   "text": "「Молчи, Атрун!\n　Ты мне больше не нужен!\n　Теперь у меня есть Эмбрио!」",
+   "orig": "Chris\n「Shut up,　Athrun!\n　I don't need you anymore!\n　I've got Embryo now!」"
+  },
+  {
+   "i": 426,
+   "speaker": "Атрун",
+   "text": "「Забудь про меня,\n　просто послушай Хильду и Розали!」",
+   "orig": "Athrun\n「Forget about me,\n　just listen to Hilda and Rosalie!」"
+  },
+  {
+   "i": 427,
+   "speaker": "Атрун",
+   "text": "「Они не такие, как Эмбрио!\n　Они тебя никогда не бросят.」",
+   "orig": "Athrun\n「They're not like Embryo!\n　They'll never abandon you.」"
+  },
+  {
+   "i": 428,
+   "speaker": "Хильда",
+   "text": "「Теперь и я в «Рагна-Мэйле»!\n　Вот мы и сравнялись, Салия!」",
+   "orig": "Hilda\n「Now I'm in the Ragna-Mail, too!\n　Now we're even, Salia!」"
+  },
+  {
+   "i": 429,
+   "speaker": "Салия",
+   "text": "「«Теодора» тебя никогда не послушает.\n　Убирайся оттуда, Хильда!」",
+   "orig": "Salia\n「Theodra will never listen to you.\n　Get out, Hilda!」"
+  },
+  {
+   "i": 430,
+   "speaker": "Хильда",
+   "text": "「А вот и нет!\n　Теперь эта штука целиком моя.」",
+   "orig": "Hilda\n「Nope!\n　This thing is all mine now.」"
+  },
+  {
+   "i": 431,
+   "speaker": "Салия",
+   "text": "「Что ж, тогда я тебя собью!」",
+   "orig": "Salia\n「Very well then, I'll take you down!」"
+  },
+  {
+   "i": 432,
+   "speaker": "Хильда",
+   "text": "「Ну так давай, нападай!\n　Отличный случай выяснить,\n　кто в 1-й эскадрилье лучший пилот!」",
+   "orig": "Hilda\n「Come at me, then!\n　This will be a good chance to settle\n　just who the 1st Squadron's best pilot is!」"
+  },
+  {
+   "i": 433,
+   "speaker": "Салия",
+   "text": "「Алектра!」",
+   "orig": "Salia\n「Alektra!」"
+  },
+  {
+   "i": 434,
+   "speaker": "Джилл",
+   "text": "「Ну, давай, Салия.\n　Я покажу тебе, насколько ты ещё зелена.」",
+   "orig": "Jill\n「Bring it on, Salia.\n　I'll show you how green you really are.」"
+  },
+  {
+   "i": 435,
+   "speaker": "Джилл",
+   "text": "「Забудь про принцесс и песни —\n　тебе просто не сравниться с Анж!」",
+   "orig": "Jill\n「Forget about princesses or songs,\n　you just aren't as good as Ange!」"
+  },
+  {
+   "i": 436,
+   "speaker": "Салия",
+   "text": "「Я побью тебя и докажу, чего стою!\n　И тогда господин Эмбрио узнает,\n　кто его самый ценный рыцарь!」",
+   "orig": "Salia\n「I'll defeat you and prove how good I am!\n　Lord Embryo will know who his most\n　valuable knight is then!」"
+  },
+  {
+   "i": 437,
+   "speaker": "Джилл",
+   "text": "「Это рассуждения ребёнка, Салия.」",
+   "orig": "Jill\n「That's a child's way of thinking, Salia.」"
+  },
+  {
+   "i": 438,
+   "speaker": "Анж",
+   "text": "「Эмбрио!\n　Сейчас мы положим конец этой войне!」",
+   "orig": "Ange\n「Embryo!\n　We're going to finish this war now!」"
+  },
+  {
+   "i": 439,
+   "speaker": "Эмбрио",
+   "text": "「Я вечен, Анж.\n　Прошу, оставь эту бессмыслицу.」",
+   "orig": "Embryo\n「I am eternal, Ange.\n　Please, give up this nonsense.」"
+  },
+  {
+   "i": 440,
+   "speaker": "Анж",
+   "text": "「Эта надменная улыбочка...\n　Меня от одного её вида тошнит!」",
+   "orig": "Ange\n「That arrogant smile...\n　Just looking at it makes me sick!」"
+  },
+  {
+   "i": 441,
+   "speaker": "Эмбрио",
+   "text": "「Ну-ну, так не годится...\n　Моей будущей жене не пристало\n　говорить мне такие гадости.」",
+   "orig": "Embryo\n「Oh, that's no good...\n　My future wife shouldn't say\n　such nasty things to me.」"
+  },
+  {
+   "i": 442,
+   "speaker": "Анж",
+   "text": "「Единственное, на что ты годишься, — злить меня.\n　Но и этому сегодня конец!」",
+   "orig": "Ange\n「The only thing you're good for is making me angry.\n　And even that ends today!」"
+  },
+  {
+   "i": 443,
+   "speaker": "Анж",
+   "text": "「Я прикончу тебя\n　и покончу с твоим извращённым миром!\n　А сама буду жить!」",
+   "orig": "Ange\n「I'm going to take you out, \n　and end your twisted world!\n　And I'm going to live!」"
+  },
+  {
+   "i": 444,
+   "speaker": "Таск",
+   "text": "（Так нам его никогда не одолеть...）",
+   "orig": "Tusk\n（We'll never take him down like this...）"
+  },
+  {
+   "i": 445,
+   "speaker": "Эмбрио",
+   "text": "「Похоже, ты ломаешь голову,\n　пытаясь что-то придумать. Брось.」",
+   "orig": "Embryo\n「It appears that you are wracking your brain\n　trying to think of something. Give it up.」"
+  },
+  {
+   "i": 446,
+   "speaker": "Таск",
+   "text": "「Что ж, если думать без толку, буду действовать!\n　Всё, что я могу, — драться, чтобы защитить Анж!」",
+   "orig": "Tusk\n「Well, if thinking is no good, I'll have to act!\n　All I can do is fight to protect Ange!」"
+  },
+  {
+   "i": 447,
+   "speaker": "Таск",
+   "text": "「Покончим с этим, Эмбрио!\n　За моих родителей, за моих товарищей...\n　За Анж! Я тебя уничтожу!」",
+   "orig": "Tusk\n「Let's settle it, Embryo!\n　For my parents, for my comrades...\n　For Ange! I'm taking you down!」"
+  },
+  {
+   "i": 448,
+   "speaker": "Эмбрио",
+   "text": "「Такой ты напоминаешь мне те времена,\n　когда ты водила «Билькисс»...」",
+   "orig": "Embryo\n「Being like this reminds of \n　when you were piloting Bilkis...」"
+  },
+  {
+   "i": 449,
+   "speaker": "Джилл",
+   "text": "「Ой, брось. Те времена, когда такие речи\n　могли меня задеть, давно прошли.」",
+   "orig": "Jill\n「Oh please, I'm long past the time when\n　talk like that could affect me.」"
+  },
+  {
+   "i": 450,
+   "speaker": "Эмбрио",
+   "text": "「Какая жалость, Алектра.\n　С годами ты растеряла всю свою прелесть.」",
+   "orig": "Embryo\n「Oh, too bad, Alektra.\n　Over the years, you've lost your sweetness.」"
+  },
+  {
+   "i": 451,
+   "speaker": "Эмбрио",
+   "text": "「Такие женщины мне неинтересны!\n　Будь добра, сгинь с глаз моих!」",
+   "orig": "Embryo\n「I have no interest in such women!\n　Please, get out of my sight!」"
+  },
+  {
+   "i": 452,
+   "speaker": "Джилл",
+   "text": "「И не подумаю!\n　Я ждала такого дня с тех самых пор,\n　как провалила «Либертус».」",
+   "orig": "Jill\n「No can do!\n　I've been waiting for a day like this\n　ever since I failed at Libertus.」"
+  },
+  {
+   "i": 453,
+   "speaker": "Джилл",
+   "text": "「За всё, что ты у меня отнял,\n　я сама, своими руками, тебя одолею, Эмбрио!」",
+   "orig": "Jill\n「In exchange for all that you took from me,\n　I'm going to defeat you with my own hands, Embryo!」"
+  },
+  {
+   "i": 454,
+   "speaker": "Эмбрио",
+   "text": "「Салия...\n　Не верится, что ты меня предала.」",
+   "orig": "Embryo\n「Salia...\n　I can't believe that you have betrayed me.」"
+  },
+  {
+   "i": 455,
+   "speaker": "Салия",
+   "text": "「Это вы предатель.\n　Вы играли нашими чувствами...」",
+   "orig": "Salia\n「It's you who are the betrayer.\n　You toyed with our emotions...」"
+  },
+  {
+   "i": 456,
+   "speaker": "Эмбрио",
+   "text": "「Что поделать, никто из вас не сравнится с Анж.\n　Так уж оно устроено.」",
+   "orig": "Embryo\n「Well, none of you could ever compare to Ange.\n　That's just the way it is.」"
+  },
+  {
+   "i": 457,
+   "speaker": "Салия",
+   "text": "「Этим меня больше не ранить!\n　Я больше не гонюсь за Анж.」",
+   "orig": "Salia\n「It's no good trying to hurt me like that!\n　I'm not trying to play catch up with Ange anymore.」"
+  },
+  {
+   "i": 458,
+   "speaker": "Салия",
+   "text": "「Я — это я.\n　Я дерусь с тобой не ради них,\n　а ради себя самой!」",
+   "orig": "Salia\n「I am who I am.\n　I'm not fighting you for them,\n　I'm fighting for my own sake!」"
+  },
+  {
+   "i": 459,
+   "speaker": "Эмбрио",
+   "text": "「Эрша... Это по твоей вине\n　те дети погибли снова.」",
+   "orig": "Embryo\n「Ersha... It's your fault those \n　kids died again.」"
+  },
+  {
+   "i": 460,
+   "speaker": "Эрша",
+   "text": "「Возможно, и так...\n　Но по правде те жизни были\n　ложью, им и не следовало существовать.」",
+   "orig": "Ersha\n「That may be true...\n　But truly, those lives were\n　a lie, they never should have existed.」"
+  },
+  {
+   "i": 461,
+   "speaker": "Эрша",
+   "text": "「И я никогда не прощу того, кто изначально\n　отнял у них жизнь... тебя!」",
+   "orig": "Ersha\n「And I will never forgive the one who took their\n　lives in the first place...you!」"
+  },
+  {
+   "i": 462,
+   "speaker": "Эмбрио",
+   "text": "「Что ж, так и быть, проявлю немного милосердия.\n　Я отправлю тебя туда же, куда и тех детей!」",
+   "orig": "Embryo\n「Very well then, I shall have a little mercy.\n　I will send you to the same place as those kids!」"
+  },
+  {
+   "i": 463,
+   "speaker": "Эмбрио",
+   "text": "「Крис...\n　Эту одну ошибку я тебе прощу.」",
+   "orig": "Embryo\n「Chris...\n　I will forgive you this one mistake.」"
+  },
+  {
+   "i": 464,
+   "speaker": "Крис",
+   "text": "「Н-не пытайся меня обмануть!\n　Больше у тебя не выйдет!」",
+   "orig": "Chris\n「D-don't try to trick me!\n　You can't fool me anymore!」"
+  },
+  {
+   "i": 465,
+   "speaker": "Крис",
+   "text": "「Ты просто сладко поёшь, чтобы снова\n　поиграть с моим сердцем!」",
+   "orig": "Chris\n「You're just sweet talking me so you\n　can play with my heart again!」"
+  },
+  {
+   "i": 466,
+   "speaker": "Эмбрио",
+   "text": "「Надо же, ты кое-чему научилась.\n　Видимо, ещё один врождённый талант норм.」",
+   "orig": "Embryo\n「Well, it appears you have learned.\n　I suppose this is another natural Norma talent.」"
+  },
+  {
+   "i": 467,
+   "speaker": "Крис",
+   "text": "「Я тебя не прощу!\n　Ты надел маску дружбы,\n　а сам просто использовал меня!」",
+   "orig": "Chris\n「I won't forgive you!\n　You put on a mask of friendship,\n　but you only used me!」"
+  },
+  {
+   "i": 468,
+   "speaker": "Крис",
+   "text": "「Я буду драться!\n　Буду драться с тобой плечом к плечу с настоящими друзьями.」",
+   "orig": "Chris\n「I'm going to fight!\n　I'm going to fight you, alongside my true friends.」"
+  },
+  {
+   "i": 469,
+   "speaker": "Хильда",
+   "text": "「Славно же ты попользовался Крис и остальными!」",
+   "orig": "Hilda\n「You've done quite the job using Chris and the others!」"
+  },
+  {
+   "i": 470,
+   "speaker": "Эмбрио",
+   "text": "「Раз ты ведёшь этот «Рагна-Мэйл», Хильда,\n　значит, ты одна из моих рыцарей.」",
+   "orig": "Embryo\n「If you are piloting that Ragna-Mail, Hilda,\n　it must mean that you're one of my knights.」"
+  },
+  {
+   "i": 471,
+   "speaker": "Хильда",
+   "text": "「У тебя в голове жуки завелись?\n　Шутки оставь для своей дурацкой причёски!」",
+   "orig": "Hilda\n「Is your head full of bugs?\n　Let's keep the jokes limited to your stupid hair!」"
+  },
+  {
+   "i": 472,
+   "speaker": "Эмбрио",
+   "text": "「Что?!」",
+   "orig": "Embryo\n「What?!」"
+  },
+  {
+   "i": 473,
+   "speaker": "Хильда",
+   "text": "「У меня уже есть та, кто мне дорога!\n　Как будто я поведусь на твои уговоры!」",
+   "orig": "Hilda\n「There's someone I've got my heart set on!\n　Like I could ever fall for your seduction!」"
+  },
+  {
+   "i": 474,
+   "speaker": "Эмбрио",
+   "text": "「Значит, Дочь драконов\n　сама вышла против меня...」",
+   "orig": "Embryo\n「So the Daughter of Dragons\n　has come to face me...」"
+  },
+  {
+   "i": 475,
+   "speaker": "Вивиан",
+   "text": "「Неважно, кто я такая.\n　Я дерусь с тобой просто потому, что ты злодей.」",
+   "orig": "Vivian\n「It doesn't matter who I am.\n　I only fight you because you're a bad guy.」"
+  },
+  {
+   "i": 476,
+   "speaker": "Вивиан",
+   "text": "「Так, время викторины!\n　Кто победит в этом бою?」",
+   "orig": "Vivian\n「OK, it's quiz time!\n　Who is going to win this battle?」"
+  },
+  {
+   "i": 477,
+   "speaker": "Эмбрио",
+   "text": "「Я, разумеется!」",
+   "orig": "Embryo\n「I will, of course!」"
+  },
+  {
+   "i": 478,
+   "speaker": "Вивиан",
+   "text": "「Бз-з-з!\n　Неверный ответ!」",
+   "orig": "Vivian\n「Buzz!\n　Wrong answer!」"
+  },
+  {
+   "i": 479,
+   "speaker": "Розали",
+   "text": "「Я отплачу тебе за то,\n　как ты обошёлся с Крис!」",
+   "orig": "Rosalie\n「Let me repay you for\n　how well you've treated Chris!」"
+  },
+  {
+   "i": 480,
+   "speaker": "Эмбрио",
+   "text": "「Ах, типичная норма: ни капли ума, ни капли характера.」",
+   "orig": "Embryo\n「Ah, a typical Norma, not a modicum of sense or character.」"
+  },
+  {
+   "i": 481,
+   "speaker": "Розали",
+   "text": "「Ну и ну, и это говорит тот,\n　кто называет себя королём норм!」",
+   "orig": "Rosalie\n「Oh, that's rich, coming from someone\n　who claims to be the King of Normas!」"
+  },
+  {
+   "i": 482,
+   "speaker": "Розали",
+   "text": "「Покончим с этим, старый извращенец!\n　Я не такая добренькая, как Крис!」",
+   "orig": "Rosalie\n「Let's settle this, you old perv!\n　I'm not as nice as Chris is!」"
+  },
+  {
+   "i": 483,
+   "speaker": "Эмбрио",
+   "text": "「Похоже, партия Леонарда рассыпается.\n　Надо же, позволил увести свою ненаглядную Уисперд.」",
+   "orig": "Embryo\n「It looks like Leonard's endgame is falling apart.\n　Allowing his beloved Whispered to be stolen away, oh dear.」"
+  },
+  {
+   "i": 484,
+   "speaker": "Соскэ",
+   "text": "「Ты и сам на него похож: распалился\n　и выскочил вот так на передовую.」",
+   "orig": "Sousuke\n「You're a lot like him, getting all excited and \n　running out to the front lines like this.」"
+  },
+  {
+   "i": 485,
+   "speaker": "Эмбрио",
+   "text": "「Это детские игры!\n　Потому что—」",
+   "orig": "Embryo\n「This is child's play!\n　Because—」"
+  },
+  {
+   "i": 486,
+   "speaker": "Соскэ",
+   "text": "「Забегаешь вперёд. Как низкопробно.」",
+   "orig": "Sousuke\n「You're jumping ahead of yourself. How low class!」"
+  },
+  {
+   "i": 487,
+   "speaker": "Соскэ",
+   "text": "「Может, ты и Настройщик, или кто там ещё, но как\n　солдат ты не лучше самого зелёного новичка.」",
+   "orig": "Sousuke\n「You might be the Tuner or whatever, but as a \n　soldier you're as bad as the greenest newbie.」"
+  },
+  {
+   "i": 488,
+   "speaker": "$n",
+   "text": "「Вот ты где, мерзавец!\n　Я здесь, чтобы отомстить за всех девушек,\n　которых ты довёл до слёз!」",
+   "orig": "$n\n「There you are, you bastard!\n　I'm here to avenge all those girls you\n　toyed with and left crying!」"
+  },
+  {
+   "i": 489,
+   "speaker": "Эмбрио",
+   "text": "「Да ты просто завидуешь...\n　Какой позор.」",
+   "orig": "Embryo\n「You're jealous...\n　How shameful.」"
+  },
+  {
+   "i": 490,
+   "speaker": "Найн",
+   "text": "「Вынуждена согласиться.」",
+   "orig": "Nine\n「I must agree.」"
+  },
+  {
+   "i": 491,
+   "speaker": "$n",
+   "text": "「И что с того!\n　Какова бы ни была причина, я пущу её\n　в топливо для этого боя!」",
+   "orig": "$n\n「What's wrong with that!\n　Whatever the reason, I'm going to use it\n　as fuel for this fight!」"
+  },
+  {
+   "i": 492,
+   "speaker": "$n",
+   "text": "「Покончим с этим, старый мерзавец!\n　Дальше тебе ходу нет. Я тебя остановлю!」",
+   "orig": "$n\n「Let's settle this, you old creep!\n　I can't let you go on. I will stop you!」"
+  },
+  {
+   "i": 493,
+   "speaker": "$n",
+   "text": "「Враг всех женщин и всего мира...\n　Дальше тебе ходу нет!」",
+   "orig": "$n\n「Enemy of women and of the world...\n　I can't let you go on!」"
+  },
+  {
+   "i": 494,
+   "speaker": "Эмбрио",
+   "text": "「Завидуешь, что выбрали не тебя?\n　А это, пожалуй, даже мило!」",
+   "orig": "Embryo\n「Are you jealous you weren't chosen?\n　That's actually kind of cute!」"
+  },
+  {
+   "i": 495,
+   "speaker": "Найн",
+   "text": "「Это правда, сестрица?」",
+   "orig": "Nine\n「Is that true, Sis?」"
+  },
+  {
+   "i": 496,
+   "speaker": "$n",
+   "text": "「До смешного самодовольный тип!\n　Делай что хочешь, но меня тебе не видать!」",
+   "orig": "$n\n「You're so full of yourself it's funny!\n　Do what you want, but you'll never get with me!」"
+  },
+  {
+   "i": 497,
+   "speaker": "$n",
+   "text": "「Запомни это, Найн!\n　Никогда не слушай мужчину,\n　у которого одни красивые слова!」",
+   "orig": "$n\n「Remember this, Nine!\n　You should never listen to a man who's\n　all talk like this!」"
+  },
+  {
+   "i": 498,
+   "speaker": "Найн",
+   "text": "「Принято!\n　Что ж, тогда давайте закончим работу.」",
+   "orig": "Nine\n「Understood!\n　Very well then, let's complete our work.」"
+  },
+  {
+   "i": 499,
+   "speaker": "Эрша",
+   "text": "（По докладу наших передовых наземных частей,\n　дети, которых вернул Эмбрио,\n　рухнули, как марионетки с обрезанными нитями...）",
+   "orig": "Ersha\n（According to our advance ground forces,\n　the children who Embryo brought back\n　dropped like marionettes with cut strings...）"
+  },
+  {
+   "i": 500,
+   "speaker": "Эрша",
+   "text": "（И правда, то была фальшивая жизнь...）",
+   "orig": "Ersha\n（That really was false life...）"
+  },
+  {
+   "i": 501,
+   "speaker": "Эрша",
+   "text": "（Эмбрио...\n　Я никогда не прощу тебе\n　такой игры с чужими жизнями!）",
+   "orig": "Ersha\n（Embryo...\n　I'll never forgive you for\n　playing with lives like that!）"
+  },
+  {
+   "i": 502,
+   "speaker": "Саламандинай",
+   "text": "「Эмбрио, вот и всё!」",
+   "orig": "Salamandinay\n「Embryo, this is it!」"
+  },
+  {
+   "i": 503,
+   "speaker": "Эмбрио",
+   "text": "「Принцесса драконов...\n　Значит, ты вышла против меня\n　в этой жалкой копии «Рагна-Мэйла».」",
+   "orig": "Embryo\n「It's the Dragon princess...\n　So you've come to face me in that\n　worthless copy of a Ragna-Mail.」"
+  },
+  {
+   "i": 504,
+   "speaker": "Саламандинай",
+   "text": "「Пока ты играл в бога,\n　мы оттачивали своё умение,\n　чтобы освободить Ауру!」",
+   "orig": "Salamandinay\n「While you were off playing God, \n　we were improving our abilities\n　so we can release Aura!」"
+  },
+  {
+   "i": 505,
+   "speaker": "Саламандинай",
+   "text": "「«Энрюго» тому доказательство!\n　Мы уничтожим твой «Рагна-Мэйл» и защитим\n　этот мир, а вместе с ним и наш собственный!」",
+   "orig": "Salamandinay\n「Enryugo is proof of that!\n　We'll destroy your Ragna-Mail and\n　protect this world, and our own!」"
+  },
+  {
+   "i": 506,
+   "speaker": "$n",
+   "text": "「Агх!」",
+   "orig": "$n\n「Agh!」"
+  }
+ ]
+}

@@ -1,0 +1,1822 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Ангар «Нахель Аргамы»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nahel Argama Hangar-"
+  },
+  {
+   "i": 4,
+   "speaker": "Банагер",
+   "text": "「Одри!」",
+   "orig": "Banagher\n「Audrey!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Минева",
+   "text": "「Я ведь так и не сказала тебе правду о себе, да?」",
+   "orig": "Mineva\n「I never told you the truth about myself, did I?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Банагер",
+   "text": "「Мы хотели услышать правду от тебя самой.」",
+   "orig": "Banagher\n「We wanted to hear the truth from you.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Банагер",
+   "text": "「Ты уже исполнила долг Миневы Заби,\n　так что я знал: рано или поздно\n　ты снова примешь это имя.」",
+   "orig": "Banagher\n「You've already fulfilled Mineva Zabi's duty,\n　so I knew before too long\n　you would bear that name again.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Минева",
+   "text": "「Спасибо, Банагер.\n　Теперь я могу рассказать тебе всё.」",
+   "orig": "Mineva\n「Thank you, Banagher.\n　Now I can tell you everything.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Минева",
+   "text": "「О себе, о Лапласе\n　и об Инес Фрессанж.」",
+   "orig": "Mineva\n「About me, about Laplace, \n　and about Inez Fressange.」"
+  },
+  {
+   "i": 13,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　-Брифинг-зал «Надэсико C»-",
+   "orig": "　\n　　\n　　　　　　　　-Nadesico C Briefing Room-"
+  },
+  {
+   "i": 14,
+   "speaker": "Атрун",
+   "text": "「Ч-что это такое?」",
+   "orig": "Athrun\n「W-what is this?」"
+  },
+  {
+   "i": 15,
+   "speaker": "Сэцуна",
+   "text": "「Нам сказали, что всё объяснят на борту\n　«Надэсико», но откуда эти украшения?」",
+   "orig": "Setsuna\n「They said they'd explain everything on board\n　the Nadesico, but what are these decorations?」"
+  },
+  {
+   "i": 16,
+   "speaker": "Тиерия",
+   "text": "「Это «Надэсико: Что?! и Почему?».」",
+   "orig": "Tieria\n「This is Nadesico What! & Why?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Сэцуна",
+   "text": "「Ты знаешь, что это, Тиерия?」",
+   "orig": "Setsuna\n「You know about this, Tieria?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Тиерия",
+   "text": "「Насколько я понял, именно так\n　на «Надэсико» и проводят брифинги.」",
+   "orig": "Tieria\n「This is how they carry out\n　briefing on board the Nadesico, apparently.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Тиерия",
+   "text": "「Но сам я вижу это впервые.」",
+   "orig": "Tieria\n「But this is my first time seeing it for myself.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Акито",
+   "text": "「Да ничего особенного, в общем-то.」",
+   "orig": "Akito\n「It's not really that big a deal.」"
+  },
+  {
+   "i": 21,
+   "speaker": "Рёко",
+   "text": "「Ну, самое время появиться нашей ведущей-объяснялке.\n　Готова спорить, они вложили в это всю душу.」",
+   "orig": "Ryoko\n「Well, it's about time for the explanation lady to show up.\n　I bet they've really put their hearts into it.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Хикару",
+   "text": "「О, кажется, начинается.」",
+   "orig": "Hikaru\n「Oh, it looks like it's starting.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Рури",
+   "text": "「Привет всем!\n　Время «Надэсико: Что?! и Почему?».」",
+   "orig": "Ruri\n「Hey, guys!\n　It's time for Nadesico What! & Why?」"
+  },
+  {
+   "i": 24,
+   "speaker": "Юрика",
+   "text": "「Ох, привет...\n　давненько мы этого не делали, да?」",
+   "orig": "Yurika\n「Oh, hey...\n　it's been a while, huh?」"
+  },
+  {
+   "i": 25,
+   "speaker": "Рури",
+   "text": "「Да.」",
+   "orig": "Ruri\n「Yeah.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Юрика",
+   "text": "「Знаешь, играть зайчика без костюма\n　на самом деле очень тяжело.」",
+   "orig": "Yurika\n「It's really tough to play the rabbit\n　without the costume, you know?」"
+  },
+  {
+   "i": 27,
+   "speaker": "Инес",
+   "text": "「Да вы обе зажались.\n　Нашли время стесняться.」",
+   "orig": "Inez\n「You two are so tense.\n　You can't get all shy at a time like this.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Рури",
+   "text": "「Извините.\n　Просто много всего навалилось.」",
+   "orig": "Ruri\n「Sorry.\n　A lot's been going on.」"
+  },
+  {
+   "i": 29,
+   "speaker": "Инес",
+   "text": "「Да, я знаю.\n　Благородная сдержанность — это прекрасно, капитан,\n　но так себя загонять всё-таки не стоит.」",
+   "orig": "Inez\n「Yes, I know.\n　Refined beauty is important, Captain, but\n　you really shouldn't push so hard.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Рури",
+   "text": "「Раз уж взялись, давайте начинать.\n　Итак, все, мне это не доставляет никакого удовольствия...」",
+   "orig": "Ruri\n「If we're doing this, let's get started.\n　OK everyone, I'm not happy about this...」"
+  },
+  {
+   "i": 31,
+   "speaker": "Банагер",
+   "text": "「Эм-м.」",
+   "orig": "Banagher\n「Umm.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Рёма",
+   "text": "「Э-э.」",
+   "orig": "Ryoma\n「Uh.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Инес",
+   "text": "「Та-ак.\n　Похоже, настроение зала она не уловила вообще.」",
+   "orig": "Inez\n「Well, then.\n　Looks like she totally misread the room.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Юрика",
+   "text": "「И не говори.」",
+   "orig": "Yurika\n「It sure does.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Инес",
+   "text": "「Что ж, с кем-то приятно познакомиться,\n　с кем-то — приятно увидеться вновь.\n　Я Инес Фрессанж.」",
+   "orig": "Inez\n「OK then, nice to meet some of you,\n　nice to see you again for others.\n　I'm Inez Fressange.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Инес",
+   "text": "「Итак, позвольте мне всё объяснить.」",
+   "orig": "Inez\n「So then, let me explain things.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Хикару",
+   "text": "「Вот оно！\n　Роковое присловье！」",
+   "orig": "Hikaru\n「There it is！\n　The motto of doom！」"
+  },
+  {
+   "i": 38,
+   "speaker": "Идзуми",
+   "text": "「Такое чувство, что их вступлению чего-то не хватает.」",
+   "orig": "Izumi\n「It feels like their opening is missing something.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Сумераги",
+   "text": "「Инес.\n　Вы ведь были прыгуном класса А.\n　Я думала, Марсианские преемники вас убили.」",
+   "orig": "Sumeragi\n「Inez.\n　You were a Class-A Jumper.\n　I thought the Martian Successors had you killed.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Инес",
+   "text": "「Наполовину правда, наполовину недоразумение.」",
+   "orig": "Inez\n「That's half true, half misunderstanding.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Инес",
+   "text": "「По приказу председателя «Нергала» Акацуки\n　я разыскивала пропавший «Надэсико»,\n　а точнее — Вычислительный блок.」",
+   "orig": "Inez\n「On the orders of Chairman Akatsuki of the Nergal,\n　I've been searching for the lost Nadesico,\n　and in particular the Calculation Unit.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Инес",
+   "text": "「Как все вы знаете, это было частью\n　противостояния с Марсианскими преемниками.」",
+   "orig": "Inez\n「As everyone knows, that was\n　part of the fight with the Martian Successors.」"
+  },
+  {
+   "i": 43,
+   "speaker": "Лакус",
+   "text": "「Для всякого, кто надеется управлять бозонными прыжками,\n　этот Вычислительный блок — ключ ко всему.\n　Такое непременно захотят прибрать к рукам.」",
+   "orig": "Lacus\n「For anyone hoping to manage Boson Jumps,\n　that Calculation Unit would be key.\n　Definitely something they'd want to control.」"
+  },
+  {
+   "i": 44,
+   "speaker": "Инес",
+   "text": "「С огромным трудом исследовательская группа «Нергала»\n　всё-таки отыскала «Надэсико», но ровно тогда\n　на нас напали Марсианские преемники.」",
+   "orig": "Inez\n「After a great deal of difficulty, the Nergal research \n　team finally found the Nadesico,\n　but just then the Martian Successors attacked.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Инес",
+   "text": "「Мои товарищи гибли один за другим,\n　и я приготовилась к бозонному прыжку ради спасения.」",
+   "orig": "Inez\n「As my companions fell one by one,\n　I prepared to Boson Jump for my life.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Инес",
+   "text": "「Но в тот раз всё вышло совершенно иначе,\n　чем при обычных моих прыжках.」",
+   "orig": "Inez\n「But this time it ended up completely different\n　from the ones I usually made.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Акито",
+   "text": "「Параллельный бозонный прыжок?」",
+   "orig": "Akito\n「A Parallel Boson Jump?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Инес",
+   "text": "「Бозонный прыжок — это одновременное перемещение\n　во времени и пространстве: уход в прошлое\n　и возвращение в настоящее.」",
+   "orig": "Inez\n「A Boson Jump is a simultaneous movement\n　through time and space, going back to the past\n　and returning to the present.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Инес",
+   "text": "「И раз вы соприкасаетесь с прошлым, это способно\n　изменить то настоящее, куда вы возвращаетесь, —\n　а значит, породить временной парадокс.」",
+   "orig": "Inez\n「Since you come into contact with the past,\n　that can affect the present world you return to,\n　which could create a time paradox.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Инес",
+   "text": "「Если вмешательство из будущего меняет историю,\n　обычно это лишь порождает альтернативную вселенную\n　и тем самым предотвращает парадокс.」",
+   "orig": "Inez\n「If contact from the future changes history, \n　typically this would only result in an \n　alternate universe, preventing paradox.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Инес",
+   "text": "「Однако бозонный прыжок,\n　судя по всему, делает его возможным.」",
+   "orig": "Inez\n「However, a Boson Jump \n　apparently makes it possible.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Юрика",
+   "text": "「Эм, я не поняла.」",
+   "orig": "Yurika\n「Um, I don't get it.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Инес",
+   "text": "「Допустим, я вернусь в прошлое до своего рождения\n　и убью собственную мать. В тот же миг я создам мир\n　без матери, а значит, и без меня самой.」",
+   "orig": "Inez\n「Say I go back before my birth and kill my mother.\n　Right then, I create a world without my mother, \n　and thus without myself.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Инес",
+   "text": "「И в это мгновение я уже не часть той вселенной,\n　а непременно часть какой-то другой.」",
+   "orig": "Inez\n「And in that moment, I am no longer part of that universe,\n　but must be part of another one.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Инес",
+   "text": "「Даже если бы я захотела вернуться\n　в ту вселенную — как вернуться туда,\n　где я вообще никогда не рождалась?」",
+   "orig": "Inez\n「Even if I tried to return to\n　that universe, how could I go back\n　to a place where I was never born?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Инес",
+   "text": "「Мне придётся вернуться во вселенную, где я существую,\n　где этого разветвления так и не произошло.」",
+   "orig": "Inez\n「I have to go back to a universe where I exist, \n　where that branching off never occurred.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Санада",
+   "text": "「Иначе существовать после того, как твоя мать\n　погибла до твоего рождения, было бы парадоксом.」",
+   "orig": "Sanada\n「If that weren't so, then existing when your \n　mother died before you were born would be a paradox.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Инес",
+   "text": "「Но так или иначе, перемещение во времени\n　при бозонном прыжке\n　такой парадокс допускает.」",
+   "orig": "Inez\n「But anyway, the time travel involved \n　in a Boson Jump \n　allows that kind of paradox.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Инес",
+   "text": "「Правда, мне совсем не хочется выяснять,\n　что же станет с человеком в той самой истории\n　с убийством матери, о которой мы только что говорили.」",
+   "orig": "Inez\n「But I don't really want to find out \n　what would happen to someone in that \n　mom-killing situation we were just talking about.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Рёко",
+   "text": "「И какое отношение вся эта длиннющая лекция\n　имеет к вашему\n　параллельному бозонному прыжку? 」",
+   "orig": "Ryoko\n「And so, what does this lengthy explanation\n　have to do with \n　your Parallel Boson Jump? 」"
+  },
+  {
+   "i": 61,
+   "speaker": "Инес",
+   "text": "「Итак, бозонные прыжки допускают\n　возникновение временных парадоксов.」",
+   "orig": "Inez\n「So Boson Jumps allow \n　time paradox to occur.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Инес",
+   "text": "「Именно из-за этой «противоестественной» черты\n　древняя марсианская цивилизация, открывшая бозонные\n　прыжки, использовала их для перемещений в пространстве.」",
+   "orig": "Inez\n「This \"unnatural\" element of the system\n　is why the ancient Martian civilization that discovered \n　Boson Jumping used it for spatial travel.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Инес",
+   "text": "「Проще говоря, мы полагаем, что у них был\n　какой-то механизм, намеренно не дающий\n　соскользнуть в параллельные миры.」",
+   "orig": "Inez\n「Basically, we guess that they had some process \n　to intentionally prevent\n　sliding into parallel worlds.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Санада",
+   "text": "「Иначе говоря, если убрать этот механизм,\n　прыжок позволит путешествовать по параллельным мирам.」",
+   "orig": "Sanada\n「To put it another way, if you remove that process,\n　then you can use it to travel to parallel universes.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Инес",
+   "text": "「Я боялась, что объяснение изрядно затянется,\n　так что спасибо, что ускорили дело.」",
+   "orig": "Inez\n「I was afraid my explanation would run rather long, \n　so thank you for speeding things up.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Инес",
+   "text": "「Я, «Надэсико» и Вычислительный блок\n　пробили межпространственные барьеры\n　и внезапно оказались на этом расколотом Аксисе.」",
+   "orig": "Inez\n「I, and the Nadesico, and the Calculation Unit \n　broke through the dimensional barriers \n　and were suddenly on this fractured Axis.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Амуро",
+   "text": "「Понятно.\n　Значит, мы поменялись местами.」",
+   "orig": "Amuro\n「I see.\n　So we switched places.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Инес",
+   "text": "「Похоже на то.\n　Очевидно, расширенное сознание психорамы\n　соприкоснулось с Вычислительным блоком.」",
+   "orig": "Inez\n「It would appear so.\n　Clearly, the Psychoframe's expanded consciousness \n　came into contact with the Calculation Unit.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Инес",
+   "text": "「А я в тот же самый миг думала о прыжке.\n　Блок запутался — и мы с вами поменялись местами\n　в параллельном бозонном прыжке.」",
+   "orig": "Inez\n「I was thinking about jumping at that same time. \n　It got confused, and so the two of us \n　switched places in a Parallel Boson Jump.」"
+  },
+  {
+   "i": 70,
+   "speaker": "Урибатакэ",
+   "text": "「Да разве такое вообще возможно?」",
+   "orig": "Uribatake\n「Is that even possible?」"
+  },
+  {
+   "i": 71,
+   "speaker": "Инес",
+   "text": "「Теория всегда проигрывает действительности.\n　Нам остаётся смотреть на факты и пытаться их объяснить.」",
+   "orig": "Inez\n「Theory always loses to reality. \n　We must look at reality, and try to explain it.」"
+  },
+  {
+   "i": 72,
+   "speaker": "Нанай",
+   "text": "「Мы встретили её, когда собирали обломки\n　Аксиса, отброшенные прочь от Земли.」",
+   "orig": "Nanai\n「We met her while recovering those parts \n　of Axis pushed away from Earth.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Нанай",
+   "text": "「Я Нанай Мигель.\n　Я возглавляю «Лаплас».」",
+   "orig": "Nanai\n「I'm Nanai Miguel.\n　I'm the leader here at Laplace.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Брайт",
+   "text": "「Вы были близки к Чару Азнаблю.\n　Ещё я слышал, что вы возглавляли\n　Институт изучения ньютайпов Нео-Зеона.」",
+   "orig": "Bright\n「You were close to Char Aznable.\n　I also hear you were director of the \n　Neo Zeon Newtype Research Institute.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Хатауэй",
+   "text": "「Это правда?」",
+   "orig": "Hathaway\n「Is that so?」"
+  },
+  {
+   "i": 76,
+   "speaker": "Брайт",
+   "text": "「Так почему же вы во главе подобной организации?」",
+   "orig": "Bright\n「So why are you heading up a group like this?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Нанай",
+   "text": "「Чтобы это объяснить,\n　мне сперва придётся рассказать вам больше\n　о Чаре Азнабле.」",
+   "orig": "Nanai\n「To explain that,\n　first I have to tell you more\n　about Char Aznable.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Амуро",
+   "text": "「Хм-м.」",
+   "orig": "Amuro\n「Hmmm.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Нанай",
+   "text": "「Он пытался сбросить Аксис на Землю вовсе не затем,\n　чтобы истребить всё земное население.」",
+   "orig": "Nanai\n「The reason he tried to drop Axis onto Earth\n　was not to exterminate the entire Earthling population.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Нанай",
+   "text": "「Он хотел вновь соединить колонии и Землю\n　и положить конец войне.」",
+   "orig": "Nanai\n「It was to reunite the colonies and Earth,\n　and to bring about the end of war.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Нанай",
+   "text": "「Ради этого он взял на себя тягчайший грех —\n　убийство родной планеты.」",
+   "orig": "Nanai\n「For that, he took on the grave sin\n　of murdering our home planet.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Амуро",
+   "text": "「Из чистого самолюбия.\n　Ни он, ни кто-либо другой не мог всерьёз\n　верить, что это сработает.」",
+   "orig": "Amuro\n「Out of pure ego.\n　No one, not him, not anyone, \n　could have believed that would work.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Брайт",
+   "text": "「Героизм и честолюбие, отчаяние и надежда...\n　Добавь сюда его соперничество с Амуро —\n　и это очень в его духе.」",
+   "orig": "Bright\n「His heroism and ambition, despair and hope...\n　Add in his rivalry with Amuro,\n　it really is something he'd do.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Хатауэй",
+   "text": "「Люди гибли из-за этого!」",
+   "orig": "Hathaway\n「People lost their lives for that!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Нанай",
+   "text": "「Да, вы совершенно правы.」",
+   "orig": "Nanai\n「Indeed, you are not wrong.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Нанай",
+   "text": "「И всё же в глубине души командир Чар\n　мучился этим выбором,\n　но надеялся раскрыть потенциал человечества.」",
+   "orig": "Nanai\n「In fact, in his heart, Commander Char\n　agonized over this choice\n　but hoped to realize human potential.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Банагер",
+   "text": "「И что это должно значить?」",
+   "orig": "Banagher\n「What's that supposed to mean?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Нанай",
+   "text": "「Даже не сумев примириться с Амуро Рэем, командир\n　надеялся, что благодаря $kwbШоку Аксиса$kwe\n　все люди смогут соединиться в мире.」",
+   "orig": "Nanai\n「The commander hoped, even as he and Amuro Ray \n　failed to reconcile, that with the $kwbAxis Shock$kwe,\n　all people could be joined in peace.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Нанай",
+   "text": "「Через откровение психорамы\n　я ощутила последнюю надежду командира.」",
+   "orig": "Nanai\n「Through the revelation of the Psychoframe\n　I perceived the commander's final hope.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Нанай",
+   "text": "「И потому я ищу иной путь\n　положить конец войне.」",
+   "orig": "Nanai\n「And so, I search for another way\n　to bring an end to war.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Минева",
+   "text": "「Если одна из сторон в конце концов победит,\n　войну это, возможно, и прекратит,\n　но породит новую ненависть.」",
+   "orig": "Mineva\n「If either side were to finally win,\n　that might end this war,\n　but would also bring about new hatred.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Минева",
+   "text": "「Мы надеемся создать иное будущее.」",
+   "orig": "Mineva\n「We hope to create a different future than that.」"
+  },
+  {
+   "i": 93,
+   "speaker": "Банагер",
+   "text": "「Одри?」",
+   "orig": "Banagher\n「Audrey?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Нанай",
+   "text": "「Ради этого я и поддерживала\n　связь с её высочеством,\n　добиваясь прекращения огня.」",
+   "orig": "Nanai\n「And to that end I have been\n　in contact with Her Highness,\n　petitioning for a cease-fire.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Нанай",
+   "text": "「К сожалению, такой образ мыслей\n　редкость в нынешнем Нео-Зеоне,\n　где всем заправляют военные.」",
+   "orig": "Nanai\n「Sadly, her way of thinking\n　is rare in the military ruled \n　Neo Zeon of today.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Нанай",
+   "text": "「Но при поддержке колоний и молчаливых сочувствующих\n　нас уже не получится не замечать.」",
+   "orig": "Nanai\n「However, with the colonies' help and silent sympathizers,\n　we can't be ignored.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Минева",
+   "text": "「Война тянется слишком долго.\n　Конечно, остались и те, кто хранит ненависть со времён\n　Однолетней войны и прежних дел Федерации.」",
+   "orig": "Mineva\n「The war has gone on too long.\n　Of course, there are still those who carry hate from the\n　One Year War and the Federation's actions before it.」"
+  },
+  {
+   "i": 98,
+   "speaker": "Минева",
+   "text": "「Просить их просто забыть, может, и бессмысленно.\n　Но если они этого не сделают, я уверена,\n　у человечества не будет будущего.」",
+   "orig": "Mineva\n「Asking them to just forget might sound futile. \n　But if they don't do so, I believe\n　humanity will have no future.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Нанай",
+   "text": "「«Лаплас» создавался втайне, но\n　стоило её высочеству примкнуть к нам,\n　как мы начали расти сверх всяких наших надежд.」",
+   "orig": "Nanai\n「Laplace was formed in secret, but\n　once Her Highness joined\n　we started to grow beyond all our hopes.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Циннерман",
+   "text": "「Таких, как я, устал от войны,\n　на самом деле очень много.」",
+   "orig": "Zinnerman\n「There are a lot of folks like me, \n　who are tired of war.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Банагер",
+   "text": "「Циннерман?」",
+   "orig": "Banagher\n「Zinnerman?」"
+  },
+  {
+   "i": 102,
+   "speaker": "Циннерман",
+   "text": "「Мою семью вырезала Федерация,\n　и я бился изо всех сил, чтобы отомстить.」",
+   "orig": "Zinnerman\n「My family was slaughtered by the Federation,\n　and I fought hard to avenge them.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Циннерман",
+   "text": "「Я мстил так, что и вслух не скажешь.\n　Я сам видел, каким нелюдем становлюсь.\n　Но пустоту внутри это ничуть не заполняло.」",
+   "orig": "Zinnerman\n「I took my revenge in unspeakable ways.\n　I could see myself how inhuman I had become.\n　But, nothing filled that hole.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Циннерман",
+   "text": "「Желание убивать стало угасать, я уже не знал,\n　стоит ли так тащиться до самой смерти, —\n　и тогда я встретил Мариду.」",
+   "orig": "Zinnerman\n「I started to lose my desire to kill,\n　unsure if I should slog on to my death like that,\n　and then I met Marida.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Марида",
+   "text": "「Я жила как Пуру Двенадцатая,\n　потеряв всё остальное.」",
+   "orig": "Marida\n「I was living as Ple Twelve, \n　having lost everything else.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Циннерман",
+   "text": "「Я думал втянуть её в свою месть,\n　но вдруг всё это показалось мне бессмысленным.」",
+   "orig": "Zinnerman\n「I thought she should join my quest for revenge,\n　but then it suddenly seemed so pointless.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Циннерман",
+   "text": "「Последней каплей стал бой в Дакаре.\n　Увидев, как ненависть пожирает дочь Махди,\n　я представил на её месте Мариду и не смог драться.」",
+   "orig": "Zinnerman\n「The last straw was the battle in Dakar.\n　When I saw Mahdi's daughter devoured by hate,\n　I thought of Marida in her place, and I couldn't fight.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Хатауэй",
+   "text": "「Вы про Лони.」",
+   "orig": "Hathaway\n「You mean Loni.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Циннерман",
+   "text": "「Потом я встретил ещё одного такого же, кого спасла\n　Марида, и решил примкнуть к ним, сюда, в «Лаплас».」",
+   "orig": "Zinnerman\n「Then I met someone else like me, who Marida saved, \n　and decided to join them here at Laplace.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Пуру",
+   "text": "「Что? Кого это ещё она спасла?」",
+   "orig": "Ple\n「What? Who else did she save?」"
+  },
+  {
+   "i": 111,
+   "speaker": "Минева",
+   "text": "「Вы все его тоже знаете.」",
+   "orig": "Mineva\n「You all know him too.」"
+  },
+  {
+   "i": 112,
+   "speaker": "Нанай",
+   "text": "「Он хотел бы поздороваться лично,\n　он уже идёт сюда.」",
+   "orig": "Nanai\n「He would like to greet you himself,\n　he's on his way.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Альберто",
+   "text": "「Рад снова всех вас видеть.」",
+   "orig": "Alberto\n「Good to see you all again.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Банагер",
+   "text": "「Альберто!」",
+   "orig": "Banagher\n「Alberto!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Отто",
+   "text": "「Подумать только — встретить главу «Анахайм\n　Электроникс» в таком месте!」",
+   "orig": "Otto\n「Imagine, meeting the head of Anaheim\n　Electronics in a place like this!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Альберто",
+   "text": "「Именно благодаря моему положению в «Анахайме»\n　я и поддерживаю связь с «Лапласом».」",
+   "orig": "Alberto\n「It's precisely because of my place at Anaheim\n　that I'm in touch with Laplace.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Отто",
+   "text": "「В каком смысле?」",
+   "orig": "Otto\n「What do you mean?」"
+  },
+  {
+   "i": 118,
+   "speaker": "Альберто",
+   "text": "「«Анахайм» наладил сотрудничество и с Зеоном,\n　и с Федерацией в расчёте затянуть войну,\n　но сейчас всё это разваливается.」",
+   "orig": "Alberto\n「Anaheim set up cooperation with both Zeon and \n　the Federation, hoping to prolong the war,\n　but that's all falling apart now.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Альберто",
+   "text": "「И всё потому, что Леонард Тестаросса\n　захватил власть в «Амальгаме».」",
+   "orig": "Alberto\n「All because Leonard Testarossa\n　seized control of Amalgam.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Курц",
+   "text": "「Стоп, а «Амальгама» тут при чём?」",
+   "orig": "Kurz\n「Wait, how is Amalgam involved in this?」"
+  },
+  {
+   "i": 121,
+   "speaker": "Тесса",
+   "text": "「Как я и предполагала, «Анахайм Электроникс»\n　с самого начала была частью «Амальгамы».」",
+   "orig": "Tessa\n「As I assumed, Anaheim Electronics\n　was part of Amalgam all along.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Альберто",
+   "text": "「Именно.\n　А глава «Амальгамы», Леонард,\n　порвал с Федерацией и примкнул к Нео-Зеону.」",
+   "orig": "Alberto\n「Exactly.\n　And the head of Amalgam, Leonard,\n　has cut ties to the Federation and joined Neo Zeon.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Альберто",
+   "text": "「И теперь «Анахайм», похоже, вытеснили из «Амальгамы».」",
+   "orig": "Alberto\n「Now it looks like Anaheim's been pushed out of Amalgam.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Тесса",
+   "text": "「Зачем ему это?\n　При размахе и влиянии «Анахайма»\n　это ведь огромная потеря.」",
+   "orig": "Tessa\n「Why would he do that?\n　With Anaheim's size and influence,\n　it seems like that would be a huge loss.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Альберто",
+   "text": "「Точно сказать не могу,\n　но «Амальгама» явно считает, что справится\n　и без нашей поддержки.」",
+   "orig": "Alberto\n「I'm not sure exactly,\n　but Amalgam clearly believes it can operate\n　even without our support.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Альберто",
+   "text": "「Взбешённый решением Леонарда, «Анахайм»\n　примкнул к Федерации и жаждет стереть Зеон с лица земли.」",
+   "orig": "Alberto\n「Angered by Leonard's decision, Anaheim\n　has joined the Federation, and hopes to annihilate Zeon.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Мао",
+   "text": "「Великовата задачка даже для мести!」",
+   "orig": "Mao\n「That's a huge undertaking, even for revenge!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Клузо",
+   "text": "「А если они промахнутся, война только разгорится.」",
+   "orig": "Clouseau\n「If they mess up, it'll only accelerate the war.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Дагуза",
+   "text": "「Но даже с помощью «Анахайма»\n　Федерация безнадёжно уступает.」",
+   "orig": "Daguza\n「Even with Anaheim's help, though,\n　the Federation's totally outclassed.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Отто",
+   "text": "「Значит, у «Анахайма» припасено что-то особенное?」",
+   "orig": "Otto\n「So does Anaheim have something special planned?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Альберто",
+   "text": "「Меня не настолько посвящают в дела.」",
+   "orig": "Alberto\n「I'm not kept that much in the loop.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Найджел",
+   "text": "「Неплохо бы заполучить кого-нибудь\n　чуть более осведомлённого.」",
+   "orig": "Nigel\n「It'd be nice to have someone a bit more\n　in the know to join us.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Амуро",
+   "text": "「Да, но благодаря Альберто\n　мы хотя бы знаем, чем дышит «Анахайм», —\n　так что стоит сказать спасибо.」",
+   "orig": "Amuro\n「Yeah, but thanks to Alberto\n　we've got a bead on Anaheim,\n　so we should show some gratitude.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Альберто",
+   "text": "「Я всего лишь следую совести.\n　И, может быть, это ошибка, но нашёлся человек,\n　который говорит, что даже я кому-то нужен.」",
+   "orig": "Alberto\n「I am only following my conscience.\n　and, well, perhaps it's a mistake, but there's\n　someone who says even a person like me is needed.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Банагер",
+   "text": "「Это ведь Марида, да? 」",
+   "orig": "Banagher\n「That's Marida, isn't it? 」"
+  },
+  {
+   "i": 136,
+   "speaker": "Альберто",
+   "text": "「Да, а ещё меня позвал Камий Бидан.」",
+   "orig": "Alberto\n「Yes, and also, Kamille Bidan asked me to come.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Джудо",
+   "text": "「Камий — что?」",
+   "orig": "Judau\n「Kamille did what?」"
+  },
+  {
+   "i": 138,
+   "speaker": "Камий",
+   "text": "「Ну, у «Анахайма» были связи с АЕУГ.」",
+   "orig": "Kamille\n「Well, Anaheim had connection with AEUG.」"
+  },
+  {
+   "i": 139,
+   "speaker": "Камий",
+   "text": "「Так что я смог выйти на Альберто\n　через $kwbВона$kwe, который сидит\n　в самом сердце «Анахайма».」",
+   "orig": "Kamille\n「So I was able to contact Alberto\n　through $kwbWong$kwe, who's\n　right at the heart of Anaheim.」"
+  },
+  {
+   "i": 140,
+   "speaker": "Брайт",
+   "text": "「Вон? Ты про Вона Ли?」",
+   "orig": "Bright\n「Wong? You mean Wong Lee?」"
+  },
+  {
+   "i": 141,
+   "speaker": "Камий",
+   "text": "「Да.\n　Пока я восстанавливался на Земле,\n　он с сестрой часто ко мне наведывался.」",
+   "orig": "Kamille\n「Yes.\n　When I was in recovery on Earth,\n　he and his sister came to visit me a lot.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Нанай",
+   "text": "「Это тоже было по воле командира Чара.」",
+   "orig": "Nanai\n「That was also on Commander Char's wishes.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Камий",
+   "text": "「Похоже, он сильно переживал из-за того,\n　что случилось со мной в Конфликте Грипса.」",
+   "orig": "Kamille\n「Apparently he was really worried\n　after what happened to me in the Gryps Conflict.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Нанай",
+   "text": "「Но командир всегда говорил, что никогда не сможет\n　посмотреть Камию в глаза.」",
+   "orig": "Nanai\n「But the commander always said he could never\n　show his face to Kamille.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Нанай",
+   "text": "「И раз уж я надеюсь исполнить его последнюю волю иначе,\n　я и позвала Камия к нам, в «Лаплас».」",
+   "orig": "Nanai\n「And so, as I hope to fulfill his dying wish in another way,\n　I asked Kamille to join us here at Laplace.」"
+  },
+  {
+   "i": 146,
+   "speaker": "Камий",
+   "text": "「В глубине души я никогда не смогу простить\n　Чару Азнаблю того, что он пытался сделать.」",
+   "orig": "Kamille\n「In my heart of hearts, I can never\n　forgive Char Aznable for what he tried to do.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Камий",
+   "text": "「Меня ведёт не цель Чара, а та дорога к миру,\n　что когда-то заставила командира Куаттро\n　сражаться против Нео-Зеона. Вот что меня держит.」",
+   "orig": "Kamille\n「For me, it's not Char's goal that I'm after,\n　but the road to peace that led Commander Quattro \n　to fight against Neo Zeon. That's what pushes me on.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Амуро",
+   "text": "「Так вот почему ты вернулся на поле боя.」",
+   "orig": "Amuro\n「So that's why you've returned to the battlefield.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Бича",
+   "text": "「Ладно, красивых слов я тут наслушался,\n　но как именно вы собираетесь закончить эту войну?」",
+   "orig": "Beecha\n「OK, I'm hearing a lot of fine talk,\n　but how exactly are you going to end this war?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Элль",
+   "text": "「А почему просто не убрать\n　главного в Нео-Зеоне, как\n　когда-то с Хаман и Чаром?」",
+   "orig": "Elle\n「Why can't we just take out\n　Neo Zeon's top guy, like\n　back in Haman and Char's day?」"
+  },
+  {
+   "i": 151,
+   "speaker": "Найджел",
+   "text": "「Сейчас это был бы Фулл Фронталь.」",
+   "orig": "Nigel\n「These days, that would be Full Frontal.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Отто",
+   "text": "「Срубим голову — и война закончится прямо там.」",
+   "orig": "Otto\n「If we cut off the head, the war should end right there.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Нанай",
+   "text": "「Наша цель шире.」",
+   "orig": "Nanai\n「Our goal goes beyond that.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Минева",
+   "text": "「Оборвать войну одним ударом — значит лишь\n　обречь всё на повторение.\n　Коренных наших бед это не решит.」",
+   "orig": "Mineva\n「Ending the war in a single stroke\n　will only lead to it all happening again.\n　It won't solve the fundamental problems we face.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Минева",
+   "text": "「И, к сожалению, сами мы\n　настоящего решения так и не нашли.」",
+   "orig": "Mineva\n「And, unfortunately, we have been\n　unable to find the real solution ourselves.」"
+  },
+  {
+   "i": 156,
+   "speaker": "Минева",
+   "text": "「Потому мы и обратились к вам.\n　Не к Нео-Зеону, не к Федерации, а к вам.」",
+   "orig": "Mineva\n「That is why we have contacted you all.\n　Not Neo Zeon, not the Federation, but you.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Джудо",
+   "text": "「Вы предлагаете нам свалить\n　и Нео-Зеон, и Федерацию разом?」",
+   "orig": "Judau\n「Are you suggesting we take down \n　both Neo Zeon and the Federation?」"
+  },
+  {
+   "i": 158,
+   "speaker": "Минева",
+   "text": "「А ты считаешь, что так будет лучше, Джудо?」",
+   "orig": "Mineva\n「Do you think that's best, Judau?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Джудо",
+   "text": "「Конечно нет! Такое безумие затеяли бы\n　разве что Чар или Хаман.」",
+   "orig": "Judau\n「Of course not! That's the kind of craziness\n　Char or Haman would have tried.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Минева",
+   "text": "「Ты именно такой, каким тебя описывала Хаман.」",
+   "orig": "Mineva\n「You're just as Haman described you.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Джудо",
+   "text": "「Вы были с ней близки?」",
+   "orig": "Judau\n「You were close to her?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Минева",
+   "text": "「Когда я жила на Аксисе,\n　Хаман многому меня научила.」",
+   "orig": "Mineva\n「When I was on Axis,\n　Haman taught me so much.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Минева",
+   "text": "「А когда я вернулась в Земную сферу,\n　она осталась одной из немногих моих друзей.」",
+   "orig": "Mineva\n「And when I returned to Earth Sphere,\n　she remained one of my few friends.」"
+  },
+  {
+   "i": 164,
+   "speaker": "Камий",
+   "text": "「Судя по всему, $kwbдвойник Миневы Заби$kwe\n　был частью замысла Хаман —\n　уберечь настоящую Миневу.」",
+   "orig": "Kamille\n「Apparently, the $kwbMineva Zabi's Body Double$kwe\n　was part of Haman's plan\n　to protect the real Mineva.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Нанай",
+   "text": "「И именно поэтому, умирая, Хаман Карн\n　передала её высочеству\n　управление Колониальным лазером.」",
+   "orig": "Nanai\n「And that relationship is why, on her death,\n　Haman Karn passed control of the Colony Laser\n　to Her Highness.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Брайт",
+   "text": "「Значит, всё это подготовила Хаман.」",
+   "orig": "Bright\n「So Haman set all that up.」"
+  },
+  {
+   "i": 167,
+   "speaker": "Нанай",
+   "text": "「В те времена, когда она была наставницей,\n　Нео-Зеон едва не развалился изнутри.」",
+   "orig": "Nanai\n「While she was serving as a mentor,\n　Neo Zeon was on the verge of falling apart from within.」"
+  },
+  {
+   "i": 168,
+   "speaker": "Ру",
+   "text": "「Вы про мятеж $kwbГлеми$kwe.」",
+   "orig": "Roux\n「You mean $kwbGlemy$kwe's insurrection.」"
+  },
+  {
+   "i": 169,
+   "speaker": "Нанай",
+   "text": "「Да, и чтобы его подавить, Хаман велела\n　починить Колониальный лазер,\n　повреждённый в Конфликте Грипса.」",
+   "orig": "Nanai\n「Yes, and in order to suppress it,\n　Haman had the Colony Laser repaired\n　after it was damaged in the Gryps Conflict.」"
+  },
+  {
+   "i": 170,
+   "speaker": "Нанай",
+   "text": "「В итоге его так и не применили:\n　и Хаман, и Глеми пали в бою,\n　а командир Чар взялся переустраивать Нео-Зеон.」",
+   "orig": "Nanai\n「In the end it was never used,\n　since Haman and Glemy both fell in battle,\n　and Commander Char went on to reorganize Neo Zeon.」"
+  },
+  {
+   "i": 171,
+   "speaker": "Нанай",
+   "text": "「И поскольку власть в Нео-Зеоне перешла от командира\n　Чара к Фуллу Фронталу, главная фракция Нео-Зеона\n　сейчас о Колониальном лазере попросту не знает.」",
+   "orig": "Nanai\n「So, since control of Neo Zeon passed from Cmdr. Char\n　to Full Frontal, the chief faction of Neo Zeon is \n　currently unaware of the Colony Laser.」"
+  },
+  {
+   "i": 172,
+   "speaker": "Минева",
+   "text": "「Я и сама узнала о нём лишь тогда, когда Хаман\n　доверила его мне, примерно когда я пришла в «Лаплас».」",
+   "orig": "Mineva\n「The first I knew of it was when Haman\n　entrusted it to me, around the time I joined Laplace.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Минева",
+   "text": "「Мы держим его как последнее средство сдерживания —\n　на случай, если Нео-Зеон и правда соберётся убить Землю.」",
+   "orig": "Mineva\n「We'll keep it as a final deterrent, to be used in case\n　it looks like Neo Zeon might actually destroy Earth.」"
+  },
+  {
+   "i": 174,
+   "speaker": "Брайт",
+   "text": "「В космической войне Колониальный лазер\n　и впрямь способен переломить ход сражения.」",
+   "orig": "Bright\n「In a space war, the Colony Laser\n　certainly could turn the tide of battle.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Мондо",
+   "text": "「А если пустить его в ход,\n　разве нельзя ударить по Зеону в лоб?」",
+   "orig": "Mondo\n「If we used it,\n　couldn't we take Zeon head on?」"
+  },
+  {
+   "i": 176,
+   "speaker": "Джудо",
+   "text": "「Ни за что.\n　Так его использовать нельзя.」",
+   "orig": "Judau\n「No way.\n　We can't use it like that.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Банагер",
+   "text": "「Иначе война превратится в трясину, из которой не выбраться.」",
+   "orig": "Banagher\n「If we did, the war would become a quagmire, inescapable.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Мондо",
+   "text": "「Да понял я, понял.\n　Просто мысль вслух.」",
+   "orig": "Mondo\n「I know, I know.\n　It was just a thought.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Минева",
+   "text": "「Вот именно вам\n　нам и следует вверить эту силу.」",
+   "orig": "Mineva\n「Indeed, you are just the people\n　we should entrust with our power.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Амуро",
+   "text": "「Вы связались с нами, понимая,\n　что сперва нужно проверить будущих союзников.」",
+   "orig": "Amuro\n「You got in touch with us\n　knowing you needed to check out your partners.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Минева",
+   "text": "「Мы остановились на вас не сразу.」",
+   "orig": "Mineva\n「We didn't decide on you right away.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Минева",
+   "text": "「Мы рассматривали и вариант выйти на кого-нибудь\n　в правительстве Земной Федерации против Нео-Зеона.」",
+   "orig": "Mineva\n「We also considered contacting someone in the\n　Earth Federation government to oppose Neo Zeon.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Отто",
+   "text": "「Так вот почему вы действовали заодно с мичманом Ридде!」",
+   "orig": "Otto\n「That's why you were coordinating with Ensign Riddhe!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Минева",
+   "text": "「Однако советник Марсенас попытался\n　сделать меня разменной картой в переговорах с Зеоном.」",
+   "orig": "Mineva\n「However, Councilman Marcenas tried \n　to use me as a tool in his negotiations with Zeon.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Брайт",
+   "text": "「Ронан Марсенас, значит?\n　Он председатель Совета по делам поселений.\n　И у него немалый вес в Федеральных силах.」",
+   "orig": "Bright\n「Ronan Marcenas, huh?\n　He's chairman of the Settlement Issues Council. \n　He's got a lot of clout with Federation Forces.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Минева",
+   "text": "「Вы же не такие, как они.\n　Вы верите, что войну можно закончить,\n　не просто уничтожив противника.」",
+   "orig": "Mineva\n「You all are different from them.\n　You believe in a way to end this war\n　without simply destroying your enemy.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Минева",
+   "text": "「Мы оставляем вам и Колониальный лазер,\n　и Вычислительный блок.」",
+   "orig": "Mineva\n「We will leave the Colony Laser and\n　Calculation Unit with you.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Нанай",
+   "text": "「Как бы вы ими ни распорядились,\n　в них есть сила закончить эту войну.」",
+   "orig": "Nanai\n「However you use it,\n　it has the power to end this war.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Брайт",
+   "text": "「Вы точно уверены?」",
+   "orig": "Bright\n「Are you sure that's OK?」"
+  },
+  {
+   "i": 190,
+   "speaker": "Минева",
+   "text": "「Вы показали свои истинные намерения,\n　и я видела это своими глазами. Я вам верю.」",
+   "orig": "Mineva\n「You all have shown your true intentions,\n　I have seen it with my own eyes. I trust you.」"
+  },
+  {
+   "i": 191,
+   "speaker": "Минева",
+   "text": "「Прошу, как-нибудь обратите эту силу не на победу\n　или поражение, не на то, чтобы снести Нео-Зеон\n　или Федерацию, а на поиск дороги к миру.」",
+   "orig": "Mineva\n「Please, somehow, use this power not for victory or defeat,\n　not simply to destroy Neo Zeon or the Federation,\n　but to find the path to peace.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Брайт",
+   "text": "「Мы поняли.\n　Мы принимаем это.」",
+   "orig": "Bright\n「We understand.\n　We'll take it.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Инес",
+   "text": "「Благодаря помощи Нанай мы выстроили надёжную\n　систему связи с Вычислительным блоком\n　через психораму.」",
+   "orig": "Inez\n「Thanks to Nanai's help,\n　we've developed a solid system to contact the Calculation\n　Unit via the Psychoframe.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Инес",
+   "text": "「Ещё немного исследований — и мы сможем\n　с её помощью прыгать в параллельные миры по своей воле.」",
+   "orig": "Inez\n「With a bit more research, we should be able to\n　use it to voluntarily jump to parallel worlds.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Кодай",
+   "text": "「Вы серьёзно?」",
+   "orig": "Kodai\n「You mean it?」"
+  },
+  {
+   "i": 196,
+   "speaker": "Окита",
+   "text": "「Мы сможем вернуться домой?」",
+   "orig": "Okita\n「We could go home?」"
+  },
+  {
+   "i": 197,
+   "speaker": "Тобиа",
+   "text": "「Домой!\n　Мы правда можем попасть домой!」",
+   "orig": "Tobia\n「Home!\n　We might actually go home!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Сима",
+   "text": "「Я снова смогу взять курс на Искандар!」",
+   "orig": "Shima\n「I could be on my way to Iscandar again!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Амуро",
+   "text": "「Вот только Нео-Зеон заметно впереди\n　в исследованиях психорамы.」",
+   "orig": "Amuro\n「Neo Zeon is quite a bit ahead\n　in Psychoframe research, though.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Санада",
+   "text": "「Зато ключевой Вычислительный блок у нас в руках.\n　И по исследовательскому материалу у нас огромный перевес:\n　Марсианские преемники добыли «ν Гандам».」",
+   "orig": "Sanada\n「Above all, we have the key Calculation Unit in our hands. \n　We've also got a huge advantage in research materials,\n　with the Martian Successors having obtained a ν Gundam.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Юрика",
+   "text": "「А ещё с нами сотрудничает прыгун класса А.」",
+   "orig": "Yurika\n「What's more, we have the cooperation of a Class-A Jumper.」"
+  },
+  {
+   "i": 202,
+   "speaker": "Акито",
+   "text": "「И вдобавок она же исследователь.」",
+   "orig": "Akito\n「Adding to which, she's also a researcher.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Инес",
+   "text": "「Ну хватит уже!\n　Расслабляться ещё рановато.」",
+   "orig": "Inez\n「Stop already!\n　It's still a bit early to relax.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Инес",
+   "text": "「Прежде чем я поделюсь результатами своих работ\n　со всеми вами с «Ямато»...」",
+   "orig": "Inez\n「First, before I share my research results\n　with all of you from Yamato...」"
+  },
+  {
+   "i": 205,
+   "speaker": "Окита",
+   "text": "「Можете не продолжать.\n　Мы приложим все силы, чтобы помочь\n　закончить войну этого измерения.」",
+   "orig": "Okita\n「There's no need to say any more.\n　We will use all our power to help\n　bring this dimension's war to an end.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Окита",
+   "text": "「И не ради награды, а потому, что мы,\n　люди, живущие здесь и сейчас в этом мире,\n　хотим сражаться за мир.」",
+   "orig": "Okita\n「We won't do it for any reward,\n　but because as people living here and now\n　in this world, we wish to fight for peace.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Минева",
+   "text": "「Благодарю вас, командующий Окита.」",
+   "orig": "Mineva\n「Thank you, Commander Okita.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Банагер",
+   "text": "（Сила, превосходящая и Федерацию, и Нео-Зеон...\n　и здесь собрались люди из трёх разных измерений.）",
+   "orig": "Banagher\n（Power beyond that of the Federation and Neo Zeon...\n　and gathered here, people from three different dimensions.）"
+  },
+  {
+   "i": 209,
+   "speaker": "Банагер",
+   "text": "（Грядёт что-то большое.\n　И это станет настоящей проверкой\n　человеческих возможностей.）",
+   "orig": "Banagher\n（Something big is going to happen.\n　That will be the true test of human potential.）"
+  },
+  {
+   "i": 213,
+   "speaker": "　",
+   "text": "　\n　　-Внутри Аксиса, Вычислительный блок-",
+   "orig": "　\n　\n　　　　　　　-Inside Axis, Calculation Unit-"
+  },
+  {
+   "i": 214,
+   "speaker": "Рури",
+   "text": "「Как ни искали Марсианские преемники и «Нергал»,\n　Вычислительный блок они так и не нашли.」",
+   "orig": "Ruri\n「As hard as the Martian Successors and Nergal were looking,\n　they never found the Calculation Unit.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Юрика",
+   "text": "「Кто бы мог подумать, что он в другом измерении?」",
+   "orig": "Yurika\n「Who would have thought it was in another dimension?」"
+  },
+  {
+   "i": 216,
+   "speaker": "Инес",
+   "text": "「Даже если бы с бозонным прыжком всё было гладко,\n　сама мысль, что он способен пробить межмировые стены\n　и уловить мысли прыгуна, поражает.」",
+   "orig": "Inez\n「Even if there had been no problems with the Boson Jump,\n　the idea that it could penetrate the dimensional walls \n　and pick up a Jumper's thoughts is incredible.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Харри",
+   "text": "「Но это значит, что бозонный прыжок\n　станет орудием войны.」",
+   "orig": "Harry\n「But this means that Boson Jumping\n　will become a tool of war.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Акито",
+   "text": "「Но это не оружие против врага.\n　В нём сила закончить войну!」",
+   "orig": "Akito\n「But it's not a weapon to use against enemies.\n　It's got the power to end the war!」"
+  },
+  {
+   "i": 219,
+   "speaker": "Юрика",
+   "text": "「Акито, ты уверен?」",
+   "orig": "Yurika\n「Akito, are you sure?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Акито",
+   "text": "「Это наивно, но мне хочется в это верить.\n　Я хочу закончить бойню, и поскорее.」",
+   "orig": "Akito\n「It's optimistic, but I want to believe it.\n　I want to end the fighting, and quickly.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Юрика",
+   "text": "「Ты прав.」",
+   "orig": "Yurika\n「You're right.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Рури",
+   "text": "「А потом, я уверена, бозонный прыжок\n　поможет раскрыть истинный потенциал человечества!」",
+   "orig": "Ruri\n「And after that, I know that Boson Jumping\n　will help to bring out humanity's true potential!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Рури",
+   "text": "「В нём сила соединить все три измерения: AD,\n　Новый Правильный век и Универсальный век.」",
+   "orig": "Ruri\n「It has the power to connect all three dimensions: AD, \n　New Correct Century, and Universal Century.」"
+  },
+  {
+   "i": 227,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Ангар　«Нахель Аргамы»-",
+   "orig": "　\n　\n　　　　　　　　　　-Nahel Argama　Hangar-"
+  },
+  {
+   "i": 228,
+   "speaker": "Марида",
+   "text": "「Понятно. Тебе ведь\n　тоже немало досталось, правда?」",
+   "orig": "Marida\n「I see. You've been\n　through a lot too, haven't you?」"
+  },
+  {
+   "i": 229,
+   "speaker": "Пуру Два",
+   "text": "「Да.」",
+   "orig": "Ple Two\n「Yeah.」"
+  },
+  {
+   "i": 230,
+   "speaker": "Пуру",
+   "text": "「Джудо не дал нам с Пуру Второй подраться.」",
+   "orig": "Ple\n「Judau stopped Ple Two and me from fighting.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Пуру Два",
+   "text": "「А потом вытащил меня из боя.」",
+   "orig": "Ple Two\n「And he rescued me from battle.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Пуру",
+   "text": "「Это благодаря ему мы с Пуру Второй\n　сейчас здесь стоим.」",
+   "orig": "Ple\n「He's the reason Ple Two and I are\n　standing here right now.」"
+  },
+  {
+   "i": 233,
+   "speaker": "Пуру Два",
+   "text": "「А теперь мы ещё и с тобой, Марида.」",
+   "orig": "Ple Two\n「And now we're with you, too, Marida.」"
+  },
+  {
+   "i": 234,
+   "speaker": "Марида",
+   "text": "「Пуру, Пуру Два, вы обе правы.」",
+   "orig": "Marida\n「Ple, Ple Two, you're both right.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Пуру",
+   "text": "「Между прочим, можешь звать меня старшей сестрёнкой.」",
+   "orig": "Ple\n「You can call me big sis, you know.」"
+  },
+  {
+   "i": 236,
+   "speaker": "Марида",
+   "text": "「Ой, э-э, ну...」",
+   "orig": "Marida\n「Oh, um, well...」"
+  },
+  {
+   "i": 237,
+   "speaker": "Пуру Два",
+   "text": "「Не обращай внимания.\n　Я и то до сих пор зову её просто Пуру.」",
+   "orig": "Ple Two\n「Never mind her.\n　Even I still call her Ple.」"
+  },
+  {
+   "i": 238,
+   "speaker": "Пуру Два",
+   "text": "「Да и вообще, Марида больше\n　не Пуру Двенадцатая!」",
+   "orig": "Ple Two\n「And anyway, Marida isn't \n　Ple Twelve anymore!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Марида",
+   "text": "「Да...」",
+   "orig": "Marida\n「Yeah...」"
+  },
+  {
+   "i": 240,
+   "speaker": "Пуру",
+   "text": "「Ну тогда пошли все вместе за мороженым!\n　Вперёд! Пурупурупурупурупуррру!」",
+   "orig": "Ple\n「OK then, well, let's all go get ice cream!\n　Let's go! Plepleplepleplepllle!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Пуру Два",
+   "text": "「Ага!\n　Пурупурупурупурупуррру!」",
+   "orig": "Ple Two\n「OK!\n　Plepleplepleplepllle!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Марида",
+   "text": "「Пуру-пуру-пурр...?」",
+   "orig": "Marida\n「Pullupullplll...?」"
+  },
+  {
+   "i": 243,
+   "speaker": "Пуру",
+   "text": "「Да не переживай ты, Марида!」",
+   "orig": "Ple\n「Don't worry about it, Marida!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Пуру Два",
+   "text": "「Просто будь собой!」",
+   "orig": "Ple Two\n「Just be yourself!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Марида",
+   "text": "「Спасибо.」",
+   "orig": "Marida\n「Thanks.」"
+  },
+  {
+   "i": 246,
+   "speaker": "Альберто",
+   "text": "「Кажется, я впервые вижу, как она улыбается.」",
+   "orig": "Alberto\n「That might be the first time I've seen her smile.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Циннерман",
+   "text": "「И правда, впервые вижу её такой беззаботной.\n　Ради одного этого стоило прийти в «Лаплас».」",
+   "orig": "Zinnerman\n「True, it's the first time I've ever seen her so carefree.\n　It was worth coming to Laplace for that alone.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Отто",
+   "text": "「Вот это новость — старый ворчливый\n　вояка расчувствовался\n　из-за улыбки девчонки!」",
+   "orig": "Otto\n「Now that's something new, seeing this\n　grumpy old warhorse get all wistful\n　over a smiling girl!」"
+  },
+  {
+   "i": 249,
+   "speaker": "Отто",
+   "text": "「Но это ведь хорошо.」",
+   "orig": "Otto\n「But, it's a good thing.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Циннерман",
+   "text": "「Это Марида меня спасла —\n　после того, как я совсем сошёл с человеческого пути.」",
+   "orig": "Zinnerman\n「It was Marida who saved me,\n　after I strayed so far off the path of humanity.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Альберто",
+   "text": "「Меня она тоже спасла.\n　Не встреть я её, я бы наверняка до сих пор\n　трудился над тем, чтобы затянуть эту бесконечную войну.」",
+   "orig": "Alberto\n「She saved me, too.\n　If I'd never met her, I would certainly\n　still be working to draw out this endless war.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Отто",
+   "text": "「Люди встречаются — и судьбы меняются.\n　Занятная всё-таки штука жизнь.」",
+   "orig": "Otto\n「When people meet, fates change.\n　Life certainly is an interesting thing.」"
+  },
+  {
+   "i": 253,
+   "speaker": "Минева",
+   "text": "「Марида — жертва войны,\n　и жизнь у неё была очень горькая.」",
+   "orig": "Mineva\n「Marida was a victim of war,\n　and she's led a very sad life.」"
+  },
+  {
+   "i": 254,
+   "speaker": "Банагер",
+   "text": "「Да...」",
+   "orig": "Banagher\n「Yeah...」"
+  },
+  {
+   "i": 255,
+   "speaker": "Минева",
+   "text": "「Люди должны измениться, чтобы\n　больше никому не пришлось жить, как ей.」",
+   "orig": "Mineva\n「People have to change, so that\n　no one else will have to live like her.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Амуро",
+   "text": "「Я и сам часть этой беды.」",
+   "orig": "Amuro\n「I'm part of that problem.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Минева",
+   "text": "「Амуро...」",
+   "orig": "Mineva\n「Amuro...」"
+  },
+  {
+   "i": 258,
+   "speaker": "Амуро",
+   "text": "「Ты ведь знаешь... это я\n　убил твоего отца.」",
+   "orig": "Amuro\n「You must know...I'm the one\n　who killed your father.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Минева",
+   "text": "「Да.」",
+   "orig": "Mineva\n「Yes.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Минева",
+   "text": "「Это была война.\n　Вам не нужно нести эту вину.」",
+   "orig": "Mineva\n「It was war.\n　You need not carry the blame.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Амуро",
+   "text": "「Твои слова для меня словно прощение.\n　Я верю в то, что ты сказала.\n　И я тебя поддержу, несмотря на дела Чара.」",
+   "orig": "Amuro\n「You saying that feels like redemption.\n　I believe what you said.\n　And I will support you, despite what Char did.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Банагер",
+   "text": "「И я тоже, Одри.」",
+   "orig": "Banagher\n「Me too, Audrey.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Минева",
+   "text": "「Спасибо, командир Амуро.\n　И тебе, Банагер.」",
+   "orig": "Mineva\n「Thank you, Commander Amuro.\n　And you, Banagher.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Банагер",
+   "text": "「Слушай, Одри...\n　Насчёт названия этой организации — «Лаплас».」",
+   "orig": "Banagher\n「So, Audrey...\n　About the name of this organization, Laplace.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Джудо",
+   "text": "「Замечен противник!」",
+   "orig": "Judau\n「Enemies sighted!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Камий",
+   "text": "「Скорее всего, Нео-Зеон.\n　Было время, когда Фулл Фронталь\n　мирился с существованием «Лапласа».」",
+   "orig": "Kamille\n「It's most likely Neo Zeon.\n　There was a time when Full Frontal\n　tolerated Laplace's existence.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Хатауэй",
+   "text": "「С чего бы это?」",
+   "orig": "Hathaway\n「Whatever for?」"
+  },
+  {
+   "i": 268,
+   "speaker": "Камий",
+   "text": "「Наверное, считал нас мелочью.\n　Но влияние «Лондо Белл» всё изменило.」",
+   "orig": "Kamille\n「He probably thought it unimportant.\n　But now the influence of Londo Bell has changed things.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Камий",
+   "text": "「А если он ещё и прознал про Колониальный лазер,\n　то просто обязан попытаться его захватить!」",
+   "orig": "Kamille\n「And if he's found out about the Colony Laser,\n　he'd have to try and take it!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Джудо",
+   "text": "「С Колониальным лазером всё в порядке?」",
+   "orig": "Judau\n「Is the Colony Laser OK?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Камий",
+   "text": "「Там сосредоточена немалая часть сил «Лапласа».\n　Захватить его будет непросто.」",
+   "orig": "Kamille\n「Many of Laplace's forces are deployed on that side.\n　It won't be easy to take.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Джудо",
+   "text": "「Тогда ладно!\n　Раз так, защитим Аксис.」",
+   "orig": "Judau\n「Alright then!\n　If that's true, then let's protect Axis.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Астонейдж",
+   "text": "「Джудо!\n　Я поставил тебе те детали Фулл Армора,\n　которые ты просил!」",
+   "orig": "Astonage\n「Judau!\n　I put those Full Armor parts\n　you asked for in your equipment!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Джудо",
+   "text": "「Спасибо, Астонейдж!\n　Теперь-то я подерусь по-настоящему!」",
+   "orig": "Judau\n「Thanks, Astonage!\n　Now I can really fight!」"
+  },
+  {
+   "i": 275,
+   "speaker": "Ру",
+   "text": "「Камий!\n　Не бери «Ре-ГЗ»!」",
+   "orig": "Roux\n「Kamille!\n　Don't use your Re-GZ!」"
+  },
+  {
+   "i": 276,
+   "speaker": "Камий",
+   "text": "「Что?」",
+   "orig": "Kamille\n「What?」"
+  },
+  {
+   "i": 277,
+   "speaker": "Ру",
+   "text": "「У меня твоя «Зета».\n　По-моему, «Зета» тебе куда больше к лицу!」",
+   "orig": "Roux\n「I've got your Zeta.\n　I reckon the Zeta suits you better!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Джудо",
+   "text": "「Ну, погнали, Камий!\n　Мы с тобой — тройная Z!」",
+   "orig": "Judau\n「OK, let's go, Kamille!\n　Me and you make a triple Z!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Камий",
+   "text": "「Ох...」",
+   "orig": "Kamille\n「Ugh...」"
+  },
+  {
+   "i": 280,
+   "speaker": "Фа",
+   "text": "「Ох, Камий.」",
+   "orig": "Fa\n「Oh, Kamille.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Джудо",
+   "text": "「Замечен противник!」",
+   "orig": "Judau\n「Enemies sighted!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Камий",
+   "text": "「Скорее всего, Нео-Зеон.\n　Было время, когда Фулл Фронталь\n　мирился с существованием «Лапласа».」",
+   "orig": "Kamille\n「It's most likely Neo Zeon.\n　There was a time when Full Frontal\n　tolerated Laplace's existence.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Хатауэй",
+   "text": "「С чего бы это?」",
+   "orig": "Hathaway\n「Whatever for?」"
+  },
+  {
+   "i": 284,
+   "speaker": "Камий",
+   "text": "「Наверное, считал нас мелочью.\n　Но влияние «Лондо Белл» всё изменило.」",
+   "orig": "Kamille\n「He probably thought it unimportant.\n　But now the influence of Londo Bell has changed things.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Камий",
+   "text": "「А если он ещё и прознал про Колониальный лазер,\n　то просто обязан попытаться его захватить!」",
+   "orig": "Kamille\n「And if he's found out about the Colony Laser,\n　then he'd have to try and take it!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Джудо",
+   "text": "「С Колониальным лазером всё в порядке?」",
+   "orig": "Judau\n「Is the Colony Laser OK?」"
+  },
+  {
+   "i": 287,
+   "speaker": "Камий",
+   "text": "「Бо́льшая часть сил «Лапласа» стоит там.\n　Захватить его будет непросто.」",
+   "orig": "Kamille\n「The better part of Laplace's forces are on that side.\n　It won't be easy to take.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Джудо",
+   "text": "「Тогда ладно!\n　Раз так, защитим Аксис.」",
+   "orig": "Judau\n「Alright then!\n　If that's so, then let's protect Axis.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Ру",
+   "text": "「Камий!\n　Не бери «Ре-ГЗ»!」",
+   "orig": "Roux\n「Kamille!\n　Don't use your Re-GZ!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Камий",
+   "text": "「Что?」",
+   "orig": "Kamille\n「What?」"
+  },
+  {
+   "i": 291,
+   "speaker": "Ру",
+   "text": "「У меня твоя «Зета».\n　По-моему, «Зета» тебе куда больше к лицу!」",
+   "orig": "Roux\n「I've got your Zeta.\n　I reckon the Zeta suits you better!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Джудо",
+   "text": "「Ну, погнали, Камий!\n　Мы с тобой — тройная Z!」",
+   "orig": "Judau\n「OK, let's go, Kamille!\n　Me and you make a triple Z!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Камий",
+   "text": "「Ох...」",
+   "orig": "Kamille\n「Ugh...」"
+  },
+  {
+   "i": 294,
+   "speaker": "Фа",
+   "text": "「Ох, Камий.」",
+   "orig": "Fa\n「Oh, Kamille.」"
+  },
+  {
+   "i": 298,
+   "speaker": "Найн",
+   "text": "「Камий!」",
+   "orig": "Nine\n「Kamille!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Камий",
+   "text": "「А, Найн.\n　Похоже, я тебя всё-таки напугал.」",
+   "orig": "Kamille\n「Oh, Nine.\n　I guess I must have worried you.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yes.」"
+  },
+  {
+   "i": 301,
+   "speaker": "Камий",
+   "text": "「Видимо, чутьё у меня здорово обострилось.\n　Я смог ощутить твоё сознание.」",
+   "orig": "Kamille\n「My senses must have become really sharp.\n　I was able to sense your consciousness.」"
+  },
+  {
+   "i": 302,
+   "speaker": "Найн",
+   "text": "「Но я всего лишь ИИ.」",
+   "orig": "Nine\n「But I'm just an AI.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Камий",
+   "text": "「А разве у ИИ нет души?」",
+   "orig": "Kamille\n「Doesn't an AI have a mind?」"
+  },
+  {
+   "i": 304,
+   "speaker": "Найн",
+   "text": "「Нет...」",
+   "orig": "Nine\n「No...」"
+  },
+  {
+   "i": 305,
+   "speaker": "Найн",
+   "text": "「Проанализировав ваш бой с пилотом по имени Джерид,\n　мой блок тактической обработки получил данных\n　на сумму в 100 ТакО.」",
+   "orig": "Nine\n「By analyzing your battle with the pilot known as Jerid,\n　my tactical processing capacity gained data equivalent\n　to 100 TAC points.」"
+  },
+  {
+   "i": 306,
+   "speaker": "Найн",
+   "text": "「Полагаю, в этом бою проявилось ваше душевное состояние —\n　в отличие от схваток с другими противниками.」",
+   "orig": "Nine\n「I believe that battle showed your emotional state,  \n　in contrast to your battles with other enemies.」"
+  },
+  {
+   "i": 307,
+   "speaker": "Камий",
+   "text": "「У нас с ним многое позади.」",
+   "orig": "Kamille\n「He and I have been through a lot.」"
+  },
+  {
+   "i": 308,
+   "speaker": "Камий",
+   "text": "（Каждая наша с ним схватка запоминается,\n　вот только воспоминания всегда скверные.）",
+   "orig": "Kamille\n（Whenever he and I fight, it's memorable,\n　although the memories are always awful.）"
+  },
+  {
+   "i": 309,
+   "speaker": "Камий",
+   "text": "（Интересно, изменится ли он когда-нибудь.）",
+   "orig": "Kamille\n（I wonder if he'll ever change.）"
+  },
+  {
+   "i": 313,
+   "speaker": "Найн",
+   "text": "「Хм-м.」",
+   "orig": "Nine\n「Hmmm.」"
+  },
+  {
+   "i": 314,
+   "speaker": "Инес",
+   "text": "「Тебя интересует Вычислительный блок?」",
+   "orig": "Inez\n「Are you interested in the Calculation Unit?」"
+  },
+  {
+   "i": 315,
+   "speaker": "Найн",
+   "text": "「Да.」",
+   "orig": "Nine\n「Yes.」"
+  },
+  {
+   "i": 316,
+   "speaker": "Инес",
+   "text": "「Капитан Хосино сказала мне, что у тебя есть данные\n　о прыжках в параллельные вселенные.」",
+   "orig": "Inez\n「I heard from Captain Hoshino that you have data\n　related to jumping to parallel universes.」"
+  },
+  {
+   "i": 317,
+   "speaker": "Инес",
+   "text": "「Что скажешь, Найн?\n　Не поможешь мне с исследованиями?」",
+   "orig": "Inez\n「What do you think, Nine?\n　Would you give me a hand with my research?」"
+  },
+  {
+   "i": 318,
+   "speaker": "Найн",
+   "text": "「Разумеется, если от меня будет толк.」",
+   "orig": "Nine\n「Of course, if I can be of assistance.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Инес",
+   "text": "「До чего же ты покладистая.」",
+   "orig": "Inez\n「You're awfully obedient, aren't you?」"
+  },
+  {
+   "i": 320,
+   "speaker": "Найн",
+   "text": "「Я создана, чтобы служить людям.」",
+   "orig": "Nine\n「I was made to be of service to humans.」"
+  }
+ ]
+}

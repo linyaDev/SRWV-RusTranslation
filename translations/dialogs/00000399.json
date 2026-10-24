@@ -1,0 +1,2560 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "speaker": "Мисато",
+   "text": "「Вот уж не думала, что Ангел может \n　явиться к нам прямо из космоса.」",
+   "orig": "Misato\n「I never would have thought it possible for \n　an Angel to approach from outer space.」"
+  },
+  {
+   "i": 1,
+   "speaker": "Мисато",
+   "text": "「Его AT-поле искривляет свет — жуткое зрелище.\n　И он, судя по всему, намерен приземлиться здесь?」",
+   "orig": "Misato\n「That AT field is distorting the light; it's frightening.\n　And I suppose it's attempting to land here, correct?.」"
+  },
+  {
+   "i": 2,
+   "speaker": "Майя",
+   "text": "「МАГИ закончили перерасчёт.\n　Вероятность того, что цель — штаб NERV, 99,9999%.」",
+   "orig": "Maya\n「MAGI recalculations just in.\n　There is a 99.9999% probability it is headed for NERV HQ.」"
+  },
+  {
+   "i": 3,
+   "speaker": "Мисато",
+   "text": "「Даже не знаю, что на это ответить.」",
+   "orig": "Misato\n「I don't even know how to reply to that.」"
+  },
+  {
+   "i": 4,
+   "speaker": "Фуюцуки",
+   "text": "「Как отреагировал Нео-Зеон?」",
+   "orig": "Fuyutsuki\n「How has Neo Zeon reacted?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Макото",
+   "text": "「Они заняли выжидательную позицию.」",
+   "orig": "Makoto\n「The are adopting a wait-and-see stance.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Фуюцуки",
+   "text": "「То есть будут сидеть сложа руки и смотреть, как\n　человечество стирают с лица Земли.」",
+   "orig": "Fuyutsuki\n「So they're just gonna sit back and watch as humanity is\n　wiped from the face of the Earth without lifting a finger.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Гэндо",
+   "text": "「Хм.」",
+   "orig": "Gendo\n「Hmm.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Мисато",
+   "text": "「Есть шанс изменить траекторию Ангела?」",
+   "orig": "Misato\n「Does it look like we can modify the Angel's trajectory?」"
+  },
+  {
+   "i": 9,
+   "speaker": "Рицуко",
+   "text": "「Мы пересчитывали много раз — это невозможно.」",
+   "orig": "Ritsuko\n「We ran the calculations numerous times; it's impossible.」"
+  },
+  {
+   "i": 10,
+   "speaker": "Майя",
+   "text": "「Он сосредоточен на удержании AT-поля, и его энергия\n　добавится к энергии удара.」",
+   "orig": "Maya\n「It's concentrating on maintaining its AT field,\n　the energy of which will be added to that of the impact.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Рицуко",
+   "text": "「Значит, против него сработает только удар всеми силами.」",
+   "orig": "Ritsuko\n「So nothing sort of an all out attack will work against it.」"
+  },
+  {
+   "i": 12,
+   "speaker": "Мисато",
+   "text": "「Выходит, Ангел и есть бомба?」",
+   "orig": "Misato\n「The Angel itself is a bomb, huh?」"
+  },
+  {
+   "i": 13,
+   "speaker": "Майя",
+   "text": "「Расчётный радиус поражения при прямом попадании —\n　420 000 в диаметре. Останется воронка глубиной -15 000.」",
+   "orig": "Maya\n「Estimated direct-hit blast-range scale at a diameter of\n　420,000. That will leave a -15,000 Geoid-depth depression.」"
+  },
+  {
+   "i": 14,
+   "speaker": "Макото",
+   "text": "「Токио-3 испарится,\n　а Геофронт и Центральная Догма \n　окажутся полностью открыты.」",
+   "orig": "Makoto\n「Tokyo-3 will be evaporated,\n　and leave both GeoFront and \n　Central Dogma completely exposed.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Мисато",
+   "text": "「Разумеется, мы этого не допустим.」",
+   "orig": "Misato\n「Naturally, we are not going to let that happen.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Аска",
+   "text": "「То есть вы хотите, чтобы Ангела остановили мы?」",
+   "orig": "Asuka\n「That means you want us to stop the Angel, correct?」"
+  },
+  {
+   "i": 17,
+   "speaker": "Синдзи",
+   "text": "「Разве это вообще возможно?」",
+   "orig": "Shinji\n「Is that even possible?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Мисато",
+   "text": "「Остановить его может только Ева \n　с таким же AT-полем.」",
+   "orig": "Misato\n「Only an EVA with the same \n　AT field can stop it.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Мисато",
+   "text": "「Но даже тогда шанс на успех —\n　всего 0,0001%.」",
+   "orig": "Misato\n「Even then, the chance of\n　success is a mere 0.0001%.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Синдзи",
+   "text": "「Да вы шутите!」",
+   "orig": "Shinji\n「You've got to be kidding!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Аска",
+   "text": "「Струсил, папенькин сынок?」",
+   "orig": "Asuka\n「Cold feet, Daddy's Boy?」"
+  },
+  {
+   "i": 22,
+   "speaker": "Синдзи",
+   "text": "「Ты вообще слышала, что она сказала?」",
+   "orig": "Shinji\n「Did you just hear what she said?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Аска",
+   "text": "「Если боишься — прячьтесь вместе с любимицей \n　командующего, а я остановлю Ангела на Еве-02.」",
+   "orig": "Asuka\n「If you're afraid, you and the Commander's Pet can go \n　hide, while I stop the Angel with Unit-02.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Санада",
+   "text": "「Спокойно, Икари.\n　«Ямато» как раз держат наготове для таких случаев.」",
+   "orig": "Sanada\n「Relax, Ikari.\n　The Yamato has been on standby for just a situation.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Санада",
+   "text": "「Если траектория Ангела подтверждена,\n　мы добавим к атаке огневую мощь «Ямато».」",
+   "orig": "Sanada\n「If the Angel's trajectory has been confirmed,\n　we can add the Yamato's firepower to the attack.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Санада",
+   "text": "「AT-поле это, может, и не пробьёт, но скорость\n　снижения Ангела наверняка сбавит.」",
+   "orig": "Sanada\n「It might not destroy the AT field, but it will\n　most definitely slow the Angel's rate of descent.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Анализатор",
+   "text": "「По моему опыту,\n　это поднимет шансы\n　на успех до 50%.」",
+   "orig": "Analyzer\n「My experience\n　indicates that this will\n　raise chances of success to 50%.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Синдзи",
+   "text": "「Всего-то 50%...」",
+   "orig": "Shinji\n「Just 50%, huh?」"
+  },
+  {
+   "i": 29,
+   "speaker": "Рэй",
+   "text": "「Зато это в 500 000 раз больше, чем 0,0001%!」",
+   "orig": "Rei\n「But hey, that's 50,000 times 0.0001%!」"
+  },
+  {
+   "i": 30,
+   "speaker": "Синдзи",
+   "text": "「Спасибо, Аянами.\n　Это и правда успокаивает.」",
+   "orig": "Shinji\n「Thanks, Ayanami.\n　That's actually reassuring.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Аска",
+   "text": "「Как мило: папенькин сынок и любимица командующего\n　по-прежнему прекрасно ладят.」",
+   "orig": "Asuka\n「Nice to see Daddy's Boy and the Commander's Pet\n　still getting along so well.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Синдзи",
+   "text": "「Хватит, Сикинами. Мне всё равно, как ты зовёшь\n　меня, но Аянами так не называй!」",
+   "orig": "Shinji\n「That's enough, Shikinami. I don't care what\n　you call me, but stop calling Ayanami that!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Аска",
+   "text": "「Но ведь это чистая правда!」",
+   "orig": "Asuka\n「But it's the truth!」"
+  },
+  {
+   "i": 34,
+   "speaker": "Намбу",
+   "text": "「Да уж, напряжения им точно не занимать.」",
+   "orig": "Nanbu\n「Well, there's no lack of tension among them, is there?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Сима",
+   "text": "「Всё лучше, чем раскиснуть под таким давлением.」",
+   "orig": "Shima\n「I suppose it beats being cowed by the pressure.」"
+  },
+  {
+   "i": 36,
+   "speaker": "Окита",
+   "text": "「Похоже, на этот раз у нас не останется выбора, \n　кроме как пустить в ход волновую пушку.」",
+   "orig": "Okita\n「We may not have the choice \n　but to use the wave motion gun this time.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Кодай",
+   "text": "「Волновую пушку, капитан?」",
+   "orig": "Kodai\n「The wave motion gun, sir?」"
+  },
+  {
+   "i": 38,
+   "speaker": "Окита",
+   "text": "「Мы ничего не знаем о возможностях этого врага.\n　Приступайте к подготовке.」",
+   "orig": "Okita\n「We know nothing of what this enemy is capable of.\n　Proceed with preparations.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Санада",
+   "text": "「Есть!」",
+   "orig": "Sanada\n「Yes, sir!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Харри",
+   "text": "「К-капитан!」",
+   "orig": "Harry\n「C-Captain!」"
+  },
+  {
+   "i": 41,
+   "speaker": "Рури",
+   "text": "「До подхода Ангела ещё есть время.\n　Так что не теряй хладнокровия, Харри.」",
+   "orig": "Ruri\n「We still have time until the Angel arrives.\n　So keep your cool yet, Harry.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Харри",
+   "text": "「Да я не об этом!\n　Приборы зафиксировали сингулярную реакцию!」",
+   "orig": "Harry\n「That's not what's got me worried!\n　Our instruments just registered a Singular Reaction!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Юрика",
+   "text": "「Ч-что?\n　Точно не драконы телепортируются?」",
+   "orig": "Yurika\n「Wh-what?\n　Are you sure that's not the Dragons teleporting?」"
+  },
+  {
+   "i": 44,
+   "speaker": "Харри",
+   "text": "「Межпространственная дверь открывается!」",
+   "orig": "Harry\n「The dimensional door is opening!」"
+  },
+  {
+   "i": 45,
+   "speaker": "Майто",
+   "text": "「Альянс DG!」",
+   "orig": "Maito\n「The DG Alliance!」"
+  },
+  {
+   "i": 46,
+   "speaker": "Синн",
+   "text": "「Что здесь забыли злодеи из измерения AD?」",
+   "orig": "Shinn\n「What are the AD dimension villains doing here?」"
+  },
+  {
+   "i": 47,
+   "speaker": "Акито",
+   "text": "「Без Джампера-навигатора живое существо\n　не способно обрести форму после прыжка.」",
+   "orig": "Akito\n「Without a Jumper to navigate,\n　a life form cannot take on corporeal shape after a jump.」"
+  },
+  {
+   "i": 48,
+   "speaker": "Акито",
+   "text": "「Значит, они перенеслись не параллельным\n　бозонным прыжком, а как-то иначе.」",
+   "orig": "Akito\n「They must have used some other means\n　than a Parallel Boson Jump to teleport.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Вольфганг",
+   "text": "「Что происходит?」",
+   "orig": "Wolfgang\n「What's going on?」"
+  },
+  {
+   "i": 50,
+   "speaker": "Вюиттон",
+   "text": "「Только что мистер Икс велел нам ударить по \n　отряду противника — и вот мы уже угодили \n　в какую-то магнитную бурю.」",
+   "orig": "Vuitton\n「One minute Mr. X is instructing us to attack a \n　detachment of troops, the next we're caught up \n　in some kind of magnetic storm.」"
+  },
+  {
+   "i": 51,
+   "speaker": "？？？",
+   "text": "「Вас не устраивает мой способ перевозки?」",
+   "orig": "？？？\n「You have a problem with my method of transportation?」"
+  },
+  {
+   "i": 52,
+   "speaker": "Саламандинай",
+   "text": "「Не может быть!」",
+   "orig": "Salamandinay\n「It can't be!」"
+  },
+  {
+   "i": 53,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 54,
+   "speaker": "Эмбрио",
+   "text": "「Давно не виделись, Анж.」",
+   "orig": "Embryo\n「Long time, Ange.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Амуро",
+   "text": "「Это же теневой правитель измерения AD!」",
+   "orig": "Amuro\n「That's the AD dimension's shadow ruler!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Эмбрио",
+   "text": "「Я же говорил, мне не нравится это слово.\n　Предпочитаю «Настройщик».」",
+   "orig": "Embryo\n「I told you, I really don't like that term.\n　I prefer \"Tuner.\"」"
+  },
+  {
+   "i": 57,
+   "speaker": "Эмбрио",
+   "text": "「Внимание, дорогие соратники из Альянса DG. Вот \n　поле сегодняшней битвы. Резвитесь вволю.」",
+   "orig": "Embryo\n「Listen up, dear DG Alliance associates. This is the \n　day's battlefield. Wreck havoc to your heart's content.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Вюиттон",
+   "text": "「Так это вы наш \n　покровитель, мистер Икс?」",
+   "orig": "Vuitton\n「You mean, you're our \n　sponsor, Mr. X?」"
+  },
+  {
+   "i": 59,
+   "speaker": "Эмбрио",
+   "text": "「Вот это... и есть главный вопрос, не так ли?」",
+   "orig": "Embryo\n「That...is the question, isn't it?」"
+  },
+  {
+   "i": 60,
+   "speaker": "Джудо",
+   "text": "「Он исчез!」",
+   "orig": "Judau\n「He's gone!」"
+  },
+  {
+   "i": 61,
+   "speaker": "Тобиа",
+   "text": "「Как Таск и говорил: этот Эмбрио\n　вертит пространством и временем как хочет.」",
+   "orig": "Tobia\n「Just as Tusk said: this Embryo guy\n　can manipulate space-time as he pleases.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Кинкейд",
+   "text": "「Что ж, это заткнёт любых скептиков.\n　Он только что пробил межпространственный барьер\n　не параллельным бозонным прыжком, а иначе.」",
+   "orig": "Kincade\n「Well, I guess that will quiet any doubters.\n　He just broke through the dimensional barrier\n　by means other than a Parallel Boson Jump.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Вюиттон",
+   "text": "「И что нам теперь делать, Вольфганг?\n　Наш мир только что вывернулся наизнанку.」",
+   "orig": "Vuitton\n「What should we do now, Wolfgang?\n　Our own world just warped around us.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Вольфганг",
+   "text": "「Э-это ты у меня спрашиваешь?\n　Мы и правда влипли.」",
+   "orig": "Wolfgang\n「Y-you're asking me?\n　This really puts us in a pinch.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Дзё",
+   "text": "「Тогда я за то, чтобы отступить.」",
+   "orig": "Joe\n「Then, I say we withdraw.」"
+  },
+  {
+   "i": 66,
+   "speaker": "Синдзи",
+   "text": "「Они атакуют!」",
+   "orig": "Shinji\n「They're attacking!」"
+  },
+  {
+   "i": 67,
+   "speaker": "Грэм",
+   "text": "「Этим чёрным роботом\n　управляет Дзё!」",
+   "orig": "Graham\n「That's Joe piloting\n　that black robot!」"
+  },
+  {
+   "i": 68,
+   "speaker": "Майто",
+   "text": "「Дзё! Постой! У нас сейчас\n　идёт крайне важная операция!」",
+   "orig": "Maito\n「Joe! Wait! We're in the middle of a\n　very important operation right now!」"
+  },
+  {
+   "i": 69,
+   "speaker": "Майто",
+   "text": "「И если мы провалимся, этот мир \n　вполне может погибнуть!」",
+   "orig": "Maito\n「And if we fail, this world \n　might very well be destroyed!」"
+  },
+  {
+   "i": 70,
+   "speaker": "Вольфганг",
+   "text": "「Что?」",
+   "orig": "Wolfgang\n「What?」"
+  },
+  {
+   "i": 71,
+   "speaker": "Вюиттон",
+   "text": "「В каком смысле — погибнуть?」",
+   "orig": "Vuitton\n「What do you mean destroyed?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Дзё",
+   "text": "「И что с того? Мне-то какое дело?」",
+   "orig": "Joe\n「So what? What of it?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Майто",
+   "text": "「Дзё!」",
+   "orig": "Maito\n「Joe!」"
+  },
+  {
+   "i": 74,
+   "speaker": "Дзё",
+   "text": "「Единственная цель моей жизни —\n　одолеть тебя, Майто Сэмпудзи!」",
+   "orig": "Joe\n「My singular purpose in life is\n　defeating you, Maito Senpuji!」"
+  },
+  {
+   "i": 75,
+   "speaker": "Дзё",
+   "text": "「А раз это даже не мой мир,\n　мне плевать, что с ним станет!」",
+   "orig": "Joe\n「And as this isn't even my world,\n　I don't care what happens to it!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Вюиттон",
+   "text": "「Вот уж упёрся так упёрся!」",
+   "orig": "Vuitton\n「A one-track mind, I swear!」"
+  },
+  {
+   "i": 77,
+   "speaker": "Вольфганг",
+   "text": "「Но если мы откажемся драться,\n　этот Эмбрио наверняка бросит нас здесь.」",
+   "orig": "Wolfgang\n「But if we refuse to fight,\n　that Embryo character will surely leave us here.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Вюиттон",
+   "text": "「То есть мы не сможем вернуться в свой мир?」",
+   "orig": "Vuitton\n「You mean, we won't be able to return to our world?」"
+  },
+  {
+   "i": 79,
+   "speaker": "Вольфганг",
+   "text": "「Хуже того, мы можем попросту перестать существовать!\n　Вот какая у него власть!」",
+   "orig": "Wolfgang\n「More than that, we might simply cease to exist!\n　That's the kind of power he has!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Вюиттон",
+   "text": "「Значит, драться придётся.」",
+   "orig": "Vuitton\n「So we have no choice but to fight.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Каппэй",
+   "text": "「Идиоты! Оглянитесь вокруг!\n　Вы что, не видите, что творится?」",
+   "orig": "Kappei\n「You fools! Take a look around\n　you! Don't you see what's happening?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Аска",
+   "text": "「Серьёзно?\n　Никогда не пойму, что у злодеев в голове.」",
+   "orig": "Asuka\n「Seriously?\n　I really don't understand the minds of villains.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Рури",
+   "text": "「Значит, и у нас выбора нет.\n　Всем машинам — на вылет.」",
+   "orig": "Ruri\n「Then we have no choice either.\n　All units launch.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Дзё",
+   "text": "「Всё-таки выполз из укрытия, Майто Сэмпудзи!」",
+   "orig": "Joe\n「So you've come out from hiding, after all, Maito Senpuji!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Майто",
+   "text": "「Дзё!\n　Вот уж не думал, что ты опустишься \n　до такого!」",
+   "orig": "Maito\n「Joe!\n　I never thought you'd stoop as \n　low as you have right now!」"
+  },
+  {
+   "i": 86,
+   "speaker": "Дзё",
+   "text": "「Говори что хочешь.\n　Твоё поражение — \n　единственная цель моей жизни!」",
+   "orig": "Joe\n「Say what you like.\n　Your defeat is my \n　sole purpose in life!」"
+  },
+  {
+   "i": 87,
+   "speaker": "Дзё",
+   "text": "「Ради этого я и принял\n　от мистера Икса «Горю».」",
+   "orig": "Joe\n「That's why I accepted this\n　Goryu from Mr. X.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Вольфганг",
+   "text": "「Дзё!\n　Покажи, как блистательно ты его одолеешь \n　на моём подлинном шедевре — «Горю»!」",
+   "orig": "Wolfgang\n「Joe!\n　Show us how brilliantly you can defeat him \n　with my true masterpiece, the Goryu!」"
+  },
+  {
+   "i": 89,
+   "speaker": "Дзё",
+   "text": "「Долго же ты его собирал.」",
+   "orig": "Joe\n「You sure took your sweet time in constructing it.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Вольфганг",
+   "text": "「А что мне оставалось. Наш покровитель, мистер Икс,\n　велел убрать буровой нос, который я для него \n　придумал.」",
+   "orig": "Wolfgang\n「I had no choice. Our sponsor, Mr. X,\n　told me to remove the drill nose I had \n　created for it.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Вольфганг",
+   "text": "「А бур подходил идеально!  \n　Терпеть не могу, когда придираются\n　к эстетике моих роботов!」",
+   "orig": "Wolfgang\n「The drill was perfect for it!  \n　It really irks me when people complain\n　about the aesthetics of my robots!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Дзё",
+   "text": "「Насчёт твоих вкусов промолчу,\n　но признаю: эта машина — лучшее, \n　что ты когда-либо делал!」",
+   "orig": "Joe\n「I won't comment on your\n　personal tastes, but I have to admit, \n　this machine is by far your best yet!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Он больше «Хирю»!」",
+   "orig": "Battle Bomber\n「It's bigger than the Hiryu!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Гард Дайвер",
+   "text": "「И наверняка куда мощнее.」",
+   "orig": "Guard Diver\n「Without a doubt, it will be more powerful as well.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Соберитесь, ребята!\n　«Горю» будет грозным противником!」",
+   "orig": "Black Mightgaine\n「Look lively, gang!\n　Goryu is going to be a mighty foe!」"
+  },
+  {
+   "i": 96,
+   "speaker": "Майто",
+   "text": "「И всё же тебе меня не одолеть, Дзё!\n　Я одержу победу ради мира, ради Гайна... и справедливости!」",
+   "orig": "Maito\n「No matter, you won't defeat me, Joe!\n　I'll win for the world, for Gaine...and for justice!」"
+  },
+  {
+   "i": 97,
+   "speaker": "Дзё",
+   "text": "「Ты всё ещё носишься с этим словом?」",
+   "orig": "Joe\n「Are you really still using that word?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Синдзи",
+   "text": "「Мисато, что нам делать?」",
+   "orig": "Shinji\n「Misato, what should we do?」"
+  },
+  {
+   "i": 99,
+   "speaker": "Мисато",
+   "text": "「Драться! Что же ещё?\n　Если они помешают, вся операция полетит к чертям!」",
+   "orig": "Misato\n「Fight! What else?\n　If they interfere, the whole operation goes to hell!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Саламандинай",
+   "text": "「Клан драконов постарается замедлить спуск Ангела!」",
+   "orig": "Salamandinay\n「The Dragon clan will work to slow the Angel's descent!」"
+  },
+  {
+   "i": 101,
+   "speaker": "Майя",
+   "text": "「Но даже так, по моим расчётам, Ангел\n　ударит по Токио-3 через три минуты!」",
+   "orig": "Maya\n「Even then, I estimate the Angel\n　will hit Tokyo-3 in three minutes!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Аска",
+   "text": "「Значит, на этих уродов у нас пять минут!」",
+   "orig": "Asuka\n「That leaves five minutes to take care of these creeps!」"
+  },
+  {
+   "i": 103,
+   "speaker": "Рёма",
+   "text": "「За дело!\n　Готовься, Синдзи!」",
+   "orig": "Ryoma\n「Let's do it!\n　Prepare yourself, Shinji!」"
+  },
+  {
+   "i": 104,
+   "speaker": "Синдзи",
+   "text": "「Л-ладно!」",
+   "orig": "Shinji\n「A-alright!」"
+  },
+  {
+   "i": 105,
+   "speaker": "Синдзи",
+   "text": "（Тодзи, Кэнсукэ и все остальные смотрят на меня,\n　я не могу бежать от долга. Я должен быть сильным!）",
+   "orig": "Shinji\n（With Toji, Kensuke, and all the others watching,\n　I can't run from duty. I have to be strong!）"
+  },
+  {
+   "i": 106,
+   "speaker": "Рури",
+   "text": "「Вы всё слышали.\n　У вас пять минут, чтобы разобраться с Альянсом DG,\n　пока мы готовимся к прибытию Ангела.」",
+   "orig": "Ruri\n「You heard them, folks.\n　You have five minutes to take care of the DG Alliance\n　while we prepare for the arrival of the Angel.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Майто",
+   "text": "「Я иду за тобой, Дзё!\n　Неважно, в каком мы мире — я его защищу!」",
+   "orig": "Maito\n「I'm coming for you Joe!\n　I don't care what world we're in, I'll defend it!」"
+  },
+  {
+   "i": 108,
+   "speaker": "Дзё",
+   "text": "「Майто Сэмпудзи,\n　меня от тебя тошнит!」",
+   "orig": "Joe\n「Maito Senpuji,\n　you turn my stomach!」"
+  },
+  {
+   "i": 109,
+   "speaker": "Майто",
+   "text": "「У героя работа не кончается никогда.」",
+   "orig": "Maito\n「A hero's job is never done.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Дзё",
+   "text": "「Всё-таки выполз из укрытия, Майто Сэмпудзи!」",
+   "orig": "Joe\n「So you've come out from hiding, after all, Maito Senpuji!」"
+  },
+  {
+   "i": 111,
+   "speaker": "Майто",
+   "text": "「Дзё!\n　Вот уж не думал, что ты опустишься \n　до такого!」",
+   "orig": "Maito\n「Joe!\n　I never thought you'd stoop as \n　low as you have right now!」"
+  },
+  {
+   "i": 112,
+   "speaker": "Дзё",
+   "text": "「Говори что хочешь.\n　Твоё поражение — \n　единственная цель моей жизни!」",
+   "orig": "Joe\n「Say what you like.\n　Your defeat is my \n　sole purpose in life!」"
+  },
+  {
+   "i": 113,
+   "speaker": "Дзё",
+   "text": "「Ради этого я и принял\n　от мистера Икса «Горю».」",
+   "orig": "Joe\n「That's why I accepted this\n　Goryu from Mr. X.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Вольфганг",
+   "text": "「Дзё!\n　Покажи, как блистательно ты его одолеешь \n　на моём подлинном шедевре — «Горю»!」",
+   "orig": "Wolfgang\n「Joe!\n　Show us how brilliantly you can defeat him \n　with my true masterpiece, the Goryu!」"
+  },
+  {
+   "i": 115,
+   "speaker": "Дзё",
+   "text": "「Долго же ты его собирал.」",
+   "orig": "Joe\n「You sure took your sweet time in constructing it.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Вольфганг",
+   "text": "「А что мне оставалось. Наш покровитель, мистер Икс,\n　велел убрать буровой нос, который я для него \n　придумал.」",
+   "orig": "Wolfgang\n「I had no choice. Our sponsor, Mr. X,\n　told me to remove the drill nose I had \n　created for it.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Вольфганг",
+   "text": "「А бур подходил идеально!  \n　Терпеть не могу, когда придираются\n　к эстетике моих роботов!」",
+   "orig": "Wolfgang\n「The drill was perfect for it!  \n　It really irks me when people complain\n　about the aesthetics of my robots!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Дзё",
+   "text": "「Насчёт твоих вкусов промолчу,\n　но признаю: эта машина — лучшее, \n　что ты когда-либо делал!」",
+   "orig": "Joe\n「I won't comment on your\n　personal tastes, but I have to admit, \n　this machine is by far your best yet!」"
+  },
+  {
+   "i": 119,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Он больше «Хирю»!」",
+   "orig": "Battle Bomber\n「It's bigger than the Hiryu!」"
+  },
+  {
+   "i": 120,
+   "speaker": "Гард Дайвер",
+   "text": "「И наверняка куда мощнее.」",
+   "orig": "Guard Diver\n「Without a doubt, it will be more powerful as well.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Майто",
+   "text": "「И всё же тебе меня не одолеть, Дзё!\n　Я одержу победу ради мира, ради Гайна... и справедливости!」",
+   "orig": "Maito\n「No matter, you won't defeat me, Joe!\n　I'll win for the world, for Gaine...and for justice!」"
+  },
+  {
+   "i": 122,
+   "speaker": "Дзё",
+   "text": "「Ты всё ещё носишься с этим словом?」",
+   "orig": "Joe\n「Are you really still using that word?」"
+  },
+  {
+   "i": 123,
+   "speaker": "Синдзи",
+   "text": "「Мисато, что нам делать?」",
+   "orig": "Shinji\n「Misato, what should we do?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Мисато",
+   "text": "「Драться! Что же ещё?\n　Если они помешают, вся операция полетит к чертям!」",
+   "orig": "Misato\n「Fight! What else?\n　If they interfere, the whole operation goes to hell!」"
+  },
+  {
+   "i": 125,
+   "speaker": "Саламандинай",
+   "text": "「Клан драконов постарается замедлить спуск Ангела!」",
+   "orig": "Salamandinay\n「The Dragon clan will work to slow the Angel's descent!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Майя",
+   "text": "「Но даже так, по моим расчётам, Ангел\n　ударит по Токио-3 через три минуты!」",
+   "orig": "Maya\n「Even then, I estimate the Angel\n　will hit Tokyo-3 in three minutes!」"
+  },
+  {
+   "i": 127,
+   "speaker": "Аска",
+   "text": "「Значит, на этих уродов у нас пять минут!」",
+   "orig": "Asuka\n「That leaves five minutes to take care of these creeps!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Рёма",
+   "text": "「За дело!\n　Готовься, Синдзи!」",
+   "orig": "Ryoma\n「Let's do it!\n　Prepare yourself, Shinji!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Синдзи",
+   "text": "「Л-ладно!」",
+   "orig": "Shinji\n「A-alright!」"
+  },
+  {
+   "i": 130,
+   "speaker": "Синдзи",
+   "text": "（Тодзи, Кэнсукэ и все остальные смотрят на меня,\n　я не могу бежать от долга. Я должен быть сильным!）",
+   "orig": "Shinji\n（With Toji, Kensuke, and all the others watching,\n　I can't run from duty. I have to be strong!）"
+  },
+  {
+   "i": 131,
+   "speaker": "Рури",
+   "text": "「Вы всё слышали.\n　У вас пять минут, чтобы разобраться с Альянсом DG,\n　пока мы готовимся к прибытию Ангела.」",
+   "orig": "Ruri\n「You heard them, folks.\n　You have five minutes to take care of the DG Alliance\n　while we prepare for the arrival of the Angel.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Майто",
+   "text": "「Я иду за тобой, Дзё!\n　Неважно, в каком мы мире — я его защищу!」",
+   "orig": "Maito\n「I'm coming for you Joe!\n　I don't care what world we're in, I'll defend it!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Дзё",
+   "text": "「Майто Сэмпудзи,\n　меня от тебя тошнит!」",
+   "orig": "Joe\n「Maito Senpuji,\n　you turn my stomach!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Майто",
+   "text": "「У героя работа не кончается никогда.」",
+   "orig": "Maito\n「A hero's job is never done.」"
+  },
+  {
+   "i": 135,
+   "speaker": "$n",
+   "text": "「Чёрт!\n　Этот «Горю» невероятно силён!」",
+   "orig": "$n\n「Damn!\n　That Goryu is incredibly strong!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Бандзё",
+   "text": "「Скорость, мощь, маневренность —\n　всё выше, чем у самого «Майт Кайзера»!」",
+   "orig": "Banjo\n「Speed, power and mobility;\n　all of them better than Might Kaiser's own!」"
+  },
+  {
+   "i": 137,
+   "speaker": "Грэм",
+   "text": "「И ещё страшнее то, насколько\n　безупречно Дзё им управляет!」",
+   "orig": "Graham\n「Even more frightening is how\n　perfectly Joe is able to fight with it!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Майто",
+   "text": "「Гр-р!」",
+   "orig": "Maito\n「Grrr!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Дзё",
+   "text": "「Что такое, Майто Сэмпудзи? Это что, страх,\n　отчаяние и нетерпение в твоём голосе?」",
+   "orig": "Joe\n「What's the matter, Maito Senpuji? Is that fear,\n　desperation and impatience I hear in your voice?」"
+  },
+  {
+   "i": 140,
+   "speaker": "Майто",
+   "text": "「Дзё, я прошу тебя...\n　Прекрати этот бой!」",
+   "orig": "Maito\n「Joe, I'm begging you...\n　Give up this fight!」"
+  },
+  {
+   "i": 141,
+   "speaker": "Дзё",
+   "text": "「Безрассудство было твоим единственным достоинством,\n　а теперь ты празднуешь труса?」",
+   "orig": "Joe\n「Recklessness used to be your only redeeming quality,\n　and now you have cold feet?」"
+  },
+  {
+   "i": 142,
+   "speaker": "Майто",
+   "text": "「Сейчас не время!\n　Мне сейчас не до драки с тобой!」",
+   "orig": "Maito\n「This is not the time!\n　I'm not at leisure to fight you right now!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Майто",
+   "text": "「Ты что, не понимаешь, Дзё?\n　В этом измерении миллиарды людей!\n　Я обязан их защитить!」",
+   "orig": "Maito\n「Don't you get it, Joe?\n　There are billions of people in this dimension!\n　I have to protect them!」"
+  },
+  {
+   "i": 144,
+   "speaker": "Дзё",
+   "text": "「Слышать ничего не хочу, Майто!\n　Я тебя побью! В этом вся моя жизнь!」",
+   "orig": "Joe\n「I don't want to hear it, Maito!\n　I'm going to beat you! That's all there is to my life!」"
+  },
+  {
+   "i": 145,
+   "speaker": "Дзё",
+   "text": "「Хочешь меня остановить —\n　так ложись в могилу молча!」",
+   "orig": "Joe\n「If you want to stop me,\n　then go to your grave quietly!」"
+  },
+  {
+   "i": 146,
+   "speaker": "Майто",
+   "text": "「Ни за что!」",
+   "orig": "Maito\n「Never!」"
+  },
+  {
+   "i": 147,
+   "speaker": "Дзё",
+   "text": "「Ни за что? Ха!」",
+   "orig": "Joe\n「Never? Ha!」"
+  },
+  {
+   "i": 148,
+   "speaker": "Майто",
+   "text": "「Я никогда не позволю злу взять надо мной верх!」",
+   "orig": "Maito\n「I'll never allow myself to succumb to evil!」"
+  },
+  {
+   "i": 149,
+   "speaker": "Дзё",
+   "text": "「Из-за твоей хвалёной «справедливости»?」",
+   "orig": "Joe\n「Because of your vaunted \"justice\"?」"
+  },
+  {
+   "i": 150,
+   "speaker": "Майто",
+   "text": "「Вовсе нет.\n　Не позволю, потому что я человек!」",
+   "orig": "Maito\n「That's not it at all.\n　I won't because I'm human!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Дзё",
+   "text": "「Человек?」",
+   "orig": "Joe\n「Human?」"
+  },
+  {
+   "i": 152,
+   "speaker": "Майто",
+   "text": "「Очнись, Дзё!\n　То, что ты пытаешься сделать, \n　уже не исправить, если это свершится!」",
+   "orig": "Maito\n「Wake up, Joe!\n　What you're trying to do, once \n　you've done it, it can't be undone!」"
+  },
+  {
+   "i": 153,
+   "speaker": "Майто",
+   "text": "「Не выбрасывай\n　свою человечность, Дзё!」",
+   "orig": "Maito\n「Don't throw away\n　your humanity, Joe!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Дзё",
+   "text": "「Замолчи!\n　Уже слишком поздно.」",
+   "orig": "Joe\n「Shut up!\n　It's too late.」"
+  },
+  {
+   "i": 155,
+   "speaker": "$n",
+   "text": "「Этот робот «Горю» силён!」",
+   "orig": "$n\n「That Goryu robot is strong!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Бандзё",
+   "text": "「Скорость, мощь, маневренность —\n　всё выше, чем у самого «Майт Кайзера»!」",
+   "orig": "Banjo\n「Speed, power and mobility;\n　all of them better than Might Kaiser's own!」"
+  },
+  {
+   "i": 157,
+   "speaker": "Грэм",
+   "text": "「И ещё страшнее то, насколько\n　безупречно Дзё им управляет!」",
+   "orig": "Graham\n「Even more frightening is how\n　perfectly Joe is able to fight with it!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Майто",
+   "text": "「Гр-р!」",
+   "orig": "Maito\n「Grrr!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Дзё",
+   "text": "「Что такое, Майто Сэмпудзи? Это что, страх,\n　отчаяние и нетерпение в твоём голосе?」",
+   "orig": "Joe\n「What's the matter, Maito Senpuji? Is that fear,\n　desperation and impatience I hear in your voice?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Майто",
+   "text": "「Дзё, я прошу тебя...\n　Прекрати этот бой!」",
+   "orig": "Maito\n「Joe, I'm begging you...\n　Give up this fight!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Дзё",
+   "text": "「Безрассудство было твоим единственным достоинством,\n　а теперь ты празднуешь труса?」",
+   "orig": "Joe\n「Recklessness used to be your only redeeming quality,\n　and now you have cold feet?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Майто",
+   "text": "「Сейчас не время!\n　Мне сейчас не до драки с тобой!」",
+   "orig": "Maito\n「This is not the time!\n　I'm not at leisure to fight you right now!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Майто",
+   "text": "「Ты что, не понимаешь, Дзё?\n　В этом измерении миллиарды людей!\n　Я обязан их защитить!」",
+   "orig": "Maito\n「Don't you get it, Joe?\n　There are billions of people in this dimension!\n　I have to protect them!」"
+  },
+  {
+   "i": 164,
+   "speaker": "Дзё",
+   "text": "「Слышать ничего не хочу, Майто!\n　Я тебя побью! В этом вся моя жизнь!」",
+   "orig": "Joe\n「I don't want to hear it, Maito!\n　I'm going to beat you! That's all there is to my life!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Дзё",
+   "text": "「Хочешь меня остановить —\n　так ложись в могилу молча!」",
+   "orig": "Joe\n「If you want to stop me,\n　then go to your grave quietly!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Майто",
+   "text": "「Ни за что!」",
+   "orig": "Maito\n「Never!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Дзё",
+   "text": "「Ни за что? Ха!」",
+   "orig": "Joe\n「Never? Ha!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Майто",
+   "text": "「Я никогда не позволю злу взять надо мной верх!」",
+   "orig": "Maito\n「I'll never allow myself to succumb to evil!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Дзё",
+   "text": "「Из-за твоей хвалёной «справедливости»?」",
+   "orig": "Joe\n「Because of your vaunted \"justice\"?」"
+  },
+  {
+   "i": 170,
+   "speaker": "Майто",
+   "text": "「Вовсе нет.\n　Не позволю, потому что я человек!」",
+   "orig": "Maito\n「That's not it at all.\n　I won't because I'm human!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Дзё",
+   "text": "「Человек?」",
+   "orig": "Joe\n「Human?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Майто",
+   "text": "「Очнись, Дзё!\n　То, что ты пытаешься сделать, \n　уже не исправить, если это свершится!」",
+   "orig": "Maito\n「Wake up, Joe!\n　What you're trying to do, once \n　you've done it, it can't be undone!」"
+  },
+  {
+   "i": 173,
+   "speaker": "Майто",
+   "text": "「Не выбрасывай\n　свою человечность, Дзё!」",
+   "orig": "Maito\n「Don't throw away\n　your humanity, Joe!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Дзё",
+   "text": "「Замолчи!\n　Уже слишком поздно.」",
+   "orig": "Joe\n「Shut up!\n　It's too late.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Тэцуя",
+   "text": "「Ты просто мерзавец, Дзё!」",
+   "orig": "Tetsuya\n「You're despicable, Joe!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Рёма",
+   "text": "「Тэцуя!」",
+   "orig": "Ryoma\n「Tetsuya!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Майто",
+   "text": "「Тэцуя! Ты ведь явился сюда\n　не ради Кодзи, в такой-то момент?」",
+   "orig": "Maito\n「Tetsuya! You're not here for\n　Koji at a time like this, are you?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Тэцуя",
+   "text": "「Нет, сейчас не ради него.」",
+   "orig": "Tetsuya\n「No, not right now.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Кодзи",
+   "text": "「А?」",
+   "orig": "Koji\n「Huh?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Тэцуя",
+   "text": "「Задача «Мазингера» — защищать мир.」",
+   "orig": "Tetsuya\n「Mazinger's mission is to protect the world.」"
+  },
+  {
+   "i": 181,
+   "speaker": "Тэцуя",
+   "text": "「Дзё Ас!\n　Забудь о Майто. Драться тебе придётся со мной!」",
+   "orig": "Tetsuya\n「Joe the Ace!\n　Forget Maito. I'm the one you want to fight!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Дзё",
+   "text": "「О, любопытно.\n　Что ж, тогда начну, пожалуй, с тебя!」",
+   "orig": "Joe\n「Ooh, how interesting.\n　Well then, I guess I'll start with you!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Майто",
+   "text": "「Нет, Дзё!\n　Дерись со мной!」",
+   "orig": "Maito\n「No, Joe!\n　Fight me!」"
+  },
+  {
+   "i": 184,
+   "speaker": "Тэцуя",
+   "text": "「Стой, Майто!」",
+   "orig": "Tetsuya\n「Wait, Maito!」"
+  },
+  {
+   "i": 185,
+   "speaker": "Майто",
+   "text": "「Я не проиграю!\n　Я поклялся Гайну, что больше никогда не проиграю!」",
+   "orig": "Maito\n「I won't lose!\n　I swore to Gaine, I would never lose again!」"
+  },
+  {
+   "i": 186,
+   "speaker": "Дзё",
+   "text": "「Одного задора для победы маловато!」",
+   "orig": "Joe\n「You're going to need more than just enthusiasm to win!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Майто",
+   "text": "「Да? Это мы ещё посмотрим!」",
+   "orig": "Maito\n「Yeah? We'll see about that?」"
+  },
+  {
+   "i": 188,
+   "speaker": "Дзё",
+   "text": "「Хм.」",
+   "orig": "Joe\n「Huh.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Урибатакэ",
+   "text": "「Извини, что заставил ждать, шеф!\n　Тоннель открыт, рельсы состыкованы.」",
+   "orig": "Uribatake\n「Sorry to keep you waiting, boss!\n　The tunnel is now open, and the rails are connected.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Харри",
+   "text": "「Резкий скачок бозонной реакции! \n　Это параллельный бозонный прыжок!」",
+   "orig": "Harry\n「Massive increase in boson particle reaction! \n　It's a Parallel Boson Jump!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Сэцуна",
+   "text": "「Подкрепление из измерения AD?」",
+   "orig": "Setsuna\n「Reinforcements from the AD dimensions?」"
+  },
+  {
+   "i": 192,
+   "speaker": "Атрун",
+   "text": "「Без Джампера класса А в качестве навигатора\n　прыжок был бы невыносимо болезненным.」",
+   "orig": "Athrun\n「Without a Class-A Jumper to navigate,\n　a jump would be unbearably painful.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Урибатакэ",
+   "text": "「Плохо соображаешь, парень!\n　Люди — не единственная форма жизни на свете!」",
+   "orig": "Uribatake\n「You're not thinking straight, kiddo!\n　Humans aren't the only life form out there!」"
+  },
+  {
+   "i": 194,
+   "speaker": "Майто",
+   "text": "「Давай!」",
+   "orig": "Maito\n「Come on!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Майтгайн",
+   "text": "「Прости, что заставил ждать, Майто!」",
+   "orig": "Mightgaine\n「Sorry to keep you waiting, Maito!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Майто",
+   "text": "「Пустяки. Ты прибыл точно по расписанию, Гайн!」",
+   "orig": "Maito\n「No worries. You're arriving as scheduled, Gaine!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Блэк Майтгайн",
+   "text": "「Гайн!\n　Гайн, это ты?」",
+   "orig": "Black Mightgaine\n「Gaine!\n　Gaine, is that you?」"
+  },
+  {
+   "i": 198,
+   "speaker": "Майтгайн",
+   "text": "「Именно, Блэк!\n　Снова на передовой, в самой гуще боя!」",
+   "orig": "Mightgaine\n「That's right, Black!\n　Back on the front line, and in the thick of the fight!」"
+  },
+  {
+   "i": 199,
+   "speaker": "Найн",
+   "text": "「Гайн!」",
+   "orig": "Nine\n「Gaine!」"
+  },
+  {
+   "i": 200,
+   "speaker": "Ал",
+   "text": "「С возвращением, Гайн.\n　Мы рады, что ты снова с нами.」",
+   "orig": "Al\n「Welcome back, Gaine.\n　We welcome your return.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Гард Дайвер",
+   "text": "「А, вот оно что!\n　Раз у нас механические тела,\n　бозонный прыжок нам не помеха!」",
+   "orig": "Guard Diver\n「Oh, I see!\n　As we have machine bodies,\n　a Boson Jump is no problem!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Но когда вы успели подготовить\n　саму переброску?」",
+   "orig": "Battle Bomber\n「But when did you prepare\n　to make the transfer?」"
+  },
+  {
+   "i": 203,
+   "speaker": "Урибатакэ",
+   "text": "「Да понимаете, корпусу «Брэйв Экспресс»\n　никакие параллельные бозонные прыжки не нужны.」",
+   "orig": "Uribatake\n「Well, you see, the Brave Express Corps\n　doesn't need to make Parallel Boson Jumps.」"
+  },
+  {
+   "i": 204,
+   "speaker": "Урибатакэ",
+   "text": "「Идея, между прочим, моя.\n　А вместе с концерном «Сэмпудзи» мы создали\n　систему переброски корпуса «Брэйв Экспресс»!」",
+   "orig": "Uribatake\n「I came up with the idea myself.\n　And with the cooperation of the Senpuji Concern,\n　we created the Brave Express Corps transfer system!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Урибатакэ",
+   "text": "「Мы зовём её Железной дорогой параллельных бозонных прыжков!」",
+   "orig": "Uribatake\n「We call it the Parallel Boson Jump Railway!」"
+  },
+  {
+   "i": 206,
+   "speaker": "Юкина",
+   "text": "「Слишком длинно!」",
+   "orig": "Yukina\n「That's too long!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Минато",
+   "text": "「И не говори.」",
+   "orig": "Minato\n「No kidding.」"
+  },
+  {
+   "i": 208,
+   "speaker": "Майто",
+   "text": "「Отличная работа, Урибатакэ. Спасибо.」",
+   "orig": "Maito\n「Thanks for your excellent work, Uribatake.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Урибатакэ",
+   "text": "「Всегда пожалуйста. Пустяки! Пока соединены только\n　Вселенский век и измерение AD, но со временем\n　мы хотим связать множество параллельных миров.」",
+   "orig": "Uribatake\n「My pleasure. It was nothing! Right now, only the Universal\n　Century and AD dimensions are connected, but eventually,\n　we want to connect a multitude of parallel worlds.」"
+  },
+  {
+   "i": 210,
+   "speaker": "Санада",
+   "text": "「Приятно слышать, что сверхпространственный коммуникатор,\n　созданный инженерами «Ямато», пригодился.」",
+   "orig": "Sanada\n「It's good to hear that the Super Space Communications\n　device developed by Yamato technicians has been of use.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Урибатакэ",
+   "text": "「Огромное вам спасибо, Санада! Благодаря ему мы\n　сумели обойти межпространственные барьеры и наладить\n　связь, а значит — построить всю систему!」",
+   "orig": "Uribatake\n「Many thanks to you, Sanada! We have been able\n　to bypass dimensional barriers to establish\n　communications, thus enabling us to create the system!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Юрика",
+   "text": "「Ух ты! Потрясающе!\n　Технологии измерения Нового Правильного века позволили \n　измерениям UC и AD построить железную дорогу!」",
+   "orig": "Yurika\n「Wow! That's amazing!\n　New Correct Century dimension technology allowed \n　the UC and AD dimensions to create a railway system!」"
+  },
+  {
+   "i": 213,
+   "speaker": "Майто",
+   "text": "「Гайн, начинаем веселье!\n　Ты нужен нам прямо сейчас!」",
+   "orig": "Maito\n「Gaine, let's get this party started!\n　We need you right way!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Майтгайн",
+   "text": "「Принято, Майто!」",
+   "orig": "Mightgaine\n「Roger, Maito!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Майтгайн",
+   "text": "「Прости, что заставил ждать, Майто!」",
+   "orig": "Mightgaine\n「Sorry to keep you waiting, Maito!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Майто",
+   "text": "「Пустяки. Ты прибыл точно по расписанию, Гайн!」",
+   "orig": "Maito\n「No worries. You're arriving as scheduled, Gaine!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Найн",
+   "text": "「Гайн!」",
+   "orig": "Nine\n「Gaine!」"
+  },
+  {
+   "i": 218,
+   "speaker": "Ал",
+   "text": "「С возвращением, Гайн.\n　Мы рады, что ты снова с нами.」",
+   "orig": "Al\n「Welcome back, Gaine.\n　We welcome your return.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Гард Дайвер",
+   "text": "「А, вот оно что!\n　Раз у нас механические тела,\n　бозонный прыжок нам не помеха!」",
+   "orig": "Guard Diver\n「Oh, I see!\n　As we have machine bodies,\n　a Boson Jump is no problem!」"
+  },
+  {
+   "i": 220,
+   "speaker": "Бэттл Бомбер",
+   "text": "「Но когда вы успели подготовить\n　саму переброску?」",
+   "orig": "Battle Bomber\n「But when did you prepare\n　to make the transfer?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Урибатакэ",
+   "text": "「Да понимаете, корпусу «Брэйв Экспресс»\n　никакие параллельные бозонные прыжки не нужны.」",
+   "orig": "Uribatake\n「Well, you see, the Brave Express Corps\n　doesn't need to make Parallel Boson Jumps.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Урибатакэ",
+   "text": "「Идея, между прочим, моя.\n　А вместе с концерном «Сэмпудзи» мы создали\n　систему переброски корпуса «Брэйв Экспресс»!」",
+   "orig": "Uribatake\n「I came up with the idea myself.\n　And with the cooperation of the Senpuji Concern,\n　we created the Brave Express Corps transfer system!」"
+  },
+  {
+   "i": 223,
+   "speaker": "Урибатакэ",
+   "text": "「Мы зовём её Железной дорогой параллельных бозонных прыжков!」",
+   "orig": "Uribatake\n「We call it the Parallel Boson Jump Railway!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Юкина",
+   "text": "「Слишком длинно!」",
+   "orig": "Yukina\n「That's too long!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Минато",
+   "text": "「И не говори.」",
+   "orig": "Minato\n「No kidding.」"
+  },
+  {
+   "i": 226,
+   "speaker": "Майто",
+   "text": "「Отличная работа, Урибатакэ. Спасибо.」",
+   "orig": "Maito\n「Thanks for your excellent work, Uribatake.」"
+  },
+  {
+   "i": 227,
+   "speaker": "Урибатакэ",
+   "text": "「Всегда пожалуйста. Пустяки! Пока соединены только\n　Вселенский век и измерение AD, но со временем\n　мы хотим связать множество параллельных миров.」",
+   "orig": "Uribatake\n「My pleasure. It was nothing! Right now, only the Universal\n　Century and AD dimensions are connected, but eventually,\n　we want to connect a multitude of parallel worlds.」"
+  },
+  {
+   "i": 228,
+   "speaker": "Санада",
+   "text": "「Приятно слышать, что сверхпространственный коммуникатор,\n　созданный инженерами «Ямато», пригодился.」",
+   "orig": "Sanada\n「It's good to hear that the Super Space Communications\n　device developed by Yamato technicians has been of use.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Урибатакэ",
+   "text": "「Огромное вам спасибо, Санада! Благодаря ему мы\n　сумели обойти межпространственные барьеры и наладить\n　связь, а значит — построить всю систему!」",
+   "orig": "Uribatake\n「Many thanks to you, Sanada! We have been able\n　to bypass dimensional barriers to establish\n　communications, thus enabling us to create the system!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Юрика",
+   "text": "「Ух ты! Потрясающе!\n　Технологии измерения Нового Правильного века позволили \n　измерениям UC и AD построить железную дорогу!」",
+   "orig": "Yurika\n「Wow! That's amazing!\n　New Correct Century dimension technology allowed \n　the UC and AD dimensions to create a railway system!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Майто",
+   "text": "「Гайн, начинаем веселье!\n　Ты нужен нам прямо сейчас!」",
+   "orig": "Maito\n「Gaine, let's get this party started!\n　We need you right way!」"
+  },
+  {
+   "i": 232,
+   "speaker": "Майтгайн",
+   "text": "「Принято, Майто!」",
+   "orig": "Mightgaine\n「Roger, Maito!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Дзё",
+   "text": "「Прекрасно!\n　Сражусь с вами обоими!」",
+   "orig": "Joe\n「Very well!\n　I'll fight the two of you!」"
+  },
+  {
+   "i": 234,
+   "speaker": "Майто",
+   "text": "「Вот тут ты ошибаешься, Дзё!」",
+   "orig": "Maito\n「That's where you're wrong, Joe!」"
+  },
+  {
+   "i": 235,
+   "speaker": "Майтгайн",
+   "text": "「Мы будем драться не вдвоём!\n　А как одно целое!」",
+   "orig": "Mightgaine\n「We're not going to fight as two!\n　But as one!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Дзё",
+   "text": "「Что?」",
+   "orig": "Joe\n「What?」"
+  },
+  {
+   "i": 237,
+   "speaker": "Майто",
+   "text": "「ВПЕРЁД,\n　Майтгайн!!」",
+   "orig": "Maito\n「LET'S\n　Mightgaine!!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Майтгайн",
+   "text": "「ГРЕЙТ ДАШ!」",
+   "orig": "Mightgaine\n「GREAT DASH!」"
+  },
+  {
+   "i": 239,
+   "speaker": "Майто",
+   "text": "「Грейт Майтгайн — сборка завершена!」",
+   "orig": "Maito\n「Great Mightgaine complete!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Дзё",
+   "text": "「Они объединились!」",
+   "orig": "Joe\n「They formed together!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Майто",
+   "text": "「Именно так!」",
+   "orig": "Maito\n「That's right!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Бандзё",
+   "text": "「Значит, им наконец удалось\n　слиться в Грейт Майтгайна.」",
+   "orig": "Banjo\n「So they were finally able\n　to combine as Great Mightgaine.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Каппэй",
+   "text": "「Вот и Герой бури!」",
+   "orig": "Kappei\n「Here comes the Storm Hero!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Синдзи",
+   "text": "「К-круто!」",
+   "orig": "Shinji\n「C-cool!」"
+  },
+  {
+   "i": 245,
+   "speaker": "Аска",
+   "text": "「Вы серьёзно?\n　Прямо как из дурацкого комикса\n　или аниме про супергероев!」",
+   "orig": "Asuka\n「Are you serious?\n　It's like something out of a\n　stupid hero comic or anime!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Акито",
+   "text": "「В этом-то вся прелесть.」",
+   "orig": "Akito\n「That's what's so cool about it.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Тэцуя",
+   "text": "「Грейт Майтгайн —\n　храбрейший из всех роботов.」",
+   "orig": "Tetsuya\n「Great Mightgaine is\n　the bravest of all robots.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Тэцуя",
+   "text": "「Жаль, похоже, в этот бой мне уже не вступить.」",
+   "orig": "Tetsuya\n「Bummer, looks like I'm not getting in on this fight.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Кодзи",
+   "text": "「«Грейт Мазингер» только что взлетел.」",
+   "orig": "Koji\n「Great Mazinger just took off.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Саяка",
+   "text": "「Он идёт к Ангелу.\n　Наверное, хочет его остановить.」",
+   "orig": "Sayaka\n「He's headed toward the Angel.\n　Probably to try to stop it.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Рёма",
+   "text": "「Вот же горячая голова!\n　Нечего так переживать\n　за Майто!」",
+   "orig": "Ryoma\n「That impetuous fool!\n　You don't need to be\n　so worried about Maito!」"
+  },
+  {
+   "i": 252,
+   "speaker": "Дзё",
+   "text": "「Грейт Майтгайн...」",
+   "orig": "Joe\n「Great Mightgaine...」"
+  },
+  {
+   "i": 253,
+   "speaker": "Майто",
+   "text": "「Верно, Дзё.\n　Это могущественнейший робот \n　на свете — Грейт Майтгайн!」",
+   "orig": "Maito\n「That's right, Joe.\n　This is the world's mightiest \n　robot, Great Mightgaine!」"
+  },
+  {
+   "i": 254,
+   "speaker": "Дзё",
+   "text": "「Что ж, наконец-то нашёлся противник, достойный\n　моего «Горю». Покончим с этим, Майто Сэмпудзи!」",
+   "orig": "Joe\n「Well then, it seems there's finally an opponent worthy\n　of my Goryu. Let's finish this, Maito Senpuji!」"
+  },
+  {
+   "i": 255,
+   "speaker": "Майто",
+   "text": "「Ты готов,\n　Гайн?」",
+   "orig": "Maito\n「Are you ready,\n　Gaine?」"
+  },
+  {
+   "i": 256,
+   "speaker": "Грейт Майтгайн",
+   "text": "「Как всегда, Майто!」",
+   "orig": "Great Mightgaine\n「As ever, Maito!」"
+  },
+  {
+   "i": 257,
+   "speaker": "Майто",
+   "text": "「Отлично!\n　Сила Грейт Майтгайна навеки будет служить\n　одному: побеждать зло и хранить мир!」",
+   "orig": "Maito\n「Fantastic!\n　The power of Great Mightgaine shall forever\n　be used in conquering evil and protecting peace!」"
+  },
+  {
+   "i": 258,
+   "speaker": "Майто",
+   "text": "「Ну вот и всё, Дзё!\n　Мы остановим и твоего робота,\n　и твои извращённые мысли!」",
+   "orig": "Maito\n「This is it, Joe!\n　We're going to put a stop to both\n　your robot and your twisted thinking!」"
+  },
+  {
+   "i": 259,
+   "speaker": "Харри",
+   "text": "「Силы Альянса DG уничтожены — подтверждаю!」",
+   "orig": "Harry\n「Confirmation of the destruction of DG Alliance forces!」"
+  },
+  {
+   "i": 260,
+   "speaker": "Рури",
+   "text": "「Капитан Кацураги, теперь ваш выход!」",
+   "orig": "Ruri\n「Captain Katsuragi, it's your show now!」"
+  },
+  {
+   "i": 261,
+   "speaker": "Мисато",
+   "text": "「Доложить обстановку!」",
+   "orig": "Misato\n「Status report!」"
+  },
+  {
+   "i": 262,
+   "speaker": "Сигэру",
+   "text": "「Атака драконов и «Грейт Мазингера»\n　сумела замедлить продвижение Ангела!」",
+   "orig": "Shigeru\n「The attack by the Dragons and Great Mazinger\n　has succeeded in slowing the Angel's progress!」"
+  },
+  {
+   "i": 263,
+   "speaker": "Макото",
+   "text": "「Но пока мы отбивались от противника,\n　время вышло!」",
+   "orig": "Makoto\n「However, because we were busy intercepting the enemy,\n　we've run out of time!」"
+  },
+  {
+   "i": 264,
+   "speaker": "Мисато",
+   "text": "「Значит, спасти нас теперь может только чудо.」",
+   "orig": "Misato\n「Then the only thing that can save us now is a miracle.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Окита",
+   "text": "「Выходит, настал наш черёд вмешаться.」",
+   "orig": "Okita\n「I guess that means it's time for us to step in.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Окита",
+   "text": "「Приготовиться к залпу волновой пушки!」",
+   "orig": "Okita\n「Prepare to fire the wave motion gun!」"
+  },
+  {
+   "i": 267,
+   "speaker": "Кодай",
+   "text": "「Есть!\n　Приготовиться к залпу волновой пушки!」",
+   "orig": "Kodai\n「Yes, sir!\n　Prepare to fire the wave motion gun!」"
+  },
+  {
+   "i": 268,
+   "speaker": "Мори",
+   "text": "「Доклад от инженера Токугавы!\n　В машинном отделении обнаружен посторонний!」",
+   "orig": "Mori\n「Report from Engineering Officer Tokugawa!\n　Intruder found in Engineering!」"
+  },
+  {
+   "i": 269,
+   "speaker": "Окита",
+   "text": "「Сообщить охране!」",
+   "orig": "Okita\n「Inform Security!」"
+  },
+  {
+   "i": 270,
+   "speaker": "Санада",
+   "text": "「Если не удастся поднять мощность, мы не сможем\n　пустить в ход ни волновую пушку, ни шоковые орудия.」",
+   "orig": "Sanada\n「If we cannot increase the power output, we will not be able\n　to use either the wave motion gun or the shock cannons.」"
+  },
+  {
+   "i": 271,
+   "speaker": "Окита",
+   "text": "「Прошу прощения, капитан Кацураги.\n　Боюсь, вам придётся рассчитывать на Евы.」",
+   "orig": "Okita\n「Apologies, Captain Katsuragi.\n　I'm afraid you'll have to rely on the EVAs.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Мисато",
+   "text": "「Вас поняла, командующий Окита!」",
+   "orig": "Misato\n「Understood, Commander Okita!」"
+  },
+  {
+   "i": 273,
+   "speaker": "Мисато",
+   "text": "「Всем Евам — занять позиции!\n　Остальные — за ними!」",
+   "orig": "Misato\n「All EVAs to your positions!\n　Everyone else follow!」"
+  },
+  {
+   "i": 274,
+   "speaker": "Аска",
+   "text": "「Вероятность успеха — 0,0001%.」",
+   "orig": "Asuka\n「A success probability of 0.0001%.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Синдзи",
+   "text": "「У нас нет выбора!」",
+   "orig": "Shinji\n「We don't have a choice!」"
+  },
+  {
+   "i": 276,
+   "speaker": "Майто",
+   "text": "「Гайн!」",
+   "orig": "Maito\n「Gaine!」"
+  },
+  {
+   "i": 277,
+   "speaker": "Грейт Майтгайн",
+   "text": "「За дело, Майто!」",
+   "orig": "Great Mightgaine\n「Let's do it, Maito!」"
+  },
+  {
+   "i": 278,
+   "speaker": "Синдзи",
+   "text": "「Майто!」",
+   "orig": "Shinji\n「Maito!」"
+  },
+  {
+   "i": 279,
+   "speaker": "Аска",
+   "text": "「Прочь с дороги!\n　Есть вещи, которые не по зубам даже героям!」",
+   "orig": "Asuka\n「Move outta the way!\n　There are some things even heroes can't do!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Майто",
+   "text": "「Урибатакэ!」",
+   "orig": "Maito\n「Uribatake!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Урибатакэ",
+   "text": "「Почти готово!\n　Ещё минутку!」",
+   "orig": "Uribatake\n「I'm almost there!\n　Just another minute!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Харри",
+   "text": "「Что-то приближается!」",
+   "orig": "Harry\n「There's something coming!」"
+  },
+  {
+   "i": 283,
+   "speaker": "Каппэй",
+   "text": "「Что это такое?」",
+   "orig": "Kappei\n「What is that?」"
+  },
+  {
+   "i": 284,
+   "speaker": "Хатауэй",
+   "text": "「Новый боец корпуса «Брэйв Экспресс»?」",
+   "orig": "Hathaway\n「A new Brave Express Corps team member?」"
+  },
+  {
+   "i": 285,
+   "speaker": "Майт Ганнер",
+   "text": "「От меня у зла поджилки трясутся!\n　Зовут меня Майт Ганнер,\n　быстрый ствол справедливости!」",
+   "orig": "Might Gunner\n「I leave evil shaking in its boots!\n　They call me, Might Gunner,\n　the quick draw of justice!」"
+  },
+  {
+   "i": 286,
+   "speaker": "Грейт Майтгайн",
+   "text": "「Майт Ганнер!\n　Присоединяйся!」",
+   "orig": "Great Mightgaine\n「Might Gunner!\n　Join us!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Майт Ганнер",
+   "text": "「Будет сделано!\n　Помогу всем, чем смогу, Грейт Майтгайн!」",
+   "orig": "Might Gunner\n「You got it!\n　I'll assist in any way possible, Great Mightgaine!」"
+  },
+  {
+   "i": 288,
+   "speaker": "Мисато",
+   "text": "「Майто, что ты задумал?」",
+   "orig": "Misato\n「Maito, what are you planning?」"
+  },
+  {
+   "i": 289,
+   "speaker": "Майто",
+   "text": "「Я сниму Ангела выстрелом Грейт Майтгайна.\n　Остальное — на вас!」",
+   "orig": "Maito\n「I'm going to snipe the Angel with Great Mightgaine.\n　The rest will be up to you!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Аллилуйя",
+   "text": "「Так вот для чего нужен \n　Майт Ганнер?」",
+   "orig": "Allelujah\n「So is that what Might Gunner \n　is for then?」"
+  },
+  {
+   "i": 291,
+   "speaker": "Локон",
+   "text": "「Но цель — Ангел!\n　Обычным оружием его не остановить!」",
+   "orig": "Lockon\n「But the target's an Angel!\n　No average weapon is going to stop it!」"
+  },
+  {
+   "i": 292,
+   "speaker": "Майто",
+   "text": "「Гайн, Майт Ганнер, начали!」",
+   "orig": "Maito\n「Gaine, Might Gunner, let's do it!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Грейт Майтгайн",
+   "text": "「Погоди, Майто!\n　Мы израсходовали больше энергии, чем я думал!」",
+   "orig": "Great Mightgaine\n「Wait, Maito!\n　We've exhausted more energy than I thought!」"
+  },
+  {
+   "i": 294,
+   "speaker": "Майто",
+   "text": "「Гайн...\n　Настал час рискнуть жизнью.」",
+   "orig": "Maito\n「Gaine...\n　The time has come to risk our lives.」"
+  },
+  {
+   "i": 295,
+   "speaker": "Грейт Майтгайн",
+   "text": "「Что ж, хорошо.」",
+   "orig": "Great Mightgaine\n「Alright then.」"
+  },
+  {
+   "i": 296,
+   "speaker": "Лотти",
+   "text": "「Майто!\n　Ты что творишь?」",
+   "orig": "Lottie\n「Maito!\n　What are you doing?」"
+  },
+  {
+   "i": 297,
+   "speaker": "Вельт",
+   "text": "「Он выводит двигатель за красную черту,\n　чтобы компенсировать нехватку мощности!」",
+   "orig": "Velt\n「He's going to redline the engine\n　to compensate for the lack of power!」"
+  },
+  {
+   "i": 298,
+   "speaker": "Кира",
+   "text": "「Не надо! Ты рискуешь жизнью!」",
+   "orig": "Kira\n「Don't do it! You're putting your life in danger!」"
+  },
+  {
+   "i": 299,
+   "speaker": "Хатауэй",
+   "text": "「Что ты делаешь?」",
+   "orig": "Hathaway\n「What are you doing?」"
+  },
+  {
+   "i": 300,
+   "speaker": "Амуро",
+   "text": "「Он выводит двигатель за красную черту,\n　чтобы компенсировать нехватку мощности!」",
+   "orig": "Amuro\n「He's going to redline the engine\n　to compensate for the lack of power!」"
+  },
+  {
+   "i": 301,
+   "speaker": "Кира",
+   "text": "「Не надо! Ты рискуешь жизнью!」",
+   "orig": "Kira\n「Don't do it! You're putting your life in danger!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Майто",
+   "text": "「Если не поостережёмся, ты можешь взорваться, \n　и очень сильно, Грейт Майтгайн.」",
+   "orig": "Maito\n「If we're not careful, you might cause a \n　massive explosion, Great Mightgaine.」"
+  },
+  {
+   "i": 303,
+   "speaker": "Майто",
+   "text": "「Но выбора у нас нет!\n　Мы обязаны защитить этот мир.\n　Даже если сами при этом погибнем.」",
+   "orig": "Maito\n「But we don't have a choice!\n　We must protect this world.\n　Even if it means we die in the process.」"
+  },
+  {
+   "i": 304,
+   "speaker": "Дзё",
+   "text": "「Я тебе этого не позволю!」",
+   "orig": "Joe\n「I won't let you do that!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Майто",
+   "text": "「Дзё!」",
+   "orig": "Maito\n「Joe!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Кодзи",
+   "text": "「Вот негодяй!\n　Он всё ещё мешает Майто!」",
+   "orig": "Koji\n「That jerk!\n　He's still interfering with Maito!」"
+  },
+  {
+   "i": 307,
+   "speaker": "Грэм",
+   "text": "「Нет, постой. Смотри!」",
+   "orig": "Graham\n「No, wait. Look!」"
+  },
+  {
+   "i": 308,
+   "speaker": "Дзё",
+   "text": "「Подключайся к моей машине.\n　Бери у «Горю» столько энергии, сколько нужно.」",
+   "orig": "Joe\n「Connect to my machine.\n　Take the power you need from Goryu.」"
+  },
+  {
+   "i": 309,
+   "speaker": "Майто",
+   "text": "「Дзё.」",
+   "orig": "Maito\n「Joe.」"
+  },
+  {
+   "i": 310,
+   "speaker": "Дзё",
+   "text": "「Не пойми неправильно.\n　Так просто ты не отделаешься.\n　Победить тебя должен именно я.」",
+   "orig": "Joe\n「Don't get me wrong.\n　You're not getting off that easily.\n　I'm going to be the one to defeat you.」"
+  },
+  {
+   "i": 311,
+   "speaker": "Майто",
+   "text": "「Что ж, с этим я согласен.」",
+   "orig": "Maito\n「Very well, I can accept that.」"
+  },
+  {
+   "i": 312,
+   "speaker": "Майя",
+   "text": "「Восьмой Ангел\n　достиг Токио-3!」",
+   "orig": "Maya\n「The Eighth Angel\n　has reached Tokyo-3!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Мисато",
+   "text": "「Майто!」",
+   "orig": "Misato\n「Maito!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Бандзё",
+   "text": "「Майто!」",
+   "orig": "Banjo\n「Maito!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Акито",
+   "text": "「Майто!」",
+   "orig": "Akito\n「Maito!」"
+  },
+  {
+   "i": 316,
+   "speaker": "Майто",
+   "text": "「Пора!」",
+   "orig": "Maito\n「Now!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Сигэру",
+   "text": "「Выстрел попал в Ангела!」",
+   "orig": "Shigeru\n「His shot hit the Angel!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Макото",
+   "text": "「Скорость снижения Ангела резко падает!」",
+   "orig": "Makoto\n「Angel rate of descent, decreasing rapidly!」"
+  },
+  {
+   "i": 319,
+   "speaker": "Рицуко",
+   "text": "「Вот он, наш шанс!」",
+   "orig": "Ritsuko\n「Now's our chance!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Мисато",
+   "text": "「Синдзи! Рэй! Аска!\n　Вспомните дыхательную технику и синхронизируйтесь!」",
+   "orig": "Misato\n「Shinji! Rei! Asuka!\n　Remember your breathing technique and synchronize!」"
+  },
+  {
+   "i": 321,
+   "speaker": "Рэй",
+   "text": "「Принято!」",
+   "orig": "Rei\n「Roger!」"
+  },
+  {
+   "i": 322,
+   "speaker": "Синдзи",
+   "text": "「Аянами, Аска, пора!」",
+   "orig": "Shinji\n「Ayanami, Asuka, this is it!」"
+  },
+  {
+   "i": 323,
+   "speaker": "Аска",
+   "text": "「В АТАКУ!」",
+   "orig": "Asuka\n「ATTACK!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Харри",
+   "text": "「Сбито десять вражеских машин!」",
+   "orig": "Harry\n「Ten enemy crafts shot down!」"
+  },
+  {
+   "i": 325,
+   "speaker": "Юрика",
+   "text": "「Хороший темп.\n　Может, мы и правда победим!」",
+   "orig": "Yurika\n「That's a good pace.\n　We might just win after all!」"
+  },
+  {
+   "i": 326,
+   "speaker": "Рури",
+   "text": "「Настоящие трудности начнутся, когда мы его уничтожим.」",
+   "orig": "Ruri\n「Our real troubles begin after we've destroyed this enemy.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Юрика",
+   "text": "「И правда.」",
+   "orig": "Yurika\n「True.」"
+  },
+  {
+   "i": 328,
+   "speaker": "Майто",
+   "text": "「Дзё!\n　Ты проиграл!」",
+   "orig": "Maito\n「Joe!\n　You lose!」"
+  },
+  {
+   "i": 329,
+   "speaker": "Дзё",
+   "text": "「Хмф!\n　Даже на «Горю» победить не вышло!」",
+   "orig": "Joe\n「Hmph!\n　Can't even win with the Goryu!」"
+  },
+  {
+   "i": 330,
+   "speaker": "Майто",
+   "text": "「В прошлом бою я позволил твоей жажде мести\n　задеть меня, и во мне поселились сомнения.\n　Потому я и проиграл.」",
+   "orig": "Maito\n「In our previous battle, I allowed your feelings of\n　vindictiveness to affect me, giving rise to my doubts.\n　And that's why I lost.」"
+  },
+  {
+   "i": 331,
+   "speaker": "Майто",
+   "text": "「Но теперь всё иначе.\n　Теперь я верю в себя, в друзей и в справедливость!\n　Тебе меня больше не победить!」",
+   "orig": "Maito\n「But things are different now.\n　Now I believe in myself, my friends and justice!\n　No way I'm going to lose to you now!」"
+  },
+  {
+   "i": 332,
+   "speaker": "Майто",
+   "text": "「Во всяком случае, пока тебя самого глодают сомнения!」",
+   "orig": "Maito\n「Not while you are cloaked in your own doubts!」"
+  },
+  {
+   "i": 333,
+   "speaker": "Дзё",
+   "text": "「Проклятье!」",
+   "orig": "Joe\n「Damn!」"
+  },
+  {
+   "i": 334,
+   "speaker": "Тобиа",
+   "text": "「Отличная работа, Майто!」",
+   "orig": "Tobia\n「Great job, Maito!」"
+  },
+  {
+   "i": 335,
+   "speaker": "Майто",
+   "text": "「Это всё заслуга Грейт Майтгайна!」",
+   "orig": "Maito\n「It was all Great Mightgaine's doing!」"
+  },
+  {
+   "i": 336,
+   "speaker": "Коласур",
+   "text": "「Но почему Дзё заколебался?」",
+   "orig": "Colasour\n「But why did Joe hesitate?」"
+  },
+  {
+   "i": 337,
+   "speaker": "Майто",
+   "text": "「Я понял это прямо посреди боя.\n　Сражаясь, когда над миром нависла гибель,\n　Дзё начал злиться на самого себя.」",
+   "orig": "Maito\n「It came to me while we were fighting.\n　Fighting in the face of world destruction as he was,\n　Joe grew irritated with himself.」"
+  },
+  {
+   "i": 338,
+   "speaker": "Грэм",
+   "text": "「Ведёт себя и говорит как злодей,\n　а на деле — добряк, каких поискать.\n　Совсем не изменился.」",
+   "orig": "Graham\n「He acts and talks like a villain,\n　but in reality, he's just a big, old softy, huh?\n　He hasn't changed at all.」"
+  },
+  {
+   "i": 339,
+   "speaker": "Майто",
+   "text": "（Хочешь драки, Дзё, —\n　будет тебе драка. Но сколько бы раз ты ни пришёл,\n　второго поражения я тебе не отдам.）",
+   "orig": "Maito\n（If it's a fight you want, Joe,\n　you'll get it. But no matter how many times you\n　do, I'll never lose to you a second time.）"
+  },
+  {
+   "i": 340,
+   "speaker": "Вольфганг",
+   "text": "「Н-не верю!\n　Мой «Штарк 4126» проиграл!」",
+   "orig": "Wolfgang\n「I-I don't believe it!\n　My Stark 4126 lost!」"
+  },
+  {
+   "i": 341,
+   "speaker": "Ихь",
+   "text": "「Н-надо отступать, господин Вольфганг!」",
+   "orig": "Ich\n「W-we need to retreat, Master Wolfgang!」"
+  },
+  {
+   "i": 342,
+   "speaker": "Либе",
+   "text": "「Если наши машины уничтожат,\n　мы отсюда не выберемся!」",
+   "orig": "Liebe\n「If our machines are destroyed,\n　we won't be able to escape!」"
+  },
+  {
+   "i": 343,
+   "speaker": "Дихь",
+   "text": "「Надо учесть все варианты\n　и убраться отсюда как можно дальше!」",
+   "orig": "Dich\n「We have to consider all possibilities,\n　and get as far away from here as we can!」"
+  },
+  {
+   "i": 344,
+   "speaker": "Вольфганг",
+   "text": "「Л-легко сказать, но\n　куда нам деваться?」",
+   "orig": "Wolfgang\n「Y-you say that, but\n　where is there to go?」"
+  },
+  {
+   "i": 345,
+   "speaker": "Корос",
+   "text": "「Я доставлю вас в безопасное место.」",
+   "orig": "Koros\n「I will take you to safety.」"
+  },
+  {
+   "i": 346,
+   "speaker": "Вольфганг",
+   "text": "「Н-но вы же—?」",
+   "orig": "Wolfgang\n「B-but you—?」"
+  },
+  {
+   "i": 347,
+   "speaker": "Корос",
+   "text": "「Объясню всё при встрече.」",
+   "orig": "Koros\n「I will explain once we see each other.」"
+  },
+  {
+   "i": 348,
+   "speaker": "Корос",
+   "text": "「У меня к вам будет просьба,\n　господин Вольфганг.」",
+   "orig": "Koros\n「I have a favor to ask of you,\n　Master Wolfgang.」"
+  },
+  {
+   "i": 349,
+   "speaker": "Вольфганг",
+   "text": "「Х-хорошо!\n　Главное сейчас — любой ценой уйти в безопасность!」",
+   "orig": "Wolfgang\n「A-all right!\n　First, we must get to safety, no matter what!」"
+  },
+  {
+   "i": 350,
+   "speaker": "Вольфганг",
+   "text": "「Майтгайн и компания,\n　не знаю, имею ли я право \n　такое говорить, но спасите этот мир!」",
+   "orig": "Wolfgang\n「Mightgaine and friends,\n　I don't know if I have the right \n　to say this or not, but save this world!」"
+  },
+  {
+   "i": 351,
+   "speaker": "Каппэй",
+   "text": "「Какие же наглецы. Сами ведь первые и напали.」",
+   "orig": "Kappei\n「What a selfish bunch. They're the ones who attacked first.」"
+  },
+  {
+   "i": 352,
+   "speaker": "Бандзё",
+   "text": "「И не говори.」",
+   "orig": "Banjo\n「I hear you.」"
+  },
+  {
+   "i": 353,
+   "speaker": "Бандзё",
+   "text": "（Я думал, что Великое Зло, таящееся\n　в тени за их спинами, — это Эмбрио.\n　Но теперь я уже не уверен.）",
+   "orig": "Banjo\n（I thought the Great Evil lurking in the\n　shadows behind them was Embryo.\n　But now, I'm not so sure.）"
+  },
+  {
+   "i": 354,
+   "speaker": "Бандзё",
+   "text": "（Мистер Икс.\n　Он — ключ ко всему.）",
+   "orig": "Banjo\n（Mr. X.\n　He's the key to everything.）"
+  },
+  {
+   "i": 355,
+   "speaker": "Вюиттон",
+   "text": "「Одри, отступаем!\n　Я не для того наконец добыл этого \n　«Снуби», чтобы его тут потерять!」",
+   "orig": "Vuitton\n「Audrey, we're retreating!\n　No way I'm going to lose this \n　Snooby after finally getting it!」"
+  },
+  {
+   "i": 356,
+   "speaker": "Одри",
+   "text": "「Но мы даже не знаем, где находимся.\n　Точно отступаем?」",
+   "orig": "Audrey\n「But we don't even know where we are,\n　you sure you want to retreat?」"
+  },
+  {
+   "i": 357,
+   "speaker": "Вюиттон",
+   "text": "「Об этом подумаем потом!\n　Главное — убраться отсюда!」",
+   "orig": "Vuitton\n「We'll worry about that later!\n　Let's just get out of here!」"
+  },
+  {
+   "i": 358,
+   "speaker": "Синн",
+   "text": "「Если подумать,\n　их ведь притащили сюда против воли.」",
+   "orig": "Shinn\n「When you stop to think about it,\n　they were brought here against their will.」"
+  },
+  {
+   "i": 359,
+   "speaker": "Соскэ",
+   "text": "「Это даже не их измерение,\n　так что пусть уходят. Разницы никакой.」",
+   "orig": "Sousuke\n「It's not even their dimension,\n　so let them go. It makes no difference.」"
+  },
+  {
+   "i": 360,
+   "speaker": "Бэнкэй",
+   "text": "「Рёма, ты сегодня в ударе!」",
+   "orig": "Benkei\n「Ryoma, you're in top form today!」"
+  },
+  {
+   "i": 361,
+   "speaker": "Рёма",
+   "text": "「Пустяки.」",
+   "orig": "Ryoma\n「Piece of cake.」"
+  },
+  {
+   "i": 362,
+   "speaker": "Саламандинай",
+   "text": "「Хм.」",
+   "orig": "Salamandinay\n「Hmm.」"
+  },
+  {
+   "i": 363,
+   "speaker": "Рёма",
+   "text": "「Хочешь что-то сказать, принцесса драконов?」",
+   "orig": "Ryoma\n「Something to say to me, Dragon princess?」"
+  },
+  {
+   "i": 364,
+   "speaker": "Саламандинай",
+   "text": "「Нет.\n　Просто меня занимает твоя манера боя.」",
+   "orig": "Salamandinay\n「No.\n　Just intrigued by your combat maneuvers.」"
+  },
+  {
+   "i": 365,
+   "speaker": "Саламандинай",
+   "text": "（Драгуний... Нет, воин, избранный Геттер-лучами.）",
+   "orig": "Salamandinay\n（Dragunium... No, a chosen warrior of Getter Rays.）"
+  },
+  {
+   "i": 366,
+   "speaker": "Саламандинай",
+   "text": "（Как дочь клана драконов,\n　я буду внимательно следить за твоей судьбой.）",
+   "orig": "Salamandinay\n（As one of the Dragon clan,\n　I will watch your fate closely.）"
+  },
+  {
+   "i": 367,
+   "speaker": "Сигэру",
+   "text": "「С начала операции прошло четыре минуты!」",
+   "orig": "Shigeru\n「Four minutes have lapsed since operation start!」"
+  },
+  {
+   "i": 368,
+   "speaker": "Макото",
+   "text": "「Ангел вот-вот появится в зоне видимости!」",
+   "orig": "Makoto\n「The Angel should be visible soon!」"
+  },
+  {
+   "i": 369,
+   "speaker": "Мисато",
+   "text": "「Быстрее, все!\n　У нас осталась всего одна минута!」",
+   "orig": "Misato\n「Hurry, everyone!\n　We've only got one more minute!」"
+  },
+  {
+   "i": 370,
+   "speaker": "Макото",
+   "text": "「Восьмой Ангел здесь!」",
+   "orig": "Makoto\n「The Eighth Angel is here!」"
+  },
+  {
+   "i": 371,
+   "speaker": "Синдзи",
+   "text": "「Не может быть!\n　Мы ещё не готовы!」",
+   "orig": "Shinji\n「It can't be!\n　We aren't ready yet!」"
+  },
+  {
+   "i": 372,
+   "speaker": "Гэндо",
+   "text": "「Что ж, это начало конца.」",
+   "orig": "Gendo\n「So this is the beginning of the end.」"
+  },
+  {
+   "i": 373,
+   "speaker": "Дзё",
+   "text": "「Ну давай, Майто Сэмпудзи.\n　Приди и отомсти за своего драгоценного Майтгайна!」",
+   "orig": "Joe\n「C'mon, Maito Senpuji.\n　Come avenge your beloved Mightgaine!」"
+  },
+  {
+   "i": 374,
+   "speaker": "Майто",
+   "text": "「Гайну не нужна месть. Ему это чуждо.\n　Корпус «Брэйв Экспресс» бьётся прежде всего за справедливость!」",
+   "orig": "Maito\n「Gaine doesn't need avenging. It holds no appeal to him.\n　The Brave Express Corps fights for justice above all!」"
+  },
+  {
+   "i": 375,
+   "speaker": "Дзё",
+   "text": "「Да ты совсем ничего не понимаешь!\n　Справедливость — пустой звук!」",
+   "orig": "Joe\n「You really are clueless!\n　Justice is meaningless!」"
+  },
+  {
+   "i": 376,
+   "speaker": "Дзё",
+   "text": "「И когда я сегодня размажу тебя в кашу,\n　тебе придётся это признать!」",
+   "orig": "Joe\n「And after I beat you to a bloody pulp today,\n　you'll be forced to admit it!」"
+  },
+  {
+   "i": 377,
+   "speaker": "Майто",
+   "text": "（Его машина куда мощнее «Хирю».\n　Не уверен, что сумею победить.）",
+   "orig": "Maito\n（His robot is a much stronger machine\n　than the Hiryu. Not so sure I can win.）"
+  },
+  {
+   "i": 378,
+   "speaker": "Дзё",
+   "text": "「Ах, славно! Грейт Майтгайн —\n　достойный мне противник!」",
+   "orig": "Joe\n「Ah, good! Great Mightgaine\n　is the perfect match for me!」"
+  },
+  {
+   "i": 379,
+   "speaker": "Майто",
+   "text": "「Дзё!\n　Тебе меня ни за что не одолеть!」",
+   "orig": "Maito\n「Joe!\n　There's no way you can defeat me!」"
+  },
+  {
+   "i": 380,
+   "speaker": "Дзё",
+   "text": "「Не смеши.」",
+   "orig": "Joe\n「Get real.」"
+  },
+  {
+   "i": 381,
+   "speaker": "Майто",
+   "text": "「Ты дерёшься ради мелкого самолюбия. Я — за тех,\n　кто не может драться сам. Тебе меня не победить!」",
+   "orig": "Maito\n「You fight for petty self-satisfaction. I fight for those\n　who can't fight for themselves. No way you'll defeat me!」"
+  },
+  {
+   "i": 382,
+   "speaker": "Дзё",
+   "text": "「Опять эта белиберда.」",
+   "orig": "Joe\n「Again with this tripe.」"
+  },
+  {
+   "i": 383,
+   "speaker": "Майто",
+   "text": "「Слушай меня, Дзё!\n　Мы с Грейт Майтгайном несём в этот бой \n　мир, надежду и любовь множества людей!」",
+   "orig": "Maito\n「Hear me, Joe!\n　Great Mightgaine and I carry the burden of peace, \n　hope and love of a great many others into this battle!」"
+  },
+  {
+   "i": 384,
+   "speaker": "Майто",
+   "text": "「Мы просто не можем проиграть!\n　Пока в моём сердце живёт гордость за справедливость!」",
+   "orig": "Maito\n「There's no way we can lose!\n　Not as long as I hold the pride of justice in my heart!」"
+  },
+  {
+   "i": 385,
+   "speaker": "Грэм",
+   "text": "「Поможет ли новая сила найти то, что ты ищешь?」",
+   "orig": "Graham\n「Will your new power help you find what you're looking for?」"
+  },
+  {
+   "i": 386,
+   "speaker": "Дзё",
+   "text": "「Хм.\n　Возможно, на мой вопрос\n　вообще нет ответа.」",
+   "orig": "Joe\n「Hmm.\n　It might be that there is no\n　answer to my question.」"
+  },
+  {
+   "i": 387,
+   "speaker": "Грэм",
+   "text": "「Не сдавайся, Дзё. Ищи дальше!\n　А как найдёшь ответ — возвращайся!」",
+   "orig": "Graham\n「Don't give up, Joe. Keep searching!\n　Once you have your answer, return!」"
+  },
+  {
+   "i": 388,
+   "speaker": "Грэм",
+   "text": "「Взмой в небо с той же страстью,\n　которой ты когда-то разил, как мечом!」",
+   "orig": "Graham\n「Hit the skies with the passion\n　you used to wield like a sword!」"
+  },
+  {
+   "i": 389,
+   "speaker": "Акито",
+   "text": "「Как же печально жить вот так — \n　заперев сердце в скорлупу.」",
+   "orig": "Akito\n「How sad to live life with a shell\n　around one's heart like you do.」"
+  },
+  {
+   "i": 390,
+   "speaker": "Дзё",
+   "text": "「Что ты там бормочешь?」",
+   "orig": "Joe\n「What are you babbling about?」"
+  },
+  {
+   "i": 391,
+   "speaker": "Акито",
+   "text": "「Ты точно такой же, каким был я.\n　Потому я и помогу тебе разбить эту скорлупу!」",
+   "orig": "Akito\n「You're just like I used to be.\n　So I'm going to help you break out of your shell!」"
+  },
+  {
+   "i": 392,
+   "speaker": "Акито",
+   "text": "「Дзё Ас,\n　я освобожу тебя от твоего прошлого!」",
+   "orig": "Akito\n「Joe the Ace,\n　I'm going to release you from your past!」"
+  },
+  {
+   "i": 393,
+   "speaker": "Дзё",
+   "text": "「Ты прямо как этот проклятый Майто Сэмпудзи!」",
+   "orig": "Joe\n「You just like that damned Maito Senpuji!」"
+  },
+  {
+   "i": 394,
+   "speaker": "Майто",
+   "text": "「Послушай меня, Вольфганг!\n　Если мир погибнет, ты никогда не исполнишь\n　свою мечту — построить лучшего робота на свете!」",
+   "orig": "Maito\n「Listen to me, Wolfgang!\n　If the world is destroyed, you'll never get to realize\n　your dream of building the world's best robot!」"
+  },
+  {
+   "i": 395,
+   "speaker": "Вольфганг",
+   "text": "「А знаешь, пожалуй, ты прав!」",
+   "orig": "Wolfgang\n「You know, I guess you're right!」"
+  },
+  {
+   "i": 396,
+   "speaker": "Ихь",
+   "text": "「Господин Вольфганг!\n　Как вы можете такое говорить в такой момент?」",
+   "orig": "Ich\n「Master Wolfgang!\n　How can you say that at a time like this?」"
+  },
+  {
+   "i": 397,
+   "speaker": "Вольфганг",
+   "text": "「Д-да, пожалуй, ты права.」",
+   "orig": "Wolfgang\n「I-I guess you're right.」"
+  },
+  {
+   "i": 398,
+   "speaker": "Вольфганг",
+   "text": "「Ну хорошо! Я этого так не оставлю!\n　Я покажу им мощь моего \n　новейшего творения — «Штарка 4126»!」",
+   "orig": "Wolfgang\n「Alright then! I can't stand the thought of it all!\n　I'll show them the power of \n　my latest creation, the Stark 4126!」"
+  },
+  {
+   "i": 399,
+   "speaker": "Майто",
+   "text": "「Раз так — давай, покажи!\n　Корпус «Брэйв Экспресс» готов!」",
+   "orig": "Maito\n「If that's the way you feel, then do it!\n　The Brave Express Corps stands ready!」"
+  },
+  {
+   "i": 400,
+   "speaker": "Бандзё",
+   "text": "「Профессор Вольфганг,\n　я хотел бы с вами поговорить.」",
+   "orig": "Banjo\n「Professor Wolfgang,\n　I'd like to speak to you.」"
+  },
+  {
+   "i": 401,
+   "speaker": "Вольфганг",
+   "text": "「В-вы сердитесь из-за \n　наследия меганоидов?」",
+   "orig": "Wolfgang\n「A-are you angry concerning the \n　legacy of the Meganoid?」"
+  },
+  {
+   "i": 402,
+   "speaker": "Бандзё",
+   "text": "「Вовсе нет.\n　Вас просто используют ради вашего таланта.」",
+   "orig": "Banjo\n「That's not it at all.\n　You're merely being used for your skill.」"
+  },
+  {
+   "i": 403,
+   "speaker": "Бандзё",
+   "text": "「И вы так и позволите распоряжаться\n　своими технологиями подобным образом?」",
+   "orig": "Banjo\n「Are you simply going to allow your\n　technology to be used like this?」"
+  },
+  {
+   "i": 404,
+   "speaker": "Вольфганг",
+   "text": "「Ну, я, э-э...」",
+   "orig": "Wolfgang\n「Well, I, uh...」"
+  },
+  {
+   "i": 405,
+   "speaker": "Бандзё",
+   "text": "「Тогда ваши роботы — не более\n　чем оружие!\n　Этого вы хотели, профессор?」",
+   "orig": "Banjo\n「Then your robots are nothing\n　more than weapons!\n　Is that what you want, Professor?」"
+  },
+  {
+   "i": 406,
+   "speaker": "Вольфганг",
+   "text": "「Довольно!\n　Сейчас вокруг только война.」",
+   "orig": "Wolfgang\n「Enough!\n　War is all we have right now.」"
+  },
+  {
+   "i": 407,
+   "speaker": "Майто",
+   "text": "「Катрин Вюиттон!\n　Если этот мир погибнет, вы лишитесь всех \n　картин и драгоценностей, которые так любите!」",
+   "orig": "Maito\n「Catherine Vuitton!\n　If this world is destroyed, you'll lose all \n　the art and jewels that you so love!」"
+  },
+  {
+   "i": 408,
+   "speaker": "Вюиттон",
+   "text": "「Э-э...」",
+   "orig": "Vuitton\n「Uh...」"
+  },
+  {
+   "i": 409,
+   "speaker": "Одри",
+   "text": "「Майто Сэмпудзи! Я не позволю вам дурачить\n　госпожу Катрин такими глупыми доводами!」",
+   "orig": "Audrey\n「Maito Senpuji! I won't allow you to deceive\n　Mistress Catherine with a silly argument like that!」"
+  },
+  {
+   "i": 410,
+   "speaker": "Вюиттон",
+   "text": "「О-она права!\n　Надо думать о том, что здесь и сейчас!」",
+   "orig": "Vuitton\n「Sh-she's right!\n　We have to think of the here and now!」"
+  },
+  {
+   "i": 411,
+   "speaker": "Майто",
+   "text": "「Раз так, вы не оставляете \n　мне выбора!」",
+   "orig": "Maito\n「If that's how you feel, then \n　you leave me no choice!」"
+  },
+  {
+   "i": 412,
+   "speaker": "Майто",
+   "text": "「Я разнесу вашего нового робота\n　в груду металлолома, Катрин!」",
+   "orig": "Maito\n「I'll beat your new robot\n　into a pile of scrap, Catherine!」"
+  },
+  {
+   "i": 413,
+   "speaker": "Синдзи",
+   "text": "（Отец смотрит на этот бой...）",
+   "orig": "Shinji\n（Father's watching this battle...）"
+  },
+  {
+   "i": 414,
+   "speaker": "Синдзи",
+   "text": "（И всё-таки странно.\n　В отличие от первого раза за штурвалом Евы, \n　мне всё равно, что обо мне подумает отец.）",
+   "orig": "Shinji\n（Strange, though.\n　Unlike the first time I ever piloted an \n　EVA, I'm not worried about what Father thinks.）"
+  },
+  {
+   "i": 415,
+   "speaker": "Синдзи",
+   "text": "（Что ж. Пора по-настоящему броситься в этот бой!\n　И сделаю я это только ради самого себя!）",
+   "orig": "Shinji\n（Alright then. Time to really throw myself into this fight!\n　And I'm gonna do it for no one other than myself!）"
+  },
+  {
+   "i": 416,
+   "speaker": "Аска",
+   "text": "（Смотрите на меня, папенькин сынок и любимица... Смотрите!）",
+   "orig": "Asuka\n（Look at me, Daddy's Boy and Commander's Pet... Look!）"
+  },
+  {
+   "i": 417,
+   "speaker": "Аска",
+   "text": "（Вы стали пилотами по знакомству. А я покажу,\n　какой настоящий талант нужен пилоту Евы!）",
+   "orig": "Asuka\n（You got to be pilots through connections. I'll show you\n　the real talent it takes to be an EVA pilot!）"
+  },
+  {
+   "i": 418,
+   "speaker": "Рэй",
+   "text": "（Ты неуклонно меняешься, Икари.）",
+   "orig": "Rei\n（You're steadily changing, Ikari.）"
+  },
+  {
+   "i": 419,
+   "speaker": "Рэй",
+   "text": "（А что станет со мной?）",
+   "orig": "Rei\n（What will become of me?）"
+  },
+  {
+   "i": 420,
+   "speaker": "Рёма",
+   "text": "「Вы просто невероятны!\n　Несмотря на все оговорки принцессы драконов \n　насчёт Геттер-лучей, вы всё равно ведёте Геттеры.」",
+   "orig": "Ryoma\n「You guys are incredible!\n　Despite the Dragon princess' reservations concerning \n　Getter Rays, you can still pilot the Getter Robots.」"
+  },
+  {
+   "i": 421,
+   "speaker": "Хаято",
+   "text": "「Во мне говорит учёный.\n　Если я не испытаю Геттер-лучи на себе,\n　как мне понять их до конца?」",
+   "orig": "Hayato\n「That's the scientist in me.\n　If I don't experience Getter Rays for myself,\n　how can I come to a complete understanding of them?」"
+  },
+  {
+   "i": 422,
+   "speaker": "Бэнкэй",
+   "text": "「Может статься, мы сами ближе к этим \n　драконам, чем сами Геттер-роботы.」",
+   "orig": "Benkei\n「It might be that we are more akin to those \n　Dragons than the Getter Robots are.」"
+  },
+  {
+   "i": 423,
+   "speaker": "Рёма",
+   "text": "「Значит, вы готовы ко всему.\n　Мне и добавить нечего!」",
+   "orig": "Ryoma\n「Then you are ready for anything.\n　There's nothing left for me to say!」"
+  },
+  {
+   "i": 424,
+   "speaker": "Рёма",
+   "text": "「За дело!\n　Мы втроём — одно целое с Геттер-роботами!」",
+   "orig": "Ryoma\n「Let's do it!\n　We three are in this together with the Getter Robots!」"
+  },
+  {
+   "i": 425,
+   "speaker": "$n",
+   "text": "「А!」",
+   "orig": "$n\n「Ah!」"
+  }
+ ]
+}

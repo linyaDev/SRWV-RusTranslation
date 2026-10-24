@@ -1,0 +1,1654 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Кабинет коменданта Арзенала-",
+   "orig": "　\n　　\n　　　　　　　-Arzenal Commander's Office-"
+  },
+  {
+   "i": 4,
+   "speaker": "Джилл",
+   "text": "「Кажется, я поняла, в каком вы положении.\n　Порадуемся хотя бы тому, что смогли собраться!」",
+   "orig": "Jill\n「I think I've got your situation.\n　Let's just be glad we could regroup!」"
+  },
+  {
+   "i": 5,
+   "speaker": "Сумераги",
+   "text": "「А как обстоят дела на Арзенале?」",
+   "orig": "Sumeragi\n「And how are things on Arzenal?」"
+  },
+  {
+   "i": 6,
+   "speaker": "Джилл",
+   "text": "「Ну, как вы уже знаете, Эмбрио занят тем,\n　что разрушает мир Универсального века\n　и сохнет по Анж, так что нас он не трогает.」",
+   "orig": "Jill\n「Well, as you already know, Embryo is wrapped up\n　destroying the world of Universal Century\n　and pining after Ange, so we're being ignored.」"
+  },
+  {
+   "i": 7,
+   "speaker": "Джилл",
+   "text": "「И благодаря этому мы сумели\n　отстроиться настолько, насколько было можно.」",
+   "orig": "Jill\n「And thanks to that, we've been able\n　to rebuild as much as was possible.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Джилл",
+   "text": "「«Либертус» готов — хоть сейчас.」",
+   "orig": "Jill\n「We're ready with Libertus whenever necessary.」"
+  },
+  {
+   "i": 9,
+   "speaker": "Саламандинай",
+   "text": "「«Либертус»? Это ведь ваш\n　план контрнаступления на Эмбрио?」",
+   "orig": "Salamandinay\n「Libertus? Isn't that your\n　plan for a counteroffensive on Embryo?」"
+  },
+  {
+   "i": 10,
+   "speaker": "Джилл",
+   "text": "「С точки зрения клана драконов — похоже на то.」",
+   "orig": "Jill\n「From a Dragon clan perspective, it would seem so.」"
+  },
+  {
+   "i": 11,
+   "speaker": "Саламандинай",
+   "text": "「А разве это не так?」",
+   "orig": "Salamandinay\n「Isn't that what it is?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Джилл",
+   "text": "「Для нас масштаб куда крупнее.\n　Речь о том, чтобы разрушить целую вселенную.」",
+   "orig": "Jill\n「For us, it's not really that small-scaled.\n　It's destroying the universe for once.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Лакус",
+   "text": "「Разрушить, говорите?」",
+   "orig": "Lacus\n「Destroying, you say?」"
+  },
+  {
+   "i": 14,
+   "speaker": "Анж",
+   "text": "「Я понимаю, что ты хочешь сказать, Лакус.\n　Но это мера того, насколько\n　мы настроены на эту битву.」",
+   "orig": "Ange\n「I know what you want to say, Lacus.\n　But that's a measure of how\n　resolved we are to this fight.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Анж",
+   "text": "「Если мы не готовы зайти так далеко,\n　Эмбрио нам не одолеть никогда.」",
+   "orig": "Ange\n「If we aren't ready to go that far,\n　we can never defeat Embryo.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Тесса",
+   "text": "「И мы до сих пор не знаем, чего добивается\n　его новый дружок Леонард. Надо спешить.」",
+   "orig": "Tessa\n「And we still don't know what his new \n　friend Leonard is after. We have to hurry.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Анж",
+   "text": "「При всей своей показной учтивости он рвёт\n　на части две вселенные просто ради забавы.\n　Нельзя позволить ему продолжать.」",
+   "orig": "Ange\n「For all his pretend good manners, he's \n　tearing two universes apart, just for fun.\n　We can't just let him go on like this.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Джилл",
+   "text": "「Анж, я забираю у тебя командование\n　1-й эскадрильей Пара-мейлов.」",
+   "orig": "Jill\n「Ange, I'm re-taking command\n　of the 1st Para-Mail Squadron from you.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Анж",
+   "text": "「Так точно, комендант.」",
+   "orig": "Ange\n「Understood, Commander.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Джилл",
+   "text": "「И у Сумераги тоже, идёт?」",
+   "orig": "Jill\n「And Sumeragi as well, OK?」"
+  },
+  {
+   "i": 21,
+   "speaker": "Сумераги",
+   "text": "「Вполне. Не волнуйтесь,\n　мы всецело настроены сотрудничать.」",
+   "orig": "Sumeragi\n「That's fine. Don't worry, \n　we have every intention of cooperating.」"
+  },
+  {
+   "i": 22,
+   "speaker": "Таск",
+   "text": "「Алектра.\n　Ты можешь рассказать что-нибудь про отряд Салии?」",
+   "orig": "Tusk\n「Alektra.\n　Can you tell me anything about Salia's group?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Джилл",
+   "text": "「Они переметнулись.\n　Эмбрио прибрал их к рукам.」",
+   "orig": "Jill\n「They've turned.\n　Embryo's taken them over.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Джилл",
+   "text": "「Глупые упрямые девчонки, они не устояли\n　перед его сладкими речами.」",
+   "orig": "Jill\n「They were silly, stubborn girls and\n　couldn't resist his sweet talking.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Таск",
+   "text": "「Салия когда-то сражалась за тебя.\n　И ты просто вычеркнешь её?」",
+   "orig": "Tusk\n「Salia used to fight for you.\n　Are you just going to forget her?」"
+  },
+  {
+   "i": 26,
+   "speaker": "Джилл",
+   "text": "「Вовсе нет.」",
+   "orig": "Jill\n「Not at all.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Джилл",
+   "text": "「Пока она сидит в Рагна-мейле,\n　я прикончу её при первой же возможности.」",
+   "orig": "Jill\n「As long as she's piloting Ragna-Mail,\n　I'll take her out for good first chance I get.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Таск",
+   "text": "「Алектра!」",
+   "orig": "Tusk\n「Alektra!」"
+  },
+  {
+   "i": 29,
+   "speaker": "Анж",
+   "text": "「Комендант права, Таск.\n　Враг есть враг.」",
+   "orig": "Ange\n「The Commander is right, Tusk.\n　An enemy is an enemy.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Таск",
+   "text": "「Да, но...」",
+   "orig": "Tusk\n「Yeah, but—」"
+  },
+  {
+   "i": 31,
+   "speaker": "Анж",
+   "text": "「Единственный способ открыть им глаза —\n　как следует вздуть их, чтобы очнулись.」",
+   "orig": "Ange\n「The only way to open their eyes is to\n　shock them awake with a thorough beating.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Анж",
+   "text": "「Салия всё равно полезет ко мне.\n　Значит, мне с ней и разбираться.」",
+   "orig": "Ange\n「Salia is going to come after me.\n　So I guess I'll have to take care of her.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Таск",
+   "text": "「Я помогу, Анж.\n　Раз ты и правда хочешь её спасти.」",
+   "orig": "Tusk\n「I'll help, Ange.\n　If you really want to save her.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Саламандинай",
+   "text": "「Вот это вполне в твоём духе, Анж.」",
+   "orig": "Salamandinay\n「That really sounds like your style, Ange.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Анж",
+   "text": "「Я не дам им так разгуливать.\n　Вы согласны, комендант?」",
+   "orig": "Ange\n「I won't let them run free like this.\n　Do you agree, Commander?」"
+  },
+  {
+   "i": 36,
+   "speaker": "Джилл",
+   "text": "「Если обстановка позволит.」",
+   "orig": "Jill\n「If the situation permits.」"
+  },
+  {
+   "i": 37,
+   "speaker": "Джилл",
+   "text": "「Итак, теперь мы прижаты к стене.\n　Я открою здешние склады, так что идите\n　и доведите свои Пара-мейлы до ума.」",
+   "orig": "Jill\n「Alright, from now on our backs are against the wall.\n　I'll open up our reserves here, so go\n　make sure your Para-Mail is up to snuff.」"
+  },
+  {
+   "i": 38,
+   "speaker": "Анж",
+   "text": "「Какая щедрость! Когда Розали услышит,\n　она разревётся от счастья.」",
+   "orig": "Ange\n「How generous! When Rosalie hears, \n　she's going to cry tears of joy.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Сумераги",
+   "text": "「Что ж, тогда и мы начнём готовиться к вылету.」",
+   "orig": "Sumeragi\n「OK then, we'll get ready to head out too.」"
+  },
+  {
+   "i": 40,
+   "speaker": "Тесса",
+   "text": "「С вашего позволения, комендант Джилл.」",
+   "orig": "Tessa\n「With your permission, Commander Jill.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Джилл",
+   "text": "「Эмбрио.」",
+   "orig": "Jill\n「Embryo.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Джилл",
+   "text": "「Ты совсем не меняешься, да?」",
+   "orig": "Jill\n「You never change, do you.」"
+  },
+  {
+   "i": 46,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Ангар Арзенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Hangar-"
+  },
+  {
+   "i": 47,
+   "speaker": "Розали",
+   "text": "「С ума сойти! Она просто так\n　отдаёт нам всё это? Бесплатно?」",
+   "orig": "Rosalie\n「Unbelievable! She's just letting us \n　have this stuff? For free?」"
+  },
+  {
+   "i": 48,
+   "speaker": "Хильда",
+   "text": "「Значит, дело и правда серьёзное.」",
+   "orig": "Hilda\n「It shows how serious this is.」"
+  },
+  {
+   "i": 49,
+   "speaker": "Жасмин",
+   "text": "「Материалы поставляет Проспектор\n　из «Нергала».」",
+   "orig": "Jasmine\n「The Nergal's Prospector is supplying \n　the materials.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Идзуми",
+   "text": "「Работает на совесть, как всегда.」",
+   "orig": "Izumi\n「Doing a fine job as always.」"
+  },
+  {
+   "i": 51,
+   "speaker": "Жасмин",
+   "text": "「Я тоже пока забуду про выручку.\n　Берите что хотите.」",
+   "orig": "Jasmine\n「I'm also going to ignore profits for a while.\n　Take whatever you like.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Мэгги",
+   "text": "「Мы на вас рассчитываем, ребята.\n　Отдавая вам «Либертус», мы доверяем вам\n　все свои надежды.」",
+   "orig": "Maggie\n「We're counting on you, guys.\n　We're entrusting you with all our\n　hopes, handing Libertus over like this.」"
+  },
+  {
+   "i": 53,
+   "speaker": "Мэй",
+   "text": "「Мы настроим ваши Пара-мейлы так,\n　будто от этого зависят наши жизни.」",
+   "orig": "Mei\n「We're going to set up your\n　Para-Mail like our lives depend on it.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Мэй",
+   "text": "「Хильда, «Аркебус» для тебя уже готов.\n　Вон он, прямо здесь.」",
+   "orig": "Mei\n「Hilda, I've got Arquebus ready for you.\n　It's right over here.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Хильда",
+   "text": "「О, мне достался этот! Со мной обращаются\n　прямо как с капитаном!」",
+   "orig": "Hilda\n「Oh, I get to pilot this one! I'm getting\n　treated like a captain!」"
+  },
+  {
+   "i": 56,
+   "speaker": "Вивиан",
+   "text": "「Так ведь так и есть, разве нет?\n　Ты же координируешь командование.」",
+   "orig": "Vivian\n「Well, that's right, isn't it?\n　You are coordinating the command.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Хильда",
+   "text": "「Погоди-ка минутку,\n　у меня и без того голова забита.」",
+   "orig": "Hilda\n「Now hold on a minute, \n　I've got other things to worry about.」"
+  },
+  {
+   "i": 58,
+   "speaker": "Анж",
+   "text": "「Ты про Крис, да?\n　Её я оставляю на тебя и Розали.」",
+   "orig": "Ange\n「You mean Chris, right?\n　I'll leave her to you and Rosalie.」"
+  },
+  {
+   "i": 59,
+   "speaker": "Хильда",
+   "text": "「Ну... да, что уж тут, скажу прямо:\n　Крис навсегда останется моей подругой.」",
+   "orig": "Hilda\n「Oh, well, yeah, I must say\n　Chris will always be my friend.」"
+  },
+  {
+   "i": 60,
+   "speaker": "Анж",
+   "text": "「Ага.」",
+   "orig": "Ange\n「Yeah.」"
+  },
+  {
+   "i": 61,
+   "speaker": "Хильда",
+   "text": "「Дружба — это, конечно, прекрасно.\n　Но кроме неё есть кое-кто особенный.」",
+   "orig": "Hilda\n「And friendship is grand and all.\n　But apart from that, there's someone special.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Анж",
+   "text": "「С-стоп, ты это о чём вообще!」",
+   "orig": "Ange\n「W-wait, what are you talking about!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Сабуроута",
+   "text": "「О-о... Вот теперь становится интересно.」",
+   "orig": "Saburouta\n「Oh... Now things are getting interesting.」"
+  },
+  {
+   "i": 64,
+   "speaker": "Курц",
+   "text": "「Наконец-то настал тот день, когда\n　Хильда не устояла перед моим обаянием!」",
+   "orig": "Kurz\n「At last, the day has come when\n　Hilda has finally succumbed to my charms!」"
+  },
+  {
+   "i": 65,
+   "speaker": "$n",
+   "text": "「Эй, погоди,\n　она же явно про меня говорит!」",
+   "orig": "$n\n「Hey wait,\n　she's clearly talking about me!」"
+  },
+  {
+   "i": 66,
+   "speaker": "Хильда",
+   "text": "「А ну тихо, оба!\n　Боже, как будто с кем-то из вас такое вообще возможно.」",
+   "orig": "Hilda\n「Quiet you two!\n　Jeez, like that would ever happen either of you.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Таск",
+   "text": "「Ну-ну, Хильда.\n　У $n есть свои достоинства.」",
+   "orig": "Tusk\n「Now now, Hilda.\n　$n has his good points.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Хильда",
+   "text": "「Хм.」",
+   "orig": "Hilda\n「Hmph.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Таск",
+   "text": "「Ч-что?」",
+   "orig": "Tusk\n「W-what?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Хильда",
+   "text": "「Я, между прочим, тоже ничего.」",
+   "orig": "Hilda\n「I'm not too shabby myself, you know.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Таск",
+   "text": "「А?」",
+   "orig": "Tusk\n「Huh?」"
+  },
+  {
+   "i": 72,
+   "speaker": "Найн",
+   "text": "「Я должна проанализировать ситуацию.」",
+   "orig": "Nine\n「I must analyze the situation.」"
+  },
+  {
+   "i": 73,
+   "speaker": "Мао",
+   "text": "「Не надо, Найн.\n　У любви много разных форм.」",
+   "orig": "Mao\n「You shouldn't, Nine.\n　Love comes in many shapes.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Хикару",
+   "text": "「Лилии, что цветут в академии Арзенал.\n　Так прекрасны и так мимолётны.」",
+   "orig": "Hikaru\n「The lilies that bloom at Arzenal Academy.\n　So beautiful, so fleeting.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Рёко",
+   "text": "「Да о чём вы все вообще говорите!」",
+   "orig": "Ryoko\n「What is everyone talking about!」"
+  },
+  {
+   "i": 76,
+   "speaker": "Розали",
+   "text": "「С ума сойти! Она просто так\n　отдаёт нам всё это? Бесплатно?」",
+   "orig": "Rosalie\n「Unbelievable! She's just letting us \n　have this stuff? For free?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Хильда",
+   "text": "「Значит, дело и правда серьёзное.」",
+   "orig": "Hilda\n「It just shows how serious this is.」"
+  },
+  {
+   "i": 78,
+   "speaker": "Жасмин",
+   "text": "「Да и материалы всё равно поставляет\n　Проспектор из «Нергала».」",
+   "orig": "Jasmine\n「The Nergal's Prospector is supplying \n　the materials, anyway.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Идзуми",
+   "text": "「Работает на совесть, как всегда.」",
+   "orig": "Izumi\n「Doing a fine job as always.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Жасмин",
+   "text": "「Я тоже пока забуду про выручку.\n　Берите что хотите.」",
+   "orig": "Jasmine\n「I'm also going to ignore profits a while.\n　Take whatever you like.」"
+  },
+  {
+   "i": 81,
+   "speaker": "Мэгги",
+   "text": "「Мы на вас рассчитываем, ребята.\n　Отдавая вам «Либертус», мы доверяем вам\n　все свои надежды.」",
+   "orig": "Maggie\n「We're counting on you, guys.\n　We're entrusting you with all our\n　hopes, handing Libertus over like this.」"
+  },
+  {
+   "i": 82,
+   "speaker": "Мэй",
+   "text": "「Мы настроим ваши Пара-мейлы так,\n　будто от этого зависят наши жизни.」",
+   "orig": "Mei\n「We're going to set up your\n　Para-Mail like our lives depend on it.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Мэй",
+   "text": "「Хильда, «Аркебус» для тебя уже готов.\n　Вон он, прямо здесь.」",
+   "orig": "Mei\n「Hilda, I've got Arquebus ready for you.\n　It's right over here.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Хильда",
+   "text": "「О, мне достался этот! Со мной обращаются\n　прямо как с капитаном!」",
+   "orig": "Hilda\n「Oh, I get to pilot this one! I'm getting\n　treated like a captain!」"
+  },
+  {
+   "i": 85,
+   "speaker": "Вивиан",
+   "text": "「Так ведь так и есть, разве нет?\n　Ты же координируешь командование.」",
+   "orig": "Vivian\n「Well, that's right, isn't it?\n　You are coordinating the command.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Хильда",
+   "text": "「Погоди-ка минутку,\n　у меня и без того голова забита.」",
+   "orig": "Hilda\n「Now hold on a minute, \n　I've got other things to worry about.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Анж",
+   "text": "「Ты про Крис, да?\n　Её я оставляю на тебя и Розали.」",
+   "orig": "Ange\n「You mean Chris, right?\n　I'll leave her to you and Rosalie.」"
+  },
+  {
+   "i": 88,
+   "speaker": "Хильда",
+   "text": "「Ну... да, что уж тут, скажу прямо:\n　Крис навсегда останется моей подругой.」",
+   "orig": "Hilda\n「Oh, well, yeah, I must say\n　Chris will always be my friend.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Анж",
+   "text": "「Ага.」",
+   "orig": "Ange\n「Yeah.」"
+  },
+  {
+   "i": 90,
+   "speaker": "Хильда",
+   "text": "「Дружба — это, конечно, прекрасно.\n　Но кроме неё есть кое-кто особенный.」",
+   "orig": "Hilda\n「And friendship is grand and all.\n　But apart from that, there's someone special.」"
+  },
+  {
+   "i": 91,
+   "speaker": "Анж",
+   "text": "「С-стоп, ты это о чём вообще!」",
+   "orig": "Ange\n「W-wait, what are you talking about!」"
+  },
+  {
+   "i": 92,
+   "speaker": "Сабуроута",
+   "text": "「О-о... Вот теперь становится интересно!」",
+   "orig": "Saburouta\n「Oh... Now things are getting interesting!」"
+  },
+  {
+   "i": 93,
+   "speaker": "Курц",
+   "text": "「Наконец-то настал тот день, когда\n　Хильда не устояла перед моим обаянием!」",
+   "orig": "Kurz\n「At last, the day has come when\n　Hilda has finally succumbed to my charms!」"
+  },
+  {
+   "i": 94,
+   "speaker": "Хильда",
+   "text": "「А ну тихо, оба!\n　Боже, как будто с кем-то из вас такое вообще возможно.」",
+   "orig": "Hilda\n「Quiet you two!\n　Jeez, like that would ever happen to either of you.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Таск",
+   "text": "「Ну-ну, Хильда.\n　Незачем быть такой жестокой.」",
+   "orig": "Tusk\n「Now now, Hilda.\n　No need to be so cruel.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Хильда",
+   "text": "「Хм.」",
+   "orig": "Hilda\n「Hmph.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Таск",
+   "text": "「Ч-что?」",
+   "orig": "Tusk\n「W-what?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Хильда",
+   "text": "「Я, между прочим, тоже ничего.」",
+   "orig": "Hilda\n「I'm not too shabby myself, you know.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Таск",
+   "text": "「А?」",
+   "orig": "Tusk\n「Huh?」"
+  },
+  {
+   "i": 100,
+   "speaker": "Хикару",
+   "text": "「Лилии, что цветут в академии Арзенал.\n　Так прекрасны и так мимолётны.」",
+   "orig": "Hikaru\n「The lilies that bloom at Arzenal Academy.\n　So beautiful, so fleeting.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Рёко",
+   "text": "「Да о чём вы все вообще говорите!」",
+   "orig": "Ryoko\n「What is everyone talking about!」"
+  },
+  {
+   "i": 102,
+   "speaker": "Найн",
+   "text": "「Я должна проанализировать ситуацию.」",
+   "orig": "Nine\n「I must analyze the situation.」"
+  },
+  {
+   "i": 103,
+   "speaker": "$n",
+   "text": "「Н-нет, не надо, Найн.\n　У любви много разных форм, на том и остановимся.」",
+   "orig": "$n\n「N-no, you shouldn't, Nine.\n　Love comes in many shapes, just leave it at that.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Найн",
+   "text": "「Хорошо, анализ отменён.」",
+   "orig": "Nine\n「Very well then, analysis cancelled.」"
+  },
+  {
+   "i": 105,
+   "speaker": "$n",
+   "text": "「О, ты правда остановишься?」",
+   "orig": "$n\n「Oh, you're actually stopping?」"
+  },
+  {
+   "i": 106,
+   "speaker": "Найн",
+   "text": "「Сестрица?\n　Если тебе тоже интересно,\n　так и скажи.」",
+   "orig": "Nine\n「Sis?\n　If you're interested too,\n　then just say so.」"
+  },
+  {
+   "i": 107,
+   "speaker": "Анж",
+   "text": "「Хе.」",
+   "orig": "Ange\n「Heh.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Саламандинай",
+   "text": "「Приятно снова видеть эту улыбку.」",
+   "orig": "Salamandinay\n「It's nice to see that smile again.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Анж",
+   "text": "「Здесь я чувствую себя как дома.」",
+   "orig": "Ange\n「This feels like home to me.」"
+  },
+  {
+   "i": 110,
+   "speaker": "Анж",
+   "text": "「Запах солёной воды и масла в воздухе,\n　злые окрики и грубый хохот.\n　Я и не заметила, как всё это полюбила.」",
+   "orig": "Ange\n「The smell of salt water and oil in the air,\n　the angry voices and rough laughter.\n　Somewhere along the way, I grew to love it.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Саламандинай",
+   "text": "「Но если подумать о том, что впереди...」",
+   "orig": "Salamandinay\n「But thinking of what's ahead—」"
+  },
+  {
+   "i": 112,
+   "speaker": "Анж",
+   "text": "「Знаю, Сала. Снова война.」",
+   "orig": "Ange\n「I know, Sala. More war.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Анж",
+   "text": "「Эмбрио — это совсем другое дело.\n　Нам придётся поставить на кон всё.」",
+   "orig": "Ange\n「Embryo is something different.\n　We have to put everything on the line.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Анж",
+   "text": "「И кто-то из тех, кто сегодня здесь,\n　может не вернуться.」",
+   "orig": "Ange\n「And some of us here today\n　might not make it back.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Анж",
+   "text": "「И всё же останавливаться нельзя.\n　Иначе не выживет никто из нас.」",
+   "orig": "Ange\n「But even so, we can't stop.\n　Not if any of us are going to survive.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Саламандинай",
+   "text": "「Я вижу, как ты полна решимости.\n　Но прошу, будь осторожна.」",
+   "orig": "Salamandinay\n「I can see how resolved you are to this.\n　But please, be careful.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Саламандинай",
+   "text": "「Главная цель Эмбрио —\n　это ты, Анж.」",
+   "orig": "Salamandinay\n「Embryo's main target—\n　Is you, Ange.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Анж",
+   "text": "（Эмбрио.\n　Что тебе от меня нужно?）",
+   "orig": "Ange\n（Embryo.\n　What do you want from me?）"
+  },
+  {
+   "i": 119,
+   "speaker": "Момока",
+   "text": "「Госпожа Анджелиз, я заварила чай.\n　Прошу вас, выпейте.」",
+   "orig": "Momoka\n「Lady Angelise, I've made tea.\n　Please, do have some.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Анж",
+   "text": "「Выпью, спасибо, Момока.」",
+   "orig": "Ange\n「I will, thank you Momoka.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Момока",
+   "text": "「Ах.」",
+   "orig": "Momoka\n「Ah.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Анж",
+   "text": "「Что? У меня что-то с лицом?」",
+   "orig": "Ange\n「What? Is there something on my face?」"
+  },
+  {
+   "i": 123,
+   "speaker": "Момока",
+   "text": "「Нет.\n　Я просто подумала, что, что бы\n　ни случилось, ваша красота не меняется.」",
+   "orig": "Momoka\n「No.\n　I was just thinking that, no matter\n　what happens, your beauty never changes.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Анж",
+   "text": "「Спасибо...」",
+   "orig": "Ange\n「Thanks...」"
+  },
+  {
+   "i": 125,
+   "speaker": "Момока",
+   "text": "「Только прошу, не изводите себя.」",
+   "orig": "Momoka\n「Don't push yourself too hard, please.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Анж",
+   "text": "「А?」",
+   "orig": "Ange\n「Huh?」"
+  },
+  {
+   "i": 127,
+   "speaker": "Момока",
+   "text": "「Я отдам свою жизнь,\n　чтобы защитить вас, госпожа Анджелиз.」",
+   "orig": "Momoka\n「I will give my life\n　to protect you, Lady Angelise.」"
+  },
+  {
+   "i": 128,
+   "speaker": "Анж",
+   "text": "「С-спасибо, Момока.」",
+   "orig": "Ange\n「Th-thank you, Momoka.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Анж",
+   "text": "「На нас напали?」",
+   "orig": "Ange\n「Are we under attack?」"
+  },
+  {
+   "i": 130,
+   "speaker": "Синн",
+   "text": "「Значит, всё это время они нас не трогали\n　нарочно — это была уловка!」",
+   "orig": "Shinn\n「Them ignoring us all this time\n　must have been a trick!」"
+  },
+  {
+   "i": 131,
+   "speaker": "Соскэ",
+   "text": "「Их цель — мы?」",
+   "orig": "Sousuke\n「Are we their target?」"
+  },
+  {
+   "i": 132,
+   "speaker": "Хильда",
+   "text": "「Ух-ху!\n　Вот теперь я покажу всю новую мощь,\n　которую мне подготовила Мэй!」",
+   "orig": "Hilda\n「Woo hoo!\n　Now I can show off all the new\n　power Mei got ready for me!」"
+  },
+  {
+   "i": 133,
+   "speaker": "Анж",
+   "text": "「Вперёд, все!\n　Покажем им, из какого мы теста!」",
+   "orig": "Ange\n「Let's go, everyone!\n　Let's show them how tough we are!」"
+  },
+  {
+   "i": 134,
+   "speaker": "Джилл",
+   "text": "「Стой, Анж.\n　Ты остаёшься в резерве.」",
+   "orig": "Jill\n「Wait Ange.\n　You're on standby.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Анж",
+   "text": "「Почему!」",
+   "orig": "Ange\n「Why!」"
+  },
+  {
+   "i": 136,
+   "speaker": "Джилл",
+   "text": "「Без пререканий.\n　Это приказ.」",
+   "orig": "Jill\n「No backtalk.\n　That's an order.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Анж",
+   "text": "「Кх.」",
+   "orig": "Ange\n「Ugh.」"
+  },
+  {
+   "i": 141,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　　-Ангар Арзенала-",
+   "orig": "　\n　　\n　　　　　　　　　　-Arzenal Hangar-"
+  },
+  {
+   "i": 142,
+   "speaker": "Анж",
+   "text": "「Почему мне нельзя в бой!」",
+   "orig": "Ange\n「Why can't I go out there!」"
+  },
+  {
+   "i": 143,
+   "speaker": "Джилл",
+   "text": "「Салия и её команда освоились со своими Рагна-мейлами.\n　И цель у них одна — ты.」",
+   "orig": "Jill\n「Salia and her crew have grown used to their Ragna-Mail.\n　And their only target is you.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Джилл",
+   "text": "「Если всё пойдёт наперекосяк, мы можем\n　потерять тебя раньше, чем запустим «Либертус».」",
+   "orig": "Jill\n「If things go south, then we could\n　lose you before we have a chance to start Libertus.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Анж",
+   "text": "「Ты и правда меня настолько низко ставишь?」",
+   "orig": "Ange\n「Do you really think so little of me?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Анж",
+   "text": "「Если они и впрямь так усилились, разве это не значит,\n　что я и «Вилькисс» нужны там как никогда?」",
+   "orig": "Ange\n「If they've really gotten so strong, doesn't that mean\n　me and Villkiss are more important than ever?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Джилл",
+   "text": "「Если бросить туда все наши нынешние силы,\n　потери будут, но мы справимся.」",
+   "orig": "Jill\n「If we focus all our current forces,\n　we might take a few losses, but we should be OK.」"
+  },
+  {
+   "i": 148,
+   "speaker": "Анж",
+   "text": "「Потери будут?」",
+   "orig": "Ange\n「A few losses?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Джилл",
+   "text": "「Пока ты у нас есть, мы сможем провести «Либертус».\n　И мне плевать, сколько крови\n　придётся за это пролить!」",
+   "orig": "Jill\n「As long as we have you, we can perform Libertus.\n　I don't care how much blood would be\n　spilled to make that work!」"
+  },
+  {
+   "i": 150,
+   "speaker": "Анж",
+   "text": "「Для тебя это просто «потери»,\n　а там, снаружи, мои друзья!\n　Я не буду стоять и смотреть, как их калечат!」",
+   "orig": "Ange\n「You may just think of them as a few losses,\n　but those are my friends out there!\n　I can't just stand and watch them get hurt!」"
+  },
+  {
+   "i": 151,
+   "speaker": "Джилл",
+   "text": "「Стой, Анж!\n　Я не позволю тебе вот так взлететь!」",
+   "orig": "Jill\n「Wait, Ange!\n　I won't let you take off like this!」"
+  },
+  {
+   "i": 152,
+   "speaker": "Анж",
+   "text": "「Без меня ты не проведёшь\n　свой драгоценный «Либертус», верно?\n　И при этом тебе плевать, чего хочу я?」",
+   "orig": "Ange\n「Without me you can't perform\n　your precious Libertus, right?\n　And you're ignoring my thoughts?」"
+  },
+  {
+   "i": 153,
+   "speaker": "Джилл",
+   "text": "「У инструмента не бывает желаний!」",
+   "orig": "Jill\n「Tools do not have thoughts!」"
+  },
+  {
+   "i": 154,
+   "speaker": "Анж",
+   "text": "「То есть мою волю побоку и гнать меня в бой силой?\n　Ровно так и обращались с нормами!」",
+   "orig": "Ange\n「So you ignore my free will and force me to fight?\n　That's just like how Normas were treated!」"
+  },
+  {
+   "i": 155,
+   "speaker": "Джилл",
+   "text": "「Ты будешь выполнять приказы!\n　Командую здесь я!」",
+   "orig": "Jill\n「You will follow orders!\n　I am the commanding officer here!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Анж",
+   "text": "「Разумеется.」",
+   "orig": "Ange\n「Sure.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Анж",
+   "text": "「Но как человек ты дрянь!」",
+   "orig": "Ange\n「But as a person, you're garbage!」"
+  },
+  {
+   "i": 158,
+   "speaker": "Джилл",
+   "text": "「Я делаю это, чтобы сокрушить Эмбрио!」",
+   "orig": "Jill\n「I am doing this to bring down Embryo!」"
+  },
+  {
+   "i": 159,
+   "speaker": "Анж",
+   "text": "「И ради этого ты готова\n　принести любые жертвы?」",
+   "orig": "Ange\n「And for that, you're  \n　willing to make any kind of sacrifice?」"
+  },
+  {
+   "i": 160,
+   "speaker": "Джилл",
+   "text": "「Да, именно так!」",
+   "orig": "Jill\n「Yes, exactly!」"
+  },
+  {
+   "i": 161,
+   "speaker": "Анж",
+   "text": "「Тогда в чём вообще смысл этой войны?」",
+   "orig": "Ange\n「Then what's the point of all this battle?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Джилл",
+   "text": "「Уж кому-кому, а тебе это понимать,\n　имперская принцесса Анджелиз!」",
+   "orig": "Jill\n「You of all people should understand that,\n　Imperial Princess Angelise!」"
+  },
+  {
+   "i": 163,
+   "speaker": "Анж",
+   "text": "「Почему?」",
+   "orig": "Ange\n「Why?」"
+  },
+  {
+   "i": 164,
+   "speaker": "Джилл",
+   "text": "「У тебя отняли всё, что было в этом мире,\n　и отправили гнить на самое его дно!\n　Вот отчего во мне эта ярость!」",
+   "orig": "Jill\n「Everything in the world was once taken from you,\n　and you were sent to rot at the bottom of the world!\n　That is why I rage!」"
+  },
+  {
+   "i": 165,
+   "speaker": "Джилл",
+   "text": "「Я — это ты!\n　Ты запустишь «Либертус» и уничтожишь Эмбрио!\n　Чтобы вернуть себе всё, что у тебя было!」",
+   "orig": "Jill\n「I am you!\n　You will unleash Libertus and destroy Embryo!\n　To regain everything you once had!」"
+  },
+  {
+   "i": 166,
+   "speaker": "Анж",
+   "text": "「Как же ты пуста, если ищешь себя в другом человеке!」",
+   "orig": "Ange\n「You truly are empty, identifying yourself to another!」"
+  },
+  {
+   "i": 167,
+   "speaker": "Джилл",
+   "text": "「Что?!」",
+   "orig": "Jill\n「What!」"
+  },
+  {
+   "i": 168,
+   "speaker": "Анж",
+   "text": "「Никто не знает, что по-настоящему правильно.\n　Но я точно знаю: твой путь — неправильный,\n　Алектра Мария фон Левенхерц!」",
+   "orig": "Ange\n「No one knows what is truly right.\n　But I do know the way you do things isn't,\n　Alektra Maria von Levenherz!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Джилл",
+   "text": "「Молчать!」",
+   "orig": "Jill\n「Silence!」"
+  },
+  {
+   "i": 170,
+   "speaker": "？？？",
+   "text": "「Браво! Браво!」",
+   "orig": "？？？\n「Bravo! Bravo!」"
+  },
+  {
+   "i": 171,
+   "speaker": "Джилл",
+   "text": "「Ты кто такой?」",
+   "orig": "Jill\n「Who are you?」"
+  },
+  {
+   "i": 172,
+   "speaker": "Гейтс",
+   "text": "「Эх! Честно говоря, я бы с радостью\n　досмотрел эту кошачью драку до конца,\n　но у меня работа.」",
+   "orig": "Gates\n「Oh man! If I'm honest, I really \n　wanted to watch this catfight to the end,\n　but I've got a job to do.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Гейтс",
+   "text": "「Приветствую!\n　Я посланник Ада, лорд Гейтс!」",
+   "orig": "Gates\n「Hello!\n　I'm the Envoy of Hell, Lord Gates!」"
+  },
+  {
+   "i": 174,
+   "speaker": "Джилл",
+   "text": "「Нарушитель!」",
+   "orig": "Jill\n「Intruder!」"
+  },
+  {
+   "i": 175,
+   "speaker": "Гейтс",
+   "text": "「Ну-ну, не кипятитесь.\n　Женщины в возрасте меня не интересуют.」",
+   "orig": "Gates\n「Oh, now, don't get worked up.\n　I have no interest in older women.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Гейтс",
+   "text": "「Нет-нет, моя цель —\n　вон та милашка Анж!」",
+   "orig": "Gates\n「No indeedy, my target is—\n　That sweet little Ange right there!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Анж",
+   "text": "「Значит, ты наёмный убийца Эмбрио?」",
+   "orig": "Ange\n「So you're an assassin for Embryo?」"
+  },
+  {
+   "i": 178,
+   "speaker": "Гейтс",
+   "text": "「В точку.\n　У тебя, должно быть, безупречный вкус,\n　раз ты так быстро меня раскусила!」",
+   "orig": "Gates\n「Bingo.\n　You must have impeccable aesthetic sense\n　to figure me out so easily!」"
+  },
+  {
+   "i": 179,
+   "speaker": "Гейтс",
+   "text": "「Что ж, Анж!\n　Покинем это место вдвоём — ты и я!」",
+   "orig": "Gates\n「OK then, Ange!\n　Let us leave this place, you and I!」"
+  },
+  {
+   "i": 180,
+   "speaker": "Гейтс",
+   "text": "「А если откажешься — что ж,\n　дядюшка Гейтс может и пошалить!」",
+   "orig": "Gates\n「And if you refuse, well—\n　Uncle Gates might turn naughty!」"
+  },
+  {
+   "i": 181,
+   "speaker": "Анж",
+   "text": "「Извращенец!\n　Мне и Таска за глаза хватает!」",
+   "orig": "Ange\n「You perv!\n　I get enough of that from Tusk!」"
+  },
+  {
+   "i": 182,
+   "speaker": "Гейтс",
+   "text": "「Му-ха-ха-ха!\n　Не поминай своего дружка, от этого\n　дядюшка Гейтс только сильнее распаляется!」",
+   "orig": "Gates\n「Mwahahah!\n　Don't bring up your boyfriend, that\n　will only get Uncle Gates more excited!」"
+  },
+  {
+   "i": 183,
+   "speaker": "Гейтс",
+   "text": "「Что за...」",
+   "orig": "Gates\n「Wha—」"
+  },
+  {
+   "i": 184,
+   "speaker": "？？？",
+   "text": "「Меня не впервой зовут извращенцем,\n　но ставить меня в один ряд\n　с этим чудилой я не позволю.」",
+   "orig": "？？？\n「I'm used to being called a perv, \n　but I refuse to be lumped in\n　with this weirdo.」"
+  },
+  {
+   "i": 185,
+   "speaker": "Гейтс",
+   "text": "「Это ещё что такое?\n　Кто-то остался?」",
+   "orig": "Gates\n「What's this now?\n　Someone stayed behind?」"
+  },
+  {
+   "i": 186,
+   "speaker": "Таск",
+   "text": "「Я рыцарь Анж.\n　Мой долг — защищать её.」",
+   "orig": "Tusk\n「I am Ange's Knight.\n　My duty is to protect her.」"
+  },
+  {
+   "i": 187,
+   "speaker": "Анж",
+   "text": "「Таск!」",
+   "orig": "Ange\n「Tusk!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Соскэ",
+   "text": "「Хитры же Эмбрио и Леонард.\n　Как командир и подозревала, они сменили план.」",
+   "orig": "Sousuke\n「Embryo and Leonard sure are tricky.\n　Just as the commander suspected, they altered their plan.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Соскэ",
+   "text": "「Но поверить не могу,\n　что из всех они прислали именно этого типа!」",
+   "orig": "Sousuke\n「But I can hardly believe\n　this is the guy they sent, of all people!」"
+  },
+  {
+   "i": 190,
+   "speaker": "Гейтс",
+   "text": "「Ах!\n　Соскэ Сагара!」",
+   "orig": "Gates\n「Gah!\n　Sousuke Sagara!」"
+  },
+  {
+   "i": 191,
+   "speaker": "Джилл",
+   "text": "「Вы остались здесь?!」",
+   "orig": "Jill\n「You stayed behind?!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Соскэ",
+   "text": "「Мы вам не подчинённые.\n　Выполнять ваши приказы мы не обязаны.」",
+   "orig": "Sousuke\n「We aren't your subordinates. \n　We don't need to follow your orders.」"
+  },
+  {
+   "i": 193,
+   "speaker": "Таск",
+   "text": "「Алектра.\n　Я понимаю твои чувства, но если ты будешь\n　так себя вести, за тобой никто не пойдёт добровольно.」",
+   "orig": "Tusk\n「Alektra.\n　I understand how you feel, but the way you're acting,\n　no one will follow you willingly. 」"
+  },
+  {
+   "i": 194,
+   "speaker": "Джилл",
+   "text": "「Молчать!\n　Что ты вообще можешь понимать!」",
+   "orig": "Jill\n「Quiet!\n　What could you possibly understand!」"
+  },
+  {
+   "i": 195,
+   "speaker": "Гейтс",
+   "text": "「О, они передрались между собой?\n　Вот он, мой шанс!」",
+   "orig": "Gates\n「Oh, they're fighting amongst themselves?\n　Now's my chance!」"
+  },
+  {
+   "i": 196,
+   "speaker": "Соскэ",
+   "text": "「Я за ним!\n　Таск, Анж на тебе!」",
+   "orig": "Sousuke\n「I'll go after him!\n　Tusk, you take Ange!」"
+  },
+  {
+   "i": 197,
+   "speaker": "Таск",
+   "text": "「Идём, Анж,\n　уведём тебя в безопасное место!」",
+   "orig": "Tusk\n「Alright Ange, \n　let's get you someplace safe!」"
+  },
+  {
+   "i": 198,
+   "speaker": "Анж",
+   "text": "「Такого места нет.」",
+   "orig": "Ange\n「There is no such place.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Таск",
+   "text": "「Анж.」",
+   "orig": "Tusk\n「Ange.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Анж",
+   "text": "「Куда бы я ни ушла — хоть в другую\n　вселенную, — Эмбрио идёт за мной.」",
+   "orig": "Ange\n「It doesn't matter where I go, even to\n　another Universe, Embryo follows me.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Анж",
+   "text": "「Чтобы просто от него избавиться,\n　мне придётся его уничтожить!」",
+   "orig": "Ange\n「I have to destroy him\n　just to get away from him!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Джилл",
+   "text": "「Вот именно, Анж!\n　Уничтожь его!」",
+   "orig": "Jill\n「Exactly, Ange!\n　Destroy him!」"
+  },
+  {
+   "i": 203,
+   "speaker": "Анж",
+   "text": "「А ты не лезь!\n　Я буду драться с ним по своей воле!」",
+   "orig": "Ange\n「You stay out of this!\n　I'll fight him of my own free will!」"
+  },
+  {
+   "i": 204,
+   "speaker": "？？？",
+   "text": "「Госпожа Анджелиз!」",
+   "orig": "？？？\n「Lady Angelise!」"
+  },
+  {
+   "i": 205,
+   "speaker": "Анж",
+   "text": "「Я вылетаю, Момока!\n　Готовь мой костюм.」",
+   "orig": "Ange\n「I'm going out, Momoka!\n　Get my suit ready.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Момока",
+   "text": "「В этом нет нужды, госпожа.」",
+   "orig": "Momoka\n「There's no need, Lady.」"
+  },
+  {
+   "i": 207,
+   "speaker": "Таск",
+   "text": "「Берегись, Анж!」",
+   "orig": "Tusk\n「Watch out, Ange!」"
+  },
+  {
+   "i": 208,
+   "speaker": "Таск",
+   "text": "「Кх!」",
+   "orig": "Tusk\n「Gah!」"
+  },
+  {
+   "i": 209,
+   "speaker": "Анж",
+   "text": "「Таск!\n　Зачем ты меня закрыл!」",
+   "orig": "Ange\n「Tusk!\n　Why did you covered me!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Момока",
+   "text": "「Он сам виноват.\n　Убивать вас я не собиралась,\n　госпожа Анджелиз.」",
+   "orig": "Momoka\n「It's his own fault.\n　I had no intention of killing you,\n　Lady Angelise.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Момока",
+   "text": "「Я лишь хотела лишить вас подвижности.」",
+   "orig": "Momoka\n「I only wanted to keep you from moving.」"
+  },
+  {
+   "i": 212,
+   "speaker": "Анж",
+   "text": "「За что, Момока?」",
+   "orig": "Ange\n「Why, Momoka?」"
+  },
+  {
+   "i": 213,
+   "speaker": "？？？",
+   "text": "「Она тебя не слышит.」",
+   "orig": "？？？\n「She can't hear you.」"
+  },
+  {
+   "i": 214,
+   "speaker": "Эмбрио",
+   "text": "「Те, кто владеет маной, —\n　а это, разумеется, мои гомункулы, —\n　не способны ослушаться моих приказов.」",
+   "orig": "Embryo\n「Those who can use Mana,\n　meaning, of course, my Homunculi,\n　are incapable of refusing my orders.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 216,
+   "speaker": "Таск",
+   "text": "「Ты явился на Арзенал лично?」",
+   "orig": "Tusk\n「You came to Arzenal yourself?」"
+  },
+  {
+   "i": 217,
+   "speaker": "Эмбрио",
+   "text": "「Прошу прощения: посылать\n　за тобой этого забавного человечка\n　было, пожалуй, не слишком учтиво.」",
+   "orig": "Embryo\n「I am sorry, it was\n　rather inappropriate to send\n　that funny little man to pick you up.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Джилл",
+   "text": "「Мерзавец.」",
+   "orig": "Jill\n「You bastard.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Эмбрио",
+   "text": "「Итак, Анж.\n　Примешь ли ты моё приглашение?」",
+   "orig": "Embryo\n「Well then, Ange.\n　Will you accept my invitation?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Анж",
+   "text": "「Да кто по доброй воле пойдёт с тобой?」",
+   "orig": "Ange\n「Who would ever go with you willingly?」"
+  },
+  {
+   "i": 221,
+   "speaker": "Эмбрио",
+   "text": "「Что ж, ладно.\n　Видимо, придётся применить силу.\n　Действуй.」",
+   "orig": "Embryo\n「Oh, well then.\n　I suppose I shall have to get violent.\n　Do it.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Момока",
+   "text": "「Слушаюсь.」",
+   "orig": "Momoka\n「Yes.」"
+  },
+  {
+   "i": 223,
+   "speaker": "Таск",
+   "text": "「Я не дам тебе тронуть Анж!」",
+   "orig": "Tusk\n「I won't let you harm Ange!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Анж",
+   "text": "「Нет, Таск!\n　Не стреляй в Момоку!」",
+   "orig": "Ange\n「No, Tusk!\n　Don't shoot Momoka!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Таск",
+   "text": "「Но если её не остановить...」",
+   "orig": "Tusk\n「But if we don't stop her—」"
+  },
+  {
+   "i": 226,
+   "speaker": "Момока",
+   "text": "「Н-ннх...」",
+   "orig": "Momoka\n「Ng...」"
+  },
+  {
+   "i": 227,
+   "speaker": "Анж",
+   "text": "「Прекрати!\n　Остановись, Момока!」",
+   "orig": "Ange\n「Quit it!\n　Stop this, Momoka!」"
+  },
+  {
+   "i": 228,
+   "speaker": "Эмбрио",
+   "text": "「Бесполезно.\n　Она не может противиться воле своего творца.」",
+   "orig": "Embryo\n「It's no good.\n　She cannot resist her maker's will.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Анж",
+   "text": "「Нет!\n　Момока, вспомни, ты моя старшая горничная!」",
+   "orig": "Ange\n「No!\n　Momoka, remember, you are my head maid!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Анж",
+   "text": "「Очнись, Момока!」",
+   "orig": "Ange\n「Snap out of it, Momoka!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Момока",
+   "text": "「А?」",
+   "orig": "Momoka\n「Ah?」"
+  },
+  {
+   "i": 232,
+   "speaker": "Анж",
+   "text": "「Момока!」",
+   "orig": "Ange\n「Momoka!」"
+  },
+  {
+   "i": 233,
+   "speaker": "Момока",
+   "text": "「Госпожа... Анджелиз?」",
+   "orig": "Momoka\n「Lady... Angelise?」"
+  },
+  {
+   "i": 234,
+   "speaker": "Эмбрио",
+   "text": "「Что?! Она сбросила мой контроль?」",
+   "orig": "Embryo\n「What! She threw off my control?」"
+  },
+  {
+   "i": 235,
+   "speaker": "Эмбрио",
+   "text": "「Гомункул!\n　Я твой создатель!」",
+   "orig": "Embryo\n「Homunculus!\n　I am your creator!」"
+  },
+  {
+   "i": 236,
+   "speaker": "Момока",
+   "text": "「А-а!」",
+   "orig": "Momoka\n「Agh!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Анж",
+   "text": "「Момока!」",
+   "orig": "Ange\n「Momoka!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Момока",
+   "text": "「Т-Таск.\n　П-прошу, позаботься о госпо...」",
+   "orig": "Momoka\n「T-Tusk.\n　P-please take care of Lady—」"
+  },
+  {
+   "i": 239,
+   "speaker": "Момока",
+   "text": "「Кха!」",
+   "orig": "Momoka\n「Gah!」"
+  },
+  {
+   "i": 240,
+   "speaker": "Анж",
+   "text": "「Момока!」",
+   "orig": "Ange\n「Momoka!」"
+  },
+  {
+   "i": 241,
+   "speaker": "Джилл",
+   "text": "「Она выстрелила в себя!」",
+   "orig": "Jill\n「She shot herself!」"
+  },
+  {
+   "i": 242,
+   "speaker": "Эмбрио",
+   "text": "「Хм.\n　И до чего только дошло.」",
+   "orig": "Embryo\n「Hmph.\n　And to think it's come to this.」"
+  },
+  {
+   "i": 243,
+   "speaker": "Таск",
+   "text": "「Эмбрио!」",
+   "orig": "Tusk\n「Embryo!」"
+  },
+  {
+   "i": 244,
+   "speaker": "Эмбрио",
+   "text": "「Мне наскучило.\n　Я ухожу.」",
+   "orig": "Embryo\n「I grow bored. \n　I'm leaving.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Анж",
+   "text": "「Эмбрио, я не дам тебе уйти!」",
+   "orig": "Ange\n「Embryo, I won't let you get away!」"
+  },
+  {
+   "i": 246,
+   "speaker": "Джилл",
+   "text": "「Стой, Анж!」",
+   "orig": "Jill\n「Wait, Ange!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Анж",
+   "text": "「Джилл!\n　Это ты всё это допустила!」",
+   "orig": "Ange\n「Jill!\n　You let this happen!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Анж",
+   "text": "「Если Момока умрёт,\n　я тебе этого никогда не прощу!」",
+   "orig": "Ange\n「If Momoka's dead,\n　I'll never forgive you for this!」"
+  },
+  {
+   "i": 252,
+   "speaker": "　",
+   "text": "　\n　　　　　-Дворец Священной империи Мисуруги-",
+   "orig": "　\n　\n　　　　　　　　-Holy Misurugi Empire Palace-"
+  },
+  {
+   "i": 253,
+   "speaker": "Анж",
+   "text": "「Кх...」",
+   "orig": "Ange\n「Ugh...」"
+  },
+  {
+   "i": 254,
+   "speaker": "Салия",
+   "text": "「Долго ты ещё будешь заниматься этой глупостью?\n　Даже сейчас в тебе ни капли стыда.」",
+   "orig": "Salia\n「How long are you going to keep up this foolishness?\n　Even now, your shamelessness continues.」"
+  },
+  {
+   "i": 255,
+   "speaker": "Анж",
+   "text": "「Смотрю, Эрша с вами не вернулась.」",
+   "orig": "Ange\n「It looks like Ersha didn't come back with you.」"
+  },
+  {
+   "i": 256,
+   "speaker": "Салия",
+   "text": "「Она предала господина Эмбрио.\n　Сама подписала себе смертный приговор.」",
+   "orig": "Salia\n「She betrayed Lord Embryo.\n　She's signed her own death warrant.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Анж",
+   "text": "「Забавно: от дивного господина Эмбрио\n　сбежала его ручная норма.」",
+   "orig": "Ange\n「How funny, wonderful Mr. Embryo's \n　pet Norma ran away.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Салия",
+   "text": "「Скоро и ты поймёшь,\n　насколько господин Эмбрио дивен, Анж.」",
+   "orig": "Salia\n「Soon you'll understand just \n　how wonderful Lord Embryo is too, Ange.」"
+  },
+  {
+   "i": 259,
+   "speaker": "Салия",
+   "text": "「Жду не дождусь посмотреть, что станет тогда\n　с твоим высокомерием.」",
+   "orig": "Salia\n「I look forward to seeing just how your\n　high and mighty ways change then.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Анж",
+   "text": "「Скорее умру, чем стану плясать под его дудку.」",
+   "orig": "Ange\n「I'd rather die than do what that man says.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Анж",
+   "text": "（Но ведь Момоки и Таска больше нет.\n　Если бы не вы двое, мне был бы конец.）",
+   "orig": "Ange\n（Oh, but Momoka and Tusk are gone.\n　If it hadn't been for you two, I'd be finished.）"
+  },
+  {
+   "i": 262,
+   "speaker": "Анж",
+   "text": "「Не заперто.\n　Ну что, просто войти?」",
+   "orig": "Ange\n「It's not locked.\n　I guess I'll just go in?」"
+  },
+  {
+   "i": 263,
+   "speaker": "Марина",
+   "text": "「Прошу прощения.」",
+   "orig": "Marina\n「If you'll excuse me.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Кагалли",
+   "text": "「Уделишь нам минутку?」",
+   "orig": "Cagalli\n「Might I have a moment?」"
+  },
+  {
+   "i": 265,
+   "speaker": "Анж",
+   "text": "「Принцесса Марина Исмаил!\n　И Кагалли Юла Атха из Орба!」",
+   "orig": "Ange\n「Princess Marina Ismail!\n　And Cagalli Yula Athha of Orb!」"
+  },
+  {
+   "i": 266,
+   "speaker": "Марина",
+   "text": "「Рада снова вас видеть,\n　имперская принцесса Анджелиз.」",
+   "orig": "Marina\n「How pleasant to see you again, \n　Imperial Princess Angelise.」"
+  },
+  {
+   "i": 267,
+   "speaker": "Анж",
+   "text": "「Я больше не принцесса.\n　Прошу, зовите меня просто Анж.」",
+   "orig": "Ange\n「I'm no longer a princess.\n　Please, just call me Ange.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Кагалли",
+   "text": "「Хорошо, пусть будет Анж.」",
+   "orig": "Cagalli\n「Very well then, Ange it is.」"
+  },
+  {
+   "i": 269,
+   "speaker": "Анж",
+   "text": "「Вы...\n　Вас Эмбрио тоже захватил?」",
+   "orig": "Ange\n「You—\n　You've been taken by Embryo, too?」"
+  },
+  {
+   "i": 270,
+   "speaker": "Анж",
+   "text": "「Значит, он похитил вас,\n　чтобы ввергнуть мир в хаос!」",
+   "orig": "Ange\n「So he's kidnapped you\n　to try and throw the world into chaos!」"
+  },
+  {
+   "i": 271,
+   "speaker": "Кагалли",
+   "text": "「Возможно, и так,\n　но, по его словам, это сущая мелочь.」",
+   "orig": "Cagalli\n「Well, that might be true,\n　but according to him that's nothing.」"
+  },
+  {
+   "i": 272,
+   "speaker": "Марина",
+   "text": "「Судя по всему, его цель — взять нас\n　всех себе в жёны.」",
+   "orig": "Marina\n「His goal, apparently, is to take us\n　all as his wives.」"
+  },
+  {
+   "i": 273,
+   "speaker": "Анж",
+   "text": "「Погодите, когда он меня забирал,\n　он и правда что-то говорил про жениха.」",
+   "orig": "Ange\n「Wait, when he took me he\n　did say something about being a groom.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Кагалли",
+   "text": "「Ну вот, видишь?」",
+   "orig": "Cagalli\n「Ah, see?」"
+  },
+  {
+   "i": 275,
+   "speaker": "Анж",
+   "text": "「Я... нет, мы — его невесты?」",
+   "orig": "Ange\n「I— No, we are his brides?」"
+  },
+  {
+   "i": 276,
+   "speaker": "Анж",
+   "text": "「Да ни за что!」",
+   "orig": "Ange\n「There's no way!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Найн",
+   "text": "「С возвращением, Эрша.」",
+   "orig": "Nine\n「Welcome home, Ersha.」"
+  },
+  {
+   "i": 281,
+   "speaker": "Эрша",
+   "text": "「О, Найн!」",
+   "orig": "Ersha\n「Oh, Nine!」"
+  },
+  {
+   "i": 282,
+   "speaker": "Найн",
+   "text": "「Прости.\n　Мы все так заняты этой историей\n　с Анж, что на тебя не хватает времени.」",
+   "orig": "Nine\n「I'm sorry.\n　We are all so busy with this Ange\n　situation that we've no time for you.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Найн",
+   "text": "「И интервью с асом, и анализ Рагна-мейла\n　мне тоже придётся отложить.」",
+   "orig": "Nine\n「I also have to postpone my interview \n　with the Ace Pilot, and my analysis of the Ragna-Mail.」"
+  },
+  {
+   "i": 284,
+   "speaker": "Эрша",
+   "text": "「А, ты про мою «Разию»?\n　Делай с ней что хочешь, мне она не нужна.」",
+   "orig": "Ersha\n「Oh, you mean my Raziya?\n　Do what you want with it, I don't need it.」"
+  },
+  {
+   "i": 285,
+   "speaker": "Найн",
+   "text": "「Спасибо, так и сделаю.」",
+   "orig": "Nine\n「Thank you, I will.」"
+  },
+  {
+   "i": 286,
+   "speaker": "Найн",
+   "text": "「Да, и вот, я это приготовила.\n　Если хочешь, попробуй.」",
+   "orig": "Nine\n「Oh, and here, I made this.\n　If you'd like, please do have some.」"
+  },
+  {
+   "i": 287,
+   "speaker": "Эрша",
+   "text": "「Это же тот самый суп,\n　которому я когда-то научила Найн.」",
+   "orig": "Ersha\n「This is the soup\n　I taught Nine to make before.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Эрша",
+   "text": "「Очень вкусно.\n　Она отлично справилась.」",
+   "orig": "Ersha\n「It's delicious.\n　She did a good job.」"
+  },
+  {
+   "i": 289,
+   "speaker": "Эрша",
+   "text": "「Хи-хи, Вивиан была права.\n　Вот оно, то самое место,\n　где мне и следует быть.」",
+   "orig": "Ersha\n「Heehee, Vivian was right.\n　This really is the place\n　I'm supposed to be.」"
+  }
+ ]
+}

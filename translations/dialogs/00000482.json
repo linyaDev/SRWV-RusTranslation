@@ -1,0 +1,1462 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 4,
+   "speaker": "Синдзи",
+   "text": "「Где я?」",
+   "orig": "Shinji\n「Where am I?」"
+  },
+  {
+   "i": 5,
+   "speaker": "Мисато",
+   "text": "「В медицинском блоке NERV.」",
+   "orig": "Misato\n「You're in the NERV medical ward.」"
+  },
+  {
+   "i": 6,
+   "speaker": "Синдзи",
+   "text": "「Мисато...」",
+   "orig": "Shinji\n「Misato...」"
+  },
+  {
+   "i": 7,
+   "speaker": "Мисато",
+   "text": "「После боя ты потерял сознание.\n　Ты проспал целые сутки.」",
+   "orig": "Misato\n「After the battle was over, you lost consciousness.\n　You were out for a whole day.」"
+  },
+  {
+   "i": 8,
+   "speaker": "Синдзи",
+   "text": "「Что с Аянами и Аской?\n　И... что с миром?!」",
+   "orig": "Shinji\n「How are Ayanami and Asuka?\n　And...the world?!」"
+  },
+  {
+   "i": 9,
+   "speaker": "Рэй",
+   "text": "「Икари...」",
+   "orig": "Rei\n「Ikari...」"
+  },
+  {
+   "i": 10,
+   "speaker": "Аска",
+   "text": "「Наконец-то очнулся —\n　и сразу ныть!」",
+   "orig": "Asuka\n「So you finally wake up,\n　and you're already whining!」"
+  },
+  {
+   "i": 11,
+   "speaker": "Синдзи",
+   "text": "「Аянами, Аска!\n　Вы целы!」",
+   "orig": "Shinji\n「Ayanami, Asuka!\n　You're OK!」"
+  },
+  {
+   "i": 12,
+   "speaker": "Аска",
+   "text": "「Ты за кого меня принимаешь?!」",
+   "orig": "Asuka\n「Just who do you think I am?!」"
+  },
+  {
+   "i": 13,
+   "speaker": "Аска",
+   "text": "「Будто какое-то заражение Ангелом\n　может меня подкосить!」",
+   "orig": "Asuka\n「Like being infected by an Angel\n　would bother me!」"
+  },
+  {
+   "i": 14,
+   "speaker": "Рэй",
+   "text": "「Спасибо, Икари.」",
+   "orig": "Rei\n「Thank you, Ikari.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Синдзи",
+   "text": "「Аянами...」",
+   "orig": "Shinji\n「Ayanami...」"
+  },
+  {
+   "i": 16,
+   "speaker": "Рэй",
+   "text": "「Я слышала там твой голос...\n　Он помог мне вернуться домой.」",
+   "orig": "Rei\n「I heard your voice in there...\n　It helped me come back home.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Аска",
+   "text": "「Н-ну... в общем, она права.\n　Так что мне, наверное, тоже стоит сказать спасибо.」",
+   "orig": "Asuka\n「W-well, you know...I guess she's got a point.\n　So, you know, I should thank you, I guess.」"
+  },
+  {
+   "i": 18,
+   "speaker": "Аска",
+   "text": "「Спасибо, дурак Синдзи.」",
+   "orig": "Asuka\n「Thanks, Stupid Shinji.」"
+  },
+  {
+   "i": 19,
+   "speaker": "Синдзи",
+   "text": "「Аска...」",
+   "orig": "Shinji\n「Asuka...」"
+  },
+  {
+   "i": 20,
+   "speaker": "Синдзи",
+   "text": "「А что с миром?!」",
+   "orig": "Shinji\n「And what about the world?!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Аска",
+   "text": "「Ну ты и правда дурак.\n　Раз мы тут с тобой болтаем,\n　то мир, очевидно, ещё существует!」",
+   "orig": "Asuka\n「You really are stupid.\n　If we're here talking to you, \n　obviously the world still exists!」"
+  },
+  {
+   "i": 22,
+   "speaker": "Синдзи",
+   "text": "「Значит, слияния пространства-времени не было?」",
+   "orig": "Shinji\n「So, the space-time fusion didn't happen?」"
+  },
+  {
+   "i": 23,
+   "speaker": "Мисато",
+   "text": "「...」",
+   "orig": "Misato\n「...」"
+  },
+  {
+   "i": 24,
+   "speaker": "Синдзи",
+   "text": "「Мисато...」",
+   "orig": "Shinji\n「Misato...」"
+  },
+  {
+   "i": 25,
+   "speaker": "Мисато",
+   "text": "「Пожалуй, тебе лучше\n　увидеть это собственными глазами...」",
+   "orig": "Misato\n「It would probably be better for you\n　to see with your own eyes...」"
+  },
+  {
+   "i": 26,
+   "speaker": "Мисато",
+   "text": "「Идём, Синдзи.\n　Всё равно уже пора.」",
+   "orig": "Misato\n「Come on, Shinji.\n　It's about time anyway.」"
+  },
+  {
+   "i": 27,
+   "speaker": "Синдзи",
+   "text": "「Пора — куда?」",
+   "orig": "Shinji\n「Time for what?」"
+  },
+  {
+   "i": 28,
+   "speaker": "Мисато",
+   "text": "「Решать судьбу\n　всей вселенной.」",
+   "orig": "Misato\n「To decide the fate\n　of the universe.」"
+  },
+  {
+   "i": 32,
+   "speaker": "Синдзи",
+   "text": "「Что это такое?!」",
+   "orig": "Shinji\n「What is that?!」"
+  },
+  {
+   "i": 33,
+   "speaker": "Мисато",
+   "text": "「Аура...\n　Прародительница рода Драконов. Силой кристаллов\n　драгуниума она управляет измерениями.」",
+   "orig": "Misato\n「Aura...\n　She's the ancestor of the Dragon clan, and uses the power\n　of Dragunium crystals to control the dimensions.」"
+  },
+  {
+   "i": 34,
+   "speaker": "Мисато",
+   "text": "「Благодаря её силе слияние пространства-времени\n　удерживается в круге радиусом в десять километров\n　с центром здесь, на Геофронте.」",
+   "orig": "Misato\n「Thanks to her power, the space-time fusion is\n　being contained within a 10km circle\n　centered here on GeoFront.」"
+  },
+  {
+   "i": 35,
+   "speaker": "Синдзи",
+   "text": "「Невероятно...」",
+   "orig": "Shinji\n「Unbelievable...」"
+  },
+  {
+   "i": 36,
+   "speaker": "Кодзи",
+   "text": "「Рад видеть тебя на ногах, Синдзи!」",
+   "orig": "Koji\n「Good to see you awake, Shinji!」"
+  },
+  {
+   "i": 37,
+   "speaker": "Синдзи",
+   "text": "「Кодзи...」",
+   "orig": "Shinji\n「Koji...」"
+  },
+  {
+   "i": 38,
+   "speaker": "Кодзи",
+   "text": "「Ну, сам видишь, как обстоят дела.\n　Аура еле-еле сдерживает\n　слияние пространства-времени...」",
+   "orig": "Koji\n「So I guess you can see how it's going.\n　Aura is just barely holding \n　back the space-time fusion...」"
+  },
+  {
+   "i": 39,
+   "speaker": "Синдзи",
+   "text": "「Еле-еле?!」",
+   "orig": "Shinji\n「Just barely?!」"
+  },
+  {
+   "i": 40,
+   "speaker": "Соскэ",
+   "text": "「И Тидори, и капитан считают, что силы Ауры\n　не безграничны, а значит, их истощение —\n　лишь вопрос времени.」",
+   "orig": "Sousuke\n「Chidori and the captain both\n　believe that since Aura's power has its limits,\n　it's just a matter of time before it runs out.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Рёма",
+   "text": "「А если так случится,\n　слияние продолжится и поглотит\n　обе наши вселенные.」",
+   "orig": "Ryoma\n「And if that happens,\n　space-time fusion will continue and both\n　our universes will be consumed.」"
+  },
+  {
+   "i": 42,
+   "speaker": "Синдзи",
+   "text": "「А что будет с Землёй?」",
+   "orig": "Shinji\n「And what about Earth?」"
+  },
+  {
+   "i": 43,
+   "speaker": "$n",
+   "text": "「По расчётам Найн,\n　обе Земли будут уничтожены.」",
+   "orig": "$n\n「According to Nine's analysis,\n　both Earths will be destroyed.」"
+  },
+  {
+   "i": 44,
+   "speaker": "$n",
+   "text": "「И это ещё не всё.\n　Следом погибнут и колонии...\n　А при худшем раскладе достанется и Юпитеру.」",
+   "orig": "$n\n「And not just that.\n　In the aftermath, the Colonies will go too...\n　If it goes badly, the destruction might even hit Jupiter.」"
+  },
+  {
+   "i": 45,
+   "speaker": "Амуро",
+   "text": "「Мы уже сообщили об угрозе\n　Земной Федерации и Нео-Зеону.」",
+   "orig": "Amuro\n「We've already informed the Earth Federation and\n　Neo Zeon about the danger.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Амуро",
+   "text": "「Сейчас правительство Федерации и Фронталь,\n　должно быть, спорят до хрипоты, но, думаю,\n　всё закончится лишь покорностью судьбе.」",
+   "orig": "Amuro\n「Right about now, the Federation government and Frontal\n　are probably holding heated conferences, but I imagine\n　the only result will be resignation.」"
+  },
+  {
+   "i": 47,
+   "speaker": "Таск",
+   "text": "「Проклятье!\n　Если бы мы тогда прикончили Эмбрио\n　по-настоящему!」",
+   "orig": "Tusk\n「Dammit!\n　If only we had taken out Embryo\n　for real!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Анж",
+   "text": "「Я не понимаю...\n　Он же умер прямо у нас на глазах...」",
+   "orig": "Ange\n「I don't understand...\n　He died right before our eyes...」"
+  },
+  {
+   "i": 49,
+   "speaker": "Соскэ",
+   "text": "「И ещё этот Леонард.\n　Он связался с Эмбрио,\n　чтобы устроить это слияние...」",
+   "orig": "Sousuke\n「And then there's Leonard.\n　He's signed up with Embryo \n　to make this space-time fusion happen...」"
+  },
+  {
+   "i": 50,
+   "speaker": "Синдзи",
+   "text": "「Что он вообще выиграет, помогая уничтожить\n　планету, на которой сам живёт?」",
+   "orig": "Shinji\n「What could he possibly gain by helping to\n　destroy the planet he lives on?」"
+  },
+  {
+   "i": 51,
+   "speaker": "Соскэ",
+   "text": "「Не знаю...」",
+   "orig": "Sousuke\n「I don't know...」"
+  },
+  {
+   "i": 52,
+   "speaker": "Анж",
+   "text": "「Ну, Эмбрио твердит, что создаст новый мир...」",
+   "orig": "Ange\n「Well, Embryo keeps saying he'll make a new world...」"
+  },
+  {
+   "i": 53,
+   "speaker": "Майто",
+   "text": "「А что с этим Эксевом?」",
+   "orig": "Maito\n「And what about that Exev guy?」"
+  },
+  {
+   "i": 54,
+   "speaker": "Дзё",
+   "text": "「Это тот самый главарь, за которым мы гонялись...」",
+   "orig": "Joe\n「He's the head guy we've been after...」"
+  },
+  {
+   "i": 55,
+   "speaker": "Майто",
+   "text": "「Знаете, в этом типе было\n　что-то по-настоящему жуткое.」",
+   "orig": "Maito\n「You know, there was something really\n　eerie about that guy.」"
+  },
+  {
+   "i": 56,
+   "speaker": "Бандзё",
+   "text": "「Мы до сих пор не знаем ни кто он, ни чего хочет.\n　Известно одно: он заодно с Эмбрио и Леонардом\n　и готов погубить две вселенные.」",
+   "orig": "Banjo\n「We still don't know who he is or what he wants,\n　other than that he's joined Embryo and Leonard \n　in trying to destroy two universes.」"
+  },
+  {
+   "i": 57,
+   "speaker": "Каппэй",
+   "text": "「Вот же чудовище...\n　О чём он только думал, помогая\n　Микенам вернуться?!」",
+   "orig": "Kappei\n「That monster...\n　What was he thinking, helping\n　Mycenae come back?!」"
+  },
+  {
+   "i": 58,
+   "speaker": "Акито",
+   "text": "「Пусть мы не знаем ни его имени, ни цели,\n　ясно одно: это подлинное великое зло,\n　которому плевать на человеческие жизни!」",
+   "orig": "Akito\n「Even without knowing his identity or goal,\n　it's clear that he's truly a great evil,\n　with no regard for human life!」"
+  },
+  {
+   "i": 59,
+   "speaker": "Синдзи",
+   "text": "「Если бы я не пробудил\n　истинную силу «ЕВЫ»,\n　ничего этого могло бы и не случиться!」",
+   "orig": "Shinji\n「If only I hadn't caused\n　EVA's true power to awaken,\n　this might never have happened!」"
+  },
+  {
+   "i": 60,
+   "speaker": "Кодзи",
+   "text": "「То же самое могу сказать и я, Синдзи.\n　Если бы меня не поглотил «Зеро»...」",
+   "orig": "Koji\n「I could say the same thing, Shinji.\n　If I hadn't been consumed by ZERO...」"
+  },
+  {
+   "i": 61,
+   "speaker": "Синдзи",
+   "text": "「Кодзи...」",
+   "orig": "Shinji\n「Koji...」"
+  },
+  {
+   "i": 62,
+   "speaker": "Кодзи",
+   "text": "「Сейчас не время опускать руки.\n　Если хотим спасти мир, работы у нас хватает!」",
+   "orig": "Koji\n「This is no time to lose hope.\n　We've got work to do if we're going to save the world!」"
+  },
+  {
+   "i": 63,
+   "speaker": "Синдзи",
+   "text": "「Но... что мы можем сделать?」",
+   "orig": "Shinji\n「But...what can we do?」"
+  },
+  {
+   "i": 64,
+   "speaker": "Мисато",
+   "text": "「Саламандинай сейчас связывается с Аурой,\n　чтобы выяснить обстановку.」",
+   "orig": "Misato\n「Salamandinay is making contact with Aura right now,\n　checking on the situation.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Синдзи",
+   "text": "「Она правда может говорить с этим огромным Драконом?」",
+   "orig": "Shinji\n「Can she really talk to that enormous Dragon?」"
+  },
+  {
+   "i": 66,
+   "speaker": "Таск",
+   "text": "「Ну, горизонт измерений там изорван в клочья,\n　так что близко ей не подобраться, но уверен...」",
+   "orig": "Tusk\n「Well, the dimensional horizon around there is mincemeat,\n　so she can't get very close, but I'm sure...」"
+  },
+  {
+   "i": 67,
+   "speaker": "Таск",
+   "text": "「Саламандинай сумеет докричаться\n　и с такого расстояния.」",
+   "orig": "Tusk\n「Salamandinay can manage to communicate\n　across that distance.」"
+  },
+  {
+   "i": 68,
+   "speaker": "Мисато",
+   "text": "「Она сказала, что вернётся примерно сейчас.」",
+   "orig": "Misato\n「She said she should be back right around now.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Синдзи",
+   "text": "「Так вот что значило твоё «уже пора».」",
+   "orig": "Shinji\n「So that's what you meant about it being \"about time.\"」"
+  },
+  {
+   "i": 70,
+   "speaker": "Каппэй",
+   "text": "「Она здесь!」",
+   "orig": "Kappei\n「She's here!」"
+  },
+  {
+   "i": 71,
+   "speaker": "Саламандинай",
+   "text": "「...」",
+   "orig": "Salamandinay\n「...」"
+  },
+  {
+   "i": 72,
+   "speaker": "Анж",
+   "text": "「Ну как, Сала?」",
+   "orig": "Ange\n「How'd it go, Sala?」"
+  },
+  {
+   "i": 73,
+   "speaker": "Саламандинай",
+   "text": "「Мы были правы: слияние пространства-времени\n　сдерживает именно сила Ауры.」",
+   "orig": "Salamandinay\n「We were right, it's Aura's power\n　keeping the space-time fusion at bay.」"
+  },
+  {
+   "i": 74,
+   "speaker": "Саламандинай",
+   "text": "「Но, как и ожидалось, эта сила\n　не будет держаться вечно.」",
+   "orig": "Salamandinay\n「But as expected, that power\n　isn't going to last forever.」"
+  },
+  {
+   "i": 75,
+   "speaker": "Хаято",
+   "text": "「Ну разумеется...」",
+   "orig": "Hayato\n「Of course...」"
+  },
+  {
+   "i": 76,
+   "speaker": "Кинкейд",
+   "text": "「А есть ли способ остановить слияние насовсем?」",
+   "orig": "Kincade\n「And is there any way to stop the fusion for good?」"
+  },
+  {
+   "i": 77,
+   "speaker": "Саламандинай",
+   "text": "「На этот счёт\n　Аура сказала...」",
+   "orig": "Salamandinay\n「As for that, \n　Aura said...」"
+  },
+  {
+   "i": 78,
+   "speaker": "Саламандинай",
+   "text": "「«Отправляйтесь на Искандар».」",
+   "orig": "Salamandinay\n「\"Go to Iscandar.\"」"
+  },
+  {
+   "i": 79,
+   "speaker": "Кодай",
+   "text": "「ЧТО?!」",
+   "orig": "Kodai\n「WHAT?!」"
+  },
+  {
+   "i": 80,
+   "speaker": "Мори",
+   "text": "「Откуда Дракон из измерения Вселенского века\n　вообще знает про Искандар?!」",
+   "orig": "Mori\n「How does a Dragon in the Universal Century\n　dimension know about Iscandar?!」"
+  },
+  {
+   "i": 81,
+   "speaker": "Саламандинай",
+   "text": "「Мне это неведомо.\n　Очевидно одно: Аура знает об этом месте\n　из другой вселенной...」",
+   "orig": "Salamandinay\n「I do not know.\n　Clearly, Aura has knowledge of\n　this place from another universe...」"
+  },
+  {
+   "i": 82,
+   "speaker": "Саламандинай",
+   "text": "「Она сказала, что их технология\n　способна спасти нас от этой катастрофы.」",
+   "orig": "Salamandinay\n「She said that their technology\n　could save us from this catastrophe.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Кодай",
+   "text": "「Неужели речь о «Космо-Реверсе»...」",
+   "orig": "Kodai\n「I wonder if it's the Cosmo Reverse...」"
+  },
+  {
+   "i": 84,
+   "speaker": "Саламандинай",
+   "text": "「К сожалению, больше Аура\n　ничего сообщить не смогла.」",
+   "orig": "Salamandinay\n「Unfortunately, Aura\n　could tell me no more.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Кодай",
+   "text": "「Что ж, значит, нам пора в путь.」",
+   "orig": "Kodai\n「Well, we'd better get going.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Мори",
+   "text": "「Кодай...」",
+   "orig": "Mori\n「Kodai...」"
+  },
+  {
+   "i": 87,
+   "speaker": "Кодай",
+   "text": "「А какой у нас ещё выбор?」",
+   "orig": "Kodai\n「What other choice do we have?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Сима",
+   "text": "「Да, но как\n　нам вернуться в собственную вселенную?」",
+   "orig": "Shima\n「Yeah, but how\n　do we get back to our own universe?」"
+  },
+  {
+   "i": 89,
+   "speaker": "Рури",
+   "text": "「Когда Инес закончит исследование,\n　параллельный бозонный прыжок станет возможен...」",
+   "orig": "Ruri\n「When Inez's research is done,\n　a Parallel Boson Jump should be possible...」"
+  },
+  {
+   "i": 90,
+   "speaker": "Юрика",
+   "text": "「И когда же это будет?」",
+   "orig": "Yurika\n「And when will that be?」"
+  },
+  {
+   "i": 91,
+   "speaker": "Камий",
+   "text": "「...」",
+   "orig": "Kamille\n「...」"
+  },
+  {
+   "i": 92,
+   "speaker": "Банагер",
+   "text": "「...」",
+   "orig": "Banagher\n「...」"
+  },
+  {
+   "i": 93,
+   "speaker": "$n",
+   "text": "「Неужели мы совсем ничего не можем сделать?」",
+   "orig": "$n\n「Isn't there anything we can do?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Кодзи",
+   "text": "「Рад видеть тебя на ногах, Синдзи!」",
+   "orig": "Koji\n「Good to see you awake, Shinji!」"
+  },
+  {
+   "i": 95,
+   "speaker": "Синдзи",
+   "text": "「Кодзи...」",
+   "orig": "Shinji\n「Koji...」"
+  },
+  {
+   "i": 96,
+   "speaker": "Кодзи",
+   "text": "「Ну, сам видишь, как обстоят дела.\n　Аура еле-еле сдерживает\n　слияние пространства-времени...」",
+   "orig": "Koji\n「So I guess you can see how it's going.\n　Aura is just barely holding \n　back the space-time fusion...」"
+  },
+  {
+   "i": 97,
+   "speaker": "Синдзи",
+   "text": "「Еле-еле?!」",
+   "orig": "Shinji\n「Just barely?!」"
+  },
+  {
+   "i": 98,
+   "speaker": "Соскэ",
+   "text": "「И Тидори, и капитан считают, что силы Ауры\n　не безграничны, а значит, их истощение —\n　лишь вопрос времени.」",
+   "orig": "Sousuke\n「Chidori and the captain both\n　believe that since Aura's power has its limits,\n　it's just a matter of time before it runs out.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Рёма",
+   "text": "「А если так случится,\n　слияние продолжится и поглотит\n　обе наши вселенные.」",
+   "orig": "Ryoma\n「And if that happens,\n　space-time fusion will continue and both\n　our universes will be consumed.」"
+  },
+  {
+   "i": 100,
+   "speaker": "Синдзи",
+   "text": "「А что будет с Землёй?」",
+   "orig": "Shinji\n「And what about Earth?」"
+  },
+  {
+   "i": 101,
+   "speaker": "$n",
+   "text": "「По расчётам Найн,\n　обе Земли будут уничтожены.」",
+   "orig": "$n\n「According to Nine's analysis,\n　both Earths will be destroyed.」"
+  },
+  {
+   "i": 102,
+   "speaker": "$n",
+   "text": "「И это ещё не всё.\n　Следом погибнут и колонии...\n　А при худшем раскладе достанется и Юпитеру.」",
+   "orig": "$n\n「And not just that.\n　In the aftermath, the Colonies will go too...\n　If it goes badly, the destruction might even hit Jupiter.」"
+  },
+  {
+   "i": 103,
+   "speaker": "Амуро",
+   "text": "「Мы уже сообщили об угрозе\n　Земной Федерации и Нео-Зеону.」",
+   "orig": "Amuro\n「We've already informed the Earth Federation and\n　Neo Zeon about the danger.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Амуро",
+   "text": "「Сейчас правительство Федерации и Фронталь,\n　должно быть, спорят до хрипоты, но, думаю,\n　всё закончится лишь покорностью судьбе.」",
+   "orig": "Amuro\n「Right about now, the Federation government and Frontal\n　are probably holding heated conferences, but I imagine\n　the only result will be resignation.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Таск",
+   "text": "「Проклятье!\n　Если бы мы тогда прикончили Эмбрио\n　по-настоящему!」",
+   "orig": "Tusk\n「Dammit!\n　If only we had taken out Embryo\n　for real!」"
+  },
+  {
+   "i": 106,
+   "speaker": "Анж",
+   "text": "「Я не понимаю...\n　Он же умер прямо у нас на глазах...」",
+   "orig": "Ange\n「I don't understand...\n　He died right before our eyes...」"
+  },
+  {
+   "i": 107,
+   "speaker": "Соскэ",
+   "text": "「И ещё этот Леонард.\n　Он связался с Эмбрио,\n　чтобы устроить это слияние...」",
+   "orig": "Sousuke\n「And then there's Leonard.\n　He's signed up with Embryo \n　to make this space-time fusion happen...」"
+  },
+  {
+   "i": 108,
+   "speaker": "Синдзи",
+   "text": "「Что он вообще выиграет, помогая уничтожить\n　планету, на которой сам живёт?」",
+   "orig": "Shinji\n「What could he possibly gain by helping to\n　destroy the planet he lives on?」"
+  },
+  {
+   "i": 109,
+   "speaker": "Соскэ",
+   "text": "「Не знаю...」",
+   "orig": "Sousuke\n「I don't know...」"
+  },
+  {
+   "i": 110,
+   "speaker": "Анж",
+   "text": "「Ну, Эмбрио твердит, что создаст новый мир...」",
+   "orig": "Ange\n「Well, Embryo keeps saying he'll make a new world...」"
+  },
+  {
+   "i": 111,
+   "speaker": "Майто",
+   "text": "「А что с этим Эксевом?」",
+   "orig": "Maito\n「And what about that Exev guy?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Дзё",
+   "text": "「Это тот самый главарь, за которым мы гонялись...」",
+   "orig": "Joe\n「He's the head guy we've been after...」"
+  },
+  {
+   "i": 113,
+   "speaker": "Майто",
+   "text": "「Знаете, в этом типе было\n　что-то по-настоящему жуткое.」",
+   "orig": "Maito\n「You know, there was something really\n　eerie about that guy.」"
+  },
+  {
+   "i": 114,
+   "speaker": "Бандзё",
+   "text": "「Мы до сих пор не знаем ни кто он, ни чего хочет.\n　Известно одно: он заодно с Эмбрио и Леонардом\n　и готов погубить две вселенные.」",
+   "orig": "Banjo\n「We still don't know who he is or what he wants,\n　other than that he's joined Embryo and Leonard \n　in trying to destroy two universes.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Каппэй",
+   "text": "「Вот же чудовище...\n　О чём он только думал, помогая\n　Микенам вернуться?!」",
+   "orig": "Kappei\n「That monster...\n　What was he thinking, helping\n　Mycenae come back?!」"
+  },
+  {
+   "i": 116,
+   "speaker": "Акито",
+   "text": "「Пусть мы не знаем ни его имени, ни цели,\n　ясно одно: это подлинное великое зло,\n　которому плевать на человеческие жизни!」",
+   "orig": "Akito\n「Even without knowing his identity or goal,\n　it's clear that he's truly a great evil,\n　with no regard for human life!」"
+  },
+  {
+   "i": 117,
+   "speaker": "Синдзи",
+   "text": "「Если бы я не пробудил\n　истинную силу «ЕВЫ»,\n　ничего этого могло бы и не случиться!」",
+   "orig": "Shinji\n「If only I hadn't caused\n　EVA's true power to awaken,\n　this might never have happened!」"
+  },
+  {
+   "i": 118,
+   "speaker": "Кодзи",
+   "text": "「То же самое могу сказать и я, Синдзи.\n　Если бы меня не поглотил «Зеро»...」",
+   "orig": "Koji\n「I could say the same thing, Shinji.\n　If I hadn't been consumed by ZERO...」"
+  },
+  {
+   "i": 119,
+   "speaker": "Синдзи",
+   "text": "「Кодзи...」",
+   "orig": "Shinji\n「Koji...」"
+  },
+  {
+   "i": 120,
+   "speaker": "Кодзи",
+   "text": "「Сейчас не время опускать руки.\n　Если хотим спасти мир, работы у нас хватает!」",
+   "orig": "Koji\n「This is no time to lose hope.\n　We've got work to do if we're going to save the world!」"
+  },
+  {
+   "i": 121,
+   "speaker": "Синдзи",
+   "text": "「Но... что мы можем сделать?」",
+   "orig": "Shinji\n「But...what can we do?」"
+  },
+  {
+   "i": 122,
+   "speaker": "Мисато",
+   "text": "「Саламандинай сейчас связывается с Аурой,\n　чтобы выяснить обстановку.」",
+   "orig": "Misato\n「Salamandinay is making contact with Aura right now,\n　checking on the situation.」"
+  },
+  {
+   "i": 123,
+   "speaker": "Синдзи",
+   "text": "「Она правда может говорить с этим огромным Драконом?」",
+   "orig": "Shinji\n「Can she really talk to that enormous Dragon?」"
+  },
+  {
+   "i": 124,
+   "speaker": "Таск",
+   "text": "「Ну, горизонт измерений там изорван в клочья,\n　так что близко ей не подобраться, но уверен...」",
+   "orig": "Tusk\n「Well, the dimensional horizon around there is mincemeat,\n　so she can't get very close, but I'm sure...」"
+  },
+  {
+   "i": 125,
+   "speaker": "Таск",
+   "text": "「Саламандинай сумеет докричаться\n　и с такого расстояния.」",
+   "orig": "Tusk\n「Salamandinay can manage to communicate\n　across that distance.」"
+  },
+  {
+   "i": 126,
+   "speaker": "Мисато",
+   "text": "「Она сказала, что вернётся примерно сейчас.」",
+   "orig": "Misato\n「She said she should be back right around now.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Синдзи",
+   "text": "「Так вот что значило твоё «уже пора».」",
+   "orig": "Shinji\n「So that's what you meant about it being \"about time.\"」"
+  },
+  {
+   "i": 128,
+   "speaker": "Каппэй",
+   "text": "「Она здесь!」",
+   "orig": "Kappei\n「She's here!」"
+  },
+  {
+   "i": 129,
+   "speaker": "Саламандинай",
+   "text": "「...」",
+   "orig": "Salamandinay\n「...」"
+  },
+  {
+   "i": 130,
+   "speaker": "Анж",
+   "text": "「Ну как, Сала?」",
+   "orig": "Ange\n「How'd it go, Sala?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Саламандинай",
+   "text": "「Мы были правы: слияние пространства-времени\n　сдерживает именно сила Ауры.」",
+   "orig": "Salamandinay\n「We were right, it's Aura's power\n　keeping the space-time fusion at bay.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Саламандинай",
+   "text": "「Но, как и ожидалось, эта сила\n　не будет держаться вечно.」",
+   "orig": "Salamandinay\n「But as expected, that power\n　isn't going to last forever.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Хаято",
+   "text": "「Ну разумеется...」",
+   "orig": "Hayato\n「Of course...」"
+  },
+  {
+   "i": 134,
+   "speaker": "Кинкейд",
+   "text": "「А есть ли способ остановить слияние насовсем?」",
+   "orig": "Kincade\n「And is there any way to stop the fusion for good?」"
+  },
+  {
+   "i": 135,
+   "speaker": "Саламандинай",
+   "text": "「На этот счёт\n　Аура сказала...」",
+   "orig": "Salamandinay\n「As for that, \n　Aura said...」"
+  },
+  {
+   "i": 136,
+   "speaker": "Саламандинай",
+   "text": "「«Отправляйтесь на Искандар».」",
+   "orig": "Salamandinay\n「\"Go to Iscandar.\"」"
+  },
+  {
+   "i": 137,
+   "speaker": "Кодай",
+   "text": "「ЧТО?!」",
+   "orig": "Kodai\n「WHAT?!」"
+  },
+  {
+   "i": 138,
+   "speaker": "Мори",
+   "text": "「Откуда Дракон из измерения Вселенского века\n　вообще знает про Искандар?!」",
+   "orig": "Mori\n「How does a Dragon in the Universal Century\n　dimension know about Iscandar?!」"
+  },
+  {
+   "i": 139,
+   "speaker": "Саламандинай",
+   "text": "「Мне это неведомо.\n　Очевидно одно: Аура знает об этом месте\n　из другой вселенной...」",
+   "orig": "Salamandinay\n「I do not know.\n　Clearly, Aura has knowledge of\n　this place from another universe...」"
+  },
+  {
+   "i": 140,
+   "speaker": "Саламандинай",
+   "text": "「Она сказала, что их технология\n　способна спасти нас от этой катастрофы.」",
+   "orig": "Salamandinay\n「She said that their technology\n　could save us from this catastrophe.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Кодай",
+   "text": "「Неужели речь о «Космо-Реверсе»...」",
+   "orig": "Kodai\n「I wonder if it's the Cosmo Reverse...」"
+  },
+  {
+   "i": 142,
+   "speaker": "Саламандинай",
+   "text": "「К сожалению, больше Аура\n　ничего сообщить не смогла.」",
+   "orig": "Salamandinay\n「Unfortunately, Aura\n　could tell me no more.」"
+  },
+  {
+   "i": 143,
+   "speaker": "Кодай",
+   "text": "「Что ж, значит, нам пора в путь.」",
+   "orig": "Kodai\n「Well, we'd better get going.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Мори",
+   "text": "「Кодай...」",
+   "orig": "Mori\n「Kodai...」"
+  },
+  {
+   "i": 145,
+   "speaker": "Кодай",
+   "text": "「А какой у нас ещё выбор?」",
+   "orig": "Kodai\n「What other choice do we have?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Сима",
+   "text": "「Да, но как\n　нам вернуться в собственную вселенную?」",
+   "orig": "Shima\n「Yeah, but how\n　do we get back to our own universe?」"
+  },
+  {
+   "i": 147,
+   "speaker": "Рури",
+   "text": "「Когда Инес закончит исследование,\n　параллельный бозонный прыжок станет возможен...」",
+   "orig": "Ruri\n「When Inez's research is done,\n　a Parallel Boson Jump should be possible...」"
+  },
+  {
+   "i": 148,
+   "speaker": "Юрика",
+   "text": "「И когда же это будет?」",
+   "orig": "Yurika\n「And when will that be?」"
+  },
+  {
+   "i": 149,
+   "speaker": "Камий",
+   "text": "「...」",
+   "orig": "Kamille\n「...」"
+  },
+  {
+   "i": 150,
+   "speaker": "Банагер",
+   "text": "「...」",
+   "orig": "Banagher\n「...」"
+  },
+  {
+   "i": 151,
+   "speaker": "$n",
+   "text": "「Неужели мы совсем ничего не можем сделать?」",
+   "orig": "$n\n「Isn't there anything we can do?」"
+  },
+  {
+   "i": 155,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　-Объект NERV-",
+   "orig": "　\n　\n　　　　　　　　　　　-NERV Facility-"
+  },
+  {
+   "i": 156,
+   "speaker": "Синдзи",
+   "text": "「Эх...」",
+   "orig": "Shinji\n「Ugh...」"
+  },
+  {
+   "i": 157,
+   "speaker": "Аска",
+   "text": "「«Лондо Белл» вернулся в Научную крепость-\n　лабораторию — не повод так кукситься.」",
+   "orig": "Asuka\n「Just because Londo Bell has gone back to \n　Science Fortress Lab is no reason to look so gloomy.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Синдзи",
+   "text": "「А почему мы должны ждать здесь, в NERV?」",
+   "orig": "Shinji\n「Why do we have to stay on standby at NERV?」"
+  },
+  {
+   "i": 159,
+   "speaker": "Мисато",
+   "text": "「Потому что чинить «ЕВУ»\n　быстрее здесь, в NERV.」",
+   "orig": "Misato\n「Because it's faster to repair\n　EVA here at NERV.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Мисато",
+   "text": "「Подумай пока о чём-нибудь другом.\n　Все всё равно мечутся, не понимая,\n　что вообще нужно делать.」",
+   "orig": "Misato\n「Just think about something else.\n　Everyone's just running around without\n　knowing what they should do anyway.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Синдзи",
+   "text": "「...Ну а как там ЕВА-01?」",
+   "orig": "Shinji\n「... Well, how is Unit-01 doing?」"
+  },
+  {
+   "i": 162,
+   "speaker": "Мисато",
+   "text": "「Я тут за главную — и даже я не понимала,\n　что происходило в том последнем бою.」",
+   "orig": "Misato\n「I'm in charge and even I didn't know\n　what was going to happen in that last battle.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Мисато",
+   "text": "「Когда бой закончился\n　и ты потерял сознание,\n　«ЕВА» хотя бы вернулась в норму...」",
+   "orig": "Misato\n「After the fight was over \n　and you lost consciousness,\n　EVA returned to normal, at least...」"
+  },
+  {
+   "i": 164,
+   "speaker": "Синдзи",
+   "text": "「А... что говорит отец?」",
+   "orig": "Shinji\n「And...what does father say?」"
+  },
+  {
+   "i": 165,
+   "speaker": "Мисато",
+   "text": "「Он велел Рицуко провести полную проверку.\n　От результатов зависит, сможем ли мы её применять.」",
+   "orig": "Misato\n「He's ordered Ritsuko to run a full inspection. \n　The results will determine whether we can still use it.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Синдзи",
+   "text": "「Понятно...」",
+   "orig": "Shinji\n「I see...」"
+  },
+  {
+   "i": 167,
+   "speaker": "Аска",
+   "text": "「Тревога... На нас напали?」",
+   "orig": "Asuka\n「That alarm...are we under attack?」"
+  },
+  {
+   "i": 168,
+   "speaker": "Мисато",
+   "text": "「Именно сейчас?!」",
+   "orig": "Misato\n「Now?!」"
+  },
+  {
+   "i": 169,
+   "speaker": "Рэй",
+   "text": "「Приближается Ангел...」",
+   "orig": "Rei\n「An Angel is coming...」"
+  },
+  {
+   "i": 170,
+   "speaker": "Синдзи",
+   "text": "「Серьёзно?!」",
+   "orig": "Shinji\n「Seriously?!」"
+  },
+  {
+   "i": 174,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　　　-Командный центр штаба NERV-",
+   "orig": "　\n　　\n　　　　　　-NERV Headquarters Command Center-"
+  },
+  {
+   "i": 175,
+   "speaker": "Макото",
+   "text": "「Объект приближается к Геофронту!」",
+   "orig": "Makoto\n「Object is approaching GeoFront!」"
+  },
+  {
+   "i": 176,
+   "speaker": "Сигэру",
+   "text": "「Из-за помех замер затруднён,\n　но, судя по всему, паттерн крови — синий!」",
+   "orig": "Shigeru\n「It's difficult to take a reading due to interference\n　but it appears to be Blood Type Blue!」"
+  },
+  {
+   "i": 177,
+   "speaker": "Майя",
+   "text": "「MAGI подтверждают этот вывод.」",
+   "orig": "Maya\n「MAGI agrees with that conclusion.」"
+  },
+  {
+   "i": 178,
+   "speaker": "Фуюцуки",
+   "text": "「Снова непредвиденные обстоятельства...」",
+   "orig": "Fuyutsuki\n「Another set of unforeseen circumstances...」"
+  },
+  {
+   "i": 179,
+   "speaker": "Гэндо",
+   "text": "「Причины и следствия по-прежнему искажены.\n　Удивляться нечему.」",
+   "orig": "Gendo\n「Cause and effect continue to be warped.\n　Nothing should surprise us.」"
+  },
+  {
+   "i": 180,
+   "speaker": "Фуюцуки",
+   "text": "「И что же нам тогда делать?」",
+   "orig": "Fuyutsuki\n「Well then, what should we do?」"
+  },
+  {
+   "i": 181,
+   "speaker": "Гэндо",
+   "text": "「При таких обстоятельствах стоит вызвать его.」",
+   "orig": "Gendo\n「Under the circumstances, we should call him out.」"
+  },
+  {
+   "i": 185,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　　　-Ангар NERV-",
+   "orig": "　\n　\n　　　　　　　　　　　　-NERV Hangar-"
+  },
+  {
+   "i": 186,
+   "speaker": "Синдзи",
+   "text": "「Рицуко!\n　Разве вы не выпускаете ЕВУ-01?」",
+   "orig": "Shinji\n「Ritsuko!\n　Aren't you sending out Unit-01?」"
+  },
+  {
+   "i": 187,
+   "speaker": "Рицуко",
+   "text": "「Не можем.\n　С неё снята вся броня!」",
+   "orig": "Ritsuko\n「We can't.\n　We've stripped all its armor off!」"
+  },
+  {
+   "i": 188,
+   "speaker": "Синдзи",
+   "text": "「Но ведь и без неё\n　остаётся AT-поле!」",
+   "orig": "Shinji\n「Even without it though,\n　it's got the AT field!」"
+  },
+  {
+   "i": 189,
+   "speaker": "Рицуко",
+   "text": "「Броня «ЕВЫ» нужна не для защиты.」",
+   "orig": "Ritsuko\n「EVA's armor isn't there for protection.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 191,
+   "speaker": "Рицуко",
+   "text": "「Прости, объяснять мне сейчас некогда.\n　Возвращайся и жди приказа, как тебе и велели.」",
+   "orig": "Ritsuko\n「I'm sorry, but I don't have time to explain.\n　Now go back and wait for orders, like you were told.」"
+  },
+  {
+   "i": 192,
+   "speaker": "Синдзи",
+   "text": "「Что же такое... «ЕВА» на самом деле?」",
+   "orig": "Shinji\n「What...is EVA, exactly?」"
+  },
+  {
+   "i": 193,
+   "speaker": "Каору",
+   "text": "「Возможно, тебе лучше этого не знать.」",
+   "orig": "Kaworu\n「It might be best if you didn't know.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Синдзи",
+   "text": "「Ты кто?」",
+   "orig": "Shinji\n「Who are you?」"
+  },
+  {
+   "i": 195,
+   "speaker": "Каору",
+   "text": "「Каору Нагиса.\n　Я тоже пилот «ЕВЫ».」",
+   "orig": "Kaworu\n「Kaworu Nagisa.\n　I'm another EVA pilot.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Каору",
+   "text": "「Я тоже из Детей судьбы.」",
+   "orig": "Kaworu\n「I'm another one of the Destined Children.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Синдзи",
+   "text": "「А...」",
+   "orig": "Shinji\n「Oh...」"
+  },
+  {
+   "i": 198,
+   "speaker": "Каору",
+   "text": "「Ты ведь Синдзи Икари?\n　Рад знакомству...」",
+   "orig": "Kaworu\n「You're Shinji Ikari, aren't you?\n　I'm happy to meet you...」"
+  },
+  {
+   "i": 199,
+   "speaker": "Синдзи",
+   "text": "「А, э-э, да...」",
+   "orig": "Shinji\n「Oh, uh, yeah...」"
+  },
+  {
+   "i": 200,
+   "speaker": "Каору",
+   "text": "「Хочешь сесть за штурвал своей «ЕВЫ»?」",
+   "orig": "Kaworu\n「Do you want to pilot your EVA?」"
+  },
+  {
+   "i": 201,
+   "speaker": "Синдзи",
+   "text": "「Дело не в том, хочу я или нет, —\n　я просто не могу бросить там Аянами и остальных!」",
+   "orig": "Shinji\n「It's not that I want to, \n　but I can't just leave Ayanami and those guys out there!」"
+  },
+  {
+   "i": 202,
+   "speaker": "Каору",
+   "text": "「Идём со мной.」",
+   "orig": "Kaworu\n「Come with me.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Синдзи",
+   "text": "「Куда?」",
+   "orig": "Shinji\n「Where to?」"
+  },
+  {
+   "i": 204,
+   "speaker": "Каору",
+   "text": "「Покажу тебе нашу «ЕВУ».」",
+   "orig": "Kaworu\n「I'll show you to our EVA.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Синдзи",
+   "text": "「Нашу?」",
+   "orig": "Shinji\n「Our?」"
+  },
+  {
+   "i": 206,
+   "speaker": "Каору",
+   "text": "「Хе-хе.」",
+   "orig": "Kaworu\n「Heheh.」"
+  },
+  {
+   "i": 210,
+   "speaker": "　",
+   "text": "　\n　　　　　　　　　　-Штаб NERV: Центральная Догма-",
+   "orig": "　\n　\n　　　　　　　　　-NERV HQ Central Dogma-"
+  },
+  {
+   "i": 211,
+   "speaker": "Синдзи",
+   "text": "「Что это за место?」",
+   "orig": "Shinji\n「What is this place?」"
+  },
+  {
+   "i": 212,
+   "speaker": "Каору",
+   "text": "「Ты здесь впервые?」",
+   "orig": "Kaworu\n「Is this your first time here?」"
+  },
+  {
+   "i": 213,
+   "speaker": "Синдзи",
+   "text": "「Д-да...\n　Я и не знал, что под NERV\n　скрыто нечто подобное...」",
+   "orig": "Shinji\n「Y-yeah...\n　I never knew there was anything like this\n　buried under NERV...」"
+  },
+  {
+   "i": 214,
+   "speaker": "Каору",
+   "text": "「Похоже, доступ сюда строго ограничен.」",
+   "orig": "Kaworu\n「It looks like this place is restricted access.」"
+  },
+  {
+   "i": 215,
+   "speaker": "Синдзи",
+   "text": "「Это и есть... та «ЕВА», о которой ты говорил?」",
+   "orig": "Shinji\n「Is that...the EVA you were talking about?」"
+  },
+  {
+   "i": 216,
+   "speaker": "Каору",
+   "text": "「Это мать всей жизни на Земле,\n　средоточие всего, Второй Ангел. Лилит.」",
+   "orig": "Kaworu\n「That is the mother of all life on Earth,\n　the center of all this, the Second Angel. Lilith.」"
+  },
+  {
+   "i": 217,
+   "speaker": "Синдзи",
+   "text": "「Это Лилит?」",
+   "orig": "Shinji\n「That's Lilith?」"
+  },
+  {
+   "i": 218,
+   "speaker": "Каору",
+   "text": "「Именно.\n　Ангелы нападают на NERV ради того,\n　чтобы коснуться её.」",
+   "orig": "Kaworu\n「Indeed.\n　The Angels attack NERV in order to\n　touch this.」"
+  },
+  {
+   "i": 219,
+   "speaker": "Синдзи",
+   "text": "「А твоя «ЕВА» где-то здесь?」",
+   "orig": "Shinji\n「And is your EVA in there?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Каору",
+   "text": "「Вовсе нет.\n　НАША «ЕВА».」",
+   "orig": "Kaworu\n「Oh no.\n　OUR EVA.」"
+  },
+  {
+   "i": 221,
+   "speaker": "Каору",
+   "text": "「Идём, Синдзи Икари.\n　ЕВА-13 нас ждёт.」",
+   "orig": "Kaworu\n「Let's go, Shinji Ikari.\n　Unit-13 is waiting for us.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Синдзи",
+   "text": "「ЕВА-13...」",
+   "orig": "Shinji\n「Unit-13...」"
+  },
+  {
+   "i": 226,
+   "speaker": "　",
+   "text": "　　\n　　　　-Кабинет командующего, штаб NERV-",
+   "orig": "　\n　　\n　　　　　　　-NERV HQ Commander's Office-"
+  },
+  {
+   "i": 227,
+   "speaker": "Гэндо",
+   "text": "「Изучив доклад доктора Акаги, я заключил,\n　что превращение ЕВЫ-01 не связано со слиянием\n　пространства-времени и её можно использовать.」",
+   "orig": "Gendo\n「After considering Dr. Akagi's report, I've concluded \n　that Unit-01's transformation was unconnected to \n　the space-time fusion, and we may continue using it. 」"
+  },
+  {
+   "i": 228,
+   "speaker": "Гэндо",
+   "text": "「ЕВЫ-00, -01 и -02 могут и дальше\n　действовать совместно с «Лондо Белл»,\n　и к ним можно добавить ЕВУ-08.」",
+   "orig": "Gendo\n「You may go on allowing Units-00, -01, and -02 to\n　work in cooperation with Londo Bell,\n　and we can add Unit-08 as well.」"
+  },
+  {
+   "i": 229,
+   "speaker": "Мисато",
+   "text": "「А как быть с ЕВОЙ-13?」",
+   "orig": "Misato\n「What about Unit-13?」"
+  },
+  {
+   "i": 230,
+   "speaker": "Гэндо",
+   "text": "「Решение о том, какую машину получат пилоты,\n　оставляю тебе — ты будешь на месте.」",
+   "orig": "Gendo\n「I will leave the decision of which Unit\n　the pilots will use to you, as you will be on site.」"
+  },
+  {
+   "i": 231,
+   "speaker": "Мисато",
+   "text": "「Поняла.」",
+   "orig": "Misato\n「Understood.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Гэндо",
+   "text": "「Синдзи...」",
+   "orig": "Gendo\n「Shinji...」"
+  },
+  {
+   "i": 233,
+   "speaker": "Синдзи",
+   "text": "「Д-да...」",
+   "orig": "Shinji\n「Y-yes...」"
+  },
+  {
+   "i": 234,
+   "speaker": "Гэндо",
+   "text": "「Ты справился.」",
+   "orig": "Gendo\n「You did well.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Синдзи",
+   "text": "「А?」",
+   "orig": "Shinji\n「Huh?」"
+  },
+  {
+   "i": 236,
+   "speaker": "Гэндо",
+   "text": "「Тем, что NERV выстоял против Девятого и Десятого\n　Ангелов, мы во многом обязаны тебе.」",
+   "orig": "Gendo\n「Our success in defending NERV from the Ninth and Tenth\n　Angels is due in large part to your work.」"
+  },
+  {
+   "i": 237,
+   "speaker": "Синдзи",
+   "text": "「Отец...」",
+   "orig": "Shinji\n「Father...」"
+  },
+  {
+   "i": 238,
+   "speaker": "Гэндо",
+   "text": "「Тебе придётся сражаться снова..\n　Но прежде я хочу, чтобы ты съездил со мной в одно место.」",
+   "orig": "Gendo\n「You will have to fight again..\n　But before that, I'd like you to come somewhere with me.」"
+  },
+  {
+   "i": 239,
+   "speaker": "Синдзи",
+   "text": "「Куда?」",
+   "orig": "Shinji\n「Where to?」"
+  },
+  {
+   "i": 240,
+   "speaker": "Гэндо",
+   "text": "「На могилу твоей матери.」",
+   "orig": "Gendo\n「To your mother's grave.」"
+  },
+  {
+   "i": 241,
+   "speaker": "Синдзи",
+   "text": "「А...」",
+   "orig": "Shinji\n「Oh...」"
+  },
+  {
+   "i": 242,
+   "speaker": "Гэндо",
+   "text": "「Если не хочешь...」",
+   "orig": "Gendo\n「If you'd rather not...」"
+  },
+  {
+   "i": 243,
+   "speaker": "Синдзи",
+   "text": "「Нет, я поеду...」",
+   "orig": "Shinji\n「No, I'll go...」"
+  },
+  {
+   "i": 244,
+   "speaker": "Синдзи",
+   "text": "「Но взамен я хочу,\n　чтобы ты кое-что сделал вместе со мной.」",
+   "orig": "Shinji\n「But in return, I'd like you\n　to do something with me.」"
+  },
+  {
+   "i": 245,
+   "speaker": "Гэндо",
+   "text": "「И что же?」",
+   "orig": "Gendo\n「What's that?」"
+  },
+  {
+   "i": 246,
+   "speaker": "Синдзи",
+   "text": "「Когда всё утихнет, я хочу вместе с тобой\n　поесть домашнего мисо-супа Аянами.」",
+   "orig": "Shinji\n「Once things have calmed down, I'd like to enjoy\n　some of Ayanami's homemade miso soup with you.」"
+  },
+  {
+   "i": 247,
+   "speaker": "Гэндо",
+   "text": "「...Хорошо.」",
+   "orig": "Gendo\n「...OK.」"
+  },
+  {
+   "i": 248,
+   "speaker": "Синдзи",
+   "text": "「Спасибо, отец.」",
+   "orig": "Shinji\n「Thank you, father.」"
+  },
+  {
+   "i": 249,
+   "speaker": "Гэндо",
+   "text": "「Времени у нас немного.\n　Вы выдвигаетесь через час.」",
+   "orig": "Gendo\n「We don't have much time left.\n　You're leaving in an hour.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Синдзи",
+   "text": "「Я знаю.\n　Пойду собираться.」",
+   "orig": "Shinji\n「I know.\n　I'll go get ready.」"
+  },
+  {
+   "i": 251,
+   "speaker": "Мисато",
+   "text": "「В таком случае, командующий, разрешите идти.」",
+   "orig": "Misato\n「Very well then, Commander, if you'll excuse me.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Гэндо",
+   "text": "「...」",
+   "orig": "Gendo\n「...」"
+  },
+  {
+   "i": 253,
+   "speaker": "Гэндо",
+   "text": "「Правильно ли я поступаю, Юи?」",
+   "orig": "Gendo\n「Am I doing the right thing, Yui?」"
+  },
+  {
+   "i": 257,
+   "speaker": "Каору",
+   "text": "「Так вот он, корабль, несущий наши надежды...」",
+   "orig": "Kaworu\n「So this is the ship carrying our hopes...」"
+  },
+  {
+   "i": 258,
+   "speaker": "Найн",
+   "text": "「А вы кто?」",
+   "orig": "Nine\n「And you are?」"
+  },
+  {
+   "i": 259,
+   "speaker": "Каору",
+   "text": "「Я Каору Нагиса...\n　Очень приятно.」",
+   "orig": "Kaworu\n「I'm Kaworu Nagisa...\n　It's a pleasure to meet you.」"
+  },
+  {
+   "i": 260,
+   "speaker": "Найн",
+   "text": "「Я спрашиваю не имя. Я хочу знать,\n　что вы такое.」",
+   "orig": "Nine\n「I am not asking your name, what I'd like to know\n　is what exactly you are.」"
+  },
+  {
+   "i": 261,
+   "speaker": "Каору",
+   "text": "「Это тебе придётся выяснить самой.」",
+   "orig": "Kaworu\n「You'll have to figure that out yourself.」"
+  },
+  {
+   "i": 262,
+   "speaker": "Каору",
+   "text": "「Тебе это пойдёт на пользу — возможно,\n　именно так ты и добьёшься успеха во всём этом.」",
+   "orig": "Kaworu\n「It'll be good for you, it might\n　help you find success in all this.」"
+  },
+  {
+   "i": 263,
+   "speaker": "Найн",
+   "text": "「...」",
+   "orig": "Nine\n「...」"
+  },
+  {
+   "i": 264,
+   "speaker": "Найн",
+   "text": "「Пожалуй, он прав.」",
+   "orig": "Nine\n「I think he might be right.」"
+  },
+  {
+   "i": 265,
+   "speaker": "Найн",
+   "text": "「От одних лишь попыток проанализировать его\n　самого и то копьё мои тактические мощности\n　получили данных на 500 ТакО.」",
+   "orig": "Nine\n「By simply trying to analyze his presence and that spear,\n　my tactical processing capacity has earned data\n　equivalent to 500 TAC points.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Найн",
+   "text": "「Правда о «ЕВЕ»...\n　Чувствую, погоня за этой загадкой\n　окажется для меня очень ценной.」",
+   "orig": "Nine\n「The truth about EVA...\n　I feel like chasing after that\n　mystery is going to be very valuable to me.」"
+  }
+ ]
+}

@@ -1,0 +1,1918 @@
+{
+ "blocks": [
+  {
+   "i": 3,
+   "speaker": "　",
+   "text": "　　\n　　　　　　　-Командный центр Арзенала-",
+   "orig": "　\n　　\n　　　　　　　　-Arzenal Command Center-"
+  },
+  {
+   "i": 4,
+   "speaker": "Джилл",
+   "text": "「Всё кончено. Всё кончено.」",
+   "orig": "Jill\n「It's over. It's all over.」"
+  },
+  {
+   "i": 5,
+   "speaker": "Сумераги",
+   "text": "「…」",
+   "orig": "Sumeragi\n「...」"
+  },
+  {
+   "i": 6,
+   "speaker": "Мэгги",
+   "text": "「…」",
+   "orig": "Maggie\n「...」"
+  },
+  {
+   "i": 7,
+   "speaker": "Жасмин",
+   "text": "「…」",
+   "orig": "Jasmine\n「...」"
+  },
+  {
+   "i": 8,
+   "speaker": "Джилл",
+   "text": "「Анж в руках Эмбрио,\n　«Вилькисс» потерян в море,\n　а что до «Либертуса»… что ж…」",
+   "orig": "Jill\n「Ange is in Embryo's hands, \n　Villkiss is lost at sea,\n　and as for Libertus, well...」"
+  },
+  {
+   "i": 9,
+   "speaker": "Мэгги",
+   "text": "「Держись, Алектра!\n　Мы рядом, и мы всё ещё верим в тебя!\n　Не смотри так!」",
+   "orig": "Maggie\n「You have to hang in there, Alektra!\n　We're here, and we still believe in you!\n　Don't look like that!」"
+  },
+  {
+   "i": 10,
+   "speaker": "Джилл",
+   "text": "「Ух…」",
+   "orig": "Jill\n「Ugh...」"
+  },
+  {
+   "i": 11,
+   "speaker": "Жасмин",
+   "text": "「Хм. Если наш командир так легко сдаётся,\n　то за что мы всё это время дрались?」",
+   "orig": "Jasmine\n「Hmph. If our commander gives up this easily,\n　what have we been fighting for all this time?」"
+  },
+  {
+   "i": 12,
+   "speaker": "Сумераги",
+   "text": "「«Либертус» ещё не кончен, Джилл.\n　А вот ты, похоже, кончена.」",
+   "orig": "Sumeragi\n「Libertus isn't done for, Jill,\n　but it sure looks like you are.」"
+  },
+  {
+   "i": 13,
+   "speaker": "Джилл",
+   "text": "「…」",
+   "orig": "Jill\n「...」"
+  },
+  {
+   "i": 14,
+   "speaker": "Сумераги",
+   "text": "「Расскажи нам, что было\n　между тобой и Эмбрио.」",
+   "orig": "Sumeragi\n「Tell us what happened\n　between you and Embryo.」"
+  },
+  {
+   "i": 15,
+   "speaker": "Сумераги",
+   "text": "「Сперва я думала, что ты держишься за «Либертус»\n　из чувства долга и любви к этому миру.」",
+   "orig": "Sumeragi\n「At first, I thought that your insistence on Libertus\n　came from your sense of duty and love of the world.」"
+  },
+  {
+   "i": 16,
+   "speaker": "Сумераги",
+   "text": "「Но теперь — нет.\n　Ты сражаешься ради мести\n　самому Эмбрио.」",
+   "orig": "Sumeragi\n「But, not anymore.\n　You're fighting to get revenge\n　on Embryo himself.」"
+  },
+  {
+   "i": 17,
+   "speaker": "Мэгги",
+   "text": "「Алектра…\n　Это правда?\n　Ты уже встречалась с ним раньше?」",
+   "orig": "Maggie\n「Alektra...\n　Is it true?\n　Have you run into him before?」"
+  },
+  {
+   "i": 18,
+   "speaker": "Джилл",
+   "text": "「Я была…」",
+   "orig": "Jill\n「I was...」"
+  },
+  {
+   "i": 19,
+   "speaker": "Джилл",
+   "text": "「Я… я была одной из марионеток Эмбрио.」",
+   "orig": "Jill\n「I...I was one of Embryo's puppets.」"
+  },
+  {
+   "i": 20,
+   "speaker": "Мэгги",
+   "text": "「Что?!」",
+   "orig": "Maggie\n「What?!」"
+  },
+  {
+   "i": 21,
+   "speaker": "Жасмин",
+   "text": "「Алектра… что он с тобой…」",
+   "orig": "Jasmine\n「Alektra... what did he...」"
+  },
+  {
+   "i": 22,
+   "speaker": "Сумераги",
+   "text": "「Такой же, какими сейчас стали Салия и остальные.」",
+   "orig": "Sumeragi\n「I was just like Salia and the rest are now.」"
+  },
+  {
+   "i": 23,
+   "speaker": "Джилл",
+   "text": "「Он подчинил мой разум и отнял у меня всё.\n　Честь, долг… и мою чистоту.」",
+   "orig": "Jill\n「He controlled my mind, and stole everything\n　from me. My honor, my duty...my purity.」"
+  },
+  {
+   "i": 24,
+   "speaker": "Джилл",
+   "text": "「Это было чудовищно.\n　Ради него я отреклась от всего, что было мне дорого.」",
+   "orig": "Jill\n「It was terrifying.\n　I abandoned everything I cared about for him.」"
+  },
+  {
+   "i": 25,
+   "speaker": "Джилл",
+   "text": "「Долг освободить норм, дружба с товарищами,\n　жажда справедливости… всё исчезло.」",
+   "orig": "Jill\n「My mission to free the Norma, my relationships\n　with comrades, my desire for justice...all gone.」"
+  },
+  {
+   "i": 26,
+   "speaker": "Мэгги",
+   "text": "「Почему ты молчала?!」",
+   "orig": "Maggie\n「Why didn't you say anything?!」"
+  },
+  {
+   "i": 27,
+   "speaker": "Джилл",
+   "text": "「А что я могла сказать?!\n　Я отправилась убить Эмбрио,\n　а он забрал у меня саму душу.」",
+   "orig": "Jill\n「What could I have said?!\n　I went to kill Embryo, \n　but instead he took my very soul.」"
+  },
+  {
+   "i": 28,
+   "speaker": "Мэгги",
+   "text": "「Ох…」",
+   "orig": "Maggie\n「Oh...」"
+  },
+  {
+   "i": 29,
+   "speaker": "Джилл",
+   "text": "「Это всё моя вина.\n　Провал «Либертуса», гибель моих друзей…\n　Всё на мне.」",
+   "orig": "Jill\n「This is all my fault.\n　When I failed at Libertus, when my friends died...\n　It's all on me.」"
+  },
+  {
+   "i": 30,
+   "speaker": "Джилл",
+   "text": "「И ради меня, такой жалкой, погибло столько людей…\n　Родители Таска, сестра Мэй, и ещё многие.」",
+   "orig": "Jill\n「And to help me, in all my shame,\n　so many died... Tusk's parents, Mei's sister, so many.」"
+  },
+  {
+   "i": 31,
+   "speaker": "Жасмин",
+   "text": "「Алектра…」",
+   "orig": "Jasmine\n「Alektra...」"
+  },
+  {
+   "i": 32,
+   "speaker": "Джилл",
+   "text": "「Расплатиться за это можно лишь одним.\n　Я должна убить Эмбрио.\n　Больше у меня ничего не осталось.」",
+   "orig": "Jill\n「There is only one way to repay that.\n　I must kill Embryo.\n　That's the only thing I have left.」"
+  },
+  {
+   "i": 33,
+   "speaker": "Джилл",
+   "text": "「Но теперь…」",
+   "orig": "Jill\n「But now...」"
+  },
+  {
+   "i": 34,
+   "speaker": "Эмма",
+   "text": "「Уф, чего это у вас такие кислые лица?」",
+   "orig": "Emma\n「Oof, what's with all the long faces?」"
+  },
+  {
+   "i": 35,
+   "speaker": "Сумераги",
+   "text": "「Инспектор Эмма…」",
+   "orig": "Sumeragi\n「Inspector Emma...」"
+  },
+  {
+   "i": 36,
+   "speaker": "Жасмин",
+   "text": "「Ты опять пьяна?」",
+   "orig": "Jasmine\n「Are you drunk again?」"
+  },
+  {
+   "i": 37,
+   "speaker": "Сумераги",
+   "text": "「Опять?!」",
+   "orig": "Sumeragi\n「Again?!」"
+  },
+  {
+   "i": 38,
+   "speaker": "Мэгги",
+   "text": "「После нападения на Арзенал она понемногу\n　узнавала и про Эмбрио, и про то,\n　как на самом деле устроен мир.」",
+   "orig": "Maggie\n「She's been learning about Embryo\n　and the real state of the world little by little\n　ever since the attack on Arzenal.」"
+  },
+  {
+   "i": 39,
+   "speaker": "Мэгги",
+   "text": "「И от этого потрясения\n　её, похоже, потянуло к бутылке…」",
+   "orig": "Maggie\n「And the shock seems to \n　have driven her to drink...」"
+  },
+  {
+   "i": 40,
+   "speaker": "Жасмин",
+   "text": "「Теперь она такая же жертва, как и мы.」",
+   "orig": "Jasmine\n「She is also a victim now.」"
+  },
+  {
+   "i": 41,
+   "speaker": "Сумераги",
+   "text": "「Хм…」",
+   "orig": "Sumeragi\n「Hm...」"
+  },
+  {
+   "i": 42,
+   "speaker": "Эмма",
+   "text": "「В чём дело, командир?\n　Вечно расхаживаешь с таким важным видом,\n　а сегодня что-то притихла!」",
+   "orig": "Emma\n「What's the matter, Commander?\n　You're always walking around so high and mighty,\n　but today you sure are quiet!」"
+  },
+  {
+   "i": 43,
+   "speaker": "Джилл",
+   "text": "「…」",
+   "orig": "Jill\n「...」"
+  },
+  {
+   "i": 44,
+   "speaker": "Эмма",
+   "text": "「Ну так давай, взорви этот мир!\n　Он всё равно сплошное враньё…」",
+   "orig": "Emma\n「Well, go on, blow up the world!\n　It's just a pile of lies, anyway...」"
+  },
+  {
+   "i": 45,
+   "speaker": "Джилл",
+   "text": "「Я… я больше так не могу.」",
+   "orig": "Jill\n「I...I can't do this anymore.」"
+  },
+  {
+   "i": 46,
+   "speaker": "Сумераги",
+   "text": "「Когда правда об Эмбрио,\n　Мане и Драконах выйдет наружу,\n　таких, как она, станет только больше!」",
+   "orig": "Sumeragi\n「When the truth about Embryo\n　and Mana and the Dragons comes out,\n　we'll just end up with more like her!」"
+  },
+  {
+   "i": 47,
+   "speaker": "Сумераги",
+   "text": "「Значит, придётся всё-таки\n　покончить с Эмбрио, как и задумано!」",
+   "orig": "Sumeragi\n「Well then, I guess we'll have to\n　take out Embryo like we planned!」"
+  },
+  {
+   "i": 48,
+   "speaker": "Джилл",
+   "text": "「Сумераги, о чём ты?」",
+   "orig": "Jill\n「Sumeragi, what are you saying?」"
+  },
+  {
+   "i": 49,
+   "speaker": "Сумераги",
+   "text": "「Жасмин, Мэгги…\n　Позаботьтесь, пожалуйста, об инспекторе.」",
+   "orig": "Sumeragi\n「Jasmine, Maggie...\n　Take care of the inspector, please.」"
+  },
+  {
+   "i": 50,
+   "speaker": "Мэгги",
+   "text": "「Хорошо, но что\n　ты собираешься делать?」",
+   "orig": "Maggie\n「That's fine, but what \n　are you planning to do?」"
+  },
+  {
+   "i": 51,
+   "speaker": "Сумераги",
+   "text": "「Поболтаю вот с этой неудачницей.」",
+   "orig": "Sumeragi\n「I'm going to have a chat with this loser here.」"
+  },
+  {
+   "i": 52,
+   "speaker": "Джилл",
+   "text": "「Это ты про меня?」",
+   "orig": "Jill\n「Do you mean me?」"
+  },
+  {
+   "i": 53,
+   "speaker": "Сумераги",
+   "text": "「Чувства неудачницы поймёт только другая неудачница.」",
+   "orig": "Sumeragi\n「Only another loser can understand a loser's feelings.」"
+  },
+  {
+   "i": 54,
+   "speaker": "Сумераги",
+   "text": "「Джилл…\n　Я расскажу тебе об отчаянии,\n　через которое прошли «Селестиал Бин» и я сама.」",
+   "orig": "Sumeragi\n「Jill...\n　I'm going to tell you about \n　the despair Celestial Being, and I, endured.」"
+  },
+  {
+   "i": 55,
+   "speaker": "Джилл",
+   "text": "「О каком отчаянии?」",
+   "orig": "Jill\n「What despair?」"
+  },
+  {
+   "i": 56,
+   "speaker": "Сумераги",
+   "text": "「О моих $kwbГодах никчёмной пьянчужки$kwe…」",
+   "orig": "Sumeragi\n「My $kwbTime as a Worthless Drunk$kwe...」"
+  },
+  {
+   "i": 60,
+   "speaker": "　",
+   "text": "　　\n　　　　　　-Каюта капитана «Туата де Данаан»-",
+   "orig": "　\n　　\n　　　　　　-Tuatha de Danaan Captain's Cabin-"
+  },
+  {
+   "i": 61,
+   "speaker": "Тесса",
+   "text": "「После вчерашнего боя сомнений нет…\n　Леонард и его люди\n　перебрались в этот мир.」",
+   "orig": "Tessa\n「After yesterday's battle, it's\n　certain... Leonard and his people\n　have come over to this world.」"
+  },
+  {
+   "i": 62,
+   "speaker": "Соскэ",
+   "text": "「Так точно.」",
+   "orig": "Sousuke\n「Yes.」"
+  },
+  {
+   "i": 63,
+   "speaker": "Тесса",
+   "text": "「И Канамэ, очевидно, тоже…」",
+   "orig": "Tessa\n「And, clearly, so has Kaname...」"
+  },
+  {
+   "i": 64,
+   "speaker": "Соскэ",
+   "text": "「Так точно.」",
+   "orig": "Sousuke\n「Yes.」"
+  },
+  {
+   "i": 65,
+   "speaker": "Тесса",
+   "text": "「Сагара…」",
+   "orig": "Tessa\n「Sagara...」"
+  },
+  {
+   "i": 66,
+   "speaker": "Соскэ",
+   "text": "「Да.」",
+   "orig": "Sousuke\n「Yes.」"
+  },
+  {
+   "i": 67,
+   "speaker": "Тесса",
+   "text": "「Ты всё ещё её любишь?」",
+   "orig": "Tessa\n「Do you still love her?」"
+  },
+  {
+   "i": 68,
+   "speaker": "Соскэ",
+   "text": "「Да.」",
+   "orig": "Sousuke\n「Yes.」"
+  },
+  {
+   "i": 69,
+   "speaker": "Тесса",
+   "text": "「Больше, чем меня?」",
+   "orig": "Tessa\n「More than me?」"
+  },
+  {
+   "i": 70,
+   "speaker": "Соскэ",
+   "text": "「…Да.」",
+   "orig": "Sousuke\n「...Yes.」"
+  },
+  {
+   "i": 71,
+   "speaker": "Тесса",
+   "text": "「И вот так прямо и сказал…」",
+   "orig": "Tessa\n「So, you just came out and said it...」"
+  },
+  {
+   "i": 72,
+   "speaker": "Соскэ",
+   "text": "「Простите…」",
+   "orig": "Sousuke\n「I'm sorry...」"
+  },
+  {
+   "i": 73,
+   "speaker": "Тесса",
+   "text": "（Он не оправдывается и не пытается меня утешить.\n　Нет, как раз наоборот.）",
+   "orig": "Tessa\n（He's not trying to make excuses or cheer me up.\n　No, just the opposite, in fact.）"
+  },
+  {
+   "i": 74,
+   "speaker": "Тесса",
+   "text": "（Я люблю тебя за эту искренность, Сагара…）",
+   "orig": "Tessa\n（I love your sincerity, Sagara...）"
+  },
+  {
+   "i": 75,
+   "speaker": "Соскэ",
+   "text": "「Капитан…」",
+   "orig": "Sousuke\n「Commander...」"
+  },
+  {
+   "i": 76,
+   "speaker": "Тесса",
+   "text": "「Сожалеть не о чем.\n　Мы сделаем всё, чтобы разбить\n　Леонарда и освободить Канамэ.」",
+   "orig": "Tessa\n「There's no reason for regret.\n　We'll do everything we can to \n　defeat Leonard and free Kaname.」"
+  },
+  {
+   "i": 77,
+   "speaker": "Соскэ",
+   "text": "「Но Тидори, похоже, присоединилась к…」",
+   "orig": "Sousuke\n「But, Chidori seems to have joined—」"
+  },
+  {
+   "i": 78,
+   "speaker": "Тесса",
+   "text": "「У меня есть несколько догадок,\n　чем объяснить такую резкую перемену.」",
+   "orig": "Tessa\n「I have several ideas about\n　how to explain her sudden change.」"
+  },
+  {
+   "i": 79,
+   "speaker": "Тесса",
+   "text": "「Что до Леонарда,\n　полагаю, это просто очередное проявление\n　его напористого характера.」",
+   "orig": "Tessa\n「As for Leonard,\n　I assume this is just another expression\n　of his aggressive personality.」"
+  },
+  {
+   "i": 80,
+   "speaker": "Соскэ",
+   "text": "「Хотите сказать, Тидори такая же?」",
+   "orig": "Sousuke\n「Are you saying Chidori is the same way?」"
+  },
+  {
+   "i": 81,
+   "speaker": "Тесса",
+   "text": "「А ты сам считаешь, что Тидори\n　свойственна такая черта?」",
+   "orig": "Tessa\n「So, do you think Chidori\n　shares that particular characteristic?」"
+  },
+  {
+   "i": 82,
+   "speaker": "Соскэ",
+   "text": "「…Нет.」",
+   "orig": "Sousuke\n「...No.」"
+  },
+  {
+   "i": 83,
+   "speaker": "Тесса",
+   "text": "「Вот и тебе это ясно.」",
+   "orig": "Tessa\n「Well, you should know.」"
+  },
+  {
+   "i": 84,
+   "speaker": "Тесса",
+   "text": "「Я допускала и контроль над разумом,\n　но Леонард слишком горд.\n　Он не стал бы прибегать к такой подлости.」",
+   "orig": "Tessa\n「I had considered the possibility of mind\n　control, but Leonard has too much pride.\n　He would never do something so sneaky.」"
+  },
+  {
+   "i": 85,
+   "speaker": "Соскэ",
+   "text": "「Мне кажется, будто это кто-то другой\n　просто притворяется Тидори.」",
+   "orig": "Sousuke\n「To me, it feels like there's someone\n　else just appearing to be Chidori.」"
+  },
+  {
+   "i": 86,
+   "speaker": "Тесса",
+   "text": "「Я пришла к тому же выводу.\n　Думаю, из этого предположения\n　нам и следует исходить.」",
+   "orig": "Tessa\n「I have come to the same conclusion.\n　So I think we should approach\n　her change from that assumption.」"
+  },
+  {
+   "i": 87,
+   "speaker": "Тесса",
+   "text": "「Дальше пойдут одни домыслы,\n　но хочешь услышать мои соображения?」",
+   "orig": "Tessa\n「Everything after this is pure speculation,\n　but would you like to hear my thoughts?」"
+  },
+  {
+   "i": 88,
+   "speaker": "Соскэ",
+   "text": "「Да, прошу вас.\n　Чтобы спасти её, я должен понять,\n　что с ней произошло.」",
+   "orig": "Sousuke\n「Yes, please.\n　I need to know what's happened to her\n　if I'm going to save her.」"
+  },
+  {
+   "i": 89,
+   "speaker": "Тесса",
+   "text": "「Сагара…\n　Тебе о чём-нибудь говорит название «Ямск-11»?」",
+   "orig": "Tessa\n「Sagara...\n　Have you ever heard of Yamsk 11?」"
+  },
+  {
+   "i": 90,
+   "speaker": "Соскэ",
+   "text": "「Нет…」",
+   "orig": "Sousuke\n「No...」"
+  },
+  {
+   "i": 91,
+   "speaker": "Тесса",
+   "text": "「Это научный город в Евразии, на нашей Земле.\n　Неудивительно, что ты о нём не слышал —\n　ты ведь из гражданских.」",
+   "orig": "Tessa\n「It's a research city in Eurasia, on our Earth.\n　It's natural you've never heard of it, \n　with your civilian background.」"
+  },
+  {
+   "i": 92,
+   "speaker": "Тесса",
+   "text": "「Именно там человечество впервые\n　вышло на связь с параллельным измерением.」",
+   "orig": "Tessa\n「It was there that humanity made contact\n　with a parallel dimension for the first time..」"
+  },
+  {
+   "i": 93,
+   "speaker": "Соскэ",
+   "text": "「Параллельным измерением…\n　То есть с этим, из Вселенского века?」",
+   "orig": "Sousuke\n「A parallel dimension...\n　Meaning, this Universal Century dimension?」"
+  },
+  {
+   "i": 94,
+   "speaker": "Тесса",
+   "text": "「Наверняка мы этого не знаем,\n　но я полагаю, что к началу тех работ\n　приложил руку клан Драконов.」",
+   "orig": "Tessa\n「We're not exactly sure of that,\n　but I believe that the Dragon clan \n　had a hand in beginning that research.」"
+  },
+  {
+   "i": 95,
+   "speaker": "Тесса",
+   "text": "「Среди её сородичей есть и другие,\n　подобные Саламандинэй, — те, кто хочет\n　снять запрет на связь с иными мирами.」",
+   "orig": "Tessa\n「There are others like Salamandinay\n　among her people, wishing to \n　break the ban on contacting other worlds.」"
+  },
+  {
+   "i": 96,
+   "speaker": "Тесса",
+   "text": "「Вполне разумно допустить, что кто-то такой\n　и помог Ямску-11.」",
+   "orig": "Tessa\n「It doesn't seem unreasonable to assume that\n　such a person could have aided Yamsk 11.」"
+  },
+  {
+   "i": 97,
+   "speaker": "Соскэ",
+   "text": "「А это место как-то связано с Тидори?」",
+   "orig": "Sousuke\n「Does that place have anything to do with Chidori?」"
+  },
+  {
+   "i": 98,
+   "speaker": "Тесса",
+   "text": "「$kwbШептуны$kwe появились\n　в результате тамошнего эксперимента.」",
+   "orig": "Tessa\n「The $kwbWhispered$kwe were created\n　from an experiment done there.」"
+  },
+  {
+   "i": 99,
+   "speaker": "Соскэ",
+   "text": "「Что?!」",
+   "orig": "Sousuke\n「What?!」"
+  },
+  {
+   "i": 100,
+   "speaker": "Тесса",
+   "text": "「Это было 18 лет назад.\n　Ямском-11 руководил гениальный\n　учёный по имени Дмитрий Валов.」",
+   "orig": "Tessa\n「It was 18 years ago.\n　The head of Yamsk 11 was a genius\n　scientist named Dmitri Valov.」"
+  },
+  {
+   "i": 101,
+   "speaker": "Тесса",
+   "text": "「Всё началось с его исследований.」",
+   "orig": "Tessa\n「His research started it all off.」"
+  },
+  {
+   "i": 102,
+   "speaker": "Соскэ",
+   "text": "「Но как именно ему удалось\n　связаться с другой вселенной?」",
+   "orig": "Sousuke\n「But, how exactly did he manage\n　to make contact with another universe?」"
+  },
+  {
+   "i": 103,
+   "speaker": "Тесса",
+   "text": "「Он использовал человеческие пси-волны.」",
+   "orig": "Tessa\n「He did it by using human psychic waves.」"
+  },
+  {
+   "i": 104,
+   "speaker": "Тесса",
+   "text": "「Блок расчёта бозонного прыжка улавливает волю\n　прыгуна класса А через пси-волны,\n　и это позволяет пробить барьеры измерений.」",
+   "orig": "Tessa\n「The Boson Jump Calculation Unit picks up on\n　an Class-A Jumper's will through psychic waves, \n　allowing it to breach dimensional barriers.」"
+  },
+  {
+   "i": 105,
+   "speaker": "Тесса",
+   "text": "「Дмитрий это понял и начал работать\n　с псикоммю, который Зеон\n　только-только разработал.」",
+   "orig": "Tessa\n「Dmitri figured that out, and began\n　working with the Psycommu that\n　Zeon had only just developed.」"
+  },
+  {
+   "i": 106,
+   "speaker": "Соскэ",
+   "text": "「Значит, пси-волны проходят сквозь барьеры измерений?」",
+   "orig": "Sousuke\n「So psychic waves can pass through dimensional barriers?」"
+  },
+  {
+   "i": 107,
+   "speaker": "Тесса",
+   "text": "「Он верил, что легендарный мир духа\n　можно поставить на службу науке.」",
+   "orig": "Tessa\n「He believed that the spiritual world of legend\n　could be exploited for scientific research.」"
+  },
+  {
+   "i": 108,
+   "speaker": "Тесса",
+   "text": "「И это легло в основу Омнисферы —\n　той, что вмещает в себя всё.」",
+   "orig": "Tessa\n「And that became the basis for \n　the Omnisphere, that which holds all within.」"
+  },
+  {
+   "i": 109,
+   "speaker": "Соскэ",
+   "text": "「Ах вот как… и ТАРОС, который\n　вы установили на «Де Данаан»…」",
+   "orig": "Sousuke\n「Oh...and the TAROS which\n　you installed on the de Danaan...」"
+  },
+  {
+   "i": 110,
+   "speaker": "Тесса",
+   "text": "「Именно. Это сокращение от\n　Transfer And Response Omnisphere.」",
+   "orig": "Tessa\n「Exactly. It is short for\n　Transfer And Response Omnisphere.」"
+  },
+  {
+   "i": 111,
+   "speaker": "Соскэ",
+   "text": "「А Лямбда-драйвер?」",
+   "orig": "Sousuke\n「And the Lambda Driver?」"
+  },
+  {
+   "i": 112,
+   "speaker": "Тесса",
+   "text": "「Верно. В его основе лежит\n　технология Омнисферы.」",
+   "orig": "Tessa\n「Indeed. Its technology is based on\n　the Omnisphere.」"
+  },
+  {
+   "i": 113,
+   "speaker": "Соскэ",
+   "text": "「Шептуны… Лямбда-драйвер…\n　Всё это точки на одной прямой…」",
+   "orig": "Sousuke\n「The Whispered...The Lambda Driver... \n　They are all points on the same line...」"
+  },
+  {
+   "i": 114,
+   "speaker": "Тесса",
+   "text": "「Самый первый ТАРОС Дмитрий создавал для того,\n　чтобы через пси-волны связаться с другой вселенной.」",
+   "orig": "Tessa\n「The very first TAROS Dmitri developed was to\n　utilize psychic waves to contact a parallel universe.」"
+  },
+  {
+   "i": 115,
+   "speaker": "Тесса",
+   "text": "「Он подходил к своей цели всё ближе,\n　снова и снова ставя опыты на живых людях.」",
+   "orig": "Tessa\n「He drew closer and closer to his goal\n　through repeated tests on live subjects.」"
+  },
+  {
+   "i": 116,
+   "speaker": "Тесса",
+   "text": "「Однако 18 лет назад, при испытании на полной\n　мощности, ТАРОС вышел из-под контроля.」",
+   "orig": "Tessa\n「However, during a full power test 18 years ago,\n　the TAROS went out of control.」"
+  },
+  {
+   "i": 117,
+   "speaker": "Тесса",
+   "text": "「Ямск-11 полностью захлестнуло\n　пси-волнами, город превратился в руины,\n　и его закрыли на карантин.」",
+   "orig": "Tessa\n「Yamsk 11 was completely inundated with psychic\n　waves, the city was left in ruins, and \n　it was put under quarantine.」"
+  },
+  {
+   "i": 118,
+   "speaker": "Тесса",
+   "text": "「Через Омнисферу тогда прошёл резонанс\n　пси-волн самых разных видов.」",
+   "orig": "Tessa\n「There were many different types of psychic waves\n　that resonated through the Omnisphere.」"
+  },
+  {
+   "i": 119,
+   "speaker": "Тесса",
+   "text": "「Один из них — иота-волна, которая и отравила\n　жителей Ямска-11; она слабеет тем сильнее,\n　чем дальше уходит от источника.」",
+   "orig": "Tessa\n「One type, which contaminated the people of Yamsk 11, \n　was the Iota wave, which grows\n　weaker the farther from the source it travels.」"
+  },
+  {
+   "i": 120,
+   "speaker": "Тесса",
+   "text": "「Другой — тау-волна,\n　она способна идти бесконечно,\n　ничуть не теряя в силе.」",
+   "orig": "Tessa\n「Another is the Tau wave,\n　which can travel endlessly without\n　any decrease in strength.」"
+  },
+  {
+   "i": 121,
+   "speaker": "Тесса",
+   "text": "「На большинство людей тау-волны почти не\n　действуют. Но надо полагать, что тогда они\n　накрыли собой всю Землю.」",
+   "orig": "Tessa\n「Tau waves have hardly any ill effects on \n　most people. However, it must be\n　assumed that they blanketed the entire Earth.」"
+  },
+  {
+   "i": 122,
+   "speaker": "Соскэ",
+   "text": "「И никто ничего не заметил?」",
+   "orig": "Sousuke\n「And no one noticed?」"
+  },
+  {
+   "i": 123,
+   "speaker": "Тесса",
+   "text": "「Да, ведь на тело они почти не влияют.\n　Но есть несколько исключений.」",
+   "orig": "Tessa\n「Right, since they have almost no physical effect.\n　However, there are a few exceptions.」"
+  },
+  {
+   "i": 124,
+   "speaker": "Тесса",
+   "text": "「ТАРОС вышел из-под контроля 24 декабря.」",
+   "orig": "Tessa\n「The TAROS went out of control on December 24.」"
+  },
+  {
+   "i": 125,
+   "speaker": "Соскэ",
+   "text": "「18 лет назад? Но это же… день рождения Тидори!」",
+   "orig": "Sousuke\n「18 years ago? That's...that's Chidori's birthday!」"
+  },
+  {
+   "i": 126,
+   "speaker": "Тесса",
+   "text": "「И мой, и Леонарда…\n　Если на то пошло, это день рождения\n　всех известных нам Шептунов.」",
+   "orig": "Tessa\n「And mine, and Leonard's...\n　In fact, it's the birthday of every known \n　Whispered in existence.」"
+  },
+  {
+   "i": 127,
+   "speaker": "Соскэ",
+   "text": "「Что?!」",
+   "orig": "Sousuke\n「What?!」"
+  },
+  {
+   "i": 128,
+   "speaker": "Тесса",
+   "text": "「Из-за того случая с ТАРОСом 18 лет назад\n　Земля примерно на три минуты\n　оказалась накрыта тау-волнами.」",
+   "orig": "Tessa\n「The TAROS event 18 years ago\n　led to the Earth being covered in\n　Tau waves for about three minutes.」"
+  },
+  {
+   "i": 129,
+   "speaker": "Тесса",
+   "text": "「Эти волны изменили новорождённых по всему миру.\n　Все эти дети — то есть мы — и есть Шептуны.」",
+   "orig": "Tessa\n「Those waves changed newborns around the world.\n　Those children, we, are all Whispered.」"
+  },
+  {
+   "i": 130,
+   "speaker": "Соскэ",
+   "text": "「И за эти три минуты\n　в ваших мозгах родилась технология Шептунов?」",
+   "orig": "Sousuke\n「Within those three minutes,\n　the Whispered technology was born in your brains?」"
+  },
+  {
+   "i": 131,
+   "speaker": "Тесса",
+   "text": "「Вовсе нет.」",
+   "orig": "Tessa\n「Not at all.」"
+  },
+  {
+   "i": 132,
+   "speaker": "Тесса",
+   "text": "「Я думаю, через Омнисферу\n　мы получили способность принимать\n　пси-волны из какой-то другой вселенной.」",
+   "orig": "Tessa\n「I believe that through the Omnisphere,\n　we were given the ability to receive \n　psychic waves from some other universe.」"
+  },
+  {
+   "i": 133,
+   "speaker": "Соскэ",
+   "text": "「Значит, всё своё особое знание\n　Шептуны получают из другого мира.」",
+   "orig": "Sousuke\n「The Whispered all receive their\n　special knowledge from another world.」"
+  },
+  {
+   "i": 134,
+   "speaker": "Тесса",
+   "text": "「Тех, кто шлёт Шептунам эти сведения,\n　принято называть Шепчущими.」",
+   "orig": "Tessa\n「The ones who are sending the Whispered\n　this information have been designated Whisperers.」"
+  },
+  {
+   "i": 135,
+   "speaker": "Тесса",
+   "text": "「При рождении мы получили именно\n　способность понимать Шепчущих\n　на самом глубинном уровне.」",
+   "orig": "Tessa\n「When we were born, the ability to \n　understand the Whisperers\n　at a fundamental level is what we received.」"
+  },
+  {
+   "i": 136,
+   "speaker": "Тесса",
+   "text": "「А дальше полученные нами научные разработки\n　начали менять этот мир.」",
+   "orig": "Tessa\n「And from there, the scientific techniques that we\n　were given began to change the world.」"
+  },
+  {
+   "i": 137,
+   "speaker": "Тесса",
+   "text": "「Наверное, поэтому наше измерение, у которого\n　с измерением NCC, откуда «Ямато», столько общей\n　истории, в какой-то момент свернуло на свой путь.」",
+   "orig": "Tessa\n「This must be the reason that our dimension,\n　which shared so much history with the NCC dimension\n　of Yamato, took a different path along the way.」"
+  },
+  {
+   "i": 138,
+   "speaker": "Соскэ",
+   "text": "「Искажённый мир…」",
+   "orig": "Sousuke\n「A warped world...」"
+  },
+  {
+   "i": 139,
+   "speaker": "Соскэ",
+   "text": "「Майор Калинин как-то сказал мне, что появление\n　здесь такого оружия, как AS, — это аномалия,\n　и именно она исказила мир…」",
+   "orig": "Sousuke\n「Major Kalinin once told me that weapons \n　appearances here, like the AS, was abnormal,\n　and that is what warped the world...」"
+  },
+  {
+   "i": 140,
+   "speaker": "Тесса",
+   "text": "「Возможно, именно из-за таких мыслей\n　он и оставил нас,\n　перейдя на сторону Леонарда.」",
+   "orig": "Tessa\n「It could be that the reason he\n　left us and went over to Leonard \n　has to do with that way of thinking.」"
+  },
+  {
+   "i": 141,
+   "speaker": "Тесса",
+   "text": "「Если принять, что наш мир искажён, то никто\n　не возьмётся предсказать, каким будет его будущее.」",
+   "orig": "Tessa\n「No one can predict what our future will look like,\n　if you accept the idea that our world has been warped.」"
+  },
+  {
+   "i": 142,
+   "speaker": "Соскэ",
+   "text": "「Хорошо, про рождение Шептунов и про то,\n　как они повлияли на мир, я, кажется, понял.\n　Но при чём тут Тидори?」",
+   "orig": "Sousuke\n「OK, so I think I understand about the \n　birth of the Whispered and their effect on the world,\n　but what does that have to do with Chidori?」"
+  },
+  {
+   "i": 143,
+   "speaker": "Тесса",
+   "text": "「Наши разведчики всё это время\n　отслеживали передвижения Леонарда и его людей.」",
+   "orig": "Tessa\n「Our intelligence hunters have been\n　tracking Leonard and his team's movements.」"
+  },
+  {
+   "i": 144,
+   "speaker": "Тесса",
+   "text": "「И мы выяснили, что они\n　побывали в руинах Ямска-11.」",
+   "orig": "Tessa\n「We've discovered that they \n　made a visit to the ruins of Yamsk 11.」"
+  },
+  {
+   "i": 145,
+   "speaker": "Соскэ",
+   "text": "「Что им понадобилось в месте,\n　которое лежит в руинах уже 18 лет?」",
+   "orig": "Sousuke\n「What business could they have\n　at a place that's been in ruins for 18 years?」"
+  },
+  {
+   "i": 146,
+   "speaker": "Тесса",
+   "text": "「Должно быть, они хотели встретиться с ней.」",
+   "orig": "Tessa\n「They must have wanted to meet her.」"
+  },
+  {
+   "i": 147,
+   "speaker": "Соскэ",
+   "text": "「С ней?」",
+   "orig": "Sousuke\n「Her?」"
+  },
+  {
+   "i": 148,
+   "speaker": "Тесса",
+   "text": "「С подопытной того эксперимента 18 лет назад.\n　Девушка вышла на связь с другим миром, но не\n　вынесла бремени своей силы… и погибла.」",
+   "orig": "Tessa\n「The subject of the experiment 18 years ago. The young\n　woman who made contact with another world, but\n　was unable to bear the burden of her power...and died.」"
+  },
+  {
+   "i": 149,
+   "speaker": "Тесса",
+   "text": "「В найденных записях сказано,\n　что её звали София.」",
+   "orig": "Tessa\n「We found records indicating that\n　her name was Sophia.」"
+  },
+  {
+   "i": 150,
+   "speaker": "Соскэ",
+   "text": "「И как она связана с Тидори?」",
+   "orig": "Sousuke\n「And what's her connection to Chidori?」"
+  },
+  {
+   "i": 151,
+   "speaker": "Тесса",
+   "text": "「Она давно мертва, но её дух\n　продолжает жить в Омнисфере.」",
+   "orig": "Tessa\n「She is already dead, but\n　her spirit lives on in the Omnisphere.」"
+  },
+  {
+   "i": 152,
+   "speaker": "Тесса",
+   "text": "「Именно она доносит до нас голоса\n　Шепчущих из другого мира —\n　она шлёт нам данные Чёрной технологии.」",
+   "orig": "Tessa\n「She is the one who passes on the \n　Whisperers from another world,\n　who sends us the data for Black Technology.」"
+  },
+  {
+   "i": 153,
+   "speaker": "Тесса",
+   "text": "「Видимо, Леонард хотел использовать Софию\n　в своих целях — потому и отправился в Ямск-11.」",
+   "orig": "Tessa\n「Leonard must have wanted to use Sophia\n　for his own ends, and so went to Yamsk 11.」"
+  },
+  {
+   "i": 154,
+   "speaker": "Тесса",
+   "text": "「И я считаю, что Тидори захватило\n　то, что осталось от её сознания.」",
+   "orig": "Tessa\n「And so I believe that Chidori has been taken \n　over by what is left of her psyche.」"
+  },
+  {
+   "i": 155,
+   "speaker": "Соскэ",
+   "text": "「То есть в неё словно вселился дух?!」",
+   "orig": "Sousuke\n「Like she's been possessed by a spirit?!」"
+  },
+  {
+   "i": 156,
+   "speaker": "Тесса",
+   "text": "「Поверить в это непросто,\n　но я пришла именно к такому выводу.」",
+   "orig": "Tessa\n「It may sound hard to believe,\n　but that's the conclusion I've reached.」"
+  },
+  {
+   "i": 157,
+   "speaker": "Тесса",
+   "text": "「Я уже рассказывала тебе про $kwbРезонанс$kwe,\n　который возможен между Шептунами, —\n　считай это иной его формой.」",
+   "orig": "Tessa\n「I have already told you about the $kwbResonance$kwe\n　that Whispered can share with each other,\n　think of it as a different form of that.」"
+  },
+  {
+   "i": 158,
+   "speaker": "Соскэ",
+   "text": "「Значит, с Леонардом сейчас заодно\n　эта София, захватившая Тидори…」",
+   "orig": "Sousuke\n「So it's this Sophia who's taken over Chidori\n　that's working with Leonard now...」"
+  },
+  {
+   "i": 159,
+   "speaker": "Тесса",
+   "text": "「Если это и правда одна из форм Резонанса,\n　то граница между сознаниями Софии и Канамэ\n　может быть вовсе не такой чёткой.」",
+   "orig": "Tessa\n「If this truly is a form of Resonance,\n　then the boundaries between Sophia's and Kaname's \n　consciousness may not be so clear.」"
+  },
+  {
+   "i": 160,
+   "speaker": "Соскэ",
+   "text": "「Большое спасибо, капитан.」",
+   "orig": "Sousuke\n「Thank you very much, Commander.」"
+  },
+  {
+   "i": 161,
+   "speaker": "Тесса",
+   "text": "「Сагара…」",
+   "orig": "Tessa\n「Sagara...」"
+  },
+  {
+   "i": 162,
+   "speaker": "Соскэ",
+   "text": "「Проще говоря, если вытащить Софию\n　из Тидори, та снова станет собой.」",
+   "orig": "Sousuke\n「So basically, if I can pull Sophia\n　out of Chidori, she'll return to herself.」"
+  },
+  {
+   "i": 163,
+   "speaker": "Тесса",
+   "text": "「Да, думаю, так, но…」",
+   "orig": "Tessa\n「Yes, I think so, but—」"
+  },
+  {
+   "i": 164,
+   "speaker": "Соскэ",
+   "text": "「Значит, именно это я и сделаю.」",
+   "orig": "Sousuke\n「Then that's what I'll have to do.」"
+  },
+  {
+   "i": 165,
+   "speaker": "Тесса",
+   "text": "「Но я так и не придумала,\n　как это осуществить.」",
+   "orig": "Tessa\n「But I haven't been able \n　to think of a way to do that.」"
+  },
+  {
+   "i": 166,
+   "speaker": "Соскэ",
+   "text": "「Тогда и с этим я помогу.\n　Я должен сдержать данное обещание.」",
+   "orig": "Sousuke\n「Then I'll help there, too.\n　I have to keep the promise I made.」"
+  },
+  {
+   "i": 170,
+   "speaker": "　",
+   "text": "　\n　　　　　　-Дворец Священной империи Мисуруги-",
+   "orig": "　\n　\n　　　　　　　-The Holy Misurugi Empire Palace-"
+  },
+  {
+   "i": 171,
+   "speaker": "Анж",
+   "text": "「Ух…」",
+   "orig": "Ange\n「Ugh...」"
+  },
+  {
+   "i": 172,
+   "speaker": "Эмбрио",
+   "text": "「Ах, с такой причёской\n　ты просто ослепительна, Анж.」",
+   "orig": "Embryo\n「Ah, when you do your hair like that,\n　you are truly dazzling, Ange.」"
+  },
+  {
+   "i": 173,
+   "speaker": "Анж",
+   "text": "「Не думала, что снова надену такое платье…」",
+   "orig": "Ange\n「I never imagined I'd wear clothes like this again...」"
+  },
+  {
+   "i": 174,
+   "speaker": "Эмбрио",
+   "text": "「Если не нравится, я прикажу подготовить другое.」",
+   "orig": "Embryo\n「If you don't like it, I can prepare something different.」"
+  },
+  {
+   "i": 175,
+   "speaker": "Анж",
+   "text": "「Говори уже, чего ты хочешь.\n　Убью тебя после этого.」",
+   "orig": "Ange\n「Hurry up and tell me what you want.\n　I'll leave off killing you till after that.」"
+  },
+  {
+   "i": 176,
+   "speaker": "Эмбрио",
+   "text": "「Что ж, буду откровенен.\n　Я хочу взять тебя в жёны.」",
+   "orig": "Embryo\n「Very well then, I shall be frank.\n　I want to take you as my wife.」"
+  },
+  {
+   "i": 177,
+   "speaker": "Анж",
+   "text": "「Значит, это правда…」",
+   "orig": "Ange\n「So it's true...」"
+  },
+  {
+   "i": 178,
+   "speaker": "Эмбрио",
+   "text": "「Ты и правда сильнее, умнее и прекраснее\n　всех, кого я когда-либо встречал…\n　Ты достойна стать богиней нового мира.」",
+   "orig": "Embryo\n「You truly are stronger, smarter, and more\n　beautiful than anyone I've ever met...\n　You are fit to be a goddess of the new world.」"
+  },
+  {
+   "i": 179,
+   "speaker": "Анж",
+   "text": "「И тем же самым ты морочил голову\n　принцессе Марине и представителю Атха?」",
+   "orig": "Ange\n「And is that the same way you tried tricking\n　Princess Marina and Representative Athha?」"
+  },
+  {
+   "i": 180,
+   "speaker": "Эмбрио",
+   "text": "「О, ты ревнуешь?\n　Как мило…」",
+   "orig": "Embryo\n「Oh, are you jealous?\n　How cute...」"
+  },
+  {
+   "i": 181,
+   "speaker": "Анж",
+   "text": "「Да заткнись ты!\n　На свете, знаешь ли, есть такая вещь, как приличия.」",
+   "orig": "Ange\n「Oh, shut up! \n　There is such a thing as courtesy, you know.」"
+  },
+  {
+   "i": 182,
+   "speaker": "Эмбрио",
+   "text": "「Я выше подобных мелочных правил.」",
+   "orig": "Embryo\n「I am beyond such petty rules.」"
+  },
+  {
+   "i": 183,
+   "speaker": "Эмбрио",
+   "text": "「Так вот, насчёт того, чтобы стать моей женой.\n　Я подумал, что мог бы исполнить твою мечту…」",
+   "orig": "Embryo\n「Now about becoming my wife.\n　I was thinking I could make your dream come true...」"
+  },
+  {
+   "i": 184,
+   "speaker": "Анж",
+   "text": "「Какую ещё мечту?」",
+   "orig": "Ange\n「What dream?」"
+  },
+  {
+   "i": 185,
+   "speaker": "Эмбрио",
+   "text": "「Давай уничтожим эту вселенную.」",
+   "orig": "Embryo\n「Let us destroy this universe.」"
+  },
+  {
+   "i": 186,
+   "speaker": "Анж",
+   "text": "「Этот мир, а не мир\n　Салы?!」",
+   "orig": "Ange\n「This world, not\n　Sala's?!」"
+  },
+  {
+   "i": 187,
+   "speaker": "Эмбрио",
+   "text": "「Разумеется, и тот тоже.\n　Я попросту не могу допустить, чтобы вселенная,\n　которую я отверг, продолжала существовать.」",
+   "orig": "Embryo\n「Well of course, that one as well.\n　I simply cannot accept the continued existence\n　of any universe I have denied.」"
+  },
+  {
+   "i": 188,
+   "speaker": "Эмбрио",
+   "text": "「Люди того мира дики и воинственны.\n　В нужде они грызутся за объедки, а насытиться\n　не сумев — приходят в ярость. Звери.」",
+   "orig": "Embryo\n「The people of that world are savage and warlike.\n　If there is want, they fight for scraps, and rage\n　if they don't get their fill. They're beasts.」"
+  },
+  {
+   "i": 189,
+   "speaker": "Эмбрио",
+   "text": "「И когда я наконец добрался до этого мира,\n　я понял: чтобы не пройти тем же путём к гибели,\n　придётся изменить само человечество.」",
+   "orig": "Embryo\n「So when I finally reached this world,\n　I realized that I would have to change humanity\n　in order to avoid retreading the path to disaster.」"
+  },
+  {
+   "i": 190,
+   "speaker": "Анж",
+   "text": "「И ты создал людей, владеющих Маной…」",
+   "orig": "Ange\n「So you made people who can use Mana...」"
+  },
+  {
+   "i": 191,
+   "speaker": "Эмбрио",
+   "text": "「Именно!」",
+   "orig": "Embryo\n「Exactly!」"
+  },
+  {
+   "i": 192,
+   "speaker": "Эмбрио",
+   "text": "「Мудрый народ, связанный прочной сетью знаний,\n　купающийся в свете и изобилии…」",
+   "orig": "Embryo\n「A wise people connected by a strong information network,\n　overflowing with light and resources...」"
+  },
+  {
+   "i": 193,
+   "speaker": "Эмбрио",
+   "text": "「Но на сей раз они погрязли в пороке.\n　У них было всё — и они перестали думать.」",
+   "orig": "Embryo\n「But this time they fell into corruption.\n　They had everything they wanted; they stopped thinking.」"
+  },
+  {
+   "i": 194,
+   "speaker": "Эмбрио",
+   "text": "「Ты ведь и сама это видела?\n　Прогнившие, готовые презирать любого\n　и творить зверства от малейшего толчка.」",
+   "orig": "Embryo\n「You saw it, didn't you?\n　They were rotten, quick to discriminate,\n　and committed atrocities at the slightest push.」"
+  },
+  {
+   "i": 195,
+   "speaker": "Эмбрио",
+   "text": "「Я решил, что виной их порче —\n　влияние исконных обитателей,\n　и устроил так, чтобы они истребили друг друга.」",
+   "orig": "Embryo\n「I believed that their corruption was due\n　to the influence of the original inhabitants, \n　so I arranged for them to wipe each other out.」"
+  },
+  {
+   "i": 196,
+   "speaker": "Эмбрио",
+   "text": "「К счастью, нашлись и помощники.」",
+   "orig": "Embryo\n「Luckily, I had support.」"
+  },
+  {
+   "i": 197,
+   "speaker": "Анж",
+   "text": "「Так вот откуда взялась война…」",
+   "orig": "Ange\n「So that's what led to the war...」"
+  },
+  {
+   "i": 198,
+   "speaker": "Эмбрио",
+   "text": "「Именно.\n　К сожалению, в мой план вмешались,\n　и довести дело до конца я не сумел.」",
+   "orig": "Embryo\n「Exactly.\n　Unfortunately, the plan was interfered with,\n　and I was unable to succeed.」"
+  },
+  {
+   "i": 199,
+   "speaker": "Эмбрио",
+   "text": "「Исконные жители не сделали того, что я хотел,\n　а мои марионетки не избавились от скверны…\n　Так что в итоге мне пришлось судить самому.」",
+   "orig": "Embryo\n「The native population didn't do what I wanted,\n　and my puppets didn't end their depravity...\n　So I eventually had to lay down my own judgment.」"
+  },
+  {
+   "i": 200,
+   "speaker": "Эмбрио",
+   "text": "「И я решил стереть человечество целиком\n　и создать новый, праведный мир.」",
+   "orig": "Embryo\n「Thus I decided to wipe out humanity altogether,\n　and create a new, just world.」"
+  },
+  {
+   "i": 201,
+   "speaker": "Анж",
+   "text": "「И как?\n　Как ты собираешься уничтожить целый мир?」",
+   "orig": "Ange\n「How?\n　How do you destroy an entire world?」"
+  },
+  {
+   "i": 202,
+   "speaker": "Эмбрио",
+   "text": "「Ты и сама знаешь — с помощью песни.」",
+   "orig": "Embryo\n「You know already, you use the song.」"
+  },
+  {
+   "i": 203,
+   "speaker": "Анж",
+   "text": "「Что? Ты про мамину песню «Eternal Story»?」",
+   "orig": "Ange\n「What? You mean my mother's \"Eternal Story\" song?」"
+  },
+  {
+   "i": 204,
+   "speaker": "Эмбрио",
+   "text": "「Теория объединения…\n　Сами законы, что правят вселенной,\n　облечённые в мелодию.」",
+   "orig": "Embryo\n「Unification Theory...\n　The very rules that govern the universe\n　in the form of a melody.」"
+  },
+  {
+   "i": 205,
+   "speaker": "Эмбрио",
+   "text": "「Я усилю эту мелодию через Рагна-Мейл\n　и Геттер-лучами, которыми повелевает Аура,\n　солью миры в одну чистую Землю.」",
+   "orig": "Embryo\n「I will amplify the tune through the Ragna-Mail\n　and use the Getter Rays that Aura governs to\n　unite the worlds and make one, pure Earth.」"
+  },
+  {
+   "i": 206,
+   "speaker": "Анж",
+   "text": "「Сольёшь миры… Ты что, и мир\n　Вселенского века сюда притянешь?!」",
+   "orig": "Ange\n「Unite the worlds... Are you going to\n　bring the world of the Universal Century into this, too?!」"
+  },
+  {
+   "i": 207,
+   "speaker": "Эмбрио",
+   "text": "「Что скажешь, Анж?\n　Поможешь мне?」",
+   "orig": "Embryo\n「What do you think, Ange?\n　Will you help me?」"
+  },
+  {
+   "i": 208,
+   "speaker": "Анж",
+   "text": "「Новый мир…\n　Да, это правда: мерзость этого мира\n　вызывает у меня отвращение.」",
+   "orig": "Ange\n「A new world...\n　It's true, I am disgusted with the \n　corruption of this world.」"
+  },
+  {
+   "i": 209,
+   "speaker": "Анж",
+   "text": "「И всё же!\n　Я никогда не соглашусь на план,\n　в котором гибнет ещё одна вселенная!」",
+   "orig": "Ange\n「But still!\n　I could never agree with a plan\n　that includes destroying another universe!」"
+  },
+  {
+   "i": 210,
+   "speaker": "Анж",
+   "text": "「И лучше я умру,\n　чем стану твоей женой.」",
+   "orig": "Ange\n「And I would rather die than\n　become your wife.」"
+  },
+  {
+   "i": 211,
+   "speaker": "Анж",
+   "text": "「А теперь тебе пора умереть,\n　Настройщик!」",
+   "orig": "Ange\n「Now it's time for you to die,\n　Tuner!」"
+  },
+  {
+   "i": 212,
+   "speaker": "Эмбрио",
+   "text": "「Так ты прятала столовый нож…」",
+   "orig": "Embryo\n「So you were hiding your dinner knife...」"
+  },
+  {
+   "i": 213,
+   "speaker": "Анж",
+   "text": "「За Момоку и Таска!\n　Узри правду, Эмбрио!」",
+   "orig": "Ange\n「For Momoka and Tusk!\n　See the truth, Embryo!」"
+  },
+  {
+   "i": 214,
+   "speaker": "Эмбрио",
+   "text": "「Какой пыл!\n　Тем лучше для будущей жены!」",
+   "orig": "Embryo\n「How spirited you are!\n　All the better for a wife!」"
+  },
+  {
+   "i": 215,
+   "speaker": "Эмбрио",
+   "text": "「Но…」",
+   "orig": "Embryo\n「But...」"
+  },
+  {
+   "i": 216,
+   "speaker": "Анж",
+   "text": "「Что… ты… сделал?!」",
+   "orig": "Ange\n「What...have you...done?!」"
+  },
+  {
+   "i": 217,
+   "speaker": "Эмбрио",
+   "text": "「Я усилил твою чувствительность к боли в 50 раз.\n　Даже прикосновение ткани станет пыткой.」",
+   "orig": "Embryo\n「I increased your sense of pain 50 times over. Even the \n　touch of clothing will cause unbearable agony.」"
+  },
+  {
+   "i": 218,
+   "speaker": "Анж",
+   "text": "「Кх…」",
+   "orig": "Ange\n「Gah...」"
+  },
+  {
+   "i": 219,
+   "speaker": "Эмбрио",
+   "text": "「А так?」",
+   "orig": "Embryo\n「And how about now?」"
+  },
+  {
+   "i": 220,
+   "speaker": "Анж",
+   "text": "「Ах！」",
+   "orig": "Ange\n「Ah！」"
+  },
+  {
+   "i": 221,
+   "speaker": "Эмбрио",
+   "text": "「Я обратил твою боль в наслаждение.」",
+   "orig": "Embryo\n「I have turned your sense of pain into pleasure.」"
+  },
+  {
+   "i": 222,
+   "speaker": "Анж",
+   "text": "「О-о…\n　А… ах…」",
+   "orig": "Ange\n「Ooh...\n　Uh...uhn...」"
+  },
+  {
+   "i": 223,
+   "speaker": "Эмбрио",
+   "text": "「Как прекрасно, Анж…\n　Дай услышать твой голос! Громче!」",
+   "orig": "Embryo\n「How beautiful, Ange...\n　Let me hear your voice! Louder!」"
+  },
+  {
+   "i": 224,
+   "speaker": "Анж",
+   "text": "「К-кто… как ты… ах!」",
+   "orig": "Ange\n「Wh-who...how could...oh!」"
+  },
+  {
+   "i": 225,
+   "speaker": "Эмбрио",
+   "text": "「Ах, Анж…\n　Как же легко тобой управлять.\n　Что ж, прибавим чувствительности!」",
+   "orig": "Embryo\n「Oh Ange...\n　How easy it is to manipulate you.\n　Well, let's turn up the sensitivity a bit!」"
+  },
+  {
+   "i": 226,
+   "speaker": "Анж",
+   "text": "「Ах!\n　М-м-м…」",
+   "orig": "Ange\n「Ah!\n　Nnngg...」"
+  },
+  {
+   "i": 227,
+   "speaker": "Эмбрио",
+   "text": "「Как прекрасно страдание…\n　Гнёт и отчаяние и впрямь являют истинную красоту!\n　Ну что, теперь ты готова слушаться?」",
+   "orig": "Embryo\n「How beautiful is suffering...\n　Oppression and despair do reveal true beauty!\n　Now, I suppose you're about ready to behave?」"
+  },
+  {
+   "i": 228,
+   "speaker": "Анж",
+   "text": "「Да, Эмбрио, госпо…」",
+   "orig": "Ange\n「Yes, Embryo, mas—...」"
+  },
+  {
+   "i": 229,
+   "speaker": "Анж",
+   "text": "「А-а!\n　Мразь!」",
+   "orig": "Ange\n「Gyah!\n　You bastard!」"
+  },
+  {
+   "i": 230,
+   "speaker": "Эмбрио",
+   "text": "「Невероятно, ты всё ещё сопротивляешься?!」",
+   "orig": "Embryo\n「It's unbelievable, you're still resisting?!」"
+  },
+  {
+   "i": 231,
+   "speaker": "Эмбрио",
+   "text": "「Я бы ещё полюбовался, как ты балансируешь\n　на грани отчаяния и блаженства,\n　но у меня встреча в другом измерении.」",
+   "orig": "Embryo\n「I wanted to watch you waver on the \n　border of despair and joy a bit longer, \n　but I have an appointment in another dimension.」"
+  },
+  {
+   "i": 232,
+   "speaker": "Эмбрио",
+   "text": "「Ждать пришлось не одно долгое столетие,\n　так что прошу меня извинить…」",
+   "orig": "Embryo\n「It's been many a long century, so\n　so you'll have to excuse me...」"
+  },
+  {
+   "i": 233,
+   "speaker": "Анж",
+   "text": "「П-постой…」",
+   "orig": "Ange\n「W...wait...」"
+  },
+  {
+   "i": 234,
+   "speaker": "Эмбрио",
+   "text": "「Не бойся, через час или около того\n　твои чувства придут в норму.」",
+   "orig": "Embryo\n「Fear not, your senses should\n　settle down in an hour or so.」"
+  },
+  {
+   "i": 235,
+   "speaker": "Эмбрио",
+   "text": "「Правда, выдержит ли столько\n　твой рассудок — понятия не имею…」",
+   "orig": "Embryo\n「Of course, I have no idea if\n　your sanity will hold out that long...」"
+  },
+  {
+   "i": 236,
+   "speaker": "Анж",
+   "text": "「Эмбрио!」",
+   "orig": "Ange\n「Embryo!」"
+  },
+  {
+   "i": 237,
+   "speaker": "Анж",
+   "text": "「Не-е-ет!!\n　Ж-жжёт! Как же жжёт!」",
+   "orig": "Ange\n「Nooo!!\n　H-hot! It's so hot!」"
+  },
+  {
+   "i": 238,
+   "speaker": "Анж",
+   "text": "「Помоги… мне…\n　Таск…」",
+   "orig": "Ange\n「Help...me...\n　Tusk...」"
+  },
+  {
+   "i": 239,
+   "speaker": "Канамэ",
+   "text": "「Ну надо же…」",
+   "orig": "Kaname\n「Oh my...」"
+  },
+  {
+   "i": 240,
+   "speaker": "Анж",
+   "text": "「К-Канамэ…」",
+   "orig": "Ange\n「K-Kaname...」"
+  },
+  {
+   "i": 241,
+   "speaker": "Салия",
+   "text": "「Какое непотребство.」",
+   "orig": "Salia\n「How unseemly.」"
+  },
+  {
+   "i": 242,
+   "speaker": "Анж",
+   "text": "「Салия…」",
+   "orig": "Ange\n「Salia...」"
+  },
+  {
+   "i": 243,
+   "speaker": "Салия",
+   "text": "「Вот что бывает, когда перечишь\n　господину Эмбрио, дурочка.」",
+   "orig": "Salia\n「That's what you get when you try to\n　resist Lord Embryo, you fool.」"
+  },
+  {
+   "i": 244,
+   "speaker": "Анж",
+   "text": "「Э-это ты… дура!\n　Запасть на такое животное…」",
+   "orig": "Ange\n「Y-you're the...fool!\n　To fall for that animal...」"
+  },
+  {
+   "i": 245,
+   "speaker": "Салия",
+   "text": "「Господин Эмбрио — всё, что у меня осталось…」",
+   "orig": "Salia\n「Lord Embryo is all I have left...」"
+  },
+  {
+   "i": 246,
+   "speaker": "Салия",
+   "text": "「А ты! Ты не такая, как я!\n　У тебя есть «Вилькисс», друзья, место,\n　где тебя ждут… у тебя есть всё!」",
+   "orig": "Salia\n「But you! You're not like me!\n　You still have Villkiss, friends, and a\n　place you belong...everything is waiting for you!」"
+  },
+  {
+   "i": 247,
+   "speaker": "Салия",
+   "text": "「Тебе незачем меняться, как изменилась я!\n　И такой женщине, как ты,\n　я господина Эмбрио не отдам!」",
+   "orig": "Salia\n「You don't need to change like I did!\n　I'll never let a woman like you have\n　Lord Embryo!」"
+  },
+  {
+   "i": 248,
+   "speaker": "Анж",
+   "text": "「Салия?」",
+   "orig": "Ange\n「Salia?」"
+  },
+  {
+   "i": 249,
+   "speaker": "Канамэ",
+   "text": "「Поторопись.」",
+   "orig": "Kaname\n「Hurry up.」"
+  },
+  {
+   "i": 250,
+   "speaker": "Салия",
+   "text": "「Знаю!」",
+   "orig": "Salia\n「I know!」"
+  },
+  {
+   "i": 251,
+   "speaker": "Салия",
+   "text": "「Анж!\n　Быстрее, уходи, пока он не вернулся.」",
+   "orig": "Salia\n「Ange!\n　Hurry, get out of here before he comes back.」"
+  },
+  {
+   "i": 252,
+   "speaker": "Анж",
+   "text": "「Что?」",
+   "orig": "Ange\n「What?」"
+  },
+  {
+   "i": 253,
+   "speaker": "Салия",
+   "text": "「Будешь упираться — он сломает тебе разум.\n　Ты этого хочешь?」",
+   "orig": "Salia\n「If you keep resisting, he'll destroy your mind.\n　Do you want that?」"
+  },
+  {
+   "i": 254,
+   "speaker": "Анж",
+   "text": "「Ты… отпускаешь меня?」",
+   "orig": "Ange\n「You're...letting me go?」"
+  },
+  {
+   "i": 255,
+   "speaker": "Салия",
+   "text": "「Это Канамэ меня попросила…」",
+   "orig": "Salia\n「Because Kaname asked me to...」"
+  },
+  {
+   "i": 256,
+   "speaker": "Канамэ",
+   "text": "「Хм.」",
+   "orig": "Kaname\n「Hmph.」"
+  },
+  {
+   "i": 257,
+   "speaker": "Салия",
+   "text": "「И… я не хочу видеть тебя такой.」",
+   "orig": "Salia\n「And...I don't want to see you like this.」"
+  },
+  {
+   "i": 258,
+   "speaker": "Анж",
+   "text": "「Салия…」",
+   "orig": "Ange\n「Salia...」"
+  },
+  {
+   "i": 262,
+   "speaker": "Анж",
+   "text": "（Ах, Салия…\n　Что же ты творишь?）",
+   "orig": "Ange\n（Oh Salia...\n　What are you doing?）"
+  },
+  {
+   "i": 263,
+   "speaker": "Канамэ",
+   "text": "「Надо спешить.」",
+   "orig": "Kaname\n「We must hurry.」"
+  },
+  {
+   "i": 264,
+   "speaker": "Анж",
+   "text": "「Слушай… ты точно Канамэ?」",
+   "orig": "Ange\n「Hey...are you really Kaname?」"
+  },
+  {
+   "i": 265,
+   "speaker": "Канамэ",
+   "text": "「Разумеется.\n　Не задавай глупых вопросов.」",
+   "orig": "Kaname\n「Of course I am.\n　Don't ask such silly questions.」"
+  },
+  {
+   "i": 266,
+   "speaker": "Анж",
+   "text": "「Почему ты мне помогаешь?」",
+   "orig": "Ange\n「Why are you helping me?」"
+  },
+  {
+   "i": 267,
+   "speaker": "Канамэ",
+   "text": "「Не знаю…\n　Просто почувствовала, что должна.」",
+   "orig": "Kaname\n「I don't know...\n　I just thought I had to.」"
+  },
+  {
+   "i": 268,
+   "speaker": "Анж",
+   "text": "（Та, что передо мной, — не та Канамэ, что я знала…\n　И всё же это не кто-то совсем чужой…）",
+   "orig": "Ange\n（This person in front of me isn't the Kaname I know...\n　But, she's also not entirely someone else...）"
+  },
+  {
+   "i": 269,
+   "speaker": "Анж",
+   "text": "（Надо что-то делать…）",
+   "orig": "Ange\n（I've got to do something...）"
+  },
+  {
+   "i": 270,
+   "speaker": "Леонард",
+   "text": "「Не слишком ли это шалость?」",
+   "orig": "Leonard\n「Is this just a bit too mischievous?」"
+  },
+  {
+   "i": 271,
+   "speaker": "Канамэ",
+   "text": "「Леонард…」",
+   "orig": "Kaname\n「Leonard...」"
+  },
+  {
+   "i": 272,
+   "speaker": "Анж",
+   "text": "「Тот самый тип из «Амальгама»?」",
+   "orig": "Ange\n「The guy with Amalgam?」"
+  },
+  {
+   "i": 273,
+   "speaker": "Леонард",
+   "text": "「Так ты и есть новая невеста Эмбрио…\n　Хм-м… не в моём вкусе.」",
+   "orig": "Leonard\n「You must be Embryo's new bride-to-be...\n　Hmmm...not my type.」"
+  },
+  {
+   "i": 274,
+   "speaker": "Анж",
+   "text": "「Вот и прекрасно.\n　Я тоже не в восторге от хлыщей, которые\n　мнят себя пупом земли.」",
+   "orig": "Ange\n「That's wonderful.\n　I'm not really into jerks who think\n　they're the world's greatest, either.」"
+  },
+  {
+   "i": 275,
+   "speaker": "Леонард",
+   "text": "「Ты мне совершенно безразлична.\n　Собралась бежать — так беги поскорее.」",
+   "orig": "Leonard\n「I couldn't care less about you.\n　If you're going to escape, hurry up and do it.」"
+  },
+  {
+   "i": 276,
+   "speaker": "Анж",
+   "text": "「Ты меня отпустишь?」",
+   "orig": "Ange\n「You'd let me go?」"
+  },
+  {
+   "i": 277,
+   "speaker": "Леонард",
+   "text": "「Я не настолько предан Эмбрио.」",
+   "orig": "Leonard\n「I don't have that much allegiance to Embryo.」"
+  },
+  {
+   "i": 278,
+   "speaker": "Леонард",
+   "text": "「Но подставлять её из-за тебя я не дам.\n　Так что поторопись…」",
+   "orig": "Leonard\n「But I won't let you get her in trouble.\n　Hurry up now...」"
+  },
+  {
+   "i": 279,
+   "speaker": "Соскэ",
+   "text": "「Тидори!」",
+   "orig": "Sousuke\n「Chidori!」"
+  },
+  {
+   "i": 280,
+   "speaker": "Канамэ",
+   "text": "「Соскэ!」",
+   "orig": "Kaname\n「Sousuke!」"
+  },
+  {
+   "i": 281,
+   "speaker": "Леонард",
+   "text": "「Соскэ Сагара…\n　Значит, прорвался через отряд Калинина.」",
+   "orig": "Leonard\n「Sousuke Sagara...\n　You broke through Kalinin's forces, I see.」"
+  },
+  {
+   "i": 282,
+   "speaker": "Соскэ",
+   "text": "「Возможно, это мой последний шанс\n　спасти Тидори, так что\n　остановить меня не удастся никому.」",
+   "orig": "Sousuke\n「Well, this might be my last chance to \n　to save Chidori, so \n　I won't let anything stop me.」"
+  },
+  {
+   "i": 283,
+   "speaker": "Канамэ",
+   "text": "「…」",
+   "orig": "Kaname\n「...」"
+  },
+  {
+   "i": 284,
+   "speaker": "Соскэ",
+   "text": "「Тидори!\n　Я их задержу, а ты уводи Анж отсюда!」",
+   "orig": "Sousuke\n「Chidori!\n　Leave this to me, you take Ange out of here!」"
+  },
+  {
+   "i": 285,
+   "speaker": "Канамэ",
+   "text": "「Я не могу…」",
+   "orig": "Kaname\n「I can't do that...」"
+  },
+  {
+   "i": 286,
+   "speaker": "Соскэ",
+   "text": "「Что?!」",
+   "orig": "Sousuke\n「What?!」"
+  },
+  {
+   "i": 287,
+   "speaker": "Канамэ",
+   "text": "「У нас с Леонардом есть дело,\n　которое мы ещё не закончили.」",
+   "orig": "Kaname\n「There is something that Leonard\n　and I still have to do.」"
+  },
+  {
+   "i": 288,
+   "speaker": "Соскэ",
+   "text": "「Тидори… значит, это правда…」",
+   "orig": "Sousuke\n「Chidori...it's true, isn't it...」"
+  },
+  {
+   "i": 289,
+   "speaker": "Анж",
+   "text": "「Не сдавайся, Соскэ!\n　Канамэ всё ещё где-то внутри!」",
+   "orig": "Ange\n「Don't give up, Sousuke!\n　Kaname is still in there somewhere!」"
+  },
+  {
+   "i": 290,
+   "speaker": "Соскэ",
+   "text": "「Если бы только суметь её разбудить…」",
+   "orig": "Sousuke\n「If I can just wake her up somehow...」"
+  },
+  {
+   "i": 291,
+   "speaker": "Леонард",
+   "text": "「Это невозможно, Соскэ.\n　Её сознание уже…」",
+   "orig": "Leonard\n「It's impossible, Sousuke.\n　Her consciousness is already—」"
+  },
+  {
+   "i": 292,
+   "speaker": "Соскэ",
+   "text": "「Скажу тебе кое-что, Леонард.\n　Последними на поле боя остаются\n　те бойцы, которые не сдались!」",
+   "orig": "Sousuke\n「Let me tell you something, Leonard.\n　The last to stand on the battlefield\n　are the warriors who never gave up!」"
+  },
+  {
+   "i": 293,
+   "speaker": "Канамэ",
+   "text": "「Хм.」",
+   "orig": "Kaname\n「Hmph.」"
+  },
+  {
+   "i": 294,
+   "speaker": "Соскэ",
+   "text": "「Очнись, Тидори!\n　Куда делась твоя смелость?!」",
+   "orig": "Sousuke\n「Wake up, Chidori!\n　What happened to your courage?!」"
+  },
+  {
+   "i": 295,
+   "speaker": "Соскэ",
+   "text": "「Ты не какая-то слабая девчонка, чтобы\n　дать призраку поглотить себя!」",
+   "orig": "Sousuke\n「You aren't some frail girl, who'd \n　let herself be consumed by a ghost!」"
+  },
+  {
+   "i": 296,
+   "speaker": "Соскэ",
+   "text": "「А если это так, то я полный дурак.\n　Незачем было рисковать жизнью\n　и идти за тобой сюда.」",
+   "orig": "Sousuke\n「If that's true, I've been a total fool.\n　I never should have risked my life\n　coming after you like this.」"
+  },
+  {
+   "i": 297,
+   "speaker": "Канамэ",
+   "text": "「Пойми, Соскэ.\n　То, что я с Леонардом, вовсе не…」",
+   "orig": "Kaname\n「Please understand, Sousuke.\n　Me being with Leonard has nothing to—」"
+  },
+  {
+   "i": 298,
+   "speaker": "Соскэ",
+   "text": "「Всё это неважно!\n　Я хочу только одного — быть рядом с тобой!\n　И больше ничего…」",
+   "orig": "Sousuke\n「None of that matters!\n　What I want is to be with you!\n　That's all...」"
+  },
+  {
+   "i": 299,
+   "speaker": "Соскэ",
+   "text": "「Помнишь старшую школу Дзиндай?\n　Вот где наше место.」",
+   "orig": "Sousuke\n「Remember Jindai High School?\n　That's where we should be.」"
+  },
+  {
+   "i": 300,
+   "speaker": "Канамэ",
+   "text": "「Старшую школу… Дзиндай?」",
+   "orig": "Kaname\n「Jindai...High School?」"
+  },
+  {
+   "i": 301,
+   "speaker": "Соскэ",
+   "text": "「Именно!\n　Мы можем туда вернуться!」",
+   "orig": "Sousuke\n「That's right!\n　We can go back!」"
+  },
+  {
+   "i": 302,
+   "speaker": "Канамэ",
+   "text": "「Школа Дзиндай… мои подруги…\n　Соскэ?」",
+   "orig": "Kaname\n「Jindai High School...my friends... \n　Sousuke?」"
+  },
+  {
+   "i": 303,
+   "speaker": "Канамэ",
+   "text": "「Соскэ!」",
+   "orig": "Kaname\n「Sousuke!」"
+  },
+  {
+   "i": 304,
+   "speaker": "Соскэ",
+   "text": "「Тидори!」",
+   "orig": "Sousuke\n「Chidori!」"
+  },
+  {
+   "i": 305,
+   "speaker": "Леонард",
+   "text": "「Аластор!\n　Заткни его!」",
+   "orig": "Leonard\n「Alastor!\n　Shut him up!」"
+  },
+  {
+   "i": 306,
+   "speaker": "Аластор",
+   "text": "「…」",
+   "orig": "Alastor\n「...」"
+  },
+  {
+   "i": 307,
+   "speaker": "Соскэ",
+   "text": "「Телохранители, значит?\n　Что ж, у меня тоже есть подкрепление!」",
+   "orig": "Sousuke\n「Bodyguards, huh?\n　Well, I've got reinforcements too!」"
+  },
+  {
+   "i": 308,
+   "speaker": "？？？",
+   "text": "「Пригнись, Анж!」",
+   "orig": "？？？\n「Get down, Ange!」"
+  },
+  {
+   "i": 309,
+   "speaker": "Леонард",
+   "text": "「Тьфу!\n　Даже на Аластора положиться нельзя!」",
+   "orig": "Leonard\n「Gah!\n　I can't even rely on Alastor!」"
+  },
+  {
+   "i": 310,
+   "speaker": "？？？",
+   "text": "「Партизанская война — мой конёк!」",
+   "orig": "？？？\n「Guerilla warfare is my specialty!」"
+  },
+  {
+   "i": 311,
+   "speaker": "Анж",
+   "text": "「Не… может быть…」",
+   "orig": "Ange\n「It...can't be...」"
+  },
+  {
+   "i": 312,
+   "speaker": "Таск",
+   "text": "「Привет, Анж…\n　Новое платье и причёска тебе очень идут!」",
+   "orig": "Tusk\n「Hey Ange...\n　The new clothes and hair really suit you!」"
+  },
+  {
+   "i": 313,
+   "speaker": "Анж",
+   "text": "「Таск!\n　Ты же должен был погибнуть!」",
+   "orig": "Ange\n「Tusk!\n　You're supposed to be dead!」"
+  },
+  {
+   "i": 314,
+   "speaker": "Таск",
+   "text": "「Рыцарь Анж умереть не может!」",
+   "orig": "Tusk\n「Ange's Knight can never die!」"
+  },
+  {
+   "i": 315,
+   "speaker": "Анж",
+   "text": "「Ох, Таск!」",
+   "orig": "Ange\n「Oh, Tusk!」"
+  },
+  {
+   "i": 316,
+   "speaker": "Момока",
+   "text": "「Все сюда, здесь можно уйти!\n　Я проведу вас по дворцу!」",
+   "orig": "Momoka\n「Everyone, we can escape through here!\n　I can guide you through the palace!」"
+  },
+  {
+   "i": 317,
+   "speaker": "Анж",
+   "text": "「Момока!\n　Это правда ты!」",
+   "orig": "Ange\n「Momoka!\n　It really is you!」"
+  },
+  {
+   "i": 318,
+   "speaker": "Момока",
+   "text": "「Да, госпожа Анжелиза.\n　Старшая горничная Момока\n　с опозданием прибыла на службу.」",
+   "orig": "Momoka\n「Yes, Lady Angelise.\n　Head Maid Momoka, belatedly \n　reporting for duty.」"
+  },
+  {
+   "i": 319,
+   "speaker": "Анж",
+   "text": "「Момока!\n　Как же я рада, что ты жива!」",
+   "orig": "Ange\n「Momoka!\n　I'm so glad you're OK!」"
+  },
+  {
+   "i": 320,
+   "speaker": "Момока",
+   "text": "「Правда, мне ещё немножко больно…」",
+   "orig": "Momoka\n「I'm still in a little pain...」"
+  },
+  {
+   "i": 321,
+   "speaker": "Соскэ",
+   "text": "「Уходим отсюда!\n　Тидори, бежать сможешь?」",
+   "orig": "Sousuke\n「Let's get out of here!\n　Chidori, can you run?」"
+  },
+  {
+   "i": 322,
+   "speaker": "Канамэ",
+   "text": "「Да!」",
+   "orig": "Kaname\n「Yeah!」"
+  },
+  {
+   "i": 323,
+   "speaker": "Леонард",
+   "text": "「Стой!」",
+   "orig": "Leonard\n「Wait!」"
+  },
+  {
+   "i": 324,
+   "speaker": "Канамэ",
+   "text": "「Прости, Леонард…\n　Я ухожу.」",
+   "orig": "Kaname\n「Sorry, Leonard...\n　I'm getting out of here.」"
+  },
+  {
+   "i": 325,
+   "speaker": "Соскэ",
+   "text": "「Леонард Тестаросса!\n　С тобой мы разберёмся позже.」",
+   "orig": "Sousuke\n「Leonard Testarossa!\n　You and I will settle this later.」"
+  },
+  {
+   "i": 326,
+   "speaker": "Леонард",
+   "text": "「Тц.」",
+   "orig": "Leonard\n「Ugh.」"
+  },
+  {
+   "i": 327,
+   "speaker": "Леонард",
+   "text": "「Надо же.\n　Кто бы поверил, что словам Сагары хватит силы\n　вот так оттеснить Софию…」",
+   "orig": "Leonard\n「Well, well.\n　Who'd have believed Sagara's words had the power\n　to push Sophia aside like that...」"
+  },
+  {
+   "i": 328,
+   "speaker": "Калинин",
+   "text": "「Прошу прощения…\n　Если бы я сумел его остановить…」",
+   "orig": "Kalinin\n「I'm sorry...\n　If I hadn't failed at stopping him...」"
+  },
+  {
+   "i": 329,
+   "speaker": "Леонард",
+   "text": "「Не беспокойся.\n　Мы вернём её в любой момент.」",
+   "orig": "Leonard\n「Don't worry yourself.\n　We can get her back any time.」"
+  },
+  {
+   "i": 330,
+   "speaker": "Леонард",
+   "text": "「Как только она осознает, какие ужасные вещи\n　натворила, всё будет кончено.」",
+   "orig": "Leonard\n「Once she understands the terrible things \n　she's done, it'll all be over.」"
+  }
+ ]
+}
